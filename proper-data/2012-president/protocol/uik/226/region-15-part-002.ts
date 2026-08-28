@@ -38,11 +38,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 15,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 88
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 15,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198923&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198923&type=227",
@@ -88,11 +88,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 320,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 1038
+      "gas:candidate-vibid:100100032152680": 66,
+      "gas:candidate-vibid:100100032159240": 320,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 1038
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -138,11 +138,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 52,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 284
+      "gas:candidate-vibid:100100032152680": 12,
+      "gas:candidate-vibid:100100032159240": 52,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -188,11 +188,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 213,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 562
+      "gas:candidate-vibid:100100032152680": 35,
+      "gas:candidate-vibid:100100032159240": 213,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -238,11 +238,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 143,
-      "Миронов Сергей Михайлович": 16,
-      "Прохоров Михаил Дмитриевич": 42,
-      "Путин Владимир Владимирович": 1125
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 143,
+      "gas:candidate-vibid:100100032143255": 16,
+      "gas:candidate-vibid:100100032152563": 42,
+      "gas:candidate-vibid:100100032111402": 1125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -288,11 +288,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 281,
-      "Миронов Сергей Михайлович": 34,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 886
+      "gas:candidate-vibid:100100032152680": 57,
+      "gas:candidate-vibid:100100032159240": 281,
+      "gas:candidate-vibid:100100032143255": 34,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 886
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -338,11 +338,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 282,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 903
+      "gas:candidate-vibid:100100032152680": 58,
+      "gas:candidate-vibid:100100032159240": 282,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 903
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -388,11 +388,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 575,
-      "Миронов Сергей Михайлович": 69,
-      "Прохоров Михаил Дмитриевич": 21,
-      "Путин Владимир Владимирович": 1789
+      "gas:candidate-vibid:100100032152680": 116,
+      "gas:candidate-vibid:100100032159240": 575,
+      "gas:candidate-vibid:100100032143255": 69,
+      "gas:candidate-vibid:100100032152563": 21,
+      "gas:candidate-vibid:100100032111402": 1789
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -438,11 +438,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 100,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 25,
-      "Путин Владимир Владимирович": 656
+      "gas:candidate-vibid:100100032152680": 6,
+      "gas:candidate-vibid:100100032159240": 100,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 25,
+      "gas:candidate-vibid:100100032111402": 656
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -488,11 +488,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 202,
-      "Миронов Сергей Михайлович": 13,
-      "Прохоров Михаил Дмитриевич": 44,
-      "Путин Владимир Владимирович": 478
+      "gas:candidate-vibid:100100032152680": 16,
+      "gas:candidate-vibid:100100032159240": 202,
+      "gas:candidate-vibid:100100032143255": 13,
+      "gas:candidate-vibid:100100032152563": 44,
+      "gas:candidate-vibid:100100032111402": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -538,11 +538,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 172,
-      "Миронов Сергей Михайлович": 19,
-      "Прохоров Михаил Дмитриевич": 48,
-      "Путин Владимир Владимирович": 722
+      "gas:candidate-vibid:100100032152680": 36,
+      "gas:candidate-vibid:100100032159240": 172,
+      "gas:candidate-vibid:100100032143255": 19,
+      "gas:candidate-vibid:100100032152563": 48,
+      "gas:candidate-vibid:100100032111402": 722
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -588,11 +588,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 266,
-      "Миронов Сергей Михайлович": 33,
-      "Прохоров Михаил Дмитриевич": 10,
-      "Путин Владимир Владимирович": 842
+      "gas:candidate-vibid:100100032152680": 56,
+      "gas:candidate-vibid:100100032159240": 266,
+      "gas:candidate-vibid:100100032143255": 33,
+      "gas:candidate-vibid:100100032152563": 10,
+      "gas:candidate-vibid:100100032111402": 842
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -638,11 +638,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 302,
-      "Миронов Сергей Михайлович": 37,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 964
+      "gas:candidate-vibid:100100032152680": 60,
+      "gas:candidate-vibid:100100032159240": 302,
+      "gas:candidate-vibid:100100032143255": 37,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 964
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -688,11 +688,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 29,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 35,
-      "Путин Владимир Владимирович": 252
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 29,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 35,
+      "gas:candidate-vibid:100100032111402": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -738,11 +738,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 396,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 1092
+      "gas:candidate-vibid:100100032152680": 79,
+      "gas:candidate-vibid:100100032159240": 396,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 1092
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -788,11 +788,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 210,
-      "Миронов Сергей Михайлович": 27,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 712
+      "gas:candidate-vibid:100100032152680": 45,
+      "gas:candidate-vibid:100100032159240": 210,
+      "gas:candidate-vibid:100100032143255": 27,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 712
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -838,11 +838,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 156,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 36,
-      "Путин Владимир Владимирович": 450
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 156,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 36,
+      "gas:candidate-vibid:100100032111402": 450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -888,11 +888,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 98,
-      "Зюганов Геннадий Андреевич": 471,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 17,
-      "Путин Владимир Владимирович": 1542
+      "gas:candidate-vibid:100100032152680": 98,
+      "gas:candidate-vibid:100100032159240": 471,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 17,
+      "gas:candidate-vibid:100100032111402": 1542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -938,11 +938,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 165,
-      "Миронов Сергей Михайлович": 19,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 484
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 165,
+      "gas:candidate-vibid:100100032143255": 19,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 484
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -988,11 +988,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 15,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 83
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 15,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1038,11 +1038,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 129
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 5,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1088,11 +1088,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 176,
-      "Миронов Сергей Михайлович": 22,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 559
+      "gas:candidate-vibid:100100032152680": 36,
+      "gas:candidate-vibid:100100032159240": 176,
+      "gas:candidate-vibid:100100032143255": 22,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 559
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1138,11 +1138,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 255,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 810
+      "gas:candidate-vibid:100100032152680": 52,
+      "gas:candidate-vibid:100100032159240": 255,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 810
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1188,11 +1188,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 448,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 1425
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 448,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 1425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1238,11 +1238,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 151,
-      "Зюганов Геннадий Андреевич": 285,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 100,
-      "Путин Владимир Владимирович": 1673
+      "gas:candidate-vibid:100100032152680": 151,
+      "gas:candidate-vibid:100100032159240": 285,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 100,
+      "gas:candidate-vibid:100100032111402": 1673
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1288,11 +1288,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 184,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 571
+      "gas:candidate-vibid:100100032152680": 28,
+      "gas:candidate-vibid:100100032159240": 184,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 571
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1338,11 +1338,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 107,
-      "Зюганов Геннадий Андреевич": 413,
-      "Миронов Сергей Михайлович": 64,
-      "Прохоров Михаил Дмитриевич": 219,
-      "Путин Владимир Владимирович": 1576
+      "gas:candidate-vibid:100100032152680": 107,
+      "gas:candidate-vibid:100100032159240": 413,
+      "gas:candidate-vibid:100100032143255": 64,
+      "gas:candidate-vibid:100100032152563": 219,
+      "gas:candidate-vibid:100100032111402": 1576
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1388,11 +1388,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 338,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 1032
+      "gas:candidate-vibid:100100032152680": 67,
+      "gas:candidate-vibid:100100032159240": 338,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 1032
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1438,11 +1438,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 115,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 50,
-      "Путин Владимир Владимирович": 427
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 115,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 50,
+      "gas:candidate-vibid:100100032111402": 427
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1488,11 +1488,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 7,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 42
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 7,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1538,11 +1538,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 427,
-      "Миронов Сергей Михайлович": 52,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 1359
+      "gas:candidate-vibid:100100032152680": 87,
+      "gas:candidate-vibid:100100032159240": 427,
+      "gas:candidate-vibid:100100032143255": 52,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 1359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1588,11 +1588,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 97,
-      "Зюганов Геннадий Андреевич": 395,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 17,
-      "Путин Владимир Владимирович": 1592
+      "gas:candidate-vibid:100100032152680": 97,
+      "gas:candidate-vibid:100100032159240": 395,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 17,
+      "gas:candidate-vibid:100100032111402": 1592
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1638,11 +1638,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 98,
-      "Зюганов Геннадий Андреевич": 460,
-      "Миронов Сергей Михайлович": 59,
-      "Прохоров Михаил Дмитриевич": 18,
-      "Путин Владимир Владимирович": 1548
+      "gas:candidate-vibid:100100032152680": 98,
+      "gas:candidate-vibid:100100032159240": 460,
+      "gas:candidate-vibid:100100032143255": 59,
+      "gas:candidate-vibid:100100032152563": 18,
+      "gas:candidate-vibid:100100032111402": 1548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1688,11 +1688,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 118,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 60,
-      "Путин Владимир Владимирович": 617
+      "gas:candidate-vibid:100100032152680": 14,
+      "gas:candidate-vibid:100100032159240": 118,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 60,
+      "gas:candidate-vibid:100100032111402": 617
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1738,11 +1738,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 104,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 41,
-      "Путин Владимир Владимирович": 431
+      "gas:candidate-vibid:100100032152680": 14,
+      "gas:candidate-vibid:100100032159240": 104,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 41,
+      "gas:candidate-vibid:100100032111402": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1788,11 +1788,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 511,
-      "Миронов Сергей Михайлович": 67,
-      "Прохоров Михаил Дмитриевич": 20,
-      "Путин Владимир Владимирович": 1838
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 511,
+      "gas:candidate-vibid:100100032143255": 67,
+      "gas:candidate-vibid:100100032152563": 20,
+      "gas:candidate-vibid:100100032111402": 1838
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1838,11 +1838,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 11,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 18,
-      "Путин Владимир Владимирович": 1716
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 11,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 18,
+      "gas:candidate-vibid:100100032111402": 1716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1888,11 +1888,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1005,
-      "Миронов Сергей Михайлович": 62,
-      "Прохоров Михаил Дмитриевич": 118,
-      "Путин Владимир Владимирович": 1107
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 1005,
+      "gas:candidate-vibid:100100032143255": 62,
+      "gas:candidate-vibid:100100032152563": 118,
+      "gas:candidate-vibid:100100032111402": 1107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1938,11 +1938,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 940,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 899
+      "gas:candidate-vibid:100100032152680": 90,
+      "gas:candidate-vibid:100100032159240": 940,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 899
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -1988,11 +1988,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 952,
-      "Миронов Сергей Михайлович": 55,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 939
+      "gas:candidate-vibid:100100032152680": 92,
+      "gas:candidate-vibid:100100032159240": 952,
+      "gas:candidate-vibid:100100032143255": 55,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 939
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2038,11 +2038,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 63,
-      "Зюганов Геннадий Андреевич": 318,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 971
+      "gas:candidate-vibid:100100032152680": 63,
+      "gas:candidate-vibid:100100032159240": 318,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 971
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2088,11 +2088,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 275,
-      "Миронов Сергей Михайлович": 35,
-      "Прохоров Михаил Дмитриевич": 10,
-      "Путин Владимир Владимирович": 917
+      "gas:candidate-vibid:100100032152680": 58,
+      "gas:candidate-vibid:100100032159240": 275,
+      "gas:candidate-vibid:100100032143255": 35,
+      "gas:candidate-vibid:100100032152563": 10,
+      "gas:candidate-vibid:100100032111402": 917
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2138,11 +2138,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 910,
-      "Миронов Сергей Михайлович": 50,
-      "Прохоров Михаил Дмитриевич": 15,
-      "Путин Владимир Владимирович": 806
+      "gas:candidate-vibid:100100032152680": 84,
+      "gas:candidate-vibid:100100032159240": 910,
+      "gas:candidate-vibid:100100032143255": 50,
+      "gas:candidate-vibid:100100032152563": 15,
+      "gas:candidate-vibid:100100032111402": 806
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2188,11 +2188,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 152,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 23,
-      "Путин Владимир Владимирович": 482
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 152,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 23,
+      "gas:candidate-vibid:100100032111402": 482
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2238,11 +2238,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 97,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 350
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 97,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2288,11 +2288,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 118,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 25,
-      "Путин Владимир Владимирович": 448
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 118,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 25,
+      "gas:candidate-vibid:100100032111402": 448
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2338,11 +2338,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 160,
-      "Миронов Сергей Михайлович": 9,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 359
+      "gas:candidate-vibid:100100032152680": 19,
+      "gas:candidate-vibid:100100032159240": 160,
+      "gas:candidate-vibid:100100032143255": 9,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2388,11 +2388,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 175,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 31,
-      "Путин Владимир Владимирович": 986
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 175,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 31,
+      "gas:candidate-vibid:100100032111402": 986
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2438,11 +2438,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 156,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 35,
-      "Путин Владимир Владимирович": 627
+      "gas:candidate-vibid:100100032152680": 18,
+      "gas:candidate-vibid:100100032159240": 156,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 35,
+      "gas:candidate-vibid:100100032111402": 627
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2488,11 +2488,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 344,
-      "Миронов Сергей Михайлович": 30,
-      "Прохоров Михаил Дмитриевич": 39,
-      "Путин Владимир Владимирович": 924
+      "gas:candidate-vibid:100100032152680": 19,
+      "gas:candidate-vibid:100100032159240": 344,
+      "gas:candidate-vibid:100100032143255": 30,
+      "gas:candidate-vibid:100100032152563": 39,
+      "gas:candidate-vibid:100100032111402": 924
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2538,11 +2538,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 218,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 62,
-      "Путин Владимир Владимирович": 650
+      "gas:candidate-vibid:100100032152680": 24,
+      "gas:candidate-vibid:100100032159240": 218,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 62,
+      "gas:candidate-vibid:100100032111402": 650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2588,11 +2588,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 496,
-      "Миронов Сергей Михайлович": 29,
-      "Прохоров Михаил Дмитриевич": 68,
-      "Путин Владимир Владимирович": 1578
+      "gas:candidate-vibid:100100032152680": 33,
+      "gas:candidate-vibid:100100032159240": 496,
+      "gas:candidate-vibid:100100032143255": 29,
+      "gas:candidate-vibid:100100032152563": 68,
+      "gas:candidate-vibid:100100032111402": 1578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2638,11 +2638,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 167,
-      "Миронов Сергей Михайлович": 22,
-      "Прохоров Михаил Дмитриевич": 49,
-      "Путин Владимир Владимирович": 858
+      "gas:candidate-vibid:100100032152680": 17,
+      "gas:candidate-vibid:100100032159240": 167,
+      "gas:candidate-vibid:100100032143255": 22,
+      "gas:candidate-vibid:100100032152563": 49,
+      "gas:candidate-vibid:100100032111402": 858
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2688,11 +2688,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 456,
-      "Миронов Сергей Михайлович": 54,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 1369
+      "gas:candidate-vibid:100100032152680": 89,
+      "gas:candidate-vibid:100100032159240": 456,
+      "gas:candidate-vibid:100100032143255": 54,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 1369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2738,11 +2738,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 478,
-      "Миронов Сергей Михайлович": 61,
-      "Прохоров Михаил Дмитриевич": 18,
-      "Путин Владимир Владимирович": 1604
+      "gas:candidate-vibid:100100032152680": 102,
+      "gas:candidate-vibid:100100032159240": 478,
+      "gas:candidate-vibid:100100032143255": 61,
+      "gas:candidate-vibid:100100032152563": 18,
+      "gas:candidate-vibid:100100032111402": 1604
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2788,11 +2788,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 92,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 43,
-      "Путин Владимир Владимирович": 657
+      "gas:candidate-vibid:100100032152680": 8,
+      "gas:candidate-vibid:100100032159240": 92,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 43,
+      "gas:candidate-vibid:100100032111402": 657
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2838,11 +2838,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 423,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 15,
-      "Путин Владимир Владимирович": 1585
+      "gas:candidate-vibid:100100032152680": 43,
+      "gas:candidate-vibid:100100032159240": 423,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 15,
+      "gas:candidate-vibid:100100032111402": 1585
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2888,11 +2888,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 8,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 184
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 8,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2938,11 +2938,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 370,
-      "Миронов Сергей Михайлович": 45,
-      "Прохоров Михаил Дмитриевич": 14,
-      "Путин Владимир Владимирович": 1178
+      "gas:candidate-vibid:100100032152680": 76,
+      "gas:candidate-vibid:100100032159240": 370,
+      "gas:candidate-vibid:100100032143255": 45,
+      "gas:candidate-vibid:100100032152563": 14,
+      "gas:candidate-vibid:100100032111402": 1178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -2988,11 +2988,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 44,
-      "Миронов Сергей Михайлович": 13,
-      "Прохоров Михаил Дмитриевич": 25,
-      "Путин Владимир Владимирович": 604
+      "gas:candidate-vibid:100100032152680": 68,
+      "gas:candidate-vibid:100100032159240": 44,
+      "gas:candidate-vibid:100100032143255": 13,
+      "gas:candidate-vibid:100100032152563": 25,
+      "gas:candidate-vibid:100100032111402": 604
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3038,11 +3038,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 42,
-      "Миронов Сергей Михайлович": 3,
-      "Прохоров Михаил Дмитриевич": 17,
-      "Путин Владимир Владимирович": 374
+      "gas:candidate-vibid:100100032152680": 5,
+      "gas:candidate-vibid:100100032159240": 42,
+      "gas:candidate-vibid:100100032143255": 3,
+      "gas:candidate-vibid:100100032152563": 17,
+      "gas:candidate-vibid:100100032111402": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3088,11 +3088,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 43,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 138
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 43,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3138,11 +3138,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 17,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 131
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 17,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3188,11 +3188,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 311,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 990
+      "gas:candidate-vibid:100100032152680": 64,
+      "gas:candidate-vibid:100100032159240": 311,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 990
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3238,11 +3238,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 420,
-      "Миронов Сергей Михайлович": 53,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 1384
+      "gas:candidate-vibid:100100032152680": 88,
+      "gas:candidate-vibid:100100032159240": 420,
+      "gas:candidate-vibid:100100032143255": 53,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 1384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3288,11 +3288,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 160,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 466
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 160,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3338,11 +3338,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 138,
-      "Миронов Сергей Михайлович": 19,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 495
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 138,
+      "gas:candidate-vibid:100100032143255": 19,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3388,11 +3388,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 452,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 13,
-      "Путин Владимир Владимирович": 1134
+      "gas:candidate-vibid:100100032152680": 7,
+      "gas:candidate-vibid:100100032159240": 452,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 13,
+      "gas:candidate-vibid:100100032111402": 1134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3438,11 +3438,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 315,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 12,
-      "Путин Владимир Владимирович": 965
+      "gas:candidate-vibid:100100032152680": 62,
+      "gas:candidate-vibid:100100032159240": 315,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 12,
+      "gas:candidate-vibid:100100032111402": 965
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3488,11 +3488,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 396,
-      "Миронов Сергей Михайлович": 36,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 841
+      "gas:candidate-vibid:100100032152680": 60,
+      "gas:candidate-vibid:100100032159240": 396,
+      "gas:candidate-vibid:100100032143255": 36,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 841
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3538,11 +3538,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 150,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 896
+      "gas:candidate-vibid:100100032152680": 51,
+      "gas:candidate-vibid:100100032159240": 150,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 896
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3588,11 +3588,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 7,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 1965
+      "gas:candidate-vibid:100100032152680": 13,
+      "gas:candidate-vibid:100100032159240": 7,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 1965
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198924&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198924&type=227",
@@ -3638,11 +3638,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 188,
-      "Миронов Сергей Михайлович": 466,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 1880
+      "gas:candidate-vibid:100100032152680": 58,
+      "gas:candidate-vibid:100100032159240": 188,
+      "gas:candidate-vibid:100100032143255": 466,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 1880
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3688,11 +3688,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 404,
-      "Зюганов Геннадий Андреевич": 178,
-      "Миронов Сергей Михайлович": 787,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 1420
+      "gas:candidate-vibid:100100032152680": 404,
+      "gas:candidate-vibid:100100032159240": 178,
+      "gas:candidate-vibid:100100032143255": 787,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 1420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3738,11 +3738,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 280,
-      "Миронов Сергей Михайлович": 17,
-      "Прохоров Михаил Дмитриевич": 65,
-      "Путин Владимир Владимирович": 2007
+      "gas:candidate-vibid:100100032152680": 20,
+      "gas:candidate-vibid:100100032159240": 280,
+      "gas:candidate-vibid:100100032143255": 17,
+      "gas:candidate-vibid:100100032152563": 65,
+      "gas:candidate-vibid:100100032111402": 2007
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3788,11 +3788,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 159,
-      "Зюганов Геннадий Андреевич": 301,
-      "Миронов Сергей Михайлович": 203,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 1702
+      "gas:candidate-vibid:100100032152680": 159,
+      "gas:candidate-vibid:100100032159240": 301,
+      "gas:candidate-vibid:100100032143255": 203,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 1702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3838,11 +3838,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 293,
-      "Миронов Сергей Михайлович": 31,
-      "Прохоров Михаил Дмитриевич": 70,
-      "Путин Владимир Владимирович": 2026
+      "gas:candidate-vibid:100100032152680": 31,
+      "gas:candidate-vibid:100100032159240": 293,
+      "gas:candidate-vibid:100100032143255": 31,
+      "gas:candidate-vibid:100100032152563": 70,
+      "gas:candidate-vibid:100100032111402": 2026
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3888,11 +3888,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 9,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 11,
-      "Путин Владимир Владимирович": 79
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 9,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 11,
+      "gas:candidate-vibid:100100032111402": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3938,11 +3938,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 118,
-      "Миронов Сергей Михайлович": 122,
-      "Прохоров Михаил Дмитриевич": 16,
-      "Путин Владимир Владимирович": 850
+      "gas:candidate-vibid:100100032152680": 23,
+      "gas:candidate-vibid:100100032159240": 118,
+      "gas:candidate-vibid:100100032143255": 122,
+      "gas:candidate-vibid:100100032152563": 16,
+      "gas:candidate-vibid:100100032111402": 850
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -3988,11 +3988,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 100,
-      "Зюганов Геннадий Андреевич": 94,
-      "Миронов Сергей Михайлович": 95,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 1810
+      "gas:candidate-vibid:100100032152680": 100,
+      "gas:candidate-vibid:100100032159240": 94,
+      "gas:candidate-vibid:100100032143255": 95,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 1810
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4038,11 +4038,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 190,
-      "Миронов Сергей Михайлович": 214,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 543
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 190,
+      "gas:candidate-vibid:100100032143255": 214,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 543
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4088,11 +4088,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 70,
-      "Миронов Сергей Михайлович": 123,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 741
+      "gas:candidate-vibid:100100032152680": 60,
+      "gas:candidate-vibid:100100032159240": 70,
+      "gas:candidate-vibid:100100032143255": 123,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 741
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4138,11 +4138,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 44,
-      "Миронов Сергей Михайлович": 81,
-      "Прохоров Михаил Дмитриевич": 8,
-      "Путин Владимир Владимирович": 904
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 44,
+      "gas:candidate-vibid:100100032143255": 81,
+      "gas:candidate-vibid:100100032152563": 8,
+      "gas:candidate-vibid:100100032111402": 904
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4188,11 +4188,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 188,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 38,
-      "Путин Владимир Владимирович": 489
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 188,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 38,
+      "gas:candidate-vibid:100100032111402": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4238,11 +4238,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 12,
-      "Миронов Сергей Михайлович": 15,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 395
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 12,
+      "gas:candidate-vibid:100100032143255": 15,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4288,11 +4288,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 31,
-      "Миронов Сергей Михайлович": 38,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 168
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 31,
+      "gas:candidate-vibid:100100032143255": 38,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198925&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198925&type=227",
@@ -4338,11 +4338,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 206,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 685
+      "gas:candidate-vibid:100100032152680": 6,
+      "gas:candidate-vibid:100100032159240": 206,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 685
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4388,11 +4388,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 259,
-      "Миронов Сергей Михайлович": 24,
-      "Прохоров Михаил Дмитриевич": 33,
-      "Путин Владимир Владимирович": 959
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 259,
+      "gas:candidate-vibid:100100032143255": 24,
+      "gas:candidate-vibid:100100032152563": 33,
+      "gas:candidate-vibid:100100032111402": 959
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4438,11 +4438,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 351,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 970
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 351,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 970
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4488,11 +4488,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 320,
-      "Миронов Сергей Михайлович": 19,
-      "Прохоров Михаил Дмитриевич": 2,
-      "Путин Владимир Владимирович": 1250
+      "gas:candidate-vibid:100100032152680": 34,
+      "gas:candidate-vibid:100100032159240": 320,
+      "gas:candidate-vibid:100100032143255": 19,
+      "gas:candidate-vibid:100100032152563": 2,
+      "gas:candidate-vibid:100100032111402": 1250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4538,11 +4538,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 425,
-      "Миронов Сергей Михайлович": 155,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 1682
+      "gas:candidate-vibid:100100032152680": 32,
+      "gas:candidate-vibid:100100032159240": 425,
+      "gas:candidate-vibid:100100032143255": 155,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 1682
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4588,11 +4588,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 261,
-      "Миронов Сергей Михайлович": 70,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 1273
+      "gas:candidate-vibid:100100032152680": 12,
+      "gas:candidate-vibid:100100032159240": 261,
+      "gas:candidate-vibid:100100032143255": 70,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 1273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4638,11 +4638,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 1144,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 1028
+      "gas:candidate-vibid:100100032152680": 17,
+      "gas:candidate-vibid:100100032159240": 1144,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 1028
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4688,11 +4688,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 210,
-      "Миронов Сергей Михайлович": 25,
-      "Прохоров Михаил Дмитриевич": 32,
-      "Путин Владимир Владимирович": 660
+      "gas:candidate-vibid:100100032152680": 11,
+      "gas:candidate-vibid:100100032159240": 210,
+      "gas:candidate-vibid:100100032143255": 25,
+      "gas:candidate-vibid:100100032152563": 32,
+      "gas:candidate-vibid:100100032111402": 660
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4738,11 +4738,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 34,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 130
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 34,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4788,11 +4788,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 7,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 87
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 7,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4838,11 +4838,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 55,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 278
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 55,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4888,11 +4888,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 300,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 720
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 300,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 720
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4938,11 +4938,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 15,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 6,
-      "Путин Владимир Владимирович": 90
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 15,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 6,
+      "gas:candidate-vibid:100100032111402": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -4988,11 +4988,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 61,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 292
+      "gas:candidate-vibid:100100032152680": 6,
+      "gas:candidate-vibid:100100032159240": 61,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5038,11 +5038,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 43,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 217
+      "gas:candidate-vibid:100100032152680": 7,
+      "gas:candidate-vibid:100100032159240": 43,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5088,11 +5088,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 155,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 14,
-      "Путин Владимир Владимирович": 258
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 155,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 14,
+      "gas:candidate-vibid:100100032111402": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5138,11 +5138,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 58,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 178
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 58,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5188,11 +5188,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 106,
-      "Миронов Сергей Михайлович": 12,
-      "Прохоров Михаил Дмитриевич": 35,
-      "Путин Владимир Владимирович": 359
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 106,
+      "gas:candidate-vibid:100100032143255": 12,
+      "gas:candidate-vibid:100100032152563": 35,
+      "gas:candidate-vibid:100100032111402": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5238,11 +5238,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 180,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 19,
-      "Путин Владимир Владимирович": 437
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 180,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 19,
+      "gas:candidate-vibid:100100032111402": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5288,11 +5288,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 179,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 27,
-      "Путин Владимир Владимирович": 520
+      "gas:candidate-vibid:100100032152680": 10,
+      "gas:candidate-vibid:100100032159240": 179,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 27,
+      "gas:candidate-vibid:100100032111402": 520
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5338,11 +5338,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 222,
-      "Миронов Сергей Михайлович": 40,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 481
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 222,
+      "gas:candidate-vibid:100100032143255": 40,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 481
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5388,11 +5388,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 21,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 3,
-      "Путин Владимир Владимирович": 66
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 21,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 3,
+      "gas:candidate-vibid:100100032111402": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5438,11 +5438,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 160,
-      "Миронов Сергей Михайлович": 11,
-      "Прохоров Михаил Дмитриевич": 14,
-      "Путин Владимир Владимирович": 679
+      "gas:candidate-vibid:100100032152680": 12,
+      "gas:candidate-vibid:100100032159240": 160,
+      "gas:candidate-vibid:100100032143255": 11,
+      "gas:candidate-vibid:100100032152563": 14,
+      "gas:candidate-vibid:100100032111402": 679
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5488,11 +5488,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 16,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 93
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 16,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5538,11 +5538,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 8,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 139
+      "gas:candidate-vibid:100100032152680": 3,
+      "gas:candidate-vibid:100100032159240": 8,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5588,11 +5588,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 90,
-      "Миронов Сергей Михайлович": 8,
-      "Прохоров Михаил Дмитриевич": 18,
-      "Путин Владимир Владимирович": 560
+      "gas:candidate-vibid:100100032152680": 9,
+      "gas:candidate-vibid:100100032159240": 90,
+      "gas:candidate-vibid:100100032143255": 8,
+      "gas:candidate-vibid:100100032152563": 18,
+      "gas:candidate-vibid:100100032111402": 560
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5638,11 +5638,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 116,
-      "Миронов Сергей Михайлович": 5,
-      "Прохоров Михаил Дмитриевич": 18,
-      "Путин Владимир Владимирович": 231
+      "gas:candidate-vibid:100100032152680": 7,
+      "gas:candidate-vibid:100100032159240": 116,
+      "gas:candidate-vibid:100100032143255": 5,
+      "gas:candidate-vibid:100100032152563": 18,
+      "gas:candidate-vibid:100100032111402": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5688,11 +5688,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 19,
-      "Миронов Сергей Михайлович": 76,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 43
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 19,
+      "gas:candidate-vibid:100100032143255": 76,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5738,11 +5738,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 32
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 2,
+      "gas:candidate-vibid:100100032143255": 0,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5788,11 +5788,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 38,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 4,
-      "Путин Владимир Владимирович": 51
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 38,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 4,
+      "gas:candidate-vibid:100100032111402": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5838,11 +5838,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 22,
-      "Миронов Сергей Михайлович": 68,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 66
+      "gas:candidate-vibid:100100032152680": 4,
+      "gas:candidate-vibid:100100032159240": 22,
+      "gas:candidate-vibid:100100032143255": 68,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5888,11 +5888,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 58,
-      "Миронов Сергей Михайлович": 4,
-      "Прохоров Михаил Дмитриевич": 22,
-      "Путин Владимир Владимирович": 308
+      "gas:candidate-vibid:100100032152680": 15,
+      "gas:candidate-vibid:100100032159240": 58,
+      "gas:candidate-vibid:100100032143255": 4,
+      "gas:candidate-vibid:100100032152563": 22,
+      "gas:candidate-vibid:100100032111402": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5938,11 +5938,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 15,
-      "Миронов Сергей Михайлович": 23,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 32
+      "gas:candidate-vibid:100100032152680": 1,
+      "gas:candidate-vibid:100100032159240": 15,
+      "gas:candidate-vibid:100100032143255": 23,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -5988,11 +5988,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 24,
-      "Миронов Сергей Михайлович": 6,
-      "Прохоров Михаил Дмитриевич": 5,
-      "Путин Владимир Владимирович": 131
+      "gas:candidate-vibid:100100032152680": 2,
+      "gas:candidate-vibid:100100032159240": 24,
+      "gas:candidate-vibid:100100032143255": 6,
+      "gas:candidate-vibid:100100032152563": 5,
+      "gas:candidate-vibid:100100032111402": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",
@@ -6038,11 +6038,11 @@ export const president_2012_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 2,
-      "Миронов Сергей Михайлович": 117,
-      "Прохоров Михаил Дмитриевич": 0,
-      "Путин Владимир Владимирович": 39
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 2,
+      "gas:candidate-vibid:100100032143255": 117,
+      "gas:candidate-vibid:100100032152563": 0,
+      "gas:candidate-vibid:100100032111402": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000006&tvd=2152000198926&vrn=100100031793505&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000198926&type=227",

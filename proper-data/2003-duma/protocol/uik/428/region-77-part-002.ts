@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 2,
-      "Драганов Валерий Гаврилович": 60,
-      "Каминский Юрий Викторович": 2,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 9,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113992": 2,
+      "gas:candidate-vibid:1001000226004": 60,
+      "gas:candidate-vibid:1001000136146": 2,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 9,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -98,11 +98,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 292,
-      "Сурайкин Максим Александрович": 80,
-      "Широков Андрей Вячеславович": 72,
-      "Широков Сергей Валентинович": 219,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000112274": 292,
+      "gas:candidate-vibid:1001000121932": 80,
+      "gas:candidate-vibid:1001000190438": 72,
+      "gas:candidate-vibid:1001000226005": 219,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -152,11 +152,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 544,
-      "Сурайкин Максим Александрович": 161,
-      "Широков Андрей Вячеславович": 146,
-      "Широков Сергей Валентинович": 427,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000112274": 544,
+      "gas:candidate-vibid:1001000121932": 161,
+      "gas:candidate-vibid:1001000190438": 146,
+      "gas:candidate-vibid:1001000226005": 427,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -206,11 +206,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 381,
-      "Сурайкин Максим Александрович": 138,
-      "Широков Андрей Вячеславович": 109,
-      "Широков Сергей Валентинович": 339,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000112274": 381,
+      "gas:candidate-vibid:1001000121932": 138,
+      "gas:candidate-vibid:1001000190438": 109,
+      "gas:candidate-vibid:1001000226005": 339,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -260,11 +260,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 384,
-      "Сурайкин Максим Александрович": 89,
-      "Широков Андрей Вячеславович": 104,
-      "Широков Сергей Валентинович": 305,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000112274": 384,
+      "gas:candidate-vibid:1001000121932": 89,
+      "gas:candidate-vibid:1001000190438": 104,
+      "gas:candidate-vibid:1001000226005": 305,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -314,11 +314,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 580,
-      "Сурайкин Максим Александрович": 128,
-      "Широков Андрей Вячеславович": 101,
-      "Широков Сергей Валентинович": 331,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000112274": 580,
+      "gas:candidate-vibid:1001000121932": 128,
+      "gas:candidate-vibid:1001000190438": 101,
+      "gas:candidate-vibid:1001000226005": 331,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -368,11 +368,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 390,
-      "Сурайкин Максим Александрович": 118,
-      "Широков Андрей Вячеславович": 79,
-      "Широков Сергей Валентинович": 217,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000112274": 390,
+      "gas:candidate-vibid:1001000121932": 118,
+      "gas:candidate-vibid:1001000190438": 79,
+      "gas:candidate-vibid:1001000226005": 217,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -422,11 +422,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 197,
-      "Сурайкин Максим Александрович": 553,
-      "Широков Андрей Вячеславович": 154,
-      "Широков Сергей Валентинович": 331,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000112274": 197,
+      "gas:candidate-vibid:1001000121932": 553,
+      "gas:candidate-vibid:1001000190438": 154,
+      "gas:candidate-vibid:1001000226005": 331,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -476,11 +476,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 480,
-      "Сурайкин Максим Александрович": 193,
-      "Широков Андрей Вячеславович": 153,
-      "Широков Сергей Валентинович": 258,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000112274": 480,
+      "gas:candidate-vibid:1001000121932": 193,
+      "gas:candidate-vibid:1001000190438": 153,
+      "gas:candidate-vibid:1001000226005": 258,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -530,11 +530,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 269,
-      "Сурайкин Максим Александрович": 92,
-      "Широков Андрей Вячеславович": 94,
-      "Широков Сергей Валентинович": 255,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000112274": 269,
+      "gas:candidate-vibid:1001000121932": 92,
+      "gas:candidate-vibid:1001000190438": 94,
+      "gas:candidate-vibid:1001000226005": 255,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -584,11 +584,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 460,
-      "Сурайкин Максим Александрович": 124,
-      "Широков Андрей Вячеславович": 140,
-      "Широков Сергей Валентинович": 369,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000112274": 460,
+      "gas:candidate-vibid:1001000121932": 124,
+      "gas:candidate-vibid:1001000190438": 140,
+      "gas:candidate-vibid:1001000226005": 369,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -638,11 +638,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 404,
-      "Сурайкин Максим Александрович": 166,
-      "Широков Андрей Вячеславович": 127,
-      "Широков Сергей Валентинович": 326,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000112274": 404,
+      "gas:candidate-vibid:1001000121932": 166,
+      "gas:candidate-vibid:1001000190438": 127,
+      "gas:candidate-vibid:1001000226005": 326,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -692,11 +692,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 525,
-      "Сурайкин Максим Александрович": 113,
-      "Широков Андрей Вячеславович": 120,
-      "Широков Сергей Валентинович": 286,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000112274": 525,
+      "gas:candidate-vibid:1001000121932": 113,
+      "gas:candidate-vibid:1001000190438": 120,
+      "gas:candidate-vibid:1001000226005": 286,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -746,11 +746,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 611,
-      "Сурайкин Максим Александрович": 80,
-      "Широков Андрей Вячеславович": 93,
-      "Широков Сергей Валентинович": 167,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000112274": 611,
+      "gas:candidate-vibid:1001000121932": 80,
+      "gas:candidate-vibid:1001000190438": 93,
+      "gas:candidate-vibid:1001000226005": 167,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -800,11 +800,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 532,
-      "Сурайкин Максим Александрович": 126,
-      "Широков Андрей Вячеславович": 110,
-      "Широков Сергей Валентинович": 321,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000112274": 532,
+      "gas:candidate-vibid:1001000121932": 126,
+      "gas:candidate-vibid:1001000190438": 110,
+      "gas:candidate-vibid:1001000226005": 321,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -854,11 +854,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 373,
-      "Сурайкин Максим Александрович": 132,
-      "Широков Андрей Вячеславович": 116,
-      "Широков Сергей Валентинович": 257,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000112274": 373,
+      "gas:candidate-vibid:1001000121932": 132,
+      "gas:candidate-vibid:1001000190438": 116,
+      "gas:candidate-vibid:1001000226005": 257,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -908,11 +908,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 238,
-      "Сурайкин Максим Александрович": 107,
-      "Широков Андрей Вячеславович": 95,
-      "Широков Сергей Валентинович": 240,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000112274": 238,
+      "gas:candidate-vibid:1001000121932": 107,
+      "gas:candidate-vibid:1001000190438": 95,
+      "gas:candidate-vibid:1001000226005": 240,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -962,11 +962,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 324,
-      "Сурайкин Максим Александрович": 54,
-      "Широков Андрей Вячеславович": 76,
-      "Широков Сергей Валентинович": 193,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000112274": 324,
+      "gas:candidate-vibid:1001000121932": 54,
+      "gas:candidate-vibid:1001000190438": 76,
+      "gas:candidate-vibid:1001000226005": 193,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1016,11 +1016,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Широков Андрей Вячеславович": 0,
-      "Широков Сергей Валентинович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112274": 1,
+      "gas:candidate-vibid:1001000121932": 0,
+      "gas:candidate-vibid:1001000190438": 0,
+      "gas:candidate-vibid:1001000226005": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1070,11 +1070,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Широков Андрей Вячеславович": 1,
-      "Широков Сергей Валентинович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112274": 1,
+      "gas:candidate-vibid:1001000121932": 2,
+      "gas:candidate-vibid:1001000190438": 1,
+      "gas:candidate-vibid:1001000226005": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1124,11 +1124,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 51,
-      "Сурайкин Максим Александрович": 4,
-      "Широков Андрей Вячеславович": 28,
-      "Широков Сергей Валентинович": 60,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000112274": 51,
+      "gas:candidate-vibid:1001000121932": 4,
+      "gas:candidate-vibid:1001000190438": 28,
+      "gas:candidate-vibid:1001000226005": 60,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1178,11 +1178,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Широков Андрей Вячеславович": 0,
-      "Широков Сергей Валентинович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112274": 0,
+      "gas:candidate-vibid:1001000121932": 0,
+      "gas:candidate-vibid:1001000190438": 0,
+      "gas:candidate-vibid:1001000226005": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1232,11 +1232,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Широков Андрей Вячеславович": 0,
-      "Широков Сергей Валентинович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112274": 0,
+      "gas:candidate-vibid:1001000121932": 0,
+      "gas:candidate-vibid:1001000190438": 0,
+      "gas:candidate-vibid:1001000226005": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1286,11 +1286,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 8,
-      "Сурайкин Максим Александрович": 6,
-      "Широков Андрей Вячеславович": 7,
-      "Широков Сергей Валентинович": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112274": 8,
+      "gas:candidate-vibid:1001000121932": 6,
+      "gas:candidate-vibid:1001000190438": 7,
+      "gas:candidate-vibid:1001000226005": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1340,11 +1340,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 24,
-      "Сурайкин Максим Александрович": 36,
-      "Широков Андрей Вячеславович": 10,
-      "Широков Сергей Валентинович": 32,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000112274": 24,
+      "gas:candidate-vibid:1001000121932": 36,
+      "gas:candidate-vibid:1001000190438": 10,
+      "gas:candidate-vibid:1001000226005": 32,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1394,11 +1394,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Широков Андрей Вячеславович": 3,
-      "Широков Сергей Валентинович": 14,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112274": 2,
+      "gas:candidate-vibid:1001000121932": 1,
+      "gas:candidate-vibid:1001000190438": 3,
+      "gas:candidate-vibid:1001000226005": 14,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1448,11 +1448,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 21,
-      "Сурайкин Максим Александрович": 7,
-      "Широков Андрей Вячеславович": 7,
-      "Широков Сергей Валентинович": 18,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000112274": 21,
+      "gas:candidate-vibid:1001000121932": 7,
+      "gas:candidate-vibid:1001000190438": 7,
+      "gas:candidate-vibid:1001000226005": 18,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1502,11 +1502,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 32,
-      "Сурайкин Максим Александрович": 19,
-      "Широков Андрей Вячеславович": 14,
-      "Широков Сергей Валентинович": 22,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000112274": 32,
+      "gas:candidate-vibid:1001000121932": 19,
+      "gas:candidate-vibid:1001000190438": 14,
+      "gas:candidate-vibid:1001000226005": 22,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270400&region=0&sub_region=0&type=429",
@@ -1556,11 +1556,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 640,
-      "Сурайкин Максим Александрович": 153,
-      "Широков Андрей Вячеславович": 103,
-      "Широков Сергей Валентинович": 414,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000112274": 640,
+      "gas:candidate-vibid:1001000121932": 153,
+      "gas:candidate-vibid:1001000190438": 103,
+      "gas:candidate-vibid:1001000226005": 414,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1610,11 +1610,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 351,
-      "Сурайкин Максим Александрович": 85,
-      "Широков Андрей Вячеславович": 105,
-      "Широков Сергей Валентинович": 325,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000112274": 351,
+      "gas:candidate-vibid:1001000121932": 85,
+      "gas:candidate-vibid:1001000190438": 105,
+      "gas:candidate-vibid:1001000226005": 325,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1664,11 +1664,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 456,
-      "Сурайкин Максим Александрович": 99,
-      "Широков Андрей Вячеславович": 91,
-      "Широков Сергей Валентинович": 320,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000112274": 456,
+      "gas:candidate-vibid:1001000121932": 99,
+      "gas:candidate-vibid:1001000190438": 91,
+      "gas:candidate-vibid:1001000226005": 320,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1718,11 +1718,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 509,
-      "Сурайкин Максим Александрович": 110,
-      "Широков Андрей Вячеславович": 99,
-      "Широков Сергей Валентинович": 246,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000112274": 509,
+      "gas:candidate-vibid:1001000121932": 110,
+      "gas:candidate-vibid:1001000190438": 99,
+      "gas:candidate-vibid:1001000226005": 246,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1772,11 +1772,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 405,
-      "Сурайкин Максим Александрович": 94,
-      "Широков Андрей Вячеславович": 108,
-      "Широков Сергей Валентинович": 284,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000112274": 405,
+      "gas:candidate-vibid:1001000121932": 94,
+      "gas:candidate-vibid:1001000190438": 108,
+      "gas:candidate-vibid:1001000226005": 284,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1826,11 +1826,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 555,
-      "Сурайкин Максим Александрович": 135,
-      "Широков Андрей Вячеславович": 125,
-      "Широков Сергей Валентинович": 453,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000112274": 555,
+      "gas:candidate-vibid:1001000121932": 135,
+      "gas:candidate-vibid:1001000190438": 125,
+      "gas:candidate-vibid:1001000226005": 453,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1880,11 +1880,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 670,
-      "Сурайкин Максим Александрович": 151,
-      "Широков Андрей Вячеславович": 124,
-      "Широков Сергей Валентинович": 350,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000112274": 670,
+      "gas:candidate-vibid:1001000121932": 151,
+      "gas:candidate-vibid:1001000190438": 124,
+      "gas:candidate-vibid:1001000226005": 350,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1934,11 +1934,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 530,
-      "Сурайкин Максим Александрович": 147,
-      "Широков Андрей Вячеславович": 148,
-      "Широков Сергей Валентинович": 458,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000112274": 530,
+      "gas:candidate-vibid:1001000121932": 147,
+      "gas:candidate-vibid:1001000190438": 148,
+      "gas:candidate-vibid:1001000226005": 458,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -1988,11 +1988,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 430,
-      "Сурайкин Максим Александрович": 100,
-      "Широков Андрей Вячеславович": 109,
-      "Широков Сергей Валентинович": 325,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000112274": 430,
+      "gas:candidate-vibid:1001000121932": 100,
+      "gas:candidate-vibid:1001000190438": 109,
+      "gas:candidate-vibid:1001000226005": 325,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2042,11 +2042,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 379,
-      "Сурайкин Максим Александрович": 87,
-      "Широков Андрей Вячеславович": 92,
-      "Широков Сергей Валентинович": 297,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000112274": 379,
+      "gas:candidate-vibid:1001000121932": 87,
+      "gas:candidate-vibid:1001000190438": 92,
+      "gas:candidate-vibid:1001000226005": 297,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2096,11 +2096,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 627,
-      "Сурайкин Максим Александрович": 118,
-      "Широков Андрей Вячеславович": 89,
-      "Широков Сергей Валентинович": 290,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000112274": 627,
+      "gas:candidate-vibid:1001000121932": 118,
+      "gas:candidate-vibid:1001000190438": 89,
+      "gas:candidate-vibid:1001000226005": 290,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2150,11 +2150,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 338,
-      "Сурайкин Максим Александрович": 82,
-      "Широков Андрей Вячеславович": 60,
-      "Широков Сергей Валентинович": 258,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000112274": 338,
+      "gas:candidate-vibid:1001000121932": 82,
+      "gas:candidate-vibid:1001000190438": 60,
+      "gas:candidate-vibid:1001000226005": 258,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2204,11 +2204,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 463,
-      "Сурайкин Максим Александрович": 122,
-      "Широков Андрей Вячеславович": 85,
-      "Широков Сергей Валентинович": 302,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000112274": 463,
+      "gas:candidate-vibid:1001000121932": 122,
+      "gas:candidate-vibid:1001000190438": 85,
+      "gas:candidate-vibid:1001000226005": 302,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2258,11 +2258,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 560,
-      "Сурайкин Максим Александрович": 104,
-      "Широков Андрей Вячеславович": 97,
-      "Широков Сергей Валентинович": 426,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000112274": 560,
+      "gas:candidate-vibid:1001000121932": 104,
+      "gas:candidate-vibid:1001000190438": 97,
+      "gas:candidate-vibid:1001000226005": 426,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2312,11 +2312,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 451,
-      "Сурайкин Максим Александрович": 66,
-      "Широков Андрей Вячеславович": 87,
-      "Широков Сергей Валентинович": 306,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000112274": 451,
+      "gas:candidate-vibid:1001000121932": 66,
+      "gas:candidate-vibid:1001000190438": 87,
+      "gas:candidate-vibid:1001000226005": 306,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2366,11 +2366,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 391,
-      "Сурайкин Максим Александрович": 169,
-      "Широков Андрей Вячеславович": 106,
-      "Широков Сергей Валентинович": 317,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000112274": 391,
+      "gas:candidate-vibid:1001000121932": 169,
+      "gas:candidate-vibid:1001000190438": 106,
+      "gas:candidate-vibid:1001000226005": 317,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2420,11 +2420,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 402,
-      "Сурайкин Максим Александрович": 100,
-      "Широков Андрей Вячеславович": 82,
-      "Широков Сергей Валентинович": 239,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000112274": 402,
+      "gas:candidate-vibid:1001000121932": 100,
+      "gas:candidate-vibid:1001000190438": 82,
+      "gas:candidate-vibid:1001000226005": 239,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2474,11 +2474,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 467,
-      "Сурайкин Максим Александрович": 117,
-      "Широков Андрей Вячеславович": 93,
-      "Широков Сергей Валентинович": 257,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000112274": 467,
+      "gas:candidate-vibid:1001000121932": 117,
+      "gas:candidate-vibid:1001000190438": 93,
+      "gas:candidate-vibid:1001000226005": 257,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2528,11 +2528,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 226,
-      "Сурайкин Максим Александрович": 73,
-      "Широков Андрей Вячеславович": 93,
-      "Широков Сергей Валентинович": 230,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000112274": 226,
+      "gas:candidate-vibid:1001000121932": 73,
+      "gas:candidate-vibid:1001000190438": 93,
+      "gas:candidate-vibid:1001000226005": 230,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2582,11 +2582,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 491,
-      "Сурайкин Максим Александрович": 165,
-      "Широков Андрей Вячеславович": 101,
-      "Широков Сергей Валентинович": 433,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000112274": 491,
+      "gas:candidate-vibid:1001000121932": 165,
+      "gas:candidate-vibid:1001000190438": 101,
+      "gas:candidate-vibid:1001000226005": 433,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2636,11 +2636,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 425,
-      "Сурайкин Максим Александрович": 93,
-      "Широков Андрей Вячеславович": 83,
-      "Широков Сергей Валентинович": 340,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000112274": 425,
+      "gas:candidate-vibid:1001000121932": 93,
+      "gas:candidate-vibid:1001000190438": 83,
+      "gas:candidate-vibid:1001000226005": 340,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2690,11 +2690,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 338,
-      "Сурайкин Максим Александрович": 87,
-      "Широков Андрей Вячеславович": 108,
-      "Широков Сергей Валентинович": 306,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000112274": 338,
+      "gas:candidate-vibid:1001000121932": 87,
+      "gas:candidate-vibid:1001000190438": 108,
+      "gas:candidate-vibid:1001000226005": 306,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2744,11 +2744,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 33,
-      "Сурайкин Максим Александрович": 7,
-      "Широков Андрей Вячеславович": 25,
-      "Широков Сергей Валентинович": 52,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000112274": 33,
+      "gas:candidate-vibid:1001000121932": 7,
+      "gas:candidate-vibid:1001000190438": 25,
+      "gas:candidate-vibid:1001000226005": 52,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270401&region=0&sub_region=0&type=429",
@@ -2798,11 +2798,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 564,
-      "Сурайкин Максим Александрович": 110,
-      "Широков Андрей Вячеславович": 131,
-      "Широков Сергей Валентинович": 467,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000112274": 564,
+      "gas:candidate-vibid:1001000121932": 110,
+      "gas:candidate-vibid:1001000190438": 131,
+      "gas:candidate-vibid:1001000226005": 467,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -2852,11 +2852,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 448,
-      "Сурайкин Максим Александрович": 89,
-      "Широков Андрей Вячеславович": 125,
-      "Широков Сергей Валентинович": 404,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000112274": 448,
+      "gas:candidate-vibid:1001000121932": 89,
+      "gas:candidate-vibid:1001000190438": 125,
+      "gas:candidate-vibid:1001000226005": 404,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -2906,11 +2906,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 484,
-      "Сурайкин Максим Александрович": 99,
-      "Широков Андрей Вячеславович": 140,
-      "Широков Сергей Валентинович": 474,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000112274": 484,
+      "gas:candidate-vibid:1001000121932": 99,
+      "gas:candidate-vibid:1001000190438": 140,
+      "gas:candidate-vibid:1001000226005": 474,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -2960,11 +2960,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 391,
-      "Сурайкин Максим Александрович": 167,
-      "Широков Андрей Вячеславович": 137,
-      "Широков Сергей Валентинович": 515,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000112274": 391,
+      "gas:candidate-vibid:1001000121932": 167,
+      "gas:candidate-vibid:1001000190438": 137,
+      "gas:candidate-vibid:1001000226005": 515,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3014,11 +3014,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 557,
-      "Сурайкин Максим Александрович": 140,
-      "Широков Андрей Вячеславович": 151,
-      "Широков Сергей Валентинович": 434,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112274": 557,
+      "gas:candidate-vibid:1001000121932": 140,
+      "gas:candidate-vibid:1001000190438": 151,
+      "gas:candidate-vibid:1001000226005": 434,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3068,11 +3068,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 471,
-      "Сурайкин Максим Александрович": 100,
-      "Широков Андрей Вячеславович": 134,
-      "Широков Сергей Валентинович": 424,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000112274": 471,
+      "gas:candidate-vibid:1001000121932": 100,
+      "gas:candidate-vibid:1001000190438": 134,
+      "gas:candidate-vibid:1001000226005": 424,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3122,11 +3122,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 422,
-      "Сурайкин Максим Александрович": 113,
-      "Широков Андрей Вячеславович": 131,
-      "Широков Сергей Валентинович": 443,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000112274": 422,
+      "gas:candidate-vibid:1001000121932": 113,
+      "gas:candidate-vibid:1001000190438": 131,
+      "gas:candidate-vibid:1001000226005": 443,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3176,11 +3176,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 440,
-      "Сурайкин Максим Александрович": 100,
-      "Широков Андрей Вячеславович": 148,
-      "Широков Сергей Валентинович": 374,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000112274": 440,
+      "gas:candidate-vibid:1001000121932": 100,
+      "gas:candidate-vibid:1001000190438": 148,
+      "gas:candidate-vibid:1001000226005": 374,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3230,11 +3230,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 357,
-      "Сурайкин Максим Александрович": 115,
-      "Широков Андрей Вячеславович": 159,
-      "Широков Сергей Валентинович": 463,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000112274": 357,
+      "gas:candidate-vibid:1001000121932": 115,
+      "gas:candidate-vibid:1001000190438": 159,
+      "gas:candidate-vibid:1001000226005": 463,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3284,11 +3284,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 492,
-      "Сурайкин Максим Александрович": 126,
-      "Широков Андрей Вячеславович": 171,
-      "Широков Сергей Валентинович": 490,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000112274": 492,
+      "gas:candidate-vibid:1001000121932": 126,
+      "gas:candidate-vibid:1001000190438": 171,
+      "gas:candidate-vibid:1001000226005": 490,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3338,11 +3338,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 503,
-      "Сурайкин Максим Александрович": 142,
-      "Широков Андрей Вячеславович": 169,
-      "Широков Сергей Валентинович": 525,
-      "Против всех": 444
+      "gas:candidate-vibid:1001000112274": 503,
+      "gas:candidate-vibid:1001000121932": 142,
+      "gas:candidate-vibid:1001000190438": 169,
+      "gas:candidate-vibid:1001000226005": 525,
+      "special:against-all": 444
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3392,11 +3392,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 507,
-      "Сурайкин Максим Александрович": 115,
-      "Широков Андрей Вячеславович": 188,
-      "Широков Сергей Валентинович": 517,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000112274": 507,
+      "gas:candidate-vibid:1001000121932": 115,
+      "gas:candidate-vibid:1001000190438": 188,
+      "gas:candidate-vibid:1001000226005": 517,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3446,11 +3446,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 383,
-      "Сурайкин Максим Александрович": 111,
-      "Широков Андрей Вячеславович": 158,
-      "Широков Сергей Валентинович": 505,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000112274": 383,
+      "gas:candidate-vibid:1001000121932": 111,
+      "gas:candidate-vibid:1001000190438": 158,
+      "gas:candidate-vibid:1001000226005": 505,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3500,11 +3500,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 309,
-      "Сурайкин Максим Александрович": 89,
-      "Широков Андрей Вячеславович": 155,
-      "Широков Сергей Валентинович": 428,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000112274": 309,
+      "gas:candidate-vibid:1001000121932": 89,
+      "gas:candidate-vibid:1001000190438": 155,
+      "gas:candidate-vibid:1001000226005": 428,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3554,11 +3554,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 394,
-      "Сурайкин Максим Александрович": 69,
-      "Широков Андрей Вячеславович": 120,
-      "Широков Сергей Валентинович": 346,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000112274": 394,
+      "gas:candidate-vibid:1001000121932": 69,
+      "gas:candidate-vibid:1001000190438": 120,
+      "gas:candidate-vibid:1001000226005": 346,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3608,11 +3608,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 442,
-      "Сурайкин Максим Александрович": 108,
-      "Широков Андрей Вячеславович": 148,
-      "Широков Сергей Валентинович": 441,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000112274": 442,
+      "gas:candidate-vibid:1001000121932": 108,
+      "gas:candidate-vibid:1001000190438": 148,
+      "gas:candidate-vibid:1001000226005": 441,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3662,11 +3662,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 500,
-      "Сурайкин Максим Александрович": 135,
-      "Широков Андрей Вячеславович": 134,
-      "Широков Сергей Валентинович": 510,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000112274": 500,
+      "gas:candidate-vibid:1001000121932": 135,
+      "gas:candidate-vibid:1001000190438": 134,
+      "gas:candidate-vibid:1001000226005": 510,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3716,11 +3716,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 525,
-      "Сурайкин Максим Александрович": 124,
-      "Широков Андрей Вячеславович": 80,
-      "Широков Сергей Валентинович": 341,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000112274": 525,
+      "gas:candidate-vibid:1001000121932": 124,
+      "gas:candidate-vibid:1001000190438": 80,
+      "gas:candidate-vibid:1001000226005": 341,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3770,11 +3770,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 222,
-      "Сурайкин Максим Александрович": 81,
-      "Широков Андрей Вячеславович": 103,
-      "Широков Сергей Валентинович": 331,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000112274": 222,
+      "gas:candidate-vibid:1001000121932": 81,
+      "gas:candidate-vibid:1001000190438": 103,
+      "gas:candidate-vibid:1001000226005": 331,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3824,11 +3824,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 424,
-      "Сурайкин Максим Александрович": 128,
-      "Широков Андрей Вячеславович": 128,
-      "Широков Сергей Валентинович": 445,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000112274": 424,
+      "gas:candidate-vibid:1001000121932": 128,
+      "gas:candidate-vibid:1001000190438": 128,
+      "gas:candidate-vibid:1001000226005": 445,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3878,11 +3878,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 434,
-      "Сурайкин Максим Александрович": 93,
-      "Широков Андрей Вячеславович": 147,
-      "Широков Сергей Валентинович": 498,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000112274": 434,
+      "gas:candidate-vibid:1001000121932": 93,
+      "gas:candidate-vibid:1001000190438": 147,
+      "gas:candidate-vibid:1001000226005": 498,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3932,11 +3932,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 485,
-      "Сурайкин Максим Александрович": 91,
-      "Широков Андрей Вячеславович": 162,
-      "Широков Сергей Валентинович": 612,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000112274": 485,
+      "gas:candidate-vibid:1001000121932": 91,
+      "gas:candidate-vibid:1001000190438": 162,
+      "gas:candidate-vibid:1001000226005": 612,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -3986,11 +3986,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 424,
-      "Сурайкин Максим Александрович": 101,
-      "Широков Андрей Вячеславович": 129,
-      "Широков Сергей Валентинович": 475,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000112274": 424,
+      "gas:candidate-vibid:1001000121932": 101,
+      "gas:candidate-vibid:1001000190438": 129,
+      "gas:candidate-vibid:1001000226005": 475,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4040,11 +4040,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 382,
-      "Сурайкин Максим Александрович": 131,
-      "Широков Андрей Вячеславович": 119,
-      "Широков Сергей Валентинович": 471,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000112274": 382,
+      "gas:candidate-vibid:1001000121932": 131,
+      "gas:candidate-vibid:1001000190438": 119,
+      "gas:candidate-vibid:1001000226005": 471,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4094,11 +4094,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 205,
-      "Сурайкин Максим Александрович": 155,
-      "Широков Андрей Вячеславович": 144,
-      "Широков Сергей Валентинович": 415,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000112274": 205,
+      "gas:candidate-vibid:1001000121932": 155,
+      "gas:candidate-vibid:1001000190438": 144,
+      "gas:candidate-vibid:1001000226005": 415,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4148,11 +4148,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 11,
-      "Сурайкин Максим Александрович": 3,
-      "Широков Андрей Вячеславович": 10,
-      "Широков Сергей Валентинович": 17,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112274": 11,
+      "gas:candidate-vibid:1001000121932": 3,
+      "gas:candidate-vibid:1001000190438": 10,
+      "gas:candidate-vibid:1001000226005": 17,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4202,11 +4202,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 10,
-      "Сурайкин Максим Александрович": 4,
-      "Широков Андрей Вячеславович": 1,
-      "Широков Сергей Валентинович": 13,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112274": 10,
+      "gas:candidate-vibid:1001000121932": 4,
+      "gas:candidate-vibid:1001000190438": 1,
+      "gas:candidate-vibid:1001000226005": 13,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4256,11 +4256,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 32,
-      "Сурайкин Максим Александрович": 6,
-      "Широков Андрей Вячеславович": 2,
-      "Широков Сергей Валентинович": 30,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112274": 32,
+      "gas:candidate-vibid:1001000121932": 6,
+      "gas:candidate-vibid:1001000190438": 2,
+      "gas:candidate-vibid:1001000226005": 30,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4310,11 +4310,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 112,
-      "Сурайкин Максим Александрович": 9,
-      "Широков Андрей Вячеславович": 5,
-      "Широков Сергей Валентинович": 27,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000112274": 112,
+      "gas:candidate-vibid:1001000121932": 9,
+      "gas:candidate-vibid:1001000190438": 5,
+      "gas:candidate-vibid:1001000226005": 27,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4364,11 +4364,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 26,
-      "Сурайкин Максим Александрович": 7,
-      "Широков Андрей Вячеславович": 10,
-      "Широков Сергей Валентинович": 22,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000112274": 26,
+      "gas:candidate-vibid:1001000121932": 7,
+      "gas:candidate-vibid:1001000190438": 10,
+      "gas:candidate-vibid:1001000226005": 22,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4418,11 +4418,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 28,
-      "Сурайкин Максим Александрович": 32,
-      "Широков Андрей Вячеславович": 14,
-      "Широков Сергей Валентинович": 34,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112274": 28,
+      "gas:candidate-vibid:1001000121932": 32,
+      "gas:candidate-vibid:1001000190438": 14,
+      "gas:candidate-vibid:1001000226005": 34,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4472,11 +4472,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 4,
-      "Сурайкин Максим Александрович": 7,
-      "Широков Андрей Вячеславович": 5,
-      "Широков Сергей Валентинович": 26,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112274": 4,
+      "gas:candidate-vibid:1001000121932": 7,
+      "gas:candidate-vibid:1001000190438": 5,
+      "gas:candidate-vibid:1001000226005": 26,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4526,11 +4526,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 23,
-      "Сурайкин Максим Александрович": 20,
-      "Широков Андрей Вячеславович": 9,
-      "Широков Сергей Валентинович": 36,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000112274": 23,
+      "gas:candidate-vibid:1001000121932": 20,
+      "gas:candidate-vibid:1001000190438": 9,
+      "gas:candidate-vibid:1001000226005": 36,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4580,11 +4580,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 15,
-      "Сурайкин Максим Александрович": 6,
-      "Широков Андрей Вячеславович": 4,
-      "Широков Сергей Валентинович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112274": 15,
+      "gas:candidate-vibid:1001000121932": 6,
+      "gas:candidate-vibid:1001000190438": 4,
+      "gas:candidate-vibid:1001000226005": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4634,11 +4634,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 8,
-      "Сурайкин Максим Александрович": 14,
-      "Широков Андрей Вячеславович": 10,
-      "Широков Сергей Валентинович": 15,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000112274": 8,
+      "gas:candidate-vibid:1001000121932": 14,
+      "gas:candidate-vibid:1001000190438": 10,
+      "gas:candidate-vibid:1001000226005": 15,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4688,11 +4688,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 8,
-      "Сурайкин Максим Александрович": 6,
-      "Широков Андрей Вячеславович": 6,
-      "Широков Сергей Валентинович": 22,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112274": 8,
+      "gas:candidate-vibid:1001000121932": 6,
+      "gas:candidate-vibid:1001000190438": 6,
+      "gas:candidate-vibid:1001000226005": 22,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4742,11 +4742,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 6,
-      "Сурайкин Максим Александрович": 7,
-      "Широков Андрей Вячеславович": 4,
-      "Широков Сергей Валентинович": 35,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112274": 6,
+      "gas:candidate-vibid:1001000121932": 7,
+      "gas:candidate-vibid:1001000190438": 4,
+      "gas:candidate-vibid:1001000226005": 35,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4796,11 +4796,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 35,
-      "Сурайкин Максим Александрович": 14,
-      "Широков Андрей Вячеславович": 13,
-      "Широков Сергей Валентинович": 58,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000112274": 35,
+      "gas:candidate-vibid:1001000121932": 14,
+      "gas:candidate-vibid:1001000190438": 13,
+      "gas:candidate-vibid:1001000226005": 58,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4850,11 +4850,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 21,
-      "Сурайкин Максим Александрович": 11,
-      "Широков Андрей Вячеславович": 3,
-      "Широков Сергей Валентинович": 25,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000112274": 21,
+      "gas:candidate-vibid:1001000121932": 11,
+      "gas:candidate-vibid:1001000190438": 3,
+      "gas:candidate-vibid:1001000226005": 25,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4904,11 +4904,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 68,
-      "Сурайкин Максим Александрович": 32,
-      "Широков Андрей Вячеславович": 31,
-      "Широков Сергей Валентинович": 53,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000112274": 68,
+      "gas:candidate-vibid:1001000121932": 32,
+      "gas:candidate-vibid:1001000190438": 31,
+      "gas:candidate-vibid:1001000226005": 53,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -4958,11 +4958,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 26,
-      "Сурайкин Максим Александрович": 9,
-      "Широков Андрей Вячеславович": 23,
-      "Широков Сергей Валентинович": 43,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000112274": 26,
+      "gas:candidate-vibid:1001000121932": 9,
+      "gas:candidate-vibid:1001000190438": 23,
+      "gas:candidate-vibid:1001000226005": 43,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5012,11 +5012,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 7,
-      "Сурайкин Максим Александрович": 9,
-      "Широков Андрей Вячеславович": 2,
-      "Широков Сергей Валентинович": 12,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112274": 7,
+      "gas:candidate-vibid:1001000121932": 9,
+      "gas:candidate-vibid:1001000190438": 2,
+      "gas:candidate-vibid:1001000226005": 12,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5066,11 +5066,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 33,
-      "Сурайкин Максим Александрович": 11,
-      "Широков Андрей Вячеславович": 18,
-      "Широков Сергей Валентинович": 47,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000112274": 33,
+      "gas:candidate-vibid:1001000121932": 11,
+      "gas:candidate-vibid:1001000190438": 18,
+      "gas:candidate-vibid:1001000226005": 47,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5120,11 +5120,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 47,
-      "Сурайкин Максим Александрович": 6,
-      "Широков Андрей Вячеславович": 5,
-      "Широков Сергей Валентинович": 61,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000112274": 47,
+      "gas:candidate-vibid:1001000121932": 6,
+      "gas:candidate-vibid:1001000190438": 5,
+      "gas:candidate-vibid:1001000226005": 61,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5174,11 +5174,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 40,
-      "Сурайкин Максим Александрович": 33,
-      "Широков Андрей Вячеславович": 16,
-      "Широков Сергей Валентинович": 76,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000112274": 40,
+      "gas:candidate-vibid:1001000121932": 33,
+      "gas:candidate-vibid:1001000190438": 16,
+      "gas:candidate-vibid:1001000226005": 76,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5228,11 +5228,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 17,
-      "Сурайкин Максим Александрович": 9,
-      "Широков Андрей Вячеславович": 3,
-      "Широков Сергей Валентинович": 14,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000112274": 17,
+      "gas:candidate-vibid:1001000121932": 9,
+      "gas:candidate-vibid:1001000190438": 3,
+      "gas:candidate-vibid:1001000226005": 14,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5282,11 +5282,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 17,
-      "Сурайкин Максим Александрович": 9,
-      "Широков Андрей Вячеславович": 8,
-      "Широков Сергей Валентинович": 24,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000112274": 17,
+      "gas:candidate-vibid:1001000121932": 9,
+      "gas:candidate-vibid:1001000190438": 8,
+      "gas:candidate-vibid:1001000226005": 24,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5336,11 +5336,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 143,
-      "Сурайкин Максим Александрович": 20,
-      "Широков Андрей Вячеславович": 26,
-      "Широков Сергей Валентинович": 87,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000112274": 143,
+      "gas:candidate-vibid:1001000121932": 20,
+      "gas:candidate-vibid:1001000190438": 26,
+      "gas:candidate-vibid:1001000226005": 87,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5390,11 +5390,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 10,
-      "Сурайкин Максим Александрович": 1,
-      "Широков Андрей Вячеславович": 2,
-      "Широков Сергей Валентинович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112274": 10,
+      "gas:candidate-vibid:1001000121932": 1,
+      "gas:candidate-vibid:1001000190438": 2,
+      "gas:candidate-vibid:1001000226005": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5444,11 +5444,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 7,
-      "Сурайкин Максим Александрович": 2,
-      "Широков Андрей Вячеславович": 2,
-      "Широков Сергей Валентинович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112274": 7,
+      "gas:candidate-vibid:1001000121932": 2,
+      "gas:candidate-vibid:1001000190438": 2,
+      "gas:candidate-vibid:1001000226005": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270402&region=0&sub_region=0&type=429",
@@ -5498,11 +5498,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 316,
-      "Сурайкин Максим Александрович": 92,
-      "Широков Андрей Вячеславович": 73,
-      "Широков Сергей Валентинович": 230,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000112274": 316,
+      "gas:candidate-vibid:1001000121932": 92,
+      "gas:candidate-vibid:1001000190438": 73,
+      "gas:candidate-vibid:1001000226005": 230,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5552,11 +5552,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 337,
-      "Сурайкин Максим Александрович": 70,
-      "Широков Андрей Вячеславович": 139,
-      "Широков Сергей Валентинович": 399,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000112274": 337,
+      "gas:candidate-vibid:1001000121932": 70,
+      "gas:candidate-vibid:1001000190438": 139,
+      "gas:candidate-vibid:1001000226005": 399,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5606,11 +5606,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 357,
-      "Сурайкин Максим Александрович": 61,
-      "Широков Андрей Вячеславович": 91,
-      "Широков Сергей Валентинович": 246,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000112274": 357,
+      "gas:candidate-vibid:1001000121932": 61,
+      "gas:candidate-vibid:1001000190438": 91,
+      "gas:candidate-vibid:1001000226005": 246,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5660,11 +5660,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 412,
-      "Сурайкин Максим Александрович": 74,
-      "Широков Андрей Вячеславович": 112,
-      "Широков Сергей Валентинович": 398,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000112274": 412,
+      "gas:candidate-vibid:1001000121932": 74,
+      "gas:candidate-vibid:1001000190438": 112,
+      "gas:candidate-vibid:1001000226005": 398,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5714,11 +5714,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 403,
-      "Сурайкин Максим Александрович": 80,
-      "Широков Андрей Вячеславович": 109,
-      "Широков Сергей Валентинович": 406,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000112274": 403,
+      "gas:candidate-vibid:1001000121932": 80,
+      "gas:candidate-vibid:1001000190438": 109,
+      "gas:candidate-vibid:1001000226005": 406,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5768,11 +5768,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 276,
-      "Сурайкин Максим Александрович": 89,
-      "Широков Андрей Вячеславович": 122,
-      "Широков Сергей Валентинович": 407,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000112274": 276,
+      "gas:candidate-vibid:1001000121932": 89,
+      "gas:candidate-vibid:1001000190438": 122,
+      "gas:candidate-vibid:1001000226005": 407,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5822,11 +5822,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 429,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 125,
-      "Широков Сергей Валентинович": 374,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000112274": 429,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 125,
+      "gas:candidate-vibid:1001000226005": 374,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5876,11 +5876,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 331,
-      "Сурайкин Максим Александрович": 106,
-      "Широков Андрей Вячеславович": 98,
-      "Широков Сергей Валентинович": 393,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000112274": 331,
+      "gas:candidate-vibid:1001000121932": 106,
+      "gas:candidate-vibid:1001000190438": 98,
+      "gas:candidate-vibid:1001000226005": 393,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5930,11 +5930,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 384,
-      "Сурайкин Максим Александрович": 157,
-      "Широков Андрей Вячеславович": 159,
-      "Широков Сергей Валентинович": 471,
-      "Против всех": 382
+      "gas:candidate-vibid:1001000112274": 384,
+      "gas:candidate-vibid:1001000121932": 157,
+      "gas:candidate-vibid:1001000190438": 159,
+      "gas:candidate-vibid:1001000226005": 471,
+      "special:against-all": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -5984,11 +5984,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 464,
-      "Сурайкин Максим Александрович": 117,
-      "Широков Андрей Вячеславович": 145,
-      "Широков Сергей Валентинович": 520,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000112274": 464,
+      "gas:candidate-vibid:1001000121932": 117,
+      "gas:candidate-vibid:1001000190438": 145,
+      "gas:candidate-vibid:1001000226005": 520,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6038,11 +6038,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 493,
-      "Сурайкин Максим Александрович": 142,
-      "Широков Андрей Вячеславович": 157,
-      "Широков Сергей Валентинович": 397,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000112274": 493,
+      "gas:candidate-vibid:1001000121932": 142,
+      "gas:candidate-vibid:1001000190438": 157,
+      "gas:candidate-vibid:1001000226005": 397,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6092,11 +6092,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 499,
-      "Сурайкин Максим Александрович": 188,
-      "Широков Андрей Вячеславович": 112,
-      "Широков Сергей Валентинович": 421,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000112274": 499,
+      "gas:candidate-vibid:1001000121932": 188,
+      "gas:candidate-vibid:1001000190438": 112,
+      "gas:candidate-vibid:1001000226005": 421,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6146,11 +6146,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 474,
-      "Сурайкин Максим Александрович": 185,
-      "Широков Андрей Вячеславович": 118,
-      "Широков Сергей Валентинович": 406,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000112274": 474,
+      "gas:candidate-vibid:1001000121932": 185,
+      "gas:candidate-vibid:1001000190438": 118,
+      "gas:candidate-vibid:1001000226005": 406,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6200,11 +6200,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 579,
-      "Сурайкин Максим Александрович": 159,
-      "Широков Андрей Вячеславович": 141,
-      "Широков Сергей Валентинович": 397,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000112274": 579,
+      "gas:candidate-vibid:1001000121932": 159,
+      "gas:candidate-vibid:1001000190438": 141,
+      "gas:candidate-vibid:1001000226005": 397,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6254,11 +6254,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 376,
-      "Сурайкин Максим Александрович": 107,
-      "Широков Андрей Вячеславович": 140,
-      "Широков Сергей Валентинович": 480,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000112274": 376,
+      "gas:candidate-vibid:1001000121932": 107,
+      "gas:candidate-vibid:1001000190438": 140,
+      "gas:candidate-vibid:1001000226005": 480,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6308,11 +6308,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 317,
-      "Сурайкин Максим Александрович": 102,
-      "Широков Андрей Вячеславович": 148,
-      "Широков Сергей Валентинович": 391,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000112274": 317,
+      "gas:candidate-vibid:1001000121932": 102,
+      "gas:candidate-vibid:1001000190438": 148,
+      "gas:candidate-vibid:1001000226005": 391,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6362,11 +6362,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 237,
-      "Сурайкин Максим Александрович": 69,
-      "Широков Андрей Вячеславович": 132,
-      "Широков Сергей Валентинович": 422,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000112274": 237,
+      "gas:candidate-vibid:1001000121932": 69,
+      "gas:candidate-vibid:1001000190438": 132,
+      "gas:candidate-vibid:1001000226005": 422,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270403&region=0&sub_region=0&type=429",
@@ -6416,11 +6416,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 463,
-      "Сурайкин Максим Александрович": 115,
-      "Широков Андрей Вячеславович": 166,
-      "Широков Сергей Валентинович": 456,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000112274": 463,
+      "gas:candidate-vibid:1001000121932": 115,
+      "gas:candidate-vibid:1001000190438": 166,
+      "gas:candidate-vibid:1001000226005": 456,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6470,11 +6470,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 406,
-      "Сурайкин Максим Александрович": 87,
-      "Широков Андрей Вячеславович": 151,
-      "Широков Сергей Валентинович": 500,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000112274": 406,
+      "gas:candidate-vibid:1001000121932": 87,
+      "gas:candidate-vibid:1001000190438": 151,
+      "gas:candidate-vibid:1001000226005": 500,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6524,11 +6524,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 423,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 169,
-      "Широков Сергей Валентинович": 489,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000112274": 423,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 169,
+      "gas:candidate-vibid:1001000226005": 489,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6578,11 +6578,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 432,
-      "Сурайкин Максим Александрович": 97,
-      "Широков Андрей Вячеславович": 140,
-      "Широков Сергей Валентинович": 368,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000112274": 432,
+      "gas:candidate-vibid:1001000121932": 97,
+      "gas:candidate-vibid:1001000190438": 140,
+      "gas:candidate-vibid:1001000226005": 368,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6632,11 +6632,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 391,
-      "Сурайкин Максим Александрович": 99,
-      "Широков Андрей Вячеславович": 140,
-      "Широков Сергей Валентинович": 469,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000112274": 391,
+      "gas:candidate-vibid:1001000121932": 99,
+      "gas:candidate-vibid:1001000190438": 140,
+      "gas:candidate-vibid:1001000226005": 469,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6686,11 +6686,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 269,
-      "Сурайкин Максим Александрович": 105,
-      "Широков Андрей Вячеславович": 160,
-      "Широков Сергей Валентинович": 619,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000112274": 269,
+      "gas:candidate-vibid:1001000121932": 105,
+      "gas:candidate-vibid:1001000190438": 160,
+      "gas:candidate-vibid:1001000226005": 619,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6740,11 +6740,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 355,
-      "Сурайкин Максим Александрович": 91,
-      "Широков Андрей Вячеславович": 199,
-      "Широков Сергей Валентинович": 478,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000112274": 355,
+      "gas:candidate-vibid:1001000121932": 91,
+      "gas:candidate-vibid:1001000190438": 199,
+      "gas:candidate-vibid:1001000226005": 478,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6794,11 +6794,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 435,
-      "Сурайкин Максим Александрович": 92,
-      "Широков Андрей Вячеславович": 145,
-      "Широков Сергей Валентинович": 454,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000112274": 435,
+      "gas:candidate-vibid:1001000121932": 92,
+      "gas:candidate-vibid:1001000190438": 145,
+      "gas:candidate-vibid:1001000226005": 454,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6848,11 +6848,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 244,
-      "Сурайкин Максим Александрович": 113,
-      "Широков Андрей Вячеславович": 201,
-      "Широков Сергей Валентинович": 657,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000112274": 244,
+      "gas:candidate-vibid:1001000121932": 113,
+      "gas:candidate-vibid:1001000190438": 201,
+      "gas:candidate-vibid:1001000226005": 657,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6902,11 +6902,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 392,
-      "Сурайкин Максим Александрович": 77,
-      "Широков Андрей Вячеславович": 176,
-      "Широков Сергей Валентинович": 509,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000112274": 392,
+      "gas:candidate-vibid:1001000121932": 77,
+      "gas:candidate-vibid:1001000190438": 176,
+      "gas:candidate-vibid:1001000226005": 509,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -6956,11 +6956,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 272,
-      "Сурайкин Максим Александрович": 110,
-      "Широков Андрей Вячеславович": 199,
-      "Широков Сергей Валентинович": 519,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000112274": 272,
+      "gas:candidate-vibid:1001000121932": 110,
+      "gas:candidate-vibid:1001000190438": 199,
+      "gas:candidate-vibid:1001000226005": 519,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7010,11 +7010,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 473,
-      "Сурайкин Максим Александрович": 133,
-      "Широков Андрей Вячеславович": 144,
-      "Широков Сергей Валентинович": 506,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000112274": 473,
+      "gas:candidate-vibid:1001000121932": 133,
+      "gas:candidate-vibid:1001000190438": 144,
+      "gas:candidate-vibid:1001000226005": 506,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7064,11 +7064,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 401,
-      "Сурайкин Максим Александрович": 154,
-      "Широков Андрей Вячеславович": 162,
-      "Широков Сергей Валентинович": 554,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000112274": 401,
+      "gas:candidate-vibid:1001000121932": 154,
+      "gas:candidate-vibid:1001000190438": 162,
+      "gas:candidate-vibid:1001000226005": 554,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7118,11 +7118,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 436,
-      "Сурайкин Максим Александрович": 93,
-      "Широков Андрей Вячеславович": 150,
-      "Широков Сергей Валентинович": 499,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000112274": 436,
+      "gas:candidate-vibid:1001000121932": 93,
+      "gas:candidate-vibid:1001000190438": 150,
+      "gas:candidate-vibid:1001000226005": 499,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7172,11 +7172,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 286,
-      "Сурайкин Максим Александрович": 191,
-      "Широков Андрей Вячеславович": 250,
-      "Широков Сергей Валентинович": 542,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000112274": 286,
+      "gas:candidate-vibid:1001000121932": 191,
+      "gas:candidate-vibid:1001000190438": 250,
+      "gas:candidate-vibid:1001000226005": 542,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7226,11 +7226,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 367,
-      "Сурайкин Максим Александрович": 117,
-      "Широков Андрей Вячеславович": 149,
-      "Широков Сергей Валентинович": 508,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000112274": 367,
+      "gas:candidate-vibid:1001000121932": 117,
+      "gas:candidate-vibid:1001000190438": 149,
+      "gas:candidate-vibid:1001000226005": 508,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7280,11 +7280,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 419,
-      "Сурайкин Максим Александрович": 141,
-      "Широков Андрей Вячеславович": 142,
-      "Широков Сергей Валентинович": 523,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000112274": 419,
+      "gas:candidate-vibid:1001000121932": 141,
+      "gas:candidate-vibid:1001000190438": 142,
+      "gas:candidate-vibid:1001000226005": 523,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7334,11 +7334,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 437,
-      "Сурайкин Максим Александрович": 145,
-      "Широков Андрей Вячеславович": 150,
-      "Широков Сергей Валентинович": 521,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000112274": 437,
+      "gas:candidate-vibid:1001000121932": 145,
+      "gas:candidate-vibid:1001000190438": 150,
+      "gas:candidate-vibid:1001000226005": 521,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7388,11 +7388,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 470,
-      "Сурайкин Максим Александрович": 119,
-      "Широков Андрей Вячеславович": 161,
-      "Широков Сергей Валентинович": 614,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000112274": 470,
+      "gas:candidate-vibid:1001000121932": 119,
+      "gas:candidate-vibid:1001000190438": 161,
+      "gas:candidate-vibid:1001000226005": 614,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7442,11 +7442,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 269,
-      "Сурайкин Максим Александрович": 112,
-      "Широков Андрей Вячеславович": 154,
-      "Широков Сергей Валентинович": 497,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000112274": 269,
+      "gas:candidate-vibid:1001000121932": 112,
+      "gas:candidate-vibid:1001000190438": 154,
+      "gas:candidate-vibid:1001000226005": 497,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7496,11 +7496,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 438,
-      "Сурайкин Максим Александрович": 98,
-      "Широков Андрей Вячеславович": 134,
-      "Широков Сергей Валентинович": 429,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000112274": 438,
+      "gas:candidate-vibid:1001000121932": 98,
+      "gas:candidate-vibid:1001000190438": 134,
+      "gas:candidate-vibid:1001000226005": 429,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7550,11 +7550,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 300,
-      "Сурайкин Максим Александрович": 108,
-      "Широков Андрей Вячеславович": 161,
-      "Широков Сергей Валентинович": 479,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112274": 300,
+      "gas:candidate-vibid:1001000121932": 108,
+      "gas:candidate-vibid:1001000190438": 161,
+      "gas:candidate-vibid:1001000226005": 479,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7604,11 +7604,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 39,
-      "Сурайкин Максим Александрович": 15,
-      "Широков Андрей Вячеславович": 28,
-      "Широков Сергей Валентинович": 63,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000112274": 39,
+      "gas:candidate-vibid:1001000121932": 15,
+      "gas:candidate-vibid:1001000190438": 28,
+      "gas:candidate-vibid:1001000226005": 63,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7658,11 +7658,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 14,
-      "Сурайкин Максим Александрович": 2,
-      "Широков Андрей Вячеславович": 3,
-      "Широков Сергей Валентинович": 14,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112274": 14,
+      "gas:candidate-vibid:1001000121932": 2,
+      "gas:candidate-vibid:1001000190438": 3,
+      "gas:candidate-vibid:1001000226005": 14,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270404&region=0&sub_region=0&type=429",
@@ -7712,11 +7712,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 252,
-      "Сурайкин Максим Александрович": 105,
-      "Широков Андрей Вячеславович": 145,
-      "Широков Сергей Валентинович": 549,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000112274": 252,
+      "gas:candidate-vibid:1001000121932": 105,
+      "gas:candidate-vibid:1001000190438": 145,
+      "gas:candidate-vibid:1001000226005": 549,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -7766,11 +7766,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 242,
-      "Сурайкин Максим Александрович": 92,
-      "Широков Андрей Вячеславович": 150,
-      "Широков Сергей Валентинович": 617,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000112274": 242,
+      "gas:candidate-vibid:1001000121932": 92,
+      "gas:candidate-vibid:1001000190438": 150,
+      "gas:candidate-vibid:1001000226005": 617,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -7820,11 +7820,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 362,
-      "Сурайкин Максим Александрович": 112,
-      "Широков Андрей Вячеславович": 146,
-      "Широков Сергей Валентинович": 509,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000112274": 362,
+      "gas:candidate-vibid:1001000121932": 112,
+      "gas:candidate-vibid:1001000190438": 146,
+      "gas:candidate-vibid:1001000226005": 509,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -7874,11 +7874,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 371,
-      "Сурайкин Максим Александрович": 85,
-      "Широков Андрей Вячеславович": 132,
-      "Широков Сергей Валентинович": 522,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000112274": 371,
+      "gas:candidate-vibid:1001000121932": 85,
+      "gas:candidate-vibid:1001000190438": 132,
+      "gas:candidate-vibid:1001000226005": 522,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -7928,11 +7928,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 379,
-      "Сурайкин Максим Александрович": 93,
-      "Широков Андрей Вячеславович": 129,
-      "Широков Сергей Валентинович": 506,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000112274": 379,
+      "gas:candidate-vibid:1001000121932": 93,
+      "gas:candidate-vibid:1001000190438": 129,
+      "gas:candidate-vibid:1001000226005": 506,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -7982,11 +7982,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 313,
-      "Сурайкин Максим Александрович": 64,
-      "Широков Андрей Вячеславович": 86,
-      "Широков Сергей Валентинович": 302,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000112274": 313,
+      "gas:candidate-vibid:1001000121932": 64,
+      "gas:candidate-vibid:1001000190438": 86,
+      "gas:candidate-vibid:1001000226005": 302,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -8036,11 +8036,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 332,
-      "Сурайкин Максим Александрович": 96,
-      "Широков Андрей Вячеславович": 159,
-      "Широков Сергей Валентинович": 550,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000112274": 332,
+      "gas:candidate-vibid:1001000121932": 96,
+      "gas:candidate-vibid:1001000190438": 159,
+      "gas:candidate-vibid:1001000226005": 550,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270405&region=0&sub_region=0&type=429",
@@ -8090,11 +8090,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 484,
-      "Сурайкин Максим Александрович": 109,
-      "Широков Андрей Вячеславович": 127,
-      "Широков Сергей Валентинович": 370,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000112274": 484,
+      "gas:candidate-vibid:1001000121932": 109,
+      "gas:candidate-vibid:1001000190438": 127,
+      "gas:candidate-vibid:1001000226005": 370,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8144,11 +8144,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 523,
-      "Сурайкин Максим Александрович": 123,
-      "Широков Андрей Вячеславович": 129,
-      "Широков Сергей Валентинович": 356,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000112274": 523,
+      "gas:candidate-vibid:1001000121932": 123,
+      "gas:candidate-vibid:1001000190438": 129,
+      "gas:candidate-vibid:1001000226005": 356,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8198,11 +8198,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 396,
-      "Сурайкин Максим Александрович": 211,
-      "Широков Андрей Вячеславович": 92,
-      "Широков Сергей Валентинович": 299,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000112274": 396,
+      "gas:candidate-vibid:1001000121932": 211,
+      "gas:candidate-vibid:1001000190438": 92,
+      "gas:candidate-vibid:1001000226005": 299,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8252,11 +8252,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 473,
-      "Сурайкин Максим Александрович": 160,
-      "Широков Андрей Вячеславович": 103,
-      "Широков Сергей Валентинович": 379,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000112274": 473,
+      "gas:candidate-vibid:1001000121932": 160,
+      "gas:candidate-vibid:1001000190438": 103,
+      "gas:candidate-vibid:1001000226005": 379,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8306,11 +8306,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 312,
-      "Сурайкин Максим Александрович": 142,
-      "Широков Андрей Вячеславович": 139,
-      "Широков Сергей Валентинович": 373,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000112274": 312,
+      "gas:candidate-vibid:1001000121932": 142,
+      "gas:candidate-vibid:1001000190438": 139,
+      "gas:candidate-vibid:1001000226005": 373,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8360,11 +8360,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 475,
-      "Сурайкин Максим Александрович": 125,
-      "Широков Андрей Вячеславович": 134,
-      "Широков Сергей Валентинович": 399,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000112274": 475,
+      "gas:candidate-vibid:1001000121932": 125,
+      "gas:candidate-vibid:1001000190438": 134,
+      "gas:candidate-vibid:1001000226005": 399,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8414,11 +8414,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 395,
-      "Сурайкин Максим Александрович": 92,
-      "Широков Андрей Вячеславович": 159,
-      "Широков Сергей Валентинович": 507,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000112274": 395,
+      "gas:candidate-vibid:1001000121932": 92,
+      "gas:candidate-vibid:1001000190438": 159,
+      "gas:candidate-vibid:1001000226005": 507,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8468,11 +8468,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 433,
-      "Сурайкин Максим Александрович": 127,
-      "Широков Андрей Вячеславович": 125,
-      "Широков Сергей Валентинович": 441,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000112274": 433,
+      "gas:candidate-vibid:1001000121932": 127,
+      "gas:candidate-vibid:1001000190438": 125,
+      "gas:candidate-vibid:1001000226005": 441,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8522,11 +8522,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 334,
-      "Сурайкин Максим Александрович": 111,
-      "Широков Андрей Вячеславович": 110,
-      "Широков Сергей Валентинович": 412,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000112274": 334,
+      "gas:candidate-vibid:1001000121932": 111,
+      "gas:candidate-vibid:1001000190438": 110,
+      "gas:candidate-vibid:1001000226005": 412,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8576,11 +8576,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 371,
-      "Сурайкин Максим Александрович": 116,
-      "Широков Андрей Вячеславович": 129,
-      "Широков Сергей Валентинович": 477,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000112274": 371,
+      "gas:candidate-vibid:1001000121932": 116,
+      "gas:candidate-vibid:1001000190438": 129,
+      "gas:candidate-vibid:1001000226005": 477,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8630,11 +8630,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 381,
-      "Сурайкин Максим Александрович": 134,
-      "Широков Андрей Вячеславович": 109,
-      "Широков Сергей Валентинович": 481,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000112274": 381,
+      "gas:candidate-vibid:1001000121932": 134,
+      "gas:candidate-vibid:1001000190438": 109,
+      "gas:candidate-vibid:1001000226005": 481,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8684,11 +8684,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 339,
-      "Сурайкин Максим Александрович": 70,
-      "Широков Андрей Вячеславович": 121,
-      "Широков Сергей Валентинович": 345,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000112274": 339,
+      "gas:candidate-vibid:1001000121932": 70,
+      "gas:candidate-vibid:1001000190438": 121,
+      "gas:candidate-vibid:1001000226005": 345,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8738,11 +8738,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 265,
-      "Сурайкин Максим Александрович": 105,
-      "Широков Андрей Вячеславович": 145,
-      "Широков Сергей Валентинович": 461,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000112274": 265,
+      "gas:candidate-vibid:1001000121932": 105,
+      "gas:candidate-vibid:1001000190438": 145,
+      "gas:candidate-vibid:1001000226005": 461,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8792,11 +8792,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 461,
-      "Сурайкин Максим Александрович": 151,
-      "Широков Андрей Вячеславович": 71,
-      "Широков Сергей Валентинович": 424,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000112274": 461,
+      "gas:candidate-vibid:1001000121932": 151,
+      "gas:candidate-vibid:1001000190438": 71,
+      "gas:candidate-vibid:1001000226005": 424,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8846,11 +8846,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 262,
-      "Сурайкин Максим Александрович": 81,
-      "Широков Андрей Вячеславович": 134,
-      "Широков Сергей Валентинович": 452,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000112274": 262,
+      "gas:candidate-vibid:1001000121932": 81,
+      "gas:candidate-vibid:1001000190438": 134,
+      "gas:candidate-vibid:1001000226005": 452,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8900,11 +8900,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 313,
-      "Сурайкин Максим Александрович": 119,
-      "Широков Андрей Вячеславович": 149,
-      "Широков Сергей Валентинович": 536,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000112274": 313,
+      "gas:candidate-vibid:1001000121932": 119,
+      "gas:candidate-vibid:1001000190438": 149,
+      "gas:candidate-vibid:1001000226005": 536,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -8954,11 +8954,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 9,
-      "Сурайкин Максим Александрович": 4,
-      "Широков Андрей Вячеславович": 6,
-      "Широков Сергей Валентинович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112274": 9,
+      "gas:candidate-vibid:1001000121932": 4,
+      "gas:candidate-vibid:1001000190438": 6,
+      "gas:candidate-vibid:1001000226005": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270406&region=0&sub_region=0&type=429",
@@ -9008,11 +9008,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 454,
-      "Сурайкин Максим Александрович": 108,
-      "Широков Андрей Вячеславович": 124,
-      "Широков Сергей Валентинович": 352,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000112274": 454,
+      "gas:candidate-vibid:1001000121932": 108,
+      "gas:candidate-vibid:1001000190438": 124,
+      "gas:candidate-vibid:1001000226005": 352,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9062,11 +9062,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 444,
-      "Сурайкин Максим Александрович": 107,
-      "Широков Андрей Вячеславович": 90,
-      "Широков Сергей Валентинович": 292,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000112274": 444,
+      "gas:candidate-vibid:1001000121932": 107,
+      "gas:candidate-vibid:1001000190438": 90,
+      "gas:candidate-vibid:1001000226005": 292,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9116,11 +9116,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 512,
-      "Сурайкин Максим Александрович": 111,
-      "Широков Андрей Вячеславович": 123,
-      "Широков Сергей Валентинович": 386,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000112274": 512,
+      "gas:candidate-vibid:1001000121932": 111,
+      "gas:candidate-vibid:1001000190438": 123,
+      "gas:candidate-vibid:1001000226005": 386,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9170,11 +9170,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 400,
-      "Сурайкин Максим Александрович": 123,
-      "Широков Андрей Вячеславович": 119,
-      "Широков Сергей Валентинович": 496,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000112274": 400,
+      "gas:candidate-vibid:1001000121932": 123,
+      "gas:candidate-vibid:1001000190438": 119,
+      "gas:candidate-vibid:1001000226005": 496,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9224,11 +9224,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 472,
-      "Сурайкин Максим Александрович": 94,
-      "Широков Андрей Вячеславович": 73,
-      "Широков Сергей Валентинович": 315,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000112274": 472,
+      "gas:candidate-vibid:1001000121932": 94,
+      "gas:candidate-vibid:1001000190438": 73,
+      "gas:candidate-vibid:1001000226005": 315,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9278,11 +9278,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 468,
-      "Сурайкин Максим Александрович": 124,
-      "Широков Андрей Вячеславович": 84,
-      "Широков Сергей Валентинович": 332,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000112274": 468,
+      "gas:candidate-vibid:1001000121932": 124,
+      "gas:candidate-vibid:1001000190438": 84,
+      "gas:candidate-vibid:1001000226005": 332,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9332,11 +9332,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 411,
-      "Сурайкин Максим Александрович": 94,
-      "Широков Андрей Вячеславович": 152,
-      "Широков Сергей Валентинович": 430,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000112274": 411,
+      "gas:candidate-vibid:1001000121932": 94,
+      "gas:candidate-vibid:1001000190438": 152,
+      "gas:candidate-vibid:1001000226005": 430,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9386,11 +9386,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 483,
-      "Сурайкин Максим Александрович": 172,
-      "Широков Андрей Вячеславович": 143,
-      "Широков Сергей Валентинович": 478,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000112274": 483,
+      "gas:candidate-vibid:1001000121932": 172,
+      "gas:candidate-vibid:1001000190438": 143,
+      "gas:candidate-vibid:1001000226005": 478,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9440,11 +9440,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 547,
-      "Сурайкин Максим Александрович": 173,
-      "Широков Андрей Вячеславович": 130,
-      "Широков Сергей Валентинович": 484,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000112274": 547,
+      "gas:candidate-vibid:1001000121932": 173,
+      "gas:candidate-vibid:1001000190438": 130,
+      "gas:candidate-vibid:1001000226005": 484,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9494,11 +9494,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 452,
-      "Сурайкин Максим Александрович": 138,
-      "Широков Андрей Вячеславович": 107,
-      "Широков Сергей Валентинович": 403,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000112274": 452,
+      "gas:candidate-vibid:1001000121932": 138,
+      "gas:candidate-vibid:1001000190438": 107,
+      "gas:candidate-vibid:1001000226005": 403,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9548,11 +9548,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 532,
-      "Сурайкин Максим Александрович": 132,
-      "Широков Андрей Вячеславович": 154,
-      "Широков Сергей Валентинович": 436,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000112274": 532,
+      "gas:candidate-vibid:1001000121932": 132,
+      "gas:candidate-vibid:1001000190438": 154,
+      "gas:candidate-vibid:1001000226005": 436,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9602,11 +9602,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 423,
-      "Сурайкин Максим Александрович": 69,
-      "Широков Андрей Вячеславович": 123,
-      "Широков Сергей Валентинович": 351,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000112274": 423,
+      "gas:candidate-vibid:1001000121932": 69,
+      "gas:candidate-vibid:1001000190438": 123,
+      "gas:candidate-vibid:1001000226005": 351,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9656,11 +9656,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 579,
-      "Сурайкин Максим Александрович": 117,
-      "Широков Андрей Вячеславович": 128,
-      "Широков Сергей Валентинович": 354,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000112274": 579,
+      "gas:candidate-vibid:1001000121932": 117,
+      "gas:candidate-vibid:1001000190438": 128,
+      "gas:candidate-vibid:1001000226005": 354,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9710,11 +9710,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 511,
-      "Сурайкин Максим Александрович": 148,
-      "Широков Андрей Вячеславович": 145,
-      "Широков Сергей Валентинович": 432,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000112274": 511,
+      "gas:candidate-vibid:1001000121932": 148,
+      "gas:candidate-vibid:1001000190438": 145,
+      "gas:candidate-vibid:1001000226005": 432,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9764,11 +9764,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 608,
-      "Сурайкин Максим Александрович": 157,
-      "Широков Андрей Вячеславович": 136,
-      "Широков Сергей Валентинович": 395,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000112274": 608,
+      "gas:candidate-vibid:1001000121932": 157,
+      "gas:candidate-vibid:1001000190438": 136,
+      "gas:candidate-vibid:1001000226005": 395,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9818,11 +9818,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 424,
-      "Сурайкин Максим Александрович": 127,
-      "Широков Андрей Вячеславович": 143,
-      "Широков Сергей Валентинович": 341,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000112274": 424,
+      "gas:candidate-vibid:1001000121932": 127,
+      "gas:candidate-vibid:1001000190438": 143,
+      "gas:candidate-vibid:1001000226005": 341,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270407&region=0&sub_region=0&type=429",
@@ -9872,11 +9872,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 362,
-      "Сурайкин Максим Александрович": 73,
-      "Широков Андрей Вячеславович": 124,
-      "Широков Сергей Валентинович": 319,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000112274": 362,
+      "gas:candidate-vibid:1001000121932": 73,
+      "gas:candidate-vibid:1001000190438": 124,
+      "gas:candidate-vibid:1001000226005": 319,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -9926,11 +9926,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 306,
-      "Сурайкин Максим Александрович": 71,
-      "Широков Андрей Вячеславович": 87,
-      "Широков Сергей Валентинович": 281,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000112274": 306,
+      "gas:candidate-vibid:1001000121932": 71,
+      "gas:candidate-vibid:1001000190438": 87,
+      "gas:candidate-vibid:1001000226005": 281,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -9980,11 +9980,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 337,
-      "Сурайкин Максим Александрович": 132,
-      "Широков Андрей Вячеславович": 186,
-      "Широков Сергей Валентинович": 590,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000112274": 337,
+      "gas:candidate-vibid:1001000121932": 132,
+      "gas:candidate-vibid:1001000190438": 186,
+      "gas:candidate-vibid:1001000226005": 590,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10034,11 +10034,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 320,
-      "Сурайкин Максим Александрович": 109,
-      "Широков Андрей Вячеславович": 115,
-      "Широков Сергей Валентинович": 389,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000112274": 320,
+      "gas:candidate-vibid:1001000121932": 109,
+      "gas:candidate-vibid:1001000190438": 115,
+      "gas:candidate-vibid:1001000226005": 389,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10088,11 +10088,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 137,
-      "Сурайкин Максим Александрович": 56,
-      "Широков Андрей Вячеславович": 120,
-      "Широков Сергей Валентинович": 303,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000112274": 137,
+      "gas:candidate-vibid:1001000121932": 56,
+      "gas:candidate-vibid:1001000190438": 120,
+      "gas:candidate-vibid:1001000226005": 303,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10142,11 +10142,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 464,
-      "Сурайкин Максим Александрович": 116,
-      "Широков Андрей Вячеславович": 133,
-      "Широков Сергей Валентинович": 416,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000112274": 464,
+      "gas:candidate-vibid:1001000121932": 116,
+      "gas:candidate-vibid:1001000190438": 133,
+      "gas:candidate-vibid:1001000226005": 416,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10196,11 +10196,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 252,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 184,
-      "Широков Сергей Валентинович": 443,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000112274": 252,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 184,
+      "gas:candidate-vibid:1001000226005": 443,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10250,11 +10250,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 382,
-      "Сурайкин Максим Александрович": 64,
-      "Широков Андрей Вячеславович": 109,
-      "Широков Сергей Валентинович": 362,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000112274": 382,
+      "gas:candidate-vibid:1001000121932": 64,
+      "gas:candidate-vibid:1001000190438": 109,
+      "gas:candidate-vibid:1001000226005": 362,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10304,11 +10304,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 267,
-      "Сурайкин Максим Александрович": 107,
-      "Широков Андрей Вячеславович": 190,
-      "Широков Сергей Валентинович": 566,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000112274": 267,
+      "gas:candidate-vibid:1001000121932": 107,
+      "gas:candidate-vibid:1001000190438": 190,
+      "gas:candidate-vibid:1001000226005": 566,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10358,11 +10358,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 434,
-      "Сурайкин Максим Александрович": 109,
-      "Широков Андрей Вячеславович": 164,
-      "Широков Сергей Валентинович": 447,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000112274": 434,
+      "gas:candidate-vibid:1001000121932": 109,
+      "gas:candidate-vibid:1001000190438": 164,
+      "gas:candidate-vibid:1001000226005": 447,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10412,11 +10412,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 368,
-      "Сурайкин Максим Александрович": 89,
-      "Широков Андрей Вячеславович": 182,
-      "Широков Сергей Валентинович": 425,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000112274": 368,
+      "gas:candidate-vibid:1001000121932": 89,
+      "gas:candidate-vibid:1001000190438": 182,
+      "gas:candidate-vibid:1001000226005": 425,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10466,11 +10466,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 17,
-      "Сурайкин Максим Александрович": 2,
-      "Широков Андрей Вячеславович": 2,
-      "Широков Сергей Валентинович": 22,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000112274": 17,
+      "gas:candidate-vibid:1001000121932": 2,
+      "gas:candidate-vibid:1001000190438": 2,
+      "gas:candidate-vibid:1001000226005": 22,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10520,11 +10520,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 8,
-      "Сурайкин Максим Александрович": 2,
-      "Широков Андрей Вячеславович": 3,
-      "Широков Сергей Валентинович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112274": 8,
+      "gas:candidate-vibid:1001000121932": 2,
+      "gas:candidate-vibid:1001000190438": 3,
+      "gas:candidate-vibid:1001000226005": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10574,11 +10574,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 17,
-      "Сурайкин Максим Александрович": 9,
-      "Широков Андрей Вячеславович": 14,
-      "Широков Сергей Валентинович": 21,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000112274": 17,
+      "gas:candidate-vibid:1001000121932": 9,
+      "gas:candidate-vibid:1001000190438": 14,
+      "gas:candidate-vibid:1001000226005": 21,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270408&region=0&sub_region=0&type=429",
@@ -10628,11 +10628,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 361,
-      "Сурайкин Максим Александрович": 132,
-      "Широков Андрей Вячеславович": 146,
-      "Широков Сергей Валентинович": 495,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000112274": 361,
+      "gas:candidate-vibid:1001000121932": 132,
+      "gas:candidate-vibid:1001000190438": 146,
+      "gas:candidate-vibid:1001000226005": 495,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -10682,11 +10682,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 315,
-      "Сурайкин Максим Александрович": 90,
-      "Широков Андрей Вячеславович": 129,
-      "Широков Сергей Валентинович": 472,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000112274": 315,
+      "gas:candidate-vibid:1001000121932": 90,
+      "gas:candidate-vibid:1001000190438": 129,
+      "gas:candidate-vibid:1001000226005": 472,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -10736,11 +10736,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 369,
-      "Сурайкин Максим Александрович": 74,
-      "Широков Андрей Вячеславович": 175,
-      "Широков Сергей Валентинович": 438,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000112274": 369,
+      "gas:candidate-vibid:1001000121932": 74,
+      "gas:candidate-vibid:1001000190438": 175,
+      "gas:candidate-vibid:1001000226005": 438,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -10790,11 +10790,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 419,
-      "Сурайкин Максим Александрович": 96,
-      "Широков Андрей Вячеславович": 161,
-      "Широков Сергей Валентинович": 462,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000112274": 419,
+      "gas:candidate-vibid:1001000121932": 96,
+      "gas:candidate-vibid:1001000190438": 161,
+      "gas:candidate-vibid:1001000226005": 462,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -10844,11 +10844,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 478,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 156,
-      "Широков Сергей Валентинович": 510,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000112274": 478,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 156,
+      "gas:candidate-vibid:1001000226005": 510,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -10898,11 +10898,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 275,
-      "Сурайкин Максим Александрович": 101,
-      "Широков Андрей Вячеславович": 182,
-      "Широков Сергей Валентинович": 447,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000112274": 275,
+      "gas:candidate-vibid:1001000121932": 101,
+      "gas:candidate-vibid:1001000190438": 182,
+      "gas:candidate-vibid:1001000226005": 447,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -10952,11 +10952,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 389,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 120,
-      "Широков Сергей Валентинович": 525,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000112274": 389,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 120,
+      "gas:candidate-vibid:1001000226005": 525,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11006,11 +11006,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 446,
-      "Сурайкин Максим Александрович": 113,
-      "Широков Андрей Вячеславович": 121,
-      "Широков Сергей Валентинович": 472,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000112274": 446,
+      "gas:candidate-vibid:1001000121932": 113,
+      "gas:candidate-vibid:1001000190438": 121,
+      "gas:candidate-vibid:1001000226005": 472,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11060,11 +11060,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 365,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 157,
-      "Широков Сергей Валентинович": 544,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000112274": 365,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 157,
+      "gas:candidate-vibid:1001000226005": 544,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11114,11 +11114,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 321,
-      "Сурайкин Максим Александрович": 96,
-      "Широков Андрей Вячеславович": 131,
-      "Широков Сергей Валентинович": 643,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000112274": 321,
+      "gas:candidate-vibid:1001000121932": 96,
+      "gas:candidate-vibid:1001000190438": 131,
+      "gas:candidate-vibid:1001000226005": 643,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11168,11 +11168,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 300,
-      "Сурайкин Максим Александрович": 95,
-      "Широков Андрей Вячеславович": 110,
-      "Широков Сергей Валентинович": 586,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000112274": 300,
+      "gas:candidate-vibid:1001000121932": 95,
+      "gas:candidate-vibid:1001000190438": 110,
+      "gas:candidate-vibid:1001000226005": 586,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11222,11 +11222,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 535,
-      "Сурайкин Максим Александрович": 132,
-      "Широков Андрей Вячеславович": 117,
-      "Широков Сергей Валентинович": 447,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000112274": 535,
+      "gas:candidate-vibid:1001000121932": 132,
+      "gas:candidate-vibid:1001000190438": 117,
+      "gas:candidate-vibid:1001000226005": 447,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11276,11 +11276,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 329,
-      "Сурайкин Максим Александрович": 84,
-      "Широков Андрей Вячеславович": 113,
-      "Широков Сергей Валентинович": 526,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000112274": 329,
+      "gas:candidate-vibid:1001000121932": 84,
+      "gas:candidate-vibid:1001000190438": 113,
+      "gas:candidate-vibid:1001000226005": 526,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11330,11 +11330,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 342,
-      "Сурайкин Максим Александрович": 79,
-      "Широков Андрей Вячеславович": 150,
-      "Широков Сергей Валентинович": 526,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000112274": 342,
+      "gas:candidate-vibid:1001000121932": 79,
+      "gas:candidate-vibid:1001000190438": 150,
+      "gas:candidate-vibid:1001000226005": 526,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270409&region=0&sub_region=0&type=429",
@@ -11384,11 +11384,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 260,
-      "Сурайкин Максим Александрович": 110,
-      "Широков Андрей Вячеславович": 239,
-      "Широков Сергей Валентинович": 651,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000112274": 260,
+      "gas:candidate-vibid:1001000121932": 110,
+      "gas:candidate-vibid:1001000190438": 239,
+      "gas:candidate-vibid:1001000226005": 651,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11438,11 +11438,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 279,
-      "Сурайкин Максим Александрович": 92,
-      "Широков Андрей Вячеславович": 158,
-      "Широков Сергей Валентинович": 489,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000112274": 279,
+      "gas:candidate-vibid:1001000121932": 92,
+      "gas:candidate-vibid:1001000190438": 158,
+      "gas:candidate-vibid:1001000226005": 489,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11492,11 +11492,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 413,
-      "Сурайкин Максим Александрович": 99,
-      "Широков Андрей Вячеславович": 167,
-      "Широков Сергей Валентинович": 496,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000112274": 413,
+      "gas:candidate-vibid:1001000121932": 99,
+      "gas:candidate-vibid:1001000190438": 167,
+      "gas:candidate-vibid:1001000226005": 496,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11546,11 +11546,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 267,
-      "Сурайкин Максим Александрович": 105,
-      "Широков Андрей Вячеславович": 208,
-      "Широков Сергей Валентинович": 611,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000112274": 267,
+      "gas:candidate-vibid:1001000121932": 105,
+      "gas:candidate-vibid:1001000190438": 208,
+      "gas:candidate-vibid:1001000226005": 611,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11600,11 +11600,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 353,
-      "Сурайкин Максим Александрович": 93,
-      "Широков Андрей Вячеславович": 106,
-      "Широков Сергей Валентинович": 453,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000112274": 353,
+      "gas:candidate-vibid:1001000121932": 93,
+      "gas:candidate-vibid:1001000190438": 106,
+      "gas:candidate-vibid:1001000226005": 453,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11654,11 +11654,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 411,
-      "Сурайкин Максим Александрович": 181,
-      "Широков Андрей Вячеславович": 155,
-      "Широков Сергей Валентинович": 477,
-      "Против всех": 343
+      "gas:candidate-vibid:1001000112274": 411,
+      "gas:candidate-vibid:1001000121932": 181,
+      "gas:candidate-vibid:1001000190438": 155,
+      "gas:candidate-vibid:1001000226005": 477,
+      "special:against-all": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11708,11 +11708,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 342,
-      "Сурайкин Максим Александрович": 132,
-      "Широков Андрей Вячеславович": 162,
-      "Широков Сергей Валентинович": 453,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000112274": 342,
+      "gas:candidate-vibid:1001000121932": 132,
+      "gas:candidate-vibid:1001000190438": 162,
+      "gas:candidate-vibid:1001000226005": 453,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11762,11 +11762,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 311,
-      "Сурайкин Максим Александрович": 107,
-      "Широков Андрей Вячеславович": 143,
-      "Широков Сергей Валентинович": 462,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000112274": 311,
+      "gas:candidate-vibid:1001000121932": 107,
+      "gas:candidate-vibid:1001000190438": 143,
+      "gas:candidate-vibid:1001000226005": 462,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11816,11 +11816,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 487,
-      "Сурайкин Максим Александрович": 129,
-      "Широков Андрей Вячеславович": 134,
-      "Широков Сергей Валентинович": 403,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000112274": 487,
+      "gas:candidate-vibid:1001000121932": 129,
+      "gas:candidate-vibid:1001000190438": 134,
+      "gas:candidate-vibid:1001000226005": 403,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11870,11 +11870,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 323,
-      "Сурайкин Максим Александрович": 94,
-      "Широков Андрей Вячеславович": 128,
-      "Широков Сергей Валентинович": 381,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000112274": 323,
+      "gas:candidate-vibid:1001000121932": 94,
+      "gas:candidate-vibid:1001000190438": 128,
+      "gas:candidate-vibid:1001000226005": 381,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11924,11 +11924,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 392,
-      "Сурайкин Максим Александрович": 80,
-      "Широков Андрей Вячеславович": 119,
-      "Широков Сергей Валентинович": 362,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000112274": 392,
+      "gas:candidate-vibid:1001000121932": 80,
+      "gas:candidate-vibid:1001000190438": 119,
+      "gas:candidate-vibid:1001000226005": 362,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -11978,11 +11978,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 392,
-      "Сурайкин Максим Александрович": 105,
-      "Широков Андрей Вячеславович": 99,
-      "Широков Сергей Валентинович": 356,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000112274": 392,
+      "gas:candidate-vibid:1001000121932": 105,
+      "gas:candidate-vibid:1001000190438": 99,
+      "gas:candidate-vibid:1001000226005": 356,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12032,11 +12032,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 317,
-      "Сурайкин Максим Александрович": 91,
-      "Широков Андрей Вячеславович": 160,
-      "Широков Сергей Валентинович": 527,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000112274": 317,
+      "gas:candidate-vibid:1001000121932": 91,
+      "gas:candidate-vibid:1001000190438": 160,
+      "gas:candidate-vibid:1001000226005": 527,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12086,11 +12086,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 256,
-      "Сурайкин Максим Александрович": 89,
-      "Широков Андрей Вячеславович": 162,
-      "Широков Сергей Валентинович": 427,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000112274": 256,
+      "gas:candidate-vibid:1001000121932": 89,
+      "gas:candidate-vibid:1001000190438": 162,
+      "gas:candidate-vibid:1001000226005": 427,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12140,11 +12140,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 278,
-      "Сурайкин Максим Александрович": 90,
-      "Широков Андрей Вячеславович": 174,
-      "Широков Сергей Валентинович": 598,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000112274": 278,
+      "gas:candidate-vibid:1001000121932": 90,
+      "gas:candidate-vibid:1001000190438": 174,
+      "gas:candidate-vibid:1001000226005": 598,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12194,11 +12194,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 252,
-      "Сурайкин Максим Александрович": 115,
-      "Широков Андрей Вячеславович": 210,
-      "Широков Сергей Валентинович": 560,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000112274": 252,
+      "gas:candidate-vibid:1001000121932": 115,
+      "gas:candidate-vibid:1001000190438": 210,
+      "gas:candidate-vibid:1001000226005": 560,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12248,11 +12248,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 267,
-      "Сурайкин Максим Александрович": 119,
-      "Широков Андрей Вячеславович": 169,
-      "Широков Сергей Валентинович": 501,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000112274": 267,
+      "gas:candidate-vibid:1001000121932": 119,
+      "gas:candidate-vibid:1001000190438": 169,
+      "gas:candidate-vibid:1001000226005": 501,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12302,11 +12302,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 272,
-      "Сурайкин Максим Александрович": 103,
-      "Широков Андрей Вячеславович": 252,
-      "Широков Сергей Валентинович": 589,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000112274": 272,
+      "gas:candidate-vibid:1001000121932": 103,
+      "gas:candidate-vibid:1001000190438": 252,
+      "gas:candidate-vibid:1001000226005": 589,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12356,11 +12356,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 247,
-      "Сурайкин Максим Александрович": 118,
-      "Широков Андрей Вячеславович": 219,
-      "Широков Сергей Валентинович": 552,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000112274": 247,
+      "gas:candidate-vibid:1001000121932": 118,
+      "gas:candidate-vibid:1001000190438": 219,
+      "gas:candidate-vibid:1001000226005": 552,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12410,11 +12410,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 290,
-      "Сурайкин Максим Александрович": 79,
-      "Широков Андрей Вячеславович": 216,
-      "Широков Сергей Валентинович": 465,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000112274": 290,
+      "gas:candidate-vibid:1001000121932": 79,
+      "gas:candidate-vibid:1001000190438": 216,
+      "gas:candidate-vibid:1001000226005": 465,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12464,11 +12464,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 303,
-      "Сурайкин Максим Александрович": 120,
-      "Широков Андрей Вячеславович": 194,
-      "Широков Сергей Валентинович": 551,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000112274": 303,
+      "gas:candidate-vibid:1001000121932": 120,
+      "gas:candidate-vibid:1001000190438": 194,
+      "gas:candidate-vibid:1001000226005": 551,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12518,11 +12518,11 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Митрохин Сергей Сергеевич": 254,
-      "Сурайкин Максим Александрович": 121,
-      "Широков Андрей Вячеславович": 193,
-      "Широков Сергей Валентинович": 570,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000112274": 254,
+      "gas:candidate-vibid:1001000121932": 121,
+      "gas:candidate-vibid:1001000190438": 193,
+      "gas:candidate-vibid:1001000226005": 570,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300270410&region=0&sub_region=0&type=429",
@@ -12572,15 +12572,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 169,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 61,
-      "Гребенников Валерий Васильевич": 509,
-      "Дьяков Игорь Викторович": 62,
-      "Жукова Галина Алексеевна": 251,
-      "Каландаров Камилжан Хамутович": 33,
-      "Прохоров Дмитрий Юрьевич": 119,
-      "Против всех": 485
+      "gas:candidate-vibid:1001000121933": 169,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 61,
+      "gas:candidate-vibid:1001000226006": 509,
+      "gas:candidate-vibid:1001000136148": 62,
+      "gas:candidate-vibid:377300370839": 251,
+      "gas:candidate-vibid:1001000190439": 33,
+      "gas:candidate-vibid:377300370842": 119,
+      "special:against-all": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12630,15 +12630,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 149,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 58,
-      "Гребенников Валерий Васильевич": 361,
-      "Дьяков Игорь Викторович": 56,
-      "Жукова Галина Алексеевна": 273,
-      "Каландаров Камилжан Хамутович": 35,
-      "Прохоров Дмитрий Юрьевич": 119,
-      "Против всех": 437
+      "gas:candidate-vibid:1001000121933": 149,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 58,
+      "gas:candidate-vibid:1001000226006": 361,
+      "gas:candidate-vibid:1001000136148": 56,
+      "gas:candidate-vibid:377300370839": 273,
+      "gas:candidate-vibid:1001000190439": 35,
+      "gas:candidate-vibid:377300370842": 119,
+      "special:against-all": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12688,15 +12688,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 189,
-      "Бегишвили Тенгиз Михайлович": 76,
-      "Берновский Михаил Юрьевич": 112,
-      "Гребенников Валерий Васильевич": 408,
-      "Дьяков Игорь Викторович": 95,
-      "Жукова Галина Алексеевна": 228,
-      "Каландаров Камилжан Хамутович": 48,
-      "Прохоров Дмитрий Юрьевич": 179,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000121933": 189,
+      "gas:candidate-vibid:1001000195163": 76,
+      "gas:candidate-vibid:377300371003": 112,
+      "gas:candidate-vibid:1001000226006": 408,
+      "gas:candidate-vibid:1001000136148": 95,
+      "gas:candidate-vibid:377300370839": 228,
+      "gas:candidate-vibid:1001000190439": 48,
+      "gas:candidate-vibid:377300370842": 179,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12746,15 +12746,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 183,
-      "Бегишвили Тенгиз Михайлович": 14,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 436,
-      "Дьяков Игорь Викторович": 69,
-      "Жукова Галина Алексеевна": 245,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 117,
-      "Против всех": 443
+      "gas:candidate-vibid:1001000121933": 183,
+      "gas:candidate-vibid:1001000195163": 14,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 436,
+      "gas:candidate-vibid:1001000136148": 69,
+      "gas:candidate-vibid:377300370839": 245,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 117,
+      "special:against-all": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12804,15 +12804,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 153,
-      "Бегишвили Тенгиз Михайлович": 12,
-      "Берновский Михаил Юрьевич": 45,
-      "Гребенников Валерий Васильевич": 345,
-      "Дьяков Игорь Викторович": 59,
-      "Жукова Галина Алексеевна": 221,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 108,
-      "Против всех": 432
+      "gas:candidate-vibid:1001000121933": 153,
+      "gas:candidate-vibid:1001000195163": 12,
+      "gas:candidate-vibid:377300371003": 45,
+      "gas:candidate-vibid:1001000226006": 345,
+      "gas:candidate-vibid:1001000136148": 59,
+      "gas:candidate-vibid:377300370839": 221,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 108,
+      "special:against-all": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12862,15 +12862,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 132,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 37,
-      "Гребенников Валерий Васильевич": 598,
-      "Дьяков Игорь Викторович": 44,
-      "Жукова Галина Алексеевна": 213,
-      "Каландаров Камилжан Хамутович": 23,
-      "Прохоров Дмитрий Юрьевич": 104,
-      "Против всех": 353
+      "gas:candidate-vibid:1001000121933": 132,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 37,
+      "gas:candidate-vibid:1001000226006": 598,
+      "gas:candidate-vibid:1001000136148": 44,
+      "gas:candidate-vibid:377300370839": 213,
+      "gas:candidate-vibid:1001000190439": 23,
+      "gas:candidate-vibid:377300370842": 104,
+      "special:against-all": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12920,15 +12920,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 94,
-      "Бегишвили Тенгиз Михайлович": 6,
-      "Берновский Михаил Юрьевич": 33,
-      "Гребенников Валерий Васильевич": 458,
-      "Дьяков Игорь Викторович": 41,
-      "Жукова Галина Алексеевна": 140,
-      "Каландаров Камилжан Хамутович": 27,
-      "Прохоров Дмитрий Юрьевич": 82,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000121933": 94,
+      "gas:candidate-vibid:1001000195163": 6,
+      "gas:candidate-vibid:377300371003": 33,
+      "gas:candidate-vibid:1001000226006": 458,
+      "gas:candidate-vibid:1001000136148": 41,
+      "gas:candidate-vibid:377300370839": 140,
+      "gas:candidate-vibid:1001000190439": 27,
+      "gas:candidate-vibid:377300370842": 82,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -12978,15 +12978,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 95,
-      "Бегишвили Тенгиз Михайлович": 17,
-      "Берновский Михаил Юрьевич": 43,
-      "Гребенников Валерий Васильевич": 387,
-      "Дьяков Игорь Викторович": 43,
-      "Жукова Галина Алексеевна": 139,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 101,
-      "Против всех": 425
+      "gas:candidate-vibid:1001000121933": 95,
+      "gas:candidate-vibid:1001000195163": 17,
+      "gas:candidate-vibid:377300371003": 43,
+      "gas:candidate-vibid:1001000226006": 387,
+      "gas:candidate-vibid:1001000136148": 43,
+      "gas:candidate-vibid:377300370839": 139,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 101,
+      "special:against-all": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13036,15 +13036,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 112,
-      "Бегишвили Тенгиз Михайлович": 27,
-      "Берновский Михаил Юрьевич": 64,
-      "Гребенников Валерий Васильевич": 710,
-      "Дьяков Игорь Викторович": 73,
-      "Жукова Галина Алексеевна": 231,
-      "Каландаров Камилжан Хамутович": 31,
-      "Прохоров Дмитрий Юрьевич": 131,
-      "Против всех": 465
+      "gas:candidate-vibid:1001000121933": 112,
+      "gas:candidate-vibid:1001000195163": 27,
+      "gas:candidate-vibid:377300371003": 64,
+      "gas:candidate-vibid:1001000226006": 710,
+      "gas:candidate-vibid:1001000136148": 73,
+      "gas:candidate-vibid:377300370839": 231,
+      "gas:candidate-vibid:1001000190439": 31,
+      "gas:candidate-vibid:377300370842": 131,
+      "special:against-all": 465
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13094,15 +13094,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 175,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 53,
-      "Гребенников Валерий Васильевич": 387,
-      "Дьяков Игорь Викторович": 73,
-      "Жукова Галина Алексеевна": 236,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 158,
-      "Против всех": 530
+      "gas:candidate-vibid:1001000121933": 175,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 53,
+      "gas:candidate-vibid:1001000226006": 387,
+      "gas:candidate-vibid:1001000136148": 73,
+      "gas:candidate-vibid:377300370839": 236,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 158,
+      "special:against-all": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13152,15 +13152,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 153,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 65,
-      "Гребенников Валерий Васильевич": 496,
-      "Дьяков Игорь Викторович": 60,
-      "Жукова Галина Алексеевна": 205,
-      "Каландаров Камилжан Хамутович": 16,
-      "Прохоров Дмитрий Юрьевич": 145,
-      "Против всех": 490
+      "gas:candidate-vibid:1001000121933": 153,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 65,
+      "gas:candidate-vibid:1001000226006": 496,
+      "gas:candidate-vibid:1001000136148": 60,
+      "gas:candidate-vibid:377300370839": 205,
+      "gas:candidate-vibid:1001000190439": 16,
+      "gas:candidate-vibid:377300370842": 145,
+      "special:against-all": 490
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13210,15 +13210,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 143,
-      "Бегишвили Тенгиз Михайлович": 10,
-      "Берновский Михаил Юрьевич": 67,
-      "Гребенников Валерий Васильевич": 340,
-      "Дьяков Игорь Викторович": 54,
-      "Жукова Галина Алексеевна": 217,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 123,
-      "Против всех": 494
+      "gas:candidate-vibid:1001000121933": 143,
+      "gas:candidate-vibid:1001000195163": 10,
+      "gas:candidate-vibid:377300371003": 67,
+      "gas:candidate-vibid:1001000226006": 340,
+      "gas:candidate-vibid:1001000136148": 54,
+      "gas:candidate-vibid:377300370839": 217,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 123,
+      "special:against-all": 494
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13268,15 +13268,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 161,
-      "Бегишвили Тенгиз Михайлович": 7,
-      "Берновский Михаил Юрьевич": 53,
-      "Гребенников Валерий Васильевич": 393,
-      "Дьяков Игорь Викторович": 52,
-      "Жукова Галина Алексеевна": 227,
-      "Каландаров Камилжан Хамутович": 26,
-      "Прохоров Дмитрий Юрьевич": 112,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000121933": 161,
+      "gas:candidate-vibid:1001000195163": 7,
+      "gas:candidate-vibid:377300371003": 53,
+      "gas:candidate-vibid:1001000226006": 393,
+      "gas:candidate-vibid:1001000136148": 52,
+      "gas:candidate-vibid:377300370839": 227,
+      "gas:candidate-vibid:1001000190439": 26,
+      "gas:candidate-vibid:377300370842": 112,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13326,15 +13326,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 148,
-      "Бегишвили Тенгиз Михайлович": 13,
-      "Берновский Михаил Юрьевич": 55,
-      "Гребенников Валерий Васильевич": 328,
-      "Дьяков Игорь Викторович": 46,
-      "Жукова Галина Алексеевна": 182,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 125,
-      "Против всех": 403
+      "gas:candidate-vibid:1001000121933": 148,
+      "gas:candidate-vibid:1001000195163": 13,
+      "gas:candidate-vibid:377300371003": 55,
+      "gas:candidate-vibid:1001000226006": 328,
+      "gas:candidate-vibid:1001000136148": 46,
+      "gas:candidate-vibid:377300370839": 182,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 125,
+      "special:against-all": 403
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13384,15 +13384,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 129,
-      "Бегишвили Тенгиз Михайлович": 21,
-      "Берновский Михаил Юрьевич": 71,
-      "Гребенников Валерий Васильевич": 472,
-      "Дьяков Игорь Викторович": 64,
-      "Жукова Галина Алексеевна": 223,
-      "Каландаров Камилжан Хамутович": 21,
-      "Прохоров Дмитрий Юрьевич": 129,
-      "Против всех": 409
+      "gas:candidate-vibid:1001000121933": 129,
+      "gas:candidate-vibid:1001000195163": 21,
+      "gas:candidate-vibid:377300371003": 71,
+      "gas:candidate-vibid:1001000226006": 472,
+      "gas:candidate-vibid:1001000136148": 64,
+      "gas:candidate-vibid:377300370839": 223,
+      "gas:candidate-vibid:1001000190439": 21,
+      "gas:candidate-vibid:377300370842": 129,
+      "special:against-all": 409
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13442,15 +13442,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 164,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 56,
-      "Гребенников Валерий Васильевич": 494,
-      "Дьяков Игорь Викторович": 60,
-      "Жукова Галина Алексеевна": 227,
-      "Каландаров Камилжан Хамутович": 39,
-      "Прохоров Дмитрий Юрьевич": 155,
-      "Против всех": 454
+      "gas:candidate-vibid:1001000121933": 164,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 56,
+      "gas:candidate-vibid:1001000226006": 494,
+      "gas:candidate-vibid:1001000136148": 60,
+      "gas:candidate-vibid:377300370839": 227,
+      "gas:candidate-vibid:1001000190439": 39,
+      "gas:candidate-vibid:377300370842": 155,
+      "special:against-all": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13500,15 +13500,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 135,
-      "Бегишвили Тенгиз Михайлович": 11,
-      "Берновский Михаил Юрьевич": 56,
-      "Гребенников Валерий Васильевич": 374,
-      "Дьяков Игорь Викторович": 58,
-      "Жукова Галина Алексеевна": 247,
-      "Каландаров Камилжан Хамутович": 30,
-      "Прохоров Дмитрий Юрьевич": 182,
-      "Против всех": 476
+      "gas:candidate-vibid:1001000121933": 135,
+      "gas:candidate-vibid:1001000195163": 11,
+      "gas:candidate-vibid:377300371003": 56,
+      "gas:candidate-vibid:1001000226006": 374,
+      "gas:candidate-vibid:1001000136148": 58,
+      "gas:candidate-vibid:377300370839": 247,
+      "gas:candidate-vibid:1001000190439": 30,
+      "gas:candidate-vibid:377300370842": 182,
+      "special:against-all": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",
@@ -13558,15 +13558,15 @@ export const duma_2003_uik_428_region_77_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басанец Павел Павлович": 152,
-      "Бегишвили Тенгиз Михайлович": 14,
-      "Берновский Михаил Юрьевич": 39,
-      "Гребенников Валерий Васильевич": 400,
-      "Дьяков Игорь Викторович": 52,
-      "Жукова Галина Алексеевна": 188,
-      "Каландаров Камилжан Хамутович": 33,
-      "Прохоров Дмитрий Юрьевич": 104,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000121933": 152,
+      "gas:candidate-vibid:1001000195163": 14,
+      "gas:candidate-vibid:377300371003": 39,
+      "gas:candidate-vibid:1001000226006": 400,
+      "gas:candidate-vibid:1001000136148": 52,
+      "gas:candidate-vibid:377300370839": 188,
+      "gas:candidate-vibid:1001000190439": 33,
+      "gas:candidate-vibid:377300370842": 104,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300370619&region=0&sub_region=0&type=429",

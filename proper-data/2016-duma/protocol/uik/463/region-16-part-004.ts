@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 306,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 16,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 112,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 306,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 16,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 112,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 139,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 52,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 139,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 52,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 102,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 40,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 102,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 40,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 388,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 5,
-      "Миргалимов Хафиз Гаязович": 105,
-      "Рамазанов Рустам Габтилфаритович": 12,
-      "Шамсутдинов Марсель Дикаянович": 6
+      "gas:candidate-vibid:4164024172579": 388,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 5,
+      "gas:candidate-vibid:4164024172925": 105,
+      "gas:candidate-vibid:4164024172699": 12,
+      "gas:candidate-vibid:4164024172747": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 246,
-      "Карымов Дмитрий Юрьевич": 6,
-      "Кудряшов Андрей Витальевич": 10,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 94,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 246,
+      "gas:candidate-vibid:4164024172476": 6,
+      "gas:candidate-vibid:4164024172372": 10,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 94,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1458,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 211,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 448,
-      "Рамазанов Рустам Габтилфаритович": 87,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 1458,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 211,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 448,
+      "gas:candidate-vibid:4164024172699": 87,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1627,
-      "Карымов Дмитрий Юрьевич": 42,
-      "Кудряшов Андрей Витальевич": 100,
-      "Кукоба Людмила Сергеевна": 70,
-      "Миргалимов Хафиз Гаязович": 538,
-      "Рамазанов Рустам Габтилфаритович": 50,
-      "Шамсутдинов Марсель Дикаянович": 56
+      "gas:candidate-vibid:4164024172579": 1627,
+      "gas:candidate-vibid:4164024172476": 42,
+      "gas:candidate-vibid:4164024172372": 100,
+      "gas:candidate-vibid:4164024172893": 70,
+      "gas:candidate-vibid:4164024172925": 538,
+      "gas:candidate-vibid:4164024172699": 50,
+      "gas:candidate-vibid:4164024172747": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 583,
-      "Карымов Дмитрий Юрьевич": 20,
-      "Кудряшов Андрей Витальевич": 40,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 234,
-      "Рамазанов Рустам Габтилфаритович": 20,
-      "Шамсутдинов Марсель Дикаянович": 15
+      "gas:candidate-vibid:4164024172579": 583,
+      "gas:candidate-vibid:4164024172476": 20,
+      "gas:candidate-vibid:4164024172372": 40,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 234,
+      "gas:candidate-vibid:4164024172699": 20,
+      "gas:candidate-vibid:4164024172747": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 870,
-      "Карымов Дмитрий Юрьевич": 27,
-      "Кудряшов Андрей Витальевич": 102,
-      "Кукоба Людмила Сергеевна": 20,
-      "Миргалимов Хафиз Гаязович": 321,
-      "Рамазанов Рустам Габтилфаритович": 30,
-      "Шамсутдинов Марсель Дикаянович": 25
+      "gas:candidate-vibid:4164024172579": 870,
+      "gas:candidate-vibid:4164024172476": 27,
+      "gas:candidate-vibid:4164024172372": 102,
+      "gas:candidate-vibid:4164024172893": 20,
+      "gas:candidate-vibid:4164024172925": 321,
+      "gas:candidate-vibid:4164024172699": 30,
+      "gas:candidate-vibid:4164024172747": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 528,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 89,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 172,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 11
+      "gas:candidate-vibid:4164024172579": 528,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 89,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 172,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 299,
-      "Карымов Дмитрий Юрьевич": 19,
-      "Кудряшов Андрей Витальевич": 35,
-      "Кукоба Людмила Сергеевна": 18,
-      "Миргалимов Хафиз Гаязович": 32,
-      "Рамазанов Рустам Габтилфаритович": 15,
-      "Шамсутдинов Марсель Дикаянович": 48
+      "gas:candidate-vibid:4164024172579": 299,
+      "gas:candidate-vibid:4164024172476": 19,
+      "gas:candidate-vibid:4164024172372": 35,
+      "gas:candidate-vibid:4164024172893": 18,
+      "gas:candidate-vibid:4164024172925": 32,
+      "gas:candidate-vibid:4164024172699": 15,
+      "gas:candidate-vibid:4164024172747": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 582,
-      "Карымов Дмитрий Юрьевич": 8,
-      "Кудряшов Андрей Витальевич": 35,
-      "Кукоба Людмила Сергеевна": 9,
-      "Миргалимов Хафиз Гаязович": 191,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 24
+      "gas:candidate-vibid:4164024172579": 582,
+      "gas:candidate-vibid:4164024172476": 8,
+      "gas:candidate-vibid:4164024172372": 35,
+      "gas:candidate-vibid:4164024172893": 9,
+      "gas:candidate-vibid:4164024172925": 191,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 513,
-      "Карымов Дмитрий Юрьевич": 7,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 149,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 62
+      "gas:candidate-vibid:4164024172579": 513,
+      "gas:candidate-vibid:4164024172476": 7,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 149,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1005,
-      "Карымов Дмитрий Юрьевич": 52,
-      "Кудряшов Андрей Витальевич": 43,
-      "Кукоба Людмила Сергеевна": 23,
-      "Миргалимов Хафиз Гаязович": 266,
-      "Рамазанов Рустам Габтилфаритович": 18,
-      "Шамсутдинов Марсель Дикаянович": 62
+      "gas:candidate-vibid:4164024172579": 1005,
+      "gas:candidate-vibid:4164024172476": 52,
+      "gas:candidate-vibid:4164024172372": 43,
+      "gas:candidate-vibid:4164024172893": 23,
+      "gas:candidate-vibid:4164024172925": 266,
+      "gas:candidate-vibid:4164024172699": 18,
+      "gas:candidate-vibid:4164024172747": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 507,
-      "Карымов Дмитрий Юрьевич": 17,
-      "Кудряшов Андрей Витальевич": 33,
-      "Кукоба Людмила Сергеевна": 4,
-      "Миргалимов Хафиз Гаязович": 211,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 25
+      "gas:candidate-vibid:4164024172579": 507,
+      "gas:candidate-vibid:4164024172476": 17,
+      "gas:candidate-vibid:4164024172372": 33,
+      "gas:candidate-vibid:4164024172893": 4,
+      "gas:candidate-vibid:4164024172925": 211,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 575,
-      "Карымов Дмитрий Юрьевич": 11,
-      "Кудряшов Андрей Витальевич": 23,
-      "Кукоба Людмила Сергеевна": 15,
-      "Миргалимов Хафиз Гаязович": 220,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 22
+      "gas:candidate-vibid:4164024172579": 575,
+      "gas:candidate-vibid:4164024172476": 11,
+      "gas:candidate-vibid:4164024172372": 23,
+      "gas:candidate-vibid:4164024172893": 15,
+      "gas:candidate-vibid:4164024172925": 220,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 602,
-      "Карымов Дмитрий Юрьевич": 14,
-      "Кудряшов Андрей Витальевич": 50,
-      "Кукоба Людмила Сергеевна": 12,
-      "Миргалимов Хафиз Гаязович": 194,
-      "Рамазанов Рустам Габтилфаритович": 6,
-      "Шамсутдинов Марсель Дикаянович": 10
+      "gas:candidate-vibid:4164024172579": 602,
+      "gas:candidate-vibid:4164024172476": 14,
+      "gas:candidate-vibid:4164024172372": 50,
+      "gas:candidate-vibid:4164024172893": 12,
+      "gas:candidate-vibid:4164024172925": 194,
+      "gas:candidate-vibid:4164024172699": 6,
+      "gas:candidate-vibid:4164024172747": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 164,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 6,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 25,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 164,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 6,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 25,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 676,
-      "Карымов Дмитрий Юрьевич": 22,
-      "Кудряшов Андрей Витальевич": 36,
-      "Кукоба Людмила Сергеевна": 19,
-      "Миргалимов Хафиз Гаязович": 219,
-      "Рамазанов Рустам Габтилфаритович": 18,
-      "Шамсутдинов Марсель Дикаянович": 15
+      "gas:candidate-vibid:4164024172579": 676,
+      "gas:candidate-vibid:4164024172476": 22,
+      "gas:candidate-vibid:4164024172372": 36,
+      "gas:candidate-vibid:4164024172893": 19,
+      "gas:candidate-vibid:4164024172925": 219,
+      "gas:candidate-vibid:4164024172699": 18,
+      "gas:candidate-vibid:4164024172747": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 577,
-      "Карымов Дмитрий Юрьевич": 35,
-      "Кудряшов Андрей Витальевич": 55,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 234,
-      "Рамазанов Рустам Габтилфаритович": 20,
-      "Шамсутдинов Марсель Дикаянович": 8
+      "gas:candidate-vibid:4164024172579": 577,
+      "gas:candidate-vibid:4164024172476": 35,
+      "gas:candidate-vibid:4164024172372": 55,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 234,
+      "gas:candidate-vibid:4164024172699": 20,
+      "gas:candidate-vibid:4164024172747": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 681,
-      "Карымов Дмитрий Юрьевич": 12,
-      "Кудряшов Андрей Витальевич": 43,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 195,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 8
+      "gas:candidate-vibid:4164024172579": 681,
+      "gas:candidate-vibid:4164024172476": 12,
+      "gas:candidate-vibid:4164024172372": 43,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 195,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 615,
-      "Карымов Дмитрий Юрьевич": 21,
-      "Кудряшов Андрей Витальевич": 84,
-      "Кукоба Людмила Сергеевна": 15,
-      "Миргалимов Хафиз Гаязович": 160,
-      "Рамазанов Рустам Габтилфаритович": 22,
-      "Шамсутдинов Марсель Дикаянович": 20
+      "gas:candidate-vibid:4164024172579": 615,
+      "gas:candidate-vibid:4164024172476": 21,
+      "gas:candidate-vibid:4164024172372": 84,
+      "gas:candidate-vibid:4164024172893": 15,
+      "gas:candidate-vibid:4164024172925": 160,
+      "gas:candidate-vibid:4164024172699": 22,
+      "gas:candidate-vibid:4164024172747": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 312,
-      "Карымов Дмитрий Юрьевич": 20,
-      "Кудряшов Андрей Витальевич": 52,
-      "Кукоба Людмила Сергеевна": 4,
-      "Миргалимов Хафиз Гаязович": 124,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 312,
+      "gas:candidate-vibid:4164024172476": 20,
+      "gas:candidate-vibid:4164024172372": 52,
+      "gas:candidate-vibid:4164024172893": 4,
+      "gas:candidate-vibid:4164024172925": 124,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 254,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 93,
-      "Рамазанов Рустам Габтилфаритович": 7,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 254,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 93,
+      "gas:candidate-vibid:4164024172699": 7,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 201,
-      "Карымов Дмитрий Юрьевич": 15,
-      "Кудряшов Андрей Витальевич": 14,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 64,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 201,
+      "gas:candidate-vibid:4164024172476": 15,
+      "gas:candidate-vibid:4164024172372": 14,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 64,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 144,
-      "Карымов Дмитрий Юрьевич": 7,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 60,
-      "Рамазанов Рустам Габтилфаритович": 7,
-      "Шамсутдинов Марсель Дикаянович": 4
+      "gas:candidate-vibid:4164024172579": 144,
+      "gas:candidate-vibid:4164024172476": 7,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 60,
+      "gas:candidate-vibid:4164024172699": 7,
+      "gas:candidate-vibid:4164024172747": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 76,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 29,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 76,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 29,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 423,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 164,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 423,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 164,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 543,
-      "Карымов Дмитрий Юрьевич": 32,
-      "Кудряшов Андрей Витальевич": 23,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 109,
-      "Рамазанов Рустам Габтилфаритович": 12,
-      "Шамсутдинов Марсель Дикаянович": 16
+      "gas:candidate-vibid:4164024172579": 543,
+      "gas:candidate-vibid:4164024172476": 32,
+      "gas:candidate-vibid:4164024172372": 23,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 109,
+      "gas:candidate-vibid:4164024172699": 12,
+      "gas:candidate-vibid:4164024172747": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 679,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 14,
-      "Кукоба Людмила Сергеевна": 11,
-      "Миргалимов Хафиз Гаязович": 223,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 4
+      "gas:candidate-vibid:4164024172579": 679,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 14,
+      "gas:candidate-vibid:4164024172893": 11,
+      "gas:candidate-vibid:4164024172925": 223,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 230,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 5,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 230,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 5,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 17,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 445,
-      "Карымов Дмитрий Юрьевич": 12,
-      "Кудряшов Андрей Витальевич": 32,
-      "Кукоба Людмила Сергеевна": 11,
-      "Миргалимов Хафиз Гаязович": 171,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 445,
+      "gas:candidate-vibid:4164024172476": 12,
+      "gas:candidate-vibid:4164024172372": 32,
+      "gas:candidate-vibid:4164024172893": 11,
+      "gas:candidate-vibid:4164024172925": 171,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 126,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 5,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 49,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 126,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 5,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 49,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 112,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 39,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 112,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 39,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 118,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 40,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 118,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 40,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 107,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 51,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 107,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 51,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 284,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 67,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 284,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 67,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 261,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 12,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 108,
-      "Рамазанов Рустам Габтилфаритович": 12,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 261,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 12,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 108,
+      "gas:candidate-vibid:4164024172699": 12,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 320,
-      "Карымов Дмитрий Юрьевич": 11,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 101,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 320,
+      "gas:candidate-vibid:4164024172476": 11,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 101,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 313,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 130,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 16
+      "gas:candidate-vibid:4164024172579": 313,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 130,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 145,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 56,
-      "Рамазанов Рустам Габтилфаритович": 8,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 145,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 56,
+      "gas:candidate-vibid:4164024172699": 8,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 183,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 66,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 183,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 66,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 92,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 32,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 92,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 32,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1568,
-      "Карымов Дмитрий Юрьевич": 55,
-      "Кудряшов Андрей Витальевич": 120,
-      "Кукоба Людмила Сергеевна": 59,
-      "Миргалимов Хафиз Гаязович": 547,
-      "Рамазанов Рустам Габтилфаритович": 84,
-      "Шамсутдинов Марсель Дикаянович": 53
+      "gas:candidate-vibid:4164024172579": 1568,
+      "gas:candidate-vibid:4164024172476": 55,
+      "gas:candidate-vibid:4164024172372": 120,
+      "gas:candidate-vibid:4164024172893": 59,
+      "gas:candidate-vibid:4164024172925": 547,
+      "gas:candidate-vibid:4164024172699": 84,
+      "gas:candidate-vibid:4164024172747": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562281&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562281&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 198,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 31,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 198,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 31,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 501,
-      "Карымов Дмитрий Юрьевич": 11,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 4,
-      "Миргалимов Хафиз Гаязович": 62,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 501,
+      "gas:candidate-vibid:4164024172476": 11,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 4,
+      "gas:candidate-vibid:4164024172925": 62,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 68,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 68,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 357,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 49,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 357,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 49,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 370,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 51,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 370,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 51,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 217,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 30,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 217,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 30,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 378,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 71,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 378,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 71,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 91,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 91,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 12,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 186,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 22,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 186,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 22,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 987,
-      "Карымов Дмитрий Юрьевич": 22,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 146,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 987,
+      "gas:candidate-vibid:4164024172476": 22,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 146,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 612,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 73,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 612,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 73,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 882,
-      "Карымов Дмитрий Юрьевич": 7,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 135,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 6
+      "gas:candidate-vibid:4164024172579": 882,
+      "gas:candidate-vibid:4164024172476": 7,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 135,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 284,
-      "Карымов Дмитрий Юрьевич": 14,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 4,
-      "Миргалимов Хафиз Гаязович": 37,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 284,
+      "gas:candidate-vibid:4164024172476": 14,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 4,
+      "gas:candidate-vibid:4164024172925": 37,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 225,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 225,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 5,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 486,
-      "Карымов Дмитрий Юрьевич": 9,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 66,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 486,
+      "gas:candidate-vibid:4164024172476": 9,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 66,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 473,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 21,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 473,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 21,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 13,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 79,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 79,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 522,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 54,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 522,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 54,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 278,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 34,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 278,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 34,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 397,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 46,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 12
+      "gas:candidate-vibid:4164024172579": 397,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 46,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 405,
-      "Карымов Дмитрий Юрьевич": 15,
-      "Кудряшов Андрей Витальевич": 13,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 79,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 405,
+      "gas:candidate-vibid:4164024172476": 15,
+      "gas:candidate-vibid:4164024172372": 13,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 79,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 246,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 30,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 246,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 30,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 546,
-      "Карымов Дмитрий Юрьевич": 30,
-      "Кудряшов Андрей Витальевич": 22,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 87,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 546,
+      "gas:candidate-vibid:4164024172476": 30,
+      "gas:candidate-vibid:4164024172372": 22,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 87,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 276,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 41,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 276,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 41,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 463,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 91,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 463,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 91,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 198,
-      "Карымов Дмитрий Юрьевич": 7,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 38,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 198,
+      "gas:candidate-vibid:4164024172476": 7,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 38,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 468,
-      "Карымов Дмитрий Юрьевич": 14,
-      "Кудряшов Андрей Витальевич": 5,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 56,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 468,
+      "gas:candidate-vibid:4164024172476": 14,
+      "gas:candidate-vibid:4164024172372": 5,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 56,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 663,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 12,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 97,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 663,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 12,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 97,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 119,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 119,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 11,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 190,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 190,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 205,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 205,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 4,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 268,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 268,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 559,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 11,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 121,
-      "Рамазанов Рустам Габтилфаритович": 6,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 559,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 11,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 121,
+      "gas:candidate-vibid:4164024172699": 6,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 99,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 99,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 274,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 36,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 274,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 36,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 879,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 168,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 879,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 168,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1216,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 186,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 6
+      "gas:candidate-vibid:4164024172579": 1216,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 186,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 759,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 54,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 759,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 54,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562282&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562282&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 310,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 310,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 113,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 113,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 114,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 114,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 338,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 31,
-      "Рамазанов Рустам Габтилфаритович": 7,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 338,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 31,
+      "gas:candidate-vibid:4164024172699": 7,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 252,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 252,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 13,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 312,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 312,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 110,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 110,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 1,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 298,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 298,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 1,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 482,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 482,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 260,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 260,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 350,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 350,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 104,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 104,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 582,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 582,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 15,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 227,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 227,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1913,
-      "Карымов Дмитрий Юрьевич": 35,
-      "Кудряшов Андрей Витальевич": 45,
-      "Кукоба Людмила Сергеевна": 25,
-      "Миргалимов Хафиз Гаязович": 100,
-      "Рамазанов Рустам Габтилфаритович": 26,
-      "Шамсутдинов Марсель Дикаянович": 21
+      "gas:candidate-vibid:4164024172579": 1913,
+      "gas:candidate-vibid:4164024172476": 35,
+      "gas:candidate-vibid:4164024172372": 45,
+      "gas:candidate-vibid:4164024172893": 25,
+      "gas:candidate-vibid:4164024172925": 100,
+      "gas:candidate-vibid:4164024172699": 26,
+      "gas:candidate-vibid:4164024172747": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 2255,
-      "Карымов Дмитрий Юрьевич": 85,
-      "Кудряшов Андрей Витальевич": 114,
-      "Кукоба Людмила Сергеевна": 72,
-      "Миргалимов Хафиз Гаязович": 194,
-      "Рамазанов Рустам Габтилфаритович": 71,
-      "Шамсутдинов Марсель Дикаянович": 52
+      "gas:candidate-vibid:4164024172579": 2255,
+      "gas:candidate-vibid:4164024172476": 85,
+      "gas:candidate-vibid:4164024172372": 114,
+      "gas:candidate-vibid:4164024172893": 72,
+      "gas:candidate-vibid:4164024172925": 194,
+      "gas:candidate-vibid:4164024172699": 71,
+      "gas:candidate-vibid:4164024172747": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1839,
-      "Карымов Дмитрий Юрьевич": 71,
-      "Кудряшов Андрей Витальевич": 88,
-      "Кукоба Людмила Сергеевна": 58,
-      "Миргалимов Хафиз Гаязович": 203,
-      "Рамазанов Рустам Габтилфаритович": 48,
-      "Шамсутдинов Марсель Дикаянович": 46
+      "gas:candidate-vibid:4164024172579": 1839,
+      "gas:candidate-vibid:4164024172476": 71,
+      "gas:candidate-vibid:4164024172372": 88,
+      "gas:candidate-vibid:4164024172893": 58,
+      "gas:candidate-vibid:4164024172925": 203,
+      "gas:candidate-vibid:4164024172699": 48,
+      "gas:candidate-vibid:4164024172747": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1089,
-      "Карымов Дмитрий Юрьевич": 69,
-      "Кудряшов Андрей Витальевич": 115,
-      "Кукоба Людмила Сергеевна": 60,
-      "Миргалимов Хафиз Гаязович": 134,
-      "Рамазанов Рустам Габтилфаритович": 51,
-      "Шамсутдинов Марсель Дикаянович": 19
+      "gas:candidate-vibid:4164024172579": 1089,
+      "gas:candidate-vibid:4164024172476": 69,
+      "gas:candidate-vibid:4164024172372": 115,
+      "gas:candidate-vibid:4164024172893": 60,
+      "gas:candidate-vibid:4164024172925": 134,
+      "gas:candidate-vibid:4164024172699": 51,
+      "gas:candidate-vibid:4164024172747": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1806,
-      "Карымов Дмитрий Юрьевич": 80,
-      "Кудряшов Андрей Витальевич": 118,
-      "Кукоба Людмила Сергеевна": 34,
-      "Миргалимов Хафиз Гаязович": 149,
-      "Рамазанов Рустам Габтилфаритович": 49,
-      "Шамсутдинов Марсель Дикаянович": 41
+      "gas:candidate-vibid:4164024172579": 1806,
+      "gas:candidate-vibid:4164024172476": 80,
+      "gas:candidate-vibid:4164024172372": 118,
+      "gas:candidate-vibid:4164024172893": 34,
+      "gas:candidate-vibid:4164024172925": 149,
+      "gas:candidate-vibid:4164024172699": 49,
+      "gas:candidate-vibid:4164024172747": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 398,
-      "Карымов Дмитрий Юрьевич": 6,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 6
+      "gas:candidate-vibid:4164024172579": 398,
+      "gas:candidate-vibid:4164024172476": 6,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1181,
-      "Карымов Дмитрий Юрьевич": 20,
-      "Кудряшов Андрей Витальевич": 18,
-      "Кукоба Людмила Сергеевна": 17,
-      "Миргалимов Хафиз Гаязович": 121,
-      "Рамазанов Рустам Габтилфаритович": 25,
-      "Шамсутдинов Марсель Дикаянович": 8
+      "gas:candidate-vibid:4164024172579": 1181,
+      "gas:candidate-vibid:4164024172476": 20,
+      "gas:candidate-vibid:4164024172372": 18,
+      "gas:candidate-vibid:4164024172893": 17,
+      "gas:candidate-vibid:4164024172925": 121,
+      "gas:candidate-vibid:4164024172699": 25,
+      "gas:candidate-vibid:4164024172747": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 156,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 156,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 4,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 338,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 338,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 136,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 136,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 1,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1866,
-      "Карымов Дмитрий Юрьевич": 30,
-      "Кудряшов Андрей Витальевич": 20,
-      "Кукоба Людмила Сергеевна": 15,
-      "Миргалимов Хафиз Гаязович": 360,
-      "Рамазанов Рустам Габтилфаритович": 27,
-      "Шамсутдинов Марсель Дикаянович": 15
+      "gas:candidate-vibid:4164024172579": 1866,
+      "gas:candidate-vibid:4164024172476": 30,
+      "gas:candidate-vibid:4164024172372": 20,
+      "gas:candidate-vibid:4164024172893": 15,
+      "gas:candidate-vibid:4164024172925": 360,
+      "gas:candidate-vibid:4164024172699": 27,
+      "gas:candidate-vibid:4164024172747": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1078,
-      "Карымов Дмитрий Юрьевич": 18,
-      "Кудряшов Андрей Витальевич": 45,
-      "Кукоба Людмила Сергеевна": 32,
-      "Миргалимов Хафиз Гаязович": 20,
-      "Рамазанов Рустам Габтилфаритович": 15,
-      "Шамсутдинов Марсель Дикаянович": 9
+      "gas:candidate-vibid:4164024172579": 1078,
+      "gas:candidate-vibid:4164024172476": 18,
+      "gas:candidate-vibid:4164024172372": 45,
+      "gas:candidate-vibid:4164024172893": 32,
+      "gas:candidate-vibid:4164024172925": 20,
+      "gas:candidate-vibid:4164024172699": 15,
+      "gas:candidate-vibid:4164024172747": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 98,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 98,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 407,
-      "Карымов Дмитрий Юрьевич": 28,
-      "Кудряшов Андрей Витальевич": 21,
-      "Кукоба Людмила Сергеевна": 13,
-      "Миргалимов Хафиз Гаязович": 32,
-      "Рамазанов Рустам Габтилфаритович": 18,
-      "Шамсутдинов Марсель Дикаянович": 20
+      "gas:candidate-vibid:4164024172579": 407,
+      "gas:candidate-vibid:4164024172476": 28,
+      "gas:candidate-vibid:4164024172372": 21,
+      "gas:candidate-vibid:4164024172893": 13,
+      "gas:candidate-vibid:4164024172925": 32,
+      "gas:candidate-vibid:4164024172699": 18,
+      "gas:candidate-vibid:4164024172747": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 393,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 393,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 309,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 309,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 12,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 766,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 26,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 766,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 26,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 590,
-      "Карымов Дмитрий Юрьевич": 33,
-      "Кудряшов Андрей Витальевич": 39,
-      "Кукоба Людмила Сергеевна": 12,
-      "Миргалимов Хафиз Гаязович": 96,
-      "Рамазанов Рустам Габтилфаритович": 13,
-      "Шамсутдинов Марсель Дикаянович": 7
+      "gas:candidate-vibid:4164024172579": 590,
+      "gas:candidate-vibid:4164024172476": 33,
+      "gas:candidate-vibid:4164024172372": 39,
+      "gas:candidate-vibid:4164024172893": 12,
+      "gas:candidate-vibid:4164024172925": 96,
+      "gas:candidate-vibid:4164024172699": 13,
+      "gas:candidate-vibid:4164024172747": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 328,
-      "Карымов Дмитрий Юрьевич": 17,
-      "Кудряшов Андрей Витальевич": 13,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 11
+      "gas:candidate-vibid:4164024172579": 328,
+      "gas:candidate-vibid:4164024172476": 17,
+      "gas:candidate-vibid:4164024172372": 13,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 336,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 336,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 15,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 427,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 5,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 427,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 5,
+      "gas:candidate-vibid:4164024172925": 11,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 274,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 274,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 11,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 196,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 196,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 166,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 166,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 1,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 336,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 336,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 11,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1359,
-      "Карымов Дмитрий Юрьевич": 65,
-      "Кудряшов Андрей Витальевич": 86,
-      "Кукоба Людмила Сергеевна": 19,
-      "Миргалимов Хафиз Гаязович": 69,
-      "Рамазанов Рустам Габтилфаритович": 24,
-      "Шамсутдинов Марсель Дикаянович": 28
+      "gas:candidate-vibid:4164024172579": 1359,
+      "gas:candidate-vibid:4164024172476": 65,
+      "gas:candidate-vibid:4164024172372": 86,
+      "gas:candidate-vibid:4164024172893": 19,
+      "gas:candidate-vibid:4164024172925": 69,
+      "gas:candidate-vibid:4164024172699": 24,
+      "gas:candidate-vibid:4164024172747": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 751,
-      "Карымов Дмитрий Юрьевич": 19,
-      "Кудряшов Андрей Витальевич": 16,
-      "Кукоба Людмила Сергеевна": 11,
-      "Миргалимов Хафиз Гаязович": 37,
-      "Рамазанов Рустам Габтилфаритович": 7,
-      "Шамсутдинов Марсель Дикаянович": 10
+      "gas:candidate-vibid:4164024172579": 751,
+      "gas:candidate-vibid:4164024172476": 19,
+      "gas:candidate-vibid:4164024172372": 16,
+      "gas:candidate-vibid:4164024172893": 11,
+      "gas:candidate-vibid:4164024172925": 37,
+      "gas:candidate-vibid:4164024172699": 7,
+      "gas:candidate-vibid:4164024172747": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1316,
-      "Карымов Дмитрий Юрьевич": 25,
-      "Кудряшов Андрей Витальевич": 26,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 30,
-      "Рамазанов Рустам Габтилфаритович": 19,
-      "Шамсутдинов Марсель Дикаянович": 10
+      "gas:candidate-vibid:4164024172579": 1316,
+      "gas:candidate-vibid:4164024172476": 25,
+      "gas:candidate-vibid:4164024172372": 26,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 30,
+      "gas:candidate-vibid:4164024172699": 19,
+      "gas:candidate-vibid:4164024172747": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 663,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 663,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 198,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 198,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1228,
-      "Карымов Дмитрий Юрьевич": 25,
-      "Кудряшов Андрей Витальевич": 30,
-      "Кукоба Людмила Сергеевна": 9,
-      "Миргалимов Хафиз Гаязович": 47,
-      "Рамазанов Рустам Габтилфаритович": 25,
-      "Шамсутдинов Марсель Дикаянович": 33
+      "gas:candidate-vibid:4164024172579": 1228,
+      "gas:candidate-vibid:4164024172476": 25,
+      "gas:candidate-vibid:4164024172372": 30,
+      "gas:candidate-vibid:4164024172893": 9,
+      "gas:candidate-vibid:4164024172925": 47,
+      "gas:candidate-vibid:4164024172699": 25,
+      "gas:candidate-vibid:4164024172747": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 367,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 367,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 837,
-      "Карымов Дмитрий Юрьевич": 31,
-      "Кудряшов Андрей Витальевич": 48,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 39,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 837,
+      "gas:candidate-vibid:4164024172476": 31,
+      "gas:candidate-vibid:4164024172372": 48,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 39,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 813,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 5,
-      "Миргалимов Хафиз Гаязович": 28,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 813,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 5,
+      "gas:candidate-vibid:4164024172925": 28,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562283&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562283&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 166,
-      "Карымов Дмитрий Юрьевич": 18,
-      "Кудряшов Андрей Витальевич": 26,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 36,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 14
+      "gas:candidate-vibid:4164024172579": 166,
+      "gas:candidate-vibid:4164024172476": 18,
+      "gas:candidate-vibid:4164024172372": 26,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 36,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 198,
-      "Карымов Дмитрий Юрьевич": 9,
-      "Кудряшов Андрей Витальевич": 17,
-      "Кукоба Людмила Сергеевна": 13,
-      "Миргалимов Хафиз Гаязович": 35,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 7
+      "gas:candidate-vibid:4164024172579": 198,
+      "gas:candidate-vibid:4164024172476": 9,
+      "gas:candidate-vibid:4164024172372": 17,
+      "gas:candidate-vibid:4164024172893": 13,
+      "gas:candidate-vibid:4164024172925": 35,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 169,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 30,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 27,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 169,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 30,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 27,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 329,
-      "Карымов Дмитрий Юрьевич": 19,
-      "Кудряшов Андрей Витальевич": 46,
-      "Кукоба Людмила Сергеевна": 17,
-      "Миргалимов Хафиз Гаязович": 75,
-      "Рамазанов Рустам Габтилфаритович": 12,
-      "Шамсутдинов Марсель Дикаянович": 14
+      "gas:candidate-vibid:4164024172579": 329,
+      "gas:candidate-vibid:4164024172476": 19,
+      "gas:candidate-vibid:4164024172372": 46,
+      "gas:candidate-vibid:4164024172893": 17,
+      "gas:candidate-vibid:4164024172925": 75,
+      "gas:candidate-vibid:4164024172699": 12,
+      "gas:candidate-vibid:4164024172747": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 337,
-      "Карымов Дмитрий Юрьевич": 40,
-      "Кудряшов Андрей Витальевич": 42,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 95,
-      "Рамазанов Рустам Габтилфаритович": 12,
-      "Шамсутдинов Марсель Дикаянович": 15
+      "gas:candidate-vibid:4164024172579": 337,
+      "gas:candidate-vibid:4164024172476": 40,
+      "gas:candidate-vibid:4164024172372": 42,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 95,
+      "gas:candidate-vibid:4164024172699": 12,
+      "gas:candidate-vibid:4164024172747": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 234,
-      "Карымов Дмитрий Юрьевич": 16,
-      "Кудряшов Андрей Витальевич": 28,
-      "Кукоба Людмила Сергеевна": 25,
-      "Миргалимов Хафиз Гаязович": 37,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 7
+      "gas:candidate-vibid:4164024172579": 234,
+      "gas:candidate-vibid:4164024172476": 16,
+      "gas:candidate-vibid:4164024172372": 28,
+      "gas:candidate-vibid:4164024172893": 25,
+      "gas:candidate-vibid:4164024172925": 37,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 425,
-      "Карымов Дмитрий Юрьевич": 32,
-      "Кудряшов Андрей Витальевич": 34,
-      "Кукоба Людмила Сергеевна": 18,
-      "Миргалимов Хафиз Гаязович": 50,
-      "Рамазанов Рустам Габтилфаритович": 17,
-      "Шамсутдинов Марсель Дикаянович": 18
+      "gas:candidate-vibid:4164024172579": 425,
+      "gas:candidate-vibid:4164024172476": 32,
+      "gas:candidate-vibid:4164024172372": 34,
+      "gas:candidate-vibid:4164024172893": 18,
+      "gas:candidate-vibid:4164024172925": 50,
+      "gas:candidate-vibid:4164024172699": 17,
+      "gas:candidate-vibid:4164024172747": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 189,
-      "Карымов Дмитрий Юрьевич": 15,
-      "Кудряшов Андрей Витальевич": 6,
-      "Кукоба Людмила Сергеевна": 5,
-      "Миргалимов Хафиз Гаязович": 20,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 189,
+      "gas:candidate-vibid:4164024172476": 15,
+      "gas:candidate-vibid:4164024172372": 6,
+      "gas:candidate-vibid:4164024172893": 5,
+      "gas:candidate-vibid:4164024172925": 20,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 484,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 34,
-      "Кукоба Людмила Сергеевна": 13,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 4
+      "gas:candidate-vibid:4164024172579": 484,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 34,
+      "gas:candidate-vibid:4164024172893": 13,
+      "gas:candidate-vibid:4164024172925": 5,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 646,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 18,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 19,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 11
+      "gas:candidate-vibid:4164024172579": 646,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 18,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 19,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 318,
-      "Карымов Дмитрий Юрьевич": 11,
-      "Кудряшов Андрей Витальевич": 18,
-      "Кукоба Людмила Сергеевна": 13,
-      "Миргалимов Хафиз Гаязович": 40,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 16
+      "gas:candidate-vibid:4164024172579": 318,
+      "gas:candidate-vibid:4164024172476": 11,
+      "gas:candidate-vibid:4164024172372": 18,
+      "gas:candidate-vibid:4164024172893": 13,
+      "gas:candidate-vibid:4164024172925": 40,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 357,
-      "Карымов Дмитрий Юрьевич": 28,
-      "Кудряшов Андрей Витальевич": 13,
-      "Кукоба Людмила Сергеевна": 22,
-      "Миргалимов Хафиз Гаязович": 46,
-      "Рамазанов Рустам Габтилфаритович": 13,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 357,
+      "gas:candidate-vibid:4164024172476": 28,
+      "gas:candidate-vibid:4164024172372": 13,
+      "gas:candidate-vibid:4164024172893": 22,
+      "gas:candidate-vibid:4164024172925": 46,
+      "gas:candidate-vibid:4164024172699": 13,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 93,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 93,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 428,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 20,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 20,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 4
+      "gas:candidate-vibid:4164024172579": 428,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 20,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 20,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 349,
-      "Карымов Дмитрий Юрьевич": 13,
-      "Кудряшов Андрей Витальевич": 6,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 24,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 349,
+      "gas:candidate-vibid:4164024172476": 13,
+      "gas:candidate-vibid:4164024172372": 6,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 24,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 381,
-      "Карымов Дмитрий Юрьевич": 22,
-      "Кудряшов Андрей Витальевич": 26,
-      "Кукоба Людмила Сергеевна": 16,
-      "Миргалимов Хафиз Гаязович": 39,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 381,
+      "gas:candidate-vibid:4164024172476": 22,
+      "gas:candidate-vibid:4164024172372": 26,
+      "gas:candidate-vibid:4164024172893": 16,
+      "gas:candidate-vibid:4164024172925": 39,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 478,
-      "Карымов Дмитрий Юрьевич": 22,
-      "Кудряшов Андрей Витальевич": 15,
-      "Кукоба Людмила Сергеевна": 12,
-      "Миргалимов Хафиз Гаязович": 67,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 12
+      "gas:candidate-vibid:4164024172579": 478,
+      "gas:candidate-vibid:4164024172476": 22,
+      "gas:candidate-vibid:4164024172372": 15,
+      "gas:candidate-vibid:4164024172893": 12,
+      "gas:candidate-vibid:4164024172925": 67,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 121,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 121,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 141,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 141,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 190,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 190,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 141,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 141,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 60,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 60,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 4,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 335,
-      "Карымов Дмитрий Юрьевич": 14,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 335,
+      "gas:candidate-vibid:4164024172476": 14,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 17,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 65,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 65,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 95,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 95,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 243,
-      "Карымов Дмитрий Юрьевич": 6,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 8,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 243,
+      "gas:candidate-vibid:4164024172476": 6,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 8,
+      "gas:candidate-vibid:4164024172925": 4,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 186,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 186,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 15,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 314,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 14,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 314,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 14,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 231,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 231,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 6,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 217,
-      "Карымов Дмитрий Юрьевич": 9,
-      "Кудряшов Андрей Витальевич": 10,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 217,
+      "gas:candidate-vibid:4164024172476": 9,
+      "gas:candidate-vibid:4164024172372": 10,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 454,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 454,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 5,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 381,
-      "Карымов Дмитрий Юрьевич": 11,
-      "Кудряшов Андрей Витальевич": 10,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 381,
+      "gas:candidate-vibid:4164024172476": 11,
+      "gas:candidate-vibid:4164024172372": 10,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 13,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 149,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 4,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 149,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 4,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 212,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 212,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 11,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 158,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 6,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 158,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 6,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 6,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 518,
-      "Карымов Дмитрий Юрьевич": 20,
-      "Кудряшов Андрей Витальевич": 15,
-      "Кукоба Людмила Сергеевна": 7,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 9
+      "gas:candidate-vibid:4164024172579": 518,
+      "gas:candidate-vibid:4164024172476": 20,
+      "gas:candidate-vibid:4164024172372": 15,
+      "gas:candidate-vibid:4164024172893": 7,
+      "gas:candidate-vibid:4164024172925": 12,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 334,
-      "Карымов Дмитрий Юрьевич": 18,
-      "Кудряшов Андрей Витальевич": 14,
-      "Кукоба Людмила Сергеевна": 8,
-      "Миргалимов Хафиз Гаязович": 33,
-      "Рамазанов Рустам Габтилфаритович": 6,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 334,
+      "gas:candidate-vibid:4164024172476": 18,
+      "gas:candidate-vibid:4164024172372": 14,
+      "gas:candidate-vibid:4164024172893": 8,
+      "gas:candidate-vibid:4164024172925": 33,
+      "gas:candidate-vibid:4164024172699": 6,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562284&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562284&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 799,
-      "Карымов Дмитрий Юрьевич": 39,
-      "Кудряшов Андрей Витальевич": 48,
-      "Кукоба Людмила Сергеевна": 18,
-      "Миргалимов Хафиз Гаязович": 79,
-      "Рамазанов Рустам Габтилфаритович": 25,
-      "Шамсутдинов Марсель Дикаянович": 12
+      "gas:candidate-vibid:4164024172579": 799,
+      "gas:candidate-vibid:4164024172476": 39,
+      "gas:candidate-vibid:4164024172372": 48,
+      "gas:candidate-vibid:4164024172893": 18,
+      "gas:candidate-vibid:4164024172925": 79,
+      "gas:candidate-vibid:4164024172699": 25,
+      "gas:candidate-vibid:4164024172747": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 829,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 52,
-      "Кукоба Людмила Сергеевна": 15,
-      "Миргалимов Хафиз Гаязович": 104,
-      "Рамазанов Рустам Габтилфаритович": 9,
-      "Шамсутдинов Марсель Дикаянович": 7
+      "gas:candidate-vibid:4164024172579": 829,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 52,
+      "gas:candidate-vibid:4164024172893": 15,
+      "gas:candidate-vibid:4164024172925": 104,
+      "gas:candidate-vibid:4164024172699": 9,
+      "gas:candidate-vibid:4164024172747": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 813,
-      "Карымов Дмитрий Юрьевич": 43,
-      "Кудряшов Андрей Витальевич": 49,
-      "Кукоба Людмила Сергеевна": 11,
-      "Миргалимов Хафиз Гаязович": 126,
-      "Рамазанов Рустам Габтилфаритович": 22,
-      "Шамсутдинов Марсель Дикаянович": 20
+      "gas:candidate-vibid:4164024172579": 813,
+      "gas:candidate-vibid:4164024172476": 43,
+      "gas:candidate-vibid:4164024172372": 49,
+      "gas:candidate-vibid:4164024172893": 11,
+      "gas:candidate-vibid:4164024172925": 126,
+      "gas:candidate-vibid:4164024172699": 22,
+      "gas:candidate-vibid:4164024172747": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 905,
-      "Карымов Дмитрий Юрьевич": 18,
-      "Кудряшов Андрей Витальевич": 22,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 67,
-      "Рамазанов Рустам Габтилфаритович": 12,
-      "Шамсутдинов Марсель Дикаянович": 9
+      "gas:candidate-vibid:4164024172579": 905,
+      "gas:candidate-vibid:4164024172476": 18,
+      "gas:candidate-vibid:4164024172372": 22,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 67,
+      "gas:candidate-vibid:4164024172699": 12,
+      "gas:candidate-vibid:4164024172747": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 774,
-      "Карымов Дмитрий Юрьевич": 42,
-      "Кудряшов Андрей Витальевич": 43,
-      "Кукоба Людмила Сергеевна": 26,
-      "Миргалимов Хафиз Гаязович": 87,
-      "Рамазанов Рустам Габтилфаритович": 28,
-      "Шамсутдинов Марсель Дикаянович": 21
+      "gas:candidate-vibid:4164024172579": 774,
+      "gas:candidate-vibid:4164024172476": 42,
+      "gas:candidate-vibid:4164024172372": 43,
+      "gas:candidate-vibid:4164024172893": 26,
+      "gas:candidate-vibid:4164024172925": 87,
+      "gas:candidate-vibid:4164024172699": 28,
+      "gas:candidate-vibid:4164024172747": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 819,
-      "Карымов Дмитрий Юрьевич": 26,
-      "Кудряшов Андрей Витальевич": 69,
-      "Кукоба Людмила Сергеевна": 20,
-      "Миргалимов Хафиз Гаязович": 83,
-      "Рамазанов Рустам Габтилфаритович": 24,
-      "Шамсутдинов Марсель Дикаянович": 8
+      "gas:candidate-vibid:4164024172579": 819,
+      "gas:candidate-vibid:4164024172476": 26,
+      "gas:candidate-vibid:4164024172372": 69,
+      "gas:candidate-vibid:4164024172893": 20,
+      "gas:candidate-vibid:4164024172925": 83,
+      "gas:candidate-vibid:4164024172699": 24,
+      "gas:candidate-vibid:4164024172747": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 602,
-      "Карымов Дмитрий Юрьевич": 65,
-      "Кудряшов Андрей Витальевич": 71,
-      "Кукоба Людмила Сергеевна": 57,
-      "Миргалимов Хафиз Гаязович": 77,
-      "Рамазанов Рустам Габтилфаритович": 63,
-      "Шамсутдинов Марсель Дикаянович": 65
+      "gas:candidate-vibid:4164024172579": 602,
+      "gas:candidate-vibid:4164024172476": 65,
+      "gas:candidate-vibid:4164024172372": 71,
+      "gas:candidate-vibid:4164024172893": 57,
+      "gas:candidate-vibid:4164024172925": 77,
+      "gas:candidate-vibid:4164024172699": 63,
+      "gas:candidate-vibid:4164024172747": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 849,
-      "Карымов Дмитрий Юрьевич": 12,
-      "Кудряшов Андрей Витальевич": 38,
-      "Кукоба Людмила Сергеевна": 15,
-      "Миргалимов Хафиз Гаязович": 113,
-      "Рамазанов Рустам Габтилфаритович": 14,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 849,
+      "gas:candidate-vibid:4164024172476": 12,
+      "gas:candidate-vibid:4164024172372": 38,
+      "gas:candidate-vibid:4164024172893": 15,
+      "gas:candidate-vibid:4164024172925": 113,
+      "gas:candidate-vibid:4164024172699": 14,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 795,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 10,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 122,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 5
+      "gas:candidate-vibid:4164024172579": 795,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 10,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 122,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 842,
-      "Карымов Дмитрий Юрьевич": 7,
-      "Кудряшов Андрей Витальевич": 40,
-      "Кукоба Людмила Сергеевна": 9,
-      "Миргалимов Хафиз Гаязович": 96,
-      "Рамазанов Рустам Габтилфаритович": 10,
-      "Шамсутдинов Марсель Дикаянович": 9
+      "gas:candidate-vibid:4164024172579": 842,
+      "gas:candidate-vibid:4164024172476": 7,
+      "gas:candidate-vibid:4164024172372": 40,
+      "gas:candidate-vibid:4164024172893": 9,
+      "gas:candidate-vibid:4164024172925": 96,
+      "gas:candidate-vibid:4164024172699": 10,
+      "gas:candidate-vibid:4164024172747": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 797,
-      "Карымов Дмитрий Юрьевич": 56,
-      "Кудряшов Андрей Витальевич": 59,
-      "Кукоба Людмила Сергеевна": 26,
-      "Миргалимов Хафиз Гаязович": 79,
-      "Рамазанов Рустам Габтилфаритович": 32,
-      "Шамсутдинов Марсель Дикаянович": 30
+      "gas:candidate-vibid:4164024172579": 797,
+      "gas:candidate-vibid:4164024172476": 56,
+      "gas:candidate-vibid:4164024172372": 59,
+      "gas:candidate-vibid:4164024172893": 26,
+      "gas:candidate-vibid:4164024172925": 79,
+      "gas:candidate-vibid:4164024172699": 32,
+      "gas:candidate-vibid:4164024172747": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 894,
-      "Карымов Дмитрий Юрьевич": 30,
-      "Кудряшов Андрей Витальевич": 45,
-      "Кукоба Людмила Сергеевна": 19,
-      "Миргалимов Хафиз Гаязович": 96,
-      "Рамазанов Рустам Габтилфаритович": 26,
-      "Шамсутдинов Марсель Дикаянович": 10
+      "gas:candidate-vibid:4164024172579": 894,
+      "gas:candidate-vibid:4164024172476": 30,
+      "gas:candidate-vibid:4164024172372": 45,
+      "gas:candidate-vibid:4164024172893": 19,
+      "gas:candidate-vibid:4164024172925": 96,
+      "gas:candidate-vibid:4164024172699": 26,
+      "gas:candidate-vibid:4164024172747": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 783,
-      "Карымов Дмитрий Юрьевич": 36,
-      "Кудряшов Андрей Витальевич": 31,
-      "Кукоба Людмила Сергеевна": 21,
-      "Миргалимов Хафиз Гаязович": 91,
-      "Рамазанов Рустам Габтилфаритович": 20,
-      "Шамсутдинов Марсель Дикаянович": 12
+      "gas:candidate-vibid:4164024172579": 783,
+      "gas:candidate-vibid:4164024172476": 36,
+      "gas:candidate-vibid:4164024172372": 31,
+      "gas:candidate-vibid:4164024172893": 21,
+      "gas:candidate-vibid:4164024172925": 91,
+      "gas:candidate-vibid:4164024172699": 20,
+      "gas:candidate-vibid:4164024172747": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 806,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 7,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 173,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 806,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 7,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 173,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 873,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 118,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 873,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 118,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562285&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562285&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 604,
-      "Карымов Дмитрий Юрьевич": 6,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 79,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 604,
+      "gas:candidate-vibid:4164024172476": 6,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 79,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 417,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 47,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 417,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 47,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 470,
-      "Карымов Дмитрий Юрьевич": 61,
-      "Кудряшов Андрей Витальевич": 26,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 470,
+      "gas:candidate-vibid:4164024172476": 61,
+      "gas:candidate-vibid:4164024172372": 26,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 190,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 190,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 21,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 459,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 52,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 459,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 52,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 294,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 33,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 294,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 33,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 164,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 164,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 206,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 206,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 119,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 30,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 119,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 30,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 249,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 35,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 249,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 35,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 97,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 97,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 11,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 161,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 161,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 5,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 506,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 8,
-      "Кукоба Людмила Сергеевна": 5,
-      "Миргалимов Хафиз Гаязович": 67,
-      "Рамазанов Рустам Габтилфаритович": 6,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 506,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 8,
+      "gas:candidate-vibid:4164024172893": 5,
+      "gas:candidate-vibid:4164024172925": 67,
+      "gas:candidate-vibid:4164024172699": 6,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 150,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 150,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 13,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 69,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 69,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 4,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 165,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 165,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 131,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 131,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 275,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 275,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 6,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 158,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 158,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 12,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 381,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 44,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 381,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 44,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 64,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 64,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 99,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 99,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 485,
-      "Карымов Дмитрий Юрьевич": 17,
-      "Кудряшов Андрей Витальевич": 21,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 31,
-      "Рамазанов Рустам Габтилфаритович": 6,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 485,
+      "gas:candidate-vibid:4164024172476": 17,
+      "gas:candidate-vibid:4164024172372": 21,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 31,
+      "gas:candidate-vibid:4164024172699": 6,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 120,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 3,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 120,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 3,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 229,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 36,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 229,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 36,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 188,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 26,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 188,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 26,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 256,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 36,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 256,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 36,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 188,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 188,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 21,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 503,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 30,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 503,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 30,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 589,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 60,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 589,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 60,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 504,
-      "Карымов Дмитрий Юрьевич": 10,
-      "Кудряшов Андрей Витальевич": 22,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 63,
-      "Рамазанов Рустам Габтилфаритович": 7,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 504,
+      "gas:candidate-vibid:4164024172476": 10,
+      "gas:candidate-vibid:4164024172372": 22,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 63,
+      "gas:candidate-vibid:4164024172699": 7,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 643,
-      "Карымов Дмитрий Юрьевич": 23,
-      "Кудряшов Андрей Витальевич": 14,
-      "Кукоба Людмила Сергеевна": 6,
-      "Миргалимов Хафиз Гаязович": 194,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 643,
+      "gas:candidate-vibid:4164024172476": 23,
+      "gas:candidate-vibid:4164024172372": 14,
+      "gas:candidate-vibid:4164024172893": 6,
+      "gas:candidate-vibid:4164024172925": 194,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 107,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 107,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 482,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 56,
-      "Рамазанов Рустам Габтилфаритович": 5,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 482,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 56,
+      "gas:candidate-vibid:4164024172699": 5,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 308,
-      "Карымов Дмитрий Юрьевич": 5,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 2,
-      "Миргалимов Хафиз Гаязович": 44,
-      "Рамазанов Рустам Габтилфаритович": 4,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 308,
+      "gas:candidate-vibid:4164024172476": 5,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 2,
+      "gas:candidate-vibid:4164024172925": 44,
+      "gas:candidate-vibid:4164024172699": 4,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 104,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 104,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 15,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 132,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 20,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 132,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 20,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 207,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 207,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 12,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 569,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 4,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 50,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 569,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 4,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 50,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 382,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 6,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 382,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 6,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 471,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 471,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 892,
-      "Карымов Дмитрий Юрьевич": 22,
-      "Кудряшов Андрей Витальевич": 33,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 142,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 892,
+      "gas:candidate-vibid:4164024172476": 22,
+      "gas:candidate-vibid:4164024172372": 33,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 142,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 253,
-      "Карымов Дмитрий Юрьевич": 4,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 27,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 253,
+      "gas:candidate-vibid:4164024172476": 4,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 27,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 143,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 143,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 17,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 107,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 107,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 347,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 2,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 40,
-      "Рамазанов Рустам Габтилфаритович": 2,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 347,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 2,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 40,
+      "gas:candidate-vibid:4164024172699": 2,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 421,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 40,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 421,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 40,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 228,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 22,
-      "Рамазанов Рустам Габтилфаритович": 3,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 228,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 22,
+      "gas:candidate-vibid:4164024172699": 3,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 478,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 9,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 478,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 9,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 110,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 14,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 110,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 14,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 89,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 89,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 10,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 322,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 34,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 322,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 34,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 179,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 3,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 179,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 3,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 282,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 26,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 282,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 26,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 303,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 303,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 1,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 147,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 147,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562286&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562286&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1198,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 9,
-      "Кукоба Людмила Сергеевна": 4,
-      "Миргалимов Хафиз Гаязович": 65,
-      "Рамазанов Рустам Габтилфаритович": 18,
-      "Шамсутдинов Марсель Дикаянович": 6
+      "gas:candidate-vibid:4164024172579": 1198,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 9,
+      "gas:candidate-vibid:4164024172893": 4,
+      "gas:candidate-vibid:4164024172925": 65,
+      "gas:candidate-vibid:4164024172699": 18,
+      "gas:candidate-vibid:4164024172747": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 1207,
-      "Карымов Дмитрий Юрьевич": 11,
-      "Кудряшов Андрей Витальевич": 16,
-      "Кукоба Людмила Сергеевна": 10,
-      "Миргалимов Хафиз Гаязович": 46,
-      "Рамазанов Рустам Габтилфаритович": 11,
-      "Шамсутдинов Марсель Дикаянович": 6
+      "gas:candidate-vibid:4164024172579": 1207,
+      "gas:candidate-vibid:4164024172476": 11,
+      "gas:candidate-vibid:4164024172372": 16,
+      "gas:candidate-vibid:4164024172893": 10,
+      "gas:candidate-vibid:4164024172925": 46,
+      "gas:candidate-vibid:4164024172699": 11,
+      "gas:candidate-vibid:4164024172747": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 346,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 346,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 5,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 674,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 674,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 438,
-      "Карымов Дмитрий Юрьевич": 3,
-      "Кудряшов Андрей Витальевич": 1,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 438,
+      "gas:candidate-vibid:4164024172476": 3,
+      "gas:candidate-vibid:4164024172372": 1,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 3,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 165,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 165,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 0,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 292,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 1
+      "gas:candidate-vibid:4164024172579": 292,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 6,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 556,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 556,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 8,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 129,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 129,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 5,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 382,
-      "Карымов Дмитрий Юрьевич": 0,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Рамазанов Рустам Габтилфаритович": 1,
-      "Шамсутдинов Марсель Дикаянович": 0
+      "gas:candidate-vibid:4164024172579": 382,
+      "gas:candidate-vibid:4164024172476": 0,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 2,
+      "gas:candidate-vibid:4164024172699": 1,
+      "gas:candidate-vibid:4164024172747": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 631,
-      "Карымов Дмитрий Юрьевич": 1,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 2
+      "gas:candidate-vibid:4164024172579": 631,
+      "gas:candidate-vibid:4164024172476": 1,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 0,
+      "gas:candidate-vibid:4164024172925": 7,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_16_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Гильмутдинов Ильдар Ирекович": 488,
-      "Карымов Дмитрий Юрьевич": 2,
-      "Кудряшов Андрей Витальевич": 0,
-      "Кукоба Людмила Сергеевна": 1,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Рамазанов Рустам Габтилфаритович": 0,
-      "Шамсутдинов Марсель Дикаянович": 3
+      "gas:candidate-vibid:4164024172579": 488,
+      "gas:candidate-vibid:4164024172476": 2,
+      "gas:candidate-vibid:4164024172372": 0,
+      "gas:candidate-vibid:4164024172893": 1,
+      "gas:candidate-vibid:4164024172925": 10,
+      "gas:candidate-vibid:4164024172699": 0,
+      "gas:candidate-vibid:4164024172747": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000040&tvd=21620001562287&vrn=100100067795849&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=21620001562287&type=464",

@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 73,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 12,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 26,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 73,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 12,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 26,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 10,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 139,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 25,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 41,
-      "Кузнецов Анатолий Михайлович": 10,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 10,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 139,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 25,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 41,
+      "gas:candidate-vibid:2712000811761": 10,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 7,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 177,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 33,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 35,
-      "Кузнецов Анатолий Михайлович": 12,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 7,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 177,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 33,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 35,
+      "gas:candidate-vibid:2712000811761": 12,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 68,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 11,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 3
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 68,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 11,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 171,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 30,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 43,
-      "Кузнецов Анатолий Михайлович": 12,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 16
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 171,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 30,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 43,
+      "gas:candidate-vibid:2712000811761": 12,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 77,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 24,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 77,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 24,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 73,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 14,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 23,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 73,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 14,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 23,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 5,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 145,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 24,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 17,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 5,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 145,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 24,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 17,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 89,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 18,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 16,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 89,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 18,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 16,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756927&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756927&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 21,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 582,
-      "Дорохов Владимир Юрьевич": 17,
-      "Киндеев Илья Игоревич": 77,
-      "Конев Герман Карпович": 9,
-      "Косарева Татьяна Геннадьевна": 106,
-      "Кузнецов Анатолий Михайлович": 44,
-      "Сафонова Елена Владимировна": 9,
-      "Сахаров Олег Валериевич": 29
+      "gas:candidate-vibid:2712000813423": 21,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 582,
+      "gas:candidate-vibid:2712000813399": 17,
+      "gas:candidate-vibid:2712000809886": 77,
+      "gas:candidate-vibid:2712000812716": 9,
+      "gas:candidate-vibid:2712000812188": 106,
+      "gas:candidate-vibid:2712000811761": 44,
+      "gas:candidate-vibid:2712000813023": 9,
+      "gas:candidate-vibid:2712000814063": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 15,
-      "Годунов Владимир Борисович": 11,
-      "Дзюба Виктор Викторович": 750,
-      "Дорохов Владимир Юрьевич": 14,
-      "Киндеев Илья Игоревич": 52,
-      "Конев Герман Карпович": 7,
-      "Косарева Татьяна Геннадьевна": 85,
-      "Кузнецов Анатолий Михайлович": 47,
-      "Сафонова Елена Владимировна": 14,
-      "Сахаров Олег Валериевич": 27
+      "gas:candidate-vibid:2712000813423": 15,
+      "gas:candidate-vibid:2712000814249": 11,
+      "gas:candidate-vibid:2712000812230": 750,
+      "gas:candidate-vibid:2712000813399": 14,
+      "gas:candidate-vibid:2712000809886": 52,
+      "gas:candidate-vibid:2712000812716": 7,
+      "gas:candidate-vibid:2712000812188": 85,
+      "gas:candidate-vibid:2712000811761": 47,
+      "gas:candidate-vibid:2712000813023": 14,
+      "gas:candidate-vibid:2712000814063": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 223,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 17,
-      "Конев Герман Карпович": 6,
-      "Косарева Татьяна Геннадьевна": 14,
-      "Кузнецов Анатолий Михайлович": 8,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 223,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 17,
+      "gas:candidate-vibid:2712000812716": 6,
+      "gas:candidate-vibid:2712000812188": 14,
+      "gas:candidate-vibid:2712000811761": 8,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 15,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 464,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 56,
-      "Конев Герман Карпович": 7,
-      "Косарева Татьяна Геннадьевна": 75,
-      "Кузнецов Анатолий Михайлович": 24,
-      "Сафонова Елена Владимировна": 14,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 15,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 464,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 56,
+      "gas:candidate-vibid:2712000812716": 7,
+      "gas:candidate-vibid:2712000812188": 75,
+      "gas:candidate-vibid:2712000811761": 24,
+      "gas:candidate-vibid:2712000813023": 14,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 231,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 37,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 29,
-      "Кузнецов Анатолий Михайлович": 22,
-      "Сафонова Елена Владимировна": 13,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 231,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 37,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 29,
+      "gas:candidate-vibid:2712000811761": 22,
+      "gas:candidate-vibid:2712000813023": 13,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 147,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 11,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 24,
-      "Кузнецов Анатолий Михайлович": 12,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 147,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 11,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 24,
+      "gas:candidate-vibid:2712000811761": 12,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 152,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 6,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 15,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 11
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 152,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 6,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 15,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 164,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 13,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 14,
-      "Кузнецов Анатолий Михайлович": 6,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 164,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 13,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 14,
+      "gas:candidate-vibid:2712000811761": 6,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 100,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 10,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 100,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 10,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 5,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 144,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 14,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 13,
-      "Кузнецов Анатолий Михайлович": 11,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 5,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 144,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 14,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 13,
+      "gas:candidate-vibid:2712000811761": 11,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 91,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 3,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 91,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 3,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 143,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 9,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 15,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 143,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 9,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 15,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 85,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 5,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 5,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 85,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 5,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 5,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 146,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 16,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 24,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 146,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 16,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 24,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 7,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 201,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 15,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 11,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 6
+      "gas:candidate-vibid:2712000813423": 7,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 201,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 15,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 11,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756928&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756928&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 224,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 15,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 224,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 15,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 218,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 5,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 10,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 218,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 5,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 10,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 93,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 6,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 2,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 9,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 93,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 6,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 2,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 9,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 188,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 3,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 188,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 3,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 117,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 9,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 7,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 117,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 9,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 7,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 5,
-      "Годунов Владимир Борисович": 9,
-      "Дзюба Виктор Викторович": 507,
-      "Дорохов Владимир Юрьевич": 28,
-      "Киндеев Илья Игоревич": 58,
-      "Конев Герман Карпович": 11,
-      "Косарева Татьяна Геннадьевна": 41,
-      "Кузнецов Анатолий Михайлович": 22,
-      "Сафонова Елена Владимировна": 10,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 5,
+      "gas:candidate-vibid:2712000814249": 9,
+      "gas:candidate-vibid:2712000812230": 507,
+      "gas:candidate-vibid:2712000813399": 28,
+      "gas:candidate-vibid:2712000809886": 58,
+      "gas:candidate-vibid:2712000812716": 11,
+      "gas:candidate-vibid:2712000812188": 41,
+      "gas:candidate-vibid:2712000811761": 22,
+      "gas:candidate-vibid:2712000813023": 10,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 231,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 14,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 10,
-      "Кузнецов Анатолий Михайлович": 10,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 231,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 14,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 10,
+      "gas:candidate-vibid:2712000811761": 10,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1903,16 +1903,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 55,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 5,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 55,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 5,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -1963,16 +1963,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 286,
-      "Дорохов Владимир Юрьевич": 8,
-      "Киндеев Илья Игоревич": 29,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 26,
-      "Кузнецов Анатолий Михайлович": 8,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 3
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 286,
+      "gas:candidate-vibid:2712000813399": 8,
+      "gas:candidate-vibid:2712000809886": 29,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 26,
+      "gas:candidate-vibid:2712000811761": 8,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2023,16 +2023,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 165,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 15,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 17,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 165,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 15,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 17,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2083,16 +2083,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 16,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 288,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 18,
-      "Конев Герман Карпович": 9,
-      "Косарева Татьяна Геннадьевна": 49,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 16,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 288,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 18,
+      "gas:candidate-vibid:2712000812716": 9,
+      "gas:candidate-vibid:2712000812188": 49,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2143,16 +2143,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 227,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 16,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 13,
-      "Кузнецов Анатолий Михайлович": 11,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 3
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 227,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 16,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 13,
+      "gas:candidate-vibid:2712000811761": 11,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2203,16 +2203,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 13,
-      "Годунов Владимир Борисович": 25,
-      "Дзюба Виктор Викторович": 458,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 57,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 81,
-      "Кузнецов Анатолий Михайлович": 35,
-      "Сафонова Елена Владимировна": 10,
-      "Сахаров Олег Валериевич": 23
+      "gas:candidate-vibid:2712000813423": 13,
+      "gas:candidate-vibid:2712000814249": 25,
+      "gas:candidate-vibid:2712000812230": 458,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 57,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 81,
+      "gas:candidate-vibid:2712000811761": 35,
+      "gas:candidate-vibid:2712000813023": 10,
+      "gas:candidate-vibid:2712000814063": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2263,16 +2263,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 22,
-      "Годунов Владимир Борисович": 18,
-      "Дзюба Виктор Викторович": 659,
-      "Дорохов Владимир Юрьевич": 23,
-      "Киндеев Илья Игоревич": 65,
-      "Конев Герман Карпович": 35,
-      "Косарева Татьяна Геннадьевна": 67,
-      "Кузнецов Анатолий Михайлович": 37,
-      "Сафонова Елена Владимировна": 14,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 22,
+      "gas:candidate-vibid:2712000814249": 18,
+      "gas:candidate-vibid:2712000812230": 659,
+      "gas:candidate-vibid:2712000813399": 23,
+      "gas:candidate-vibid:2712000809886": 65,
+      "gas:candidate-vibid:2712000812716": 35,
+      "gas:candidate-vibid:2712000812188": 67,
+      "gas:candidate-vibid:2712000811761": 37,
+      "gas:candidate-vibid:2712000813023": 14,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2323,16 +2323,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 230,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 12,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 230,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 12,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2383,16 +2383,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 91,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 6,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 91,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 6,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2443,16 +2443,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 182,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 8,
-      "Кузнецов Анатолий Михайлович": 26,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 182,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 8,
+      "gas:candidate-vibid:2712000811761": 26,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2503,16 +2503,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 238,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 16,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 238,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 16,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2563,16 +2563,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 16,
-      "Дзюба Виктор Викторович": 205,
-      "Дорохов Владимир Юрьевич": 20,
-      "Киндеев Илья Игоревич": 16,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 17,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 16,
+      "gas:candidate-vibid:2712000812230": 205,
+      "gas:candidate-vibid:2712000813399": 20,
+      "gas:candidate-vibid:2712000809886": 16,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 17,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2623,16 +2623,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 378,
-      "Дорохов Владимир Юрьевич": 11,
-      "Киндеев Илья Игоревич": 26,
-      "Конев Герман Карпович": 6,
-      "Косарева Татьяна Геннадьевна": 53,
-      "Кузнецов Анатолий Михайлович": 11,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 22
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 378,
+      "gas:candidate-vibid:2712000813399": 11,
+      "gas:candidate-vibid:2712000809886": 26,
+      "gas:candidate-vibid:2712000812716": 6,
+      "gas:candidate-vibid:2712000812188": 53,
+      "gas:candidate-vibid:2712000811761": 11,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2683,16 +2683,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 272,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 18,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 47,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 20
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 272,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 18,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 47,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2743,16 +2743,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 12,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 128,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 3,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 7,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 12,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 128,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 3,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 7,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756929&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756929&type=464",
@@ -2803,16 +2803,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 22,
-      "Годунов Владимир Борисович": 12,
-      "Дзюба Виктор Викторович": 403,
-      "Дорохов Владимир Юрьевич": 27,
-      "Киндеев Илья Игоревич": 63,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 77,
-      "Кузнецов Анатолий Михайлович": 29,
-      "Сафонова Елена Владимировна": 16,
-      "Сахаров Олег Валериевич": 14
+      "gas:candidate-vibid:2712000813423": 22,
+      "gas:candidate-vibid:2712000814249": 12,
+      "gas:candidate-vibid:2712000812230": 403,
+      "gas:candidate-vibid:2712000813399": 27,
+      "gas:candidate-vibid:2712000809886": 63,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 77,
+      "gas:candidate-vibid:2712000811761": 29,
+      "gas:candidate-vibid:2712000813023": 16,
+      "gas:candidate-vibid:2712000814063": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -2863,16 +2863,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 338,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 44,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 60,
-      "Кузнецов Анатолий Михайлович": 27,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 338,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 44,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 60,
+      "gas:candidate-vibid:2712000811761": 27,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -2923,16 +2923,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 8,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 227,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 33,
-      "Конев Герман Карпович": 9,
-      "Косарева Татьяна Геннадьевна": 81,
-      "Кузнецов Анатолий Михайлович": 22,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 8,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 227,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 33,
+      "gas:candidate-vibid:2712000812716": 9,
+      "gas:candidate-vibid:2712000812188": 81,
+      "gas:candidate-vibid:2712000811761": 22,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -2983,16 +2983,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 13,
-      "Дзюба Виктор Викторович": 341,
-      "Дорохов Владимир Юрьевич": 17,
-      "Киндеев Илья Игоревич": 69,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 83,
-      "Кузнецов Анатолий Михайлович": 39,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 20
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 13,
+      "gas:candidate-vibid:2712000812230": 341,
+      "gas:candidate-vibid:2712000813399": 17,
+      "gas:candidate-vibid:2712000809886": 69,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 83,
+      "gas:candidate-vibid:2712000811761": 39,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3043,16 +3043,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 271,
-      "Дорохов Владимир Юрьевич": 10,
-      "Киндеев Илья Игоревич": 53,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 68,
-      "Кузнецов Анатолий Михайлович": 23,
-      "Сафонова Елена Владимировна": 10,
-      "Сахаров Олег Валериевич": 15
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 271,
+      "gas:candidate-vibid:2712000813399": 10,
+      "gas:candidate-vibid:2712000809886": 53,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 68,
+      "gas:candidate-vibid:2712000811761": 23,
+      "gas:candidate-vibid:2712000813023": 10,
+      "gas:candidate-vibid:2712000814063": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3103,16 +3103,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 249,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 38,
-      "Конев Герман Карпович": 6,
-      "Косарева Татьяна Геннадьевна": 64,
-      "Кузнецов Анатолий Михайлович": 16,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 249,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 38,
+      "gas:candidate-vibid:2712000812716": 6,
+      "gas:candidate-vibid:2712000812188": 64,
+      "gas:candidate-vibid:2712000811761": 16,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3163,16 +3163,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 19,
-      "Годунов Владимир Борисович": 19,
-      "Дзюба Виктор Викторович": 338,
-      "Дорохов Владимир Юрьевич": 21,
-      "Киндеев Илья Игоревич": 74,
-      "Конев Герман Карпович": 13,
-      "Косарева Татьяна Геннадьевна": 111,
-      "Кузнецов Анатолий Михайлович": 46,
-      "Сафонова Елена Владимировна": 18,
-      "Сахаров Олег Валериевич": 23
+      "gas:candidate-vibid:2712000813423": 19,
+      "gas:candidate-vibid:2712000814249": 19,
+      "gas:candidate-vibid:2712000812230": 338,
+      "gas:candidate-vibid:2712000813399": 21,
+      "gas:candidate-vibid:2712000809886": 74,
+      "gas:candidate-vibid:2712000812716": 13,
+      "gas:candidate-vibid:2712000812188": 111,
+      "gas:candidate-vibid:2712000811761": 46,
+      "gas:candidate-vibid:2712000813023": 18,
+      "gas:candidate-vibid:2712000814063": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3223,16 +3223,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 8,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 162,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 13,
-      "Конев Герман Карпович": 6,
-      "Косарева Татьяна Геннадьевна": 35,
-      "Кузнецов Анатолий Михайлович": 7,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 8,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 162,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 13,
+      "gas:candidate-vibid:2712000812716": 6,
+      "gas:candidate-vibid:2712000812188": 35,
+      "gas:candidate-vibid:2712000811761": 7,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3283,16 +3283,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 20,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 294,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 43,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 64,
-      "Кузнецов Анатолий Михайлович": 25,
-      "Сафонова Елена Владимировна": 14,
-      "Сахаров Олег Валериевич": 19
+      "gas:candidate-vibid:2712000813423": 20,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 294,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 43,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 64,
+      "gas:candidate-vibid:2712000811761": 25,
+      "gas:candidate-vibid:2712000813023": 14,
+      "gas:candidate-vibid:2712000814063": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3343,16 +3343,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 11,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 240,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 37,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 72,
-      "Кузнецов Анатолий Михайлович": 27,
-      "Сафонова Елена Владимировна": 16,
-      "Сахаров Олег Валериевич": 23
+      "gas:candidate-vibid:2712000813423": 11,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 240,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 37,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 72,
+      "gas:candidate-vibid:2712000811761": 27,
+      "gas:candidate-vibid:2712000813023": 16,
+      "gas:candidate-vibid:2712000814063": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3403,16 +3403,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 268,
-      "Дорохов Владимир Юрьевич": 13,
-      "Киндеев Илья Игоревич": 47,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 67,
-      "Кузнецов Анатолий Михайлович": 31,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 23
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 268,
+      "gas:candidate-vibid:2712000813399": 13,
+      "gas:candidate-vibid:2712000809886": 47,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 67,
+      "gas:candidate-vibid:2712000811761": 31,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3463,16 +3463,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 12,
-      "Годунов Владимир Борисович": 11,
-      "Дзюба Виктор Викторович": 257,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 28,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 79,
-      "Кузнецов Анатолий Михайлович": 24,
-      "Сафонова Елена Владимировна": 9,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 12,
+      "gas:candidate-vibid:2712000814249": 11,
+      "gas:candidate-vibid:2712000812230": 257,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 28,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 79,
+      "gas:candidate-vibid:2712000811761": 24,
+      "gas:candidate-vibid:2712000813023": 9,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3523,16 +3523,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 8,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 244,
-      "Дорохов Владимир Юрьевич": 8,
-      "Киндеев Илья Игоревич": 43,
-      "Конев Герман Карпович": 6,
-      "Косарева Татьяна Геннадьевна": 49,
-      "Кузнецов Анатолий Михайлович": 10,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 8,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 244,
+      "gas:candidate-vibid:2712000813399": 8,
+      "gas:candidate-vibid:2712000809886": 43,
+      "gas:candidate-vibid:2712000812716": 6,
+      "gas:candidate-vibid:2712000812188": 49,
+      "gas:candidate-vibid:2712000811761": 10,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3583,16 +3583,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 157,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 23,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 58,
-      "Кузнецов Анатолий Михайлович": 8,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 157,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 23,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 58,
+      "gas:candidate-vibid:2712000811761": 8,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3643,16 +3643,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 90,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 6,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 2,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 90,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 6,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 2,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3703,16 +3703,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 169,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 13,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 9,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 169,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 13,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 9,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3763,16 +3763,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 14,
-      "Дзюба Виктор Викторович": 247,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 44,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 54,
-      "Кузнецов Анатолий Михайлович": 12,
-      "Сафонова Елена Владимировна": 10,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 14,
+      "gas:candidate-vibid:2712000812230": 247,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 44,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 54,
+      "gas:candidate-vibid:2712000811761": 12,
+      "gas:candidate-vibid:2712000813023": 10,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3823,16 +3823,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 13,
-      "Годунов Владимир Борисович": 8,
-      "Дзюба Виктор Викторович": 352,
-      "Дорохов Владимир Юрьевич": 11,
-      "Киндеев Илья Игоревич": 36,
-      "Конев Герман Карпович": 7,
-      "Косарева Татьяна Геннадьевна": 61,
-      "Кузнецов Анатолий Михайлович": 23,
-      "Сафонова Елена Владимировна": 16,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 13,
+      "gas:candidate-vibid:2712000814249": 8,
+      "gas:candidate-vibid:2712000812230": 352,
+      "gas:candidate-vibid:2712000813399": 11,
+      "gas:candidate-vibid:2712000809886": 36,
+      "gas:candidate-vibid:2712000812716": 7,
+      "gas:candidate-vibid:2712000812188": 61,
+      "gas:candidate-vibid:2712000811761": 23,
+      "gas:candidate-vibid:2712000813023": 16,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3883,16 +3883,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 12,
-      "Годунов Владимир Борисович": 9,
-      "Дзюба Виктор Викторович": 283,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 32,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 51,
-      "Кузнецов Анатолий Михайлович": 18,
-      "Сафонова Елена Владимировна": 9,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 12,
+      "gas:candidate-vibid:2712000814249": 9,
+      "gas:candidate-vibid:2712000812230": 283,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 32,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 51,
+      "gas:candidate-vibid:2712000811761": 18,
+      "gas:candidate-vibid:2712000813023": 9,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -3943,16 +3943,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 11,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 241,
-      "Дорохов Владимир Юрьевич": 11,
-      "Киндеев Илья Игоревич": 37,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 64,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 26
+      "gas:candidate-vibid:2712000813423": 11,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 241,
+      "gas:candidate-vibid:2712000813399": 11,
+      "gas:candidate-vibid:2712000809886": 37,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 64,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4003,16 +4003,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 453,
-      "Дорохов Владимир Юрьевич": 19,
-      "Киндеев Илья Игоревич": 43,
-      "Конев Герман Карпович": 16,
-      "Косарева Татьяна Геннадьевна": 47,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 453,
+      "gas:candidate-vibid:2712000813399": 19,
+      "gas:candidate-vibid:2712000809886": 43,
+      "gas:candidate-vibid:2712000812716": 16,
+      "gas:candidate-vibid:2712000812188": 47,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4063,16 +4063,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 10,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 349,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 37,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 62,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 10,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 349,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 37,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 62,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4123,16 +4123,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 11,
-      "Годунов Владимир Борисович": 9,
-      "Дзюба Виктор Викторович": 511,
-      "Дорохов Владимир Юрьевич": 16,
-      "Киндеев Илья Игоревич": 37,
-      "Конев Герман Карпович": 9,
-      "Косарева Татьяна Геннадьевна": 92,
-      "Кузнецов Анатолий Михайлович": 18,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 11,
+      "gas:candidate-vibid:2712000814249": 9,
+      "gas:candidate-vibid:2712000812230": 511,
+      "gas:candidate-vibid:2712000813399": 16,
+      "gas:candidate-vibid:2712000809886": 37,
+      "gas:candidate-vibid:2712000812716": 9,
+      "gas:candidate-vibid:2712000812188": 92,
+      "gas:candidate-vibid:2712000811761": 18,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4183,16 +4183,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 156,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 5,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 21,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 156,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 5,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 21,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4243,16 +4243,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 231,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 16,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 231,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 16,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4303,16 +4303,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 54,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 10,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 3,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 54,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 10,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 3,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4363,16 +4363,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 107,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 15,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 6,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 107,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 15,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 6,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4423,16 +4423,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 107,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 16,
-      "Кузнецов Анатолий Михайлович": 7,
-      "Сафонова Елена Владимировна": 5,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 107,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 16,
+      "gas:candidate-vibid:2712000811761": 7,
+      "gas:candidate-vibid:2712000813023": 5,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4483,16 +4483,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 200,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 32,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 63,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 200,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 32,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 63,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4543,16 +4543,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 114,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 12,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 25,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 114,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 12,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 25,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4603,16 +4603,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 525,
-      "Дорохов Владимир Юрьевич": 10,
-      "Киндеев Илья Игоревич": 18,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 22,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 525,
+      "gas:candidate-vibid:2712000813399": 10,
+      "gas:candidate-vibid:2712000809886": 18,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 22,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4663,16 +4663,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 89,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 12,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 12,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 3
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 89,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 12,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 12,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4723,16 +4723,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 174,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 28,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 174,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 28,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4783,16 +4783,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 215,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 9,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 13,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 215,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 9,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 13,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4843,16 +4843,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 42,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 2,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 9,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 42,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 2,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 9,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4903,16 +4903,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 135,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 12,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 135,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 12,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -4963,16 +4963,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 113,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 9,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 113,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 9,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5023,16 +5023,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 417,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 21,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 59,
-      "Кузнецов Анатолий Михайлович": 19,
-      "Сафонова Елена Владимировна": 10,
-      "Сахаров Олег Валериевич": 15
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 417,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 21,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 59,
+      "gas:candidate-vibid:2712000811761": 19,
+      "gas:candidate-vibid:2712000813023": 10,
+      "gas:candidate-vibid:2712000814063": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5083,16 +5083,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 9,
-      "Дзюба Виктор Викторович": 367,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 25,
-      "Конев Герман Карпович": 7,
-      "Косарева Татьяна Геннадьевна": 39,
-      "Кузнецов Анатолий Михайлович": 21,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 15
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 9,
+      "gas:candidate-vibid:2712000812230": 367,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 25,
+      "gas:candidate-vibid:2712000812716": 7,
+      "gas:candidate-vibid:2712000812188": 39,
+      "gas:candidate-vibid:2712000811761": 21,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5143,16 +5143,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 11,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 349,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 42,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 99,
-      "Кузнецов Анатолий Михайлович": 14,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 11,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 349,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 42,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 99,
+      "gas:candidate-vibid:2712000811761": 14,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5203,16 +5203,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 18,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 337,
-      "Дорохов Владимир Юрьевич": 10,
-      "Киндеев Илья Игоревич": 36,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 56,
-      "Кузнецов Анатолий Михайлович": 20,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 11
+      "gas:candidate-vibid:2712000813423": 18,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 337,
+      "gas:candidate-vibid:2712000813399": 10,
+      "gas:candidate-vibid:2712000809886": 36,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 56,
+      "gas:candidate-vibid:2712000811761": 20,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5263,16 +5263,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 8,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 432,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 10,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 27,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 8,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 432,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 10,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 27,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5323,16 +5323,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 12,
-      "Дзюба Виктор Викторович": 298,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 23,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 28,
-      "Кузнецов Анатолий Михайлович": 10,
-      "Сафонова Елена Владимировна": 7,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 12,
+      "gas:candidate-vibid:2712000812230": 298,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 23,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 28,
+      "gas:candidate-vibid:2712000811761": 10,
+      "gas:candidate-vibid:2712000813023": 7,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5383,16 +5383,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 323,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 11,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 36,
-      "Кузнецов Анатолий Михайлович": 8,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 323,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 11,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 36,
+      "gas:candidate-vibid:2712000811761": 8,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5443,16 +5443,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 172,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 28,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 172,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 28,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756930&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756930&type=464",
@@ -5503,16 +5503,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 242,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 24,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 25,
-      "Кузнецов Анатолий Михайлович": 6,
-      "Сафонова Елена Владимировна": 8,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 242,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 24,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 25,
+      "gas:candidate-vibid:2712000811761": 6,
+      "gas:candidate-vibid:2712000813023": 8,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5563,16 +5563,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 268,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 30,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 58,
-      "Кузнецов Анатолий Михайлович": 21,
-      "Сафонова Елена Владимировна": 9,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 268,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 30,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 58,
+      "gas:candidate-vibid:2712000811761": 21,
+      "gas:candidate-vibid:2712000813023": 9,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5623,16 +5623,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 7,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 64,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 0,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 4,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 7,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 64,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 0,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 4,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5683,16 +5683,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 143,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 11,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 10,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 143,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 11,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 10,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5743,16 +5743,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 76,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 15,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 76,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 15,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5803,16 +5803,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 65,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 19,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 65,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 19,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5863,16 +5863,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 5,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 140,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 1,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 8,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 3
+      "gas:candidate-vibid:2712000813423": 5,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 140,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 1,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 8,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5923,16 +5923,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 245,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 12,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 23,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 245,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 12,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 23,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -5983,16 +5983,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 188,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 15,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 17,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 188,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 15,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 17,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6043,16 +6043,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 128,
-      "Дорохов Владимир Юрьевич": 6,
-      "Киндеев Илья Игоревич": 3,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 8,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 128,
+      "gas:candidate-vibid:2712000813399": 6,
+      "gas:candidate-vibid:2712000809886": 3,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 8,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6103,16 +6103,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 172,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 7,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 172,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 7,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6163,16 +6163,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 50,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 3,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 50,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 3,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6223,16 +6223,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 136,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 3,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 11,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 8
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 136,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 3,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 11,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6283,16 +6283,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 108,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 2,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 9,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 108,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 2,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 9,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6343,16 +6343,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 124,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 14,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 6
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 124,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 14,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6403,16 +6403,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 302,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 17,
-      "Конев Герман Карпович": 6,
-      "Косарева Татьяна Геннадьевна": 27,
-      "Кузнецов Анатолий Михайлович": 32,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 302,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 17,
+      "gas:candidate-vibid:2712000812716": 6,
+      "gas:candidate-vibid:2712000812188": 27,
+      "gas:candidate-vibid:2712000811761": 32,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6463,16 +6463,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 85,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 9,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 10,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 7
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 85,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 9,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 10,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6523,16 +6523,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 124,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 1,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 7,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 124,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 1,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 7,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6583,16 +6583,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 132,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 3,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 12,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 132,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 3,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 12,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6643,16 +6643,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 94,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 2,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 3,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 94,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 2,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 3,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6703,16 +6703,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 228,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 39,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 33,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 228,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 39,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 33,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6763,16 +6763,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 11,
-      "Дзюба Виктор Викторович": 202,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 16,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 19,
-      "Кузнецов Анатолий Михайлович": 7,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 11,
+      "gas:candidate-vibid:2712000812230": 202,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 16,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 19,
+      "gas:candidate-vibid:2712000811761": 7,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6823,16 +6823,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 7,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 296,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 19,
-      "Конев Герман Карпович": 8,
-      "Косарева Татьяна Геннадьевна": 34,
-      "Кузнецов Анатолий Михайлович": 5,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 13
+      "gas:candidate-vibid:2712000813423": 7,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 296,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 19,
+      "gas:candidate-vibid:2712000812716": 8,
+      "gas:candidate-vibid:2712000812188": 34,
+      "gas:candidate-vibid:2712000811761": 5,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6883,16 +6883,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 209,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 20,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 38,
-      "Кузнецов Анатолий Михайлович": 12,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 17
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 209,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 20,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 38,
+      "gas:candidate-vibid:2712000811761": 12,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -6943,16 +6943,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 5,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 242,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 30,
-      "Конев Герман Карпович": 7,
-      "Косарева Татьяна Геннадьевна": 38,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 11
+      "gas:candidate-vibid:2712000813423": 5,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 242,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 30,
+      "gas:candidate-vibid:2712000812716": 7,
+      "gas:candidate-vibid:2712000812188": 38,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7003,16 +7003,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 193,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 23,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 28,
-      "Кузнецов Анатолий Михайлович": 6,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 6
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 193,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 23,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 28,
+      "gas:candidate-vibid:2712000811761": 6,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7063,16 +7063,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 252,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 17,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 40,
-      "Кузнецов Анатолий Михайлович": 9,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 11
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 252,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 17,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 40,
+      "gas:candidate-vibid:2712000811761": 9,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7123,16 +7123,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 9,
-      "Дзюба Виктор Викторович": 187,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 28,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 30,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 9,
+      "gas:candidate-vibid:2712000812230": 187,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 28,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 30,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7183,16 +7183,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 227,
-      "Дорохов Владимир Юрьевич": 9,
-      "Киндеев Илья Игоревич": 36,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 51,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 14
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 227,
+      "gas:candidate-vibid:2712000813399": 9,
+      "gas:candidate-vibid:2712000809886": 36,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 51,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7243,16 +7243,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 7,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 204,
-      "Дорохов Владимир Юрьевич": 8,
-      "Киндеев Илья Игоревич": 22,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 35,
-      "Кузнецов Анатолий Михайлович": 8,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 15
+      "gas:candidate-vibid:2712000813423": 7,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 204,
+      "gas:candidate-vibid:2712000813399": 8,
+      "gas:candidate-vibid:2712000809886": 22,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 35,
+      "gas:candidate-vibid:2712000811761": 8,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7303,16 +7303,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 10,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 184,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 24,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 48,
-      "Кузнецов Анатолий Михайлович": 22,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 11
+      "gas:candidate-vibid:2712000813423": 10,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 184,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 24,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 48,
+      "gas:candidate-vibid:2712000811761": 22,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7363,16 +7363,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 14,
-      "Годунов Владимир Борисович": 7,
-      "Дзюба Виктор Викторович": 252,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 31,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 31,
-      "Кузнецов Анатолий Михайлович": 17,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 14,
+      "gas:candidate-vibid:2712000814249": 7,
+      "gas:candidate-vibid:2712000812230": 252,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 31,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 31,
+      "gas:candidate-vibid:2712000811761": 17,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7423,16 +7423,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 9,
-      "Годунов Владимир Борисович": 10,
-      "Дзюба Виктор Викторович": 209,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 22,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 52,
-      "Кузнецов Анатолий Михайлович": 13,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 12
+      "gas:candidate-vibid:2712000813423": 9,
+      "gas:candidate-vibid:2712000814249": 10,
+      "gas:candidate-vibid:2712000812230": 209,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 22,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 52,
+      "gas:candidate-vibid:2712000811761": 13,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7483,16 +7483,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 4,
-      "Годунов Владимир Борисович": 6,
-      "Дзюба Виктор Викторович": 259,
-      "Дорохов Владимир Юрьевич": 7,
-      "Киндеев Илья Игоревич": 28,
-      "Конев Герман Карпович": 3,
-      "Косарева Татьяна Геннадьевна": 34,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 6
+      "gas:candidate-vibid:2712000813423": 4,
+      "gas:candidate-vibid:2712000814249": 6,
+      "gas:candidate-vibid:2712000812230": 259,
+      "gas:candidate-vibid:2712000813399": 7,
+      "gas:candidate-vibid:2712000809886": 28,
+      "gas:candidate-vibid:2712000812716": 3,
+      "gas:candidate-vibid:2712000812188": 34,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7543,16 +7543,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 5,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 205,
-      "Дорохов Владимир Юрьевич": 5,
-      "Киндеев Илья Игоревич": 23,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 37,
-      "Кузнецов Анатолий Михайлович": 19,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 5,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 205,
+      "gas:candidate-vibid:2712000813399": 5,
+      "gas:candidate-vibid:2712000809886": 23,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 37,
+      "gas:candidate-vibid:2712000811761": 19,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756931&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756931&type=464",
@@ -7603,16 +7603,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 18,
-      "Годунов Владимир Борисович": 32,
-      "Дзюба Виктор Викторович": 681,
-      "Дорохов Владимир Юрьевич": 11,
-      "Киндеев Илья Игоревич": 73,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 99,
-      "Кузнецов Анатолий Михайлович": 28,
-      "Сафонова Елена Владимировна": 16,
-      "Сахаров Олег Валериевич": 28
+      "gas:candidate-vibid:2712000813423": 18,
+      "gas:candidate-vibid:2712000814249": 32,
+      "gas:candidate-vibid:2712000812230": 681,
+      "gas:candidate-vibid:2712000813399": 11,
+      "gas:candidate-vibid:2712000809886": 73,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 99,
+      "gas:candidate-vibid:2712000811761": 28,
+      "gas:candidate-vibid:2712000813023": 16,
+      "gas:candidate-vibid:2712000814063": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -7663,16 +7663,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 15,
-      "Годунов Владимир Борисович": 9,
-      "Дзюба Виктор Викторович": 590,
-      "Дорохов Владимир Юрьевич": 11,
-      "Киндеев Илья Игоревич": 79,
-      "Конев Герман Карпович": 5,
-      "Косарева Татьяна Геннадьевна": 91,
-      "Кузнецов Анатолий Михайлович": 27,
-      "Сафонова Елена Владимировна": 13,
-      "Сахаров Олег Валериевич": 26
+      "gas:candidate-vibid:2712000813423": 15,
+      "gas:candidate-vibid:2712000814249": 9,
+      "gas:candidate-vibid:2712000812230": 590,
+      "gas:candidate-vibid:2712000813399": 11,
+      "gas:candidate-vibid:2712000809886": 79,
+      "gas:candidate-vibid:2712000812716": 5,
+      "gas:candidate-vibid:2712000812188": 91,
+      "gas:candidate-vibid:2712000811761": 27,
+      "gas:candidate-vibid:2712000813023": 13,
+      "gas:candidate-vibid:2712000814063": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -7723,16 +7723,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 121,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 8,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 18,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 2,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 121,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 8,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 18,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 2,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -7783,16 +7783,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 84,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 4,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 84,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 4,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -7843,16 +7843,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 4,
-      "Дзюба Виктор Викторович": 122,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 13,
-      "Конев Герман Карпович": 4,
-      "Косарева Татьяна Геннадьевна": 14,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 4,
+      "gas:candidate-vibid:2712000812230": 122,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 13,
+      "gas:candidate-vibid:2712000812716": 4,
+      "gas:candidate-vibid:2712000812188": 14,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -7903,16 +7903,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 7,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 124,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 21,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 5,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 9
+      "gas:candidate-vibid:2712000813423": 7,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 124,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 21,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 5,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -7963,16 +7963,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 42,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 5,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 6,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 42,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 5,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 6,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8023,16 +8023,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 38,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 1,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 4,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 38,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 1,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 4,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8083,16 +8083,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 76,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 3,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 14,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 76,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 3,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 14,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8143,16 +8143,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 104,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 10,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 104,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 10,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8203,16 +8203,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 55,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 11,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 55,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 11,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8263,16 +8263,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 86,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 5,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 13,
-      "Кузнецов Анатолий Михайлович": 0,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 86,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 5,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 13,
+      "gas:candidate-vibid:2712000811761": 0,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8323,16 +8323,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 0,
-      "Дзюба Виктор Викторович": 50,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 4,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 9,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 0,
+      "gas:candidate-vibid:2712000812230": 50,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 4,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 9,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8383,16 +8383,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 61,
-      "Дорохов Владимир Юрьевич": 1,
-      "Киндеев Илья Игоревич": 3,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 11,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 61,
+      "gas:candidate-vibid:2712000813399": 1,
+      "gas:candidate-vibid:2712000809886": 3,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 11,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8443,16 +8443,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 1,
-      "Дзюба Виктор Викторович": 128,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 10,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 13,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 1,
+      "gas:candidate-vibid:2712000812230": 128,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 10,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 13,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8503,16 +8503,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 0,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 77,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 9,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 12,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 1,
-      "Сахаров Олег Валериевич": 1
+      "gas:candidate-vibid:2712000813423": 0,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 77,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 9,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 12,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 1,
+      "gas:candidate-vibid:2712000814063": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8563,16 +8563,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 10,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 197,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 11,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 16,
-      "Кузнецов Анатолий Михайлович": 4,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 6
+      "gas:candidate-vibid:2712000813423": 10,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 197,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 11,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 16,
+      "gas:candidate-vibid:2712000811761": 4,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8623,16 +8623,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 2,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 107,
-      "Дорохов Владимир Юрьевич": 3,
-      "Киндеев Илья Игоревич": 13,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 11,
-      "Кузнецов Анатолий Михайлович": 2,
-      "Сафонова Елена Владимировна": 4,
-      "Сахаров Олег Валериевич": 0
+      "gas:candidate-vibid:2712000813423": 2,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 107,
+      "gas:candidate-vibid:2712000813399": 3,
+      "gas:candidate-vibid:2712000809886": 13,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 11,
+      "gas:candidate-vibid:2712000811761": 2,
+      "gas:candidate-vibid:2712000813023": 4,
+      "gas:candidate-vibid:2712000814063": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8683,16 +8683,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 1,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 98,
-      "Дорохов Владимир Юрьевич": 0,
-      "Киндеев Илья Игоревич": 7,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 7,
-      "Кузнецов Анатолий Михайлович": 3,
-      "Сафонова Елена Владимировна": 3,
-      "Сахаров Олег Валериевич": 4
+      "gas:candidate-vibid:2712000813423": 1,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 98,
+      "gas:candidate-vibid:2712000813399": 0,
+      "gas:candidate-vibid:2712000809886": 7,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 7,
+      "gas:candidate-vibid:2712000811761": 3,
+      "gas:candidate-vibid:2712000813023": 3,
+      "gas:candidate-vibid:2712000814063": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8743,16 +8743,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 3,
-      "Годунов Владимир Борисович": 2,
-      "Дзюба Виктор Викторович": 73,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 2,
-      "Конев Герман Карпович": 0,
-      "Косарева Татьяна Геннадьевна": 7,
-      "Кузнецов Анатолий Михайлович": 1,
-      "Сафонова Елена Владимировна": 0,
-      "Сахаров Олег Валериевич": 2
+      "gas:candidate-vibid:2712000813423": 3,
+      "gas:candidate-vibid:2712000814249": 2,
+      "gas:candidate-vibid:2712000812230": 73,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 2,
+      "gas:candidate-vibid:2712000812716": 0,
+      "gas:candidate-vibid:2712000812188": 7,
+      "gas:candidate-vibid:2712000811761": 1,
+      "gas:candidate-vibid:2712000813023": 0,
+      "gas:candidate-vibid:2712000814063": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8803,16 +8803,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 3,
-      "Дзюба Виктор Викторович": 279,
-      "Дорохов Владимир Юрьевич": 4,
-      "Киндеев Илья Игоревич": 23,
-      "Конев Герман Карпович": 2,
-      "Косарева Татьяна Геннадьевна": 23,
-      "Кузнецов Анатолий Михайлович": 15,
-      "Сафонова Елена Владимировна": 6,
-      "Сахаров Олег Валериевич": 5
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 3,
+      "gas:candidate-vibid:2712000812230": 279,
+      "gas:candidate-vibid:2712000813399": 4,
+      "gas:candidate-vibid:2712000809886": 23,
+      "gas:candidate-vibid:2712000812716": 2,
+      "gas:candidate-vibid:2712000812188": 23,
+      "gas:candidate-vibid:2712000811761": 15,
+      "gas:candidate-vibid:2712000813023": 6,
+      "gas:candidate-vibid:2712000814063": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8863,16 +8863,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Батищева Елизавета Андреевна": 6,
-      "Годунов Владимир Борисович": 5,
-      "Дзюба Виктор Викторович": 239,
-      "Дорохов Владимир Юрьевич": 2,
-      "Киндеев Илья Игоревич": 21,
-      "Конев Герман Карпович": 1,
-      "Косарева Татьяна Геннадьевна": 25,
-      "Кузнецов Анатолий Михайлович": 8,
-      "Сафонова Елена Владимировна": 14,
-      "Сахаров Олег Валериевич": 6
+      "gas:candidate-vibid:2712000813423": 6,
+      "gas:candidate-vibid:2712000814249": 5,
+      "gas:candidate-vibid:2712000812230": 239,
+      "gas:candidate-vibid:2712000813399": 2,
+      "gas:candidate-vibid:2712000809886": 21,
+      "gas:candidate-vibid:2712000812716": 1,
+      "gas:candidate-vibid:2712000812188": 25,
+      "gas:candidate-vibid:2712000811761": 8,
+      "gas:candidate-vibid:2712000813023": 14,
+      "gas:candidate-vibid:2712000814063": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000242&tvd=2712000756932&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756932&type=464",
@@ -8923,16 +8923,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 18,
-      "Афонский Владимир Игорьевич": 205,
-      "Балберов Александр Александрович": 22,
-      "Гребенщиков Сергей Валерьевич": 19,
-      "Ефремов Роман Николаевич": 6,
-      "Жукова Анастасия Владимировна": 10,
-      "Коновалова Елена Викторовна": 3,
-      "Лебедев Олег Александрович": 29,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 18,
+      "gas:candidate-vibid:2712000812219": 205,
+      "gas:candidate-vibid:2712000809871": 22,
+      "gas:candidate-vibid:2712000811774": 19,
+      "gas:candidate-vibid:2712000812695": 6,
+      "gas:candidate-vibid:2712000813464": 10,
+      "gas:candidate-vibid:2712000813452": 3,
+      "gas:candidate-vibid:2712000812156": 29,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -8983,16 +8983,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 132,
-      "Балберов Александр Александрович": 17,
-      "Гребенщиков Сергей Валерьевич": 10,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 1,
-      "Лебедев Олег Александрович": 38,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 132,
+      "gas:candidate-vibid:2712000809871": 17,
+      "gas:candidate-vibid:2712000811774": 10,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 1,
+      "gas:candidate-vibid:2712000812156": 38,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9043,16 +9043,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 18,
-      "Афонский Владимир Игорьевич": 155,
-      "Балберов Александр Александрович": 17,
-      "Гребенщиков Сергей Валерьевич": 19,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 7,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 42,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 18,
+      "gas:candidate-vibid:2712000812219": 155,
+      "gas:candidate-vibid:2712000809871": 17,
+      "gas:candidate-vibid:2712000811774": 19,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 7,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 42,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9103,16 +9103,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 5,
-      "Афонский Владимир Игорьевич": 88,
-      "Балберов Александр Александрович": 12,
-      "Гребенщиков Сергей Валерьевич": 2,
-      "Ефремов Роман Николаевич": 0,
-      "Жукова Анастасия Владимировна": 2,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 13,
-      "Новгородов Алексей Викторович": 0,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 5,
+      "gas:candidate-vibid:2712000812219": 88,
+      "gas:candidate-vibid:2712000809871": 12,
+      "gas:candidate-vibid:2712000811774": 2,
+      "gas:candidate-vibid:2712000812695": 0,
+      "gas:candidate-vibid:2712000813464": 2,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 13,
+      "gas:candidate-vibid:2712000814270": 0,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9163,16 +9163,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 13,
-      "Афонский Владимир Игорьевич": 134,
-      "Балберов Александр Александрович": 18,
-      "Гребенщиков Сергей Валерьевич": 11,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 4,
-      "Лебедев Олег Александрович": 26,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 13,
+      "gas:candidate-vibid:2712000812219": 134,
+      "gas:candidate-vibid:2712000809871": 18,
+      "gas:candidate-vibid:2712000811774": 11,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 4,
+      "gas:candidate-vibid:2712000812156": 26,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9223,16 +9223,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 2,
-      "Афонский Владимир Игорьевич": 173,
-      "Балберов Александр Александрович": 6,
-      "Гребенщиков Сергей Валерьевич": 2,
-      "Ефремов Роман Николаевич": 2,
-      "Жукова Анастасия Владимировна": 5,
-      "Коновалова Елена Викторовна": 6,
-      "Лебедев Олег Александрович": 12,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 2,
+      "gas:candidate-vibid:2712000812219": 173,
+      "gas:candidate-vibid:2712000809871": 6,
+      "gas:candidate-vibid:2712000811774": 2,
+      "gas:candidate-vibid:2712000812695": 2,
+      "gas:candidate-vibid:2712000813464": 5,
+      "gas:candidate-vibid:2712000813452": 6,
+      "gas:candidate-vibid:2712000812156": 12,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9283,16 +9283,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 263,
-      "Балберов Александр Александрович": 13,
-      "Гребенщиков Сергей Валерьевич": 13,
-      "Ефремов Роман Николаевич": 2,
-      "Жукова Анастасия Владимировна": 1,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 14,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 263,
+      "gas:candidate-vibid:2712000809871": 13,
+      "gas:candidate-vibid:2712000811774": 13,
+      "gas:candidate-vibid:2712000812695": 2,
+      "gas:candidate-vibid:2712000813464": 1,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 14,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9343,16 +9343,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 5,
-      "Афонский Владимир Игорьевич": 129,
-      "Балберов Александр Александрович": 9,
-      "Гребенщиков Сергей Валерьевич": 8,
-      "Ефремов Роман Николаевич": 0,
-      "Жукова Анастасия Владимировна": 3,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 12,
-      "Новгородов Алексей Викторович": 2,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 5,
+      "gas:candidate-vibid:2712000812219": 129,
+      "gas:candidate-vibid:2712000809871": 9,
+      "gas:candidate-vibid:2712000811774": 8,
+      "gas:candidate-vibid:2712000812695": 0,
+      "gas:candidate-vibid:2712000813464": 3,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 12,
+      "gas:candidate-vibid:2712000814270": 2,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9403,16 +9403,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 11,
-      "Афонский Владимир Игорьевич": 245,
-      "Балберов Александр Александрович": 21,
-      "Гребенщиков Сергей Валерьевич": 11,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 4,
-      "Коновалова Елена Викторовна": 1,
-      "Лебедев Олег Александрович": 38,
-      "Новгородов Алексей Викторович": 5,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 11,
+      "gas:candidate-vibid:2712000812219": 245,
+      "gas:candidate-vibid:2712000809871": 21,
+      "gas:candidate-vibid:2712000811774": 11,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 4,
+      "gas:candidate-vibid:2712000813452": 1,
+      "gas:candidate-vibid:2712000812156": 38,
+      "gas:candidate-vibid:2712000814270": 5,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9463,16 +9463,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 0,
-      "Афонский Владимир Игорьевич": 63,
-      "Балберов Александр Александрович": 4,
-      "Гребенщиков Сергей Валерьевич": 3,
-      "Ефремов Роман Николаевич": 0,
-      "Жукова Анастасия Владимировна": 4,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 2,
-      "Новгородов Алексей Викторович": 2,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 0,
+      "gas:candidate-vibid:2712000812219": 63,
+      "gas:candidate-vibid:2712000809871": 4,
+      "gas:candidate-vibid:2712000811774": 3,
+      "gas:candidate-vibid:2712000812695": 0,
+      "gas:candidate-vibid:2712000813464": 4,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 2,
+      "gas:candidate-vibid:2712000814270": 2,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9523,16 +9523,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 5,
-      "Афонский Владимир Игорьевич": 123,
-      "Балберов Александр Александрович": 5,
-      "Гребенщиков Сергей Валерьевич": 3,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 16,
-      "Новгородов Алексей Викторович": 2,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 5,
+      "gas:candidate-vibid:2712000812219": 123,
+      "gas:candidate-vibid:2712000809871": 5,
+      "gas:candidate-vibid:2712000811774": 3,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 16,
+      "gas:candidate-vibid:2712000814270": 2,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9583,16 +9583,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 12,
-      "Афонский Владимир Игорьевич": 157,
-      "Балберов Александр Александрович": 39,
-      "Гребенщиков Сергей Валерьевич": 19,
-      "Ефремов Роман Николаевич": 7,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 34,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 12,
+      "gas:candidate-vibid:2712000812219": 157,
+      "gas:candidate-vibid:2712000809871": 39,
+      "gas:candidate-vibid:2712000811774": 19,
+      "gas:candidate-vibid:2712000812695": 7,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 34,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9643,16 +9643,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 9,
-      "Афонский Владимир Игорьевич": 195,
-      "Балберов Александр Александрович": 20,
-      "Гребенщиков Сергей Валерьевич": 11,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 4,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 20,
-      "Новгородов Алексей Викторович": 2,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 9,
+      "gas:candidate-vibid:2712000812219": 195,
+      "gas:candidate-vibid:2712000809871": 20,
+      "gas:candidate-vibid:2712000811774": 11,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 4,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 20,
+      "gas:candidate-vibid:2712000814270": 2,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9703,16 +9703,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 3,
-      "Афонский Владимир Игорьевич": 98,
-      "Балберов Александр Александрович": 7,
-      "Гребенщиков Сергей Валерьевич": 1,
-      "Ефремов Роман Николаевич": 2,
-      "Жукова Анастасия Владимировна": 2,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 3,
-      "Новгородов Алексей Викторович": 0,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 3,
+      "gas:candidate-vibid:2712000812219": 98,
+      "gas:candidate-vibid:2712000809871": 7,
+      "gas:candidate-vibid:2712000811774": 1,
+      "gas:candidate-vibid:2712000812695": 2,
+      "gas:candidate-vibid:2712000813464": 2,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 3,
+      "gas:candidate-vibid:2712000814270": 0,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9763,16 +9763,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 11,
-      "Афонский Владимир Игорьевич": 213,
-      "Балберов Александр Александрович": 19,
-      "Гребенщиков Сергей Валерьевич": 3,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 1,
-      "Коновалова Елена Викторовна": 3,
-      "Лебедев Олег Александрович": 21,
-      "Новгородов Алексей Викторович": 1,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 11,
+      "gas:candidate-vibid:2712000812219": 213,
+      "gas:candidate-vibid:2712000809871": 19,
+      "gas:candidate-vibid:2712000811774": 3,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 1,
+      "gas:candidate-vibid:2712000813452": 3,
+      "gas:candidate-vibid:2712000812156": 21,
+      "gas:candidate-vibid:2712000814270": 1,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9823,16 +9823,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 8,
-      "Афонский Владимир Игорьевич": 181,
-      "Балберов Александр Александрович": 23,
-      "Гребенщиков Сергей Валерьевич": 20,
-      "Ефремов Роман Николаевич": 8,
-      "Жукова Анастасия Владимировна": 10,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 38,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 8,
+      "gas:candidate-vibid:2712000812219": 181,
+      "gas:candidate-vibid:2712000809871": 23,
+      "gas:candidate-vibid:2712000811774": 20,
+      "gas:candidate-vibid:2712000812695": 8,
+      "gas:candidate-vibid:2712000813464": 10,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 38,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9883,16 +9883,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 8,
-      "Афонский Владимир Игорьевич": 188,
-      "Балберов Александр Александрович": 21,
-      "Гребенщиков Сергей Валерьевич": 13,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 5,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 21,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2712000812208": 8,
+      "gas:candidate-vibid:2712000812219": 188,
+      "gas:candidate-vibid:2712000809871": 21,
+      "gas:candidate-vibid:2712000811774": 13,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 5,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 21,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -9943,16 +9943,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 11,
-      "Афонский Владимир Игорьевич": 271,
-      "Балберов Александр Александрович": 16,
-      "Гребенщиков Сергей Валерьевич": 10,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 25,
-      "Коновалова Елена Викторовна": 3,
-      "Лебедев Олег Александрович": 18,
-      "Новгородов Алексей Викторович": 1,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 11,
+      "gas:candidate-vibid:2712000812219": 271,
+      "gas:candidate-vibid:2712000809871": 16,
+      "gas:candidate-vibid:2712000811774": 10,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 25,
+      "gas:candidate-vibid:2712000813452": 3,
+      "gas:candidate-vibid:2712000812156": 18,
+      "gas:candidate-vibid:2712000814270": 1,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10003,16 +10003,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 162,
-      "Балберов Александр Александрович": 7,
-      "Гребенщиков Сергей Валерьевич": 1,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 3,
-      "Коновалова Елена Викторовна": 9,
-      "Лебедев Олег Александрович": 13,
-      "Новгородов Алексей Викторович": 7,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 162,
+      "gas:candidate-vibid:2712000809871": 7,
+      "gas:candidate-vibid:2712000811774": 1,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 3,
+      "gas:candidate-vibid:2712000813452": 9,
+      "gas:candidate-vibid:2712000812156": 13,
+      "gas:candidate-vibid:2712000814270": 7,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10063,16 +10063,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 15,
-      "Афонский Владимир Игорьевич": 207,
-      "Балберов Александр Александрович": 56,
-      "Гребенщиков Сергей Валерьевич": 27,
-      "Ефремов Роман Николаевич": 13,
-      "Жукова Анастасия Владимировна": 16,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 60,
-      "Новгородов Алексей Викторович": 14,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 15,
+      "gas:candidate-vibid:2712000812219": 207,
+      "gas:candidate-vibid:2712000809871": 56,
+      "gas:candidate-vibid:2712000811774": 27,
+      "gas:candidate-vibid:2712000812695": 13,
+      "gas:candidate-vibid:2712000813464": 16,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 60,
+      "gas:candidate-vibid:2712000814270": 14,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10123,16 +10123,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 11,
-      "Афонский Владимир Игорьевич": 399,
-      "Балберов Александр Александрович": 39,
-      "Гребенщиков Сергей Валерьевич": 16,
-      "Ефремов Роман Николаевич": 7,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 53,
-      "Новгородов Алексей Викторович": 13,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 11,
+      "gas:candidate-vibid:2712000812219": 399,
+      "gas:candidate-vibid:2712000809871": 39,
+      "gas:candidate-vibid:2712000811774": 16,
+      "gas:candidate-vibid:2712000812695": 7,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 53,
+      "gas:candidate-vibid:2712000814270": 13,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10183,16 +10183,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 29,
-      "Афонский Владимир Игорьевич": 365,
-      "Балберов Александр Александрович": 71,
-      "Гребенщиков Сергей Валерьевич": 27,
-      "Ефремов Роман Николаевич": 9,
-      "Жукова Анастасия Владимировна": 27,
-      "Коновалова Елена Викторовна": 16,
-      "Лебедев Олег Александрович": 81,
-      "Новгородов Алексей Викторович": 13,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 29,
+      "gas:candidate-vibid:2712000812219": 365,
+      "gas:candidate-vibid:2712000809871": 71,
+      "gas:candidate-vibid:2712000811774": 27,
+      "gas:candidate-vibid:2712000812695": 9,
+      "gas:candidate-vibid:2712000813464": 27,
+      "gas:candidate-vibid:2712000813452": 16,
+      "gas:candidate-vibid:2712000812156": 81,
+      "gas:candidate-vibid:2712000814270": 13,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10243,16 +10243,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 24,
-      "Афонский Владимир Игорьевич": 342,
-      "Балберов Александр Александрович": 57,
-      "Гребенщиков Сергей Валерьевич": 48,
-      "Ефремов Роман Николаевич": 6,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 9,
-      "Лебедев Олег Александрович": 116,
-      "Новгородов Алексей Викторович": 10,
-      "Серегин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2712000812208": 24,
+      "gas:candidate-vibid:2712000812219": 342,
+      "gas:candidate-vibid:2712000809871": 57,
+      "gas:candidate-vibid:2712000811774": 48,
+      "gas:candidate-vibid:2712000812695": 6,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 9,
+      "gas:candidate-vibid:2712000812156": 116,
+      "gas:candidate-vibid:2712000814270": 10,
+      "gas:candidate-vibid:2712000813041": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10303,16 +10303,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 403,
-      "Балберов Александр Александрович": 75,
-      "Гребенщиков Сергей Валерьевич": 41,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 8,
-      "Лебедев Олег Александрович": 181,
-      "Новгородов Алексей Викторович": 11,
-      "Серегин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 403,
+      "gas:candidate-vibid:2712000809871": 75,
+      "gas:candidate-vibid:2712000811774": 41,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 8,
+      "gas:candidate-vibid:2712000812156": 181,
+      "gas:candidate-vibid:2712000814270": 11,
+      "gas:candidate-vibid:2712000813041": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10363,16 +10363,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 316,
-      "Балберов Александр Александрович": 58,
-      "Гребенщиков Сергей Валерьевич": 56,
-      "Ефремов Роман Николаевич": 11,
-      "Жукова Анастасия Владимировна": 10,
-      "Коновалова Елена Викторовна": 16,
-      "Лебедев Олег Александрович": 108,
-      "Новгородов Алексей Викторович": 8,
-      "Серегин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 316,
+      "gas:candidate-vibid:2712000809871": 58,
+      "gas:candidate-vibid:2712000811774": 56,
+      "gas:candidate-vibid:2712000812695": 11,
+      "gas:candidate-vibid:2712000813464": 10,
+      "gas:candidate-vibid:2712000813452": 16,
+      "gas:candidate-vibid:2712000812156": 108,
+      "gas:candidate-vibid:2712000814270": 8,
+      "gas:candidate-vibid:2712000813041": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10423,16 +10423,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 8,
-      "Афонский Владимир Игорьевич": 136,
-      "Балберов Александр Александрович": 29,
-      "Гребенщиков Сергей Валерьевич": 4,
-      "Ефремов Роман Николаевич": 6,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 24,
-      "Новгородов Алексей Викторович": 1,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 8,
+      "gas:candidate-vibid:2712000812219": 136,
+      "gas:candidate-vibid:2712000809871": 29,
+      "gas:candidate-vibid:2712000811774": 4,
+      "gas:candidate-vibid:2712000812695": 6,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 24,
+      "gas:candidate-vibid:2712000814270": 1,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10483,16 +10483,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 30,
-      "Афонский Владимир Игорьевич": 508,
-      "Балберов Александр Александрович": 109,
-      "Гребенщиков Сергей Валерьевич": 70,
-      "Ефремов Роман Николаевич": 20,
-      "Жукова Анастасия Владимировна": 26,
-      "Коновалова Елена Викторовна": 14,
-      "Лебедев Олег Александрович": 257,
-      "Новгородов Алексей Викторович": 27,
-      "Серегин Михаил Юрьевич": 17
+      "gas:candidate-vibid:2712000812208": 30,
+      "gas:candidate-vibid:2712000812219": 508,
+      "gas:candidate-vibid:2712000809871": 109,
+      "gas:candidate-vibid:2712000811774": 70,
+      "gas:candidate-vibid:2712000812695": 20,
+      "gas:candidate-vibid:2712000813464": 26,
+      "gas:candidate-vibid:2712000813452": 14,
+      "gas:candidate-vibid:2712000812156": 257,
+      "gas:candidate-vibid:2712000814270": 27,
+      "gas:candidate-vibid:2712000813041": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10543,16 +10543,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 10,
-      "Афонский Владимир Игорьевич": 145,
-      "Балберов Александр Александрович": 31,
-      "Гребенщиков Сергей Валерьевич": 22,
-      "Ефремов Роман Николаевич": 8,
-      "Жукова Анастасия Владимировна": 3,
-      "Коновалова Елена Викторовна": 9,
-      "Лебедев Олег Александрович": 80,
-      "Новгородов Алексей Викторович": 9,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 10,
+      "gas:candidate-vibid:2712000812219": 145,
+      "gas:candidate-vibid:2712000809871": 31,
+      "gas:candidate-vibid:2712000811774": 22,
+      "gas:candidate-vibid:2712000812695": 8,
+      "gas:candidate-vibid:2712000813464": 3,
+      "gas:candidate-vibid:2712000813452": 9,
+      "gas:candidate-vibid:2712000812156": 80,
+      "gas:candidate-vibid:2712000814270": 9,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10603,16 +10603,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 21,
-      "Афонский Владимир Игорьевич": 363,
-      "Балберов Александр Александрович": 78,
-      "Гребенщиков Сергей Валерьевич": 43,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 16,
-      "Коновалова Елена Викторовна": 15,
-      "Лебедев Олег Александрович": 138,
-      "Новгородов Алексей Викторович": 11,
-      "Серегин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2712000812208": 21,
+      "gas:candidate-vibid:2712000812219": 363,
+      "gas:candidate-vibid:2712000809871": 78,
+      "gas:candidate-vibid:2712000811774": 43,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 16,
+      "gas:candidate-vibid:2712000813452": 15,
+      "gas:candidate-vibid:2712000812156": 138,
+      "gas:candidate-vibid:2712000814270": 11,
+      "gas:candidate-vibid:2712000813041": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756933&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756933&type=464",
@@ -10663,16 +10663,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 26,
-      "Афонский Владимир Игорьевич": 407,
-      "Балберов Александр Александрович": 90,
-      "Гребенщиков Сергей Валерьевич": 48,
-      "Ефремов Роман Николаевич": 16,
-      "Жукова Анастасия Владимировна": 24,
-      "Коновалова Елена Викторовна": 16,
-      "Лебедев Олег Александрович": 216,
-      "Новгородов Алексей Викторович": 21,
-      "Серегин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2712000812208": 26,
+      "gas:candidate-vibid:2712000812219": 407,
+      "gas:candidate-vibid:2712000809871": 90,
+      "gas:candidate-vibid:2712000811774": 48,
+      "gas:candidate-vibid:2712000812695": 16,
+      "gas:candidate-vibid:2712000813464": 24,
+      "gas:candidate-vibid:2712000813452": 16,
+      "gas:candidate-vibid:2712000812156": 216,
+      "gas:candidate-vibid:2712000814270": 21,
+      "gas:candidate-vibid:2712000813041": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -10723,16 +10723,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 21,
-      "Афонский Владимир Игорьевич": 430,
-      "Балберов Александр Александрович": 89,
-      "Гребенщиков Сергей Валерьевич": 44,
-      "Ефремов Роман Николаевич": 15,
-      "Жукова Анастасия Владимировна": 23,
-      "Коновалова Елена Викторовна": 17,
-      "Лебедев Олег Александрович": 211,
-      "Новгородов Алексей Викторович": 40,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 21,
+      "gas:candidate-vibid:2712000812219": 430,
+      "gas:candidate-vibid:2712000809871": 89,
+      "gas:candidate-vibid:2712000811774": 44,
+      "gas:candidate-vibid:2712000812695": 15,
+      "gas:candidate-vibid:2712000813464": 23,
+      "gas:candidate-vibid:2712000813452": 17,
+      "gas:candidate-vibid:2712000812156": 211,
+      "gas:candidate-vibid:2712000814270": 40,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -10783,16 +10783,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 28,
-      "Афонский Владимир Игорьевич": 372,
-      "Балберов Александр Александрович": 80,
-      "Гребенщиков Сергей Валерьевич": 37,
-      "Ефремов Роман Николаевич": 17,
-      "Жукова Анастасия Владимировна": 10,
-      "Коновалова Елена Викторовна": 28,
-      "Лебедев Олег Александрович": 102,
-      "Новгородов Алексей Викторович": 13,
-      "Серегин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2712000812208": 28,
+      "gas:candidate-vibid:2712000812219": 372,
+      "gas:candidate-vibid:2712000809871": 80,
+      "gas:candidate-vibid:2712000811774": 37,
+      "gas:candidate-vibid:2712000812695": 17,
+      "gas:candidate-vibid:2712000813464": 10,
+      "gas:candidate-vibid:2712000813452": 28,
+      "gas:candidate-vibid:2712000812156": 102,
+      "gas:candidate-vibid:2712000814270": 13,
+      "gas:candidate-vibid:2712000813041": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -10843,16 +10843,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 31,
-      "Афонский Владимир Игорьевич": 381,
-      "Балберов Александр Александрович": 61,
-      "Гребенщиков Сергей Валерьевич": 33,
-      "Ефремов Роман Николаевич": 15,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 19,
-      "Лебедев Олег Александрович": 151,
-      "Новгородов Алексей Викторович": 17,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 31,
+      "gas:candidate-vibid:2712000812219": 381,
+      "gas:candidate-vibid:2712000809871": 61,
+      "gas:candidate-vibid:2712000811774": 33,
+      "gas:candidate-vibid:2712000812695": 15,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 19,
+      "gas:candidate-vibid:2712000812156": 151,
+      "gas:candidate-vibid:2712000814270": 17,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -10903,16 +10903,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 30,
-      "Афонский Владимир Игорьевич": 369,
-      "Балберов Александр Александрович": 71,
-      "Гребенщиков Сергей Валерьевич": 36,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 15,
-      "Коновалова Елена Викторовна": 11,
-      "Лебедев Олег Александрович": 125,
-      "Новгородов Алексей Викторович": 27,
-      "Серегин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2712000812208": 30,
+      "gas:candidate-vibid:2712000812219": 369,
+      "gas:candidate-vibid:2712000809871": 71,
+      "gas:candidate-vibid:2712000811774": 36,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 15,
+      "gas:candidate-vibid:2712000813452": 11,
+      "gas:candidate-vibid:2712000812156": 125,
+      "gas:candidate-vibid:2712000814270": 27,
+      "gas:candidate-vibid:2712000813041": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -10963,16 +10963,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 25,
-      "Афонский Владимир Игорьевич": 414,
-      "Балберов Александр Александрович": 96,
-      "Гребенщиков Сергей Валерьевич": 38,
-      "Ефремов Роман Николаевич": 14,
-      "Жукова Анастасия Владимировна": 21,
-      "Коновалова Елена Викторовна": 13,
-      "Лебедев Олег Александрович": 125,
-      "Новгородов Алексей Викторович": 26,
-      "Серегин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2712000812208": 25,
+      "gas:candidate-vibid:2712000812219": 414,
+      "gas:candidate-vibid:2712000809871": 96,
+      "gas:candidate-vibid:2712000811774": 38,
+      "gas:candidate-vibid:2712000812695": 14,
+      "gas:candidate-vibid:2712000813464": 21,
+      "gas:candidate-vibid:2712000813452": 13,
+      "gas:candidate-vibid:2712000812156": 125,
+      "gas:candidate-vibid:2712000814270": 26,
+      "gas:candidate-vibid:2712000813041": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11023,16 +11023,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 5,
-      "Афонский Владимир Игорьевич": 510,
-      "Балберов Александр Александрович": 22,
-      "Гребенщиков Сергей Валерьевич": 37,
-      "Ефремов Роман Николаевич": 17,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 10,
-      "Лебедев Олег Александрович": 160,
-      "Новгородов Алексей Викторович": 33,
-      "Серегин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2712000812208": 5,
+      "gas:candidate-vibid:2712000812219": 510,
+      "gas:candidate-vibid:2712000809871": 22,
+      "gas:candidate-vibid:2712000811774": 37,
+      "gas:candidate-vibid:2712000812695": 17,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 10,
+      "gas:candidate-vibid:2712000812156": 160,
+      "gas:candidate-vibid:2712000814270": 33,
+      "gas:candidate-vibid:2712000813041": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11083,16 +11083,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 30,
-      "Афонский Владимир Игорьевич": 415,
-      "Балберов Александр Александрович": 83,
-      "Гребенщиков Сергей Валерьевич": 48,
-      "Ефремов Роман Николаевич": 20,
-      "Жукова Анастасия Владимировна": 16,
-      "Коновалова Елена Викторовна": 30,
-      "Лебедев Олег Александрович": 181,
-      "Новгородов Алексей Викторович": 44,
-      "Серегин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2712000812208": 30,
+      "gas:candidate-vibid:2712000812219": 415,
+      "gas:candidate-vibid:2712000809871": 83,
+      "gas:candidate-vibid:2712000811774": 48,
+      "gas:candidate-vibid:2712000812695": 20,
+      "gas:candidate-vibid:2712000813464": 16,
+      "gas:candidate-vibid:2712000813452": 30,
+      "gas:candidate-vibid:2712000812156": 181,
+      "gas:candidate-vibid:2712000814270": 44,
+      "gas:candidate-vibid:2712000813041": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11143,16 +11143,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 24,
-      "Афонский Владимир Игорьевич": 659,
-      "Балберов Александр Александрович": 68,
-      "Гребенщиков Сергей Валерьевич": 51,
-      "Ефремов Роман Николаевич": 19,
-      "Жукова Анастасия Владимировна": 13,
-      "Коновалова Елена Викторовна": 10,
-      "Лебедев Олег Александрович": 241,
-      "Новгородов Алексей Викторович": 24,
-      "Серегин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2712000812208": 24,
+      "gas:candidate-vibid:2712000812219": 659,
+      "gas:candidate-vibid:2712000809871": 68,
+      "gas:candidate-vibid:2712000811774": 51,
+      "gas:candidate-vibid:2712000812695": 19,
+      "gas:candidate-vibid:2712000813464": 13,
+      "gas:candidate-vibid:2712000813452": 10,
+      "gas:candidate-vibid:2712000812156": 241,
+      "gas:candidate-vibid:2712000814270": 24,
+      "gas:candidate-vibid:2712000813041": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11203,16 +11203,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 28,
-      "Афонский Владимир Игорьевич": 482,
-      "Балберов Александр Александрович": 83,
-      "Гребенщиков Сергей Валерьевич": 38,
-      "Ефремов Роман Николаевич": 12,
-      "Жукова Анастасия Владимировна": 15,
-      "Коновалова Елена Викторовна": 12,
-      "Лебедев Олег Александрович": 191,
-      "Новгородов Алексей Викторович": 31,
-      "Серегин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2712000812208": 28,
+      "gas:candidate-vibid:2712000812219": 482,
+      "gas:candidate-vibid:2712000809871": 83,
+      "gas:candidate-vibid:2712000811774": 38,
+      "gas:candidate-vibid:2712000812695": 12,
+      "gas:candidate-vibid:2712000813464": 15,
+      "gas:candidate-vibid:2712000813452": 12,
+      "gas:candidate-vibid:2712000812156": 191,
+      "gas:candidate-vibid:2712000814270": 31,
+      "gas:candidate-vibid:2712000813041": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11263,16 +11263,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 22,
-      "Афонский Владимир Игорьевич": 409,
-      "Балберов Александр Александрович": 82,
-      "Гребенщиков Сергей Валерьевич": 49,
-      "Ефремов Роман Николаевич": 26,
-      "Жукова Анастасия Владимировна": 20,
-      "Коновалова Елена Викторовна": 16,
-      "Лебедев Олег Александрович": 122,
-      "Новгородов Алексей Викторович": 23,
-      "Серегин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2712000812208": 22,
+      "gas:candidate-vibid:2712000812219": 409,
+      "gas:candidate-vibid:2712000809871": 82,
+      "gas:candidate-vibid:2712000811774": 49,
+      "gas:candidate-vibid:2712000812695": 26,
+      "gas:candidate-vibid:2712000813464": 20,
+      "gas:candidate-vibid:2712000813452": 16,
+      "gas:candidate-vibid:2712000812156": 122,
+      "gas:candidate-vibid:2712000814270": 23,
+      "gas:candidate-vibid:2712000813041": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11323,16 +11323,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 28,
-      "Афонский Владимир Игорьевич": 265,
-      "Балберов Александр Александрович": 61,
-      "Гребенщиков Сергей Валерьевич": 42,
-      "Ефремов Роман Николаевич": 8,
-      "Жукова Анастасия Владимировна": 12,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 93,
-      "Новгородов Алексей Викторович": 21,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 28,
+      "gas:candidate-vibid:2712000812219": 265,
+      "gas:candidate-vibid:2712000809871": 61,
+      "gas:candidate-vibid:2712000811774": 42,
+      "gas:candidate-vibid:2712000812695": 8,
+      "gas:candidate-vibid:2712000813464": 12,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 93,
+      "gas:candidate-vibid:2712000814270": 21,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11383,16 +11383,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 20,
-      "Афонский Владимир Игорьевич": 214,
-      "Балберов Александр Александрович": 51,
-      "Гребенщиков Сергей Валерьевич": 33,
-      "Ефремов Роман Николаевич": 18,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 10,
-      "Лебедев Олег Александрович": 69,
-      "Новгородов Алексей Викторович": 21,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 20,
+      "gas:candidate-vibid:2712000812219": 214,
+      "gas:candidate-vibid:2712000809871": 51,
+      "gas:candidate-vibid:2712000811774": 33,
+      "gas:candidate-vibid:2712000812695": 18,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 10,
+      "gas:candidate-vibid:2712000812156": 69,
+      "gas:candidate-vibid:2712000814270": 21,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11443,16 +11443,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 34,
-      "Афонский Владимир Игорьевич": 512,
-      "Балберов Александр Александрович": 120,
-      "Гребенщиков Сергей Валерьевич": 57,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 23,
-      "Коновалова Елена Викторовна": 14,
-      "Лебедев Олег Александрович": 206,
-      "Новгородов Алексей Викторович": 25,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 34,
+      "gas:candidate-vibid:2712000812219": 512,
+      "gas:candidate-vibid:2712000809871": 120,
+      "gas:candidate-vibid:2712000811774": 57,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 23,
+      "gas:candidate-vibid:2712000813452": 14,
+      "gas:candidate-vibid:2712000812156": 206,
+      "gas:candidate-vibid:2712000814270": 25,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11503,16 +11503,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 29,
-      "Афонский Владимир Игорьевич": 287,
-      "Балберов Александр Александрович": 73,
-      "Гребенщиков Сергей Валерьевич": 21,
-      "Ефремов Роман Николаевич": 14,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 12,
-      "Лебедев Олег Александрович": 97,
-      "Новгородов Алексей Викторович": 31,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 29,
+      "gas:candidate-vibid:2712000812219": 287,
+      "gas:candidate-vibid:2712000809871": 73,
+      "gas:candidate-vibid:2712000811774": 21,
+      "gas:candidate-vibid:2712000812695": 14,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 12,
+      "gas:candidate-vibid:2712000812156": 97,
+      "gas:candidate-vibid:2712000814270": 31,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11563,16 +11563,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 556,
-      "Балберов Александр Александрович": 95,
-      "Гребенщиков Сергей Валерьевич": 50,
-      "Ефремов Роман Николаевич": 11,
-      "Жукова Анастасия Владимировна": 24,
-      "Коновалова Елена Викторовна": 12,
-      "Лебедев Олег Александрович": 186,
-      "Новгородов Алексей Викторович": 35,
-      "Серегин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 556,
+      "gas:candidate-vibid:2712000809871": 95,
+      "gas:candidate-vibid:2712000811774": 50,
+      "gas:candidate-vibid:2712000812695": 11,
+      "gas:candidate-vibid:2712000813464": 24,
+      "gas:candidate-vibid:2712000813452": 12,
+      "gas:candidate-vibid:2712000812156": 186,
+      "gas:candidate-vibid:2712000814270": 35,
+      "gas:candidate-vibid:2712000813041": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11623,16 +11623,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 14,
-      "Афонский Владимир Игорьевич": 412,
-      "Балберов Александр Александрович": 55,
-      "Гребенщиков Сергей Валерьевич": 29,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 5,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 151,
-      "Новгородов Алексей Викторович": 8,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 14,
+      "gas:candidate-vibid:2712000812219": 412,
+      "gas:candidate-vibid:2712000809871": 55,
+      "gas:candidate-vibid:2712000811774": 29,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 5,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 151,
+      "gas:candidate-vibid:2712000814270": 8,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11683,16 +11683,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 21,
-      "Афонский Владимир Игорьевич": 339,
-      "Балберов Александр Александрович": 77,
-      "Гребенщиков Сергей Валерьевич": 40,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 15,
-      "Коновалова Елена Викторовна": 13,
-      "Лебедев Олег Александрович": 95,
-      "Новгородов Алексей Викторович": 26,
-      "Серегин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2712000812208": 21,
+      "gas:candidate-vibid:2712000812219": 339,
+      "gas:candidate-vibid:2712000809871": 77,
+      "gas:candidate-vibid:2712000811774": 40,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 15,
+      "gas:candidate-vibid:2712000813452": 13,
+      "gas:candidate-vibid:2712000812156": 95,
+      "gas:candidate-vibid:2712000814270": 26,
+      "gas:candidate-vibid:2712000813041": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11743,16 +11743,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 10,
-      "Афонский Владимир Игорьевич": 306,
-      "Балберов Александр Александрович": 67,
-      "Гребенщиков Сергей Валерьевич": 25,
-      "Ефремов Роман Николаевич": 8,
-      "Жукова Анастасия Владимировна": 14,
-      "Коновалова Елена Викторовна": 10,
-      "Лебедев Олег Александрович": 90,
-      "Новгородов Алексей Викторович": 10,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 10,
+      "gas:candidate-vibid:2712000812219": 306,
+      "gas:candidate-vibid:2712000809871": 67,
+      "gas:candidate-vibid:2712000811774": 25,
+      "gas:candidate-vibid:2712000812695": 8,
+      "gas:candidate-vibid:2712000813464": 14,
+      "gas:candidate-vibid:2712000813452": 10,
+      "gas:candidate-vibid:2712000812156": 90,
+      "gas:candidate-vibid:2712000814270": 10,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11803,16 +11803,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 283,
-      "Балберов Александр Александрович": 55,
-      "Гребенщиков Сергей Валерьевич": 22,
-      "Ефремов Роман Николаевич": 8,
-      "Жукова Анастасия Владимировна": 16,
-      "Коновалова Елена Викторовна": 3,
-      "Лебедев Олег Александрович": 76,
-      "Новгородов Алексей Викторович": 7,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 283,
+      "gas:candidate-vibid:2712000809871": 55,
+      "gas:candidate-vibid:2712000811774": 22,
+      "gas:candidate-vibid:2712000812695": 8,
+      "gas:candidate-vibid:2712000813464": 16,
+      "gas:candidate-vibid:2712000813452": 3,
+      "gas:candidate-vibid:2712000812156": 76,
+      "gas:candidate-vibid:2712000814270": 7,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11863,16 +11863,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 20,
-      "Афонский Владимир Игорьевич": 309,
-      "Балберов Александр Александрович": 56,
-      "Гребенщиков Сергей Валерьевич": 33,
-      "Ефремов Роман Николаевич": 15,
-      "Жукова Анастасия Владимировна": 12,
-      "Коновалова Елена Викторовна": 9,
-      "Лебедев Олег Александрович": 71,
-      "Новгородов Алексей Викторович": 25,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 20,
+      "gas:candidate-vibid:2712000812219": 309,
+      "gas:candidate-vibid:2712000809871": 56,
+      "gas:candidate-vibid:2712000811774": 33,
+      "gas:candidate-vibid:2712000812695": 15,
+      "gas:candidate-vibid:2712000813464": 12,
+      "gas:candidate-vibid:2712000813452": 9,
+      "gas:candidate-vibid:2712000812156": 71,
+      "gas:candidate-vibid:2712000814270": 25,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11923,16 +11923,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 16,
-      "Афонский Владимир Игорьевич": 213,
-      "Балберов Александр Александрович": 26,
-      "Гребенщиков Сергей Валерьевич": 17,
-      "Ефремов Роман Николаевич": 7,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 56,
-      "Новгородов Алексей Викторович": 12,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 16,
+      "gas:candidate-vibid:2712000812219": 213,
+      "gas:candidate-vibid:2712000809871": 26,
+      "gas:candidate-vibid:2712000811774": 17,
+      "gas:candidate-vibid:2712000812695": 7,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 56,
+      "gas:candidate-vibid:2712000814270": 12,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -11983,16 +11983,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 24,
-      "Афонский Владимир Игорьевич": 366,
-      "Балберов Александр Александрович": 63,
-      "Гребенщиков Сергей Валерьевич": 37,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 16,
-      "Коновалова Елена Викторовна": 15,
-      "Лебедев Олег Александрович": 85,
-      "Новгородов Алексей Викторович": 10,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 24,
+      "gas:candidate-vibid:2712000812219": 366,
+      "gas:candidate-vibid:2712000809871": 63,
+      "gas:candidate-vibid:2712000811774": 37,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 16,
+      "gas:candidate-vibid:2712000813452": 15,
+      "gas:candidate-vibid:2712000812156": 85,
+      "gas:candidate-vibid:2712000814270": 10,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12043,16 +12043,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 46,
-      "Афонский Владимир Игорьевич": 703,
-      "Балберов Александр Александрович": 109,
-      "Гребенщиков Сергей Валерьевич": 42,
-      "Ефремов Роман Николаевич": 17,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 19,
-      "Лебедев Олег Александрович": 129,
-      "Новгородов Алексей Викторович": 14,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 46,
+      "gas:candidate-vibid:2712000812219": 703,
+      "gas:candidate-vibid:2712000809871": 109,
+      "gas:candidate-vibid:2712000811774": 42,
+      "gas:candidate-vibid:2712000812695": 17,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 19,
+      "gas:candidate-vibid:2712000812156": 129,
+      "gas:candidate-vibid:2712000814270": 14,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12103,16 +12103,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 25,
-      "Афонский Владимир Игорьевич": 323,
-      "Балберов Александр Александрович": 75,
-      "Гребенщиков Сергей Валерьевич": 26,
-      "Ефремов Роман Николаевич": 14,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 4,
-      "Лебедев Олег Александрович": 91,
-      "Новгородов Алексей Викторович": 13,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 25,
+      "gas:candidate-vibid:2712000812219": 323,
+      "gas:candidate-vibid:2712000809871": 75,
+      "gas:candidate-vibid:2712000811774": 26,
+      "gas:candidate-vibid:2712000812695": 14,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 4,
+      "gas:candidate-vibid:2712000812156": 91,
+      "gas:candidate-vibid:2712000814270": 13,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12163,16 +12163,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 24,
-      "Афонский Владимир Игорьевич": 278,
-      "Балберов Александр Александрович": 73,
-      "Гребенщиков Сергей Валерьевич": 37,
-      "Ефремов Роман Николаевич": 15,
-      "Жукова Анастасия Владимировна": 12,
-      "Коновалова Елена Викторовна": 12,
-      "Лебедев Олег Александрович": 76,
-      "Новгородов Алексей Викторович": 7,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 24,
+      "gas:candidate-vibid:2712000812219": 278,
+      "gas:candidate-vibid:2712000809871": 73,
+      "gas:candidate-vibid:2712000811774": 37,
+      "gas:candidate-vibid:2712000812695": 15,
+      "gas:candidate-vibid:2712000813464": 12,
+      "gas:candidate-vibid:2712000813452": 12,
+      "gas:candidate-vibid:2712000812156": 76,
+      "gas:candidate-vibid:2712000814270": 7,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12223,16 +12223,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 29,
-      "Афонский Владимир Игорьевич": 446,
-      "Балберов Александр Александрович": 106,
-      "Гребенщиков Сергей Валерьевич": 43,
-      "Ефремов Роман Николаевич": 9,
-      "Жукова Анастасия Владимировна": 27,
-      "Коновалова Елена Викторовна": 12,
-      "Лебедев Олег Александрович": 118,
-      "Новгородов Алексей Викторович": 10,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 29,
+      "gas:candidate-vibid:2712000812219": 446,
+      "gas:candidate-vibid:2712000809871": 106,
+      "gas:candidate-vibid:2712000811774": 43,
+      "gas:candidate-vibid:2712000812695": 9,
+      "gas:candidate-vibid:2712000813464": 27,
+      "gas:candidate-vibid:2712000813452": 12,
+      "gas:candidate-vibid:2712000812156": 118,
+      "gas:candidate-vibid:2712000814270": 10,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12283,16 +12283,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 245,
-      "Балберов Александр Александрович": 59,
-      "Гребенщиков Сергей Валерьевич": 26,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 4,
-      "Коновалова Елена Викторовна": 11,
-      "Лебедев Олег Александрович": 54,
-      "Новгородов Алексей Викторович": 5,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 245,
+      "gas:candidate-vibid:2712000809871": 59,
+      "gas:candidate-vibid:2712000811774": 26,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 4,
+      "gas:candidate-vibid:2712000813452": 11,
+      "gas:candidate-vibid:2712000812156": 54,
+      "gas:candidate-vibid:2712000814270": 5,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12343,16 +12343,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 438,
-      "Балберов Александр Александрович": 104,
-      "Гребенщиков Сергей Валерьевич": 44,
-      "Ефремов Роман Николаевич": 22,
-      "Жукова Анастасия Владимировна": 25,
-      "Коновалова Елена Викторовна": 16,
-      "Лебедев Олег Александрович": 93,
-      "Новгородов Алексей Викторович": 13,
-      "Серегин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 438,
+      "gas:candidate-vibid:2712000809871": 104,
+      "gas:candidate-vibid:2712000811774": 44,
+      "gas:candidate-vibid:2712000812695": 22,
+      "gas:candidate-vibid:2712000813464": 25,
+      "gas:candidate-vibid:2712000813452": 16,
+      "gas:candidate-vibid:2712000812156": 93,
+      "gas:candidate-vibid:2712000814270": 13,
+      "gas:candidate-vibid:2712000813041": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12403,16 +12403,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 21,
-      "Афонский Владимир Игорьевич": 137,
-      "Балберов Александр Александрович": 32,
-      "Гребенщиков Сергей Валерьевич": 9,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 2,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 114,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 21,
+      "gas:candidate-vibid:2712000812219": 137,
+      "gas:candidate-vibid:2712000809871": 32,
+      "gas:candidate-vibid:2712000811774": 9,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 2,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 114,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12463,16 +12463,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 71,
-      "Балберов Александр Александрович": 12,
-      "Гребенщиков Сергей Валерьевич": 1,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 7,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 35,
-      "Новгородов Алексей Викторович": 0,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 71,
+      "gas:candidate-vibid:2712000809871": 12,
+      "gas:candidate-vibid:2712000811774": 1,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 7,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 35,
+      "gas:candidate-vibid:2712000814270": 0,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12523,16 +12523,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 18,
-      "Афонский Владимир Игорьевич": 509,
-      "Балберов Александр Александрович": 54,
-      "Гребенщиков Сергей Валерьевич": 35,
-      "Ефремов Роман Николаевич": 16,
-      "Жукова Анастасия Владимировна": 15,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 66,
-      "Новгородов Алексей Викторович": 12,
-      "Серегин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2712000812208": 18,
+      "gas:candidate-vibid:2712000812219": 509,
+      "gas:candidate-vibid:2712000809871": 54,
+      "gas:candidate-vibid:2712000811774": 35,
+      "gas:candidate-vibid:2712000812695": 16,
+      "gas:candidate-vibid:2712000813464": 15,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 66,
+      "gas:candidate-vibid:2712000814270": 12,
+      "gas:candidate-vibid:2712000813041": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12583,16 +12583,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 4,
-      "Афонский Владимир Игорьевич": 268,
-      "Балберов Александр Александрович": 28,
-      "Гребенщиков Сергей Валерьевич": 13,
-      "Ефремов Роман Николаевич": 6,
-      "Жукова Анастасия Владимировна": 8,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 30,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 4,
+      "gas:candidate-vibid:2712000812219": 268,
+      "gas:candidate-vibid:2712000809871": 28,
+      "gas:candidate-vibid:2712000811774": 13,
+      "gas:candidate-vibid:2712000812695": 6,
+      "gas:candidate-vibid:2712000813464": 8,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 30,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12643,16 +12643,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 16,
-      "Афонский Владимир Игорьевич": 384,
-      "Балберов Александр Александрович": 80,
-      "Гребенщиков Сергей Валерьевич": 24,
-      "Ефремов Роман Николаевич": 9,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 6,
-      "Лебедев Олег Александрович": 48,
-      "Новгородов Алексей Викторович": 11,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 16,
+      "gas:candidate-vibid:2712000812219": 384,
+      "gas:candidate-vibid:2712000809871": 80,
+      "gas:candidate-vibid:2712000811774": 24,
+      "gas:candidate-vibid:2712000812695": 9,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 6,
+      "gas:candidate-vibid:2712000812156": 48,
+      "gas:candidate-vibid:2712000814270": 11,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12703,16 +12703,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 7,
-      "Афонский Владимир Игорьевич": 253,
-      "Балберов Александр Александрович": 53,
-      "Гребенщиков Сергей Валерьевич": 9,
-      "Ефремов Роман Николаевич": 7,
-      "Жукова Анастасия Владимировна": 7,
-      "Коновалова Елена Викторовна": 3,
-      "Лебедев Олег Александрович": 28,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 7,
+      "gas:candidate-vibid:2712000812219": 253,
+      "gas:candidate-vibid:2712000809871": 53,
+      "gas:candidate-vibid:2712000811774": 9,
+      "gas:candidate-vibid:2712000812695": 7,
+      "gas:candidate-vibid:2712000813464": 7,
+      "gas:candidate-vibid:2712000813452": 3,
+      "gas:candidate-vibid:2712000812156": 28,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12763,16 +12763,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 73,
-      "Балберов Александр Александрович": 26,
-      "Гребенщиков Сергей Валерьевич": 11,
-      "Ефремов Роман Николаевич": 4,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 31,
-      "Новгородов Алексей Викторович": 37,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 73,
+      "gas:candidate-vibid:2712000809871": 26,
+      "gas:candidate-vibid:2712000811774": 11,
+      "gas:candidate-vibid:2712000812695": 4,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 31,
+      "gas:candidate-vibid:2712000814270": 37,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12823,16 +12823,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 126,
-      "Балберов Александр Александрович": 24,
-      "Гребенщиков Сергей Валерьевич": 12,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 3,
-      "Коновалова Елена Викторовна": 1,
-      "Лебедев Олег Александрович": 55,
-      "Новгородов Алексей Викторович": 5,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 126,
+      "gas:candidate-vibid:2712000809871": 24,
+      "gas:candidate-vibid:2712000811774": 12,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 3,
+      "gas:candidate-vibid:2712000813452": 1,
+      "gas:candidate-vibid:2712000812156": 55,
+      "gas:candidate-vibid:2712000814270": 5,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12883,16 +12883,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 3,
-      "Афонский Владимир Игорьевич": 165,
-      "Балберов Александр Александрович": 7,
-      "Гребенщиков Сергей Валерьевич": 3,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 3,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 9,
-      "Новгородов Алексей Викторович": 0,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 3,
+      "gas:candidate-vibid:2712000812219": 165,
+      "gas:candidate-vibid:2712000809871": 7,
+      "gas:candidate-vibid:2712000811774": 3,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 3,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 9,
+      "gas:candidate-vibid:2712000814270": 0,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -12943,16 +12943,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 4,
-      "Афонский Владимир Игорьевич": 194,
-      "Балберов Александр Александрович": 5,
-      "Гребенщиков Сергей Валерьевич": 5,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 9,
-      "Новгородов Алексей Викторович": 0,
-      "Серегин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2712000812208": 4,
+      "gas:candidate-vibid:2712000812219": 194,
+      "gas:candidate-vibid:2712000809871": 5,
+      "gas:candidate-vibid:2712000811774": 5,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 9,
+      "gas:candidate-vibid:2712000814270": 0,
+      "gas:candidate-vibid:2712000813041": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13003,16 +13003,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 3,
-      "Афонский Владимир Игорьевич": 210,
-      "Балберов Александр Александрович": 14,
-      "Гребенщиков Сергей Валерьевич": 17,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 12,
-      "Коновалова Елена Викторовна": 3,
-      "Лебедев Олег Александрович": 12,
-      "Новгородов Алексей Викторович": 12,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 3,
+      "gas:candidate-vibid:2712000812219": 210,
+      "gas:candidate-vibid:2712000809871": 14,
+      "gas:candidate-vibid:2712000811774": 17,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 12,
+      "gas:candidate-vibid:2712000813452": 3,
+      "gas:candidate-vibid:2712000812156": 12,
+      "gas:candidate-vibid:2712000814270": 12,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13063,16 +13063,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 2,
-      "Афонский Владимир Игорьевич": 278,
-      "Балберов Александр Александрович": 11,
-      "Гребенщиков Сергей Валерьевич": 2,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 3,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 10,
-      "Новгородов Алексей Викторович": 1,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 2,
+      "gas:candidate-vibid:2712000812219": 278,
+      "gas:candidate-vibid:2712000809871": 11,
+      "gas:candidate-vibid:2712000811774": 2,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 3,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 10,
+      "gas:candidate-vibid:2712000814270": 1,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13123,16 +13123,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 1,
-      "Афонский Владимир Игорьевич": 128,
-      "Балберов Александр Александрович": 7,
-      "Гребенщиков Сергей Валерьевич": 6,
-      "Ефремов Роман Николаевич": 1,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 1,
-      "Лебедев Олег Александрович": 12,
-      "Новгородов Алексей Викторович": 5,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 1,
+      "gas:candidate-vibid:2712000812219": 128,
+      "gas:candidate-vibid:2712000809871": 7,
+      "gas:candidate-vibid:2712000811774": 6,
+      "gas:candidate-vibid:2712000812695": 1,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 1,
+      "gas:candidate-vibid:2712000812156": 12,
+      "gas:candidate-vibid:2712000814270": 5,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13183,16 +13183,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 8,
-      "Афонский Владимир Игорьевич": 146,
-      "Балберов Александр Александрович": 12,
-      "Гребенщиков Сергей Валерьевич": 6,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 4,
-      "Лебедев Олег Александрович": 15,
-      "Новгородов Алексей Викторович": 1,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 8,
+      "gas:candidate-vibid:2712000812219": 146,
+      "gas:candidate-vibid:2712000809871": 12,
+      "gas:candidate-vibid:2712000811774": 6,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 4,
+      "gas:candidate-vibid:2712000812156": 15,
+      "gas:candidate-vibid:2712000814270": 1,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13243,16 +13243,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 12,
-      "Афонский Владимир Игорьевич": 458,
-      "Балберов Александр Александрович": 28,
-      "Гребенщиков Сергей Валерьевич": 13,
-      "Ефремов Роман Николаевич": 5,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 6,
-      "Лебедев Олег Александрович": 19,
-      "Новгородов Алексей Викторович": 3,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 12,
+      "gas:candidate-vibid:2712000812219": 458,
+      "gas:candidate-vibid:2712000809871": 28,
+      "gas:candidate-vibid:2712000811774": 13,
+      "gas:candidate-vibid:2712000812695": 5,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 6,
+      "gas:candidate-vibid:2712000812156": 19,
+      "gas:candidate-vibid:2712000814270": 3,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13303,16 +13303,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 1,
-      "Афонский Владимир Игорьевич": 160,
-      "Балберов Александр Александрович": 3,
-      "Гребенщиков Сергей Валерьевич": 0,
-      "Ефремов Роман Николаевич": 0,
-      "Жукова Анастасия Владимировна": 1,
-      "Коновалова Елена Викторовна": 0,
-      "Лебедев Олег Александрович": 5,
-      "Новгородов Алексей Викторович": 0,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 1,
+      "gas:candidate-vibid:2712000812219": 160,
+      "gas:candidate-vibid:2712000809871": 3,
+      "gas:candidate-vibid:2712000811774": 0,
+      "gas:candidate-vibid:2712000812695": 0,
+      "gas:candidate-vibid:2712000813464": 1,
+      "gas:candidate-vibid:2712000813452": 0,
+      "gas:candidate-vibid:2712000812156": 5,
+      "gas:candidate-vibid:2712000814270": 0,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13363,16 +13363,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 8,
-      "Афонский Владимир Игорьевич": 152,
-      "Балберов Александр Александрович": 18,
-      "Гребенщиков Сергей Валерьевич": 4,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 2,
-      "Коновалова Елена Викторовна": 2,
-      "Лебедев Олег Александрович": 10,
-      "Новгородов Алексей Викторович": 2,
-      "Серегин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2712000812208": 8,
+      "gas:candidate-vibid:2712000812219": 152,
+      "gas:candidate-vibid:2712000809871": 18,
+      "gas:candidate-vibid:2712000811774": 4,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 2,
+      "gas:candidate-vibid:2712000813452": 2,
+      "gas:candidate-vibid:2712000812156": 10,
+      "gas:candidate-vibid:2712000814270": 2,
+      "gas:candidate-vibid:2712000813041": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13423,16 +13423,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 9,
-      "Афонский Владимир Игорьевич": 110,
-      "Балберов Александр Александрович": 20,
-      "Гребенщиков Сергей Валерьевич": 7,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 6,
-      "Коновалова Елена Викторовна": 4,
-      "Лебедев Олег Александрович": 26,
-      "Новгородов Алексей Викторович": 4,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 9,
+      "gas:candidate-vibid:2712000812219": 110,
+      "gas:candidate-vibid:2712000809871": 20,
+      "gas:candidate-vibid:2712000811774": 7,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 6,
+      "gas:candidate-vibid:2712000813452": 4,
+      "gas:candidate-vibid:2712000812156": 26,
+      "gas:candidate-vibid:2712000814270": 4,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13483,16 +13483,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 12,
-      "Афонский Владимир Игорьевич": 210,
-      "Балберов Александр Александрович": 26,
-      "Гребенщиков Сергей Валерьевич": 12,
-      "Ефремов Роман Николаевич": 4,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 16,
-      "Новгородов Алексей Викторович": 2,
-      "Серегин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2712000812208": 12,
+      "gas:candidate-vibid:2712000812219": 210,
+      "gas:candidate-vibid:2712000809871": 26,
+      "gas:candidate-vibid:2712000811774": 12,
+      "gas:candidate-vibid:2712000812695": 4,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 16,
+      "gas:candidate-vibid:2712000814270": 2,
+      "gas:candidate-vibid:2712000813041": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756934&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756934&type=464",
@@ -13543,16 +13543,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 9,
-      "Афонский Владимир Игорьевич": 159,
-      "Балберов Александр Александрович": 33,
-      "Гребенщиков Сергей Валерьевич": 8,
-      "Ефремов Роман Николаевич": 4,
-      "Жукова Анастасия Владимировна": 8,
-      "Коновалова Елена Викторовна": 5,
-      "Лебедев Олег Александрович": 46,
-      "Новгородов Алексей Викторович": 6,
-      "Серегин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2712000812208": 9,
+      "gas:candidate-vibid:2712000812219": 159,
+      "gas:candidate-vibid:2712000809871": 33,
+      "gas:candidate-vibid:2712000811774": 8,
+      "gas:candidate-vibid:2712000812695": 4,
+      "gas:candidate-vibid:2712000813464": 8,
+      "gas:candidate-vibid:2712000813452": 5,
+      "gas:candidate-vibid:2712000812156": 46,
+      "gas:candidate-vibid:2712000814270": 6,
+      "gas:candidate-vibid:2712000813041": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13603,16 +13603,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 13,
-      "Афонский Владимир Игорьевич": 229,
-      "Балберов Александр Александрович": 49,
-      "Гребенщиков Сергей Валерьевич": 30,
-      "Ефремов Роман Николаевич": 11,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 15,
-      "Лебедев Олег Александрович": 77,
-      "Новгородов Алексей Викторович": 17,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 13,
+      "gas:candidate-vibid:2712000812219": 229,
+      "gas:candidate-vibid:2712000809871": 49,
+      "gas:candidate-vibid:2712000811774": 30,
+      "gas:candidate-vibid:2712000812695": 11,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 15,
+      "gas:candidate-vibid:2712000812156": 77,
+      "gas:candidate-vibid:2712000814270": 17,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13663,16 +13663,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 13,
-      "Афонский Владимир Игорьевич": 197,
-      "Балберов Александр Александрович": 57,
-      "Гребенщиков Сергей Валерьевич": 34,
-      "Ефремов Роман Николаевич": 8,
-      "Жукова Анастасия Владимировна": 23,
-      "Коновалова Елена Викторовна": 13,
-      "Лебедев Олег Александрович": 95,
-      "Новгородов Алексей Викторович": 19,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 13,
+      "gas:candidate-vibid:2712000812219": 197,
+      "gas:candidate-vibid:2712000809871": 57,
+      "gas:candidate-vibid:2712000811774": 34,
+      "gas:candidate-vibid:2712000812695": 8,
+      "gas:candidate-vibid:2712000813464": 23,
+      "gas:candidate-vibid:2712000813452": 13,
+      "gas:candidate-vibid:2712000812156": 95,
+      "gas:candidate-vibid:2712000814270": 19,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13723,16 +13723,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 13,
-      "Афонский Владимир Игорьевич": 269,
-      "Балберов Александр Александрович": 50,
-      "Гребенщиков Сергей Валерьевич": 55,
-      "Ефремов Роман Николаевич": 7,
-      "Жукова Анастасия Владимировна": 13,
-      "Коновалова Елена Викторовна": 19,
-      "Лебедев Олег Александрович": 86,
-      "Новгородов Алексей Викторович": 20,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 13,
+      "gas:candidate-vibid:2712000812219": 269,
+      "gas:candidate-vibid:2712000809871": 50,
+      "gas:candidate-vibid:2712000811774": 55,
+      "gas:candidate-vibid:2712000812695": 7,
+      "gas:candidate-vibid:2712000813464": 13,
+      "gas:candidate-vibid:2712000813452": 19,
+      "gas:candidate-vibid:2712000812156": 86,
+      "gas:candidate-vibid:2712000814270": 20,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13783,16 +13783,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 21,
-      "Афонский Владимир Игорьевич": 308,
-      "Балберов Александр Александрович": 73,
-      "Гребенщиков Сергей Валерьевич": 60,
-      "Ефремов Роман Николаевич": 13,
-      "Жукова Анастасия Владимировна": 25,
-      "Коновалова Елена Викторовна": 31,
-      "Лебедев Олег Александрович": 184,
-      "Новгородов Алексей Викторович": 40,
-      "Серегин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2712000812208": 21,
+      "gas:candidate-vibid:2712000812219": 308,
+      "gas:candidate-vibid:2712000809871": 73,
+      "gas:candidate-vibid:2712000811774": 60,
+      "gas:candidate-vibid:2712000812695": 13,
+      "gas:candidate-vibid:2712000813464": 25,
+      "gas:candidate-vibid:2712000813452": 31,
+      "gas:candidate-vibid:2712000812156": 184,
+      "gas:candidate-vibid:2712000814270": 40,
+      "gas:candidate-vibid:2712000813041": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13843,16 +13843,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 4,
-      "Афонский Владимир Игорьевич": 97,
-      "Балберов Александр Александрович": 30,
-      "Гребенщиков Сергей Валерьевич": 14,
-      "Ефремов Роман Николаевич": 4,
-      "Жукова Анастасия Владимировна": 9,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 45,
-      "Новгородов Алексей Викторович": 8,
-      "Серегин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2712000812208": 4,
+      "gas:candidate-vibid:2712000812219": 97,
+      "gas:candidate-vibid:2712000809871": 30,
+      "gas:candidate-vibid:2712000811774": 14,
+      "gas:candidate-vibid:2712000812695": 4,
+      "gas:candidate-vibid:2712000813464": 9,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 45,
+      "gas:candidate-vibid:2712000814270": 8,
+      "gas:candidate-vibid:2712000813041": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13903,16 +13903,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 37,
-      "Афонский Владимир Игорьевич": 290,
-      "Балберов Александр Александрович": 95,
-      "Гребенщиков Сергей Валерьевич": 33,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 60,
-      "Коновалова Елена Викторовна": 18,
-      "Лебедев Олег Александрович": 88,
-      "Новгородов Алексей Викторович": 24,
-      "Серегин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2712000812208": 37,
+      "gas:candidate-vibid:2712000812219": 290,
+      "gas:candidate-vibid:2712000809871": 95,
+      "gas:candidate-vibid:2712000811774": 33,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 60,
+      "gas:candidate-vibid:2712000813452": 18,
+      "gas:candidate-vibid:2712000812156": 88,
+      "gas:candidate-vibid:2712000814270": 24,
+      "gas:candidate-vibid:2712000813041": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -13963,16 +13963,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 12,
-      "Афонский Владимир Игорьевич": 261,
-      "Балберов Александр Александрович": 58,
-      "Гребенщиков Сергей Валерьевич": 43,
-      "Ефремов Роман Николаевич": 10,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 19,
-      "Лебедев Олег Александрович": 84,
-      "Новгородов Алексей Викторович": 19,
-      "Серегин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2712000812208": 12,
+      "gas:candidate-vibid:2712000812219": 261,
+      "gas:candidate-vibid:2712000809871": 58,
+      "gas:candidate-vibid:2712000811774": 43,
+      "gas:candidate-vibid:2712000812695": 10,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 19,
+      "gas:candidate-vibid:2712000812156": 84,
+      "gas:candidate-vibid:2712000814270": 19,
+      "gas:candidate-vibid:2712000813041": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14023,16 +14023,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 6,
-      "Афонский Владимир Игорьевич": 130,
-      "Балберов Александр Александрович": 34,
-      "Гребенщиков Сергей Валерьевич": 13,
-      "Ефремов Роман Николаевич": 3,
-      "Жукова Анастасия Владимировна": 7,
-      "Коновалова Елена Викторовна": 7,
-      "Лебедев Олег Александрович": 49,
-      "Новгородов Алексей Викторович": 12,
-      "Серегин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2712000812208": 6,
+      "gas:candidate-vibid:2712000812219": 130,
+      "gas:candidate-vibid:2712000809871": 34,
+      "gas:candidate-vibid:2712000811774": 13,
+      "gas:candidate-vibid:2712000812695": 3,
+      "gas:candidate-vibid:2712000813464": 7,
+      "gas:candidate-vibid:2712000813452": 7,
+      "gas:candidate-vibid:2712000812156": 49,
+      "gas:candidate-vibid:2712000814270": 12,
+      "gas:candidate-vibid:2712000813041": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14083,16 +14083,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 26,
-      "Афонский Владимир Игорьевич": 376,
-      "Балберов Александр Александрович": 82,
-      "Гребенщиков Сергей Валерьевич": 70,
-      "Ефремов Роман Николаевич": 16,
-      "Жукова Анастасия Владимировна": 24,
-      "Коновалова Елена Викторовна": 23,
-      "Лебедев Олег Александрович": 134,
-      "Новгородов Алексей Викторович": 43,
-      "Серегин Михаил Юрьевич": 21
+      "gas:candidate-vibid:2712000812208": 26,
+      "gas:candidate-vibid:2712000812219": 376,
+      "gas:candidate-vibid:2712000809871": 82,
+      "gas:candidate-vibid:2712000811774": 70,
+      "gas:candidate-vibid:2712000812695": 16,
+      "gas:candidate-vibid:2712000813464": 24,
+      "gas:candidate-vibid:2712000813452": 23,
+      "gas:candidate-vibid:2712000812156": 134,
+      "gas:candidate-vibid:2712000814270": 43,
+      "gas:candidate-vibid:2712000813041": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14143,16 +14143,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 14,
-      "Афонский Владимир Игорьевич": 464,
-      "Балберов Александр Александрович": 111,
-      "Гребенщиков Сергей Валерьевич": 106,
-      "Ефремов Роман Николаевич": 16,
-      "Жукова Анастасия Владимировна": 30,
-      "Коновалова Елена Викторовна": 54,
-      "Лебедев Олег Александрович": 159,
-      "Новгородов Алексей Викторович": 76,
-      "Серегин Михаил Юрьевич": 17
+      "gas:candidate-vibid:2712000812208": 14,
+      "gas:candidate-vibid:2712000812219": 464,
+      "gas:candidate-vibid:2712000809871": 111,
+      "gas:candidate-vibid:2712000811774": 106,
+      "gas:candidate-vibid:2712000812695": 16,
+      "gas:candidate-vibid:2712000813464": 30,
+      "gas:candidate-vibid:2712000813452": 54,
+      "gas:candidate-vibid:2712000812156": 159,
+      "gas:candidate-vibid:2712000814270": 76,
+      "gas:candidate-vibid:2712000813041": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14203,16 +14203,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 23,
-      "Афонский Владимир Игорьевич": 595,
-      "Балберов Александр Александрович": 90,
-      "Гребенщиков Сергей Валерьевич": 86,
-      "Ефремов Роман Николаевич": 13,
-      "Жукова Анастасия Владимировна": 24,
-      "Коновалова Елена Викторовна": 30,
-      "Лебедев Олег Александрович": 139,
-      "Новгородов Алексей Викторович": 48,
-      "Серегин Михаил Юрьевич": 19
+      "gas:candidate-vibid:2712000812208": 23,
+      "gas:candidate-vibid:2712000812219": 595,
+      "gas:candidate-vibid:2712000809871": 90,
+      "gas:candidate-vibid:2712000811774": 86,
+      "gas:candidate-vibid:2712000812695": 13,
+      "gas:candidate-vibid:2712000813464": 24,
+      "gas:candidate-vibid:2712000813452": 30,
+      "gas:candidate-vibid:2712000812156": 139,
+      "gas:candidate-vibid:2712000814270": 48,
+      "gas:candidate-vibid:2712000813041": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14263,16 +14263,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 20,
-      "Афонский Владимир Игорьевич": 398,
-      "Балберов Александр Александрович": 86,
-      "Гребенщиков Сергей Валерьевич": 93,
-      "Ефремов Роман Николаевич": 15,
-      "Жукова Анастасия Владимировна": 28,
-      "Коновалова Елена Викторовна": 33,
-      "Лебедев Олег Александрович": 144,
-      "Новгородов Алексей Викторович": 36,
-      "Серегин Михаил Юрьевич": 23
+      "gas:candidate-vibid:2712000812208": 20,
+      "gas:candidate-vibid:2712000812219": 398,
+      "gas:candidate-vibid:2712000809871": 86,
+      "gas:candidate-vibid:2712000811774": 93,
+      "gas:candidate-vibid:2712000812695": 15,
+      "gas:candidate-vibid:2712000813464": 28,
+      "gas:candidate-vibid:2712000813452": 33,
+      "gas:candidate-vibid:2712000812156": 144,
+      "gas:candidate-vibid:2712000814270": 36,
+      "gas:candidate-vibid:2712000813041": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14323,16 +14323,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 22,
-      "Афонский Владимир Игорьевич": 311,
-      "Балберов Александр Александрович": 76,
-      "Гребенщиков Сергей Валерьевич": 81,
-      "Ефремов Роман Николаевич": 9,
-      "Жукова Анастасия Владимировна": 19,
-      "Коновалова Елена Викторовна": 40,
-      "Лебедев Олег Александрович": 139,
-      "Новгородов Алексей Викторович": 32,
-      "Серегин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2712000812208": 22,
+      "gas:candidate-vibid:2712000812219": 311,
+      "gas:candidate-vibid:2712000809871": 76,
+      "gas:candidate-vibid:2712000811774": 81,
+      "gas:candidate-vibid:2712000812695": 9,
+      "gas:candidate-vibid:2712000813464": 19,
+      "gas:candidate-vibid:2712000813452": 40,
+      "gas:candidate-vibid:2712000812156": 139,
+      "gas:candidate-vibid:2712000814270": 32,
+      "gas:candidate-vibid:2712000813041": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14383,16 +14383,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 14,
-      "Афонский Владимир Игорьевич": 333,
-      "Балберов Александр Александрович": 60,
-      "Гребенщиков Сергей Валерьевич": 109,
-      "Ефремов Роман Николаевич": 9,
-      "Жукова Анастасия Владимировна": 23,
-      "Коновалова Елена Викторовна": 27,
-      "Лебедев Олег Александрович": 138,
-      "Новгородов Алексей Викторович": 38,
-      "Серегин Михаил Юрьевич": 14
+      "gas:candidate-vibid:2712000812208": 14,
+      "gas:candidate-vibid:2712000812219": 333,
+      "gas:candidate-vibid:2712000809871": 60,
+      "gas:candidate-vibid:2712000811774": 109,
+      "gas:candidate-vibid:2712000812695": 9,
+      "gas:candidate-vibid:2712000813464": 23,
+      "gas:candidate-vibid:2712000813452": 27,
+      "gas:candidate-vibid:2712000812156": 138,
+      "gas:candidate-vibid:2712000814270": 38,
+      "gas:candidate-vibid:2712000813041": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14443,16 +14443,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 16,
-      "Афонский Владимир Игорьевич": 416,
-      "Балберов Александр Александрович": 109,
-      "Гребенщиков Сергей Валерьевич": 121,
-      "Ефремов Роман Николаевич": 20,
-      "Жукова Анастасия Владимировна": 28,
-      "Коновалова Елена Викторовна": 41,
-      "Лебедев Олег Александрович": 183,
-      "Новгородов Алексей Викторович": 53,
-      "Серегин Михаил Юрьевич": 20
+      "gas:candidate-vibid:2712000812208": 16,
+      "gas:candidate-vibid:2712000812219": 416,
+      "gas:candidate-vibid:2712000809871": 109,
+      "gas:candidate-vibid:2712000811774": 121,
+      "gas:candidate-vibid:2712000812695": 20,
+      "gas:candidate-vibid:2712000813464": 28,
+      "gas:candidate-vibid:2712000813452": 41,
+      "gas:candidate-vibid:2712000812156": 183,
+      "gas:candidate-vibid:2712000814270": 53,
+      "gas:candidate-vibid:2712000813041": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14503,16 +14503,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 14,
-      "Афонский Владимир Игорьевич": 326,
-      "Балберов Александр Александрович": 70,
-      "Гребенщиков Сергей Валерьевич": 97,
-      "Ефремов Роман Николаевич": 17,
-      "Жукова Анастасия Владимировна": 21,
-      "Коновалова Елена Викторовна": 27,
-      "Лебедев Олег Александрович": 140,
-      "Новгородов Алексей Викторович": 36,
-      "Серегин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2712000812208": 14,
+      "gas:candidate-vibid:2712000812219": 326,
+      "gas:candidate-vibid:2712000809871": 70,
+      "gas:candidate-vibid:2712000811774": 97,
+      "gas:candidate-vibid:2712000812695": 17,
+      "gas:candidate-vibid:2712000813464": 21,
+      "gas:candidate-vibid:2712000813452": 27,
+      "gas:candidate-vibid:2712000812156": 140,
+      "gas:candidate-vibid:2712000814270": 36,
+      "gas:candidate-vibid:2712000813041": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14563,16 +14563,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 20,
-      "Афонский Владимир Игорьевич": 365,
-      "Балберов Александр Александрович": 85,
-      "Гребенщиков Сергей Валерьевич": 82,
-      "Ефремов Роман Николаевич": 21,
-      "Жукова Анастасия Владимировна": 35,
-      "Коновалова Елена Викторовна": 58,
-      "Лебедев Олег Александрович": 129,
-      "Новгородов Алексей Викторович": 42,
-      "Серегин Михаил Юрьевич": 21
+      "gas:candidate-vibid:2712000812208": 20,
+      "gas:candidate-vibid:2712000812219": 365,
+      "gas:candidate-vibid:2712000809871": 85,
+      "gas:candidate-vibid:2712000811774": 82,
+      "gas:candidate-vibid:2712000812695": 21,
+      "gas:candidate-vibid:2712000813464": 35,
+      "gas:candidate-vibid:2712000813452": 58,
+      "gas:candidate-vibid:2712000812156": 129,
+      "gas:candidate-vibid:2712000814270": 42,
+      "gas:candidate-vibid:2712000813041": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14623,16 +14623,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 11,
-      "Афонский Владимир Игорьевич": 374,
-      "Балберов Александр Александрович": 84,
-      "Гребенщиков Сергей Валерьевич": 62,
-      "Ефремов Роман Николаевич": 12,
-      "Жукова Анастасия Владимировна": 49,
-      "Коновалова Елена Викторовна": 29,
-      "Лебедев Олег Александрович": 159,
-      "Новгородов Алексей Викторович": 12,
-      "Серегин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2712000812208": 11,
+      "gas:candidate-vibid:2712000812219": 374,
+      "gas:candidate-vibid:2712000809871": 84,
+      "gas:candidate-vibid:2712000811774": 62,
+      "gas:candidate-vibid:2712000812695": 12,
+      "gas:candidate-vibid:2712000813464": 49,
+      "gas:candidate-vibid:2712000813452": 29,
+      "gas:candidate-vibid:2712000812156": 159,
+      "gas:candidate-vibid:2712000814270": 12,
+      "gas:candidate-vibid:2712000813041": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14683,16 +14683,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 19,
-      "Афонский Владимир Игорьевич": 321,
-      "Балберов Александр Александрович": 58,
-      "Гребенщиков Сергей Валерьевич": 70,
-      "Ефремов Роман Николаевич": 16,
-      "Жукова Анастасия Владимировна": 16,
-      "Коновалова Елена Викторовна": 29,
-      "Лебедев Олег Александрович": 139,
-      "Новгородов Алексей Викторович": 56,
-      "Серегин Михаил Юрьевич": 17
+      "gas:candidate-vibid:2712000812208": 19,
+      "gas:candidate-vibid:2712000812219": 321,
+      "gas:candidate-vibid:2712000809871": 58,
+      "gas:candidate-vibid:2712000811774": 70,
+      "gas:candidate-vibid:2712000812695": 16,
+      "gas:candidate-vibid:2712000813464": 16,
+      "gas:candidate-vibid:2712000813452": 29,
+      "gas:candidate-vibid:2712000812156": 139,
+      "gas:candidate-vibid:2712000814270": 56,
+      "gas:candidate-vibid:2712000813041": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14743,16 +14743,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 16,
-      "Афонский Владимир Игорьевич": 283,
-      "Балберов Александр Александрович": 72,
-      "Гребенщиков Сергей Валерьевич": 63,
-      "Ефремов Роман Николаевич": 13,
-      "Жукова Анастасия Владимировна": 11,
-      "Коновалова Елена Викторовна": 12,
-      "Лебедев Олег Александрович": 109,
-      "Новгородов Алексей Викторович": 24,
-      "Серегин Михаил Юрьевич": 13
+      "gas:candidate-vibid:2712000812208": 16,
+      "gas:candidate-vibid:2712000812219": 283,
+      "gas:candidate-vibid:2712000809871": 72,
+      "gas:candidate-vibid:2712000811774": 63,
+      "gas:candidate-vibid:2712000812695": 13,
+      "gas:candidate-vibid:2712000813464": 11,
+      "gas:candidate-vibid:2712000813452": 12,
+      "gas:candidate-vibid:2712000812156": 109,
+      "gas:candidate-vibid:2712000814270": 24,
+      "gas:candidate-vibid:2712000813041": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14803,16 +14803,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 21,
-      "Афонский Владимир Игорьевич": 461,
-      "Балберов Александр Александрович": 123,
-      "Гребенщиков Сергей Валерьевич": 141,
-      "Ефремов Роман Николаевич": 19,
-      "Жукова Анастасия Владимировна": 46,
-      "Коновалова Елена Викторовна": 65,
-      "Лебедев Олег Александрович": 197,
-      "Новгородов Алексей Викторович": 49,
-      "Серегин Михаил Юрьевич": 28
+      "gas:candidate-vibid:2712000812208": 21,
+      "gas:candidate-vibid:2712000812219": 461,
+      "gas:candidate-vibid:2712000809871": 123,
+      "gas:candidate-vibid:2712000811774": 141,
+      "gas:candidate-vibid:2712000812695": 19,
+      "gas:candidate-vibid:2712000813464": 46,
+      "gas:candidate-vibid:2712000813452": 65,
+      "gas:candidate-vibid:2712000812156": 197,
+      "gas:candidate-vibid:2712000814270": 49,
+      "gas:candidate-vibid:2712000813041": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14863,16 +14863,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 28,
-      "Афонский Владимир Игорьевич": 348,
-      "Балберов Александр Александрович": 78,
-      "Гребенщиков Сергей Валерьевич": 69,
-      "Ефремов Роман Николаевич": 23,
-      "Жукова Анастасия Владимировна": 17,
-      "Коновалова Елена Викторовна": 29,
-      "Лебедев Олег Александрович": 150,
-      "Новгородов Алексей Викторович": 39,
-      "Серегин Михаил Юрьевич": 14
+      "gas:candidate-vibid:2712000812208": 28,
+      "gas:candidate-vibid:2712000812219": 348,
+      "gas:candidate-vibid:2712000809871": 78,
+      "gas:candidate-vibid:2712000811774": 69,
+      "gas:candidate-vibid:2712000812695": 23,
+      "gas:candidate-vibid:2712000813464": 17,
+      "gas:candidate-vibid:2712000813452": 29,
+      "gas:candidate-vibid:2712000812156": 150,
+      "gas:candidate-vibid:2712000814270": 39,
+      "gas:candidate-vibid:2712000813041": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14923,16 +14923,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 24,
-      "Афонский Владимир Игорьевич": 310,
-      "Балберов Александр Александрович": 82,
-      "Гребенщиков Сергей Валерьевич": 90,
-      "Ефремов Роман Николаевич": 19,
-      "Жукова Анастасия Владимировна": 22,
-      "Коновалова Елена Викторовна": 31,
-      "Лебедев Олег Александрович": 149,
-      "Новгородов Алексей Викторович": 34,
-      "Серегин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2712000812208": 24,
+      "gas:candidate-vibid:2712000812219": 310,
+      "gas:candidate-vibid:2712000809871": 82,
+      "gas:candidate-vibid:2712000811774": 90,
+      "gas:candidate-vibid:2712000812695": 19,
+      "gas:candidate-vibid:2712000813464": 22,
+      "gas:candidate-vibid:2712000813452": 31,
+      "gas:candidate-vibid:2712000812156": 149,
+      "gas:candidate-vibid:2712000814270": 34,
+      "gas:candidate-vibid:2712000813041": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",
@@ -14983,16 +14983,16 @@ export const duma_2016_uik_463_region_71_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдулганиев Ильдар Инсанович": 14,
-      "Афонский Владимир Игорьевич": 314,
-      "Балберов Александр Александрович": 75,
-      "Гребенщиков Сергей Валерьевич": 45,
-      "Ефремов Роман Николаевич": 14,
-      "Жукова Анастасия Владимировна": 20,
-      "Коновалова Елена Викторовна": 36,
-      "Лебедев Олег Александрович": 102,
-      "Новгородов Алексей Викторович": 31,
-      "Серегин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2712000812208": 14,
+      "gas:candidate-vibid:2712000812219": 314,
+      "gas:candidate-vibid:2712000809871": 75,
+      "gas:candidate-vibid:2712000811774": 45,
+      "gas:candidate-vibid:2712000812695": 14,
+      "gas:candidate-vibid:2712000813464": 20,
+      "gas:candidate-vibid:2712000813452": 36,
+      "gas:candidate-vibid:2712000812156": 102,
+      "gas:candidate-vibid:2712000814270": 31,
+      "gas:candidate-vibid:2712000813041": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tula?action=show&root=1000243&tvd=2712000756935&vrn=100100067795849&region=71&global=&sub_region=71&prver=0&pronetvd=null&vibid=2712000756935&type=464",

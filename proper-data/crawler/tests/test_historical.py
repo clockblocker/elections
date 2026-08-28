@@ -12,6 +12,11 @@ sys.path.insert(0, str(CRAWLER))
 
 from decode_script_result import decode_script_tables
 from generate_historical_typescript import (
+    _district_value,
+    validate_registry_catalogs,
+    winner_registry_source,
+)
+from generate_historical_typescript import (
     generate as generate_historical_typescript,
 )
 from generate_historical_typescript import (
@@ -27,13 +32,21 @@ from historical import (
     spec_requests,
 )
 from historical_nationwide import (
+    candidate_label_matches,
     decoded_rows,
     enriched_relations,
+    finalize_result_classification,
     oik_breadcrumbs,
     report_kind,
     transpose,
 )
 from pipeline import UIK_RE as NATIONWIDE_UIK_RE
+from registries import (
+    normalized_choice_name,
+    parse_candidate_registry,
+    parse_legacy_party_detail,
+    parse_party_registry,
+)
 from shared_rate import SharedRateLimiter
 
 
@@ -49,6 +62,306 @@ class FakeClock:
 
 
 class HistoricalFamilyTests(unittest.TestCase):
+    def test_district_catalog_requires_and_serializes_winner_proof(self):
+        winner_source = {
+            "official_url": "http://old.izbirkom.ru/result?type=223",
+            "sha256": "b" * 64,
+            "report_type": 223,
+            "retrieved_at": "2026-08-28T00:00:00Z",
+            "final_url": "http://old.izbirkom.ru/result?type=223",
+            "provenance": "live-official",
+        }
+        with self.assertRaisesRegex(ValueError, "winner derivation"):
+            winner_registry_source(
+                winner_source,
+                allowed_report_types={223},
+                require_tik_oik_proof=True,
+            )
+        winner_source.update(
+            {
+                "winner_derivation": (
+                    "summed-official-tik-results-validated-against-oik-total"
+                ),
+                "oik_unique_highest_vote_total": 42,
+                "summed_tik_winner_vote_total": 42,
+            }
+        )
+        dataset = {
+            "election": "2003-duma",
+            "registry_gates": {
+                "allowed_anomalies": [
+                    {
+                        "allowed": True,
+                        "kind": "obfuscated-oik-winner-label",
+                        "district_number": 3,
+                        "raw_label": "9.",
+                        "winner_candidate_key": "gas:candidate-vibid:winner",
+                    }
+                ]
+            },
+        }
+        registry_source = {
+            "official_url": "http://old.izbirkom.ru/candidates?type=220",
+            "sha256": "a" * 64,
+            "report_type": 220,
+            "retrieved_at": "2026-08-28T00:00:00Z",
+            "final_url": "http://old.izbirkom.ru/candidates?type=220",
+            "provenance": "live-official",
+        }
+        district = {
+            "district_number": 3,
+            "oik_tvd": "oik-3",
+            "oik_name": "ОИК №3",
+            "region_code": "1",
+            "region_tvd": "region-1",
+            "region_name": "Регион",
+            "winner_candidate_vibid": "winner",
+            "candidates": [
+                {
+                    "candidate_vibid": "winner",
+                    "candidate_key": "gas:candidate-vibid:winner",
+                    "full_name": "Иванов Иван Иванович",
+                    "nominating_entity": "Самовыдвижение",
+                    "registration_status": "зарегистрирован",
+                    "is_elected": True,
+                }
+            ],
+            "source": registry_source,
+            "winner_source": winner_source,
+        }
+        generated = _district_value(dataset, district, None)
+        self.assertEqual(
+            generated["obfuscatedWinnerLabelAnomalies"],
+            [
+                {
+                    "districtNumber": 3,
+                    "rawLabel": "9.",
+                    "winnerCandidateKey": "gas:candidate-vibid:winner",
+                    "winnerCandidateVibid": "winner",
+                }
+            ],
+        )
+        self.assertEqual(
+            generated["source"]["winnerSource"]["oikUniqueHighestVoteTotal"],
+            42,
+        )
+
+    def test_same_type_tik_direct_protocol_is_classified_as_official_aggregate(self):
+        classification = {
+            "valid_result": True,
+            "level": "uik-direct-protocol",
+        }
+        same_type = finalize_result_classification(
+            classification,
+            request_class="tic-226",
+            report_type=226,
+            contest_types={"tic": 226, "uik": 226},
+            exact_report_type=True,
+        )
+        self.assertEqual(same_type["level"], "tik-direct-protocol")
+        self.assertTrue(same_type["kind_matches_requested_type"])
+
+        distinct_types = finalize_result_classification(
+            classification,
+            request_class="tic-227",
+            report_type=227,
+            contest_types={"tic": 227, "uik": 226},
+            exact_report_type=True,
+        )
+        self.assertEqual(distinct_types["level"], "uik-direct-protocol")
+        self.assertFalse(distinct_types["kind_matches_requested_type"])
+
+    def test_candidate_name_collision_requires_exact_birth_date(self):
+        candidate = {
+            "full_name": "Николаев Олег Алексеевич",
+            "birth_date": "01.12.1953",
+        }
+        self.assertTrue(
+            candidate_label_matches("7. Николаев Олег Алексеевич 01/12/53", candidate)
+        )
+        self.assertFalse(
+            candidate_label_matches("Николаев Олег Алексеевич 24/11/61", candidate)
+        )
+        self.assertFalse(
+            candidate_label_matches(
+                "Николаев Олег Алексеевич лишний текст 01/12/53", candidate
+            )
+        )
+
+    def test_2004_candidate_catalog_accepts_only_the_official_special_vote_key(self):
+        registry_source = {
+            "official_url": "http://old.izbirkom.ru/candidates?type=221",
+            "sha256": "a" * 64,
+            "report_type": 221,
+            "retrieved_at": "2026-08-28T00:00:00Z",
+            "final_url": "http://old.izbirkom.ru/candidates?type=221",
+            "provenance": "live-official",
+        }
+        winner_source = {
+            "official_url": "http://old.izbirkom.ru/result?type=226",
+            "sha256": "b" * 64,
+            "report_type": 226,
+            "retrieved_at": "2026-08-28T00:00:00Z",
+            "final_url": "http://old.izbirkom.ru/result?type=226",
+            "provenance": "live-official",
+        }
+        votes = {
+            "gas:candidate-vibid:winner": 10,
+            "special:against-all": 1,
+        }
+        partial_tiks = [
+            "206200075649",
+            "228200074900",
+            "241200070733",
+            "241200070735",
+            "243200083386",
+            "251200077705",
+            "265200075594",
+            "266200078108",
+            "266200078117",
+            "266200084492",
+            "266200084493",
+            "2772000100984",
+            "289200072363",
+            "784700068324",
+        ]
+        dataset = {
+            "election": "2004-president",
+            "contests": {"candidate": {"tic": 227, "uik": 226}},
+            "relations": [],
+            "records": [{"candidate_votes": votes}],
+            "tik_protocols": [
+                {
+                    "tik_tvd": tik_tvd,
+                    "candidate": {"votes": {"gas:candidate-vibid:winner": 10}},
+                }
+                for tik_tvd in partial_tiks
+            ],
+            "candidate_catalog": {
+                "winner_candidate_vibid": "winner",
+                "candidates": [
+                    {
+                        "candidate_vibid": "winner",
+                        "candidate_key": "gas:candidate-vibid:winner",
+                        "full_name": "Иванов Иван Иванович",
+                        "nominating_entity": "Самовыдвижение",
+                        "registration_status": "зарегистрирован",
+                        "is_elected": True,
+                    }
+                ],
+                "source": registry_source,
+                "winner_source": winner_source,
+            },
+            "registry_gates": {
+                "passed": True,
+                "sources_complete": True,
+                "registry_counts_complete": True,
+                "every_result_choice_matched_to_official_identity": True,
+                "identity_key_formulas_valid": True,
+                "uik_and_tik_vote_key_sets_valid": True,
+                "regular_and_special_winner_keys_exclusive": True,
+                "allowed_source_anomalies_exact": True,
+                "literal_elected_and_unique_highest_winner_agree": True,
+                "allowed_anomalies": [
+                    {
+                        "allowed": True,
+                        "kind": "partial-official-tik-candidate-map",
+                        "election": "2004-president",
+                        "tik_tvd": tik_tvd,
+                        "present_vote_keys": ["gas:candidate-vibid:winner"],
+                        "missing_vote_keys": ["special:against-all"],
+                    }
+                    for tik_tvd in partial_tiks
+                ],
+                "errors": {},
+            },
+        }
+        validate_registry_catalogs(dataset)
+        dataset["candidate_catalog"]["winner_source"]["report_type"] = 223
+        with self.assertRaisesRegex(ValueError, "unexpected winner report type"):
+            validate_registry_catalogs(dataset)
+
+    def test_modern_presidential_candidate_registry_preserves_vibid_and_status(self):
+        payload = """<html data-vrn="100100339410030"><table id="candidates-221-1">
+        <tr><td>1</td><td><a href="?type=341&amp;vibid=winner">Иванов Иван Иванович</a></td>
+        <td>01.01.1970</td><td>Самовыдвижение</td><td>01.01.2024</td>
+        <td>02.01.2024</td><td>выдвинут</td><td>зарегистрирован</td><td>избран</td></tr>
+        </table></html>""".encode("windows-1251")
+        parsed = parse_candidate_registry(
+            payload,
+            "http://old.izbirkom.ru/region/izbirkom?vrn=100100339410030",
+            election_vrn="100100339410030",
+            scope="election",
+        )
+        self.assertTrue(parsed["valid_candidate_registry"])
+        self.assertEqual(parsed["candidate_count"], 1)
+        self.assertEqual(parsed["candidates"][0]["candidate_vibid"], "winner")
+        self.assertEqual(parsed["candidates"][0]["birth_date"], "01.01.1970")
+        self.assertTrue(parsed["candidates"][0]["is_elected"])
+
+    def test_legacy_district_registry_keeps_official_history_rows(self):
+        payload = """<html data-vrn="100100095619"><table><tr>
+        <td><a href="?type=341&amp;vibid=c1">Петров Петр Петрович</a></td>
+        <td>Самовыдвижение</td><td>Тестовый/17</td><td>01.10.2003</td>
+        <td></td><td>4/2 зарегистрированный кандидат</td><td></td><td></td><td></td><td>избр.</td>
+        </tr></table></html>""".encode("windows-1251")
+        parsed = parse_candidate_registry(
+            payload,
+            "http://old.izbirkom.ru/region/izbirkom?vrn=100100095619",
+            election_vrn="100100095619",
+            scope="district",
+        )
+        self.assertEqual(parsed["district_numbers"], [17])
+        self.assertEqual(parsed["candidates"][0]["registration_status"], "4/2 зарегистрированный кандидат")
+
+    def test_party_registry_uses_vrnio_and_legacy_vibid_namespaces(self):
+        modern = """<html data-vrn="100100028713299"><table id="politparty2"><tr>
+        <td>1</td><td><form><input name="vrnio" value="list-1"><a href="#">\"Партия\"</a></form></td>
+        <td>01.01.2011</td><td>1/1</td><td>02.01.2011</td><td>2/2</td><td></td>
+        </tr></table></html>""".encode("windows-1251")
+        parsed = parse_party_registry(
+            modern,
+            "http://old.izbirkom.ru/region/izbirkom?vrn=100100028713299",
+            election_vrn="100100028713299",
+        )
+        self.assertEqual(parsed["parties"][0]["party_list_vrnio"], "list-1")
+        self.assertEqual(parsed["parties"][0]["identity_kind"], "vrnio")
+        legacy = """<html data-vrn="100100095619"><table><tr>
+        <td><a href="?type=303&amp;vibid=association-1">Партия</a></td>
+        <td>избирательное объединение</td><td>01.01.2002</td><td>05001</td>
+        </tr></table></html>""".encode("windows-1251")
+        parsed = parse_party_registry(
+            legacy,
+            "http://old.izbirkom.ru/region/izbirkom?vrn=100100095619",
+            election_vrn="100100095619",
+        )
+        self.assertEqual(parsed["parties"][0]["party_list_vrnio"], "association-1")
+        self.assertEqual(parsed["parties"][0]["identity_kind"], "vibid")
+
+    def test_legacy_party_detail_and_choice_normalization(self):
+        payload = """<html data-vrn="100100095619"><table>
+        <tr><td>Наименование</td><td>\"Партия\"</td></tr>
+        <tr><td>Вид</td><td>избирательное объединение</td></tr>
+        <tr><td>Номер жеребьевки</td><td>3</td></tr>
+        <tr><td>Количество мандатов по партийному списку</td><td>5</td></tr>
+        <tr><td>Количество голосов 'За'</td><td>100</td></tr>
+        <tr><td>Процент голосов 'За'</td><td>1.25</td></tr>
+        <tr><td>Объединение</td><td><a href="?type=321&amp;vibid=list-1">Партия</a></td></tr>
+        </table></html>""".encode("windows-1251")
+        parsed = parse_legacy_party_detail(
+            payload,
+            "http://old.izbirkom.ru/region/izbirkom?vrn=100100095619&vibid=association-1&type=303",
+            election_vrn="100100095619",
+        )
+        self.assertTrue(parsed["valid_party_detail"])
+        self.assertEqual(parsed["list_vibid"], "list-1")
+        self.assertEqual(parsed["draw_number"], 3)
+        self.assertEqual(parsed["mandates"], 5)
+        self.assertEqual(
+            normalized_choice_name('7. Политическая партия ЛДПР – Россия'),
+            normalized_choice_name('"Политическая партия ЛДПР - Россия"'),
+        )
+
     def test_nationwide_typescript_generation_uses_historical_types(self):
         source = {
             "official_url": "http://old.izbirkom.ru/result",

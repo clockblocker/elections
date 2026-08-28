@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 6,
-      "Евсеев Валерий Владимирович": 9,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 17,
-      "Рогозин Дмитрий Олегович": 744,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 35,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000290476": 6,
+      "gas:candidate-vibid:1001000136048": 9,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 17,
+      "gas:candidate-vibid:1001000188001": 744,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 35,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 12,
-      "Евсеев Валерий Владимирович": 8,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 17,
-      "Рогозин Дмитрий Олегович": 505,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 33,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000290476": 12,
+      "gas:candidate-vibid:1001000136048": 8,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 17,
+      "gas:candidate-vibid:1001000188001": 505,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 33,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 10,
-      "Евсеев Валерий Владимирович": 12,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 42,
-      "Рогозин Дмитрий Олегович": 719,
-      "Сафонов Алексей Георгиевич": 8,
-      "Синицын Владимир Николаевич": 52,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000290476": 10,
+      "gas:candidate-vibid:1001000136048": 12,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 42,
+      "gas:candidate-vibid:1001000188001": 719,
+      "gas:candidate-vibid:1001000195069": 8,
+      "gas:candidate-vibid:1001000121842": 52,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 18,
-      "Евсеев Валерий Владимирович": 30,
-      "Казбанов Сергей Викторович": 13,
-      "Матвеев Юрий Александрович": 47,
-      "Рогозин Дмитрий Олегович": 1064,
-      "Сафонов Алексей Георгиевич": 6,
-      "Синицын Владимир Николаевич": 60,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000290476": 18,
+      "gas:candidate-vibid:1001000136048": 30,
+      "gas:candidate-vibid:336300170561": 13,
+      "gas:candidate-vibid:1001000202304": 47,
+      "gas:candidate-vibid:1001000188001": 1064,
+      "gas:candidate-vibid:1001000195069": 6,
+      "gas:candidate-vibid:1001000121842": 60,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 14,
-      "Евсеев Валерий Владимирович": 19,
-      "Казбанов Сергей Викторович": 8,
-      "Матвеев Юрий Александрович": 25,
-      "Рогозин Дмитрий Олегович": 696,
-      "Сафонов Алексей Георгиевич": 9,
-      "Синицын Владимир Николаевич": 64,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000290476": 14,
+      "gas:candidate-vibid:1001000136048": 19,
+      "gas:candidate-vibid:336300170561": 8,
+      "gas:candidate-vibid:1001000202304": 25,
+      "gas:candidate-vibid:1001000188001": 696,
+      "gas:candidate-vibid:1001000195069": 9,
+      "gas:candidate-vibid:1001000121842": 64,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 14,
-      "Евсеев Валерий Владимирович": 16,
-      "Казбанов Сергей Викторович": 6,
-      "Матвеев Юрий Александрович": 31,
-      "Рогозин Дмитрий Олегович": 898,
-      "Сафонов Алексей Георгиевич": 5,
-      "Синицын Владимир Николаевич": 145,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000290476": 14,
+      "gas:candidate-vibid:1001000136048": 16,
+      "gas:candidate-vibid:336300170561": 6,
+      "gas:candidate-vibid:1001000202304": 31,
+      "gas:candidate-vibid:1001000188001": 898,
+      "gas:candidate-vibid:1001000195069": 5,
+      "gas:candidate-vibid:1001000121842": 145,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 16,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 21,
-      "Рогозин Дмитрий Олегович": 581,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 57,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 16,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 21,
+      "gas:candidate-vibid:1001000188001": 581,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 57,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 18,
-      "Евсеев Валерий Владимирович": 22,
-      "Казбанов Сергей Викторович": 6,
-      "Матвеев Юрий Александрович": 19,
-      "Рогозин Дмитрий Олегович": 714,
-      "Сафонов Алексей Георгиевич": 6,
-      "Синицын Владимир Николаевич": 53,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000290476": 18,
+      "gas:candidate-vibid:1001000136048": 22,
+      "gas:candidate-vibid:336300170561": 6,
+      "gas:candidate-vibid:1001000202304": 19,
+      "gas:candidate-vibid:1001000188001": 714,
+      "gas:candidate-vibid:1001000195069": 6,
+      "gas:candidate-vibid:1001000121842": 53,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 23,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 42,
-      "Рогозин Дмитрий Олегович": 619,
-      "Сафонов Алексей Георгиевич": 6,
-      "Синицын Владимир Николаевич": 52,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 23,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 42,
+      "gas:candidate-vibid:1001000188001": 619,
+      "gas:candidate-vibid:1001000195069": 6,
+      "gas:candidate-vibid:1001000121842": 52,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 10,
-      "Евсеев Валерий Владимирович": 27,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 29,
-      "Рогозин Дмитрий Олегович": 707,
-      "Сафонов Алексей Георгиевич": 7,
-      "Синицын Владимир Николаевич": 54,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000290476": 10,
+      "gas:candidate-vibid:1001000136048": 27,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 29,
+      "gas:candidate-vibid:1001000188001": 707,
+      "gas:candidate-vibid:1001000195069": 7,
+      "gas:candidate-vibid:1001000121842": 54,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 12,
-      "Евсеев Валерий Владимирович": 16,
-      "Казбанов Сергей Викторович": 6,
-      "Матвеев Юрий Александрович": 23,
-      "Рогозин Дмитрий Олегович": 554,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 30,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000290476": 12,
+      "gas:candidate-vibid:1001000136048": 16,
+      "gas:candidate-vibid:336300170561": 6,
+      "gas:candidate-vibid:1001000202304": 23,
+      "gas:candidate-vibid:1001000188001": 554,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 30,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 11,
-      "Евсеев Валерий Владимирович": 14,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 23,
-      "Рогозин Дмитрий Олегович": 602,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 44,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000290476": 11,
+      "gas:candidate-vibid:1001000136048": 14,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 23,
+      "gas:candidate-vibid:1001000188001": 602,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 44,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 12,
-      "Евсеев Валерий Владимирович": 10,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 36,
-      "Рогозин Дмитрий Олегович": 602,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 48,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000290476": 12,
+      "gas:candidate-vibid:1001000136048": 10,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 36,
+      "gas:candidate-vibid:1001000188001": 602,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 48,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 9,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 10,
-      "Рогозин Дмитрий Олегович": 457,
-      "Сафонов Алексей Георгиевич": 6,
-      "Синицын Владимир Николаевич": 10,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000290476": 9,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 10,
+      "gas:candidate-vibid:1001000188001": 457,
+      "gas:candidate-vibid:1001000195069": 6,
+      "gas:candidate-vibid:1001000121842": 10,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 15,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 5,
-      "Рогозин Дмитрий Олегович": 458,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 13,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 15,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 5,
+      "gas:candidate-vibid:1001000188001": 458,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 13,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 4,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 2,
-      "Рогозин Дмитрий Олегович": 195,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 9,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 4,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 2,
+      "gas:candidate-vibid:1001000188001": 195,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 9,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 11,
-      "Евсеев Валерий Владимирович": 11,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 24,
-      "Рогозин Дмитрий Олегович": 838,
-      "Сафонов Алексей Георгиевич": 5,
-      "Синицын Владимир Николаевич": 41,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000290476": 11,
+      "gas:candidate-vibid:1001000136048": 11,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 24,
+      "gas:candidate-vibid:1001000188001": 838,
+      "gas:candidate-vibid:1001000195069": 5,
+      "gas:candidate-vibid:1001000121842": 41,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 7,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 12,
-      "Рогозин Дмитрий Олегович": 233,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 40,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 7,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 12,
+      "gas:candidate-vibid:1001000188001": 233,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 40,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 0,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 148,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 0,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 148,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 31,
-      "Евсеев Валерий Владимирович": 8,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 14,
-      "Рогозин Дмитрий Олегович": 241,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 11,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000290476": 31,
+      "gas:candidate-vibid:1001000136048": 8,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 14,
+      "gas:candidate-vibid:1001000188001": 241,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 11,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 10,
-      "Евсеев Валерий Владимирович": 6,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 2,
-      "Рогозин Дмитрий Олегович": 662,
-      "Сафонов Алексей Георгиевич": 6,
-      "Синицын Владимир Николаевич": 30,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290476": 10,
+      "gas:candidate-vibid:1001000136048": 6,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 2,
+      "gas:candidate-vibid:1001000188001": 662,
+      "gas:candidate-vibid:1001000195069": 6,
+      "gas:candidate-vibid:1001000121842": 30,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 4,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 6,
-      "Рогозин Дмитрий Олегович": 245,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 4,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 6,
+      "gas:candidate-vibid:1001000188001": 245,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 6,
-      "Рогозин Дмитрий Олегович": 446,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 6,
+      "gas:candidate-vibid:1001000188001": 446,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 0,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 11,
-      "Рогозин Дмитрий Олегович": 262,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 0,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 11,
+      "gas:candidate-vibid:1001000188001": 262,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 7,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 1,
-      "Рогозин Дмитрий Олегович": 296,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 7,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 1,
+      "gas:candidate-vibid:1001000188001": 296,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 5,
-      "Рогозин Дмитрий Олегович": 178,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 5,
+      "gas:candidate-vibid:1001000188001": 178,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 3,
-      "Рогозин Дмитрий Олегович": 199,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 3,
+      "gas:candidate-vibid:1001000188001": 199,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 5,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 20,
-      "Рогозин Дмитрий Олегович": 302,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 12,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 5,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 20,
+      "gas:candidate-vibid:1001000188001": 302,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 12,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 12,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 224,
-      "Сафонов Алексей Георгиевич": 4,
-      "Синицын Владимир Николаевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 12,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 224,
+      "gas:candidate-vibid:1001000195069": 4,
+      "gas:candidate-vibid:1001000121842": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 2,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 2,
-      "Рогозин Дмитрий Олегович": 105,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 9,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 2,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 2,
+      "gas:candidate-vibid:1001000188001": 105,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 9,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 9,
-      "Евсеев Валерий Владимирович": 11,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 19,
-      "Рогозин Дмитрий Олегович": 875,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 23,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000290476": 9,
+      "gas:candidate-vibid:1001000136048": 11,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 19,
+      "gas:candidate-vibid:1001000188001": 875,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 23,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 3,
-      "Рогозин Дмитрий Олегович": 318,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 3,
+      "gas:candidate-vibid:1001000188001": 318,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 6,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 21,
-      "Рогозин Дмитрий Олегович": 817,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 32,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 6,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 21,
+      "gas:candidate-vibid:1001000188001": 817,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 32,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 4,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 13,
-      "Рогозин Дмитрий Олегович": 435,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 18,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 4,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 13,
+      "gas:candidate-vibid:1001000188001": 435,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 18,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 4,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 9,
-      "Рогозин Дмитрий Олегович": 336,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 4,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 9,
+      "gas:candidate-vibid:1001000188001": 336,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 5,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 5,
-      "Рогозин Дмитрий Олегович": 261,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 5,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 5,
+      "gas:candidate-vibid:1001000188001": 261,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 6,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 4,
-      "Рогозин Дмитрий Олегович": 388,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 17,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 6,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 4,
+      "gas:candidate-vibid:1001000188001": 388,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 17,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 1,
-      "Рогозин Дмитрий Олегович": 164,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 1,
+      "gas:candidate-vibid:1001000188001": 164,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 5,
-      "Рогозин Дмитрий Олегович": 280,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 23,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 5,
+      "gas:candidate-vibid:1001000188001": 280,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 23,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 0,
-      "Рогозин Дмитрий Олегович": 177,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 15,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 0,
+      "gas:candidate-vibid:1001000188001": 177,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 15,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 4,
-      "Рогозин Дмитрий Олегович": 601,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 22,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 4,
+      "gas:candidate-vibid:1001000188001": 601,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 22,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 522,
-      "Сафонов Алексей Георгиевич": 12,
-      "Синицын Владимир Николаевич": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 522,
+      "gas:candidate-vibid:1001000195069": 12,
+      "gas:candidate-vibid:1001000121842": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 0,
-      "Рогозин Дмитрий Олегович": 129,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 0,
+      "gas:candidate-vibid:1001000188001": 129,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 1,
-      "Рогозин Дмитрий Олегович": 124,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 1,
+      "gas:candidate-vibid:1001000188001": 124,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 17,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 17,
-      "Рогозин Дмитрий Олегович": 593,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 30,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 17,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 17,
+      "gas:candidate-vibid:1001000188001": 593,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 30,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 219,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 11,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 219,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 11,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 7,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 897,
-      "Сафонов Алексей Георгиевич": 13,
-      "Синицын Владимир Николаевич": 21,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 7,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 897,
+      "gas:candidate-vibid:1001000195069": 13,
+      "gas:candidate-vibid:1001000121842": 21,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 5,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 396,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 72,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 5,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 396,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 72,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 2,
-      "Рогозин Дмитрий Олегович": 540,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 21,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 2,
+      "gas:candidate-vibid:1001000188001": 540,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 21,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 7,
-      "Евсеев Валерий Владимирович": 17,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 13,
-      "Рогозин Дмитрий Олегович": 743,
-      "Сафонов Алексей Георгиевич": 7,
-      "Синицын Владимир Николаевич": 29,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000290476": 7,
+      "gas:candidate-vibid:1001000136048": 17,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 13,
+      "gas:candidate-vibid:1001000188001": 743,
+      "gas:candidate-vibid:1001000195069": 7,
+      "gas:candidate-vibid:1001000121842": 29,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 8,
-      "Евсеев Валерий Владимирович": 10,
-      "Казбанов Сергей Викторович": 6,
-      "Матвеев Юрий Александрович": 37,
-      "Рогозин Дмитрий Олегович": 774,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 47,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000290476": 8,
+      "gas:candidate-vibid:1001000136048": 10,
+      "gas:candidate-vibid:336300170561": 6,
+      "gas:candidate-vibid:1001000202304": 37,
+      "gas:candidate-vibid:1001000188001": 774,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 47,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 5,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 4,
-      "Рогозин Дмитрий Олегович": 646,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 5,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 4,
+      "gas:candidate-vibid:1001000188001": 646,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 7,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 33,
-      "Рогозин Дмитрий Олегович": 634,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 22,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 7,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 33,
+      "gas:candidate-vibid:1001000188001": 634,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 22,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 19,
-      "Рогозин Дмитрий Олегович": 635,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 17,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 19,
+      "gas:candidate-vibid:1001000188001": 635,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 17,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 7,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 18,
-      "Рогозин Дмитрий Олегович": 409,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 34,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 7,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 18,
+      "gas:candidate-vibid:1001000188001": 409,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 34,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 4,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 1,
-      "Рогозин Дмитрий Олегович": 145,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 40,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 4,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 1,
+      "gas:candidate-vibid:1001000188001": 145,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 40,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 8,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 6,
-      "Рогозин Дмитрий Олегович": 495,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 22,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 8,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 6,
+      "gas:candidate-vibid:1001000188001": 495,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 22,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073175&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 10,
-      "Евсеев Валерий Владимирович": 24,
-      "Казбанов Сергей Викторович": 6,
-      "Матвеев Юрий Александрович": 16,
-      "Рогозин Дмитрий Олегович": 888,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 71,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000290476": 10,
+      "gas:candidate-vibid:1001000136048": 24,
+      "gas:candidate-vibid:336300170561": 6,
+      "gas:candidate-vibid:1001000202304": 16,
+      "gas:candidate-vibid:1001000188001": 888,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 71,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 21,
-      "Евсеев Валерий Владимирович": 18,
-      "Казбанов Сергей Викторович": 12,
-      "Матвеев Юрий Александрович": 36,
-      "Рогозин Дмитрий Олегович": 668,
-      "Сафонов Алексей Георгиевич": 7,
-      "Синицын Владимир Николаевич": 53,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000290476": 21,
+      "gas:candidate-vibid:1001000136048": 18,
+      "gas:candidate-vibid:336300170561": 12,
+      "gas:candidate-vibid:1001000202304": 36,
+      "gas:candidate-vibid:1001000188001": 668,
+      "gas:candidate-vibid:1001000195069": 7,
+      "gas:candidate-vibid:1001000121842": 53,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 12,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 12,
-      "Рогозин Дмитрий Олегович": 233,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 23,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 12,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 12,
+      "gas:candidate-vibid:1001000188001": 233,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 23,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 20,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 12,
-      "Рогозин Дмитрий Олегович": 393,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 32,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 20,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 12,
+      "gas:candidate-vibid:1001000188001": 393,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 32,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 9,
-      "Евсеев Валерий Владимирович": 30,
-      "Казбанов Сергей Викторович": 10,
-      "Матвеев Юрий Александрович": 37,
-      "Рогозин Дмитрий Олегович": 955,
-      "Сафонов Алексей Георгиевич": 8,
-      "Синицын Владимир Николаевич": 106,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290476": 9,
+      "gas:candidate-vibid:1001000136048": 30,
+      "gas:candidate-vibid:336300170561": 10,
+      "gas:candidate-vibid:1001000202304": 37,
+      "gas:candidate-vibid:1001000188001": 955,
+      "gas:candidate-vibid:1001000195069": 8,
+      "gas:candidate-vibid:1001000121842": 106,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 6,
-      "Евсеев Валерий Владимирович": 13,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 20,
-      "Рогозин Дмитрий Олегович": 806,
-      "Сафонов Алексей Георгиевич": 8,
-      "Синицын Владимир Николаевич": 81,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000290476": 6,
+      "gas:candidate-vibid:1001000136048": 13,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 20,
+      "gas:candidate-vibid:1001000188001": 806,
+      "gas:candidate-vibid:1001000195069": 8,
+      "gas:candidate-vibid:1001000121842": 81,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 16,
-      "Евсеев Валерий Владимирович": 41,
-      "Казбанов Сергей Викторович": 12,
-      "Матвеев Юрий Александрович": 19,
-      "Рогозин Дмитрий Олегович": 859,
-      "Сафонов Алексей Георгиевич": 8,
-      "Синицын Владимир Николаевич": 67,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000290476": 16,
+      "gas:candidate-vibid:1001000136048": 41,
+      "gas:candidate-vibid:336300170561": 12,
+      "gas:candidate-vibid:1001000202304": 19,
+      "gas:candidate-vibid:1001000188001": 859,
+      "gas:candidate-vibid:1001000195069": 8,
+      "gas:candidate-vibid:1001000121842": 67,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 34,
-      "Казбанов Сергей Викторович": 12,
-      "Матвеев Юрий Александрович": 24,
-      "Рогозин Дмитрий Олегович": 905,
-      "Сафонов Алексей Георгиевич": 4,
-      "Синицын Владимир Николаевич": 58,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 34,
+      "gas:candidate-vibid:336300170561": 12,
+      "gas:candidate-vibid:1001000202304": 24,
+      "gas:candidate-vibid:1001000188001": 905,
+      "gas:candidate-vibid:1001000195069": 4,
+      "gas:candidate-vibid:1001000121842": 58,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 24,
-      "Казбанов Сергей Викторович": 9,
-      "Матвеев Юрий Александрович": 18,
-      "Рогозин Дмитрий Олегович": 517,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 20,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 24,
+      "gas:candidate-vibid:336300170561": 9,
+      "gas:candidate-vibid:1001000202304": 18,
+      "gas:candidate-vibid:1001000188001": 517,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 20,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 7,
-      "Евсеев Валерий Владимирович": 20,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 18,
-      "Рогозин Дмитрий Олегович": 503,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 31,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000290476": 7,
+      "gas:candidate-vibid:1001000136048": 20,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 18,
+      "gas:candidate-vibid:1001000188001": 503,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 31,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 13,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 16,
-      "Рогозин Дмитрий Олегович": 447,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 17,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 13,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 16,
+      "gas:candidate-vibid:1001000188001": 447,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 17,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 5,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 3,
-      "Рогозин Дмитрий Олегович": 377,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 8,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 5,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 3,
+      "gas:candidate-vibid:1001000188001": 377,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 8,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 0,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 5,
-      "Рогозин Дмитрий Олегович": 254,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 0,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 5,
+      "gas:candidate-vibid:1001000188001": 254,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 7,
-      "Евсеев Валерий Владимирович": 11,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 10,
-      "Рогозин Дмитрий Олегович": 465,
-      "Сафонов Алексей Георгиевич": 4,
-      "Синицын Владимир Николаевич": 20,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000290476": 7,
+      "gas:candidate-vibid:1001000136048": 11,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 10,
+      "gas:candidate-vibid:1001000188001": 465,
+      "gas:candidate-vibid:1001000195069": 4,
+      "gas:candidate-vibid:1001000121842": 20,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 16,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 564,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 16,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 564,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 16,
-      "Рогозин Дмитрий Олегович": 361,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 15,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 16,
+      "gas:candidate-vibid:1001000188001": 361,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 15,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 0,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 3,
-      "Рогозин Дмитрий Олегович": 136,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 0,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 3,
+      "gas:candidate-vibid:1001000188001": 136,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 6,
-      "Казбанов Сергей Викторович": 5,
-      "Матвеев Юрий Александрович": 22,
-      "Рогозин Дмитрий Олегович": 677,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 24,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 6,
+      "gas:candidate-vibid:336300170561": 5,
+      "gas:candidate-vibid:1001000202304": 22,
+      "gas:candidate-vibid:1001000188001": 677,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 24,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 3,
-      "Рогозин Дмитрий Олегович": 236,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 3,
+      "gas:candidate-vibid:1001000188001": 236,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 0,
-      "Евсеев Валерий Владимирович": 3,
-      "Казбанов Сергей Викторович": 0,
-      "Матвеев Юрий Александрович": 1,
-      "Рогозин Дмитрий Олегович": 94,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000290476": 0,
+      "gas:candidate-vibid:1001000136048": 3,
+      "gas:candidate-vibid:336300170561": 0,
+      "gas:candidate-vibid:1001000202304": 1,
+      "gas:candidate-vibid:1001000188001": 94,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 13,
-      "Евсеев Валерий Владимирович": 19,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 27,
-      "Рогозин Дмитрий Олегович": 800,
-      "Сафонов Алексей Георгиевич": 5,
-      "Синицын Владимир Николаевич": 27,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000290476": 13,
+      "gas:candidate-vibid:1001000136048": 19,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 27,
+      "gas:candidate-vibid:1001000188001": 800,
+      "gas:candidate-vibid:1001000195069": 5,
+      "gas:candidate-vibid:1001000121842": 27,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 7,
-      "Рогозин Дмитрий Олегович": 225,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 7,
+      "gas:candidate-vibid:1001000188001": 225,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 18,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 26,
-      "Рогозин Дмитрий Олегович": 388,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 74,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 18,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 26,
+      "gas:candidate-vibid:1001000188001": 388,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 74,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 15,
-      "Евсеев Валерий Владимирович": 40,
-      "Казбанов Сергей Викторович": 11,
-      "Матвеев Юрий Александрович": 63,
-      "Рогозин Дмитрий Олегович": 683,
-      "Сафонов Алексей Георгиевич": 11,
-      "Синицын Владимир Николаевич": 113,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000290476": 15,
+      "gas:candidate-vibid:1001000136048": 40,
+      "gas:candidate-vibid:336300170561": 11,
+      "gas:candidate-vibid:1001000202304": 63,
+      "gas:candidate-vibid:1001000188001": 683,
+      "gas:candidate-vibid:1001000195069": 11,
+      "gas:candidate-vibid:1001000121842": 113,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 9,
-      "Евсеев Валерий Владимирович": 13,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 13,
-      "Рогозин Дмитрий Олегович": 599,
-      "Сафонов Алексей Георгиевич": 9,
-      "Синицын Владимир Николаевич": 20,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000290476": 9,
+      "gas:candidate-vibid:1001000136048": 13,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 13,
+      "gas:candidate-vibid:1001000188001": 599,
+      "gas:candidate-vibid:1001000195069": 9,
+      "gas:candidate-vibid:1001000121842": 20,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 6,
-      "Евсеев Валерий Владимирович": 11,
-      "Казбанов Сергей Викторович": 12,
-      "Матвеев Юрий Александрович": 13,
-      "Рогозин Дмитрий Олегович": 376,
-      "Сафонов Алексей Георгиевич": 5,
-      "Синицын Владимир Николаевич": 18,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000290476": 6,
+      "gas:candidate-vibid:1001000136048": 11,
+      "gas:candidate-vibid:336300170561": 12,
+      "gas:candidate-vibid:1001000202304": 13,
+      "gas:candidate-vibid:1001000188001": 376,
+      "gas:candidate-vibid:1001000195069": 5,
+      "gas:candidate-vibid:1001000121842": 18,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 5,
-      "Евсеев Валерий Владимирович": 6,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 4,
-      "Рогозин Дмитрий Олегович": 346,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 15,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290476": 5,
+      "gas:candidate-vibid:1001000136048": 6,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 4,
+      "gas:candidate-vibid:1001000188001": 346,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 15,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 1,
-      "Евсеев Валерий Владимирович": 1,
-      "Казбанов Сергей Викторович": 2,
-      "Матвеев Юрий Александрович": 6,
-      "Рогозин Дмитрий Олегович": 167,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000290476": 1,
+      "gas:candidate-vibid:1001000136048": 1,
+      "gas:candidate-vibid:336300170561": 2,
+      "gas:candidate-vibid:1001000202304": 6,
+      "gas:candidate-vibid:1001000188001": 167,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 21,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 24,
-      "Рогозин Дмитрий Олегович": 405,
-      "Сафонов Алексей Георгиевич": 6,
-      "Синицын Владимир Николаевич": 44,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 21,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 24,
+      "gas:candidate-vibid:1001000188001": 405,
+      "gas:candidate-vibid:1001000195069": 6,
+      "gas:candidate-vibid:1001000121842": 44,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 3,
-      "Евсеев Валерий Владимирович": 22,
-      "Казбанов Сергей Викторович": 6,
-      "Матвеев Юрий Александрович": 22,
-      "Рогозин Дмитрий Олегович": 348,
-      "Сафонов Алексей Георгиевич": 2,
-      "Синицын Владимир Николаевич": 39,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000290476": 3,
+      "gas:candidate-vibid:1001000136048": 22,
+      "gas:candidate-vibid:336300170561": 6,
+      "gas:candidate-vibid:1001000202304": 22,
+      "gas:candidate-vibid:1001000188001": 348,
+      "gas:candidate-vibid:1001000195069": 2,
+      "gas:candidate-vibid:1001000121842": 39,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 12,
-      "Евсеев Валерий Владимирович": 21,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 24,
-      "Рогозин Дмитрий Олегович": 406,
-      "Сафонов Алексей Георгиевич": 4,
-      "Синицын Владимир Николаевич": 21,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000290476": 12,
+      "gas:candidate-vibid:1001000136048": 21,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 24,
+      "gas:candidate-vibid:1001000188001": 406,
+      "gas:candidate-vibid:1001000195069": 4,
+      "gas:candidate-vibid:1001000121842": 21,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 4,
-      "Евсеев Валерий Владимирович": 17,
-      "Казбанов Сергей Викторович": 7,
-      "Матвеев Юрий Александрович": 24,
-      "Рогозин Дмитрий Олегович": 424,
-      "Сафонов Алексей Георгиевич": 7,
-      "Синицын Владимир Николаевич": 37,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000290476": 4,
+      "gas:candidate-vibid:1001000136048": 17,
+      "gas:candidate-vibid:336300170561": 7,
+      "gas:candidate-vibid:1001000202304": 24,
+      "gas:candidate-vibid:1001000188001": 424,
+      "gas:candidate-vibid:1001000195069": 7,
+      "gas:candidate-vibid:1001000121842": 37,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 11,
-      "Евсеев Валерий Владимирович": 8,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 8,
-      "Рогозин Дмитрий Олегович": 488,
-      "Сафонов Алексей Георгиевич": 3,
-      "Синицын Владимир Николаевич": 36,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000290476": 11,
+      "gas:candidate-vibid:1001000136048": 8,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 8,
+      "gas:candidate-vibid:1001000188001": 488,
+      "gas:candidate-vibid:1001000195069": 3,
+      "gas:candidate-vibid:1001000121842": 36,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 15,
-      "Евсеев Валерий Владимирович": 25,
-      "Казбанов Сергей Викторович": 3,
-      "Матвеев Юрий Александрович": 12,
-      "Рогозин Дмитрий Олегович": 536,
-      "Сафонов Алексей Георгиевич": 4,
-      "Синицын Владимир Николаевич": 26,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000290476": 15,
+      "gas:candidate-vibid:1001000136048": 25,
+      "gas:candidate-vibid:336300170561": 3,
+      "gas:candidate-vibid:1001000202304": 12,
+      "gas:candidate-vibid:1001000188001": 536,
+      "gas:candidate-vibid:1001000195069": 4,
+      "gas:candidate-vibid:1001000121842": 26,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 9,
-      "Евсеев Валерий Владимирович": 6,
-      "Казбанов Сергей Викторович": 4,
-      "Матвеев Юрий Александрович": 9,
-      "Рогозин Дмитрий Олегович": 349,
-      "Сафонов Алексей Георгиевич": 7,
-      "Синицын Владимир Николаевич": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000290476": 9,
+      "gas:candidate-vibid:1001000136048": 6,
+      "gas:candidate-vibid:336300170561": 4,
+      "gas:candidate-vibid:1001000202304": 9,
+      "gas:candidate-vibid:1001000188001": 349,
+      "gas:candidate-vibid:1001000195069": 7,
+      "gas:candidate-vibid:1001000121842": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 5,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 6,
-      "Рогозин Дмитрий Олегович": 89,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 12,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 5,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 6,
+      "gas:candidate-vibid:1001000188001": 89,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 12,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 2,
-      "Евсеев Валерий Владимирович": 0,
-      "Казбанов Сергей Викторович": 1,
-      "Матвеев Юрий Александрович": 2,
-      "Рогозин Дмитрий Олегович": 136,
-      "Сафонов Алексей Георгиевич": 0,
-      "Синицын Владимир Николаевич": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000290476": 2,
+      "gas:candidate-vibid:1001000136048": 0,
+      "gas:candidate-vibid:336300170561": 1,
+      "gas:candidate-vibid:1001000202304": 2,
+      "gas:candidate-vibid:1001000188001": 136,
+      "gas:candidate-vibid:1001000195069": 0,
+      "gas:candidate-vibid:1001000121842": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 8,
-      "Евсеев Валерий Владимирович": 10,
-      "Казбанов Сергей Викторович": 5,
-      "Матвеев Юрий Александрович": 4,
-      "Рогозин Дмитрий Олегович": 384,
-      "Сафонов Алексей Георгиевич": 1,
-      "Синицын Владимир Николаевич": 8,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000290476": 8,
+      "gas:candidate-vibid:1001000136048": 10,
+      "gas:candidate-vibid:336300170561": 5,
+      "gas:candidate-vibid:1001000202304": 4,
+      "gas:candidate-vibid:1001000188001": 384,
+      "gas:candidate-vibid:1001000195069": 1,
+      "gas:candidate-vibid:1001000121842": 8,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ашифин Константин Григорьевич": 10,
-      "Евсеев Валерий Владимирович": 20,
-      "Казбанов Сергей Викторович": 14,
-      "Матвеев Юрий Александрович": 35,
-      "Рогозин Дмитрий Олегович": 722,
-      "Сафонов Алексей Георгиевич": 11,
-      "Синицын Владимир Николаевич": 20,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000290476": 10,
+      "gas:candidate-vibid:1001000136048": 20,
+      "gas:candidate-vibid:336300170561": 14,
+      "gas:candidate-vibid:1001000202304": 35,
+      "gas:candidate-vibid:1001000188001": 722,
+      "gas:candidate-vibid:1001000195069": 11,
+      "gas:candidate-vibid:1001000121842": 20,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073176&region=0&sub_region=0&type=429",
@@ -5514,16 +5514,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 34,
-      "Болдырев Александр Евгеньевич": 88,
-      "Воробей Леонид Васильевич": 52,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 24,
-      "Рудаков Сергей Иванович": 286,
-      "Сысоев Александр Владимирович": 249,
-      "Черников Александр Васильевич": 28,
-      "Чижов Сергей Викторович": 892,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000136049": 34,
+      "gas:candidate-vibid:1001000113928": 88,
+      "gas:candidate-vibid:1001000190338": 52,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 24,
+      "gas:candidate-vibid:1001000121843": 286,
+      "gas:candidate-vibid:336300270764": 249,
+      "gas:candidate-vibid:1001000195070": 28,
+      "gas:candidate-vibid:1001000225934": 892,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5573,16 +5573,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 22,
-      "Болдырев Александр Евгеньевич": 12,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 11,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 57,
-      "Сысоев Александр Владимирович": 90,
-      "Черников Александр Васильевич": 15,
-      "Чижов Сергей Викторович": 293,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136049": 22,
+      "gas:candidate-vibid:1001000113928": 12,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 11,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 57,
+      "gas:candidate-vibid:336300270764": 90,
+      "gas:candidate-vibid:1001000195070": 15,
+      "gas:candidate-vibid:1001000225934": 293,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5632,16 +5632,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 8,
-      "Болдырев Александр Евгеньевич": 15,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 7,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 56,
-      "Сысоев Александр Владимирович": 84,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 270,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000136049": 8,
+      "gas:candidate-vibid:1001000113928": 15,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 7,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 56,
+      "gas:candidate-vibid:336300270764": 84,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 270,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5691,16 +5691,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 19,
-      "Болдырев Александр Евгеньевич": 40,
-      "Воробей Леонид Васильевич": 12,
-      "Корниенко Анатолий Васильевич": 13,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 106,
-      "Сысоев Александр Владимирович": 112,
-      "Черников Александр Васильевич": 3,
-      "Чижов Сергей Викторович": 492,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136049": 19,
+      "gas:candidate-vibid:1001000113928": 40,
+      "gas:candidate-vibid:1001000190338": 12,
+      "gas:candidate-vibid:1001000217920": 13,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 106,
+      "gas:candidate-vibid:336300270764": 112,
+      "gas:candidate-vibid:1001000195070": 3,
+      "gas:candidate-vibid:1001000225934": 492,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5750,16 +5750,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 21,
-      "Болдырев Александр Евгеньевич": 45,
-      "Воробей Леонид Васильевич": 34,
-      "Корниенко Анатолий Васильевич": 9,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 107,
-      "Сысоев Александр Владимирович": 85,
-      "Черников Александр Васильевич": 14,
-      "Чижов Сергей Викторович": 364,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136049": 21,
+      "gas:candidate-vibid:1001000113928": 45,
+      "gas:candidate-vibid:1001000190338": 34,
+      "gas:candidate-vibid:1001000217920": 9,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 107,
+      "gas:candidate-vibid:336300270764": 85,
+      "gas:candidate-vibid:1001000195070": 14,
+      "gas:candidate-vibid:1001000225934": 364,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5809,16 +5809,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 34,
-      "Воробей Леонид Васильевич": 16,
-      "Корниенко Анатолий Васильевич": 11,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 83,
-      "Сысоев Александр Владимирович": 76,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 466,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 34,
+      "gas:candidate-vibid:1001000190338": 16,
+      "gas:candidate-vibid:1001000217920": 11,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 83,
+      "gas:candidate-vibid:336300270764": 76,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 466,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5868,16 +5868,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 17,
-      "Воробей Леонид Васильевич": 15,
-      "Корниенко Анатолий Васильевич": 14,
-      "Рубанов Владимир Арсентьевич": 9,
-      "Рудаков Сергей Иванович": 113,
-      "Сысоев Александр Владимирович": 137,
-      "Черников Александр Васильевич": 19,
-      "Чижов Сергей Викторович": 394,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 17,
+      "gas:candidate-vibid:1001000190338": 15,
+      "gas:candidate-vibid:1001000217920": 14,
+      "gas:candidate-vibid:336300270819": 9,
+      "gas:candidate-vibid:1001000121843": 113,
+      "gas:candidate-vibid:336300270764": 137,
+      "gas:candidate-vibid:1001000195070": 19,
+      "gas:candidate-vibid:1001000225934": 394,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5927,16 +5927,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 30,
-      "Воробей Леонид Васильевич": 15,
-      "Корниенко Анатолий Васильевич": 9,
-      "Рубанов Владимир Арсентьевич": 5,
-      "Рудаков Сергей Иванович": 69,
-      "Сысоев Александр Владимирович": 106,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 357,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 30,
+      "gas:candidate-vibid:1001000190338": 15,
+      "gas:candidate-vibid:1001000217920": 9,
+      "gas:candidate-vibid:336300270819": 5,
+      "gas:candidate-vibid:1001000121843": 69,
+      "gas:candidate-vibid:336300270764": 106,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 357,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -5986,16 +5986,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 12,
-      "Болдырев Александр Евгеньевич": 6,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 8,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 59,
-      "Сысоев Александр Владимирович": 29,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 165,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000136049": 12,
+      "gas:candidate-vibid:1001000113928": 6,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 8,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 59,
+      "gas:candidate-vibid:336300270764": 29,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 165,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6045,16 +6045,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 41,
-      "Болдырев Александр Евгеньевич": 123,
-      "Воробей Леонид Васильевич": 22,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 129,
-      "Сысоев Александр Владимирович": 268,
-      "Черников Александр Васильевич": 20,
-      "Чижов Сергей Викторович": 755,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000136049": 41,
+      "gas:candidate-vibid:1001000113928": 123,
+      "gas:candidate-vibid:1001000190338": 22,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 129,
+      "gas:candidate-vibid:336300270764": 268,
+      "gas:candidate-vibid:1001000195070": 20,
+      "gas:candidate-vibid:1001000225934": 755,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6104,16 +6104,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 8,
-      "Болдырев Александр Евгеньевич": 32,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 3,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 51,
-      "Сысоев Александр Владимирович": 44,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 131,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136049": 8,
+      "gas:candidate-vibid:1001000113928": 32,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 3,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 51,
+      "gas:candidate-vibid:336300270764": 44,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 131,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6163,16 +6163,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 7,
-      "Болдырев Александр Евгеньевич": 28,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 51,
-      "Сысоев Александр Владимирович": 107,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 202,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136049": 7,
+      "gas:candidate-vibid:1001000113928": 28,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 51,
+      "gas:candidate-vibid:336300270764": 107,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 202,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6222,16 +6222,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 14,
-      "Болдырев Александр Евгеньевич": 44,
-      "Воробей Леонид Васильевич": 15,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 38,
-      "Сысоев Александр Владимирович": 54,
-      "Черников Александр Васильевич": 20,
-      "Чижов Сергей Викторович": 329,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136049": 14,
+      "gas:candidate-vibid:1001000113928": 44,
+      "gas:candidate-vibid:1001000190338": 15,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 38,
+      "gas:candidate-vibid:336300270764": 54,
+      "gas:candidate-vibid:1001000195070": 20,
+      "gas:candidate-vibid:1001000225934": 329,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6281,16 +6281,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 11,
-      "Болдырев Александр Евгеньевич": 47,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 74,
-      "Сысоев Александр Владимирович": 56,
-      "Черников Александр Васильевич": 24,
-      "Чижов Сергей Викторович": 247,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136049": 11,
+      "gas:candidate-vibid:1001000113928": 47,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 74,
+      "gas:candidate-vibid:336300270764": 56,
+      "gas:candidate-vibid:1001000195070": 24,
+      "gas:candidate-vibid:1001000225934": 247,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6340,16 +6340,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 72,
-      "Воробей Леонид Васильевич": 18,
-      "Корниенко Анатолий Васильевич": 10,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 117,
-      "Сысоев Александр Владимирович": 118,
-      "Черников Александр Васильевич": 14,
-      "Чижов Сергей Викторович": 217,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 72,
+      "gas:candidate-vibid:1001000190338": 18,
+      "gas:candidate-vibid:1001000217920": 10,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 117,
+      "gas:candidate-vibid:336300270764": 118,
+      "gas:candidate-vibid:1001000195070": 14,
+      "gas:candidate-vibid:1001000225934": 217,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6399,16 +6399,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 31,
-      "Болдырев Александр Евгеньевич": 48,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 13,
-      "Рудаков Сергей Иванович": 162,
-      "Сысоев Александр Владимирович": 90,
-      "Черников Александр Васильевич": 17,
-      "Чижов Сергей Викторович": 694,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000136049": 31,
+      "gas:candidate-vibid:1001000113928": 48,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 13,
+      "gas:candidate-vibid:1001000121843": 162,
+      "gas:candidate-vibid:336300270764": 90,
+      "gas:candidate-vibid:1001000195070": 17,
+      "gas:candidate-vibid:1001000225934": 694,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6458,16 +6458,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 4,
-      "Болдырев Александр Евгеньевич": 10,
-      "Воробей Леонид Васильевич": 3,
-      "Корниенко Анатолий Васильевич": 2,
-      "Рубанов Владимир Арсентьевич": 1,
-      "Рудаков Сергей Иванович": 7,
-      "Сысоев Александр Владимирович": 10,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 85,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136049": 4,
+      "gas:candidate-vibid:1001000113928": 10,
+      "gas:candidate-vibid:1001000190338": 3,
+      "gas:candidate-vibid:1001000217920": 2,
+      "gas:candidate-vibid:336300270819": 1,
+      "gas:candidate-vibid:1001000121843": 7,
+      "gas:candidate-vibid:336300270764": 10,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 85,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6517,16 +6517,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 7,
-      "Болдырев Александр Евгеньевич": 96,
-      "Воробей Леонид Васильевич": 16,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 40,
-      "Сысоев Александр Владимирович": 28,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 185,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136049": 7,
+      "gas:candidate-vibid:1001000113928": 96,
+      "gas:candidate-vibid:1001000190338": 16,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 40,
+      "gas:candidate-vibid:336300270764": 28,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 185,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6576,16 +6576,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 13,
-      "Болдырев Александр Евгеньевич": 108,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 5,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 53,
-      "Сысоев Александр Владимирович": 88,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 168,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136049": 13,
+      "gas:candidate-vibid:1001000113928": 108,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 5,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 53,
+      "gas:candidate-vibid:336300270764": 88,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 168,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6635,16 +6635,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 11,
-      "Болдырев Александр Евгеньевич": 77,
-      "Воробей Леонид Васильевич": 25,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 2,
-      "Рудаков Сергей Иванович": 43,
-      "Сысоев Александр Владимирович": 93,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 220,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136049": 11,
+      "gas:candidate-vibid:1001000113928": 77,
+      "gas:candidate-vibid:1001000190338": 25,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 2,
+      "gas:candidate-vibid:1001000121843": 43,
+      "gas:candidate-vibid:336300270764": 93,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 220,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6694,16 +6694,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 4,
-      "Болдырев Александр Евгеньевич": 82,
-      "Воробей Леонид Васильевич": 2,
-      "Корниенко Анатолий Васильевич": 1,
-      "Рубанов Владимир Арсентьевич": 2,
-      "Рудаков Сергей Иванович": 16,
-      "Сысоев Александр Владимирович": 39,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 121,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136049": 4,
+      "gas:candidate-vibid:1001000113928": 82,
+      "gas:candidate-vibid:1001000190338": 2,
+      "gas:candidate-vibid:1001000217920": 1,
+      "gas:candidate-vibid:336300270819": 2,
+      "gas:candidate-vibid:1001000121843": 16,
+      "gas:candidate-vibid:336300270764": 39,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 121,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6753,16 +6753,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 3,
-      "Болдырев Александр Евгеньевич": 17,
-      "Воробей Леонид Васильевич": 1,
-      "Корниенко Анатолий Васильевич": 3,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 54,
-      "Сысоев Александр Владимирович": 22,
-      "Черников Александр Васильевич": 3,
-      "Чижов Сергей Викторович": 111,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136049": 3,
+      "gas:candidate-vibid:1001000113928": 17,
+      "gas:candidate-vibid:1001000190338": 1,
+      "gas:candidate-vibid:1001000217920": 3,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 54,
+      "gas:candidate-vibid:336300270764": 22,
+      "gas:candidate-vibid:1001000195070": 3,
+      "gas:candidate-vibid:1001000225934": 111,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6812,16 +6812,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 0,
-      "Болдырев Александр Евгеньевич": 21,
-      "Воробей Леонид Васильевич": 0,
-      "Корниенко Анатолий Васильевич": 1,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 18,
-      "Сысоев Александр Владимирович": 7,
-      "Черников Александр Васильевич": 2,
-      "Чижов Сергей Викторович": 33,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136049": 0,
+      "gas:candidate-vibid:1001000113928": 21,
+      "gas:candidate-vibid:1001000190338": 0,
+      "gas:candidate-vibid:1001000217920": 1,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 18,
+      "gas:candidate-vibid:336300270764": 7,
+      "gas:candidate-vibid:1001000195070": 2,
+      "gas:candidate-vibid:1001000225934": 33,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6871,16 +6871,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 3,
-      "Болдырев Александр Евгеньевич": 55,
-      "Воробей Леонид Васильевич": 3,
-      "Корниенко Анатолий Васильевич": 1,
-      "Рубанов Владимир Арсентьевич": 2,
-      "Рудаков Сергей Иванович": 28,
-      "Сысоев Александр Владимирович": 60,
-      "Черников Александр Васильевич": 1,
-      "Чижов Сергей Викторович": 136,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136049": 3,
+      "gas:candidate-vibid:1001000113928": 55,
+      "gas:candidate-vibid:1001000190338": 3,
+      "gas:candidate-vibid:1001000217920": 1,
+      "gas:candidate-vibid:336300270819": 2,
+      "gas:candidate-vibid:1001000121843": 28,
+      "gas:candidate-vibid:336300270764": 60,
+      "gas:candidate-vibid:1001000195070": 1,
+      "gas:candidate-vibid:1001000225934": 136,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6930,16 +6930,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 6,
-      "Болдырев Александр Евгеньевич": 57,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 23,
-      "Сысоев Александр Владимирович": 40,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 213,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136049": 6,
+      "gas:candidate-vibid:1001000113928": 57,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 23,
+      "gas:candidate-vibid:336300270764": 40,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 213,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -6989,16 +6989,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 7,
-      "Болдырев Александр Евгеньевич": 34,
-      "Воробей Леонид Васильевич": 2,
-      "Корниенко Анатолий Васильевич": 1,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 39,
-      "Сысоев Александр Владимирович": 26,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 171,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136049": 7,
+      "gas:candidate-vibid:1001000113928": 34,
+      "gas:candidate-vibid:1001000190338": 2,
+      "gas:candidate-vibid:1001000217920": 1,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 39,
+      "gas:candidate-vibid:336300270764": 26,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 171,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7048,16 +7048,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 9,
-      "Болдырев Александр Евгеньевич": 17,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 36,
-      "Сысоев Александр Владимирович": 49,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 135,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136049": 9,
+      "gas:candidate-vibid:1001000113928": 17,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 36,
+      "gas:candidate-vibid:336300270764": 49,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 135,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7107,16 +7107,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 11,
-      "Болдырев Александр Евгеньевич": 23,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 10,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 30,
-      "Сысоев Александр Владимирович": 24,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 172,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136049": 11,
+      "gas:candidate-vibid:1001000113928": 23,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 10,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 30,
+      "gas:candidate-vibid:336300270764": 24,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 172,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7166,16 +7166,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 2,
-      "Болдырев Александр Евгеньевич": 14,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 3,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 27,
-      "Сысоев Александр Владимирович": 6,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 42,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136049": 2,
+      "gas:candidate-vibid:1001000113928": 14,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 3,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 27,
+      "gas:candidate-vibid:336300270764": 6,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 42,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7225,16 +7225,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 33,
-      "Воробей Леонид Васильевич": 51,
-      "Корниенко Анатолий Васильевич": 12,
-      "Рубанов Владимир Арсентьевич": 5,
-      "Рудаков Сергей Иванович": 62,
-      "Сысоев Александр Владимирович": 102,
-      "Черников Александр Васильевич": 12,
-      "Чижов Сергей Викторович": 329,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 33,
+      "gas:candidate-vibid:1001000190338": 51,
+      "gas:candidate-vibid:1001000217920": 12,
+      "gas:candidate-vibid:336300270819": 5,
+      "gas:candidate-vibid:1001000121843": 62,
+      "gas:candidate-vibid:336300270764": 102,
+      "gas:candidate-vibid:1001000195070": 12,
+      "gas:candidate-vibid:1001000225934": 329,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7284,16 +7284,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 11,
-      "Болдырев Александр Евгеньевич": 46,
-      "Воробей Леонид Васильевич": 14,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 51,
-      "Сысоев Александр Владимирович": 66,
-      "Черников Александр Васильевич": 24,
-      "Чижов Сергей Викторович": 209,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136049": 11,
+      "gas:candidate-vibid:1001000113928": 46,
+      "gas:candidate-vibid:1001000190338": 14,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 51,
+      "gas:candidate-vibid:336300270764": 66,
+      "gas:candidate-vibid:1001000195070": 24,
+      "gas:candidate-vibid:1001000225934": 209,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7343,16 +7343,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 5,
-      "Болдырев Александр Евгеньевич": 5,
-      "Воробей Леонид Васильевич": 2,
-      "Корниенко Анатолий Васильевич": 5,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 31,
-      "Сысоев Александр Владимирович": 50,
-      "Черников Александр Васильевич": 22,
-      "Чижов Сергей Викторович": 121,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136049": 5,
+      "gas:candidate-vibid:1001000113928": 5,
+      "gas:candidate-vibid:1001000190338": 2,
+      "gas:candidate-vibid:1001000217920": 5,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 31,
+      "gas:candidate-vibid:336300270764": 50,
+      "gas:candidate-vibid:1001000195070": 22,
+      "gas:candidate-vibid:1001000225934": 121,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7402,16 +7402,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 13,
-      "Болдырев Александр Евгеньевич": 35,
-      "Воробей Леонид Васильевич": 20,
-      "Корниенко Анатолий Васильевич": 9,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 65,
-      "Сысоев Александр Владимирович": 44,
-      "Черников Александр Васильевич": 3,
-      "Чижов Сергей Викторович": 243,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136049": 13,
+      "gas:candidate-vibid:1001000113928": 35,
+      "gas:candidate-vibid:1001000190338": 20,
+      "gas:candidate-vibid:1001000217920": 9,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 65,
+      "gas:candidate-vibid:336300270764": 44,
+      "gas:candidate-vibid:1001000195070": 3,
+      "gas:candidate-vibid:1001000225934": 243,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7461,16 +7461,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 12,
-      "Болдырев Александр Евгеньевич": 75,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 4,
-      "Рубанов Владимир Арсентьевич": 1,
-      "Рудаков Сергей Иванович": 56,
-      "Сысоев Александр Владимирович": 33,
-      "Черников Александр Васильевич": 3,
-      "Чижов Сергей Викторович": 183,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136049": 12,
+      "gas:candidate-vibid:1001000113928": 75,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 4,
+      "gas:candidate-vibid:336300270819": 1,
+      "gas:candidate-vibid:1001000121843": 56,
+      "gas:candidate-vibid:336300270764": 33,
+      "gas:candidate-vibid:1001000195070": 3,
+      "gas:candidate-vibid:1001000225934": 183,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7520,16 +7520,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 8,
-      "Болдырев Александр Евгеньевич": 36,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 5,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 41,
-      "Сысоев Александр Владимирович": 31,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 198,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136049": 8,
+      "gas:candidate-vibid:1001000113928": 36,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 5,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 41,
+      "gas:candidate-vibid:336300270764": 31,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 198,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7579,16 +7579,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 6,
-      "Болдырев Александр Евгеньевич": 12,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 8,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 102,
-      "Сысоев Александр Владимирович": 76,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 108,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136049": 6,
+      "gas:candidate-vibid:1001000113928": 12,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 8,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 102,
+      "gas:candidate-vibid:336300270764": 76,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 108,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7638,16 +7638,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 6,
-      "Болдырев Александр Евгеньевич": 30,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 16,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 38,
-      "Сысоев Александр Владимирович": 39,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 185,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136049": 6,
+      "gas:candidate-vibid:1001000113928": 30,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 16,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 38,
+      "gas:candidate-vibid:336300270764": 39,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 185,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7697,16 +7697,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 21,
-      "Болдырев Александр Евгеньевич": 27,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 43,
-      "Сысоев Александр Владимирович": 43,
-      "Черников Александр Васильевич": 22,
-      "Чижов Сергей Викторович": 230,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136049": 21,
+      "gas:candidate-vibid:1001000113928": 27,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 43,
+      "gas:candidate-vibid:336300270764": 43,
+      "gas:candidate-vibid:1001000195070": 22,
+      "gas:candidate-vibid:1001000225934": 230,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7756,16 +7756,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 8,
-      "Болдырев Александр Евгеньевич": 40,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 26,
-      "Сысоев Александр Владимирович": 58,
-      "Черников Александр Васильевич": 38,
-      "Чижов Сергей Викторович": 195,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000136049": 8,
+      "gas:candidate-vibid:1001000113928": 40,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 26,
+      "gas:candidate-vibid:336300270764": 58,
+      "gas:candidate-vibid:1001000195070": 38,
+      "gas:candidate-vibid:1001000225934": 195,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7815,16 +7815,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 33,
-      "Болдырев Александр Евгеньевич": 73,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 14,
-      "Рубанов Владимир Арсентьевич": 5,
-      "Рудаков Сергей Иванович": 81,
-      "Сысоев Александр Владимирович": 99,
-      "Черников Александр Васильевич": 36,
-      "Чижов Сергей Викторович": 485,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000136049": 33,
+      "gas:candidate-vibid:1001000113928": 73,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 14,
+      "gas:candidate-vibid:336300270819": 5,
+      "gas:candidate-vibid:1001000121843": 81,
+      "gas:candidate-vibid:336300270764": 99,
+      "gas:candidate-vibid:1001000195070": 36,
+      "gas:candidate-vibid:1001000225934": 485,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7874,16 +7874,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 30,
-      "Болдырев Александр Евгеньевич": 95,
-      "Воробей Леонид Васильевич": 1,
-      "Корниенко Анатолий Васильевич": 15,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 76,
-      "Сысоев Александр Владимирович": 94,
-      "Черников Александр Васильевич": 17,
-      "Чижов Сергей Викторович": 438,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136049": 30,
+      "gas:candidate-vibid:1001000113928": 95,
+      "gas:candidate-vibid:1001000190338": 1,
+      "gas:candidate-vibid:1001000217920": 15,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 76,
+      "gas:candidate-vibid:336300270764": 94,
+      "gas:candidate-vibid:1001000195070": 17,
+      "gas:candidate-vibid:1001000225934": 438,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7933,16 +7933,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 16,
-      "Болдырев Александр Евгеньевич": 52,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 13,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 58,
-      "Сысоев Александр Владимирович": 124,
-      "Черников Александр Васильевич": 30,
-      "Чижов Сергей Викторович": 373,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000136049": 16,
+      "gas:candidate-vibid:1001000113928": 52,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 13,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 58,
+      "gas:candidate-vibid:336300270764": 124,
+      "gas:candidate-vibid:1001000195070": 30,
+      "gas:candidate-vibid:1001000225934": 373,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073278&region=0&sub_region=0&type=429",
@@ -7992,16 +7992,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 31,
-      "Болдырев Александр Евгеньевич": 83,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 23,
-      "Рубанов Владимир Арсентьевич": 13,
-      "Рудаков Сергей Иванович": 238,
-      "Сысоев Александр Владимирович": 117,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 211,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136049": 31,
+      "gas:candidate-vibid:1001000113928": 83,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 23,
+      "gas:candidate-vibid:336300270819": 13,
+      "gas:candidate-vibid:1001000121843": 238,
+      "gas:candidate-vibid:336300270764": 117,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 211,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8051,16 +8051,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 54,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 154,
-      "Сысоев Александр Владимирович": 101,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 229,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 54,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 154,
+      "gas:candidate-vibid:336300270764": 101,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 229,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8110,16 +8110,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 58,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 27,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 204,
-      "Сысоев Александр Владимирович": 110,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 209,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 58,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 27,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 204,
+      "gas:candidate-vibid:336300270764": 110,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 209,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8169,16 +8169,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 49,
-      "Болдырев Александр Евгеньевич": 103,
-      "Воробей Леонид Васильевич": 16,
-      "Корниенко Анатолий Васильевич": 37,
-      "Рубанов Владимир Арсентьевич": 23,
-      "Рудаков Сергей Иванович": 312,
-      "Сысоев Александр Владимирович": 105,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 373,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000136049": 49,
+      "gas:candidate-vibid:1001000113928": 103,
+      "gas:candidate-vibid:1001000190338": 16,
+      "gas:candidate-vibid:1001000217920": 37,
+      "gas:candidate-vibid:336300270819": 23,
+      "gas:candidate-vibid:1001000121843": 312,
+      "gas:candidate-vibid:336300270764": 105,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 373,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8228,16 +8228,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 11,
-      "Болдырев Александр Евгеньевич": 64,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 21,
-      "Рубанов Владимир Арсентьевич": 21,
-      "Рудаков Сергей Иванович": 264,
-      "Сысоев Александр Владимирович": 89,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 238,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136049": 11,
+      "gas:candidate-vibid:1001000113928": 64,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 21,
+      "gas:candidate-vibid:336300270819": 21,
+      "gas:candidate-vibid:1001000121843": 264,
+      "gas:candidate-vibid:336300270764": 89,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 238,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8287,16 +8287,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 22,
-      "Болдырев Александр Евгеньевич": 70,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 34,
-      "Рубанов Владимир Арсентьевич": 23,
-      "Рудаков Сергей Иванович": 337,
-      "Сысоев Александр Владимирович": 102,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 254,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000136049": 22,
+      "gas:candidate-vibid:1001000113928": 70,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 34,
+      "gas:candidate-vibid:336300270819": 23,
+      "gas:candidate-vibid:1001000121843": 337,
+      "gas:candidate-vibid:336300270764": 102,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 254,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8346,16 +8346,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 26,
-      "Болдырев Александр Евгеньевич": 106,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 19,
-      "Рудаков Сергей Иванович": 209,
-      "Сысоев Александр Владимирович": 102,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 236,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136049": 26,
+      "gas:candidate-vibid:1001000113928": 106,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 19,
+      "gas:candidate-vibid:1001000121843": 209,
+      "gas:candidate-vibid:336300270764": 102,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 236,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8405,16 +8405,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 30,
-      "Болдырев Александр Евгеньевич": 120,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 24,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 254,
-      "Сысоев Александр Владимирович": 110,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 202,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136049": 30,
+      "gas:candidate-vibid:1001000113928": 120,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 24,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 254,
+      "gas:candidate-vibid:336300270764": 110,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 202,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8464,16 +8464,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 27,
-      "Болдырев Александр Евгеньевич": 86,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 27,
-      "Рубанов Владимир Арсентьевич": 19,
-      "Рудаков Сергей Иванович": 229,
-      "Сысоев Александр Владимирович": 123,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 244,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136049": 27,
+      "gas:candidate-vibid:1001000113928": 86,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 27,
+      "gas:candidate-vibid:336300270819": 19,
+      "gas:candidate-vibid:1001000121843": 229,
+      "gas:candidate-vibid:336300270764": 123,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 244,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8523,16 +8523,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 30,
-      "Болдырев Александр Евгеньевич": 81,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 27,
-      "Рубанов Владимир Арсентьевич": 20,
-      "Рудаков Сергей Иванович": 170,
-      "Сысоев Александр Владимирович": 115,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 199,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000136049": 30,
+      "gas:candidate-vibid:1001000113928": 81,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 27,
+      "gas:candidate-vibid:336300270819": 20,
+      "gas:candidate-vibid:1001000121843": 170,
+      "gas:candidate-vibid:336300270764": 115,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 199,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8582,16 +8582,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 28,
-      "Болдырев Александр Евгеньевич": 84,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 41,
-      "Рубанов Владимир Арсентьевич": 60,
-      "Рудаков Сергей Иванович": 259,
-      "Сысоев Александр Владимирович": 135,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 294,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136049": 28,
+      "gas:candidate-vibid:1001000113928": 84,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 41,
+      "gas:candidate-vibid:336300270819": 60,
+      "gas:candidate-vibid:1001000121843": 259,
+      "gas:candidate-vibid:336300270764": 135,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 294,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8641,16 +8641,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 21,
-      "Болдырев Александр Евгеньевич": 58,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 10,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 163,
-      "Сысоев Александр Владимирович": 90,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 196,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136049": 21,
+      "gas:candidate-vibid:1001000113928": 58,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 10,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 163,
+      "gas:candidate-vibid:336300270764": 90,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 196,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8700,16 +8700,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 55,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 198,
-      "Сысоев Александр Владимирович": 96,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 211,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 55,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 198,
+      "gas:candidate-vibid:336300270764": 96,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 211,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8759,16 +8759,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 26,
-      "Болдырев Александр Евгеньевич": 50,
-      "Воробей Леонид Васильевич": 0,
-      "Корниенко Анатолий Васильевич": 38,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 152,
-      "Сысоев Александр Владимирович": 100,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 166,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000136049": 26,
+      "gas:candidate-vibid:1001000113928": 50,
+      "gas:candidate-vibid:1001000190338": 0,
+      "gas:candidate-vibid:1001000217920": 38,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 152,
+      "gas:candidate-vibid:336300270764": 100,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 166,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8818,16 +8818,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 23,
-      "Болдырев Александр Евгеньевич": 109,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 33,
-      "Рубанов Владимир Арсентьевич": 25,
-      "Рудаков Сергей Иванович": 226,
-      "Сысоев Александр Владимирович": 116,
-      "Черников Александр Васильевич": 17,
-      "Чижов Сергей Викторович": 213,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136049": 23,
+      "gas:candidate-vibid:1001000113928": 109,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 33,
+      "gas:candidate-vibid:336300270819": 25,
+      "gas:candidate-vibid:1001000121843": 226,
+      "gas:candidate-vibid:336300270764": 116,
+      "gas:candidate-vibid:1001000195070": 17,
+      "gas:candidate-vibid:1001000225934": 213,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8877,16 +8877,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 43,
-      "Болдырев Александр Евгеньевич": 70,
-      "Воробей Леонид Васильевич": 14,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 154,
-      "Сысоев Александр Владимирович": 159,
-      "Черников Александр Васильевич": 17,
-      "Чижов Сергей Викторович": 285,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136049": 43,
+      "gas:candidate-vibid:1001000113928": 70,
+      "gas:candidate-vibid:1001000190338": 14,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 154,
+      "gas:candidate-vibid:336300270764": 159,
+      "gas:candidate-vibid:1001000195070": 17,
+      "gas:candidate-vibid:1001000225934": 285,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8936,16 +8936,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 78,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 21,
-      "Рубанов Владимир Арсентьевич": 20,
-      "Рудаков Сергей Иванович": 215,
-      "Сысоев Александр Владимирович": 91,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 155,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 78,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 21,
+      "gas:candidate-vibid:336300270819": 20,
+      "gas:candidate-vibid:1001000121843": 215,
+      "gas:candidate-vibid:336300270764": 91,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 155,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -8995,16 +8995,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 30,
-      "Болдырев Александр Евгеньевич": 92,
-      "Воробей Леонид Васильевич": 16,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 17,
-      "Рудаков Сергей Иванович": 162,
-      "Сысоев Александр Владимирович": 104,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 264,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000136049": 30,
+      "gas:candidate-vibid:1001000113928": 92,
+      "gas:candidate-vibid:1001000190338": 16,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 17,
+      "gas:candidate-vibid:1001000121843": 162,
+      "gas:candidate-vibid:336300270764": 104,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 264,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9054,16 +9054,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 35,
-      "Болдырев Александр Евгеньевич": 90,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 34,
-      "Рубанов Владимир Арсентьевич": 18,
-      "Рудаков Сергей Иванович": 234,
-      "Сысоев Александр Владимирович": 73,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 218,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000136049": 35,
+      "gas:candidate-vibid:1001000113928": 90,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 34,
+      "gas:candidate-vibid:336300270819": 18,
+      "gas:candidate-vibid:1001000121843": 234,
+      "gas:candidate-vibid:336300270764": 73,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 218,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9113,16 +9113,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 26,
-      "Болдырев Александр Евгеньевич": 70,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 23,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 198,
-      "Сысоев Александр Владимирович": 98,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 213,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000136049": 26,
+      "gas:candidate-vibid:1001000113928": 70,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 23,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 198,
+      "gas:candidate-vibid:336300270764": 98,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 213,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9172,16 +9172,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 33,
-      "Болдырев Александр Евгеньевич": 72,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 23,
-      "Рубанов Владимир Арсентьевич": 16,
-      "Рудаков Сергей Иванович": 170,
-      "Сысоев Александр Владимирович": 87,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 231,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000136049": 33,
+      "gas:candidate-vibid:1001000113928": 72,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 23,
+      "gas:candidate-vibid:336300270819": 16,
+      "gas:candidate-vibid:1001000121843": 170,
+      "gas:candidate-vibid:336300270764": 87,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 231,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9231,16 +9231,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 25,
-      "Болдырев Александр Евгеньевич": 60,
-      "Воробей Леонид Васильевич": 3,
-      "Корниенко Анатолий Васильевич": 26,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 170,
-      "Сысоев Александр Владимирович": 108,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 208,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136049": 25,
+      "gas:candidate-vibid:1001000113928": 60,
+      "gas:candidate-vibid:1001000190338": 3,
+      "gas:candidate-vibid:1001000217920": 26,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 170,
+      "gas:candidate-vibid:336300270764": 108,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 208,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9290,16 +9290,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 36,
-      "Болдырев Александр Евгеньевич": 44,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 32,
-      "Рубанов Владимир Арсентьевич": 17,
-      "Рудаков Сергей Иванович": 169,
-      "Сысоев Александр Владимирович": 117,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 244,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136049": 36,
+      "gas:candidate-vibid:1001000113928": 44,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 32,
+      "gas:candidate-vibid:336300270819": 17,
+      "gas:candidate-vibid:1001000121843": 169,
+      "gas:candidate-vibid:336300270764": 117,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 244,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9349,16 +9349,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 54,
-      "Болдырев Александр Евгеньевич": 38,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 16,
-      "Рудаков Сергей Иванович": 155,
-      "Сысоев Александр Владимирович": 170,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 197,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136049": 54,
+      "gas:candidate-vibid:1001000113928": 38,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 16,
+      "gas:candidate-vibid:1001000121843": 155,
+      "gas:candidate-vibid:336300270764": 170,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 197,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9408,16 +9408,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 25,
-      "Болдырев Александр Евгеньевич": 58,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 18,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 140,
-      "Сысоев Александр Владимирович": 117,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 234,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000136049": 25,
+      "gas:candidate-vibid:1001000113928": 58,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 18,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 140,
+      "gas:candidate-vibid:336300270764": 117,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 234,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9467,16 +9467,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 66,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 20,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 135,
-      "Сысоев Александр Владимирович": 129,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 154,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 66,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 20,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 135,
+      "gas:candidate-vibid:336300270764": 129,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 154,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9526,16 +9526,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 36,
-      "Болдырев Александр Евгеньевич": 53,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 21,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 118,
-      "Сысоев Александр Владимирович": 119,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 306,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136049": 36,
+      "gas:candidate-vibid:1001000113928": 53,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 21,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 118,
+      "gas:candidate-vibid:336300270764": 119,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 306,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9585,16 +9585,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 40,
-      "Болдырев Александр Евгеньевич": 64,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 35,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 187,
-      "Сысоев Александр Владимирович": 149,
-      "Черников Александр Васильевич": 2,
-      "Чижов Сергей Викторович": 313,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136049": 40,
+      "gas:candidate-vibid:1001000113928": 64,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 35,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 187,
+      "gas:candidate-vibid:336300270764": 149,
+      "gas:candidate-vibid:1001000195070": 2,
+      "gas:candidate-vibid:1001000225934": 313,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9644,16 +9644,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 74,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 25,
-      "Рубанов Владимир Арсентьевич": 19,
-      "Рудаков Сергей Иванович": 245,
-      "Сысоев Александр Владимирович": 183,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 243,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 74,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 25,
+      "gas:candidate-vibid:336300270819": 19,
+      "gas:candidate-vibid:1001000121843": 245,
+      "gas:candidate-vibid:336300270764": 183,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 243,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9703,16 +9703,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 30,
-      "Болдырев Александр Евгеньевич": 58,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 15,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 151,
-      "Сысоев Александр Владимирович": 128,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 266,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136049": 30,
+      "gas:candidate-vibid:1001000113928": 58,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 15,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 151,
+      "gas:candidate-vibid:336300270764": 128,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 266,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9762,16 +9762,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 28,
-      "Болдырев Александр Евгеньевич": 61,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 5,
-      "Рудаков Сергей Иванович": 198,
-      "Сысоев Александр Владимирович": 153,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 253,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136049": 28,
+      "gas:candidate-vibid:1001000113928": 61,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 5,
+      "gas:candidate-vibid:1001000121843": 198,
+      "gas:candidate-vibid:336300270764": 153,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 253,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9821,16 +9821,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 34,
-      "Болдырев Александр Евгеньевич": 64,
-      "Воробей Леонид Васильевич": 19,
-      "Корниенко Анатолий Васильевич": 24,
-      "Рубанов Владимир Арсентьевич": 20,
-      "Рудаков Сергей Иванович": 215,
-      "Сысоев Александр Владимирович": 197,
-      "Черников Александр Васильевич": 12,
-      "Чижов Сергей Викторович": 239,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000136049": 34,
+      "gas:candidate-vibid:1001000113928": 64,
+      "gas:candidate-vibid:1001000190338": 19,
+      "gas:candidate-vibid:1001000217920": 24,
+      "gas:candidate-vibid:336300270819": 20,
+      "gas:candidate-vibid:1001000121843": 215,
+      "gas:candidate-vibid:336300270764": 197,
+      "gas:candidate-vibid:1001000195070": 12,
+      "gas:candidate-vibid:1001000225934": 239,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9880,16 +9880,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 33,
-      "Болдырев Александр Евгеньевич": 92,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 92,
-      "Рубанов Владимир Арсентьевич": 17,
-      "Рудаков Сергей Иванович": 216,
-      "Сысоев Александр Владимирович": 149,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 258,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136049": 33,
+      "gas:candidate-vibid:1001000113928": 92,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 92,
+      "gas:candidate-vibid:336300270819": 17,
+      "gas:candidate-vibid:1001000121843": 216,
+      "gas:candidate-vibid:336300270764": 149,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 258,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9939,16 +9939,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 23,
-      "Болдырев Александр Евгеньевич": 40,
-      "Воробей Леонид Васильевич": 3,
-      "Корниенко Анатолий Васильевич": 42,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 55,
-      "Сысоев Александр Владимирович": 75,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 142,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000136049": 23,
+      "gas:candidate-vibid:1001000113928": 40,
+      "gas:candidate-vibid:1001000190338": 3,
+      "gas:candidate-vibid:1001000217920": 42,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 55,
+      "gas:candidate-vibid:336300270764": 75,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 142,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -9998,16 +9998,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 19,
-      "Болдырев Александр Евгеньевич": 67,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 35,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 168,
-      "Сысоев Александр Владимирович": 99,
-      "Черников Александр Васильевич": 2,
-      "Чижов Сергей Викторович": 214,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136049": 19,
+      "gas:candidate-vibid:1001000113928": 67,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 35,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 168,
+      "gas:candidate-vibid:336300270764": 99,
+      "gas:candidate-vibid:1001000195070": 2,
+      "gas:candidate-vibid:1001000225934": 214,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -10057,16 +10057,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 21,
-      "Болдырев Александр Евгеньевич": 53,
-      "Воробей Леонид Васильевич": 1,
-      "Корниенко Анатолий Васильевич": 25,
-      "Рубанов Владимир Арсентьевич": 21,
-      "Рудаков Сергей Иванович": 127,
-      "Сысоев Александр Владимирович": 93,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 181,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136049": 21,
+      "gas:candidate-vibid:1001000113928": 53,
+      "gas:candidate-vibid:1001000190338": 1,
+      "gas:candidate-vibid:1001000217920": 25,
+      "gas:candidate-vibid:336300270819": 21,
+      "gas:candidate-vibid:1001000121843": 127,
+      "gas:candidate-vibid:336300270764": 93,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 181,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -10116,16 +10116,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 22,
-      "Болдырев Александр Евгеньевич": 29,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 25,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 127,
-      "Сысоев Александр Владимирович": 97,
-      "Черников Александр Васильевич": 1,
-      "Чижов Сергей Викторович": 185,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000136049": 22,
+      "gas:candidate-vibid:1001000113928": 29,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 25,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 127,
+      "gas:candidate-vibid:336300270764": 97,
+      "gas:candidate-vibid:1001000195070": 1,
+      "gas:candidate-vibid:1001000225934": 185,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -10175,16 +10175,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 45,
-      "Болдырев Александр Евгеньевич": 83,
-      "Воробей Леонид Васильевич": 14,
-      "Корниенко Анатолий Васильевич": 43,
-      "Рубанов Владимир Арсентьевич": 39,
-      "Рудаков Сергей Иванович": 207,
-      "Сысоев Александр Владимирович": 163,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 353,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000136049": 45,
+      "gas:candidate-vibid:1001000113928": 83,
+      "gas:candidate-vibid:1001000190338": 14,
+      "gas:candidate-vibid:1001000217920": 43,
+      "gas:candidate-vibid:336300270819": 39,
+      "gas:candidate-vibid:1001000121843": 207,
+      "gas:candidate-vibid:336300270764": 163,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 353,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -10234,16 +10234,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 2,
-      "Болдырев Александр Евгеньевич": 22,
-      "Воробей Леонид Васильевич": 0,
-      "Корниенко Анатолий Васильевич": 1,
-      "Рубанов Владимир Арсентьевич": 3,
-      "Рудаков Сергей Иванович": 29,
-      "Сысоев Александр Владимирович": 34,
-      "Черников Александр Васильевич": 1,
-      "Чижов Сергей Викторович": 15,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136049": 2,
+      "gas:candidate-vibid:1001000113928": 22,
+      "gas:candidate-vibid:1001000190338": 0,
+      "gas:candidate-vibid:1001000217920": 1,
+      "gas:candidate-vibid:336300270819": 3,
+      "gas:candidate-vibid:1001000121843": 29,
+      "gas:candidate-vibid:336300270764": 34,
+      "gas:candidate-vibid:1001000195070": 1,
+      "gas:candidate-vibid:1001000225934": 15,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -10293,16 +10293,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 19,
-      "Болдырев Александр Евгеньевич": 4,
-      "Воробей Леонид Васильевич": 0,
-      "Корниенко Анатолий Васильевич": 1,
-      "Рубанов Владимир Арсентьевич": 0,
-      "Рудаков Сергей Иванович": 10,
-      "Сысоев Александр Владимирович": 17,
-      "Черников Александр Васильевич": 2,
-      "Чижов Сергей Викторович": 60,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136049": 19,
+      "gas:candidate-vibid:1001000113928": 4,
+      "gas:candidate-vibid:1001000190338": 0,
+      "gas:candidate-vibid:1001000217920": 1,
+      "gas:candidate-vibid:336300270819": 0,
+      "gas:candidate-vibid:1001000121843": 10,
+      "gas:candidate-vibid:336300270764": 17,
+      "gas:candidate-vibid:1001000195070": 2,
+      "gas:candidate-vibid:1001000225934": 60,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073279&region=0&sub_region=0&type=429",
@@ -10352,16 +10352,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 61,
-      "Болдырев Александр Евгеньевич": 79,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 25,
-      "Рубанов Владимир Арсентьевич": 25,
-      "Рудаков Сергей Иванович": 158,
-      "Сысоев Александр Владимирович": 87,
-      "Черников Александр Васильевич": 14,
-      "Чижов Сергей Викторович": 758,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000136049": 61,
+      "gas:candidate-vibid:1001000113928": 79,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 25,
+      "gas:candidate-vibid:336300270819": 25,
+      "gas:candidate-vibid:1001000121843": 158,
+      "gas:candidate-vibid:336300270764": 87,
+      "gas:candidate-vibid:1001000195070": 14,
+      "gas:candidate-vibid:1001000225934": 758,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10411,16 +10411,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 59,
-      "Болдырев Александр Евгеньевич": 56,
-      "Воробей Леонид Васильевич": 15,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 19,
-      "Рудаков Сергей Иванович": 154,
-      "Сысоев Александр Владимирович": 66,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 617,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000136049": 59,
+      "gas:candidate-vibid:1001000113928": 56,
+      "gas:candidate-vibid:1001000190338": 15,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 19,
+      "gas:candidate-vibid:1001000121843": 154,
+      "gas:candidate-vibid:336300270764": 66,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 617,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10470,16 +10470,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 77,
-      "Воробей Леонид Васильевич": 2,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 13,
-      "Рудаков Сергей Иванович": 187,
-      "Сысоев Александр Владимирович": 55,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 357,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 77,
+      "gas:candidate-vibid:1001000190338": 2,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 13,
+      "gas:candidate-vibid:1001000121843": 187,
+      "gas:candidate-vibid:336300270764": 55,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 357,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10529,16 +10529,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 84,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 28,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 172,
-      "Сысоев Александр Владимирович": 76,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 581,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 84,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 28,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 172,
+      "gas:candidate-vibid:336300270764": 76,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 581,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10588,16 +10588,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 18,
-      "Болдырев Александр Евгеньевич": 38,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 9,
-      "Рубанов Владимир Арсентьевич": 9,
-      "Рудаков Сергей Иванович": 124,
-      "Сысоев Александр Владимирович": 62,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 434,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000136049": 18,
+      "gas:candidate-vibid:1001000113928": 38,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 9,
+      "gas:candidate-vibid:336300270819": 9,
+      "gas:candidate-vibid:1001000121843": 124,
+      "gas:candidate-vibid:336300270764": 62,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 434,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10647,16 +10647,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 23,
-      "Болдырев Александр Евгеньевич": 71,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 122,
-      "Сысоев Александр Владимирович": 68,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 409,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136049": 23,
+      "gas:candidate-vibid:1001000113928": 71,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 122,
+      "gas:candidate-vibid:336300270764": 68,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 409,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10706,16 +10706,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 29,
-      "Болдырев Александр Евгеньевич": 43,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 13,
-      "Рудаков Сергей Иванович": 218,
-      "Сысоев Александр Владимирович": 67,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 539,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000136049": 29,
+      "gas:candidate-vibid:1001000113928": 43,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 13,
+      "gas:candidate-vibid:1001000121843": 218,
+      "gas:candidate-vibid:336300270764": 67,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 539,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10765,16 +10765,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 77,
-      "Болдырев Александр Евгеньевич": 94,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 28,
-      "Рубанов Владимир Арсентьевич": 22,
-      "Рудаков Сергей Иванович": 206,
-      "Сысоев Александр Владимирович": 73,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 605,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136049": 77,
+      "gas:candidate-vibid:1001000113928": 94,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 28,
+      "gas:candidate-vibid:336300270819": 22,
+      "gas:candidate-vibid:1001000121843": 206,
+      "gas:candidate-vibid:336300270764": 73,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 605,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10824,16 +10824,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 109,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 157,
-      "Сысоев Александр Владимирович": 47,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 449,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 109,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 157,
+      "gas:candidate-vibid:336300270764": 47,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 449,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10883,16 +10883,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 25,
-      "Болдырев Александр Евгеньевич": 38,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 20,
-      "Рудаков Сергей Иванович": 157,
-      "Сысоев Александр Владимирович": 41,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 481,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136049": 25,
+      "gas:candidate-vibid:1001000113928": 38,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 20,
+      "gas:candidate-vibid:1001000121843": 157,
+      "gas:candidate-vibid:336300270764": 41,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 481,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -10942,16 +10942,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 18,
-      "Болдырев Александр Евгеньевич": 58,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 11,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 158,
-      "Сысоев Александр Владимирович": 88,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 455,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000136049": 18,
+      "gas:candidate-vibid:1001000113928": 58,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 11,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 158,
+      "gas:candidate-vibid:336300270764": 88,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 455,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11001,16 +11001,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 35,
-      "Болдырев Александр Евгеньевич": 55,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 11,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 131,
-      "Сысоев Александр Владимирович": 54,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 391,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000136049": 35,
+      "gas:candidate-vibid:1001000113928": 55,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 11,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 131,
+      "gas:candidate-vibid:336300270764": 54,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 391,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11060,16 +11060,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 64,
-      "Болдырев Александр Евгеньевич": 84,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 15,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 169,
-      "Сысоев Александр Владимирович": 107,
-      "Черников Александр Васильевич": 18,
-      "Чижов Сергей Викторович": 539,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000136049": 64,
+      "gas:candidate-vibid:1001000113928": 84,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 15,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 169,
+      "gas:candidate-vibid:336300270764": 107,
+      "gas:candidate-vibid:1001000195070": 18,
+      "gas:candidate-vibid:1001000225934": 539,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11119,16 +11119,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 21,
-      "Болдырев Александр Евгеньевич": 44,
-      "Воробей Леонид Васильевич": 1,
-      "Корниенко Анатолий Васильевич": 14,
-      "Рубанов Владимир Арсентьевич": 5,
-      "Рудаков Сергей Иванович": 153,
-      "Сысоев Александр Владимирович": 56,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 375,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136049": 21,
+      "gas:candidate-vibid:1001000113928": 44,
+      "gas:candidate-vibid:1001000190338": 1,
+      "gas:candidate-vibid:1001000217920": 14,
+      "gas:candidate-vibid:336300270819": 5,
+      "gas:candidate-vibid:1001000121843": 153,
+      "gas:candidate-vibid:336300270764": 56,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 375,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11178,16 +11178,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 72,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 9,
-      "Рудаков Сергей Иванович": 131,
-      "Сысоев Александр Владимирович": 64,
-      "Черников Александр Васильевич": 17,
-      "Чижов Сергей Викторович": 636,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 72,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 9,
+      "gas:candidate-vibid:1001000121843": 131,
+      "gas:candidate-vibid:336300270764": 64,
+      "gas:candidate-vibid:1001000195070": 17,
+      "gas:candidate-vibid:1001000225934": 636,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11237,16 +11237,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 19,
-      "Болдырев Александр Евгеньевич": 49,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 16,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 165,
-      "Сысоев Александр Владимирович": 42,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 548,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136049": 19,
+      "gas:candidate-vibid:1001000113928": 49,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 16,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 165,
+      "gas:candidate-vibid:336300270764": 42,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 548,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11296,16 +11296,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 35,
-      "Болдырев Александр Евгеньевич": 80,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 26,
-      "Рубанов Владимир Арсентьевич": 22,
-      "Рудаков Сергей Иванович": 198,
-      "Сысоев Александр Владимирович": 90,
-      "Черников Александр Васильевич": 15,
-      "Чижов Сергей Викторович": 702,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000136049": 35,
+      "gas:candidate-vibid:1001000113928": 80,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 26,
+      "gas:candidate-vibid:336300270819": 22,
+      "gas:candidate-vibid:1001000121843": 198,
+      "gas:candidate-vibid:336300270764": 90,
+      "gas:candidate-vibid:1001000195070": 15,
+      "gas:candidate-vibid:1001000225934": 702,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11355,16 +11355,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 33,
-      "Болдырев Александр Евгеньевич": 92,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 40,
-      "Рудаков Сергей Иванович": 260,
-      "Сысоев Александр Владимирович": 79,
-      "Черников Александр Васильевич": 12,
-      "Чижов Сергей Викторович": 717,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136049": 33,
+      "gas:candidate-vibid:1001000113928": 92,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 40,
+      "gas:candidate-vibid:1001000121843": 260,
+      "gas:candidate-vibid:336300270764": 79,
+      "gas:candidate-vibid:1001000195070": 12,
+      "gas:candidate-vibid:1001000225934": 717,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11414,16 +11414,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 76,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 13,
-      "Рубанов Владимир Арсентьевич": 27,
-      "Рудаков Сергей Иванович": 172,
-      "Сысоев Александр Владимирович": 110,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 675,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 76,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 13,
+      "gas:candidate-vibid:336300270819": 27,
+      "gas:candidate-vibid:1001000121843": 172,
+      "gas:candidate-vibid:336300270764": 110,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 675,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11473,16 +11473,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 5,
-      "Болдырев Александр Евгеньевич": 49,
-      "Воробей Леонид Васильевич": 1,
-      "Корниенко Анатолий Васильевич": 2,
-      "Рубанов Владимир Арсентьевич": 2,
-      "Рудаков Сергей Иванович": 8,
-      "Сысоев Александр Владимирович": 3,
-      "Черников Александр Васильевич": 2,
-      "Чижов Сергей Викторович": 53,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136049": 5,
+      "gas:candidate-vibid:1001000113928": 49,
+      "gas:candidate-vibid:1001000190338": 1,
+      "gas:candidate-vibid:1001000217920": 2,
+      "gas:candidate-vibid:336300270819": 2,
+      "gas:candidate-vibid:1001000121843": 8,
+      "gas:candidate-vibid:336300270764": 3,
+      "gas:candidate-vibid:1001000195070": 2,
+      "gas:candidate-vibid:1001000225934": 53,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11532,16 +11532,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 18,
-      "Болдырев Александр Евгеньевич": 39,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 113,
-      "Сысоев Александр Владимирович": 118,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 371,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136049": 18,
+      "gas:candidate-vibid:1001000113928": 39,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 113,
+      "gas:candidate-vibid:336300270764": 118,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 371,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11591,16 +11591,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 28,
-      "Болдырев Александр Евгеньевич": 42,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 15,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 138,
-      "Сысоев Александр Владимирович": 69,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 378,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000136049": 28,
+      "gas:candidate-vibid:1001000113928": 42,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 15,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 138,
+      "gas:candidate-vibid:336300270764": 69,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 378,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11650,16 +11650,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 88,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 28,
-      "Рубанов Владимир Арсентьевич": 23,
-      "Рудаков Сергей Иванович": 210,
-      "Сысоев Александр Владимирович": 70,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 471,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 88,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 28,
+      "gas:candidate-vibid:336300270819": 23,
+      "gas:candidate-vibid:1001000121843": 210,
+      "gas:candidate-vibid:336300270764": 70,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 471,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11709,16 +11709,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 22,
-      "Болдырев Александр Евгеньевич": 72,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 5,
-      "Рудаков Сергей Иванович": 155,
-      "Сысоев Александр Владимирович": 52,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 326,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000136049": 22,
+      "gas:candidate-vibid:1001000113928": 72,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 5,
+      "gas:candidate-vibid:1001000121843": 155,
+      "gas:candidate-vibid:336300270764": 52,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 326,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11768,16 +11768,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 27,
-      "Болдырев Александр Евгеньевич": 48,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 12,
-      "Рубанов Владимир Арсентьевич": 4,
-      "Рудаков Сергей Иванович": 134,
-      "Сысоев Александр Владимирович": 91,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 318,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136049": 27,
+      "gas:candidate-vibid:1001000113928": 48,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 12,
+      "gas:candidate-vibid:336300270819": 4,
+      "gas:candidate-vibid:1001000121843": 134,
+      "gas:candidate-vibid:336300270764": 91,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 318,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11827,16 +11827,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 53,
-      "Болдырев Александр Евгеньевич": 112,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 14,
-      "Рубанов Владимир Арсентьевич": 21,
-      "Рудаков Сергей Иванович": 141,
-      "Сысоев Александр Владимирович": 80,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 389,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000136049": 53,
+      "gas:candidate-vibid:1001000113928": 112,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 14,
+      "gas:candidate-vibid:336300270819": 21,
+      "gas:candidate-vibid:1001000121843": 141,
+      "gas:candidate-vibid:336300270764": 80,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 389,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11886,16 +11886,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 26,
-      "Болдырев Александр Евгеньевич": 75,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 20,
-      "Рубанов Владимир Арсентьевич": 15,
-      "Рудаков Сергей Иванович": 264,
-      "Сысоев Александр Владимирович": 73,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 331,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000136049": 26,
+      "gas:candidate-vibid:1001000113928": 75,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 20,
+      "gas:candidate-vibid:336300270819": 15,
+      "gas:candidate-vibid:1001000121843": 264,
+      "gas:candidate-vibid:336300270764": 73,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 331,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -11945,16 +11945,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 11,
-      "Болдырев Александр Евгеньевич": 38,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 129,
-      "Сысоев Александр Владимирович": 80,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 282,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136049": 11,
+      "gas:candidate-vibid:1001000113928": 38,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 129,
+      "gas:candidate-vibid:336300270764": 80,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 282,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12004,16 +12004,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 21,
-      "Болдырев Александр Евгеньевич": 74,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 13,
-      "Рубанов Владимир Арсентьевич": 15,
-      "Рудаков Сергей Иванович": 158,
-      "Сысоев Александр Владимирович": 86,
-      "Черников Александр Васильевич": 2,
-      "Чижов Сергей Викторович": 285,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000136049": 21,
+      "gas:candidate-vibid:1001000113928": 74,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 13,
+      "gas:candidate-vibid:336300270819": 15,
+      "gas:candidate-vibid:1001000121843": 158,
+      "gas:candidate-vibid:336300270764": 86,
+      "gas:candidate-vibid:1001000195070": 2,
+      "gas:candidate-vibid:1001000225934": 285,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12063,16 +12063,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 17,
-      "Болдырев Александр Евгеньевич": 93,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 19,
-      "Рудаков Сергей Иванович": 309,
-      "Сысоев Александр Владимирович": 67,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 220,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000136049": 17,
+      "gas:candidate-vibid:1001000113928": 93,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 19,
+      "gas:candidate-vibid:1001000121843": 309,
+      "gas:candidate-vibid:336300270764": 67,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 220,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12122,16 +12122,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 77,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 28,
-      "Рубанов Владимир Арсентьевич": 20,
-      "Рудаков Сергей Иванович": 205,
-      "Сысоев Александр Владимирович": 73,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 303,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 77,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 28,
+      "gas:candidate-vibid:336300270819": 20,
+      "gas:candidate-vibid:1001000121843": 205,
+      "gas:candidate-vibid:336300270764": 73,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 303,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12181,16 +12181,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 33,
-      "Болдырев Александр Евгеньевич": 90,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 43,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 265,
-      "Сысоев Александр Владимирович": 121,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 291,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136049": 33,
+      "gas:candidate-vibid:1001000113928": 90,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 43,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 265,
+      "gas:candidate-vibid:336300270764": 121,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 291,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12240,16 +12240,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 121,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 33,
-      "Рубанов Владимир Арсентьевич": 15,
-      "Рудаков Сергей Иванович": 224,
-      "Сысоев Александр Владимирович": 129,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 244,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 121,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 33,
+      "gas:candidate-vibid:336300270819": 15,
+      "gas:candidate-vibid:1001000121843": 224,
+      "gas:candidate-vibid:336300270764": 129,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 244,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12299,16 +12299,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 83,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 39,
-      "Рубанов Владимир Арсентьевич": 18,
-      "Рудаков Сергей Иванович": 300,
-      "Сысоев Александр Владимирович": 110,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 260,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 83,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 39,
+      "gas:candidate-vibid:336300270819": 18,
+      "gas:candidate-vibid:1001000121843": 300,
+      "gas:candidate-vibid:336300270764": 110,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 260,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12358,16 +12358,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 86,
-      "Воробей Леонид Васильевич": 12,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 25,
-      "Рудаков Сергей Иванович": 206,
-      "Сысоев Александр Владимирович": 119,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 262,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 86,
+      "gas:candidate-vibid:1001000190338": 12,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 25,
+      "gas:candidate-vibid:1001000121843": 206,
+      "gas:candidate-vibid:336300270764": 119,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 262,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12417,16 +12417,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 17,
-      "Болдырев Александр Евгеньевич": 80,
-      "Воробей Леонид Васильевич": 3,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 24,
-      "Рудаков Сергей Иванович": 204,
-      "Сысоев Александр Владимирович": 90,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 212,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136049": 17,
+      "gas:candidate-vibid:1001000113928": 80,
+      "gas:candidate-vibid:1001000190338": 3,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 24,
+      "gas:candidate-vibid:1001000121843": 204,
+      "gas:candidate-vibid:336300270764": 90,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 212,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12476,16 +12476,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 34,
-      "Болдырев Александр Евгеньевич": 60,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 10,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 157,
-      "Сысоев Александр Владимирович": 57,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 234,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136049": 34,
+      "gas:candidate-vibid:1001000113928": 60,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 10,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 157,
+      "gas:candidate-vibid:336300270764": 57,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 234,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12535,16 +12535,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 44,
-      "Болдырев Александр Евгеньевич": 78,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 28,
-      "Рубанов Владимир Арсентьевич": 17,
-      "Рудаков Сергей Иванович": 272,
-      "Сысоев Александр Владимирович": 114,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 378,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136049": 44,
+      "gas:candidate-vibid:1001000113928": 78,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 28,
+      "gas:candidate-vibid:336300270819": 17,
+      "gas:candidate-vibid:1001000121843": 272,
+      "gas:candidate-vibid:336300270764": 114,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 378,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12594,16 +12594,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 121,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 41,
-      "Рубанов Владимир Арсентьевич": 35,
-      "Рудаков Сергей Иванович": 274,
-      "Сысоев Александр Владимирович": 139,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 399,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 121,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 41,
+      "gas:candidate-vibid:336300270819": 35,
+      "gas:candidate-vibid:1001000121843": 274,
+      "gas:candidate-vibid:336300270764": 139,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 399,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12653,16 +12653,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 60,
-      "Болдырев Александр Евгеньевич": 142,
-      "Воробей Леонид Васильевич": 23,
-      "Корниенко Анатолий Васильевич": 33,
-      "Рубанов Владимир Арсентьевич": 32,
-      "Рудаков Сергей Иванович": 331,
-      "Сысоев Александр Владимирович": 145,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 385,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000136049": 60,
+      "gas:candidate-vibid:1001000113928": 142,
+      "gas:candidate-vibid:1001000190338": 23,
+      "gas:candidate-vibid:1001000217920": 33,
+      "gas:candidate-vibid:336300270819": 32,
+      "gas:candidate-vibid:1001000121843": 331,
+      "gas:candidate-vibid:336300270764": 145,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 385,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12712,16 +12712,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 44,
-      "Болдырев Александр Евгеньевич": 113,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 23,
-      "Рубанов Владимир Арсентьевич": 15,
-      "Рудаков Сергей Иванович": 205,
-      "Сысоев Александр Владимирович": 116,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 360,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000136049": 44,
+      "gas:candidate-vibid:1001000113928": 113,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 23,
+      "gas:candidate-vibid:336300270819": 15,
+      "gas:candidate-vibid:1001000121843": 205,
+      "gas:candidate-vibid:336300270764": 116,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 360,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12771,16 +12771,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 25,
-      "Болдырев Александр Евгеньевич": 70,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 17,
-      "Рубанов Владимир Арсентьевич": 18,
-      "Рудаков Сергей Иванович": 193,
-      "Сысоев Александр Владимирович": 83,
-      "Черников Александр Васильевич": 3,
-      "Чижов Сергей Викторович": 256,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000136049": 25,
+      "gas:candidate-vibid:1001000113928": 70,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 17,
+      "gas:candidate-vibid:336300270819": 18,
+      "gas:candidate-vibid:1001000121843": 193,
+      "gas:candidate-vibid:336300270764": 83,
+      "gas:candidate-vibid:1001000195070": 3,
+      "gas:candidate-vibid:1001000225934": 256,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12830,16 +12830,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 55,
-      "Воробей Леонид Васильевич": 3,
-      "Корниенко Анатолий Васильевич": 12,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 146,
-      "Сысоев Александр Владимирович": 39,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 246,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 55,
+      "gas:candidate-vibid:1001000190338": 3,
+      "gas:candidate-vibid:1001000217920": 12,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 146,
+      "gas:candidate-vibid:336300270764": 39,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 246,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12889,16 +12889,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 45,
-      "Болдырев Александр Евгеньевич": 89,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 29,
-      "Рубанов Владимир Арсентьевич": 25,
-      "Рудаков Сергей Иванович": 256,
-      "Сысоев Александр Владимирович": 96,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 438,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136049": 45,
+      "gas:candidate-vibid:1001000113928": 89,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 29,
+      "gas:candidate-vibid:336300270819": 25,
+      "gas:candidate-vibid:1001000121843": 256,
+      "gas:candidate-vibid:336300270764": 96,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 438,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -12948,16 +12948,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 88,
-      "Воробей Леонид Васильевич": 12,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 17,
-      "Рудаков Сергей Иванович": 284,
-      "Сысоев Александр Владимирович": 119,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 534,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 88,
+      "gas:candidate-vibid:1001000190338": 12,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 17,
+      "gas:candidate-vibid:1001000121843": 284,
+      "gas:candidate-vibid:336300270764": 119,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 534,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -13007,16 +13007,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 25,
-      "Болдырев Александр Евгеньевич": 86,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 16,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 183,
-      "Сысоев Александр Владимирович": 67,
-      "Черников Александр Васильевич": 5,
-      "Чижов Сергей Викторович": 394,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136049": 25,
+      "gas:candidate-vibid:1001000113928": 86,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 16,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 183,
+      "gas:candidate-vibid:336300270764": 67,
+      "gas:candidate-vibid:1001000195070": 5,
+      "gas:candidate-vibid:1001000225934": 394,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -13066,16 +13066,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 114,
-      "Воробей Леонид Васильевич": 17,
-      "Корниенко Анатолий Васильевич": 26,
-      "Рубанов Владимир Арсентьевич": 25,
-      "Рудаков Сергей Иванович": 295,
-      "Сысоев Александр Владимирович": 113,
-      "Черников Александр Васильевич": 12,
-      "Чижов Сергей Викторович": 433,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 114,
+      "gas:candidate-vibid:1001000190338": 17,
+      "gas:candidate-vibid:1001000217920": 26,
+      "gas:candidate-vibid:336300270819": 25,
+      "gas:candidate-vibid:1001000121843": 295,
+      "gas:candidate-vibid:336300270764": 113,
+      "gas:candidate-vibid:1001000195070": 12,
+      "gas:candidate-vibid:1001000225934": 433,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073280&region=0&sub_region=0&type=429",
@@ -13125,16 +13125,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 75,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 15,
-      "Рудаков Сергей Иванович": 239,
-      "Сысоев Александр Владимирович": 68,
-      "Черников Александр Васильевич": 4,
-      "Чижов Сергей Викторович": 372,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 75,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 15,
+      "gas:candidate-vibid:1001000121843": 239,
+      "gas:candidate-vibid:336300270764": 68,
+      "gas:candidate-vibid:1001000195070": 4,
+      "gas:candidate-vibid:1001000225934": 372,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13184,16 +13184,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 42,
-      "Болдырев Александр Евгеньевич": 126,
-      "Воробей Леонид Васильевич": 5,
-      "Корниенко Анатолий Васильевич": 13,
-      "Рубанов Владимир Арсентьевич": 24,
-      "Рудаков Сергей Иванович": 252,
-      "Сысоев Александр Владимирович": 62,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 350,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000136049": 42,
+      "gas:candidate-vibid:1001000113928": 126,
+      "gas:candidate-vibid:1001000190338": 5,
+      "gas:candidate-vibid:1001000217920": 13,
+      "gas:candidate-vibid:336300270819": 24,
+      "gas:candidate-vibid:1001000121843": 252,
+      "gas:candidate-vibid:336300270764": 62,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 350,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13243,16 +13243,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 24,
-      "Болдырев Александр Евгеньевич": 32,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 12,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 206,
-      "Сысоев Александр Владимирович": 43,
-      "Черников Александр Васильевич": 16,
-      "Чижов Сергей Викторович": 296,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136049": 24,
+      "gas:candidate-vibid:1001000113928": 32,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 12,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 206,
+      "gas:candidate-vibid:336300270764": 43,
+      "gas:candidate-vibid:1001000195070": 16,
+      "gas:candidate-vibid:1001000225934": 296,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13302,16 +13302,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 40,
-      "Болдырев Александр Евгеньевич": 66,
-      "Воробей Леонид Васильевич": 11,
-      "Корниенко Анатолий Васильевич": 23,
-      "Рубанов Владимир Арсентьевич": 26,
-      "Рудаков Сергей Иванович": 320,
-      "Сысоев Александр Владимирович": 56,
-      "Черников Александр Васильевич": 16,
-      "Чижов Сергей Викторович": 401,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000136049": 40,
+      "gas:candidate-vibid:1001000113928": 66,
+      "gas:candidate-vibid:1001000190338": 11,
+      "gas:candidate-vibid:1001000217920": 23,
+      "gas:candidate-vibid:336300270819": 26,
+      "gas:candidate-vibid:1001000121843": 320,
+      "gas:candidate-vibid:336300270764": 56,
+      "gas:candidate-vibid:1001000195070": 16,
+      "gas:candidate-vibid:1001000225934": 401,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13361,16 +13361,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 20,
-      "Болдырев Александр Евгеньевич": 47,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 7,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 230,
-      "Сысоев Александр Владимирович": 56,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 293,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136049": 20,
+      "gas:candidate-vibid:1001000113928": 47,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 7,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 230,
+      "gas:candidate-vibid:336300270764": 56,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 293,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13420,16 +13420,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 32,
-      "Болдырев Александр Евгеньевич": 67,
-      "Воробей Леонид Васильевич": 8,
-      "Корниенко Анатолий Васильевич": 23,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 254,
-      "Сысоев Александр Владимирович": 59,
-      "Черников Александр Васильевич": 13,
-      "Чижов Сергей Викторович": 434,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136049": 32,
+      "gas:candidate-vibid:1001000113928": 67,
+      "gas:candidate-vibid:1001000190338": 8,
+      "gas:candidate-vibid:1001000217920": 23,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 254,
+      "gas:candidate-vibid:336300270764": 59,
+      "gas:candidate-vibid:1001000195070": 13,
+      "gas:candidate-vibid:1001000225934": 434,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13479,16 +13479,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 33,
-      "Болдырев Александр Евгеньевич": 74,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 21,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 252,
-      "Сысоев Александр Владимирович": 43,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 329,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136049": 33,
+      "gas:candidate-vibid:1001000113928": 74,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 21,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 252,
+      "gas:candidate-vibid:336300270764": 43,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 329,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13538,16 +13538,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 42,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 22,
-      "Рубанов Владимир Арсентьевич": 18,
-      "Рудаков Сергей Иванович": 256,
-      "Сысоев Александр Владимирович": 48,
-      "Черников Александр Васильевич": 11,
-      "Чижов Сергей Викторович": 434,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 42,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 22,
+      "gas:candidate-vibid:336300270819": 18,
+      "gas:candidate-vibid:1001000121843": 256,
+      "gas:candidate-vibid:336300270764": 48,
+      "gas:candidate-vibid:1001000195070": 11,
+      "gas:candidate-vibid:1001000225934": 434,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13597,16 +13597,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 52,
-      "Болдырев Александр Евгеньевич": 70,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 12,
-      "Рудаков Сергей Иванович": 238,
-      "Сысоев Александр Владимирович": 105,
-      "Черников Александр Васильевич": 20,
-      "Чижов Сергей Викторович": 440,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000136049": 52,
+      "gas:candidate-vibid:1001000113928": 70,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 12,
+      "gas:candidate-vibid:1001000121843": 238,
+      "gas:candidate-vibid:336300270764": 105,
+      "gas:candidate-vibid:1001000195070": 20,
+      "gas:candidate-vibid:1001000225934": 440,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13656,16 +13656,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 48,
-      "Болдырев Александр Евгеньевич": 53,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 24,
-      "Рубанов Владимир Арсентьевич": 19,
-      "Рудаков Сергей Иванович": 224,
-      "Сысоев Александр Владимирович": 74,
-      "Черников Александр Васильевич": 21,
-      "Чижов Сергей Викторович": 390,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000136049": 48,
+      "gas:candidate-vibid:1001000113928": 53,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 24,
+      "gas:candidate-vibid:336300270819": 19,
+      "gas:candidate-vibid:1001000121843": 224,
+      "gas:candidate-vibid:336300270764": 74,
+      "gas:candidate-vibid:1001000195070": 21,
+      "gas:candidate-vibid:1001000225934": 390,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13715,16 +13715,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 52,
-      "Болдырев Александр Евгеньевич": 41,
-      "Воробей Леонид Васильевич": 4,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 13,
-      "Рудаков Сергей Иванович": 245,
-      "Сысоев Александр Владимирович": 111,
-      "Черников Александр Васильевич": 36,
-      "Чижов Сергей Викторович": 384,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136049": 52,
+      "gas:candidate-vibid:1001000113928": 41,
+      "gas:candidate-vibid:1001000190338": 4,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 13,
+      "gas:candidate-vibid:1001000121843": 245,
+      "gas:candidate-vibid:336300270764": 111,
+      "gas:candidate-vibid:1001000195070": 36,
+      "gas:candidate-vibid:1001000225934": 384,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13774,16 +13774,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 43,
-      "Болдырев Александр Евгеньевич": 60,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 28,
-      "Рубанов Владимир Арсентьевич": 7,
-      "Рудаков Сергей Иванович": 246,
-      "Сысоев Александр Владимирович": 109,
-      "Черников Александр Васильевич": 7,
-      "Чижов Сергей Викторович": 462,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136049": 43,
+      "gas:candidate-vibid:1001000113928": 60,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 28,
+      "gas:candidate-vibid:336300270819": 7,
+      "gas:candidate-vibid:1001000121843": 246,
+      "gas:candidate-vibid:336300270764": 109,
+      "gas:candidate-vibid:1001000195070": 7,
+      "gas:candidate-vibid:1001000225934": 462,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13833,16 +13833,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 37,
-      "Болдырев Александр Евгеньевич": 42,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 18,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 210,
-      "Сысоев Александр Владимирович": 71,
-      "Черников Александр Васильевич": 37,
-      "Чижов Сергей Викторович": 378,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000136049": 37,
+      "gas:candidate-vibid:1001000113928": 42,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 18,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 210,
+      "gas:candidate-vibid:336300270764": 71,
+      "gas:candidate-vibid:1001000195070": 37,
+      "gas:candidate-vibid:1001000225934": 378,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13892,16 +13892,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 55,
-      "Болдырев Александр Евгеньевич": 89,
-      "Воробей Леонид Васильевич": 13,
-      "Корниенко Анатолий Васильевич": 16,
-      "Рубанов Владимир Арсентьевич": 28,
-      "Рудаков Сергей Иванович": 280,
-      "Сысоев Александр Владимирович": 80,
-      "Черников Александр Васильевич": 49,
-      "Чижов Сергей Викторович": 410,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000136049": 55,
+      "gas:candidate-vibid:1001000113928": 89,
+      "gas:candidate-vibid:1001000190338": 13,
+      "gas:candidate-vibid:1001000217920": 16,
+      "gas:candidate-vibid:336300270819": 28,
+      "gas:candidate-vibid:1001000121843": 280,
+      "gas:candidate-vibid:336300270764": 80,
+      "gas:candidate-vibid:1001000195070": 49,
+      "gas:candidate-vibid:1001000225934": 410,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -13951,16 +13951,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 58,
-      "Болдырев Александр Евгеньевич": 85,
-      "Воробей Леонид Васильевич": 20,
-      "Корниенко Анатолий Васильевич": 18,
-      "Рубанов Владимир Арсентьевич": 10,
-      "Рудаков Сергей Иванович": 218,
-      "Сысоев Александр Владимирович": 80,
-      "Черников Александр Васильевич": 22,
-      "Чижов Сергей Викторович": 452,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000136049": 58,
+      "gas:candidate-vibid:1001000113928": 85,
+      "gas:candidate-vibid:1001000190338": 20,
+      "gas:candidate-vibid:1001000217920": 18,
+      "gas:candidate-vibid:336300270819": 10,
+      "gas:candidate-vibid:1001000121843": 218,
+      "gas:candidate-vibid:336300270764": 80,
+      "gas:candidate-vibid:1001000195070": 22,
+      "gas:candidate-vibid:1001000225934": 452,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14010,16 +14010,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 43,
-      "Болдырев Александр Евгеньевич": 92,
-      "Воробей Леонид Васильевич": 7,
-      "Корниенко Анатолий Васильевич": 24,
-      "Рубанов Владимир Арсентьевич": 25,
-      "Рудаков Сергей Иванович": 275,
-      "Сысоев Александр Владимирович": 62,
-      "Черников Александр Васильевич": 21,
-      "Чижов Сергей Викторович": 506,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136049": 43,
+      "gas:candidate-vibid:1001000113928": 92,
+      "gas:candidate-vibid:1001000190338": 7,
+      "gas:candidate-vibid:1001000217920": 24,
+      "gas:candidate-vibid:336300270819": 25,
+      "gas:candidate-vibid:1001000121843": 275,
+      "gas:candidate-vibid:336300270764": 62,
+      "gas:candidate-vibid:1001000195070": 21,
+      "gas:candidate-vibid:1001000225934": 506,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14069,16 +14069,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 38,
-      "Болдырев Александр Евгеньевич": 98,
-      "Воробей Леонид Васильевич": 10,
-      "Корниенко Анатолий Васильевич": 11,
-      "Рубанов Владимир Арсентьевич": 16,
-      "Рудаков Сергей Иванович": 221,
-      "Сысоев Александр Владимирович": 86,
-      "Черников Александр Васильевич": 12,
-      "Чижов Сергей Викторович": 384,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136049": 38,
+      "gas:candidate-vibid:1001000113928": 98,
+      "gas:candidate-vibid:1001000190338": 10,
+      "gas:candidate-vibid:1001000217920": 11,
+      "gas:candidate-vibid:336300270819": 16,
+      "gas:candidate-vibid:1001000121843": 221,
+      "gas:candidate-vibid:336300270764": 86,
+      "gas:candidate-vibid:1001000195070": 12,
+      "gas:candidate-vibid:1001000225934": 384,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14128,16 +14128,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 54,
-      "Болдырев Александр Евгеньевич": 50,
-      "Воробей Леонид Васильевич": 20,
-      "Корниенко Анатолий Васильевич": 32,
-      "Рубанов Владимир Арсентьевич": 14,
-      "Рудаков Сергей Иванович": 189,
-      "Сысоев Александр Владимирович": 92,
-      "Черников Александр Васильевич": 14,
-      "Чижов Сергей Викторович": 448,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000136049": 54,
+      "gas:candidate-vibid:1001000113928": 50,
+      "gas:candidate-vibid:1001000190338": 20,
+      "gas:candidate-vibid:1001000217920": 32,
+      "gas:candidate-vibid:336300270819": 14,
+      "gas:candidate-vibid:1001000121843": 189,
+      "gas:candidate-vibid:336300270764": 92,
+      "gas:candidate-vibid:1001000195070": 14,
+      "gas:candidate-vibid:1001000225934": 448,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14187,16 +14187,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 29,
-      "Болдырев Александр Евгеньевич": 36,
-      "Воробей Леонид Васильевич": 9,
-      "Корниенко Анатолий Васильевич": 9,
-      "Рубанов Владимир Арсентьевич": 6,
-      "Рудаков Сергей Иванович": 144,
-      "Сысоев Александр Владимирович": 56,
-      "Черников Александр Васильевич": 9,
-      "Чижов Сергей Викторович": 259,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136049": 29,
+      "gas:candidate-vibid:1001000113928": 36,
+      "gas:candidate-vibid:1001000190338": 9,
+      "gas:candidate-vibid:1001000217920": 9,
+      "gas:candidate-vibid:336300270819": 6,
+      "gas:candidate-vibid:1001000121843": 144,
+      "gas:candidate-vibid:336300270764": 56,
+      "gas:candidate-vibid:1001000195070": 9,
+      "gas:candidate-vibid:1001000225934": 259,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14246,16 +14246,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 56,
-      "Болдырев Александр Евгеньевич": 71,
-      "Воробей Леонид Васильевич": 16,
-      "Корниенко Анатолий Васильевич": 14,
-      "Рубанов Владимир Арсентьевич": 8,
-      "Рудаков Сергей Иванович": 163,
-      "Сысоев Александр Владимирович": 92,
-      "Черников Александр Васильевич": 18,
-      "Чижов Сергей Викторович": 509,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000136049": 56,
+      "gas:candidate-vibid:1001000113928": 71,
+      "gas:candidate-vibid:1001000190338": 16,
+      "gas:candidate-vibid:1001000217920": 14,
+      "gas:candidate-vibid:336300270819": 8,
+      "gas:candidate-vibid:1001000121843": 163,
+      "gas:candidate-vibid:336300270764": 92,
+      "gas:candidate-vibid:1001000195070": 18,
+      "gas:candidate-vibid:1001000225934": 509,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14305,16 +14305,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 28,
-      "Болдырев Александр Евгеньевич": 28,
-      "Воробей Леонид Васильевич": 6,
-      "Корниенко Анатолий Васильевич": 9,
-      "Рубанов Владимир Арсентьевич": 9,
-      "Рудаков Сергей Иванович": 118,
-      "Сысоев Александр Владимирович": 59,
-      "Черников Александр Васильевич": 8,
-      "Чижов Сергей Викторович": 258,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136049": 28,
+      "gas:candidate-vibid:1001000113928": 28,
+      "gas:candidate-vibid:1001000190338": 6,
+      "gas:candidate-vibid:1001000217920": 9,
+      "gas:candidate-vibid:336300270819": 9,
+      "gas:candidate-vibid:1001000121843": 118,
+      "gas:candidate-vibid:336300270764": 59,
+      "gas:candidate-vibid:1001000195070": 8,
+      "gas:candidate-vibid:1001000225934": 258,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14364,16 +14364,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 39,
-      "Болдырев Александр Евгеньевич": 35,
-      "Воробей Леонид Васильевич": 15,
-      "Корниенко Анатолий Васильевич": 6,
-      "Рубанов Владимир Арсентьевич": 11,
-      "Рудаков Сергей Иванович": 146,
-      "Сысоев Александр Владимирович": 58,
-      "Черников Александр Васильевич": 3,
-      "Чижов Сергей Викторович": 191,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136049": 39,
+      "gas:candidate-vibid:1001000113928": 35,
+      "gas:candidate-vibid:1001000190338": 15,
+      "gas:candidate-vibid:1001000217920": 6,
+      "gas:candidate-vibid:336300270819": 11,
+      "gas:candidate-vibid:1001000121843": 146,
+      "gas:candidate-vibid:336300270764": 58,
+      "gas:candidate-vibid:1001000195070": 3,
+      "gas:candidate-vibid:1001000225934": 191,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14423,16 +14423,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 38,
-      "Болдырев Александр Евгеньевич": 82,
-      "Воробей Леонид Васильевич": 17,
-      "Корниенко Анатолий Васильевич": 29,
-      "Рубанов Владимир Арсентьевич": 20,
-      "Рудаков Сергей Иванович": 296,
-      "Сысоев Александр Владимирович": 95,
-      "Черников Александр Васильевич": 14,
-      "Чижов Сергей Викторович": 377,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000136049": 38,
+      "gas:candidate-vibid:1001000113928": 82,
+      "gas:candidate-vibid:1001000190338": 17,
+      "gas:candidate-vibid:1001000217920": 29,
+      "gas:candidate-vibid:336300270819": 20,
+      "gas:candidate-vibid:1001000121843": 296,
+      "gas:candidate-vibid:336300270764": 95,
+      "gas:candidate-vibid:1001000195070": 14,
+      "gas:candidate-vibid:1001000225934": 377,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14482,16 +14482,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 27,
-      "Болдырев Александр Евгеньевич": 41,
-      "Воробей Леонид Васильевич": 15,
-      "Корниенко Анатолий Васильевич": 16,
-      "Рубанов Владимир Арсентьевич": 13,
-      "Рудаков Сергей Иванович": 271,
-      "Сысоев Александр Владимирович": 80,
-      "Черников Александр Васильевич": 6,
-      "Чижов Сергей Викторович": 290,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000136049": 27,
+      "gas:candidate-vibid:1001000113928": 41,
+      "gas:candidate-vibid:1001000190338": 15,
+      "gas:candidate-vibid:1001000217920": 16,
+      "gas:candidate-vibid:336300270819": 13,
+      "gas:candidate-vibid:1001000121843": 271,
+      "gas:candidate-vibid:336300270764": 80,
+      "gas:candidate-vibid:1001000195070": 6,
+      "gas:candidate-vibid:1001000225934": 290,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",
@@ -14541,16 +14541,16 @@ export const duma_2003_uik_428_region_36_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баштовая Юлия Михайловна": 40,
-      "Болдырев Александр Евгеньевич": 75,
-      "Воробей Леонид Васильевич": 20,
-      "Корниенко Анатолий Васильевич": 19,
-      "Рубанов Владимир Арсентьевич": 24,
-      "Рудаков Сергей Иванович": 370,
-      "Сысоев Александр Владимирович": 90,
-      "Черников Александр Васильевич": 10,
-      "Чижов Сергей Викторович": 387,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136049": 40,
+      "gas:candidate-vibid:1001000113928": 75,
+      "gas:candidate-vibid:1001000190338": 20,
+      "gas:candidate-vibid:1001000217920": 19,
+      "gas:candidate-vibid:336300270819": 24,
+      "gas:candidate-vibid:1001000121843": 370,
+      "gas:candidate-vibid:336300270764": 90,
+      "gas:candidate-vibid:1001000195070": 10,
+      "gas:candidate-vibid:1001000225934": 387,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=362000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=236200073281&region=0&sub_region=0&type=429",

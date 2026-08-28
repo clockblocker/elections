@@ -8,7578 +8,20208 @@ export const duma_2021_uik_to_tik_region_31 = [
     "uikNumber": 1,
     "uikTvd": "4314001233571",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №1",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4314001233572",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №2",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4314001233573",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №3",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4314001233574",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №4",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4314001233575",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №5",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4314001233576",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №6",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4314001233577",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №7",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4314001233578",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №8",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4314001233579",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №9",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4314001233580",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №10",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4314001233581",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №11",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4314001233582",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №12",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4314001233583",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №13",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4314001233584",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №14",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4314001233585",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №15",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4314001233586",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №16",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4314001233587",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №17",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4314001233588",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №18",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4314001233589",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №19",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4314001233590",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №20",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4314001233591",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №21",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4314001233592",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №22",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4314001233593",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №23",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4314001233594",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №24",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4314001233595",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №25",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4314001233596",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №26",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4314001233597",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №27",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4314001233598",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №28",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4314001233599",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №29",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4314001233600",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №30",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4314001233601",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №31",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4314001233602",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №32",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4314001233603",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №33",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4314002729063",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №34",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4314001233604",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №35",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4314001233605",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №36",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4314001233606",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №37",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4314001233607",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №38",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4314001233608",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №39",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4314001233609",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №40",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4314001233610",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №41",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4314001233611",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №42",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4314001233612",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №43",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4314001233613",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №44",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4314001233614",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №45",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4314001233615",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №46",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4314001233616",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №47",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4314001233617",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №48",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4314001233618",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №49",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4314009336721",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №50",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4314001233619",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №51",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4314001233620",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №52",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4314001233621",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №53",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4314001233622",
     "tikTvd": "2312000945626",
-    "tikName": "Алексеевская"
+    "tikName": "Алексеевская",
+    "uikName": "УИК №54",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4314002729064",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №55",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4314002729065",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №56",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4314002729066",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №57",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4314002729067",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №58",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4314002729068",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №59",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4314002729069",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №60",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4314002729070",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №61",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4314002729071",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №62",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4314002729072",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №63",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4314002729073",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №64",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4314002729074",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №65",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4314002729075",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №66",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4314002729076",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №67",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4314002729077",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №68",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4314002729078",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №69",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4314002729079",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №70",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4314002729080",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №71",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4314002729081",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №72",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4314002729082",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №73",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4314002729083",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №74",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4314002729084",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №75",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4314002729085",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №76",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4314002729086",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №77",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4314002729087",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №78",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4314002729088",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №79",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4314002729089",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №80",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4314002729090",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №81",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4314002729091",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №82",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4314002729092",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №83",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4314002729093",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №84",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4314002729094",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №85",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4314002729095",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №86",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4314002729096",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №87",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4314002729097",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №88",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4314002729098",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №89",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4314002729099",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №90",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4314002729100",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №91",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4314002729101",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №92",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4314002729102",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №93",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4314002729103",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №94",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4314002729104",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №95",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4314002729105",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №96",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4314002729106",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №97",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4314002729107",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №98",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4314002729108",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №99",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4314002729109",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №100",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4314002729110",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №101",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4314002729111",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №102",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4314002729112",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №103",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4314002729113",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №104",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4314002729114",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №105",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4314002729115",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №106",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4314002729116",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №107",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4314002729117",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №108",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4314002729118",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №109",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4314002729119",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №110",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4314002729120",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №111",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4314002729121",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №112",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4314002729122",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №113",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4314002729123",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №114",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4314002729124",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №115",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4314002729125",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №116",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4314002729126",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №117",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4314002729127",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №118",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4314002729128",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №119",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4314002729129",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №120",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4314002729130",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №121",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4314002729131",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №122",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4314002729132",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №123",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4314002729133",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №124",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4314002729134",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №125",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4314002729135",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №126",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4314002729136",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №127",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4314002729137",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №128",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4314002729138",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №129",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4314002729139",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №130",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4314002729140",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №131",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4314002729141",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №132",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4314002729142",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №133",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4314002729143",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №134",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4314002729144",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №135",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4314002729145",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №136",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4314002729146",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №137",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4314002729147",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №138",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4314002729148",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №139",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4314002729149",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №140",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4314002729150",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №141",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4314002729151",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №142",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4314002729152",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №143",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4314002729153",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №144",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4314002729154",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №145",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4314002729155",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №146",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4314002729156",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №147",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4314002729157",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №148",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4314002729158",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №149",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4314002729159",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №150",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4314002729160",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №151",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4314002729161",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №152",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4314002729162",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №153",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4314002729163",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №154",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4314002729164",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №155",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4314002729165",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №156",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4314002729166",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №157",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4314002729167",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №158",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4314002729168",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №159",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4314002729169",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №160",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4314002729170",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №161",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4314002729171",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №162",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4314002729172",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №163",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4314002729173",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №164",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4314002729174",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №165",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4314002729175",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №166",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4314002729176",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №167",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4314002729177",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №168",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4314002729178",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №169",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4314002729179",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №170",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4314002729180",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №171",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4314002729181",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №172",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4314002729182",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №173",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4314002729183",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №174",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4314002729184",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №175",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4314002729185",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №176",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4314002729186",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №177",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4314002729187",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №178",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4314002729188",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №179",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4314002729189",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №180",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4314002729190",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №181",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4314002729191",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №182",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4314002729192",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №183",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4314002729193",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №184",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4314002729194",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №185",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4314002729195",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №186",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4314002729196",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №187",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4314002729197",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №188",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4314002729198",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №189",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4314002729199",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №190",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4314002729200",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №191",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4314002729201",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №192",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4314002729202",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №193",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4314002729203",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №194",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4314002729204",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №195",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4314002729205",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №196",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4314002729206",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №197",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4314002729207",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №198",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4314002729208",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №199",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4314002729209",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №200",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4314002729210",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №201",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4314002729211",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №202",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4314002729212",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №203",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4314002729213",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №204",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4314002729214",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №205",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4314002729215",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №206",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4314002729216",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №207",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4314002729217",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №208",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4314002729218",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №209",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4314002729219",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №210",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4314002729220",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №211",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4314002729221",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №212",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4314002729222",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №213",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4314002729223",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №214",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4314002729224",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №215",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4314002729225",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №216",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4314002729226",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №217",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4314002729227",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №218",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4314002729228",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №219",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4314002729229",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №220",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4314002729230",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №221",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4314002729231",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №222",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4314002729232",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №223",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4314002729233",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №224",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4314002729234",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №225",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4314002729235",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №226",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4314002729236",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №227",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4314002729237",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №228",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4314002729238",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №229",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4314002729239",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №230",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4314002729240",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №231",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4314002729241",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №232",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4314003435168",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №233",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4314003435169",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №234",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4314003435170",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №235",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4314003435171",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №236",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4314003435172",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №237",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4314003435173",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №238",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4314003435174",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №239",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4314003435175",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №240",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4314003435176",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №241",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4314003435177",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №242",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4314003435178",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №243",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4314003435179",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №244",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4314003435180",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №245",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4314003435181",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №246",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4314003435182",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №247",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4314003435183",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №248",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4314003435184",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №249",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4314003435185",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №250",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4314003435186",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №251",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4314003435187",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №252",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4314003435188",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №253",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4314003435189",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №254",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4314003435190",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №255",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4314003435191",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №256",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4314003435192",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №257",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4314003435193",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №258",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4314003435194",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №259",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4314003435195",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №260",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4314003435196",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №261",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4314003435197",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №262",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4314003435198",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №263",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4314003435199",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №264",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4314003435200",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №265",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4314003435201",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №266",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4314003435202",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №267",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4314003435203",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №268",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4314003435204",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №269",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4314003435205",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №270",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4314003435206",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №271",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4314003435207",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №272",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4314003435208",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №273",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4314003435209",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №274",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4314003435210",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №275",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4314003435211",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №276",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4314003435212",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №277",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4314003435213",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №278",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4314003435214",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №279",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4314003435215",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №280",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4314003435216",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №281",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4314003435217",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №282",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4314003435218",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №283",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4314003435219",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №284",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4314003435220",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №285",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4314003435221",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №286",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4314003435222",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №287",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4314003435223",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №288",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4314003435224",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №289",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4314003435225",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №290",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4314003435226",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №291",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4314003435227",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №292",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4314003435228",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №293",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4314003435229",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №294",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4314003435230",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №295",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4314003435231",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №296",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4314003435232",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №297",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4314003435233",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №298",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4314003435234",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №299",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4314003435235",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №300",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4314003435236",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №301",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4314003435237",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №302",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4314003435238",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №303",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4314003435239",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №304",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4314003435240",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №305",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4314003435241",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №306",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4314003435242",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №307",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4314003435243",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №308",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4314003435244",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №309",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4314003435245",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №310",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4314003435246",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №311",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4314003435247",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №312",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4314003435248",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №313",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4314003435249",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №314",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4314003435250",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №315",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4314003435251",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №316",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4314003435252",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №317",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4314003435253",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №318",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4314003435254",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №319",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4314003435255",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №320",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4314004186420",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №321",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4314004186421",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №322",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4314004186422",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №323",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4314004186423",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №324",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4314004186424",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №325",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4314004186425",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №326",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4314004186426",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №327",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4314004186427",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №328",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4314004186428",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №329",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4314004186429",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №330",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4314004186430",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №331",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4314004186431",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №332",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4314004186432",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №333",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4314004186433",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №334",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4314004186434",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №335",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4314004186435",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №336",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4314004186436",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №337",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4314004186437",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №338",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4314004186438",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №339",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4314004186439",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №340",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4314004186440",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №341",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4314004186441",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №342",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4314004186442",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №343",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4314004186443",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №344",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4314004186444",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №345",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4314004186445",
     "tikTvd": "2312000945612",
-    "tikName": "Борисовская"
+    "tikName": "Борисовская",
+    "uikName": "УИК №346",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4314005233091",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №347",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4314005233092",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №348",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4314005233093",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №349",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4314005233094",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №350",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4314005233095",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №351",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4314005233096",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №352",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4314005233097",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №353",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4314005233098",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №354",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4314005233099",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №355",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4314005233100",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №356",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4314005233101",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №357",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4314005233102",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №358",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4314005233103",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №359",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4314005233104",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №360",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4314005233105",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №361",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4314005233106",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №362",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4314005233107",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №363",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4314005233108",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №364",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4314005233109",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №365",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4314005233110",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №366",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4314005233111",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №367",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4314005233112",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №368",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4314005233113",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №369",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4314005233114",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №370",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4314005233115",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №371",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4314005233116",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №372",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4314005233117",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №373",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4314005233118",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №374",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4314005233119",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №375",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4314005233120",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №376",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4314005233121",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №377",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4314005233122",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №378",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4314005233123",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №379",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4314005233124",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №380",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4314005233125",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №381",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4314005233126",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №382",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4314005233127",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №383",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4314005233128",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №384",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4314005233129",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №385",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4314005233130",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №386",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4314005233131",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №387",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4314005233132",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №388",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4314005233133",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №389",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4314005233134",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №390",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4314005233135",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №391",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4314005233136",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №392",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4314005233137",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №393",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4314005233138",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №394",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4314005233139",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №395",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4314005233140",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №396",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4314005233141",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №397",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4314005233142",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №398",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4314005233143",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №399",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4314005233144",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №400",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4314005233145",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №401",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4314005233146",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №402",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4314005233147",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №403",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4314005233148",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №404",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4314005233149",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №405",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4314005233150",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №406",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4314005233151",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №407",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4314005233152",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №408",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4314005233153",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №409",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4314005233154",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №410",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4314005233155",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №411",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4314005233156",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №412",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4314006211938",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №413",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4314006211939",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №414",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4314006211940",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №415",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4314006211941",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №416",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4314006211942",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №417",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4314006211943",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №418",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4314006211944",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №419",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4314006211945",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №420",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4314006211946",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №422",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4314006211947",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №423",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4314006211948",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №424",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4314006211949",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №425",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4314006211950",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №426",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4314006211951",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №427",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4314006211952",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №428",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4314006211953",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №429",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4314006211954",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №430",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4314006211955",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №431",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4314006211956",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №432",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4314006211957",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №433",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4314006211958",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №434",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4314006211959",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №435",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4314006211960",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №436",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4314006211961",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №437",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4314006211962",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №438",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4314006211963",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №439",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4314006211964",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №440",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4314006211965",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №441",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4314006211966",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №442",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4314006211967",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №443",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4314006211968",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №444",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4314006211969",
     "tikTvd": "2312000945624",
-    "tikName": "Вейделевская"
+    "tikName": "Вейделевская",
+    "uikName": "УИК №445",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4314007221908",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №446",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4314007221909",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №447",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4314007221910",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №448",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4314007221911",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №449",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4314007221912",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №450",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4314007221913",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №451",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4314007221914",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №452",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4314007221915",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №453",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4314007221916",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №454",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4314007221917",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №455",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4314007221918",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №456",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4314007221919",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №457",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4314007221920",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №458",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4314007221921",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №459",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4314007221922",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №460",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4314007221923",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №461",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4314007221924",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №462",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4314007221925",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №463",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4314007221926",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №464",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4314007221927",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №465",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4314007221928",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №466",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4314007221929",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №467",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4314007221930",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №468",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4314007221931",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №469",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4314007221932",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №470",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4314007221933",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №471",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4314007221934",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №472",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4314007221935",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №473",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4314007221936",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №474",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4314007221937",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №475",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4314007221938",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №476",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4314007221939",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №477",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4314007221940",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №478",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4314007221941",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №479",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4314007221942",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №480",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4314007221943",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №481",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4314007221944",
     "tikTvd": "2312000945623",
-    "tikName": "Волоконовская"
+    "tikName": "Волоконовская",
+    "uikName": "УИК №482",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4314008240121",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №483",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4314008240122",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №484",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4314008240123",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №485",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4314008240124",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №486",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4314008240125",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №487",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4314008240126",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №488",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4314008240127",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №489",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4314008240128",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №490",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4314008240129",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №491",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4314008240130",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №492",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4314008240131",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №493",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4314008240132",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №494",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4314008240133",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №495",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4314008240134",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №496",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4314008240135",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №497",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4314008240136",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №498",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4314008240137",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №499",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4314008240138",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №500",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4314008240139",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №501",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4314008240140",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №502",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4314008240141",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №503",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4314008240142",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №504",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4314008240143",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №505",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4314008240144",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №506",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4314008240145",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №507",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4314008240146",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №508",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4314008240147",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №509",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4314008240148",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №510",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4314008240149",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №511",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4314008240150",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №512",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4314008240151",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №513",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4314008240152",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №514",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4314008240153",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №515",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4314008240154",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №516",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4314008240155",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №517",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4314008240156",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №518",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4314003435256",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №519",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4314009336722",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №520",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4314009336723",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №521",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4314009336724",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №522",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4314009336725",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №523",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4314009336726",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №524",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4314009336727",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №525",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4314009336728",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №526",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4314009336729",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №527",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4314009336730",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №528",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4314009336731",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №529",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4314009336732",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №530",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4314009336733",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №531",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4314009336734",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №532",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4314009336735",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №533",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4314009336736",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №534",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4314009336737",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №535",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4314009336738",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №536",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4314009336739",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №537",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4314009336740",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №538",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4314009336741",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №539",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4314009336742",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №540",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4314009336743",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №541",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4314009336744",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №542",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4314009336745",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №543",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4314009336746",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №544",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4314009336747",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №545",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4314009336748",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №546",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4314009336749",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №547",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4314009336750",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №548",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4314009336751",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №549",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4314009336752",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №550",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4314009336753",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №551",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4314009336754",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №552",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4314009336755",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №553",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4314009336756",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №554",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4314009336757",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №555",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4314009336758",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №556",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4314009336759",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №557",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4314009336760",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №558",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4314009336761",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №559",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4314009336762",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №560",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4314009336763",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №561",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4314009336764",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №562",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4314009336765",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №563",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4314009336766",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №564",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4314009336767",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №565",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4314009336768",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №566",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4314009336769",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №567",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4314009336770",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №568",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4314009336771",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №569",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4314009336772",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №570",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4314009336773",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №571",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4314009336774",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №572",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4314009336775",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №573",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4314009336776",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №574",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4314009336777",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №575",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4314009336778",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №576",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4314009336779",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №577",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4314009336780",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №578",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4314009336781",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №579",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4314009336782",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №580",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4314009336783",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №581",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4314009336784",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №582",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4314009336785",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №583",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4314009336786",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №584",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4314009336787",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №585",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4314009336788",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №586",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4314009336789",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №587",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4314009336790",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №588",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4314009336791",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №589",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4314009336792",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №590",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4314009336793",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №591",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4314009336794",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №592",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4314009336795",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №593",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4314009336796",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №594",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4314009336797",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №595",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4314009336798",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №596",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4314009336799",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №597",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4314009336800",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №598",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4314009336801",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №599",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4314009336802",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №600",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4314009336803",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №601",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4314009336804",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №602",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4314009336805",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №603",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4314009336806",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №604",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4314009336807",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №605",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4314009336808",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №606",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4314009336809",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №607",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4314009336810",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №608",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4314009336811",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №609",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4314009336812",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №610",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4314009336813",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №611",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4314010262783",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №612",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4314010262784",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №613",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4314010262785",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №614",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4314010262786",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №615",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4314010262787",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №616",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4314010262788",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №617",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4314010262789",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №618",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4314010262790",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №619",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4314010262791",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №620",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4314010262792",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №621",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4314010262793",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №622",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4314010262794",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №623",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4314010262795",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №624",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4314010262796",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №625",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4314010262797",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №626",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4314010262798",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №627",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4314010262799",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №628",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4314010262800",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №629",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4314010262801",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №630",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4314010262802",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №631",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4314010262803",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №632",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4314010262804",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №633",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4314010262805",
     "tikTvd": "2312000945610",
-    "tikName": "Ивнянская"
+    "tikName": "Ивнянская",
+    "uikName": "УИК №634",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4314011286304",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №635",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4314011286305",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №636",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4314011286306",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №637",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4314011286307",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №638",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4314011286308",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №639",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4314003435257",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №640",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4314011286309",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №641",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4314011286310",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №642",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4314011286311",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №643",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4314011286312",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №644",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4314011286313",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №645",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4314011286314",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №646",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4314011286315",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №647",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4314011286316",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №648",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4314011286317",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №649",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4314011286318",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №650",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4314011286319",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №651",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4314011286320",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №652",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4314011286321",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №653",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4314011286322",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №654",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4314011286323",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №655",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4314011286324",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №656",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4314011286325",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №657",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4314011286326",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №658",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4314011286327",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №659",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4314011286328",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №660",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "4314011286329",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №661",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4314011286330",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №662",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4314011286331",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №663",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4314011286332",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №664",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4314011286333",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №665",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4314011286334",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №666",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4314011286335",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №667",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4314011286336",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №668",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4314011286337",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №669",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4314011286338",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №670",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4314011286339",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №671",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4314011286340",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №672",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4314011286341",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №673",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4314011286342",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №674",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4314011286343",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №675",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4314011286344",
     "tikTvd": "2312000945609",
-    "tikName": "Корочанская"
+    "tikName": "Корочанская",
+    "uikName": "УИК №676",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4314012185712",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №677",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4314012185713",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №678",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4314012185714",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №679",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4314012185715",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №680",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4314012185716",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №681",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4314012185717",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №682",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4314012185718",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №683",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4314012185719",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №684",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4314012185720",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №685",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4314012185721",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №686",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4314012185722",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №687",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4314012185723",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №688",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4314012185724",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №689",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4314012185725",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №690",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4314012185726",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №691",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4314012185727",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №692",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4314012185728",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №693",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4314012185729",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №694",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4314012185730",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №695",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4314012185731",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №696",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4314012185732",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №697",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4314012185733",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №698",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4314012185734",
     "tikTvd": "2312000945621",
-    "tikName": "Красненская"
+    "tikName": "Красненская",
+    "uikName": "УИК №699",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4314013281803",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №700",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4314013281804",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №701",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4314013281805",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №702",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4314013281806",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №703",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4314013281807",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №704",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4314013281808",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №705",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4314019494776",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №706",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4314013281809",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №707",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4314013281810",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №708",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4314013281811",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №709",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4314013281812",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №710",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4314013281813",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №711",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4314013281814",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №712",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4314013281815",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №713",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4314013281816",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №714",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4314013281817",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №715",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4314013281818",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №716",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4314013281819",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №717",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4314013281820",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №718",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4314013281821",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №719",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4314013281822",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №720",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4314013281823",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №721",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4314013281824",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №722",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4314013281825",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №723",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4314013281826",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №724",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4314013281827",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №725",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4314013281828",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №726",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4314013281829",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №727",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4314013281830",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №728",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4314013281831",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №729",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4314013281832",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №730",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4314013281833",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №731",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4314013281834",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №732",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4314013281835",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №733",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4314013281836",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №734",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4314013281837",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №735",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4314013281838",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №736",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4314013281839",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №737",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4314003435258",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №738",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4314013281840",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №739",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4314013281841",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №740",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4314013281842",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №741",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4314013281843",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №742",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4314013281844",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №743",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4314013281845",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №744",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4314013281846",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №745",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4314013281847",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №746",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4314013281848",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №747",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4314013281849",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №748",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4314013281850",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №749",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4314013281851",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №750",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4314013281852",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №751",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4314013281853",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №752",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4314013281854",
     "tikTvd": "2312000945620",
-    "tikName": "Красногвардейская"
+    "tikName": "Красногвардейская",
+    "uikName": "УИК №753",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4314014156080",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №754",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4314014156081",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №755",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4314014156082",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №756",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4314014156083",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №757",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4314014156084",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №758",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4314014156085",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №759",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4314014156086",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №760",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4314014156087",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №761",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4314014156088",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №762",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4314014156089",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №763",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4314014156090",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №764",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4314014156091",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №765",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4314014156092",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №766",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4314014156093",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №767",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4314014156094",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №768",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4314014156095",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №769",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4314014156096",
     "tikTvd": "2312000945608",
-    "tikName": "Краснояружская"
+    "tikName": "Краснояружская",
+    "uikName": "УИК №770",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4314015299707",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №771",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4314015299708",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №772",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4314015299709",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №773",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4314015299710",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №774",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4314015299711",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №775",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4314015299712",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №776",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4314015299713",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №777",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4314015299714",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №778",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4314015299715",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №779",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4314015299716",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №780",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4314015299717",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №781",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4314015299718",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №782",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4314015299719",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №783",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4314015299720",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №784",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4314015299721",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №785",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4314015299722",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №786",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4314015299723",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №787",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4314015299724",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №788",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4314015299725",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №789",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4314015299726",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №790",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4314015299727",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №791",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4314015299728",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №792",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4314015299729",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №793",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4314003435259",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №794",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4314015299730",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №795",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4314015299731",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №796",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4314015299732",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №797",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4314015299733",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №798",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4314015299734",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №799",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4314015299735",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №800",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4314015299736",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №801",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4314015299737",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №802",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4314015299738",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №803",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4314015299739",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №804",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4314015299740",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №805",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4314015299741",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №806",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4314015299742",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №807",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4314015299743",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №808",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4314015299744",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №809",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4314015299745",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №810",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4314015299746",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №811",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4314015299747",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №812",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4314015299748",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №813",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4314015299749",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №814",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4314015299750",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №815",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4314015299751",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №816",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4314015299752",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №817",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4314015299753",
     "tikTvd": "2312000945619",
-    "tikName": "Новооскольская"
+    "tikName": "Новооскольская",
+    "uikName": "УИК №818",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4314016266179",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №819",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4314016266181",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №820",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4314002735860",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №821",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4314016266182",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №822",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4314016266183",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №823",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4314016266184",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №824",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4314016266185",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №825",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4314016266186",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №826",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4314016266187",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №827",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4314005233162",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №828",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4314016266188",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №829",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4314016266189",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №830",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4314016266190",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №831",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4314016266191",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №832",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4314016266192",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №833",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4314016266193",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №834",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4314016266194",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №835",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4314016266195",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №836",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4314016266196",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №837",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4314005233164",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №838",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4314016266197",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №839",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4314016266198",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №840",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4314016266199",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №841",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4314016266200",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №842",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4314016266201",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №843",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4314016266202",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №844",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4314016266203",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №845",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4314016266204",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №846",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4314003435260",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №847",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4314016266205",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №848",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4314016266206",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №849",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4314016266207",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №850",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4314016266208",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №851",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4314016266209",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №852",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4314016266210",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №853",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4314016266211",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №854",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4314016266212",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №855",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4314016266213",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №856",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4314016266214",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №857",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4314016266215",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №858",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4314016266216",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №859",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4314016266217",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №860",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4314016266218",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №861",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4314016266219",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №862",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4314016266220",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №863",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4314016266221",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №864",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4314016266222",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №865",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4314016266223",
     "tikTvd": "2312000945607",
-    "tikName": "Прохоровская"
+    "tikName": "Прохоровская",
+    "uikName": "УИК №866",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4314017237065",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №867",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4314017237066",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №868",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4314017237067",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №869",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4314017237068",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №870",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4314017237069",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №871",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4314017237070",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №872",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4314017237071",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №873",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4314003435261",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №874",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4314017237072",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №875",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4314017237073",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №876",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4314017237074",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №877",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4314017237075",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №878",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4314017237076",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №879",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4314017237077",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №880",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4314017237078",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №881",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4314017237079",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №882",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4314017237080",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №883",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4314017237081",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №884",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4314017237082",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №885",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4314017237083",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №886",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4314017237084",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №887",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4314017237085",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №888",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4314017237086",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №889",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4314017237087",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №890",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4314017237088",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №891",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4314017237089",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №892",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4314017237090",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №893",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4314017237091",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №894",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4314017237092",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №895",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4314017237093",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №896",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4314018223855",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №897",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4314018223856",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №898",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4314018223857",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №899",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4314018223858",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №900",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4314018223859",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №901",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4314018223860",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №902",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4314018223861",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №903",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4314018223862",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №904",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4314018223863",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №905",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4314018223864",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №906",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4314018223865",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №907",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4314018223866",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №908",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4314018223867",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №909",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4314018223868",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №910",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4314018223869",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №911",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4314018223870",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №912",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4314018223871",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №913",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4314018223872",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №914",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4314018223873",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №915",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4314018223874",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №916",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4314018223875",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №917",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4314018223876",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №918",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4314018223877",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №919",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4314019494780",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №920",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4314018223878",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №921",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4314018223879",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №922",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4314018223880",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №923",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4314003435262",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №924",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4314018223881",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №925",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4314018223882",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №926",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4314018223883",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №927",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4314018223884",
     "tikTvd": "2312000945618",
-    "tikName": "Ровеньская"
+    "tikName": "Ровеньская",
+    "uikName": "УИК №928",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4314019494787",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №929",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4314019494869",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №930",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4314019494872",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №931",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4314019494874",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №932",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4314019494875",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №933",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4314019494876",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №934",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4314019494877",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №935",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4314019494881",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №936",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4314019494882",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №937",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4314019494883",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №938",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4314019494884",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №939",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4314019494885",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №940",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4314019494886",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №941",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4314019494887",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №942",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4314019494888",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №943",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4314019494889",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №944",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4314019494890",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №945",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4314019494891",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №946",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4314019494892",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №947",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4314019494893",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №948",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4314019494894",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №949",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4314019494895",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №950",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4314019494896",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №951",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4314019494897",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №952",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4314019494898",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №953",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4314019494899",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №954",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4314019494903",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №955",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4314019494904",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №956",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4314019494905",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №957",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4314019494906",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №958",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4314019494907",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №959",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4314019494908",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №960",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4314019494909",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №961",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4314019494910",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №962",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4314019494911",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №963",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4314019494912",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №964",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4314019494913",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №965",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4314019494914",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №966",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4314019494915",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №967",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4314019494916",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №968",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4314019494917",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №969",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4314019494918",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №970",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4314019494919",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №971",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4314019494920",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №972",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4314019494921",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №973",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4314019494922",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №974",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4314019494923",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №975",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4314019494924",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №976",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4314019494925",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №977",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4314019494926",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №978",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4314019494927",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №979",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4314019494928",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №980",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4314019494932",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №981",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4314019494933",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №982",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4314019494934",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №983",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4314019494935",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №984",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4314019494936",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №985",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4314019494937",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №986",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4314019494938",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №987",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4314019494939",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №988",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4314019494940",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №989",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4314019494942",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №990",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4314019494943",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №991",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4314019494944",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №992",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4314019494945",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №993",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4314019494946",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №994",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4314019494947",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №995",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4314019494948",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №996",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4314019494949",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №997",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4314019494950",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №998",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4314019494951",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №999",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4314019494952",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1000",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4314019494954",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1001",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4314019494955",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1002",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4314019494956",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1003",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4314019494957",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1004",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4314019494958",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1005",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4314019494960",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1006",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4314019494961",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1007",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4314019494962",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1008",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4314019494963",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1009",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4314019494964",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1010",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4314019494965",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1011",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4314019494966",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1012",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4314019494967",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1013",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4314019494968",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1014",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4314019494969",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1015",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4314019494970",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1016",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4314019494971",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1017",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4314019494972",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1018",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4314019494973",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1019",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4314019494974",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1020",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4314019494975",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1021",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4314019494976",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1022",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4314019494989",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1023",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4314019494990",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1024",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4314019494991",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1025",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4314019494992",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1026",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4314019494993",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1027",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4314019494994",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1028",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4314019494995",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1029",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4314019494996",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1030",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4314019494997",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1031",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4314019494998",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1032",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4314019494999",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1033",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4314003435263",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №1034",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4314019495000",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1035",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4314019495001",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1036",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4314019495002",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1037",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4314019495003",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1038",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4314019495004",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1039",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4314019495005",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1040",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4314019495007",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1041",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4314019495008",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1042",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4314019495009",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1043",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4314019495011",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1044",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4314019495012",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1045",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4314019495013",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1046",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4314019495014",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1047",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "4314019495015",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1048",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4314019495016",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1049",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4314019495018",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1050",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4314019495019",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1051",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4314019495021",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1052",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4314019495022",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1053",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4314019495024",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1054",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4314003435264",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №1055",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4314019495025",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1056",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4314019495026",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1057",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4314019495027",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1058",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4314019495028",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1059",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4314019495029",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1060",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4314019495030",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1061",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4314020198698",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1062",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4314020198699",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1063",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4314020198700",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1064",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4314020198701",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1065",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4314020198702",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1066",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4314020198703",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1067",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4314020198704",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1068",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4314020198705",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1069",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4314020198706",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1070",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4314020198707",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1071",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4314020198708",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1072",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4314020198709",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1073",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4314020198710",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1074",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4314020198711",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1075",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4314020198712",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1076",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4314020198713",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1077",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4314020198714",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1078",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4314020198715",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1079",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4314020198716",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1080",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4314020198717",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1081",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4314020198718",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1082",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4314020198719",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1083",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4314020198720",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1084",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4314020198721",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1085",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4314020198722",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1086",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4314020198723",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1087",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4314003435265",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №1088",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4314020198724",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1089",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4314020198725",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1090",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4314020198726",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1091",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4314020198727",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1092",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4314020198728",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1093",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4314020198729",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1094",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4314020198730",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1095",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4314020198731",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1096",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4314020198732",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1097",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4314020198733",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1098",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4314020198734",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1099",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4314020198735",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1100",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4314020198736",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1101",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4314020198737",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1102",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4314020198738",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1103",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4314020198739",
     "tikTvd": "2312000945616",
-    "tikName": "Чернянская"
+    "tikName": "Чернянская",
+    "uikName": "УИК №1104",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4314021273820",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1105",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4314021273821",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1106",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4314021273822",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1107",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4314021273823",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1108",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4314021273824",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1109",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4314021273825",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1110",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4314021273826",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1111",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4314021273827",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1112",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4314021273828",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1113",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4314021273829",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1114",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4314021273830",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1115",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4314021273831",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1116",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4314021273832",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1117",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4314021273833",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1118",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4314021273834",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1119",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4314021273835",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1120",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4314021273836",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1121",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4314021273837",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1122",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4314021273838",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1123",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4314021273839",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1124",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4314021273840",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1125",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4314021273841",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1126",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4314021273842",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1127",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4314021273843",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1128",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4314021273844",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1129",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4314021273845",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1130",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4314021273846",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1131",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4314021273847",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1132",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4314021273848",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1133",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4314021273849",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1134",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4314021273850",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1135",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4314021273851",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1136",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4314021273852",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1137",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4314021273853",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1138",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4314021273854",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1139",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4314021273855",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1140",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4314021273856",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1141",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4314021273857",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1142",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4314021273858",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1143",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4314021273859",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1144",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4314021273860",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1145",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4314021273861",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1146",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4314021273862",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1147",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4314021273863",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1148",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4314021273864",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1149",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4314021273865",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1150",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4314021273866",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1151",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4314021273867",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1152",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4314021273868",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1153",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4314021273869",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1154",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4314021273870",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1155",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4314021273871",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1156",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4314021273872",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1157",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4314021273873",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1158",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4314021273874",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1159",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4314021273875",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1160",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4314021273876",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1161",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4314021273877",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1162",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4314021273878",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1163",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4314021273879",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1164",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4314021273880",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1165",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4314021273881",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1166",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4314021273882",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1167",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4314021273883",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1168",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4314021273884",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1169",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4314021273885",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1170",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4314021273886",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1171",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4314021273887",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1172",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4314021273888",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1173",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4314021273889",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1174",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4314021273890",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1175",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4314021273891",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1176",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4314021273892",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1177",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4314021273893",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1178",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4314021273894",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1179",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4314021273895",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1180",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4314021273896",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1181",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4314022320959",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1182",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4314022320960",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1183",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4314022320961",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1184",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4314022320962",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1185",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4314022320963",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1186",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4314022320964",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1187",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4314022320965",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1188",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4314022320966",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1189",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4314022320967",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1190",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4314022320968",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1191",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4314022320969",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1192",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4314022320970",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1193",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4314022320971",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1194",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4314022320972",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1195",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4314022320973",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1196",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4314022320974",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1197",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4314022320975",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1198",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4314022320976",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1199",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4314022320977",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1200",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4314022320978",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1201",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4314022320979",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1202",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4314022320980",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1203",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4314022320981",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1204",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4314022320982",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1205",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4314022320983",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1206",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4314022320984",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1207",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4314022320985",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1208",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4314022320986",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1209",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4314022320987",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1210",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4314022320988",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1211",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4314022320989",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1212",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4314022320990",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1213",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4314022320991",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1214",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4314022320992",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1215",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4314022320993",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1216",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4314022320994",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1217",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4314022320995",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1218",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4314022320996",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1219",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4314022320997",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1220",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4314022320998",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1221",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4314022320999",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1222",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4314022321000",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1223",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4314022321001",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1224",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4314022321002",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1225",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4314022321003",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1226",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4314022321004",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1227",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4314022321005",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1228",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4314022321006",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1229",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4314022321007",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1230",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4314022321008",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1231",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4314022321009",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1232",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4314017237094",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №1233",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4314017237095",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №1234",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4314017237096",
     "tikTvd": "2312000945606",
-    "tikName": "Ракитянская"
+    "tikName": "Ракитянская",
+    "uikName": "УИК №1235",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4314002729242",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1236",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4314002729243",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1237",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4314002729244",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1238",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4314002729245",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1239",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4314003435266",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №1240",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4314003435267",
     "tikTvd": "2312000945613",
-    "tikName": "Белгородская районная"
+    "tikName": "Белгородская районная",
+    "uikName": "УИК №1241",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4314022321010",
     "tikTvd": "2312000945605",
-    "tikName": "Яковлевская"
+    "tikName": "Яковлевская",
+    "uikName": "УИК №1242",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4314005233159",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №1243",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4314021273897",
     "tikTvd": "2312000945615",
-    "tikName": "Шебекинская"
+    "tikName": "Шебекинская",
+    "uikName": "УИК №1244",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4314002735861",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1245",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4314002735862",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1246",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4314002735863",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1247",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4314002735864",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1248",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4314002735865",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1249",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4314002735866",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1250",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4314002735867",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1251",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4314002735868",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1252",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4314002735869",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1253",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4314005233160",
     "tikTvd": "2312000945625",
-    "tikName": "Валуйская"
+    "tikName": "Валуйская",
+    "uikName": "УИК №1254",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4314009336814",
     "tikTvd": "2312000945622",
-    "tikName": "Губкинская"
+    "tikName": "Губкинская",
+    "uikName": "УИК №1255",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4314019495362",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1256",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4314019495364",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1257",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4314019495366",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1258",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4314008240157",
     "tikTvd": "2312000945611",
-    "tikName": "Грайворонская"
+    "tikName": "Грайворонская",
+    "uikName": "УИК №1260",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4314002735870",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1261",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4314002735871",
     "tikTvd": "2312000945614",
-    "tikName": "Белгородская городская"
+    "tikName": "Белгородская городская",
+    "uikName": "УИК №1262",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883493",
+    "oikName": "Белгородская область – Белгородский",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100225883493"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4314019495034",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1263",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4314019495035",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1264",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4314019495037",
     "tikTvd": "2312000945617",
-    "tikName": "Старооскольская"
+    "tikName": "Старооскольская",
+    "uikName": "УИК №1265",
+    "regionCode": "31",
+    "regionTvd": "100100225883492",
+    "regionName": "Белгородская область",
+    "oikTvd": "100100225883494",
+    "oikName": "Белгородская область – Старооскольский",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100225883494"
+    }
   }
 ] satisfies readonly UikTikRelation[];

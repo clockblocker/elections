@@ -32,14 +32,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 141,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 141,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -79,14 +79,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 418,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 418,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -126,14 +126,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 25,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 333,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 25,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 333,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -173,14 +173,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 89,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 966,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 89,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 966,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -220,14 +220,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 87,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 460,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 87,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 460,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -267,14 +267,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 79,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 79,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -314,14 +314,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -361,14 +361,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -408,14 +408,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 131,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 131,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -455,14 +455,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 185,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 185,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -502,14 +502,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 58,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 923,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 58,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 923,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -549,14 +549,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 197,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 197,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -596,14 +596,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 230,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 230,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -643,14 +643,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 42,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 269,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 42,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 269,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -690,14 +690,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 376,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 376,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -737,14 +737,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 202,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 202,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -784,14 +784,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 45,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 45,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -831,14 +831,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 82,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 82,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -878,14 +878,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 142,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 142,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -925,14 +925,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 1068,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 1068,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -972,14 +972,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 225,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 225,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1019,14 +1019,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 71,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 467,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 16,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 71,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 467,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 16,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1066,14 +1066,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 267,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 267,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1113,14 +1113,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 69,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 69,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1160,14 +1160,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 191,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 191,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1207,14 +1207,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 1376,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 330,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 1376,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 330,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1254,14 +1254,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 858,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 858,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1301,14 +1301,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 120,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 120,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1348,14 +1348,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 331,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 331,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1395,14 +1395,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 203,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 203,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1442,14 +1442,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 73,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 819,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 73,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 819,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1489,14 +1489,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 621,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 621,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1536,14 +1536,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 56,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 56,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1583,14 +1583,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 252,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 1176,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 252,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 1176,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1630,14 +1630,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 79,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 79,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1677,14 +1677,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 45,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 498,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 45,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 498,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1724,14 +1724,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 134,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 134,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1771,14 +1771,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 380,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 380,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1818,14 +1818,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 92,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 92,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055066&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055066&type=227",
@@ -1865,14 +1865,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 189,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 189,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -1912,14 +1912,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 79,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 79,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -1959,14 +1959,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 142,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 142,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2006,14 +2006,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 162,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 162,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2053,14 +2053,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 59,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 59,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2100,14 +2100,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 172,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 172,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2147,14 +2147,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 270,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 270,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2194,14 +2194,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 99,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 99,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2241,14 +2241,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 112,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 112,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2288,14 +2288,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 44,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 44,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2335,14 +2335,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 85,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 85,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2382,14 +2382,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 111,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 111,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2429,14 +2429,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 72,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 72,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2476,14 +2476,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 56,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 56,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2523,14 +2523,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 110,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 110,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2570,14 +2570,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 96,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 96,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2617,14 +2617,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 65,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 65,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2664,14 +2664,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 237,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 237,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2711,14 +2711,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 401,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 401,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2758,14 +2758,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 106,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 106,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2805,14 +2805,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 143,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 143,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2852,14 +2852,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 50,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 50,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2899,14 +2899,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 66,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 66,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2946,14 +2946,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 73,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 73,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -2993,14 +2993,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 456,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 456,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3040,14 +3040,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 118,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 118,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3087,14 +3087,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 88,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 88,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3134,14 +3134,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 52,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 52,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3181,14 +3181,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 23,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 23,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3228,14 +3228,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 192,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 192,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3275,14 +3275,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 75,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 75,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3322,14 +3322,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 55,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 55,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3369,14 +3369,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 18,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 18,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3416,14 +3416,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 26,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 26,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3463,14 +3463,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 66,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 66,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3510,14 +3510,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 30,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 30,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3557,14 +3557,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 36,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 36,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3604,14 +3604,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 12,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 12,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3651,14 +3651,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 137,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 137,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3698,14 +3698,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 78,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 78,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3745,14 +3745,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 110,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 110,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3792,14 +3792,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 61,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 1422,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 61,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 1422,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3839,14 +3839,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 55,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 55,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3886,14 +3886,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 48,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 48,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3933,14 +3933,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 28,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 28,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -3980,14 +3980,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 205,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 205,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4027,14 +4027,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 110,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 110,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4074,14 +4074,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 329,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 329,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4121,14 +4121,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 110,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 110,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4168,14 +4168,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 36,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 36,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4215,14 +4215,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 80,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 80,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4262,14 +4262,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 32,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 32,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4309,14 +4309,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 21,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 21,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055067&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055067&type=227",
@@ -4356,14 +4356,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 367,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 367,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4403,14 +4403,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 77,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 286,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 77,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 286,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4450,14 +4450,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 310,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 310,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4497,14 +4497,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 60,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 225,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 60,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 225,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4544,14 +4544,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 40,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 40,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4591,14 +4591,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 55,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 55,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4638,14 +4638,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4685,14 +4685,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 196,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 196,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4732,14 +4732,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 159,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 159,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4779,14 +4779,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 154,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 154,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4826,14 +4826,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 176,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 176,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4873,14 +4873,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 370,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 370,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4920,14 +4920,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 39,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 39,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -4967,14 +4967,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5014,14 +5014,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 107,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 107,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5061,14 +5061,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 24,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 24,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5108,14 +5108,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 219,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 219,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5155,14 +5155,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 167,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 167,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5202,14 +5202,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 242,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 242,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5249,14 +5249,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 150,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 150,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5296,14 +5296,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 48,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 48,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5343,14 +5343,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 48,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 48,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5390,14 +5390,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 48,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 48,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5437,14 +5437,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 50,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 147,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 50,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 147,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5484,14 +5484,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 32,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 128,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 32,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 128,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5531,14 +5531,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 67,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 314,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 67,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 314,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5578,14 +5578,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 111,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 111,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5625,14 +5625,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 66,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 66,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5672,14 +5672,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 32,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 13,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 32,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 13,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5719,14 +5719,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 17,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 17,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5766,14 +5766,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 96,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 96,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5813,14 +5813,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 158,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 158,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5860,14 +5860,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 194,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 194,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5907,14 +5907,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 117,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 117,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -5954,14 +5954,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 14,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 14,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -6001,14 +6001,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 63,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 65,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 63,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 65,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -6048,14 +6048,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 77,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 77,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055068&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055068&type=227",
@@ -6095,14 +6095,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 706,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 706,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6142,14 +6142,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 264,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 264,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6189,14 +6189,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 421,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 421,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6236,14 +6236,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 283,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 283,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6283,14 +6283,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 45,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 45,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6330,14 +6330,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 610,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 610,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6377,14 +6377,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 112,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 112,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6424,14 +6424,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 243,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 243,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6471,14 +6471,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 550,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 550,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6518,14 +6518,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 163,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 163,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6565,14 +6565,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 53,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 203,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 53,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 203,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6612,14 +6612,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 79,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 79,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6659,14 +6659,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 366,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 366,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6706,14 +6706,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 723,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 723,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6753,14 +6753,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 578,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 578,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6800,14 +6800,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 86,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 86,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6847,14 +6847,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6894,14 +6894,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 63,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 63,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6941,14 +6941,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 41,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 41,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -6988,14 +6988,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 242,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 242,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7035,14 +7035,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 326,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 326,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7082,14 +7082,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 46,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 46,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7129,14 +7129,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 756,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 756,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7176,14 +7176,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 122,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 122,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7223,14 +7223,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 356,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 356,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7270,14 +7270,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 86,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 86,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7317,14 +7317,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 255,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 255,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7364,14 +7364,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 32,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 32,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7411,14 +7411,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 59,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 59,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7458,14 +7458,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 108,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 108,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7505,14 +7505,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 128,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 128,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7552,14 +7552,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 173,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 173,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7599,14 +7599,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 360,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 360,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7646,14 +7646,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 296,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 296,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7693,14 +7693,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 72,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 72,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7740,14 +7740,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 220,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 220,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7787,14 +7787,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 146,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 146,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7834,14 +7834,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 126,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 126,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7881,14 +7881,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 139,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 139,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7928,14 +7928,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 114,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 114,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -7975,14 +7975,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 63,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 63,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8022,14 +8022,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 144,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 144,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8069,14 +8069,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 178,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 178,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8116,14 +8116,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 213,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 213,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8163,14 +8163,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 150,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 150,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8210,14 +8210,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 157,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 157,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8257,14 +8257,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 381,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 381,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8304,14 +8304,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8351,14 +8351,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 86,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 86,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8398,14 +8398,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 137,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 137,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8445,14 +8445,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 236,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 236,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8492,14 +8492,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 48,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 48,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8539,14 +8539,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 157,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 157,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8586,14 +8586,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 62,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 62,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8633,14 +8633,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 31,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 35,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 31,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 35,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055069&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055069&type=227",
@@ -8680,14 +8680,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 382,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 1661,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 382,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 1661,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -8727,14 +8727,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 168,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 168,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -8774,14 +8774,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 186,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 186,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -8821,14 +8821,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 206,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 206,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -8868,14 +8868,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 132,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 132,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -8915,14 +8915,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 134,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 134,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -8962,14 +8962,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 117,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 117,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9009,14 +9009,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 494,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 494,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9056,14 +9056,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 802,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 802,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9103,14 +9103,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 77,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 77,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9150,14 +9150,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 29,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 508,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 29,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 508,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9197,14 +9197,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 412,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 412,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9244,14 +9244,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 169,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 169,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9291,14 +9291,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 382,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 382,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9338,14 +9338,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 153,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 153,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9385,14 +9385,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 347,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 347,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9432,14 +9432,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 331,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 331,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9479,14 +9479,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 160,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 160,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9526,14 +9526,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 216,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 722,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 216,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 722,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9573,14 +9573,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 391,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 391,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9620,14 +9620,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 424,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 424,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9667,14 +9667,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 165,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 165,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9714,14 +9714,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 235,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 235,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9761,14 +9761,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 90,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 259,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 90,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 259,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9808,14 +9808,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 49,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 158,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 49,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 158,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9855,14 +9855,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 74,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 74,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9902,14 +9902,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 161,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 161,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9949,14 +9949,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 116,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 116,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -9996,14 +9996,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 194,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 194,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10043,14 +10043,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 234,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 234,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10090,14 +10090,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 31,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 372,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 31,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 372,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10137,14 +10137,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 122,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 122,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10184,14 +10184,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 54,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 54,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10231,14 +10231,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 252,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 252,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10278,14 +10278,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 197,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 197,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10325,14 +10325,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 152,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 152,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10372,14 +10372,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 127,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 127,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10419,14 +10419,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 118,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 118,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10466,14 +10466,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 151,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 151,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10513,14 +10513,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 271,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 271,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10560,14 +10560,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 172,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 172,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10607,14 +10607,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 64,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 64,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10654,14 +10654,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 235,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 235,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10701,14 +10701,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 193,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 193,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10748,14 +10748,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 52,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 599,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 52,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 599,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10795,14 +10795,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 18,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 18,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10842,14 +10842,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 490,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 490,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10889,14 +10889,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 65,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 65,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10936,14 +10936,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 46,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 633,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 46,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 633,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -10983,14 +10983,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11030,14 +11030,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 299,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 299,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11077,14 +11077,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 276,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 276,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11124,14 +11124,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 219,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 219,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11171,14 +11171,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 194,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 194,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11218,14 +11218,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11265,14 +11265,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 205,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 205,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11312,14 +11312,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 175,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 175,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055070&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055070&type=227",
@@ -11359,14 +11359,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 80,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 80,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11406,14 +11406,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 36,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 36,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11453,14 +11453,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 30,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 30,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11500,14 +11500,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 38,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 190,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 38,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 190,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11547,14 +11547,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 93,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 484,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 93,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 484,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11594,14 +11594,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 68,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 68,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11641,14 +11641,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 132,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 132,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11688,14 +11688,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 46,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 692,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 46,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 692,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",
@@ -11735,14 +11735,14 @@ export const president_2018_uik_226_region_5_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 281,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 281,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/dagestan?action=show&root=1000005&tvd=20520001055071&vrn=100100084849062&region=5&global=&sub_region=5&prver=0&pronetvd=null&vibid=20520001055071&type=227",

@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 81,
-      "Кузьмина Галина Андреевна": 180,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 118,
-      "Троеглазов Валерий Васильевич": 137,
-      "Черкашов Владимир Викторович": 19,
-      "Яковлева Татьяна Владимировна": 417,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 81,
+      "gas:candidate-vibid:1001000121846": 180,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 118,
+      "gas:candidate-vibid:1001000190345": 137,
+      "gas:candidate-vibid:337300170799": 19,
+      "gas:candidate-vibid:1001000225935": 417,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 70,
-      "Кузьмина Галина Андреевна": 142,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 24,
-      "Сироткин Сергей Никанорович": 105,
-      "Троеглазов Валерий Васильевич": 177,
-      "Черкашов Владимир Викторович": 20,
-      "Яковлева Татьяна Владимировна": 455,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 70,
+      "gas:candidate-vibid:1001000121846": 142,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 24,
+      "gas:candidate-vibid:1001000289716": 105,
+      "gas:candidate-vibid:1001000190345": 177,
+      "gas:candidate-vibid:337300170799": 20,
+      "gas:candidate-vibid:1001000225935": 455,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 47,
-      "Кузьмина Галина Андреевна": 78,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 12,
-      "Сироткин Сергей Никанорович": 45,
-      "Троеглазов Валерий Васильевич": 45,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 283,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 47,
+      "gas:candidate-vibid:1001000121846": 78,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 12,
+      "gas:candidate-vibid:1001000289716": 45,
+      "gas:candidate-vibid:1001000190345": 45,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 283,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 16,
-      "Кузьмина Галина Андреевна": 24,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 17,
-      "Троеглазов Валерий Васильевич": 14,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 177,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 16,
+      "gas:candidate-vibid:1001000121846": 24,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 17,
+      "gas:candidate-vibid:1001000190345": 14,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 177,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 16,
-      "Кузьмина Галина Андреевна": 42,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 47,
-      "Троеглазов Валерий Васильевич": 17,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 124,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 16,
+      "gas:candidate-vibid:1001000121846": 42,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 47,
+      "gas:candidate-vibid:1001000190345": 17,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 124,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 11,
-      "Кузьмина Галина Андреевна": 24,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 14,
-      "Троеглазов Валерий Васильевич": 22,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 100,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 11,
+      "gas:candidate-vibid:1001000121846": 24,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 14,
+      "gas:candidate-vibid:1001000190345": 22,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 100,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 2,
-      "Кузьмина Галина Андреевна": 8,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 1,
-      "Троеглазов Валерий Васильевич": 0,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 57,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 2,
+      "gas:candidate-vibid:1001000121846": 8,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 1,
+      "gas:candidate-vibid:1001000190345": 0,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 57,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 36,
-      "Курбанов Насиб Курбанович": 27,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 50,
-      "Троеглазов Валерий Васильевич": 21,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 160,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 36,
+      "gas:candidate-vibid:1001000217922": 27,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 50,
+      "gas:candidate-vibid:1001000190345": 21,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 160,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 5,
-      "Кузьмина Галина Андреевна": 15,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 5,
-      "Троеглазов Валерий Васильевич": 6,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 101,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 5,
+      "gas:candidate-vibid:1001000121846": 15,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 5,
+      "gas:candidate-vibid:1001000190345": 6,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 101,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 8,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 6,
-      "Троеглазов Валерий Васильевич": 19,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 84,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 8,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 6,
+      "gas:candidate-vibid:1001000190345": 19,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 84,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 26,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 19,
-      "Троеглазов Валерий Васильевич": 19,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 99,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 26,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 19,
+      "gas:candidate-vibid:1001000190345": 19,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 99,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 11,
-      "Кузьмина Галина Андреевна": 26,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 14,
-      "Троеглазов Валерий Васильевич": 24,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 92,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 11,
+      "gas:candidate-vibid:1001000121846": 26,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 14,
+      "gas:candidate-vibid:1001000190345": 24,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 92,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 19,
-      "Кузьмина Галина Андреевна": 6,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 16,
-      "Троеглазов Валерий Васильевич": 31,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 77,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 19,
+      "gas:candidate-vibid:1001000121846": 6,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 16,
+      "gas:candidate-vibid:1001000190345": 31,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 77,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 4,
-      "Кузьмина Галина Андреевна": 19,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 7,
-      "Троеглазов Валерий Васильевич": 8,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 77,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 4,
+      "gas:candidate-vibid:1001000121846": 19,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 7,
+      "gas:candidate-vibid:1001000190345": 8,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 77,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 1,
-      "Кузьмина Галина Андреевна": 12,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 6,
-      "Троеглазов Валерий Васильевич": 7,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 95,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 1,
+      "gas:candidate-vibid:1001000121846": 12,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 6,
+      "gas:candidate-vibid:1001000190345": 7,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 95,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 20,
-      "Кузьмина Галина Андреевна": 21,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 9,
-      "Сироткин Сергей Никанорович": 51,
-      "Троеглазов Валерий Васильевич": 42,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 198,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 20,
+      "gas:candidate-vibid:1001000121846": 21,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 9,
+      "gas:candidate-vibid:1001000289716": 51,
+      "gas:candidate-vibid:1001000190345": 42,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 198,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 5,
-      "Кузьмина Галина Андреевна": 27,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 5,
-      "Троеглазов Валерий Васильевич": 17,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 90,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 5,
+      "gas:candidate-vibid:1001000121846": 27,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 5,
+      "gas:candidate-vibid:1001000190345": 17,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 90,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 15,
-      "Кузьмина Галина Андреевна": 9,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 29,
-      "Троеглазов Валерий Васильевич": 21,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 104,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 15,
+      "gas:candidate-vibid:1001000121846": 9,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 29,
+      "gas:candidate-vibid:1001000190345": 21,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 104,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 26,
-      "Кузьмина Галина Андреевна": 27,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 26,
-      "Троеглазов Валерий Васильевич": 8,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 87,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 26,
+      "gas:candidate-vibid:1001000121846": 27,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 26,
+      "gas:candidate-vibid:1001000190345": 8,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 87,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 11,
-      "Кузьмина Галина Андреевна": 28,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 11,
-      "Троеглазов Валерий Васильевич": 8,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 82,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 11,
+      "gas:candidate-vibid:1001000121846": 28,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 11,
+      "gas:candidate-vibid:1001000190345": 8,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 82,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 29,
-      "Кузьмина Галина Андреевна": 76,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 52,
-      "Троеглазов Валерий Васильевич": 23,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 198,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 29,
+      "gas:candidate-vibid:1001000121846": 76,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 52,
+      "gas:candidate-vibid:1001000190345": 23,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 198,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 115,
-      "Кузьмина Галина Андреевна": 131,
-      "Курбанов Насиб Курбанович": 26,
-      "Павлов Виктор Валентинович": 18,
-      "Сироткин Сергей Никанорович": 102,
-      "Троеглазов Валерий Васильевич": 69,
-      "Черкашов Владимир Викторович": 65,
-      "Яковлева Татьяна Владимировна": 530,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 115,
+      "gas:candidate-vibid:1001000121846": 131,
+      "gas:candidate-vibid:1001000217922": 26,
+      "gas:candidate-vibid:337300170651": 18,
+      "gas:candidate-vibid:1001000289716": 102,
+      "gas:candidate-vibid:1001000190345": 69,
+      "gas:candidate-vibid:337300170799": 65,
+      "gas:candidate-vibid:1001000225935": 530,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 10,
-      "Кузьмина Галина Андреевна": 66,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 20,
-      "Троеглазов Валерий Васильевич": 24,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 84,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 10,
+      "gas:candidate-vibid:1001000121846": 66,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 20,
+      "gas:candidate-vibid:1001000190345": 24,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 84,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070455&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 13,
-      "Кузьмина Галина Андреевна": 18,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 8,
-      "Сироткин Сергей Никанорович": 11,
-      "Троеглазов Валерий Васильевич": 31,
-      "Черкашов Владимир Викторович": 10,
-      "Яковлева Татьяна Владимировна": 107,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 13,
+      "gas:candidate-vibid:1001000121846": 18,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 8,
+      "gas:candidate-vibid:1001000289716": 11,
+      "gas:candidate-vibid:1001000190345": 31,
+      "gas:candidate-vibid:337300170799": 10,
+      "gas:candidate-vibid:1001000225935": 107,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 53,
-      "Кузьмина Галина Андреевна": 44,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 33,
-      "Сироткин Сергей Никанорович": 56,
-      "Троеглазов Валерий Васильевич": 85,
-      "Черкашов Владимир Викторович": 32,
-      "Яковлева Татьяна Владимировна": 233,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 53,
+      "gas:candidate-vibid:1001000121846": 44,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 33,
+      "gas:candidate-vibid:1001000289716": 56,
+      "gas:candidate-vibid:1001000190345": 85,
+      "gas:candidate-vibid:337300170799": 32,
+      "gas:candidate-vibid:1001000225935": 233,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 6,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 8,
-      "Троеглазов Валерий Васильевич": 23,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 67,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 6,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 8,
+      "gas:candidate-vibid:1001000190345": 23,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 67,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 5,
-      "Кузьмина Галина Андреевна": 3,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 2,
-      "Троеглазов Валерий Васильевич": 5,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 55,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 5,
+      "gas:candidate-vibid:1001000121846": 3,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 2,
+      "gas:candidate-vibid:1001000190345": 5,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 55,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 9,
-      "Кузьмина Галина Андреевна": 13,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 15,
-      "Троеглазов Валерий Васильевич": 15,
-      "Черкашов Владимир Викторович": 8,
-      "Яковлева Татьяна Владимировна": 52,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 9,
+      "gas:candidate-vibid:1001000121846": 13,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 15,
+      "gas:candidate-vibid:1001000190345": 15,
+      "gas:candidate-vibid:337300170799": 8,
+      "gas:candidate-vibid:1001000225935": 52,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 129,
-      "Кузьмина Галина Андреевна": 45,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 52,
-      "Сироткин Сергей Никанорович": 101,
-      "Троеглазов Валерий Васильевич": 84,
-      "Черкашов Владимир Викторович": 22,
-      "Яковлева Татьяна Владимировна": 218,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 129,
+      "gas:candidate-vibid:1001000121846": 45,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 52,
+      "gas:candidate-vibid:1001000289716": 101,
+      "gas:candidate-vibid:1001000190345": 84,
+      "gas:candidate-vibid:337300170799": 22,
+      "gas:candidate-vibid:1001000225935": 218,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 19,
-      "Кузьмина Галина Андреевна": 18,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 34,
-      "Троеглазов Валерий Васильевич": 21,
-      "Черкашов Владимир Викторович": 21,
-      "Яковлева Татьяна Владимировна": 110,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 19,
+      "gas:candidate-vibid:1001000121846": 18,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 34,
+      "gas:candidate-vibid:1001000190345": 21,
+      "gas:candidate-vibid:337300170799": 21,
+      "gas:candidate-vibid:1001000225935": 110,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 97,
-      "Кузьмина Галина Андреевна": 34,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 33,
-      "Сироткин Сергей Никанорович": 28,
-      "Троеглазов Валерий Васильевич": 29,
-      "Черкашов Владимир Викторович": 16,
-      "Яковлева Татьяна Владимировна": 133,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 97,
+      "gas:candidate-vibid:1001000121846": 34,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 33,
+      "gas:candidate-vibid:1001000289716": 28,
+      "gas:candidate-vibid:1001000190345": 29,
+      "gas:candidate-vibid:337300170799": 16,
+      "gas:candidate-vibid:1001000225935": 133,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 7,
-      "Кузьмина Галина Андреевна": 12,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 21,
-      "Троеглазов Валерий Васильевич": 6,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 55,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 7,
+      "gas:candidate-vibid:1001000121846": 12,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 21,
+      "gas:candidate-vibid:1001000190345": 6,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 55,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 25,
-      "Кузьмина Галина Андреевна": 29,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 24,
-      "Троеглазов Валерий Васильевич": 29,
-      "Черкашов Владимир Викторович": 8,
-      "Яковлева Татьяна Владимировна": 109,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 25,
+      "gas:candidate-vibid:1001000121846": 29,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 24,
+      "gas:candidate-vibid:1001000190345": 29,
+      "gas:candidate-vibid:337300170799": 8,
+      "gas:candidate-vibid:1001000225935": 109,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 17,
-      "Кузьмина Галина Андреевна": 14,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 7,
-      "Троеглазов Валерий Васильевич": 10,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 71,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 17,
+      "gas:candidate-vibid:1001000121846": 14,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 7,
+      "gas:candidate-vibid:1001000190345": 10,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 71,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 4,
-      "Кузьмина Галина Андреевна": 5,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 17,
-      "Троеглазов Валерий Васильевич": 16,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 32,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 4,
+      "gas:candidate-vibid:1001000121846": 5,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 17,
+      "gas:candidate-vibid:1001000190345": 16,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 32,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 14,
-      "Кузьмина Галина Андреевна": 16,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 10,
-      "Троеглазов Валерий Васильевич": 7,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 39,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 14,
+      "gas:candidate-vibid:1001000121846": 16,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 10,
+      "gas:candidate-vibid:1001000190345": 7,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 39,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 3,
-      "Кузьмина Галина Андреевна": 21,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 19,
-      "Троеглазов Валерий Васильевич": 10,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 45,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 3,
+      "gas:candidate-vibid:1001000121846": 21,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 19,
+      "gas:candidate-vibid:1001000190345": 10,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 45,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 65,
-      "Кузьмина Галина Андреевна": 25,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 29,
-      "Троеглазов Валерий Васильевич": 22,
-      "Черкашов Владимир Викторович": 10,
-      "Яковлева Татьяна Владимировна": 74,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 65,
+      "gas:candidate-vibid:1001000121846": 25,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 29,
+      "gas:candidate-vibid:1001000190345": 22,
+      "gas:candidate-vibid:337300170799": 10,
+      "gas:candidate-vibid:1001000225935": 74,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 129,
-      "Кузьмина Галина Андреевна": 114,
-      "Курбанов Насиб Курбанович": 29,
-      "Павлов Виктор Валентинович": 34,
-      "Сироткин Сергей Никанорович": 74,
-      "Троеглазов Валерий Васильевич": 78,
-      "Черкашов Владимир Викторович": 40,
-      "Яковлева Татьяна Владимировна": 359,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 129,
+      "gas:candidate-vibid:1001000121846": 114,
+      "gas:candidate-vibid:1001000217922": 29,
+      "gas:candidate-vibid:337300170651": 34,
+      "gas:candidate-vibid:1001000289716": 74,
+      "gas:candidate-vibid:1001000190345": 78,
+      "gas:candidate-vibid:337300170799": 40,
+      "gas:candidate-vibid:1001000225935": 359,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 3,
-      "Кузьмина Галина Андреевна": 1,
-      "Курбанов Насиб Курбанович": 0,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 7,
-      "Троеглазов Валерий Васильевич": 3,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 40,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 3,
+      "gas:candidate-vibid:1001000121846": 1,
+      "gas:candidate-vibid:1001000217922": 0,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 7,
+      "gas:candidate-vibid:1001000190345": 3,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 40,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 5,
-      "Кузьмина Галина Андреевна": 83,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 9,
-      "Троеглазов Валерий Васильевич": 26,
-      "Черкашов Владимир Викторович": 12,
-      "Яковлева Татьяна Владимировна": 235,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 5,
+      "gas:candidate-vibid:1001000121846": 83,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 9,
+      "gas:candidate-vibid:1001000190345": 26,
+      "gas:candidate-vibid:337300170799": 12,
+      "gas:candidate-vibid:1001000225935": 235,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 6,
-      "Кузьмина Галина Андреевна": 11,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 15,
-      "Троеглазов Валерий Васильевич": 15,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 71,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 6,
+      "gas:candidate-vibid:1001000121846": 11,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 15,
+      "gas:candidate-vibid:1001000190345": 15,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 71,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 4,
-      "Кузьмина Галина Андреевна": 13,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 9,
-      "Троеглазов Валерий Васильевич": 15,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 51,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 4,
+      "gas:candidate-vibid:1001000121846": 13,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 9,
+      "gas:candidate-vibid:1001000190345": 15,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 51,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 21,
-      "Кузьмина Галина Андреевна": 32,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 20,
-      "Сироткин Сергей Никанорович": 47,
-      "Троеглазов Валерий Васильевич": 37,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 184,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 21,
+      "gas:candidate-vibid:1001000121846": 32,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 20,
+      "gas:candidate-vibid:1001000289716": 47,
+      "gas:candidate-vibid:1001000190345": 37,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 184,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 58,
-      "Кузьмина Галина Андреевна": 14,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 38,
-      "Троеглазов Валерий Васильевич": 26,
-      "Черкашов Владимир Викторович": 7,
-      "Яковлева Татьяна Владимировна": 121,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 58,
+      "gas:candidate-vibid:1001000121846": 14,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 38,
+      "gas:candidate-vibid:1001000190345": 26,
+      "gas:candidate-vibid:337300170799": 7,
+      "gas:candidate-vibid:1001000225935": 121,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 28,
-      "Кузьмина Галина Андреевна": 24,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 20,
-      "Сироткин Сергей Никанорович": 35,
-      "Троеглазов Валерий Васильевич": 43,
-      "Черкашов Владимир Викторович": 27,
-      "Яковлева Татьяна Владимировна": 109,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 28,
+      "gas:candidate-vibid:1001000121846": 24,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 20,
+      "gas:candidate-vibid:1001000289716": 35,
+      "gas:candidate-vibid:1001000190345": 43,
+      "gas:candidate-vibid:337300170799": 27,
+      "gas:candidate-vibid:1001000225935": 109,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 61,
-      "Кузьмина Галина Андреевна": 47,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 35,
-      "Сироткин Сергей Никанорович": 65,
-      "Троеглазов Валерий Васильевич": 42,
-      "Черкашов Владимир Викторович": 23,
-      "Яковлева Татьяна Владимировна": 256,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 61,
+      "gas:candidate-vibid:1001000121846": 47,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 35,
+      "gas:candidate-vibid:1001000289716": 65,
+      "gas:candidate-vibid:1001000190345": 42,
+      "gas:candidate-vibid:337300170799": 23,
+      "gas:candidate-vibid:1001000225935": 256,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 19,
-      "Колесов Сергей Геннадьевич": 79,
-      "Кузьмина Галина Андреевна": 58,
-      "Курбанов Насиб Курбанович": 45,
-      "Павлов Виктор Валентинович": 10,
-      "Сироткин Сергей Никанорович": 62,
-      "Троеглазов Валерий Васильевич": 60,
-      "Черкашов Владимир Викторович": 14,
-      "Яковлева Татьяна Владимировна": 366,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000202307": 19,
+      "gas:candidate-vibid:1001000113931": 79,
+      "gas:candidate-vibid:1001000121846": 58,
+      "gas:candidate-vibid:1001000217922": 45,
+      "gas:candidate-vibid:337300170651": 10,
+      "gas:candidate-vibid:1001000289716": 62,
+      "gas:candidate-vibid:1001000190345": 60,
+      "gas:candidate-vibid:337300170799": 14,
+      "gas:candidate-vibid:1001000225935": 366,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 100,
-      "Кузьмина Галина Андреевна": 52,
-      "Курбанов Насиб Курбанович": 48,
-      "Павлов Виктор Валентинович": 26,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 46,
-      "Черкашов Владимир Викторович": 17,
-      "Яковлева Татьяна Владимировна": 341,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 100,
+      "gas:candidate-vibid:1001000121846": 52,
+      "gas:candidate-vibid:1001000217922": 48,
+      "gas:candidate-vibid:337300170651": 26,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 46,
+      "gas:candidate-vibid:337300170799": 17,
+      "gas:candidate-vibid:1001000225935": 341,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 112,
-      "Кузьмина Галина Андреевна": 57,
-      "Курбанов Насиб Курбанович": 29,
-      "Павлов Виктор Валентинович": 11,
-      "Сироткин Сергей Никанорович": 94,
-      "Троеглазов Валерий Васильевич": 55,
-      "Черкашов Владимир Викторович": 7,
-      "Яковлева Татьяна Владимировна": 364,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 112,
+      "gas:candidate-vibid:1001000121846": 57,
+      "gas:candidate-vibid:1001000217922": 29,
+      "gas:candidate-vibid:337300170651": 11,
+      "gas:candidate-vibid:1001000289716": 94,
+      "gas:candidate-vibid:1001000190345": 55,
+      "gas:candidate-vibid:337300170799": 7,
+      "gas:candidate-vibid:1001000225935": 364,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 29,
-      "Кузьмина Галина Андреевна": 4,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 12,
-      "Троеглазов Валерий Васильевич": 11,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 68,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 29,
+      "gas:candidate-vibid:1001000121846": 4,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 12,
+      "gas:candidate-vibid:1001000190345": 11,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 68,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 74,
-      "Кузьмина Галина Андреевна": 61,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 16,
-      "Сироткин Сергей Никанорович": 38,
-      "Троеглазов Валерий Васильевич": 51,
-      "Черкашов Владимир Викторович": 11,
-      "Яковлева Татьяна Владимировна": 229,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 74,
+      "gas:candidate-vibid:1001000121846": 61,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 16,
+      "gas:candidate-vibid:1001000289716": 38,
+      "gas:candidate-vibid:1001000190345": 51,
+      "gas:candidate-vibid:337300170799": 11,
+      "gas:candidate-vibid:1001000225935": 229,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 60,
-      "Кузьмина Галина Андреевна": 16,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 8,
-      "Сироткин Сергей Никанорович": 26,
-      "Троеглазов Валерий Васильевич": 22,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 124,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 60,
+      "gas:candidate-vibid:1001000121846": 16,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 8,
+      "gas:candidate-vibid:1001000289716": 26,
+      "gas:candidate-vibid:1001000190345": 22,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 124,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 79,
-      "Кузьмина Галина Андреевна": 40,
-      "Курбанов Насиб Курбанович": 71,
-      "Павлов Виктор Валентинович": 38,
-      "Сироткин Сергей Никанорович": 31,
-      "Троеглазов Валерий Васильевич": 42,
-      "Черкашов Владимир Викторович": 29,
-      "Яковлева Татьяна Владимировна": 203,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 79,
+      "gas:candidate-vibid:1001000121846": 40,
+      "gas:candidate-vibid:1001000217922": 71,
+      "gas:candidate-vibid:337300170651": 38,
+      "gas:candidate-vibid:1001000289716": 31,
+      "gas:candidate-vibid:1001000190345": 42,
+      "gas:candidate-vibid:337300170799": 29,
+      "gas:candidate-vibid:1001000225935": 203,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 16,
-      "Кузьмина Галина Андреевна": 12,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 9,
-      "Троеглазов Валерий Васильевич": 9,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 43,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 16,
+      "gas:candidate-vibid:1001000121846": 12,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 9,
+      "gas:candidate-vibid:1001000190345": 9,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 43,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 13,
-      "Кузьмина Галина Андреевна": 23,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 8,
-      "Сироткин Сергей Никанорович": 28,
-      "Троеглазов Валерий Васильевич": 16,
-      "Черкашов Владимир Викторович": 12,
-      "Яковлева Татьяна Владимировна": 85,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 13,
+      "gas:candidate-vibid:1001000121846": 23,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 8,
+      "gas:candidate-vibid:1001000289716": 28,
+      "gas:candidate-vibid:1001000190345": 16,
+      "gas:candidate-vibid:337300170799": 12,
+      "gas:candidate-vibid:1001000225935": 85,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 15,
-      "Кузьмина Галина Андреевна": 25,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 6,
-      "Троеглазов Валерий Васильевич": 10,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 93,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 15,
+      "gas:candidate-vibid:1001000121846": 25,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 6,
+      "gas:candidate-vibid:1001000190345": 10,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 93,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 106,
-      "Кузьмина Галина Андреевна": 84,
-      "Курбанов Насиб Курбанович": 25,
-      "Павлов Виктор Валентинович": 63,
-      "Сироткин Сергей Никанорович": 87,
-      "Троеглазов Валерий Васильевич": 89,
-      "Черкашов Владимир Викторович": 31,
-      "Яковлева Татьяна Владимировна": 216,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 106,
+      "gas:candidate-vibid:1001000121846": 84,
+      "gas:candidate-vibid:1001000217922": 25,
+      "gas:candidate-vibid:337300170651": 63,
+      "gas:candidate-vibid:1001000289716": 87,
+      "gas:candidate-vibid:1001000190345": 89,
+      "gas:candidate-vibid:337300170799": 31,
+      "gas:candidate-vibid:1001000225935": 216,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070473&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 80,
-      "Кузьмина Галина Андреевна": 142,
-      "Курбанов Насиб Курбанович": 38,
-      "Павлов Виктор Валентинович": 31,
-      "Сироткин Сергей Никанорович": 109,
-      "Троеглазов Валерий Васильевич": 68,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 205,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 80,
+      "gas:candidate-vibid:1001000121846": 142,
+      "gas:candidate-vibid:1001000217922": 38,
+      "gas:candidate-vibid:337300170651": 31,
+      "gas:candidate-vibid:1001000289716": 109,
+      "gas:candidate-vibid:1001000190345": 68,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 205,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 0,
-      "Кузьмина Галина Андреевна": 3,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 6,
-      "Троеглазов Валерий Васильевич": 4,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 33,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 0,
+      "gas:candidate-vibid:1001000121846": 3,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 6,
+      "gas:candidate-vibid:1001000190345": 4,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 33,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 15,
-      "Кузьмина Галина Андреевна": 13,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 19,
-      "Троеглазов Валерий Васильевич": 21,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 168,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 15,
+      "gas:candidate-vibid:1001000121846": 13,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 19,
+      "gas:candidate-vibid:1001000190345": 21,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 168,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 16,
-      "Кузьмина Галина Андреевна": 25,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 14,
-      "Сироткин Сергей Никанорович": 16,
-      "Троеглазов Валерий Васильевич": 21,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 185,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 16,
+      "gas:candidate-vibid:1001000121846": 25,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 14,
+      "gas:candidate-vibid:1001000289716": 16,
+      "gas:candidate-vibid:1001000190345": 21,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 185,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 2,
-      "Кузьмина Галина Андреевна": 0,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 3,
-      "Троеглазов Валерий Васильевич": 0,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 68,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 2,
+      "gas:candidate-vibid:1001000121846": 0,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 3,
+      "gas:candidate-vibid:1001000190345": 0,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 68,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 26,
-      "Кузьмина Галина Андреевна": 45,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 9,
-      "Сироткин Сергей Никанорович": 32,
-      "Троеглазов Валерий Васильевич": 42,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 120,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 26,
+      "gas:candidate-vibid:1001000121846": 45,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 9,
+      "gas:candidate-vibid:1001000289716": 32,
+      "gas:candidate-vibid:1001000190345": 42,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 120,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 62,
-      "Кузьмина Галина Андреевна": 135,
-      "Курбанов Насиб Курбанович": 51,
-      "Павлов Виктор Валентинович": 64,
-      "Сироткин Сергей Никанорович": 69,
-      "Троеглазов Валерий Васильевич": 161,
-      "Черкашов Владимир Викторович": 10,
-      "Яковлева Татьяна Владимировна": 524,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 62,
+      "gas:candidate-vibid:1001000121846": 135,
+      "gas:candidate-vibid:1001000217922": 51,
+      "gas:candidate-vibid:337300170651": 64,
+      "gas:candidate-vibid:1001000289716": 69,
+      "gas:candidate-vibid:1001000190345": 161,
+      "gas:candidate-vibid:337300170799": 10,
+      "gas:candidate-vibid:1001000225935": 524,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 16,
-      "Кузьмина Галина Андреевна": 48,
-      "Курбанов Насиб Курбанович": 24,
-      "Павлов Виктор Валентинович": 15,
-      "Сироткин Сергей Никанорович": 44,
-      "Троеглазов Валерий Васильевич": 33,
-      "Черкашов Владимир Викторович": 20,
-      "Яковлева Татьяна Владимировна": 275,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 16,
+      "gas:candidate-vibid:1001000121846": 48,
+      "gas:candidate-vibid:1001000217922": 24,
+      "gas:candidate-vibid:337300170651": 15,
+      "gas:candidate-vibid:1001000289716": 44,
+      "gas:candidate-vibid:1001000190345": 33,
+      "gas:candidate-vibid:337300170799": 20,
+      "gas:candidate-vibid:1001000225935": 275,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 3,
-      "Кузьмина Галина Андреевна": 1,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 1,
-      "Троеглазов Валерий Васильевич": 2,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 24,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 3,
+      "gas:candidate-vibid:1001000121846": 1,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 1,
+      "gas:candidate-vibid:1001000190345": 2,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 24,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 7,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 7,
-      "Троеглазов Валерий Васильевич": 18,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 187,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 7,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 7,
+      "gas:candidate-vibid:1001000190345": 18,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 187,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 0,
-      "Кузьмина Галина Андреевна": 16,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 5,
-      "Троеглазов Валерий Васильевич": 6,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 63,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 0,
+      "gas:candidate-vibid:1001000121846": 16,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 5,
+      "gas:candidate-vibid:1001000190345": 6,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 63,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 10,
-      "Кузьмина Галина Андреевна": 8,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 18,
-      "Троеглазов Валерий Васильевич": 20,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 97,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 10,
+      "gas:candidate-vibid:1001000121846": 8,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 18,
+      "gas:candidate-vibid:1001000190345": 20,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 97,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 3,
-      "Кузьмина Галина Андреевна": 2,
-      "Курбанов Насиб Курбанович": 29,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 4,
-      "Троеглазов Валерий Васильевич": 6,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 82,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 3,
+      "gas:candidate-vibid:1001000121846": 2,
+      "gas:candidate-vibid:1001000217922": 29,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 4,
+      "gas:candidate-vibid:1001000190345": 6,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 82,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 6,
-      "Кузьмина Галина Андреевна": 1,
-      "Курбанов Насиб Курбанович": 1,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 0,
-      "Троеглазов Валерий Васильевич": 3,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 48,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 6,
+      "gas:candidate-vibid:1001000121846": 1,
+      "gas:candidate-vibid:1001000217922": 1,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 0,
+      "gas:candidate-vibid:1001000190345": 3,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 48,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 27,
-      "Кузьмина Галина Андреевна": 40,
-      "Курбанов Насиб Курбанович": 22,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 18,
-      "Троеглазов Валерий Васильевич": 70,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 109,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 27,
+      "gas:candidate-vibid:1001000121846": 40,
+      "gas:candidate-vibid:1001000217922": 22,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 18,
+      "gas:candidate-vibid:1001000190345": 70,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 109,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 11,
-      "Кузьмина Галина Андреевна": 12,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 5,
-      "Троеглазов Валерий Васильевич": 17,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 101,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 11,
+      "gas:candidate-vibid:1001000121846": 12,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 5,
+      "gas:candidate-vibid:1001000190345": 17,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 101,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 20,
-      "Кузьмина Галина Андреевна": 4,
-      "Курбанов Насиб Курбанович": 2,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 17,
-      "Троеглазов Валерий Васильевич": 40,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 159,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 20,
+      "gas:candidate-vibid:1001000121846": 4,
+      "gas:candidate-vibid:1001000217922": 2,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 17,
+      "gas:candidate-vibid:1001000190345": 40,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 159,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070475&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 55,
-      "Кузьмина Галина Андреевна": 122,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 21,
-      "Сироткин Сергей Никанорович": 130,
-      "Троеглазов Валерий Васильевич": 95,
-      "Черкашов Владимир Викторович": 61,
-      "Яковлева Татьяна Владимировна": 250,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 55,
+      "gas:candidate-vibid:1001000121846": 122,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 21,
+      "gas:candidate-vibid:1001000289716": 130,
+      "gas:candidate-vibid:1001000190345": 95,
+      "gas:candidate-vibid:337300170799": 61,
+      "gas:candidate-vibid:1001000225935": 250,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 94,
-      "Кузьмина Галина Андреевна": 148,
-      "Курбанов Насиб Курбанович": 33,
-      "Павлов Виктор Валентинович": 30,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 101,
-      "Черкашов Владимир Викторович": 45,
-      "Яковлева Татьяна Владимировна": 323,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 94,
+      "gas:candidate-vibid:1001000121846": 148,
+      "gas:candidate-vibid:1001000217922": 33,
+      "gas:candidate-vibid:337300170651": 30,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 101,
+      "gas:candidate-vibid:337300170799": 45,
+      "gas:candidate-vibid:1001000225935": 323,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 62,
-      "Кузьмина Галина Андреевна": 135,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 22,
-      "Сироткин Сергей Никанорович": 73,
-      "Троеглазов Валерий Васильевич": 57,
-      "Черкашов Владимир Викторович": 22,
-      "Яковлева Татьяна Владимировна": 265,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 62,
+      "gas:candidate-vibid:1001000121846": 135,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 22,
+      "gas:candidate-vibid:1001000289716": 73,
+      "gas:candidate-vibid:1001000190345": 57,
+      "gas:candidate-vibid:337300170799": 22,
+      "gas:candidate-vibid:1001000225935": 265,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 72,
-      "Кузьмина Галина Андреевна": 210,
-      "Курбанов Насиб Курбанович": 22,
-      "Павлов Виктор Валентинович": 70,
-      "Сироткин Сергей Никанорович": 149,
-      "Троеглазов Валерий Васильевич": 161,
-      "Черкашов Владимир Викторович": 59,
-      "Яковлева Татьяна Владимировна": 395,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 72,
+      "gas:candidate-vibid:1001000121846": 210,
+      "gas:candidate-vibid:1001000217922": 22,
+      "gas:candidate-vibid:337300170651": 70,
+      "gas:candidate-vibid:1001000289716": 149,
+      "gas:candidate-vibid:1001000190345": 161,
+      "gas:candidate-vibid:337300170799": 59,
+      "gas:candidate-vibid:1001000225935": 395,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 53,
-      "Кузьмина Галина Андреевна": 61,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 15,
-      "Сироткин Сергей Никанорович": 48,
-      "Троеглазов Валерий Васильевич": 48,
-      "Черкашов Владимир Викторович": 13,
-      "Яковлева Татьяна Владимировна": 175,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 53,
+      "gas:candidate-vibid:1001000121846": 61,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 15,
+      "gas:candidate-vibid:1001000289716": 48,
+      "gas:candidate-vibid:1001000190345": 48,
+      "gas:candidate-vibid:337300170799": 13,
+      "gas:candidate-vibid:1001000225935": 175,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 71,
-      "Кузьмина Галина Андреевна": 103,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 11,
-      "Сироткин Сергей Никанорович": 89,
-      "Троеглазов Валерий Васильевич": 59,
-      "Черкашов Владимир Викторович": 19,
-      "Яковлева Татьяна Владимировна": 218,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 71,
+      "gas:candidate-vibid:1001000121846": 103,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 11,
+      "gas:candidate-vibid:1001000289716": 89,
+      "gas:candidate-vibid:1001000190345": 59,
+      "gas:candidate-vibid:337300170799": 19,
+      "gas:candidate-vibid:1001000225935": 218,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 13,
-      "Кузьмина Галина Андреевна": 20,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 12,
-      "Троеглазов Валерий Васильевич": 19,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 61,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 13,
+      "gas:candidate-vibid:1001000121846": 20,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 12,
+      "gas:candidate-vibid:1001000190345": 19,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 61,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 19,
-      "Кузьмина Галина Андреевна": 38,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 25,
-      "Троеглазов Валерий Васильевич": 31,
-      "Черкашов Владимир Викторович": 18,
-      "Яковлева Татьяна Владимировна": 103,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 19,
+      "gas:candidate-vibid:1001000121846": 38,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 25,
+      "gas:candidate-vibid:1001000190345": 31,
+      "gas:candidate-vibid:337300170799": 18,
+      "gas:candidate-vibid:1001000225935": 103,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 2,
-      "Кузьмина Галина Андреевна": 10,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 9,
-      "Троеглазов Валерий Васильевич": 21,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 56,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 2,
+      "gas:candidate-vibid:1001000121846": 10,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 9,
+      "gas:candidate-vibid:1001000190345": 21,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 56,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 26,
-      "Кузьмина Галина Андреевна": 9,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 5,
-      "Троеглазов Валерий Васильевич": 10,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 131,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 26,
+      "gas:candidate-vibid:1001000121846": 9,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 5,
+      "gas:candidate-vibid:1001000190345": 10,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 131,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 4,
-      "Кузьмина Галина Андреевна": 12,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 13,
-      "Троеглазов Валерий Васильевич": 9,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 48,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 4,
+      "gas:candidate-vibid:1001000121846": 12,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 13,
+      "gas:candidate-vibid:1001000190345": 9,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 48,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 22,
-      "Курбанов Насиб Курбанович": 32,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 16,
-      "Троеглазов Валерий Васильевич": 16,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 87,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 22,
+      "gas:candidate-vibid:1001000217922": 32,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 16,
+      "gas:candidate-vibid:1001000190345": 16,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 87,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 38,
-      "Кузьмина Галина Андреевна": 29,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 14,
-      "Троеглазов Валерий Васильевич": 25,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 75,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 38,
+      "gas:candidate-vibid:1001000121846": 29,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 14,
+      "gas:candidate-vibid:1001000190345": 25,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 75,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 57,
-      "Кузьмина Галина Андреевна": 79,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 18,
-      "Сироткин Сергей Никанорович": 42,
-      "Троеглазов Валерий Васильевич": 68,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 244,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 57,
+      "gas:candidate-vibid:1001000121846": 79,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 18,
+      "gas:candidate-vibid:1001000289716": 42,
+      "gas:candidate-vibid:1001000190345": 68,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 244,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 34,
-      "Кузьмина Галина Андреевна": 126,
-      "Курбанов Насиб Курбанович": 18,
-      "Павлов Виктор Валентинович": 13,
-      "Сироткин Сергей Никанорович": 48,
-      "Троеглазов Валерий Васильевич": 120,
-      "Черкашов Владимир Викторович": 9,
-      "Яковлева Татьяна Владимировна": 198,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 34,
+      "gas:candidate-vibid:1001000121846": 126,
+      "gas:candidate-vibid:1001000217922": 18,
+      "gas:candidate-vibid:337300170651": 13,
+      "gas:candidate-vibid:1001000289716": 48,
+      "gas:candidate-vibid:1001000190345": 120,
+      "gas:candidate-vibid:337300170799": 9,
+      "gas:candidate-vibid:1001000225935": 198,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 21,
-      "Кузьмина Галина Андреевна": 1,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 7,
-      "Троеглазов Валерий Васильевич": 17,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 19,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 21,
+      "gas:candidate-vibid:1001000121846": 1,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 7,
+      "gas:candidate-vibid:1001000190345": 17,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 19,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 21,
-      "Кузьмина Галина Андреевна": 40,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 36,
-      "Троеглазов Валерий Васильевич": 94,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 74,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 21,
+      "gas:candidate-vibid:1001000121846": 40,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 36,
+      "gas:candidate-vibid:1001000190345": 94,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 74,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 37,
-      "Кузьмина Галина Андреевна": 125,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 21,
-      "Сироткин Сергей Никанорович": 47,
-      "Троеглазов Валерий Васильевич": 56,
-      "Черкашов Владимир Викторович": 7,
-      "Яковлева Татьяна Владимировна": 202,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 37,
+      "gas:candidate-vibid:1001000121846": 125,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 21,
+      "gas:candidate-vibid:1001000289716": 47,
+      "gas:candidate-vibid:1001000190345": 56,
+      "gas:candidate-vibid:337300170799": 7,
+      "gas:candidate-vibid:1001000225935": 202,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 60,
-      "Кузьмина Галина Андреевна": 111,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 40,
-      "Сироткин Сергей Никанорович": 48,
-      "Троеглазов Валерий Васильевич": 44,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 190,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 60,
+      "gas:candidate-vibid:1001000121846": 111,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 40,
+      "gas:candidate-vibid:1001000289716": 48,
+      "gas:candidate-vibid:1001000190345": 44,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 190,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 17,
-      "Кузьмина Галина Андреевна": 31,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 11,
-      "Троеглазов Валерий Васильевич": 12,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 56,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 17,
+      "gas:candidate-vibid:1001000121846": 31,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 11,
+      "gas:candidate-vibid:1001000190345": 12,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 56,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 46,
-      "Кузьмина Галина Андреевна": 58,
-      "Курбанов Насиб Курбанович": 24,
-      "Павлов Виктор Валентинович": 31,
-      "Сироткин Сергей Никанорович": 41,
-      "Троеглазов Валерий Васильевич": 39,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 144,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 46,
+      "gas:candidate-vibid:1001000121846": 58,
+      "gas:candidate-vibid:1001000217922": 24,
+      "gas:candidate-vibid:337300170651": 31,
+      "gas:candidate-vibid:1001000289716": 41,
+      "gas:candidate-vibid:1001000190345": 39,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 144,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 1,
-      "Кузьмина Галина Андреевна": 19,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 0,
-      "Троеглазов Валерий Васильевич": 3,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 21,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 1,
+      "gas:candidate-vibid:1001000121846": 19,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 0,
+      "gas:candidate-vibid:1001000190345": 3,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 21,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 7,
-      "Кузьмина Галина Андреевна": 17,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 17,
-      "Троеглазов Валерий Васильевич": 20,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 37,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 7,
+      "gas:candidate-vibid:1001000121846": 17,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 17,
+      "gas:candidate-vibid:1001000190345": 20,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 37,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 16,
-      "Кузьмина Галина Андреевна": 20,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 5,
-      "Сироткин Сергей Никанорович": 29,
-      "Троеглазов Валерий Васильевич": 34,
-      "Черкашов Владимир Викторович": 3,
-      "Яковлева Татьяна Владимировна": 65,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 16,
+      "gas:candidate-vibid:1001000121846": 20,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 5,
+      "gas:candidate-vibid:1001000289716": 29,
+      "gas:candidate-vibid:1001000190345": 34,
+      "gas:candidate-vibid:337300170799": 3,
+      "gas:candidate-vibid:1001000225935": 65,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 21,
-      "Кузьмина Галина Андреевна": 7,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 12,
-      "Троеглазов Валерий Васильевич": 15,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 33,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 21,
+      "gas:candidate-vibid:1001000121846": 7,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 12,
+      "gas:candidate-vibid:1001000190345": 15,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 33,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070477&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 102,
-      "Кузьмина Галина Андреевна": 56,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 23,
-      "Сироткин Сергей Никанорович": 105,
-      "Троеглазов Валерий Васильевич": 96,
-      "Черкашов Владимир Викторович": 36,
-      "Яковлева Татьяна Владимировна": 320,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 102,
+      "gas:candidate-vibid:1001000121846": 56,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 23,
+      "gas:candidate-vibid:1001000289716": 105,
+      "gas:candidate-vibid:1001000190345": 96,
+      "gas:candidate-vibid:337300170799": 36,
+      "gas:candidate-vibid:1001000225935": 320,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 40,
-      "Кузьмина Галина Андреевна": 62,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 15,
-      "Сироткин Сергей Никанорович": 43,
-      "Троеглазов Валерий Васильевич": 39,
-      "Черкашов Владимир Викторович": 30,
-      "Яковлева Татьяна Владимировна": 173,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 40,
+      "gas:candidate-vibid:1001000121846": 62,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 15,
+      "gas:candidate-vibid:1001000289716": 43,
+      "gas:candidate-vibid:1001000190345": 39,
+      "gas:candidate-vibid:337300170799": 30,
+      "gas:candidate-vibid:1001000225935": 173,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 51,
-      "Кузьмина Галина Андреевна": 71,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 24,
-      "Сироткин Сергей Никанорович": 88,
-      "Троеглазов Валерий Васильевич": 56,
-      "Черкашов Владимир Викторович": 28,
-      "Яковлева Татьяна Владимировна": 229,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 51,
+      "gas:candidate-vibid:1001000121846": 71,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 24,
+      "gas:candidate-vibid:1001000289716": 88,
+      "gas:candidate-vibid:1001000190345": 56,
+      "gas:candidate-vibid:337300170799": 28,
+      "gas:candidate-vibid:1001000225935": 229,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 63,
-      "Кузьмина Галина Андреевна": 32,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 13,
-      "Сироткин Сергей Никанорович": 44,
-      "Троеглазов Валерий Васильевич": 49,
-      "Черкашов Владимир Викторович": 22,
-      "Яковлева Татьяна Владимировна": 141,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 63,
+      "gas:candidate-vibid:1001000121846": 32,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 13,
+      "gas:candidate-vibid:1001000289716": 44,
+      "gas:candidate-vibid:1001000190345": 49,
+      "gas:candidate-vibid:337300170799": 22,
+      "gas:candidate-vibid:1001000225935": 141,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 85,
-      "Кузьмина Галина Андреевна": 67,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 28,
-      "Сироткин Сергей Никанорович": 87,
-      "Троеглазов Валерий Васильевич": 101,
-      "Черкашов Владимир Викторович": 25,
-      "Яковлева Татьяна Владимировна": 258,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 85,
+      "gas:candidate-vibid:1001000121846": 67,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 28,
+      "gas:candidate-vibid:1001000289716": 87,
+      "gas:candidate-vibid:1001000190345": 101,
+      "gas:candidate-vibid:337300170799": 25,
+      "gas:candidate-vibid:1001000225935": 258,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 80,
-      "Кузьмина Галина Андреевна": 82,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 31,
-      "Сироткин Сергей Никанорович": 84,
-      "Троеглазов Валерий Васильевич": 89,
-      "Черкашов Владимир Викторович": 28,
-      "Яковлева Татьяна Владимировна": 234,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 80,
+      "gas:candidate-vibid:1001000121846": 82,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 31,
+      "gas:candidate-vibid:1001000289716": 84,
+      "gas:candidate-vibid:1001000190345": 89,
+      "gas:candidate-vibid:337300170799": 28,
+      "gas:candidate-vibid:1001000225935": 234,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 80,
-      "Кузьмина Галина Андреевна": 99,
-      "Курбанов Насиб Курбанович": 19,
-      "Павлов Виктор Валентинович": 46,
-      "Сироткин Сергей Никанорович": 86,
-      "Троеглазов Валерий Васильевич": 55,
-      "Черкашов Владимир Викторович": 32,
-      "Яковлева Татьяна Владимировна": 289,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 80,
+      "gas:candidate-vibid:1001000121846": 99,
+      "gas:candidate-vibid:1001000217922": 19,
+      "gas:candidate-vibid:337300170651": 46,
+      "gas:candidate-vibid:1001000289716": 86,
+      "gas:candidate-vibid:1001000190345": 55,
+      "gas:candidate-vibid:337300170799": 32,
+      "gas:candidate-vibid:1001000225935": 289,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 81,
-      "Кузьмина Галина Андреевна": 75,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 45,
-      "Сироткин Сергей Никанорович": 93,
-      "Троеглазов Валерий Васильевич": 61,
-      "Черкашов Владимир Викторович": 41,
-      "Яковлева Татьяна Владимировна": 286,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 81,
+      "gas:candidate-vibid:1001000121846": 75,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 45,
+      "gas:candidate-vibid:1001000289716": 93,
+      "gas:candidate-vibid:1001000190345": 61,
+      "gas:candidate-vibid:337300170799": 41,
+      "gas:candidate-vibid:1001000225935": 286,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 39,
-      "Кузьмина Галина Андреевна": 46,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 16,
-      "Сироткин Сергей Никанорович": 43,
-      "Троеглазов Валерий Васильевич": 35,
-      "Черкашов Владимир Викторович": 24,
-      "Яковлева Татьяна Владимировна": 157,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 39,
+      "gas:candidate-vibid:1001000121846": 46,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 16,
+      "gas:candidate-vibid:1001000289716": 43,
+      "gas:candidate-vibid:1001000190345": 35,
+      "gas:candidate-vibid:337300170799": 24,
+      "gas:candidate-vibid:1001000225935": 157,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 50,
-      "Кузьмина Галина Андреевна": 44,
-      "Курбанов Насиб Курбанович": 9,
-      "Павлов Виктор Валентинович": 18,
-      "Сироткин Сергей Никанорович": 40,
-      "Троеглазов Валерий Васильевич": 59,
-      "Черкашов Владимир Викторович": 22,
-      "Яковлева Татьяна Владимировна": 174,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 50,
+      "gas:candidate-vibid:1001000121846": 44,
+      "gas:candidate-vibid:1001000217922": 9,
+      "gas:candidate-vibid:337300170651": 18,
+      "gas:candidate-vibid:1001000289716": 40,
+      "gas:candidate-vibid:1001000190345": 59,
+      "gas:candidate-vibid:337300170799": 22,
+      "gas:candidate-vibid:1001000225935": 174,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 84,
-      "Кузьмина Галина Андреевна": 90,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 26,
-      "Сироткин Сергей Никанорович": 77,
-      "Троеглазов Валерий Васильевич": 88,
-      "Черкашов Владимир Викторович": 45,
-      "Яковлева Татьяна Владимировна": 312,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 84,
+      "gas:candidate-vibid:1001000121846": 90,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 26,
+      "gas:candidate-vibid:1001000289716": 77,
+      "gas:candidate-vibid:1001000190345": 88,
+      "gas:candidate-vibid:337300170799": 45,
+      "gas:candidate-vibid:1001000225935": 312,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 57,
-      "Кузьмина Галина Андреевна": 51,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 20,
-      "Сироткин Сергей Никанорович": 69,
-      "Троеглазов Валерий Васильевич": 60,
-      "Черкашов Владимир Викторович": 21,
-      "Яковлева Татьяна Владимировна": 215,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 57,
+      "gas:candidate-vibid:1001000121846": 51,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 20,
+      "gas:candidate-vibid:1001000289716": 69,
+      "gas:candidate-vibid:1001000190345": 60,
+      "gas:candidate-vibid:337300170799": 21,
+      "gas:candidate-vibid:1001000225935": 215,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 77,
-      "Кузьмина Галина Андреевна": 121,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 51,
-      "Сироткин Сергей Никанорович": 61,
-      "Троеглазов Валерий Васильевич": 77,
-      "Черкашов Владимир Викторович": 35,
-      "Яковлева Татьяна Владимировна": 317,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 77,
+      "gas:candidate-vibid:1001000121846": 121,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 51,
+      "gas:candidate-vibid:1001000289716": 61,
+      "gas:candidate-vibid:1001000190345": 77,
+      "gas:candidate-vibid:337300170799": 35,
+      "gas:candidate-vibid:1001000225935": 317,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 19,
-      "Кузьмина Галина Андреевна": 23,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 5,
-      "Сироткин Сергей Никанорович": 28,
-      "Троеглазов Валерий Васильевич": 19,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 139,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 19,
+      "gas:candidate-vibid:1001000121846": 23,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 5,
+      "gas:candidate-vibid:1001000289716": 28,
+      "gas:candidate-vibid:1001000190345": 19,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 139,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070479&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 36,
-      "Кузьмина Галина Андреевна": 201,
-      "Курбанов Насиб Курбанович": 64,
-      "Павлов Виктор Валентинович": 29,
-      "Сироткин Сергей Никанорович": 63,
-      "Троеглазов Валерий Васильевич": 53,
-      "Черкашов Владимир Викторович": 22,
-      "Яковлева Татьяна Владимировна": 158,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 36,
+      "gas:candidate-vibid:1001000121846": 201,
+      "gas:candidate-vibid:1001000217922": 64,
+      "gas:candidate-vibid:337300170651": 29,
+      "gas:candidate-vibid:1001000289716": 63,
+      "gas:candidate-vibid:1001000190345": 53,
+      "gas:candidate-vibid:337300170799": 22,
+      "gas:candidate-vibid:1001000225935": 158,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 14,
-      "Кузьмина Галина Андреевна": 46,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 11,
-      "Сироткин Сергей Никанорович": 27,
-      "Троеглазов Валерий Васильевич": 20,
-      "Черкашов Владимир Викторович": 7,
-      "Яковлева Татьяна Владимировна": 145,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 14,
+      "gas:candidate-vibid:1001000121846": 46,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 11,
+      "gas:candidate-vibid:1001000289716": 27,
+      "gas:candidate-vibid:1001000190345": 20,
+      "gas:candidate-vibid:337300170799": 7,
+      "gas:candidate-vibid:1001000225935": 145,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 49,
-      "Кузьмина Галина Андреевна": 53,
-      "Курбанов Насиб Курбанович": 22,
-      "Павлов Виктор Валентинович": 10,
-      "Сироткин Сергей Никанорович": 22,
-      "Троеглазов Валерий Васильевич": 13,
-      "Черкашов Владимир Викторович": 11,
-      "Яковлева Татьяна Владимировна": 197,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 49,
+      "gas:candidate-vibid:1001000121846": 53,
+      "gas:candidate-vibid:1001000217922": 22,
+      "gas:candidate-vibid:337300170651": 10,
+      "gas:candidate-vibid:1001000289716": 22,
+      "gas:candidate-vibid:1001000190345": 13,
+      "gas:candidate-vibid:337300170799": 11,
+      "gas:candidate-vibid:1001000225935": 197,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 18,
-      "Кузьмина Галина Андреевна": 50,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 15,
-      "Троеглазов Валерий Васильевич": 14,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 126,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 18,
+      "gas:candidate-vibid:1001000121846": 50,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 15,
+      "gas:candidate-vibid:1001000190345": 14,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 126,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 24,
-      "Кузьмина Галина Андреевна": 35,
-      "Курбанов Насиб Курбанович": 35,
-      "Павлов Виктор Валентинович": 5,
-      "Сироткин Сергей Никанорович": 36,
-      "Троеглазов Валерий Васильевич": 23,
-      "Черкашов Владимир Викторович": 9,
-      "Яковлева Татьяна Владимировна": 158,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 24,
+      "gas:candidate-vibid:1001000121846": 35,
+      "gas:candidate-vibid:1001000217922": 35,
+      "gas:candidate-vibid:337300170651": 5,
+      "gas:candidate-vibid:1001000289716": 36,
+      "gas:candidate-vibid:1001000190345": 23,
+      "gas:candidate-vibid:337300170799": 9,
+      "gas:candidate-vibid:1001000225935": 158,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 6,
-      "Кузьмина Галина Андреевна": 23,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 3,
-      "Троеглазов Валерий Васильевич": 11,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 24,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 6,
+      "gas:candidate-vibid:1001000121846": 23,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 3,
+      "gas:candidate-vibid:1001000190345": 11,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 24,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 14,
-      "Кузьмина Галина Андреевна": 36,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 12,
-      "Троеглазов Валерий Васильевич": 18,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 143,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 14,
+      "gas:candidate-vibid:1001000121846": 36,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 12,
+      "gas:candidate-vibid:1001000190345": 18,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 143,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 22,
-      "Кузьмина Галина Андреевна": 31,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 5,
-      "Сироткин Сергей Никанорович": 19,
-      "Троеглазов Валерий Васильевич": 17,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 66,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 22,
+      "gas:candidate-vibid:1001000121846": 31,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 5,
+      "gas:candidate-vibid:1001000289716": 19,
+      "gas:candidate-vibid:1001000190345": 17,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 66,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 20,
-      "Кузьмина Галина Андреевна": 79,
-      "Курбанов Насиб Курбанович": 38,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 14,
-      "Троеглазов Валерий Васильевич": 24,
-      "Черкашов Владимир Викторович": 6,
-      "Яковлева Татьяна Владимировна": 156,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 20,
+      "gas:candidate-vibid:1001000121846": 79,
+      "gas:candidate-vibid:1001000217922": 38,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 14,
+      "gas:candidate-vibid:1001000190345": 24,
+      "gas:candidate-vibid:337300170799": 6,
+      "gas:candidate-vibid:1001000225935": 156,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 33,
-      "Кузьмина Галина Андреевна": 43,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 9,
-      "Сироткин Сергей Никанорович": 25,
-      "Троеглазов Валерий Васильевич": 16,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 116,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 33,
+      "gas:candidate-vibid:1001000121846": 43,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 9,
+      "gas:candidate-vibid:1001000289716": 25,
+      "gas:candidate-vibid:1001000190345": 16,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 116,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 46,
-      "Кузьмина Галина Андреевна": 21,
-      "Курбанов Насиб Курбанович": 22,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 39,
-      "Троеглазов Валерий Васильевич": 16,
-      "Черкашов Владимир Викторович": 1,
-      "Яковлева Татьяна Владимировна": 107,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 46,
+      "gas:candidate-vibid:1001000121846": 21,
+      "gas:candidate-vibid:1001000217922": 22,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 39,
+      "gas:candidate-vibid:1001000190345": 16,
+      "gas:candidate-vibid:337300170799": 1,
+      "gas:candidate-vibid:1001000225935": 107,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 18,
-      "Кузьмина Галина Андреевна": 4,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 10,
-      "Троеглазов Валерий Васильевич": 3,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 69,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 18,
+      "gas:candidate-vibid:1001000121846": 4,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 10,
+      "gas:candidate-vibid:1001000190345": 3,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 69,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 2,
-      "Кузьмина Галина Андреевна": 6,
-      "Курбанов Насиб Курбанович": 35,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 5,
-      "Троеглазов Валерий Васильевич": 0,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 113,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 2,
+      "gas:candidate-vibid:1001000121846": 6,
+      "gas:candidate-vibid:1001000217922": 35,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 5,
+      "gas:candidate-vibid:1001000190345": 0,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 113,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 2,
-      "Кузьмина Галина Андреевна": 10,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 3,
-      "Троеглазов Валерий Васильевич": 1,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 52,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 2,
+      "gas:candidate-vibid:1001000121846": 10,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 3,
+      "gas:candidate-vibid:1001000190345": 1,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 52,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 5,
-      "Кузьмина Галина Андреевна": 11,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 10,
-      "Троеглазов Валерий Васильевич": 7,
-      "Черкашов Владимир Викторович": 4,
-      "Яковлева Татьяна Владимировна": 122,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 5,
+      "gas:candidate-vibid:1001000121846": 11,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 10,
+      "gas:candidate-vibid:1001000190345": 7,
+      "gas:candidate-vibid:337300170799": 4,
+      "gas:candidate-vibid:1001000225935": 122,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 9,
-      "Кузьмина Галина Андреевна": 21,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 2,
-      "Сироткин Сергей Никанорович": 20,
-      "Троеглазов Валерий Васильевич": 1,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 116,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 9,
+      "gas:candidate-vibid:1001000121846": 21,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 2,
+      "gas:candidate-vibid:1001000289716": 20,
+      "gas:candidate-vibid:1001000190345": 1,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 116,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 2,
-      "Кузьмина Галина Андреевна": 9,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 3,
-      "Троеглазов Валерий Васильевич": 4,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 116,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 2,
+      "gas:candidate-vibid:1001000121846": 9,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 3,
+      "gas:candidate-vibid:1001000190345": 4,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 116,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 14,
-      "Колесов Сергей Геннадьевич": 33,
-      "Кузьмина Галина Андреевна": 17,
-      "Курбанов Насиб Курбанович": 40,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 38,
-      "Троеглазов Валерий Васильевич": 34,
-      "Черкашов Владимир Викторович": 14,
-      "Яковлева Татьяна Владимировна": 211,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000202307": 14,
+      "gas:candidate-vibid:1001000113931": 33,
+      "gas:candidate-vibid:1001000121846": 17,
+      "gas:candidate-vibid:1001000217922": 40,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 38,
+      "gas:candidate-vibid:1001000190345": 34,
+      "gas:candidate-vibid:337300170799": 14,
+      "gas:candidate-vibid:1001000225935": 211,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 8,
-      "Кузьмина Галина Андреевна": 12,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 8,
-      "Троеглазов Валерий Васильевич": 14,
-      "Черкашов Владимир Викторович": 9,
-      "Яковлева Татьяна Владимировна": 54,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 8,
+      "gas:candidate-vibid:1001000121846": 12,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 8,
+      "gas:candidate-vibid:1001000190345": 14,
+      "gas:candidate-vibid:337300170799": 9,
+      "gas:candidate-vibid:1001000225935": 54,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 11,
-      "Кузьмина Галина Андреевна": 8,
-      "Курбанов Насиб Курбанович": 36,
-      "Павлов Виктор Валентинович": 1,
-      "Сироткин Сергей Никанорович": 6,
-      "Троеглазов Валерий Васильевич": 8,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 39,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 11,
+      "gas:candidate-vibid:1001000121846": 8,
+      "gas:candidate-vibid:1001000217922": 36,
+      "gas:candidate-vibid:337300170651": 1,
+      "gas:candidate-vibid:1001000289716": 6,
+      "gas:candidate-vibid:1001000190345": 8,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 39,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 4,
-      "Кузьмина Галина Андреевна": 9,
-      "Курбанов Насиб Курбанович": 3,
-      "Павлов Виктор Валентинович": 0,
-      "Сироткин Сергей Никанорович": 3,
-      "Троеглазов Валерий Васильевич": 0,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 45,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 4,
+      "gas:candidate-vibid:1001000121846": 9,
+      "gas:candidate-vibid:1001000217922": 3,
+      "gas:candidate-vibid:337300170651": 0,
+      "gas:candidate-vibid:1001000289716": 3,
+      "gas:candidate-vibid:1001000190345": 0,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 45,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 17,
-      "Кузьмина Галина Андреевна": 9,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 3,
-      "Сироткин Сергей Никанорович": 16,
-      "Троеглазов Валерий Васильевич": 1,
-      "Черкашов Владимир Викторович": 0,
-      "Яковлева Татьяна Владимировна": 114,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 17,
+      "gas:candidate-vibid:1001000121846": 9,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 3,
+      "gas:candidate-vibid:1001000289716": 16,
+      "gas:candidate-vibid:1001000190345": 1,
+      "gas:candidate-vibid:337300170799": 0,
+      "gas:candidate-vibid:1001000225935": 114,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 9,
-      "Кузьмина Галина Андреевна": 13,
-      "Курбанов Насиб Курбанович": 116,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 18,
-      "Троеглазов Валерий Васильевич": 1,
-      "Черкашов Владимир Викторович": 2,
-      "Яковлева Татьяна Владимировна": 77,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 9,
+      "gas:candidate-vibid:1001000121846": 13,
+      "gas:candidate-vibid:1001000217922": 116,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 18,
+      "gas:candidate-vibid:1001000190345": 1,
+      "gas:candidate-vibid:337300170799": 2,
+      "gas:candidate-vibid:1001000225935": 77,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 14,
-      "Кузьмина Галина Андреевна": 45,
-      "Курбанов Насиб Курбанович": 77,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 39,
-      "Троеглазов Валерий Васильевич": 27,
-      "Черкашов Владимир Викторович": 10,
-      "Яковлева Татьяна Владимировна": 135,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 14,
+      "gas:candidate-vibid:1001000121846": 45,
+      "gas:candidate-vibid:1001000217922": 77,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 39,
+      "gas:candidate-vibid:1001000190345": 27,
+      "gas:candidate-vibid:337300170799": 10,
+      "gas:candidate-vibid:1001000225935": 135,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070481&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 28,
-      "Кузьмина Галина Андреевна": 88,
-      "Курбанов Насиб Курбанович": 55,
-      "Павлов Виктор Валентинович": 15,
-      "Сироткин Сергей Никанорович": 74,
-      "Троеглазов Валерий Васильевич": 66,
-      "Черкашов Владимир Викторович": 18,
-      "Яковлева Татьяна Владимировна": 279,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 28,
+      "gas:candidate-vibid:1001000121846": 88,
+      "gas:candidate-vibid:1001000217922": 55,
+      "gas:candidate-vibid:337300170651": 15,
+      "gas:candidate-vibid:1001000289716": 74,
+      "gas:candidate-vibid:1001000190345": 66,
+      "gas:candidate-vibid:337300170799": 18,
+      "gas:candidate-vibid:1001000225935": 279,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 28,
-      "Кузьмина Галина Андреевна": 63,
-      "Курбанов Насиб Курбанович": 49,
-      "Павлов Виктор Валентинович": 8,
-      "Сироткин Сергей Никанорович": 44,
-      "Троеглазов Валерий Васильевич": 51,
-      "Черкашов Владимир Викторович": 16,
-      "Яковлева Татьяна Владимировна": 262,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 28,
+      "gas:candidate-vibid:1001000121846": 63,
+      "gas:candidate-vibid:1001000217922": 49,
+      "gas:candidate-vibid:337300170651": 8,
+      "gas:candidate-vibid:1001000289716": 44,
+      "gas:candidate-vibid:1001000190345": 51,
+      "gas:candidate-vibid:337300170799": 16,
+      "gas:candidate-vibid:1001000225935": 262,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 0,
-      "Колесов Сергей Геннадьевич": 40,
-      "Кузьмина Галина Андреевна": 34,
-      "Курбанов Насиб Курбанович": 19,
-      "Павлов Виктор Валентинович": 6,
-      "Сироткин Сергей Никанорович": 39,
-      "Троеглазов Валерий Васильевич": 48,
-      "Черкашов Владимир Викторович": 5,
-      "Яковлева Татьяна Владимировна": 143,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202307": 0,
+      "gas:candidate-vibid:1001000113931": 40,
+      "gas:candidate-vibid:1001000121846": 34,
+      "gas:candidate-vibid:1001000217922": 19,
+      "gas:candidate-vibid:337300170651": 6,
+      "gas:candidate-vibid:1001000289716": 39,
+      "gas:candidate-vibid:1001000190345": 48,
+      "gas:candidate-vibid:337300170799": 5,
+      "gas:candidate-vibid:1001000225935": 143,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 49,
-      "Кузьмина Галина Андреевна": 96,
-      "Курбанов Насиб Курбанович": 81,
-      "Павлов Виктор Валентинович": 8,
-      "Сироткин Сергей Никанорович": 67,
-      "Троеглазов Валерий Васильевич": 85,
-      "Черкашов Владимир Викторович": 26,
-      "Яковлева Татьяна Владимировна": 262,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 49,
+      "gas:candidate-vibid:1001000121846": 96,
+      "gas:candidate-vibid:1001000217922": 81,
+      "gas:candidate-vibid:337300170651": 8,
+      "gas:candidate-vibid:1001000289716": 67,
+      "gas:candidate-vibid:1001000190345": 85,
+      "gas:candidate-vibid:337300170799": 26,
+      "gas:candidate-vibid:1001000225935": 262,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 1,
-      "Колесов Сергей Геннадьевич": 25,
-      "Кузьмина Галина Андреевна": 93,
-      "Курбанов Насиб Курбанович": 62,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 48,
-      "Троеглазов Валерий Васильевич": 54,
-      "Черкашов Владимир Викторович": 15,
-      "Яковлева Татьяна Владимировна": 224,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000202307": 1,
+      "gas:candidate-vibid:1001000113931": 25,
+      "gas:candidate-vibid:1001000121846": 93,
+      "gas:candidate-vibid:1001000217922": 62,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 48,
+      "gas:candidate-vibid:1001000190345": 54,
+      "gas:candidate-vibid:337300170799": 15,
+      "gas:candidate-vibid:1001000225935": 224,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 78,
-      "Кузьмина Галина Андреевна": 147,
-      "Курбанов Насиб Курбанович": 87,
-      "Павлов Виктор Валентинович": 12,
-      "Сироткин Сергей Никанорович": 77,
-      "Троеглазов Валерий Васильевич": 65,
-      "Черкашов Владимир Викторович": 27,
-      "Яковлева Татьяна Владимировна": 225,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 78,
+      "gas:candidate-vibid:1001000121846": 147,
+      "gas:candidate-vibid:1001000217922": 87,
+      "gas:candidate-vibid:337300170651": 12,
+      "gas:candidate-vibid:1001000289716": 77,
+      "gas:candidate-vibid:1001000190345": 65,
+      "gas:candidate-vibid:337300170799": 27,
+      "gas:candidate-vibid:1001000225935": 225,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 37,
-      "Кузьмина Галина Андреевна": 131,
-      "Курбанов Насиб Курбанович": 94,
-      "Павлов Виктор Валентинович": 19,
-      "Сироткин Сергей Никанорович": 82,
-      "Троеглазов Валерий Васильевич": 90,
-      "Черкашов Владимир Викторович": 15,
-      "Яковлева Татьяна Владимировна": 223,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 37,
+      "gas:candidate-vibid:1001000121846": 131,
+      "gas:candidate-vibid:1001000217922": 94,
+      "gas:candidate-vibid:337300170651": 19,
+      "gas:candidate-vibid:1001000289716": 82,
+      "gas:candidate-vibid:1001000190345": 90,
+      "gas:candidate-vibid:337300170799": 15,
+      "gas:candidate-vibid:1001000225935": 223,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 34,
-      "Кузьмина Галина Андреевна": 122,
-      "Курбанов Насиб Курбанович": 134,
-      "Павлов Виктор Валентинович": 7,
-      "Сироткин Сергей Никанорович": 51,
-      "Троеглазов Валерий Васильевич": 65,
-      "Черкашов Владимир Викторович": 18,
-      "Яковлева Татьяна Владимировна": 213,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 34,
+      "gas:candidate-vibid:1001000121846": 122,
+      "gas:candidate-vibid:1001000217922": 134,
+      "gas:candidate-vibid:337300170651": 7,
+      "gas:candidate-vibid:1001000289716": 51,
+      "gas:candidate-vibid:1001000190345": 65,
+      "gas:candidate-vibid:337300170799": 18,
+      "gas:candidate-vibid:1001000225935": 213,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 26,
-      "Колесов Сергей Геннадьевич": 81,
-      "Кузьмина Галина Андреевна": 146,
-      "Курбанов Насиб Курбанович": 99,
-      "Павлов Виктор Валентинович": 35,
-      "Сироткин Сергей Никанорович": 188,
-      "Троеглазов Валерий Васильевич": 92,
-      "Черкашов Владимир Викторович": 41,
-      "Яковлева Татьяна Владимировна": 545,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000202307": 26,
+      "gas:candidate-vibid:1001000113931": 81,
+      "gas:candidate-vibid:1001000121846": 146,
+      "gas:candidate-vibid:1001000217922": 99,
+      "gas:candidate-vibid:337300170651": 35,
+      "gas:candidate-vibid:1001000289716": 188,
+      "gas:candidate-vibid:1001000190345": 92,
+      "gas:candidate-vibid:337300170799": 41,
+      "gas:candidate-vibid:1001000225935": 545,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 19,
-      "Колесов Сергей Геннадьевич": 73,
-      "Кузьмина Галина Андреевна": 150,
-      "Курбанов Насиб Курбанович": 129,
-      "Павлов Виктор Валентинович": 60,
-      "Сироткин Сергей Никанорович": 223,
-      "Троеглазов Валерий Васильевич": 66,
-      "Черкашов Владимир Викторович": 41,
-      "Яковлева Татьяна Владимировна": 521,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000202307": 19,
+      "gas:candidate-vibid:1001000113931": 73,
+      "gas:candidate-vibid:1001000121846": 150,
+      "gas:candidate-vibid:1001000217922": 129,
+      "gas:candidate-vibid:337300170651": 60,
+      "gas:candidate-vibid:1001000289716": 223,
+      "gas:candidate-vibid:1001000190345": 66,
+      "gas:candidate-vibid:337300170799": 41,
+      "gas:candidate-vibid:1001000225935": 521,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 48,
-      "Колесов Сергей Геннадьевич": 104,
-      "Кузьмина Галина Андреевна": 161,
-      "Курбанов Насиб Курбанович": 125,
-      "Павлов Виктор Валентинович": 44,
-      "Сироткин Сергей Никанорович": 210,
-      "Троеглазов Валерий Васильевич": 109,
-      "Черкашов Владимир Викторович": 36,
-      "Яковлева Татьяна Владимировна": 516,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000202307": 48,
+      "gas:candidate-vibid:1001000113931": 104,
+      "gas:candidate-vibid:1001000121846": 161,
+      "gas:candidate-vibid:1001000217922": 125,
+      "gas:candidate-vibid:337300170651": 44,
+      "gas:candidate-vibid:1001000289716": 210,
+      "gas:candidate-vibid:1001000190345": 109,
+      "gas:candidate-vibid:337300170799": 36,
+      "gas:candidate-vibid:1001000225935": 516,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 26,
-      "Колесов Сергей Геннадьевич": 105,
-      "Кузьмина Галина Андреевна": 156,
-      "Курбанов Насиб Курбанович": 141,
-      "Павлов Виктор Валентинович": 50,
-      "Сироткин Сергей Никанорович": 207,
-      "Троеглазов Валерий Васильевич": 111,
-      "Черкашов Владимир Викторович": 40,
-      "Яковлева Татьяна Владимировна": 503,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000202307": 26,
+      "gas:candidate-vibid:1001000113931": 105,
+      "gas:candidate-vibid:1001000121846": 156,
+      "gas:candidate-vibid:1001000217922": 141,
+      "gas:candidate-vibid:337300170651": 50,
+      "gas:candidate-vibid:1001000289716": 207,
+      "gas:candidate-vibid:1001000190345": 111,
+      "gas:candidate-vibid:337300170799": 40,
+      "gas:candidate-vibid:1001000225935": 503,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 3,
-      "Колесов Сергей Геннадьевич": 76,
-      "Кузьмина Галина Андреевна": 227,
-      "Курбанов Насиб Курбанович": 98,
-      "Павлов Виктор Валентинович": 19,
-      "Сироткин Сергей Никанорович": 70,
-      "Троеглазов Валерий Васильевич": 92,
-      "Черкашов Владимир Викторович": 26,
-      "Яковлева Татьяна Владимировна": 372,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000202307": 3,
+      "gas:candidate-vibid:1001000113931": 76,
+      "gas:candidate-vibid:1001000121846": 227,
+      "gas:candidate-vibid:1001000217922": 98,
+      "gas:candidate-vibid:337300170651": 19,
+      "gas:candidate-vibid:1001000289716": 70,
+      "gas:candidate-vibid:1001000190345": 92,
+      "gas:candidate-vibid:337300170799": 26,
+      "gas:candidate-vibid:1001000225935": 372,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 40,
-      "Кузьмина Галина Андреевна": 66,
-      "Курбанов Насиб Курбанович": 43,
-      "Павлов Виктор Валентинович": 4,
-      "Сироткин Сергей Никанорович": 29,
-      "Троеглазов Валерий Васильевич": 16,
-      "Черкашов Владимир Викторович": 11,
-      "Яковлева Татьяна Владимировна": 167,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 40,
+      "gas:candidate-vibid:1001000121846": 66,
+      "gas:candidate-vibid:1001000217922": 43,
+      "gas:candidate-vibid:337300170651": 4,
+      "gas:candidate-vibid:1001000289716": 29,
+      "gas:candidate-vibid:1001000190345": 16,
+      "gas:candidate-vibid:337300170799": 11,
+      "gas:candidate-vibid:1001000225935": 167,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 74,
-      "Кузьмина Галина Андреевна": 182,
-      "Курбанов Насиб Курбанович": 75,
-      "Павлов Виктор Валентинович": 14,
-      "Сироткин Сергей Никанорович": 82,
-      "Троеглазов Валерий Васильевич": 77,
-      "Черкашов Владимир Викторович": 29,
-      "Яковлева Татьяна Владимировна": 315,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 74,
+      "gas:candidate-vibid:1001000121846": 182,
+      "gas:candidate-vibid:1001000217922": 75,
+      "gas:candidate-vibid:337300170651": 14,
+      "gas:candidate-vibid:1001000289716": 82,
+      "gas:candidate-vibid:1001000190345": 77,
+      "gas:candidate-vibid:337300170799": 29,
+      "gas:candidate-vibid:1001000225935": 315,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 69,
-      "Кузьмина Галина Андреевна": 121,
-      "Курбанов Насиб Курбанович": 75,
-      "Павлов Виктор Валентинович": 10,
-      "Сироткин Сергей Никанорович": 100,
-      "Троеглазов Валерий Васильевич": 79,
-      "Черкашов Владимир Викторович": 26,
-      "Яковлева Татьяна Владимировна": 291,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 69,
+      "gas:candidate-vibid:1001000121846": 121,
+      "gas:candidate-vibid:1001000217922": 75,
+      "gas:candidate-vibid:337300170651": 10,
+      "gas:candidate-vibid:1001000289716": 100,
+      "gas:candidate-vibid:1001000190345": 79,
+      "gas:candidate-vibid:337300170799": 26,
+      "gas:candidate-vibid:1001000225935": 291,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 11,
-      "Кузьмина Галина Андреевна": 35,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 8,
-      "Сироткин Сергей Никанорович": 33,
-      "Троеглазов Валерий Васильевич": 39,
-      "Черкашов Владимир Викторович": 7,
-      "Яковлева Татьяна Владимировна": 128,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 11,
+      "gas:candidate-vibid:1001000121846": 35,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 8,
+      "gas:candidate-vibid:1001000289716": 33,
+      "gas:candidate-vibid:1001000190345": 39,
+      "gas:candidate-vibid:337300170799": 7,
+      "gas:candidate-vibid:1001000225935": 128,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070483&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 71,
-      "Кузьмина Галина Андреевна": 76,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 30,
-      "Сироткин Сергей Никанорович": 24,
-      "Троеглазов Валерий Васильевич": 58,
-      "Черкашов Владимир Викторович": 13,
-      "Яковлева Татьяна Владимировна": 156,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 71,
+      "gas:candidate-vibid:1001000121846": 76,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 30,
+      "gas:candidate-vibid:1001000289716": 24,
+      "gas:candidate-vibid:1001000190345": 58,
+      "gas:candidate-vibid:337300170799": 13,
+      "gas:candidate-vibid:1001000225935": 156,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 75,
-      "Кузьмина Галина Андреевна": 80,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 37,
-      "Сироткин Сергей Никанорович": 27,
-      "Троеглазов Валерий Васильевич": 41,
-      "Черкашов Владимир Викторович": 13,
-      "Яковлева Татьяна Владимировна": 237,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 75,
+      "gas:candidate-vibid:1001000121846": 80,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 37,
+      "gas:candidate-vibid:1001000289716": 27,
+      "gas:candidate-vibid:1001000190345": 41,
+      "gas:candidate-vibid:337300170799": 13,
+      "gas:candidate-vibid:1001000225935": 237,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 67,
-      "Кузьмина Галина Андреевна": 69,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 43,
-      "Сироткин Сергей Никанорович": 34,
-      "Троеглазов Валерий Васильевич": 57,
-      "Черкашов Владимир Викторович": 11,
-      "Яковлева Татьяна Владимировна": 167,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 67,
+      "gas:candidate-vibid:1001000121846": 69,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 43,
+      "gas:candidate-vibid:1001000289716": 34,
+      "gas:candidate-vibid:1001000190345": 57,
+      "gas:candidate-vibid:337300170799": 11,
+      "gas:candidate-vibid:1001000225935": 167,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 106,
-      "Кузьмина Галина Андреевна": 203,
-      "Курбанов Насиб Курбанович": 18,
-      "Павлов Виктор Валентинович": 80,
-      "Сироткин Сергей Никанорович": 86,
-      "Троеглазов Валерий Васильевич": 134,
-      "Черкашов Владимир Викторович": 48,
-      "Яковлева Татьяна Владимировна": 322,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 106,
+      "gas:candidate-vibid:1001000121846": 203,
+      "gas:candidate-vibid:1001000217922": 18,
+      "gas:candidate-vibid:337300170651": 80,
+      "gas:candidate-vibid:1001000289716": 86,
+      "gas:candidate-vibid:1001000190345": 134,
+      "gas:candidate-vibid:337300170799": 48,
+      "gas:candidate-vibid:1001000225935": 322,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 139,
-      "Кузьмина Галина Андреевна": 97,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 37,
-      "Сироткин Сергей Никанорович": 93,
-      "Троеглазов Валерий Васильевич": 131,
-      "Черкашов Владимир Викторович": 44,
-      "Яковлева Татьяна Владимировна": 311,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 139,
+      "gas:candidate-vibid:1001000121846": 97,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 37,
+      "gas:candidate-vibid:1001000289716": 93,
+      "gas:candidate-vibid:1001000190345": 131,
+      "gas:candidate-vibid:337300170799": 44,
+      "gas:candidate-vibid:1001000225935": 311,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 90,
-      "Кузьмина Галина Андреевна": 120,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 66,
-      "Сироткин Сергей Никанорович": 75,
-      "Троеглазов Валерий Васильевич": 96,
-      "Черкашов Владимир Викторович": 27,
-      "Яковлева Татьяна Владимировна": 229,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 90,
+      "gas:candidate-vibid:1001000121846": 120,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 66,
+      "gas:candidate-vibid:1001000289716": 75,
+      "gas:candidate-vibid:1001000190345": 96,
+      "gas:candidate-vibid:337300170799": 27,
+      "gas:candidate-vibid:1001000225935": 229,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 101,
-      "Кузьмина Галина Андреевна": 97,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 56,
-      "Сироткин Сергей Никанорович": 81,
-      "Троеглазов Валерий Васильевич": 91,
-      "Черкашов Владимир Викторович": 37,
-      "Яковлева Татьяна Владимировна": 264,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 101,
+      "gas:candidate-vibid:1001000121846": 97,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 56,
+      "gas:candidate-vibid:1001000289716": 81,
+      "gas:candidate-vibid:1001000190345": 91,
+      "gas:candidate-vibid:337300170799": 37,
+      "gas:candidate-vibid:1001000225935": 264,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 80,
-      "Кузьмина Галина Андреевна": 130,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 50,
-      "Сироткин Сергей Никанорович": 68,
-      "Троеглазов Валерий Васильевич": 85,
-      "Черкашов Владимир Викторович": 22,
-      "Яковлева Татьяна Владимировна": 217,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 80,
+      "gas:candidate-vibid:1001000121846": 130,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 50,
+      "gas:candidate-vibid:1001000289716": 68,
+      "gas:candidate-vibid:1001000190345": 85,
+      "gas:candidate-vibid:337300170799": 22,
+      "gas:candidate-vibid:1001000225935": 217,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 14,
-      "Колесов Сергей Геннадьевич": 83,
-      "Кузьмина Галина Андреевна": 108,
-      "Курбанов Насиб Курбанович": 27,
-      "Павлов Виктор Валентинович": 71,
-      "Сироткин Сергей Никанорович": 89,
-      "Троеглазов Валерий Васильевич": 168,
-      "Черкашов Владимир Викторович": 32,
-      "Яковлева Татьяна Владимировна": 360,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000202307": 14,
+      "gas:candidate-vibid:1001000113931": 83,
+      "gas:candidate-vibid:1001000121846": 108,
+      "gas:candidate-vibid:1001000217922": 27,
+      "gas:candidate-vibid:337300170651": 71,
+      "gas:candidate-vibid:1001000289716": 89,
+      "gas:candidate-vibid:1001000190345": 168,
+      "gas:candidate-vibid:337300170799": 32,
+      "gas:candidate-vibid:1001000225935": 360,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 64,
-      "Кузьмина Галина Андреевна": 73,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 34,
-      "Сироткин Сергей Никанорович": 76,
-      "Троеглазов Валерий Васильевич": 92,
-      "Черкашов Владимир Викторович": 20,
-      "Яковлева Татьяна Владимировна": 169,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 64,
+      "gas:candidate-vibid:1001000121846": 73,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 34,
+      "gas:candidate-vibid:1001000289716": 76,
+      "gas:candidate-vibid:1001000190345": 92,
+      "gas:candidate-vibid:337300170799": 20,
+      "gas:candidate-vibid:1001000225935": 169,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 120,
-      "Кузьмина Галина Андреевна": 141,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 50,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 133,
-      "Черкашов Владимир Викторович": 23,
-      "Яковлева Татьяна Владимировна": 296,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 120,
+      "gas:candidate-vibid:1001000121846": 141,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 50,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 133,
+      "gas:candidate-vibid:337300170799": 23,
+      "gas:candidate-vibid:1001000225935": 296,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 74,
-      "Кузьмина Галина Андреевна": 94,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 42,
-      "Сироткин Сергей Никанорович": 88,
-      "Троеглазов Валерий Васильевич": 129,
-      "Черкашов Владимир Викторович": 21,
-      "Яковлева Татьяна Владимировна": 233,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 74,
+      "gas:candidate-vibid:1001000121846": 94,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 42,
+      "gas:candidate-vibid:1001000289716": 88,
+      "gas:candidate-vibid:1001000190345": 129,
+      "gas:candidate-vibid:337300170799": 21,
+      "gas:candidate-vibid:1001000225935": 233,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 118,
-      "Кузьмина Галина Андреевна": 120,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 70,
-      "Сироткин Сергей Никанорович": 96,
-      "Троеглазов Валерий Васильевич": 147,
-      "Черкашов Владимир Викторович": 38,
-      "Яковлева Татьяна Владимировна": 272,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 118,
+      "gas:candidate-vibid:1001000121846": 120,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 70,
+      "gas:candidate-vibid:1001000289716": 96,
+      "gas:candidate-vibid:1001000190345": 147,
+      "gas:candidate-vibid:337300170799": 38,
+      "gas:candidate-vibid:1001000225935": 272,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 107,
-      "Кузьмина Галина Андреевна": 93,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 52,
-      "Сироткин Сергей Никанорович": 92,
-      "Троеглазов Валерий Васильевич": 122,
-      "Черкашов Владимир Викторович": 27,
-      "Яковлева Татьяна Владимировна": 267,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 107,
+      "gas:candidate-vibid:1001000121846": 93,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 52,
+      "gas:candidate-vibid:1001000289716": 92,
+      "gas:candidate-vibid:1001000190345": 122,
+      "gas:candidate-vibid:337300170799": 27,
+      "gas:candidate-vibid:1001000225935": 267,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 126,
-      "Кузьмина Галина Андреевна": 106,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 45,
-      "Сироткин Сергей Никанорович": 110,
-      "Троеглазов Валерий Васильевич": 126,
-      "Черкашов Владимир Викторович": 32,
-      "Яковлева Татьяна Владимировна": 300,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 126,
+      "gas:candidate-vibid:1001000121846": 106,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 45,
+      "gas:candidate-vibid:1001000289716": 110,
+      "gas:candidate-vibid:1001000190345": 126,
+      "gas:candidate-vibid:337300170799": 32,
+      "gas:candidate-vibid:1001000225935": 300,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 48,
-      "Кузьмина Галина Андреевна": 73,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 41,
-      "Сироткин Сергей Никанорович": 75,
-      "Троеглазов Валерий Васильевич": 78,
-      "Черкашов Владимир Викторович": 17,
-      "Яковлева Татьяна Владимировна": 209,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 48,
+      "gas:candidate-vibid:1001000121846": 73,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 41,
+      "gas:candidate-vibid:1001000289716": 75,
+      "gas:candidate-vibid:1001000190345": 78,
+      "gas:candidate-vibid:337300170799": 17,
+      "gas:candidate-vibid:1001000225935": 209,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 45,
-      "Кузьмина Галина Андреевна": 59,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 23,
-      "Сироткин Сергей Никанорович": 42,
-      "Троеглазов Валерий Васильевич": 62,
-      "Черкашов Владимир Викторович": 15,
-      "Яковлева Татьяна Владимировна": 179,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 45,
+      "gas:candidate-vibid:1001000121846": 59,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 23,
+      "gas:candidate-vibid:1001000289716": 42,
+      "gas:candidate-vibid:1001000190345": 62,
+      "gas:candidate-vibid:337300170799": 15,
+      "gas:candidate-vibid:1001000225935": 179,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 104,
-      "Кузьмина Галина Андреевна": 121,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 64,
-      "Сироткин Сергей Никанорович": 95,
-      "Троеглазов Валерий Васильевич": 128,
-      "Черкашов Владимир Викторович": 37,
-      "Яковлева Татьяна Владимировна": 343,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 104,
+      "gas:candidate-vibid:1001000121846": 121,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 64,
+      "gas:candidate-vibid:1001000289716": 95,
+      "gas:candidate-vibid:1001000190345": 128,
+      "gas:candidate-vibid:337300170799": 37,
+      "gas:candidate-vibid:1001000225935": 343,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 115,
-      "Кузьмина Галина Андреевна": 123,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 66,
-      "Сироткин Сергей Никанорович": 97,
-      "Троеглазов Валерий Васильевич": 106,
-      "Черкашов Владимир Викторович": 51,
-      "Яковлева Татьяна Владимировна": 283,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 115,
+      "gas:candidate-vibid:1001000121846": 123,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 66,
+      "gas:candidate-vibid:1001000289716": 97,
+      "gas:candidate-vibid:1001000190345": 106,
+      "gas:candidate-vibid:337300170799": 51,
+      "gas:candidate-vibid:1001000225935": 283,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 182,
-      "Кузьмина Галина Андреевна": 145,
-      "Курбанов Насиб Курбанович": 19,
-      "Павлов Виктор Валентинович": 74,
-      "Сироткин Сергей Никанорович": 122,
-      "Троеглазов Валерий Васильевич": 141,
-      "Черкашов Владимир Викторович": 57,
-      "Яковлева Татьяна Владимировна": 414,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 182,
+      "gas:candidate-vibid:1001000121846": 145,
+      "gas:candidate-vibid:1001000217922": 19,
+      "gas:candidate-vibid:337300170651": 74,
+      "gas:candidate-vibid:1001000289716": 122,
+      "gas:candidate-vibid:1001000190345": 141,
+      "gas:candidate-vibid:337300170799": 57,
+      "gas:candidate-vibid:1001000225935": 414,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 120,
-      "Кузьмина Галина Андреевна": 98,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 31,
-      "Сироткин Сергей Никанорович": 70,
-      "Троеглазов Валерий Васильевич": 123,
-      "Черкашов Владимир Викторович": 37,
-      "Яковлева Татьяна Владимировна": 291,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 120,
+      "gas:candidate-vibid:1001000121846": 98,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 31,
+      "gas:candidate-vibid:1001000289716": 70,
+      "gas:candidate-vibid:1001000190345": 123,
+      "gas:candidate-vibid:337300170799": 37,
+      "gas:candidate-vibid:1001000225935": 291,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 95,
-      "Кузьмина Галина Андреевна": 105,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 49,
-      "Сироткин Сергей Никанорович": 63,
-      "Троеглазов Валерий Васильевич": 97,
-      "Черкашов Владимир Викторович": 12,
-      "Яковлева Татьяна Владимировна": 268,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 95,
+      "gas:candidate-vibid:1001000121846": 105,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 49,
+      "gas:candidate-vibid:1001000289716": 63,
+      "gas:candidate-vibid:1001000190345": 97,
+      "gas:candidate-vibid:337300170799": 12,
+      "gas:candidate-vibid:1001000225935": 268,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 125,
-      "Кузьмина Галина Андреевна": 157,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 64,
-      "Сироткин Сергей Никанорович": 125,
-      "Троеглазов Валерий Васильевич": 140,
-      "Черкашов Владимир Викторович": 32,
-      "Яковлева Татьяна Владимировна": 338,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 125,
+      "gas:candidate-vibid:1001000121846": 157,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 64,
+      "gas:candidate-vibid:1001000289716": 125,
+      "gas:candidate-vibid:1001000190345": 140,
+      "gas:candidate-vibid:337300170799": 32,
+      "gas:candidate-vibid:1001000225935": 338,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 20,
-      "Колесов Сергей Геннадьевич": 121,
-      "Кузьмина Галина Андреевна": 109,
-      "Курбанов Насиб Курбанович": 19,
-      "Павлов Виктор Валентинович": 37,
-      "Сироткин Сергей Никанорович": 115,
-      "Троеглазов Валерий Васильевич": 90,
-      "Черкашов Владимир Викторович": 38,
-      "Яковлева Татьяна Владимировна": 322,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000202307": 20,
+      "gas:candidate-vibid:1001000113931": 121,
+      "gas:candidate-vibid:1001000121846": 109,
+      "gas:candidate-vibid:1001000217922": 19,
+      "gas:candidate-vibid:337300170651": 37,
+      "gas:candidate-vibid:1001000289716": 115,
+      "gas:candidate-vibid:1001000190345": 90,
+      "gas:candidate-vibid:337300170799": 38,
+      "gas:candidate-vibid:1001000225935": 322,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 128,
-      "Кузьмина Галина Андреевна": 130,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 54,
-      "Сироткин Сергей Никанорович": 95,
-      "Троеглазов Валерий Васильевич": 112,
-      "Черкашов Владимир Викторович": 35,
-      "Яковлева Татьяна Владимировна": 366,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 128,
+      "gas:candidate-vibid:1001000121846": 130,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 54,
+      "gas:candidate-vibid:1001000289716": 95,
+      "gas:candidate-vibid:1001000190345": 112,
+      "gas:candidate-vibid:337300170799": 35,
+      "gas:candidate-vibid:1001000225935": 366,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 119,
-      "Кузьмина Галина Андреевна": 173,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 59,
-      "Сироткин Сергей Никанорович": 114,
-      "Троеглазов Валерий Васильевич": 126,
-      "Черкашов Владимир Викторович": 58,
-      "Яковлева Татьяна Владимировна": 394,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 119,
+      "gas:candidate-vibid:1001000121846": 173,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 59,
+      "gas:candidate-vibid:1001000289716": 114,
+      "gas:candidate-vibid:1001000190345": 126,
+      "gas:candidate-vibid:337300170799": 58,
+      "gas:candidate-vibid:1001000225935": 394,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 104,
-      "Кузьмина Галина Андреевна": 74,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 50,
-      "Сироткин Сергей Никанорович": 121,
-      "Троеглазов Валерий Васильевич": 119,
-      "Черкашов Владимир Викторович": 42,
-      "Яковлева Татьяна Владимировна": 297,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 104,
+      "gas:candidate-vibid:1001000121846": 74,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 50,
+      "gas:candidate-vibid:1001000289716": 121,
+      "gas:candidate-vibid:1001000190345": 119,
+      "gas:candidate-vibid:337300170799": 42,
+      "gas:candidate-vibid:1001000225935": 297,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 166,
-      "Кузьмина Галина Андреевна": 110,
-      "Курбанов Насиб Курбанович": 31,
-      "Павлов Виктор Валентинович": 81,
-      "Сироткин Сергей Никанорович": 123,
-      "Троеглазов Валерий Васильевич": 148,
-      "Черкашов Владимир Викторович": 41,
-      "Яковлева Татьяна Владимировна": 352,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 166,
+      "gas:candidate-vibid:1001000121846": 110,
+      "gas:candidate-vibid:1001000217922": 31,
+      "gas:candidate-vibid:337300170651": 81,
+      "gas:candidate-vibid:1001000289716": 123,
+      "gas:candidate-vibid:1001000190345": 148,
+      "gas:candidate-vibid:337300170799": 41,
+      "gas:candidate-vibid:1001000225935": 352,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 145,
-      "Кузьмина Галина Андреевна": 99,
-      "Курбанов Насиб Курбанович": 14,
-      "Павлов Виктор Валентинович": 45,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 147,
-      "Черкашов Владимир Викторович": 43,
-      "Яковлева Татьяна Владимировна": 290,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 145,
+      "gas:candidate-vibid:1001000121846": 99,
+      "gas:candidate-vibid:1001000217922": 14,
+      "gas:candidate-vibid:337300170651": 45,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 147,
+      "gas:candidate-vibid:337300170799": 43,
+      "gas:candidate-vibid:1001000225935": 290,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 22,
-      "Колесов Сергей Геннадьевич": 276,
-      "Кузьмина Галина Андреевна": 138,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 58,
-      "Сироткин Сергей Никанорович": 143,
-      "Троеглазов Валерий Васильевич": 144,
-      "Черкашов Владимир Викторович": 59,
-      "Яковлева Татьяна Владимировна": 443,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000202307": 22,
+      "gas:candidate-vibid:1001000113931": 276,
+      "gas:candidate-vibid:1001000121846": 138,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 58,
+      "gas:candidate-vibid:1001000289716": 143,
+      "gas:candidate-vibid:1001000190345": 144,
+      "gas:candidate-vibid:337300170799": 59,
+      "gas:candidate-vibid:1001000225935": 443,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 25,
-      "Колесов Сергей Геннадьевич": 135,
-      "Кузьмина Галина Андреевна": 126,
-      "Курбанов Насиб Курбанович": 28,
-      "Павлов Виктор Валентинович": 89,
-      "Сироткин Сергей Никанорович": 120,
-      "Троеглазов Валерий Васильевич": 99,
-      "Черкашов Владимир Викторович": 65,
-      "Яковлева Татьяна Владимировна": 410,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000202307": 25,
+      "gas:candidate-vibid:1001000113931": 135,
+      "gas:candidate-vibid:1001000121846": 126,
+      "gas:candidate-vibid:1001000217922": 28,
+      "gas:candidate-vibid:337300170651": 89,
+      "gas:candidate-vibid:1001000289716": 120,
+      "gas:candidate-vibid:1001000190345": 99,
+      "gas:candidate-vibid:337300170799": 65,
+      "gas:candidate-vibid:1001000225935": 410,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 92,
-      "Кузьмина Галина Андреевна": 121,
-      "Курбанов Насиб Курбанович": 17,
-      "Павлов Виктор Валентинович": 79,
-      "Сироткин Сергей Никанорович": 117,
-      "Троеглазов Валерий Васильевич": 104,
-      "Черкашов Владимир Викторович": 38,
-      "Яковлева Татьяна Владимировна": 310,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 92,
+      "gas:candidate-vibid:1001000121846": 121,
+      "gas:candidate-vibid:1001000217922": 17,
+      "gas:candidate-vibid:337300170651": 79,
+      "gas:candidate-vibid:1001000289716": 117,
+      "gas:candidate-vibid:1001000190345": 104,
+      "gas:candidate-vibid:337300170799": 38,
+      "gas:candidate-vibid:1001000225935": 310,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 84,
-      "Кузьмина Галина Андреевна": 104,
-      "Курбанов Насиб Курбанович": 14,
-      "Павлов Виктор Валентинович": 30,
-      "Сироткин Сергей Никанорович": 100,
-      "Троеглазов Валерий Васильевич": 112,
-      "Черкашов Владимир Викторович": 47,
-      "Яковлева Татьяна Владимировна": 259,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 84,
+      "gas:candidate-vibid:1001000121846": 104,
+      "gas:candidate-vibid:1001000217922": 14,
+      "gas:candidate-vibid:337300170651": 30,
+      "gas:candidate-vibid:1001000289716": 100,
+      "gas:candidate-vibid:1001000190345": 112,
+      "gas:candidate-vibid:337300170799": 47,
+      "gas:candidate-vibid:1001000225935": 259,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 180,
-      "Кузьмина Галина Андреевна": 132,
-      "Курбанов Насиб Курбанович": 18,
-      "Павлов Виктор Валентинович": 46,
-      "Сироткин Сергей Никанорович": 109,
-      "Троеглазов Валерий Васильевич": 133,
-      "Черкашов Владимир Викторович": 44,
-      "Яковлева Татьяна Владимировна": 439,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 180,
+      "gas:candidate-vibid:1001000121846": 132,
+      "gas:candidate-vibid:1001000217922": 18,
+      "gas:candidate-vibid:337300170651": 46,
+      "gas:candidate-vibid:1001000289716": 109,
+      "gas:candidate-vibid:1001000190345": 133,
+      "gas:candidate-vibid:337300170799": 44,
+      "gas:candidate-vibid:1001000225935": 439,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 143,
-      "Кузьмина Галина Андреевна": 109,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 41,
-      "Сироткин Сергей Никанорович": 119,
-      "Троеглазов Валерий Васильевич": 142,
-      "Черкашов Владимир Викторович": 37,
-      "Яковлева Татьяна Владимировна": 320,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 143,
+      "gas:candidate-vibid:1001000121846": 109,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 41,
+      "gas:candidate-vibid:1001000289716": 119,
+      "gas:candidate-vibid:1001000190345": 142,
+      "gas:candidate-vibid:337300170799": 37,
+      "gas:candidate-vibid:1001000225935": 320,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 15,
-      "Колесов Сергей Геннадьевич": 332,
-      "Кузьмина Галина Андреевна": 144,
-      "Курбанов Насиб Курбанович": 18,
-      "Павлов Виктор Валентинович": 47,
-      "Сироткин Сергей Никанорович": 128,
-      "Троеглазов Валерий Васильевич": 106,
-      "Черкашов Владимир Викторович": 54,
-      "Яковлева Татьяна Владимировна": 332,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000202307": 15,
+      "gas:candidate-vibid:1001000113931": 332,
+      "gas:candidate-vibid:1001000121846": 144,
+      "gas:candidate-vibid:1001000217922": 18,
+      "gas:candidate-vibid:337300170651": 47,
+      "gas:candidate-vibid:1001000289716": 128,
+      "gas:candidate-vibid:1001000190345": 106,
+      "gas:candidate-vibid:337300170799": 54,
+      "gas:candidate-vibid:1001000225935": 332,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 249,
-      "Кузьмина Галина Андреевна": 127,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 43,
-      "Сироткин Сергей Никанорович": 136,
-      "Троеглазов Валерий Васильевич": 110,
-      "Черкашов Владимир Викторович": 36,
-      "Яковлева Татьяна Владимировна": 308,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 249,
+      "gas:candidate-vibid:1001000121846": 127,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 43,
+      "gas:candidate-vibid:1001000289716": 136,
+      "gas:candidate-vibid:1001000190345": 110,
+      "gas:candidate-vibid:337300170799": 36,
+      "gas:candidate-vibid:1001000225935": 308,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 19,
-      "Колесов Сергей Геннадьевич": 249,
-      "Кузьмина Галина Андреевна": 141,
-      "Курбанов Насиб Курбанович": 14,
-      "Павлов Виктор Валентинович": 56,
-      "Сироткин Сергей Никанорович": 109,
-      "Троеглазов Валерий Васильевич": 109,
-      "Черкашов Владимир Викторович": 75,
-      "Яковлева Татьяна Владимировна": 275,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000202307": 19,
+      "gas:candidate-vibid:1001000113931": 249,
+      "gas:candidate-vibid:1001000121846": 141,
+      "gas:candidate-vibid:1001000217922": 14,
+      "gas:candidate-vibid:337300170651": 56,
+      "gas:candidate-vibid:1001000289716": 109,
+      "gas:candidate-vibid:1001000190345": 109,
+      "gas:candidate-vibid:337300170799": 75,
+      "gas:candidate-vibid:1001000225935": 275,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 126,
-      "Кузьмина Галина Андреевна": 99,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 38,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 115,
-      "Черкашов Владимир Викторович": 32,
-      "Яковлева Татьяна Владимировна": 287,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 126,
+      "gas:candidate-vibid:1001000121846": 99,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 38,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 115,
+      "gas:candidate-vibid:337300170799": 32,
+      "gas:candidate-vibid:1001000225935": 287,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 205,
-      "Кузьмина Галина Андреевна": 101,
-      "Курбанов Насиб Курбанович": 19,
-      "Павлов Виктор Валентинович": 35,
-      "Сироткин Сергей Никанорович": 124,
-      "Троеглазов Валерий Васильевич": 126,
-      "Черкашов Владимир Викторович": 46,
-      "Яковлева Татьяна Владимировна": 246,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 205,
+      "gas:candidate-vibid:1001000121846": 101,
+      "gas:candidate-vibid:1001000217922": 19,
+      "gas:candidate-vibid:337300170651": 35,
+      "gas:candidate-vibid:1001000289716": 124,
+      "gas:candidate-vibid:1001000190345": 126,
+      "gas:candidate-vibid:337300170799": 46,
+      "gas:candidate-vibid:1001000225935": 246,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 248,
-      "Кузьмина Галина Андреевна": 144,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 36,
-      "Сироткин Сергей Никанорович": 82,
-      "Троеглазов Валерий Васильевич": 114,
-      "Черкашов Владимир Викторович": 68,
-      "Яковлева Татьяна Владимировна": 268,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 248,
+      "gas:candidate-vibid:1001000121846": 144,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 36,
+      "gas:candidate-vibid:1001000289716": 82,
+      "gas:candidate-vibid:1001000190345": 114,
+      "gas:candidate-vibid:337300170799": 68,
+      "gas:candidate-vibid:1001000225935": 268,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 15,
-      "Колесов Сергей Геннадьевич": 286,
-      "Кузьмина Галина Андреевна": 142,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 37,
-      "Сироткин Сергей Никанорович": 116,
-      "Троеглазов Валерий Васильевич": 113,
-      "Черкашов Владимир Викторович": 35,
-      "Яковлева Татьяна Владимировна": 333,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000202307": 15,
+      "gas:candidate-vibid:1001000113931": 286,
+      "gas:candidate-vibid:1001000121846": 142,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 37,
+      "gas:candidate-vibid:1001000289716": 116,
+      "gas:candidate-vibid:1001000190345": 113,
+      "gas:candidate-vibid:337300170799": 35,
+      "gas:candidate-vibid:1001000225935": 333,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 190,
-      "Кузьмина Галина Андреевна": 89,
-      "Курбанов Насиб Курбанович": 21,
-      "Павлов Виктор Валентинович": 43,
-      "Сироткин Сергей Никанорович": 61,
-      "Троеглазов Валерий Васильевич": 109,
-      "Черкашов Владимир Викторович": 46,
-      "Яковлева Татьяна Владимировна": 218,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 190,
+      "gas:candidate-vibid:1001000121846": 89,
+      "gas:candidate-vibid:1001000217922": 21,
+      "gas:candidate-vibid:337300170651": 43,
+      "gas:candidate-vibid:1001000289716": 61,
+      "gas:candidate-vibid:1001000190345": 109,
+      "gas:candidate-vibid:337300170799": 46,
+      "gas:candidate-vibid:1001000225935": 218,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 188,
-      "Кузьмина Галина Андреевна": 106,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 27,
-      "Сироткин Сергей Никанорович": 93,
-      "Троеглазов Валерий Васильевич": 113,
-      "Черкашов Владимир Викторович": 27,
-      "Яковлева Татьяна Владимировна": 226,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 188,
+      "gas:candidate-vibid:1001000121846": 106,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 27,
+      "gas:candidate-vibid:1001000289716": 93,
+      "gas:candidate-vibid:1001000190345": 113,
+      "gas:candidate-vibid:337300170799": 27,
+      "gas:candidate-vibid:1001000225935": 226,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 18,
-      "Колесов Сергей Геннадьевич": 253,
-      "Кузьмина Галина Андреевна": 110,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 38,
-      "Сироткин Сергей Никанорович": 95,
-      "Троеглазов Валерий Васильевич": 106,
-      "Черкашов Владимир Викторович": 42,
-      "Яковлева Татьяна Владимировна": 278,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000202307": 18,
+      "gas:candidate-vibid:1001000113931": 253,
+      "gas:candidate-vibid:1001000121846": 110,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 38,
+      "gas:candidate-vibid:1001000289716": 95,
+      "gas:candidate-vibid:1001000190345": 106,
+      "gas:candidate-vibid:337300170799": 42,
+      "gas:candidate-vibid:1001000225935": 278,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 220,
-      "Кузьмина Галина Андреевна": 124,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 24,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 126,
-      "Черкашов Владимир Викторович": 39,
-      "Яковлева Татьяна Владимировна": 271,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 220,
+      "gas:candidate-vibid:1001000121846": 124,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 24,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 126,
+      "gas:candidate-vibid:337300170799": 39,
+      "gas:candidate-vibid:1001000225935": 271,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 112,
-      "Кузьмина Галина Андреевна": 86,
-      "Курбанов Насиб Курбанович": 24,
-      "Павлов Виктор Валентинович": 45,
-      "Сироткин Сергей Никанорович": 97,
-      "Троеглазов Валерий Васильевич": 92,
-      "Черкашов Владимир Викторович": 44,
-      "Яковлева Татьяна Владимировна": 261,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 112,
+      "gas:candidate-vibid:1001000121846": 86,
+      "gas:candidate-vibid:1001000217922": 24,
+      "gas:candidate-vibid:337300170651": 45,
+      "gas:candidate-vibid:1001000289716": 97,
+      "gas:candidate-vibid:1001000190345": 92,
+      "gas:candidate-vibid:337300170799": 44,
+      "gas:candidate-vibid:1001000225935": 261,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 154,
-      "Кузьмина Галина Андреевна": 129,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 69,
-      "Сироткин Сергей Никанорович": 140,
-      "Троеглазов Валерий Васильевич": 140,
-      "Черкашов Владимир Викторович": 46,
-      "Яковлева Татьяна Владимировна": 349,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 154,
+      "gas:candidate-vibid:1001000121846": 129,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 69,
+      "gas:candidate-vibid:1001000289716": 140,
+      "gas:candidate-vibid:1001000190345": 140,
+      "gas:candidate-vibid:337300170799": 46,
+      "gas:candidate-vibid:1001000225935": 349,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 129,
-      "Кузьмина Галина Андреевна": 142,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 75,
-      "Сироткин Сергей Никанорович": 109,
-      "Троеглазов Валерий Васильевич": 139,
-      "Черкашов Владимир Викторович": 67,
-      "Яковлева Татьяна Владимировна": 298,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 129,
+      "gas:candidate-vibid:1001000121846": 142,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 75,
+      "gas:candidate-vibid:1001000289716": 109,
+      "gas:candidate-vibid:1001000190345": 139,
+      "gas:candidate-vibid:337300170799": 67,
+      "gas:candidate-vibid:1001000225935": 298,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 15,
-      "Колесов Сергей Геннадьевич": 167,
-      "Кузьмина Галина Андреевна": 158,
-      "Курбанов Насиб Курбанович": 23,
-      "Павлов Виктор Валентинович": 50,
-      "Сироткин Сергей Никанорович": 79,
-      "Троеглазов Валерий Васильевич": 167,
-      "Черкашов Владимир Викторович": 58,
-      "Яковлева Татьяна Владимировна": 353,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000202307": 15,
+      "gas:candidate-vibid:1001000113931": 167,
+      "gas:candidate-vibid:1001000121846": 158,
+      "gas:candidate-vibid:1001000217922": 23,
+      "gas:candidate-vibid:337300170651": 50,
+      "gas:candidate-vibid:1001000289716": 79,
+      "gas:candidate-vibid:1001000190345": 167,
+      "gas:candidate-vibid:337300170799": 58,
+      "gas:candidate-vibid:1001000225935": 353,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 155,
-      "Кузьмина Галина Андреевна": 147,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 70,
-      "Сироткин Сергей Никанорович": 120,
-      "Троеглазов Валерий Васильевич": 142,
-      "Черкашов Владимир Викторович": 76,
-      "Яковлева Татьяна Владимировна": 388,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 155,
+      "gas:candidate-vibid:1001000121846": 147,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 70,
+      "gas:candidate-vibid:1001000289716": 120,
+      "gas:candidate-vibid:1001000190345": 142,
+      "gas:candidate-vibid:337300170799": 76,
+      "gas:candidate-vibid:1001000225935": 388,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 15,
-      "Колесов Сергей Геннадьевич": 172,
-      "Кузьмина Галина Андреевна": 175,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 49,
-      "Сироткин Сергей Никанорович": 151,
-      "Троеглазов Валерий Васильевич": 178,
-      "Черкашов Владимир Викторович": 45,
-      "Яковлева Татьяна Владимировна": 399,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000202307": 15,
+      "gas:candidate-vibid:1001000113931": 172,
+      "gas:candidate-vibid:1001000121846": 175,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 49,
+      "gas:candidate-vibid:1001000289716": 151,
+      "gas:candidate-vibid:1001000190345": 178,
+      "gas:candidate-vibid:337300170799": 45,
+      "gas:candidate-vibid:1001000225935": 399,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 147,
-      "Кузьмина Галина Андреевна": 114,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 64,
-      "Сироткин Сергей Никанорович": 107,
-      "Троеглазов Валерий Васильевич": 129,
-      "Черкашов Владимир Викторович": 28,
-      "Яковлева Татьяна Владимировна": 332,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 147,
+      "gas:candidate-vibid:1001000121846": 114,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 64,
+      "gas:candidate-vibid:1001000289716": 107,
+      "gas:candidate-vibid:1001000190345": 129,
+      "gas:candidate-vibid:337300170799": 28,
+      "gas:candidate-vibid:1001000225935": 332,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 118,
-      "Кузьмина Галина Андреевна": 116,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 56,
-      "Сироткин Сергей Никанорович": 142,
-      "Троеглазов Валерий Васильевич": 167,
-      "Черкашов Владимир Викторович": 37,
-      "Яковлева Татьяна Владимировна": 344,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 118,
+      "gas:candidate-vibid:1001000121846": 116,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 56,
+      "gas:candidate-vibid:1001000289716": 142,
+      "gas:candidate-vibid:1001000190345": 167,
+      "gas:candidate-vibid:337300170799": 37,
+      "gas:candidate-vibid:1001000225935": 344,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 180,
-      "Кузьмина Галина Андреевна": 71,
-      "Курбанов Насиб Курбанович": 14,
-      "Павлов Виктор Валентинович": 81,
-      "Сироткин Сергей Никанорович": 122,
-      "Троеглазов Валерий Васильевич": 151,
-      "Черкашов Владимир Викторович": 51,
-      "Яковлева Татьяна Владимировна": 362,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 180,
+      "gas:candidate-vibid:1001000121846": 71,
+      "gas:candidate-vibid:1001000217922": 14,
+      "gas:candidate-vibid:337300170651": 81,
+      "gas:candidate-vibid:1001000289716": 122,
+      "gas:candidate-vibid:1001000190345": 151,
+      "gas:candidate-vibid:337300170799": 51,
+      "gas:candidate-vibid:1001000225935": 362,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 132,
-      "Кузьмина Галина Андреевна": 146,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 60,
-      "Сироткин Сергей Никанорович": 112,
-      "Троеглазов Валерий Васильевич": 166,
-      "Черкашов Владимир Викторович": 47,
-      "Яковлева Татьяна Владимировна": 377,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 132,
+      "gas:candidate-vibid:1001000121846": 146,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 60,
+      "gas:candidate-vibid:1001000289716": 112,
+      "gas:candidate-vibid:1001000190345": 166,
+      "gas:candidate-vibid:337300170799": 47,
+      "gas:candidate-vibid:1001000225935": 377,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 125,
-      "Кузьмина Галина Андреевна": 124,
-      "Курбанов Насиб Курбанович": 19,
-      "Павлов Виктор Валентинович": 58,
-      "Сироткин Сергей Никанорович": 88,
-      "Троеглазов Валерий Васильевич": 102,
-      "Черкашов Владимир Викторович": 37,
-      "Яковлева Татьяна Владимировна": 352,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 125,
+      "gas:candidate-vibid:1001000121846": 124,
+      "gas:candidate-vibid:1001000217922": 19,
+      "gas:candidate-vibid:337300170651": 58,
+      "gas:candidate-vibid:1001000289716": 88,
+      "gas:candidate-vibid:1001000190345": 102,
+      "gas:candidate-vibid:337300170799": 37,
+      "gas:candidate-vibid:1001000225935": 352,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070485&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 147,
-      "Кузьмина Галина Андреевна": 103,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 33,
-      "Сироткин Сергей Никанорович": 104,
-      "Троеглазов Валерий Васильевич": 83,
-      "Черкашов Владимир Викторович": 40,
-      "Яковлева Татьяна Владимировна": 288,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 147,
+      "gas:candidate-vibid:1001000121846": 103,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 33,
+      "gas:candidate-vibid:1001000289716": 104,
+      "gas:candidate-vibid:1001000190345": 83,
+      "gas:candidate-vibid:337300170799": 40,
+      "gas:candidate-vibid:1001000225935": 288,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 13,
-      "Колесов Сергей Геннадьевич": 133,
-      "Кузьмина Галина Андреевна": 116,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 26,
-      "Сироткин Сергей Никанорович": 101,
-      "Троеглазов Валерий Васильевич": 132,
-      "Черкашов Владимир Викторович": 44,
-      "Яковлева Татьяна Владимировна": 271,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000202307": 13,
+      "gas:candidate-vibid:1001000113931": 133,
+      "gas:candidate-vibid:1001000121846": 116,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 26,
+      "gas:candidate-vibid:1001000289716": 101,
+      "gas:candidate-vibid:1001000190345": 132,
+      "gas:candidate-vibid:337300170799": 44,
+      "gas:candidate-vibid:1001000225935": 271,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 116,
-      "Кузьмина Галина Андреевна": 110,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 46,
-      "Сироткин Сергей Никанорович": 48,
-      "Троеглазов Валерий Васильевич": 74,
-      "Черкашов Владимир Викторович": 43,
-      "Яковлева Татьяна Владимировна": 208,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 116,
+      "gas:candidate-vibid:1001000121846": 110,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 46,
+      "gas:candidate-vibid:1001000289716": 48,
+      "gas:candidate-vibid:1001000190345": 74,
+      "gas:candidate-vibid:337300170799": 43,
+      "gas:candidate-vibid:1001000225935": 208,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 106,
-      "Кузьмина Галина Андреевна": 120,
-      "Курбанов Насиб Курбанович": 5,
-      "Павлов Виктор Валентинович": 61,
-      "Сироткин Сергей Никанорович": 77,
-      "Троеглазов Валерий Васильевич": 133,
-      "Черкашов Владимир Викторович": 45,
-      "Яковлева Татьяна Владимировна": 325,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 106,
+      "gas:candidate-vibid:1001000121846": 120,
+      "gas:candidate-vibid:1001000217922": 5,
+      "gas:candidate-vibid:337300170651": 61,
+      "gas:candidate-vibid:1001000289716": 77,
+      "gas:candidate-vibid:1001000190345": 133,
+      "gas:candidate-vibid:337300170799": 45,
+      "gas:candidate-vibid:1001000225935": 325,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 119,
-      "Кузьмина Галина Андреевна": 100,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 48,
-      "Сироткин Сергей Никанорович": 94,
-      "Троеглазов Валерий Васильевич": 103,
-      "Черкашов Владимир Викторович": 46,
-      "Яковлева Татьяна Владимировна": 283,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 119,
+      "gas:candidate-vibid:1001000121846": 100,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 48,
+      "gas:candidate-vibid:1001000289716": 94,
+      "gas:candidate-vibid:1001000190345": 103,
+      "gas:candidate-vibid:337300170799": 46,
+      "gas:candidate-vibid:1001000225935": 283,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 103,
-      "Кузьмина Галина Андреевна": 113,
-      "Курбанов Насиб Курбанович": 26,
-      "Павлов Виктор Валентинович": 52,
-      "Сироткин Сергей Никанорович": 70,
-      "Троеглазов Валерий Васильевич": 113,
-      "Черкашов Владимир Викторович": 33,
-      "Яковлева Татьяна Владимировна": 312,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 103,
+      "gas:candidate-vibid:1001000121846": 113,
+      "gas:candidate-vibid:1001000217922": 26,
+      "gas:candidate-vibid:337300170651": 52,
+      "gas:candidate-vibid:1001000289716": 70,
+      "gas:candidate-vibid:1001000190345": 113,
+      "gas:candidate-vibid:337300170799": 33,
+      "gas:candidate-vibid:1001000225935": 312,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 126,
-      "Кузьмина Галина Андреевна": 99,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 69,
-      "Сироткин Сергей Никанорович": 78,
-      "Троеглазов Валерий Васильевич": 122,
-      "Черкашов Владимир Викторович": 65,
-      "Яковлева Татьяна Владимировна": 308,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 126,
+      "gas:candidate-vibid:1001000121846": 99,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 69,
+      "gas:candidate-vibid:1001000289716": 78,
+      "gas:candidate-vibid:1001000190345": 122,
+      "gas:candidate-vibid:337300170799": 65,
+      "gas:candidate-vibid:1001000225935": 308,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 16,
-      "Колесов Сергей Геннадьевич": 108,
-      "Кузьмина Галина Андреевна": 116,
-      "Курбанов Насиб Курбанович": 25,
-      "Павлов Виктор Валентинович": 88,
-      "Сироткин Сергей Никанорович": 107,
-      "Троеглазов Валерий Васильевич": 168,
-      "Черкашов Владимир Викторович": 47,
-      "Яковлева Татьяна Владимировна": 339,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000202307": 16,
+      "gas:candidate-vibid:1001000113931": 108,
+      "gas:candidate-vibid:1001000121846": 116,
+      "gas:candidate-vibid:1001000217922": 25,
+      "gas:candidate-vibid:337300170651": 88,
+      "gas:candidate-vibid:1001000289716": 107,
+      "gas:candidate-vibid:1001000190345": 168,
+      "gas:candidate-vibid:337300170799": 47,
+      "gas:candidate-vibid:1001000225935": 339,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 25,
-      "Колесов Сергей Геннадьевич": 140,
-      "Кузьмина Галина Андреевна": 152,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 90,
-      "Сироткин Сергей Никанорович": 115,
-      "Троеглазов Валерий Васильевич": 158,
-      "Черкашов Владимир Викторович": 77,
-      "Яковлева Татьяна Владимировна": 366,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000202307": 25,
+      "gas:candidate-vibid:1001000113931": 140,
+      "gas:candidate-vibid:1001000121846": 152,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 90,
+      "gas:candidate-vibid:1001000289716": 115,
+      "gas:candidate-vibid:1001000190345": 158,
+      "gas:candidate-vibid:337300170799": 77,
+      "gas:candidate-vibid:1001000225935": 366,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 114,
-      "Кузьмина Галина Андреевна": 150,
-      "Курбанов Насиб Курбанович": 21,
-      "Павлов Виктор Валентинович": 55,
-      "Сироткин Сергей Никанорович": 103,
-      "Троеглазов Валерий Васильевич": 117,
-      "Черкашов Владимир Викторович": 50,
-      "Яковлева Татьяна Владимировна": 313,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 114,
+      "gas:candidate-vibid:1001000121846": 150,
+      "gas:candidate-vibid:1001000217922": 21,
+      "gas:candidate-vibid:337300170651": 55,
+      "gas:candidate-vibid:1001000289716": 103,
+      "gas:candidate-vibid:1001000190345": 117,
+      "gas:candidate-vibid:337300170799": 50,
+      "gas:candidate-vibid:1001000225935": 313,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 12,
-      "Колесов Сергей Геннадьевич": 178,
-      "Кузьмина Галина Андреевна": 165,
-      "Курбанов Насиб Курбанович": 29,
-      "Павлов Виктор Валентинович": 55,
-      "Сироткин Сергей Никанорович": 105,
-      "Троеглазов Валерий Васильевич": 132,
-      "Черкашов Владимир Викторович": 66,
-      "Яковлева Татьяна Владимировна": 358,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000202307": 12,
+      "gas:candidate-vibid:1001000113931": 178,
+      "gas:candidate-vibid:1001000121846": 165,
+      "gas:candidate-vibid:1001000217922": 29,
+      "gas:candidate-vibid:337300170651": 55,
+      "gas:candidate-vibid:1001000289716": 105,
+      "gas:candidate-vibid:1001000190345": 132,
+      "gas:candidate-vibid:337300170799": 66,
+      "gas:candidate-vibid:1001000225935": 358,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 18,
-      "Колесов Сергей Геннадьевич": 141,
-      "Кузьмина Галина Андреевна": 116,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 84,
-      "Сироткин Сергей Никанорович": 85,
-      "Троеглазов Валерий Васильевич": 147,
-      "Черкашов Владимир Викторович": 41,
-      "Яковлева Татьяна Владимировна": 363,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000202307": 18,
+      "gas:candidate-vibid:1001000113931": 141,
+      "gas:candidate-vibid:1001000121846": 116,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 84,
+      "gas:candidate-vibid:1001000289716": 85,
+      "gas:candidate-vibid:1001000190345": 147,
+      "gas:candidate-vibid:337300170799": 41,
+      "gas:candidate-vibid:1001000225935": 363,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 98,
-      "Кузьмина Галина Андреевна": 101,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 69,
-      "Сироткин Сергей Никанорович": 110,
-      "Троеглазов Валерий Васильевич": 120,
-      "Черкашов Владимир Викторович": 45,
-      "Яковлева Татьяна Владимировна": 295,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 98,
+      "gas:candidate-vibid:1001000121846": 101,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 69,
+      "gas:candidate-vibid:1001000289716": 110,
+      "gas:candidate-vibid:1001000190345": 120,
+      "gas:candidate-vibid:337300170799": 45,
+      "gas:candidate-vibid:1001000225935": 295,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 128,
-      "Кузьмина Галина Андреевна": 90,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 54,
-      "Сироткин Сергей Никанорович": 76,
-      "Троеглазов Валерий Васильевич": 98,
-      "Черкашов Владимир Викторович": 44,
-      "Яковлева Татьяна Владимировна": 343,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 128,
+      "gas:candidate-vibid:1001000121846": 90,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 54,
+      "gas:candidate-vibid:1001000289716": 76,
+      "gas:candidate-vibid:1001000190345": 98,
+      "gas:candidate-vibid:337300170799": 44,
+      "gas:candidate-vibid:1001000225935": 343,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 82,
-      "Кузьмина Галина Андреевна": 64,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 40,
-      "Сироткин Сергей Никанорович": 78,
-      "Троеглазов Валерий Васильевич": 77,
-      "Черкашов Владимир Викторович": 62,
-      "Яковлева Татьяна Владимировна": 233,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 82,
+      "gas:candidate-vibid:1001000121846": 64,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 40,
+      "gas:candidate-vibid:1001000289716": 78,
+      "gas:candidate-vibid:1001000190345": 77,
+      "gas:candidate-vibid:337300170799": 62,
+      "gas:candidate-vibid:1001000225935": 233,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 85,
-      "Кузьмина Галина Андреевна": 54,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 30,
-      "Сироткин Сергей Никанорович": 66,
-      "Троеглазов Валерий Васильевич": 51,
-      "Черкашов Владимир Викторович": 38,
-      "Яковлева Татьяна Владимировна": 175,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 85,
+      "gas:candidate-vibid:1001000121846": 54,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 30,
+      "gas:candidate-vibid:1001000289716": 66,
+      "gas:candidate-vibid:1001000190345": 51,
+      "gas:candidate-vibid:337300170799": 38,
+      "gas:candidate-vibid:1001000225935": 175,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 4,
-      "Колесов Сергей Геннадьевич": 116,
-      "Кузьмина Галина Андреевна": 83,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 36,
-      "Сироткин Сергей Никанорович": 102,
-      "Троеглазов Валерий Васильевич": 76,
-      "Черкашов Владимир Викторович": 78,
-      "Яковлева Татьяна Владимировна": 178,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000202307": 4,
+      "gas:candidate-vibid:1001000113931": 116,
+      "gas:candidate-vibid:1001000121846": 83,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 36,
+      "gas:candidate-vibid:1001000289716": 102,
+      "gas:candidate-vibid:1001000190345": 76,
+      "gas:candidate-vibid:337300170799": 78,
+      "gas:candidate-vibid:1001000225935": 178,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 18,
-      "Колесов Сергей Геннадьевич": 198,
-      "Кузьмина Галина Андреевна": 100,
-      "Курбанов Насиб Курбанович": 6,
-      "Павлов Виктор Валентинович": 48,
-      "Сироткин Сергей Никанорович": 83,
-      "Троеглазов Валерий Васильевич": 135,
-      "Черкашов Владимир Викторович": 80,
-      "Яковлева Татьяна Владимировна": 263,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000202307": 18,
+      "gas:candidate-vibid:1001000113931": 198,
+      "gas:candidate-vibid:1001000121846": 100,
+      "gas:candidate-vibid:1001000217922": 6,
+      "gas:candidate-vibid:337300170651": 48,
+      "gas:candidate-vibid:1001000289716": 83,
+      "gas:candidate-vibid:1001000190345": 135,
+      "gas:candidate-vibid:337300170799": 80,
+      "gas:candidate-vibid:1001000225935": 263,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 119,
-      "Кузьмина Галина Андреевна": 69,
-      "Курбанов Насиб Курбанович": 12,
-      "Павлов Виктор Валентинович": 60,
-      "Сироткин Сергей Никанорович": 131,
-      "Троеглазов Валерий Васильевич": 74,
-      "Черкашов Владимир Викторович": 43,
-      "Яковлева Татьяна Владимировна": 390,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 119,
+      "gas:candidate-vibid:1001000121846": 69,
+      "gas:candidate-vibid:1001000217922": 12,
+      "gas:candidate-vibid:337300170651": 60,
+      "gas:candidate-vibid:1001000289716": 131,
+      "gas:candidate-vibid:1001000190345": 74,
+      "gas:candidate-vibid:337300170799": 43,
+      "gas:candidate-vibid:1001000225935": 390,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 66,
-      "Кузьмина Галина Андреевна": 59,
-      "Курбанов Насиб Курбанович": 4,
-      "Павлов Виктор Валентинович": 41,
-      "Сироткин Сергей Никанорович": 60,
-      "Троеглазов Валерий Васильевич": 61,
-      "Черкашов Владимир Викторович": 36,
-      "Яковлева Татьяна Владимировна": 178,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 66,
+      "gas:candidate-vibid:1001000121846": 59,
+      "gas:candidate-vibid:1001000217922": 4,
+      "gas:candidate-vibid:337300170651": 41,
+      "gas:candidate-vibid:1001000289716": 60,
+      "gas:candidate-vibid:1001000190345": 61,
+      "gas:candidate-vibid:337300170799": 36,
+      "gas:candidate-vibid:1001000225935": 178,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 87,
-      "Кузьмина Галина Андреевна": 59,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 44,
-      "Сироткин Сергей Никанорович": 93,
-      "Троеглазов Валерий Васильевич": 63,
-      "Черкашов Владимир Викторович": 45,
-      "Яковлева Татьяна Владимировна": 230,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 87,
+      "gas:candidate-vibid:1001000121846": 59,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 44,
+      "gas:candidate-vibid:1001000289716": 93,
+      "gas:candidate-vibid:1001000190345": 63,
+      "gas:candidate-vibid:337300170799": 45,
+      "gas:candidate-vibid:1001000225935": 230,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 2,
-      "Колесов Сергей Геннадьевич": 101,
-      "Кузьмина Галина Андреевна": 101,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 35,
-      "Сироткин Сергей Никанорович": 102,
-      "Троеглазов Валерий Васильевич": 107,
-      "Черкашов Владимир Викторович": 65,
-      "Яковлева Татьяна Владимировна": 264,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000202307": 2,
+      "gas:candidate-vibid:1001000113931": 101,
+      "gas:candidate-vibid:1001000121846": 101,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 35,
+      "gas:candidate-vibid:1001000289716": 102,
+      "gas:candidate-vibid:1001000190345": 107,
+      "gas:candidate-vibid:337300170799": 65,
+      "gas:candidate-vibid:1001000225935": 264,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 6,
-      "Колесов Сергей Геннадьевич": 117,
-      "Кузьмина Галина Андреевна": 94,
-      "Курбанов Насиб Курбанович": 21,
-      "Павлов Виктор Валентинович": 65,
-      "Сироткин Сергей Никанорович": 111,
-      "Троеглазов Валерий Васильевич": 79,
-      "Черкашов Владимир Викторович": 50,
-      "Яковлева Татьяна Владимировна": 260,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000202307": 6,
+      "gas:candidate-vibid:1001000113931": 117,
+      "gas:candidate-vibid:1001000121846": 94,
+      "gas:candidate-vibid:1001000217922": 21,
+      "gas:candidate-vibid:337300170651": 65,
+      "gas:candidate-vibid:1001000289716": 111,
+      "gas:candidate-vibid:1001000190345": 79,
+      "gas:candidate-vibid:337300170799": 50,
+      "gas:candidate-vibid:1001000225935": 260,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 108,
-      "Кузьмина Галина Андреевна": 109,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 55,
-      "Сироткин Сергей Никанорович": 109,
-      "Троеглазов Валерий Васильевич": 86,
-      "Черкашов Владимир Викторович": 58,
-      "Яковлева Татьяна Владимировна": 281,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 108,
+      "gas:candidate-vibid:1001000121846": 109,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 55,
+      "gas:candidate-vibid:1001000289716": 109,
+      "gas:candidate-vibid:1001000190345": 86,
+      "gas:candidate-vibid:337300170799": 58,
+      "gas:candidate-vibid:1001000225935": 281,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 81,
-      "Кузьмина Галина Андреевна": 68,
-      "Курбанов Насиб Курбанович": 10,
-      "Павлов Виктор Валентинович": 25,
-      "Сироткин Сергей Никанорович": 51,
-      "Троеглазов Валерий Васильевич": 50,
-      "Черкашов Владимир Викторович": 38,
-      "Яковлева Татьяна Владимировна": 188,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 81,
+      "gas:candidate-vibid:1001000121846": 68,
+      "gas:candidate-vibid:1001000217922": 10,
+      "gas:candidate-vibid:337300170651": 25,
+      "gas:candidate-vibid:1001000289716": 51,
+      "gas:candidate-vibid:1001000190345": 50,
+      "gas:candidate-vibid:337300170799": 38,
+      "gas:candidate-vibid:1001000225935": 188,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 9,
-      "Колесов Сергей Геннадьевич": 98,
-      "Кузьмина Галина Андреевна": 59,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 53,
-      "Сироткин Сергей Никанорович": 87,
-      "Троеглазов Валерий Васильевич": 79,
-      "Черкашов Владимир Викторович": 38,
-      "Яковлева Татьяна Владимировна": 213,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000202307": 9,
+      "gas:candidate-vibid:1001000113931": 98,
+      "gas:candidate-vibid:1001000121846": 59,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 53,
+      "gas:candidate-vibid:1001000289716": 87,
+      "gas:candidate-vibid:1001000190345": 79,
+      "gas:candidate-vibid:337300170799": 38,
+      "gas:candidate-vibid:1001000225935": 213,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 8,
-      "Колесов Сергей Геннадьевич": 95,
-      "Кузьмина Галина Андреевна": 41,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 39,
-      "Сироткин Сергей Никанорович": 72,
-      "Троеглазов Валерий Васильевич": 71,
-      "Черкашов Владимир Викторович": 42,
-      "Яковлева Татьяна Владимировна": 167,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000202307": 8,
+      "gas:candidate-vibid:1001000113931": 95,
+      "gas:candidate-vibid:1001000121846": 41,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 39,
+      "gas:candidate-vibid:1001000289716": 72,
+      "gas:candidate-vibid:1001000190345": 71,
+      "gas:candidate-vibid:337300170799": 42,
+      "gas:candidate-vibid:1001000225935": 167,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 15,
-      "Колесов Сергей Геннадьевич": 111,
-      "Кузьмина Галина Андреевна": 132,
-      "Курбанов Насиб Курбанович": 20,
-      "Павлов Виктор Валентинович": 70,
-      "Сироткин Сергей Никанорович": 118,
-      "Троеглазов Валерий Васильевич": 91,
-      "Черкашов Владимир Викторович": 66,
-      "Яковлева Татьяна Владимировна": 297,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000202307": 15,
+      "gas:candidate-vibid:1001000113931": 111,
+      "gas:candidate-vibid:1001000121846": 132,
+      "gas:candidate-vibid:1001000217922": 20,
+      "gas:candidate-vibid:337300170651": 70,
+      "gas:candidate-vibid:1001000289716": 118,
+      "gas:candidate-vibid:1001000190345": 91,
+      "gas:candidate-vibid:337300170799": 66,
+      "gas:candidate-vibid:1001000225935": 297,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 86,
-      "Кузьмина Галина Андреевна": 93,
-      "Курбанов Насиб Курбанович": 7,
-      "Павлов Виктор Валентинович": 43,
-      "Сироткин Сергей Никанорович": 78,
-      "Троеглазов Валерий Васильевич": 89,
-      "Черкашов Владимир Викторович": 64,
-      "Яковлева Татьяна Владимировна": 206,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 86,
+      "gas:candidate-vibid:1001000121846": 93,
+      "gas:candidate-vibid:1001000217922": 7,
+      "gas:candidate-vibid:337300170651": 43,
+      "gas:candidate-vibid:1001000289716": 78,
+      "gas:candidate-vibid:1001000190345": 89,
+      "gas:candidate-vibid:337300170799": 64,
+      "gas:candidate-vibid:1001000225935": 206,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 20,
-      "Колесов Сергей Геннадьевич": 110,
-      "Кузьмина Галина Андреевна": 121,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 63,
-      "Сироткин Сергей Никанорович": 92,
-      "Троеглазов Валерий Васильевич": 100,
-      "Черкашов Владимир Викторович": 88,
-      "Яковлева Татьяна Владимировна": 281,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000202307": 20,
+      "gas:candidate-vibid:1001000113931": 110,
+      "gas:candidate-vibid:1001000121846": 121,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 63,
+      "gas:candidate-vibid:1001000289716": 92,
+      "gas:candidate-vibid:1001000190345": 100,
+      "gas:candidate-vibid:337300170799": 88,
+      "gas:candidate-vibid:1001000225935": 281,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 22,
-      "Колесов Сергей Геннадьевич": 81,
-      "Кузьмина Галина Андреевна": 107,
-      "Курбанов Насиб Курбанович": 13,
-      "Павлов Виктор Валентинович": 90,
-      "Сироткин Сергей Никанорович": 97,
-      "Троеглазов Валерий Васильевич": 98,
-      "Черкашов Владимир Викторович": 53,
-      "Яковлева Татьяна Владимировна": 302,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000202307": 22,
+      "gas:candidate-vibid:1001000113931": 81,
+      "gas:candidate-vibid:1001000121846": 107,
+      "gas:candidate-vibid:1001000217922": 13,
+      "gas:candidate-vibid:337300170651": 90,
+      "gas:candidate-vibid:1001000289716": 97,
+      "gas:candidate-vibid:1001000190345": 98,
+      "gas:candidate-vibid:337300170799": 53,
+      "gas:candidate-vibid:1001000225935": 302,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 100,
-      "Кузьмина Галина Андреевна": 90,
-      "Курбанов Насиб Курбанович": 28,
-      "Павлов Виктор Валентинович": 76,
-      "Сироткин Сергей Никанорович": 126,
-      "Троеглазов Валерий Васильевич": 65,
-      "Черкашов Владимир Викторович": 69,
-      "Яковлева Татьяна Владимировна": 332,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 100,
+      "gas:candidate-vibid:1001000121846": 90,
+      "gas:candidate-vibid:1001000217922": 28,
+      "gas:candidate-vibid:337300170651": 76,
+      "gas:candidate-vibid:1001000289716": 126,
+      "gas:candidate-vibid:1001000190345": 65,
+      "gas:candidate-vibid:337300170799": 69,
+      "gas:candidate-vibid:1001000225935": 332,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 14,
-      "Колесов Сергей Геннадьевич": 109,
-      "Кузьмина Галина Андреевна": 109,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 48,
-      "Сироткин Сергей Никанорович": 99,
-      "Троеглазов Валерий Васильевич": 104,
-      "Черкашов Владимир Викторович": 35,
-      "Яковлева Татьяна Владимировна": 341,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000202307": 14,
+      "gas:candidate-vibid:1001000113931": 109,
+      "gas:candidate-vibid:1001000121846": 109,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 48,
+      "gas:candidate-vibid:1001000289716": 99,
+      "gas:candidate-vibid:1001000190345": 104,
+      "gas:candidate-vibid:337300170799": 35,
+      "gas:candidate-vibid:1001000225935": 341,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 19,
-      "Колесов Сергей Геннадьевич": 130,
-      "Кузьмина Галина Андреевна": 142,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 66,
-      "Сироткин Сергей Никанорович": 113,
-      "Троеглазов Валерий Васильевич": 128,
-      "Черкашов Владимир Викторович": 70,
-      "Яковлева Татьяна Владимировна": 317,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000202307": 19,
+      "gas:candidate-vibid:1001000113931": 130,
+      "gas:candidate-vibid:1001000121846": 142,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 66,
+      "gas:candidate-vibid:1001000289716": 113,
+      "gas:candidate-vibid:1001000190345": 128,
+      "gas:candidate-vibid:337300170799": 70,
+      "gas:candidate-vibid:1001000225935": 317,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 11,
-      "Колесов Сергей Геннадьевич": 99,
-      "Кузьмина Галина Андреевна": 102,
-      "Курбанов Насиб Курбанович": 11,
-      "Павлов Виктор Валентинович": 53,
-      "Сироткин Сергей Никанорович": 126,
-      "Троеглазов Валерий Васильевич": 119,
-      "Черкашов Владимир Викторович": 63,
-      "Яковлева Татьяна Владимировна": 315,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000202307": 11,
+      "gas:candidate-vibid:1001000113931": 99,
+      "gas:candidate-vibid:1001000121846": 102,
+      "gas:candidate-vibid:1001000217922": 11,
+      "gas:candidate-vibid:337300170651": 53,
+      "gas:candidate-vibid:1001000289716": 126,
+      "gas:candidate-vibid:1001000190345": 119,
+      "gas:candidate-vibid:337300170799": 63,
+      "gas:candidate-vibid:1001000225935": 315,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 7,
-      "Колесов Сергей Геннадьевич": 83,
-      "Кузьмина Галина Андреевна": 65,
-      "Курбанов Насиб Курбанович": 16,
-      "Павлов Виктор Валентинович": 42,
-      "Сироткин Сергей Никанорович": 98,
-      "Троеглазов Валерий Васильевич": 68,
-      "Черкашов Владимир Викторович": 34,
-      "Яковлева Татьяна Владимировна": 256,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000202307": 7,
+      "gas:candidate-vibid:1001000113931": 83,
+      "gas:candidate-vibid:1001000121846": 65,
+      "gas:candidate-vibid:1001000217922": 16,
+      "gas:candidate-vibid:337300170651": 42,
+      "gas:candidate-vibid:1001000289716": 98,
+      "gas:candidate-vibid:1001000190345": 68,
+      "gas:candidate-vibid:337300170799": 34,
+      "gas:candidate-vibid:1001000225935": 256,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 10,
-      "Колесов Сергей Геннадьевич": 95,
-      "Кузьмина Галина Андреевна": 83,
-      "Курбанов Насиб Курбанович": 15,
-      "Павлов Виктор Валентинович": 36,
-      "Сироткин Сергей Никанорович": 75,
-      "Троеглазов Валерий Васильевич": 64,
-      "Черкашов Владимир Викторович": 33,
-      "Яковлева Татьяна Владимировна": 230,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202307": 10,
+      "gas:candidate-vibid:1001000113931": 95,
+      "gas:candidate-vibid:1001000121846": 83,
+      "gas:candidate-vibid:1001000217922": 15,
+      "gas:candidate-vibid:337300170651": 36,
+      "gas:candidate-vibid:1001000289716": 75,
+      "gas:candidate-vibid:1001000190345": 64,
+      "gas:candidate-vibid:337300170799": 33,
+      "gas:candidate-vibid:1001000225935": 230,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_37_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Беляев Леонид Анатольевич": 5,
-      "Колесов Сергей Геннадьевич": 27,
-      "Кузьмина Галина Андреевна": 11,
-      "Курбанов Насиб Курбанович": 8,
-      "Павлов Виктор Валентинович": 11,
-      "Сироткин Сергей Никанорович": 72,
-      "Троеглазов Валерий Васильевич": 38,
-      "Черкашов Владимир Викторович": 14,
-      "Яковлева Татьяна Владимировна": 38,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000202307": 5,
+      "gas:candidate-vibid:1001000113931": 27,
+      "gas:candidate-vibid:1001000121846": 11,
+      "gas:candidate-vibid:1001000217922": 8,
+      "gas:candidate-vibid:337300170651": 11,
+      "gas:candidate-vibid:1001000289716": 72,
+      "gas:candidate-vibid:1001000190345": 38,
+      "gas:candidate-vibid:337300170799": 14,
+      "gas:candidate-vibid:1001000225935": 38,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=372000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=237200070487&region=0&sub_region=0&type=429",

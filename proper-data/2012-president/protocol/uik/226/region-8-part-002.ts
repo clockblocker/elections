@@ -38,11 +38,11 @@ export const president_2012_uik_226_region_8_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 19,
-      "Миронов Сергей Михайлович": 2,
-      "Прохоров Михаил Дмитриевич": 7,
-      "Путин Владимир Владимирович": 313
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 19,
+      "gas:candidate-vibid:100100032143255": 2,
+      "gas:candidate-vibid:100100032152563": 7,
+      "gas:candidate-vibid:100100032111402": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000028&tvd=2082000205751&vrn=100100031793505&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000205751&type=227",
@@ -88,11 +88,11 @@ export const president_2012_uik_226_region_8_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 42,
-      "Миронов Сергей Михайлович": 7,
-      "Прохоров Михаил Дмитриевич": 9,
-      "Путин Владимир Владимирович": 590
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 42,
+      "gas:candidate-vibid:100100032143255": 7,
+      "gas:candidate-vibid:100100032152563": 9,
+      "gas:candidate-vibid:100100032111402": 590
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000028&tvd=2082000205751&vrn=100100031793505&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000205751&type=227",
@@ -138,11 +138,11 @@ export const president_2012_uik_226_region_8_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 10,
-      "Миронов Сергей Михайлович": 1,
-      "Прохоров Михаил Дмитриевич": 1,
-      "Путин Владимир Владимирович": 178
+      "gas:candidate-vibid:100100032152680": 0,
+      "gas:candidate-vibid:100100032159240": 10,
+      "gas:candidate-vibid:100100032143255": 1,
+      "gas:candidate-vibid:100100032152563": 1,
+      "gas:candidate-vibid:100100032111402": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kalmyk?action=show&root=1000028&tvd=2082000205751&vrn=100100031793505&region=8&global=&sub_region=8&prver=0&pronetvd=null&vibid=2082000205751&type=227",

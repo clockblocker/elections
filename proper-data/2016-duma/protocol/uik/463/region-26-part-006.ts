@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 23,
-      "Бондаренко Елена Вениаминовна": 146,
-      "Дзасохов Георгий Георгиевич": 6,
-      "Лозовой Виктор Иванович": 44,
-      "Ляшенко Николай Андреевич": 11,
-      "Середенко Михаил Иванович": 3,
-      "Слинько Денис Иванович": 6,
-      "Черногоров Александр Леонидович": 39,
-      "Чикатуева Алина Зурабовна": 9
+      "gas:candidate-vibid:2262000862920": 23,
+      "gas:candidate-vibid:2262000864557": 146,
+      "gas:candidate-vibid:2262000864975": 6,
+      "gas:candidate-vibid:2262000863776": 44,
+      "gas:candidate-vibid:2262000865224": 11,
+      "gas:candidate-vibid:2262000865434": 3,
+      "gas:candidate-vibid:2262000863699": 6,
+      "gas:candidate-vibid:2262000799392": 39,
+      "gas:candidate-vibid:2262000861922": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 9,
-      "Бондаренко Елена Вениаминовна": 68,
-      "Дзасохов Георгий Георгиевич": 3,
-      "Лозовой Виктор Иванович": 17,
-      "Ляшенко Николай Андреевич": 2,
-      "Середенко Михаил Иванович": 1,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 10,
-      "Чикатуева Алина Зурабовна": 7
+      "gas:candidate-vibid:2262000862920": 9,
+      "gas:candidate-vibid:2262000864557": 68,
+      "gas:candidate-vibid:2262000864975": 3,
+      "gas:candidate-vibid:2262000863776": 17,
+      "gas:candidate-vibid:2262000865224": 2,
+      "gas:candidate-vibid:2262000865434": 1,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 10,
+      "gas:candidate-vibid:2262000861922": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 6,
-      "Бондаренко Елена Вениаминовна": 59,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 6,
-      "Ляшенко Николай Андреевич": 4,
-      "Середенко Михаил Иванович": 3,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 10,
-      "Чикатуева Алина Зурабовна": 1
+      "gas:candidate-vibid:2262000862920": 6,
+      "gas:candidate-vibid:2262000864557": 59,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 6,
+      "gas:candidate-vibid:2262000865224": 4,
+      "gas:candidate-vibid:2262000865434": 3,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 10,
+      "gas:candidate-vibid:2262000861922": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 34,
-      "Бондаренко Елена Вениаминовна": 350,
-      "Дзасохов Георгий Георгиевич": 11,
-      "Лозовой Виктор Иванович": 67,
-      "Ляшенко Николай Андреевич": 31,
-      "Середенко Михаил Иванович": 3,
-      "Слинько Денис Иванович": 7,
-      "Черногоров Александр Леонидович": 50,
-      "Чикатуева Алина Зурабовна": 10
+      "gas:candidate-vibid:2262000862920": 34,
+      "gas:candidate-vibid:2262000864557": 350,
+      "gas:candidate-vibid:2262000864975": 11,
+      "gas:candidate-vibid:2262000863776": 67,
+      "gas:candidate-vibid:2262000865224": 31,
+      "gas:candidate-vibid:2262000865434": 3,
+      "gas:candidate-vibid:2262000863699": 7,
+      "gas:candidate-vibid:2262000799392": 50,
+      "gas:candidate-vibid:2262000861922": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 1,
-      "Бондаренко Елена Вениаминовна": 103,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 10,
-      "Ляшенко Николай Андреевич": 1,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 16,
-      "Чикатуева Алина Зурабовна": 3
+      "gas:candidate-vibid:2262000862920": 1,
+      "gas:candidate-vibid:2262000864557": 103,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 10,
+      "gas:candidate-vibid:2262000865224": 1,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 16,
+      "gas:candidate-vibid:2262000861922": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 35,
-      "Бондаренко Елена Вениаминовна": 527,
-      "Дзасохов Георгий Георгиевич": 16,
-      "Лозовой Виктор Иванович": 113,
-      "Ляшенко Николай Андреевич": 20,
-      "Середенко Михаил Иванович": 6,
-      "Слинько Денис Иванович": 13,
-      "Черногоров Александр Леонидович": 64,
-      "Чикатуева Алина Зурабовна": 20
+      "gas:candidate-vibid:2262000862920": 35,
+      "gas:candidate-vibid:2262000864557": 527,
+      "gas:candidate-vibid:2262000864975": 16,
+      "gas:candidate-vibid:2262000863776": 113,
+      "gas:candidate-vibid:2262000865224": 20,
+      "gas:candidate-vibid:2262000865434": 6,
+      "gas:candidate-vibid:2262000863699": 13,
+      "gas:candidate-vibid:2262000799392": 64,
+      "gas:candidate-vibid:2262000861922": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 12,
-      "Бондаренко Елена Вениаминовна": 222,
-      "Дзасохов Георгий Георгиевич": 4,
-      "Лозовой Виктор Иванович": 24,
-      "Ляшенко Николай Андреевич": 6,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 3,
-      "Черногоров Александр Леонидович": 11,
-      "Чикатуева Алина Зурабовна": 7
+      "gas:candidate-vibid:2262000862920": 12,
+      "gas:candidate-vibid:2262000864557": 222,
+      "gas:candidate-vibid:2262000864975": 4,
+      "gas:candidate-vibid:2262000863776": 24,
+      "gas:candidate-vibid:2262000865224": 6,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 3,
+      "gas:candidate-vibid:2262000799392": 11,
+      "gas:candidate-vibid:2262000861922": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 16,
-      "Бондаренко Елена Вениаминовна": 140,
-      "Дзасохов Георгий Георгиевич": 9,
-      "Лозовой Виктор Иванович": 35,
-      "Ляшенко Николай Андреевич": 5,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 3,
-      "Черногоров Александр Леонидович": 32,
-      "Чикатуева Алина Зурабовна": 9
+      "gas:candidate-vibid:2262000862920": 16,
+      "gas:candidate-vibid:2262000864557": 140,
+      "gas:candidate-vibid:2262000864975": 9,
+      "gas:candidate-vibid:2262000863776": 35,
+      "gas:candidate-vibid:2262000865224": 5,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 3,
+      "gas:candidate-vibid:2262000799392": 32,
+      "gas:candidate-vibid:2262000861922": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 18,
-      "Бондаренко Елена Вениаминовна": 108,
-      "Дзасохов Георгий Георгиевич": 5,
-      "Лозовой Виктор Иванович": 21,
-      "Ляшенко Николай Андреевич": 7,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 5,
-      "Черногоров Александр Леонидович": 19,
-      "Чикатуева Алина Зурабовна": 4
+      "gas:candidate-vibid:2262000862920": 18,
+      "gas:candidate-vibid:2262000864557": 108,
+      "gas:candidate-vibid:2262000864975": 5,
+      "gas:candidate-vibid:2262000863776": 21,
+      "gas:candidate-vibid:2262000865224": 7,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 5,
+      "gas:candidate-vibid:2262000799392": 19,
+      "gas:candidate-vibid:2262000861922": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 27,
-      "Бондаренко Елена Вениаминовна": 168,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 39,
-      "Ляшенко Николай Андреевич": 14,
-      "Середенко Михаил Иванович": 4,
-      "Слинько Денис Иванович": 11,
-      "Черногоров Александр Леонидович": 49,
-      "Чикатуева Алина Зурабовна": 5
+      "gas:candidate-vibid:2262000862920": 27,
+      "gas:candidate-vibid:2262000864557": 168,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 39,
+      "gas:candidate-vibid:2262000865224": 14,
+      "gas:candidate-vibid:2262000865434": 4,
+      "gas:candidate-vibid:2262000863699": 11,
+      "gas:candidate-vibid:2262000799392": 49,
+      "gas:candidate-vibid:2262000861922": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 37,
-      "Бондаренко Елена Вениаминовна": 200,
-      "Дзасохов Георгий Георгиевич": 3,
-      "Лозовой Виктор Иванович": 109,
-      "Ляшенко Николай Андреевич": 16,
-      "Середенко Михаил Иванович": 6,
-      "Слинько Денис Иванович": 11,
-      "Черногоров Александр Леонидович": 40,
-      "Чикатуева Алина Зурабовна": 8
+      "gas:candidate-vibid:2262000862920": 37,
+      "gas:candidate-vibid:2262000864557": 200,
+      "gas:candidate-vibid:2262000864975": 3,
+      "gas:candidate-vibid:2262000863776": 109,
+      "gas:candidate-vibid:2262000865224": 16,
+      "gas:candidate-vibid:2262000865434": 6,
+      "gas:candidate-vibid:2262000863699": 11,
+      "gas:candidate-vibid:2262000799392": 40,
+      "gas:candidate-vibid:2262000861922": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 25,
-      "Бондаренко Елена Вениаминовна": 90,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 48,
-      "Ляшенко Николай Андреевич": 7,
-      "Середенко Михаил Иванович": 5,
-      "Слинько Денис Иванович": 3,
-      "Черногоров Александр Леонидович": 27,
-      "Чикатуева Алина Зурабовна": 9
+      "gas:candidate-vibid:2262000862920": 25,
+      "gas:candidate-vibid:2262000864557": 90,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 48,
+      "gas:candidate-vibid:2262000865224": 7,
+      "gas:candidate-vibid:2262000865434": 5,
+      "gas:candidate-vibid:2262000863699": 3,
+      "gas:candidate-vibid:2262000799392": 27,
+      "gas:candidate-vibid:2262000861922": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 47,
-      "Бондаренко Елена Вениаминовна": 405,
-      "Дзасохов Георгий Георгиевич": 13,
-      "Лозовой Виктор Иванович": 155,
-      "Ляшенко Николай Андреевич": 39,
-      "Середенко Михаил Иванович": 10,
-      "Слинько Денис Иванович": 17,
-      "Черногоров Александр Леонидович": 86,
-      "Чикатуева Алина Зурабовна": 21
+      "gas:candidate-vibid:2262000862920": 47,
+      "gas:candidate-vibid:2262000864557": 405,
+      "gas:candidate-vibid:2262000864975": 13,
+      "gas:candidate-vibid:2262000863776": 155,
+      "gas:candidate-vibid:2262000865224": 39,
+      "gas:candidate-vibid:2262000865434": 10,
+      "gas:candidate-vibid:2262000863699": 17,
+      "gas:candidate-vibid:2262000799392": 86,
+      "gas:candidate-vibid:2262000861922": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 35,
-      "Бондаренко Елена Вениаминовна": 323,
-      "Дзасохов Георгий Георгиевич": 9,
-      "Лозовой Виктор Иванович": 108,
-      "Ляшенко Николай Андреевич": 15,
-      "Середенко Михаил Иванович": 11,
-      "Слинько Денис Иванович": 5,
-      "Черногоров Александр Леонидович": 46,
-      "Чикатуева Алина Зурабовна": 17
+      "gas:candidate-vibid:2262000862920": 35,
+      "gas:candidate-vibid:2262000864557": 323,
+      "gas:candidate-vibid:2262000864975": 9,
+      "gas:candidate-vibid:2262000863776": 108,
+      "gas:candidate-vibid:2262000865224": 15,
+      "gas:candidate-vibid:2262000865434": 11,
+      "gas:candidate-vibid:2262000863699": 5,
+      "gas:candidate-vibid:2262000799392": 46,
+      "gas:candidate-vibid:2262000861922": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 19,
-      "Бондаренко Елена Вениаминовна": 145,
-      "Дзасохов Георгий Георгиевич": 7,
-      "Лозовой Виктор Иванович": 53,
-      "Ляшенко Николай Андреевич": 9,
-      "Середенко Михаил Иванович": 6,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 36,
-      "Чикатуева Алина Зурабовна": 5
+      "gas:candidate-vibid:2262000862920": 19,
+      "gas:candidate-vibid:2262000864557": 145,
+      "gas:candidate-vibid:2262000864975": 7,
+      "gas:candidate-vibid:2262000863776": 53,
+      "gas:candidate-vibid:2262000865224": 9,
+      "gas:candidate-vibid:2262000865434": 6,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 36,
+      "gas:candidate-vibid:2262000861922": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 8,
-      "Бондаренко Елена Вениаминовна": 38,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 23,
-      "Ляшенко Николай Андреевич": 8,
-      "Середенко Михаил Иванович": 1,
-      "Слинько Денис Иванович": 0,
-      "Черногоров Александр Леонидович": 10,
-      "Чикатуева Алина Зурабовна": 4
+      "gas:candidate-vibid:2262000862920": 8,
+      "gas:candidate-vibid:2262000864557": 38,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 23,
+      "gas:candidate-vibid:2262000865224": 8,
+      "gas:candidate-vibid:2262000865434": 1,
+      "gas:candidate-vibid:2262000863699": 0,
+      "gas:candidate-vibid:2262000799392": 10,
+      "gas:candidate-vibid:2262000861922": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 8,
-      "Бондаренко Елена Вениаминовна": 35,
-      "Дзасохов Георгий Георгиевич": 1,
-      "Лозовой Виктор Иванович": 22,
-      "Ляшенко Николай Андреевич": 12,
-      "Середенко Михаил Иванович": 6,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 7,
-      "Чикатуева Алина Зурабовна": 9
+      "gas:candidate-vibid:2262000862920": 8,
+      "gas:candidate-vibid:2262000864557": 35,
+      "gas:candidate-vibid:2262000864975": 1,
+      "gas:candidate-vibid:2262000863776": 22,
+      "gas:candidate-vibid:2262000865224": 12,
+      "gas:candidate-vibid:2262000865434": 6,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 7,
+      "gas:candidate-vibid:2262000861922": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761487&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761487&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 27,
-      "Бондаренко Елена Вениаминовна": 592,
-      "Дзасохов Георгий Георгиевич": 12,
-      "Лозовой Виктор Иванович": 192,
-      "Ляшенко Николай Андреевич": 8,
-      "Середенко Михаил Иванович": 9,
-      "Слинько Денис Иванович": 5,
-      "Черногоров Александр Леонидович": 62,
-      "Чикатуева Алина Зурабовна": 13
+      "gas:candidate-vibid:2262000862920": 27,
+      "gas:candidate-vibid:2262000864557": 592,
+      "gas:candidate-vibid:2262000864975": 12,
+      "gas:candidate-vibid:2262000863776": 192,
+      "gas:candidate-vibid:2262000865224": 8,
+      "gas:candidate-vibid:2262000865434": 9,
+      "gas:candidate-vibid:2262000863699": 5,
+      "gas:candidate-vibid:2262000799392": 62,
+      "gas:candidate-vibid:2262000861922": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 30,
-      "Бондаренко Елена Вениаминовна": 435,
-      "Дзасохов Георгий Георгиевич": 5,
-      "Лозовой Виктор Иванович": 123,
-      "Ляшенко Николай Андреевич": 5,
-      "Середенко Михаил Иванович": 9,
-      "Слинько Денис Иванович": 8,
-      "Черногоров Александр Леонидович": 39,
-      "Чикатуева Алина Зурабовна": 11
+      "gas:candidate-vibid:2262000862920": 30,
+      "gas:candidate-vibid:2262000864557": 435,
+      "gas:candidate-vibid:2262000864975": 5,
+      "gas:candidate-vibid:2262000863776": 123,
+      "gas:candidate-vibid:2262000865224": 5,
+      "gas:candidate-vibid:2262000865434": 9,
+      "gas:candidate-vibid:2262000863699": 8,
+      "gas:candidate-vibid:2262000799392": 39,
+      "gas:candidate-vibid:2262000861922": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 5,
-      "Бондаренко Елена Вениаминовна": 259,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 82,
-      "Ляшенко Николай Андреевич": 4,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 12,
-      "Чикатуева Алина Зурабовна": 2
+      "gas:candidate-vibid:2262000862920": 5,
+      "gas:candidate-vibid:2262000864557": 259,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 82,
+      "gas:candidate-vibid:2262000865224": 4,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 12,
+      "gas:candidate-vibid:2262000861922": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 2,
-      "Бондаренко Елена Вениаминовна": 93,
-      "Дзасохов Георгий Георгиевич": 1,
-      "Лозовой Виктор Иванович": 7,
-      "Ляшенко Николай Андреевич": 1,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 2,
-      "Черногоров Александр Леонидович": 9,
-      "Чикатуева Алина Зурабовна": 4
+      "gas:candidate-vibid:2262000862920": 2,
+      "gas:candidate-vibid:2262000864557": 93,
+      "gas:candidate-vibid:2262000864975": 1,
+      "gas:candidate-vibid:2262000863776": 7,
+      "gas:candidate-vibid:2262000865224": 1,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 2,
+      "gas:candidate-vibid:2262000799392": 9,
+      "gas:candidate-vibid:2262000861922": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 3,
-      "Бондаренко Елена Вениаминовна": 55,
-      "Дзасохов Георгий Георгиевич": 0,
-      "Лозовой Виктор Иванович": 4,
-      "Ляшенко Николай Андреевич": 1,
-      "Середенко Михаил Иванович": 0,
-      "Слинько Денис Иванович": 0,
-      "Черногоров Александр Леонидович": 5,
-      "Чикатуева Алина Зурабовна": 0
+      "gas:candidate-vibid:2262000862920": 3,
+      "gas:candidate-vibid:2262000864557": 55,
+      "gas:candidate-vibid:2262000864975": 0,
+      "gas:candidate-vibid:2262000863776": 4,
+      "gas:candidate-vibid:2262000865224": 1,
+      "gas:candidate-vibid:2262000865434": 0,
+      "gas:candidate-vibid:2262000863699": 0,
+      "gas:candidate-vibid:2262000799392": 5,
+      "gas:candidate-vibid:2262000861922": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 26,
-      "Бондаренко Елена Вениаминовна": 358,
-      "Дзасохов Георгий Георгиевич": 5,
-      "Лозовой Виктор Иванович": 187,
-      "Ляшенко Николай Андреевич": 3,
-      "Середенко Михаил Иванович": 4,
-      "Слинько Денис Иванович": 9,
-      "Черногоров Александр Леонидович": 73,
-      "Чикатуева Алина Зурабовна": 4
+      "gas:candidate-vibid:2262000862920": 26,
+      "gas:candidate-vibid:2262000864557": 358,
+      "gas:candidate-vibid:2262000864975": 5,
+      "gas:candidate-vibid:2262000863776": 187,
+      "gas:candidate-vibid:2262000865224": 3,
+      "gas:candidate-vibid:2262000865434": 4,
+      "gas:candidate-vibid:2262000863699": 9,
+      "gas:candidate-vibid:2262000799392": 73,
+      "gas:candidate-vibid:2262000861922": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 11,
-      "Бондаренко Елена Вениаминовна": 61,
-      "Дзасохов Георгий Георгиевич": 0,
-      "Лозовой Виктор Иванович": 38,
-      "Ляшенко Николай Андреевич": 0,
-      "Середенко Михаил Иванович": 1,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 12,
-      "Чикатуева Алина Зурабовна": 2
+      "gas:candidate-vibid:2262000862920": 11,
+      "gas:candidate-vibid:2262000864557": 61,
+      "gas:candidate-vibid:2262000864975": 0,
+      "gas:candidate-vibid:2262000863776": 38,
+      "gas:candidate-vibid:2262000865224": 0,
+      "gas:candidate-vibid:2262000865434": 1,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 12,
+      "gas:candidate-vibid:2262000861922": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 36,
-      "Бондаренко Елена Вениаминовна": 475,
-      "Дзасохов Георгий Георгиевич": 3,
-      "Лозовой Виктор Иванович": 153,
-      "Ляшенко Николай Андреевич": 5,
-      "Середенко Михаил Иванович": 10,
-      "Слинько Денис Иванович": 3,
-      "Черногоров Александр Леонидович": 56,
-      "Чикатуева Алина Зурабовна": 7
+      "gas:candidate-vibid:2262000862920": 36,
+      "gas:candidate-vibid:2262000864557": 475,
+      "gas:candidate-vibid:2262000864975": 3,
+      "gas:candidate-vibid:2262000863776": 153,
+      "gas:candidate-vibid:2262000865224": 5,
+      "gas:candidate-vibid:2262000865434": 10,
+      "gas:candidate-vibid:2262000863699": 3,
+      "gas:candidate-vibid:2262000799392": 56,
+      "gas:candidate-vibid:2262000861922": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 19,
-      "Бондаренко Елена Вениаминовна": 409,
-      "Дзасохов Георгий Георгиевич": 6,
-      "Лозовой Виктор Иванович": 139,
-      "Ляшенко Николай Андреевич": 8,
-      "Середенко Михаил Иванович": 9,
-      "Слинько Денис Иванович": 8,
-      "Черногоров Александр Леонидович": 40,
-      "Чикатуева Алина Зурабовна": 7
+      "gas:candidate-vibid:2262000862920": 19,
+      "gas:candidate-vibid:2262000864557": 409,
+      "gas:candidate-vibid:2262000864975": 6,
+      "gas:candidate-vibid:2262000863776": 139,
+      "gas:candidate-vibid:2262000865224": 8,
+      "gas:candidate-vibid:2262000865434": 9,
+      "gas:candidate-vibid:2262000863699": 8,
+      "gas:candidate-vibid:2262000799392": 40,
+      "gas:candidate-vibid:2262000861922": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 26,
-      "Бондаренко Елена Вениаминовна": 447,
-      "Дзасохов Георгий Георгиевич": 4,
-      "Лозовой Виктор Иванович": 110,
-      "Ляшенко Николай Андреевич": 8,
-      "Середенко Михаил Иванович": 3,
-      "Слинько Денис Иванович": 3,
-      "Черногоров Александр Леонидович": 20,
-      "Чикатуева Алина Зурабовна": 2
+      "gas:candidate-vibid:2262000862920": 26,
+      "gas:candidate-vibid:2262000864557": 447,
+      "gas:candidate-vibid:2262000864975": 4,
+      "gas:candidate-vibid:2262000863776": 110,
+      "gas:candidate-vibid:2262000865224": 8,
+      "gas:candidate-vibid:2262000865434": 3,
+      "gas:candidate-vibid:2262000863699": 3,
+      "gas:candidate-vibid:2262000799392": 20,
+      "gas:candidate-vibid:2262000861922": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 9,
-      "Бондаренко Елена Вениаминовна": 255,
-      "Дзасохов Георгий Георгиевич": 5,
-      "Лозовой Виктор Иванович": 22,
-      "Ляшенко Николай Андреевич": 5,
-      "Середенко Михаил Иванович": 2,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 21,
-      "Чикатуева Алина Зурабовна": 4
+      "gas:candidate-vibid:2262000862920": 9,
+      "gas:candidate-vibid:2262000864557": 255,
+      "gas:candidate-vibid:2262000864975": 5,
+      "gas:candidate-vibid:2262000863776": 22,
+      "gas:candidate-vibid:2262000865224": 5,
+      "gas:candidate-vibid:2262000865434": 2,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 21,
+      "gas:candidate-vibid:2262000861922": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 2,
-      "Бондаренко Елена Вениаминовна": 34,
-      "Дзасохов Георгий Георгиевич": 1,
-      "Лозовой Виктор Иванович": 2,
-      "Ляшенко Николай Андреевич": 1,
-      "Середенко Михаил Иванович": 3,
-      "Слинько Денис Иванович": 0,
-      "Черногоров Александр Леонидович": 9,
-      "Чикатуева Алина Зурабовна": 0
+      "gas:candidate-vibid:2262000862920": 2,
+      "gas:candidate-vibid:2262000864557": 34,
+      "gas:candidate-vibid:2262000864975": 1,
+      "gas:candidate-vibid:2262000863776": 2,
+      "gas:candidate-vibid:2262000865224": 1,
+      "gas:candidate-vibid:2262000865434": 3,
+      "gas:candidate-vibid:2262000863699": 0,
+      "gas:candidate-vibid:2262000799392": 9,
+      "gas:candidate-vibid:2262000861922": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 8,
-      "Бондаренко Елена Вениаминовна": 189,
-      "Дзасохов Георгий Георгиевич": 7,
-      "Лозовой Виктор Иванович": 57,
-      "Ляшенко Николай Андреевич": 5,
-      "Середенко Михаил Иванович": 0,
-      "Слинько Денис Иванович": 7,
-      "Черногоров Александр Леонидович": 142,
-      "Чикатуева Алина Зурабовна": 6
+      "gas:candidate-vibid:2262000862920": 8,
+      "gas:candidate-vibid:2262000864557": 189,
+      "gas:candidate-vibid:2262000864975": 7,
+      "gas:candidate-vibid:2262000863776": 57,
+      "gas:candidate-vibid:2262000865224": 5,
+      "gas:candidate-vibid:2262000865434": 0,
+      "gas:candidate-vibid:2262000863699": 7,
+      "gas:candidate-vibid:2262000799392": 142,
+      "gas:candidate-vibid:2262000861922": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 24,
-      "Бондаренко Елена Вениаминовна": 298,
-      "Дзасохов Георгий Георгиевич": 2,
-      "Лозовой Виктор Иванович": 49,
-      "Ляшенко Николай Андреевич": 1,
-      "Середенко Михаил Иванович": 4,
-      "Слинько Денис Иванович": 9,
-      "Черногоров Александр Леонидович": 37,
-      "Чикатуева Алина Зурабовна": 9
+      "gas:candidate-vibid:2262000862920": 24,
+      "gas:candidate-vibid:2262000864557": 298,
+      "gas:candidate-vibid:2262000864975": 2,
+      "gas:candidate-vibid:2262000863776": 49,
+      "gas:candidate-vibid:2262000865224": 1,
+      "gas:candidate-vibid:2262000865434": 4,
+      "gas:candidate-vibid:2262000863699": 9,
+      "gas:candidate-vibid:2262000799392": 37,
+      "gas:candidate-vibid:2262000861922": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 0,
-      "Бондаренко Елена Вениаминовна": 459,
-      "Дзасохов Георгий Георгиевич": 1,
-      "Лозовой Виктор Иванович": 35,
-      "Ляшенко Николай Андреевич": 0,
-      "Середенко Михаил Иванович": 1,
-      "Слинько Денис Иванович": 0,
-      "Черногоров Александр Леонидович": 9,
-      "Чикатуева Алина Зурабовна": 0
+      "gas:candidate-vibid:2262000862920": 0,
+      "gas:candidate-vibid:2262000864557": 459,
+      "gas:candidate-vibid:2262000864975": 1,
+      "gas:candidate-vibid:2262000863776": 35,
+      "gas:candidate-vibid:2262000865224": 0,
+      "gas:candidate-vibid:2262000865434": 1,
+      "gas:candidate-vibid:2262000863699": 0,
+      "gas:candidate-vibid:2262000799392": 9,
+      "gas:candidate-vibid:2262000861922": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 21,
-      "Бондаренко Елена Вениаминовна": 319,
-      "Дзасохов Георгий Георгиевич": 4,
-      "Лозовой Виктор Иванович": 81,
-      "Ляшенко Николай Андреевич": 4,
-      "Середенко Михаил Иванович": 4,
-      "Слинько Денис Иванович": 2,
-      "Черногоров Александр Леонидович": 33,
-      "Чикатуева Алина Зурабовна": 6
+      "gas:candidate-vibid:2262000862920": 21,
+      "gas:candidate-vibid:2262000864557": 319,
+      "gas:candidate-vibid:2262000864975": 4,
+      "gas:candidate-vibid:2262000863776": 81,
+      "gas:candidate-vibid:2262000865224": 4,
+      "gas:candidate-vibid:2262000865434": 4,
+      "gas:candidate-vibid:2262000863699": 2,
+      "gas:candidate-vibid:2262000799392": 33,
+      "gas:candidate-vibid:2262000861922": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 0,
-      "Бондаренко Елена Вениаминовна": 883,
-      "Дзасохов Георгий Георгиевич": 0,
-      "Лозовой Виктор Иванович": 2,
-      "Ляшенко Николай Андреевич": 0,
-      "Середенко Михаил Иванович": 0,
-      "Слинько Денис Иванович": 0,
-      "Черногоров Александр Леонидович": 51,
-      "Чикатуева Алина Зурабовна": 0
+      "gas:candidate-vibid:2262000862920": 0,
+      "gas:candidate-vibid:2262000864557": 883,
+      "gas:candidate-vibid:2262000864975": 0,
+      "gas:candidate-vibid:2262000863776": 2,
+      "gas:candidate-vibid:2262000865224": 0,
+      "gas:candidate-vibid:2262000865434": 0,
+      "gas:candidate-vibid:2262000863699": 0,
+      "gas:candidate-vibid:2262000799392": 51,
+      "gas:candidate-vibid:2262000861922": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 0,
-      "Бондаренко Елена Вениаминовна": 51,
-      "Дзасохов Георгий Георгиевич": 4,
-      "Лозовой Виктор Иванович": 6,
-      "Ляшенко Николай Андреевич": 0,
-      "Середенко Михаил Иванович": 0,
-      "Слинько Денис Иванович": 0,
-      "Черногоров Александр Леонидович": 4,
-      "Чикатуева Алина Зурабовна": 1
+      "gas:candidate-vibid:2262000862920": 0,
+      "gas:candidate-vibid:2262000864557": 51,
+      "gas:candidate-vibid:2262000864975": 4,
+      "gas:candidate-vibid:2262000863776": 6,
+      "gas:candidate-vibid:2262000865224": 0,
+      "gas:candidate-vibid:2262000865434": 0,
+      "gas:candidate-vibid:2262000863699": 0,
+      "gas:candidate-vibid:2262000799392": 4,
+      "gas:candidate-vibid:2262000861922": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 11,
-      "Бондаренко Елена Вениаминовна": 647,
-      "Дзасохов Георгий Георгиевич": 3,
-      "Лозовой Виктор Иванович": 33,
-      "Ляшенко Николай Андреевич": 1,
-      "Середенко Михаил Иванович": 0,
-      "Слинько Денис Иванович": 1,
-      "Черногоров Александр Леонидович": 16,
-      "Чикатуева Алина Зурабовна": 3
+      "gas:candidate-vibid:2262000862920": 11,
+      "gas:candidate-vibid:2262000864557": 647,
+      "gas:candidate-vibid:2262000864975": 3,
+      "gas:candidate-vibid:2262000863776": 33,
+      "gas:candidate-vibid:2262000865224": 1,
+      "gas:candidate-vibid:2262000865434": 0,
+      "gas:candidate-vibid:2262000863699": 1,
+      "gas:candidate-vibid:2262000799392": 16,
+      "gas:candidate-vibid:2262000861922": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 7,
-      "Бондаренко Елена Вениаминовна": 68,
-      "Дзасохов Георгий Георгиевич": 1,
-      "Лозовой Виктор Иванович": 12,
-      "Ляшенко Николай Андреевич": 0,
-      "Середенко Михаил Иванович": 0,
-      "Слинько Денис Иванович": 4,
-      "Черногоров Александр Леонидович": 11,
-      "Чикатуева Алина Зурабовна": 4
+      "gas:candidate-vibid:2262000862920": 7,
+      "gas:candidate-vibid:2262000864557": 68,
+      "gas:candidate-vibid:2262000864975": 1,
+      "gas:candidate-vibid:2262000863776": 12,
+      "gas:candidate-vibid:2262000865224": 0,
+      "gas:candidate-vibid:2262000865434": 0,
+      "gas:candidate-vibid:2262000863699": 4,
+      "gas:candidate-vibid:2262000799392": 11,
+      "gas:candidate-vibid:2262000861922": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_26_part_006 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болховитин Евгений Васильевич": 20,
-      "Бондаренко Елена Вениаминовна": 331,
-      "Дзасохов Георгий Георгиевич": 1,
-      "Лозовой Виктор Иванович": 82,
-      "Ляшенко Николай Андреевич": 7,
-      "Середенко Михаил Иванович": 4,
-      "Слинько Денис Иванович": 8,
-      "Черногоров Александр Леонидович": 51,
-      "Чикатуева Алина Зурабовна": 8
+      "gas:candidate-vibid:2262000862920": 20,
+      "gas:candidate-vibid:2262000864557": 331,
+      "gas:candidate-vibid:2262000864975": 1,
+      "gas:candidate-vibid:2262000863776": 82,
+      "gas:candidate-vibid:2262000865224": 7,
+      "gas:candidate-vibid:2262000865434": 4,
+      "gas:candidate-vibid:2262000863699": 8,
+      "gas:candidate-vibid:2262000799392": 51,
+      "gas:candidate-vibid:2262000861922": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/stavropol?action=show&root=1000084&tvd=2262000761488&vrn=100100067795849&region=26&global=&sub_region=26&prver=0&pronetvd=null&vibid=2262000761488&type=464",

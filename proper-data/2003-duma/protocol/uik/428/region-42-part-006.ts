@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 66,
-      "Овсянников Владимир Анатольевич": 30,
-      "Останина Нина Александровна": 320,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 38
+      "gas:candidate-vibid:342300466822": 66,
+      "gas:candidate-vibid:1001000136063": 30,
+      "gas:candidate-vibid:1001000121855": 320,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 20,
-      "Овсянников Владимир Анатольевич": 28,
-      "Останина Нина Александровна": 191,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:342300466822": 20,
+      "gas:candidate-vibid:1001000136063": 28,
+      "gas:candidate-vibid:1001000121855": 191,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 61,
-      "Овсянников Владимир Анатольевич": 68,
-      "Останина Нина Александровна": 585,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 103
+      "gas:candidate-vibid:342300466822": 61,
+      "gas:candidate-vibid:1001000136063": 68,
+      "gas:candidate-vibid:1001000121855": 585,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 63,
-      "Овсянников Владимир Анатольевич": 59,
-      "Останина Нина Александровна": 491,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 75
+      "gas:candidate-vibid:342300466822": 63,
+      "gas:candidate-vibid:1001000136063": 59,
+      "gas:candidate-vibid:1001000121855": 491,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 22,
-      "Овсянников Владимир Анатольевич": 56,
-      "Останина Нина Александровна": 346,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:342300466822": 22,
+      "gas:candidate-vibid:1001000136063": 56,
+      "gas:candidate-vibid:1001000121855": 346,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 33,
-      "Овсянников Владимир Анатольевич": 41,
-      "Останина Нина Александровна": 436,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 45
+      "gas:candidate-vibid:342300466822": 33,
+      "gas:candidate-vibid:1001000136063": 41,
+      "gas:candidate-vibid:1001000121855": 436,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 17,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 192,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:342300466822": 17,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 192,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 29,
-      "Овсянников Владимир Анатольевич": 38,
-      "Останина Нина Александровна": 455,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:342300466822": 29,
+      "gas:candidate-vibid:1001000136063": 38,
+      "gas:candidate-vibid:1001000121855": 455,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 35,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 156,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:342300466822": 35,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 156,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 63,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 327,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 51
+      "gas:candidate-vibid:342300466822": 63,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 327,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 19,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 185,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 38
+      "gas:candidate-vibid:342300466822": 19,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 185,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 1,
-      "Овсянников Владимир Анатольевич": 2,
-      "Останина Нина Александровна": 69,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:342300466822": 1,
+      "gas:candidate-vibid:1001000136063": 2,
+      "gas:candidate-vibid:1001000121855": 69,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 29,
-      "Овсянников Владимир Анатольевич": 21,
-      "Останина Нина Александровна": 247,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:342300466822": 29,
+      "gas:candidate-vibid:1001000136063": 21,
+      "gas:candidate-vibid:1001000121855": 247,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 33,
-      "Овсянников Владимир Анатольевич": 35,
-      "Останина Нина Александровна": 358,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:342300466822": 33,
+      "gas:candidate-vibid:1001000136063": 35,
+      "gas:candidate-vibid:1001000121855": 358,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 76,
-      "Овсянников Владимир Анатольевич": 35,
-      "Останина Нина Александровна": 427,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:342300466822": 76,
+      "gas:candidate-vibid:1001000136063": 35,
+      "gas:candidate-vibid:1001000121855": 427,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 120,
-      "Овсянников Владимир Анатольевич": 49,
-      "Останина Нина Александровна": 425,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 78
+      "gas:candidate-vibid:342300466822": 120,
+      "gas:candidate-vibid:1001000136063": 49,
+      "gas:candidate-vibid:1001000121855": 425,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 108,
-      "Овсянников Владимир Анатольевич": 49,
-      "Останина Нина Александровна": 454,
-      "Суродин Владимир Иванович": 13,
-      "Против всех": 47
+      "gas:candidate-vibid:342300466822": 108,
+      "gas:candidate-vibid:1001000136063": 49,
+      "gas:candidate-vibid:1001000121855": 454,
+      "gas:candidate-vibid:1001000195082": 13,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 113,
-      "Овсянников Владимир Анатольевич": 37,
-      "Останина Нина Александровна": 478,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 68
+      "gas:candidate-vibid:342300466822": 113,
+      "gas:candidate-vibid:1001000136063": 37,
+      "gas:candidate-vibid:1001000121855": 478,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 16,
-      "Овсянников Владимир Анатольевич": 10,
-      "Останина Нина Александровна": 99,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:342300466822": 16,
+      "gas:candidate-vibid:1001000136063": 10,
+      "gas:candidate-vibid:1001000121855": 99,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 17,
-      "Овсянников Владимир Анатольевич": 16,
-      "Останина Нина Александровна": 190,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:342300466822": 17,
+      "gas:candidate-vibid:1001000136063": 16,
+      "gas:candidate-vibid:1001000121855": 190,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 30,
-      "Овсянников Владимир Анатольевич": 45,
-      "Останина Нина Александровна": 320,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:342300466822": 30,
+      "gas:candidate-vibid:1001000136063": 45,
+      "gas:candidate-vibid:1001000121855": 320,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467002&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 26,
-      "Овсянников Владимир Анатольевич": 36,
-      "Останина Нина Александровна": 419,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:342300466822": 26,
+      "gas:candidate-vibid:1001000136063": 36,
+      "gas:candidate-vibid:1001000121855": 419,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 45,
-      "Овсянников Владимир Анатольевич": 45,
-      "Останина Нина Александровна": 662,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 92
+      "gas:candidate-vibid:342300466822": 45,
+      "gas:candidate-vibid:1001000136063": 45,
+      "gas:candidate-vibid:1001000121855": 662,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 18,
-      "Овсянников Владимир Анатольевич": 15,
-      "Останина Нина Александровна": 330,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:342300466822": 18,
+      "gas:candidate-vibid:1001000136063": 15,
+      "gas:candidate-vibid:1001000121855": 330,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 7,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 264,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:342300466822": 7,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 264,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 11,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 276,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 29
+      "gas:candidate-vibid:342300466822": 11,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 276,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 9,
-      "Овсянников Владимир Анатольевич": 14,
-      "Останина Нина Александровна": 406,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:342300466822": 9,
+      "gas:candidate-vibid:1001000136063": 14,
+      "gas:candidate-vibid:1001000121855": 406,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 15,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 201,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:342300466822": 15,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 201,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 10,
-      "Овсянников Владимир Анатольевич": 9,
-      "Останина Нина Александровна": 99,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:342300466822": 10,
+      "gas:candidate-vibid:1001000136063": 9,
+      "gas:candidate-vibid:1001000121855": 99,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 7,
-      "Овсянников Владимир Анатольевич": 22,
-      "Останина Нина Александровна": 268,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:342300466822": 7,
+      "gas:candidate-vibid:1001000136063": 22,
+      "gas:candidate-vibid:1001000121855": 268,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 70,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 461,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 63
+      "gas:candidate-vibid:342300466822": 70,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 461,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 57,
-      "Овсянников Владимир Анатольевич": 29,
-      "Останина Нина Александровна": 473,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 60
+      "gas:candidate-vibid:342300466822": 57,
+      "gas:candidate-vibid:1001000136063": 29,
+      "gas:candidate-vibid:1001000121855": 473,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 73,
-      "Овсянников Владимир Анатольевич": 51,
-      "Останина Нина Александровна": 662,
-      "Суродин Владимир Иванович": 13,
-      "Против всех": 79
+      "gas:candidate-vibid:342300466822": 73,
+      "gas:candidate-vibid:1001000136063": 51,
+      "gas:candidate-vibid:1001000121855": 662,
+      "gas:candidate-vibid:1001000195082": 13,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 68,
-      "Овсянников Владимир Анатольевич": 55,
-      "Останина Нина Александровна": 811,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 83
+      "gas:candidate-vibid:342300466822": 68,
+      "gas:candidate-vibid:1001000136063": 55,
+      "gas:candidate-vibid:1001000121855": 811,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 38,
-      "Овсянников Владимир Анатольевич": 24,
-      "Останина Нина Александровна": 317,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:342300466822": 38,
+      "gas:candidate-vibid:1001000136063": 24,
+      "gas:candidate-vibid:1001000121855": 317,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 54,
-      "Овсянников Владимир Анатольевич": 54,
-      "Останина Нина Александровна": 615,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 75
+      "gas:candidate-vibid:342300466822": 54,
+      "gas:candidate-vibid:1001000136063": 54,
+      "gas:candidate-vibid:1001000121855": 615,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 62,
-      "Овсянников Владимир Анатольевич": 27,
-      "Останина Нина Александровна": 501,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 69
+      "gas:candidate-vibid:342300466822": 62,
+      "gas:candidate-vibid:1001000136063": 27,
+      "gas:candidate-vibid:1001000121855": 501,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 44,
-      "Овсянников Владимир Анатольевич": 12,
-      "Останина Нина Александровна": 317,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 35
+      "gas:candidate-vibid:342300466822": 44,
+      "gas:candidate-vibid:1001000136063": 12,
+      "gas:candidate-vibid:1001000121855": 317,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 70,
-      "Овсянников Владимир Анатольевич": 51,
-      "Останина Нина Александровна": 836,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 119
+      "gas:candidate-vibid:342300466822": 70,
+      "gas:candidate-vibid:1001000136063": 51,
+      "gas:candidate-vibid:1001000121855": 836,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 55,
-      "Овсянников Владимир Анатольевич": 18,
-      "Останина Нина Александровна": 413,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:342300466822": 55,
+      "gas:candidate-vibid:1001000136063": 18,
+      "gas:candidate-vibid:1001000121855": 413,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 9,
-      "Овсянников Владимир Анатольевич": 16,
-      "Останина Нина Александровна": 255,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:342300466822": 9,
+      "gas:candidate-vibid:1001000136063": 16,
+      "gas:candidate-vibid:1001000121855": 255,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 18,
-      "Овсянников Владимир Анатольевич": 15,
-      "Останина Нина Александровна": 463,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:342300466822": 18,
+      "gas:candidate-vibid:1001000136063": 15,
+      "gas:candidate-vibid:1001000121855": 463,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 40,
-      "Овсянников Владимир Анатольевич": 29,
-      "Останина Нина Александровна": 400,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:342300466822": 40,
+      "gas:candidate-vibid:1001000136063": 29,
+      "gas:candidate-vibid:1001000121855": 400,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 46,
-      "Овсянников Владимир Анатольевич": 42,
-      "Останина Нина Александровна": 666,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 55
+      "gas:candidate-vibid:342300466822": 46,
+      "gas:candidate-vibid:1001000136063": 42,
+      "gas:candidate-vibid:1001000121855": 666,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 36,
-      "Овсянников Владимир Анатольевич": 39,
-      "Останина Нина Александровна": 506,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 100
+      "gas:candidate-vibid:342300466822": 36,
+      "gas:candidate-vibid:1001000136063": 39,
+      "gas:candidate-vibid:1001000121855": 506,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 21,
-      "Овсянников Владимир Анатольевич": 50,
-      "Останина Нина Александровна": 598,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:342300466822": 21,
+      "gas:candidate-vibid:1001000136063": 50,
+      "gas:candidate-vibid:1001000121855": 598,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 61,
-      "Овсянников Владимир Анатольевич": 44,
-      "Останина Нина Александровна": 898,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 57
+      "gas:candidate-vibid:342300466822": 61,
+      "gas:candidate-vibid:1001000136063": 44,
+      "gas:candidate-vibid:1001000121855": 898,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 69,
-      "Овсянников Владимир Анатольевич": 62,
-      "Останина Нина Александровна": 686,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 79
+      "gas:candidate-vibid:342300466822": 69,
+      "gas:candidate-vibid:1001000136063": 62,
+      "gas:candidate-vibid:1001000121855": 686,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 67,
-      "Овсянников Владимир Анатольевич": 36,
-      "Останина Нина Александровна": 488,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 54
+      "gas:candidate-vibid:342300466822": 67,
+      "gas:candidate-vibid:1001000136063": 36,
+      "gas:candidate-vibid:1001000121855": 488,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 62,
-      "Овсянников Владимир Анатольевич": 22,
-      "Останина Нина Александровна": 404,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 49
+      "gas:candidate-vibid:342300466822": 62,
+      "gas:candidate-vibid:1001000136063": 22,
+      "gas:candidate-vibid:1001000121855": 404,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 17,
-      "Овсянников Владимир Анатольевич": 53,
-      "Останина Нина Александровна": 417,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 59
+      "gas:candidate-vibid:342300466822": 17,
+      "gas:candidate-vibid:1001000136063": 53,
+      "gas:candidate-vibid:1001000121855": 417,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 15,
-      "Овсянников Владимир Анатольевич": 21,
-      "Останина Нина Александровна": 260,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:342300466822": 15,
+      "gas:candidate-vibid:1001000136063": 21,
+      "gas:candidate-vibid:1001000121855": 260,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 46,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 309,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:342300466822": 46,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 309,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 25,
-      "Овсянников Владимир Анатольевич": 44,
-      "Останина Нина Александровна": 733,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 53
+      "gas:candidate-vibid:342300466822": 25,
+      "gas:candidate-vibid:1001000136063": 44,
+      "gas:candidate-vibid:1001000121855": 733,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 7,
-      "Овсянников Владимир Анатольевич": 14,
-      "Останина Нина Александровна": 282,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:342300466822": 7,
+      "gas:candidate-vibid:1001000136063": 14,
+      "gas:candidate-vibid:1001000121855": 282,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 43,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 466,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 49
+      "gas:candidate-vibid:342300466822": 43,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 466,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 42,
-      "Овсянников Владимир Анатольевич": 32,
-      "Останина Нина Александровна": 500,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 65
+      "gas:candidate-vibid:342300466822": 42,
+      "gas:candidate-vibid:1001000136063": 32,
+      "gas:candidate-vibid:1001000121855": 500,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 80,
-      "Овсянников Владимир Анатольевич": 45,
-      "Останина Нина Александровна": 746,
-      "Суродин Владимир Иванович": 24,
-      "Против всех": 90
+      "gas:candidate-vibid:342300466822": 80,
+      "gas:candidate-vibid:1001000136063": 45,
+      "gas:candidate-vibid:1001000121855": 746,
+      "gas:candidate-vibid:1001000195082": 24,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 42,
-      "Овсянников Владимир Анатольевич": 17,
-      "Останина Нина Александровна": 247,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 50
+      "gas:candidate-vibid:342300466822": 42,
+      "gas:candidate-vibid:1001000136063": 17,
+      "gas:candidate-vibid:1001000121855": 247,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 65,
-      "Овсянников Владимир Анатольевич": 51,
-      "Останина Нина Александровна": 606,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 69
+      "gas:candidate-vibid:342300466822": 65,
+      "gas:candidate-vibid:1001000136063": 51,
+      "gas:candidate-vibid:1001000121855": 606,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 35,
-      "Овсянников Владимир Анатольевич": 43,
-      "Останина Нина Александровна": 635,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:342300466822": 35,
+      "gas:candidate-vibid:1001000136063": 43,
+      "gas:candidate-vibid:1001000121855": 635,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 75,
-      "Овсянников Владимир Анатольевич": 70,
-      "Останина Нина Александровна": 786,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 116
+      "gas:candidate-vibid:342300466822": 75,
+      "gas:candidate-vibid:1001000136063": 70,
+      "gas:candidate-vibid:1001000121855": 786,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 53,
-      "Овсянников Владимир Анатольевич": 80,
-      "Останина Нина Александровна": 742,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 108
+      "gas:candidate-vibid:342300466822": 53,
+      "gas:candidate-vibid:1001000136063": 80,
+      "gas:candidate-vibid:1001000121855": 742,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 70,
-      "Овсянников Владимир Анатольевич": 86,
-      "Останина Нина Александровна": 910,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 145
+      "gas:candidate-vibid:342300466822": 70,
+      "gas:candidate-vibid:1001000136063": 86,
+      "gas:candidate-vibid:1001000121855": 910,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 61,
-      "Овсянников Владимир Анатольевич": 79,
-      "Останина Нина Александровна": 702,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 88
+      "gas:candidate-vibid:342300466822": 61,
+      "gas:candidate-vibid:1001000136063": 79,
+      "gas:candidate-vibid:1001000121855": 702,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 80,
-      "Овсянников Владимир Анатольевич": 62,
-      "Останина Нина Александровна": 661,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 73
+      "gas:candidate-vibid:342300466822": 80,
+      "gas:candidate-vibid:1001000136063": 62,
+      "gas:candidate-vibid:1001000121855": 661,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 77,
-      "Овсянников Владимир Анатольевич": 98,
-      "Останина Нина Александровна": 932,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 95
+      "gas:candidate-vibid:342300466822": 77,
+      "gas:candidate-vibid:1001000136063": 98,
+      "gas:candidate-vibid:1001000121855": 932,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 13,
-      "Овсянников Владимир Анатольевич": 52,
-      "Останина Нина Александровна": 523,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:342300466822": 13,
+      "gas:candidate-vibid:1001000136063": 52,
+      "gas:candidate-vibid:1001000121855": 523,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 10,
-      "Овсянников Владимир Анатольевич": 8,
-      "Останина Нина Александровна": 188,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:342300466822": 10,
+      "gas:candidate-vibid:1001000136063": 8,
+      "gas:candidate-vibid:1001000121855": 188,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 23,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 364,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:342300466822": 23,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 364,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 60,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 546,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 68
+      "gas:candidate-vibid:342300466822": 60,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 546,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 3,
-      "Овсянников Владимир Анатольевич": 9,
-      "Останина Нина Александровна": 165,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:342300466822": 3,
+      "gas:candidate-vibid:1001000136063": 9,
+      "gas:candidate-vibid:1001000121855": 165,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 17,
-      "Овсянников Владимир Анатольевич": 28,
-      "Останина Нина Александровна": 350,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 46
+      "gas:candidate-vibid:342300466822": 17,
+      "gas:candidate-vibid:1001000136063": 28,
+      "gas:candidate-vibid:1001000121855": 350,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 7,
-      "Овсянников Владимир Анатольевич": 16,
-      "Останина Нина Александровна": 325,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:342300466822": 7,
+      "gas:candidate-vibid:1001000136063": 16,
+      "gas:candidate-vibid:1001000121855": 325,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 12,
-      "Овсянников Владимир Анатольевич": 22,
-      "Останина Нина Александровна": 299,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:342300466822": 12,
+      "gas:candidate-vibid:1001000136063": 22,
+      "gas:candidate-vibid:1001000121855": 299,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 10,
-      "Овсянников Владимир Анатольевич": 21,
-      "Останина Нина Александровна": 414,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:342300466822": 10,
+      "gas:candidate-vibid:1001000136063": 21,
+      "gas:candidate-vibid:1001000121855": 414,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 3,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 256,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:342300466822": 3,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 256,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 21,
-      "Овсянников Владимир Анатольевич": 28,
-      "Останина Нина Александровна": 364,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:342300466822": 21,
+      "gas:candidate-vibid:1001000136063": 28,
+      "gas:candidate-vibid:1001000121855": 364,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 15,
-      "Овсянников Владимир Анатольевич": 44,
-      "Останина Нина Александровна": 569,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 41
+      "gas:candidate-vibid:342300466822": 15,
+      "gas:candidate-vibid:1001000136063": 44,
+      "gas:candidate-vibid:1001000121855": 569,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 9,
-      "Овсянников Владимир Анатольевич": 33,
-      "Останина Нина Александровна": 357,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:342300466822": 9,
+      "gas:candidate-vibid:1001000136063": 33,
+      "gas:candidate-vibid:1001000121855": 357,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 14,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 363,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:342300466822": 14,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 363,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 19,
-      "Овсянников Владимир Анатольевич": 40,
-      "Останина Нина Александровна": 449,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 39
+      "gas:candidate-vibid:342300466822": 19,
+      "gas:candidate-vibid:1001000136063": 40,
+      "gas:candidate-vibid:1001000121855": 449,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 20,
-      "Овсянников Владимир Анатольевич": 28,
-      "Останина Нина Александровна": 442,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 38
+      "gas:candidate-vibid:342300466822": 20,
+      "gas:candidate-vibid:1001000136063": 28,
+      "gas:candidate-vibid:1001000121855": 442,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 74,
-      "Овсянников Владимир Анатольевич": 0,
-      "Останина Нина Александровна": 359,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:342300466822": 74,
+      "gas:candidate-vibid:1001000136063": 0,
+      "gas:candidate-vibid:1001000121855": 359,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 11,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 439,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 44
+      "gas:candidate-vibid:342300466822": 11,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 439,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 21,
-      "Овсянников Владимир Анатольевич": 29,
-      "Останина Нина Александровна": 521,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:342300466822": 21,
+      "gas:candidate-vibid:1001000136063": 29,
+      "gas:candidate-vibid:1001000121855": 521,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 18,
-      "Овсянников Владимир Анатольевич": 37,
-      "Останина Нина Александровна": 444,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 37
+      "gas:candidate-vibid:342300466822": 18,
+      "gas:candidate-vibid:1001000136063": 37,
+      "gas:candidate-vibid:1001000121855": 444,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467003&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 107,
-      "Овсянников Владимир Анатольевич": 77,
-      "Останина Нина Александровна": 537,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 106
+      "gas:candidate-vibid:342300466822": 107,
+      "gas:candidate-vibid:1001000136063": 77,
+      "gas:candidate-vibid:1001000121855": 537,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 117,
-      "Овсянников Владимир Анатольевич": 107,
-      "Останина Нина Александровна": 782,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 187
+      "gas:candidate-vibid:342300466822": 117,
+      "gas:candidate-vibid:1001000136063": 107,
+      "gas:candidate-vibid:1001000121855": 782,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 158,
-      "Овсянников Владимир Анатольевич": 128,
-      "Останина Нина Александровна": 918,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 184
+      "gas:candidate-vibid:342300466822": 158,
+      "gas:candidate-vibid:1001000136063": 128,
+      "gas:candidate-vibid:1001000121855": 918,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 120,
-      "Овсянников Владимир Анатольевич": 136,
-      "Останина Нина Александровна": 974,
-      "Суродин Владимир Иванович": 20,
-      "Против всех": 194
+      "gas:candidate-vibid:342300466822": 120,
+      "gas:candidate-vibid:1001000136063": 136,
+      "gas:candidate-vibid:1001000121855": 974,
+      "gas:candidate-vibid:1001000195082": 20,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 116,
-      "Овсянников Владимир Анатольевич": 140,
-      "Останина Нина Александровна": 868,
-      "Суродин Владимир Иванович": 13,
-      "Против всех": 204
+      "gas:candidate-vibid:342300466822": 116,
+      "gas:candidate-vibid:1001000136063": 140,
+      "gas:candidate-vibid:1001000121855": 868,
+      "gas:candidate-vibid:1001000195082": 13,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 151,
-      "Овсянников Владимир Анатольевич": 120,
-      "Останина Нина Александровна": 862,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 205
+      "gas:candidate-vibid:342300466822": 151,
+      "gas:candidate-vibid:1001000136063": 120,
+      "gas:candidate-vibid:1001000121855": 862,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 87,
-      "Овсянников Владимир Анатольевич": 38,
-      "Останина Нина Александровна": 444,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 95
+      "gas:candidate-vibid:342300466822": 87,
+      "gas:candidate-vibid:1001000136063": 38,
+      "gas:candidate-vibid:1001000121855": 444,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 165,
-      "Овсянников Владимир Анатольевич": 122,
-      "Останина Нина Александровна": 853,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 159
+      "gas:candidate-vibid:342300466822": 165,
+      "gas:candidate-vibid:1001000136063": 122,
+      "gas:candidate-vibid:1001000121855": 853,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 141,
-      "Овсянников Владимир Анатольевич": 76,
-      "Останина Нина Александровна": 628,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 121
+      "gas:candidate-vibid:342300466822": 141,
+      "gas:candidate-vibid:1001000136063": 76,
+      "gas:candidate-vibid:1001000121855": 628,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 140,
-      "Овсянников Владимир Анатольевич": 71,
-      "Останина Нина Александровна": 648,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 125
+      "gas:candidate-vibid:342300466822": 140,
+      "gas:candidate-vibid:1001000136063": 71,
+      "gas:candidate-vibid:1001000121855": 648,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 136,
-      "Овсянников Владимир Анатольевич": 85,
-      "Останина Нина Александровна": 728,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 151
+      "gas:candidate-vibid:342300466822": 136,
+      "gas:candidate-vibid:1001000136063": 85,
+      "gas:candidate-vibid:1001000121855": 728,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 91,
-      "Овсянников Владимир Анатольевич": 65,
-      "Останина Нина Александровна": 658,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 123
+      "gas:candidate-vibid:342300466822": 91,
+      "gas:candidate-vibid:1001000136063": 65,
+      "gas:candidate-vibid:1001000121855": 658,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 90,
-      "Овсянников Владимир Анатольевич": 86,
-      "Останина Нина Александровна": 518,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 103
+      "gas:candidate-vibid:342300466822": 90,
+      "gas:candidate-vibid:1001000136063": 86,
+      "gas:candidate-vibid:1001000121855": 518,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 74,
-      "Овсянников Владимир Анатольевич": 45,
-      "Останина Нина Александровна": 392,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 78
+      "gas:candidate-vibid:342300466822": 74,
+      "gas:candidate-vibid:1001000136063": 45,
+      "gas:candidate-vibid:1001000121855": 392,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 65,
-      "Овсянников Владимир Анатольевич": 75,
-      "Останина Нина Александровна": 528,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 116
+      "gas:candidate-vibid:342300466822": 65,
+      "gas:candidate-vibid:1001000136063": 75,
+      "gas:candidate-vibid:1001000121855": 528,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 87,
-      "Овсянников Владимир Анатольевич": 63,
-      "Останина Нина Александровна": 510,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 111
+      "gas:candidate-vibid:342300466822": 87,
+      "gas:candidate-vibid:1001000136063": 63,
+      "gas:candidate-vibid:1001000121855": 510,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 78,
-      "Овсянников Владимир Анатольевич": 52,
-      "Останина Нина Александровна": 602,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 139
+      "gas:candidate-vibid:342300466822": 78,
+      "gas:candidate-vibid:1001000136063": 52,
+      "gas:candidate-vibid:1001000121855": 602,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 65,
-      "Овсянников Владимир Анатольевич": 105,
-      "Останина Нина Александровна": 650,
-      "Суродин Владимир Иванович": 16,
-      "Против всех": 151
+      "gas:candidate-vibid:342300466822": 65,
+      "gas:candidate-vibid:1001000136063": 105,
+      "gas:candidate-vibid:1001000121855": 650,
+      "gas:candidate-vibid:1001000195082": 16,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 58,
-      "Овсянников Владимир Анатольевич": 36,
-      "Останина Нина Александровна": 420,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 63
+      "gas:candidate-vibid:342300466822": 58,
+      "gas:candidate-vibid:1001000136063": 36,
+      "gas:candidate-vibid:1001000121855": 420,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 162,
-      "Овсянников Владимир Анатольевич": 86,
-      "Останина Нина Александровна": 767,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 130
+      "gas:candidate-vibid:342300466822": 162,
+      "gas:candidate-vibid:1001000136063": 86,
+      "gas:candidate-vibid:1001000121855": 767,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 112,
-      "Овсянников Владимир Анатольевич": 90,
-      "Останина Нина Александровна": 620,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 123
+      "gas:candidate-vibid:342300466822": 112,
+      "gas:candidate-vibid:1001000136063": 90,
+      "gas:candidate-vibid:1001000121855": 620,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 125,
-      "Овсянников Владимир Анатольевич": 87,
-      "Останина Нина Александровна": 724,
-      "Суродин Владимир Иванович": 13,
-      "Против всех": 155
+      "gas:candidate-vibid:342300466822": 125,
+      "gas:candidate-vibid:1001000136063": 87,
+      "gas:candidate-vibid:1001000121855": 724,
+      "gas:candidate-vibid:1001000195082": 13,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 111,
-      "Овсянников Владимир Анатольевич": 96,
-      "Останина Нина Александровна": 763,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 127
+      "gas:candidate-vibid:342300466822": 111,
+      "gas:candidate-vibid:1001000136063": 96,
+      "gas:candidate-vibid:1001000121855": 763,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 134,
-      "Овсянников Владимир Анатольевич": 115,
-      "Останина Нина Александровна": 894,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 162
+      "gas:candidate-vibid:342300466822": 134,
+      "gas:candidate-vibid:1001000136063": 115,
+      "gas:candidate-vibid:1001000121855": 894,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 145,
-      "Овсянников Владимир Анатольевич": 96,
-      "Останина Нина Александровна": 744,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 147
+      "gas:candidate-vibid:342300466822": 145,
+      "gas:candidate-vibid:1001000136063": 96,
+      "gas:candidate-vibid:1001000121855": 744,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 53,
-      "Овсянников Владимир Анатольевич": 71,
-      "Останина Нина Александровна": 479,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 83
+      "gas:candidate-vibid:342300466822": 53,
+      "gas:candidate-vibid:1001000136063": 71,
+      "gas:candidate-vibid:1001000121855": 479,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 24,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 270,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:342300466822": 24,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 270,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 49,
-      "Овсянников Владимир Анатольевич": 77,
-      "Останина Нина Александровна": 439,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 60
+      "gas:candidate-vibid:342300466822": 49,
+      "gas:candidate-vibid:1001000136063": 77,
+      "gas:candidate-vibid:1001000121855": 439,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 1,
-      "Овсянников Владимир Анатольевич": 2,
-      "Останина Нина Александровна": 41,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:342300466822": 1,
+      "gas:candidate-vibid:1001000136063": 2,
+      "gas:candidate-vibid:1001000121855": 41,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 20,
-      "Овсянников Владимир Анатольевич": 37,
-      "Останина Нина Александровна": 267,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:342300466822": 20,
+      "gas:candidate-vibid:1001000136063": 37,
+      "gas:candidate-vibid:1001000121855": 267,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 10,
-      "Овсянников Владимир Анатольевич": 18,
-      "Останина Нина Александровна": 273,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 42
+      "gas:candidate-vibid:342300466822": 10,
+      "gas:candidate-vibid:1001000136063": 18,
+      "gas:candidate-vibid:1001000121855": 273,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 9,
-      "Овсянников Владимир Анатольевич": 17,
-      "Останина Нина Александровна": 353,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 40
+      "gas:candidate-vibid:342300466822": 9,
+      "gas:candidate-vibid:1001000136063": 17,
+      "gas:candidate-vibid:1001000121855": 353,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 5,
-      "Овсянников Владимир Анатольевич": 20,
-      "Останина Нина Александровна": 366,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 48
+      "gas:candidate-vibid:342300466822": 5,
+      "gas:candidate-vibid:1001000136063": 20,
+      "gas:candidate-vibid:1001000121855": 366,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 18,
-      "Овсянников Владимир Анатольевич": 20,
-      "Останина Нина Александровна": 95,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 31
+      "gas:candidate-vibid:342300466822": 18,
+      "gas:candidate-vibid:1001000136063": 20,
+      "gas:candidate-vibid:1001000121855": 95,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 169,
-      "Овсянников Владимир Анатольевич": 70,
-      "Останина Нина Александровна": 328,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 73
+      "gas:candidate-vibid:342300466822": 169,
+      "gas:candidate-vibid:1001000136063": 70,
+      "gas:candidate-vibid:1001000121855": 328,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 32,
-      "Овсянников Владимир Анатольевич": 25,
-      "Останина Нина Александровна": 145,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:342300466822": 32,
+      "gas:candidate-vibid:1001000136063": 25,
+      "gas:candidate-vibid:1001000121855": 145,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 10,
-      "Овсянников Владимир Анатольевич": 32,
-      "Останина Нина Александровна": 202,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:342300466822": 10,
+      "gas:candidate-vibid:1001000136063": 32,
+      "gas:candidate-vibid:1001000121855": 202,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 33,
-      "Овсянников Владимир Анатольевич": 78,
-      "Останина Нина Александровна": 458,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:342300466822": 33,
+      "gas:candidate-vibid:1001000136063": 78,
+      "gas:candidate-vibid:1001000121855": 458,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 43,
-      "Овсянников Владимир Анатольевич": 100,
-      "Останина Нина Александровна": 615,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 85
+      "gas:candidate-vibid:342300466822": 43,
+      "gas:candidate-vibid:1001000136063": 100,
+      "gas:candidate-vibid:1001000121855": 615,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 122,
-      "Овсянников Владимир Анатольевич": 142,
-      "Останина Нина Александровна": 967,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 234
+      "gas:candidate-vibid:342300466822": 122,
+      "gas:candidate-vibid:1001000136063": 142,
+      "gas:candidate-vibid:1001000121855": 967,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 60,
-      "Овсянников Владимир Анатольевич": 54,
-      "Останина Нина Александровна": 459,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 76
+      "gas:candidate-vibid:342300466822": 60,
+      "gas:candidate-vibid:1001000136063": 54,
+      "gas:candidate-vibid:1001000121855": 459,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 175,
-      "Овсянников Владимир Анатольевич": 147,
-      "Останина Нина Александровна": 939,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 225
+      "gas:candidate-vibid:342300466822": 175,
+      "gas:candidate-vibid:1001000136063": 147,
+      "gas:candidate-vibid:1001000121855": 939,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 122,
-      "Овсянников Владимир Анатольевич": 138,
-      "Останина Нина Александровна": 922,
-      "Суродин Владимир Иванович": 19,
-      "Против всех": 197
+      "gas:candidate-vibid:342300466822": 122,
+      "gas:candidate-vibid:1001000136063": 138,
+      "gas:candidate-vibid:1001000121855": 922,
+      "gas:candidate-vibid:1001000195082": 19,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 84,
-      "Овсянников Владимир Анатольевич": 99,
-      "Останина Нина Александровна": 688,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 125
+      "gas:candidate-vibid:342300466822": 84,
+      "gas:candidate-vibid:1001000136063": 99,
+      "gas:candidate-vibid:1001000121855": 688,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 91,
-      "Овсянников Владимир Анатольевич": 91,
-      "Останина Нина Александровна": 589,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 134
+      "gas:candidate-vibid:342300466822": 91,
+      "gas:candidate-vibid:1001000136063": 91,
+      "gas:candidate-vibid:1001000121855": 589,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 149,
-      "Овсянников Владимир Анатольевич": 67,
-      "Останина Нина Александровна": 674,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 145
+      "gas:candidate-vibid:342300466822": 149,
+      "gas:candidate-vibid:1001000136063": 67,
+      "gas:candidate-vibid:1001000121855": 674,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 153,
-      "Овсянников Владимир Анатольевич": 133,
-      "Останина Нина Александровна": 892,
-      "Суродин Владимир Иванович": 17,
-      "Против всех": 213
+      "gas:candidate-vibid:342300466822": 153,
+      "gas:candidate-vibid:1001000136063": 133,
+      "gas:candidate-vibid:1001000121855": 892,
+      "gas:candidate-vibid:1001000195082": 17,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467004&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 9,
-      "Останина Нина Александровна": 91,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 9,
+      "gas:candidate-vibid:1001000121855": 91,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 12,
-      "Овсянников Владимир Анатольевич": 4,
-      "Останина Нина Александровна": 211,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 27
+      "gas:candidate-vibid:342300466822": 12,
+      "gas:candidate-vibid:1001000136063": 4,
+      "gas:candidate-vibid:1001000121855": 211,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 50,
-      "Овсянников Владимир Анатольевич": 44,
-      "Останина Нина Александровна": 654,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 87
+      "gas:candidate-vibid:342300466822": 50,
+      "gas:candidate-vibid:1001000136063": 44,
+      "gas:candidate-vibid:1001000121855": 654,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 26,
-      "Овсянников Владимир Анатольевич": 25,
-      "Останина Нина Александровна": 394,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 41
+      "gas:candidate-vibid:342300466822": 26,
+      "gas:candidate-vibid:1001000136063": 25,
+      "gas:candidate-vibid:1001000121855": 394,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 53,
-      "Овсянников Владимир Анатольевич": 24,
-      "Останина Нина Александровна": 585,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 73
+      "gas:candidate-vibid:342300466822": 53,
+      "gas:candidate-vibid:1001000136063": 24,
+      "gas:candidate-vibid:1001000121855": 585,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 54,
-      "Овсянников Владимир Анатольевич": 63,
-      "Останина Нина Александровна": 662,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 125
+      "gas:candidate-vibid:342300466822": 54,
+      "gas:candidate-vibid:1001000136063": 63,
+      "gas:candidate-vibid:1001000121855": 662,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 113,
-      "Овсянников Владимир Анатольевич": 68,
-      "Останина Нина Александровна": 1044,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 140
+      "gas:candidate-vibid:342300466822": 113,
+      "gas:candidate-vibid:1001000136063": 68,
+      "gas:candidate-vibid:1001000121855": 1044,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 69,
-      "Овсянников Владимир Анатольевич": 95,
-      "Останина Нина Александровна": 809,
-      "Суродин Владимир Иванович": 13,
-      "Против всех": 129
+      "gas:candidate-vibid:342300466822": 69,
+      "gas:candidate-vibid:1001000136063": 95,
+      "gas:candidate-vibid:1001000121855": 809,
+      "gas:candidate-vibid:1001000195082": 13,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 49,
-      "Овсянников Владимир Анатольевич": 36,
-      "Останина Нина Александровна": 509,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 63
+      "gas:candidate-vibid:342300466822": 49,
+      "gas:candidate-vibid:1001000136063": 36,
+      "gas:candidate-vibid:1001000121855": 509,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 109,
-      "Овсянников Владимир Анатольевич": 57,
-      "Останина Нина Александровна": 855,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 173
+      "gas:candidate-vibid:342300466822": 109,
+      "gas:candidate-vibid:1001000136063": 57,
+      "gas:candidate-vibid:1001000121855": 855,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 56,
-      "Овсянников Владимир Анатольевич": 50,
-      "Останина Нина Александровна": 659,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 108
+      "gas:candidate-vibid:342300466822": 56,
+      "gas:candidate-vibid:1001000136063": 50,
+      "gas:candidate-vibid:1001000121855": 659,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 9,
-      "Овсянников Владимир Анатольевич": 17,
-      "Останина Нина Александровна": 177,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:342300466822": 9,
+      "gas:candidate-vibid:1001000136063": 17,
+      "gas:candidate-vibid:1001000121855": 177,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 30,
-      "Овсянников Владимир Анатольевич": 53,
-      "Останина Нина Александровна": 508,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 112
+      "gas:candidate-vibid:342300466822": 30,
+      "gas:candidate-vibid:1001000136063": 53,
+      "gas:candidate-vibid:1001000121855": 508,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 29,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 419,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 71
+      "gas:candidate-vibid:342300466822": 29,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 419,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 73,
-      "Овсянников Владимир Анатольевич": 51,
-      "Останина Нина Александровна": 871,
-      "Суродин Владимир Иванович": 28,
-      "Против всех": 192
+      "gas:candidate-vibid:342300466822": 73,
+      "gas:candidate-vibid:1001000136063": 51,
+      "gas:candidate-vibid:1001000121855": 871,
+      "gas:candidate-vibid:1001000195082": 28,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 22,
-      "Овсянников Владимир Анатольевич": 36,
-      "Останина Нина Александровна": 364,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:342300466822": 22,
+      "gas:candidate-vibid:1001000136063": 36,
+      "gas:candidate-vibid:1001000121855": 364,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 10,
-      "Овсянников Владимир Анатольевич": 17,
-      "Останина Нина Александровна": 273,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 32
+      "gas:candidate-vibid:342300466822": 10,
+      "gas:candidate-vibid:1001000136063": 17,
+      "gas:candidate-vibid:1001000121855": 273,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 3,
-      "Останина Нина Александровна": 144,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 3,
+      "gas:candidate-vibid:1001000121855": 144,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 61,
-      "Овсянников Владимир Анатольевич": 47,
-      "Останина Нина Александровна": 550,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 153
+      "gas:candidate-vibid:342300466822": 61,
+      "gas:candidate-vibid:1001000136063": 47,
+      "gas:candidate-vibid:1001000121855": 550,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 74,
-      "Овсянников Владимир Анатольевич": 95,
-      "Останина Нина Александровна": 599,
-      "Суродин Владимир Иванович": 21,
-      "Против всех": 173
+      "gas:candidate-vibid:342300466822": 74,
+      "gas:candidate-vibid:1001000136063": 95,
+      "gas:candidate-vibid:1001000121855": 599,
+      "gas:candidate-vibid:1001000195082": 21,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 50,
-      "Овсянников Владимир Анатольевич": 55,
-      "Останина Нина Александровна": 622,
-      "Суродин Владимир Иванович": 24,
-      "Против всех": 107
+      "gas:candidate-vibid:342300466822": 50,
+      "gas:candidate-vibid:1001000136063": 55,
+      "gas:candidate-vibid:1001000121855": 622,
+      "gas:candidate-vibid:1001000195082": 24,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 27,
-      "Овсянников Владимир Анатольевич": 47,
-      "Останина Нина Александровна": 662,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 102
+      "gas:candidate-vibid:342300466822": 27,
+      "gas:candidate-vibid:1001000136063": 47,
+      "gas:candidate-vibid:1001000121855": 662,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 53,
-      "Овсянников Владимир Анатольевич": 73,
-      "Останина Нина Александровна": 762,
-      "Суродин Владимир Иванович": 21,
-      "Против всех": 124
+      "gas:candidate-vibid:342300466822": 53,
+      "gas:candidate-vibid:1001000136063": 73,
+      "gas:candidate-vibid:1001000121855": 762,
+      "gas:candidate-vibid:1001000195082": 21,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 32,
-      "Овсянников Владимир Анатольевич": 52,
-      "Останина Нина Александровна": 627,
-      "Суродин Владимир Иванович": 16,
-      "Против всех": 96
+      "gas:candidate-vibid:342300466822": 32,
+      "gas:candidate-vibid:1001000136063": 52,
+      "gas:candidate-vibid:1001000121855": 627,
+      "gas:candidate-vibid:1001000195082": 16,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 47,
-      "Овсянников Владимир Анатольевич": 42,
-      "Останина Нина Александровна": 538,
-      "Суродин Владимир Иванович": 17,
-      "Против всех": 116
+      "gas:candidate-vibid:342300466822": 47,
+      "gas:candidate-vibid:1001000136063": 42,
+      "gas:candidate-vibid:1001000121855": 538,
+      "gas:candidate-vibid:1001000195082": 17,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467005&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 3,
-      "Овсянников Владимир Анатольевич": 4,
-      "Останина Нина Александровна": 78,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:342300466822": 3,
+      "gas:candidate-vibid:1001000136063": 4,
+      "gas:candidate-vibid:1001000121855": 78,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 36,
-      "Овсянников Владимир Анатольевич": 26,
-      "Останина Нина Александровна": 141,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:342300466822": 36,
+      "gas:candidate-vibid:1001000136063": 26,
+      "gas:candidate-vibid:1001000121855": 141,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 21,
-      "Овсянников Владимир Анатольевич": 35,
-      "Останина Нина Александровна": 250,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 35
+      "gas:candidate-vibid:342300466822": 21,
+      "gas:candidate-vibid:1001000136063": 35,
+      "gas:candidate-vibid:1001000121855": 250,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 67,
-      "Овсянников Владимир Анатольевич": 119,
-      "Останина Нина Александровна": 827,
-      "Суродин Владимир Иванович": 17,
-      "Против всех": 110
+      "gas:candidate-vibid:342300466822": 67,
+      "gas:candidate-vibid:1001000136063": 119,
+      "gas:candidate-vibid:1001000121855": 827,
+      "gas:candidate-vibid:1001000195082": 17,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 37,
-      "Овсянников Владимир Анатольевич": 118,
-      "Останина Нина Александровна": 864,
-      "Суродин Владимир Иванович": 31,
-      "Против всех": 96
+      "gas:candidate-vibid:342300466822": 37,
+      "gas:candidate-vibid:1001000136063": 118,
+      "gas:candidate-vibid:1001000121855": 864,
+      "gas:candidate-vibid:1001000195082": 31,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 60,
-      "Овсянников Владимир Анатольевич": 157,
-      "Останина Нина Александровна": 1066,
-      "Суродин Владимир Иванович": 20,
-      "Против всех": 112
+      "gas:candidate-vibid:342300466822": 60,
+      "gas:candidate-vibid:1001000136063": 157,
+      "gas:candidate-vibid:1001000121855": 1066,
+      "gas:candidate-vibid:1001000195082": 20,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 125,
-      "Овсянников Владимир Анатольевич": 123,
-      "Останина Нина Александровна": 673,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 72
+      "gas:candidate-vibid:342300466822": 125,
+      "gas:candidate-vibid:1001000136063": 123,
+      "gas:candidate-vibid:1001000121855": 673,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 1,
-      "Останина Нина Александровна": 36,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 1,
+      "gas:candidate-vibid:1001000121855": 36,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 63,
-      "Овсянников Владимир Анатольевич": 135,
-      "Останина Нина Александровна": 874,
-      "Суродин Владимир Иванович": 22,
-      "Против всех": 120
+      "gas:candidate-vibid:342300466822": 63,
+      "gas:candidate-vibid:1001000136063": 135,
+      "gas:candidate-vibid:1001000121855": 874,
+      "gas:candidate-vibid:1001000195082": 22,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9114,11 +9114,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 156,
-      "Овсянников Владимир Анатольевич": 105,
-      "Останина Нина Александровна": 601,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 67
+      "gas:candidate-vibid:342300466822": 156,
+      "gas:candidate-vibid:1001000136063": 105,
+      "gas:candidate-vibid:1001000121855": 601,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9168,11 +9168,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 58,
-      "Овсянников Владимир Анатольевич": 46,
-      "Останина Нина Александровна": 259,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 35
+      "gas:candidate-vibid:342300466822": 58,
+      "gas:candidate-vibid:1001000136063": 46,
+      "gas:candidate-vibid:1001000121855": 259,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9222,11 +9222,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 73,
-      "Овсянников Владимир Анатольевич": 90,
-      "Останина Нина Александровна": 710,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 86
+      "gas:candidate-vibid:342300466822": 73,
+      "gas:candidate-vibid:1001000136063": 90,
+      "gas:candidate-vibid:1001000121855": 710,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9276,11 +9276,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 123,
-      "Овсянников Владимир Анатольевич": 155,
-      "Останина Нина Александровна": 958,
-      "Суродин Владимир Иванович": 16,
-      "Против всех": 139
+      "gas:candidate-vibid:342300466822": 123,
+      "gas:candidate-vibid:1001000136063": 155,
+      "gas:candidate-vibid:1001000121855": 958,
+      "gas:candidate-vibid:1001000195082": 16,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9330,11 +9330,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 93,
-      "Овсянников Владимир Анатольевич": 115,
-      "Останина Нина Александровна": 914,
-      "Суродин Владимир Иванович": 31,
-      "Против всех": 125
+      "gas:candidate-vibid:342300466822": 93,
+      "gas:candidate-vibid:1001000136063": 115,
+      "gas:candidate-vibid:1001000121855": 914,
+      "gas:candidate-vibid:1001000195082": 31,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9384,11 +9384,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 119,
-      "Овсянников Владимир Анатольевич": 37,
-      "Останина Нина Александровна": 488,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 32
+      "gas:candidate-vibid:342300466822": 119,
+      "gas:candidate-vibid:1001000136063": 37,
+      "gas:candidate-vibid:1001000121855": 488,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9438,11 +9438,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 98,
-      "Овсянников Владимир Анатольевич": 87,
-      "Останина Нина Александровна": 862,
-      "Суродин Владимир Иванович": 16,
-      "Против всех": 75
+      "gas:candidate-vibid:342300466822": 98,
+      "gas:candidate-vibid:1001000136063": 87,
+      "gas:candidate-vibid:1001000121855": 862,
+      "gas:candidate-vibid:1001000195082": 16,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9492,11 +9492,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 145,
-      "Овсянников Владимир Анатольевич": 71,
-      "Останина Нина Александровна": 845,
-      "Суродин Владимир Иванович": 19,
-      "Против всех": 121
+      "gas:candidate-vibid:342300466822": 145,
+      "gas:candidate-vibid:1001000136063": 71,
+      "gas:candidate-vibid:1001000121855": 845,
+      "gas:candidate-vibid:1001000195082": 19,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9546,11 +9546,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 43,
-      "Овсянников Владимир Анатольевич": 41,
-      "Останина Нина Александровна": 610,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 100
+      "gas:candidate-vibid:342300466822": 43,
+      "gas:candidate-vibid:1001000136063": 41,
+      "gas:candidate-vibid:1001000121855": 610,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9600,11 +9600,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 111,
-      "Овсянников Владимир Анатольевич": 95,
-      "Останина Нина Александровна": 956,
-      "Суродин Владимир Иванович": 25,
-      "Против всех": 115
+      "gas:candidate-vibid:342300466822": 111,
+      "gas:candidate-vibid:1001000136063": 95,
+      "gas:candidate-vibid:1001000121855": 956,
+      "gas:candidate-vibid:1001000195082": 25,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9654,11 +9654,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 27,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 214,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:342300466822": 27,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 214,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9708,11 +9708,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 38,
-      "Овсянников Владимир Анатольевич": 11,
-      "Останина Нина Александровна": 489,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 46
+      "gas:candidate-vibid:342300466822": 38,
+      "gas:candidate-vibid:1001000136063": 11,
+      "gas:candidate-vibid:1001000121855": 489,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9762,11 +9762,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 0,
-      "Овсянников Владимир Анатольевич": 3,
-      "Останина Нина Александровна": 21,
-      "Суродин Владимир Иванович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:342300466822": 0,
+      "gas:candidate-vibid:1001000136063": 3,
+      "gas:candidate-vibid:1001000121855": 21,
+      "gas:candidate-vibid:1001000195082": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9816,11 +9816,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 71,
-      "Овсянников Владимир Анатольевич": 60,
-      "Останина Нина Александровна": 677,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 78
+      "gas:candidate-vibid:342300466822": 71,
+      "gas:candidate-vibid:1001000136063": 60,
+      "gas:candidate-vibid:1001000121855": 677,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9870,11 +9870,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 52,
-      "Овсянников Владимир Анатольевич": 53,
-      "Останина Нина Александровна": 555,
-      "Суродин Владимир Иванович": 21,
-      "Против всех": 63
+      "gas:candidate-vibid:342300466822": 52,
+      "gas:candidate-vibid:1001000136063": 53,
+      "gas:candidate-vibid:1001000121855": 555,
+      "gas:candidate-vibid:1001000195082": 21,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9924,11 +9924,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 53,
-      "Овсянников Владимир Анатольевич": 43,
-      "Останина Нина Александровна": 489,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 61
+      "gas:candidate-vibid:342300466822": 53,
+      "gas:candidate-vibid:1001000136063": 43,
+      "gas:candidate-vibid:1001000121855": 489,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -9978,11 +9978,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 85,
-      "Овсянников Владимир Анатольевич": 58,
-      "Останина Нина Александровна": 627,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 53
+      "gas:candidate-vibid:342300466822": 85,
+      "gas:candidate-vibid:1001000136063": 58,
+      "gas:candidate-vibid:1001000121855": 627,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10032,11 +10032,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 32,
-      "Овсянников Владимир Анатольевич": 27,
-      "Останина Нина Александровна": 322,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 63
+      "gas:candidate-vibid:342300466822": 32,
+      "gas:candidate-vibid:1001000136063": 27,
+      "gas:candidate-vibid:1001000121855": 322,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10086,11 +10086,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 26,
-      "Овсянников Владимир Анатольевич": 23,
-      "Останина Нина Александровна": 318,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:342300466822": 26,
+      "gas:candidate-vibid:1001000136063": 23,
+      "gas:candidate-vibid:1001000121855": 318,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10140,11 +10140,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 11,
-      "Овсянников Владимир Анатольевич": 15,
-      "Останина Нина Александровна": 219,
-      "Суродин Владимир Иванович": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:342300466822": 11,
+      "gas:candidate-vibid:1001000136063": 15,
+      "gas:candidate-vibid:1001000121855": 219,
+      "gas:candidate-vibid:1001000195082": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10194,11 +10194,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 13,
-      "Овсянников Владимир Анатольевич": 11,
-      "Останина Нина Александровна": 192,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:342300466822": 13,
+      "gas:candidate-vibid:1001000136063": 11,
+      "gas:candidate-vibid:1001000121855": 192,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10248,11 +10248,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 64,
-      "Овсянников Владимир Анатольевич": 51,
-      "Останина Нина Александровна": 585,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 70
+      "gas:candidate-vibid:342300466822": 64,
+      "gas:candidate-vibid:1001000136063": 51,
+      "gas:candidate-vibid:1001000121855": 585,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10302,11 +10302,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 0,
-      "Останина Нина Александровна": 28,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 0,
+      "gas:candidate-vibid:1001000121855": 28,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10356,11 +10356,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 77,
-      "Овсянников Владимир Анатольевич": 37,
-      "Останина Нина Александровна": 405,
-      "Суродин Владимир Иванович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:342300466822": 77,
+      "gas:candidate-vibid:1001000136063": 37,
+      "gas:candidate-vibid:1001000121855": 405,
+      "gas:candidate-vibid:1001000195082": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10410,11 +10410,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 57,
-      "Овсянников Владимир Анатольевич": 59,
-      "Останина Нина Александровна": 349,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 46
+      "gas:candidate-vibid:342300466822": 57,
+      "gas:candidate-vibid:1001000136063": 59,
+      "gas:candidate-vibid:1001000121855": 349,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10464,11 +10464,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 57,
-      "Овсянников Владимир Анатольевич": 45,
-      "Останина Нина Александровна": 482,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 82
+      "gas:candidate-vibid:342300466822": 57,
+      "gas:candidate-vibid:1001000136063": 45,
+      "gas:candidate-vibid:1001000121855": 482,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467006&region=0&sub_region=0&type=429",
@@ -10518,11 +10518,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 15,
-      "Овсянников Владимир Анатольевич": 14,
-      "Останина Нина Александровна": 248,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:342300466822": 15,
+      "gas:candidate-vibid:1001000136063": 14,
+      "gas:candidate-vibid:1001000121855": 248,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10572,11 +10572,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 1,
-      "Овсянников Владимир Анатольевич": 0,
-      "Останина Нина Александровна": 118,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:342300466822": 1,
+      "gas:candidate-vibid:1001000136063": 0,
+      "gas:candidate-vibid:1001000121855": 118,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10626,11 +10626,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 123,
-      "Овсянников Владимир Анатольевич": 129,
-      "Останина Нина Александровна": 1045,
-      "Суродин Владимир Иванович": 30,
-      "Против всех": 193
+      "gas:candidate-vibid:342300466822": 123,
+      "gas:candidate-vibid:1001000136063": 129,
+      "gas:candidate-vibid:1001000121855": 1045,
+      "gas:candidate-vibid:1001000195082": 30,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10680,11 +10680,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 2,
-      "Останина Нина Александровна": 163,
-      "Суродин Владимир Иванович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 2,
+      "gas:candidate-vibid:1001000121855": 163,
+      "gas:candidate-vibid:1001000195082": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10734,11 +10734,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 119,
-      "Овсянников Владимир Анатольевич": 147,
-      "Останина Нина Александровна": 943,
-      "Суродин Владимир Иванович": 31,
-      "Против всех": 146
+      "gas:candidate-vibid:342300466822": 119,
+      "gas:candidate-vibid:1001000136063": 147,
+      "gas:candidate-vibid:1001000121855": 943,
+      "gas:candidate-vibid:1001000195082": 31,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10788,11 +10788,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 65,
-      "Овсянников Владимир Анатольевич": 111,
-      "Останина Нина Александровна": 856,
-      "Суродин Владимир Иванович": 25,
-      "Против всех": 163
+      "gas:candidate-vibid:342300466822": 65,
+      "gas:candidate-vibid:1001000136063": 111,
+      "gas:candidate-vibid:1001000121855": 856,
+      "gas:candidate-vibid:1001000195082": 25,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10842,11 +10842,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 144,
-      "Овсянников Владимир Анатольевич": 111,
-      "Останина Нина Александровна": 866,
-      "Суродин Владимир Иванович": 23,
-      "Против всех": 180
+      "gas:candidate-vibid:342300466822": 144,
+      "gas:candidate-vibid:1001000136063": 111,
+      "gas:candidate-vibid:1001000121855": 866,
+      "gas:candidate-vibid:1001000195082": 23,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10896,11 +10896,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 143,
-      "Овсянников Владимир Анатольевич": 120,
-      "Останина Нина Александровна": 896,
-      "Суродин Владимир Иванович": 22,
-      "Против всех": 155
+      "gas:candidate-vibid:342300466822": 143,
+      "gas:candidate-vibid:1001000136063": 120,
+      "gas:candidate-vibid:1001000121855": 896,
+      "gas:candidate-vibid:1001000195082": 22,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -10950,11 +10950,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 103,
-      "Овсянников Владимир Анатольевич": 98,
-      "Останина Нина Александровна": 875,
-      "Суродин Владимир Иванович": 19,
-      "Против всех": 156
+      "gas:candidate-vibid:342300466822": 103,
+      "gas:candidate-vibid:1001000136063": 98,
+      "gas:candidate-vibid:1001000121855": 875,
+      "gas:candidate-vibid:1001000195082": 19,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11004,11 +11004,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 145,
-      "Овсянников Владимир Анатольевич": 111,
-      "Останина Нина Александровна": 898,
-      "Суродин Владимир Иванович": 22,
-      "Против всех": 165
+      "gas:candidate-vibid:342300466822": 145,
+      "gas:candidate-vibid:1001000136063": 111,
+      "gas:candidate-vibid:1001000121855": 898,
+      "gas:candidate-vibid:1001000195082": 22,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11058,11 +11058,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 144,
-      "Овсянников Владимир Анатольевич": 109,
-      "Останина Нина Александровна": 795,
-      "Суродин Владимир Иванович": 23,
-      "Против всех": 147
+      "gas:candidate-vibid:342300466822": 144,
+      "gas:candidate-vibid:1001000136063": 109,
+      "gas:candidate-vibid:1001000121855": 795,
+      "gas:candidate-vibid:1001000195082": 23,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11112,11 +11112,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 170,
-      "Овсянников Владимир Анатольевич": 98,
-      "Останина Нина Александровна": 819,
-      "Суродин Владимир Иванович": 23,
-      "Против всех": 166
+      "gas:candidate-vibid:342300466822": 170,
+      "gas:candidate-vibid:1001000136063": 98,
+      "gas:candidate-vibid:1001000121855": 819,
+      "gas:candidate-vibid:1001000195082": 23,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11166,11 +11166,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 173,
-      "Овсянников Владимир Анатольевич": 83,
-      "Останина Нина Александровна": 724,
-      "Суродин Владимир Иванович": 26,
-      "Против всех": 144
+      "gas:candidate-vibid:342300466822": 173,
+      "gas:candidate-vibid:1001000136063": 83,
+      "gas:candidate-vibid:1001000121855": 724,
+      "gas:candidate-vibid:1001000195082": 26,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11220,11 +11220,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 130,
-      "Овсянников Владимир Анатольевич": 91,
-      "Останина Нина Александровна": 973,
-      "Суродин Владимир Иванович": 44,
-      "Против всех": 219
+      "gas:candidate-vibid:342300466822": 130,
+      "gas:candidate-vibid:1001000136063": 91,
+      "gas:candidate-vibid:1001000121855": 973,
+      "gas:candidate-vibid:1001000195082": 44,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11274,11 +11274,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 138,
-      "Овсянников Владимир Анатольевич": 102,
-      "Останина Нина Александровна": 692,
-      "Суродин Владимир Иванович": 22,
-      "Против всех": 131
+      "gas:candidate-vibid:342300466822": 138,
+      "gas:candidate-vibid:1001000136063": 102,
+      "gas:candidate-vibid:1001000121855": 692,
+      "gas:candidate-vibid:1001000195082": 22,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11328,11 +11328,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 130,
-      "Овсянников Владимир Анатольевич": 92,
-      "Останина Нина Александровна": 947,
-      "Суродин Владимир Иванович": 28,
-      "Против всех": 156
+      "gas:candidate-vibid:342300466822": 130,
+      "gas:candidate-vibid:1001000136063": 92,
+      "gas:candidate-vibid:1001000121855": 947,
+      "gas:candidate-vibid:1001000195082": 28,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11382,11 +11382,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 169,
-      "Овсянников Владимир Анатольевич": 103,
-      "Останина Нина Александровна": 823,
-      "Суродин Владимир Иванович": 22,
-      "Против всех": 159
+      "gas:candidate-vibid:342300466822": 169,
+      "gas:candidate-vibid:1001000136063": 103,
+      "gas:candidate-vibid:1001000121855": 823,
+      "gas:candidate-vibid:1001000195082": 22,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11436,11 +11436,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 207,
-      "Овсянников Владимир Анатольевич": 121,
-      "Останина Нина Александровна": 1044,
-      "Суродин Владимир Иванович": 31,
-      "Против всех": 178
+      "gas:candidate-vibid:342300466822": 207,
+      "gas:candidate-vibid:1001000136063": 121,
+      "gas:candidate-vibid:1001000121855": 1044,
+      "gas:candidate-vibid:1001000195082": 31,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11490,11 +11490,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 171,
-      "Овсянников Владимир Анатольевич": 84,
-      "Останина Нина Александровна": 934,
-      "Суродин Владимир Иванович": 26,
-      "Против всех": 171
+      "gas:candidate-vibid:342300466822": 171,
+      "gas:candidate-vibid:1001000136063": 84,
+      "gas:candidate-vibid:1001000121855": 934,
+      "gas:candidate-vibid:1001000195082": 26,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11544,11 +11544,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 92,
-      "Овсянников Владимир Анатольевич": 46,
-      "Останина Нина Александровна": 543,
-      "Суродин Владимир Иванович": 11,
-      "Против всех": 80
+      "gas:candidate-vibid:342300466822": 92,
+      "gas:candidate-vibid:1001000136063": 46,
+      "gas:candidate-vibid:1001000121855": 543,
+      "gas:candidate-vibid:1001000195082": 11,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11598,11 +11598,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 171,
-      "Овсянников Владимир Анатольевич": 93,
-      "Останина Нина Александровна": 789,
-      "Суродин Владимир Иванович": 23,
-      "Против всех": 125
+      "gas:candidate-vibid:342300466822": 171,
+      "gas:candidate-vibid:1001000136063": 93,
+      "gas:candidate-vibid:1001000121855": 789,
+      "gas:candidate-vibid:1001000195082": 23,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11652,11 +11652,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 208,
-      "Овсянников Владимир Анатольевич": 83,
-      "Останина Нина Александровна": 800,
-      "Суродин Владимир Иванович": 33,
-      "Против всех": 136
+      "gas:candidate-vibid:342300466822": 208,
+      "gas:candidate-vibid:1001000136063": 83,
+      "gas:candidate-vibid:1001000121855": 800,
+      "gas:candidate-vibid:1001000195082": 33,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11706,11 +11706,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 184,
-      "Овсянников Владимир Анатольевич": 45,
-      "Останина Нина Александровна": 901,
-      "Суродин Владимир Иванович": 25,
-      "Против всех": 119
+      "gas:candidate-vibid:342300466822": 184,
+      "gas:candidate-vibid:1001000136063": 45,
+      "gas:candidate-vibid:1001000121855": 901,
+      "gas:candidate-vibid:1001000195082": 25,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11760,11 +11760,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 165,
-      "Овсянников Владимир Анатольевич": 85,
-      "Останина Нина Александровна": 794,
-      "Суродин Владимир Иванович": 23,
-      "Против всех": 124
+      "gas:candidate-vibid:342300466822": 165,
+      "gas:candidate-vibid:1001000136063": 85,
+      "gas:candidate-vibid:1001000121855": 794,
+      "gas:candidate-vibid:1001000195082": 23,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11814,11 +11814,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 130,
-      "Овсянников Владимир Анатольевич": 101,
-      "Останина Нина Александровна": 784,
-      "Суродин Владимир Иванович": 29,
-      "Против всех": 120
+      "gas:candidate-vibid:342300466822": 130,
+      "gas:candidate-vibid:1001000136063": 101,
+      "gas:candidate-vibid:1001000121855": 784,
+      "gas:candidate-vibid:1001000195082": 29,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11868,11 +11868,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 94,
-      "Овсянников Владимир Анатольевич": 60,
-      "Останина Нина Александровна": 662,
-      "Суродин Владимир Иванович": 31,
-      "Против всех": 93
+      "gas:candidate-vibid:342300466822": 94,
+      "gas:candidate-vibid:1001000136063": 60,
+      "gas:candidate-vibid:1001000121855": 662,
+      "gas:candidate-vibid:1001000195082": 31,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11922,11 +11922,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 112,
-      "Овсянников Владимир Анатольевич": 65,
-      "Останина Нина Александровна": 658,
-      "Суродин Владимир Иванович": 20,
-      "Против всех": 112
+      "gas:candidate-vibid:342300466822": 112,
+      "gas:candidate-vibid:1001000136063": 65,
+      "gas:candidate-vibid:1001000121855": 658,
+      "gas:candidate-vibid:1001000195082": 20,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467007&region=0&sub_region=0&type=429",
@@ -11976,11 +11976,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 68,
-      "Овсянников Владимир Анатольевич": 69,
-      "Останина Нина Александровна": 661,
-      "Суродин Владимир Иванович": 28,
-      "Против всех": 98
+      "gas:candidate-vibid:342300466822": 68,
+      "gas:candidate-vibid:1001000136063": 69,
+      "gas:candidate-vibid:1001000121855": 661,
+      "gas:candidate-vibid:1001000195082": 28,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12030,11 +12030,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 92,
-      "Овсянников Владимир Анатольевич": 84,
-      "Останина Нина Александровна": 771,
-      "Суродин Владимир Иванович": 26,
-      "Против всех": 91
+      "gas:candidate-vibid:342300466822": 92,
+      "gas:candidate-vibid:1001000136063": 84,
+      "gas:candidate-vibid:1001000121855": 771,
+      "gas:candidate-vibid:1001000195082": 26,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12084,11 +12084,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 1,
-      "Останина Нина Александровна": 40,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 1,
+      "gas:candidate-vibid:1001000121855": 40,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12138,11 +12138,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 1,
-      "Овсянников Владимир Анатольевич": 2,
-      "Останина Нина Александровна": 78,
-      "Суродин Владимир Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:342300466822": 1,
+      "gas:candidate-vibid:1001000136063": 2,
+      "gas:candidate-vibid:1001000121855": 78,
+      "gas:candidate-vibid:1001000195082": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12192,11 +12192,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 173,
-      "Овсянников Владимир Анатольевич": 120,
-      "Останина Нина Александровна": 870,
-      "Суродин Владимир Иванович": 28,
-      "Против всех": 139
+      "gas:candidate-vibid:342300466822": 173,
+      "gas:candidate-vibid:1001000136063": 120,
+      "gas:candidate-vibid:1001000121855": 870,
+      "gas:candidate-vibid:1001000195082": 28,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12246,11 +12246,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 63,
-      "Овсянников Владимир Анатольевич": 100,
-      "Останина Нина Александровна": 652,
-      "Суродин Владимир Иванович": 27,
-      "Против всех": 95
+      "gas:candidate-vibid:342300466822": 63,
+      "gas:candidate-vibid:1001000136063": 100,
+      "gas:candidate-vibid:1001000121855": 652,
+      "gas:candidate-vibid:1001000195082": 27,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12300,11 +12300,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 102,
-      "Овсянников Владимир Анатольевич": 93,
-      "Останина Нина Александровна": 781,
-      "Суродин Владимир Иванович": 26,
-      "Против всех": 113
+      "gas:candidate-vibid:342300466822": 102,
+      "gas:candidate-vibid:1001000136063": 93,
+      "gas:candidate-vibid:1001000121855": 781,
+      "gas:candidate-vibid:1001000195082": 26,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12354,11 +12354,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 81,
-      "Овсянников Владимир Анатольевич": 60,
-      "Останина Нина Александровна": 843,
-      "Суродин Владимир Иванович": 25,
-      "Против всех": 125
+      "gas:candidate-vibid:342300466822": 81,
+      "gas:candidate-vibid:1001000136063": 60,
+      "gas:candidate-vibid:1001000121855": 843,
+      "gas:candidate-vibid:1001000195082": 25,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12408,11 +12408,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 12,
-      "Овсянников Владимир Анатольевич": 28,
-      "Останина Нина Александровна": 212,
-      "Суродин Владимир Иванович": 9,
-      "Против всех": 26
+      "gas:candidate-vibid:342300466822": 12,
+      "gas:candidate-vibid:1001000136063": 28,
+      "gas:candidate-vibid:1001000121855": 212,
+      "gas:candidate-vibid:1001000195082": 9,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12462,11 +12462,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 15,
-      "Овсянников Владимир Анатольевич": 12,
-      "Останина Нина Александровна": 106,
-      "Суродин Владимир Иванович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:342300466822": 15,
+      "gas:candidate-vibid:1001000136063": 12,
+      "gas:candidate-vibid:1001000121855": 106,
+      "gas:candidate-vibid:1001000195082": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12516,11 +12516,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 1,
-      "Овсянников Владимир Анатольевич": 1,
-      "Останина Нина Александровна": 40,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:342300466822": 1,
+      "gas:candidate-vibid:1001000136063": 1,
+      "gas:candidate-vibid:1001000121855": 40,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12570,11 +12570,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 54,
-      "Овсянников Владимир Анатольевич": 38,
-      "Останина Нина Александровна": 542,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 84
+      "gas:candidate-vibid:342300466822": 54,
+      "gas:candidate-vibid:1001000136063": 38,
+      "gas:candidate-vibid:1001000121855": 542,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12624,11 +12624,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 98,
-      "Овсянников Владимир Анатольевич": 56,
-      "Останина Нина Александровна": 814,
-      "Суродин Владимир Иванович": 30,
-      "Против всех": 84
+      "gas:candidate-vibid:342300466822": 98,
+      "gas:candidate-vibid:1001000136063": 56,
+      "gas:candidate-vibid:1001000121855": 814,
+      "gas:candidate-vibid:1001000195082": 30,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12678,11 +12678,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 27,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 194,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:342300466822": 27,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 194,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12732,11 +12732,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 164,
-      "Овсянников Владимир Анатольевич": 94,
-      "Останина Нина Александровна": 803,
-      "Суродин Владимир Иванович": 23,
-      "Против всех": 107
+      "gas:candidate-vibid:342300466822": 164,
+      "gas:candidate-vibid:1001000136063": 94,
+      "gas:candidate-vibid:1001000121855": 803,
+      "gas:candidate-vibid:1001000195082": 23,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12786,11 +12786,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 3,
-      "Овсянников Владимир Анатольевич": 3,
-      "Останина Нина Александровна": 59,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:342300466822": 3,
+      "gas:candidate-vibid:1001000136063": 3,
+      "gas:candidate-vibid:1001000121855": 59,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12840,11 +12840,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 93,
-      "Овсянников Владимир Анатольевич": 39,
-      "Останина Нина Александровна": 328,
-      "Суродин Владимир Иванович": 13,
-      "Против всех": 33
+      "gas:candidate-vibid:342300466822": 93,
+      "gas:candidate-vibid:1001000136063": 39,
+      "gas:candidate-vibid:1001000121855": 328,
+      "gas:candidate-vibid:1001000195082": 13,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12894,11 +12894,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 47,
-      "Овсянников Владимир Анатольевич": 67,
-      "Останина Нина Александровна": 645,
-      "Суродин Владимир Иванович": 24,
-      "Против всех": 73
+      "gas:candidate-vibid:342300466822": 47,
+      "gas:candidate-vibid:1001000136063": 67,
+      "gas:candidate-vibid:1001000121855": 645,
+      "gas:candidate-vibid:1001000195082": 24,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -12948,11 +12948,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 0,
-      "Останина Нина Александровна": 62,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 0,
+      "gas:candidate-vibid:1001000121855": 62,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13002,11 +13002,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 40,
-      "Овсянников Владимир Анатольевич": 55,
-      "Останина Нина Александровна": 377,
-      "Суродин Владимир Иванович": 14,
-      "Против всех": 37
+      "gas:candidate-vibid:342300466822": 40,
+      "gas:candidate-vibid:1001000136063": 55,
+      "gas:candidate-vibid:1001000121855": 377,
+      "gas:candidate-vibid:1001000195082": 14,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13056,11 +13056,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 43,
-      "Овсянников Владимир Анатольевич": 34,
-      "Останина Нина Александровна": 361,
-      "Суродин Владимир Иванович": 8,
-      "Против всех": 34
+      "gas:candidate-vibid:342300466822": 43,
+      "gas:candidate-vibid:1001000136063": 34,
+      "gas:candidate-vibid:1001000121855": 361,
+      "gas:candidate-vibid:1001000195082": 8,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13110,11 +13110,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 60,
-      "Овсянников Владимир Анатольевич": 40,
-      "Останина Нина Александровна": 419,
-      "Суродин Владимир Иванович": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:342300466822": 60,
+      "gas:candidate-vibid:1001000136063": 40,
+      "gas:candidate-vibid:1001000121855": 419,
+      "gas:candidate-vibid:1001000195082": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13164,11 +13164,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 88,
-      "Овсянников Владимир Анатольевич": 63,
-      "Останина Нина Александровна": 495,
-      "Суродин Владимир Иванович": 10,
-      "Против всех": 57
+      "gas:candidate-vibid:342300466822": 88,
+      "gas:candidate-vibid:1001000136063": 63,
+      "gas:candidate-vibid:1001000121855": 495,
+      "gas:candidate-vibid:1001000195082": 10,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13218,11 +13218,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 96,
-      "Овсянников Владимир Анатольевич": 74,
-      "Останина Нина Александровна": 693,
-      "Суродин Владимир Иванович": 16,
-      "Против всех": 64
+      "gas:candidate-vibid:342300466822": 96,
+      "gas:candidate-vibid:1001000136063": 74,
+      "gas:candidate-vibid:1001000121855": 693,
+      "gas:candidate-vibid:1001000195082": 16,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13272,11 +13272,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 39,
-      "Овсянников Владимир Анатольевич": 70,
-      "Останина Нина Александровна": 761,
-      "Суродин Владимир Иванович": 15,
-      "Против всех": 59
+      "gas:candidate-vibid:342300466822": 39,
+      "gas:candidate-vibid:1001000136063": 70,
+      "gas:candidate-vibid:1001000121855": 761,
+      "gas:candidate-vibid:1001000195082": 15,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13326,11 +13326,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 99,
-      "Овсянников Владимир Анатольевич": 85,
-      "Останина Нина Александровна": 650,
-      "Суродин Владимир Иванович": 21,
-      "Против всех": 74
+      "gas:candidate-vibid:342300466822": 99,
+      "gas:candidate-vibid:1001000136063": 85,
+      "gas:candidate-vibid:1001000121855": 650,
+      "gas:candidate-vibid:1001000195082": 21,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13380,11 +13380,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 2,
-      "Овсянников Владимир Анатольевич": 0,
-      "Останина Нина Александровна": 36,
-      "Суродин Владимир Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:342300466822": 2,
+      "gas:candidate-vibid:1001000136063": 0,
+      "gas:candidate-vibid:1001000121855": 36,
+      "gas:candidate-vibid:1001000195082": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13434,11 +13434,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 126,
-      "Овсянников Владимир Анатольевич": 88,
-      "Останина Нина Александровна": 702,
-      "Суродин Владимир Иванович": 12,
-      "Против всех": 74
+      "gas:candidate-vibid:342300466822": 126,
+      "gas:candidate-vibid:1001000136063": 88,
+      "gas:candidate-vibid:1001000121855": 702,
+      "gas:candidate-vibid:1001000195082": 12,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",
@@ -13488,11 +13488,11 @@ export const duma_2003_uik_428_region_42_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баловнев Владислав Петрович": 129,
-      "Овсянников Владимир Анатольевич": 67,
-      "Останина Нина Александровна": 720,
-      "Суродин Владимир Иванович": 26,
-      "Против всех": 103
+      "gas:candidate-vibid:342300466822": 129,
+      "gas:candidate-vibid:1001000136063": 67,
+      "gas:candidate-vibid:1001000121855": 720,
+      "gas:candidate-vibid:1001000195082": 26,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423004008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300467008&region=0&sub_region=0&type=429",

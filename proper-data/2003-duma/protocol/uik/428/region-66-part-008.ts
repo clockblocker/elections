@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 192,
-      "Ройзман Евгений Вадимович": 436,
-      "Руденко Василий Иванович": 181,
-      "Сапожников Григорий Алексеевич": 33,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 72,
-      "Яблонских Валерий Михайлович": 58,
-      "Против всех": 220
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 192,
+      "gas:candidate-vibid:366300666748": 436,
+      "gas:candidate-vibid:366300666850": 181,
+      "gas:candidate-vibid:1001000136124": 33,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 72,
+      "gas:candidate-vibid:1001000121911": 58,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 35,
-      "Голубкова Надежда Ивановна": 116,
-      "Ройзман Евгений Вадимович": 408,
-      "Руденко Василий Иванович": 70,
-      "Сапожников Григорий Алексеевич": 23,
-      "Харитонова Ольга Ивановна": 23,
-      "Черкасов Сергей Вилленович": 31,
-      "Яблонских Валерий Михайлович": 25,
-      "Против всех": 147
+      "gas:candidate-vibid:366300666752": 35,
+      "gas:candidate-vibid:1001000225989": 116,
+      "gas:candidate-vibid:366300666748": 408,
+      "gas:candidate-vibid:366300666850": 70,
+      "gas:candidate-vibid:1001000136124": 23,
+      "gas:candidate-vibid:1001000202334": 23,
+      "gas:candidate-vibid:1001000131413": 31,
+      "gas:candidate-vibid:1001000121911": 25,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 67,
-      "Ройзман Евгений Вадимович": 231,
-      "Руденко Василий Иванович": 76,
-      "Сапожников Григорий Алексеевич": 14,
-      "Харитонова Ольга Ивановна": 21,
-      "Черкасов Сергей Вилленович": 17,
-      "Яблонских Валерий Михайлович": 27,
-      "Против всех": 89
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 67,
+      "gas:candidate-vibid:366300666748": 231,
+      "gas:candidate-vibid:366300666850": 76,
+      "gas:candidate-vibid:1001000136124": 14,
+      "gas:candidate-vibid:1001000202334": 21,
+      "gas:candidate-vibid:1001000131413": 17,
+      "gas:candidate-vibid:1001000121911": 27,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 34,
-      "Голубкова Надежда Ивановна": 122,
-      "Ройзман Евгений Вадимович": 356,
-      "Руденко Василий Иванович": 120,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 44,
-      "Черкасов Сергей Вилленович": 25,
-      "Яблонских Валерий Михайлович": 32,
-      "Против всех": 121
+      "gas:candidate-vibid:366300666752": 34,
+      "gas:candidate-vibid:1001000225989": 122,
+      "gas:candidate-vibid:366300666748": 356,
+      "gas:candidate-vibid:366300666850": 120,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 44,
+      "gas:candidate-vibid:1001000131413": 25,
+      "gas:candidate-vibid:1001000121911": 32,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 34,
-      "Голубкова Надежда Ивановна": 171,
-      "Ройзман Евгений Вадимович": 396,
-      "Руденко Василий Иванович": 109,
-      "Сапожников Григорий Алексеевич": 43,
-      "Харитонова Ольга Ивановна": 51,
-      "Черкасов Сергей Вилленович": 41,
-      "Яблонских Валерий Михайлович": 53,
-      "Против всех": 191
+      "gas:candidate-vibid:366300666752": 34,
+      "gas:candidate-vibid:1001000225989": 171,
+      "gas:candidate-vibid:366300666748": 396,
+      "gas:candidate-vibid:366300666850": 109,
+      "gas:candidate-vibid:1001000136124": 43,
+      "gas:candidate-vibid:1001000202334": 51,
+      "gas:candidate-vibid:1001000131413": 41,
+      "gas:candidate-vibid:1001000121911": 53,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 32,
-      "Голубкова Надежда Ивановна": 199,
-      "Ройзман Евгений Вадимович": 554,
-      "Руденко Василий Иванович": 135,
-      "Сапожников Григорий Алексеевич": 36,
-      "Харитонова Ольга Ивановна": 50,
-      "Черкасов Сергей Вилленович": 69,
-      "Яблонских Валерий Михайлович": 55,
-      "Против всех": 242
+      "gas:candidate-vibid:366300666752": 32,
+      "gas:candidate-vibid:1001000225989": 199,
+      "gas:candidate-vibid:366300666748": 554,
+      "gas:candidate-vibid:366300666850": 135,
+      "gas:candidate-vibid:1001000136124": 36,
+      "gas:candidate-vibid:1001000202334": 50,
+      "gas:candidate-vibid:1001000131413": 69,
+      "gas:candidate-vibid:1001000121911": 55,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 42,
-      "Голубкова Надежда Ивановна": 211,
-      "Ройзман Евгений Вадимович": 477,
-      "Руденко Василий Иванович": 129,
-      "Сапожников Григорий Алексеевич": 41,
-      "Харитонова Ольга Ивановна": 65,
-      "Черкасов Сергей Вилленович": 37,
-      "Яблонских Валерий Михайлович": 64,
-      "Против всех": 208
+      "gas:candidate-vibid:366300666752": 42,
+      "gas:candidate-vibid:1001000225989": 211,
+      "gas:candidate-vibid:366300666748": 477,
+      "gas:candidate-vibid:366300666850": 129,
+      "gas:candidate-vibid:1001000136124": 41,
+      "gas:candidate-vibid:1001000202334": 65,
+      "gas:candidate-vibid:1001000131413": 37,
+      "gas:candidate-vibid:1001000121911": 64,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 41,
-      "Голубкова Надежда Ивановна": 187,
-      "Ройзман Евгений Вадимович": 476,
-      "Руденко Василий Иванович": 102,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 38,
-      "Черкасов Сергей Вилленович": 39,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 224
+      "gas:candidate-vibid:366300666752": 41,
+      "gas:candidate-vibid:1001000225989": 187,
+      "gas:candidate-vibid:366300666748": 476,
+      "gas:candidate-vibid:366300666850": 102,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 38,
+      "gas:candidate-vibid:1001000131413": 39,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 45,
-      "Голубкова Надежда Ивановна": 204,
-      "Ройзман Евгений Вадимович": 487,
-      "Руденко Василий Иванович": 139,
-      "Сапожников Григорий Алексеевич": 50,
-      "Харитонова Ольга Ивановна": 57,
-      "Черкасов Сергей Вилленович": 55,
-      "Яблонских Валерий Михайлович": 66,
-      "Против всех": 217
+      "gas:candidate-vibid:366300666752": 45,
+      "gas:candidate-vibid:1001000225989": 204,
+      "gas:candidate-vibid:366300666748": 487,
+      "gas:candidate-vibid:366300666850": 139,
+      "gas:candidate-vibid:1001000136124": 50,
+      "gas:candidate-vibid:1001000202334": 57,
+      "gas:candidate-vibid:1001000131413": 55,
+      "gas:candidate-vibid:1001000121911": 66,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 33,
-      "Голубкова Надежда Ивановна": 144,
-      "Ройзман Евгений Вадимович": 352,
-      "Руденко Василий Иванович": 100,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 31,
-      "Яблонских Валерий Михайлович": 30,
-      "Против всех": 177
+      "gas:candidate-vibid:366300666752": 33,
+      "gas:candidate-vibid:1001000225989": 144,
+      "gas:candidate-vibid:366300666748": 352,
+      "gas:candidate-vibid:366300666850": 100,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 31,
+      "gas:candidate-vibid:1001000121911": 30,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 132,
-      "Ройзман Евгений Вадимович": 386,
-      "Руденко Василий Иванович": 119,
-      "Сапожников Григорий Алексеевич": 21,
-      "Харитонова Ольга Ивановна": 31,
-      "Черкасов Сергей Вилленович": 30,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 122
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 132,
+      "gas:candidate-vibid:366300666748": 386,
+      "gas:candidate-vibid:366300666850": 119,
+      "gas:candidate-vibid:1001000136124": 21,
+      "gas:candidate-vibid:1001000202334": 31,
+      "gas:candidate-vibid:1001000131413": 30,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 125,
-      "Ройзман Евгений Вадимович": 261,
-      "Руденко Василий Иванович": 77,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 33,
-      "Яблонских Валерий Михайлович": 39,
-      "Против всех": 131
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 125,
+      "gas:candidate-vibid:366300666748": 261,
+      "gas:candidate-vibid:366300666850": 77,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 33,
+      "gas:candidate-vibid:1001000121911": 39,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 139,
-      "Ройзман Евгений Вадимович": 476,
-      "Руденко Василий Иванович": 67,
-      "Сапожников Григорий Алексеевич": 26,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 27,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 168
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 139,
+      "gas:candidate-vibid:366300666748": 476,
+      "gas:candidate-vibid:366300666850": 67,
+      "gas:candidate-vibid:1001000136124": 26,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 27,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 137,
-      "Ройзман Евгений Вадимович": 385,
-      "Руденко Василий Иванович": 86,
-      "Сапожников Григорий Алексеевич": 19,
-      "Харитонова Ольга Ивановна": 24,
-      "Черкасов Сергей Вилленович": 23,
-      "Яблонских Валерий Михайлович": 21,
-      "Против всех": 190
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 137,
+      "gas:candidate-vibid:366300666748": 385,
+      "gas:candidate-vibid:366300666850": 86,
+      "gas:candidate-vibid:1001000136124": 19,
+      "gas:candidate-vibid:1001000202334": 24,
+      "gas:candidate-vibid:1001000131413": 23,
+      "gas:candidate-vibid:1001000121911": 21,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 179,
-      "Ройзман Евгений Вадимович": 563,
-      "Руденко Василий Иванович": 100,
-      "Сапожников Григорий Алексеевич": 45,
-      "Харитонова Ольга Ивановна": 47,
-      "Черкасов Сергей Вилленович": 39,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 234
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 179,
+      "gas:candidate-vibid:366300666748": 563,
+      "gas:candidate-vibid:366300666850": 100,
+      "gas:candidate-vibid:1001000136124": 45,
+      "gas:candidate-vibid:1001000202334": 47,
+      "gas:candidate-vibid:1001000131413": 39,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 205,
-      "Ройзман Евгений Вадимович": 554,
-      "Руденко Василий Иванович": 166,
-      "Сапожников Григорий Алексеевич": 34,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 50,
-      "Яблонских Валерий Михайлович": 71,
-      "Против всех": 247
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 205,
+      "gas:candidate-vibid:366300666748": 554,
+      "gas:candidate-vibid:366300666850": 166,
+      "gas:candidate-vibid:1001000136124": 34,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 50,
+      "gas:candidate-vibid:1001000121911": 71,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 137,
-      "Ройзман Евгений Вадимович": 348,
-      "Руденко Василий Иванович": 103,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 28,
-      "Черкасов Сергей Вилленович": 33,
-      "Яблонских Валерий Михайлович": 65,
-      "Против всех": 185
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 137,
+      "gas:candidate-vibid:366300666748": 348,
+      "gas:candidate-vibid:366300666850": 103,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 28,
+      "gas:candidate-vibid:1001000131413": 33,
+      "gas:candidate-vibid:1001000121911": 65,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 7,
-      "Голубкова Надежда Ивановна": 134,
-      "Ройзман Евгений Вадимович": 350,
-      "Руденко Василий Иванович": 111,
-      "Сапожников Григорий Алексеевич": 21,
-      "Харитонова Ольга Ивановна": 21,
-      "Черкасов Сергей Вилленович": 42,
-      "Яблонских Валерий Михайлович": 71,
-      "Против всех": 195
+      "gas:candidate-vibid:366300666752": 7,
+      "gas:candidate-vibid:1001000225989": 134,
+      "gas:candidate-vibid:366300666748": 350,
+      "gas:candidate-vibid:366300666850": 111,
+      "gas:candidate-vibid:1001000136124": 21,
+      "gas:candidate-vibid:1001000202334": 21,
+      "gas:candidate-vibid:1001000131413": 42,
+      "gas:candidate-vibid:1001000121911": 71,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 140,
-      "Ройзман Евгений Вадимович": 349,
-      "Руденко Василий Иванович": 108,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 25,
-      "Черкасов Сергей Вилленович": 29,
-      "Яблонских Валерий Михайлович": 35,
-      "Против всех": 169
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 140,
+      "gas:candidate-vibid:366300666748": 349,
+      "gas:candidate-vibid:366300666850": 108,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 25,
+      "gas:candidate-vibid:1001000131413": 29,
+      "gas:candidate-vibid:1001000121911": 35,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 164,
-      "Ройзман Евгений Вадимович": 427,
-      "Руденко Василий Иванович": 105,
-      "Сапожников Григорий Алексеевич": 21,
-      "Харитонова Ольга Ивановна": 39,
-      "Черкасов Сергей Вилленович": 53,
-      "Яблонских Валерий Михайлович": 44,
-      "Против всех": 190
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 164,
+      "gas:candidate-vibid:366300666748": 427,
+      "gas:candidate-vibid:366300666850": 105,
+      "gas:candidate-vibid:1001000136124": 21,
+      "gas:candidate-vibid:1001000202334": 39,
+      "gas:candidate-vibid:1001000131413": 53,
+      "gas:candidate-vibid:1001000121911": 44,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 12,
-      "Голубкова Надежда Ивановна": 125,
-      "Ройзман Евгений Вадимович": 445,
-      "Руденко Василий Иванович": 114,
-      "Сапожников Григорий Алексеевич": 30,
-      "Харитонова Ольга Ивановна": 47,
-      "Черкасов Сергей Вилленович": 46,
-      "Яблонских Валерий Михайлович": 54,
-      "Против всех": 190
+      "gas:candidate-vibid:366300666752": 12,
+      "gas:candidate-vibid:1001000225989": 125,
+      "gas:candidate-vibid:366300666748": 445,
+      "gas:candidate-vibid:366300666850": 114,
+      "gas:candidate-vibid:1001000136124": 30,
+      "gas:candidate-vibid:1001000202334": 47,
+      "gas:candidate-vibid:1001000131413": 46,
+      "gas:candidate-vibid:1001000121911": 54,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 15,
-      "Голубкова Надежда Ивановна": 133,
-      "Ройзман Евгений Вадимович": 328,
-      "Руденко Василий Иванович": 113,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 47,
-      "Черкасов Сергей Вилленович": 33,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 170
+      "gas:candidate-vibid:366300666752": 15,
+      "gas:candidate-vibid:1001000225989": 133,
+      "gas:candidate-vibid:366300666748": 328,
+      "gas:candidate-vibid:366300666850": 113,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 47,
+      "gas:candidate-vibid:1001000131413": 33,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 11,
-      "Голубкова Надежда Ивановна": 81,
-      "Ройзман Евгений Вадимович": 321,
-      "Руденко Василий Иванович": 69,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 38,
-      "Черкасов Сергей Вилленович": 31,
-      "Яблонских Валерий Михайлович": 22,
-      "Против всех": 121
+      "gas:candidate-vibid:366300666752": 11,
+      "gas:candidate-vibid:1001000225989": 81,
+      "gas:candidate-vibid:366300666748": 321,
+      "gas:candidate-vibid:366300666850": 69,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 38,
+      "gas:candidate-vibid:1001000131413": 31,
+      "gas:candidate-vibid:1001000121911": 22,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 23,
-      "Голубкова Надежда Ивановна": 125,
-      "Ройзман Евгений Вадимович": 475,
-      "Руденко Василий Иванович": 125,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 44,
-      "Черкасов Сергей Вилленович": 39,
-      "Яблонских Валерий Михайлович": 51,
-      "Против всех": 221
+      "gas:candidate-vibid:366300666752": 23,
+      "gas:candidate-vibid:1001000225989": 125,
+      "gas:candidate-vibid:366300666748": 475,
+      "gas:candidate-vibid:366300666850": 125,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 44,
+      "gas:candidate-vibid:1001000131413": 39,
+      "gas:candidate-vibid:1001000121911": 51,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 448,
-      "Руденко Василий Иванович": 113,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 34,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 226
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 448,
+      "gas:candidate-vibid:366300666850": 113,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 34,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 155,
-      "Ройзман Евгений Вадимович": 482,
-      "Руденко Василий Иванович": 100,
-      "Сапожников Григорий Алексеевич": 32,
-      "Харитонова Ольга Ивановна": 28,
-      "Черкасов Сергей Вилленович": 34,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 258
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 155,
+      "gas:candidate-vibid:366300666748": 482,
+      "gas:candidate-vibid:366300666850": 100,
+      "gas:candidate-vibid:1001000136124": 32,
+      "gas:candidate-vibid:1001000202334": 28,
+      "gas:candidate-vibid:1001000131413": 34,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 23,
-      "Голубкова Надежда Ивановна": 153,
-      "Ройзман Евгений Вадимович": 544,
-      "Руденко Василий Иванович": 80,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 45,
-      "Черкасов Сергей Вилленович": 53,
-      "Яблонских Валерий Михайлович": 46,
-      "Против всех": 241
+      "gas:candidate-vibid:366300666752": 23,
+      "gas:candidate-vibid:1001000225989": 153,
+      "gas:candidate-vibid:366300666748": 544,
+      "gas:candidate-vibid:366300666850": 80,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 45,
+      "gas:candidate-vibid:1001000131413": 53,
+      "gas:candidate-vibid:1001000121911": 46,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 163,
-      "Ройзман Евгений Вадимович": 516,
-      "Руденко Василий Иванович": 139,
-      "Сапожников Григорий Алексеевич": 35,
-      "Харитонова Ольга Ивановна": 28,
-      "Черкасов Сергей Вилленович": 45,
-      "Яблонских Валерий Михайлович": 43,
-      "Против всех": 245
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 163,
+      "gas:candidate-vibid:366300666748": 516,
+      "gas:candidate-vibid:366300666850": 139,
+      "gas:candidate-vibid:1001000136124": 35,
+      "gas:candidate-vibid:1001000202334": 28,
+      "gas:candidate-vibid:1001000131413": 45,
+      "gas:candidate-vibid:1001000121911": 43,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 123,
-      "Ройзман Евгений Вадимович": 379,
-      "Руденко Василий Иванович": 95,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 48,
-      "Черкасов Сергей Вилленович": 29,
-      "Яблонских Валерий Михайлович": 49,
-      "Против всех": 202
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 123,
+      "gas:candidate-vibid:366300666748": 379,
+      "gas:candidate-vibid:366300666850": 95,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 48,
+      "gas:candidate-vibid:1001000131413": 29,
+      "gas:candidate-vibid:1001000121911": 49,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 7,
-      "Голубкова Надежда Ивановна": 108,
-      "Ройзман Евгений Вадимович": 404,
-      "Руденко Василий Иванович": 182,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 52,
-      "Черкасов Сергей Вилленович": 38,
-      "Яблонских Валерий Михайлович": 49,
-      "Против всех": 186
+      "gas:candidate-vibid:366300666752": 7,
+      "gas:candidate-vibid:1001000225989": 108,
+      "gas:candidate-vibid:366300666748": 404,
+      "gas:candidate-vibid:366300666850": 182,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 52,
+      "gas:candidate-vibid:1001000131413": 38,
+      "gas:candidate-vibid:1001000121911": 49,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 119,
-      "Ройзман Евгений Вадимович": 358,
-      "Руденко Василий Иванович": 156,
-      "Сапожников Григорий Алексеевич": 30,
-      "Харитонова Ольга Ивановна": 22,
-      "Черкасов Сергей Вилленович": 31,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 173
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 119,
+      "gas:candidate-vibid:366300666748": 358,
+      "gas:candidate-vibid:366300666850": 156,
+      "gas:candidate-vibid:1001000136124": 30,
+      "gas:candidate-vibid:1001000202334": 22,
+      "gas:candidate-vibid:1001000131413": 31,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 7,
-      "Голубкова Надежда Ивановна": 175,
-      "Ройзман Евгений Вадимович": 397,
-      "Руденко Василий Иванович": 135,
-      "Сапожников Григорий Алексеевич": 33,
-      "Харитонова Ольга Ивановна": 35,
-      "Черкасов Сергей Вилленович": 38,
-      "Яблонских Валерий Михайлович": 45,
-      "Против всех": 163
+      "gas:candidate-vibid:366300666752": 7,
+      "gas:candidate-vibid:1001000225989": 175,
+      "gas:candidate-vibid:366300666748": 397,
+      "gas:candidate-vibid:366300666850": 135,
+      "gas:candidate-vibid:1001000136124": 33,
+      "gas:candidate-vibid:1001000202334": 35,
+      "gas:candidate-vibid:1001000131413": 38,
+      "gas:candidate-vibid:1001000121911": 45,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 119,
-      "Ройзман Евгений Вадимович": 363,
-      "Руденко Василий Иванович": 142,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 25,
-      "Черкасов Сергей Вилленович": 24,
-      "Яблонских Валерий Михайлович": 30,
-      "Против всех": 154
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 119,
+      "gas:candidate-vibid:366300666748": 363,
+      "gas:candidate-vibid:366300666850": 142,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 25,
+      "gas:candidate-vibid:1001000131413": 24,
+      "gas:candidate-vibid:1001000121911": 30,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 174,
-      "Ройзман Евгений Вадимович": 515,
-      "Руденко Василий Иванович": 101,
-      "Сапожников Григорий Алексеевич": 46,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 40,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 160
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 174,
+      "gas:candidate-vibid:366300666748": 515,
+      "gas:candidate-vibid:366300666850": 101,
+      "gas:candidate-vibid:1001000136124": 46,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 40,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 117,
-      "Ройзман Евгений Вадимович": 372,
-      "Руденко Василий Иванович": 58,
-      "Сапожников Григорий Алексеевич": 30,
-      "Харитонова Ольга Ивановна": 25,
-      "Черкасов Сергей Вилленович": 34,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 127
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 117,
+      "gas:candidate-vibid:366300666748": 372,
+      "gas:candidate-vibid:366300666850": 58,
+      "gas:candidate-vibid:1001000136124": 30,
+      "gas:candidate-vibid:1001000202334": 25,
+      "gas:candidate-vibid:1001000131413": 34,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 8,
-      "Голубкова Надежда Ивановна": 99,
-      "Ройзман Евгений Вадимович": 356,
-      "Руденко Василий Иванович": 76,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 19,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 122
+      "gas:candidate-vibid:366300666752": 8,
+      "gas:candidate-vibid:1001000225989": 99,
+      "gas:candidate-vibid:366300666748": 356,
+      "gas:candidate-vibid:366300666850": 76,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 19,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 2,
-      "Голубкова Надежда Ивановна": 12,
-      "Ройзман Евгений Вадимович": 16,
-      "Руденко Василий Иванович": 7,
-      "Сапожников Григорий Алексеевич": 1,
-      "Харитонова Ольга Ивановна": 2,
-      "Черкасов Сергей Вилленович": 1,
-      "Яблонских Валерий Михайлович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:366300666752": 2,
+      "gas:candidate-vibid:1001000225989": 12,
+      "gas:candidate-vibid:366300666748": 16,
+      "gas:candidate-vibid:366300666850": 7,
+      "gas:candidate-vibid:1001000136124": 1,
+      "gas:candidate-vibid:1001000202334": 2,
+      "gas:candidate-vibid:1001000131413": 1,
+      "gas:candidate-vibid:1001000121911": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 2,
-      "Голубкова Надежда Ивановна": 15,
-      "Ройзман Евгений Вадимович": 53,
-      "Руденко Василий Иванович": 45,
-      "Сапожников Григорий Алексеевич": 2,
-      "Харитонова Ольга Ивановна": 6,
-      "Черкасов Сергей Вилленович": 4,
-      "Яблонских Валерий Михайлович": 12,
-      "Против всех": 39
+      "gas:candidate-vibid:366300666752": 2,
+      "gas:candidate-vibid:1001000225989": 15,
+      "gas:candidate-vibid:366300666748": 53,
+      "gas:candidate-vibid:366300666850": 45,
+      "gas:candidate-vibid:1001000136124": 2,
+      "gas:candidate-vibid:1001000202334": 6,
+      "gas:candidate-vibid:1001000131413": 4,
+      "gas:candidate-vibid:1001000121911": 12,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 475,
-      "Руденко Василий Иванович": 102,
-      "Сапожников Григорий Алексеевич": 33,
-      "Харитонова Ольга Ивановна": 38,
-      "Черкасов Сергей Вилленович": 37,
-      "Яблонских Валерий Михайлович": 56,
-      "Против всех": 230
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 475,
+      "gas:candidate-vibid:366300666850": 102,
+      "gas:candidate-vibid:1001000136124": 33,
+      "gas:candidate-vibid:1001000202334": 38,
+      "gas:candidate-vibid:1001000131413": 37,
+      "gas:candidate-vibid:1001000121911": 56,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 188,
-      "Ройзман Евгений Вадимович": 513,
-      "Руденко Василий Иванович": 108,
-      "Сапожников Григорий Алексеевич": 45,
-      "Харитонова Ольга Ивановна": 46,
-      "Черкасов Сергей Вилленович": 35,
-      "Яблонских Валерий Михайлович": 51,
-      "Против всех": 258
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 188,
+      "gas:candidate-vibid:366300666748": 513,
+      "gas:candidate-vibid:366300666850": 108,
+      "gas:candidate-vibid:1001000136124": 45,
+      "gas:candidate-vibid:1001000202334": 46,
+      "gas:candidate-vibid:1001000131413": 35,
+      "gas:candidate-vibid:1001000121911": 51,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 26,
-      "Голубкова Надежда Ивановна": 219,
-      "Ройзман Евгений Вадимович": 564,
-      "Руденко Василий Иванович": 117,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 52,
-      "Черкасов Сергей Вилленович": 75,
-      "Яблонских Валерий Михайлович": 57,
-      "Против всех": 288
+      "gas:candidate-vibid:366300666752": 26,
+      "gas:candidate-vibid:1001000225989": 219,
+      "gas:candidate-vibid:366300666748": 564,
+      "gas:candidate-vibid:366300666850": 117,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 52,
+      "gas:candidate-vibid:1001000131413": 75,
+      "gas:candidate-vibid:1001000121911": 57,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 12,
-      "Голубкова Надежда Ивановна": 189,
-      "Ройзман Евгений Вадимович": 539,
-      "Руденко Василий Иванович": 111,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 46,
-      "Черкасов Сергей Вилленович": 48,
-      "Яблонских Валерий Михайлович": 68,
-      "Против всех": 238
+      "gas:candidate-vibid:366300666752": 12,
+      "gas:candidate-vibid:1001000225989": 189,
+      "gas:candidate-vibid:366300666748": 539,
+      "gas:candidate-vibid:366300666850": 111,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 46,
+      "gas:candidate-vibid:1001000131413": 48,
+      "gas:candidate-vibid:1001000121911": 68,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 185,
-      "Ройзман Евгений Вадимович": 536,
-      "Руденко Василий Иванович": 184,
-      "Сапожников Григорий Алексеевич": 25,
-      "Харитонова Ольга Ивановна": 49,
-      "Черкасов Сергей Вилленович": 42,
-      "Яблонских Валерий Михайлович": 77,
-      "Против всех": 262
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 185,
+      "gas:candidate-vibid:366300666748": 536,
+      "gas:candidate-vibid:366300666850": 184,
+      "gas:candidate-vibid:1001000136124": 25,
+      "gas:candidate-vibid:1001000202334": 49,
+      "gas:candidate-vibid:1001000131413": 42,
+      "gas:candidate-vibid:1001000121911": 77,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 11,
-      "Голубкова Надежда Ивановна": 114,
-      "Ройзман Евгений Вадимович": 369,
-      "Руденко Василий Иванович": 135,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 42,
-      "Черкасов Сергей Вилленович": 21,
-      "Яблонских Валерий Михайлович": 37,
-      "Против всех": 236
+      "gas:candidate-vibid:366300666752": 11,
+      "gas:candidate-vibid:1001000225989": 114,
+      "gas:candidate-vibid:366300666748": 369,
+      "gas:candidate-vibid:366300666850": 135,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 42,
+      "gas:candidate-vibid:1001000131413": 21,
+      "gas:candidate-vibid:1001000121911": 37,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 14,
-      "Голубкова Надежда Ивановна": 115,
-      "Ройзман Евгений Вадимович": 345,
-      "Руденко Василий Иванович": 59,
-      "Сапожников Григорий Алексеевич": 21,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 24,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 178
+      "gas:candidate-vibid:366300666752": 14,
+      "gas:candidate-vibid:1001000225989": 115,
+      "gas:candidate-vibid:366300666748": 345,
+      "gas:candidate-vibid:366300666850": 59,
+      "gas:candidate-vibid:1001000136124": 21,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 24,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 184,
-      "Ройзман Евгений Вадимович": 654,
-      "Руденко Василий Иванович": 122,
-      "Сапожников Григорий Алексеевич": 38,
-      "Харитонова Ольга Ивановна": 42,
-      "Черкасов Сергей Вилленович": 38,
-      "Яблонских Валерий Михайлович": 63,
-      "Против всех": 312
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 184,
+      "gas:candidate-vibid:366300666748": 654,
+      "gas:candidate-vibid:366300666850": 122,
+      "gas:candidate-vibid:1001000136124": 38,
+      "gas:candidate-vibid:1001000202334": 42,
+      "gas:candidate-vibid:1001000131413": 38,
+      "gas:candidate-vibid:1001000121911": 63,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 116,
-      "Ройзман Евгений Вадимович": 297,
-      "Руденко Василий Иванович": 43,
-      "Сапожников Григорий Алексеевич": 25,
-      "Харитонова Ольга Ивановна": 24,
-      "Черкасов Сергей Вилленович": 13,
-      "Яблонских Валерий Михайлович": 28,
-      "Против всех": 141
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 116,
+      "gas:candidate-vibid:366300666748": 297,
+      "gas:candidate-vibid:366300666850": 43,
+      "gas:candidate-vibid:1001000136124": 25,
+      "gas:candidate-vibid:1001000202334": 24,
+      "gas:candidate-vibid:1001000131413": 13,
+      "gas:candidate-vibid:1001000121911": 28,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 14,
-      "Голубкова Надежда Ивановна": 158,
-      "Ройзман Евгений Вадимович": 464,
-      "Руденко Василий Иванович": 99,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 33,
-      "Яблонских Валерий Михайлович": 56,
-      "Против всех": 190
+      "gas:candidate-vibid:366300666752": 14,
+      "gas:candidate-vibid:1001000225989": 158,
+      "gas:candidate-vibid:366300666748": 464,
+      "gas:candidate-vibid:366300666850": 99,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 33,
+      "gas:candidate-vibid:1001000121911": 56,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 204,
-      "Ройзман Евгений Вадимович": 473,
-      "Руденко Василий Иванович": 121,
-      "Сапожников Григорий Алексеевич": 39,
-      "Харитонова Ольга Ивановна": 55,
-      "Черкасов Сергей Вилленович": 33,
-      "Яблонских Валерий Михайлович": 47,
-      "Против всех": 221
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 204,
+      "gas:candidate-vibid:366300666748": 473,
+      "gas:candidate-vibid:366300666850": 121,
+      "gas:candidate-vibid:1001000136124": 39,
+      "gas:candidate-vibid:1001000202334": 55,
+      "gas:candidate-vibid:1001000131413": 33,
+      "gas:candidate-vibid:1001000121911": 47,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 159,
-      "Ройзман Евгений Вадимович": 518,
-      "Руденко Василий Иванович": 100,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 36,
-      "Яблонских Валерий Михайлович": 59,
-      "Против всех": 244
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 159,
+      "gas:candidate-vibid:366300666748": 518,
+      "gas:candidate-vibid:366300666850": 100,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 36,
+      "gas:candidate-vibid:1001000121911": 59,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 10,
-      "Голубкова Надежда Ивановна": 123,
-      "Ройзман Евгений Вадимович": 427,
-      "Руденко Василий Иванович": 112,
-      "Сапожников Григорий Алексеевич": 26,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 44,
-      "Яблонских Валерий Михайлович": 64,
-      "Против всех": 283
+      "gas:candidate-vibid:366300666752": 10,
+      "gas:candidate-vibid:1001000225989": 123,
+      "gas:candidate-vibid:366300666748": 427,
+      "gas:candidate-vibid:366300666850": 112,
+      "gas:candidate-vibid:1001000136124": 26,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 44,
+      "gas:candidate-vibid:1001000121911": 64,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 20,
-      "Голубкова Надежда Ивановна": 184,
-      "Ройзман Евгений Вадимович": 450,
-      "Руденко Василий Иванович": 68,
-      "Сапожников Григорий Алексеевич": 40,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 87,
-      "Яблонских Валерий Михайлович": 64,
-      "Против всех": 197
+      "gas:candidate-vibid:366300666752": 20,
+      "gas:candidate-vibid:1001000225989": 184,
+      "gas:candidate-vibid:366300666748": 450,
+      "gas:candidate-vibid:366300666850": 68,
+      "gas:candidate-vibid:1001000136124": 40,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 87,
+      "gas:candidate-vibid:1001000121911": 64,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 11,
-      "Голубкова Надежда Ивановна": 109,
-      "Ройзман Евгений Вадимович": 317,
-      "Руденко Василий Иванович": 71,
-      "Сапожников Григорий Алексеевич": 26,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 21,
-      "Яблонских Валерий Михайлович": 36,
-      "Против всех": 107
+      "gas:candidate-vibid:366300666752": 11,
+      "gas:candidate-vibid:1001000225989": 109,
+      "gas:candidate-vibid:366300666748": 317,
+      "gas:candidate-vibid:366300666850": 71,
+      "gas:candidate-vibid:1001000136124": 26,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 21,
+      "gas:candidate-vibid:1001000121911": 36,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 8,
-      "Голубкова Надежда Ивановна": 124,
-      "Ройзман Евгений Вадимович": 459,
-      "Руденко Василий Иванович": 96,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 48,
-      "Черкасов Сергей Вилленович": 21,
-      "Яблонских Валерий Михайлович": 36,
-      "Против всех": 162
+      "gas:candidate-vibid:366300666752": 8,
+      "gas:candidate-vibid:1001000225989": 124,
+      "gas:candidate-vibid:366300666748": 459,
+      "gas:candidate-vibid:366300666850": 96,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 48,
+      "gas:candidate-vibid:1001000131413": 21,
+      "gas:candidate-vibid:1001000121911": 36,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 110,
-      "Ройзман Евгений Вадимович": 329,
-      "Руденко Василий Иванович": 91,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 22,
-      "Черкасов Сергей Вилленович": 20,
-      "Яблонских Валерий Михайлович": 26,
-      "Против всех": 135
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 110,
+      "gas:candidate-vibid:366300666748": 329,
+      "gas:candidate-vibid:366300666850": 91,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 22,
+      "gas:candidate-vibid:1001000131413": 20,
+      "gas:candidate-vibid:1001000121911": 26,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 5,
-      "Голубкова Надежда Ивановна": 69,
-      "Ройзман Евгений Вадимович": 175,
-      "Руденко Василий Иванович": 43,
-      "Сапожников Григорий Алексеевич": 21,
-      "Харитонова Ольга Ивановна": 16,
-      "Черкасов Сергей Вилленович": 13,
-      "Яблонских Валерий Михайлович": 20,
-      "Против всех": 92
+      "gas:candidate-vibid:366300666752": 5,
+      "gas:candidate-vibid:1001000225989": 69,
+      "gas:candidate-vibid:366300666748": 175,
+      "gas:candidate-vibid:366300666850": 43,
+      "gas:candidate-vibid:1001000136124": 21,
+      "gas:candidate-vibid:1001000202334": 16,
+      "gas:candidate-vibid:1001000131413": 13,
+      "gas:candidate-vibid:1001000121911": 20,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 3,
-      "Голубкова Надежда Ивановна": 55,
-      "Ройзман Евгений Вадимович": 220,
-      "Руденко Василий Иванович": 31,
-      "Сапожников Григорий Алексеевич": 7,
-      "Харитонова Ольга Ивановна": 12,
-      "Черкасов Сергей Вилленович": 24,
-      "Яблонских Валерий Михайлович": 19,
-      "Против всех": 72
+      "gas:candidate-vibid:366300666752": 3,
+      "gas:candidate-vibid:1001000225989": 55,
+      "gas:candidate-vibid:366300666748": 220,
+      "gas:candidate-vibid:366300666850": 31,
+      "gas:candidate-vibid:1001000136124": 7,
+      "gas:candidate-vibid:1001000202334": 12,
+      "gas:candidate-vibid:1001000131413": 24,
+      "gas:candidate-vibid:1001000121911": 19,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 118,
-      "Ройзман Евгений Вадимович": 407,
-      "Руденко Василий Иванович": 108,
-      "Сапожников Григорий Алексеевич": 25,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 18,
-      "Яблонских Валерий Михайлович": 17,
-      "Против всех": 203
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 118,
+      "gas:candidate-vibid:366300666748": 407,
+      "gas:candidate-vibid:366300666850": 108,
+      "gas:candidate-vibid:1001000136124": 25,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 18,
+      "gas:candidate-vibid:1001000121911": 17,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 5,
-      "Голубкова Надежда Ивановна": 15,
-      "Ройзман Евгений Вадимович": 45,
-      "Руденко Василий Иванович": 20,
-      "Сапожников Григорий Алексеевич": 5,
-      "Харитонова Ольга Ивановна": 9,
-      "Черкасов Сергей Вилленович": 3,
-      "Яблонских Валерий Михайлович": 10,
-      "Против всех": 47
+      "gas:candidate-vibid:366300666752": 5,
+      "gas:candidate-vibid:1001000225989": 15,
+      "gas:candidate-vibid:366300666748": 45,
+      "gas:candidate-vibid:366300666850": 20,
+      "gas:candidate-vibid:1001000136124": 5,
+      "gas:candidate-vibid:1001000202334": 9,
+      "gas:candidate-vibid:1001000131413": 3,
+      "gas:candidate-vibid:1001000121911": 10,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 26,
-      "Голубкова Надежда Ивановна": 222,
-      "Ройзман Евгений Вадимович": 591,
-      "Руденко Василий Иванович": 110,
-      "Сапожников Григорий Алексеевич": 41,
-      "Харитонова Ольга Ивановна": 65,
-      "Черкасов Сергей Вилленович": 46,
-      "Яблонских Валерий Михайлович": 72,
-      "Против всех": 302
+      "gas:candidate-vibid:366300666752": 26,
+      "gas:candidate-vibid:1001000225989": 222,
+      "gas:candidate-vibid:366300666748": 591,
+      "gas:candidate-vibid:366300666850": 110,
+      "gas:candidate-vibid:1001000136124": 41,
+      "gas:candidate-vibid:1001000202334": 65,
+      "gas:candidate-vibid:1001000131413": 46,
+      "gas:candidate-vibid:1001000121911": 72,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 23,
-      "Голубкова Надежда Ивановна": 222,
-      "Ройзман Евгений Вадимович": 603,
-      "Руденко Василий Иванович": 123,
-      "Сапожников Григорий Алексеевич": 39,
-      "Харитонова Ольга Ивановна": 44,
-      "Черкасов Сергей Вилленович": 55,
-      "Яблонских Валерий Михайлович": 69,
-      "Против всех": 299
+      "gas:candidate-vibid:366300666752": 23,
+      "gas:candidate-vibid:1001000225989": 222,
+      "gas:candidate-vibid:366300666748": 603,
+      "gas:candidate-vibid:366300666850": 123,
+      "gas:candidate-vibid:1001000136124": 39,
+      "gas:candidate-vibid:1001000202334": 44,
+      "gas:candidate-vibid:1001000131413": 55,
+      "gas:candidate-vibid:1001000121911": 69,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 32,
-      "Голубкова Надежда Ивановна": 213,
-      "Ройзман Евгений Вадимович": 631,
-      "Руденко Василий Иванович": 137,
-      "Сапожников Григорий Алексеевич": 38,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 45,
-      "Яблонских Валерий Михайлович": 65,
-      "Против всех": 313
+      "gas:candidate-vibid:366300666752": 32,
+      "gas:candidate-vibid:1001000225989": 213,
+      "gas:candidate-vibid:366300666748": 631,
+      "gas:candidate-vibid:366300666850": 137,
+      "gas:candidate-vibid:1001000136124": 38,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 45,
+      "gas:candidate-vibid:1001000121911": 65,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 37,
-      "Голубкова Надежда Ивановна": 187,
-      "Ройзман Евгений Вадимович": 560,
-      "Руденко Василий Иванович": 140,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 51,
-      "Черкасов Сергей Вилленович": 23,
-      "Яблонских Валерий Михайлович": 44,
-      "Против всех": 273
+      "gas:candidate-vibid:366300666752": 37,
+      "gas:candidate-vibid:1001000225989": 187,
+      "gas:candidate-vibid:366300666748": 560,
+      "gas:candidate-vibid:366300666850": 140,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 51,
+      "gas:candidate-vibid:1001000131413": 23,
+      "gas:candidate-vibid:1001000121911": 44,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 31,
-      "Голубкова Надежда Ивановна": 190,
-      "Ройзман Евгений Вадимович": 509,
-      "Руденко Василий Иванович": 106,
-      "Сапожников Григорий Алексеевич": 32,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 34,
-      "Яблонских Валерий Михайлович": 44,
-      "Против всех": 212
+      "gas:candidate-vibid:366300666752": 31,
+      "gas:candidate-vibid:1001000225989": 190,
+      "gas:candidate-vibid:366300666748": 509,
+      "gas:candidate-vibid:366300666850": 106,
+      "gas:candidate-vibid:1001000136124": 32,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 34,
+      "gas:candidate-vibid:1001000121911": 44,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 203,
-      "Ройзман Евгений Вадимович": 562,
-      "Руденко Василий Иванович": 114,
-      "Сапожников Григорий Алексеевич": 43,
-      "Харитонова Ольга Ивановна": 58,
-      "Черкасов Сергей Вилленович": 42,
-      "Яблонских Валерий Михайлович": 60,
-      "Против всех": 254
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 203,
+      "gas:candidate-vibid:366300666748": 562,
+      "gas:candidate-vibid:366300666850": 114,
+      "gas:candidate-vibid:1001000136124": 43,
+      "gas:candidate-vibid:1001000202334": 58,
+      "gas:candidate-vibid:1001000131413": 42,
+      "gas:candidate-vibid:1001000121911": 60,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 26,
-      "Голубкова Надежда Ивановна": 166,
-      "Ройзман Евгений Вадимович": 519,
-      "Руденко Василий Иванович": 98,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 38,
-      "Черкасов Сергей Вилленович": 35,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 241
+      "gas:candidate-vibid:366300666752": 26,
+      "gas:candidate-vibid:1001000225989": 166,
+      "gas:candidate-vibid:366300666748": 519,
+      "gas:candidate-vibid:366300666850": 98,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 38,
+      "gas:candidate-vibid:1001000131413": 35,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 141,
-      "Ройзман Евгений Вадимович": 389,
-      "Руденко Василий Иванович": 77,
-      "Сапожников Григорий Алексеевич": 11,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 23,
-      "Яблонских Валерий Михайлович": 39,
-      "Против всех": 172
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 141,
+      "gas:candidate-vibid:366300666748": 389,
+      "gas:candidate-vibid:366300666850": 77,
+      "gas:candidate-vibid:1001000136124": 11,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 23,
+      "gas:candidate-vibid:1001000121911": 39,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 26,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 464,
-      "Руденко Василий Иванович": 79,
-      "Сапожников Григорий Алексеевич": 18,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 22,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 188
+      "gas:candidate-vibid:366300666752": 26,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 464,
+      "gas:candidate-vibid:366300666850": 79,
+      "gas:candidate-vibid:1001000136124": 18,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 22,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 127,
-      "Ройзман Евгений Вадимович": 402,
-      "Руденко Василий Иванович": 66,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 29,
-      "Черкасов Сергей Вилленович": 17,
-      "Яблонских Валерий Михайлович": 13,
-      "Против всех": 100
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 127,
+      "gas:candidate-vibid:366300666748": 402,
+      "gas:candidate-vibid:366300666850": 66,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 29,
+      "gas:candidate-vibid:1001000131413": 17,
+      "gas:candidate-vibid:1001000121911": 13,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 128,
-      "Ройзман Евгений Вадимович": 321,
-      "Руденко Василий Иванович": 34,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 25,
-      "Черкасов Сергей Вилленович": 18,
-      "Яблонских Валерий Михайлович": 25,
-      "Против всех": 135
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 128,
+      "gas:candidate-vibid:366300666748": 321,
+      "gas:candidate-vibid:366300666850": 34,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 25,
+      "gas:candidate-vibid:1001000131413": 18,
+      "gas:candidate-vibid:1001000121911": 25,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 39,
-      "Голубкова Надежда Ивановна": 176,
-      "Ройзман Евгений Вадимович": 617,
-      "Руденко Василий Иванович": 96,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 38,
-      "Черкасов Сергей Вилленович": 51,
-      "Яблонских Валерий Михайлович": 44,
-      "Против всех": 273
+      "gas:candidate-vibid:366300666752": 39,
+      "gas:candidate-vibid:1001000225989": 176,
+      "gas:candidate-vibid:366300666748": 617,
+      "gas:candidate-vibid:366300666850": 96,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 38,
+      "gas:candidate-vibid:1001000131413": 51,
+      "gas:candidate-vibid:1001000121911": 44,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 178,
-      "Ройзман Евгений Вадимович": 572,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 33,
-      "Харитонова Ольга Ивановна": 52,
-      "Черкасов Сергей Вилленович": 39,
-      "Яблонских Валерий Михайлович": 34,
-      "Против всех": 247
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 178,
+      "gas:candidate-vibid:366300666748": 572,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 33,
+      "gas:candidate-vibid:1001000202334": 52,
+      "gas:candidate-vibid:1001000131413": 39,
+      "gas:candidate-vibid:1001000121911": 34,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 26,
-      "Голубкова Надежда Ивановна": 172,
-      "Ройзман Евгений Вадимович": 571,
-      "Руденко Василий Иванович": 156,
-      "Сапожников Григорий Алексеевич": 38,
-      "Харитонова Ольга Ивановна": 44,
-      "Черкасов Сергей Вилленович": 34,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 297
+      "gas:candidate-vibid:366300666752": 26,
+      "gas:candidate-vibid:1001000225989": 172,
+      "gas:candidate-vibid:366300666748": 571,
+      "gas:candidate-vibid:366300666850": 156,
+      "gas:candidate-vibid:1001000136124": 38,
+      "gas:candidate-vibid:1001000202334": 44,
+      "gas:candidate-vibid:1001000131413": 34,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 25,
-      "Голубкова Надежда Ивановна": 159,
-      "Ройзман Евгений Вадимович": 624,
-      "Руденко Василий Иванович": 125,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 52,
-      "Черкасов Сергей Вилленович": 25,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 244
+      "gas:candidate-vibid:366300666752": 25,
+      "gas:candidate-vibid:1001000225989": 159,
+      "gas:candidate-vibid:366300666748": 624,
+      "gas:candidate-vibid:366300666850": 125,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 52,
+      "gas:candidate-vibid:1001000131413": 25,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 614,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 13,
-      "Харитонова Ольга Ивановна": 25,
-      "Черкасов Сергей Вилленович": 39,
-      "Яблонских Валерий Михайлович": 24,
-      "Против всех": 233
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 614,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 13,
+      "gas:candidate-vibid:1001000202334": 25,
+      "gas:candidate-vibid:1001000131413": 39,
+      "gas:candidate-vibid:1001000121911": 24,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 31,
-      "Голубкова Надежда Ивановна": 200,
-      "Ройзман Евгений Вадимович": 647,
-      "Руденко Василий Иванович": 92,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 34,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 308
+      "gas:candidate-vibid:366300666752": 31,
+      "gas:candidate-vibid:1001000225989": 200,
+      "gas:candidate-vibid:366300666748": 647,
+      "gas:candidate-vibid:366300666850": 92,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 34,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 150,
-      "Ройзман Евгений Вадимович": 527,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 23,
-      "Харитонова Ольга Ивановна": 25,
-      "Черкасов Сергей Вилленович": 43,
-      "Яблонских Валерий Михайлович": 26,
-      "Против всех": 273
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 150,
+      "gas:candidate-vibid:366300666748": 527,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 23,
+      "gas:candidate-vibid:1001000202334": 25,
+      "gas:candidate-vibid:1001000131413": 43,
+      "gas:candidate-vibid:1001000121911": 26,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 34,
-      "Голубкова Надежда Ивановна": 191,
-      "Ройзман Евгений Вадимович": 545,
-      "Руденко Василий Иванович": 106,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 37,
-      "Черкасов Сергей Вилленович": 41,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 248
+      "gas:candidate-vibid:366300666752": 34,
+      "gas:candidate-vibid:1001000225989": 191,
+      "gas:candidate-vibid:366300666748": 545,
+      "gas:candidate-vibid:366300666850": 106,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 37,
+      "gas:candidate-vibid:1001000131413": 41,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 11,
-      "Голубкова Надежда Ивановна": 85,
-      "Ройзман Евгений Вадимович": 303,
-      "Руденко Василий Иванович": 73,
-      "Сапожников Григорий Алексеевич": 11,
-      "Харитонова Ольга Ивановна": 17,
-      "Черкасов Сергей Вилленович": 35,
-      "Яблонских Валерий Михайлович": 10,
-      "Против всех": 138
+      "gas:candidate-vibid:366300666752": 11,
+      "gas:candidate-vibid:1001000225989": 85,
+      "gas:candidate-vibid:366300666748": 303,
+      "gas:candidate-vibid:366300666850": 73,
+      "gas:candidate-vibid:1001000136124": 11,
+      "gas:candidate-vibid:1001000202334": 17,
+      "gas:candidate-vibid:1001000131413": 35,
+      "gas:candidate-vibid:1001000121911": 10,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 184,
-      "Ройзман Евгений Вадимович": 558,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 37,
-      "Харитонова Ольга Ивановна": 121,
-      "Черкасов Сергей Вилленович": 59,
-      "Яблонских Валерий Михайлович": 75,
-      "Против всех": 332
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 184,
+      "gas:candidate-vibid:366300666748": 558,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 37,
+      "gas:candidate-vibid:1001000202334": 121,
+      "gas:candidate-vibid:1001000131413": 59,
+      "gas:candidate-vibid:1001000121911": 75,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 143,
-      "Ройзман Евгений Вадимович": 659,
-      "Руденко Василий Иванович": 81,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 111,
-      "Черкасов Сергей Вилленович": 40,
-      "Яблонских Валерий Михайлович": 70,
-      "Против всех": 296
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 143,
+      "gas:candidate-vibid:366300666748": 659,
+      "gas:candidate-vibid:366300666850": 81,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 111,
+      "gas:candidate-vibid:1001000131413": 40,
+      "gas:candidate-vibid:1001000121911": 70,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 549,
-      "Руденко Василий Иванович": 80,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 107,
-      "Черкасов Сергей Вилленович": 38,
-      "Яблонских Валерий Михайлович": 51,
-      "Против всех": 254
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 549,
+      "gas:candidate-vibid:366300666850": 80,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 107,
+      "gas:candidate-vibid:1001000131413": 38,
+      "gas:candidate-vibid:1001000121911": 51,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 145,
-      "Ройзман Евгений Вадимович": 474,
-      "Руденко Василий Иванович": 100,
-      "Сапожников Григорий Алексеевич": 31,
-      "Харитонова Ольга Ивановна": 126,
-      "Черкасов Сергей Вилленович": 28,
-      "Яблонских Валерий Михайлович": 35,
-      "Против всех": 257
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 145,
+      "gas:candidate-vibid:366300666748": 474,
+      "gas:candidate-vibid:366300666850": 100,
+      "gas:candidate-vibid:1001000136124": 31,
+      "gas:candidate-vibid:1001000202334": 126,
+      "gas:candidate-vibid:1001000131413": 28,
+      "gas:candidate-vibid:1001000121911": 35,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 187,
-      "Ройзман Евгений Вадимович": 613,
-      "Руденко Василий Иванович": 128,
-      "Сапожников Григорий Алексеевич": 32,
-      "Харитонова Ольга Ивановна": 74,
-      "Черкасов Сергей Вилленович": 42,
-      "Яблонских Валерий Михайлович": 67,
-      "Против всех": 333
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 187,
+      "gas:candidate-vibid:366300666748": 613,
+      "gas:candidate-vibid:366300666850": 128,
+      "gas:candidate-vibid:1001000136124": 32,
+      "gas:candidate-vibid:1001000202334": 74,
+      "gas:candidate-vibid:1001000131413": 42,
+      "gas:candidate-vibid:1001000121911": 67,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 195,
-      "Ройзман Евгений Вадимович": 633,
-      "Руденко Василий Иванович": 135,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 39,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 278
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 195,
+      "gas:candidate-vibid:366300666748": 633,
+      "gas:candidate-vibid:366300666850": 135,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 39,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 160,
-      "Ройзман Евгений Вадимович": 563,
-      "Руденко Василий Иванович": 172,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 50,
-      "Черкасов Сергей Вилленович": 26,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 317
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 160,
+      "gas:candidate-vibid:366300666748": 563,
+      "gas:candidate-vibid:366300666850": 172,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 50,
+      "gas:candidate-vibid:1001000131413": 26,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666775&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 7,
-      "Голубкова Надежда Ивановна": 13,
-      "Ройзман Евгений Вадимович": 53,
-      "Руденко Василий Иванович": 9,
-      "Сапожников Григорий Алексеевич": 2,
-      "Харитонова Ольга Ивановна": 6,
-      "Черкасов Сергей Вилленович": 16,
-      "Яблонских Валерий Михайлович": 6,
-      "Против всех": 20
+      "gas:candidate-vibid:366300666752": 7,
+      "gas:candidate-vibid:1001000225989": 13,
+      "gas:candidate-vibid:366300666748": 53,
+      "gas:candidate-vibid:366300666850": 9,
+      "gas:candidate-vibid:1001000136124": 2,
+      "gas:candidate-vibid:1001000202334": 6,
+      "gas:candidate-vibid:1001000131413": 16,
+      "gas:candidate-vibid:1001000121911": 6,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 7,
-      "Голубкова Надежда Ивановна": 11,
-      "Ройзман Евгений Вадимович": 32,
-      "Руденко Василий Иванович": 1,
-      "Сапожников Григорий Алексеевич": 2,
-      "Харитонова Ольга Ивановна": 7,
-      "Черкасов Сергей Вилленович": 13,
-      "Яблонских Валерий Михайлович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:366300666752": 7,
+      "gas:candidate-vibid:1001000225989": 11,
+      "gas:candidate-vibid:366300666748": 32,
+      "gas:candidate-vibid:366300666850": 1,
+      "gas:candidate-vibid:1001000136124": 2,
+      "gas:candidate-vibid:1001000202334": 7,
+      "gas:candidate-vibid:1001000131413": 13,
+      "gas:candidate-vibid:1001000121911": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 61,
-      "Ройзман Евгений Вадимович": 281,
-      "Руденко Василий Иванович": 65,
-      "Сапожников Григорий Алексеевич": 7,
-      "Харитонова Ольга Ивановна": 23,
-      "Черкасов Сергей Вилленович": 74,
-      "Яблонских Валерий Михайлович": 21,
-      "Против всех": 100
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 61,
+      "gas:candidate-vibid:366300666748": 281,
+      "gas:candidate-vibid:366300666850": 65,
+      "gas:candidate-vibid:1001000136124": 7,
+      "gas:candidate-vibid:1001000202334": 23,
+      "gas:candidate-vibid:1001000131413": 74,
+      "gas:candidate-vibid:1001000121911": 21,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 34,
-      "Голубкова Надежда Ивановна": 89,
-      "Ройзман Евгений Вадимович": 353,
-      "Руденко Василий Иванович": 81,
-      "Сапожников Григорий Алексеевич": 23,
-      "Харитонова Ольга Ивановна": 29,
-      "Черкасов Сергей Вилленович": 88,
-      "Яблонских Валерий Михайлович": 22,
-      "Против всех": 115
+      "gas:candidate-vibid:366300666752": 34,
+      "gas:candidate-vibid:1001000225989": 89,
+      "gas:candidate-vibid:366300666748": 353,
+      "gas:candidate-vibid:366300666850": 81,
+      "gas:candidate-vibid:1001000136124": 23,
+      "gas:candidate-vibid:1001000202334": 29,
+      "gas:candidate-vibid:1001000131413": 88,
+      "gas:candidate-vibid:1001000121911": 22,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 39,
-      "Голубкова Надежда Ивановна": 93,
-      "Ройзман Евгений Вадимович": 417,
-      "Руденко Василий Иванович": 74,
-      "Сапожников Григорий Алексеевич": 19,
-      "Харитонова Ольга Ивановна": 27,
-      "Черкасов Сергей Вилленович": 121,
-      "Яблонских Валерий Михайлович": 28,
-      "Против всех": 120
+      "gas:candidate-vibid:366300666752": 39,
+      "gas:candidate-vibid:1001000225989": 93,
+      "gas:candidate-vibid:366300666748": 417,
+      "gas:candidate-vibid:366300666850": 74,
+      "gas:candidate-vibid:1001000136124": 19,
+      "gas:candidate-vibid:1001000202334": 27,
+      "gas:candidate-vibid:1001000131413": 121,
+      "gas:candidate-vibid:1001000121911": 28,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 88,
-      "Ройзман Евгений Вадимович": 446,
-      "Руденко Василий Иванович": 71,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 24,
-      "Черкасов Сергей Вилленович": 123,
-      "Яблонских Валерий Михайлович": 44,
-      "Против всех": 149
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 88,
+      "gas:candidate-vibid:366300666748": 446,
+      "gas:candidate-vibid:366300666850": 71,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 24,
+      "gas:candidate-vibid:1001000131413": 123,
+      "gas:candidate-vibid:1001000121911": 44,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 136,
-      "Ройзман Евгений Вадимович": 568,
-      "Руденко Василий Иванович": 90,
-      "Сапожников Григорий Алексеевич": 16,
-      "Харитонова Ольга Ивановна": 76,
-      "Черкасов Сергей Вилленович": 178,
-      "Яблонских Валерий Михайлович": 30,
-      "Против всех": 154
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 136,
+      "gas:candidate-vibid:366300666748": 568,
+      "gas:candidate-vibid:366300666850": 90,
+      "gas:candidate-vibid:1001000136124": 16,
+      "gas:candidate-vibid:1001000202334": 76,
+      "gas:candidate-vibid:1001000131413": 178,
+      "gas:candidate-vibid:1001000121911": 30,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 73,
-      "Ройзман Евгений Вадимович": 268,
-      "Руденко Василий Иванович": 35,
-      "Сапожников Григорий Алексеевич": 21,
-      "Харитонова Ольга Ивановна": 33,
-      "Черкасов Сергей Вилленович": 65,
-      "Яблонских Валерий Михайлович": 16,
-      "Против всех": 69
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 73,
+      "gas:candidate-vibid:366300666748": 268,
+      "gas:candidate-vibid:366300666850": 35,
+      "gas:candidate-vibid:1001000136124": 21,
+      "gas:candidate-vibid:1001000202334": 33,
+      "gas:candidate-vibid:1001000131413": 65,
+      "gas:candidate-vibid:1001000121911": 16,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 97,
-      "Ройзман Евгений Вадимович": 354,
-      "Руденко Василий Иванович": 69,
-      "Сапожников Григорий Алексеевич": 16,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 104,
-      "Яблонских Валерий Михайлович": 32,
-      "Против всех": 104
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 97,
+      "gas:candidate-vibid:366300666748": 354,
+      "gas:candidate-vibid:366300666850": 69,
+      "gas:candidate-vibid:1001000136124": 16,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 104,
+      "gas:candidate-vibid:1001000121911": 32,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 60,
-      "Ройзман Евгений Вадимович": 270,
-      "Руденко Василий Иванович": 38,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 82,
-      "Яблонских Валерий Михайлович": 14,
-      "Против всех": 76
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 60,
+      "gas:candidate-vibid:366300666748": 270,
+      "gas:candidate-vibid:366300666850": 38,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 82,
+      "gas:candidate-vibid:1001000121911": 14,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 37,
-      "Голубкова Надежда Ивановна": 112,
-      "Ройзман Евгений Вадимович": 489,
-      "Руденко Василий Иванович": 59,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 45,
-      "Черкасов Сергей Вилленович": 199,
-      "Яблонских Валерий Михайлович": 56,
-      "Против всех": 142
+      "gas:candidate-vibid:366300666752": 37,
+      "gas:candidate-vibid:1001000225989": 112,
+      "gas:candidate-vibid:366300666748": 489,
+      "gas:candidate-vibid:366300666850": 59,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 45,
+      "gas:candidate-vibid:1001000131413": 199,
+      "gas:candidate-vibid:1001000121911": 56,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 69,
-      "Ройзман Евгений Вадимович": 294,
-      "Руденко Василий Иванович": 57,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 20,
-      "Черкасов Сергей Вилленович": 99,
-      "Яблонских Валерий Михайлович": 27,
-      "Против всех": 70
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 69,
+      "gas:candidate-vibid:366300666748": 294,
+      "gas:candidate-vibid:366300666850": 57,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 20,
+      "gas:candidate-vibid:1001000131413": 99,
+      "gas:candidate-vibid:1001000121911": 27,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 42,
-      "Ройзман Евгений Вадимович": 178,
-      "Руденко Василий Иванович": 34,
-      "Сапожников Григорий Алексеевич": 3,
-      "Харитонова Ольга Ивановна": 16,
-      "Черкасов Сергей Вилленович": 81,
-      "Яблонских Валерий Михайлович": 11,
-      "Против всех": 67
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 42,
+      "gas:candidate-vibid:366300666748": 178,
+      "gas:candidate-vibid:366300666850": 34,
+      "gas:candidate-vibid:1001000136124": 3,
+      "gas:candidate-vibid:1001000202334": 16,
+      "gas:candidate-vibid:1001000131413": 81,
+      "gas:candidate-vibid:1001000121911": 11,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 90,
-      "Ройзман Евгений Вадимович": 305,
-      "Руденко Василий Иванович": 101,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 44,
-      "Черкасов Сергей Вилленович": 107,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 78
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 90,
+      "gas:candidate-vibid:366300666748": 305,
+      "gas:candidate-vibid:366300666850": 101,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 44,
+      "gas:candidate-vibid:1001000131413": 107,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 12,
-      "Голубкова Надежда Ивановна": 67,
-      "Ройзман Евгений Вадимович": 273,
-      "Руденко Василий Иванович": 72,
-      "Сапожников Григорий Алексеевич": 11,
-      "Харитонова Ольга Ивановна": 30,
-      "Черкасов Сергей Вилленович": 77,
-      "Яблонских Валерий Михайлович": 19,
-      "Против всех": 101
+      "gas:candidate-vibid:366300666752": 12,
+      "gas:candidate-vibid:1001000225989": 67,
+      "gas:candidate-vibid:366300666748": 273,
+      "gas:candidate-vibid:366300666850": 72,
+      "gas:candidate-vibid:1001000136124": 11,
+      "gas:candidate-vibid:1001000202334": 30,
+      "gas:candidate-vibid:1001000131413": 77,
+      "gas:candidate-vibid:1001000121911": 19,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 78,
-      "Ройзман Евгений Вадимович": 325,
-      "Руденко Василий Иванович": 57,
-      "Сапожников Григорий Алексеевич": 5,
-      "Харитонова Ольга Ивановна": 15,
-      "Черкасов Сергей Вилленович": 86,
-      "Яблонских Валерий Михайлович": 25,
-      "Против всех": 97
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 78,
+      "gas:candidate-vibid:366300666748": 325,
+      "gas:candidate-vibid:366300666850": 57,
+      "gas:candidate-vibid:1001000136124": 5,
+      "gas:candidate-vibid:1001000202334": 15,
+      "gas:candidate-vibid:1001000131413": 86,
+      "gas:candidate-vibid:1001000121911": 25,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 29,
-      "Голубкова Надежда Ивановна": 107,
-      "Ройзман Евгений Вадимович": 351,
-      "Руденко Василий Иванович": 97,
-      "Сапожников Григорий Алексеевич": 9,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 135,
-      "Яблонских Валерий Михайлович": 40,
-      "Против всех": 132
+      "gas:candidate-vibid:366300666752": 29,
+      "gas:candidate-vibid:1001000225989": 107,
+      "gas:candidate-vibid:366300666748": 351,
+      "gas:candidate-vibid:366300666850": 97,
+      "gas:candidate-vibid:1001000136124": 9,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 135,
+      "gas:candidate-vibid:1001000121911": 40,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 107,
-      "Ройзман Евгений Вадимович": 405,
-      "Руденко Василий Иванович": 95,
-      "Сапожников Григорий Алексеевич": 11,
-      "Харитонова Ольга Ивановна": 53,
-      "Черкасов Сергей Вилленович": 129,
-      "Яблонских Валерий Михайлович": 37,
-      "Против всех": 97
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 107,
+      "gas:candidate-vibid:366300666748": 405,
+      "gas:candidate-vibid:366300666850": 95,
+      "gas:candidate-vibid:1001000136124": 11,
+      "gas:candidate-vibid:1001000202334": 53,
+      "gas:candidate-vibid:1001000131413": 129,
+      "gas:candidate-vibid:1001000121911": 37,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 29,
-      "Голубкова Надежда Ивановна": 104,
-      "Ройзман Евгений Вадимович": 361,
-      "Руденко Василий Иванович": 64,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 15,
-      "Черкасов Сергей Вилленович": 126,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 81
+      "gas:candidate-vibid:366300666752": 29,
+      "gas:candidate-vibid:1001000225989": 104,
+      "gas:candidate-vibid:366300666748": 361,
+      "gas:candidate-vibid:366300666850": 64,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 15,
+      "gas:candidate-vibid:1001000131413": 126,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 23,
-      "Голубкова Надежда Ивановна": 107,
-      "Ройзман Евгений Вадимович": 416,
-      "Руденко Василий Иванович": 57,
-      "Сапожников Григорий Алексеевич": 16,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 194,
-      "Яблонских Валерий Михайлович": 30,
-      "Против всех": 138
+      "gas:candidate-vibid:366300666752": 23,
+      "gas:candidate-vibid:1001000225989": 107,
+      "gas:candidate-vibid:366300666748": 416,
+      "gas:candidate-vibid:366300666850": 57,
+      "gas:candidate-vibid:1001000136124": 16,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 194,
+      "gas:candidate-vibid:1001000121911": 30,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 138,
-      "Ройзман Евгений Вадимович": 485,
-      "Руденко Василий Иванович": 53,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 42,
-      "Черкасов Сергей Вилленович": 134,
-      "Яблонских Валерий Михайлович": 45,
-      "Против всех": 157
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 138,
+      "gas:candidate-vibid:366300666748": 485,
+      "gas:candidate-vibid:366300666850": 53,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 42,
+      "gas:candidate-vibid:1001000131413": 134,
+      "gas:candidate-vibid:1001000121911": 45,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 81,
-      "Ройзман Евгений Вадимович": 342,
-      "Руденко Василий Иванович": 57,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 22,
-      "Черкасов Сергей Вилленович": 80,
-      "Яблонских Валерий Михайлович": 18,
-      "Против всех": 86
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 81,
+      "gas:candidate-vibid:366300666748": 342,
+      "gas:candidate-vibid:366300666850": 57,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 22,
+      "gas:candidate-vibid:1001000131413": 80,
+      "gas:candidate-vibid:1001000121911": 18,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 29,
-      "Голубкова Надежда Ивановна": 111,
-      "Ройзман Евгений Вадимович": 307,
-      "Руденко Василий Иванович": 102,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 30,
-      "Черкасов Сергей Вилленович": 153,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 118
+      "gas:candidate-vibid:366300666752": 29,
+      "gas:candidate-vibid:1001000225989": 111,
+      "gas:candidate-vibid:366300666748": 307,
+      "gas:candidate-vibid:366300666850": 102,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 30,
+      "gas:candidate-vibid:1001000131413": 153,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 34,
-      "Голубкова Надежда Ивановна": 145,
-      "Ройзман Евгений Вадимович": 661,
-      "Руденко Василий Иванович": 104,
-      "Сапожников Григорий Алексеевич": 13,
-      "Харитонова Ольга Ивановна": 30,
-      "Черкасов Сергей Вилленович": 158,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 178
+      "gas:candidate-vibid:366300666752": 34,
+      "gas:candidate-vibid:1001000225989": 145,
+      "gas:candidate-vibid:366300666748": 661,
+      "gas:candidate-vibid:366300666850": 104,
+      "gas:candidate-vibid:1001000136124": 13,
+      "gas:candidate-vibid:1001000202334": 30,
+      "gas:candidate-vibid:1001000131413": 158,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 15,
-      "Голубкова Надежда Ивановна": 111,
-      "Ройзман Евгений Вадимович": 596,
-      "Руденко Василий Иванович": 101,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 35,
-      "Черкасов Сергей Вилленович": 145,
-      "Яблонских Валерий Михайлович": 22,
-      "Против всех": 144
+      "gas:candidate-vibid:366300666752": 15,
+      "gas:candidate-vibid:1001000225989": 111,
+      "gas:candidate-vibid:366300666748": 596,
+      "gas:candidate-vibid:366300666850": 101,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 35,
+      "gas:candidate-vibid:1001000131413": 145,
+      "gas:candidate-vibid:1001000121911": 22,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 36,
-      "Голубкова Надежда Ивановна": 173,
-      "Ройзман Евгений Вадимович": 554,
-      "Руденко Василий Иванович": 87,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 218,
-      "Яблонских Валерий Михайлович": 48,
-      "Против всех": 157
+      "gas:candidate-vibid:366300666752": 36,
+      "gas:candidate-vibid:1001000225989": 173,
+      "gas:candidate-vibid:366300666748": 554,
+      "gas:candidate-vibid:366300666850": 87,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 218,
+      "gas:candidate-vibid:1001000121911": 48,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 102,
-      "Ройзман Евгений Вадимович": 447,
-      "Руденко Василий Иванович": 71,
-      "Сапожников Григорий Алексеевич": 10,
-      "Харитонова Ольга Ивановна": 30,
-      "Черкасов Сергей Вилленович": 178,
-      "Яблонских Валерий Михайлович": 36,
-      "Против всех": 152
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 102,
+      "gas:candidate-vibid:366300666748": 447,
+      "gas:candidate-vibid:366300666850": 71,
+      "gas:candidate-vibid:1001000136124": 10,
+      "gas:candidate-vibid:1001000202334": 30,
+      "gas:candidate-vibid:1001000131413": 178,
+      "gas:candidate-vibid:1001000121911": 36,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 129,
-      "Ройзман Евгений Вадимович": 560,
-      "Руденко Василий Иванович": 83,
-      "Сапожников Григорий Алексеевич": 26,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 175,
-      "Яблонских Валерий Михайлович": 53,
-      "Против всех": 137
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 129,
+      "gas:candidate-vibid:366300666748": 560,
+      "gas:candidate-vibid:366300666850": 83,
+      "gas:candidate-vibid:1001000136124": 26,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 175,
+      "gas:candidate-vibid:1001000121911": 53,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 23,
-      "Голубкова Надежда Ивановна": 187,
-      "Ройзман Евгений Вадимович": 586,
-      "Руденко Василий Иванович": 116,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 51,
-      "Черкасов Сергей Вилленович": 281,
-      "Яблонских Валерий Михайлович": 65,
-      "Против всех": 152
+      "gas:candidate-vibid:366300666752": 23,
+      "gas:candidate-vibid:1001000225989": 187,
+      "gas:candidate-vibid:366300666748": 586,
+      "gas:candidate-vibid:366300666850": 116,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 51,
+      "gas:candidate-vibid:1001000131413": 281,
+      "gas:candidate-vibid:1001000121911": 65,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 99,
-      "Ройзман Евгений Вадимович": 421,
-      "Руденко Василий Иванович": 112,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 18,
-      "Черкасов Сергей Вилленович": 120,
-      "Яблонских Валерий Михайлович": 29,
-      "Против всех": 106
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 99,
+      "gas:candidate-vibid:366300666748": 421,
+      "gas:candidate-vibid:366300666850": 112,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 18,
+      "gas:candidate-vibid:1001000131413": 120,
+      "gas:candidate-vibid:1001000121911": 29,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 67,
-      "Ройзман Евгений Вадимович": 341,
-      "Руденко Василий Иванович": 52,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 28,
-      "Черкасов Сергей Вилленович": 94,
-      "Яблонских Валерий Михайлович": 13,
-      "Против всех": 70
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 67,
+      "gas:candidate-vibid:366300666748": 341,
+      "gas:candidate-vibid:366300666850": 52,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 28,
+      "gas:candidate-vibid:1001000131413": 94,
+      "gas:candidate-vibid:1001000121911": 13,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 93,
-      "Ройзман Евгений Вадимович": 399,
-      "Руденко Василий Иванович": 68,
-      "Сапожников Григорий Алексеевич": 9,
-      "Харитонова Ольга Ивановна": 18,
-      "Черкасов Сергей Вилленович": 94,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 92
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 93,
+      "gas:candidate-vibid:366300666748": 399,
+      "gas:candidate-vibid:366300666850": 68,
+      "gas:candidate-vibid:1001000136124": 9,
+      "gas:candidate-vibid:1001000202334": 18,
+      "gas:candidate-vibid:1001000131413": 94,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 11,
-      "Голубкова Надежда Ивановна": 88,
-      "Ройзман Евгений Вадимович": 323,
-      "Руденко Василий Иванович": 52,
-      "Сапожников Григорий Алексеевич": 8,
-      "Харитонова Ольга Ивановна": 39,
-      "Черкасов Сергей Вилленович": 92,
-      "Яблонских Валерий Михайлович": 23,
-      "Против всех": 107
+      "gas:candidate-vibid:366300666752": 11,
+      "gas:candidate-vibid:1001000225989": 88,
+      "gas:candidate-vibid:366300666748": 323,
+      "gas:candidate-vibid:366300666850": 52,
+      "gas:candidate-vibid:1001000136124": 8,
+      "gas:candidate-vibid:1001000202334": 39,
+      "gas:candidate-vibid:1001000131413": 92,
+      "gas:candidate-vibid:1001000121911": 23,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 94,
-      "Ройзман Евгений Вадимович": 394,
-      "Руденко Василий Иванович": 146,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 103,
-      "Яблонских Валерий Михайлович": 39,
-      "Против всех": 85
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 94,
+      "gas:candidate-vibid:366300666748": 394,
+      "gas:candidate-vibid:366300666850": 146,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 103,
+      "gas:candidate-vibid:1001000121911": 39,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 23,
-      "Голубкова Надежда Ивановна": 82,
-      "Ройзман Евгений Вадимович": 376,
-      "Руденко Василий Иванович": 80,
-      "Сапожников Григорий Алексеевич": 4,
-      "Харитонова Ольга Ивановна": 35,
-      "Черкасов Сергей Вилленович": 100,
-      "Яблонских Валерий Михайлович": 32,
-      "Против всех": 119
+      "gas:candidate-vibid:366300666752": 23,
+      "gas:candidate-vibid:1001000225989": 82,
+      "gas:candidate-vibid:366300666748": 376,
+      "gas:candidate-vibid:366300666850": 80,
+      "gas:candidate-vibid:1001000136124": 4,
+      "gas:candidate-vibid:1001000202334": 35,
+      "gas:candidate-vibid:1001000131413": 100,
+      "gas:candidate-vibid:1001000121911": 32,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 137,
-      "Ройзман Евгений Вадимович": 542,
-      "Руденко Василий Иванович": 73,
-      "Сапожников Григорий Алексеевич": 18,
-      "Харитонова Ольга Ивановна": 33,
-      "Черкасов Сергей Вилленович": 159,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 158
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 137,
+      "gas:candidate-vibid:366300666748": 542,
+      "gas:candidate-vibid:366300666850": 73,
+      "gas:candidate-vibid:1001000136124": 18,
+      "gas:candidate-vibid:1001000202334": 33,
+      "gas:candidate-vibid:1001000131413": 159,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 161,
-      "Ройзман Евгений Вадимович": 561,
-      "Руденко Василий Иванович": 79,
-      "Сапожников Григорий Алексеевич": 19,
-      "Харитонова Ольга Ивановна": 39,
-      "Черкасов Сергей Вилленович": 159,
-      "Яблонских Валерий Михайлович": 52,
-      "Против всех": 153
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 161,
+      "gas:candidate-vibid:366300666748": 561,
+      "gas:candidate-vibid:366300666850": 79,
+      "gas:candidate-vibid:1001000136124": 19,
+      "gas:candidate-vibid:1001000202334": 39,
+      "gas:candidate-vibid:1001000131413": 159,
+      "gas:candidate-vibid:1001000121911": 52,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 93,
-      "Ройзман Евгений Вадимович": 458,
-      "Руденко Василий Иванович": 60,
-      "Сапожников Григорий Алексеевич": 16,
-      "Харитонова Ольга Ивановна": 27,
-      "Черкасов Сергей Вилленович": 154,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 122
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 93,
+      "gas:candidate-vibid:366300666748": 458,
+      "gas:candidate-vibid:366300666850": 60,
+      "gas:candidate-vibid:1001000136124": 16,
+      "gas:candidate-vibid:1001000202334": 27,
+      "gas:candidate-vibid:1001000131413": 154,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 26,
-      "Голубкова Надежда Ивановна": 135,
-      "Ройзман Евгений Вадимович": 646,
-      "Руденко Василий Иванович": 116,
-      "Сапожников Григорий Алексеевич": 7,
-      "Харитонова Ольга Ивановна": 52,
-      "Черкасов Сергей Вилленович": 195,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 153
+      "gas:candidate-vibid:366300666752": 26,
+      "gas:candidate-vibid:1001000225989": 135,
+      "gas:candidate-vibid:366300666748": 646,
+      "gas:candidate-vibid:366300666850": 116,
+      "gas:candidate-vibid:1001000136124": 7,
+      "gas:candidate-vibid:1001000202334": 52,
+      "gas:candidate-vibid:1001000131413": 195,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 33,
-      "Голубкова Надежда Ивановна": 160,
-      "Ройзман Евгений Вадимович": 543,
-      "Руденко Василий Иванович": 104,
-      "Сапожников Григорий Алексеевич": 31,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 277,
-      "Яблонских Валерий Михайлович": 48,
-      "Против всех": 196
+      "gas:candidate-vibid:366300666752": 33,
+      "gas:candidate-vibid:1001000225989": 160,
+      "gas:candidate-vibid:366300666748": 543,
+      "gas:candidate-vibid:366300666850": 104,
+      "gas:candidate-vibid:1001000136124": 31,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 277,
+      "gas:candidate-vibid:1001000121911": 48,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 50,
-      "Голубкова Надежда Ивановна": 136,
-      "Ройзман Евгений Вадимович": 472,
-      "Руденко Василий Иванович": 113,
-      "Сапожников Григорий Алексеевич": 14,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 146,
-      "Яблонских Валерий Михайлович": 36,
-      "Против всех": 149
+      "gas:candidate-vibid:366300666752": 50,
+      "gas:candidate-vibid:1001000225989": 136,
+      "gas:candidate-vibid:366300666748": 472,
+      "gas:candidate-vibid:366300666850": 113,
+      "gas:candidate-vibid:1001000136124": 14,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 146,
+      "gas:candidate-vibid:1001000121911": 36,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 37,
-      "Голубкова Надежда Ивановна": 134,
-      "Ройзман Евгений Вадимович": 430,
-      "Руденко Василий Иванович": 86,
-      "Сапожников Григорий Алексеевич": 18,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 118,
-      "Яблонских Валерий Михайлович": 34,
-      "Против всех": 136
+      "gas:candidate-vibid:366300666752": 37,
+      "gas:candidate-vibid:1001000225989": 134,
+      "gas:candidate-vibid:366300666748": 430,
+      "gas:candidate-vibid:366300666850": 86,
+      "gas:candidate-vibid:1001000136124": 18,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 118,
+      "gas:candidate-vibid:1001000121911": 34,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 40,
-      "Голубкова Надежда Ивановна": 119,
-      "Ройзман Евгений Вадимович": 403,
-      "Руденко Василий Иванович": 101,
-      "Сапожников Григорий Алексеевич": 23,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 159,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 120
+      "gas:candidate-vibid:366300666752": 40,
+      "gas:candidate-vibid:1001000225989": 119,
+      "gas:candidate-vibid:366300666748": 403,
+      "gas:candidate-vibid:366300666850": 101,
+      "gas:candidate-vibid:1001000136124": 23,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 159,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 46,
-      "Голубкова Надежда Ивановна": 141,
-      "Ройзман Евгений Вадимович": 483,
-      "Руденко Василий Иванович": 116,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 42,
-      "Черкасов Сергей Вилленович": 177,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 152
+      "gas:candidate-vibid:366300666752": 46,
+      "gas:candidate-vibid:1001000225989": 141,
+      "gas:candidate-vibid:366300666748": 483,
+      "gas:candidate-vibid:366300666850": 116,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 42,
+      "gas:candidate-vibid:1001000131413": 177,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 30,
-      "Голубкова Надежда Ивановна": 165,
-      "Ройзман Евгений Вадимович": 745,
-      "Руденко Василий Иванович": 103,
-      "Сапожников Григорий Алексеевич": 18,
-      "Харитонова Ольга Ивановна": 37,
-      "Черкасов Сергей Вилленович": 188,
-      "Яблонских Валерий Михайлович": 53,
-      "Против всех": 163
+      "gas:candidate-vibid:366300666752": 30,
+      "gas:candidate-vibid:1001000225989": 165,
+      "gas:candidate-vibid:366300666748": 745,
+      "gas:candidate-vibid:366300666850": 103,
+      "gas:candidate-vibid:1001000136124": 18,
+      "gas:candidate-vibid:1001000202334": 37,
+      "gas:candidate-vibid:1001000131413": 188,
+      "gas:candidate-vibid:1001000121911": 53,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 149,
-      "Ройзман Евгений Вадимович": 599,
-      "Руденко Василий Иванович": 108,
-      "Сапожников Григорий Алексеевич": 29,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 166,
-      "Яблонских Валерий Михайлович": 50,
-      "Против всех": 149
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 149,
+      "gas:candidate-vibid:366300666748": 599,
+      "gas:candidate-vibid:366300666850": 108,
+      "gas:candidate-vibid:1001000136124": 29,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 166,
+      "gas:candidate-vibid:1001000121911": 50,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 20,
-      "Голубкова Надежда Ивановна": 115,
-      "Ройзман Евгений Вадимович": 595,
-      "Руденко Василий Иванович": 110,
-      "Сапожников Григорий Алексеевич": 19,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 185,
-      "Яблонских Валерий Михайлович": 35,
-      "Против всех": 181
+      "gas:candidate-vibid:366300666752": 20,
+      "gas:candidate-vibid:1001000225989": 115,
+      "gas:candidate-vibid:366300666748": 595,
+      "gas:candidate-vibid:366300666850": 110,
+      "gas:candidate-vibid:1001000136124": 19,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 185,
+      "gas:candidate-vibid:1001000121911": 35,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 46,
-      "Голубкова Надежда Ивановна": 142,
-      "Ройзман Евгений Вадимович": 566,
-      "Руденко Василий Иванович": 96,
-      "Сапожников Григорий Алексеевич": 14,
-      "Харитонова Ольга Ивановна": 35,
-      "Черкасов Сергей Вилленович": 159,
-      "Яблонских Валерий Михайлович": 45,
-      "Против всех": 146
+      "gas:candidate-vibid:366300666752": 46,
+      "gas:candidate-vibid:1001000225989": 142,
+      "gas:candidate-vibid:366300666748": 566,
+      "gas:candidate-vibid:366300666850": 96,
+      "gas:candidate-vibid:1001000136124": 14,
+      "gas:candidate-vibid:1001000202334": 35,
+      "gas:candidate-vibid:1001000131413": 159,
+      "gas:candidate-vibid:1001000121911": 45,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 34,
-      "Голубкова Надежда Ивановна": 94,
-      "Ройзман Евгений Вадимович": 308,
-      "Руденко Василий Иванович": 60,
-      "Сапожников Григорий Алексеевич": 14,
-      "Харитонова Ольга Ивановна": 23,
-      "Черкасов Сергей Вилленович": 94,
-      "Яблонских Валерий Михайлович": 16,
-      "Против всех": 90
+      "gas:candidate-vibid:366300666752": 34,
+      "gas:candidate-vibid:1001000225989": 94,
+      "gas:candidate-vibid:366300666748": 308,
+      "gas:candidate-vibid:366300666850": 60,
+      "gas:candidate-vibid:1001000136124": 14,
+      "gas:candidate-vibid:1001000202334": 23,
+      "gas:candidate-vibid:1001000131413": 94,
+      "gas:candidate-vibid:1001000121911": 16,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 145,
-      "Ройзман Евгений Вадимович": 408,
-      "Руденко Василий Иванович": 107,
-      "Сапожников Григорий Алексеевич": 0,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 130,
-      "Яблонских Валерий Михайлович": 40,
-      "Против всех": 129
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 145,
+      "gas:candidate-vibid:366300666748": 408,
+      "gas:candidate-vibid:366300666850": 107,
+      "gas:candidate-vibid:1001000136124": 0,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 130,
+      "gas:candidate-vibid:1001000121911": 40,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 90,
-      "Ройзман Евгений Вадимович": 369,
-      "Руденко Василий Иванович": 128,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 143,
-      "Яблонских Валерий Михайлович": 32,
-      "Против всех": 115
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 90,
+      "gas:candidate-vibid:366300666748": 369,
+      "gas:candidate-vibid:366300666850": 128,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 143,
+      "gas:candidate-vibid:1001000121911": 32,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 173,
-      "Ройзман Евгений Вадимович": 633,
-      "Руденко Василий Иванович": 139,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 51,
-      "Черкасов Сергей Вилленович": 182,
-      "Яблонских Валерий Михайлович": 49,
-      "Против всех": 176
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 173,
+      "gas:candidate-vibid:366300666748": 633,
+      "gas:candidate-vibid:366300666850": 139,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 51,
+      "gas:candidate-vibid:1001000131413": 182,
+      "gas:candidate-vibid:1001000121911": 49,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 155,
-      "Ройзман Евгений Вадимович": 702,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 55,
-      "Черкасов Сергей Вилленович": 193,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 167
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 155,
+      "gas:candidate-vibid:366300666748": 702,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 55,
+      "gas:candidate-vibid:1001000131413": 193,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 31,
-      "Голубкова Надежда Ивановна": 187,
-      "Ройзман Евгений Вадимович": 624,
-      "Руденко Василий Иванович": 136,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 46,
-      "Черкасов Сергей Вилленович": 152,
-      "Яблонских Валерий Михайлович": 77,
-      "Против всех": 201
+      "gas:candidate-vibid:366300666752": 31,
+      "gas:candidate-vibid:1001000225989": 187,
+      "gas:candidate-vibid:366300666748": 624,
+      "gas:candidate-vibid:366300666850": 136,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 46,
+      "gas:candidate-vibid:1001000131413": 152,
+      "gas:candidate-vibid:1001000121911": 77,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 115,
-      "Ройзман Евгений Вадимович": 596,
-      "Руденко Василий Иванович": 74,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 51,
-      "Черкасов Сергей Вилленович": 106,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 142
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 115,
+      "gas:candidate-vibid:366300666748": 596,
+      "gas:candidate-vibid:366300666850": 74,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 51,
+      "gas:candidate-vibid:1001000131413": 106,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 101,
-      "Ройзман Евгений Вадимович": 659,
-      "Руденко Василий Иванович": 81,
-      "Сапожников Григорий Алексеевич": 8,
-      "Харитонова Ольга Ивановна": 33,
-      "Черкасов Сергей Вилленович": 166,
-      "Яблонских Валерий Михайлович": 34,
-      "Против всех": 159
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 101,
+      "gas:candidate-vibid:366300666748": 659,
+      "gas:candidate-vibid:366300666850": 81,
+      "gas:candidate-vibid:1001000136124": 8,
+      "gas:candidate-vibid:1001000202334": 33,
+      "gas:candidate-vibid:1001000131413": 166,
+      "gas:candidate-vibid:1001000121911": 34,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 21,
-      "Голубкова Надежда Ивановна": 136,
-      "Ройзман Евгений Вадимович": 464,
-      "Руденко Василий Иванович": 90,
-      "Сапожников Григорий Алексеевич": 17,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 142,
-      "Яблонских Валерий Михайлович": 40,
-      "Против всех": 119
+      "gas:candidate-vibid:366300666752": 21,
+      "gas:candidate-vibid:1001000225989": 136,
+      "gas:candidate-vibid:366300666748": 464,
+      "gas:candidate-vibid:366300666850": 90,
+      "gas:candidate-vibid:1001000136124": 17,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 142,
+      "gas:candidate-vibid:1001000121911": 40,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 13,
-      "Голубкова Надежда Ивановна": 130,
-      "Ройзман Евгений Вадимович": 745,
-      "Руденко Василий Иванович": 93,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 52,
-      "Черкасов Сергей Вилленович": 97,
-      "Яблонских Валерий Михайлович": 31,
-      "Против всех": 158
+      "gas:candidate-vibid:366300666752": 13,
+      "gas:candidate-vibid:1001000225989": 130,
+      "gas:candidate-vibid:366300666748": 745,
+      "gas:candidate-vibid:366300666850": 93,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 52,
+      "gas:candidate-vibid:1001000131413": 97,
+      "gas:candidate-vibid:1001000121911": 31,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 14,
-      "Голубкова Надежда Ивановна": 96,
-      "Ройзман Евгений Вадимович": 501,
-      "Руденко Василий Иванович": 85,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 108,
-      "Яблонских Валерий Михайлович": 26,
-      "Против всех": 99
+      "gas:candidate-vibid:366300666752": 14,
+      "gas:candidate-vibid:1001000225989": 96,
+      "gas:candidate-vibid:366300666748": 501,
+      "gas:candidate-vibid:366300666850": 85,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 108,
+      "gas:candidate-vibid:1001000121911": 26,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 121,
-      "Ройзман Евгений Вадимович": 717,
-      "Руденко Василий Иванович": 151,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 48,
-      "Черкасов Сергей Вилленович": 110,
-      "Яблонских Валерий Михайлович": 49,
-      "Против всех": 210
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 121,
+      "gas:candidate-vibid:366300666748": 717,
+      "gas:candidate-vibid:366300666850": 151,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 48,
+      "gas:candidate-vibid:1001000131413": 110,
+      "gas:candidate-vibid:1001000121911": 49,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 11,
-      "Голубкова Надежда Ивановна": 127,
-      "Ройзман Евгений Вадимович": 421,
-      "Руденко Василий Иванович": 100,
-      "Сапожников Григорий Алексеевич": 19,
-      "Харитонова Ольга Ивановна": 29,
-      "Черкасов Сергей Вилленович": 76,
-      "Яблонских Валерий Михайлович": 19,
-      "Против всех": 132
+      "gas:candidate-vibid:366300666752": 11,
+      "gas:candidate-vibid:1001000225989": 127,
+      "gas:candidate-vibid:366300666748": 421,
+      "gas:candidate-vibid:366300666850": 100,
+      "gas:candidate-vibid:1001000136124": 19,
+      "gas:candidate-vibid:1001000202334": 29,
+      "gas:candidate-vibid:1001000131413": 76,
+      "gas:candidate-vibid:1001000121911": 19,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 157,
-      "Ройзман Евгений Вадимович": 533,
-      "Руденко Василий Иванович": 86,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 47,
-      "Черкасов Сергей Вилленович": 170,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 149
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 157,
+      "gas:candidate-vibid:366300666748": 533,
+      "gas:candidate-vibid:366300666850": 86,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 47,
+      "gas:candidate-vibid:1001000131413": 170,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 38,
-      "Голубкова Надежда Ивановна": 183,
-      "Ройзман Евгений Вадимович": 587,
-      "Руденко Василий Иванович": 129,
-      "Сапожников Григорий Алексеевич": 28,
-      "Харитонова Ольга Ивановна": 45,
-      "Черкасов Сергей Вилленович": 209,
-      "Яблонских Валерий Михайлович": 56,
-      "Против всех": 200
+      "gas:candidate-vibid:366300666752": 38,
+      "gas:candidate-vibid:1001000225989": 183,
+      "gas:candidate-vibid:366300666748": 587,
+      "gas:candidate-vibid:366300666850": 129,
+      "gas:candidate-vibid:1001000136124": 28,
+      "gas:candidate-vibid:1001000202334": 45,
+      "gas:candidate-vibid:1001000131413": 209,
+      "gas:candidate-vibid:1001000121911": 56,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 147,
-      "Ройзман Евгений Вадимович": 472,
-      "Руденко Василий Иванович": 133,
-      "Сапожников Григорий Алексеевич": 36,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 147,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 182
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 147,
+      "gas:candidate-vibid:366300666748": 472,
+      "gas:candidate-vibid:366300666850": 133,
+      "gas:candidate-vibid:1001000136124": 36,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 147,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 136,
-      "Ройзман Евгений Вадимович": 469,
-      "Руденко Василий Иванович": 110,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 188,
-      "Яблонских Валерий Михайлович": 46,
-      "Против всех": 146
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 136,
+      "gas:candidate-vibid:366300666748": 469,
+      "gas:candidate-vibid:366300666850": 110,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 188,
+      "gas:candidate-vibid:1001000121911": 46,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 188,
-      "Ройзман Евгений Вадимович": 572,
-      "Руденко Василий Иванович": 103,
-      "Сапожников Григорий Алексеевич": 31,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 206,
-      "Яблонских Валерий Михайлович": 40,
-      "Против всех": 191
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 188,
+      "gas:candidate-vibid:366300666748": 572,
+      "gas:candidate-vibid:366300666850": 103,
+      "gas:candidate-vibid:1001000136124": 31,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 206,
+      "gas:candidate-vibid:1001000121911": 40,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 138,
-      "Ройзман Евгений Вадимович": 524,
-      "Руденко Василий Иванович": 127,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 43,
-      "Черкасов Сергей Вилленович": 193,
-      "Яблонских Валерий Михайлович": 48,
-      "Против всех": 187
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 138,
+      "gas:candidate-vibid:366300666748": 524,
+      "gas:candidate-vibid:366300666850": 127,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 43,
+      "gas:candidate-vibid:1001000131413": 193,
+      "gas:candidate-vibid:1001000121911": 48,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 32,
-      "Голубкова Надежда Ивановна": 155,
-      "Ройзман Евгений Вадимович": 605,
-      "Руденко Василий Иванович": 120,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 62,
-      "Черкасов Сергей Вилленович": 224,
-      "Яблонских Валерий Михайлович": 56,
-      "Против всех": 208
+      "gas:candidate-vibid:366300666752": 32,
+      "gas:candidate-vibid:1001000225989": 155,
+      "gas:candidate-vibid:366300666748": 605,
+      "gas:candidate-vibid:366300666850": 120,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 62,
+      "gas:candidate-vibid:1001000131413": 224,
+      "gas:candidate-vibid:1001000121911": 56,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 647,
-      "Руденко Василий Иванович": 108,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 219,
-      "Яблонских Валерий Михайлович": 67,
-      "Против всех": 188
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 647,
+      "gas:candidate-vibid:366300666850": 108,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 219,
+      "gas:candidate-vibid:1001000121911": 67,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 20,
-      "Голубкова Надежда Ивановна": 123,
-      "Ройзман Евгений Вадимович": 580,
-      "Руденко Василий Иванович": 78,
-      "Сапожников Григорий Алексеевич": 18,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 153,
-      "Яблонских Валерий Михайлович": 39,
-      "Против всех": 198
+      "gas:candidate-vibid:366300666752": 20,
+      "gas:candidate-vibid:1001000225989": 123,
+      "gas:candidate-vibid:366300666748": 580,
+      "gas:candidate-vibid:366300666850": 78,
+      "gas:candidate-vibid:1001000136124": 18,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 153,
+      "gas:candidate-vibid:1001000121911": 39,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 10,
-      "Голубкова Надежда Ивановна": 192,
-      "Ройзман Евгений Вадимович": 555,
-      "Руденко Василий Иванович": 72,
-      "Сапожников Григорий Алексеевич": 33,
-      "Харитонова Ольга Ивановна": 33,
-      "Черкасов Сергей Вилленович": 177,
-      "Яблонских Валерий Михайлович": 55,
-      "Против всех": 181
+      "gas:candidate-vibid:366300666752": 10,
+      "gas:candidate-vibid:1001000225989": 192,
+      "gas:candidate-vibid:366300666748": 555,
+      "gas:candidate-vibid:366300666850": 72,
+      "gas:candidate-vibid:1001000136124": 33,
+      "gas:candidate-vibid:1001000202334": 33,
+      "gas:candidate-vibid:1001000131413": 177,
+      "gas:candidate-vibid:1001000121911": 55,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 135,
-      "Ройзман Евгений Вадимович": 530,
-      "Руденко Василий Иванович": 84,
-      "Сапожников Григорий Алексеевич": 31,
-      "Харитонова Ольга Ивановна": 35,
-      "Черкасов Сергей Вилленович": 129,
-      "Яблонских Валерий Михайлович": 43,
-      "Против всех": 174
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 135,
+      "gas:candidate-vibid:366300666748": 530,
+      "gas:candidate-vibid:366300666850": 84,
+      "gas:candidate-vibid:1001000136124": 31,
+      "gas:candidate-vibid:1001000202334": 35,
+      "gas:candidate-vibid:1001000131413": 129,
+      "gas:candidate-vibid:1001000121911": 43,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 14,
-      "Голубкова Надежда Ивановна": 206,
-      "Ройзман Евгений Вадимович": 607,
-      "Руденко Василий Иванович": 91,
-      "Сапожников Григорий Алексеевич": 31,
-      "Харитонова Ольга Ивановна": 50,
-      "Черкасов Сергей Вилленович": 182,
-      "Яблонских Валерий Михайлович": 39,
-      "Против всех": 173
+      "gas:candidate-vibid:366300666752": 14,
+      "gas:candidate-vibid:1001000225989": 206,
+      "gas:candidate-vibid:366300666748": 607,
+      "gas:candidate-vibid:366300666850": 91,
+      "gas:candidate-vibid:1001000136124": 31,
+      "gas:candidate-vibid:1001000202334": 50,
+      "gas:candidate-vibid:1001000131413": 182,
+      "gas:candidate-vibid:1001000121911": 39,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Голубкова Надежда Ивановна": 156,
-      "Ройзман Евгений Вадимович": 665,
-      "Руденко Василий Иванович": 92,
-      "Сапожников Григорий Алексеевич": 22,
-      "Харитонова Ольга Ивановна": 57,
-      "Черкасов Сергей Вилленович": 256,
-      "Яблонских Валерий Михайлович": 69,
-      "Против всех": 186
+      "gas:candidate-vibid:366300666752": 27,
+      "gas:candidate-vibid:1001000225989": 156,
+      "gas:candidate-vibid:366300666748": 665,
+      "gas:candidate-vibid:366300666850": 92,
+      "gas:candidate-vibid:1001000136124": 22,
+      "gas:candidate-vibid:1001000202334": 57,
+      "gas:candidate-vibid:1001000131413": 256,
+      "gas:candidate-vibid:1001000121911": 69,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 15,
-      "Голубкова Надежда Ивановна": 117,
-      "Ройзман Евгений Вадимович": 409,
-      "Руденко Василий Иванович": 84,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 26,
-      "Черкасов Сергей Вилленович": 131,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 130
+      "gas:candidate-vibid:366300666752": 15,
+      "gas:candidate-vibid:1001000225989": 117,
+      "gas:candidate-vibid:366300666748": 409,
+      "gas:candidate-vibid:366300666850": 84,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 26,
+      "gas:candidate-vibid:1001000131413": 131,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 136,
-      "Ройзман Евгений Вадимович": 450,
-      "Руденко Василий Иванович": 97,
-      "Сапожников Григорий Алексеевич": 27,
-      "Харитонова Ольга Ивановна": 39,
-      "Черкасов Сергей Вилленович": 175,
-      "Яблонских Валерий Михайлович": 66,
-      "Против всех": 157
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 136,
+      "gas:candidate-vibid:366300666748": 450,
+      "gas:candidate-vibid:366300666850": 97,
+      "gas:candidate-vibid:1001000136124": 27,
+      "gas:candidate-vibid:1001000202334": 39,
+      "gas:candidate-vibid:1001000131413": 175,
+      "gas:candidate-vibid:1001000121911": 66,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 25,
-      "Голубкова Надежда Ивановна": 108,
-      "Ройзман Евгений Вадимович": 385,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 19,
-      "Харитонова Ольга Ивановна": 38,
-      "Черкасов Сергей Вилленович": 119,
-      "Яблонских Валерий Михайлович": 48,
-      "Против всех": 133
+      "gas:candidate-vibid:366300666752": 25,
+      "gas:candidate-vibid:1001000225989": 108,
+      "gas:candidate-vibid:366300666748": 385,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 19,
+      "gas:candidate-vibid:1001000202334": 38,
+      "gas:candidate-vibid:1001000131413": 119,
+      "gas:candidate-vibid:1001000121911": 48,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 116,
-      "Ройзман Евгений Вадимович": 436,
-      "Руденко Василий Иванович": 76,
-      "Сапожников Григорий Алексеевич": 8,
-      "Харитонова Ольга Ивановна": 27,
-      "Черкасов Сергей Вилленович": 138,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 137
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 116,
+      "gas:candidate-vibid:366300666748": 436,
+      "gas:candidate-vibid:366300666850": 76,
+      "gas:candidate-vibid:1001000136124": 8,
+      "gas:candidate-vibid:1001000202334": 27,
+      "gas:candidate-vibid:1001000131413": 138,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 36,
-      "Голубкова Надежда Ивановна": 176,
-      "Ройзман Евгений Вадимович": 589,
-      "Руденко Василий Иванович": 130,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 34,
-      "Черкасов Сергей Вилленович": 272,
-      "Яблонских Валерий Михайлович": 73,
-      "Против всех": 179
+      "gas:candidate-vibid:366300666752": 36,
+      "gas:candidate-vibid:1001000225989": 176,
+      "gas:candidate-vibid:366300666748": 589,
+      "gas:candidate-vibid:366300666850": 130,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 34,
+      "gas:candidate-vibid:1001000131413": 272,
+      "gas:candidate-vibid:1001000121911": 73,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 164,
-      "Ройзман Евгений Вадимович": 559,
-      "Руденко Василий Иванович": 78,
-      "Сапожников Григорий Алексеевич": 23,
-      "Харитонова Ольга Ивановна": 45,
-      "Черкасов Сергей Вилленович": 222,
-      "Яблонских Валерий Михайлович": 48,
-      "Против всех": 157
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 164,
+      "gas:candidate-vibid:366300666748": 559,
+      "gas:candidate-vibid:366300666850": 78,
+      "gas:candidate-vibid:1001000136124": 23,
+      "gas:candidate-vibid:1001000202334": 45,
+      "gas:candidate-vibid:1001000131413": 222,
+      "gas:candidate-vibid:1001000121911": 48,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 136,
-      "Ройзман Евгений Вадимович": 509,
-      "Руденко Василий Иванович": 107,
-      "Сапожников Григорий Алексеевич": 24,
-      "Харитонова Ольга Ивановна": 31,
-      "Черкасов Сергей Вилленович": 183,
-      "Яблонских Валерий Михайлович": 55,
-      "Против всех": 188
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 136,
+      "gas:candidate-vibid:366300666748": 509,
+      "gas:candidate-vibid:366300666850": 107,
+      "gas:candidate-vibid:1001000136124": 24,
+      "gas:candidate-vibid:1001000202334": 31,
+      "gas:candidate-vibid:1001000131413": 183,
+      "gas:candidate-vibid:1001000121911": 55,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 6,
-      "Голубкова Надежда Ивановна": 108,
-      "Ройзман Евгений Вадимович": 308,
-      "Руденко Василий Иванович": 89,
-      "Сапожников Григорий Алексеевич": 13,
-      "Харитонова Ольга Ивановна": 21,
-      "Черкасов Сергей Вилленович": 115,
-      "Яблонских Валерий Михайлович": 33,
-      "Против всех": 114
+      "gas:candidate-vibid:366300666752": 6,
+      "gas:candidate-vibid:1001000225989": 108,
+      "gas:candidate-vibid:366300666748": 308,
+      "gas:candidate-vibid:366300666850": 89,
+      "gas:candidate-vibid:1001000136124": 13,
+      "gas:candidate-vibid:1001000202334": 21,
+      "gas:candidate-vibid:1001000131413": 115,
+      "gas:candidate-vibid:1001000121911": 33,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 10,
-      "Голубкова Надежда Ивановна": 132,
-      "Ройзман Евгений Вадимович": 334,
-      "Руденко Василий Иванович": 82,
-      "Сапожников Григорий Алексеевич": 32,
-      "Харитонова Ольга Ивановна": 49,
-      "Черкасов Сергей Вилленович": 109,
-      "Яблонских Валерий Михайлович": 41,
-      "Против всех": 129
+      "gas:candidate-vibid:366300666752": 10,
+      "gas:candidate-vibid:1001000225989": 132,
+      "gas:candidate-vibid:366300666748": 334,
+      "gas:candidate-vibid:366300666850": 82,
+      "gas:candidate-vibid:1001000136124": 32,
+      "gas:candidate-vibid:1001000202334": 49,
+      "gas:candidate-vibid:1001000131413": 109,
+      "gas:candidate-vibid:1001000121911": 41,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 14,
-      "Голубкова Надежда Ивановна": 88,
-      "Ройзман Евгений Вадимович": 390,
-      "Руденко Василий Иванович": 54,
-      "Сапожников Григорий Алексеевич": 11,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 88,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 136
+      "gas:candidate-vibid:366300666752": 14,
+      "gas:candidate-vibid:1001000225989": 88,
+      "gas:candidate-vibid:366300666748": 390,
+      "gas:candidate-vibid:366300666850": 54,
+      "gas:candidate-vibid:1001000136124": 11,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 88,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 104,
-      "Ройзман Евгений Вадимович": 336,
-      "Руденко Василий Иванович": 54,
-      "Сапожников Григорий Алексеевич": 14,
-      "Харитонова Ольга Ивановна": 35,
-      "Черкасов Сергей Вилленович": 89,
-      "Яблонских Валерий Михайлович": 30,
-      "Против всех": 94
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 104,
+      "gas:candidate-vibid:366300666748": 336,
+      "gas:candidate-vibid:366300666850": 54,
+      "gas:candidate-vibid:1001000136124": 14,
+      "gas:candidate-vibid:1001000202334": 35,
+      "gas:candidate-vibid:1001000131413": 89,
+      "gas:candidate-vibid:1001000121911": 30,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 12,
-      "Голубкова Надежда Ивановна": 126,
-      "Ройзман Евгений Вадимович": 655,
-      "Руденко Василий Иванович": 92,
-      "Сапожников Григорий Алексеевич": 25,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 165,
-      "Яблонских Валерий Михайлович": 47,
-      "Против всех": 166
+      "gas:candidate-vibid:366300666752": 12,
+      "gas:candidate-vibid:1001000225989": 126,
+      "gas:candidate-vibid:366300666748": 655,
+      "gas:candidate-vibid:366300666850": 92,
+      "gas:candidate-vibid:1001000136124": 25,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 165,
+      "gas:candidate-vibid:1001000121911": 47,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 10,
-      "Голубкова Надежда Ивановна": 125,
-      "Ройзман Евгений Вадимович": 332,
-      "Руденко Василий Иванович": 90,
-      "Сапожников Григорий Алексеевич": 23,
-      "Харитонова Ольга Ивановна": 41,
-      "Черкасов Сергей Вилленович": 152,
-      "Яблонских Валерий Михайлович": 32,
-      "Против всех": 147
+      "gas:candidate-vibid:366300666752": 10,
+      "gas:candidate-vibid:1001000225989": 125,
+      "gas:candidate-vibid:366300666748": 332,
+      "gas:candidate-vibid:366300666850": 90,
+      "gas:candidate-vibid:1001000136124": 23,
+      "gas:candidate-vibid:1001000202334": 41,
+      "gas:candidate-vibid:1001000131413": 152,
+      "gas:candidate-vibid:1001000121911": 32,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 4,
-      "Голубкова Надежда Ивановна": 102,
-      "Ройзман Евгений Вадимович": 309,
-      "Руденко Василий Иванович": 82,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 26,
-      "Черкасов Сергей Вилленович": 110,
-      "Яблонских Валерий Михайлович": 42,
-      "Против всех": 89
+      "gas:candidate-vibid:366300666752": 4,
+      "gas:candidate-vibid:1001000225989": 102,
+      "gas:candidate-vibid:366300666748": 309,
+      "gas:candidate-vibid:366300666850": 82,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 26,
+      "gas:candidate-vibid:1001000131413": 110,
+      "gas:candidate-vibid:1001000121911": 42,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 9,
-      "Голубкова Надежда Ивановна": 73,
-      "Ройзман Евгений Вадимович": 293,
-      "Руденко Василий Иванович": 52,
-      "Сапожников Григорий Алексеевич": 16,
-      "Харитонова Ольга Ивановна": 36,
-      "Черкасов Сергей Вилленович": 75,
-      "Яблонских Валерий Михайлович": 24,
-      "Против всех": 98
+      "gas:candidate-vibid:366300666752": 9,
+      "gas:candidate-vibid:1001000225989": 73,
+      "gas:candidate-vibid:366300666748": 293,
+      "gas:candidate-vibid:366300666850": 52,
+      "gas:candidate-vibid:1001000136124": 16,
+      "gas:candidate-vibid:1001000202334": 36,
+      "gas:candidate-vibid:1001000131413": 75,
+      "gas:candidate-vibid:1001000121911": 24,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 94,
-      "Ройзман Евгений Вадимович": 342,
-      "Руденко Василий Иванович": 48,
-      "Сапожников Григорий Алексеевич": 16,
-      "Харитонова Ольга Ивановна": 32,
-      "Черкасов Сергей Вилленович": 102,
-      "Яблонских Валерий Михайлович": 29,
-      "Против всех": 106
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 94,
+      "gas:candidate-vibid:366300666748": 342,
+      "gas:candidate-vibid:366300666850": 48,
+      "gas:candidate-vibid:1001000136124": 16,
+      "gas:candidate-vibid:1001000202334": 32,
+      "gas:candidate-vibid:1001000131413": 102,
+      "gas:candidate-vibid:1001000121911": 29,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 16,
-      "Голубкова Надежда Ивановна": 110,
-      "Ройзман Евгений Вадимович": 390,
-      "Руденко Василий Иванович": 49,
-      "Сапожников Григорий Алексеевич": 9,
-      "Харитонова Ольга Ивановна": 40,
-      "Черкасов Сергей Вилленович": 99,
-      "Яблонских Валерий Михайлович": 38,
-      "Против всех": 89
+      "gas:candidate-vibid:366300666752": 16,
+      "gas:candidate-vibid:1001000225989": 110,
+      "gas:candidate-vibid:366300666748": 390,
+      "gas:candidate-vibid:366300666850": 49,
+      "gas:candidate-vibid:1001000136124": 9,
+      "gas:candidate-vibid:1001000202334": 40,
+      "gas:candidate-vibid:1001000131413": 99,
+      "gas:candidate-vibid:1001000121911": 38,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 24,
-      "Голубкова Надежда Ивановна": 99,
-      "Ройзман Евгений Вадимович": 330,
-      "Руденко Василий Иванович": 38,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 21,
-      "Черкасов Сергей Вилленович": 104,
-      "Яблонских Валерий Михайлович": 32,
-      "Против всех": 106
+      "gas:candidate-vibid:366300666752": 24,
+      "gas:candidate-vibid:1001000225989": 99,
+      "gas:candidate-vibid:366300666748": 330,
+      "gas:candidate-vibid:366300666850": 38,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 21,
+      "gas:candidate-vibid:1001000131413": 104,
+      "gas:candidate-vibid:1001000121911": 32,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Голубкова Надежда Ивановна": 129,
-      "Ройзман Евгений Вадимович": 436,
-      "Руденко Василий Иванович": 87,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 21,
-      "Черкасов Сергей Вилленович": 151,
-      "Яблонских Валерий Михайлович": 46,
-      "Против всех": 141
+      "gas:candidate-vibid:366300666752": 22,
+      "gas:candidate-vibid:1001000225989": 129,
+      "gas:candidate-vibid:366300666748": 436,
+      "gas:candidate-vibid:366300666850": 87,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 21,
+      "gas:candidate-vibid:1001000131413": 151,
+      "gas:candidate-vibid:1001000121911": 46,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 19,
-      "Голубкова Надежда Ивановна": 114,
-      "Ройзман Евгений Вадимович": 360,
-      "Руденко Василий Иванович": 32,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 30,
-      "Черкасов Сергей Вилленович": 44,
-      "Яблонских Валерий Михайлович": 11,
-      "Против всех": 137
+      "gas:candidate-vibid:366300666752": 19,
+      "gas:candidate-vibid:1001000225989": 114,
+      "gas:candidate-vibid:366300666748": 360,
+      "gas:candidate-vibid:366300666850": 32,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 30,
+      "gas:candidate-vibid:1001000131413": 44,
+      "gas:candidate-vibid:1001000121911": 11,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 2,
-      "Голубкова Надежда Ивановна": 12,
-      "Ройзман Евгений Вадимович": 27,
-      "Руденко Василий Иванович": 5,
-      "Сапожников Григорий Алексеевич": 0,
-      "Харитонова Ольга Ивановна": 81,
-      "Черкасов Сергей Вилленович": 24,
-      "Яблонских Валерий Михайлович": 10,
-      "Против всех": 19
+      "gas:candidate-vibid:366300666752": 2,
+      "gas:candidate-vibid:1001000225989": 12,
+      "gas:candidate-vibid:366300666748": 27,
+      "gas:candidate-vibid:366300666850": 5,
+      "gas:candidate-vibid:1001000136124": 0,
+      "gas:candidate-vibid:1001000202334": 81,
+      "gas:candidate-vibid:1001000131413": 24,
+      "gas:candidate-vibid:1001000121911": 10,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 12,
-      "Голубкова Надежда Ивановна": 131,
-      "Ройзман Евгений Вадимович": 446,
-      "Руденко Василий Иванович": 79,
-      "Сапожников Григорий Алексеевич": 15,
-      "Харитонова Ольга Ивановна": 84,
-      "Черкасов Сергей Вилленович": 94,
-      "Яблонских Валерий Михайлович": 28,
-      "Против всех": 104
+      "gas:candidate-vibid:366300666752": 12,
+      "gas:candidate-vibid:1001000225989": 131,
+      "gas:candidate-vibid:366300666748": 446,
+      "gas:candidate-vibid:366300666850": 79,
+      "gas:candidate-vibid:1001000136124": 15,
+      "gas:candidate-vibid:1001000202334": 84,
+      "gas:candidate-vibid:1001000131413": 94,
+      "gas:candidate-vibid:1001000121911": 28,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 18,
-      "Голубкова Надежда Ивановна": 140,
-      "Ройзман Евгений Вадимович": 465,
-      "Руденко Василий Иванович": 71,
-      "Сапожников Григорий Алексеевич": 12,
-      "Харитонова Ольга Ивановна": 31,
-      "Черкасов Сергей Вилленович": 196,
-      "Яблонских Валерий Михайлович": 44,
-      "Против всех": 139
+      "gas:candidate-vibid:366300666752": 18,
+      "gas:candidate-vibid:1001000225989": 140,
+      "gas:candidate-vibid:366300666748": 465,
+      "gas:candidate-vibid:366300666850": 71,
+      "gas:candidate-vibid:1001000136124": 12,
+      "gas:candidate-vibid:1001000202334": 31,
+      "gas:candidate-vibid:1001000131413": 196,
+      "gas:candidate-vibid:1001000121911": 44,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 17,
-      "Голубкова Надежда Ивановна": 145,
-      "Ройзман Евгений Вадимович": 616,
-      "Руденко Василий Иванович": 99,
-      "Сапожников Григорий Алексеевич": 20,
-      "Харитонова Ольга Ивановна": 49,
-      "Черкасов Сергей Вилленович": 206,
-      "Яблонских Валерий Михайлович": 54,
-      "Против всех": 164
+      "gas:candidate-vibid:366300666752": 17,
+      "gas:candidate-vibid:1001000225989": 145,
+      "gas:candidate-vibid:366300666748": 616,
+      "gas:candidate-vibid:366300666850": 99,
+      "gas:candidate-vibid:1001000136124": 20,
+      "gas:candidate-vibid:1001000202334": 49,
+      "gas:candidate-vibid:1001000131413": 206,
+      "gas:candidate-vibid:1001000121911": 54,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 28,
-      "Голубкова Надежда Ивановна": 162,
-      "Ройзман Евгений Вадимович": 611,
-      "Руденко Василий Иванович": 101,
-      "Сапожников Григорий Алексеевич": 14,
-      "Харитонова Ольга Ивановна": 47,
-      "Черкасов Сергей Вилленович": 255,
-      "Яблонских Валерий Михайлович": 52,
-      "Против всех": 172
+      "gas:candidate-vibid:366300666752": 28,
+      "gas:candidate-vibid:1001000225989": 162,
+      "gas:candidate-vibid:366300666748": 611,
+      "gas:candidate-vibid:366300666850": 101,
+      "gas:candidate-vibid:1001000136124": 14,
+      "gas:candidate-vibid:1001000202334": 47,
+      "gas:candidate-vibid:1001000131413": 255,
+      "gas:candidate-vibid:1001000121911": 52,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 2,
-      "Голубкова Надежда Ивановна": 6,
-      "Ройзман Евгений Вадимович": 8,
-      "Руденко Василий Иванович": 7,
-      "Сапожников Григорий Алексеевич": 0,
-      "Харитонова Ольга Ивановна": 2,
-      "Черкасов Сергей Вилленович": 2,
-      "Яблонских Валерий Михайлович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:366300666752": 2,
+      "gas:candidate-vibid:1001000225989": 6,
+      "gas:candidate-vibid:366300666748": 8,
+      "gas:candidate-vibid:366300666850": 7,
+      "gas:candidate-vibid:1001000136124": 0,
+      "gas:candidate-vibid:1001000202334": 2,
+      "gas:candidate-vibid:1001000131413": 2,
+      "gas:candidate-vibid:1001000121911": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300666776&region=0&sub_region=0&type=429",
@@ -10830,18 +10830,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 281,
-      "Бурков Александр Леонидович": 178,
-      "Герасименко Владимир Леонидович": 2,
-      "Дробов Владимир Николаевич": 10,
-      "Ильманов Александр Леонидович": 8,
-      "Кадочников Владимир Дмитриевич": 66,
-      "Камянчук Александр Витальевич": 2,
-      "Кузнецов Юрий Григорьевич": 48,
-      "Русакова Тамара Алексеевна": 31,
-      "Соболев Федор Викторович": 6,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225986": 281,
+      "gas:candidate-vibid:1001000290470": 178,
+      "gas:candidate-vibid:1001000121287": 2,
+      "gas:candidate-vibid:1001000217954": 10,
+      "gas:candidate-vibid:1001000220843": 8,
+      "gas:candidate-vibid:1001000121909": 66,
+      "gas:candidate-vibid:366300766697": 2,
+      "gas:candidate-vibid:1001000112256": 48,
+      "gas:candidate-vibid:1001000136121": 31,
+      "gas:candidate-vibid:366300766700": 6,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -10891,18 +10891,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 141,
-      "Бурков Александр Леонидович": 61,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 5,
-      "Кадочников Владимир Дмитриевич": 50,
-      "Камянчук Александр Витальевич": 2,
-      "Кузнецов Юрий Григорьевич": 57,
-      "Русакова Тамара Алексеевна": 11,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225986": 141,
+      "gas:candidate-vibid:1001000290470": 61,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 5,
+      "gas:candidate-vibid:1001000121909": 50,
+      "gas:candidate-vibid:366300766697": 2,
+      "gas:candidate-vibid:1001000112256": 57,
+      "gas:candidate-vibid:1001000136121": 11,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -10952,18 +10952,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 294,
-      "Бурков Александр Леонидович": 121,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 11,
-      "Кадочников Владимир Дмитриевич": 32,
-      "Камянчук Александр Витальевич": 2,
-      "Кузнецов Юрий Григорьевич": 70,
-      "Русакова Тамара Алексеевна": 17,
-      "Соболев Федор Викторович": 7,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225986": 294,
+      "gas:candidate-vibid:1001000290470": 121,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 11,
+      "gas:candidate-vibid:1001000121909": 32,
+      "gas:candidate-vibid:366300766697": 2,
+      "gas:candidate-vibid:1001000112256": 70,
+      "gas:candidate-vibid:1001000136121": 17,
+      "gas:candidate-vibid:366300766700": 7,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11013,18 +11013,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 338,
-      "Бурков Александр Леонидович": 175,
-      "Герасименко Владимир Леонидович": 5,
-      "Дробов Владимир Николаевич": 6,
-      "Ильманов Александр Леонидович": 14,
-      "Кадочников Владимир Дмитриевич": 73,
-      "Камянчук Александр Витальевич": 4,
-      "Кузнецов Юрий Григорьевич": 75,
-      "Русакова Тамара Алексеевна": 13,
-      "Соболев Федор Викторович": 26,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000225986": 338,
+      "gas:candidate-vibid:1001000290470": 175,
+      "gas:candidate-vibid:1001000121287": 5,
+      "gas:candidate-vibid:1001000217954": 6,
+      "gas:candidate-vibid:1001000220843": 14,
+      "gas:candidate-vibid:1001000121909": 73,
+      "gas:candidate-vibid:366300766697": 4,
+      "gas:candidate-vibid:1001000112256": 75,
+      "gas:candidate-vibid:1001000136121": 13,
+      "gas:candidate-vibid:366300766700": 26,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11074,18 +11074,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 320,
-      "Бурков Александр Леонидович": 203,
-      "Герасименко Владимир Леонидович": 5,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 8,
-      "Кадочников Владимир Дмитриевич": 72,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 130,
-      "Русакова Тамара Алексеевна": 22,
-      "Соболев Федор Викторович": 30,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000225986": 320,
+      "gas:candidate-vibid:1001000290470": 203,
+      "gas:candidate-vibid:1001000121287": 5,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 8,
+      "gas:candidate-vibid:1001000121909": 72,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 130,
+      "gas:candidate-vibid:1001000136121": 22,
+      "gas:candidate-vibid:366300766700": 30,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11135,18 +11135,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 230,
-      "Бурков Александр Леонидович": 120,
-      "Герасименко Владимир Леонидович": 2,
-      "Дробов Владимир Николаевич": 4,
-      "Ильманов Александр Леонидович": 6,
-      "Кадочников Владимир Дмитриевич": 36,
-      "Камянчук Александр Витальевич": 6,
-      "Кузнецов Юрий Григорьевич": 67,
-      "Русакова Тамара Алексеевна": 12,
-      "Соболев Федор Викторович": 5,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225986": 230,
+      "gas:candidate-vibid:1001000290470": 120,
+      "gas:candidate-vibid:1001000121287": 2,
+      "gas:candidate-vibid:1001000217954": 4,
+      "gas:candidate-vibid:1001000220843": 6,
+      "gas:candidate-vibid:1001000121909": 36,
+      "gas:candidate-vibid:366300766697": 6,
+      "gas:candidate-vibid:1001000112256": 67,
+      "gas:candidate-vibid:1001000136121": 12,
+      "gas:candidate-vibid:366300766700": 5,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11196,18 +11196,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 114,
-      "Бурков Александр Леонидович": 84,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 26,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 39,
-      "Русакова Тамара Алексеевна": 16,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225986": 114,
+      "gas:candidate-vibid:1001000290470": 84,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 26,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 39,
+      "gas:candidate-vibid:1001000136121": 16,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11257,18 +11257,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 162,
-      "Бурков Александр Леонидович": 43,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 2,
-      "Ильманов Александр Леонидович": 3,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 42,
-      "Русакова Тамара Алексеевна": 6,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225986": 162,
+      "gas:candidate-vibid:1001000290470": 43,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 2,
+      "gas:candidate-vibid:1001000220843": 3,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 42,
+      "gas:candidate-vibid:1001000136121": 6,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11318,18 +11318,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 212,
-      "Бурков Александр Леонидович": 116,
-      "Герасименко Владимир Леонидович": 4,
-      "Дробов Владимир Николаевич": 4,
-      "Ильманов Александр Леонидович": 4,
-      "Кадочников Владимир Дмитриевич": 23,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 16,
-      "Русакова Тамара Алексеевна": 10,
-      "Соболев Федор Викторович": 3,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225986": 212,
+      "gas:candidate-vibid:1001000290470": 116,
+      "gas:candidate-vibid:1001000121287": 4,
+      "gas:candidate-vibid:1001000217954": 4,
+      "gas:candidate-vibid:1001000220843": 4,
+      "gas:candidate-vibid:1001000121909": 23,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 16,
+      "gas:candidate-vibid:1001000136121": 10,
+      "gas:candidate-vibid:366300766700": 3,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11379,18 +11379,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 311,
-      "Бурков Александр Леонидович": 127,
-      "Герасименко Владимир Леонидович": 6,
-      "Дробов Владимир Николаевич": 4,
-      "Ильманов Александр Леонидович": 9,
-      "Кадочников Владимир Дмитриевич": 107,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 41,
-      "Русакова Тамара Алексеевна": 15,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225986": 311,
+      "gas:candidate-vibid:1001000290470": 127,
+      "gas:candidate-vibid:1001000121287": 6,
+      "gas:candidate-vibid:1001000217954": 4,
+      "gas:candidate-vibid:1001000220843": 9,
+      "gas:candidate-vibid:1001000121909": 107,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 41,
+      "gas:candidate-vibid:1001000136121": 15,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11440,18 +11440,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 170,
-      "Бурков Александр Леонидович": 103,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 57,
-      "Камянчук Александр Витальевич": 2,
-      "Кузнецов Юрий Григорьевич": 22,
-      "Русакова Тамара Алексеевна": 3,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225986": 170,
+      "gas:candidate-vibid:1001000290470": 103,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 57,
+      "gas:candidate-vibid:366300766697": 2,
+      "gas:candidate-vibid:1001000112256": 22,
+      "gas:candidate-vibid:1001000136121": 3,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11501,18 +11501,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 74,
-      "Бурков Александр Леонидович": 43,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 2,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 1,
-      "Русакова Тамара Алексеевна": 1,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225986": 74,
+      "gas:candidate-vibid:1001000290470": 43,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 2,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 1,
+      "gas:candidate-vibid:1001000136121": 1,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11562,18 +11562,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 59,
-      "Бурков Александр Леонидович": 10,
-      "Герасименко Владимир Леонидович": 2,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 16,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 20,
-      "Русакова Тамара Алексеевна": 1,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225986": 59,
+      "gas:candidate-vibid:1001000290470": 10,
+      "gas:candidate-vibid:1001000121287": 2,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 16,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 20,
+      "gas:candidate-vibid:1001000136121": 1,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11623,18 +11623,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 77,
-      "Бурков Александр Леонидович": 90,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 7,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 3,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225986": 77,
+      "gas:candidate-vibid:1001000290470": 90,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 7,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 3,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11684,18 +11684,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 131,
-      "Бурков Александр Леонидович": 9,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 3,
-      "Кадочников Владимир Дмитриевич": 7,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 4,
-      "Русакова Тамара Алексеевна": 11,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225986": 131,
+      "gas:candidate-vibid:1001000290470": 9,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 3,
+      "gas:candidate-vibid:1001000121909": 7,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 4,
+      "gas:candidate-vibid:1001000136121": 11,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11745,18 +11745,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 80,
-      "Бурков Александр Леонидович": 68,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 2,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 11,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 36,
-      "Русакова Тамара Алексеевна": 3,
-      "Соболев Федор Викторович": 7,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225986": 80,
+      "gas:candidate-vibid:1001000290470": 68,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 2,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 11,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 36,
+      "gas:candidate-vibid:1001000136121": 3,
+      "gas:candidate-vibid:366300766700": 7,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11806,18 +11806,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 45,
-      "Бурков Александр Леонидович": 20,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 2,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 0,
-      "Соболев Федор Викторович": 4,
-      "Судаков Николай Васильевич": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225986": 45,
+      "gas:candidate-vibid:1001000290470": 20,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 2,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 0,
+      "gas:candidate-vibid:366300766700": 4,
+      "gas:candidate-vibid:366300766694": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11867,18 +11867,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 65,
-      "Бурков Александр Леонидович": 3,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 1,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 2,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225986": 65,
+      "gas:candidate-vibid:1001000290470": 3,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 1,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 2,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11928,18 +11928,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 159,
-      "Бурков Александр Леонидович": 97,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 2,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 16,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 9,
-      "Русакова Тамара Алексеевна": 4,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225986": 159,
+      "gas:candidate-vibid:1001000290470": 97,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 2,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 16,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 9,
+      "gas:candidate-vibid:1001000136121": 4,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -11989,18 +11989,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 25,
-      "Бурков Александр Леонидович": 6,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 2,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 2,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225986": 25,
+      "gas:candidate-vibid:1001000290470": 6,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 2,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 2,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12050,18 +12050,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 135,
-      "Бурков Александр Леонидович": 7,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 4,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 3,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225986": 135,
+      "gas:candidate-vibid:1001000290470": 7,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 4,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 3,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12111,18 +12111,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 30,
-      "Бурков Александр Леонидович": 12,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 7,
-      "Кадочников Владимир Дмитриевич": 0,
-      "Камянчук Александр Витальевич": 6,
-      "Кузнецов Юрий Григорьевич": 2,
-      "Русакова Тамара Алексеевна": 0,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225986": 30,
+      "gas:candidate-vibid:1001000290470": 12,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 7,
+      "gas:candidate-vibid:1001000121909": 0,
+      "gas:candidate-vibid:366300766697": 6,
+      "gas:candidate-vibid:1001000112256": 2,
+      "gas:candidate-vibid:1001000136121": 0,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12172,18 +12172,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 81,
-      "Бурков Александр Леонидович": 71,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 7,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 2,
-      "Русакова Тамара Алексеевна": 1,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225986": 81,
+      "gas:candidate-vibid:1001000290470": 71,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 7,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 2,
+      "gas:candidate-vibid:1001000136121": 1,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12233,18 +12233,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 37,
-      "Бурков Александр Леонидович": 5,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 2,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 1,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225986": 37,
+      "gas:candidate-vibid:1001000290470": 5,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 2,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 1,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12294,18 +12294,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 53,
-      "Бурков Александр Леонидович": 4,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 9,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 28,
-      "Русакова Тамара Алексеевна": 4,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225986": 53,
+      "gas:candidate-vibid:1001000290470": 4,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 9,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 28,
+      "gas:candidate-vibid:1001000136121": 4,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12355,18 +12355,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 190,
-      "Бурков Александр Леонидович": 35,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 6,
-      "Ильманов Александр Леонидович": 7,
-      "Кадочников Владимир Дмитриевич": 28,
-      "Камянчук Александр Витальевич": 4,
-      "Кузнецов Юрий Григорьевич": 13,
-      "Русакова Тамара Алексеевна": 18,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225986": 190,
+      "gas:candidate-vibid:1001000290470": 35,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 6,
+      "gas:candidate-vibid:1001000220843": 7,
+      "gas:candidate-vibid:1001000121909": 28,
+      "gas:candidate-vibid:366300766697": 4,
+      "gas:candidate-vibid:1001000112256": 13,
+      "gas:candidate-vibid:1001000136121": 18,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12416,18 +12416,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 57,
-      "Бурков Александр Леонидович": 4,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 1,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 0,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 1,
-      "Русакова Тамара Алексеевна": 4,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225986": 57,
+      "gas:candidate-vibid:1001000290470": 4,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 1,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 0,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 1,
+      "gas:candidate-vibid:1001000136121": 4,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12477,18 +12477,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 98,
-      "Бурков Александр Леонидович": 35,
-      "Герасименко Владимир Леонидович": 2,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 6,
-      "Кадочников Владимир Дмитриевич": 30,
-      "Камянчук Александр Витальевич": 3,
-      "Кузнецов Юрий Григорьевич": 11,
-      "Русакова Тамара Алексеевна": 10,
-      "Соболев Федор Викторович": 6,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225986": 98,
+      "gas:candidate-vibid:1001000290470": 35,
+      "gas:candidate-vibid:1001000121287": 2,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 6,
+      "gas:candidate-vibid:1001000121909": 30,
+      "gas:candidate-vibid:366300766697": 3,
+      "gas:candidate-vibid:1001000112256": 11,
+      "gas:candidate-vibid:1001000136121": 10,
+      "gas:candidate-vibid:366300766700": 6,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12538,18 +12538,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 170,
-      "Бурков Александр Леонидович": 103,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 8,
-      "Ильманов Александр Леонидович": 3,
-      "Кадочников Владимир Дмитриевич": 51,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 22,
-      "Русакова Тамара Алексеевна": 19,
-      "Соболев Федор Викторович": 3,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225986": 170,
+      "gas:candidate-vibid:1001000290470": 103,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 8,
+      "gas:candidate-vibid:1001000220843": 3,
+      "gas:candidate-vibid:1001000121909": 51,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 22,
+      "gas:candidate-vibid:1001000136121": 19,
+      "gas:candidate-vibid:366300766700": 3,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12599,18 +12599,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 154,
-      "Бурков Александр Леонидович": 19,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 20,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 11,
-      "Русакова Тамара Алексеевна": 11,
-      "Соболев Федор Викторович": 12,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225986": 154,
+      "gas:candidate-vibid:1001000290470": 19,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 20,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 11,
+      "gas:candidate-vibid:1001000136121": 11,
+      "gas:candidate-vibid:366300766700": 12,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12660,18 +12660,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 194,
-      "Бурков Александр Леонидович": 35,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 18,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 23,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 33,
-      "Русакова Тамара Алексеевна": 7,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225986": 194,
+      "gas:candidate-vibid:1001000290470": 35,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 18,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 23,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 33,
+      "gas:candidate-vibid:1001000136121": 7,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12721,18 +12721,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 217,
-      "Бурков Александр Леонидович": 77,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 13,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 25,
-      "Камянчук Александр Витальевич": 3,
-      "Кузнецов Юрий Григорьевич": 55,
-      "Русакова Тамара Алексеевна": 12,
-      "Соболев Федор Викторович": 3,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225986": 217,
+      "gas:candidate-vibid:1001000290470": 77,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 13,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 25,
+      "gas:candidate-vibid:366300766697": 3,
+      "gas:candidate-vibid:1001000112256": 55,
+      "gas:candidate-vibid:1001000136121": 12,
+      "gas:candidate-vibid:366300766700": 3,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12782,18 +12782,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 48,
-      "Бурков Александр Леонидович": 24,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 7,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 11,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 55,
-      "Русакова Тамара Алексеевна": 5,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225986": 48,
+      "gas:candidate-vibid:1001000290470": 24,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 7,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 11,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 55,
+      "gas:candidate-vibid:1001000136121": 5,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12843,18 +12843,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 38,
-      "Бурков Александр Леонидович": 31,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 19,
-      "Ильманов Александр Леонидович": 8,
-      "Кадочников Владимир Дмитриевич": 18,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 18,
-      "Русакова Тамара Алексеевна": 2,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225986": 38,
+      "gas:candidate-vibid:1001000290470": 31,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 19,
+      "gas:candidate-vibid:1001000220843": 8,
+      "gas:candidate-vibid:1001000121909": 18,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 18,
+      "gas:candidate-vibid:1001000136121": 2,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12904,18 +12904,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 193,
-      "Бурков Александр Леонидович": 68,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 9,
-      "Ильманов Александр Леонидович": 5,
-      "Кадочников Владимир Дмитриевич": 15,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 33,
-      "Русакова Тамара Алексеевна": 6,
-      "Соболев Федор Викторович": 3,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225986": 193,
+      "gas:candidate-vibid:1001000290470": 68,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 9,
+      "gas:candidate-vibid:1001000220843": 5,
+      "gas:candidate-vibid:1001000121909": 15,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 33,
+      "gas:candidate-vibid:1001000136121": 6,
+      "gas:candidate-vibid:366300766700": 3,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -12965,18 +12965,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 41,
-      "Бурков Александр Леонидович": 24,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 3,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 10,
-      "Русакова Тамара Алексеевна": 1,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225986": 41,
+      "gas:candidate-vibid:1001000290470": 24,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 3,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 10,
+      "gas:candidate-vibid:1001000136121": 1,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13026,18 +13026,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 249,
-      "Бурков Александр Леонидович": 79,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 8,
-      "Ильманов Александр Леонидович": 4,
-      "Кадочников Владимир Дмитриевич": 34,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 16,
-      "Русакова Тамара Алексеевна": 5,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225986": 249,
+      "gas:candidate-vibid:1001000290470": 79,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 8,
+      "gas:candidate-vibid:1001000220843": 4,
+      "gas:candidate-vibid:1001000121909": 34,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 16,
+      "gas:candidate-vibid:1001000136121": 5,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13087,18 +13087,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 56,
-      "Бурков Александр Леонидович": 24,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 31,
-      "Русакова Тамара Алексеевна": 0,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225986": 56,
+      "gas:candidate-vibid:1001000290470": 24,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 31,
+      "gas:candidate-vibid:1001000136121": 0,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13148,18 +13148,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 248,
-      "Бурков Александр Леонидович": 62,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 15,
-      "Ильманов Александр Леонидович": 1,
-      "Кадочников Владимир Дмитриевич": 80,
-      "Камянчук Александр Витальевич": 4,
-      "Кузнецов Юрий Григорьевич": 5,
-      "Русакова Тамара Алексеевна": 16,
-      "Соболев Федор Викторович": 12,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225986": 248,
+      "gas:candidate-vibid:1001000290470": 62,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 15,
+      "gas:candidate-vibid:1001000220843": 1,
+      "gas:candidate-vibid:1001000121909": 80,
+      "gas:candidate-vibid:366300766697": 4,
+      "gas:candidate-vibid:1001000112256": 5,
+      "gas:candidate-vibid:1001000136121": 16,
+      "gas:candidate-vibid:366300766700": 12,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13209,18 +13209,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 40,
-      "Бурков Александр Леонидович": 31,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 1,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 17,
-      "Русакова Тамара Алексеевна": 0,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225986": 40,
+      "gas:candidate-vibid:1001000290470": 31,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 1,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 17,
+      "gas:candidate-vibid:1001000136121": 0,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13270,18 +13270,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 59,
-      "Бурков Александр Леонидович": 60,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 5,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 34,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 27,
-      "Русакова Тамара Алексеевна": 0,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225986": 59,
+      "gas:candidate-vibid:1001000290470": 60,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 5,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 34,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 27,
+      "gas:candidate-vibid:1001000136121": 0,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13331,18 +13331,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 70,
-      "Бурков Александр Леонидович": 19,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 6,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 6,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 11,
-      "Русакова Тамара Алексеевна": 6,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225986": 70,
+      "gas:candidate-vibid:1001000290470": 19,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 6,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 6,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 11,
+      "gas:candidate-vibid:1001000136121": 6,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13392,18 +13392,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 53,
-      "Бурков Александр Леонидович": 50,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 2,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 0,
-      "Русакова Тамара Алексеевна": 1,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225986": 53,
+      "gas:candidate-vibid:1001000290470": 50,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 2,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 0,
+      "gas:candidate-vibid:1001000136121": 1,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13453,18 +13453,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 123,
-      "Бурков Александр Леонидович": 57,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 6,
-      "Ильманов Александр Леонидович": 3,
-      "Кадочников Владимир Дмитриевич": 24,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 14,
-      "Русакова Тамара Алексеевна": 5,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225986": 123,
+      "gas:candidate-vibid:1001000290470": 57,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 6,
+      "gas:candidate-vibid:1001000220843": 3,
+      "gas:candidate-vibid:1001000121909": 24,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 14,
+      "gas:candidate-vibid:1001000136121": 5,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13514,18 +13514,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 286,
-      "Бурков Александр Леонидович": 145,
-      "Герасименко Владимир Леонидович": 6,
-      "Дробов Владимир Николаевич": 11,
-      "Ильманов Александр Леонидович": 5,
-      "Кадочников Владимир Дмитриевич": 50,
-      "Камянчук Александр Витальевич": 3,
-      "Кузнецов Юрий Григорьевич": 19,
-      "Русакова Тамара Алексеевна": 13,
-      "Соболев Федор Викторович": 11,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000225986": 286,
+      "gas:candidate-vibid:1001000290470": 145,
+      "gas:candidate-vibid:1001000121287": 6,
+      "gas:candidate-vibid:1001000217954": 11,
+      "gas:candidate-vibid:1001000220843": 5,
+      "gas:candidate-vibid:1001000121909": 50,
+      "gas:candidate-vibid:366300766697": 3,
+      "gas:candidate-vibid:1001000112256": 19,
+      "gas:candidate-vibid:1001000136121": 13,
+      "gas:candidate-vibid:366300766700": 11,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13575,18 +13575,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 84,
-      "Бурков Александр Леонидович": 50,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 0,
-      "Ильманов Александр Леонидович": 0,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 1,
-      "Русакова Тамара Алексеевна": 5,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225986": 84,
+      "gas:candidate-vibid:1001000290470": 50,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 0,
+      "gas:candidate-vibid:1001000220843": 0,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 1,
+      "gas:candidate-vibid:1001000136121": 5,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13636,18 +13636,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 70,
-      "Бурков Александр Леонидович": 22,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 11,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 5,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 8,
-      "Русакова Тамара Алексеевна": 5,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225986": 70,
+      "gas:candidate-vibid:1001000290470": 22,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 11,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 5,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 8,
+      "gas:candidate-vibid:1001000136121": 5,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13697,18 +13697,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 142,
-      "Бурков Александр Леонидович": 100,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 16,
-      "Ильманов Александр Леонидович": 2,
-      "Кадочников Владимир Дмитриевич": 44,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 26,
-      "Русакова Тамара Алексеевна": 18,
-      "Соболев Федор Викторович": 14,
-      "Судаков Николай Васильевич": 6,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225986": 142,
+      "gas:candidate-vibid:1001000290470": 100,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 16,
+      "gas:candidate-vibid:1001000220843": 2,
+      "gas:candidate-vibid:1001000121909": 44,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 26,
+      "gas:candidate-vibid:1001000136121": 18,
+      "gas:candidate-vibid:366300766700": 14,
+      "gas:candidate-vibid:366300766694": 6,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13758,18 +13758,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 117,
-      "Бурков Александр Леонидович": 89,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 2,
-      "Ильманов Александр Леонидович": 10,
-      "Кадочников Владимир Дмитриевич": 45,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 6,
-      "Русакова Тамара Алексеевна": 15,
-      "Соболев Федор Викторович": 6,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225986": 117,
+      "gas:candidate-vibid:1001000290470": 89,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 2,
+      "gas:candidate-vibid:1001000220843": 10,
+      "gas:candidate-vibid:1001000121909": 45,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 6,
+      "gas:candidate-vibid:1001000136121": 15,
+      "gas:candidate-vibid:366300766700": 6,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13819,18 +13819,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 32,
-      "Бурков Александр Леонидович": 34,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 4,
-      "Ильманов Александр Леонидович": 3,
-      "Кадочников Владимир Дмитриевич": 3,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 4,
-      "Русакова Тамара Алексеевна": 4,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225986": 32,
+      "gas:candidate-vibid:1001000290470": 34,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 4,
+      "gas:candidate-vibid:1001000220843": 3,
+      "gas:candidate-vibid:1001000121909": 3,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 4,
+      "gas:candidate-vibid:1001000136121": 4,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13880,18 +13880,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 98,
-      "Бурков Александр Леонидович": 36,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 12,
-      "Ильманов Александр Леонидович": 4,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 9,
-      "Русакова Тамара Алексеевна": 6,
-      "Соболев Федор Викторович": 12,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225986": 98,
+      "gas:candidate-vibid:1001000290470": 36,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 12,
+      "gas:candidate-vibid:1001000220843": 4,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 9,
+      "gas:candidate-vibid:1001000136121": 6,
+      "gas:candidate-vibid:366300766700": 12,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -13941,18 +13941,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 199,
-      "Бурков Александр Леонидович": 94,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 14,
-      "Ильманов Александр Леонидович": 4,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 11,
-      "Русакова Тамара Алексеевна": 12,
-      "Соболев Федор Викторович": 15,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225986": 199,
+      "gas:candidate-vibid:1001000290470": 94,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 14,
+      "gas:candidate-vibid:1001000220843": 4,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 11,
+      "gas:candidate-vibid:1001000136121": 12,
+      "gas:candidate-vibid:366300766700": 15,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766742&region=0&sub_region=0&type=429",
@@ -14002,18 +14002,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 243,
-      "Бурков Александр Леонидович": 95,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 5,
-      "Ильманов Александр Леонидович": 111,
-      "Кадочников Владимир Дмитриевич": 109,
-      "Камянчук Александр Витальевич": 4,
-      "Кузнецов Юрий Григорьевич": 216,
-      "Русакова Тамара Алексеевна": 14,
-      "Соболев Федор Викторович": 4,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000225986": 243,
+      "gas:candidate-vibid:1001000290470": 95,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 5,
+      "gas:candidate-vibid:1001000220843": 111,
+      "gas:candidate-vibid:1001000121909": 109,
+      "gas:candidate-vibid:366300766697": 4,
+      "gas:candidate-vibid:1001000112256": 216,
+      "gas:candidate-vibid:1001000136121": 14,
+      "gas:candidate-vibid:366300766700": 4,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14063,18 +14063,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 87,
-      "Бурков Александр Леонидович": 56,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 4,
-      "Ильманов Александр Леонидович": 62,
-      "Кадочников Владимир Дмитриевич": 33,
-      "Камянчук Александр Витальевич": 2,
-      "Кузнецов Юрий Григорьевич": 57,
-      "Русакова Тамара Алексеевна": 5,
-      "Соболев Федор Викторович": 0,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225986": 87,
+      "gas:candidate-vibid:1001000290470": 56,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 4,
+      "gas:candidate-vibid:1001000220843": 62,
+      "gas:candidate-vibid:1001000121909": 33,
+      "gas:candidate-vibid:366300766697": 2,
+      "gas:candidate-vibid:1001000112256": 57,
+      "gas:candidate-vibid:1001000136121": 5,
+      "gas:candidate-vibid:366300766700": 0,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14124,18 +14124,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 205,
-      "Бурков Александр Леонидович": 44,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 5,
-      "Ильманов Александр Леонидович": 27,
-      "Кадочников Владимир Дмитриевич": 59,
-      "Камянчук Александр Витальевич": 4,
-      "Кузнецов Юрий Григорьевич": 184,
-      "Русакова Тамара Алексеевна": 20,
-      "Соболев Федор Викторович": 4,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225986": 205,
+      "gas:candidate-vibid:1001000290470": 44,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 5,
+      "gas:candidate-vibid:1001000220843": 27,
+      "gas:candidate-vibid:1001000121909": 59,
+      "gas:candidate-vibid:366300766697": 4,
+      "gas:candidate-vibid:1001000112256": 184,
+      "gas:candidate-vibid:1001000136121": 20,
+      "gas:candidate-vibid:366300766700": 4,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14185,18 +14185,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 488,
-      "Бурков Александр Леонидович": 105,
-      "Герасименко Владимир Леонидович": 9,
-      "Дробов Владимир Николаевич": 10,
-      "Ильманов Александр Леонидович": 97,
-      "Кадочников Владимир Дмитриевич": 132,
-      "Камянчук Александр Витальевич": 6,
-      "Кузнецов Юрий Григорьевич": 202,
-      "Русакова Тамара Алексеевна": 30,
-      "Соболев Федор Викторович": 7,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000225986": 488,
+      "gas:candidate-vibid:1001000290470": 105,
+      "gas:candidate-vibid:1001000121287": 9,
+      "gas:candidate-vibid:1001000217954": 10,
+      "gas:candidate-vibid:1001000220843": 97,
+      "gas:candidate-vibid:1001000121909": 132,
+      "gas:candidate-vibid:366300766697": 6,
+      "gas:candidate-vibid:1001000112256": 202,
+      "gas:candidate-vibid:1001000136121": 30,
+      "gas:candidate-vibid:366300766700": 7,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14246,18 +14246,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 120,
-      "Бурков Александр Леонидович": 71,
-      "Герасименко Владимир Леонидович": 0,
-      "Дробов Владимир Николаевич": 2,
-      "Ильманов Александр Леонидович": 18,
-      "Кадочников Владимир Дмитриевич": 45,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 77,
-      "Русакова Тамара Алексеевна": 7,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 3,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000225986": 120,
+      "gas:candidate-vibid:1001000290470": 71,
+      "gas:candidate-vibid:1001000121287": 0,
+      "gas:candidate-vibid:1001000217954": 2,
+      "gas:candidate-vibid:1001000220843": 18,
+      "gas:candidate-vibid:1001000121909": 45,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 77,
+      "gas:candidate-vibid:1001000136121": 7,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 3,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14307,18 +14307,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 225,
-      "Бурков Александр Леонидович": 62,
-      "Герасименко Владимир Леонидович": 2,
-      "Дробов Владимир Николаевич": 5,
-      "Ильманов Александр Леонидович": 49,
-      "Кадочников Владимир Дмитриевич": 50,
-      "Камянчук Александр Витальевич": 8,
-      "Кузнецов Юрий Григорьевич": 149,
-      "Русакова Тамара Алексеевна": 24,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225986": 225,
+      "gas:candidate-vibid:1001000290470": 62,
+      "gas:candidate-vibid:1001000121287": 2,
+      "gas:candidate-vibid:1001000217954": 5,
+      "gas:candidate-vibid:1001000220843": 49,
+      "gas:candidate-vibid:1001000121909": 50,
+      "gas:candidate-vibid:366300766697": 8,
+      "gas:candidate-vibid:1001000112256": 149,
+      "gas:candidate-vibid:1001000136121": 24,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14368,18 +14368,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 164,
-      "Бурков Александр Леонидович": 15,
-      "Герасименко Владимир Леонидович": 2,
-      "Дробов Владимир Николаевич": 5,
-      "Ильманов Александр Леонидович": 25,
-      "Кадочников Владимир Дмитриевич": 14,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 17,
-      "Русакова Тамара Алексеевна": 8,
-      "Соболев Федор Викторович": 2,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225986": 164,
+      "gas:candidate-vibid:1001000290470": 15,
+      "gas:candidate-vibid:1001000121287": 2,
+      "gas:candidate-vibid:1001000217954": 5,
+      "gas:candidate-vibid:1001000220843": 25,
+      "gas:candidate-vibid:1001000121909": 14,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 17,
+      "gas:candidate-vibid:1001000136121": 8,
+      "gas:candidate-vibid:366300766700": 2,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14429,18 +14429,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 210,
-      "Бурков Александр Леонидович": 41,
-      "Герасименко Владимир Леонидович": 3,
-      "Дробов Владимир Николаевич": 3,
-      "Ильманов Александр Леонидович": 37,
-      "Кадочников Владимир Дмитриевич": 42,
-      "Камянчук Александр Витальевич": 5,
-      "Кузнецов Юрий Григорьевич": 181,
-      "Русакова Тамара Алексеевна": 14,
-      "Соболев Федор Викторович": 7,
-      "Судаков Николай Васильевич": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225986": 210,
+      "gas:candidate-vibid:1001000290470": 41,
+      "gas:candidate-vibid:1001000121287": 3,
+      "gas:candidate-vibid:1001000217954": 3,
+      "gas:candidate-vibid:1001000220843": 37,
+      "gas:candidate-vibid:1001000121909": 42,
+      "gas:candidate-vibid:366300766697": 5,
+      "gas:candidate-vibid:1001000112256": 181,
+      "gas:candidate-vibid:1001000136121": 14,
+      "gas:candidate-vibid:366300766700": 7,
+      "gas:candidate-vibid:366300766694": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14490,18 +14490,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 163,
-      "Бурков Александр Леонидович": 57,
-      "Герасименко Владимир Леонидович": 1,
-      "Дробов Владимир Николаевич": 6,
-      "Ильманов Александр Леонидович": 22,
-      "Кадочников Владимир Дмитриевич": 35,
-      "Камянчук Александр Витальевич": 0,
-      "Кузнецов Юрий Григорьевич": 116,
-      "Русакова Тамара Алексеевна": 14,
-      "Соболев Федор Викторович": 1,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225986": 163,
+      "gas:candidate-vibid:1001000290470": 57,
+      "gas:candidate-vibid:1001000121287": 1,
+      "gas:candidate-vibid:1001000217954": 6,
+      "gas:candidate-vibid:1001000220843": 22,
+      "gas:candidate-vibid:1001000121909": 35,
+      "gas:candidate-vibid:366300766697": 0,
+      "gas:candidate-vibid:1001000112256": 116,
+      "gas:candidate-vibid:1001000136121": 14,
+      "gas:candidate-vibid:366300766700": 1,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14551,18 +14551,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 261,
-      "Бурков Александр Леонидович": 116,
-      "Герасименко Владимир Леонидович": 10,
-      "Дробов Владимир Николаевич": 8,
-      "Ильманов Александр Леонидович": 57,
-      "Кадочников Владимир Дмитриевич": 134,
-      "Камянчук Александр Витальевич": 2,
-      "Кузнецов Юрий Григорьевич": 394,
-      "Русакова Тамара Алексеевна": 19,
-      "Соболев Федор Викторович": 15,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000225986": 261,
+      "gas:candidate-vibid:1001000290470": 116,
+      "gas:candidate-vibid:1001000121287": 10,
+      "gas:candidate-vibid:1001000217954": 8,
+      "gas:candidate-vibid:1001000220843": 57,
+      "gas:candidate-vibid:1001000121909": 134,
+      "gas:candidate-vibid:366300766697": 2,
+      "gas:candidate-vibid:1001000112256": 394,
+      "gas:candidate-vibid:1001000136121": 19,
+      "gas:candidate-vibid:366300766700": 15,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14612,18 +14612,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 302,
-      "Бурков Александр Леонидович": 70,
-      "Герасименко Владимир Леонидович": 5,
-      "Дробов Владимир Николаевич": 2,
-      "Ильманов Александр Леонидович": 93,
-      "Кадочников Владимир Дмитриевич": 169,
-      "Камянчук Александр Витальевич": 4,
-      "Кузнецов Юрий Григорьевич": 338,
-      "Русакова Тамара Алексеевна": 27,
-      "Соболев Федор Викторович": 5,
-      "Судаков Николай Васильевич": 0,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225986": 302,
+      "gas:candidate-vibid:1001000290470": 70,
+      "gas:candidate-vibid:1001000121287": 5,
+      "gas:candidate-vibid:1001000217954": 2,
+      "gas:candidate-vibid:1001000220843": 93,
+      "gas:candidate-vibid:1001000121909": 169,
+      "gas:candidate-vibid:366300766697": 4,
+      "gas:candidate-vibid:1001000112256": 338,
+      "gas:candidate-vibid:1001000136121": 27,
+      "gas:candidate-vibid:366300766700": 5,
+      "gas:candidate-vibid:366300766694": 0,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",
@@ -14673,18 +14673,18 @@ export const duma_2003_uik_428_region_66_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баринов Игорь Вячеславович": 360,
-      "Бурков Александр Леонидович": 108,
-      "Герасименко Владимир Леонидович": 6,
-      "Дробов Владимир Николаевич": 6,
-      "Ильманов Александр Леонидович": 56,
-      "Кадочников Владимир Дмитриевич": 115,
-      "Камянчук Александр Витальевич": 1,
-      "Кузнецов Юрий Григорьевич": 243,
-      "Русакова Тамара Алексеевна": 23,
-      "Соболев Федор Викторович": 6,
-      "Судаков Николай Васильевич": 2,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225986": 360,
+      "gas:candidate-vibid:1001000290470": 108,
+      "gas:candidate-vibid:1001000121287": 6,
+      "gas:candidate-vibid:1001000217954": 6,
+      "gas:candidate-vibid:1001000220843": 56,
+      "gas:candidate-vibid:1001000121909": 115,
+      "gas:candidate-vibid:366300766697": 1,
+      "gas:candidate-vibid:1001000112256": 243,
+      "gas:candidate-vibid:1001000136121": 23,
+      "gas:candidate-vibid:366300766700": 6,
+      "gas:candidate-vibid:366300766694": 2,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663007002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300766743&region=0&sub_region=0&type=429",

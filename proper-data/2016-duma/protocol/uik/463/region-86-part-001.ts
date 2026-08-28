@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 31,
-      "Завальный Павел Николаевич": 129,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 94,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 31,
+      "gas:candidate-vibid:2862000591935": 129,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 94,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 83,
-      "Завальный Павел Николаевич": 312,
-      "Ирдуганова Татьяна Александровна": 82,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 174,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 63,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 83,
+      "gas:candidate-vibid:2862000591935": 312,
+      "gas:candidate-vibid:2862000591284": 82,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 174,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 63,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 81,
-      "Завальный Павел Николаевич": 264,
-      "Ирдуганова Татьяна Александровна": 72,
-      "Ломакин Александр Николаевич": 31,
-      "Марков Евгений Владимирович": 155,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 82,
-      "Столяров Гарри Иванович": 33
+      "gas:candidate-vibid:2862000590606": 81,
+      "gas:candidate-vibid:2862000591935": 264,
+      "gas:candidate-vibid:2862000591284": 72,
+      "gas:candidate-vibid:2862000631936": 31,
+      "gas:candidate-vibid:2862000581356": 155,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 82,
+      "gas:candidate-vibid:2862000629135": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 81,
-      "Завальный Павел Николаевич": 217,
-      "Ирдуганова Татьяна Александровна": 51,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 147,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 81,
+      "gas:candidate-vibid:2862000591935": 217,
+      "gas:candidate-vibid:2862000591284": 51,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 147,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 218,
-      "Ирдуганова Татьяна Александровна": 58,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 132,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 218,
+      "gas:candidate-vibid:2862000591284": 58,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 132,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 120,
-      "Ирдуганова Татьяна Александровна": 26,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 65,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 120,
+      "gas:candidate-vibid:2862000591284": 26,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 65,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 53,
-      "Завальный Павел Николаевич": 201,
-      "Ирдуганова Татьяна Александровна": 57,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 120,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 53,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 53,
+      "gas:candidate-vibid:2862000591935": 201,
+      "gas:candidate-vibid:2862000591284": 57,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 120,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 53,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 47,
-      "Завальный Павел Николаевич": 173,
-      "Ирдуганова Татьяна Александровна": 53,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 146,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 47,
+      "gas:candidate-vibid:2862000591935": 173,
+      "gas:candidate-vibid:2862000591284": 53,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 146,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 49,
-      "Завальный Павел Николаевич": 199,
-      "Ирдуганова Татьяна Александровна": 50,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 135,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 49,
+      "gas:candidate-vibid:2862000591935": 199,
+      "gas:candidate-vibid:2862000591284": 50,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 135,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 208,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 150,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 60,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 208,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 150,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 60,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 166,
-      "Ирдуганова Татьяна Александровна": 50,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 113,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 41,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 166,
+      "gas:candidate-vibid:2862000591284": 50,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 113,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 41,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 59,
-      "Завальный Павел Николаевич": 244,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 123,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 51,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 59,
+      "gas:candidate-vibid:2862000591935": 244,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 123,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 51,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 81,
-      "Завальный Павел Николаевич": 235,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 123,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 51,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 81,
+      "gas:candidate-vibid:2862000591935": 235,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 123,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 51,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 61,
-      "Завальный Павел Николаевич": 72,
-      "Ирдуганова Татьяна Александровна": 22,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 28,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 13,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 61,
+      "gas:candidate-vibid:2862000591935": 72,
+      "gas:candidate-vibid:2862000591284": 22,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 28,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 13,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 83,
-      "Завальный Павел Николаевич": 154,
-      "Ирдуганова Татьяна Александровна": 40,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 73,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 33,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 83,
+      "gas:candidate-vibid:2862000591935": 154,
+      "gas:candidate-vibid:2862000591284": 40,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 73,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 33,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 97,
-      "Завальный Павел Николаевич": 167,
-      "Ирдуганова Татьяна Александровна": 39,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 66,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 44,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 97,
+      "gas:candidate-vibid:2862000591935": 167,
+      "gas:candidate-vibid:2862000591284": 39,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 66,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 44,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 108,
-      "Завальный Павел Николаевич": 192,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 21,
-      "Марков Евгений Владимирович": 89,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 25,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 108,
+      "gas:candidate-vibid:2862000591935": 192,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 21,
+      "gas:candidate-vibid:2862000581356": 89,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 25,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 93,
-      "Завальный Павел Николаевич": 213,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 84,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 40,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 93,
+      "gas:candidate-vibid:2862000591935": 213,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 84,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 40,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 64,
-      "Завальный Павел Николаевич": 133,
-      "Ирдуганова Татьяна Александровна": 31,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 66,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 33,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 64,
+      "gas:candidate-vibid:2862000591935": 133,
+      "gas:candidate-vibid:2862000591284": 31,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 66,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 33,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 61,
-      "Завальный Павел Николаевич": 128,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 52,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 15,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 61,
+      "gas:candidate-vibid:2862000591935": 128,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 52,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 15,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 111,
-      "Ирдуганова Татьяна Александровна": 30,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 41,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 19,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 111,
+      "gas:candidate-vibid:2862000591284": 30,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 41,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 19,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 65,
-      "Завальный Павел Николаевич": 116,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 62,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 21,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 65,
+      "gas:candidate-vibid:2862000591935": 116,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 62,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 21,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 133,
-      "Завальный Павел Николаевич": 370,
-      "Ирдуганова Татьяна Александровна": 72,
-      "Ломакин Александр Николаевич": 45,
-      "Марков Евгений Владимирович": 179,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 60,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 133,
+      "gas:candidate-vibid:2862000591935": 370,
+      "gas:candidate-vibid:2862000591284": 72,
+      "gas:candidate-vibid:2862000631936": 45,
+      "gas:candidate-vibid:2862000581356": 179,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 60,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 114,
-      "Завальный Павел Николаевич": 290,
-      "Ирдуганова Татьяна Александровна": 54,
-      "Ломакин Александр Николаевич": 50,
-      "Марков Евгений Владимирович": 160,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 58,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 114,
+      "gas:candidate-vibid:2862000591935": 290,
+      "gas:candidate-vibid:2862000591284": 54,
+      "gas:candidate-vibid:2862000631936": 50,
+      "gas:candidate-vibid:2862000581356": 160,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 58,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 65,
-      "Завальный Павел Николаевич": 205,
-      "Ирдуганова Татьяна Александровна": 51,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 116,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 65,
+      "gas:candidate-vibid:2862000591935": 205,
+      "gas:candidate-vibid:2862000591284": 51,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 116,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 142,
-      "Ирдуганова Татьяна Александровна": 42,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 79,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 38,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 142,
+      "gas:candidate-vibid:2862000591284": 42,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 79,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 38,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 81,
-      "Завальный Павел Николаевич": 230,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 38,
-      "Марков Евгений Владимирович": 106,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 81,
+      "gas:candidate-vibid:2862000591935": 230,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 38,
+      "gas:candidate-vibid:2862000581356": 106,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 73,
-      "Завальный Павел Николаевич": 210,
-      "Ирдуганова Татьяна Александровна": 55,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 106,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 73,
+      "gas:candidate-vibid:2862000591935": 210,
+      "gas:candidate-vibid:2862000591284": 55,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 106,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 120,
-      "Завальный Павел Николаевич": 264,
-      "Ирдуганова Татьяна Александровна": 55,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 126,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 120,
+      "gas:candidate-vibid:2862000591935": 264,
+      "gas:candidate-vibid:2862000591284": 55,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 126,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 71,
-      "Завальный Павел Николаевич": 152,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 76,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 71,
+      "gas:candidate-vibid:2862000591935": 152,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 76,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 69,
-      "Завальный Павел Николаевич": 453,
-      "Ирдуганова Татьяна Александровна": 87,
-      "Ломакин Александр Николаевич": 66,
-      "Марков Евгений Владимирович": 182,
-      "Ровин Олег Юрьевич": 21,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 69,
+      "gas:candidate-vibid:2862000591935": 453,
+      "gas:candidate-vibid:2862000591284": 87,
+      "gas:candidate-vibid:2862000631936": 66,
+      "gas:candidate-vibid:2862000581356": 182,
+      "gas:candidate-vibid:2862000632859": 21,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 58,
-      "Завальный Павел Николаевич": 290,
-      "Ирдуганова Татьяна Александровна": 99,
-      "Ломакин Александр Николаевич": 63,
-      "Марков Евгений Владимирович": 144,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 57,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 58,
+      "gas:candidate-vibid:2862000591935": 290,
+      "gas:candidate-vibid:2862000591284": 99,
+      "gas:candidate-vibid:2862000631936": 63,
+      "gas:candidate-vibid:2862000581356": 144,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 57,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 91,
-      "Завальный Павел Николаевич": 427,
-      "Ирдуганова Татьяна Александровна": 91,
-      "Ломакин Александр Николаевич": 76,
-      "Марков Евгений Владимирович": 205,
-      "Ровин Олег Юрьевич": 27,
-      "Савинцев Алексей Владимирович": 77,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 91,
+      "gas:candidate-vibid:2862000591935": 427,
+      "gas:candidate-vibid:2862000591284": 91,
+      "gas:candidate-vibid:2862000631936": 76,
+      "gas:candidate-vibid:2862000581356": 205,
+      "gas:candidate-vibid:2862000632859": 27,
+      "gas:candidate-vibid:2862000629163": 77,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 172,
-      "Завальный Павел Николаевич": 230,
-      "Ирдуганова Татьяна Александровна": 64,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 143,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 65,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 172,
+      "gas:candidate-vibid:2862000591935": 230,
+      "gas:candidate-vibid:2862000591284": 64,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 143,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 65,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 131,
-      "Завальный Павел Николаевич": 229,
-      "Ирдуганова Татьяна Александровна": 70,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 89,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 44,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 131,
+      "gas:candidate-vibid:2862000591935": 229,
+      "gas:candidate-vibid:2862000591284": 70,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 89,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 44,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 122,
-      "Завальный Павел Николаевич": 205,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 88,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 52,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 122,
+      "gas:candidate-vibid:2862000591935": 205,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 88,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 52,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 82,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 30,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 82,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 30,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 35,
-      "Завальный Павел Николаевич": 35,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 29,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 9,
-      "Столяров Гарри Иванович": 6
+      "gas:candidate-vibid:2862000590606": 35,
+      "gas:candidate-vibid:2862000591935": 35,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 29,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 9,
+      "gas:candidate-vibid:2862000629135": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 67,
-      "Завальный Павел Николаевич": 116,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 61,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 20,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 67,
+      "gas:candidate-vibid:2862000591935": 116,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 61,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 20,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 20,
-      "Завальный Павел Николаевич": 136,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 40,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 19,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 20,
+      "gas:candidate-vibid:2862000591935": 136,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 40,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 19,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 33,
-      "Завальный Павел Николаевич": 235,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 74,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 33,
+      "gas:candidate-vibid:2862000591935": 235,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 74,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 62,
-      "Завальный Павел Николаевич": 510,
-      "Ирдуганова Татьяна Александровна": 60,
-      "Ломакин Александр Николаевич": 31,
-      "Марков Евгений Владимирович": 112,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 38,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 62,
+      "gas:candidate-vibid:2862000591935": 510,
+      "gas:candidate-vibid:2862000591284": 60,
+      "gas:candidate-vibid:2862000631936": 31,
+      "gas:candidate-vibid:2862000581356": 112,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 38,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 87,
-      "Завальный Павел Николаевич": 182,
-      "Ирдуганова Татьяна Александровна": 79,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 135,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 44,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 87,
+      "gas:candidate-vibid:2862000591935": 182,
+      "gas:candidate-vibid:2862000591284": 79,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 135,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 44,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 8,
-      "Завальный Павел Николаевич": 20,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 2,
-      "Марков Евгений Владимирович": 9,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 0
+      "gas:candidate-vibid:2862000590606": 8,
+      "gas:candidate-vibid:2862000591935": 20,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 2,
+      "gas:candidate-vibid:2862000581356": 9,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 27,
-      "Завальный Павел Николаевич": 91,
-      "Ирдуганова Татьяна Александровна": 11,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 29,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 27,
+      "gas:candidate-vibid:2862000591935": 91,
+      "gas:candidate-vibid:2862000591284": 11,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 29,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 36,
-      "Ирдуганова Татьяна Александровна": 4,
-      "Ломакин Александр Николаевич": 2,
-      "Марков Евгений Владимирович": 21,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 5
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 36,
+      "gas:candidate-vibid:2862000591284": 4,
+      "gas:candidate-vibid:2862000631936": 2,
+      "gas:candidate-vibid:2862000581356": 21,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 51,
-      "Завальный Павел Николаевич": 174,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 80,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 42,
-      "Столяров Гарри Иванович": 10
+      "gas:candidate-vibid:2862000590606": 51,
+      "gas:candidate-vibid:2862000591935": 174,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 80,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 42,
+      "gas:candidate-vibid:2862000629135": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 90,
-      "Завальный Павел Николаевич": 421,
-      "Ирдуганова Татьяна Александровна": 113,
-      "Ломакин Александр Николаевич": 59,
-      "Марков Евгений Владимирович": 201,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 90,
+      "gas:candidate-vibid:2862000591935": 421,
+      "gas:candidate-vibid:2862000591284": 113,
+      "gas:candidate-vibid:2862000631936": 59,
+      "gas:candidate-vibid:2862000581356": 201,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 75,
-      "Завальный Павел Николаевич": 177,
-      "Ирдуганова Татьяна Александровна": 72,
-      "Ломакин Александр Николаевич": 27,
-      "Марков Евгений Владимирович": 109,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 75,
+      "gas:candidate-vibid:2862000591935": 177,
+      "gas:candidate-vibid:2862000591284": 72,
+      "gas:candidate-vibid:2862000631936": 27,
+      "gas:candidate-vibid:2862000581356": 109,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501577&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501577&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 611,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 45,
-      "Марков Евгений Владимирович": 145,
-      "Ровин Олег Юрьевич": 40,
-      "Савинцев Алексей Владимирович": 110,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 611,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 45,
+      "gas:candidate-vibid:2862000581356": 145,
+      "gas:candidate-vibid:2862000632859": 40,
+      "gas:candidate-vibid:2862000629163": 110,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 33,
-      "Завальный Павел Николаевич": 603,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 61,
-      "Марков Евгений Владимирович": 95,
-      "Ровин Олег Юрьевич": 39,
-      "Савинцев Алексей Владимирович": 95,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 33,
+      "gas:candidate-vibid:2862000591935": 603,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 61,
+      "gas:candidate-vibid:2862000581356": 95,
+      "gas:candidate-vibid:2862000632859": 39,
+      "gas:candidate-vibid:2862000629163": 95,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 590,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 60,
-      "Марков Евгений Владимирович": 125,
-      "Ровин Олег Юрьевич": 35,
-      "Савинцев Алексей Владимирович": 109,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 590,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 60,
+      "gas:candidate-vibid:2862000581356": 125,
+      "gas:candidate-vibid:2862000632859": 35,
+      "gas:candidate-vibid:2862000629163": 109,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 746,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 53,
-      "Марков Евгений Владимирович": 105,
-      "Ровин Олег Юрьевич": 31,
-      "Савинцев Алексей Владимирович": 106,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 746,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 53,
+      "gas:candidate-vibid:2862000581356": 105,
+      "gas:candidate-vibid:2862000632859": 31,
+      "gas:candidate-vibid:2862000629163": 106,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 51,
-      "Завальный Павел Николаевич": 628,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 53,
-      "Марков Евгений Владимирович": 117,
-      "Ровин Олег Юрьевич": 46,
-      "Савинцев Алексей Владимирович": 117,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 51,
+      "gas:candidate-vibid:2862000591935": 628,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 53,
+      "gas:candidate-vibid:2862000581356": 117,
+      "gas:candidate-vibid:2862000632859": 46,
+      "gas:candidate-vibid:2862000629163": 117,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 25,
-      "Завальный Павел Николаевич": 690,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 57,
-      "Марков Евгений Владимирович": 113,
-      "Ровин Олег Юрьевич": 27,
-      "Савинцев Алексей Владимирович": 110,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 25,
+      "gas:candidate-vibid:2862000591935": 690,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 57,
+      "gas:candidate-vibid:2862000581356": 113,
+      "gas:candidate-vibid:2862000632859": 27,
+      "gas:candidate-vibid:2862000629163": 110,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 36,
-      "Завальный Павел Николаевич": 793,
-      "Ирдуганова Татьяна Александровна": 39,
-      "Ломакин Александр Николаевич": 47,
-      "Марков Евгений Владимирович": 129,
-      "Ровин Олег Юрьевич": 37,
-      "Савинцев Алексей Владимирович": 111,
-      "Столяров Гарри Иванович": 31
+      "gas:candidate-vibid:2862000590606": 36,
+      "gas:candidate-vibid:2862000591935": 793,
+      "gas:candidate-vibid:2862000591284": 39,
+      "gas:candidate-vibid:2862000631936": 47,
+      "gas:candidate-vibid:2862000581356": 129,
+      "gas:candidate-vibid:2862000632859": 37,
+      "gas:candidate-vibid:2862000629163": 111,
+      "gas:candidate-vibid:2862000629135": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 29,
-      "Завальный Павел Николаевич": 587,
-      "Ирдуганова Татьяна Александровна": 27,
-      "Ломакин Александр Николаевич": 45,
-      "Марков Евгений Владимирович": 121,
-      "Ровин Олег Юрьевич": 36,
-      "Савинцев Алексей Владимирович": 74,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 29,
+      "gas:candidate-vibid:2862000591935": 587,
+      "gas:candidate-vibid:2862000591284": 27,
+      "gas:candidate-vibid:2862000631936": 45,
+      "gas:candidate-vibid:2862000581356": 121,
+      "gas:candidate-vibid:2862000632859": 36,
+      "gas:candidate-vibid:2862000629163": 74,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 40,
-      "Завальный Павел Николаевич": 527,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 45,
-      "Марков Евгений Владимирович": 128,
-      "Ровин Олег Юрьевич": 40,
-      "Савинцев Алексей Владимирович": 93,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 40,
+      "gas:candidate-vibid:2862000591935": 527,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 45,
+      "gas:candidate-vibid:2862000581356": 128,
+      "gas:candidate-vibid:2862000632859": 40,
+      "gas:candidate-vibid:2862000629163": 93,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 49,
-      "Завальный Павел Николаевич": 596,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 63,
-      "Марков Евгений Владимирович": 126,
-      "Ровин Олег Юрьевич": 30,
-      "Савинцев Алексей Владимирович": 98,
-      "Столяров Гарри Иванович": 33
+      "gas:candidate-vibid:2862000590606": 49,
+      "gas:candidate-vibid:2862000591935": 596,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 63,
+      "gas:candidate-vibid:2862000581356": 126,
+      "gas:candidate-vibid:2862000632859": 30,
+      "gas:candidate-vibid:2862000629163": 98,
+      "gas:candidate-vibid:2862000629135": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 256,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 43,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 35,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 256,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 43,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 35,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501578&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501578&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 84,
-      "Завальный Павел Николаевич": 387,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 170,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 68,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 84,
+      "gas:candidate-vibid:2862000591935": 387,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 170,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 68,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 67,
-      "Завальный Павел Николаевич": 267,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 144,
-      "Ровин Олег Юрьевич": 19,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 45
+      "gas:candidate-vibid:2862000590606": 67,
+      "gas:candidate-vibid:2862000591935": 267,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 144,
+      "gas:candidate-vibid:2862000632859": 19,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 71,
-      "Завальный Павел Николаевич": 286,
-      "Ирдуганова Татьяна Александровна": 53,
-      "Ломакин Александр Николаевич": 27,
-      "Марков Евгений Владимирович": 228,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 53,
-      "Столяров Гарри Иванович": 57
+      "gas:candidate-vibid:2862000590606": 71,
+      "gas:candidate-vibid:2862000591935": 286,
+      "gas:candidate-vibid:2862000591284": 53,
+      "gas:candidate-vibid:2862000631936": 27,
+      "gas:candidate-vibid:2862000581356": 228,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 53,
+      "gas:candidate-vibid:2862000629135": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 71,
-      "Завальный Павел Николаевич": 278,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 170,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 58,
-      "Столяров Гарри Иванович": 36
+      "gas:candidate-vibid:2862000590606": 71,
+      "gas:candidate-vibid:2862000591935": 278,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 170,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 58,
+      "gas:candidate-vibid:2862000629135": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 47,
-      "Завальный Павел Николаевич": 274,
-      "Ирдуганова Татьяна Александровна": 30,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 135,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 71,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 47,
+      "gas:candidate-vibid:2862000591935": 274,
+      "gas:candidate-vibid:2862000591284": 30,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 135,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 71,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 138,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 76,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 32,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 138,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 76,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 32,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 89,
-      "Завальный Павел Николаевич": 300,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 187,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 65,
-      "Столяров Гарри Иванович": 33
+      "gas:candidate-vibid:2862000590606": 89,
+      "gas:candidate-vibid:2862000591935": 300,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 187,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 65,
+      "gas:candidate-vibid:2862000629135": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 63,
-      "Завальный Павел Николаевич": 285,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 134,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 63,
+      "gas:candidate-vibid:2862000591935": 285,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 134,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 91,
-      "Завальный Павел Николаевич": 304,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 163,
-      "Ровин Олег Юрьевич": 25,
-      "Савинцев Алексей Владимирович": 87,
-      "Столяров Гарри Иванович": 36
+      "gas:candidate-vibid:2862000590606": 91,
+      "gas:candidate-vibid:2862000591935": 304,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 163,
+      "gas:candidate-vibid:2862000632859": 25,
+      "gas:candidate-vibid:2862000629163": 87,
+      "gas:candidate-vibid:2862000629135": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 106,
-      "Завальный Павел Николаевич": 451,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 43,
-      "Марков Евгений Владимирович": 259,
-      "Ровин Олег Юрьевич": 25,
-      "Савинцев Алексей Владимирович": 111,
-      "Столяров Гарри Иванович": 58
+      "gas:candidate-vibid:2862000590606": 106,
+      "gas:candidate-vibid:2862000591935": 451,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 43,
+      "gas:candidate-vibid:2862000581356": 259,
+      "gas:candidate-vibid:2862000632859": 25,
+      "gas:candidate-vibid:2862000629163": 111,
+      "gas:candidate-vibid:2862000629135": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 100,
-      "Завальный Павел Николаевич": 346,
-      "Ирдуганова Татьяна Александровна": 47,
-      "Ломакин Александр Николаевич": 36,
-      "Марков Евгений Владимирович": 211,
-      "Ровин Олег Юрьевич": 25,
-      "Савинцев Алексей Владимирович": 63,
-      "Столяров Гарри Иванович": 43
+      "gas:candidate-vibid:2862000590606": 100,
+      "gas:candidate-vibid:2862000591935": 346,
+      "gas:candidate-vibid:2862000591284": 47,
+      "gas:candidate-vibid:2862000631936": 36,
+      "gas:candidate-vibid:2862000581356": 211,
+      "gas:candidate-vibid:2862000632859": 25,
+      "gas:candidate-vibid:2862000629163": 63,
+      "gas:candidate-vibid:2862000629135": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 94,
-      "Завальный Павел Николаевич": 394,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 235,
-      "Ровин Олег Юрьевич": 23,
-      "Савинцев Алексей Владимирович": 75,
-      "Столяров Гарри Иванович": 67
+      "gas:candidate-vibid:2862000590606": 94,
+      "gas:candidate-vibid:2862000591935": 394,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 235,
+      "gas:candidate-vibid:2862000632859": 23,
+      "gas:candidate-vibid:2862000629163": 75,
+      "gas:candidate-vibid:2862000629135": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 85,
-      "Завальный Павел Николаевич": 388,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 213,
-      "Ровин Олег Юрьевич": 21,
-      "Савинцев Алексей Владимирович": 108,
-      "Столяров Гарри Иванович": 64
+      "gas:candidate-vibid:2862000590606": 85,
+      "gas:candidate-vibid:2862000591935": 388,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 213,
+      "gas:candidate-vibid:2862000632859": 21,
+      "gas:candidate-vibid:2862000629163": 108,
+      "gas:candidate-vibid:2862000629135": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 71,
-      "Завальный Павел Николаевич": 281,
-      "Ирдуганова Татьяна Александровна": 51,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 192,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 64,
-      "Столяров Гарри Иванович": 43
+      "gas:candidate-vibid:2862000590606": 71,
+      "gas:candidate-vibid:2862000591935": 281,
+      "gas:candidate-vibid:2862000591284": 51,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 192,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 64,
+      "gas:candidate-vibid:2862000629135": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 55,
-      "Завальный Павел Николаевич": 228,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 141,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 41,
-      "Столяров Гарри Иванович": 32
+      "gas:candidate-vibid:2862000590606": 55,
+      "gas:candidate-vibid:2862000591935": 228,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 141,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 41,
+      "gas:candidate-vibid:2862000629135": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 64,
-      "Завальный Павел Николаевич": 242,
-      "Ирдуганова Татьяна Александровна": 37,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 144,
-      "Ровин Олег Юрьевич": 30,
-      "Савинцев Алексей Владимирович": 61,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 64,
+      "gas:candidate-vibid:2862000591935": 242,
+      "gas:candidate-vibid:2862000591284": 37,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 144,
+      "gas:candidate-vibid:2862000632859": 30,
+      "gas:candidate-vibid:2862000629163": 61,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 69,
-      "Завальный Павел Николаевич": 220,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 127,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 69,
+      "gas:candidate-vibid:2862000591935": 220,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 127,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 80,
-      "Завальный Павел Николаевич": 444,
-      "Ирдуганова Татьяна Александровна": 40,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 205,
-      "Ровин Олег Юрьевич": 32,
-      "Савинцев Алексей Владимирович": 81,
-      "Столяров Гарри Иванович": 40
+      "gas:candidate-vibid:2862000590606": 80,
+      "gas:candidate-vibid:2862000591935": 444,
+      "gas:candidate-vibid:2862000591284": 40,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 205,
+      "gas:candidate-vibid:2862000632859": 32,
+      "gas:candidate-vibid:2862000629163": 81,
+      "gas:candidate-vibid:2862000629135": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 160,
-      "Ирдуганова Татьяна Александровна": 25,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 77,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 160,
+      "gas:candidate-vibid:2862000591284": 25,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 77,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 35,
-      "Завальный Павел Николаевич": 143,
-      "Ирдуганова Татьяна Александровна": 27,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 109,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 28,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 35,
+      "gas:candidate-vibid:2862000591935": 143,
+      "gas:candidate-vibid:2862000591284": 27,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 109,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 28,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 38,
-      "Завальный Павел Николаевич": 141,
-      "Ирдуганова Татьяна Александровна": 31,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 121,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 36,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 38,
+      "gas:candidate-vibid:2862000591935": 141,
+      "gas:candidate-vibid:2862000591284": 31,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 121,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 36,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 97,
-      "Завальный Павел Николаевич": 333,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 34,
-      "Марков Евгений Владимирович": 207,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 81,
-      "Столяров Гарри Иванович": 51
+      "gas:candidate-vibid:2862000590606": 97,
+      "gas:candidate-vibid:2862000591935": 333,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 34,
+      "gas:candidate-vibid:2862000581356": 207,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 81,
+      "gas:candidate-vibid:2862000629135": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 29,
-      "Завальный Павел Николаевич": 238,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 67,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 24,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 29,
+      "gas:candidate-vibid:2862000591935": 238,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 67,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 24,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 75,
-      "Завальный Павел Николаевич": 272,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 122,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 79,
-      "Столяров Гарри Иванович": 33
+      "gas:candidate-vibid:2862000590606": 75,
+      "gas:candidate-vibid:2862000591935": 272,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 122,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 79,
+      "gas:candidate-vibid:2862000629135": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 82,
-      "Завальный Павел Николаевич": 258,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 195,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 59,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 82,
+      "gas:candidate-vibid:2862000591935": 258,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 195,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 59,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 200,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 94,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 50,
-      "Столяров Гарри Иванович": 31
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 200,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 94,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 50,
+      "gas:candidate-vibid:2862000629135": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 198,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 86,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 28,
-      "Столяров Гарри Иванович": 29
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 198,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 86,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 28,
+      "gas:candidate-vibid:2862000629135": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501579&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501579&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 85,
-      "Ирдуганова Татьяна Александровна": 9,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 80,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 17,
-      "Столяров Гарри Иванович": 29
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 85,
+      "gas:candidate-vibid:2862000591284": 9,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 80,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 17,
+      "gas:candidate-vibid:2862000629135": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 281,
-      "Ирдуганова Татьяна Александровна": 36,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 122,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 41
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 281,
+      "gas:candidate-vibid:2862000591284": 36,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 122,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 342,
-      "Ирдуганова Татьяна Александровна": 54,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 166,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 57,
-      "Столяров Гарри Иванович": 56
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 342,
+      "gas:candidate-vibid:2862000591284": 54,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 166,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 57,
+      "gas:candidate-vibid:2862000629135": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 121,
-      "Ирдуганова Татьяна Александровна": 24,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 137,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 23,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 121,
+      "gas:candidate-vibid:2862000591284": 24,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 137,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 23,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 9,
-      "Завальный Павел Николаевич": 74,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 25,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 13,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 9,
+      "gas:candidate-vibid:2862000591935": 74,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 25,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 13,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 107,
-      "Ирдуганова Татьяна Александровна": 4,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 39,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 107,
+      "gas:candidate-vibid:2862000591284": 4,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 39,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 9,
-      "Завальный Павел Николаевич": 37,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 23,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 8,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 9,
+      "gas:candidate-vibid:2862000591935": 37,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 23,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 8,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 11,
-      "Завальный Павел Николаевич": 74,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 63,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 8,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 11,
+      "gas:candidate-vibid:2862000591935": 74,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 63,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 8,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 46,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 15,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 9,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 46,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 15,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 9,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 11,
-      "Завальный Павел Николаевич": 65,
-      "Ирдуганова Татьяна Александровна": 4,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 30,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 11,
+      "gas:candidate-vibid:2862000591935": 65,
+      "gas:candidate-vibid:2862000591284": 4,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 30,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 1,
-      "Завальный Павел Николаевич": 31,
-      "Ирдуганова Татьяна Александровна": 9,
-      "Ломакин Александр Николаевич": 0,
-      "Марков Евгений Владимирович": 11,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 2
+      "gas:candidate-vibid:2862000590606": 1,
+      "gas:candidate-vibid:2862000591935": 31,
+      "gas:candidate-vibid:2862000591284": 9,
+      "gas:candidate-vibid:2862000631936": 0,
+      "gas:candidate-vibid:2862000581356": 11,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 17,
-      "Ирдуганова Татьяна Александровна": 1,
-      "Ломакин Александр Николаевич": 2,
-      "Марков Евгений Владимирович": 5,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 1,
-      "Столяров Гарри Иванович": 1
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 17,
+      "gas:candidate-vibid:2862000591284": 1,
+      "gas:candidate-vibid:2862000631936": 2,
+      "gas:candidate-vibid:2862000581356": 5,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 1,
+      "gas:candidate-vibid:2862000629135": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 23,
-      "Завальный Павел Николаевич": 135,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 60,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 23,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 23,
+      "gas:candidate-vibid:2862000591935": 135,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 60,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 23,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 21,
-      "Завальный Павел Николаевич": 153,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 52,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 15,
-      "Столяров Гарри Иванович": 16
+      "gas:candidate-vibid:2862000590606": 21,
+      "gas:candidate-vibid:2862000591935": 153,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 52,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 15,
+      "gas:candidate-vibid:2862000629135": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 24,
-      "Ирдуганова Татьяна Александровна": 4,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 17,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 8,
-      "Столяров Гарри Иванович": 5
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 24,
+      "gas:candidate-vibid:2862000591284": 4,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 17,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 8,
+      "gas:candidate-vibid:2862000629135": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 20,
-      "Завальный Павел Николаевич": 121,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 52,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 13,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 20,
+      "gas:candidate-vibid:2862000591935": 121,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 52,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 13,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 26,
-      "Завальный Павел Николаевич": 89,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 71,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 14,
-      "Столяров Гарри Иванович": 32
+      "gas:candidate-vibid:2862000590606": 26,
+      "gas:candidate-vibid:2862000591935": 89,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 71,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 14,
+      "gas:candidate-vibid:2862000629135": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 5,
-      "Завальный Павел Николаевич": 42,
-      "Ирдуганова Татьяна Александровна": 3,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 29,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 12,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 5,
+      "gas:candidate-vibid:2862000591935": 42,
+      "gas:candidate-vibid:2862000591284": 3,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 29,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 12,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 15,
-      "Завальный Павел Николаевич": 34,
-      "Ирдуганова Татьяна Александровна": 8,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 11,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 15,
+      "gas:candidate-vibid:2862000591935": 34,
+      "gas:candidate-vibid:2862000591284": 8,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 11,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 63,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 34,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 63,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 34,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 26,
-      "Завальный Павел Николаевич": 127,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 52,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 15,
-      "Столяров Гарри Иванович": 38
+      "gas:candidate-vibid:2862000590606": 26,
+      "gas:candidate-vibid:2862000591935": 127,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 52,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 15,
+      "gas:candidate-vibid:2862000629135": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 55,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 2,
-      "Марков Евгений Владимирович": 12,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 4,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 55,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 2,
+      "gas:candidate-vibid:2862000581356": 12,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 4,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 2,
-      "Завальный Павел Николаевич": 39,
-      "Ирдуганова Татьяна Александровна": 1,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 27,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 2,
-      "Столяров Гарри Иванович": 2
+      "gas:candidate-vibid:2862000590606": 2,
+      "gas:candidate-vibid:2862000591935": 39,
+      "gas:candidate-vibid:2862000591284": 1,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 27,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 2,
+      "gas:candidate-vibid:2862000629135": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 65,
-      "Ирдуганова Татьяна Александровна": 12,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 22,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 65,
+      "gas:candidate-vibid:2862000591284": 12,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 22,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 11,
-      "Завальный Павел Николаевич": 84,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 67,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 11,
+      "gas:candidate-vibid:2862000591935": 84,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 67,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 3,
-      "Завальный Павел Николаевич": 58,
-      "Ирдуганова Татьяна Александровна": 3,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 13,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 2,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 3,
+      "gas:candidate-vibid:2862000591935": 58,
+      "gas:candidate-vibid:2862000591284": 3,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 13,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 2,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 102,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 27,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 31
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 102,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 27,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 4,
-      "Завальный Павел Николаевич": 60,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 57,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 9,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 4,
+      "gas:candidate-vibid:2862000591935": 60,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 57,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 9,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 87,
-      "Ирдуганова Татьяна Александровна": 13,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 36,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 87,
+      "gas:candidate-vibid:2862000591284": 13,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 36,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 68,
-      "Ирдуганова Татьяна Александровна": 12,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 35,
-      "Ровин Олег Юрьевич": 4,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 68,
+      "gas:candidate-vibid:2862000591284": 12,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 35,
+      "gas:candidate-vibid:2862000632859": 4,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501580&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501580&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 45,
-      "Завальный Павел Николаевич": 236,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 180,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 65,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 45,
+      "gas:candidate-vibid:2862000591935": 236,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 180,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 65,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 27,
-      "Завальный Павел Николаевич": 274,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 160,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 69,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 27,
+      "gas:candidate-vibid:2862000591935": 274,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 160,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 69,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 32,
-      "Завальный Павел Николаевич": 201,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 21,
-      "Марков Евгений Владимирович": 158,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 44,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 32,
+      "gas:candidate-vibid:2862000591935": 201,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 21,
+      "gas:candidate-vibid:2862000581356": 158,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 44,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 37,
-      "Завальный Павел Николаевич": 262,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 207,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 71,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 37,
+      "gas:candidate-vibid:2862000591935": 262,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 207,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 71,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 30,
-      "Завальный Павел Николаевич": 220,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 200,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 49,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 30,
+      "gas:candidate-vibid:2862000591935": 220,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 200,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 49,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 315,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 204,
-      "Ровин Олег Юрьевич": 20,
-      "Савинцев Алексей Владимирович": 76,
-      "Столяров Гарри Иванович": 32
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 315,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 204,
+      "gas:candidate-vibid:2862000632859": 20,
+      "gas:candidate-vibid:2862000629163": 76,
+      "gas:candidate-vibid:2862000629135": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 32,
-      "Завальный Павел Николаевич": 138,
-      "Ирдуганова Татьяна Александровна": 28,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 122,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 31,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 32,
+      "gas:candidate-vibid:2862000591935": 138,
+      "gas:candidate-vibid:2862000591284": 28,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 122,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 31,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 317,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 21,
-      "Марков Евгений Владимирович": 155,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 317,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 21,
+      "gas:candidate-vibid:2862000581356": 155,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 326,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 179,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 70,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 326,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 179,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 70,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 306,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 40,
-      "Марков Евгений Владимирович": 126,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 57,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 306,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 40,
+      "gas:candidate-vibid:2862000581356": 126,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 57,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 27,
-      "Завальный Павел Николаевич": 317,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 151,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 27,
+      "gas:candidate-vibid:2862000591935": 317,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 151,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 36,
-      "Завальный Павел Николаевич": 305,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 27,
-      "Марков Евгений Владимирович": 185,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 36,
+      "gas:candidate-vibid:2862000591935": 305,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 27,
+      "gas:candidate-vibid:2862000581356": 185,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 45,
-      "Завальный Павел Николаевич": 258,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 160,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 78,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 45,
+      "gas:candidate-vibid:2862000591935": 258,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 160,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 78,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 27,
-      "Завальный Павел Николаевич": 230,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 164,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 53,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 27,
+      "gas:candidate-vibid:2862000591935": 230,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 164,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 53,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 317,
-      "Ирдуганова Татьяна Александровна": 51,
-      "Ломакин Александр Николаевич": 36,
-      "Марков Евгений Владимирович": 174,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 96,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 317,
+      "gas:candidate-vibid:2862000591284": 51,
+      "gas:candidate-vibid:2862000631936": 36,
+      "gas:candidate-vibid:2862000581356": 174,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 96,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 24,
-      "Завальный Павел Николаевич": 198,
-      "Ирдуганова Татьяна Александровна": 39,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 137,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 65,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 24,
+      "gas:candidate-vibid:2862000591935": 198,
+      "gas:candidate-vibid:2862000591284": 39,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 137,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 65,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 48,
-      "Завальный Павел Николаевич": 275,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 187,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 68,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 48,
+      "gas:candidate-vibid:2862000591935": 275,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 187,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 68,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 229,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 145,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 75,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 229,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 145,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 75,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 28,
-      "Завальный Павел Николаевич": 260,
-      "Ирдуганова Татьяна Александровна": 51,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 153,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 70,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 28,
+      "gas:candidate-vibid:2862000591935": 260,
+      "gas:candidate-vibid:2862000591284": 51,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 153,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 70,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 37,
-      "Завальный Павел Николаевич": 283,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 139,
-      "Ровин Олег Юрьевич": 21,
-      "Савинцев Алексей Владимирович": 56,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 37,
+      "gas:candidate-vibid:2862000591935": 283,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 139,
+      "gas:candidate-vibid:2862000632859": 21,
+      "gas:candidate-vibid:2862000629163": 56,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501581&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501581&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 49,
-      "Завальный Павел Николаевич": 357,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 41,
-      "Марков Евгений Владимирович": 100,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 149,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 49,
+      "gas:candidate-vibid:2862000591935": 357,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 41,
+      "gas:candidate-vibid:2862000581356": 100,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 149,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 324,
-      "Ирдуганова Татьяна Александровна": 37,
-      "Ломакин Александр Николаевич": 28,
-      "Марков Евгений Владимирович": 98,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 83,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 324,
+      "gas:candidate-vibid:2862000591284": 37,
+      "gas:candidate-vibid:2862000631936": 28,
+      "gas:candidate-vibid:2862000581356": 98,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 83,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 36,
-      "Завальный Павел Николаевич": 470,
-      "Ирдуганова Татьяна Александровна": 56,
-      "Ломакин Александр Николаевич": 52,
-      "Марков Евгений Владимирович": 108,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 126,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 36,
+      "gas:candidate-vibid:2862000591935": 470,
+      "gas:candidate-vibid:2862000591284": 56,
+      "gas:candidate-vibid:2862000631936": 52,
+      "gas:candidate-vibid:2862000581356": 108,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 126,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 40,
-      "Завальный Павел Николаевич": 620,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 109,
-      "Марков Евгений Владимирович": 115,
-      "Ровин Олег Юрьевич": 28,
-      "Савинцев Алексей Владимирович": 209,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 40,
+      "gas:candidate-vibid:2862000591935": 620,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 109,
+      "gas:candidate-vibid:2862000581356": 115,
+      "gas:candidate-vibid:2862000632859": 28,
+      "gas:candidate-vibid:2862000629163": 209,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 20,
-      "Завальный Павел Николаевич": 502,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 61,
-      "Марков Евгений Владимирович": 93,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 174,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 20,
+      "gas:candidate-vibid:2862000591935": 502,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 61,
+      "gas:candidate-vibid:2862000581356": 93,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 174,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 23,
-      "Завальный Павел Николаевич": 453,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 66,
-      "Марков Евгений Владимирович": 95,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 169,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 23,
+      "gas:candidate-vibid:2862000591935": 453,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 66,
+      "gas:candidate-vibid:2862000581356": 95,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 169,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 443,
-      "Ирдуганова Татьяна Александровна": 56,
-      "Ломакин Александр Николаевич": 55,
-      "Марков Евгений Владимирович": 78,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 157,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 443,
+      "gas:candidate-vibid:2862000591284": 56,
+      "gas:candidate-vibid:2862000631936": 55,
+      "gas:candidate-vibid:2862000581356": 78,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 157,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 24,
-      "Завальный Павел Николаевич": 559,
-      "Ирдуганова Татьяна Александровна": 54,
-      "Ломакин Александр Николаевич": 77,
-      "Марков Евгений Владимирович": 91,
-      "Ровин Олег Юрьевич": 19,
-      "Савинцев Алексей Владимирович": 165,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 24,
+      "gas:candidate-vibid:2862000591935": 559,
+      "gas:candidate-vibid:2862000591284": 54,
+      "gas:candidate-vibid:2862000631936": 77,
+      "gas:candidate-vibid:2862000581356": 91,
+      "gas:candidate-vibid:2862000632859": 19,
+      "gas:candidate-vibid:2862000629163": 165,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 31,
-      "Завальный Павел Николаевич": 550,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 91,
-      "Марков Евгений Владимирович": 126,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 189,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 31,
+      "gas:candidate-vibid:2862000591935": 550,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 91,
+      "gas:candidate-vibid:2862000581356": 126,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 189,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 28,
-      "Завальный Павел Николаевич": 407,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 59,
-      "Марков Евгений Владимирович": 60,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 151,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 28,
+      "gas:candidate-vibid:2862000591935": 407,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 59,
+      "gas:candidate-vibid:2862000581356": 60,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 151,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 348,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 49,
-      "Марков Евгений Владимирович": 79,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 95,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 348,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 49,
+      "gas:candidate-vibid:2862000581356": 79,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 95,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 40,
-      "Завальный Павел Николаевич": 624,
-      "Ирдуганова Татьяна Александровна": 65,
-      "Ломакин Александр Николаевич": 66,
-      "Марков Евгений Владимирович": 110,
-      "Ровин Олег Юрьевич": 27,
-      "Савинцев Алексей Владимирович": 201,
-      "Столяров Гарри Иванович": 28
+      "gas:candidate-vibid:2862000590606": 40,
+      "gas:candidate-vibid:2862000591935": 624,
+      "gas:candidate-vibid:2862000591284": 65,
+      "gas:candidate-vibid:2862000631936": 66,
+      "gas:candidate-vibid:2862000581356": 110,
+      "gas:candidate-vibid:2862000632859": 27,
+      "gas:candidate-vibid:2862000629163": 201,
+      "gas:candidate-vibid:2862000629135": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 19,
-      "Завальный Павел Николаевич": 353,
-      "Ирдуганова Татьяна Александровна": 31,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 61,
-      "Ровин Олег Юрьевич": 27,
-      "Савинцев Алексей Владимирович": 74,
-      "Столяров Гарри Иванович": 7
+      "gas:candidate-vibid:2862000590606": 19,
+      "gas:candidate-vibid:2862000591935": 353,
+      "gas:candidate-vibid:2862000591284": 31,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 61,
+      "gas:candidate-vibid:2862000632859": 27,
+      "gas:candidate-vibid:2862000629163": 74,
+      "gas:candidate-vibid:2862000629135": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 416,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 97,
-      "Ровин Олег Юрьевич": 50,
-      "Савинцев Алексей Владимирович": 59,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 416,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 97,
+      "gas:candidate-vibid:2862000632859": 50,
+      "gas:candidate-vibid:2862000629163": 59,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 17,
-      "Завальный Павел Николаевич": 362,
-      "Ирдуганова Татьяна Александровна": 26,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 89,
-      "Ровин Олег Юрьевич": 46,
-      "Савинцев Алексей Владимирович": 49,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 17,
+      "gas:candidate-vibid:2862000591935": 362,
+      "gas:candidate-vibid:2862000591284": 26,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 89,
+      "gas:candidate-vibid:2862000632859": 46,
+      "gas:candidate-vibid:2862000629163": 49,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 456,
-      "Ирдуганова Татьяна Александровна": 60,
-      "Ломакин Александр Николаевич": 48,
-      "Марков Евгений Владимирович": 114,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 150,
-      "Столяров Гарри Иванович": 32
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 456,
+      "gas:candidate-vibid:2862000591284": 60,
+      "gas:candidate-vibid:2862000631936": 48,
+      "gas:candidate-vibid:2862000581356": 114,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 150,
+      "gas:candidate-vibid:2862000629135": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 142,
-      "Ирдуганова Татьяна Александровна": 20,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 58,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 142,
+      "gas:candidate-vibid:2862000591284": 20,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 58,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 565,
-      "Ирдуганова Татьяна Александровна": 58,
-      "Ломакин Александр Николаевич": 42,
-      "Марков Евгений Владимирович": 87,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 112,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 565,
+      "gas:candidate-vibid:2862000591284": 58,
+      "gas:candidate-vibid:2862000631936": 42,
+      "gas:candidate-vibid:2862000581356": 87,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 112,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 512,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 27,
-      "Марков Евгений Владимирович": 104,
-      "Ровин Олег Юрьевич": 19,
-      "Савинцев Алексей Владимирович": 106,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 512,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 27,
+      "gas:candidate-vibid:2862000581356": 104,
+      "gas:candidate-vibid:2862000632859": 19,
+      "gas:candidate-vibid:2862000629163": 106,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501582&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501582&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 215,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 141,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 52,
-      "Столяров Гарри Иванович": 99
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 215,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 141,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 52,
+      "gas:candidate-vibid:2862000629135": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 211,
-      "Ирдуганова Татьяна Александровна": 53,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 151,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 49,
-      "Столяров Гарри Иванович": 76
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 211,
+      "gas:candidate-vibid:2862000591284": 53,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 151,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 49,
+      "gas:candidate-vibid:2862000629135": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 319,
-      "Ирдуганова Татьяна Александровна": 73,
-      "Ломакин Александр Николаевич": 35,
-      "Марков Евгений Владимирович": 219,
-      "Ровин Олег Юрьевич": 26,
-      "Савинцев Алексей Владимирович": 65,
-      "Столяров Гарри Иванович": 98
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 319,
+      "gas:candidate-vibid:2862000591284": 73,
+      "gas:candidate-vibid:2862000631936": 35,
+      "gas:candidate-vibid:2862000581356": 219,
+      "gas:candidate-vibid:2862000632859": 26,
+      "gas:candidate-vibid:2862000629163": 65,
+      "gas:candidate-vibid:2862000629135": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 44,
-      "Завальный Павел Николаевич": 246,
-      "Ирдуганова Татьяна Александровна": 60,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 169,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 51,
-      "Столяров Гарри Иванович": 85
+      "gas:candidate-vibid:2862000590606": 44,
+      "gas:candidate-vibid:2862000591935": 246,
+      "gas:candidate-vibid:2862000591284": 60,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 169,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 51,
+      "gas:candidate-vibid:2862000629135": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 226,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 174,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 55,
-      "Столяров Гарри Иванович": 105
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 226,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 174,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 55,
+      "gas:candidate-vibid:2862000629135": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 28,
-      "Завальный Павел Николаевич": 143,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 90,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 38,
-      "Столяров Гарри Иванович": 62
+      "gas:candidate-vibid:2862000590606": 28,
+      "gas:candidate-vibid:2862000591935": 143,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 90,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 38,
+      "gas:candidate-vibid:2862000629135": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 248,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 202,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 86
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 248,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 202,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 68,
-      "Ирдуганова Татьяна Александровна": 10,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 88,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 8,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 68,
+      "gas:candidate-vibid:2862000591284": 10,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 88,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 8,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 232,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 161,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 72,
-      "Столяров Гарри Иванович": 109
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 232,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 161,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 72,
+      "gas:candidate-vibid:2862000629135": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 208,
-      "Ирдуганова Татьяна Александровна": 64,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 162,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 94
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 208,
+      "gas:candidate-vibid:2862000591284": 64,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 162,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 221,
-      "Ирдуганова Татьяна Александровна": 65,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 212,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 67,
-      "Столяров Гарри Иванович": 91
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 221,
+      "gas:candidate-vibid:2862000591284": 65,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 212,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 67,
+      "gas:candidate-vibid:2862000629135": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 312,
-      "Ирдуганова Татьяна Александровна": 64,
-      "Ломакин Александр Николаевич": 31,
-      "Марков Евгений Владимирович": 222,
-      "Ровин Олег Юрьевич": 23,
-      "Савинцев Алексей Владимирович": 73,
-      "Столяров Гарри Иванович": 132
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 312,
+      "gas:candidate-vibid:2862000591284": 64,
+      "gas:candidate-vibid:2862000631936": 31,
+      "gas:candidate-vibid:2862000581356": 222,
+      "gas:candidate-vibid:2862000632859": 23,
+      "gas:candidate-vibid:2862000629163": 73,
+      "gas:candidate-vibid:2862000629135": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 226,
-      "Ирдуганова Татьяна Александровна": 50,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 165,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 69,
-      "Столяров Гарри Иванович": 79
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 226,
+      "gas:candidate-vibid:2862000591284": 50,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 165,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 69,
+      "gas:candidate-vibid:2862000629135": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 36,
-      "Завальный Павел Николаевич": 261,
-      "Ирдуганова Татьяна Александровна": 74,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 185,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 46,
-      "Столяров Гарри Иванович": 112
+      "gas:candidate-vibid:2862000590606": 36,
+      "gas:candidate-vibid:2862000591935": 261,
+      "gas:candidate-vibid:2862000591284": 74,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 185,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 46,
+      "gas:candidate-vibid:2862000629135": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 88,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 71,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 25,
-      "Столяров Гарри Иванович": 42
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 88,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 71,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 25,
+      "gas:candidate-vibid:2862000629135": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 23,
-      "Завальный Павел Николаевич": 109,
-      "Ирдуганова Татьяна Александровна": 26,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 74,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 29,
-      "Столяров Гарри Иванович": 62
+      "gas:candidate-vibid:2862000590606": 23,
+      "gas:candidate-vibid:2862000591935": 109,
+      "gas:candidate-vibid:2862000591284": 26,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 74,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 29,
+      "gas:candidate-vibid:2862000629135": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501583&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501583&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 31,
-      "Завальный Павел Николаевич": 271,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 140,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 57,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 31,
+      "gas:candidate-vibid:2862000591935": 271,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 140,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 57,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 18,
-      "Завальный Павел Николаевич": 225,
-      "Ирдуганова Татьяна Александровна": 25,
-      "Ломакин Александр Николаевич": 23,
-      "Марков Евгений Владимирович": 142,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 18,
+      "gas:candidate-vibid:2862000591935": 225,
+      "gas:candidate-vibid:2862000591284": 25,
+      "gas:candidate-vibid:2862000631936": 23,
+      "gas:candidate-vibid:2862000581356": 142,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 2,
-      "Завальный Павел Николаевич": 94,
-      "Ирдуганова Татьяна Александровна": 2,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 10,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 10,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 2,
+      "gas:candidate-vibid:2862000591935": 94,
+      "gas:candidate-vibid:2862000591284": 2,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 10,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 10,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 36,
-      "Завальный Павел Николаевич": 386,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 144,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 57,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 36,
+      "gas:candidate-vibid:2862000591935": 386,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 144,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 57,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 34,
-      "Завальный Павел Николаевич": 321,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 160,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 80,
-      "Столяров Гарри Иванович": 11
+      "gas:candidate-vibid:2862000590606": 34,
+      "gas:candidate-vibid:2862000591935": 321,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 160,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 80,
+      "gas:candidate-vibid:2862000629135": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 457,
-      "Ирдуганова Татьяна Александровна": 53,
-      "Ломакин Александр Николаевич": 27,
-      "Марков Евгений Владимирович": 178,
-      "Ровин Олег Юрьевич": 16,
-      "Савинцев Алексей Владимирович": 91,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 457,
+      "gas:candidate-vibid:2862000591284": 53,
+      "gas:candidate-vibid:2862000631936": 27,
+      "gas:candidate-vibid:2862000581356": 178,
+      "gas:candidate-vibid:2862000632859": 16,
+      "gas:candidate-vibid:2862000629163": 91,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 47,
-      "Завальный Павел Николаевич": 434,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 196,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 114,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 47,
+      "gas:candidate-vibid:2862000591935": 434,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 196,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 114,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 172,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 120,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 172,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 120,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 14,
-      "Завальный Павел Николаевич": 447,
-      "Ирдуганова Татьяна Александровна": 24,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 53,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 27,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 14,
+      "gas:candidate-vibid:2862000591935": 447,
+      "gas:candidate-vibid:2862000591284": 24,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 53,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 27,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 9,
-      "Завальный Павел Николаевич": 226,
-      "Ирдуганова Татьяна Александровна": 16,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 68,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 23,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 9,
+      "gas:candidate-vibid:2862000591935": 226,
+      "gas:candidate-vibid:2862000591284": 16,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 68,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 23,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 20,
-      "Завальный Павел Николаевич": 432,
-      "Ирдуганова Татьяна Александровна": 31,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 119,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 44,
-      "Столяров Гарри Иванович": 23
+      "gas:candidate-vibid:2862000590606": 20,
+      "gas:candidate-vibid:2862000591935": 432,
+      "gas:candidate-vibid:2862000591284": 31,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 119,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 44,
+      "gas:candidate-vibid:2862000629135": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 10,
-      "Завальный Павел Николаевич": 104,
-      "Ирдуганова Татьяна Александровна": 11,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 25,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 9,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 10,
+      "gas:candidate-vibid:2862000591935": 104,
+      "gas:candidate-vibid:2862000591284": 11,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 25,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 9,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 2,
-      "Завальный Павел Николаевич": 117,
-      "Ирдуганова Татьяна Александровна": 9,
-      "Ломакин Александр Николаевич": 2,
-      "Марков Евгений Владимирович": 21,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 25,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 2,
+      "gas:candidate-vibid:2862000591935": 117,
+      "gas:candidate-vibid:2862000591284": 9,
+      "gas:candidate-vibid:2862000631936": 2,
+      "gas:candidate-vibid:2862000581356": 21,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 25,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 56,
-      "Завальный Павел Николаевич": 388,
-      "Ирдуганова Татьяна Александровна": 81,
-      "Ломакин Александр Николаевич": 32,
-      "Марков Евгений Владимирович": 284,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 108,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 56,
+      "gas:candidate-vibid:2862000591935": 388,
+      "gas:candidate-vibid:2862000591284": 81,
+      "gas:candidate-vibid:2862000631936": 32,
+      "gas:candidate-vibid:2862000581356": 284,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 108,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 20,
-      "Завальный Павел Николаевич": 391,
-      "Ирдуганова Татьяна Александровна": 18,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 42,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 9,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 20,
+      "gas:candidate-vibid:2862000591935": 391,
+      "gas:candidate-vibid:2862000591284": 18,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 42,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 9,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 2,
-      "Завальный Павел Николаевич": 51,
-      "Ирдуганова Татьяна Александровна": 1,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 11,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 3,
-      "Столяров Гарри Иванович": 0
+      "gas:candidate-vibid:2862000590606": 2,
+      "gas:candidate-vibid:2862000591935": 51,
+      "gas:candidate-vibid:2862000591284": 1,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 11,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 3,
+      "gas:candidate-vibid:2862000629135": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 8,
-      "Завальный Павел Николаевич": 86,
-      "Ирдуганова Татьяна Александровна": 9,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 38,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 12,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 8,
+      "gas:candidate-vibid:2862000591935": 86,
+      "gas:candidate-vibid:2862000591284": 9,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 38,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 12,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 6,
-      "Завальный Павел Николаевич": 60,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 31,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 6,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 6,
+      "gas:candidate-vibid:2862000591935": 60,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 31,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 6,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 8,
-      "Завальный Павел Николаевич": 27,
-      "Ирдуганова Татьяна Александровна": 5,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 9,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 8,
-      "Столяров Гарри Иванович": 5
+      "gas:candidate-vibid:2862000590606": 8,
+      "gas:candidate-vibid:2862000591935": 27,
+      "gas:candidate-vibid:2862000591284": 5,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 9,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 8,
+      "gas:candidate-vibid:2862000629135": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 11,
-      "Завальный Павел Николаевич": 50,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 27,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 24,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 11,
+      "gas:candidate-vibid:2862000591935": 50,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 27,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 24,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 98,
-      "Ирдуганова Татьяна Александровна": 20,
-      "Ломакин Александр Николаевич": 8,
-      "Марков Евгений Владимирович": 38,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 15,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 98,
+      "gas:candidate-vibid:2862000591284": 20,
+      "gas:candidate-vibid:2862000631936": 8,
+      "gas:candidate-vibid:2862000581356": 38,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 15,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 9,
-      "Завальный Павел Николаевич": 102,
-      "Ирдуганова Татьяна Александровна": 24,
-      "Ломакин Александр Николаевич": 4,
-      "Марков Евгений Владимирович": 14,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 10,
-      "Столяров Гарри Иванович": 0
+      "gas:candidate-vibid:2862000590606": 9,
+      "gas:candidate-vibid:2862000591935": 102,
+      "gas:candidate-vibid:2862000591284": 24,
+      "gas:candidate-vibid:2862000631936": 4,
+      "gas:candidate-vibid:2862000581356": 14,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 10,
+      "gas:candidate-vibid:2862000629135": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 7,
-      "Завальный Павел Николаевич": 120,
-      "Ирдуганова Татьяна Александровна": 8,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 15,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 5,
-      "Столяров Гарри Иванович": 1
+      "gas:candidate-vibid:2862000590606": 7,
+      "gas:candidate-vibid:2862000591935": 120,
+      "gas:candidate-vibid:2862000591284": 8,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 15,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 5,
+      "gas:candidate-vibid:2862000629135": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 21,
-      "Завальный Павел Николаевич": 292,
-      "Ирдуганова Татьяна Александровна": 30,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 135,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 28,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 21,
+      "gas:candidate-vibid:2862000591935": 292,
+      "gas:candidate-vibid:2862000591284": 30,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 135,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 28,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 46,
-      "Завальный Павел Николаевич": 647,
-      "Ирдуганова Татьяна Александровна": 39,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 224,
-      "Ровин Олег Юрьевич": 18,
-      "Савинцев Алексей Владимирович": 78,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 46,
+      "gas:candidate-vibid:2862000591935": 647,
+      "gas:candidate-vibid:2862000591284": 39,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 224,
+      "gas:candidate-vibid:2862000632859": 18,
+      "gas:candidate-vibid:2862000629163": 78,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501584&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501584&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 62,
-      "Завальный Павел Николаевич": 390,
-      "Ирдуганова Татьяна Александровна": 61,
-      "Ломакин Александр Николаевич": 42,
-      "Марков Евгений Владимирович": 341,
-      "Ровин Олег Юрьевич": 20,
-      "Савинцев Алексей Владимирович": 80,
-      "Столяров Гарри Иванович": 31
+      "gas:candidate-vibid:2862000590606": 62,
+      "gas:candidate-vibid:2862000591935": 390,
+      "gas:candidate-vibid:2862000591284": 61,
+      "gas:candidate-vibid:2862000631936": 42,
+      "gas:candidate-vibid:2862000581356": 341,
+      "gas:candidate-vibid:2862000632859": 20,
+      "gas:candidate-vibid:2862000629163": 80,
+      "gas:candidate-vibid:2862000629135": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 165,
-      "Ирдуганова Татьяна Александровна": 50,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 159,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 165,
+      "gas:candidate-vibid:2862000591284": 50,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 159,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 72,
-      "Завальный Павел Николаевич": 308,
-      "Ирдуганова Татьяна Александровна": 53,
-      "Ломакин Александр Николаевич": 30,
-      "Марков Евгений Владимирович": 287,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 81,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 72,
+      "gas:candidate-vibid:2862000591935": 308,
+      "gas:candidate-vibid:2862000591284": 53,
+      "gas:candidate-vibid:2862000631936": 30,
+      "gas:candidate-vibid:2862000581356": 287,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 81,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 8,
-      "Завальный Павел Николаевич": 29,
-      "Ирдуганова Татьяна Александровна": 10,
-      "Ломакин Александр Николаевич": 5,
-      "Марков Евгений Владимирович": 24,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 7,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 8,
+      "gas:candidate-vibid:2862000591935": 29,
+      "gas:candidate-vibid:2862000591284": 10,
+      "gas:candidate-vibid:2862000631936": 5,
+      "gas:candidate-vibid:2862000581356": 24,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 7,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 24,
-      "Завальный Павел Николаевич": 156,
-      "Ирдуганова Татьяна Александровна": 48,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 131,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 33,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 24,
+      "gas:candidate-vibid:2862000591935": 156,
+      "gas:candidate-vibid:2862000591284": 48,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 131,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 33,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 47,
-      "Завальный Павел Николаевич": 328,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 51,
-      "Марков Евгений Владимирович": 242,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 47,
+      "gas:candidate-vibid:2862000591935": 328,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 51,
+      "gas:candidate-vibid:2862000581356": 242,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 53,
-      "Завальный Павел Николаевич": 203,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 103,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 55,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 53,
+      "gas:candidate-vibid:2862000591935": 203,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 103,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 55,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 60,
-      "Завальный Павел Николаевич": 476,
-      "Ирдуганова Татьяна Александровна": 64,
-      "Ломакин Александр Николаевич": 40,
-      "Марков Евгений Владимирович": 235,
-      "Ровин Олег Юрьевич": 27,
-      "Савинцев Алексей Владимирович": 93,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 60,
+      "gas:candidate-vibid:2862000591935": 476,
+      "gas:candidate-vibid:2862000591284": 64,
+      "gas:candidate-vibid:2862000631936": 40,
+      "gas:candidate-vibid:2862000581356": 235,
+      "gas:candidate-vibid:2862000632859": 27,
+      "gas:candidate-vibid:2862000629163": 93,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 52,
-      "Завальный Павел Николаевич": 272,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 135,
-      "Ровин Олег Юрьевич": 12,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 52,
+      "gas:candidate-vibid:2862000591935": 272,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 135,
+      "gas:candidate-vibid:2862000632859": 12,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -11991,14 +11991,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 7,
-      "Завальный Павел Николаевич": 57,
-      "Ирдуганова Татьяна Александровна": 7,
-      "Ломакин Александр Николаевич": 3,
-      "Марков Евгений Владимирович": 55,
-      "Ровин Олег Юрьевич": 0,
-      "Савинцев Алексей Владимирович": 11,
-      "Столяров Гарри Иванович": 3
+      "gas:candidate-vibid:2862000590606": 7,
+      "gas:candidate-vibid:2862000591935": 57,
+      "gas:candidate-vibid:2862000591284": 7,
+      "gas:candidate-vibid:2862000631936": 3,
+      "gas:candidate-vibid:2862000581356": 55,
+      "gas:candidate-vibid:2862000632859": 0,
+      "gas:candidate-vibid:2862000629163": 11,
+      "gas:candidate-vibid:2862000629135": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12049,14 +12049,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 54,
-      "Завальный Павел Николаевич": 319,
-      "Ирдуганова Татьяна Александровна": 52,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 183,
-      "Ровин Олег Юрьевич": 15,
-      "Савинцев Алексей Владимирович": 63,
-      "Столяров Гарри Иванович": 21
+      "gas:candidate-vibid:2862000590606": 54,
+      "gas:candidate-vibid:2862000591935": 319,
+      "gas:candidate-vibid:2862000591284": 52,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 183,
+      "gas:candidate-vibid:2862000632859": 15,
+      "gas:candidate-vibid:2862000629163": 63,
+      "gas:candidate-vibid:2862000629135": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12107,14 +12107,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 56,
-      "Завальный Павел Николаевич": 260,
-      "Ирдуганова Татьяна Александровна": 59,
-      "Ломакин Александр Николаевич": 27,
-      "Марков Евгений Владимирович": 183,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 56,
+      "gas:candidate-vibid:2862000591935": 260,
+      "gas:candidate-vibid:2862000591284": 59,
+      "gas:candidate-vibid:2862000631936": 27,
+      "gas:candidate-vibid:2862000581356": 183,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12165,14 +12165,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 32,
-      "Завальный Павел Николаевич": 189,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 113,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 25,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 32,
+      "gas:candidate-vibid:2862000591935": 189,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 113,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 25,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12223,14 +12223,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 76,
-      "Завальный Павел Николаевич": 476,
-      "Ирдуганова Татьяна Александровна": 73,
-      "Ломакин Александр Николаевич": 56,
-      "Марков Евгений Владимирович": 370,
-      "Ровин Олег Юрьевич": 19,
-      "Савинцев Алексей Владимирович": 89,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 76,
+      "gas:candidate-vibid:2862000591935": 476,
+      "gas:candidate-vibid:2862000591284": 73,
+      "gas:candidate-vibid:2862000631936": 56,
+      "gas:candidate-vibid:2862000581356": 370,
+      "gas:candidate-vibid:2862000632859": 19,
+      "gas:candidate-vibid:2862000629163": 89,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12281,14 +12281,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 97,
-      "Завальный Павел Николаевич": 535,
-      "Ирдуганова Татьяна Александровна": 92,
-      "Ломакин Александр Николаевич": 47,
-      "Марков Евгений Владимирович": 272,
-      "Ровин Олег Юрьевич": 21,
-      "Савинцев Алексей Владимирович": 99,
-      "Столяров Гарри Иванович": 46
+      "gas:candidate-vibid:2862000590606": 97,
+      "gas:candidate-vibid:2862000591935": 535,
+      "gas:candidate-vibid:2862000591284": 92,
+      "gas:candidate-vibid:2862000631936": 47,
+      "gas:candidate-vibid:2862000581356": 272,
+      "gas:candidate-vibid:2862000632859": 21,
+      "gas:candidate-vibid:2862000629163": 99,
+      "gas:candidate-vibid:2862000629135": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12339,14 +12339,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 57,
-      "Завальный Павел Николаевич": 312,
-      "Ирдуганова Татьяна Александровна": 81,
-      "Ломакин Александр Николаевич": 31,
-      "Марков Евгений Владимирович": 191,
-      "Ровин Олег Юрьевич": 19,
-      "Савинцев Алексей Владимирович": 85,
-      "Столяров Гарри Иванович": 33
+      "gas:candidate-vibid:2862000590606": 57,
+      "gas:candidate-vibid:2862000591935": 312,
+      "gas:candidate-vibid:2862000591284": 81,
+      "gas:candidate-vibid:2862000631936": 31,
+      "gas:candidate-vibid:2862000581356": 191,
+      "gas:candidate-vibid:2862000632859": 19,
+      "gas:candidate-vibid:2862000629163": 85,
+      "gas:candidate-vibid:2862000629135": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12397,14 +12397,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 66,
-      "Завальный Павел Николаевич": 312,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 29,
-      "Марков Евгений Владимирович": 199,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 86,
-      "Столяров Гарри Иванович": 24
+      "gas:candidate-vibid:2862000590606": 66,
+      "gas:candidate-vibid:2862000591935": 312,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 29,
+      "gas:candidate-vibid:2862000581356": 199,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 86,
+      "gas:candidate-vibid:2862000629135": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12455,14 +12455,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 53,
-      "Завальный Павел Николаевич": 254,
-      "Ирдуганова Татьяна Александровна": 55,
-      "Ломакин Александр Николаевич": 32,
-      "Марков Евгений Владимирович": 137,
-      "Ровин Олег Юрьевич": 8,
-      "Савинцев Алексей Владимирович": 66,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 53,
+      "gas:candidate-vibid:2862000591935": 254,
+      "gas:candidate-vibid:2862000591284": 55,
+      "gas:candidate-vibid:2862000631936": 32,
+      "gas:candidate-vibid:2862000581356": 137,
+      "gas:candidate-vibid:2862000632859": 8,
+      "gas:candidate-vibid:2862000629163": 66,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12513,14 +12513,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 144,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 91,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 37,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 144,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 91,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 37,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12571,14 +12571,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 28,
-      "Завальный Павел Николаевич": 168,
-      "Ирдуганова Татьяна Александровна": 40,
-      "Ломакин Александр Николаевич": 25,
-      "Марков Евгений Владимирович": 127,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 28,
+      "gas:candidate-vibid:2862000591935": 168,
+      "gas:candidate-vibid:2862000591284": 40,
+      "gas:candidate-vibid:2862000631936": 25,
+      "gas:candidate-vibid:2862000581356": 127,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12629,14 +12629,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 28,
-      "Завальный Павел Николаевич": 161,
-      "Ирдуганова Татьяна Александровна": 46,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 148,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 12
+      "gas:candidate-vibid:2862000590606": 28,
+      "gas:candidate-vibid:2862000591935": 161,
+      "gas:candidate-vibid:2862000591284": 46,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 148,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12687,14 +12687,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 42,
-      "Завальный Павел Николаевич": 238,
-      "Ирдуганова Татьяна Александровна": 51,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 202,
-      "Ровин Олег Юрьевич": 20,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 42,
+      "gas:candidate-vibid:2862000591935": 238,
+      "gas:candidate-vibid:2862000591284": 51,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 202,
+      "gas:candidate-vibid:2862000632859": 20,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12745,14 +12745,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 83,
-      "Завальный Павел Николаевич": 380,
-      "Ирдуганова Татьяна Александровна": 78,
-      "Ломакин Александр Николаевич": 37,
-      "Марков Евгений Владимирович": 196,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 82,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 83,
+      "gas:candidate-vibid:2862000591935": 380,
+      "gas:candidate-vibid:2862000591284": 78,
+      "gas:candidate-vibid:2862000631936": 37,
+      "gas:candidate-vibid:2862000581356": 196,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 82,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12803,14 +12803,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 198,
-      "Ирдуганова Татьяна Александровна": 61,
-      "Ломакин Александр Николаевич": 22,
-      "Марков Евгений Владимирович": 202,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 36,
-      "Столяров Гарри Иванович": 15
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 198,
+      "gas:candidate-vibid:2862000591284": 61,
+      "gas:candidate-vibid:2862000631936": 22,
+      "gas:candidate-vibid:2862000581356": 202,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 36,
+      "gas:candidate-vibid:2862000629135": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12861,14 +12861,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 199,
-      "Ирдуганова Татьяна Александровна": 50,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 136,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 35,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 199,
+      "gas:candidate-vibid:2862000591284": 50,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 136,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 35,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12919,14 +12919,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 105,
-      "Завальный Павел Николаевич": 377,
-      "Ирдуганова Татьяна Александровна": 88,
-      "Ломакин Александр Николаевич": 51,
-      "Марков Евгений Владимирович": 322,
-      "Ровин Олег Юрьевич": 30,
-      "Савинцев Алексей Владимирович": 85,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 105,
+      "gas:candidate-vibid:2862000591935": 377,
+      "gas:candidate-vibid:2862000591284": 88,
+      "gas:candidate-vibid:2862000631936": 51,
+      "gas:candidate-vibid:2862000581356": 322,
+      "gas:candidate-vibid:2862000632859": 30,
+      "gas:candidate-vibid:2862000629163": 85,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -12977,14 +12977,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 93,
-      "Ирдуганова Татьяна Александровна": 19,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 63,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 14,
-      "Столяров Гарри Иванович": 4
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 93,
+      "gas:candidate-vibid:2862000591284": 19,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 63,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 14,
+      "gas:candidate-vibid:2862000629135": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501585&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501585&type=464",
@@ -13035,14 +13035,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 11,
-      "Завальный Павел Николаевич": 73,
-      "Ирдуганова Татьяна Александровна": 15,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 47,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 18,
-      "Столяров Гарри Иванович": 8
+      "gas:candidate-vibid:2862000590606": 11,
+      "gas:candidate-vibid:2862000591935": 73,
+      "gas:candidate-vibid:2862000591284": 15,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 47,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 18,
+      "gas:candidate-vibid:2862000629135": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13093,14 +13093,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 39,
-      "Завальный Павел Николаевич": 166,
-      "Ирдуганова Татьяна Александровна": 40,
-      "Ломакин Александр Николаевич": 26,
-      "Марков Евгений Владимирович": 80,
-      "Ровин Олег Юрьевич": 22,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 35
+      "gas:candidate-vibid:2862000590606": 39,
+      "gas:candidate-vibid:2862000591935": 166,
+      "gas:candidate-vibid:2862000591284": 40,
+      "gas:candidate-vibid:2862000631936": 26,
+      "gas:candidate-vibid:2862000581356": 80,
+      "gas:candidate-vibid:2862000632859": 22,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13151,14 +13151,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 24,
-      "Завальный Павел Николаевич": 141,
-      "Ирдуганова Татьяна Александровна": 36,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 82,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 38,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 24,
+      "gas:candidate-vibid:2862000591935": 141,
+      "gas:candidate-vibid:2862000591284": 36,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 82,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 38,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13209,14 +13209,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 26,
-      "Завальный Павел Николаевич": 125,
-      "Ирдуганова Татьяна Александровна": 26,
-      "Ломакин Александр Николаевич": 7,
-      "Марков Евгений Владимирович": 62,
-      "Ровин Олег Юрьевич": 13,
-      "Савинцев Алексей Владимирович": 30,
-      "Столяров Гарри Иванович": 18
+      "gas:candidate-vibid:2862000590606": 26,
+      "gas:candidate-vibid:2862000591935": 125,
+      "gas:candidate-vibid:2862000591284": 26,
+      "gas:candidate-vibid:2862000631936": 7,
+      "gas:candidate-vibid:2862000581356": 62,
+      "gas:candidate-vibid:2862000632859": 13,
+      "gas:candidate-vibid:2862000629163": 30,
+      "gas:candidate-vibid:2862000629135": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13267,14 +13267,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 22,
-      "Завальный Павел Николаевич": 163,
-      "Ирдуганова Татьяна Александровна": 28,
-      "Ломакин Александр Николаевич": 12,
-      "Марков Евгений Владимирович": 77,
-      "Ровин Олег Юрьевич": 1,
-      "Савинцев Алексей Владимирович": 32,
-      "Столяров Гарри Иванович": 19
+      "gas:candidate-vibid:2862000590606": 22,
+      "gas:candidate-vibid:2862000591935": 163,
+      "gas:candidate-vibid:2862000591284": 28,
+      "gas:candidate-vibid:2862000631936": 12,
+      "gas:candidate-vibid:2862000581356": 77,
+      "gas:candidate-vibid:2862000632859": 1,
+      "gas:candidate-vibid:2862000629163": 32,
+      "gas:candidate-vibid:2862000629135": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13325,14 +13325,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 40,
-      "Завальный Павел Николаевич": 214,
-      "Ирдуганова Татьяна Александровна": 41,
-      "Ломакин Александр Николаевич": 24,
-      "Марков Евгений Владимирович": 106,
-      "Ровин Олег Юрьевич": 14,
-      "Савинцев Алексей Владимирович": 55,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 40,
+      "gas:candidate-vibid:2862000591935": 214,
+      "gas:candidate-vibid:2862000591284": 41,
+      "gas:candidate-vibid:2862000631936": 24,
+      "gas:candidate-vibid:2862000581356": 106,
+      "gas:candidate-vibid:2862000632859": 14,
+      "gas:candidate-vibid:2862000629163": 55,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13383,14 +13383,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 49,
-      "Завальный Павел Николаевич": 225,
-      "Ирдуганова Татьяна Александровна": 43,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 83,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 48,
-      "Столяров Гарри Иванович": 39
+      "gas:candidate-vibid:2862000590606": 49,
+      "gas:candidate-vibid:2862000591935": 225,
+      "gas:candidate-vibid:2862000591284": 43,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 83,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 48,
+      "gas:candidate-vibid:2862000629135": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13441,14 +13441,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 55,
-      "Завальный Павел Николаевич": 201,
-      "Ирдуганова Татьяна Александровна": 33,
-      "Ломакин Александр Николаевич": 14,
-      "Марков Евгений Владимирович": 101,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 55,
+      "gas:candidate-vibid:2862000591935": 201,
+      "gas:candidate-vibid:2862000591284": 33,
+      "gas:candidate-vibid:2862000631936": 14,
+      "gas:candidate-vibid:2862000581356": 101,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13499,14 +13499,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 197,
-      "Ирдуганова Татьяна Александровна": 38,
-      "Ломакин Александр Николаевич": 20,
-      "Марков Евгений Владимирович": 85,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 43,
-      "Столяров Гарри Иванович": 29
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 197,
+      "gas:candidate-vibid:2862000591284": 38,
+      "gas:candidate-vibid:2862000631936": 20,
+      "gas:candidate-vibid:2862000581356": 85,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 43,
+      "gas:candidate-vibid:2862000629135": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13557,14 +13557,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 30,
-      "Завальный Павел Николаевич": 192,
-      "Ирдуганова Татьяна Александровна": 37,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 97,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 33,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 30,
+      "gas:candidate-vibid:2862000591935": 192,
+      "gas:candidate-vibid:2862000591284": 37,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 97,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 33,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13615,14 +13615,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 35,
-      "Завальный Павел Николаевич": 169,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 98,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 32,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 35,
+      "gas:candidate-vibid:2862000591935": 169,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 98,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 32,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13673,14 +13673,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 29,
-      "Завальный Павел Николаевич": 202,
-      "Ирдуганова Татьяна Александровна": 28,
-      "Ломакин Александр Николаевич": 9,
-      "Марков Евгений Владимирович": 89,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 34,
-      "Столяров Гарри Иванович": 29
+      "gas:candidate-vibid:2862000590606": 29,
+      "gas:candidate-vibid:2862000591935": 202,
+      "gas:candidate-vibid:2862000591284": 28,
+      "gas:candidate-vibid:2862000631936": 9,
+      "gas:candidate-vibid:2862000581356": 89,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 34,
+      "gas:candidate-vibid:2862000629135": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13731,14 +13731,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 43,
-      "Завальный Павел Николаевич": 222,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 101,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 47,
-      "Столяров Гарри Иванович": 48
+      "gas:candidate-vibid:2862000590606": 43,
+      "gas:candidate-vibid:2862000591935": 222,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 101,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 47,
+      "gas:candidate-vibid:2862000629135": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13789,14 +13789,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 54,
-      "Завальный Павел Николаевич": 175,
-      "Ирдуганова Татьяна Александровна": 34,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 80,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 53,
-      "Столяров Гарри Иванович": 20
+      "gas:candidate-vibid:2862000590606": 54,
+      "gas:candidate-vibid:2862000591935": 175,
+      "gas:candidate-vibid:2862000591284": 34,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 80,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 53,
+      "gas:candidate-vibid:2862000629135": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13847,14 +13847,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 32,
-      "Завальный Павел Николаевич": 160,
-      "Ирдуганова Татьяна Александровна": 30,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 89,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 32,
-      "Столяров Гарри Иванович": 22
+      "gas:candidate-vibid:2862000590606": 32,
+      "gas:candidate-vibid:2862000591935": 160,
+      "gas:candidate-vibid:2862000591284": 30,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 89,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 32,
+      "gas:candidate-vibid:2862000629135": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13905,14 +13905,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 221,
-      "Ирдуганова Татьяна Александровна": 49,
-      "Ломакин Александр Николаевич": 13,
-      "Марков Евгений Владимирович": 127,
-      "Ровин Олег Юрьевич": 5,
-      "Савинцев Алексей Владимирович": 58,
-      "Столяров Гарри Иванович": 47
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 221,
+      "gas:candidate-vibid:2862000591284": 49,
+      "gas:candidate-vibid:2862000631936": 13,
+      "gas:candidate-vibid:2862000581356": 127,
+      "gas:candidate-vibid:2862000632859": 5,
+      "gas:candidate-vibid:2862000629163": 58,
+      "gas:candidate-vibid:2862000629135": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -13963,14 +13963,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 186,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 94,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 45,
-      "Столяров Гарри Иванович": 17
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 186,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 94,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 45,
+      "gas:candidate-vibid:2862000629135": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14021,14 +14021,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 58,
-      "Завальный Павел Николаевич": 196,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 96,
-      "Ровин Олег Юрьевич": 11,
-      "Савинцев Алексей Владимирович": 31,
-      "Столяров Гарри Иванович": 26
+      "gas:candidate-vibid:2862000590606": 58,
+      "gas:candidate-vibid:2862000591935": 196,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 96,
+      "gas:candidate-vibid:2862000632859": 11,
+      "gas:candidate-vibid:2862000629163": 31,
+      "gas:candidate-vibid:2862000629135": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14079,14 +14079,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 59,
-      "Завальный Павел Николаевич": 222,
-      "Ирдуганова Татьяна Александровна": 56,
-      "Ломакин Александр Николаевич": 19,
-      "Марков Евгений Владимирович": 99,
-      "Ровин Олег Юрьевич": 17,
-      "Савинцев Алексей Владимирович": 71,
-      "Столяров Гарри Иванович": 34
+      "gas:candidate-vibid:2862000590606": 59,
+      "gas:candidate-vibid:2862000591935": 222,
+      "gas:candidate-vibid:2862000591284": 56,
+      "gas:candidate-vibid:2862000631936": 19,
+      "gas:candidate-vibid:2862000581356": 99,
+      "gas:candidate-vibid:2862000632859": 17,
+      "gas:candidate-vibid:2862000629163": 71,
+      "gas:candidate-vibid:2862000629135": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14137,14 +14137,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 50,
-      "Завальный Павел Николаевич": 211,
-      "Ирдуганова Татьяна Александровна": 45,
-      "Ломакин Александр Николаевич": 16,
-      "Марков Евгений Владимирович": 87,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 42,
-      "Столяров Гарри Иванович": 25
+      "gas:candidate-vibid:2862000590606": 50,
+      "gas:candidate-vibid:2862000591935": 211,
+      "gas:candidate-vibid:2862000591284": 45,
+      "gas:candidate-vibid:2862000631936": 16,
+      "gas:candidate-vibid:2862000581356": 87,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 42,
+      "gas:candidate-vibid:2862000629135": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14195,14 +14195,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 48,
-      "Завальный Павел Николаевич": 224,
-      "Ирдуганова Татьяна Александровна": 44,
-      "Ломакин Александр Николаевич": 15,
-      "Марков Евгений Владимирович": 107,
-      "Ровин Олег Юрьевич": 9,
-      "Савинцев Алексей Владимирович": 54,
-      "Столяров Гарри Иванович": 30
+      "gas:candidate-vibid:2862000590606": 48,
+      "gas:candidate-vibid:2862000591935": 224,
+      "gas:candidate-vibid:2862000591284": 44,
+      "gas:candidate-vibid:2862000631936": 15,
+      "gas:candidate-vibid:2862000581356": 107,
+      "gas:candidate-vibid:2862000632859": 9,
+      "gas:candidate-vibid:2862000629163": 54,
+      "gas:candidate-vibid:2862000629135": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14253,14 +14253,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 41,
-      "Завальный Павел Николаевич": 182,
-      "Ирдуганова Татьяна Александровна": 29,
-      "Ломакин Александр Николаевич": 17,
-      "Марков Евгений Владимирович": 94,
-      "Ровин Олег Юрьевич": 7,
-      "Савинцев Алексей Владимирович": 41,
-      "Столяров Гарри Иванович": 27
+      "gas:candidate-vibid:2862000590606": 41,
+      "gas:candidate-vibid:2862000591935": 182,
+      "gas:candidate-vibid:2862000591284": 29,
+      "gas:candidate-vibid:2862000631936": 17,
+      "gas:candidate-vibid:2862000581356": 94,
+      "gas:candidate-vibid:2862000632859": 7,
+      "gas:candidate-vibid:2862000629163": 41,
+      "gas:candidate-vibid:2862000629135": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14311,14 +14311,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 44,
-      "Завальный Павел Николаевич": 217,
-      "Ирдуганова Татьяна Александровна": 57,
-      "Ломакин Александр Николаевич": 18,
-      "Марков Евгений Владимирович": 101,
-      "Ровин Олег Юрьевич": 6,
-      "Савинцев Алексей Владимирович": 58,
-      "Столяров Гарри Иванович": 33
+      "gas:candidate-vibid:2862000590606": 44,
+      "gas:candidate-vibid:2862000591935": 217,
+      "gas:candidate-vibid:2862000591284": 57,
+      "gas:candidate-vibid:2862000631936": 18,
+      "gas:candidate-vibid:2862000581356": 101,
+      "gas:candidate-vibid:2862000632859": 6,
+      "gas:candidate-vibid:2862000629163": 58,
+      "gas:candidate-vibid:2862000629135": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14369,14 +14369,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 25,
-      "Завальный Павел Николаевич": 129,
-      "Ирдуганова Татьяна Александровна": 32,
-      "Ломакин Александр Николаевич": 11,
-      "Марков Евгений Владимирович": 70,
-      "Ровин Олег Юрьевич": 10,
-      "Савинцев Алексей Владимирович": 38,
-      "Столяров Гарри Иванович": 14
+      "gas:candidate-vibid:2862000590606": 25,
+      "gas:candidate-vibid:2862000591935": 129,
+      "gas:candidate-vibid:2862000591284": 32,
+      "gas:candidate-vibid:2862000631936": 11,
+      "gas:candidate-vibid:2862000581356": 70,
+      "gas:candidate-vibid:2862000632859": 10,
+      "gas:candidate-vibid:2862000629163": 38,
+      "gas:candidate-vibid:2862000629135": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14427,14 +14427,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 13,
-      "Завальный Павел Николаевич": 86,
-      "Ирдуганова Татьяна Александровна": 17,
-      "Ломакин Александр Николаевич": 6,
-      "Марков Евгений Владимирович": 35,
-      "Ровин Олег Юрьевич": 3,
-      "Савинцев Алексей Владимирович": 13,
-      "Столяров Гарри Иванович": 9
+      "gas:candidate-vibid:2862000590606": 13,
+      "gas:candidate-vibid:2862000591935": 86,
+      "gas:candidate-vibid:2862000591284": 17,
+      "gas:candidate-vibid:2862000631936": 6,
+      "gas:candidate-vibid:2862000581356": 35,
+      "gas:candidate-vibid:2862000632859": 3,
+      "gas:candidate-vibid:2862000629163": 13,
+      "gas:candidate-vibid:2862000629135": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",
@@ -14485,14 +14485,14 @@ export const duma_2016_uik_463_region_86_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вац Анатолий Степанович": 12,
-      "Завальный Павел Николаевич": 101,
-      "Ирдуганова Татьяна Александровна": 21,
-      "Ломакин Александр Николаевич": 10,
-      "Марков Евгений Владимирович": 49,
-      "Ровин Олег Юрьевич": 2,
-      "Савинцев Алексей Владимирович": 20,
-      "Столяров Гарри Иванович": 13
+      "gas:candidate-vibid:2862000590606": 12,
+      "gas:candidate-vibid:2862000591935": 101,
+      "gas:candidate-vibid:2862000591284": 21,
+      "gas:candidate-vibid:2862000631936": 10,
+      "gas:candidate-vibid:2862000581356": 49,
+      "gas:candidate-vibid:2862000632859": 2,
+      "gas:candidate-vibid:2862000629163": 20,
+      "gas:candidate-vibid:2862000629135": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/hmao?action=show&root=1000289&tvd=2862000501586&vrn=100100067795849&region=86&global=&sub_region=86&prver=0&pronetvd=null&vibid=2862000501586&type=464",

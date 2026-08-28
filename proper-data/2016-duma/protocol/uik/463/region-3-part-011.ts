@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 242,
-      "Старов Вадим Николаевич": 207,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 101
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 242,
+      "gas:candidate-vibid:4024049188404": 207,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 210,
-      "Старов Вадим Николаевич": 191,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 101
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 210,
+      "gas:candidate-vibid:4024049188404": 191,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 80,
-      "Бирюзов Юрий Леонидович": 62,
-      "Губайдуллин Азамат Мунирович": 12,
-      "Изотов Алексей Николаевич": 436,
-      "Старов Вадим Николаевич": 209,
-      "Усманов Нурислам Карамович": 10,
-      "Шагапова Руфина Аликовна": 157
+      "gas:candidate-vibid:4024049180450": 80,
+      "gas:candidate-vibid:4024049180714": 62,
+      "gas:candidate-vibid:4024049188832": 12,
+      "gas:candidate-vibid:4024049188792": 436,
+      "gas:candidate-vibid:4024049188404": 209,
+      "gas:candidate-vibid:4024049188889": 10,
+      "gas:candidate-vibid:4024049188567": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 3,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 340,
-      "Старов Вадим Николаевич": 421,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 101
+      "gas:candidate-vibid:4024049180450": 3,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 340,
+      "gas:candidate-vibid:4024049188404": 421,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 25,
-      "Изотов Алексей Николаевич": 328,
-      "Старов Вадим Николаевич": 314,
-      "Усманов Нурислам Карамович": 17,
-      "Шагапова Руфина Аликовна": 129
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 25,
+      "gas:candidate-vibid:4024049188792": 328,
+      "gas:candidate-vibid:4024049188404": 314,
+      "gas:candidate-vibid:4024049188889": 17,
+      "gas:candidate-vibid:4024049188567": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 18,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 242,
-      "Старов Вадим Николаевич": 140,
-      "Усманов Нурислам Карамович": 13,
-      "Шагапова Руфина Аликовна": 15
+      "gas:candidate-vibid:4024049180450": 18,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 242,
+      "gas:candidate-vibid:4024049188404": 140,
+      "gas:candidate-vibid:4024049188889": 13,
+      "gas:candidate-vibid:4024049188567": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 41,
-      "Бирюзов Юрий Леонидович": 38,
-      "Губайдуллин Азамат Мунирович": 15,
-      "Изотов Алексей Николаевич": 427,
-      "Старов Вадим Николаевич": 330,
-      "Усманов Нурислам Карамович": 18,
-      "Шагапова Руфина Аликовна": 101
+      "gas:candidate-vibid:4024049180450": 41,
+      "gas:candidate-vibid:4024049180714": 38,
+      "gas:candidate-vibid:4024049188832": 15,
+      "gas:candidate-vibid:4024049188792": 427,
+      "gas:candidate-vibid:4024049188404": 330,
+      "gas:candidate-vibid:4024049188889": 18,
+      "gas:candidate-vibid:4024049188567": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684977&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684977&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 115,
-      "Старов Вадим Николаевич": 108,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 57
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 115,
+      "gas:candidate-vibid:4024049188404": 108,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 1,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 55,
-      "Старов Вадим Николаевич": 54,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 34
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 1,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 55,
+      "gas:candidate-vibid:4024049188404": 54,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 156,
-      "Старов Вадим Николаевич": 146,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 75
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 156,
+      "gas:candidate-vibid:4024049188404": 146,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 6,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 49,
-      "Старов Вадим Николаевич": 29,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 21
+      "gas:candidate-vibid:4024049180450": 6,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 49,
+      "gas:candidate-vibid:4024049188404": 29,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 166,
-      "Старов Вадим Николаевич": 129,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 87
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 166,
+      "gas:candidate-vibid:4024049188404": 129,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 16,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 99,
-      "Старов Вадим Николаевич": 67,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 54
+      "gas:candidate-vibid:4024049180450": 16,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 99,
+      "gas:candidate-vibid:4024049188404": 67,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 16,
-      "Бирюзов Юрий Леонидович": 15,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 219,
-      "Старов Вадим Николаевич": 163,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 151
+      "gas:candidate-vibid:4024049180450": 16,
+      "gas:candidate-vibid:4024049180714": 15,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 219,
+      "gas:candidate-vibid:4024049188404": 163,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 25,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 25,
-      "Изотов Алексей Николаевич": 241,
-      "Старов Вадим Николаевич": 187,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 142
+      "gas:candidate-vibid:4024049180450": 25,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 25,
+      "gas:candidate-vibid:4024049188792": 241,
+      "gas:candidate-vibid:4024049188404": 187,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 45,
-      "Бирюзов Юрий Леонидович": 20,
-      "Губайдуллин Азамат Мунирович": 72,
-      "Изотов Алексей Николаевич": 503,
-      "Старов Вадим Николаевич": 344,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 272
+      "gas:candidate-vibid:4024049180450": 45,
+      "gas:candidate-vibid:4024049180714": 20,
+      "gas:candidate-vibid:4024049188832": 72,
+      "gas:candidate-vibid:4024049188792": 503,
+      "gas:candidate-vibid:4024049188404": 344,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 9,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 41,
-      "Старов Вадим Николаевич": 25,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 26
+      "gas:candidate-vibid:4024049180450": 9,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 41,
+      "gas:candidate-vibid:4024049188404": 25,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 57,
-      "Старов Вадим Николаевич": 35,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 33
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 57,
+      "gas:candidate-vibid:4024049188404": 35,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 57,
-      "Старов Вадим Николаевич": 43,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 41
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 57,
+      "gas:candidate-vibid:4024049188404": 43,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 75,
-      "Старов Вадим Николаевич": 64,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 41
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 75,
+      "gas:candidate-vibid:4024049188404": 64,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 15,
-      "Бирюзов Юрий Леонидович": 15,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 109,
-      "Старов Вадим Николаевич": 82,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 48
+      "gas:candidate-vibid:4024049180450": 15,
+      "gas:candidate-vibid:4024049180714": 15,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 109,
+      "gas:candidate-vibid:4024049188404": 82,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 1,
-      "Бирюзов Юрий Леонидович": 17,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 86,
-      "Старов Вадим Николаевич": 40,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 3
+      "gas:candidate-vibid:4024049180450": 1,
+      "gas:candidate-vibid:4024049180714": 17,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 86,
+      "gas:candidate-vibid:4024049188404": 40,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 17,
-      "Бирюзов Юрий Леонидович": 17,
-      "Губайдуллин Азамат Мунирович": 21,
-      "Изотов Алексей Николаевич": 93,
-      "Старов Вадим Николаевич": 55,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 32
+      "gas:candidate-vibid:4024049180450": 17,
+      "gas:candidate-vibid:4024049180714": 17,
+      "gas:candidate-vibid:4024049188832": 21,
+      "gas:candidate-vibid:4024049188792": 93,
+      "gas:candidate-vibid:4024049188404": 55,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 1,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 75,
-      "Старов Вадим Николаевич": 61,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 44
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 1,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 75,
+      "gas:candidate-vibid:4024049188404": 61,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 69,
-      "Старов Вадим Николаевич": 42,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 41
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 69,
+      "gas:candidate-vibid:4024049188404": 42,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 66,
-      "Старов Вадим Николаевич": 48,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 39
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 66,
+      "gas:candidate-vibid:4024049188404": 48,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 62,
-      "Старов Вадим Николаевич": 47,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 35
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 62,
+      "gas:candidate-vibid:4024049188404": 47,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 86,
-      "Старов Вадим Николаевич": 60,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 45
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 86,
+      "gas:candidate-vibid:4024049188404": 60,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 27,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 178,
-      "Старов Вадим Николаевич": 129,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 98
+      "gas:candidate-vibid:4024049180450": 27,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 178,
+      "gas:candidate-vibid:4024049188404": 129,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 11,
-      "Изотов Алексей Николаевич": 61,
-      "Старов Вадим Николаевич": 46,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 31
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 11,
+      "gas:candidate-vibid:4024049188792": 61,
+      "gas:candidate-vibid:4024049188404": 46,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 15,
-      "Бирюзов Юрий Леонидович": 21,
-      "Губайдуллин Азамат Мунирович": 43,
-      "Изотов Алексей Николаевич": 213,
-      "Старов Вадим Николаевич": 151,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 101
+      "gas:candidate-vibid:4024049180450": 15,
+      "gas:candidate-vibid:4024049180714": 21,
+      "gas:candidate-vibid:4024049188832": 43,
+      "gas:candidate-vibid:4024049188792": 213,
+      "gas:candidate-vibid:4024049188404": 151,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 94,
-      "Старов Вадим Николаевич": 61,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 58
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 94,
+      "gas:candidate-vibid:4024049188404": 61,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 17,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 79,
-      "Старов Вадим Николаевич": 59,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 43
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 17,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 79,
+      "gas:candidate-vibid:4024049188404": 59,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 54,
-      "Старов Вадим Николаевич": 36,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 29
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 54,
+      "gas:candidate-vibid:4024049188404": 36,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 50,
-      "Старов Вадим Николаевич": 31,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 26
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 50,
+      "gas:candidate-vibid:4024049188404": 31,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 3,
-      "Бирюзов Юрий Леонидович": 16,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 317,
-      "Старов Вадим Николаевич": 73,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 22
+      "gas:candidate-vibid:4024049180450": 3,
+      "gas:candidate-vibid:4024049180714": 16,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 317,
+      "gas:candidate-vibid:4024049188404": 73,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 107,
-      "Старов Вадим Николаевич": 70,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 53
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 107,
+      "gas:candidate-vibid:4024049188404": 70,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 176,
-      "Старов Вадим Николаевич": 146,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 88
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 176,
+      "gas:candidate-vibid:4024049188404": 146,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 6,
-      "Бирюзов Юрий Леонидович": 21,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 353,
-      "Старов Вадим Николаевич": 131,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 8
+      "gas:candidate-vibid:4024049180450": 6,
+      "gas:candidate-vibid:4024049180714": 21,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 353,
+      "gas:candidate-vibid:4024049188404": 131,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 32,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 130,
-      "Старов Вадим Николаевич": 98,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 63
+      "gas:candidate-vibid:4024049180450": 32,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 130,
+      "gas:candidate-vibid:4024049188404": 98,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684978&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684978&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 15,
-      "Изотов Алексей Николаевич": 556,
-      "Старов Вадим Николаевич": 173,
-      "Усманов Нурислам Карамович": 12,
-      "Шагапова Руфина Аликовна": 148
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 15,
+      "gas:candidate-vibid:4024049188792": 556,
+      "gas:candidate-vibid:4024049188404": 173,
+      "gas:candidate-vibid:4024049188889": 12,
+      "gas:candidate-vibid:4024049188567": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 369,
-      "Старов Вадим Николаевич": 104,
-      "Усманов Нурислам Карамович": 40,
-      "Шагапова Руфина Аликовна": 89
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 369,
+      "gas:candidate-vibid:4024049188404": 104,
+      "gas:candidate-vibid:4024049188889": 40,
+      "gas:candidate-vibid:4024049188567": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 60,
-      "Изотов Алексей Николаевич": 902,
-      "Старов Вадим Николаевич": 271,
-      "Усманов Нурислам Карамович": 45,
-      "Шагапова Руфина Аликовна": 225
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 60,
+      "gas:candidate-vibid:4024049188792": 902,
+      "gas:candidate-vibid:4024049188404": 271,
+      "gas:candidate-vibid:4024049188889": 45,
+      "gas:candidate-vibid:4024049188567": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 55,
-      "Бирюзов Юрий Леонидович": 24,
-      "Губайдуллин Азамат Мунирович": 66,
-      "Изотов Алексей Николаевич": 746,
-      "Старов Вадим Николаевич": 187,
-      "Усманов Нурислам Карамович": 11,
-      "Шагапова Руфина Аликовна": 151
+      "gas:candidate-vibid:4024049180450": 55,
+      "gas:candidate-vibid:4024049180714": 24,
+      "gas:candidate-vibid:4024049188832": 66,
+      "gas:candidate-vibid:4024049188792": 746,
+      "gas:candidate-vibid:4024049188404": 187,
+      "gas:candidate-vibid:4024049188889": 11,
+      "gas:candidate-vibid:4024049188567": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 71,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 42,
-      "Изотов Алексей Николаевич": 178,
-      "Старов Вадим Николаевич": 64,
-      "Усманов Нурислам Карамович": 18,
-      "Шагапова Руфина Аликовна": 30
+      "gas:candidate-vibid:4024049180450": 71,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 42,
+      "gas:candidate-vibid:4024049188792": 178,
+      "gas:candidate-vibid:4024049188404": 64,
+      "gas:candidate-vibid:4024049188889": 18,
+      "gas:candidate-vibid:4024049188567": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 16,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 11,
-      "Изотов Алексей Николаевич": 360,
-      "Старов Вадим Николаевич": 108,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 90
+      "gas:candidate-vibid:4024049180450": 16,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 11,
+      "gas:candidate-vibid:4024049188792": 360,
+      "gas:candidate-vibid:4024049188404": 108,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 14,
-      "Бирюзов Юрий Леонидович": 10,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 662,
-      "Старов Вадим Николаевич": 184,
-      "Усманов Нурислам Карамович": 11,
-      "Шагапова Руфина Аликовна": 165
+      "gas:candidate-vibid:4024049180450": 14,
+      "gas:candidate-vibid:4024049180714": 10,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 662,
+      "gas:candidate-vibid:4024049188404": 184,
+      "gas:candidate-vibid:4024049188889": 11,
+      "gas:candidate-vibid:4024049188567": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 25,
-      "Бирюзов Юрий Леонидович": 9,
-      "Губайдуллин Азамат Мунирович": 12,
-      "Изотов Алексей Николаевич": 414,
-      "Старов Вадим Николаевич": 188,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 113
+      "gas:candidate-vibid:4024049180450": 25,
+      "gas:candidate-vibid:4024049180714": 9,
+      "gas:candidate-vibid:4024049188832": 12,
+      "gas:candidate-vibid:4024049188792": 414,
+      "gas:candidate-vibid:4024049188404": 188,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 36,
-      "Бирюзов Юрий Леонидович": 28,
-      "Губайдуллин Азамат Мунирович": 18,
-      "Изотов Алексей Николаевич": 543,
-      "Старов Вадим Николаевич": 61,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 18
+      "gas:candidate-vibid:4024049180450": 36,
+      "gas:candidate-vibid:4024049180714": 28,
+      "gas:candidate-vibid:4024049188832": 18,
+      "gas:candidate-vibid:4024049188792": 543,
+      "gas:candidate-vibid:4024049188404": 61,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 15,
-      "Бирюзов Юрий Леонидович": 10,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 293,
-      "Старов Вадим Николаевич": 88,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 74
+      "gas:candidate-vibid:4024049180450": 15,
+      "gas:candidate-vibid:4024049180714": 10,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 293,
+      "gas:candidate-vibid:4024049188404": 88,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 785,
-      "Старов Вадим Николаевич": 0,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 164
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 785,
+      "gas:candidate-vibid:4024049188404": 0,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 9,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 205,
-      "Старов Вадим Николаевич": 124,
-      "Усманов Нурислам Карамович": 30,
-      "Шагапова Руфина Аликовна": 17
+      "gas:candidate-vibid:4024049180450": 9,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 205,
+      "gas:candidate-vibid:4024049188404": 124,
+      "gas:candidate-vibid:4024049188889": 30,
+      "gas:candidate-vibid:4024049188567": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 115,
-      "Старов Вадим Николаевич": 33,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 115,
+      "gas:candidate-vibid:4024049188404": 33,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 81,
-      "Старов Вадим Николаевич": 24,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 20
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 81,
+      "gas:candidate-vibid:4024049188404": 24,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 20,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 24,
-      "Изотов Алексей Николаевич": 222,
-      "Старов Вадим Николаевич": 29,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 20,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 24,
+      "gas:candidate-vibid:4024049188792": 222,
+      "gas:candidate-vibid:4024049188404": 29,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 7,
-      "Губайдуллин Азамат Мунирович": 9,
-      "Изотов Алексей Николаевич": 175,
-      "Старов Вадим Николаевич": 35,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 4
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 7,
+      "gas:candidate-vibid:4024049188832": 9,
+      "gas:candidate-vibid:4024049188792": 175,
+      "gas:candidate-vibid:4024049188404": 35,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 270,
-      "Старов Вадим Николаевич": 81,
-      "Усманов Нурислам Карамович": 51,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 270,
+      "gas:candidate-vibid:4024049188404": 81,
+      "gas:candidate-vibid:4024049188889": 51,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 120,
-      "Бирюзов Юрий Леонидович": 41,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 528,
-      "Старов Вадим Николаевич": 157,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 120,
+      "gas:candidate-vibid:4024049180714": 41,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 528,
+      "gas:candidate-vibid:4024049188404": 157,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 37,
-      "Бирюзов Юрий Леонидович": 40,
-      "Губайдуллин Азамат Мунирович": 9,
-      "Изотов Алексей Николаевич": 238,
-      "Старов Вадим Николаевич": 109,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 25
+      "gas:candidate-vibid:4024049180450": 37,
+      "gas:candidate-vibid:4024049180714": 40,
+      "gas:candidate-vibid:4024049188832": 9,
+      "gas:candidate-vibid:4024049188792": 238,
+      "gas:candidate-vibid:4024049188404": 109,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 1,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 136,
-      "Старов Вадим Николаевич": 48,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 34
+      "gas:candidate-vibid:4024049180450": 1,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 136,
+      "gas:candidate-vibid:4024049188404": 48,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 138,
-      "Старов Вадим Николаевич": 68,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 1
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 138,
+      "gas:candidate-vibid:4024049188404": 68,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 244,
-      "Старов Вадим Николаевич": 39,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 244,
+      "gas:candidate-vibid:4024049188404": 39,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 74,
-      "Старов Вадим Николаевич": 0,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 74,
+      "gas:candidate-vibid:4024049188404": 0,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 17,
-      "Бирюзов Юрий Леонидович": 26,
-      "Губайдуллин Азамат Мунирович": 49,
-      "Изотов Алексей Николаевич": 136,
-      "Старов Вадим Николаевич": 19,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 6
+      "gas:candidate-vibid:4024049180450": 17,
+      "gas:candidate-vibid:4024049180714": 26,
+      "gas:candidate-vibid:4024049188832": 49,
+      "gas:candidate-vibid:4024049188792": 136,
+      "gas:candidate-vibid:4024049188404": 19,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 58,
-      "Изотов Алексей Николаевич": 146,
-      "Старов Вадим Николаевич": 14,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 58,
+      "gas:candidate-vibid:4024049188792": 146,
+      "gas:candidate-vibid:4024049188404": 14,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 10,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 247,
-      "Старов Вадим Николаевич": 74,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 66
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 10,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 247,
+      "gas:candidate-vibid:4024049188404": 74,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 16,
-      "Губайдуллин Азамат Мунирович": 26,
-      "Изотов Алексей Николаевич": 390,
-      "Старов Вадим Николаевич": 81,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 16,
+      "gas:candidate-vibid:4024049188832": 26,
+      "gas:candidate-vibid:4024049188792": 390,
+      "gas:candidate-vibid:4024049188404": 81,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 6,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 16,
-      "Изотов Алексей Николаевич": 185,
-      "Старов Вадим Николаевич": 81,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 12
+      "gas:candidate-vibid:4024049180450": 6,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 16,
+      "gas:candidate-vibid:4024049188792": 185,
+      "gas:candidate-vibid:4024049188404": 81,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 53,
-      "Изотов Алексей Николаевич": 171,
-      "Старов Вадим Николаевич": 78,
-      "Усманов Нурислам Карамович": 10,
-      "Шагапова Руфина Аликовна": 15
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 53,
+      "gas:candidate-vibid:4024049188792": 171,
+      "gas:candidate-vibid:4024049188404": 78,
+      "gas:candidate-vibid:4024049188889": 10,
+      "gas:candidate-vibid:4024049188567": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 16,
-      "Губайдуллин Азамат Мунирович": 54,
-      "Изотов Алексей Николаевич": 239,
-      "Старов Вадим Николаевич": 110,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 22
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 16,
+      "gas:candidate-vibid:4024049188832": 54,
+      "gas:candidate-vibid:4024049188792": 239,
+      "gas:candidate-vibid:4024049188404": 110,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 23,
-      "Изотов Алексей Николаевич": 74,
-      "Старов Вадим Николаевич": 15,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 23,
+      "gas:candidate-vibid:4024049188792": 74,
+      "gas:candidate-vibid:4024049188404": 15,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 160,
-      "Старов Вадим Николаевич": 48,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 40
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 160,
+      "gas:candidate-vibid:4024049188404": 48,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 41,
-      "Изотов Алексей Николаевич": 390,
-      "Старов Вадим Николаевич": 118,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 41,
+      "gas:candidate-vibid:4024049188792": 390,
+      "gas:candidate-vibid:4024049188404": 118,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 16,
-      "Изотов Алексей Николаевич": 326,
-      "Старов Вадим Николаевич": 89,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 83
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 16,
+      "gas:candidate-vibid:4024049188792": 326,
+      "gas:candidate-vibid:4024049188404": 89,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 39,
-      "Изотов Алексей Николаевич": 208,
-      "Старов Вадим Николаевич": 34,
-      "Усманов Нурислам Карамович": 17,
-      "Шагапова Руфина Аликовна": 12
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 39,
+      "gas:candidate-vibid:4024049188792": 208,
+      "gas:candidate-vibid:4024049188404": 34,
+      "gas:candidate-vibid:4024049188889": 17,
+      "gas:candidate-vibid:4024049188567": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 15,
-      "Губайдуллин Азамат Мунирович": 37,
-      "Изотов Алексей Николаевич": 178,
-      "Старов Вадим Николаевич": 45,
-      "Усманов Нурислам Карамович": 14,
-      "Шагапова Руфина Аликовна": 5
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 15,
+      "gas:candidate-vibid:4024049188832": 37,
+      "gas:candidate-vibid:4024049188792": 178,
+      "gas:candidate-vibid:4024049188404": 45,
+      "gas:candidate-vibid:4024049188889": 14,
+      "gas:candidate-vibid:4024049188567": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 20,
-      "Изотов Алексей Николаевич": 114,
-      "Старов Вадим Николаевич": 49,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 5
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 20,
+      "gas:candidate-vibid:4024049188792": 114,
+      "gas:candidate-vibid:4024049188404": 49,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 103,
-      "Старов Вадим Николаевич": 61,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 103,
+      "gas:candidate-vibid:4024049188404": 61,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 7,
-      "Губайдуллин Азамат Мунирович": 14,
-      "Изотов Алексей Николаевич": 144,
-      "Старов Вадим Николаевич": 16,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 3
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 7,
+      "gas:candidate-vibid:4024049188832": 14,
+      "gas:candidate-vibid:4024049188792": 144,
+      "gas:candidate-vibid:4024049188404": 16,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 21,
-      "Изотов Алексей Николаевич": 223,
-      "Старов Вадим Николаевич": 67,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 56
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 21,
+      "gas:candidate-vibid:4024049188792": 223,
+      "gas:candidate-vibid:4024049188404": 67,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 3,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 124,
-      "Старов Вадим Николаевич": 13,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 3,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 124,
+      "gas:candidate-vibid:4024049188404": 13,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 24,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 290,
-      "Старов Вадим Николаевич": 61,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 31
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 24,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 290,
+      "gas:candidate-vibid:4024049188404": 61,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 3,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 201,
-      "Старов Вадим Николаевич": 48,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 4
+      "gas:candidate-vibid:4024049180450": 3,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 201,
+      "gas:candidate-vibid:4024049188404": 48,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 360,
-      "Старов Вадим Николаевич": 24,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 10
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 360,
+      "gas:candidate-vibid:4024049188404": 24,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 29,
-      "Губайдуллин Азамат Мунирович": 26,
-      "Изотов Алексей Николаевич": 182,
-      "Старов Вадим Николаевич": 34,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 29,
+      "gas:candidate-vibid:4024049188832": 26,
+      "gas:candidate-vibid:4024049188792": 182,
+      "gas:candidate-vibid:4024049188404": 34,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 17,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 339,
-      "Старов Вадим Николаевич": 101,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 85
+      "gas:candidate-vibid:4024049180450": 17,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 339,
+      "gas:candidate-vibid:4024049188404": 101,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 15,
-      "Изотов Алексей Николаевич": 145,
-      "Старов Вадим Николаевич": 80,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 12
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 15,
+      "gas:candidate-vibid:4024049188792": 145,
+      "gas:candidate-vibid:4024049188404": 80,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684979&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684979&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 31,
-      "Бирюзов Юрий Леонидович": 27,
-      "Губайдуллин Азамат Мунирович": 14,
-      "Изотов Алексей Николаевич": 330,
-      "Старов Вадим Николаевич": 238,
-      "Усманов Нурислам Карамович": 12,
-      "Шагапова Руфина Аликовна": 167
+      "gas:candidate-vibid:4024049180450": 31,
+      "gas:candidate-vibid:4024049180714": 27,
+      "gas:candidate-vibid:4024049188832": 14,
+      "gas:candidate-vibid:4024049188792": 330,
+      "gas:candidate-vibid:4024049188404": 238,
+      "gas:candidate-vibid:4024049188889": 12,
+      "gas:candidate-vibid:4024049188567": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 62,
-      "Старов Вадим Николаевич": 45,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 17
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 62,
+      "gas:candidate-vibid:4024049188404": 45,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 52,
-      "Старов Вадим Николаевич": 17,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 13
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 52,
+      "gas:candidate-vibid:4024049188404": 17,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 28,
-      "Бирюзов Юрий Леонидович": 39,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 265,
-      "Старов Вадим Николаевич": 242,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 41
+      "gas:candidate-vibid:4024049180450": 28,
+      "gas:candidate-vibid:4024049180714": 39,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 265,
+      "gas:candidate-vibid:4024049188404": 242,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 6,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 39,
-      "Старов Вадим Николаевич": 29,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 12
+      "gas:candidate-vibid:4024049180450": 6,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 39,
+      "gas:candidate-vibid:4024049188404": 29,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 31,
-      "Бирюзов Юрий Леонидович": 15,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 115,
-      "Старов Вадим Николаевич": 83,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 51
+      "gas:candidate-vibid:4024049180450": 31,
+      "gas:candidate-vibid:4024049180714": 15,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 115,
+      "gas:candidate-vibid:4024049188404": 83,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 156,
-      "Бирюзов Юрий Леонидович": 32,
-      "Губайдуллин Азамат Мунирович": 28,
-      "Изотов Алексей Николаевич": 355,
-      "Старов Вадим Николаевич": 257,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 188
+      "gas:candidate-vibid:4024049180450": 156,
+      "gas:candidate-vibid:4024049180714": 32,
+      "gas:candidate-vibid:4024049188832": 28,
+      "gas:candidate-vibid:4024049188792": 355,
+      "gas:candidate-vibid:4024049188404": 257,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 98,
-      "Бирюзов Юрий Леонидович": 42,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 310,
-      "Старов Вадим Николаевич": 215,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 155
+      "gas:candidate-vibid:4024049180450": 98,
+      "gas:candidate-vibid:4024049180714": 42,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 310,
+      "gas:candidate-vibid:4024049188404": 215,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 99,
-      "Бирюзов Юрий Леонидович": 44,
-      "Губайдуллин Азамат Мунирович": 14,
-      "Изотов Алексей Николаевич": 301,
-      "Старов Вадим Николаевич": 212,
-      "Усманов Нурислам Карамович": 12,
-      "Шагапова Руфина Аликовна": 144
+      "gas:candidate-vibid:4024049180450": 99,
+      "gas:candidate-vibid:4024049180714": 44,
+      "gas:candidate-vibid:4024049188832": 14,
+      "gas:candidate-vibid:4024049188792": 301,
+      "gas:candidate-vibid:4024049188404": 212,
+      "gas:candidate-vibid:4024049188889": 12,
+      "gas:candidate-vibid:4024049188567": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 152,
-      "Бирюзов Юрий Леонидович": 62,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 425,
-      "Старов Вадим Николаевич": 259,
-      "Усманов Нурислам Карамович": 35,
-      "Шагапова Руфина Аликовна": 220
+      "gas:candidate-vibid:4024049180450": 152,
+      "gas:candidate-vibid:4024049180714": 62,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 425,
+      "gas:candidate-vibid:4024049188404": 259,
+      "gas:candidate-vibid:4024049188889": 35,
+      "gas:candidate-vibid:4024049188567": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 61,
-      "Бирюзов Юрий Леонидович": 34,
-      "Губайдуллин Азамат Мунирович": 18,
-      "Изотов Алексей Николаевич": 198,
-      "Старов Вадим Николаевич": 125,
-      "Усманов Нурислам Карамович": 14,
-      "Шагапова Руфина Аликовна": 120
+      "gas:candidate-vibid:4024049180450": 61,
+      "gas:candidate-vibid:4024049180714": 34,
+      "gas:candidate-vibid:4024049188832": 18,
+      "gas:candidate-vibid:4024049188792": 198,
+      "gas:candidate-vibid:4024049188404": 125,
+      "gas:candidate-vibid:4024049188889": 14,
+      "gas:candidate-vibid:4024049188567": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 22,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 151,
-      "Старов Вадим Николаевич": 75,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 45
+      "gas:candidate-vibid:4024049180450": 22,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 151,
+      "gas:candidate-vibid:4024049188404": 75,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 66,
-      "Старов Вадим Николаевич": 33,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 24
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 66,
+      "gas:candidate-vibid:4024049188404": 33,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 28,
-      "Бирюзов Юрий Леонидович": 10,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 125,
-      "Старов Вадим Николаевич": 74,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 76
+      "gas:candidate-vibid:4024049180450": 28,
+      "gas:candidate-vibid:4024049180714": 10,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 125,
+      "gas:candidate-vibid:4024049188404": 74,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 31,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 116,
-      "Старов Вадим Николаевич": 83,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 72
+      "gas:candidate-vibid:4024049180450": 31,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 116,
+      "gas:candidate-vibid:4024049188404": 83,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 71,
-      "Старов Вадим Николаевич": 33,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 32
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 71,
+      "gas:candidate-vibid:4024049188404": 33,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 25,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 133,
-      "Старов Вадим Николаевич": 76,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 63
+      "gas:candidate-vibid:4024049180450": 25,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 133,
+      "gas:candidate-vibid:4024049188404": 76,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 19,
-      "Бирюзов Юрий Леонидович": 12,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 103,
-      "Старов Вадим Николаевич": 62,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 39
+      "gas:candidate-vibid:4024049180450": 19,
+      "gas:candidate-vibid:4024049180714": 12,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 103,
+      "gas:candidate-vibid:4024049188404": 62,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 57,
-      "Бирюзов Юрий Леонидович": 44,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 250,
-      "Старов Вадим Николаевич": 216,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 128
+      "gas:candidate-vibid:4024049180450": 57,
+      "gas:candidate-vibid:4024049180714": 44,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 250,
+      "gas:candidate-vibid:4024049188404": 216,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 21,
-      "Бирюзов Юрий Леонидович": 19,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 97,
-      "Старов Вадим Николаевич": 61,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 53
+      "gas:candidate-vibid:4024049180450": 21,
+      "gas:candidate-vibid:4024049180714": 19,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 97,
+      "gas:candidate-vibid:4024049188404": 61,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 23,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 66,
-      "Старов Вадим Николаевич": 42,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 35
+      "gas:candidate-vibid:4024049180450": 23,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 66,
+      "gas:candidate-vibid:4024049188404": 42,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 21,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 86,
-      "Старов Вадим Николаевич": 64,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 34
+      "gas:candidate-vibid:4024049180450": 21,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 86,
+      "gas:candidate-vibid:4024049188404": 64,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 12,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 55,
-      "Старов Вадим Николаевич": 41,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 22
+      "gas:candidate-vibid:4024049180450": 12,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 55,
+      "gas:candidate-vibid:4024049188404": 41,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 6,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 44,
-      "Старов Вадим Николаевич": 26,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 18
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 6,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 44,
+      "gas:candidate-vibid:4024049188404": 26,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 46,
-      "Бирюзов Юрий Леонидович": 19,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 238,
-      "Старов Вадим Николаевич": 120,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 108
+      "gas:candidate-vibid:4024049180450": 46,
+      "gas:candidate-vibid:4024049180714": 19,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 238,
+      "gas:candidate-vibid:4024049188404": 120,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 6,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 62,
-      "Старов Вадим Николаевич": 36,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 26
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 6,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 62,
+      "gas:candidate-vibid:4024049188404": 36,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 18,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 137,
-      "Старов Вадим Николаевич": 84,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 63
+      "gas:candidate-vibid:4024049180450": 18,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 137,
+      "gas:candidate-vibid:4024049188404": 84,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 23,
-      "Бирюзов Юрий Леонидович": 16,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 153,
-      "Старов Вадим Николаевич": 87,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 55
+      "gas:candidate-vibid:4024049180450": 23,
+      "gas:candidate-vibid:4024049180714": 16,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 153,
+      "gas:candidate-vibid:4024049188404": 87,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 42,
-      "Старов Вадим Николаевич": 28,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 14
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 42,
+      "gas:candidate-vibid:4024049188404": 28,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 38,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 34,
-      "Изотов Алексей Николаевич": 437,
-      "Старов Вадим Николаевич": 70,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 66
+      "gas:candidate-vibid:4024049180450": 38,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 34,
+      "gas:candidate-vibid:4024049188792": 437,
+      "gas:candidate-vibid:4024049188404": 70,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 22,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 146,
-      "Старов Вадим Николаевич": 69,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 46
+      "gas:candidate-vibid:4024049180450": 22,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 146,
+      "gas:candidate-vibid:4024049188404": 69,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 180,
-      "Старов Вадим Николаевич": 99,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 66
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 180,
+      "gas:candidate-vibid:4024049188404": 99,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 52,
-      "Бирюзов Юрий Леонидович": 33,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 410,
-      "Старов Вадим Николаевич": 227,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 194
+      "gas:candidate-vibid:4024049180450": 52,
+      "gas:candidate-vibid:4024049180714": 33,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 410,
+      "gas:candidate-vibid:4024049188404": 227,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 15,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 25,
-      "Изотов Алексей Николаевич": 218,
-      "Старов Вадим Николаевич": 105,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 78
+      "gas:candidate-vibid:4024049180450": 15,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 25,
+      "gas:candidate-vibid:4024049188792": 218,
+      "gas:candidate-vibid:4024049188404": 105,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 26,
-      "Бирюзов Юрий Леонидович": 20,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 209,
-      "Старов Вадим Николаевич": 287,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 79
+      "gas:candidate-vibid:4024049180450": 26,
+      "gas:candidate-vibid:4024049180714": 20,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 209,
+      "gas:candidate-vibid:4024049188404": 287,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 1,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 31,
-      "Старов Вадим Николаевич": 24,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 6
+      "gas:candidate-vibid:4024049180450": 1,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 31,
+      "gas:candidate-vibid:4024049188404": 24,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 69,
-      "Старов Вадим Николаевич": 76,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 14
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 69,
+      "gas:candidate-vibid:4024049188404": 76,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 14,
-      "Бирюзов Юрий Леонидович": 10,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 369,
-      "Старов Вадим Николаевич": 241,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 155
+      "gas:candidate-vibid:4024049180450": 14,
+      "gas:candidate-vibid:4024049180714": 10,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 369,
+      "gas:candidate-vibid:4024049188404": 241,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 6,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 45,
-      "Старов Вадим Николаевич": 38,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 19
+      "gas:candidate-vibid:4024049180450": 6,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 45,
+      "gas:candidate-vibid:4024049188404": 38,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 22,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 71,
-      "Старов Вадим Николаевич": 26,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 22,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 71,
+      "gas:candidate-vibid:4024049188404": 26,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 82,
-      "Старов Вадим Николаевич": 49,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 33
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 82,
+      "gas:candidate-vibid:4024049188404": 49,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 49,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 226,
-      "Старов Вадим Николаевич": 161,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 109
+      "gas:candidate-vibid:4024049180450": 49,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 226,
+      "gas:candidate-vibid:4024049188404": 161,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 86,
-      "Старов Вадим Николаевич": 58,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 26
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 86,
+      "gas:candidate-vibid:4024049188404": 58,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 7,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 62,
-      "Старов Вадим Николаевич": 36,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 16
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 7,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 62,
+      "gas:candidate-vibid:4024049188404": 36,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 9,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 55,
-      "Старов Вадим Николаевич": 14,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 9,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 55,
+      "gas:candidate-vibid:4024049188404": 14,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684980&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684980&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 106,
-      "Бирюзов Юрий Леонидович": 89,
-      "Губайдуллин Азамат Мунирович": 89,
-      "Изотов Алексей Николаевич": 677,
-      "Старов Вадим Николаевич": 463,
-      "Усманов Нурислам Карамович": 89,
-      "Шагапова Руфина Аликовна": 267
+      "gas:candidate-vibid:4024049180450": 106,
+      "gas:candidate-vibid:4024049180714": 89,
+      "gas:candidate-vibid:4024049188832": 89,
+      "gas:candidate-vibid:4024049188792": 677,
+      "gas:candidate-vibid:4024049188404": 463,
+      "gas:candidate-vibid:4024049188889": 89,
+      "gas:candidate-vibid:4024049188567": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 28,
-      "Бирюзов Юрий Леонидович": 6,
-      "Губайдуллин Азамат Мунирович": 32,
-      "Изотов Алексей Николаевич": 265,
-      "Старов Вадим Николаевич": 212,
-      "Усманов Нурислам Карамович": 19,
-      "Шагапова Руфина Аликовна": 100
+      "gas:candidate-vibid:4024049180450": 28,
+      "gas:candidate-vibid:4024049180714": 6,
+      "gas:candidate-vibid:4024049188832": 32,
+      "gas:candidate-vibid:4024049188792": 265,
+      "gas:candidate-vibid:4024049188404": 212,
+      "gas:candidate-vibid:4024049188889": 19,
+      "gas:candidate-vibid:4024049188567": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 64,
-      "Бирюзов Юрий Леонидович": 53,
-      "Губайдуллин Азамат Мунирович": 54,
-      "Изотов Алексей Николаевич": 404,
-      "Старов Вадим Николаевич": 276,
-      "Усманов Нурислам Карамович": 52,
-      "Шагапова Руфина Аликовна": 159
+      "gas:candidate-vibid:4024049180450": 64,
+      "gas:candidate-vibid:4024049180714": 53,
+      "gas:candidate-vibid:4024049188832": 54,
+      "gas:candidate-vibid:4024049188792": 404,
+      "gas:candidate-vibid:4024049188404": 276,
+      "gas:candidate-vibid:4024049188889": 52,
+      "gas:candidate-vibid:4024049188567": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 97,
-      "Бирюзов Юрий Леонидович": 57,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 140,
-      "Старов Вадим Николаевич": 106,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 13
+      "gas:candidate-vibid:4024049180450": 97,
+      "gas:candidate-vibid:4024049180714": 57,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 140,
+      "gas:candidate-vibid:4024049188404": 106,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 58,
-      "Бирюзов Юрий Леонидович": 47,
-      "Губайдуллин Азамат Мунирович": 45,
-      "Изотов Алексей Николаевич": 359,
-      "Старов Вадим Николаевич": 245,
-      "Усманов Нурислам Карамович": 46,
-      "Шагапова Руфина Аликовна": 142
+      "gas:candidate-vibid:4024049180450": 58,
+      "gas:candidate-vibid:4024049180714": 47,
+      "gas:candidate-vibid:4024049188832": 45,
+      "gas:candidate-vibid:4024049188792": 359,
+      "gas:candidate-vibid:4024049188404": 245,
+      "gas:candidate-vibid:4024049188889": 46,
+      "gas:candidate-vibid:4024049188567": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 57,
-      "Бирюзов Юрий Леонидович": 34,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 136,
-      "Старов Вадим Николаевич": 100,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 20
+      "gas:candidate-vibid:4024049180450": 57,
+      "gas:candidate-vibid:4024049180714": 34,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 136,
+      "gas:candidate-vibid:4024049188404": 100,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 59,
-      "Бирюзов Юрий Леонидович": 35,
-      "Губайдуллин Азамат Мунирович": 53,
-      "Изотов Алексей Николаевич": 311,
-      "Старов Вадим Николаевич": 213,
-      "Усманов Нурислам Карамович": 24,
-      "Шагапова Руфина Аликовна": 123
+      "gas:candidate-vibid:4024049180450": 59,
+      "gas:candidate-vibid:4024049180714": 35,
+      "gas:candidate-vibid:4024049188832": 53,
+      "gas:candidate-vibid:4024049188792": 311,
+      "gas:candidate-vibid:4024049188404": 213,
+      "gas:candidate-vibid:4024049188889": 24,
+      "gas:candidate-vibid:4024049188567": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 60,
-      "Бирюзов Юрий Леонидович": 50,
-      "Губайдуллин Азамат Мунирович": 50,
-      "Изотов Алексей Николаевич": 380,
-      "Старов Вадим Николаевич": 260,
-      "Усманов Нурислам Карамович": 50,
-      "Шагапова Руфина Аликовна": 150
+      "gas:candidate-vibid:4024049180450": 60,
+      "gas:candidate-vibid:4024049180714": 50,
+      "gas:candidate-vibid:4024049188832": 50,
+      "gas:candidate-vibid:4024049188792": 380,
+      "gas:candidate-vibid:4024049188404": 260,
+      "gas:candidate-vibid:4024049188889": 50,
+      "gas:candidate-vibid:4024049188567": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 93,
-      "Бирюзов Юрий Леонидович": 77,
-      "Губайдуллин Азамат Мунирович": 78,
-      "Изотов Алексей Николаевич": 588,
-      "Старов Вадим Николаевич": 402,
-      "Усманов Нурислам Карамович": 77,
-      "Шагапова Руфина Аликовна": 231
+      "gas:candidate-vibid:4024049180450": 93,
+      "gas:candidate-vibid:4024049180714": 77,
+      "gas:candidate-vibid:4024049188832": 78,
+      "gas:candidate-vibid:4024049188792": 588,
+      "gas:candidate-vibid:4024049188404": 402,
+      "gas:candidate-vibid:4024049188889": 77,
+      "gas:candidate-vibid:4024049188567": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 177,
-      "Бирюзов Юрий Леонидович": 1,
-      "Губайдуллин Азамат Мунирович": 12,
-      "Изотов Алексей Николаевич": 977,
-      "Старов Вадим Николаевич": 448,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 104
+      "gas:candidate-vibid:4024049180450": 177,
+      "gas:candidate-vibid:4024049180714": 1,
+      "gas:candidate-vibid:4024049188832": 12,
+      "gas:candidate-vibid:4024049188792": 977,
+      "gas:candidate-vibid:4024049188404": 448,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 131,
-      "Бирюзов Юрий Леонидович": 71,
-      "Губайдуллин Азамат Мунирович": 107,
-      "Изотов Алексей Николаевич": 703,
-      "Старов Вадим Николаевич": 481,
-      "Усманов Нурислам Карамович": 81,
-      "Шагапова Руфина Аликовна": 277
+      "gas:candidate-vibid:4024049180450": 131,
+      "gas:candidate-vibid:4024049180714": 71,
+      "gas:candidate-vibid:4024049188832": 107,
+      "gas:candidate-vibid:4024049188792": 703,
+      "gas:candidate-vibid:4024049188404": 481,
+      "gas:candidate-vibid:4024049188889": 81,
+      "gas:candidate-vibid:4024049188567": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 98,
-      "Бирюзов Юрий Леонидович": 80,
-      "Губайдуллин Азамат Мунирович": 81,
-      "Изотов Алексей Николаевич": 618,
-      "Старов Вадим Николаевич": 423,
-      "Усманов Нурислам Карамович": 81,
-      "Шагапова Руфина Аликовна": 245
+      "gas:candidate-vibid:4024049180450": 98,
+      "gas:candidate-vibid:4024049180714": 80,
+      "gas:candidate-vibid:4024049188832": 81,
+      "gas:candidate-vibid:4024049188792": 618,
+      "gas:candidate-vibid:4024049188404": 423,
+      "gas:candidate-vibid:4024049188889": 81,
+      "gas:candidate-vibid:4024049188567": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 100,
-      "Бирюзов Юрий Леонидович": 73,
-      "Губайдуллин Азамат Мунирович": 30,
-      "Изотов Алексей Николаевич": 584,
-      "Старов Вадим Николаевич": 301,
-      "Усманов Нурислам Карамович": 17,
-      "Шагапова Руфина Аликовна": 22
+      "gas:candidate-vibid:4024049180450": 100,
+      "gas:candidate-vibid:4024049180714": 73,
+      "gas:candidate-vibid:4024049188832": 30,
+      "gas:candidate-vibid:4024049188792": 584,
+      "gas:candidate-vibid:4024049188404": 301,
+      "gas:candidate-vibid:4024049188889": 17,
+      "gas:candidate-vibid:4024049188567": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 14,
-      "Бирюзов Юрий Леонидович": 18,
-      "Губайдуллин Азамат Мунирович": 16,
-      "Изотов Алексей Николаевич": 773,
-      "Старов Вадим Николаевич": 326,
-      "Усманов Нурислам Карамович": 12,
-      "Шагапова Руфина Аликовна": 280
+      "gas:candidate-vibid:4024049180450": 14,
+      "gas:candidate-vibid:4024049180714": 18,
+      "gas:candidate-vibid:4024049188832": 16,
+      "gas:candidate-vibid:4024049188792": 773,
+      "gas:candidate-vibid:4024049188404": 326,
+      "gas:candidate-vibid:4024049188889": 12,
+      "gas:candidate-vibid:4024049188567": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 160,
-      "Бирюзов Юрий Леонидович": 31,
-      "Губайдуллин Азамат Мунирович": 107,
-      "Изотов Алексей Николаевич": 602,
-      "Старов Вадим Николаевич": 416,
-      "Усманов Нурислам Карамович": 44,
-      "Шагапова Руфина Аликовна": 240
+      "gas:candidate-vibid:4024049180450": 160,
+      "gas:candidate-vibid:4024049180714": 31,
+      "gas:candidate-vibid:4024049188832": 107,
+      "gas:candidate-vibid:4024049188792": 602,
+      "gas:candidate-vibid:4024049188404": 416,
+      "gas:candidate-vibid:4024049188889": 44,
+      "gas:candidate-vibid:4024049188567": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 129,
-      "Бирюзов Юрий Леонидович": 111,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 735,
-      "Старов Вадим Николаевич": 488,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 284
+      "gas:candidate-vibid:4024049180450": 129,
+      "gas:candidate-vibid:4024049180714": 111,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 735,
+      "gas:candidate-vibid:4024049188404": 488,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 82,
-      "Бирюзов Юрий Леонидович": 69,
-      "Губайдуллин Азамат Мунирович": 59,
-      "Изотов Алексей Николаевич": 521,
-      "Старов Вадим Николаевич": 357,
-      "Усманов Нурислам Карамович": 69,
-      "Шагапова Руфина Аликовна": 204
+      "gas:candidate-vibid:4024049180450": 82,
+      "gas:candidate-vibid:4024049180714": 69,
+      "gas:candidate-vibid:4024049188832": 59,
+      "gas:candidate-vibid:4024049188792": 521,
+      "gas:candidate-vibid:4024049188404": 357,
+      "gas:candidate-vibid:4024049188889": 69,
+      "gas:candidate-vibid:4024049188567": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 51,
-      "Бирюзов Юрий Леонидович": 41,
-      "Губайдуллин Азамат Мунирович": 40,
-      "Изотов Алексей Николаевич": 329,
-      "Старов Вадим Николаевич": 222,
-      "Усманов Нурислам Карамович": 39,
-      "Шагапова Руфина Аликовна": 128
+      "gas:candidate-vibid:4024049180450": 51,
+      "gas:candidate-vibid:4024049180714": 41,
+      "gas:candidate-vibid:4024049188832": 40,
+      "gas:candidate-vibid:4024049188792": 329,
+      "gas:candidate-vibid:4024049188404": 222,
+      "gas:candidate-vibid:4024049188889": 39,
+      "gas:candidate-vibid:4024049188567": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 98,
-      "Бирюзов Юрий Леонидович": 81,
-      "Губайдуллин Азамат Мунирович": 81,
-      "Изотов Алексей Николаевич": 623,
-      "Старов Вадим Николаевич": 426,
-      "Усманов Нурислам Карамович": 81,
-      "Шагапова Руфина Аликовна": 246
+      "gas:candidate-vibid:4024049180450": 98,
+      "gas:candidate-vibid:4024049180714": 81,
+      "gas:candidate-vibid:4024049188832": 81,
+      "gas:candidate-vibid:4024049188792": 623,
+      "gas:candidate-vibid:4024049188404": 426,
+      "gas:candidate-vibid:4024049188889": 81,
+      "gas:candidate-vibid:4024049188567": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 21,
-      "Бирюзов Юрий Леонидович": 70,
-      "Губайдуллин Азамат Мунирович": 23,
-      "Изотов Алексей Николаевич": 251,
-      "Старов Вадим Николаевич": 183,
-      "Усманов Нурислам Карамович": 15,
-      "Шагапова Руфина Аликовна": 80
+      "gas:candidate-vibid:4024049180450": 21,
+      "gas:candidate-vibid:4024049180714": 70,
+      "gas:candidate-vibid:4024049188832": 23,
+      "gas:candidate-vibid:4024049188792": 251,
+      "gas:candidate-vibid:4024049188404": 183,
+      "gas:candidate-vibid:4024049188889": 15,
+      "gas:candidate-vibid:4024049188567": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 46,
-      "Бирюзов Юрий Леонидович": 7,
-      "Губайдуллин Азамат Мунирович": 20,
-      "Изотов Алексей Николаевич": 275,
-      "Старов Вадим Николаевич": 202,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 110
+      "gas:candidate-vibid:4024049180450": 46,
+      "gas:candidate-vibid:4024049180714": 7,
+      "gas:candidate-vibid:4024049188832": 20,
+      "gas:candidate-vibid:4024049188792": 275,
+      "gas:candidate-vibid:4024049188404": 202,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 50,
-      "Бирюзов Юрий Леонидович": 32,
-      "Губайдуллин Азамат Мунирович": 80,
-      "Изотов Алексей Николаевич": 702,
-      "Старов Вадим Николаевич": 468,
-      "Усманов Нурислам Карамович": 35,
-      "Шагапова Руфина Аликовна": 283
+      "gas:candidate-vibid:4024049180450": 50,
+      "gas:candidate-vibid:4024049180714": 32,
+      "gas:candidate-vibid:4024049188832": 80,
+      "gas:candidate-vibid:4024049188792": 702,
+      "gas:candidate-vibid:4024049188404": 468,
+      "gas:candidate-vibid:4024049188889": 35,
+      "gas:candidate-vibid:4024049188567": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 100,
-      "Бирюзов Юрий Леонидович": 83,
-      "Губайдуллин Азамат Мунирович": 84,
-      "Изотов Алексей Николаевич": 632,
-      "Старов Вадим Николаевич": 432,
-      "Усманов Нурислам Карамович": 83,
-      "Шагапова Руфина Аликовна": 248
+      "gas:candidate-vibid:4024049180450": 100,
+      "gas:candidate-vibid:4024049180714": 83,
+      "gas:candidate-vibid:4024049188832": 84,
+      "gas:candidate-vibid:4024049188792": 632,
+      "gas:candidate-vibid:4024049188404": 432,
+      "gas:candidate-vibid:4024049188889": 83,
+      "gas:candidate-vibid:4024049188567": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 155,
-      "Бирюзов Юрий Леонидович": 110,
-      "Губайдуллин Азамат Мунирович": 116,
-      "Изотов Алексей Николаевич": 725,
-      "Старов Вадим Николаевич": 498,
-      "Усманов Нурислам Карамович": 101,
-      "Шагапова Руфина Аликовна": 287
+      "gas:candidate-vibid:4024049180450": 155,
+      "gas:candidate-vibid:4024049180714": 110,
+      "gas:candidate-vibid:4024049188832": 116,
+      "gas:candidate-vibid:4024049188792": 725,
+      "gas:candidate-vibid:4024049188404": 498,
+      "gas:candidate-vibid:4024049188889": 101,
+      "gas:candidate-vibid:4024049188567": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 58,
-      "Бирюзов Юрий Леонидович": 56,
-      "Губайдуллин Азамат Мунирович": 41,
-      "Изотов Алексей Николаевич": 322,
-      "Старов Вадим Николаевич": 221,
-      "Усманов Нурислам Карамович": 21,
-      "Шагапова Руфина Аликовна": 127
+      "gas:candidate-vibid:4024049180450": 58,
+      "gas:candidate-vibid:4024049180714": 56,
+      "gas:candidate-vibid:4024049188832": 41,
+      "gas:candidate-vibid:4024049188792": 322,
+      "gas:candidate-vibid:4024049188404": 221,
+      "gas:candidate-vibid:4024049188889": 21,
+      "gas:candidate-vibid:4024049188567": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 75,
-      "Бирюзов Юрий Леонидович": 80,
-      "Губайдуллин Азамат Мунирович": 101,
-      "Изотов Алексей Николаевич": 626,
-      "Старов Вадим Николаевич": 426,
-      "Усманов Нурислам Карамович": 78,
-      "Шагапова Руфина Аликовна": 249
+      "gas:candidate-vibid:4024049180450": 75,
+      "gas:candidate-vibid:4024049180714": 80,
+      "gas:candidate-vibid:4024049188832": 101,
+      "gas:candidate-vibid:4024049188792": 626,
+      "gas:candidate-vibid:4024049188404": 426,
+      "gas:candidate-vibid:4024049188889": 78,
+      "gas:candidate-vibid:4024049188567": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 52,
-      "Бирюзов Юрий Леонидович": 34,
-      "Губайдуллин Азамат Мунирович": 45,
-      "Изотов Алексей Николаевич": 308,
-      "Старов Вадим Николаевич": 209,
-      "Усманов Нурислам Карамович": 33,
-      "Шагапова Руфина Аликовна": 122
+      "gas:candidate-vibid:4024049180450": 52,
+      "gas:candidate-vibid:4024049180714": 34,
+      "gas:candidate-vibid:4024049188832": 45,
+      "gas:candidate-vibid:4024049188792": 308,
+      "gas:candidate-vibid:4024049188404": 209,
+      "gas:candidate-vibid:4024049188889": 33,
+      "gas:candidate-vibid:4024049188567": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 35,
-      "Бирюзов Юрий Леонидович": 36,
-      "Губайдуллин Азамат Мунирович": 37,
-      "Изотов Алексей Николаевич": 301,
-      "Старов Вадим Николаевич": 194,
-      "Усманов Нурислам Карамович": 33,
-      "Шагапова Руфина Аликовна": 113
+      "gas:candidate-vibid:4024049180450": 35,
+      "gas:candidate-vibid:4024049180714": 36,
+      "gas:candidate-vibid:4024049188832": 37,
+      "gas:candidate-vibid:4024049188792": 301,
+      "gas:candidate-vibid:4024049188404": 194,
+      "gas:candidate-vibid:4024049188889": 33,
+      "gas:candidate-vibid:4024049188567": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 81,
-      "Бирюзов Юрий Леонидович": 83,
-      "Губайдуллин Азамат Мунирович": 95,
-      "Изотов Алексей Николаевич": 639,
-      "Старов Вадим Николаевич": 431,
-      "Усманов Нурислам Карамович": 82,
-      "Шагапова Руфина Аликовна": 248
+      "gas:candidate-vibid:4024049180450": 81,
+      "gas:candidate-vibid:4024049180714": 83,
+      "gas:candidate-vibid:4024049188832": 95,
+      "gas:candidate-vibid:4024049188792": 639,
+      "gas:candidate-vibid:4024049188404": 431,
+      "gas:candidate-vibid:4024049188889": 82,
+      "gas:candidate-vibid:4024049188567": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 38,
-      "Бирюзов Юрий Леонидович": 37,
-      "Губайдуллин Азамат Мунирович": 57,
-      "Изотов Алексей Николаевич": 309,
-      "Старов Вадим Николаевич": 211,
-      "Усманов Нурислам Карамович": 35,
-      "Шагапова Руфина Аликовна": 122
+      "gas:candidate-vibid:4024049180450": 38,
+      "gas:candidate-vibid:4024049180714": 37,
+      "gas:candidate-vibid:4024049188832": 57,
+      "gas:candidate-vibid:4024049188792": 309,
+      "gas:candidate-vibid:4024049188404": 211,
+      "gas:candidate-vibid:4024049188889": 35,
+      "gas:candidate-vibid:4024049188567": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 18,
-      "Изотов Алексей Николаевич": 410,
-      "Старов Вадим Николаевич": 146,
-      "Усманов Нурислам Карамович": 34,
-      "Шагапова Руфина Аликовна": 115
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 18,
+      "gas:candidate-vibid:4024049188792": 410,
+      "gas:candidate-vibid:4024049188404": 146,
+      "gas:candidate-vibid:4024049188889": 34,
+      "gas:candidate-vibid:4024049188567": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 109,
-      "Бирюзов Юрий Леонидович": 71,
-      "Губайдуллин Азамат Мунирович": 66,
-      "Изотов Алексей Николаевич": 581,
-      "Старов Вадим Николаевич": 403,
-      "Усманов Нурислам Карамович": 60,
-      "Шагапова Руфина Аликовна": 229
+      "gas:candidate-vibid:4024049180450": 109,
+      "gas:candidate-vibid:4024049180714": 71,
+      "gas:candidate-vibid:4024049188832": 66,
+      "gas:candidate-vibid:4024049188792": 581,
+      "gas:candidate-vibid:4024049188404": 403,
+      "gas:candidate-vibid:4024049188889": 60,
+      "gas:candidate-vibid:4024049188567": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 69,
-      "Бирюзов Юрий Леонидович": 68,
-      "Губайдуллин Азамат Мунирович": 57,
-      "Изотов Алексей Николаевич": 652,
-      "Старов Вадим Николаевич": 401,
-      "Усманов Нурислам Карамович": 26,
-      "Шагапова Руфина Аликовна": 234
+      "gas:candidate-vibid:4024049180450": 69,
+      "gas:candidate-vibid:4024049180714": 68,
+      "gas:candidate-vibid:4024049188832": 57,
+      "gas:candidate-vibid:4024049188792": 652,
+      "gas:candidate-vibid:4024049188404": 401,
+      "gas:candidate-vibid:4024049188889": 26,
+      "gas:candidate-vibid:4024049188567": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 49,
-      "Бирюзов Юрий Леонидович": 35,
-      "Губайдуллин Азамат Мунирович": 61,
-      "Изотов Алексей Николаевич": 307,
-      "Старов Вадим Николаевич": 207,
-      "Усманов Нурислам Карамович": 12,
-      "Шагапова Руфина Аликовна": 119
+      "gas:candidate-vibid:4024049180450": 49,
+      "gas:candidate-vibid:4024049180714": 35,
+      "gas:candidate-vibid:4024049188832": 61,
+      "gas:candidate-vibid:4024049188792": 307,
+      "gas:candidate-vibid:4024049188404": 207,
+      "gas:candidate-vibid:4024049188889": 12,
+      "gas:candidate-vibid:4024049188567": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 48,
-      "Бирюзов Юрий Леонидович": 15,
-      "Губайдуллин Азамат Мунирович": 66,
-      "Изотов Алексей Николаевич": 356,
-      "Старов Вадим Николаевич": 243,
-      "Усманов Нурислам Карамович": 69,
-      "Шагапова Руфина Аликовна": 141
+      "gas:candidate-vibid:4024049180450": 48,
+      "gas:candidate-vibid:4024049180714": 15,
+      "gas:candidate-vibid:4024049188832": 66,
+      "gas:candidate-vibid:4024049188792": 356,
+      "gas:candidate-vibid:4024049188404": 243,
+      "gas:candidate-vibid:4024049188889": 69,
+      "gas:candidate-vibid:4024049188567": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 74,
-      "Бирюзов Юрий Леонидович": 58,
-      "Губайдуллин Азамат Мунирович": 23,
-      "Изотов Алексей Николаевич": 456,
-      "Старов Вадим Николаевич": 44,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 9
+      "gas:candidate-vibid:4024049180450": 74,
+      "gas:candidate-vibid:4024049180714": 58,
+      "gas:candidate-vibid:4024049188832": 23,
+      "gas:candidate-vibid:4024049188792": 456,
+      "gas:candidate-vibid:4024049188404": 44,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 30,
-      "Бирюзов Юрий Леонидович": 16,
-      "Губайдуллин Азамат Мунирович": 7,
-      "Изотов Алексей Николаевич": 356,
-      "Старов Вадим Николаевич": 85,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 4
+      "gas:candidate-vibid:4024049180450": 30,
+      "gas:candidate-vibid:4024049180714": 16,
+      "gas:candidate-vibid:4024049188832": 7,
+      "gas:candidate-vibid:4024049188792": 356,
+      "gas:candidate-vibid:4024049188404": 85,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 29,
-      "Бирюзов Юрий Леонидович": 31,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 140,
-      "Старов Вадим Николаевич": 16,
-      "Усманов Нурислам Карамович": 10,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 29,
+      "gas:candidate-vibid:4024049180714": 31,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 140,
+      "gas:candidate-vibid:4024049188404": 16,
+      "gas:candidate-vibid:4024049188889": 10,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 152,
-      "Бирюзов Юрий Леонидович": 130,
-      "Губайдуллин Азамат Мунирович": 36,
-      "Изотов Алексей Николаевич": 688,
-      "Старов Вадим Николаевич": 140,
-      "Усманов Нурислам Карамович": 10,
-      "Шагапова Руфина Аликовна": 94
+      "gas:candidate-vibid:4024049180450": 152,
+      "gas:candidate-vibid:4024049180714": 130,
+      "gas:candidate-vibid:4024049188832": 36,
+      "gas:candidate-vibid:4024049188792": 688,
+      "gas:candidate-vibid:4024049188404": 140,
+      "gas:candidate-vibid:4024049188889": 10,
+      "gas:candidate-vibid:4024049188567": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 37,
-      "Бирюзов Юрий Леонидович": 28,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 255,
-      "Старов Вадим Николаевич": 73,
-      "Усманов Нурислам Карамович": 24,
-      "Шагапова Руфина Аликовна": 26
+      "gas:candidate-vibid:4024049180450": 37,
+      "gas:candidate-vibid:4024049180714": 28,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 255,
+      "gas:candidate-vibid:4024049188404": 73,
+      "gas:candidate-vibid:4024049188889": 24,
+      "gas:candidate-vibid:4024049188567": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 221,
-      "Старов Вадим Николаевич": 31,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 34
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 221,
+      "gas:candidate-vibid:4024049188404": 31,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 22,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 283,
-      "Старов Вадим Николаевич": 75,
-      "Усманов Нурислам Карамович": 17,
-      "Шагапова Руфина Аликовна": 18
+      "gas:candidate-vibid:4024049180450": 22,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 283,
+      "gas:candidate-vibid:4024049188404": 75,
+      "gas:candidate-vibid:4024049188889": 17,
+      "gas:candidate-vibid:4024049188567": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 21,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 104,
-      "Старов Вадим Николаевич": 42,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 17
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 21,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 104,
+      "gas:candidate-vibid:4024049188404": 42,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 158,
-      "Старов Вадим Николаевич": 42,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 18
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 158,
+      "gas:candidate-vibid:4024049188404": 42,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 22,
-      "Бирюзов Юрий Леонидович": 20,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 224,
-      "Старов Вадим Николаевич": 129,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 14
+      "gas:candidate-vibid:4024049180450": 22,
+      "gas:candidate-vibid:4024049180714": 20,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 224,
+      "gas:candidate-vibid:4024049188404": 129,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 179,
-      "Старов Вадим Николаевич": 34,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 179,
+      "gas:candidate-vibid:4024049188404": 34,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 179,
-      "Старов Вадим Николаевич": 55,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 33
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 179,
+      "gas:candidate-vibid:4024049188404": 55,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 19,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 236,
-      "Старов Вадим Николаевич": 68,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 13
+      "gas:candidate-vibid:4024049180450": 19,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 236,
+      "gas:candidate-vibid:4024049188404": 68,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 14,
-      "Губайдуллин Азамат Мунирович": 16,
-      "Изотов Алексей Николаевич": 338,
-      "Старов Вадим Николаевич": 97,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 42
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 14,
+      "gas:candidate-vibid:4024049188832": 16,
+      "gas:candidate-vibid:4024049188792": 338,
+      "gas:candidate-vibid:4024049188404": 97,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 20,
-      "Бирюзов Юрий Леонидович": 19,
-      "Губайдуллин Азамат Мунирович": 23,
-      "Изотов Алексей Николаевич": 345,
-      "Старов Вадим Николаевич": 95,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 8
+      "gas:candidate-vibid:4024049180450": 20,
+      "gas:candidate-vibid:4024049180714": 19,
+      "gas:candidate-vibid:4024049188832": 23,
+      "gas:candidate-vibid:4024049188792": 345,
+      "gas:candidate-vibid:4024049188404": 95,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 30,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 300,
-      "Старов Вадим Николаевич": 28,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 30,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 300,
+      "gas:candidate-vibid:4024049188404": 28,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 23,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 403,
-      "Старов Вадим Николаевич": 180,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 23,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 403,
+      "gas:candidate-vibid:4024049188404": 180,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 126,
-      "Старов Вадим Николаевич": 40,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 126,
+      "gas:candidate-vibid:4024049188404": 40,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 72,
-      "Бирюзов Юрий Леонидович": 67,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 885,
-      "Старов Вадим Николаевич": 237,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 22
+      "gas:candidate-vibid:4024049180450": 72,
+      "gas:candidate-vibid:4024049180714": 67,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 885,
+      "gas:candidate-vibid:4024049188404": 237,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 45,
-      "Бирюзов Юрий Леонидович": 21,
-      "Губайдуллин Азамат Мунирович": 21,
-      "Изотов Алексей Николаевич": 369,
-      "Старов Вадим Николаевич": 40,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 28
+      "gas:candidate-vibid:4024049180450": 45,
+      "gas:candidate-vibid:4024049180714": 21,
+      "gas:candidate-vibid:4024049188832": 21,
+      "gas:candidate-vibid:4024049188792": 369,
+      "gas:candidate-vibid:4024049188404": 40,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 55,
-      "Бирюзов Юрий Леонидович": 34,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 416,
-      "Старов Вадим Николаевич": 239,
-      "Усманов Нурислам Карамович": 13,
-      "Шагапова Руфина Аликовна": 138
+      "gas:candidate-vibid:4024049180450": 55,
+      "gas:candidate-vibid:4024049180714": 34,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 416,
+      "gas:candidate-vibid:4024049188404": 239,
+      "gas:candidate-vibid:4024049188889": 13,
+      "gas:candidate-vibid:4024049188567": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 27,
-      "Бирюзов Юрий Леонидович": 22,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 204,
-      "Старов Вадим Николаевич": 89,
-      "Усманов Нурислам Карамович": 22,
-      "Шагапова Руфина Аликовна": 52
+      "gas:candidate-vibid:4024049180450": 27,
+      "gas:candidate-vibid:4024049180714": 22,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 204,
+      "gas:candidate-vibid:4024049188404": 89,
+      "gas:candidate-vibid:4024049188889": 22,
+      "gas:candidate-vibid:4024049188567": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 15,
-      "Бирюзов Юрий Леонидович": 20,
-      "Губайдуллин Азамат Мунирович": 14,
-      "Изотов Алексей Николаевич": 266,
-      "Старов Вадим Николаевич": 97,
-      "Усманов Нурислам Карамович": 15,
-      "Шагапова Руфина Аликовна": 58
+      "gas:candidate-vibid:4024049180450": 15,
+      "gas:candidate-vibid:4024049180714": 20,
+      "gas:candidate-vibid:4024049188832": 14,
+      "gas:candidate-vibid:4024049188792": 266,
+      "gas:candidate-vibid:4024049188404": 97,
+      "gas:candidate-vibid:4024049188889": 15,
+      "gas:candidate-vibid:4024049188567": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 14,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 280,
-      "Старов Вадим Николаевич": 16,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 14,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 280,
+      "gas:candidate-vibid:4024049188404": 16,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 17,
-      "Бирюзов Юрий Леонидович": 23,
-      "Губайдуллин Азамат Мунирович": 20,
-      "Изотов Алексей Николаевич": 104,
-      "Старов Вадим Николаевич": 58,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 44
+      "gas:candidate-vibid:4024049180450": 17,
+      "gas:candidate-vibid:4024049180714": 23,
+      "gas:candidate-vibid:4024049188832": 20,
+      "gas:candidate-vibid:4024049188792": 104,
+      "gas:candidate-vibid:4024049188404": 58,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 1,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 2,
-      "Старов Вадим Николаевич": 0,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 1,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 2,
+      "gas:candidate-vibid:4024049188404": 0,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 1,
-      "Старов Вадим Николаевич": 0,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 1,
+      "gas:candidate-vibid:4024049188404": 0,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684981&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684981&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 23,
-      "Губайдуллин Азамат Мунирович": 12,
-      "Изотов Алексей Николаевич": 284,
-      "Старов Вадим Николаевич": 49,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 23,
+      "gas:candidate-vibid:4024049188832": 12,
+      "gas:candidate-vibid:4024049188792": 284,
+      "gas:candidate-vibid:4024049188404": 49,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 449,
-      "Старов Вадим Николаевич": 25,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 5
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 449,
+      "gas:candidate-vibid:4024049188404": 25,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 21,
-      "Изотов Алексей Николаевич": 363,
-      "Старов Вадим Николаевич": 187,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 130
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 21,
+      "gas:candidate-vibid:4024049188792": 363,
+      "gas:candidate-vibid:4024049188404": 187,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 3,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 29,
-      "Изотов Алексей Николаевич": 152,
-      "Старов Вадим Николаевич": 112,
-      "Усманов Нурислам Карамович": 17,
-      "Шагапова Руфина Аликовна": 75
+      "gas:candidate-vibid:4024049180450": 3,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 29,
+      "gas:candidate-vibid:4024049188792": 152,
+      "gas:candidate-vibid:4024049188404": 112,
+      "gas:candidate-vibid:4024049188889": 17,
+      "gas:candidate-vibid:4024049188567": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 201,
-      "Старов Вадим Николаевич": 71,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 23
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 201,
+      "gas:candidate-vibid:4024049188404": 71,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 390,
-      "Старов Вадим Николаевич": 216,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 125
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 390,
+      "gas:candidate-vibid:4024049188404": 216,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 11,
-      "Бирюзов Юрий Леонидович": 12,
-      "Губайдуллин Азамат Мунирович": 11,
-      "Изотов Алексей Николаевич": 202,
-      "Старов Вадим Николаевич": 44,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 4
+      "gas:candidate-vibid:4024049180450": 11,
+      "gas:candidate-vibid:4024049180714": 12,
+      "gas:candidate-vibid:4024049188832": 11,
+      "gas:candidate-vibid:4024049188792": 202,
+      "gas:candidate-vibid:4024049188404": 44,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 27,
-      "Бирюзов Юрий Леонидович": 30,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 313,
-      "Старов Вадим Николаевич": 146,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 27,
+      "gas:candidate-vibid:4024049180714": 30,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 313,
+      "gas:candidate-vibid:4024049188404": 146,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 9,
-      "Бирюзов Юрий Леонидович": 23,
-      "Губайдуллин Азамат Мунирович": 42,
-      "Изотов Алексей Николаевич": 209,
-      "Старов Вадим Николаевич": 64,
-      "Усманов Нурислам Карамович": 16,
-      "Шагапова Руфина Аликовна": 14
+      "gas:candidate-vibid:4024049180450": 9,
+      "gas:candidate-vibid:4024049180714": 23,
+      "gas:candidate-vibid:4024049188832": 42,
+      "gas:candidate-vibid:4024049188792": 209,
+      "gas:candidate-vibid:4024049188404": 64,
+      "gas:candidate-vibid:4024049188889": 16,
+      "gas:candidate-vibid:4024049188567": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 4,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 63,
-      "Старов Вадим Николаевич": 16,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 1
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 4,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 63,
+      "gas:candidate-vibid:4024049188404": 16,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 26,
-      "Бирюзов Юрий Леонидович": 25,
-      "Губайдуллин Азамат Мунирович": 56,
-      "Изотов Алексей Николаевич": 199,
-      "Старов Вадим Николаевич": 112,
-      "Усманов Нурислам Карамович": 42,
-      "Шагапова Руфина Аликовна": 32
+      "gas:candidate-vibid:4024049180450": 26,
+      "gas:candidate-vibid:4024049180714": 25,
+      "gas:candidate-vibid:4024049188832": 56,
+      "gas:candidate-vibid:4024049188792": 199,
+      "gas:candidate-vibid:4024049188404": 112,
+      "gas:candidate-vibid:4024049188889": 42,
+      "gas:candidate-vibid:4024049188567": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 12,
-      "Бирюзов Юрий Леонидович": 17,
-      "Губайдуллин Азамат Мунирович": 33,
-      "Изотов Алексей Николаевич": 67,
-      "Старов Вадим Николаевич": 85,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 11
+      "gas:candidate-vibid:4024049180450": 12,
+      "gas:candidate-vibid:4024049180714": 17,
+      "gas:candidate-vibid:4024049188832": 33,
+      "gas:candidate-vibid:4024049188792": 67,
+      "gas:candidate-vibid:4024049188404": 85,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 392,
-      "Старов Вадим Николаевич": 138,
-      "Усманов Нурислам Карамович": 11,
-      "Шагапова Руфина Аликовна": 8
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 392,
+      "gas:candidate-vibid:4024049188404": 138,
+      "gas:candidate-vibid:4024049188889": 11,
+      "gas:candidate-vibid:4024049188567": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 49,
-      "Бирюзов Юрий Леонидович": 48,
-      "Губайдуллин Азамат Мунирович": 13,
-      "Изотов Алексей Николаевич": 314,
-      "Старов Вадим Николаевич": 84,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 11
+      "gas:candidate-vibid:4024049180450": 49,
+      "gas:candidate-vibid:4024049180714": 48,
+      "gas:candidate-vibid:4024049188832": 13,
+      "gas:candidate-vibid:4024049188792": 314,
+      "gas:candidate-vibid:4024049188404": 84,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 12,
-      "Бирюзов Юрий Леонидович": 12,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 139,
-      "Старов Вадим Николаевич": 32,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 12,
+      "gas:candidate-vibid:4024049180714": 12,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 139,
+      "gas:candidate-vibid:4024049188404": 32,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 89,
-      "Старов Вадим Николаевич": 17,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 89,
+      "gas:candidate-vibid:4024049188404": 17,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 5,
-      "Губайдуллин Азамат Мунирович": 11,
-      "Изотов Алексей Николаевич": 98,
-      "Старов Вадим Николаевич": 50,
-      "Усманов Нурислам Карамович": 4,
-      "Шагапова Руфина Аликовна": 52
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 5,
+      "gas:candidate-vibid:4024049188832": 11,
+      "gas:candidate-vibid:4024049188792": 98,
+      "gas:candidate-vibid:4024049188404": 50,
+      "gas:candidate-vibid:4024049188889": 4,
+      "gas:candidate-vibid:4024049188567": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 3,
-      "Бирюзов Юрий Леонидович": 9,
-      "Губайдуллин Азамат Мунирович": 51,
-      "Изотов Алексей Николаевич": 251,
-      "Старов Вадим Николаевич": 147,
-      "Усманов Нурислам Карамович": 24,
-      "Шагапова Руфина Аликовна": 119
+      "gas:candidate-vibid:4024049180450": 3,
+      "gas:candidate-vibid:4024049180714": 9,
+      "gas:candidate-vibid:4024049188832": 51,
+      "gas:candidate-vibid:4024049188792": 251,
+      "gas:candidate-vibid:4024049188404": 147,
+      "gas:candidate-vibid:4024049188889": 24,
+      "gas:candidate-vibid:4024049188567": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 25,
-      "Бирюзов Юрий Леонидович": 16,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 445,
-      "Старов Вадим Николаевич": 140,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 25,
+      "gas:candidate-vibid:4024049180714": 16,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 445,
+      "gas:candidate-vibid:4024049188404": 140,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 16,
-      "Бирюзов Юрий Леонидович": 24,
-      "Губайдуллин Азамат Мунирович": 41,
-      "Изотов Алексей Николаевич": 281,
-      "Старов Вадим Николаевич": 100,
-      "Усманов Нурислам Карамович": 19,
-      "Шагапова Руфина Аликовна": 11
+      "gas:candidate-vibid:4024049180450": 16,
+      "gas:candidate-vibid:4024049180714": 24,
+      "gas:candidate-vibid:4024049188832": 41,
+      "gas:candidate-vibid:4024049188792": 281,
+      "gas:candidate-vibid:4024049188404": 100,
+      "gas:candidate-vibid:4024049188889": 19,
+      "gas:candidate-vibid:4024049188567": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 15,
-      "Изотов Алексей Николаевич": 127,
-      "Старов Вадим Николаевич": 71,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 51
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 15,
+      "gas:candidate-vibid:4024049188792": 127,
+      "gas:candidate-vibid:4024049188404": 71,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 1,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 177,
-      "Старов Вадим Николаевич": 99,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 58
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 1,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 177,
+      "gas:candidate-vibid:4024049188404": 99,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 11,
-      "Изотов Алексей Николаевич": 450,
-      "Старов Вадим Николаевич": 35,
-      "Усманов Нурислам Карамович": 10,
-      "Шагапова Руфина Аликовна": 6
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 11,
+      "gas:candidate-vibid:4024049188792": 450,
+      "gas:candidate-vibid:4024049188404": 35,
+      "gas:candidate-vibid:4024049188889": 10,
+      "gas:candidate-vibid:4024049188567": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 14,
-      "Бирюзов Юрий Леонидович": 30,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 232,
-      "Старов Вадим Николаевич": 65,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 5
+      "gas:candidate-vibid:4024049180450": 14,
+      "gas:candidate-vibid:4024049180714": 30,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 232,
+      "gas:candidate-vibid:4024049188404": 65,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 8,
-      "Бирюзов Юрий Леонидович": 6,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 69,
-      "Старов Вадим Николаевич": 51,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 6
+      "gas:candidate-vibid:4024049180450": 8,
+      "gas:candidate-vibid:4024049180714": 6,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 69,
+      "gas:candidate-vibid:4024049188404": 51,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 2,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 50,
-      "Старов Вадим Николаевич": 30,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 1
+      "gas:candidate-vibid:4024049180450": 2,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 50,
+      "gas:candidate-vibid:4024049188404": 30,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 24,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 2,
-      "Изотов Алексей Николаевич": 193,
-      "Старов Вадим Николаевич": 23,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 24,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 2,
+      "gas:candidate-vibid:4024049188792": 193,
+      "gas:candidate-vibid:4024049188404": 23,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 17,
-      "Губайдуллин Азамат Мунирович": 8,
-      "Изотов Алексей Николаевич": 268,
-      "Старов Вадим Николаевич": 143,
-      "Усманов Нурислам Карамович": 3,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 17,
+      "gas:candidate-vibid:4024049188832": 8,
+      "gas:candidate-vibid:4024049188792": 268,
+      "gas:candidate-vibid:4024049188404": 143,
+      "gas:candidate-vibid:4024049188889": 3,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 12,
-      "Губайдуллин Азамат Мунирович": 5,
-      "Изотов Алексей Николаевич": 102,
-      "Старов Вадим Николаевич": 84,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 2
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 12,
+      "gas:candidate-vibid:4024049188832": 5,
+      "gas:candidate-vibid:4024049188792": 102,
+      "gas:candidate-vibid:4024049188404": 84,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 31,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 15,
-      "Изотов Алексей Николаевич": 353,
-      "Старов Вадим Николаевич": 79,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 43
+      "gas:candidate-vibid:4024049180450": 31,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 15,
+      "gas:candidate-vibid:4024049188792": 353,
+      "gas:candidate-vibid:4024049188404": 79,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 35,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 323,
-      "Старов Вадим Николаевич": 128,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 47
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 35,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 323,
+      "gas:candidate-vibid:4024049188404": 128,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 15,
-      "Бирюзов Юрий Леонидович": 6,
-      "Губайдуллин Азамат Мунирович": 15,
-      "Изотов Алексей Николаевич": 129,
-      "Старов Вадим Николаевич": 50,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 15,
+      "gas:candidate-vibid:4024049180714": 6,
+      "gas:candidate-vibid:4024049188832": 15,
+      "gas:candidate-vibid:4024049188792": 129,
+      "gas:candidate-vibid:4024049188404": 50,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 4,
-      "Бирюзов Юрий Леонидович": 19,
-      "Губайдуллин Азамат Мунирович": 10,
-      "Изотов Алексей Николаевич": 117,
-      "Старов Вадим Николаевич": 10,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 3
+      "gas:candidate-vibid:4024049180450": 4,
+      "gas:candidate-vibid:4024049180714": 19,
+      "gas:candidate-vibid:4024049188832": 10,
+      "gas:candidate-vibid:4024049188792": 117,
+      "gas:candidate-vibid:4024049188404": 10,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 3,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 626,
-      "Старов Вадим Николаевич": 413,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 187
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 3,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 626,
+      "gas:candidate-vibid:4024049188404": 413,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 102,
-      "Бирюзов Юрий Леонидович": 108,
-      "Губайдуллин Азамат Мунирович": 97,
-      "Изотов Алексей Николаевич": 559,
-      "Старов Вадим Николаевич": 154,
-      "Усманов Нурислам Карамович": 45,
-      "Шагапова Руфина Аликовна": 94
+      "gas:candidate-vibid:4024049180450": 102,
+      "gas:candidate-vibid:4024049180714": 108,
+      "gas:candidate-vibid:4024049188832": 97,
+      "gas:candidate-vibid:4024049188792": 559,
+      "gas:candidate-vibid:4024049188404": 154,
+      "gas:candidate-vibid:4024049188889": 45,
+      "gas:candidate-vibid:4024049188567": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 35,
-      "Бирюзов Юрий Леонидович": 34,
-      "Губайдуллин Азамат Мунирович": 27,
-      "Изотов Алексей Николаевич": 158,
-      "Старов Вадим Николаевич": 224,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 27
+      "gas:candidate-vibid:4024049180450": 35,
+      "gas:candidate-vibid:4024049180714": 34,
+      "gas:candidate-vibid:4024049188832": 27,
+      "gas:candidate-vibid:4024049188792": 158,
+      "gas:candidate-vibid:4024049188404": 224,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 49,
-      "Бирюзов Юрий Леонидович": 84,
-      "Губайдуллин Азамат Мунирович": 99,
-      "Изотов Алексей Николаевич": 443,
-      "Старов Вадим Николаевич": 154,
-      "Усманов Нурислам Карамович": 22,
-      "Шагапова Руфина Аликовна": 35
+      "gas:candidate-vibid:4024049180450": 49,
+      "gas:candidate-vibid:4024049180714": 84,
+      "gas:candidate-vibid:4024049188832": 99,
+      "gas:candidate-vibid:4024049188792": 443,
+      "gas:candidate-vibid:4024049188404": 154,
+      "gas:candidate-vibid:4024049188889": 22,
+      "gas:candidate-vibid:4024049188567": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 57,
-      "Бирюзов Юрий Леонидович": 34,
-      "Губайдуллин Азамат Мунирович": 63,
-      "Изотов Алексей Николаевич": 464,
-      "Старов Вадим Николаевич": 87,
-      "Усманов Нурислам Карамович": 27,
-      "Шагапова Руфина Аликовна": 146
+      "gas:candidate-vibid:4024049180450": 57,
+      "gas:candidate-vibid:4024049180714": 34,
+      "gas:candidate-vibid:4024049188832": 63,
+      "gas:candidate-vibid:4024049188792": 464,
+      "gas:candidate-vibid:4024049188404": 87,
+      "gas:candidate-vibid:4024049188889": 27,
+      "gas:candidate-vibid:4024049188567": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 5,
-      "Бирюзов Юрий Леонидович": 28,
-      "Губайдуллин Азамат Мунирович": 6,
-      "Изотов Алексей Николаевич": 145,
-      "Старов Вадим Николаевич": 92,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 32
+      "gas:candidate-vibid:4024049180450": 5,
+      "gas:candidate-vibid:4024049180714": 28,
+      "gas:candidate-vibid:4024049188832": 6,
+      "gas:candidate-vibid:4024049188792": 145,
+      "gas:candidate-vibid:4024049188404": 92,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 2,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 192,
-      "Старов Вадим Николаевич": 82,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 2,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 192,
+      "gas:candidate-vibid:4024049188404": 82,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 10,
-      "Бирюзов Юрий Леонидович": 6,
-      "Губайдуллин Азамат Мунирович": 1,
-      "Изотов Алексей Николаевич": 80,
-      "Старов Вадим Николаевич": 80,
-      "Усманов Нурислам Карамович": 1,
-      "Шагапова Руфина Аликовна": 1
+      "gas:candidate-vibid:4024049180450": 10,
+      "gas:candidate-vibid:4024049180714": 6,
+      "gas:candidate-vibid:4024049188832": 1,
+      "gas:candidate-vibid:4024049188792": 80,
+      "gas:candidate-vibid:4024049188404": 80,
+      "gas:candidate-vibid:4024049188889": 1,
+      "gas:candidate-vibid:4024049188567": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 13,
-      "Бирюзов Юрий Леонидович": 31,
-      "Губайдуллин Азамат Мунирович": 17,
-      "Изотов Алексей Николаевич": 383,
-      "Старов Вадим Николаевич": 34,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 11
+      "gas:candidate-vibid:4024049180450": 13,
+      "gas:candidate-vibid:4024049180714": 31,
+      "gas:candidate-vibid:4024049188832": 17,
+      "gas:candidate-vibid:4024049188792": 383,
+      "gas:candidate-vibid:4024049188404": 34,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 21,
-      "Бирюзов Юрий Леонидович": 13,
-      "Губайдуллин Азамат Мунирович": 3,
-      "Изотов Алексей Николаевич": 106,
-      "Старов Вадим Николаевич": 54,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 3
+      "gas:candidate-vibid:4024049180450": 21,
+      "gas:candidate-vibid:4024049180714": 13,
+      "gas:candidate-vibid:4024049188832": 3,
+      "gas:candidate-vibid:4024049188792": 106,
+      "gas:candidate-vibid:4024049188404": 54,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 48,
-      "Бирюзов Юрий Леонидович": 21,
-      "Губайдуллин Азамат Мунирович": 9,
-      "Изотов Алексей Николаевич": 193,
-      "Старов Вадим Николаевич": 38,
-      "Усманов Нурислам Карамович": 6,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 48,
+      "gas:candidate-vibid:4024049180714": 21,
+      "gas:candidate-vibid:4024049188832": 9,
+      "gas:candidate-vibid:4024049188792": 193,
+      "gas:candidate-vibid:4024049188404": 38,
+      "gas:candidate-vibid:4024049188889": 6,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 11,
-      "Губайдуллин Азамат Мунирович": 19,
-      "Изотов Алексей Николаевич": 330,
-      "Старов Вадим Николаевич": 76,
-      "Усманов Нурислам Карамович": 2,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 11,
+      "gas:candidate-vibid:4024049188832": 19,
+      "gas:candidate-vibid:4024049188792": 330,
+      "gas:candidate-vibid:4024049188404": 76,
+      "gas:candidate-vibid:4024049188889": 2,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 8,
-      "Губайдуллин Азамат Мунирович": 14,
-      "Изотов Алексей Николаевич": 144,
-      "Старов Вадим Николаевич": 23,
-      "Усманов Нурислам Карамович": 7,
-      "Шагапова Руфина Аликовна": 1
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 8,
+      "gas:candidate-vibid:4024049188832": 14,
+      "gas:candidate-vibid:4024049188792": 144,
+      "gas:candidate-vibid:4024049188404": 23,
+      "gas:candidate-vibid:4024049188889": 7,
+      "gas:candidate-vibid:4024049188567": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 28,
-      "Губайдуллин Азамат Мунирович": 36,
-      "Изотов Алексей Николаевич": 181,
-      "Старов Вадим Николаевич": 94,
-      "Усманов Нурислам Карамович": 15,
-      "Шагапова Руфина Аликовна": 0
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 28,
+      "gas:candidate-vibid:4024049188832": 36,
+      "gas:candidate-vibid:4024049188792": 181,
+      "gas:candidate-vibid:4024049188404": 94,
+      "gas:candidate-vibid:4024049188889": 15,
+      "gas:candidate-vibid:4024049188567": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 0,
-      "Бирюзов Юрий Леонидович": 10,
-      "Губайдуллин Азамат Мунирович": 4,
-      "Изотов Алексей Николаевич": 165,
-      "Старов Вадим Николаевич": 75,
-      "Усманов Нурислам Карамович": 5,
-      "Шагапова Руфина Аликовна": 7
+      "gas:candidate-vibid:4024049180450": 0,
+      "gas:candidate-vibid:4024049180714": 10,
+      "gas:candidate-vibid:4024049188832": 4,
+      "gas:candidate-vibid:4024049188792": 165,
+      "gas:candidate-vibid:4024049188404": 75,
+      "gas:candidate-vibid:4024049188889": 5,
+      "gas:candidate-vibid:4024049188567": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 7,
-      "Бирюзов Юрий Леонидович": 0,
-      "Губайдуллин Азамат Мунирович": 0,
-      "Изотов Алексей Николаевич": 98,
-      "Старов Вадим Николаевич": 45,
-      "Усманов Нурислам Карамович": 0,
-      "Шагапова Руфина Аликовна": 8
+      "gas:candidate-vibid:4024049180450": 7,
+      "gas:candidate-vibid:4024049180714": 0,
+      "gas:candidate-vibid:4024049188832": 0,
+      "gas:candidate-vibid:4024049188792": 98,
+      "gas:candidate-vibid:4024049188404": 45,
+      "gas:candidate-vibid:4024049188889": 0,
+      "gas:candidate-vibid:4024049188567": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 24,
-      "Бирюзов Юрий Леонидович": 7,
-      "Губайдуллин Азамат Мунирович": 16,
-      "Изотов Алексей Николаевич": 305,
-      "Старов Вадим Николаевич": 170,
-      "Усманов Нурислам Карамович": 8,
-      "Шагапова Руфина Аликовна": 120
+      "gas:candidate-vibid:4024049180450": 24,
+      "gas:candidate-vibid:4024049180714": 7,
+      "gas:candidate-vibid:4024049188832": 16,
+      "gas:candidate-vibid:4024049188792": 305,
+      "gas:candidate-vibid:4024049188404": 170,
+      "gas:candidate-vibid:4024049188889": 8,
+      "gas:candidate-vibid:4024049188567": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684982&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684982&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 65,
-      "Бирюзов Юрий Леонидович": 64,
-      "Губайдуллин Азамат Мунирович": 63,
-      "Изотов Алексей Николаевич": 303,
-      "Старов Вадим Николаевич": 194,
-      "Усманов Нурислам Карамович": 59,
-      "Шагапова Руфина Аликовна": 101
+      "gas:candidate-vibid:4024049180450": 65,
+      "gas:candidate-vibid:4024049180714": 64,
+      "gas:candidate-vibid:4024049188832": 63,
+      "gas:candidate-vibid:4024049188792": 303,
+      "gas:candidate-vibid:4024049188404": 194,
+      "gas:candidate-vibid:4024049188889": 59,
+      "gas:candidate-vibid:4024049188567": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684983&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684983&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 121,
-      "Бирюзов Юрий Леонидович": 62,
-      "Губайдуллин Азамат Мунирович": 22,
-      "Изотов Алексей Николаевич": 307,
-      "Старов Вадим Николаевич": 175,
-      "Усманов Нурислам Карамович": 9,
-      "Шагапова Руфина Аликовна": 132
+      "gas:candidate-vibid:4024049180450": 121,
+      "gas:candidate-vibid:4024049180714": 62,
+      "gas:candidate-vibid:4024049188832": 22,
+      "gas:candidate-vibid:4024049188792": 307,
+      "gas:candidate-vibid:4024049188404": 175,
+      "gas:candidate-vibid:4024049188889": 9,
+      "gas:candidate-vibid:4024049188567": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684983&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684983&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 40,
-      "Бирюзов Юрий Леонидович": 35,
-      "Губайдуллин Азамат Мунирович": 61,
-      "Изотов Алексей Николаевич": 519,
-      "Старов Вадим Николаевич": 353,
-      "Усманов Нурислам Карамович": 56,
-      "Шагапова Руфина Аликовна": 181
+      "gas:candidate-vibid:4024049180450": 40,
+      "gas:candidate-vibid:4024049180714": 35,
+      "gas:candidate-vibid:4024049188832": 61,
+      "gas:candidate-vibid:4024049188792": 519,
+      "gas:candidate-vibid:4024049188404": 353,
+      "gas:candidate-vibid:4024049188889": 56,
+      "gas:candidate-vibid:4024049188567": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684983&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684983&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 60,
-      "Бирюзов Юрий Леонидович": 26,
-      "Губайдуллин Азамат Мунирович": 25,
-      "Изотов Алексей Николаевич": 549,
-      "Старов Вадим Николаевич": 452,
-      "Усманов Нурислам Карамович": 31,
-      "Шагапова Руфина Аликовна": 102
+      "gas:candidate-vibid:4024049180450": 60,
+      "gas:candidate-vibid:4024049180714": 26,
+      "gas:candidate-vibid:4024049188832": 25,
+      "gas:candidate-vibid:4024049188792": 549,
+      "gas:candidate-vibid:4024049188404": 452,
+      "gas:candidate-vibid:4024049188889": 31,
+      "gas:candidate-vibid:4024049188567": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684983&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684983&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 75,
-      "Бирюзов Юрий Леонидович": 77,
-      "Губайдуллин Азамат Мунирович": 90,
-      "Изотов Алексей Николаевич": 461,
-      "Старов Вадим Николаевич": 302,
-      "Усманов Нурислам Карамович": 89,
-      "Шагапова Руфина Аликовна": 182
+      "gas:candidate-vibid:4024049180450": 75,
+      "gas:candidate-vibid:4024049180714": 77,
+      "gas:candidate-vibid:4024049188832": 90,
+      "gas:candidate-vibid:4024049188792": 461,
+      "gas:candidate-vibid:4024049188404": 302,
+      "gas:candidate-vibid:4024049188889": 89,
+      "gas:candidate-vibid:4024049188567": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684983&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684983&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_3_part_011 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ананьева Вероника Валерьевна": 38,
-      "Бирюзов Юрий Леонидович": 20,
-      "Губайдуллин Азамат Мунирович": 45,
-      "Изотов Алексей Николаевич": 446,
-      "Старов Вадим Николаевич": 201,
-      "Усманов Нурислам Карамович": 15,
-      "Шагапова Руфина Аликовна": 70
+      "gas:candidate-vibid:4024049180450": 38,
+      "gas:candidate-vibid:4024049180714": 20,
+      "gas:candidate-vibid:4024049188832": 45,
+      "gas:candidate-vibid:4024049188792": 446,
+      "gas:candidate-vibid:4024049188404": 201,
+      "gas:candidate-vibid:4024049188889": 15,
+      "gas:candidate-vibid:4024049188567": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/bashkortostan?action=show&root=1000011&tvd=20220001684983&vrn=100100067795849&region=3&global=&sub_region=3&prver=0&pronetvd=null&vibid=20220001684983&type=464",

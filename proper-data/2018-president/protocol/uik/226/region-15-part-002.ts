@@ -32,14 +32,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 27,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 268,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 27,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 268,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -79,14 +79,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 43,
-      "Путин Владимир Владимирович": 668,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 20,
-      "Титов Борис Юрьевич": 13,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 43,
+      "gas:candidate-vibid:100100084986022": 668,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 20,
+      "gas:candidate-vibid:100100084928393": 13,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -126,14 +126,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 69,
-      "Жириновский Владимир Вольфович": 35,
-      "Путин Владимир Владимирович": 585,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 24,
-      "Титов Борис Юрьевич": 16,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 69,
+      "gas:candidate-vibid:100100084907814": 35,
+      "gas:candidate-vibid:100100084986022": 585,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 24,
+      "gas:candidate-vibid:100100084928393": 16,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -173,14 +173,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 110,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 150,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 110,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 150,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -220,14 +220,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 99,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 99,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -267,14 +267,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 189,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 189,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -314,14 +314,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 79,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 79,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -361,14 +361,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -408,14 +408,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 174,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 174,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -455,14 +455,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -502,14 +502,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536155&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536155&type=227",
@@ -549,14 +549,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 111,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 1172,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 72,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 111,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 1172,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 72,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -596,14 +596,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 185,
-      "Жириновский Владимир Вольфович": 34,
-      "Путин Владимир Владимирович": 683,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 38,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 185,
+      "gas:candidate-vibid:100100084907814": 34,
+      "gas:candidate-vibid:100100084986022": 683,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 38,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -643,14 +643,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 68,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 806,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 68,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 806,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -690,14 +690,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 162,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 1629,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 65,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 162,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 1629,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 65,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -737,14 +737,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 186,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 1636,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 186,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 1636,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -784,14 +784,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 177,
-      "Жириновский Владимир Вольфович": 38,
-      "Путин Владимир Владимирович": 1814,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 34,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 177,
+      "gas:candidate-vibid:100100084907814": 38,
+      "gas:candidate-vibid:100100084986022": 1814,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 34,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -831,14 +831,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 132,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 1917,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 36,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 132,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 1917,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 36,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -878,14 +878,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 102,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 737,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 31,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 102,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 737,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 31,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -925,14 +925,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 105,
-      "Жириновский Владимир Вольфович": 43,
-      "Путин Владимир Владимирович": 1152,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 56,
-      "Титов Борис Юрьевич": 21,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 105,
+      "gas:candidate-vibid:100100084907814": 43,
+      "gas:candidate-vibid:100100084986022": 1152,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 56,
+      "gas:candidate-vibid:100100084928393": 21,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -972,14 +972,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 163,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 1533,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 21,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 163,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 1533,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 21,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -1019,14 +1019,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 117,
-      "Жириновский Владимир Вольфович": 44,
-      "Путин Владимир Владимирович": 1211,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 84,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 117,
+      "gas:candidate-vibid:100100084907814": 44,
+      "gas:candidate-vibid:100100084986022": 1211,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 84,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -1066,14 +1066,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 97,
-      "Жириновский Владимир Вольфович": 24,
-      "Путин Владимир Владимирович": 559,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 29,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 97,
+      "gas:candidate-vibid:100100084907814": 24,
+      "gas:candidate-vibid:100100084986022": 559,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 29,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -1113,14 +1113,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 73,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 273,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 73,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 273,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536156&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536156&type=227",
@@ -1160,14 +1160,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 242,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 1272,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 242,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 1272,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1207,14 +1207,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 136,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 1192,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 47,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 136,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 1192,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 47,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1254,14 +1254,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 109,
-      "Жириновский Владимир Вольфович": 41,
-      "Путин Владимир Владимирович": 861,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 46,
-      "Титов Борис Юрьевич": 26,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 109,
+      "gas:candidate-vibid:100100084907814": 41,
+      "gas:candidate-vibid:100100084986022": 861,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 46,
+      "gas:candidate-vibid:100100084928393": 26,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1301,14 +1301,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 311,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 1308,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 18,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 311,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 1308,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 18,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1348,14 +1348,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 124,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 1197,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 124,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 1197,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1395,14 +1395,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 120,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 2293,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 120,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 2293,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1442,14 +1442,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 116,
-      "Жириновский Владимир Вольфович": 35,
-      "Путин Владимир Владимирович": 911,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 50,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 116,
+      "gas:candidate-vibid:100100084907814": 35,
+      "gas:candidate-vibid:100100084986022": 911,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 50,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1489,14 +1489,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 89,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 875,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 89,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 875,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1536,14 +1536,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 154,
-      "Жириновский Владимир Вольфович": 60,
-      "Путин Владимир Владимирович": 1632,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 54,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 154,
+      "gas:candidate-vibid:100100084907814": 60,
+      "gas:candidate-vibid:100100084986022": 1632,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 54,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1583,14 +1583,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 120,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 1116,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 120,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 1116,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1630,14 +1630,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 215,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 1251,
-      "Собчак Ксения Анатольевна": 20,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 215,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 1251,
+      "gas:candidate-vibid:100100084956361": 20,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1677,14 +1677,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 82,
-      "Жириновский Владимир Вольфович": 38,
-      "Путин Владимир Владимирович": 629,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 82,
+      "gas:candidate-vibid:100100084907814": 38,
+      "gas:candidate-vibid:100100084986022": 629,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1724,14 +1724,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 101,
-      "Жириновский Владимир Вольфович": 41,
-      "Путин Владимир Владимирович": 1310,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 48,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 101,
+      "gas:candidate-vibid:100100084907814": 41,
+      "gas:candidate-vibid:100100084986022": 1310,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 48,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1771,14 +1771,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 146,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 958,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 146,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 958,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1818,14 +1818,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 182,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 2094,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 182,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 2094,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1865,14 +1865,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 100,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 581,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 100,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 581,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1912,14 +1912,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 77,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 598,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 25,
-      "Титов Борис Юрьевич": 21,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 77,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 598,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 25,
+      "gas:candidate-vibid:100100084928393": 21,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -1959,14 +1959,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 264,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 1324,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 17,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 264,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 1324,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 17,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2006,14 +2006,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 474,
-      "Жириновский Владимир Вольфович": 41,
-      "Путин Владимир Владимирович": 1636,
-      "Собчак Ксения Анатольевна": 21,
-      "Сурайкин Максим Александрович": 32,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 22
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 474,
+      "gas:candidate-vibid:100100084907814": 41,
+      "gas:candidate-vibid:100100084986022": 1636,
+      "gas:candidate-vibid:100100084956361": 21,
+      "gas:candidate-vibid:100100084946387": 32,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2053,14 +2053,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 218,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 900,
-      "Собчак Ксения Анатольевна": 33,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 13
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 218,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 900,
+      "gas:candidate-vibid:100100084956361": 33,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2100,14 +2100,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 158,
-      "Жириновский Владимир Вольфович": 55,
-      "Путин Владимир Владимирович": 1870,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 112,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 158,
+      "gas:candidate-vibid:100100084907814": 55,
+      "gas:candidate-vibid:100100084986022": 1870,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 112,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2147,14 +2147,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 814,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 814,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2194,14 +2194,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 116,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 843,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 29,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 116,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 843,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 29,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2241,14 +2241,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 272,
-      "Жириновский Владимир Вольфович": 45,
-      "Путин Владимир Владимирович": 1658,
-      "Собчак Ксения Анатольевна": 25,
-      "Сурайкин Максим Александрович": 20,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 272,
+      "gas:candidate-vibid:100100084907814": 45,
+      "gas:candidate-vibid:100100084986022": 1658,
+      "gas:candidate-vibid:100100084956361": 25,
+      "gas:candidate-vibid:100100084946387": 20,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2288,14 +2288,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 132,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 2220,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 19,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 132,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 2220,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 19,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2335,14 +2335,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 210,
-      "Жириновский Владимир Вольфович": 29,
-      "Путин Владимир Владимирович": 1836,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 20,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 210,
+      "gas:candidate-vibid:100100084907814": 29,
+      "gas:candidate-vibid:100100084986022": 1836,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 20,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2382,14 +2382,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 223,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 1735,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 60,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 223,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 1735,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 60,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2429,14 +2429,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 675,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 675,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2476,14 +2476,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 168,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 1283,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 168,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 1283,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2523,14 +2523,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 114,
-      "Жириновский Владимир Вольфович": 44,
-      "Путин Владимир Владимирович": 1773,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 114,
+      "gas:candidate-vibid:100100084907814": 44,
+      "gas:candidate-vibid:100100084986022": 1773,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2570,14 +2570,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 296,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 2200,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 296,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 2200,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2617,14 +2617,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 210,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 2188,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 17,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 210,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 2188,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 17,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2664,14 +2664,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 196,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 2471,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 196,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 2471,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2711,14 +2711,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 223,
-      "Жириновский Владимир Вольфович": 24,
-      "Путин Владимир Владимирович": 2426,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 223,
+      "gas:candidate-vibid:100100084907814": 24,
+      "gas:candidate-vibid:100100084986022": 2426,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2758,14 +2758,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 150,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 1353,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 150,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 1353,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2805,14 +2805,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 117,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 1202,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 40,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 117,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 1202,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 40,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2852,14 +2852,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 268,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 1364,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 268,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 1364,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2899,14 +2899,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 596,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 596,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2946,14 +2946,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 226,
-      "Жириновский Владимир Вольфович": 70,
-      "Путин Владимир Владимирович": 1864,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 63,
-      "Титов Борис Юрьевич": 28,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 226,
+      "gas:candidate-vibid:100100084907814": 70,
+      "gas:candidate-vibid:100100084986022": 1864,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 63,
+      "gas:candidate-vibid:100100084928393": 28,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -2993,14 +2993,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 72,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 801,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 72,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 801,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3040,14 +3040,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 164,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 1470,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 164,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 1470,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3087,14 +3087,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 52,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 729,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 52,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 729,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3134,14 +3134,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 332,
-      "Жириновский Владимир Вольфович": 33,
-      "Путин Владимир Владимирович": 1051,
-      "Собчак Ксения Анатольевна": 37,
-      "Сурайкин Максим Александрович": 19,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 15
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 332,
+      "gas:candidate-vibid:100100084907814": 33,
+      "gas:candidate-vibid:100100084986022": 1051,
+      "gas:candidate-vibid:100100084956361": 37,
+      "gas:candidate-vibid:100100084946387": 19,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3181,14 +3181,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 241,
-      "Жириновский Владимир Вольфович": 47,
-      "Путин Владимир Владимирович": 1196,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 21,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 241,
+      "gas:candidate-vibid:100100084907814": 47,
+      "gas:candidate-vibid:100100084986022": 1196,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 21,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3228,14 +3228,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 110,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 1047,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 28,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 110,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 1047,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 28,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3275,14 +3275,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 60,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 1121,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 60,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 1121,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3322,14 +3322,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 185,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 1649,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 185,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 1649,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3369,14 +3369,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 93,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 1775,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 93,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 1775,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3416,14 +3416,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 46,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 2542,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 46,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 2542,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3463,14 +3463,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 215,
-      "Жириновский Владимир Вольфович": 60,
-      "Путин Владимир Владимирович": 1548,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 63,
-      "Титов Борис Юрьевич": 26,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 215,
+      "gas:candidate-vibid:100100084907814": 60,
+      "gas:candidate-vibid:100100084986022": 1548,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 63,
+      "gas:candidate-vibid:100100084928393": 26,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3510,14 +3510,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 165,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 1146,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 37,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 165,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 1146,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 37,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3557,14 +3557,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 159,
-      "Жириновский Владимир Вольфович": 45,
-      "Путин Владимир Владимирович": 1250,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 30,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 159,
+      "gas:candidate-vibid:100100084907814": 45,
+      "gas:candidate-vibid:100100084986022": 1250,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 30,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3604,14 +3604,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 76,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 664,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 17,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 76,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 664,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 17,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3651,14 +3651,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 118,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 640,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 19,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 118,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 640,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 19,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3698,14 +3698,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 433,
-      "Жириновский Владимир Вольфович": 45,
-      "Путин Владимир Владимирович": 1654,
-      "Собчак Ксения Анатольевна": 24,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 15
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 433,
+      "gas:candidate-vibid:100100084907814": 45,
+      "gas:candidate-vibid:100100084986022": 1654,
+      "gas:candidate-vibid:100100084956361": 24,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3745,14 +3745,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 168,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 1310,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 168,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 1310,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3792,14 +3792,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 185,
-      "Жириновский Владимир Вольфович": 23,
-      "Путин Владимир Владимирович": 1280,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 185,
+      "gas:candidate-vibid:100100084907814": 23,
+      "gas:candidate-vibid:100100084986022": 1280,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3839,14 +3839,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 218,
-      "Жириновский Владимир Вольфович": 53,
-      "Путин Владимир Владимирович": 1689,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 218,
+      "gas:candidate-vibid:100100084907814": 53,
+      "gas:candidate-vibid:100100084986022": 1689,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3886,14 +3886,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 98,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 1145,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 98,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 1145,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3933,14 +3933,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 153,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 1014,
-      "Собчак Ксения Анатольевна": 44,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 43
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 153,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 1014,
+      "gas:candidate-vibid:100100084956361": 44,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -3980,14 +3980,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 49,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 418,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 49,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 418,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4027,14 +4027,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 38,
-      "Жириновский Владимир Вольфович": 30,
-      "Путин Владимир Владимирович": 260,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 38,
+      "gas:candidate-vibid:100100084907814": 30,
+      "gas:candidate-vibid:100100084986022": 260,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4074,14 +4074,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 63,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 63,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4121,14 +4121,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 178,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 178,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4168,14 +4168,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 178,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 178,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4215,14 +4215,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 281,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 281,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4262,14 +4262,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 240,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 240,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4309,14 +4309,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 186,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 186,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4356,14 +4356,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 576,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 576,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4403,14 +4403,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 478,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 478,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536157&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536157&type=227",
@@ -4450,14 +4450,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 197,
-      "Жириновский Владимир Вольфович": 97,
-      "Путин Владимир Владимирович": 1429,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 120,
-      "Титов Борис Юрьевич": 50,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 197,
+      "gas:candidate-vibid:100100084907814": 97,
+      "gas:candidate-vibid:100100084986022": 1429,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 120,
+      "gas:candidate-vibid:100100084928393": 50,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4497,14 +4497,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 194,
-      "Жириновский Владимир Вольфович": 78,
-      "Путин Владимир Владимирович": 1168,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 43,
-      "Титов Борис Юрьевич": 84,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 194,
+      "gas:candidate-vibid:100100084907814": 78,
+      "gas:candidate-vibid:100100084986022": 1168,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 43,
+      "gas:candidate-vibid:100100084928393": 84,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4544,14 +4544,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 181,
-      "Жириновский Владимир Вольфович": 125,
-      "Путин Владимир Владимирович": 1325,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 112,
-      "Титов Борис Юрьевич": 79,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 181,
+      "gas:candidate-vibid:100100084907814": 125,
+      "gas:candidate-vibid:100100084986022": 1325,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 112,
+      "gas:candidate-vibid:100100084928393": 79,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4591,14 +4591,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 87,
-      "Путин Владимир Владимирович": 744,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 59,
-      "Титов Борис Юрьевич": 36,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 87,
+      "gas:candidate-vibid:100100084986022": 744,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 59,
+      "gas:candidate-vibid:100100084928393": 36,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4638,14 +4638,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 302,
-      "Жириновский Владимир Вольфович": 187,
-      "Путин Владимир Владимирович": 1693,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 98,
-      "Титов Борис Юрьевич": 64,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 302,
+      "gas:candidate-vibid:100100084907814": 187,
+      "gas:candidate-vibid:100100084986022": 1693,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 98,
+      "gas:candidate-vibid:100100084928393": 64,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4685,14 +4685,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 398,
-      "Жириновский Владимир Вольфович": 224,
-      "Путин Владимир Владимирович": 425,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 15,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 398,
+      "gas:candidate-vibid:100100084907814": 224,
+      "gas:candidate-vibid:100100084986022": 425,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 15,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4732,14 +4732,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 148,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 876,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 27,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 148,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 876,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 27,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4779,14 +4779,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 45,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 187,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 45,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 187,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4826,14 +4826,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 512,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 512,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4873,14 +4873,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 81,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 762,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 24,
-      "Титов Борис Юрьевич": 29,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 81,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 762,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 24,
+      "gas:candidate-vibid:100100084928393": 29,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4920,14 +4920,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 341,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 1384,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 18,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 341,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 1384,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 18,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -4967,14 +4967,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 351,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 1529,
-      "Собчак Ксения Анатольевна": 18,
-      "Сурайкин Максим Александрович": 16,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 351,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 1529,
+      "gas:candidate-vibid:100100084956361": 18,
+      "gas:candidate-vibid:100100084946387": 16,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5014,14 +5014,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 364,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 1534,
-      "Собчак Ксения Анатольевна": 26,
-      "Сурайкин Максим Александрович": 32,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 23
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 364,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 1534,
+      "gas:candidate-vibid:100100084956361": 26,
+      "gas:candidate-vibid:100100084946387": 32,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5061,14 +5061,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 68,
-      "Путин Владимир Владимирович": 798,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 77,
-      "Титов Борис Юрьевич": 31,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 68,
+      "gas:candidate-vibid:100100084986022": 798,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 77,
+      "gas:candidate-vibid:100100084928393": 31,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5108,14 +5108,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 289,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 1283,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 289,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 1283,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5155,14 +5155,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 393,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 1648,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 44,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 15
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 393,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 1648,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 44,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5202,14 +5202,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 177,
-      "Жириновский Владимир Вольфович": 103,
-      "Путин Владимир Владимирович": 1812,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 28,
-      "Титов Борис Юрьевич": 64,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 177,
+      "gas:candidate-vibid:100100084907814": 103,
+      "gas:candidate-vibid:100100084986022": 1812,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 28,
+      "gas:candidate-vibid:100100084928393": 64,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5249,14 +5249,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 1228,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 68,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 1228,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 68,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5296,14 +5296,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 136,
-      "Жириновский Владимир Вольфович": 78,
-      "Путин Владимир Владимирович": 692,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 34,
-      "Титов Борис Юрьевич": 56,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 136,
+      "gas:candidate-vibid:100100084907814": 78,
+      "gas:candidate-vibid:100100084986022": 692,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 34,
+      "gas:candidate-vibid:100100084928393": 56,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5343,14 +5343,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 163,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 1016,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 163,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 1016,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5390,14 +5390,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 152,
-      "Жириновский Владимир Вольфович": 94,
-      "Путин Владимир Владимирович": 864,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 18,
-      "Титов Борис Юрьевич": 52,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 152,
+      "gas:candidate-vibid:100100084907814": 94,
+      "gas:candidate-vibid:100100084986022": 864,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 18,
+      "gas:candidate-vibid:100100084928393": 52,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5437,14 +5437,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 201,
-      "Жириновский Владимир Вольфович": 127,
-      "Путин Владимир Владимирович": 1645,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 62,
-      "Титов Борис Юрьевич": 108,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 201,
+      "gas:candidate-vibid:100100084907814": 127,
+      "gas:candidate-vibid:100100084986022": 1645,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 62,
+      "gas:candidate-vibid:100100084928393": 108,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5484,14 +5484,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 244,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 1128,
-      "Собчак Ксения Анатольевна": 20,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 244,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 1128,
+      "gas:candidate-vibid:100100084956361": 20,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5531,14 +5531,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 158,
-      "Жириновский Владимир Вольфович": 33,
-      "Путин Владимир Владимирович": 1033,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 47,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 158,
+      "gas:candidate-vibid:100100084907814": 33,
+      "gas:candidate-vibid:100100084986022": 1033,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 47,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5578,14 +5578,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 50,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 291,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 50,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 291,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5625,14 +5625,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 794,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 794,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5672,14 +5672,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 45,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 347,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 45,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 347,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",
@@ -5719,14 +5719,14 @@ export const president_2018_uik_226_region_15_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 34,
-      "Путин Владимир Владимирович": 1191,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 38,
-      "Титов Борис Юрьевич": 24,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 34,
+      "gas:candidate-vibid:100100084986022": 1191,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 38,
+      "gas:candidate-vibid:100100084928393": 24,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/n-osset-alania?action=show&root=1000015&tvd=2152000536158&vrn=100100084849062&region=15&global=&sub_region=15&prver=0&pronetvd=null&vibid=2152000536158&type=227",

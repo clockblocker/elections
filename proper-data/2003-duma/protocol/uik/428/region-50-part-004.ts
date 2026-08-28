@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 481,
-      "Кашин Владимир Иванович": 211,
-      "Королев Александр Петрович": 72,
-      "Котова Эльвира Степановна": 33,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 481,
+      "gas:candidate-vibid:1001000121866": 211,
+      "gas:candidate-vibid:350300370373": 72,
+      "gas:candidate-vibid:1001000195095": 33,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 449,
-      "Кашин Владимир Иванович": 172,
-      "Королев Александр Петрович": 38,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 11,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 449,
+      "gas:candidate-vibid:1001000121866": 172,
+      "gas:candidate-vibid:350300370373": 38,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 11,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 422,
-      "Кашин Владимир Иванович": 122,
-      "Королев Александр Петрович": 63,
-      "Котова Эльвира Степановна": 18,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 422,
+      "gas:candidate-vibid:1001000121866": 122,
+      "gas:candidate-vibid:350300370373": 63,
+      "gas:candidate-vibid:1001000195095": 18,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 277,
-      "Кашин Владимир Иванович": 67,
-      "Королев Александр Петрович": 49,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 277,
+      "gas:candidate-vibid:1001000121866": 67,
+      "gas:candidate-vibid:350300370373": 49,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 22,
-      "Ващенко Алексей Михайлович": 21,
-      "Гудков Геннадий Владимирович": 608,
-      "Кашин Владимир Иванович": 215,
-      "Королев Александр Петрович": 92,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 38,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000217934": 22,
+      "gas:candidate-vibid:350300370379": 21,
+      "gas:candidate-vibid:1001000131401": 608,
+      "gas:candidate-vibid:1001000121866": 215,
+      "gas:candidate-vibid:350300370373": 92,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 38,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 375,
-      "Кашин Владимир Иванович": 136,
-      "Королев Александр Петрович": 45,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 375,
+      "gas:candidate-vibid:1001000121866": 136,
+      "gas:candidate-vibid:350300370373": 45,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 15,
-      "Гудков Геннадий Владимирович": 497,
-      "Кашин Владимир Иванович": 167,
-      "Королев Александр Петрович": 64,
-      "Котова Эльвира Степановна": 33,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 15,
+      "gas:candidate-vibid:1001000131401": 497,
+      "gas:candidate-vibid:1001000121866": 167,
+      "gas:candidate-vibid:350300370373": 64,
+      "gas:candidate-vibid:1001000195095": 33,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 16,
-      "Гудков Геннадий Владимирович": 404,
-      "Кашин Владимир Иванович": 184,
-      "Королев Александр Петрович": 78,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 16,
+      "gas:candidate-vibid:1001000131401": 404,
+      "gas:candidate-vibid:1001000121866": 184,
+      "gas:candidate-vibid:350300370373": 78,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 21,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 550,
-      "Кашин Владимир Иванович": 164,
-      "Королев Александр Петрович": 74,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 26,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000217934": 21,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 550,
+      "gas:candidate-vibid:1001000121866": 164,
+      "gas:candidate-vibid:350300370373": 74,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 26,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 29,
-      "Гудков Геннадий Владимирович": 467,
-      "Кашин Владимир Иванович": 184,
-      "Королев Александр Петрович": 68,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 29,
+      "gas:candidate-vibid:1001000131401": 467,
+      "gas:candidate-vibid:1001000121866": 184,
+      "gas:candidate-vibid:350300370373": 68,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 15,
-      "Гудков Геннадий Владимирович": 600,
-      "Кашин Владимир Иванович": 191,
-      "Королев Александр Петрович": 64,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 15,
+      "gas:candidate-vibid:1001000131401": 600,
+      "gas:candidate-vibid:1001000121866": 191,
+      "gas:candidate-vibid:350300370373": 64,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 18,
-      "Гудков Геннадий Владимирович": 593,
-      "Кашин Владимир Иванович": 114,
-      "Королев Александр Петрович": 82,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 18,
+      "gas:candidate-vibid:1001000131401": 593,
+      "gas:candidate-vibid:1001000121866": 114,
+      "gas:candidate-vibid:350300370373": 82,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 554,
-      "Кашин Владимир Иванович": 144,
-      "Королев Александр Петрович": 99,
-      "Котова Эльвира Степановна": 34,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 554,
+      "gas:candidate-vibid:1001000121866": 144,
+      "gas:candidate-vibid:350300370373": 99,
+      "gas:candidate-vibid:1001000195095": 34,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 617,
-      "Кашин Владимир Иванович": 157,
-      "Королев Александр Петрович": 90,
-      "Котова Эльвира Степановна": 30,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 617,
+      "gas:candidate-vibid:1001000121866": 157,
+      "gas:candidate-vibid:350300370373": 90,
+      "gas:candidate-vibid:1001000195095": 30,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 16,
-      "Гудков Геннадий Владимирович": 565,
-      "Кашин Владимир Иванович": 117,
-      "Королев Александр Петрович": 82,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 21,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 16,
+      "gas:candidate-vibid:1001000131401": 565,
+      "gas:candidate-vibid:1001000121866": 117,
+      "gas:candidate-vibid:350300370373": 82,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 21,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 390,
-      "Кашин Владимир Иванович": 156,
-      "Королев Александр Петрович": 42,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 390,
+      "gas:candidate-vibid:1001000121866": 156,
+      "gas:candidate-vibid:350300370373": 42,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 427,
-      "Кашин Владимир Иванович": 133,
-      "Королев Александр Петрович": 62,
-      "Котова Эльвира Степановна": 26,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 427,
+      "gas:candidate-vibid:1001000121866": 133,
+      "gas:candidate-vibid:350300370373": 62,
+      "gas:candidate-vibid:1001000195095": 26,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 20,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 417,
-      "Кашин Владимир Иванович": 147,
-      "Королев Александр Петрович": 79,
-      "Котова Эльвира Степановна": 32,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000217934": 20,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 417,
+      "gas:candidate-vibid:1001000121866": 147,
+      "gas:candidate-vibid:350300370373": 79,
+      "gas:candidate-vibid:1001000195095": 32,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 16,
-      "Гудков Геннадий Владимирович": 593,
-      "Кашин Владимир Иванович": 176,
-      "Королев Александр Петрович": 69,
-      "Котова Эльвира Степановна": 37,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 16,
+      "gas:candidate-vibid:1001000131401": 593,
+      "gas:candidate-vibid:1001000121866": 176,
+      "gas:candidate-vibid:350300370373": 69,
+      "gas:candidate-vibid:1001000195095": 37,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 674,
-      "Кашин Владимир Иванович": 160,
-      "Королев Александр Петрович": 81,
-      "Котова Эльвира Степановна": 30,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 674,
+      "gas:candidate-vibid:1001000121866": 160,
+      "gas:candidate-vibid:350300370373": 81,
+      "gas:candidate-vibid:1001000195095": 30,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 486,
-      "Кашин Владимир Иванович": 242,
-      "Королев Александр Петрович": 77,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 486,
+      "gas:candidate-vibid:1001000121866": 242,
+      "gas:candidate-vibid:350300370373": 77,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 503,
-      "Кашин Владимир Иванович": 110,
-      "Королев Александр Петрович": 76,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 26,
-      "Кухаренко Александр Александрович": 15,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 503,
+      "gas:candidate-vibid:1001000121866": 110,
+      "gas:candidate-vibid:350300370373": 76,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 26,
+      "gas:candidate-vibid:350300370382": 15,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 23,
-      "Гудков Геннадий Владимирович": 567,
-      "Кашин Владимир Иванович": 334,
-      "Королев Александр Петрович": 78,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 27,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 23,
+      "gas:candidate-vibid:1001000131401": 567,
+      "gas:candidate-vibid:1001000121866": 334,
+      "gas:candidate-vibid:350300370373": 78,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 27,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 481,
-      "Кашин Владимир Иванович": 112,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 481,
+      "gas:candidate-vibid:1001000121866": 112,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 428,
-      "Кашин Владимир Иванович": 97,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 28,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 428,
+      "gas:candidate-vibid:1001000121866": 97,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 28,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 229,
-      "Кашин Владимир Иванович": 99,
-      "Королев Александр Петрович": 36,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 229,
+      "gas:candidate-vibid:1001000121866": 99,
+      "gas:candidate-vibid:350300370373": 36,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 17,
-      "Гудков Геннадий Владимирович": 616,
-      "Кашин Владимир Иванович": 153,
-      "Королев Александр Петрович": 107,
-      "Котова Эльвира Степановна": 38,
-      "Кулешов Владимир Ефимович": 47,
-      "Кухаренко Александр Александрович": 22,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 17,
+      "gas:candidate-vibid:1001000131401": 616,
+      "gas:candidate-vibid:1001000121866": 153,
+      "gas:candidate-vibid:350300370373": 107,
+      "gas:candidate-vibid:1001000195095": 38,
+      "gas:candidate-vibid:1001000289822": 47,
+      "gas:candidate-vibid:350300370382": 22,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 22,
-      "Ващенко Алексей Михайлович": 17,
-      "Гудков Геннадий Владимирович": 588,
-      "Кашин Владимир Иванович": 157,
-      "Королев Александр Петрович": 71,
-      "Котова Эльвира Степановна": 31,
-      "Кулешов Владимир Ефимович": 29,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000217934": 22,
+      "gas:candidate-vibid:350300370379": 17,
+      "gas:candidate-vibid:1001000131401": 588,
+      "gas:candidate-vibid:1001000121866": 157,
+      "gas:candidate-vibid:350300370373": 71,
+      "gas:candidate-vibid:1001000195095": 31,
+      "gas:candidate-vibid:1001000289822": 29,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 428,
-      "Кашин Владимир Иванович": 170,
-      "Королев Александр Петрович": 73,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 18,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 428,
+      "gas:candidate-vibid:1001000121866": 170,
+      "gas:candidate-vibid:350300370373": 73,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 18,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 562,
-      "Кашин Владимир Иванович": 167,
-      "Королев Александр Петрович": 62,
-      "Котова Эльвира Степановна": 31,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 562,
+      "gas:candidate-vibid:1001000121866": 167,
+      "gas:candidate-vibid:350300370373": 62,
+      "gas:candidate-vibid:1001000195095": 31,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 358,
-      "Кашин Владимир Иванович": 137,
-      "Королев Александр Петрович": 35,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 358,
+      "gas:candidate-vibid:1001000121866": 137,
+      "gas:candidate-vibid:350300370373": 35,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 20,
-      "Гудков Геннадий Владимирович": 616,
-      "Кашин Владимир Иванович": 160,
-      "Королев Александр Петрович": 75,
-      "Котова Эльвира Степановна": 39,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 20,
+      "gas:candidate-vibid:1001000131401": 616,
+      "gas:candidate-vibid:1001000121866": 160,
+      "gas:candidate-vibid:350300370373": 75,
+      "gas:candidate-vibid:1001000195095": 39,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 495,
-      "Кашин Владимир Иванович": 103,
-      "Королев Александр Петрович": 48,
-      "Котова Эльвира Степановна": 28,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 495,
+      "gas:candidate-vibid:1001000121866": 103,
+      "gas:candidate-vibid:350300370373": 48,
+      "gas:candidate-vibid:1001000195095": 28,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 669,
-      "Кашин Владимир Иванович": 118,
-      "Королев Александр Петрович": 69,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 669,
+      "gas:candidate-vibid:1001000121866": 118,
+      "gas:candidate-vibid:350300370373": 69,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 21,
-      "Ващенко Алексей Михайлович": 25,
-      "Гудков Геннадий Владимирович": 406,
-      "Кашин Владимир Иванович": 118,
-      "Королев Александр Петрович": 60,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 32,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000217934": 21,
+      "gas:candidate-vibid:350300370379": 25,
+      "gas:candidate-vibid:1001000131401": 406,
+      "gas:candidate-vibid:1001000121866": 118,
+      "gas:candidate-vibid:350300370373": 60,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 32,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 42,
-      "Ващенко Алексей Михайлович": 105,
-      "Гудков Геннадий Владимирович": 740,
-      "Кашин Владимир Иванович": 200,
-      "Королев Александр Петрович": 172,
-      "Котова Эльвира Степановна": 83,
-      "Кулешов Владимир Ефимович": 109,
-      "Кухаренко Александр Александрович": 29,
-      "Против всех": 530
+      "gas:candidate-vibid:1001000217934": 42,
+      "gas:candidate-vibid:350300370379": 105,
+      "gas:candidate-vibid:1001000131401": 740,
+      "gas:candidate-vibid:1001000121866": 200,
+      "gas:candidate-vibid:350300370373": 172,
+      "gas:candidate-vibid:1001000195095": 83,
+      "gas:candidate-vibid:1001000289822": 109,
+      "gas:candidate-vibid:350300370382": 29,
+      "special:against-all": 530
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 436,
-      "Кашин Владимир Иванович": 82,
-      "Королев Александр Петрович": 50,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 28,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 436,
+      "gas:candidate-vibid:1001000121866": 82,
+      "gas:candidate-vibid:350300370373": 50,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 28,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 340,
-      "Кашин Владимир Иванович": 82,
-      "Королев Александр Петрович": 30,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 340,
+      "gas:candidate-vibid:1001000121866": 82,
+      "gas:candidate-vibid:350300370373": 30,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 585,
-      "Кашин Владимир Иванович": 120,
-      "Королев Александр Петрович": 52,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 585,
+      "gas:candidate-vibid:1001000121866": 120,
+      "gas:candidate-vibid:350300370373": 52,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 176,
-      "Кашин Владимир Иванович": 79,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 18,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 176,
+      "gas:candidate-vibid:1001000121866": 79,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 18,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 110,
-      "Кашин Владимир Иванович": 35,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 110,
+      "gas:candidate-vibid:1001000121866": 35,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 40,
-      "Кашин Владимир Иванович": 3,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 40,
+      "gas:candidate-vibid:1001000121866": 3,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 73,
-      "Кашин Владимир Иванович": 29,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 73,
+      "gas:candidate-vibid:1001000121866": 29,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 34,
-      "Кашин Владимир Иванович": 2,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 34,
+      "gas:candidate-vibid:1001000121866": 2,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 22,
-      "Кашин Владимир Иванович": 7,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 22,
+      "gas:candidate-vibid:1001000121866": 7,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 38,
-      "Кашин Владимир Иванович": 7,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 38,
+      "gas:candidate-vibid:1001000121866": 7,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 396,
-      "Кашин Владимир Иванович": 59,
-      "Королев Александр Петрович": 34,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 396,
+      "gas:candidate-vibid:1001000121866": 59,
+      "gas:candidate-vibid:350300370373": 34,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 22,
-      "Гудков Геннадий Владимирович": 671,
-      "Кашин Владимир Иванович": 139,
-      "Королев Александр Петрович": 80,
-      "Котова Эльвира Степановна": 43,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 22,
+      "gas:candidate-vibid:1001000131401": 671,
+      "gas:candidate-vibid:1001000121866": 139,
+      "gas:candidate-vibid:350300370373": 80,
+      "gas:candidate-vibid:1001000195095": 43,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 671,
-      "Кашин Владимир Иванович": 152,
-      "Королев Александр Петрович": 76,
-      "Котова Эльвира Степановна": 50,
-      "Кулешов Владимир Ефимович": 31,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 671,
+      "gas:candidate-vibid:1001000121866": 152,
+      "gas:candidate-vibid:350300370373": 76,
+      "gas:candidate-vibid:1001000195095": 50,
+      "gas:candidate-vibid:1001000289822": 31,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 631,
-      "Кашин Владимир Иванович": 119,
-      "Королев Александр Петрович": 57,
-      "Котова Эльвира Степановна": 20,
-      "Кулешов Владимир Ефимович": 26,
-      "Кухаренко Александр Александрович": 15,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 631,
+      "gas:candidate-vibid:1001000121866": 119,
+      "gas:candidate-vibid:350300370373": 57,
+      "gas:candidate-vibid:1001000195095": 20,
+      "gas:candidate-vibid:1001000289822": 26,
+      "gas:candidate-vibid:350300370382": 15,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 75,
-      "Ващенко Алексей Михайлович": 118,
-      "Гудков Геннадий Владимирович": 212,
-      "Кашин Владимир Иванович": 119,
-      "Королев Александр Петрович": 164,
-      "Котова Эльвира Степановна": 82,
-      "Кулешов Владимир Ефимович": 91,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000217934": 75,
+      "gas:candidate-vibid:350300370379": 118,
+      "gas:candidate-vibid:1001000131401": 212,
+      "gas:candidate-vibid:1001000121866": 119,
+      "gas:candidate-vibid:350300370373": 164,
+      "gas:candidate-vibid:1001000195095": 82,
+      "gas:candidate-vibid:1001000289822": 91,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 40,
-      "Гудков Геннадий Владимирович": 738,
-      "Кашин Владимир Иванович": 47,
-      "Королев Александр Петрович": 61,
-      "Котова Эльвира Степановна": 27,
-      "Кулешов Владимир Ефимович": 64,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 40,
+      "gas:candidate-vibid:1001000131401": 738,
+      "gas:candidate-vibid:1001000121866": 47,
+      "gas:candidate-vibid:350300370373": 61,
+      "gas:candidate-vibid:1001000195095": 27,
+      "gas:candidate-vibid:1001000289822": 64,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 43,
-      "Ващенко Алексей Михайлович": 54,
-      "Гудков Геннадий Владимирович": 163,
-      "Кашин Владимир Иванович": 67,
-      "Королев Александр Петрович": 61,
-      "Котова Эльвира Степановна": 68,
-      "Кулешов Владимир Ефимович": 62,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000217934": 43,
+      "gas:candidate-vibid:350300370379": 54,
+      "gas:candidate-vibid:1001000131401": 163,
+      "gas:candidate-vibid:1001000121866": 67,
+      "gas:candidate-vibid:350300370373": 61,
+      "gas:candidate-vibid:1001000195095": 68,
+      "gas:candidate-vibid:1001000289822": 62,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 45,
-      "Гудков Геннадий Владимирович": 149,
-      "Кашин Владимир Иванович": 43,
-      "Королев Александр Петрович": 29,
-      "Котова Эльвира Степановна": 41,
-      "Кулешов Владимир Ефимович": 86,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 45,
+      "gas:candidate-vibid:1001000131401": 149,
+      "gas:candidate-vibid:1001000121866": 43,
+      "gas:candidate-vibid:350300370373": 29,
+      "gas:candidate-vibid:1001000195095": 41,
+      "gas:candidate-vibid:1001000289822": 86,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 20,
-      "Гудков Геннадий Владимирович": 43,
-      "Кашин Владимир Иванович": 16,
-      "Королев Александр Петрович": 20,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 40,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 20,
+      "gas:candidate-vibid:1001000131401": 43,
+      "gas:candidate-vibid:1001000121866": 16,
+      "gas:candidate-vibid:350300370373": 20,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 40,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 61,
-      "Кашин Владимир Иванович": 8,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 61,
+      "gas:candidate-vibid:1001000121866": 8,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 25,
-      "Гудков Геннадий Владимирович": 541,
-      "Кашин Владимир Иванович": 22,
-      "Королев Александр Петрович": 25,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 34,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 25,
+      "gas:candidate-vibid:1001000131401": 541,
+      "gas:candidate-vibid:1001000121866": 22,
+      "gas:candidate-vibid:350300370373": 25,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 34,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 25,
-      "Ващенко Алексей Михайлович": 36,
-      "Гудков Геннадий Владимирович": 614,
-      "Кашин Владимир Иванович": 40,
-      "Королев Александр Петрович": 37,
-      "Котова Эльвира Степановна": 41,
-      "Кулешов Владимир Ефимович": 78,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000217934": 25,
+      "gas:candidate-vibid:350300370379": 36,
+      "gas:candidate-vibid:1001000131401": 614,
+      "gas:candidate-vibid:1001000121866": 40,
+      "gas:candidate-vibid:350300370373": 37,
+      "gas:candidate-vibid:1001000195095": 41,
+      "gas:candidate-vibid:1001000289822": 78,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 17,
-      "Гудков Геннадий Владимирович": 451,
-      "Кашин Владимир Иванович": 30,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 25,
-      "Кулешов Владимир Ефимович": 36,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 17,
+      "gas:candidate-vibid:1001000131401": 451,
+      "gas:candidate-vibid:1001000121866": 30,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 25,
+      "gas:candidate-vibid:1001000289822": 36,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 26,
-      "Ващенко Алексей Михайлович": 63,
-      "Гудков Геннадий Владимирович": 326,
-      "Кашин Владимир Иванович": 63,
-      "Королев Александр Петрович": 50,
-      "Котова Эльвира Степановна": 53,
-      "Кулешов Владимир Ефимович": 84,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000217934": 26,
+      "gas:candidate-vibid:350300370379": 63,
+      "gas:candidate-vibid:1001000131401": 326,
+      "gas:candidate-vibid:1001000121866": 63,
+      "gas:candidate-vibid:350300370373": 50,
+      "gas:candidate-vibid:1001000195095": 53,
+      "gas:candidate-vibid:1001000289822": 84,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 50,
-      "Ващенко Алексей Михайлович": 104,
-      "Гудков Геннадий Владимирович": 357,
-      "Кашин Владимир Иванович": 90,
-      "Королев Александр Петрович": 161,
-      "Котова Эльвира Степановна": 62,
-      "Кулешов Владимир Ефимович": 50,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000217934": 50,
+      "gas:candidate-vibid:350300370379": 104,
+      "gas:candidate-vibid:1001000131401": 357,
+      "gas:candidate-vibid:1001000121866": 90,
+      "gas:candidate-vibid:350300370373": 161,
+      "gas:candidate-vibid:1001000195095": 62,
+      "gas:candidate-vibid:1001000289822": 50,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 20,
-      "Ващенко Алексей Михайлович": 50,
-      "Гудков Геннадий Владимирович": 229,
-      "Кашин Владимир Иванович": 34,
-      "Королев Александр Петрович": 88,
-      "Котова Эльвира Степановна": 64,
-      "Кулешов Владимир Ефимович": 30,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000217934": 20,
+      "gas:candidate-vibid:350300370379": 50,
+      "gas:candidate-vibid:1001000131401": 229,
+      "gas:candidate-vibid:1001000121866": 34,
+      "gas:candidate-vibid:350300370373": 88,
+      "gas:candidate-vibid:1001000195095": 64,
+      "gas:candidate-vibid:1001000289822": 30,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 19,
-      "Гудков Геннадий Владимирович": 84,
-      "Кашин Владимир Иванович": 10,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 19,
+      "gas:candidate-vibid:1001000131401": 84,
+      "gas:candidate-vibid:1001000121866": 10,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 33,
-      "Ващенко Алексей Михайлович": 52,
-      "Гудков Геннадий Владимирович": 39,
-      "Кашин Владимир Иванович": 26,
-      "Королев Александр Петрович": 50,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217934": 33,
+      "gas:candidate-vibid:350300370379": 52,
+      "gas:candidate-vibid:1001000131401": 39,
+      "gas:candidate-vibid:1001000121866": 26,
+      "gas:candidate-vibid:350300370373": 50,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 33,
-      "Ващенко Алексей Михайлович": 35,
-      "Гудков Геннадий Владимирович": 308,
-      "Кашин Владимир Иванович": 27,
-      "Королев Александр Петрович": 26,
-      "Котова Эльвира Степановна": 33,
-      "Кулешов Владимир Ефимович": 34,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000217934": 33,
+      "gas:candidate-vibid:350300370379": 35,
+      "gas:candidate-vibid:1001000131401": 308,
+      "gas:candidate-vibid:1001000121866": 27,
+      "gas:candidate-vibid:350300370373": 26,
+      "gas:candidate-vibid:1001000195095": 33,
+      "gas:candidate-vibid:1001000289822": 34,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 36,
-      "Гудков Геннадий Владимирович": 160,
-      "Кашин Владимир Иванович": 29,
-      "Королев Александр Петрович": 21,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 36,
+      "gas:candidate-vibid:1001000131401": 160,
+      "gas:candidate-vibid:1001000121866": 29,
+      "gas:candidate-vibid:350300370373": 21,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 29,
-      "Гудков Геннадий Владимирович": 280,
-      "Кашин Владимир Иванович": 25,
-      "Королев Александр Петрович": 19,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 29,
+      "gas:candidate-vibid:1001000131401": 280,
+      "gas:candidate-vibid:1001000121866": 25,
+      "gas:candidate-vibid:350300370373": 19,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 36,
-      "Гудков Геннадий Владимирович": 503,
-      "Кашин Владимир Иванович": 39,
-      "Королев Александр Петрович": 35,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 36,
+      "gas:candidate-vibid:1001000131401": 503,
+      "gas:candidate-vibid:1001000121866": 39,
+      "gas:candidate-vibid:350300370373": 35,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 29,
-      "Гудков Геннадий Владимирович": 571,
-      "Кашин Владимир Иванович": 18,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 34,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 29,
+      "gas:candidate-vibid:1001000131401": 571,
+      "gas:candidate-vibid:1001000121866": 18,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 34,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 50,
-      "Ващенко Алексей Михайлович": 30,
-      "Гудков Геннадий Владимирович": 969,
-      "Кашин Владимир Иванович": 37,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 39,
-      "Кулешов Владимир Ефимович": 32,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000217934": 50,
+      "gas:candidate-vibid:350300370379": 30,
+      "gas:candidate-vibid:1001000131401": 969,
+      "gas:candidate-vibid:1001000121866": 37,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 39,
+      "gas:candidate-vibid:1001000289822": 32,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 97,
-      "Гудков Геннадий Владимирович": 144,
-      "Кашин Владимир Иванович": 33,
-      "Королев Александр Петрович": 19,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 27,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 97,
+      "gas:candidate-vibid:1001000131401": 144,
+      "gas:candidate-vibid:1001000121866": 33,
+      "gas:candidate-vibid:350300370373": 19,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 27,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 91,
-      "Ващенко Алексей Михайлович": 697,
-      "Гудков Геннадий Владимирович": 2793,
-      "Кашин Владимир Иванович": 509,
-      "Королев Александр Петрович": 88,
-      "Котова Эльвира Степановна": 73,
-      "Кулешов Владимир Ефимович": 104,
-      "Кухаренко Александр Александрович": 23,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000217934": 91,
+      "gas:candidate-vibid:350300370379": 697,
+      "gas:candidate-vibid:1001000131401": 2793,
+      "gas:candidate-vibid:1001000121866": 509,
+      "gas:candidate-vibid:350300370373": 88,
+      "gas:candidate-vibid:1001000195095": 73,
+      "gas:candidate-vibid:1001000289822": 104,
+      "gas:candidate-vibid:350300370382": 23,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 32,
-      "Гудков Геннадий Владимирович": 12,
-      "Кашин Владимир Иванович": 20,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 32,
+      "gas:candidate-vibid:1001000131401": 12,
+      "gas:candidate-vibid:1001000121866": 20,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 1,
-      "Кашин Владимир Иванович": 6,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 1,
+      "gas:candidate-vibid:1001000121866": 6,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 49,
-      "Гудков Геннадий Владимирович": 20,
-      "Кашин Владимир Иванович": 22,
-      "Королев Александр Петрович": 34,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 49,
+      "gas:candidate-vibid:1001000131401": 20,
+      "gas:candidate-vibid:1001000121866": 22,
+      "gas:candidate-vibid:350300370373": 34,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 3,
-      "Кашин Владимир Иванович": 4,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 3,
+      "gas:candidate-vibid:1001000121866": 4,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 30,
-      "Ващенко Алексей Михайлович": 90,
-      "Гудков Геннадий Владимирович": 425,
-      "Кашин Владимир Иванович": 279,
-      "Королев Александр Петрович": 37,
-      "Котова Эльвира Степановна": 37,
-      "Кулешов Владимир Ефимович": 136,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000217934": 30,
+      "gas:candidate-vibid:350300370379": 90,
+      "gas:candidate-vibid:1001000131401": 425,
+      "gas:candidate-vibid:1001000121866": 279,
+      "gas:candidate-vibid:350300370373": 37,
+      "gas:candidate-vibid:1001000195095": 37,
+      "gas:candidate-vibid:1001000289822": 136,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 25,
-      "Гудков Геннадий Владимирович": 91,
-      "Кашин Владимир Иванович": 85,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 25,
+      "gas:candidate-vibid:1001000131401": 91,
+      "gas:candidate-vibid:1001000121866": 85,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370438&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 340,
-      "Кашин Владимир Иванович": 130,
-      "Королев Александр Петрович": 38,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 340,
+      "gas:candidate-vibid:1001000121866": 130,
+      "gas:candidate-vibid:350300370373": 38,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 428,
-      "Кашин Владимир Иванович": 228,
-      "Королев Александр Петрович": 51,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 428,
+      "gas:candidate-vibid:1001000121866": 228,
+      "gas:candidate-vibid:350300370373": 51,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 407,
-      "Кашин Владимир Иванович": 134,
-      "Королев Александр Петрович": 39,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 407,
+      "gas:candidate-vibid:1001000121866": 134,
+      "gas:candidate-vibid:350300370373": 39,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 66,
-      "Кашин Владимир Иванович": 52,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 66,
+      "gas:candidate-vibid:1001000121866": 52,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 164,
-      "Кашин Владимир Иванович": 77,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 164,
+      "gas:candidate-vibid:1001000121866": 77,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 432,
-      "Кашин Владимир Иванович": 170,
-      "Королев Александр Петрович": 30,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 432,
+      "gas:candidate-vibid:1001000121866": 170,
+      "gas:candidate-vibid:350300370373": 30,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 104,
-      "Кашин Владимир Иванович": 15,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 104,
+      "gas:candidate-vibid:1001000121866": 15,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 173,
-      "Кашин Владимир Иванович": 150,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 173,
+      "gas:candidate-vibid:1001000121866": 150,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 282,
-      "Кашин Владимир Иванович": 281,
-      "Королев Александр Петрович": 30,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 282,
+      "gas:candidate-vibid:1001000121866": 281,
+      "gas:candidate-vibid:350300370373": 30,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 439,
-      "Кашин Владимир Иванович": 157,
-      "Королев Александр Петрович": 25,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 439,
+      "gas:candidate-vibid:1001000121866": 157,
+      "gas:candidate-vibid:350300370373": 25,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 347,
-      "Кашин Владимир Иванович": 57,
-      "Королев Александр Петрович": 17,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 347,
+      "gas:candidate-vibid:1001000121866": 57,
+      "gas:candidate-vibid:350300370373": 17,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 482,
-      "Кашин Владимир Иванович": 61,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 482,
+      "gas:candidate-vibid:1001000121866": 61,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 447,
-      "Кашин Владимир Иванович": 33,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 447,
+      "gas:candidate-vibid:1001000121866": 33,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 15,
-      "Гудков Геннадий Владимирович": 359,
-      "Кашин Владимир Иванович": 120,
-      "Королев Александр Петрович": 39,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 15,
+      "gas:candidate-vibid:1001000131401": 359,
+      "gas:candidate-vibid:1001000121866": 120,
+      "gas:candidate-vibid:350300370373": 39,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 377,
-      "Кашин Владимир Иванович": 69,
-      "Королев Александр Петрович": 39,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 377,
+      "gas:candidate-vibid:1001000121866": 69,
+      "gas:candidate-vibid:350300370373": 39,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 212,
-      "Кашин Владимир Иванович": 73,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 212,
+      "gas:candidate-vibid:1001000121866": 73,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 733,
-      "Кашин Владимир Иванович": 132,
-      "Королев Александр Петрович": 26,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 733,
+      "gas:candidate-vibid:1001000121866": 132,
+      "gas:candidate-vibid:350300370373": 26,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 23,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 759,
-      "Кашин Владимир Иванович": 190,
-      "Королев Александр Петрович": 65,
-      "Котова Эльвира Степановна": 28,
-      "Кулешов Владимир Ефимович": 33,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000217934": 23,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 759,
+      "gas:candidate-vibid:1001000121866": 190,
+      "gas:candidate-vibid:350300370373": 65,
+      "gas:candidate-vibid:1001000195095": 28,
+      "gas:candidate-vibid:1001000289822": 33,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 239,
-      "Кашин Владимир Иванович": 63,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 239,
+      "gas:candidate-vibid:1001000121866": 63,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 218,
-      "Кашин Владимир Иванович": 63,
-      "Королев Александр Петрович": 19,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 218,
+      "gas:candidate-vibid:1001000121866": 63,
+      "gas:candidate-vibid:350300370373": 19,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 31,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 742,
-      "Кашин Владимир Иванович": 187,
-      "Королев Александр Петрович": 79,
-      "Котова Эльвира Степановна": 36,
-      "Кулешов Владимир Ефимович": 27,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000217934": 31,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 742,
+      "gas:candidate-vibid:1001000121866": 187,
+      "gas:candidate-vibid:350300370373": 79,
+      "gas:candidate-vibid:1001000195095": 36,
+      "gas:candidate-vibid:1001000289822": 27,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 167,
-      "Кашин Владимир Иванович": 60,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 167,
+      "gas:candidate-vibid:1001000121866": 60,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 220,
-      "Кашин Владимир Иванович": 26,
-      "Королев Александр Петрович": 28,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 220,
+      "gas:candidate-vibid:1001000121866": 26,
+      "gas:candidate-vibid:350300370373": 28,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 200,
-      "Кашин Владимир Иванович": 35,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 200,
+      "gas:candidate-vibid:1001000121866": 35,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 235,
-      "Кашин Владимир Иванович": 186,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 235,
+      "gas:candidate-vibid:1001000121866": 186,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 66,
-      "Кашин Владимир Иванович": 55,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 66,
+      "gas:candidate-vibid:1001000121866": 55,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 22,
-      "Ващенко Алексей Михайлович": 72,
-      "Гудков Геннадий Владимирович": 456,
-      "Кашин Владимир Иванович": 127,
-      "Королев Александр Петрович": 99,
-      "Котова Эльвира Степановна": 48,
-      "Кулешов Владимир Ефимович": 40,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000217934": 22,
+      "gas:candidate-vibid:350300370379": 72,
+      "gas:candidate-vibid:1001000131401": 456,
+      "gas:candidate-vibid:1001000121866": 127,
+      "gas:candidate-vibid:350300370373": 99,
+      "gas:candidate-vibid:1001000195095": 48,
+      "gas:candidate-vibid:1001000289822": 40,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 350,
-      "Кашин Владимир Иванович": 65,
-      "Королев Александр Петрович": 50,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 350,
+      "gas:candidate-vibid:1001000121866": 65,
+      "gas:candidate-vibid:350300370373": 50,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 477,
-      "Кашин Владимир Иванович": 60,
-      "Королев Александр Петрович": 52,
-      "Котова Эльвира Степановна": 19,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 477,
+      "gas:candidate-vibid:1001000121866": 60,
+      "gas:candidate-vibid:350300370373": 52,
+      "gas:candidate-vibid:1001000195095": 19,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 139,
-      "Кашин Владимир Иванович": 25,
-      "Королев Александр Петрович": 6,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 139,
+      "gas:candidate-vibid:1001000121866": 25,
+      "gas:candidate-vibid:350300370373": 6,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 93,
-      "Кашин Владимир Иванович": 26,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 93,
+      "gas:candidate-vibid:1001000121866": 26,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 376,
-      "Кашин Владимир Иванович": 58,
-      "Королев Александр Петрович": 35,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 376,
+      "gas:candidate-vibid:1001000121866": 58,
+      "gas:candidate-vibid:350300370373": 35,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370439&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 200,
-      "Кашин Владимир Иванович": 95,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 38,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 200,
+      "gas:candidate-vibid:1001000121866": 95,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 38,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 228,
-      "Кашин Владимир Иванович": 136,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 33,
-      "Кухаренко Александр Александрович": 43,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 228,
+      "gas:candidate-vibid:1001000121866": 136,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 33,
+      "gas:candidate-vibid:350300370382": 43,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 349,
-      "Кашин Владимир Иванович": 138,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 72,
-      "Кухаренко Александр Александрович": 57,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 349,
+      "gas:candidate-vibid:1001000121866": 138,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 72,
+      "gas:candidate-vibid:350300370382": 57,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 173,
-      "Кашин Владимир Иванович": 65,
-      "Королев Александр Петрович": 13,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 48,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 173,
+      "gas:candidate-vibid:1001000121866": 65,
+      "gas:candidate-vibid:350300370373": 13,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 48,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 298,
-      "Кашин Владимир Иванович": 125,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 64,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 298,
+      "gas:candidate-vibid:1001000121866": 125,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 64,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 203,
-      "Кашин Владимир Иванович": 88,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 65,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 203,
+      "gas:candidate-vibid:1001000121866": 88,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 65,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 179,
-      "Кашин Владимир Иванович": 85,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 77,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 179,
+      "gas:candidate-vibid:1001000121866": 85,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 77,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 218,
-      "Кашин Владимир Иванович": 77,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 46,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 218,
+      "gas:candidate-vibid:1001000121866": 77,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 46,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 315,
-      "Кашин Владимир Иванович": 183,
-      "Королев Александр Петрович": 17,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 99,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 315,
+      "gas:candidate-vibid:1001000121866": 183,
+      "gas:candidate-vibid:350300370373": 17,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 99,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 269,
-      "Кашин Владимир Иванович": 180,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 60,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 269,
+      "gas:candidate-vibid:1001000121866": 180,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 60,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 364,
-      "Кашин Владимир Иванович": 196,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 114,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 364,
+      "gas:candidate-vibid:1001000121866": 196,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 114,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 256,
-      "Кашин Владимир Иванович": 107,
-      "Королев Александр Петрович": 13,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 49,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 256,
+      "gas:candidate-vibid:1001000121866": 107,
+      "gas:candidate-vibid:350300370373": 13,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 49,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 421,
-      "Кашин Владимир Иванович": 257,
-      "Королев Александр Петрович": 28,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 38,
-      "Кухаренко Александр Александрович": 201,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 421,
+      "gas:candidate-vibid:1001000121866": 257,
+      "gas:candidate-vibid:350300370373": 28,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 38,
+      "gas:candidate-vibid:350300370382": 201,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 400,
-      "Кашин Владимир Иванович": 276,
-      "Королев Александр Петрович": 24,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 42,
-      "Кухаренко Александр Александрович": 156,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 400,
+      "gas:candidate-vibid:1001000121866": 276,
+      "gas:candidate-vibid:350300370373": 24,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 42,
+      "gas:candidate-vibid:350300370382": 156,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 486,
-      "Кашин Владимир Иванович": 222,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 195,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 486,
+      "gas:candidate-vibid:1001000121866": 222,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 195,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 133,
-      "Кашин Владимир Иванович": 112,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 262,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 133,
+      "gas:candidate-vibid:1001000121866": 112,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 262,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 83,
-      "Кашин Владимир Иванович": 102,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 65,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 83,
+      "gas:candidate-vibid:1001000121866": 102,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 65,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 304,
-      "Кашин Владимир Иванович": 172,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 65,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 304,
+      "gas:candidate-vibid:1001000121866": 172,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 65,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 157,
-      "Кашин Владимир Иванович": 107,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 41,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 157,
+      "gas:candidate-vibid:1001000121866": 107,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 41,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 166,
-      "Кашин Владимир Иванович": 179,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 99,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 166,
+      "gas:candidate-vibid:1001000121866": 179,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 99,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 310,
-      "Кашин Владимир Иванович": 294,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 292,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 310,
+      "gas:candidate-vibid:1001000121866": 294,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 292,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 258,
-      "Кашин Владимир Иванович": 81,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 244,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 258,
+      "gas:candidate-vibid:1001000121866": 81,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 244,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 263,
-      "Кашин Владимир Иванович": 139,
-      "Королев Александр Петрович": 19,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 93,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 263,
+      "gas:candidate-vibid:1001000121866": 139,
+      "gas:candidate-vibid:350300370373": 19,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 93,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 285,
-      "Кашин Владимир Иванович": 117,
-      "Королев Александр Петрович": 17,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 78,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 285,
+      "gas:candidate-vibid:1001000121866": 117,
+      "gas:candidate-vibid:350300370373": 17,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 78,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 228,
-      "Кашин Владимир Иванович": 162,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 230,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 228,
+      "gas:candidate-vibid:1001000121866": 162,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 230,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 127,
-      "Кашин Владимир Иванович": 99,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 127,
+      "gas:candidate-vibid:1001000121866": 99,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 146,
-      "Кашин Владимир Иванович": 53,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 38,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 146,
+      "gas:candidate-vibid:1001000121866": 53,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 38,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 288,
-      "Кашин Владимир Иванович": 227,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 20,
-      "Кухаренко Александр Александрович": 104,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 288,
+      "gas:candidate-vibid:1001000121866": 227,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 20,
+      "gas:candidate-vibid:350300370382": 104,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 254,
-      "Кашин Владимир Иванович": 175,
-      "Королев Александр Петрович": 18,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 70,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 254,
+      "gas:candidate-vibid:1001000121866": 175,
+      "gas:candidate-vibid:350300370373": 18,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 70,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370440&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 18,
-      "Гудков Геннадий Владимирович": 516,
-      "Кашин Владимир Иванович": 241,
-      "Королев Александр Петрович": 42,
-      "Котова Эльвира Степановна": 27,
-      "Кулешов Владимир Ефимович": 39,
-      "Кухаренко Александр Александрович": 56,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 18,
+      "gas:candidate-vibid:1001000131401": 516,
+      "gas:candidate-vibid:1001000121866": 241,
+      "gas:candidate-vibid:350300370373": 42,
+      "gas:candidate-vibid:1001000195095": 27,
+      "gas:candidate-vibid:1001000289822": 39,
+      "gas:candidate-vibid:350300370382": 56,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 264,
-      "Кашин Владимир Иванович": 97,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 51,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 264,
+      "gas:candidate-vibid:1001000121866": 97,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 51,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 337,
-      "Кашин Владимир Иванович": 123,
-      "Королев Александр Петрович": 18,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 62,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 337,
+      "gas:candidate-vibid:1001000121866": 123,
+      "gas:candidate-vibid:350300370373": 18,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 62,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 93,
-      "Кашин Владимир Иванович": 44,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 22,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 93,
+      "gas:candidate-vibid:1001000121866": 44,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 22,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 325,
-      "Кашин Владимир Иванович": 163,
-      "Королев Александр Петрович": 25,
-      "Котова Эльвира Степановна": 18,
-      "Кулешов Владимир Ефимович": 29,
-      "Кухаренко Александр Александрович": 78,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 325,
+      "gas:candidate-vibid:1001000121866": 163,
+      "gas:candidate-vibid:350300370373": 25,
+      "gas:candidate-vibid:1001000195095": 18,
+      "gas:candidate-vibid:1001000289822": 29,
+      "gas:candidate-vibid:350300370382": 78,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 226,
-      "Кашин Владимир Иванович": 95,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 40,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 226,
+      "gas:candidate-vibid:1001000121866": 95,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 40,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 16,
-      "Гудков Геннадий Владимирович": 538,
-      "Кашин Владимир Иванович": 196,
-      "Королев Александр Петрович": 18,
-      "Котова Эльвира Степановна": 21,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 106,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 16,
+      "gas:candidate-vibid:1001000131401": 538,
+      "gas:candidate-vibid:1001000121866": 196,
+      "gas:candidate-vibid:350300370373": 18,
+      "gas:candidate-vibid:1001000195095": 21,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 106,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 16,
-      "Гудков Геннадий Владимирович": 550,
-      "Кашин Владимир Иванович": 190,
-      "Королев Александр Петрович": 34,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 114,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 16,
+      "gas:candidate-vibid:1001000131401": 550,
+      "gas:candidate-vibid:1001000121866": 190,
+      "gas:candidate-vibid:350300370373": 34,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 114,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 18,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 520,
-      "Кашин Владимир Иванович": 206,
-      "Королев Александр Петрович": 20,
-      "Котова Эльвира Степановна": 26,
-      "Кулешов Владимир Ефимович": 22,
-      "Кухаренко Александр Александрович": 82,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000217934": 18,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 520,
+      "gas:candidate-vibid:1001000121866": 206,
+      "gas:candidate-vibid:350300370373": 20,
+      "gas:candidate-vibid:1001000195095": 26,
+      "gas:candidate-vibid:1001000289822": 22,
+      "gas:candidate-vibid:350300370382": 82,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 53,
-      "Кашин Владимир Иванович": 23,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 53,
+      "gas:candidate-vibid:1001000121866": 23,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 525,
-      "Кашин Владимир Иванович": 141,
-      "Королев Александр Петрович": 28,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 99,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 525,
+      "gas:candidate-vibid:1001000121866": 141,
+      "gas:candidate-vibid:350300370373": 28,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 99,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 573,
-      "Кашин Владимир Иванович": 163,
-      "Королев Александр Петрович": 28,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 108,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 573,
+      "gas:candidate-vibid:1001000121866": 163,
+      "gas:candidate-vibid:350300370373": 28,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 108,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 526,
-      "Кашин Владимир Иванович": 207,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 31,
-      "Кулешов Владимир Ефимович": 34,
-      "Кухаренко Александр Александрович": 154,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 526,
+      "gas:candidate-vibid:1001000121866": 207,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 31,
+      "gas:candidate-vibid:1001000289822": 34,
+      "gas:candidate-vibid:350300370382": 154,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 305,
-      "Кашин Владимир Иванович": 89,
-      "Королев Александр Петрович": 17,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 58,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 305,
+      "gas:candidate-vibid:1001000121866": 89,
+      "gas:candidate-vibid:350300370373": 17,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 58,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 29,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 657,
-      "Кашин Владимир Иванович": 205,
-      "Королев Александр Петрович": 48,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 28,
-      "Кухаренко Александр Александрович": 140,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000217934": 29,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 657,
+      "gas:candidate-vibid:1001000121866": 205,
+      "gas:candidate-vibid:350300370373": 48,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 28,
+      "gas:candidate-vibid:350300370382": 140,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 643,
-      "Кашин Владимир Иванович": 162,
-      "Королев Александр Петрович": 35,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 113,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 643,
+      "gas:candidate-vibid:1001000121866": 162,
+      "gas:candidate-vibid:350300370373": 35,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 113,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 16,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 618,
-      "Кашин Владимир Иванович": 162,
-      "Королев Александр Петрович": 25,
-      "Котова Эльвира Степановна": 18,
-      "Кулешов Владимир Ефимович": 24,
-      "Кухаренко Александр Александрович": 120,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000217934": 16,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 618,
+      "gas:candidate-vibid:1001000121866": 162,
+      "gas:candidate-vibid:350300370373": 25,
+      "gas:candidate-vibid:1001000195095": 18,
+      "gas:candidate-vibid:1001000289822": 24,
+      "gas:candidate-vibid:350300370382": 120,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 21,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 595,
-      "Кашин Владимир Иванович": 234,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 22,
-      "Кулешов Владимир Ефимович": 31,
-      "Кухаренко Александр Александрович": 110,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000217934": 21,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 595,
+      "gas:candidate-vibid:1001000121866": 234,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 22,
+      "gas:candidate-vibid:1001000289822": 31,
+      "gas:candidate-vibid:350300370382": 110,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 405,
-      "Кашин Владимир Иванович": 200,
-      "Королев Александр Петрович": 29,
-      "Котова Эльвира Степановна": 32,
-      "Кулешов Владимир Ефимович": 26,
-      "Кухаренко Александр Александрович": 103,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 405,
+      "gas:candidate-vibid:1001000121866": 200,
+      "gas:candidate-vibid:350300370373": 29,
+      "gas:candidate-vibid:1001000195095": 32,
+      "gas:candidate-vibid:1001000289822": 26,
+      "gas:candidate-vibid:350300370382": 103,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 20,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 505,
-      "Кашин Владимир Иванович": 164,
-      "Королев Александр Петрович": 27,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 80,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000217934": 20,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 505,
+      "gas:candidate-vibid:1001000121866": 164,
+      "gas:candidate-vibid:350300370373": 27,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 80,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 122,
-      "Кашин Владимир Иванович": 55,
-      "Королев Александр Петрович": 15,
-      "Котова Эльвира Степановна": 20,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 29,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 122,
+      "gas:candidate-vibid:1001000121866": 55,
+      "gas:candidate-vibid:350300370373": 15,
+      "gas:candidate-vibid:1001000195095": 20,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 29,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 483,
-      "Кашин Владимир Иванович": 155,
-      "Королев Александр Петрович": 33,
-      "Котова Эльвира Степановна": 24,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 110,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 483,
+      "gas:candidate-vibid:1001000121866": 155,
+      "gas:candidate-vibid:350300370373": 33,
+      "gas:candidate-vibid:1001000195095": 24,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 110,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 129,
-      "Кашин Владимир Иванович": 59,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 26,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 129,
+      "gas:candidate-vibid:1001000121866": 59,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 26,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 115,
-      "Кашин Владимир Иванович": 33,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 40,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 115,
+      "gas:candidate-vibid:1001000121866": 33,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 40,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 305,
-      "Кашин Владимир Иванович": 96,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 69,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 305,
+      "gas:candidate-vibid:1001000121866": 96,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 69,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 171,
-      "Кашин Владимир Иванович": 194,
-      "Королев Александр Петрович": 13,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 72,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 171,
+      "gas:candidate-vibid:1001000121866": 194,
+      "gas:candidate-vibid:350300370373": 13,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 72,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 287,
-      "Кашин Владимир Иванович": 127,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 20,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 141,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 287,
+      "gas:candidate-vibid:1001000121866": 127,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 20,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 141,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 93,
-      "Кашин Владимир Иванович": 47,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 93,
+      "gas:candidate-vibid:1001000121866": 47,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 126,
-      "Кашин Владимир Иванович": 44,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 48,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 126,
+      "gas:candidate-vibid:1001000121866": 44,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 48,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 84,
-      "Кашин Владимир Иванович": 41,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 28,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 84,
+      "gas:candidate-vibid:1001000121866": 41,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 28,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 41,
-      "Кашин Владимир Иванович": 87,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 41,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 41,
+      "gas:candidate-vibid:1001000121866": 87,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 41,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 33,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 231,
-      "Кашин Владимир Иванович": 116,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 23,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 140,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000217934": 33,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 231,
+      "gas:candidate-vibid:1001000121866": 116,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 23,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 140,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 218,
-      "Кашин Владимир Иванович": 48,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 92,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 218,
+      "gas:candidate-vibid:1001000121866": 48,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 92,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 118,
-      "Кашин Владимир Иванович": 48,
-      "Королев Александр Петрович": 6,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 72,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 118,
+      "gas:candidate-vibid:1001000121866": 48,
+      "gas:candidate-vibid:350300370373": 6,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 72,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 58,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 136,
-      "Кашин Владимир Иванович": 81,
-      "Королев Александр Петрович": 20,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 53,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000217934": 58,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 136,
+      "gas:candidate-vibid:1001000121866": 81,
+      "gas:candidate-vibid:350300370373": 20,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 53,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 201,
-      "Кашин Владимир Иванович": 71,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 51,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 201,
+      "gas:candidate-vibid:1001000121866": 71,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 51,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 65,
-      "Кашин Владимир Иванович": 9,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 27,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 65,
+      "gas:candidate-vibid:1001000121866": 9,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 27,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 71,
-      "Кашин Владимир Иванович": 5,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 37,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 71,
+      "gas:candidate-vibid:1001000121866": 5,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 37,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 17,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 150,
-      "Кашин Владимир Иванович": 150,
-      "Королев Александр Петрович": 15,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 177,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000217934": 17,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 150,
+      "gas:candidate-vibid:1001000121866": 150,
+      "gas:candidate-vibid:350300370373": 15,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 177,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 88,
-      "Кашин Владимир Иванович": 80,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 75,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 88,
+      "gas:candidate-vibid:1001000121866": 80,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 75,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 72,
-      "Кашин Владимир Иванович": 16,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 55,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 72,
+      "gas:candidate-vibid:1001000121866": 16,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 55,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 15,
-      "Кашин Владимир Иванович": 2,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 15,
+      "gas:candidate-vibid:1001000121866": 2,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 28,
-      "Ващенко Алексей Михайлович": 79,
-      "Гудков Геннадий Владимирович": 164,
-      "Кашин Владимир Иванович": 66,
-      "Королев Александр Петрович": 59,
-      "Котова Эльвира Степановна": 56,
-      "Кулешов Владимир Ефимович": 35,
-      "Кухаренко Александр Александрович": 86,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000217934": 28,
+      "gas:candidate-vibid:350300370379": 79,
+      "gas:candidate-vibid:1001000131401": 164,
+      "gas:candidate-vibid:1001000121866": 66,
+      "gas:candidate-vibid:350300370373": 59,
+      "gas:candidate-vibid:1001000195095": 56,
+      "gas:candidate-vibid:1001000289822": 35,
+      "gas:candidate-vibid:350300370382": 86,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370441&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 11,
-      "Гудков Геннадий Владимирович": 386,
-      "Кашин Владимир Иванович": 161,
-      "Королев Александр Петрович": 25,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 11,
+      "gas:candidate-vibid:1001000131401": 386,
+      "gas:candidate-vibid:1001000121866": 161,
+      "gas:candidate-vibid:350300370373": 25,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 123,
-      "Кашин Владимир Иванович": 36,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 123,
+      "gas:candidate-vibid:1001000121866": 36,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 327,
-      "Кашин Владимир Иванович": 219,
-      "Королев Александр Петрович": 28,
-      "Котова Эльвира Степановна": 22,
-      "Кулешов Владимир Ефимович": 28,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 327,
+      "gas:candidate-vibid:1001000121866": 219,
+      "gas:candidate-vibid:350300370373": 28,
+      "gas:candidate-vibid:1001000195095": 22,
+      "gas:candidate-vibid:1001000289822": 28,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 386,
-      "Кашин Владимир Иванович": 216,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 18,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 386,
+      "gas:candidate-vibid:1001000121866": 216,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 18,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 432,
-      "Кашин Владимир Иванович": 165,
-      "Королев Александр Петрович": 24,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 432,
+      "gas:candidate-vibid:1001000121866": 165,
+      "gas:candidate-vibid:350300370373": 24,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 337,
-      "Кашин Владимир Иванович": 134,
-      "Королев Александр Петрович": 26,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 27,
-      "Кухаренко Александр Александрович": 18,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 337,
+      "gas:candidate-vibid:1001000121866": 134,
+      "gas:candidate-vibid:350300370373": 26,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 27,
+      "gas:candidate-vibid:350300370382": 18,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 188,
-      "Кашин Владимир Иванович": 64,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 188,
+      "gas:candidate-vibid:1001000121866": 64,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 458,
-      "Кашин Владимир Иванович": 179,
-      "Королев Александр Петрович": 37,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 18,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 458,
+      "gas:candidate-vibid:1001000121866": 179,
+      "gas:candidate-vibid:350300370373": 37,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 18,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 321,
-      "Кашин Владимир Иванович": 118,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 7,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 321,
+      "gas:candidate-vibid:1001000121866": 118,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 7,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 408,
-      "Кашин Владимир Иванович": 269,
-      "Королев Александр Петрович": 32,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 408,
+      "gas:candidate-vibid:1001000121866": 269,
+      "gas:candidate-vibid:350300370373": 32,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 15,
-      "Гудков Геннадий Владимирович": 390,
-      "Кашин Владимир Иванович": 167,
-      "Королев Александр Петрович": 27,
-      "Котова Эльвира Степановна": 20,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 15,
+      "gas:candidate-vibid:1001000131401": 390,
+      "gas:candidate-vibid:1001000121866": 167,
+      "gas:candidate-vibid:350300370373": 27,
+      "gas:candidate-vibid:1001000195095": 20,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 409,
-      "Кашин Владимир Иванович": 228,
-      "Королев Александр Петрович": 40,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 19,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 409,
+      "gas:candidate-vibid:1001000121866": 228,
+      "gas:candidate-vibid:350300370373": 40,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 19,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 19,
-      "Ващенко Алексей Михайлович": 12,
-      "Гудков Геннадий Владимирович": 577,
-      "Кашин Владимир Иванович": 170,
-      "Королев Александр Петрович": 65,
-      "Котова Эльвира Степановна": 12,
-      "Кулешов Владимир Ефимович": 23,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000217934": 19,
+      "gas:candidate-vibid:350300370379": 12,
+      "gas:candidate-vibid:1001000131401": 577,
+      "gas:candidate-vibid:1001000121866": 170,
+      "gas:candidate-vibid:350300370373": 65,
+      "gas:candidate-vibid:1001000195095": 12,
+      "gas:candidate-vibid:1001000289822": 23,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 466,
-      "Кашин Владимир Иванович": 184,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 19,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 466,
+      "gas:candidate-vibid:1001000121866": 184,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 19,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 448,
-      "Кашин Владимир Иванович": 209,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 448,
+      "gas:candidate-vibid:1001000121866": 209,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 495,
-      "Кашин Владимир Иванович": 205,
-      "Королев Александр Петрович": 44,
-      "Котова Эльвира Степановна": 16,
-      "Кулешов Владимир Ефимович": 18,
-      "Кухаренко Александр Александрович": 25,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 495,
+      "gas:candidate-vibid:1001000121866": 205,
+      "gas:candidate-vibid:350300370373": 44,
+      "gas:candidate-vibid:1001000195095": 16,
+      "gas:candidate-vibid:1001000289822": 18,
+      "gas:candidate-vibid:350300370382": 25,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 557,
-      "Кашин Владимир Иванович": 191,
-      "Королев Александр Петрович": 42,
-      "Котова Эльвира Степановна": 26,
-      "Кулешов Владимир Ефимович": 25,
-      "Кухаренко Александр Александрович": 15,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 557,
+      "gas:candidate-vibid:1001000121866": 191,
+      "gas:candidate-vibid:350300370373": 42,
+      "gas:candidate-vibid:1001000195095": 26,
+      "gas:candidate-vibid:1001000289822": 25,
+      "gas:candidate-vibid:350300370382": 15,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 8,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 569,
-      "Кашин Владимир Иванович": 207,
-      "Королев Александр Петрович": 37,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 21,
-      "Кухаренко Александр Александрович": 16,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000217934": 8,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 569,
+      "gas:candidate-vibid:1001000121866": 207,
+      "gas:candidate-vibid:350300370373": 37,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 21,
+      "gas:candidate-vibid:350300370382": 16,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 331,
-      "Кашин Владимир Иванович": 157,
-      "Королев Александр Петрович": 22,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 10,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 331,
+      "gas:candidate-vibid:1001000121866": 157,
+      "gas:candidate-vibid:350300370373": 22,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 10,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 394,
-      "Кашин Владимир Иванович": 201,
-      "Королев Александр Петрович": 39,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 20,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 394,
+      "gas:candidate-vibid:1001000121866": 201,
+      "gas:candidate-vibid:350300370373": 39,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 20,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 23,
-      "Гудков Геннадий Владимирович": 357,
-      "Кашин Владимир Иванович": 34,
-      "Королев Александр Петрович": 57,
-      "Котова Эльвира Степановна": 29,
-      "Кулешов Владимир Ефимович": 16,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 23,
+      "gas:candidate-vibid:1001000131401": 357,
+      "gas:candidate-vibid:1001000121866": 34,
+      "gas:candidate-vibid:350300370373": 57,
+      "gas:candidate-vibid:1001000195095": 29,
+      "gas:candidate-vibid:1001000289822": 16,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 10,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 340,
-      "Кашин Владимир Иванович": 205,
-      "Королев Александр Петрович": 35,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 32,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000217934": 10,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 340,
+      "gas:candidate-vibid:1001000121866": 205,
+      "gas:candidate-vibid:350300370373": 35,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 32,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 252,
-      "Кашин Владимир Иванович": 82,
-      "Королев Александр Петрович": 13,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 252,
+      "gas:candidate-vibid:1001000121866": 82,
+      "gas:candidate-vibid:350300370373": 13,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 307,
-      "Кашин Владимир Иванович": 142,
-      "Королев Александр Петрович": 23,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 46,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 307,
+      "gas:candidate-vibid:1001000121866": 142,
+      "gas:candidate-vibid:350300370373": 23,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 46,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 14,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 297,
-      "Кашин Владимир Иванович": 179,
-      "Королев Александр Петрович": 20,
-      "Котова Эльвира Степановна": 14,
-      "Кулешов Владимир Ефимович": 33,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000217934": 14,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 297,
+      "gas:candidate-vibid:1001000121866": 179,
+      "gas:candidate-vibid:350300370373": 20,
+      "gas:candidate-vibid:1001000195095": 14,
+      "gas:candidate-vibid:1001000289822": 33,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 340,
-      "Кашин Владимир Иванович": 156,
-      "Королев Александр Петрович": 29,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 29,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 340,
+      "gas:candidate-vibid:1001000121866": 156,
+      "gas:candidate-vibid:350300370373": 29,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 29,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 24,
-      "Гудков Геннадий Владимирович": 178,
-      "Кашин Владимир Иванович": 43,
-      "Королев Александр Петрович": 32,
-      "Котова Эльвира Степановна": 15,
-      "Кулешов Владимир Ефимович": 97,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 24,
+      "gas:candidate-vibid:1001000131401": 178,
+      "gas:candidate-vibid:1001000121866": 43,
+      "gas:candidate-vibid:350300370373": 32,
+      "gas:candidate-vibid:1001000195095": 15,
+      "gas:candidate-vibid:1001000289822": 97,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 127,
-      "Кашин Владимир Иванович": 37,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 127,
+      "gas:candidate-vibid:1001000121866": 37,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 8,
-      "Гудков Геннадий Владимирович": 655,
-      "Кашин Владимир Иванович": 95,
-      "Королев Александр Петрович": 15,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 8,
+      "gas:candidate-vibid:1001000131401": 655,
+      "gas:candidate-vibid:1001000121866": 95,
+      "gas:candidate-vibid:350300370373": 15,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 250,
-      "Кашин Владимир Иванович": 33,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 250,
+      "gas:candidate-vibid:1001000121866": 33,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 82,
-      "Кашин Владимир Иванович": 44,
-      "Королев Александр Петрович": 6,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 82,
+      "gas:candidate-vibid:1001000121866": 44,
+      "gas:candidate-vibid:350300370373": 6,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 150,
-      "Кашин Владимир Иванович": 33,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 150,
+      "gas:candidate-vibid:1001000121866": 33,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 307,
-      "Кашин Владимир Иванович": 64,
-      "Королев Александр Петрович": 16,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 307,
+      "gas:candidate-vibid:1001000121866": 64,
+      "gas:candidate-vibid:350300370373": 16,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 5,
-      "Гудков Геннадий Владимирович": 255,
-      "Кашин Владимир Иванович": 57,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 5,
+      "gas:candidate-vibid:1001000131401": 255,
+      "gas:candidate-vibid:1001000121866": 57,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 274,
-      "Кашин Владимир Иванович": 59,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 274,
+      "gas:candidate-vibid:1001000121866": 59,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 14,
-      "Гудков Геннадий Владимирович": 504,
-      "Кашин Владимир Иванович": 190,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 12,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 14,
+      "gas:candidate-vibid:1001000131401": 504,
+      "gas:candidate-vibid:1001000121866": 190,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 12,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 431,
-      "Кашин Владимир Иванович": 87,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 8,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 431,
+      "gas:candidate-vibid:1001000121866": 87,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 8,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 196,
-      "Кашин Владимир Иванович": 97,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 7,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 196,
+      "gas:candidate-vibid:1001000121866": 97,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 7,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 296,
-      "Кашин Владимир Иванович": 76,
-      "Королев Александр Петрович": 2,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 11,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 296,
+      "gas:candidate-vibid:1001000121866": 76,
+      "gas:candidate-vibid:350300370373": 2,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 11,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 126,
-      "Кашин Владимир Иванович": 12,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 126,
+      "gas:candidate-vibid:1001000121866": 12,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 311,
-      "Кашин Владимир Иванович": 117,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 311,
+      "gas:candidate-vibid:1001000121866": 117,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 188,
-      "Кашин Владимир Иванович": 112,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 6,
-      "Кухаренко Александр Александрович": 6,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 188,
+      "gas:candidate-vibid:1001000121866": 112,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 6,
+      "gas:candidate-vibid:350300370382": 6,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 106,
-      "Кашин Владимир Иванович": 60,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 0,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 106,
+      "gas:candidate-vibid:1001000121866": 60,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 0,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 9,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 190,
-      "Кашин Владимир Иванович": 21,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000217934": 9,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 190,
+      "gas:candidate-vibid:1001000121866": 21,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 57,
-      "Кашин Владимир Иванович": 73,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 57,
+      "gas:candidate-vibid:1001000121866": 73,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 5,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 269,
-      "Кашин Владимир Иванович": 65,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000217934": 5,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 269,
+      "gas:candidate-vibid:1001000121866": 65,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 297,
-      "Кашин Владимир Иванович": 422,
-      "Королев Александр Петрович": 11,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 8,
-      "Кухаренко Александр Александрович": 5,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 297,
+      "gas:candidate-vibid:1001000121866": 422,
+      "gas:candidate-vibid:350300370373": 11,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 8,
+      "gas:candidate-vibid:350300370382": 5,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 15,
-      "Ващенко Алексей Михайлович": 13,
-      "Гудков Геннадий Владимирович": 428,
-      "Кашин Владимир Иванович": 473,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 17,
-      "Кухаренко Александр Александрович": 17,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000217934": 15,
+      "gas:candidate-vibid:350300370379": 13,
+      "gas:candidate-vibid:1001000131401": 428,
+      "gas:candidate-vibid:1001000121866": 473,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 17,
+      "gas:candidate-vibid:350300370382": 17,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 472,
-      "Кашин Владимир Иванович": 95,
-      "Королев Александр Петрович": 17,
-      "Котова Эльвира Степановна": 6,
-      "Кулешов Владимир Ефимович": 7,
-      "Кухаренко Александр Александрович": 9,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 472,
+      "gas:candidate-vibid:1001000121866": 95,
+      "gas:candidate-vibid:350300370373": 17,
+      "gas:candidate-vibid:1001000195095": 6,
+      "gas:candidate-vibid:1001000289822": 7,
+      "gas:candidate-vibid:350300370382": 9,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 11,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 326,
-      "Кашин Владимир Иванович": 150,
-      "Королев Александр Петрович": 9,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 11,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000217934": 11,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 326,
+      "gas:candidate-vibid:1001000121866": 150,
+      "gas:candidate-vibid:350300370373": 9,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 11,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 307,
-      "Кашин Владимир Иванович": 35,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 5,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 0,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 307,
+      "gas:candidate-vibid:1001000121866": 35,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 5,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 0,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 0,
-      "Гудков Геннадий Владимирович": 135,
-      "Кашин Владимир Иванович": 57,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 0,
+      "gas:candidate-vibid:1001000131401": 135,
+      "gas:candidate-vibid:1001000121866": 57,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 13,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 570,
-      "Кашин Владимир Иванович": 250,
-      "Королев Александр Петрович": 31,
-      "Котова Эльвира Степановна": 17,
-      "Кулешов Владимир Ефимович": 27,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000217934": 13,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 570,
+      "gas:candidate-vibid:1001000121866": 250,
+      "gas:candidate-vibid:350300370373": 31,
+      "gas:candidate-vibid:1001000195095": 17,
+      "gas:candidate-vibid:1001000289822": 27,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 7,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 259,
-      "Кашин Владимир Иванович": 36,
-      "Королев Александр Петрович": 14,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000217934": 7,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 259,
+      "gas:candidate-vibid:1001000121866": 36,
+      "gas:candidate-vibid:350300370373": 14,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370442&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 180,
-      "Кашин Владимир Иванович": 169,
-      "Королев Александр Петрович": 10,
-      "Котова Эльвира Степановна": 2,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 180,
+      "gas:candidate-vibid:1001000121866": 169,
+      "gas:candidate-vibid:350300370373": 10,
+      "gas:candidate-vibid:1001000195095": 2,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 118,
-      "Кашин Владимир Иванович": 50,
-      "Королев Александр Петрович": 1,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 2,
-      "Кухаренко Александр Александрович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 118,
+      "gas:candidate-vibid:1001000121866": 50,
+      "gas:candidate-vibid:350300370373": 1,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 2,
+      "gas:candidate-vibid:350300370382": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 2,
-      "Ващенко Алексей Михайлович": 1,
-      "Гудков Геннадий Владимирович": 112,
-      "Кашин Владимир Иванович": 28,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000217934": 2,
+      "gas:candidate-vibid:350300370379": 1,
+      "gas:candidate-vibid:1001000131401": 112,
+      "gas:candidate-vibid:1001000121866": 28,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 272,
-      "Кашин Владимир Иванович": 82,
-      "Королев Александр Петрович": 4,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 15,
-      "Кухаренко Александр Александрович": 15,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 272,
+      "gas:candidate-vibid:1001000121866": 82,
+      "gas:candidate-vibid:350300370373": 4,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 15,
+      "gas:candidate-vibid:350300370382": 15,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 188,
-      "Кашин Владимир Иванович": 97,
-      "Королев Александр Петрович": 3,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 5,
-      "Кухаренко Александр Александрович": 4,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 188,
+      "gas:candidate-vibid:1001000121866": 97,
+      "gas:candidate-vibid:350300370373": 3,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 5,
+      "gas:candidate-vibid:350300370382": 4,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 321,
-      "Кашин Владимир Иванович": 70,
-      "Королев Александр Петрович": 15,
-      "Котова Эльвира Степановна": 1,
-      "Кулешов Владимир Ефимович": 14,
-      "Кухаренко Александр Александрович": 8,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 321,
+      "gas:candidate-vibid:1001000121866": 70,
+      "gas:candidate-vibid:350300370373": 15,
+      "gas:candidate-vibid:1001000195095": 1,
+      "gas:candidate-vibid:1001000289822": 14,
+      "gas:candidate-vibid:350300370382": 8,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 176,
-      "Кашин Владимир Иванович": 47,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 4,
-      "Кулешов Владимир Ефимович": 4,
-      "Кухаренко Александр Александрович": 13,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 176,
+      "gas:candidate-vibid:1001000121866": 47,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 4,
+      "gas:candidate-vibid:1001000289822": 4,
+      "gas:candidate-vibid:350300370382": 13,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 12,
-      "Ващенко Алексей Михайлович": 10,
-      "Гудков Геннадий Владимирович": 386,
-      "Кашин Владимир Иванович": 93,
-      "Королев Александр Петрович": 12,
-      "Котова Эльвира Степановна": 10,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 19,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000217934": 12,
+      "gas:candidate-vibid:350300370379": 10,
+      "gas:candidate-vibid:1001000131401": 386,
+      "gas:candidate-vibid:1001000121866": 93,
+      "gas:candidate-vibid:350300370373": 12,
+      "gas:candidate-vibid:1001000195095": 10,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 19,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 1,
-      "Ващенко Алексей Михайлович": 3,
-      "Гудков Геннадий Владимирович": 101,
-      "Кашин Владимир Иванович": 23,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 3,
-      "Кулешов Владимир Ефимович": 9,
-      "Кухаренко Александр Александрович": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000217934": 1,
+      "gas:candidate-vibid:350300370379": 3,
+      "gas:candidate-vibid:1001000131401": 101,
+      "gas:candidate-vibid:1001000121866": 23,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 3,
+      "gas:candidate-vibid:1001000289822": 9,
+      "gas:candidate-vibid:350300370382": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 6,
-      "Гудков Геннадий Владимирович": 300,
-      "Кашин Владимир Иванович": 174,
-      "Королев Александр Петрович": 8,
-      "Котова Эльвира Степановна": 11,
-      "Кулешов Владимир Ефимович": 13,
-      "Кухаренко Александр Александрович": 14,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 6,
+      "gas:candidate-vibid:1001000131401": 300,
+      "gas:candidate-vibid:1001000121866": 174,
+      "gas:candidate-vibid:350300370373": 8,
+      "gas:candidate-vibid:1001000195095": 11,
+      "gas:candidate-vibid:1001000289822": 13,
+      "gas:candidate-vibid:350300370382": 14,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 0,
-      "Ващенко Алексей Михайлович": 4,
-      "Гудков Геннадий Владимирович": 79,
-      "Кашин Владимир Иванович": 31,
-      "Королев Александр Петрович": 5,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 1,
-      "Кухаренко Александр Александрович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000217934": 0,
+      "gas:candidate-vibid:350300370379": 4,
+      "gas:candidate-vibid:1001000131401": 79,
+      "gas:candidate-vibid:1001000121866": 31,
+      "gas:candidate-vibid:350300370373": 5,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 1,
+      "gas:candidate-vibid:350300370382": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 6,
-      "Ващенко Алексей Михайлович": 7,
-      "Гудков Геннадий Владимирович": 485,
-      "Кашин Владимир Иванович": 113,
-      "Королев Александр Петрович": 18,
-      "Котова Эльвира Степановна": 13,
-      "Кулешов Владимир Ефимович": 19,
-      "Кухаренко Александр Александрович": 23,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000217934": 6,
+      "gas:candidate-vibid:350300370379": 7,
+      "gas:candidate-vibid:1001000131401": 485,
+      "gas:candidate-vibid:1001000121866": 113,
+      "gas:candidate-vibid:350300370373": 18,
+      "gas:candidate-vibid:1001000195095": 13,
+      "gas:candidate-vibid:1001000289822": 19,
+      "gas:candidate-vibid:350300370382": 23,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 3,
-      "Ващенко Алексей Михайлович": 2,
-      "Гудков Геннадий Владимирович": 127,
-      "Кашин Владимир Иванович": 80,
-      "Королев Александр Петрович": 7,
-      "Котова Эльвира Степановна": 9,
-      "Кулешов Владимир Ефимович": 3,
-      "Кухаренко Александр Александрович": 18,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000217934": 3,
+      "gas:candidate-vibid:350300370379": 2,
+      "gas:candidate-vibid:1001000131401": 127,
+      "gas:candidate-vibid:1001000121866": 80,
+      "gas:candidate-vibid:350300370373": 7,
+      "gas:candidate-vibid:1001000195095": 9,
+      "gas:candidate-vibid:1001000289822": 3,
+      "gas:candidate-vibid:350300370382": 18,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_50_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Арцибашев Александр Николаевич": 4,
-      "Ващенко Алексей Михайлович": 9,
-      "Гудков Геннадий Владимирович": 543,
-      "Кашин Владимир Иванович": 128,
-      "Королев Александр Петрович": 21,
-      "Котова Эльвира Степановна": 0,
-      "Кулешов Владимир Ефимович": 12,
-      "Кухаренко Александр Александрович": 30,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000217934": 4,
+      "gas:candidate-vibid:350300370379": 9,
+      "gas:candidate-vibid:1001000131401": 543,
+      "gas:candidate-vibid:1001000121866": 128,
+      "gas:candidate-vibid:350300370373": 21,
+      "gas:candidate-vibid:1001000195095": 0,
+      "gas:candidate-vibid:1001000289822": 12,
+      "gas:candidate-vibid:350300370382": 30,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350300370443&region=0&sub_region=0&type=429",

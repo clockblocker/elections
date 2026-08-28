@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 51,
-      "Колдобанов Андрей Викторович": 71,
-      "Конев Юрий Михайлович": 722,
-      "Чертищев Владимир Сергеевич": 330,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000250031": 51,
+      "gas:candidate-vibid:1001000136137": 71,
+      "gas:candidate-vibid:1001000131419": 722,
+      "gas:candidate-vibid:1001000121923": 330,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 22,
-      "Колдобанов Андрей Викторович": 76,
-      "Конев Юрий Михайлович": 657,
-      "Чертищев Владимир Сергеевич": 318,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000250031": 22,
+      "gas:candidate-vibid:1001000136137": 76,
+      "gas:candidate-vibid:1001000131419": 657,
+      "gas:candidate-vibid:1001000121923": 318,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 29,
-      "Колдобанов Андрей Викторович": 76,
-      "Конев Юрий Михайлович": 539,
-      "Чертищев Владимир Сергеевич": 203,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000250031": 29,
+      "gas:candidate-vibid:1001000136137": 76,
+      "gas:candidate-vibid:1001000131419": 539,
+      "gas:candidate-vibid:1001000121923": 203,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 8,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 296,
-      "Чертищев Владимир Сергеевич": 24,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250031": 8,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 296,
+      "gas:candidate-vibid:1001000121923": 24,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 61,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 61,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 110,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 110,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 189,
-      "Чертищев Владимир Сергеевич": 47,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 189,
+      "gas:candidate-vibid:1001000121923": 47,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 47,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 47,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 59,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 59,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 45,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 45,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 15,
-      "Конев Юрий Михайлович": 266,
-      "Чертищев Владимир Сергеевич": 29,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 15,
+      "gas:candidate-vibid:1001000131419": 266,
+      "gas:candidate-vibid:1001000121923": 29,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 67,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 67,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 85,
-      "Чертищев Владимир Сергеевич": 13,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 85,
+      "gas:candidate-vibid:1001000121923": 13,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 35,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 35,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 57,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 57,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 65,
-      "Чертищев Владимир Сергеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 65,
+      "gas:candidate-vibid:1001000121923": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 58,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 58,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 86,
-      "Чертищев Владимир Сергеевич": 12,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 86,
+      "gas:candidate-vibid:1001000121923": 12,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 12,
-      "Конев Юрий Михайлович": 206,
-      "Чертищев Владимир Сергеевич": 54,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 12,
+      "gas:candidate-vibid:1001000131419": 206,
+      "gas:candidate-vibid:1001000121923": 54,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 96,
-      "Чертищев Владимир Сергеевич": 14,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 96,
+      "gas:candidate-vibid:1001000121923": 14,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 69,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 69,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 70,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 70,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 18,
-      "Конев Юрий Михайлович": 314,
-      "Чертищев Владимир Сергеевич": 33,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 18,
+      "gas:candidate-vibid:1001000131419": 314,
+      "gas:candidate-vibid:1001000121923": 33,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 39,
-      "Чертищев Владимир Сергеевич": 32,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 39,
+      "gas:candidate-vibid:1001000121923": 32,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 62,
-      "Чертищев Владимир Сергеевич": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 62,
+      "gas:candidate-vibid:1001000121923": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 38,
-      "Чертищев Владимир Сергеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 38,
+      "gas:candidate-vibid:1001000121923": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 28,
-      "Чертищев Владимир Сергеевич": 16,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 28,
+      "gas:candidate-vibid:1001000121923": 16,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 31,
-      "Чертищев Владимир Сергеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 31,
+      "gas:candidate-vibid:1001000121923": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 11,
-      "Колдобанов Андрей Викторович": 28,
-      "Конев Юрий Михайлович": 292,
-      "Чертищев Владимир Сергеевич": 70,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000250031": 11,
+      "gas:candidate-vibid:1001000136137": 28,
+      "gas:candidate-vibid:1001000131419": 292,
+      "gas:candidate-vibid:1001000121923": 70,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 33,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 33,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 65,
-      "Чертищев Владимир Сергеевич": 17,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 65,
+      "gas:candidate-vibid:1001000121923": 17,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 12,
-      "Конев Юрий Михайлович": 136,
-      "Чертищев Владимир Сергеевич": 25,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 12,
+      "gas:candidate-vibid:1001000131419": 136,
+      "gas:candidate-vibid:1001000121923": 25,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 128,
-      "Чертищев Владимир Сергеевич": 26,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 128,
+      "gas:candidate-vibid:1001000121923": 26,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 38,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 38,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 8,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 47,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 8,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 47,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 15,
-      "Конев Юрий Михайлович": 288,
-      "Чертищев Владимир Сергеевич": 49,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 15,
+      "gas:candidate-vibid:1001000131419": 288,
+      "gas:candidate-vibid:1001000121923": 49,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 50,
-      "Чертищев Владимир Сергеевич": 12,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 50,
+      "gas:candidate-vibid:1001000121923": 12,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 53,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 53,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 77,
-      "Чертищев Владимир Сергеевич": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 77,
+      "gas:candidate-vibid:1001000121923": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 70,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 70,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 244,
-      "Чертищев Владимир Сергеевич": 19,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 244,
+      "gas:candidate-vibid:1001000121923": 19,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 47,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 47,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 40,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 40,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 14,
-      "Конев Юрий Михайлович": 206,
-      "Чертищев Владимир Сергеевич": 19,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 14,
+      "gas:candidate-vibid:1001000131419": 206,
+      "gas:candidate-vibid:1001000121923": 19,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 57,
-      "Чертищев Владимир Сергеевич": 43,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 57,
+      "gas:candidate-vibid:1001000121923": 43,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 88,
-      "Чертищев Владимир Сергеевич": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 88,
+      "gas:candidate-vibid:1001000121923": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 55,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 55,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 117,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 117,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 55,
-      "Чертищев Владимир Сергеевич": 14,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 55,
+      "gas:candidate-vibid:1001000121923": 14,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 221,
-      "Чертищев Владимир Сергеевич": 43,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 221,
+      "gas:candidate-vibid:1001000121923": 43,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 51,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 51,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 43,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 43,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 44,
-      "Чертищев Владимир Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 44,
+      "gas:candidate-vibid:1001000121923": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 94,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 94,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166670&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 35,
-      "Колдобанов Андрей Викторович": 61,
-      "Конев Юрий Михайлович": 719,
-      "Чертищев Владимир Сергеевич": 200,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000250031": 35,
+      "gas:candidate-vibid:1001000136137": 61,
+      "gas:candidate-vibid:1001000131419": 719,
+      "gas:candidate-vibid:1001000121923": 200,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 13,
-      "Колдобанов Андрей Викторович": 32,
-      "Конев Юрий Михайлович": 292,
-      "Чертищев Владимир Сергеевич": 97,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000250031": 13,
+      "gas:candidate-vibid:1001000136137": 32,
+      "gas:candidate-vibid:1001000131419": 292,
+      "gas:candidate-vibid:1001000121923": 97,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 21,
-      "Колдобанов Андрей Викторович": 32,
-      "Конев Юрий Михайлович": 393,
-      "Чертищев Владимир Сергеевич": 110,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000250031": 21,
+      "gas:candidate-vibid:1001000136137": 32,
+      "gas:candidate-vibid:1001000131419": 393,
+      "gas:candidate-vibid:1001000121923": 110,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 51,
-      "Чертищев Владимир Сергеевич": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 51,
+      "gas:candidate-vibid:1001000121923": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 56,
-      "Чертищев Владимир Сергеевич": 13,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 56,
+      "gas:candidate-vibid:1001000121923": 13,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 42,
-      "Чертищев Владимир Сергеевич": 17,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 42,
+      "gas:candidate-vibid:1001000121923": 17,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 208,
-      "Чертищев Владимир Сергеевич": 55,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 208,
+      "gas:candidate-vibid:1001000121923": 55,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 55,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 55,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 52,
-      "Чертищев Владимир Сергеевич": 26,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 52,
+      "gas:candidate-vibid:1001000121923": 26,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 16,
-      "Конев Юрий Михайлович": 289,
-      "Чертищев Владимир Сергеевич": 43,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 16,
+      "gas:candidate-vibid:1001000131419": 289,
+      "gas:candidate-vibid:1001000121923": 43,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 61,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 61,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 156,
-      "Чертищев Владимир Сергеевич": 25,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 156,
+      "gas:candidate-vibid:1001000121923": 25,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 200,
-      "Чертищев Владимир Сергеевич": 15,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 200,
+      "gas:candidate-vibid:1001000121923": 15,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 59,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 59,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 46,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 46,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 36,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 36,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 18,
-      "Конев Юрий Михайлович": 223,
-      "Чертищев Владимир Сергеевич": 55,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 18,
+      "gas:candidate-vibid:1001000131419": 223,
+      "gas:candidate-vibid:1001000121923": 55,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 59,
-      "Чертищев Владимир Сергеевич": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 59,
+      "gas:candidate-vibid:1001000121923": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 21,
-      "Конев Юрий Михайлович": 159,
-      "Чертищев Владимир Сергеевич": 21,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 21,
+      "gas:candidate-vibid:1001000131419": 159,
+      "gas:candidate-vibid:1001000121923": 21,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 60,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 60,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 10,
-      "Конев Юрий Михайлович": 104,
-      "Чертищев Владимир Сергеевич": 11,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 10,
+      "gas:candidate-vibid:1001000131419": 104,
+      "gas:candidate-vibid:1001000121923": 11,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 121,
-      "Чертищев Владимир Сергеевич": 13,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 121,
+      "gas:candidate-vibid:1001000121923": 13,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 22,
-      "Чертищев Владимир Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 22,
+      "gas:candidate-vibid:1001000121923": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 10,
-      "Конев Юрий Михайлович": 224,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 10,
+      "gas:candidate-vibid:1001000131419": 224,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 27,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 27,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 95,
-      "Чертищев Владимир Сергеевич": 31,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 95,
+      "gas:candidate-vibid:1001000121923": 31,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 33,
-      "Чертищев Владимир Сергеевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 33,
+      "gas:candidate-vibid:1001000121923": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166671&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 41,
-      "Конев Юрий Михайлович": 349,
-      "Чертищев Владимир Сергеевич": 63,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 41,
+      "gas:candidate-vibid:1001000131419": 349,
+      "gas:candidate-vibid:1001000121923": 63,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 12,
-      "Колдобанов Андрей Викторович": 33,
-      "Конев Юрий Михайлович": 267,
-      "Чертищев Владимир Сергеевич": 57,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000250031": 12,
+      "gas:candidate-vibid:1001000136137": 33,
+      "gas:candidate-vibid:1001000131419": 267,
+      "gas:candidate-vibid:1001000121923": 57,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 48,
-      "Конев Юрий Михайлович": 430,
-      "Чертищев Владимир Сергеевич": 76,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 48,
+      "gas:candidate-vibid:1001000131419": 430,
+      "gas:candidate-vibid:1001000121923": 76,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 44,
-      "Конев Юрий Михайлович": 340,
-      "Чертищев Владимир Сергеевич": 62,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 44,
+      "gas:candidate-vibid:1001000131419": 340,
+      "gas:candidate-vibid:1001000121923": 62,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 17,
-      "Колдобанов Андрей Викторович": 33,
-      "Конев Юрий Михайлович": 261,
-      "Чертищев Владимир Сергеевич": 49,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000250031": 17,
+      "gas:candidate-vibid:1001000136137": 33,
+      "gas:candidate-vibid:1001000131419": 261,
+      "gas:candidate-vibid:1001000121923": 49,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 19,
-      "Конев Юрий Михайлович": 44,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 19,
+      "gas:candidate-vibid:1001000131419": 44,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 27,
-      "Конев Юрий Михайлович": 126,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 27,
+      "gas:candidate-vibid:1001000131419": 126,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 84,
-      "Чертищев Владимир Сергеевич": 13,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 84,
+      "gas:candidate-vibid:1001000121923": 13,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 50,
-      "Чертищев Владимир Сергеевич": 8,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 50,
+      "gas:candidate-vibid:1001000121923": 8,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 11,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 257,
-      "Чертищев Владимир Сергеевич": 33,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000250031": 11,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 257,
+      "gas:candidate-vibid:1001000121923": 33,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 48,
-      "Чертищев Владимир Сергеевич": 42,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 48,
+      "gas:candidate-vibid:1001000121923": 42,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 61,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 61,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 182,
-      "Чертищев Владимир Сергеевич": 11,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 182,
+      "gas:candidate-vibid:1001000121923": 11,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 91,
-      "Чертищев Владимир Сергеевич": 14,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 91,
+      "gas:candidate-vibid:1001000121923": 14,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 23,
-      "Конев Юрий Михайлович": 258,
-      "Чертищев Владимир Сергеевич": 72,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 23,
+      "gas:candidate-vibid:1001000131419": 258,
+      "gas:candidate-vibid:1001000121923": 72,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 49,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 49,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 13,
-      "Конев Юрий Михайлович": 163,
-      "Чертищев Владимир Сергеевич": 28,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 13,
+      "gas:candidate-vibid:1001000131419": 163,
+      "gas:candidate-vibid:1001000121923": 28,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 76,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 76,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 110,
-      "Чертищев Владимир Сергеевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 110,
+      "gas:candidate-vibid:1001000121923": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 93,
-      "Чертищев Владимир Сергеевич": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 93,
+      "gas:candidate-vibid:1001000121923": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 124,
-      "Чертищев Владимир Сергеевич": 12,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 124,
+      "gas:candidate-vibid:1001000121923": 12,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 19,
-      "Конев Юрий Михайлович": 217,
-      "Чертищев Владимир Сергеевич": 21,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 19,
+      "gas:candidate-vibid:1001000131419": 217,
+      "gas:candidate-vibid:1001000121923": 21,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 51,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 51,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 12,
-      "Конев Юрий Михайлович": 130,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 12,
+      "gas:candidate-vibid:1001000131419": 130,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 217,
-      "Чертищев Владимир Сергеевич": 24,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 217,
+      "gas:candidate-vibid:1001000121923": 24,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 263,
-      "Чертищев Владимир Сергеевич": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 263,
+      "gas:candidate-vibid:1001000121923": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 14,
-      "Конев Юрий Михайлович": 254,
-      "Чертищев Владимир Сергеевич": 17,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 14,
+      "gas:candidate-vibid:1001000131419": 254,
+      "gas:candidate-vibid:1001000121923": 17,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 86,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 86,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 17,
-      "Конев Юрий Михайлович": 259,
-      "Чертищев Владимир Сергеевич": 55,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 17,
+      "gas:candidate-vibid:1001000131419": 259,
+      "gas:candidate-vibid:1001000121923": 55,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 12,
-      "Конев Юрий Михайлович": 280,
-      "Чертищев Владимир Сергеевич": 55,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 12,
+      "gas:candidate-vibid:1001000131419": 280,
+      "gas:candidate-vibid:1001000121923": 55,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166672&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 27,
-      "Колдобанов Андрей Викторович": 22,
-      "Конев Юрий Михайлович": 304,
-      "Чертищев Владимир Сергеевич": 178,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000250031": 27,
+      "gas:candidate-vibid:1001000136137": 22,
+      "gas:candidate-vibid:1001000131419": 304,
+      "gas:candidate-vibid:1001000121923": 178,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 13,
-      "Колдобанов Андрей Викторович": 22,
-      "Конев Юрий Михайлович": 112,
-      "Чертищев Владимир Сергеевич": 76,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000250031": 13,
+      "gas:candidate-vibid:1001000136137": 22,
+      "gas:candidate-vibid:1001000131419": 112,
+      "gas:candidate-vibid:1001000121923": 76,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 28,
-      "Конев Юрий Михайлович": 177,
-      "Чертищев Владимир Сергеевич": 85,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 28,
+      "gas:candidate-vibid:1001000131419": 177,
+      "gas:candidate-vibid:1001000121923": 85,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 37,
-      "Конев Юрий Михайлович": 165,
-      "Чертищев Владимир Сергеевич": 80,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 37,
+      "gas:candidate-vibid:1001000131419": 165,
+      "gas:candidate-vibid:1001000121923": 80,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 23,
-      "Колдобанов Андрей Викторович": 20,
-      "Конев Юрий Михайлович": 221,
-      "Чертищев Владимир Сергеевич": 67,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000250031": 23,
+      "gas:candidate-vibid:1001000136137": 20,
+      "gas:candidate-vibid:1001000131419": 221,
+      "gas:candidate-vibid:1001000121923": 67,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 20,
-      "Колдобанов Андрей Викторович": 24,
-      "Конев Юрий Михайлович": 174,
-      "Чертищев Владимир Сергеевич": 69,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000250031": 20,
+      "gas:candidate-vibid:1001000136137": 24,
+      "gas:candidate-vibid:1001000131419": 174,
+      "gas:candidate-vibid:1001000121923": 69,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 30,
-      "Конев Юрий Михайлович": 131,
-      "Чертищев Владимир Сергеевич": 86,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 30,
+      "gas:candidate-vibid:1001000131419": 131,
+      "gas:candidate-vibid:1001000121923": 86,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 57,
-      "Чертищев Владимир Сергеевич": 45,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 57,
+      "gas:candidate-vibid:1001000121923": 45,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 33,
-      "Чертищев Владимир Сергеевич": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 33,
+      "gas:candidate-vibid:1001000121923": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 29,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 29,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 143,
-      "Чертищев Владимир Сергеевич": 97,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 143,
+      "gas:candidate-vibid:1001000121923": 97,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 8,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 107,
-      "Чертищев Владимир Сергеевич": 39,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 8,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 107,
+      "gas:candidate-vibid:1001000121923": 39,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 12,
-      "Конев Юрий Михайлович": 159,
-      "Чертищев Владимир Сергеевич": 75,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 12,
+      "gas:candidate-vibid:1001000131419": 159,
+      "gas:candidate-vibid:1001000121923": 75,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 50,
-      "Чертищев Владимир Сергеевич": 33,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 50,
+      "gas:candidate-vibid:1001000121923": 33,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 61,
-      "Чертищев Владимир Сергеевич": 25,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 61,
+      "gas:candidate-vibid:1001000121923": 25,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 35,
-      "Чертищев Владимир Сергеевич": 21,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 35,
+      "gas:candidate-vibid:1001000121923": 21,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 145,
-      "Чертищев Владимир Сергеевич": 13,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 145,
+      "gas:candidate-vibid:1001000121923": 13,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 53,
-      "Чертищев Владимир Сергеевич": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 53,
+      "gas:candidate-vibid:1001000121923": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 18,
-      "Конев Юрий Михайлович": 276,
-      "Чертищев Владимир Сергеевич": 130,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 18,
+      "gas:candidate-vibid:1001000131419": 276,
+      "gas:candidate-vibid:1001000121923": 130,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 78,
-      "Чертищев Владимир Сергеевич": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 78,
+      "gas:candidate-vibid:1001000121923": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 21,
-      "Конев Юрий Михайлович": 272,
-      "Чертищев Владимир Сергеевич": 110,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 21,
+      "gas:candidate-vibid:1001000131419": 272,
+      "gas:candidate-vibid:1001000121923": 110,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 60,
-      "Чертищев Владимир Сергеевич": 19,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 60,
+      "gas:candidate-vibid:1001000121923": 19,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 15,
-      "Конев Юрий Михайлович": 66,
-      "Чертищев Владимир Сергеевич": 30,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 15,
+      "gas:candidate-vibid:1001000131419": 66,
+      "gas:candidate-vibid:1001000121923": 30,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 16,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 16,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 43,
-      "Чертищев Владимир Сергеевич": 19,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 43,
+      "gas:candidate-vibid:1001000121923": 19,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 24,
-      "Конев Юрий Михайлович": 211,
-      "Чертищев Владимир Сергеевич": 105,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 24,
+      "gas:candidate-vibid:1001000131419": 211,
+      "gas:candidate-vibid:1001000121923": 105,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 35,
-      "Чертищев Владимир Сергеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 35,
+      "gas:candidate-vibid:1001000121923": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 38,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 38,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 34,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 34,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 12,
-      "Колдобанов Андрей Викторович": 17,
-      "Конев Юрий Михайлович": 225,
-      "Чертищев Владимир Сергеевич": 23,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000250031": 12,
+      "gas:candidate-vibid:1001000136137": 17,
+      "gas:candidate-vibid:1001000131419": 225,
+      "gas:candidate-vibid:1001000121923": 23,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 93,
-      "Чертищев Владимир Сергеевич": 21,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 93,
+      "gas:candidate-vibid:1001000121923": 21,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 39,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 39,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 27,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 27,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 223,
-      "Чертищев Владимир Сергеевич": 18,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 223,
+      "gas:candidate-vibid:1001000121923": 18,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 33,
-      "Чертищев Владимир Сергеевич": 47,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 33,
+      "gas:candidate-vibid:1001000121923": 47,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166673&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 263,
-      "Чертищев Владимир Сергеевич": 23,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 263,
+      "gas:candidate-vibid:1001000121923": 23,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 92,
-      "Чертищев Владимир Сергеевич": 24,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 92,
+      "gas:candidate-vibid:1001000121923": 24,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 16,
-      "Колдобанов Андрей Викторович": 58,
-      "Конев Юрий Михайлович": 638,
-      "Чертищев Владимир Сергеевич": 158,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000250031": 16,
+      "gas:candidate-vibid:1001000136137": 58,
+      "gas:candidate-vibid:1001000131419": 638,
+      "gas:candidate-vibid:1001000121923": 158,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 19,
-      "Колдобанов Андрей Викторович": 52,
-      "Конев Юрий Михайлович": 453,
-      "Чертищев Владимир Сергеевич": 116,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000250031": 19,
+      "gas:candidate-vibid:1001000136137": 52,
+      "gas:candidate-vibid:1001000131419": 453,
+      "gas:candidate-vibid:1001000121923": 116,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 24,
-      "Колдобанов Андрей Викторович": 36,
-      "Конев Юрий Михайлович": 257,
-      "Чертищев Владимир Сергеевич": 136,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000250031": 24,
+      "gas:candidate-vibid:1001000136137": 36,
+      "gas:candidate-vibid:1001000131419": 257,
+      "gas:candidate-vibid:1001000121923": 136,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 8,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 40,
-      "Чертищев Владимир Сергеевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 8,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 40,
+      "gas:candidate-vibid:1001000121923": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 7,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 87,
-      "Чертищев Владимир Сергеевич": 30,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 7,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 87,
+      "gas:candidate-vibid:1001000121923": 30,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 11,
-      "Колдобанов Андрей Викторович": 21,
-      "Конев Юрий Михайлович": 270,
-      "Чертищев Владимир Сергеевич": 45,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000250031": 11,
+      "gas:candidate-vibid:1001000136137": 21,
+      "gas:candidate-vibid:1001000131419": 270,
+      "gas:candidate-vibid:1001000121923": 45,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 13,
-      "Колдобанов Андрей Викторович": 14,
-      "Конев Юрий Михайлович": 149,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000250031": 13,
+      "gas:candidate-vibid:1001000136137": 14,
+      "gas:candidate-vibid:1001000131419": 149,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 99,
-      "Чертищев Владимир Сергеевич": 21,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 99,
+      "gas:candidate-vibid:1001000121923": 21,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 188,
-      "Чертищев Владимир Сергеевич": 35,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 188,
+      "gas:candidate-vibid:1001000121923": 35,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 64,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 64,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 59,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 59,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 197,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 197,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 323,
-      "Чертищев Владимир Сергеевич": 22,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 323,
+      "gas:candidate-vibid:1001000121923": 22,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 15,
-      "Конев Юрий Михайлович": 181,
-      "Чертищев Владимир Сергеевич": 32,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 15,
+      "gas:candidate-vibid:1001000131419": 181,
+      "gas:candidate-vibid:1001000121923": 32,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 243,
-      "Чертищев Владимир Сергеевич": 38,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 243,
+      "gas:candidate-vibid:1001000121923": 38,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 30,
-      "Колдобанов Андрей Викторович": 38,
-      "Конев Юрий Михайлович": 436,
-      "Чертищев Владимир Сергеевич": 68,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000250031": 30,
+      "gas:candidate-vibid:1001000136137": 38,
+      "gas:candidate-vibid:1001000131419": 436,
+      "gas:candidate-vibid:1001000121923": 68,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 45,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 45,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 77,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 77,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 227,
-      "Чертищев Владимир Сергеевич": 67,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 227,
+      "gas:candidate-vibid:1001000121923": 67,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 8,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 349,
-      "Чертищев Владимир Сергеевич": 64,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 8,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 349,
+      "gas:candidate-vibid:1001000121923": 64,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9114,11 +9114,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 68,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 68,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9168,11 +9168,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 420,
-      "Чертищев Владимир Сергеевич": 136,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 420,
+      "gas:candidate-vibid:1001000121923": 136,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9222,11 +9222,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 90,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 90,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9276,11 +9276,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 13,
-      "Конев Юрий Михайлович": 194,
-      "Чертищев Владимир Сергеевич": 41,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 13,
+      "gas:candidate-vibid:1001000131419": 194,
+      "gas:candidate-vibid:1001000121923": 41,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9330,11 +9330,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 19,
-      "Колдобанов Андрей Викторович": 24,
-      "Конев Юрий Михайлович": 423,
-      "Чертищев Владимир Сергеевич": 112,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000250031": 19,
+      "gas:candidate-vibid:1001000136137": 24,
+      "gas:candidate-vibid:1001000131419": 423,
+      "gas:candidate-vibid:1001000121923": 112,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9384,11 +9384,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 54,
-      "Чертищев Владимир Сергеевич": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 54,
+      "gas:candidate-vibid:1001000121923": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9438,11 +9438,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 127,
-      "Чертищев Владимир Сергеевич": 15,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 127,
+      "gas:candidate-vibid:1001000121923": 15,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9492,11 +9492,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 205,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 205,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9546,11 +9546,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 346,
-      "Чертищев Владимир Сергеевич": 24,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 346,
+      "gas:candidate-vibid:1001000121923": 24,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9600,11 +9600,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 197,
-      "Чертищев Владимир Сергеевич": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 197,
+      "gas:candidate-vibid:1001000121923": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9654,11 +9654,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 15,
-      "Конев Юрий Михайлович": 139,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 15,
+      "gas:candidate-vibid:1001000131419": 139,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9708,11 +9708,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 12,
-      "Колдобанов Андрей Викторович": 18,
-      "Конев Юрий Михайлович": 217,
-      "Чертищев Владимир Сергеевич": 47,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000250031": 12,
+      "gas:candidate-vibid:1001000136137": 18,
+      "gas:candidate-vibid:1001000131419": 217,
+      "gas:candidate-vibid:1001000121923": 47,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9762,11 +9762,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 14,
-      "Колдобанов Андрей Викторович": 13,
-      "Конев Юрий Михайлович": 131,
-      "Чертищев Владимир Сергеевич": 36,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000250031": 14,
+      "gas:candidate-vibid:1001000136137": 13,
+      "gas:candidate-vibid:1001000131419": 131,
+      "gas:candidate-vibid:1001000121923": 36,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9816,11 +9816,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 253,
-      "Чертищев Владимир Сергеевич": 40,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 253,
+      "gas:candidate-vibid:1001000121923": 40,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9870,11 +9870,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 114,
-      "Чертищев Владимир Сергеевич": 15,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 114,
+      "gas:candidate-vibid:1001000121923": 15,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9924,11 +9924,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 112,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 112,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -9978,11 +9978,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 149,
-      "Чертищев Владимир Сергеевич": 70,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 149,
+      "gas:candidate-vibid:1001000121923": 70,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -10032,11 +10032,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 88,
-      "Чертищев Владимир Сергеевич": 46,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 88,
+      "gas:candidate-vibid:1001000121923": 46,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166674&region=0&sub_region=0&type=429",
@@ -10086,11 +10086,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 238,
-      "Чертищев Владимир Сергеевич": 40,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 238,
+      "gas:candidate-vibid:1001000121923": 40,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10140,11 +10140,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 117,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 117,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10194,11 +10194,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 49,
-      "Чертищев Владимир Сергеевич": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 49,
+      "gas:candidate-vibid:1001000121923": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10248,11 +10248,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 22,
-      "Конев Юрий Михайлович": 80,
-      "Чертищев Владимир Сергеевич": 15,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 22,
+      "gas:candidate-vibid:1001000131419": 80,
+      "gas:candidate-vibid:1001000121923": 15,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10302,11 +10302,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 244,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 244,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10356,11 +10356,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 223,
-      "Чертищев Владимир Сергеевич": 18,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 223,
+      "gas:candidate-vibid:1001000121923": 18,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10410,11 +10410,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 36,
-      "Колдобанов Андрей Викторович": 35,
-      "Конев Юрий Михайлович": 700,
-      "Чертищев Владимир Сергеевич": 173,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000250031": 36,
+      "gas:candidate-vibid:1001000136137": 35,
+      "gas:candidate-vibid:1001000131419": 700,
+      "gas:candidate-vibid:1001000121923": 173,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10464,11 +10464,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 23,
-      "Колдобанов Андрей Викторович": 28,
-      "Конев Юрий Михайлович": 398,
-      "Чертищев Владимир Сергеевич": 70,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000250031": 23,
+      "gas:candidate-vibid:1001000136137": 28,
+      "gas:candidate-vibid:1001000131419": 398,
+      "gas:candidate-vibid:1001000121923": 70,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10518,11 +10518,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 20,
-      "Колдобанов Андрей Викторович": 33,
-      "Конев Юрий Михайлович": 450,
-      "Чертищев Владимир Сергеевич": 60,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000250031": 20,
+      "gas:candidate-vibid:1001000136137": 33,
+      "gas:candidate-vibid:1001000131419": 450,
+      "gas:candidate-vibid:1001000121923": 60,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10572,11 +10572,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 22,
-      "Колдобанов Андрей Викторович": 37,
-      "Конев Юрий Михайлович": 592,
-      "Чертищев Владимир Сергеевич": 54,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000250031": 22,
+      "gas:candidate-vibid:1001000136137": 37,
+      "gas:candidate-vibid:1001000131419": 592,
+      "gas:candidate-vibid:1001000121923": 54,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10626,11 +10626,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 11,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 104,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 11,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 104,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10680,11 +10680,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 252,
-      "Чертищев Владимир Сергеевич": 20,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 252,
+      "gas:candidate-vibid:1001000121923": 20,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10734,11 +10734,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 16,
-      "Конев Юрий Михайлович": 274,
-      "Чертищев Владимир Сергеевич": 51,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 16,
+      "gas:candidate-vibid:1001000131419": 274,
+      "gas:candidate-vibid:1001000121923": 51,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10788,11 +10788,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 77,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 77,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10842,11 +10842,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 41,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 41,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10896,11 +10896,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 15,
-      "Конев Юрий Михайлович": 331,
-      "Чертищев Владимир Сергеевич": 51,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 15,
+      "gas:candidate-vibid:1001000131419": 331,
+      "gas:candidate-vibid:1001000121923": 51,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -10950,11 +10950,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 46,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 46,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11004,11 +11004,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 16,
-      "Конев Юрий Михайлович": 276,
-      "Чертищев Владимир Сергеевич": 29,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 16,
+      "gas:candidate-vibid:1001000131419": 276,
+      "gas:candidate-vibid:1001000121923": 29,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11058,11 +11058,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 9,
-      "Конев Юрий Михайлович": 51,
-      "Чертищев Владимир Сергеевич": 11,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 9,
+      "gas:candidate-vibid:1001000131419": 51,
+      "gas:candidate-vibid:1001000121923": 11,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11112,11 +11112,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 0,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 82,
-      "Чертищев Владимир Сергеевич": 16,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 0,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 82,
+      "gas:candidate-vibid:1001000121923": 16,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11166,11 +11166,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 182,
-      "Чертищев Владимир Сергеевич": 39,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 182,
+      "gas:candidate-vibid:1001000121923": 39,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11220,11 +11220,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 78,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 78,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11274,11 +11274,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 51,
-      "Чертищев Владимир Сергеевич": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 51,
+      "gas:candidate-vibid:1001000121923": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11328,11 +11328,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 357,
-      "Чертищев Владимир Сергеевич": 44,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 357,
+      "gas:candidate-vibid:1001000121923": 44,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11382,11 +11382,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 106,
-      "Чертищев Владимир Сергеевич": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 106,
+      "gas:candidate-vibid:1001000121923": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11436,11 +11436,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 8,
-      "Конев Юрий Михайлович": 271,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 8,
+      "gas:candidate-vibid:1001000131419": 271,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11490,11 +11490,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 43,
-      "Чертищев Владимир Сергеевич": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 43,
+      "gas:candidate-vibid:1001000121923": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11544,11 +11544,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 4,
-      "Конев Юрий Михайлович": 44,
-      "Чертищев Владимир Сергеевич": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 4,
+      "gas:candidate-vibid:1001000131419": 44,
+      "gas:candidate-vibid:1001000121923": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11598,11 +11598,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 126,
-      "Чертищев Владимир Сергеевич": 60,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 126,
+      "gas:candidate-vibid:1001000121923": 60,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11652,11 +11652,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 82,
-      "Чертищев Владимир Сергеевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 82,
+      "gas:candidate-vibid:1001000121923": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11706,11 +11706,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 175,
-      "Чертищев Владимир Сергеевич": 21,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 175,
+      "gas:candidate-vibid:1001000121923": 21,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11760,11 +11760,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 57,
-      "Чертищев Владимир Сергеевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 57,
+      "gas:candidate-vibid:1001000121923": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11814,11 +11814,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 0,
-      "Конев Юрий Михайлович": 31,
-      "Чертищев Владимир Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 0,
+      "gas:candidate-vibid:1001000131419": 31,
+      "gas:candidate-vibid:1001000121923": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11868,11 +11868,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 45,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 45,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11922,11 +11922,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 124,
-      "Чертищев Владимир Сергеевич": 31,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 124,
+      "gas:candidate-vibid:1001000121923": 31,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -11976,11 +11976,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 13,
-      "Колдобанов Андрей Викторович": 14,
-      "Конев Юрий Михайлович": 213,
-      "Чертищев Владимир Сергеевич": 24,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000250031": 13,
+      "gas:candidate-vibid:1001000136137": 14,
+      "gas:candidate-vibid:1001000131419": 213,
+      "gas:candidate-vibid:1001000121923": 24,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -12030,11 +12030,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 2,
-      "Конев Юрий Михайлович": 107,
-      "Чертищев Владимир Сергеевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 2,
+      "gas:candidate-vibid:1001000131419": 107,
+      "gas:candidate-vibid:1001000121923": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -12084,11 +12084,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 6,
-      "Конев Юрий Михайлович": 67,
-      "Чертищев Владимир Сергеевич": 23,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 6,
+      "gas:candidate-vibid:1001000131419": 67,
+      "gas:candidate-vibid:1001000121923": 23,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166675&region=0&sub_region=0&type=429",
@@ -12138,11 +12138,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 15,
-      "Колдобанов Андрей Викторович": 28,
-      "Конев Юрий Михайлович": 258,
-      "Чертищев Владимир Сергеевич": 77,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000250031": 15,
+      "gas:candidate-vibid:1001000136137": 28,
+      "gas:candidate-vibid:1001000131419": 258,
+      "gas:candidate-vibid:1001000121923": 77,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12192,11 +12192,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 17,
-      "Колдобанов Андрей Викторович": 41,
-      "Конев Юрий Михайлович": 243,
-      "Чертищев Владимир Сергеевич": 89,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000250031": 17,
+      "gas:candidate-vibid:1001000136137": 41,
+      "gas:candidate-vibid:1001000131419": 243,
+      "gas:candidate-vibid:1001000121923": 89,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12246,11 +12246,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 21,
-      "Колдобанов Андрей Викторович": 42,
-      "Конев Юрий Михайлович": 310,
-      "Чертищев Владимир Сергеевич": 130,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000250031": 21,
+      "gas:candidate-vibid:1001000136137": 42,
+      "gas:candidate-vibid:1001000131419": 310,
+      "gas:candidate-vibid:1001000121923": 130,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12300,11 +12300,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 16,
-      "Колдобанов Андрей Викторович": 27,
-      "Конев Юрий Михайлович": 294,
-      "Чертищев Владимир Сергеевич": 150,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000250031": 16,
+      "gas:candidate-vibid:1001000136137": 27,
+      "gas:candidate-vibid:1001000131419": 294,
+      "gas:candidate-vibid:1001000121923": 150,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12354,11 +12354,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 11,
-      "Колдобанов Андрей Викторович": 35,
-      "Конев Юрий Михайлович": 319,
-      "Чертищев Владимир Сергеевич": 100,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000250031": 11,
+      "gas:candidate-vibid:1001000136137": 35,
+      "gas:candidate-vibid:1001000131419": 319,
+      "gas:candidate-vibid:1001000121923": 100,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12408,11 +12408,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 13,
-      "Колдобанов Андрей Викторович": 41,
-      "Конев Юрий Михайлович": 264,
-      "Чертищев Владимир Сергеевич": 88,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000250031": 13,
+      "gas:candidate-vibid:1001000136137": 41,
+      "gas:candidate-vibid:1001000131419": 264,
+      "gas:candidate-vibid:1001000121923": 88,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12462,11 +12462,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 41,
-      "Конев Юрий Михайлович": 293,
-      "Чертищев Владимир Сергеевич": 90,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 41,
+      "gas:candidate-vibid:1001000131419": 293,
+      "gas:candidate-vibid:1001000121923": 90,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12516,11 +12516,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 22,
-      "Колдобанов Андрей Викторович": 51,
-      "Конев Юрий Михайлович": 253,
-      "Чертищев Владимир Сергеевич": 105,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000250031": 22,
+      "gas:candidate-vibid:1001000136137": 51,
+      "gas:candidate-vibid:1001000131419": 253,
+      "gas:candidate-vibid:1001000121923": 105,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12570,11 +12570,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 9,
-      "Колдобанов Андрей Викторович": 62,
-      "Конев Юрий Михайлович": 276,
-      "Чертищев Владимир Сергеевич": 86,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000250031": 9,
+      "gas:candidate-vibid:1001000136137": 62,
+      "gas:candidate-vibid:1001000131419": 276,
+      "gas:candidate-vibid:1001000121923": 86,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12624,11 +12624,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 20,
-      "Колдобанов Андрей Викторович": 48,
-      "Конев Юрий Михайлович": 401,
-      "Чертищев Владимир Сергеевич": 122,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000250031": 20,
+      "gas:candidate-vibid:1001000136137": 48,
+      "gas:candidate-vibid:1001000131419": 401,
+      "gas:candidate-vibid:1001000121923": 122,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12678,11 +12678,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 13,
-      "Колдобанов Андрей Викторович": 28,
-      "Конев Юрий Михайлович": 293,
-      "Чертищев Владимир Сергеевич": 95,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000250031": 13,
+      "gas:candidate-vibid:1001000136137": 28,
+      "gas:candidate-vibid:1001000131419": 293,
+      "gas:candidate-vibid:1001000121923": 95,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12732,11 +12732,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 13,
-      "Конев Юрий Михайлович": 260,
-      "Чертищев Владимир Сергеевич": 32,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 13,
+      "gas:candidate-vibid:1001000131419": 260,
+      "gas:candidate-vibid:1001000121923": 32,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12786,11 +12786,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 16,
-      "Конев Юрий Михайлович": 251,
-      "Чертищев Владимир Сергеевич": 32,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 16,
+      "gas:candidate-vibid:1001000131419": 251,
+      "gas:candidate-vibid:1001000121923": 32,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12840,11 +12840,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 7,
-      "Конев Юрий Михайлович": 142,
-      "Чертищев Владимир Сергеевич": 19,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 7,
+      "gas:candidate-vibid:1001000131419": 142,
+      "gas:candidate-vibid:1001000121923": 19,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12894,11 +12894,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 11,
-      "Колдобанов Андрей Викторович": 29,
-      "Конев Юрий Михайлович": 387,
-      "Чертищев Владимир Сергеевич": 96,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000250031": 11,
+      "gas:candidate-vibid:1001000136137": 29,
+      "gas:candidate-vibid:1001000131419": 387,
+      "gas:candidate-vibid:1001000121923": 96,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -12948,11 +12948,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 20,
-      "Конев Юрий Михайлович": 237,
-      "Чертищев Владимир Сергеевич": 61,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 20,
+      "gas:candidate-vibid:1001000131419": 237,
+      "gas:candidate-vibid:1001000121923": 61,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13002,11 +13002,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 3,
-      "Колдобанов Андрей Викторович": 1,
-      "Конев Юрий Михайлович": 67,
-      "Чертищев Владимир Сергеевич": 22,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000250031": 3,
+      "gas:candidate-vibid:1001000136137": 1,
+      "gas:candidate-vibid:1001000131419": 67,
+      "gas:candidate-vibid:1001000121923": 22,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13056,11 +13056,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 1,
-      "Колдобанов Андрей Викторович": 3,
-      "Конев Юрий Михайлович": 108,
-      "Чертищев Владимир Сергеевич": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000250031": 1,
+      "gas:candidate-vibid:1001000136137": 3,
+      "gas:candidate-vibid:1001000131419": 108,
+      "gas:candidate-vibid:1001000121923": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13110,11 +13110,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 5,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 241,
-      "Чертищев Владимир Сергеевич": 28,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000250031": 5,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 241,
+      "gas:candidate-vibid:1001000121923": 28,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13164,11 +13164,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 12,
-      "Колдобанов Андрей Викторович": 35,
-      "Конев Юрий Михайлович": 291,
-      "Чертищев Владимир Сергеевич": 62,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000250031": 12,
+      "gas:candidate-vibid:1001000136137": 35,
+      "gas:candidate-vibid:1001000131419": 291,
+      "gas:candidate-vibid:1001000121923": 62,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13218,11 +13218,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 17,
-      "Колдобанов Андрей Викторович": 40,
-      "Конев Юрий Михайлович": 362,
-      "Чертищев Владимир Сергеевич": 66,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000250031": 17,
+      "gas:candidate-vibid:1001000136137": 40,
+      "gas:candidate-vibid:1001000131419": 362,
+      "gas:candidate-vibid:1001000121923": 66,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13272,11 +13272,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 6,
-      "Колдобанов Андрей Викторович": 19,
-      "Конев Юрий Михайлович": 548,
-      "Чертищев Владимир Сергеевич": 102,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000250031": 6,
+      "gas:candidate-vibid:1001000136137": 19,
+      "gas:candidate-vibid:1001000131419": 548,
+      "gas:candidate-vibid:1001000121923": 102,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13326,11 +13326,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 14,
-      "Колдобанов Андрей Викторович": 27,
-      "Конев Юрий Михайлович": 204,
-      "Чертищев Владимир Сергеевич": 118,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000250031": 14,
+      "gas:candidate-vibid:1001000136137": 27,
+      "gas:candidate-vibid:1001000131419": 204,
+      "gas:candidate-vibid:1001000121923": 118,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13380,11 +13380,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 10,
-      "Колдобанов Андрей Викторович": 20,
-      "Конев Юрий Михайлович": 390,
-      "Чертищев Владимир Сергеевич": 66,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000250031": 10,
+      "gas:candidate-vibid:1001000136137": 20,
+      "gas:candidate-vibid:1001000131419": 390,
+      "gas:candidate-vibid:1001000121923": 66,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13434,11 +13434,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 4,
-      "Колдобанов Андрей Викторович": 11,
-      "Конев Юрий Михайлович": 324,
-      "Чертищев Владимир Сергеевич": 50,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000250031": 4,
+      "gas:candidate-vibid:1001000136137": 11,
+      "gas:candidate-vibid:1001000131419": 324,
+      "gas:candidate-vibid:1001000121923": 50,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",
@@ -13488,11 +13488,11 @@ export const duma_2003_uik_428_region_72_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Альтфатер Эдуард Васильевич": 2,
-      "Колдобанов Андрей Викторович": 5,
-      "Конев Юрий Михайлович": 77,
-      "Чертищев Владимир Сергеевич": 23,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000250031": 2,
+      "gas:candidate-vibid:1001000136137": 5,
+      "gas:candidate-vibid:1001000131419": 77,
+      "gas:candidate-vibid:1001000121923": 23,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=723001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=372300166676&region=0&sub_region=0&type=429",

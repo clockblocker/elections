@@ -32,14 +32,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 206,
-      "Жириновский Владимир Вольфович": 118,
-      "Путин Владимир Владимирович": 1108,
-      "Собчак Ксения Анатольевна": 43,
-      "Сурайкин Максим Александрович": 16,
-      "Титов Борис Юрьевич": 14,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 206,
+      "gas:candidate-vibid:100100084907814": 118,
+      "gas:candidate-vibid:100100084986022": 1108,
+      "gas:candidate-vibid:100100084956361": 43,
+      "gas:candidate-vibid:100100084946387": 16,
+      "gas:candidate-vibid:100100084928393": 14,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -79,14 +79,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 19,
-      "Грудинин Павел Николаевич": 206,
-      "Жириновский Владимир Вольфович": 89,
-      "Путин Владимир Владимирович": 1045,
-      "Собчак Ксения Анатольевна": 40,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 23
+      "gas:candidate-vibid:100100084946464": 19,
+      "gas:candidate-vibid:100100085002829": 206,
+      "gas:candidate-vibid:100100084907814": 89,
+      "gas:candidate-vibid:100100084986022": 1045,
+      "gas:candidate-vibid:100100084956361": 40,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -126,14 +126,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 169,
-      "Жириновский Владимир Вольфович": 101,
-      "Путин Владимир Владимирович": 874,
-      "Собчак Ксения Анатольевна": 20,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 18
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 169,
+      "gas:candidate-vibid:100100084907814": 101,
+      "gas:candidate-vibid:100100084986022": 874,
+      "gas:candidate-vibid:100100084956361": 20,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -173,14 +173,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 19,
-      "Грудинин Павел Николаевич": 205,
-      "Жириновский Владимир Вольфович": 121,
-      "Путин Владимир Владимирович": 1057,
-      "Собчак Ксения Анатольевна": 29,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 23
+      "gas:candidate-vibid:100100084946464": 19,
+      "gas:candidate-vibid:100100085002829": 205,
+      "gas:candidate-vibid:100100084907814": 121,
+      "gas:candidate-vibid:100100084986022": 1057,
+      "gas:candidate-vibid:100100084956361": 29,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -220,14 +220,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 229,
-      "Жириновский Владимир Вольфович": 114,
-      "Путин Владимир Владимирович": 1034,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 20
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 229,
+      "gas:candidate-vibid:100100084907814": 114,
+      "gas:candidate-vibid:100100084986022": 1034,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -267,14 +267,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 100,
-      "Жириновский Владимир Вольфович": 85,
-      "Путин Владимир Владимирович": 675,
-      "Собчак Ксения Анатольевна": 21,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 14
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 100,
+      "gas:candidate-vibid:100100084907814": 85,
+      "gas:candidate-vibid:100100084986022": 675,
+      "gas:candidate-vibid:100100084956361": 21,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -314,14 +314,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 197,
-      "Жириновский Владимир Вольфович": 112,
-      "Путин Владимир Владимирович": 953,
-      "Собчак Ксения Анатольевна": 23,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 23
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 197,
+      "gas:candidate-vibid:100100084907814": 112,
+      "gas:candidate-vibid:100100084986022": 953,
+      "gas:candidate-vibid:100100084956361": 23,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -361,14 +361,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 192,
-      "Жириновский Владимир Вольфович": 86,
-      "Путин Владимир Владимирович": 881,
-      "Собчак Ксения Анатольевна": 27,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 23
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 192,
+      "gas:candidate-vibid:100100084907814": 86,
+      "gas:candidate-vibid:100100084986022": 881,
+      "gas:candidate-vibid:100100084956361": 27,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -408,14 +408,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 144,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 738,
-      "Собчак Ксения Анатольевна": 28,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 13,
-      "Явлинский Григорий Алексеевич": 29
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 144,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 738,
+      "gas:candidate-vibid:100100084956361": 28,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 13,
+      "gas:candidate-vibid:100100084937056": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -455,14 +455,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 119,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 505,
-      "Собчак Ксения Анатольевна": 25,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 26
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 119,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 505,
+      "gas:candidate-vibid:100100084956361": 25,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -502,14 +502,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 178,
-      "Жириновский Владимир Вольфович": 108,
-      "Путин Владимир Владимирович": 863,
-      "Собчак Ксения Анатольевна": 44,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 26
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 178,
+      "gas:candidate-vibid:100100084907814": 108,
+      "gas:candidate-vibid:100100084986022": 863,
+      "gas:candidate-vibid:100100084956361": 44,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -549,14 +549,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 443,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 443,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -596,14 +596,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 157,
-      "Жириновский Владимир Вольфович": 79,
-      "Путин Владимир Владимирович": 791,
-      "Собчак Ксения Анатольевна": 18,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 157,
+      "gas:candidate-vibid:100100084907814": 79,
+      "gas:candidate-vibid:100100084986022": 791,
+      "gas:candidate-vibid:100100084956361": 18,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -643,14 +643,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 24,
-      "Грудинин Павел Николаевич": 185,
-      "Жириновский Владимир Вольфович": 102,
-      "Путин Владимир Владимирович": 936,
-      "Собчак Ксения Анатольевна": 30,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 22
+      "gas:candidate-vibid:100100084946464": 24,
+      "gas:candidate-vibid:100100085002829": 185,
+      "gas:candidate-vibid:100100084907814": 102,
+      "gas:candidate-vibid:100100084986022": 936,
+      "gas:candidate-vibid:100100084956361": 30,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -690,14 +690,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 140,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 571,
-      "Собчак Ксения Анатольевна": 35,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 140,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 571,
+      "gas:candidate-vibid:100100084956361": 35,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -737,14 +737,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 153,
-      "Жириновский Владимир Вольфович": 52,
-      "Путин Владимир Владимирович": 605,
-      "Собчак Ксения Анатольевна": 30,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 153,
+      "gas:candidate-vibid:100100084907814": 52,
+      "gas:candidate-vibid:100100084986022": 605,
+      "gas:candidate-vibid:100100084956361": 30,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -784,14 +784,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 274,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 274,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -831,14 +831,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 227,
-      "Жириновский Владимир Вольфович": 82,
-      "Путин Владимир Владимирович": 1053,
-      "Собчак Ксения Анатольевна": 43,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 31,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 227,
+      "gas:candidate-vibid:100100084907814": 82,
+      "gas:candidate-vibid:100100084986022": 1053,
+      "gas:candidate-vibid:100100084956361": 43,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 31,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -878,14 +878,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 221,
-      "Жириновский Владимир Вольфович": 113,
-      "Путин Владимир Владимирович": 1175,
-      "Собчак Ксения Анатольевна": 47,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 22
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 221,
+      "gas:candidate-vibid:100100084907814": 113,
+      "gas:candidate-vibid:100100084986022": 1175,
+      "gas:candidate-vibid:100100084956361": 47,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -925,14 +925,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 202,
-      "Жириновский Владимир Вольфович": 113,
-      "Путин Владимир Владимирович": 1039,
-      "Собчак Ксения Анатольевна": 28,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 20
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 202,
+      "gas:candidate-vibid:100100084907814": 113,
+      "gas:candidate-vibid:100100084986022": 1039,
+      "gas:candidate-vibid:100100084956361": 28,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -972,14 +972,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 267,
-      "Жириновский Владимир Вольфович": 141,
-      "Путин Владимир Владимирович": 1331,
-      "Собчак Ксения Анатольевна": 53,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 28
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 267,
+      "gas:candidate-vibid:100100084907814": 141,
+      "gas:candidate-vibid:100100084986022": 1331,
+      "gas:candidate-vibid:100100084956361": 53,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1019,14 +1019,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 247,
-      "Жириновский Владимир Вольфович": 121,
-      "Путин Владимир Владимирович": 1105,
-      "Собчак Ксения Анатольевна": 49,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 39
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 247,
+      "gas:candidate-vibid:100100084907814": 121,
+      "gas:candidate-vibid:100100084986022": 1105,
+      "gas:candidate-vibid:100100084956361": 49,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1066,14 +1066,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 15,
-      "Грудинин Павел Николаевич": 237,
-      "Жириновский Владимир Вольфович": 115,
-      "Путин Владимир Владимирович": 1218,
-      "Собчак Ксения Анатольевна": 25,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 15,
+      "gas:candidate-vibid:100100085002829": 237,
+      "gas:candidate-vibid:100100084907814": 115,
+      "gas:candidate-vibid:100100084986022": 1218,
+      "gas:candidate-vibid:100100084956361": 25,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1113,14 +1113,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 181,
-      "Жириновский Владимир Вольфович": 78,
-      "Путин Владимир Владимирович": 786,
-      "Собчак Ксения Анатольевна": 23,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 181,
+      "gas:candidate-vibid:100100084907814": 78,
+      "gas:candidate-vibid:100100084986022": 786,
+      "gas:candidate-vibid:100100084956361": 23,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1160,14 +1160,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 212,
-      "Жириновский Владимир Вольфович": 119,
-      "Путин Владимир Владимирович": 966,
-      "Собчак Ксения Анатольевна": 23,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 33
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 212,
+      "gas:candidate-vibid:100100084907814": 119,
+      "gas:candidate-vibid:100100084986022": 966,
+      "gas:candidate-vibid:100100084956361": 23,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1207,14 +1207,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 188,
-      "Жириновский Владимир Вольфович": 107,
-      "Путин Владимир Владимирович": 892,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 18
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 188,
+      "gas:candidate-vibid:100100084907814": 107,
+      "gas:candidate-vibid:100100084986022": 892,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1254,14 +1254,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 126,
-      "Жириновский Владимир Вольфович": 82,
-      "Путин Владимир Владимирович": 594,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 126,
+      "gas:candidate-vibid:100100084907814": 82,
+      "gas:candidate-vibid:100100084986022": 594,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1301,14 +1301,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 193,
-      "Жириновский Владимир Вольфович": 71,
-      "Путин Владимир Владимирович": 813,
-      "Собчак Ксения Анатольевна": 26,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 13,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 193,
+      "gas:candidate-vibid:100100084907814": 71,
+      "gas:candidate-vibid:100100084986022": 813,
+      "gas:candidate-vibid:100100084956361": 26,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 13,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1348,14 +1348,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 203,
-      "Жириновский Владимир Вольфович": 123,
-      "Путин Владимир Владимирович": 987,
-      "Собчак Ксения Анатольевна": 28,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 19
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 203,
+      "gas:candidate-vibid:100100084907814": 123,
+      "gas:candidate-vibid:100100084986022": 987,
+      "gas:candidate-vibid:100100084956361": 28,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1395,14 +1395,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 137,
-      "Жириновский Владимир Вольфович": 78,
-      "Путин Владимир Владимирович": 621,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 137,
+      "gas:candidate-vibid:100100084907814": 78,
+      "gas:candidate-vibid:100100084986022": 621,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1442,14 +1442,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 229,
-      "Жириновский Владимир Вольфович": 118,
-      "Путин Владимир Владимирович": 1085,
-      "Собчак Ксения Анатольевна": 39,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 229,
+      "gas:candidate-vibid:100100084907814": 118,
+      "gas:candidate-vibid:100100084986022": 1085,
+      "gas:candidate-vibid:100100084956361": 39,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1489,14 +1489,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 158,
-      "Жириновский Владимир Вольфович": 73,
-      "Путин Владимир Владимирович": 798,
-      "Собчак Ксения Анатольевна": 25,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 158,
+      "gas:candidate-vibid:100100084907814": 73,
+      "gas:candidate-vibid:100100084986022": 798,
+      "gas:candidate-vibid:100100084956361": 25,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1536,14 +1536,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 243,
-      "Жириновский Владимир Вольфович": 147,
-      "Путин Владимир Владимирович": 1179,
-      "Собчак Ксения Анатольевна": 26,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 26,
-      "Явлинский Григорий Алексеевич": 19
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 243,
+      "gas:candidate-vibid:100100084907814": 147,
+      "gas:candidate-vibid:100100084986022": 1179,
+      "gas:candidate-vibid:100100084956361": 26,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 26,
+      "gas:candidate-vibid:100100084937056": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1583,14 +1583,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 138,
-      "Жириновский Владимир Вольфович": 104,
-      "Путин Владимир Владимирович": 697,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 13,
-      "Явлинский Григорий Алексеевич": 11
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 138,
+      "gas:candidate-vibid:100100084907814": 104,
+      "gas:candidate-vibid:100100084986022": 697,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 13,
+      "gas:candidate-vibid:100100084937056": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1630,14 +1630,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 15,
-      "Грудинин Павел Николаевич": 171,
-      "Жириновский Владимир Вольфович": 113,
-      "Путин Владимир Владимирович": 867,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 15,
+      "gas:candidate-vibid:100100085002829": 171,
+      "gas:candidate-vibid:100100084907814": 113,
+      "gas:candidate-vibid:100100084986022": 867,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1677,14 +1677,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 111,
-      "Жириновский Владимир Вольфович": 68,
-      "Путин Владимир Владимирович": 594,
-      "Собчак Ксения Анатольевна": 30,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 15
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 111,
+      "gas:candidate-vibid:100100084907814": 68,
+      "gas:candidate-vibid:100100084986022": 594,
+      "gas:candidate-vibid:100100084956361": 30,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835300&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835300&type=227",
@@ -1724,14 +1724,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 56,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 56,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -1771,14 +1771,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 112,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 112,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -1818,14 +1818,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 44,
-      "Жириновский Владимир Вольфович": 30,
-      "Путин Владимир Владимирович": 126,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 44,
+      "gas:candidate-vibid:100100084907814": 30,
+      "gas:candidate-vibid:100100084986022": 126,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -1865,14 +1865,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 24,
-      "Путин Владимир Владимирович": 146,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 24,
+      "gas:candidate-vibid:100100084986022": 146,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -1912,14 +1912,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 32,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 89,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 32,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 89,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -1959,14 +1959,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 43,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 43,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2006,14 +2006,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 41,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 41,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2053,14 +2053,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 32,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 32,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2100,14 +2100,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 56,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 56,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2147,14 +2147,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 83,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 83,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2194,14 +2194,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 36,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 36,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2241,14 +2241,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2288,14 +2288,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 36,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 36,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2335,14 +2335,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 73,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 73,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2382,14 +2382,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 29,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 111,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 29,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 111,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2429,14 +2429,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 42,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 42,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2476,14 +2476,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 48,
-      "Жириновский Владимир Вольфович": 33,
-      "Путин Владимир Владимирович": 197,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 48,
+      "gas:candidate-vibid:100100084907814": 33,
+      "gas:candidate-vibid:100100084986022": 197,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2523,14 +2523,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 147,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 147,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2570,14 +2570,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 96,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 96,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2617,14 +2617,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2664,14 +2664,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 117,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 117,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2711,14 +2711,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 258,
-      "Жириновский Владимир Вольфович": 128,
-      "Путин Владимир Владимирович": 767,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 258,
+      "gas:candidate-vibid:100100084907814": 128,
+      "gas:candidate-vibid:100100084986022": 767,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2758,14 +2758,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 277,
-      "Жириновский Владимир Вольфович": 116,
-      "Путин Владимир Владимирович": 657,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 277,
+      "gas:candidate-vibid:100100084907814": 116,
+      "gas:candidate-vibid:100100084986022": 657,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835301&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835301&type=227",
@@ -2805,14 +2805,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 24,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 80,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 24,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 80,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -2852,14 +2852,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 220,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 220,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -2899,14 +2899,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 52,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 52,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -2946,14 +2946,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 177,
-      "Жириновский Владимир Вольфович": 90,
-      "Путин Владимир Владимирович": 548,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 177,
+      "gas:candidate-vibid:100100084907814": 90,
+      "gas:candidate-vibid:100100084986022": 548,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -2993,14 +2993,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 188,
-      "Жириновский Владимир Вольфович": 113,
-      "Путин Владимир Владимирович": 506,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 188,
+      "gas:candidate-vibid:100100084907814": 113,
+      "gas:candidate-vibid:100100084986022": 506,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3040,14 +3040,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 109,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 109,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3087,14 +3087,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 107,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 107,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3134,14 +3134,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 78,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 78,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3181,14 +3181,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 43,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 189,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 43,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 189,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3228,14 +3228,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 110,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 110,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3275,14 +3275,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 45,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 45,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3322,14 +3322,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3369,14 +3369,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 89,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 89,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3416,14 +3416,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 63,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 63,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3463,14 +3463,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 24,
-      "Путин Владимир Владимирович": 88,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 24,
+      "gas:candidate-vibid:100100084986022": 88,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3510,14 +3510,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 120,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 120,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3557,14 +3557,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 60,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 60,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3604,14 +3604,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 45,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 45,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3651,14 +3651,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 83,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 83,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835302&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835302&type=227",
@@ -3698,14 +3698,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 214,
-      "Жириновский Владимир Вольфович": 96,
-      "Путин Владимир Владимирович": 926,
-      "Собчак Ксения Анатольевна": 19,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 214,
+      "gas:candidate-vibid:100100084907814": 96,
+      "gas:candidate-vibid:100100084986022": 926,
+      "gas:candidate-vibid:100100084956361": 19,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -3745,14 +3745,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 207,
-      "Жириновский Владимир Вольфович": 131,
-      "Путин Владимир Владимирович": 885,
-      "Собчак Ксения Анатольевна": 18,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 207,
+      "gas:candidate-vibid:100100084907814": 131,
+      "gas:candidate-vibid:100100084986022": 885,
+      "gas:candidate-vibid:100100084956361": 18,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -3792,14 +3792,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 242,
-      "Жириновский Владимир Вольфович": 112,
-      "Путин Владимир Владимирович": 997,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 242,
+      "gas:candidate-vibid:100100084907814": 112,
+      "gas:candidate-vibid:100100084986022": 997,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -3839,14 +3839,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 59,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 333,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 59,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 333,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -3886,14 +3886,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 61,
-      "Жириновский Владимир Вольфович": 45,
-      "Путин Владимир Владимирович": 372,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 61,
+      "gas:candidate-vibid:100100084907814": 45,
+      "gas:candidate-vibid:100100084986022": 372,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -3933,14 +3933,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 24,
-      "Путин Владимир Владимирович": 152,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 24,
+      "gas:candidate-vibid:100100084986022": 152,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -3980,14 +3980,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 156,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 156,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4027,14 +4027,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 60,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 198,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 60,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 198,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4074,14 +4074,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 69,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 69,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4121,14 +4121,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 69,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 69,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4168,14 +4168,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 87,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 87,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4215,14 +4215,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 200,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 200,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4262,14 +4262,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 34,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 217,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 34,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 217,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4309,14 +4309,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 63,
-      "Жириновский Владимир Вольфович": 38,
-      "Путин Владимир Владимирович": 313,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 63,
+      "gas:candidate-vibid:100100084907814": 38,
+      "gas:candidate-vibid:100100084986022": 313,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4356,14 +4356,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 63,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 374,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 63,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 374,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4403,14 +4403,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 24,
-      "Путин Владимир Владимирович": 82,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 24,
+      "gas:candidate-vibid:100100084986022": 82,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4450,14 +4450,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 92,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 92,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4497,14 +4497,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 191,
-      "Жириновский Владимир Вольфович": 71,
-      "Путин Владимир Владимирович": 606,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 191,
+      "gas:candidate-vibid:100100084907814": 71,
+      "gas:candidate-vibid:100100084986022": 606,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4544,14 +4544,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 42,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 238,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 42,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 238,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4591,14 +4591,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 115,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 115,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4638,14 +4638,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 54,
-      "Жириновский Владимир Вольфович": 50,
-      "Путин Владимир Владимирович": 282,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 54,
+      "gas:candidate-vibid:100100084907814": 50,
+      "gas:candidate-vibid:100100084986022": 282,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4685,14 +4685,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 98,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 98,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835303&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835303&type=227",
@@ -4732,14 +4732,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 160,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 160,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -4779,14 +4779,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 65,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 65,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -4826,14 +4826,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 51,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 51,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -4873,14 +4873,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 113,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 113,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -4920,14 +4920,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 158,
-      "Жириновский Владимир Вольфович": 83,
-      "Путин Владимир Владимирович": 448,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 158,
+      "gas:candidate-vibid:100100084907814": 83,
+      "gas:candidate-vibid:100100084986022": 448,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -4967,14 +4967,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 177,
-      "Жириновский Владимир Вольфович": 109,
-      "Путин Владимир Владимирович": 424,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 177,
+      "gas:candidate-vibid:100100084907814": 109,
+      "gas:candidate-vibid:100100084986022": 424,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -5014,14 +5014,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 81,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 81,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -5061,14 +5061,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -5108,14 +5108,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 81,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 81,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835304&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835304&type=227",
@@ -5155,14 +5155,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 47,
-      "Жириновский Владимир Вольфович": 34,
-      "Путин Владимир Владимирович": 240,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 47,
+      "gas:candidate-vibid:100100084907814": 34,
+      "gas:candidate-vibid:100100084986022": 240,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5202,14 +5202,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 59,
-      "Жириновский Владимир Вольфович": 29,
-      "Путин Владимир Владимирович": 197,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 59,
+      "gas:candidate-vibid:100100084907814": 29,
+      "gas:candidate-vibid:100100084986022": 197,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5249,14 +5249,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5296,14 +5296,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 46,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 207,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 46,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 207,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5343,14 +5343,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 82,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 82,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5390,14 +5390,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 46,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 84,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 46,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 84,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5437,14 +5437,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 66,
-      "Жириновский Владимир Вольфович": 53,
-      "Путин Владимир Владимирович": 195,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 66,
+      "gas:candidate-vibid:100100084907814": 53,
+      "gas:candidate-vibid:100100084986022": 195,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5484,14 +5484,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 89,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 89,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5531,14 +5531,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 122,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 122,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5578,14 +5578,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 143,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 143,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5625,14 +5625,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 122,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 122,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5672,14 +5672,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 140,
-      "Жириновский Владимир Вольфович": 74,
-      "Путин Владимир Владимирович": 384,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 140,
+      "gas:candidate-vibid:100100084907814": 74,
+      "gas:candidate-vibid:100100084986022": 384,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5719,14 +5719,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 125,
-      "Жириновский Владимир Вольфович": 60,
-      "Путин Владимир Владимирович": 358,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 125,
+      "gas:candidate-vibid:100100084907814": 60,
+      "gas:candidate-vibid:100100084986022": 358,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5766,14 +5766,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 269,
-      "Жириновский Владимир Вольфович": 153,
-      "Путин Владимир Владимирович": 825,
-      "Собчак Ксения Анатольевна": 23,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 269,
+      "gas:candidate-vibid:100100084907814": 153,
+      "gas:candidate-vibid:100100084986022": 825,
+      "gas:candidate-vibid:100100084956361": 23,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5813,14 +5813,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 232,
-      "Жириновский Владимир Вольфович": 132,
-      "Путин Владимир Владимирович": 752,
-      "Собчак Ксения Анатольевна": 27,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 232,
+      "gas:candidate-vibid:100100084907814": 132,
+      "gas:candidate-vibid:100100084986022": 752,
+      "gas:candidate-vibid:100100084956361": 27,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5860,14 +5860,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 131,
-      "Жириновский Владимир Вольфович": 77,
-      "Путин Владимир Владимирович": 403,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 131,
+      "gas:candidate-vibid:100100084907814": 77,
+      "gas:candidate-vibid:100100084986022": 403,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835305&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835305&type=227",
@@ -5907,14 +5907,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 79,
-      "Путин Владимир Владимирович": 499,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 79,
+      "gas:candidate-vibid:100100084986022": 499,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -5954,14 +5954,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 60,
-      "Путин Владимир Владимирович": 251,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 60,
+      "gas:candidate-vibid:100100084986022": 251,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6001,14 +6001,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 140,
-      "Жириновский Владимир Вольфович": 80,
-      "Путин Владимир Владимирович": 662,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 140,
+      "gas:candidate-vibid:100100084907814": 80,
+      "gas:candidate-vibid:100100084986022": 662,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6048,14 +6048,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 91,
-      "Жириновский Владимир Вольфович": 85,
-      "Путин Владимир Владимирович": 350,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 91,
+      "gas:candidate-vibid:100100084907814": 85,
+      "gas:candidate-vibid:100100084986022": 350,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6095,14 +6095,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 54,
-      "Жириновский Владимир Вольфович": 71,
-      "Путин Владимир Владимирович": 355,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 54,
+      "gas:candidate-vibid:100100084907814": 71,
+      "gas:candidate-vibid:100100084986022": 355,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6142,14 +6142,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 15,
-      "Грудинин Павел Николаевич": 202,
-      "Жириновский Владимир Вольфович": 95,
-      "Путин Владимир Владимирович": 744,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 15,
+      "gas:candidate-vibid:100100085002829": 202,
+      "gas:candidate-vibid:100100084907814": 95,
+      "gas:candidate-vibid:100100084986022": 744,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6189,14 +6189,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 155,
-      "Жириновский Владимир Вольфович": 105,
-      "Путин Владимир Владимирович": 629,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 155,
+      "gas:candidate-vibid:100100084907814": 105,
+      "gas:candidate-vibid:100100084986022": 629,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6236,14 +6236,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 48,
-      "Жириновский Владимир Вольфович": 47,
-      "Путин Владимир Владимирович": 262,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 48,
+      "gas:candidate-vibid:100100084907814": 47,
+      "gas:candidate-vibid:100100084986022": 262,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6283,14 +6283,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 147,
-      "Жириновский Владимир Вольфович": 107,
-      "Путин Владимир Владимирович": 638,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 147,
+      "gas:candidate-vibid:100100084907814": 107,
+      "gas:candidate-vibid:100100084986022": 638,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6330,14 +6330,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 142,
-      "Жириновский Владимир Вольфович": 102,
-      "Путин Владимир Владимирович": 601,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 142,
+      "gas:candidate-vibid:100100084907814": 102,
+      "gas:candidate-vibid:100100084986022": 601,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6377,14 +6377,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 63,
-      "Жириновский Владимир Вольфович": 49,
-      "Путин Владимир Владимирович": 269,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 63,
+      "gas:candidate-vibid:100100084907814": 49,
+      "gas:candidate-vibid:100100084986022": 269,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6424,14 +6424,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 185,
-      "Жириновский Владимир Вольфович": 83,
-      "Путин Владимир Владимирович": 710,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 185,
+      "gas:candidate-vibid:100100084907814": 83,
+      "gas:candidate-vibid:100100084986022": 710,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835306&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835306&type=227",
@@ -6471,14 +6471,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 103,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 103,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6518,14 +6518,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 44,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 115,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 44,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 115,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6565,14 +6565,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 41,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 118,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 41,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 118,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6612,14 +6612,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 125,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 125,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6659,14 +6659,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 73,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 73,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6706,14 +6706,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 41,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 41,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6753,14 +6753,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 129,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 129,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6800,14 +6800,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 134,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 134,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6847,14 +6847,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 33,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 33,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6894,14 +6894,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 121,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 121,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6941,14 +6941,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 72,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 72,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -6988,14 +6988,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 52,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 52,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -7035,14 +7035,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 80,
-      "Жириновский Владимир Вольфович": 47,
-      "Путин Владимир Владимирович": 268,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 80,
+      "gas:candidate-vibid:100100084907814": 47,
+      "gas:candidate-vibid:100100084986022": 268,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835307&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835307&type=227",
@@ -7082,14 +7082,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 354,
-      "Жириновский Владимир Вольфович": 115,
-      "Путин Владимир Владимирович": 694,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 354,
+      "gas:candidate-vibid:100100084907814": 115,
+      "gas:candidate-vibid:100100084986022": 694,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7129,14 +7129,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 31,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 103,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 31,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 103,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7176,14 +7176,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 38,
-      "Путин Владимир Владимирович": 237,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 38,
+      "gas:candidate-vibid:100100084986022": 237,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7223,14 +7223,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 29,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 77,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 29,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 77,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7270,14 +7270,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 69,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 69,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7317,14 +7317,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 87,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 87,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7364,14 +7364,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 64,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 64,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835308&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835308&type=227",
@@ -7411,14 +7411,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 22,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 22,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7458,14 +7458,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 105,
-      "Жириновский Владимир Вольфович": 35,
-      "Путин Владимир Владимирович": 273,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 105,
+      "gas:candidate-vibid:100100084907814": 35,
+      "gas:candidate-vibid:100100084986022": 273,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7505,14 +7505,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 63,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 63,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7552,14 +7552,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 78,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 78,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7599,14 +7599,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 32,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 32,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7646,14 +7646,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 32,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 103,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 32,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 103,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7693,14 +7693,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 53,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 53,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7740,14 +7740,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 95,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 95,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7787,14 +7787,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 17,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 17,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7834,14 +7834,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 70,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 70,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7881,14 +7881,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 118,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 118,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7928,14 +7928,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 112,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 112,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -7975,14 +7975,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 128,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 305,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 128,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 305,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -8022,14 +8022,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 96,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 276,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 96,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 276,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -8069,14 +8069,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 101,
-      "Жириновский Владимир Вольфович": 52,
-      "Путин Владимир Владимирович": 344,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 101,
+      "gas:candidate-vibid:100100084907814": 52,
+      "gas:candidate-vibid:100100084986022": 344,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -8116,14 +8116,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 89,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 89,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835309&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835309&type=227",
@@ -8163,14 +8163,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 150,
-      "Жириновский Владимир Вольфович": 52,
-      "Путин Владимир Владимирович": 414,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 150,
+      "gas:candidate-vibid:100100084907814": 52,
+      "gas:candidate-vibid:100100084986022": 414,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8210,14 +8210,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 143,
-      "Жириновский Владимир Вольфович": 69,
-      "Путин Владимир Владимирович": 435,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 143,
+      "gas:candidate-vibid:100100084907814": 69,
+      "gas:candidate-vibid:100100084986022": 435,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8257,14 +8257,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 140,
-      "Жириновский Владимир Вольфович": 59,
-      "Путин Владимир Владимирович": 424,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 140,
+      "gas:candidate-vibid:100100084907814": 59,
+      "gas:candidate-vibid:100100084986022": 424,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8304,14 +8304,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 151,
-      "Жириновский Владимир Вольфович": 58,
-      "Путин Владимир Владимирович": 389,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 151,
+      "gas:candidate-vibid:100100084907814": 58,
+      "gas:candidate-vibid:100100084986022": 389,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8351,14 +8351,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 29,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 51,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 29,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 51,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8398,14 +8398,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 167,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 481,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 167,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 481,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8445,14 +8445,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 24,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 24,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8492,14 +8492,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 102,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 102,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8539,14 +8539,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 86,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 86,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8586,14 +8586,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 24,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 113,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 24,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 113,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8633,14 +8633,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 148,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 148,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8680,14 +8680,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 130,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 130,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8727,14 +8727,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 52,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 52,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8774,14 +8774,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 82,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 82,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8821,14 +8821,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 61,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 61,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8868,14 +8868,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 158,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 158,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8915,14 +8915,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 86,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 86,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -8962,14 +8962,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 118,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 118,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9009,14 +9009,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 157,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 157,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9056,14 +9056,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 217,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 217,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9103,14 +9103,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 126,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 368,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 126,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 368,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9150,14 +9150,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 58,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 287,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 58,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 287,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9197,14 +9197,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 24,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 127,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 24,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 127,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9244,14 +9244,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 92,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 289,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 92,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 289,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9291,14 +9291,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 152,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 152,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9338,14 +9338,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 186,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 186,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835310&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835310&type=227",
@@ -9385,14 +9385,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 103,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 103,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9432,14 +9432,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 24,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 111,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 24,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 111,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9479,14 +9479,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 34,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 79,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 34,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 79,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9526,14 +9526,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 36,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 36,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9573,14 +9573,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 68,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 385,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 68,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 385,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9620,14 +9620,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 88,
-      "Жириновский Владимир Вольфович": 43,
-      "Путин Владимир Владимирович": 273,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 88,
+      "gas:candidate-vibid:100100084907814": 43,
+      "gas:candidate-vibid:100100084986022": 273,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9667,14 +9667,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 81,
-      "Жириновский Владимир Вольфович": 65,
-      "Путин Владимир Владимирович": 366,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 81,
+      "gas:candidate-vibid:100100084907814": 65,
+      "gas:candidate-vibid:100100084986022": 366,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9714,14 +9714,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 63,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 63,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9761,14 +9761,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 87,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 87,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9808,14 +9808,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 126,
-      "Жириновский Владимир Вольфович": 82,
-      "Путин Владимир Владимирович": 476,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 126,
+      "gas:candidate-vibid:100100084907814": 82,
+      "gas:candidate-vibid:100100084986022": 476,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835311&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835311&type=227",
@@ -9855,14 +9855,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 36,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 203,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 36,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 203,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -9902,14 +9902,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 40,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 40,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -9949,14 +9949,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 109,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 109,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -9996,14 +9996,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 75,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 75,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10043,14 +10043,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 64,
-      "Жириновский Владимир Вольфович": 23,
-      "Путин Владимир Владимирович": 192,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 64,
+      "gas:candidate-vibid:100100084907814": 23,
+      "gas:candidate-vibid:100100084986022": 192,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10090,14 +10090,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 132,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 132,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10137,14 +10137,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 54,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 54,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10184,14 +10184,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 151,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 151,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10231,14 +10231,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 49,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 49,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10278,14 +10278,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 145,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 145,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10325,14 +10325,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 158,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 158,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10372,14 +10372,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 75,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 75,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10419,14 +10419,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 88,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 88,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10466,14 +10466,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 130,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 130,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10513,14 +10513,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 26,
-      "Путин Владимир Владимирович": 184,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 26,
+      "gas:candidate-vibid:100100084986022": 184,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10560,14 +10560,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 93,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 93,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10607,14 +10607,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 169,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 169,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10654,14 +10654,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 59,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 59,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10701,14 +10701,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 100,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 100,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10748,14 +10748,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 68,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 68,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10795,14 +10795,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 62,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 62,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10842,14 +10842,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 25,
-      "Путин Владимир Владимирович": 117,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 25,
+      "gas:candidate-vibid:100100084986022": 117,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10889,14 +10889,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 111,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 472,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 111,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 472,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10936,14 +10936,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 101,
-      "Жириновский Владимир Вольфович": 59,
-      "Путин Владимир Владимирович": 507,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 101,
+      "gas:candidate-vibid:100100084907814": 59,
+      "gas:candidate-vibid:100100084986022": 507,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -10983,14 +10983,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 76,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 324,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 76,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 324,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -11030,14 +11030,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 77,
-      "Жириновский Владимир Вольфович": 34,
-      "Путин Владимир Владимирович": 270,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 77,
+      "gas:candidate-vibid:100100084907814": 34,
+      "gas:candidate-vibid:100100084986022": 270,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835312&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835312&type=227",
@@ -11077,14 +11077,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 122,
-      "Жириновский Владимир Вольфович": 64,
-      "Путин Владимир Владимирович": 697,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 14,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 122,
+      "gas:candidate-vibid:100100084907814": 64,
+      "gas:candidate-vibid:100100084986022": 697,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 14,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11124,14 +11124,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 184,
-      "Жириновский Владимир Вольфович": 116,
-      "Путин Владимир Владимирович": 955,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 18
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 184,
+      "gas:candidate-vibid:100100084907814": 116,
+      "gas:candidate-vibid:100100084986022": 955,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11171,14 +11171,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 134,
-      "Жириновский Владимир Вольфович": 82,
-      "Путин Владимир Владимирович": 724,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 15
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 134,
+      "gas:candidate-vibid:100100084907814": 82,
+      "gas:candidate-vibid:100100084986022": 724,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11218,14 +11218,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 103,
-      "Жириновский Владимир Вольфович": 65,
-      "Путин Владимир Владимирович": 634,
-      "Собчак Ксения Анатольевна": 32,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 103,
+      "gas:candidate-vibid:100100084907814": 65,
+      "gas:candidate-vibid:100100084986022": 634,
+      "gas:candidate-vibid:100100084956361": 32,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11265,14 +11265,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 147,
-      "Жириновский Владимир Вольфович": 103,
-      "Путин Владимир Владимирович": 817,
-      "Собчак Ксения Анатольевна": 20,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 147,
+      "gas:candidate-vibid:100100084907814": 103,
+      "gas:candidate-vibid:100100084986022": 817,
+      "gas:candidate-vibid:100100084956361": 20,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11312,14 +11312,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 164,
-      "Жириновский Владимир Вольфович": 74,
-      "Путин Владимир Владимирович": 707,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 164,
+      "gas:candidate-vibid:100100084907814": 74,
+      "gas:candidate-vibid:100100084986022": 707,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11359,14 +11359,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 170,
-      "Жириновский Владимир Вольфович": 121,
-      "Путин Владимир Владимирович": 861,
-      "Собчак Ксения Анатольевна": 26,
-      "Сурайкин Максим Александрович": 16,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 170,
+      "gas:candidate-vibid:100100084907814": 121,
+      "gas:candidate-vibid:100100084986022": 861,
+      "gas:candidate-vibid:100100084956361": 26,
+      "gas:candidate-vibid:100100084946387": 16,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11406,14 +11406,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 15,
-      "Грудинин Павел Николаевич": 141,
-      "Жириновский Владимир Вольфович": 96,
-      "Путин Владимир Владимирович": 782,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 14,
-      "Явлинский Григорий Алексеевич": 26
+      "gas:candidate-vibid:100100084946464": 15,
+      "gas:candidate-vibid:100100085002829": 141,
+      "gas:candidate-vibid:100100084907814": 96,
+      "gas:candidate-vibid:100100084986022": 782,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 14,
+      "gas:candidate-vibid:100100084937056": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11453,14 +11453,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 17,
-      "Грудинин Павел Николаевич": 192,
-      "Жириновский Владимир Вольфович": 120,
-      "Путин Владимир Владимирович": 952,
-      "Собчак Ксения Анатольевна": 23,
-      "Сурайкин Максим Александрович": 21,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 20
+      "gas:candidate-vibid:100100084946464": 17,
+      "gas:candidate-vibid:100100085002829": 192,
+      "gas:candidate-vibid:100100084907814": 120,
+      "gas:candidate-vibid:100100084986022": 952,
+      "gas:candidate-vibid:100100084956361": 23,
+      "gas:candidate-vibid:100100084946387": 21,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11500,14 +11500,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 117,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 667,
-      "Собчак Ксения Анатольевна": 20,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 117,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 667,
+      "gas:candidate-vibid:100100084956361": 20,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11547,14 +11547,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 172,
-      "Жириновский Владимир Вольфович": 122,
-      "Путин Владимир Владимирович": 788,
-      "Собчак Ксения Анатольевна": 31,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 25
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 172,
+      "gas:candidate-vibid:100100084907814": 122,
+      "gas:candidate-vibid:100100084986022": 788,
+      "gas:candidate-vibid:100100084956361": 31,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11594,14 +11594,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 164,
-      "Жириновский Владимир Вольфович": 109,
-      "Путин Владимир Владимирович": 841,
-      "Собчак Ксения Анатольевна": 20,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 164,
+      "gas:candidate-vibid:100100084907814": 109,
+      "gas:candidate-vibid:100100084986022": 841,
+      "gas:candidate-vibid:100100084956361": 20,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11641,14 +11641,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 67,
-      "Жириновский Владимир Вольфович": 47,
-      "Путин Владимир Владимирович": 359,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 67,
+      "gas:candidate-vibid:100100084907814": 47,
+      "gas:candidate-vibid:100100084986022": 359,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11688,14 +11688,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 197,
-      "Жириновский Владимир Вольфович": 110,
-      "Путин Владимир Владимирович": 996,
-      "Собчак Ксения Анатольевна": 29,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 14
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 197,
+      "gas:candidate-vibid:100100084907814": 110,
+      "gas:candidate-vibid:100100084986022": 996,
+      "gas:candidate-vibid:100100084956361": 29,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",
@@ -11735,14 +11735,14 @@ export const president_2018_uik_226_region_44_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 195,
-      "Жириновский Владимир Вольфович": 155,
-      "Путин Владимир Владимирович": 1025,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 14
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 195,
+      "gas:candidate-vibid:100100084907814": 155,
+      "gas:candidate-vibid:100100084986022": 1025,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kostroma?action=show&root=1000043&tvd=2442000835313&vrn=100100084849062&region=44&global=&sub_region=44&prver=0&pronetvd=null&vibid=2442000835313&type=227",

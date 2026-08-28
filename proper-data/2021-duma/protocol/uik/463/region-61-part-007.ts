@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1143,
     "uikTvd": "4614029427887",
+    "uikName": "УИК №1143",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 135,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 9,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 60,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 9,
+      "26120002449529": 6,
+      "26120002449586": 60,
+      "26120002447583": 4,
+      "26120002445631": 1,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1144,
     "uikTvd": "4614029427888",
+    "uikName": "УИК №1144",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 247,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 28,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 49,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 28,
+      "26120002449529": 2,
+      "26120002449586": 49,
+      "26120002447583": 2,
+      "26120002445631": 2,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "4614029427889",
+    "uikName": "УИК №1145",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 427,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 425,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 62,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 80,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 62,
+      "26120002449529": 5,
+      "26120002449586": 80,
+      "26120002447583": 4,
+      "26120002445631": 10,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "4614029427890",
+    "uikName": "УИК №1146",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 113,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 115,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 17,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 35,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 17,
+      "26120002449529": 6,
+      "26120002449586": 35,
+      "26120002447583": 2,
+      "26120002445631": 2,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1147,
     "uikTvd": "4614029427891",
+    "uikName": "УИК №1147",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 84,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 90,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 19,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 20,
+      "26120002449529": 2,
+      "26120002449586": 19,
+      "26120002447583": 1,
+      "26120002445631": 2,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1148,
     "uikTvd": "4614029427892",
+    "uikName": "УИК №1148",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 105,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 38,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 20,
+      "26120002449529": 2,
+      "26120002449586": 38,
+      "26120002447583": 1,
+      "26120002445631": 3,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1149,
     "uikTvd": "4614029427893",
+    "uikName": "УИК №1149",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2464,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2050,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 384,
-      "Гогу Марина Александровна": 30,
-      "Гончаров Николай Александрович": 310,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 27,
-      "Чеботарев Денис Евгеньевич": 35
+      "26120002444600": 384,
+      "26120002449529": 30,
+      "26120002449586": 310,
+      "26120002447583": 26,
+      "26120002445631": 27,
+      "26120002444564": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1150,
     "uikTvd": "4614029427894",
+    "uikName": "УИК №1150",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 163,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 160,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 23,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 6,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 35,
+      "26120002449529": 5,
+      "26120002449586": 23,
+      "26120002447583": 2,
+      "26120002445631": 6,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1151,
     "uikTvd": "4614029427895",
+    "uikName": "УИК №1151",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 253,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 250,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 31,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 65,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 31,
+      "26120002449529": 2,
+      "26120002449586": 65,
+      "26120002447583": 3,
+      "26120002445631": 3,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1152,
     "uikTvd": "4614029427896",
+    "uikName": "УИК №1152",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 833,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 840,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 151,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 169,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 11,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 151,
+      "26120002449529": 10,
+      "26120002449586": 169,
+      "26120002447583": 6,
+      "26120002445631": 11,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1153,
     "uikTvd": "4614029427897",
+    "uikName": "УИК №1153",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 508,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 505,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 110,
-      "Гогу Марина Александровна": 15,
-      "Гончаров Николай Александрович": 92,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 11
+      "26120002444600": 110,
+      "26120002449529": 15,
+      "26120002449586": 92,
+      "26120002447583": 4,
+      "26120002445631": 0,
+      "26120002444564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1154,
     "uikTvd": "4614029427898",
+    "uikName": "УИК №1154",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 529,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 520,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 97,
-      "Гогу Марина Александровна": 13,
-      "Гончаров Николай Александрович": 118,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 13,
-      "Чеботарев Денис Евгеньевич": 14
+      "26120002444600": 97,
+      "26120002449529": 13,
+      "26120002449586": 118,
+      "26120002447583": 8,
+      "26120002445631": 13,
+      "26120002444564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1155,
     "uikTvd": "4614029427899",
+    "uikName": "УИК №1155",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 219,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 215,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 34,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 91,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 7
+      "26120002444600": 34,
+      "26120002449529": 3,
+      "26120002449586": 91,
+      "26120002447583": 2,
+      "26120002445631": 8,
+      "26120002444564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1156,
     "uikTvd": "4614029427900",
+    "uikName": "УИК №1156",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 984,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 990,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 174,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 172,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 15,
-      "Чеботарев Денис Евгеньевич": 18
+      "26120002444600": 174,
+      "26120002449529": 14,
+      "26120002449586": 172,
+      "26120002447583": 5,
+      "26120002445631": 15,
+      "26120002444564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1157,
     "uikTvd": "4614029427901",
+    "uikName": "УИК №1157",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 373,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 71,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 109,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 71,
+      "26120002449529": 9,
+      "26120002449586": 109,
+      "26120002447583": 3,
+      "26120002445631": 10,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1158,
     "uikTvd": "4614029427902",
+    "uikName": "УИК №1158",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 542,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 535,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 67,
-      "Гогу Марина Александровна": 15,
-      "Гончаров Николай Александрович": 87,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 67,
+      "26120002449529": 15,
+      "26120002449586": 87,
+      "26120002447583": 9,
+      "26120002445631": 4,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1159,
     "uikTvd": "4614029427903",
+    "uikName": "УИК №1159",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 221,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 13,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 104,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 13,
+      "26120002449529": 2,
+      "26120002449586": 104,
+      "26120002447583": 2,
+      "26120002445631": 1,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1160,
     "uikTvd": "4614029427904",
+    "uikName": "УИК №1160",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 695,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 690,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 58,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 159,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 13
+      "26120002444600": 58,
+      "26120002449529": 6,
+      "26120002449586": 159,
+      "26120002447583": 4,
+      "26120002445631": 14,
+      "26120002444564": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1161,
     "uikTvd": "4614029427905",
+    "uikName": "УИК №1161",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 519,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 515,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 69,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 109,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 9,
-      "Чеботарев Денис Евгеньевич": 11
+      "26120002444600": 69,
+      "26120002449529": 10,
+      "26120002449586": 109,
+      "26120002447583": 7,
+      "26120002445631": 9,
+      "26120002444564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1162,
     "uikTvd": "4614029427906",
+    "uikName": "УИК №1162",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 205,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 43,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 35,
+      "26120002449529": 9,
+      "26120002449586": 43,
+      "26120002447583": 3,
+      "26120002445631": 3,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1163,
     "uikTvd": "4614029427907",
+    "uikName": "УИК №1163",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 605,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 140,
-      "Гогу Марина Александровна": 18,
-      "Гончаров Николай Александрович": 76,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 15
+      "26120002444600": 140,
+      "26120002449529": 18,
+      "26120002449586": 76,
+      "26120002447583": 6,
+      "26120002445631": 14,
+      "26120002444564": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1164,
     "uikTvd": "4614029427908",
+    "uikName": "УИК №1164",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 160,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 155,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 23,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 65,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 23,
+      "26120002449529": 10,
+      "26120002449586": 65,
+      "26120002447583": 3,
+      "26120002445631": 3,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1165,
     "uikTvd": "4614029427909",
+    "uikName": "УИК №1165",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1082,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1055,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 260,
-      "Гогу Марина Александровна": 40,
-      "Гончаров Николай Александрович": 135,
-      "Климов Андрей Анатольевич": 19,
-      "Цапенко Артур Дмитриевич": 13,
-      "Чеботарев Денис Евгеньевич": 37
+      "26120002444600": 260,
+      "26120002449529": 40,
+      "26120002449586": 135,
+      "26120002447583": 19,
+      "26120002445631": 13,
+      "26120002444564": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1166,
     "uikTvd": "4614029427910",
+    "uikName": "УИК №1166",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 572,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 555,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 117,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 117,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 27
+      "26120002444600": 117,
+      "26120002449529": 14,
+      "26120002449586": 117,
+      "26120002447583": 5,
+      "26120002445631": 16,
+      "26120002444564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1167,
     "uikTvd": "4614029427911",
+    "uikName": "УИК №1167",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 546,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 545,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 102,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 99,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 15
+      "26120002444600": 102,
+      "26120002449529": 5,
+      "26120002449586": 99,
+      "26120002447583": 6,
+      "26120002445631": 10,
+      "26120002444564": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1168,
     "uikTvd": "4614029427912",
+    "uikName": "УИК №1168",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 445,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 60,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 130,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 14
+      "26120002444600": 60,
+      "26120002449529": 6,
+      "26120002449586": 130,
+      "26120002447583": 2,
+      "26120002445631": 3,
+      "26120002444564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1169,
     "uikTvd": "4614029427913",
+    "uikName": "УИК №1169",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 330,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 66,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 82,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 66,
+      "26120002449529": 4,
+      "26120002449586": 82,
+      "26120002447583": 4,
+      "26120002445631": 8,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1170,
     "uikTvd": "4614029427914",
+    "uikName": "УИК №1170",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 553,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 555,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 88,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 77,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 9,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 88,
+      "26120002449529": 10,
+      "26120002449586": 77,
+      "26120002447583": 4,
+      "26120002445631": 9,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1171,
     "uikTvd": "4614029427915",
+    "uikName": "УИК №1171",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 549,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 505,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 92,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 85,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 15,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 92,
+      "26120002449529": 12,
+      "26120002449586": 85,
+      "26120002447583": 5,
+      "26120002445631": 15,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1172,
     "uikTvd": "4614029427916",
+    "uikName": "УИК №1172",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 509,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 88,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 122,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 88,
+      "26120002449529": 8,
+      "26120002449586": 122,
+      "26120002447583": 3,
+      "26120002445631": 5,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1173,
     "uikTvd": "4614029427917",
+    "uikName": "УИК №1173",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 503,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 110,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 99,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 14
+      "26120002444600": 110,
+      "26120002449529": 14,
+      "26120002449586": 99,
+      "26120002447583": 8,
+      "26120002445631": 8,
+      "26120002444564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1174,
     "uikTvd": "4614029427918",
+    "uikName": "УИК №1174",
     "tikTvd": "26120002435608",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 261,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 255,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 46,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 56,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 46,
+      "26120002449529": 3,
+      "26120002449586": 56,
+      "26120002447583": 3,
+      "26120002445631": 4,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:01.673693+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435608&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435608&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "4614023638089",
+    "uikName": "УИК №867",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 545,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 719,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 24,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 518,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 24,
+      "26120002449529": 0,
+      "26120002449586": 518,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "4614023638090",
+    "uikName": "УИК №868",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 107,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 6,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 80,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 6,
+      "26120002449529": 0,
+      "26120002449586": 80,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "4614023638091",
+    "uikName": "УИК №869",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 100,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 84,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 3,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 68,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 3,
+      "26120002449529": 0,
+      "26120002449586": 68,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "4614023638092",
+    "uikName": "УИК №870",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 276,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 225,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 192,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 12,
+      "26120002449529": 2,
+      "26120002449586": 192,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "4614023638093",
+    "uikName": "УИК №871",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 475,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 404,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 18,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 289,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 18,
+      "26120002449529": 1,
+      "26120002449586": 289,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "4614023638094",
+    "uikName": "УИК №872",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 337,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 285,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 2,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 281,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 2,
+      "26120002449529": 1,
+      "26120002449586": 281,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "4614023638095",
+    "uikName": "УИК №873",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 433,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 366,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 14,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 330,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 14,
+      "26120002449529": 0,
+      "26120002449586": 330,
+      "26120002447583": 0,
+      "26120002445631": 1,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "4614023638096",
+    "uikName": "УИК №874",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 116,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 98,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 2,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 81,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 2,
+      "26120002449529": 0,
+      "26120002449586": 81,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "4614023638097",
+    "uikName": "УИК №875",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 182,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 148,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 135,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 4,
+      "26120002449529": 2,
+      "26120002449586": 135,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "4614023638098",
+    "uikName": "УИК №876",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 388,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 337,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 258,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 3
+      "26120002444600": 4,
+      "26120002449529": 4,
+      "26120002449586": 258,
+      "26120002447583": 3,
+      "26120002445631": 0,
+      "26120002444564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "4614023638099",
+    "uikName": "УИК №877",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1873,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1603,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 187,
-      "Гогу Марина Александровна": 40,
-      "Гончаров Николай Александрович": 602,
-      "Климов Андрей Анатольевич": 31,
-      "Цапенко Артур Дмитриевич": 25,
-      "Чеботарев Денис Евгеньевич": 52
+      "26120002444600": 187,
+      "26120002449529": 40,
+      "26120002449586": 602,
+      "26120002447583": 31,
+      "26120002445631": 25,
+      "26120002444564": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "4614023638100",
+    "uikName": "УИК №878",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 905,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 778,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 98,
-      "Гогу Марина Александровна": 23,
-      "Гончаров Николай Александрович": 359,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 21,
-      "Чеботарев Денис Евгеньевич": 33
+      "26120002444600": 98,
+      "26120002449529": 23,
+      "26120002449586": 359,
+      "26120002447583": 12,
+      "26120002445631": 21,
+      "26120002444564": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "4614023638101",
+    "uikName": "УИК №879",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1391,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1190,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 162,
-      "Гогу Марина Александровна": 23,
-      "Гончаров Николай Александрович": 568,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 12,
-      "Чеботарев Денис Евгеньевич": 34
+      "26120002444600": 162,
+      "26120002449529": 23,
+      "26120002449586": 568,
+      "26120002447583": 17,
+      "26120002445631": 12,
+      "26120002444564": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "4614023638102",
+    "uikName": "УИК №880",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 604,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 517,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 6,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 390,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 6,
+      "26120002449529": 9,
+      "26120002449586": 390,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "4614023638103",
+    "uikName": "УИК №881",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 435,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 367,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 13,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 249,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 13,
+      "26120002449529": 6,
+      "26120002449586": 249,
+      "26120002447583": 5,
+      "26120002445631": 1,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "4614023638104",
+    "uikName": "УИК №882",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 265,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 43,
-      "Гогу Марина Александровна": 15,
-      "Гончаров Николай Александрович": 62,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 43,
+      "26120002449529": 15,
+      "26120002449586": 62,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "4614023638105",
+    "uikName": "УИК №883",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 301,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 249,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 114,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 20,
+      "26120002449529": 4,
+      "26120002449586": 114,
+      "26120002447583": 3,
+      "26120002445631": 5,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "4614023638106",
+    "uikName": "УИК №884",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 115,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 98,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 5,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 73,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 5,
+      "26120002449529": 1,
+      "26120002449586": 73,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "4614023638107",
+    "uikName": "УИК №885",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 250,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 218,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 8,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 156,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 8,
+      "26120002449529": 0,
+      "26120002449586": 156,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "4614023638108",
+    "uikName": "УИК №886",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 92,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 81,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 5,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 72,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 5,
+      "26120002449529": 1,
+      "26120002449586": 72,
+      "26120002447583": 0,
+      "26120002445631": 1,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "4614023638109",
+    "uikName": "УИК №887",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 306,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 261,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 8,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 191,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 3
+      "26120002444600": 8,
+      "26120002449529": 1,
+      "26120002449586": 191,
+      "26120002447583": 2,
+      "26120002445631": 1,
+      "26120002444564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "4614023638110",
+    "uikName": "УИК №888",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 440,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 384,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 226,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 16
+      "26120002444600": 20,
+      "26120002449529": 10,
+      "26120002449586": 226,
+      "26120002447583": 7,
+      "26120002445631": 5,
+      "26120002444564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "4614023638111",
+    "uikName": "УИК №889",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 165,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 142,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 77,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 9,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 7,
+      "26120002449529": 2,
+      "26120002449586": 77,
+      "26120002447583": 4,
+      "26120002445631": 9,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "4614023638112",
+    "uikName": "УИК №890",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 701,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 589,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 63,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 382,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 27
+      "26120002444600": 63,
+      "26120002449529": 14,
+      "26120002449586": 382,
+      "26120002447583": 8,
+      "26120002445631": 16,
+      "26120002444564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "4614023638113",
+    "uikName": "УИК №891",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 183,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 154,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 107,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 20,
+      "26120002449529": 0,
+      "26120002449586": 107,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "4614023638114",
+    "uikName": "УИК №892",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 644,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 550,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 56,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 230,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 12,
-      "Чеботарев Денис Евгеньевич": 24
+      "26120002444600": 56,
+      "26120002449529": 26,
+      "26120002449586": 230,
+      "26120002447583": 7,
+      "26120002445631": 12,
+      "26120002444564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "4614023638115",
+    "uikName": "УИК №893",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 365,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 325,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 10,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 237,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 10,
+      "26120002449529": 0,
+      "26120002449586": 237,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "4614023638116",
+    "uikName": "УИК №894",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 462,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 8,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 315,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 8,
+      "26120002449529": 3,
+      "26120002449586": 315,
+      "26120002447583": 2,
+      "26120002445631": 3,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "4614023638117",
+    "uikName": "УИК №895",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 767,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 643,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 9,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 528,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 7
+      "26120002444600": 9,
+      "26120002449529": 3,
+      "26120002449586": 528,
+      "26120002447583": 8,
+      "26120002445631": 1,
+      "26120002444564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "4614023638118",
+    "uikName": "УИК №896",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 468,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 406,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 19,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 310,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 19,
+      "26120002449529": 1,
+      "26120002449586": 310,
+      "26120002447583": 2,
+      "26120002445631": 2,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "4614023638119",
+    "uikName": "УИК №897",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 279,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 13,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 193,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 13,
+      "26120002449529": 4,
+      "26120002449586": 193,
+      "26120002447583": 7,
+      "26120002445631": 3,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "4614023638120",
+    "uikName": "УИК №898",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 558,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 471,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 377,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 7,
+      "26120002449529": 4,
+      "26120002449586": 377,
+      "26120002447583": 5,
+      "26120002445631": 1,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "4614023638121",
+    "uikName": "УИК №899",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 459,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 387,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 10,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 294,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 10,
+      "26120002449529": 0,
+      "26120002449586": 294,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "4614023638122",
+    "uikName": "УИК №900",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 339,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 286,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 21,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 171,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 21,
+      "26120002449529": 10,
+      "26120002449586": 171,
+      "26120002447583": 4,
+      "26120002445631": 4,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "4614023638123",
+    "uikName": "УИК №901",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 3,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 91,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 3,
+      "26120002449529": 4,
+      "26120002449586": 91,
+      "26120002447583": 2,
+      "26120002445631": 1,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "4614023638124",
+    "uikName": "УИК №902",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 272,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 235,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 1,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 184,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 1,
+      "26120002449529": 1,
+      "26120002449586": 184,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "4614023638125",
+    "uikName": "УИК №903",
     "tikTvd": "26120002435609",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 217,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 181,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 2,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 146,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 2,
+      "26120002449529": 1,
+      "26120002449586": 146,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:02.101364+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435609&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435609&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "4614022293663",
+    "uikName": "УИК №819",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 519,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 493,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 37,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 208,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 6,
-      "Чеботарев Денис Евгеньевич": 28
+      "26120002444600": 37,
+      "26120002449529": 10,
+      "26120002449586": 208,
+      "26120002447583": 7,
+      "26120002445631": 6,
+      "26120002444564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "4614022293664",
+    "uikName": "УИК №820",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 388,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 381,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 23,
-      "Гогу Марина Александровна": 16,
-      "Гончаров Николай Александрович": 209,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 14
+      "26120002444600": 23,
+      "26120002449529": 16,
+      "26120002449586": 209,
+      "26120002447583": 2,
+      "26120002445631": 14,
+      "26120002444564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "4614022293665",
+    "uikName": "УИК №821",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1199,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 180,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 605,
-      "Климов Андрей Анатольевич": 39,
-      "Цапенко Артур Дмитриевич": 61,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 180,
+      "26120002449529": 12,
+      "26120002449586": 605,
+      "26120002447583": 39,
+      "26120002445631": 61,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "4614022293666",
+    "uikName": "УИК №822",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 324,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 310,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 30,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 185,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 30,
+      "26120002449529": 22,
+      "26120002449586": 185,
+      "26120002447583": 9,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "4614022293667",
+    "uikName": "УИК №823",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1752,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1662,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 165,
-      "Гогу Марина Александровна": 68,
-      "Гончаров Николай Александрович": 213,
-      "Климов Андрей Анатольевич": 40,
-      "Цапенко Артур Дмитриевич": 44,
-      "Чеботарев Денис Евгеньевич": 73
+      "26120002444600": 165,
+      "26120002449529": 68,
+      "26120002449586": 213,
+      "26120002447583": 40,
+      "26120002445631": 44,
+      "26120002444564": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "4614022293668",
+    "uikName": "УИК №824",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 555,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 528,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 78,
-      "Гогу Марина Александровна": 20,
-      "Гончаров Николай Александрович": 59,
-      "Климов Андрей Анатольевич": 13,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 25
+      "26120002444600": 78,
+      "26120002449529": 20,
+      "26120002449586": 59,
+      "26120002447583": 13,
+      "26120002445631": 16,
+      "26120002444564": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "4614022293669",
+    "uikName": "УИК №825",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 86,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 18,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 35,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 18,
+      "26120002449529": 4,
+      "26120002449586": 35,
+      "26120002447583": 4,
+      "26120002445631": 8,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "4614022293670",
+    "uikName": "УИК №826",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 177,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 164,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 85,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 11
+      "26120002444600": 12,
+      "26120002449529": 14,
+      "26120002449586": 85,
+      "26120002447583": 12,
+      "26120002445631": 5,
+      "26120002444564": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "4614022293671",
+    "uikName": "УИК №827",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 417,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 383,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 39,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 126,
-      "Климов Андрей Анатольевич": 10,
-      "Цапенко Артур Дмитриевич": 12,
-      "Чеботарев Денис Евгеньевич": 26
+      "26120002444600": 39,
+      "26120002449529": 26,
+      "26120002449586": 126,
+      "26120002447583": 10,
+      "26120002445631": 12,
+      "26120002444564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "4614022293672",
+    "uikName": "УИК №828",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 243,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 222,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 23,
-      "Гогу Марина Александровна": 11,
-      "Гончаров Николай Александрович": 55,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 18,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 23,
+      "26120002449529": 11,
+      "26120002449586": 55,
+      "26120002447583": 5,
+      "26120002445631": 18,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "4614022293673",
+    "uikName": "УИК №829",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 287,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 268,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 30,
-      "Гогу Марина Александровна": 14,
-      "Гончаров Николай Александрович": 65,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 15
+      "26120002444600": 30,
+      "26120002449529": 14,
+      "26120002449586": 65,
+      "26120002447583": 8,
+      "26120002445631": 10,
+      "26120002444564": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "4614022293674",
+    "uikName": "УИК №830",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 139,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 15,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 73,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 15,
+      "26120002449529": 9,
+      "26120002449586": 73,
+      "26120002447583": 4,
+      "26120002445631": 3,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "4614022293675",
+    "uikName": "УИК №831",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 673,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 625,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 44,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 388,
-      "Климов Андрей Анатольевич": 11,
-      "Цапенко Артур Дмитриевич": 31,
-      "Чеботарев Денис Евгеньевич": 42
+      "26120002444600": 44,
+      "26120002449529": 10,
+      "26120002449586": 388,
+      "26120002447583": 11,
+      "26120002445631": 31,
+      "26120002444564": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "4614022293676",
+    "uikName": "УИК №832",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 125,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 113,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 7,
-      "Гончаров Николай Александрович": 86,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 4,
+      "26120002449529": 7,
+      "26120002449586": 86,
+      "26120002447583": 5,
+      "26120002445631": 1,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "4614022293677",
+    "uikName": "УИК №833",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 109,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 21,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 80,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 21,
+      "26120002449529": 2,
+      "26120002449586": 80,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "4614022293678",
+    "uikName": "УИК №834",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 218,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 200,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 65,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 69,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 21
+      "26120002444600": 65,
+      "26120002449529": 12,
+      "26120002449586": 69,
+      "26120002447583": 4,
+      "26120002445631": 8,
+      "26120002444564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "4614022293679",
+    "uikName": "УИК №835",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1393,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1298,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 109,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 507,
-      "Климов Андрей Анатольевич": 18,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 47
+      "26120002444600": 109,
+      "26120002449529": 22,
+      "26120002449586": 507,
+      "26120002447583": 18,
+      "26120002445631": 22,
+      "26120002444564": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "4614022293680",
+    "uikName": "УИК №836",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1524,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1418,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 44,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 831,
-      "Климов Андрей Анатольевич": 20,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 110
+      "26120002444600": 44,
+      "26120002449529": 12,
+      "26120002449586": 831,
+      "26120002447583": 20,
+      "26120002445631": 22,
+      "26120002444564": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "4614022293681",
+    "uikName": "УИК №837",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1113,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1022,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 105,
-      "Гогу Марина Александровна": 24,
-      "Гончаров Николай Александрович": 347,
-      "Климов Андрей Анатольевич": 15,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 58
+      "26120002444600": 105,
+      "26120002449529": 24,
+      "26120002449586": 347,
+      "26120002447583": 15,
+      "26120002445631": 17,
+      "26120002444564": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "4614022293682",
+    "uikName": "УИК №838",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2046,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1937,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 156,
-      "Гогу Марина Александровна": 53,
-      "Гончаров Николай Александрович": 846,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 68
+      "26120002444600": 156,
+      "26120002449529": 53,
+      "26120002449586": 846,
+      "26120002447583": 17,
+      "26120002445631": 30,
+      "26120002444564": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "4614022293683",
+    "uikName": "УИК №839",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1855,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1771,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 160,
-      "Гогу Марина Александровна": 54,
-      "Гончаров Николай Александрович": 857,
-      "Климов Андрей Анатольевич": 36,
-      "Цапенко Артур Дмитриевич": 31,
-      "Чеботарев Денис Евгеньевич": 126
+      "26120002444600": 160,
+      "26120002449529": 54,
+      "26120002449586": 857,
+      "26120002447583": 36,
+      "26120002445631": 31,
+      "26120002444564": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "4614022293684",
+    "uikName": "УИК №840",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 695,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 700,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 53,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 435,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 24,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 53,
+      "26120002449529": 26,
+      "26120002449586": 435,
+      "26120002447583": 17,
+      "26120002445631": 24,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "4614022293685",
+    "uikName": "УИК №841",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 326,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 314,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 28,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 111,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 27
+      "26120002444600": 28,
+      "26120002449529": 9,
+      "26120002449586": 111,
+      "26120002447583": 2,
+      "26120002445631": 14,
+      "26120002444564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "4614022293686",
+    "uikName": "УИК №842",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 410,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 387,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 25,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 159,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 15,
-      "Чеботарев Денис Евгеньевич": 31
+      "26120002444600": 25,
+      "26120002449529": 10,
+      "26120002449586": 159,
+      "26120002447583": 7,
+      "26120002445631": 15,
+      "26120002444564": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "4614022293687",
+    "uikName": "УИК №843",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 407,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 274,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 9,
-      "Чеботарев Денис Евгеньевич": 18
+      "26120002444600": 35,
+      "26120002449529": 10,
+      "26120002449586": 274,
+      "26120002447583": 5,
+      "26120002445631": 9,
+      "26120002444564": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "4614022293688",
+    "uikName": "УИК №844",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 475,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 444,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 20,
-      "Гончаров Николай Александрович": 82,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 50
+      "26120002444600": 35,
+      "26120002449529": 20,
+      "26120002449586": 82,
+      "26120002447583": 6,
+      "26120002445631": 22,
+      "26120002444564": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "4614022293689",
+    "uikName": "УИК №845",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 182,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 175,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 71,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 24
+      "26120002444600": 12,
+      "26120002449529": 6,
+      "26120002449586": 71,
+      "26120002447583": 5,
+      "26120002445631": 8,
+      "26120002444564": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "4614022293690",
+    "uikName": "УИК №846",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 438,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 408,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 22,
-      "Гогу Марина Александровна": 19,
-      "Гончаров Николай Александрович": 198,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 11,
-      "Чеботарев Денис Евгеньевич": 16
+      "26120002444600": 22,
+      "26120002449529": 19,
+      "26120002449586": 198,
+      "26120002447583": 4,
+      "26120002445631": 11,
+      "26120002444564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "4614022293691",
+    "uikName": "УИК №847",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 891,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 859,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 139,
-      "Гогу Марина Александровна": 24,
-      "Гончаров Николай Александрович": 313,
-      "Климов Андрей Анатольевич": 15,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 37
+      "26120002444600": 139,
+      "26120002449529": 24,
+      "26120002449586": 313,
+      "26120002447583": 15,
+      "26120002445631": 14,
+      "26120002444564": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "4614022293692",
+    "uikName": "УИК №848",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 777,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 723,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 86,
-      "Гогу Марина Александровна": 35,
-      "Гончаров Николай Александрович": 247,
-      "Климов Андрей Анатольевич": 33,
-      "Цапенко Артур Дмитриевич": 18,
-      "Чеботарев Денис Евгеньевич": 47
+      "26120002444600": 86,
+      "26120002449529": 35,
+      "26120002449586": 247,
+      "26120002447583": 33,
+      "26120002445631": 18,
+      "26120002444564": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "4614022293693",
+    "uikName": "УИК №849",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1607,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1528,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 216,
-      "Гогу Марина Александровна": 111,
-      "Гончаров Николай Александрович": 541,
-      "Климов Андрей Анатольевич": 86,
-      "Цапенко Артур Дмитриевич": 65,
-      "Чеботарев Денис Евгеньевич": 188
+      "26120002444600": 216,
+      "26120002449529": 111,
+      "26120002449586": 541,
+      "26120002447583": 86,
+      "26120002445631": 65,
+      "26120002444564": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "4614022293694",
+    "uikName": "УИК №850",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 522,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 490,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 97,
-      "Гогу Марина Александровна": 29,
-      "Гончаров Николай Александрович": 144,
-      "Климов Андрей Анатольевич": 20,
-      "Цапенко Артур Дмитриевич": 44,
-      "Чеботарев Денис Евгеньевич": 42
+      "26120002444600": 97,
+      "26120002449529": 29,
+      "26120002449586": 144,
+      "26120002447583": 20,
+      "26120002445631": 44,
+      "26120002444564": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "4614022293695",
+    "uikName": "УИК №851",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 429,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 393,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 37,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 158,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 37
+      "26120002444600": 37,
+      "26120002449529": 22,
+      "26120002449586": 158,
+      "26120002447583": 8,
+      "26120002445631": 4,
+      "26120002444564": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "4614022293696",
+    "uikName": "УИК №852",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 453,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 411,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 17,
-      "Гончаров Николай Александрович": 255,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 30
+      "26120002444600": 35,
+      "26120002449529": 17,
+      "26120002449586": 255,
+      "26120002447583": 8,
+      "26120002445631": 16,
+      "26120002444564": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "4614022293697",
+    "uikName": "УИК №853",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 562,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 528,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 16,
-      "Гогу Марина Александровна": 12,
-      "Гончаров Николай Александрович": 330,
-      "Климов Андрей Анатольевич": 24,
-      "Цапенко Артур Дмитриевич": 36,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 16,
+      "26120002449529": 12,
+      "26120002449586": 330,
+      "26120002447583": 24,
+      "26120002445631": 36,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "4614022293698",
+    "uikName": "УИК №854",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1135,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 174,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 604,
-      "Климов Андрей Анатольевич": 16,
-      "Цапенко Артур Дмитриевич": 26,
-      "Чеботарев Денис Евгеньевич": 156
+      "26120002444600": 174,
+      "26120002449529": 22,
+      "26120002449586": 604,
+      "26120002447583": 16,
+      "26120002445631": 26,
+      "26120002444564": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "4614022293699",
+    "uikName": "УИК №855",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 986,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 939,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 80,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 307,
-      "Климов Андрей Анатольевич": 10,
-      "Цапенко Артур Дмитриевич": 15,
-      "Чеботарев Денис Евгеньевич": 45
+      "26120002444600": 80,
+      "26120002449529": 26,
+      "26120002449586": 307,
+      "26120002447583": 10,
+      "26120002445631": 15,
+      "26120002444564": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "4614022293700",
+    "uikName": "УИК №856",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 142,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 132,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 119,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 7,
+      "26120002449529": 2,
+      "26120002449586": 119,
+      "26120002447583": 0,
+      "26120002445631": 2,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "4614022293701",
+    "uikName": "УИК №857",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 546,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 515,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 65,
-      "Гогу Марина Александровна": 17,
-      "Гончаров Николай Александрович": 297,
-      "Климов Андрей Анатольевич": 11,
-      "Цапенко Артур Дмитриевич": 12,
-      "Чеботарев Денис Евгеньевич": 36
+      "26120002444600": 65,
+      "26120002449529": 17,
+      "26120002449586": 297,
+      "26120002447583": 11,
+      "26120002445631": 12,
+      "26120002444564": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "4614022293702",
+    "uikName": "УИК №858",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1808,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1680,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 199,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 1049,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 127,
-      "Чеботарев Денис Евгеньевич": 26
+      "26120002444600": 199,
+      "26120002449529": 8,
+      "26120002449586": 1049,
+      "26120002447583": 9,
+      "26120002445631": 127,
+      "26120002444564": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "4614022293703",
+    "uikName": "УИК №859",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2076,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 225,
-      "Гогу Марина Александровна": 34,
-      "Гончаров Николай Александрович": 1237,
-      "Климов Андрей Анатольевич": 35,
-      "Цапенко Артур Дмитриевич": 138,
-      "Чеботарев Денис Евгеньевич": 35
+      "26120002444600": 225,
+      "26120002449529": 34,
+      "26120002449586": 1237,
+      "26120002447583": 35,
+      "26120002445631": 138,
+      "26120002444564": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "4614022293704",
+    "uikName": "УИК №860",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1836,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1725,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 181,
-      "Гогу Марина Александровна": 13,
-      "Гончаров Николай Александрович": 1012,
-      "Климов Андрей Анатольевич": 38,
-      "Цапенко Артур Дмитриевич": 111,
-      "Чеботарев Денис Евгеньевич": 27
+      "26120002444600": 181,
+      "26120002449529": 13,
+      "26120002449586": 1012,
+      "26120002447583": 38,
+      "26120002445631": 111,
+      "26120002444564": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "4614022293705",
+    "uikName": "УИК №861",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 490,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 464,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 32,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 263,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 11,
-      "Чеботарев Денис Евгеньевич": 47
+      "26120002444600": 32,
+      "26120002449529": 4,
+      "26120002449586": 263,
+      "26120002447583": 0,
+      "26120002445631": 11,
+      "26120002444564": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "4614022293706",
+    "uikName": "УИК №862",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 325,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 296,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 173,
-      "Климов Андрей Анатольевич": 10,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 35,
+      "26120002449529": 10,
+      "26120002449586": 173,
+      "26120002447583": 10,
+      "26120002445631": 8,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "4614022293707",
+    "uikName": "УИК №863",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 710,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 654,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 112,
-      "Гогу Марина Александровна": 32,
-      "Гончаров Николай Александрович": 168,
-      "Климов Андрей Анатольевич": 35,
-      "Цапенко Артур Дмитриевич": 28,
-      "Чеботарев Денис Евгеньевич": 60
+      "26120002444600": 112,
+      "26120002449529": 32,
+      "26120002449586": 168,
+      "26120002447583": 35,
+      "26120002445631": 28,
+      "26120002444564": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "4614022293708",
+    "uikName": "УИК №864",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 69,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 63,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 1,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 37,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 1,
+      "26120002449529": 4,
+      "26120002449586": 37,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "4614022293709",
+    "uikName": "УИК №865",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 304,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 284,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 32,
-      "Гогу Марина Александровна": 7,
-      "Гончаров Николай Александрович": 187,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 32,
+      "26120002449529": 7,
+      "26120002449586": 187,
+      "26120002447583": 0,
+      "26120002445631": 16,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "4614022293710",
+    "uikName": "УИК №866",
     "tikTvd": "26120002435610",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 283,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 273,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 26,
-      "Гогу Марина Александровна": 24,
-      "Гончаров Николай Александрович": 103,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 22
+      "26120002444600": 26,
+      "26120002449529": 24,
+      "26120002449586": 103,
+      "26120002447583": 9,
+      "26120002445631": 16,
+      "26120002444564": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:15:18.727223+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435610&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435610&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "4614021686236",
+    "uikName": "УИК №774",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1031,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 100,
-      "Гогу Марина Александровна": 51,
-      "Гончаров Николай Александрович": 100,
-      "Климов Андрей Анатольевич": 18,
-      "Цапенко Артур Дмитриевич": 31,
-      "Чеботарев Денис Евгеньевич": 75
+      "26120002444600": 100,
+      "26120002449529": 51,
+      "26120002449586": 100,
+      "26120002447583": 18,
+      "26120002445631": 31,
+      "26120002444564": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "4614021686237",
+    "uikName": "УИК №775",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 955,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 114,
-      "Гогу Марина Александровна": 47,
-      "Гончаров Николай Александрович": 88,
-      "Климов Андрей Анатольевич": 24,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 73
+      "26120002444600": 114,
+      "26120002449529": 47,
+      "26120002449586": 88,
+      "26120002447583": 24,
+      "26120002445631": 16,
+      "26120002444564": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "4614021686238",
+    "uikName": "УИК №776",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1349,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 153,
-      "Гогу Марина Александровна": 82,
-      "Гончаров Николай Александрович": 116,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 33,
-      "Чеботарев Денис Евгеньевич": 91
+      "26120002444600": 153,
+      "26120002449529": 82,
+      "26120002449586": 116,
+      "26120002447583": 26,
+      "26120002445631": 33,
+      "26120002444564": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "4614021686239",
+    "uikName": "УИК №777",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2023,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2200,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 224,
-      "Гогу Марина Александровна": 121,
-      "Гончаров Николай Александрович": 353,
-      "Климов Андрей Анатольевич": 55,
-      "Цапенко Артур Дмитриевич": 63,
-      "Чеботарев Денис Евгеньевич": 173
+      "26120002444600": 224,
+      "26120002449529": 121,
+      "26120002449586": 353,
+      "26120002447583": 55,
+      "26120002445631": 63,
+      "26120002444564": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "4614021686240",
+    "uikName": "УИК №778",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2024,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2000,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 195,
-      "Гогу Марина Александровна": 35,
-      "Гончаров Николай Александрович": 191,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 38,
-      "Чеботарев Денис Евгеньевич": 149
+      "26120002444600": 195,
+      "26120002449529": 35,
+      "26120002449586": 191,
+      "26120002447583": 32,
+      "26120002445631": 38,
+      "26120002444564": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "4614021686241",
+    "uikName": "УИК №779",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1354,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 148,
-      "Гогу Марина Александровна": 37,
-      "Гончаров Николай Александрович": 119,
-      "Климов Андрей Анатольевич": 19,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 83
+      "26120002444600": 148,
+      "26120002449529": 37,
+      "26120002449586": 119,
+      "26120002447583": 19,
+      "26120002445631": 30,
+      "26120002444564": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "4614021686242",
+    "uikName": "УИК №780",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1045,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 117,
-      "Гогу Марина Александровна": 43,
-      "Гончаров Николай Александрович": 134,
-      "Климов Андрей Анатольевич": 20,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 66
+      "26120002444600": 117,
+      "26120002449529": 43,
+      "26120002449586": 134,
+      "26120002447583": 20,
+      "26120002445631": 22,
+      "26120002444564": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "4614021686243",
+    "uikName": "УИК №781",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1618,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1250,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 176,
-      "Гогу Марина Александровна": 79,
-      "Гончаров Николай Александрович": 251,
-      "Климов Андрей Анатольевич": 30,
-      "Цапенко Артур Дмитриевич": 31,
-      "Чеботарев Денис Евгеньевич": 150
+      "26120002444600": 176,
+      "26120002449529": 79,
+      "26120002449586": 251,
+      "26120002447583": 30,
+      "26120002445631": 31,
+      "26120002444564": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "4614021686244",
+    "uikName": "УИК №782",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1260,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 160,
-      "Гогу Марина Александровна": 75,
-      "Гончаров Николай Александрович": 110,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 29,
-      "Чеботарев Денис Евгеньевич": 103
+      "26120002444600": 160,
+      "26120002449529": 75,
+      "26120002449586": 110,
+      "26120002447583": 32,
+      "26120002445631": 29,
+      "26120002444564": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "4614021686245",
+    "uikName": "УИК №783",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1153,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 126,
-      "Гогу Марина Александровна": 63,
-      "Гончаров Николай Александрович": 150,
-      "Климов Андрей Анатольевич": 27,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 86
+      "26120002444600": 126,
+      "26120002449529": 63,
+      "26120002449586": 150,
+      "26120002447583": 27,
+      "26120002445631": 22,
+      "26120002444564": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "4614021686246",
+    "uikName": "УИК №784",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1903,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 208,
-      "Гогу Марина Александровна": 93,
-      "Гончаров Николай Александрович": 220,
-      "Климов Андрей Анатольевич": 39,
-      "Цапенко Артур Дмитриевич": 36,
-      "Чеботарев Денис Евгеньевич": 175
+      "26120002444600": 208,
+      "26120002449529": 93,
+      "26120002449586": 220,
+      "26120002447583": 39,
+      "26120002445631": 36,
+      "26120002444564": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "4614021686247",
+    "uikName": "УИК №785",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1788,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 202,
-      "Гогу Марина Александровна": 95,
-      "Гончаров Николай Александрович": 184,
-      "Климов Андрей Анатольевич": 52,
-      "Цапенко Артур Дмитриевич": 48,
-      "Чеботарев Денис Евгеньевич": 165
+      "26120002444600": 202,
+      "26120002449529": 95,
+      "26120002449586": 184,
+      "26120002447583": 52,
+      "26120002445631": 48,
+      "26120002444564": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "4614021686248",
+    "uikName": "УИК №786",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 133,
-      "Гогу Марина Александровна": 80,
-      "Гончаров Николай Александрович": 116,
-      "Климов Андрей Анатольевич": 36,
-      "Цапенко Артур Дмитриевич": 28,
-      "Чеботарев Денис Евгеньевич": 112
+      "26120002444600": 133,
+      "26120002449529": 80,
+      "26120002449586": 116,
+      "26120002447583": 36,
+      "26120002445631": 28,
+      "26120002444564": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "4614021686249",
+    "uikName": "УИК №787",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 931,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 102,
-      "Гогу Марина Александровна": 53,
-      "Гончаров Николай Александрович": 99,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 87
+      "26120002444600": 102,
+      "26120002449529": 53,
+      "26120002449586": 99,
+      "26120002447583": 17,
+      "26120002445631": 30,
+      "26120002444564": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "4614021686250",
+    "uikName": "УИК №788",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1271,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 160,
-      "Гогу Марина Александровна": 69,
-      "Гончаров Николай Александрович": 196,
-      "Климов Андрей Анатольевич": 37,
-      "Цапенко Артур Дмитриевич": 24,
-      "Чеботарев Денис Евгеньевич": 86
+      "26120002444600": 160,
+      "26120002449529": 69,
+      "26120002449586": 196,
+      "26120002447583": 37,
+      "26120002445631": 24,
+      "26120002444564": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "4614021686251",
+    "uikName": "УИК №789",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1608,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 140,
-      "Гогу Марина Александровна": 85,
-      "Гончаров Николай Александрович": 142,
-      "Климов Андрей Анатольевич": 42,
-      "Цапенко Артур Дмитриевич": 32,
-      "Чеботарев Денис Евгеньевич": 136
+      "26120002444600": 140,
+      "26120002449529": 85,
+      "26120002449586": 142,
+      "26120002447583": 42,
+      "26120002445631": 32,
+      "26120002444564": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "4614021686252",
+    "uikName": "УИК №790",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1413,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 150,
-      "Гогу Марина Александровна": 85,
-      "Гончаров Николай Александрович": 148,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 34,
-      "Чеботарев Денис Евгеньевич": 106
+      "26120002444600": 150,
+      "26120002449529": 85,
+      "26120002449586": 148,
+      "26120002447583": 32,
+      "26120002445631": 34,
+      "26120002444564": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "4614021686253",
+    "uikName": "УИК №791",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1288,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1050,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 169,
-      "Гогу Марина Александровна": 86,
-      "Гончаров Николай Александрович": 480,
-      "Климов Андрей Анатольевич": 31,
-      "Цапенко Артур Дмитриевич": 23,
-      "Чеботарев Денис Евгеньевич": 98
+      "26120002444600": 169,
+      "26120002449529": 86,
+      "26120002449586": 480,
+      "26120002447583": 31,
+      "26120002445631": 23,
+      "26120002444564": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "4614021686254",
+    "uikName": "УИК №792",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1203,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 134,
-      "Гогу Марина Александровна": 65,
-      "Гончаров Николай Александрович": 144,
-      "Климов Андрей Анатольевич": 27,
-      "Цапенко Артур Дмитриевич": 22,
-      "Чеботарев Денис Евгеньевич": 101
+      "26120002444600": 134,
+      "26120002449529": 65,
+      "26120002449586": 144,
+      "26120002447583": 27,
+      "26120002445631": 22,
+      "26120002444564": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "4614021686255",
+    "uikName": "УИК №793",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1113,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 112,
-      "Гогу Марина Александровна": 40,
-      "Гончаров Николай Александрович": 242,
-      "Климов Андрей Анатольевич": 31,
-      "Цапенко Артур Дмитриевич": 23,
-      "Чеботарев Денис Евгеньевич": 95
+      "26120002444600": 112,
+      "26120002449529": 40,
+      "26120002449586": 242,
+      "26120002447583": 31,
+      "26120002445631": 23,
+      "26120002444564": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "4614021686256",
+    "uikName": "УИК №794",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1854,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 210,
-      "Гогу Марина Александровна": 119,
-      "Гончаров Николай Александрович": 207,
-      "Климов Андрей Анатольевич": 42,
-      "Цапенко Артур Дмитриевич": 48,
-      "Чеботарев Денис Евгеньевич": 143
+      "26120002444600": 210,
+      "26120002449529": 119,
+      "26120002449586": 207,
+      "26120002447583": 42,
+      "26120002445631": 48,
+      "26120002444564": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "4614021686257",
+    "uikName": "УИК №795",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 971,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 68,
-      "Гогу Марина Александровна": 37,
-      "Гончаров Николай Александрович": 138,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 21,
-      "Чеботарев Денис Евгеньевич": 65
+      "26120002444600": 68,
+      "26120002449529": 37,
+      "26120002449586": 138,
+      "26120002447583": 9,
+      "26120002445631": 21,
+      "26120002444564": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "4614021686258",
+    "uikName": "УИК №796",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1145,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 950,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 162,
-      "Гогу Марина Александровна": 45,
-      "Гончаров Николай Александрович": 103,
-      "Климов Андрей Анатольевич": 24,
-      "Цапенко Артур Дмитриевич": 20,
-      "Чеботарев Денис Евгеньевич": 75
+      "26120002444600": 162,
+      "26120002449529": 45,
+      "26120002449586": 103,
+      "26120002447583": 24,
+      "26120002445631": 20,
+      "26120002444564": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "4614021686259",
+    "uikName": "УИК №797",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1852,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 203,
-      "Гогу Марина Александровна": 96,
-      "Гончаров Николай Александрович": 145,
-      "Климов Андрей Анатольевич": 41,
-      "Цапенко Артур Дмитриевич": 35,
-      "Чеботарев Денис Евгеньевич": 120
+      "26120002444600": 203,
+      "26120002449529": 96,
+      "26120002449586": 145,
+      "26120002447583": 41,
+      "26120002445631": 35,
+      "26120002444564": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "4614021686260",
+    "uikName": "УИК №798",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1750,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 232,
-      "Гогу Марина Александровна": 113,
-      "Гончаров Николай Александрович": 175,
-      "Климов Андрей Анатольевич": 46,
-      "Цапенко Артур Дмитриевич": 51,
-      "Чеботарев Денис Евгеньевич": 157
+      "26120002444600": 232,
+      "26120002449529": 113,
+      "26120002449586": 175,
+      "26120002447583": 46,
+      "26120002445631": 51,
+      "26120002444564": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "4614021686261",
+    "uikName": "УИК №799",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1497,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 167,
-      "Гогу Марина Александровна": 87,
-      "Гончаров Николай Александрович": 154,
-      "Климов Андрей Анатольевич": 43,
-      "Цапенко Артур Дмитриевич": 28,
-      "Чеботарев Денис Евгеньевич": 158
+      "26120002444600": 167,
+      "26120002449529": 87,
+      "26120002449586": 154,
+      "26120002447583": 43,
+      "26120002445631": 28,
+      "26120002444564": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "4614021686262",
+    "uikName": "УИК №800",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1902,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1600,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 178,
-      "Гогу Марина Александровна": 128,
-      "Гончаров Николай Александрович": 225,
-      "Климов Андрей Анатольевич": 47,
-      "Цапенко Артур Дмитриевич": 38,
-      "Чеботарев Денис Евгеньевич": 176
+      "26120002444600": 178,
+      "26120002449529": 128,
+      "26120002449586": 225,
+      "26120002447583": 47,
+      "26120002445631": 38,
+      "26120002444564": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "4614021686263",
+    "uikName": "УИК №801",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2059,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 188,
-      "Гогу Марина Александровна": 94,
-      "Гончаров Николай Александрович": 156,
-      "Климов Андрей Анатольевич": 46,
-      "Цапенко Артур Дмитриевич": 42,
-      "Чеботарев Денис Евгеньевич": 133
+      "26120002444600": 188,
+      "26120002449529": 94,
+      "26120002449586": 156,
+      "26120002447583": 46,
+      "26120002445631": 42,
+      "26120002444564": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "4614021686264",
+    "uikName": "УИК №802",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1370,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 138,
-      "Гогу Марина Александровна": 102,
-      "Гончаров Николай Александрович": 129,
-      "Климов Андрей Анатольевич": 31,
-      "Цапенко Артур Дмитриевич": 20,
-      "Чеботарев Денис Евгеньевич": 111
+      "26120002444600": 138,
+      "26120002449529": 102,
+      "26120002449586": 129,
+      "26120002447583": 31,
+      "26120002445631": 20,
+      "26120002444564": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "4614021686265",
+    "uikName": "УИК №803",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2022,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1650,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 220,
-      "Гогу Марина Александровна": 146,
-      "Гончаров Николай Александрович": 233,
-      "Климов Андрей Анатольевич": 57,
-      "Цапенко Артур Дмитриевич": 43,
-      "Чеботарев Денис Евгеньевич": 194
+      "26120002444600": 220,
+      "26120002449529": 146,
+      "26120002449586": 233,
+      "26120002447583": 57,
+      "26120002445631": 43,
+      "26120002444564": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "4614021686266",
+    "uikName": "УИК №804",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 925,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 86,
-      "Гогу Марина Александровна": 46,
-      "Гончаров Николай Александрович": 73,
-      "Климов Андрей Анатольевич": 18,
-      "Цапенко Артур Дмитриевич": 16,
-      "Чеботарев Денис Евгеньевич": 47
+      "26120002444600": 86,
+      "26120002449529": 46,
+      "26120002449586": 73,
+      "26120002447583": 18,
+      "26120002445631": 16,
+      "26120002444564": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "4614021686267",
+    "uikName": "УИК №805",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2078,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 221,
-      "Гогу Марина Александровна": 101,
-      "Гончаров Николай Александрович": 176,
-      "Климов Андрей Анатольевич": 45,
-      "Цапенко Артур Дмитриевич": 45,
-      "Чеботарев Денис Евгеньевич": 131
+      "26120002444600": 221,
+      "26120002449529": 101,
+      "26120002449586": 176,
+      "26120002447583": 45,
+      "26120002445631": 45,
+      "26120002444564": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "4614021686268",
+    "uikName": "УИК №806",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 438,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 32,
-      "Гогу Марина Александровна": 26,
-      "Гончаров Николай Александрович": 72,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 29
+      "26120002444600": 32,
+      "26120002449529": 26,
+      "26120002449586": 72,
+      "26120002447583": 17,
+      "26120002445631": 10,
+      "26120002444564": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "4614021686269",
+    "uikName": "УИК №807",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1765,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 149,
-      "Гогу Марина Александровна": 79,
-      "Гончаров Николай Александрович": 231,
-      "Климов Андрей Анатольевич": 35,
-      "Цапенко Артур Дмитриевич": 33,
-      "Чеботарев Денис Евгеньевич": 101
+      "26120002444600": 149,
+      "26120002449529": 79,
+      "26120002449586": 231,
+      "26120002447583": 35,
+      "26120002445631": 33,
+      "26120002444564": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "4614021686270",
+    "uikName": "УИК №808",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1738,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 180,
-      "Гогу Марина Александровна": 85,
-      "Гончаров Николай Александрович": 150,
-      "Климов Андрей Анатольевич": 34,
-      "Цапенко Артур Дмитриевич": 34,
-      "Чеботарев Денис Евгеньевич": 87
+      "26120002444600": 180,
+      "26120002449529": 85,
+      "26120002449586": 150,
+      "26120002447583": 34,
+      "26120002445631": 34,
+      "26120002444564": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "4614021686271",
+    "uikName": "УИК №809",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1370,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 178,
-      "Гогу Марина Александровна": 60,
-      "Гончаров Николай Александрович": 148,
-      "Климов Андрей Анатольевич": 34,
-      "Цапенко Артур Дмитриевич": 28,
-      "Чеботарев Денис Евгеньевич": 82
+      "26120002444600": 178,
+      "26120002449529": 60,
+      "26120002449586": 148,
+      "26120002447583": 34,
+      "26120002445631": 28,
+      "26120002444564": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "4614021686272",
+    "uikName": "УИК №810",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1064,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 130,
-      "Гогу Марина Александровна": 48,
-      "Гончаров Николай Александрович": 122,
-      "Климов Андрей Анатольевич": 24,
-      "Цапенко Артур Дмитриевич": 20,
-      "Чеботарев Денис Евгеньевич": 68
+      "26120002444600": 130,
+      "26120002449529": 48,
+      "26120002449586": 122,
+      "26120002447583": 24,
+      "26120002445631": 20,
+      "26120002444564": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "4614021686273",
+    "uikName": "УИК №811",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 199,
-      "Гогу Марина Александровна": 80,
-      "Гончаров Николай Александрович": 134,
-      "Климов Андрей Анатольевич": 28,
-      "Цапенко Артур Дмитриевич": 42,
-      "Чеботарев Денис Евгеньевич": 114
+      "26120002444600": 199,
+      "26120002449529": 80,
+      "26120002449586": 134,
+      "26120002447583": 28,
+      "26120002445631": 42,
+      "26120002444564": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "4614021686274",
+    "uikName": "УИК №812",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 991,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 81,
-      "Гогу Марина Александровна": 31,
-      "Гончаров Николай Александрович": 59,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 23,
-      "Чеботарев Денис Евгеньевич": 47
+      "26120002444600": 81,
+      "26120002449529": 31,
+      "26120002449586": 59,
+      "26120002447583": 12,
+      "26120002445631": 23,
+      "26120002444564": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "4614021686275",
+    "uikName": "УИК №813",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 159,
-      "Гогу Марина Александровна": 45,
-      "Гончаров Николай Александрович": 129,
-      "Климов Андрей Анатольевич": 29,
-      "Цапенко Артур Дмитриевич": 38,
-      "Чеботарев Денис Евгеньевич": 59
+      "26120002444600": 159,
+      "26120002449529": 45,
+      "26120002449586": 129,
+      "26120002447583": 29,
+      "26120002445631": 38,
+      "26120002444564": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "4614021686276",
+    "uikName": "УИК №814",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1632,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 218,
-      "Гогу Марина Александровна": 67,
-      "Гончаров Николай Александрович": 135,
-      "Климов Андрей Анатольевич": 27,
-      "Цапенко Артур Дмитриевич": 37,
-      "Чеботарев Денис Евгеньевич": 92
+      "26120002444600": 218,
+      "26120002449529": 67,
+      "26120002449586": 135,
+      "26120002447583": 27,
+      "26120002445631": 37,
+      "26120002444564": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "4614021686277",
+    "uikName": "УИК №815",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1641,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 154,
-      "Гогу Марина Александровна": 60,
-      "Гончаров Николай Александрович": 132,
-      "Климов Андрей Анатольевич": 21,
-      "Цапенко Артур Дмитриевич": 26,
-      "Чеботарев Денис Евгеньевич": 68
+      "26120002444600": 154,
+      "26120002449529": 60,
+      "26120002449586": 132,
+      "26120002447583": 21,
+      "26120002445631": 26,
+      "26120002444564": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "4614021686278",
+    "uikName": "УИК №816",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1073,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 126,
-      "Гогу Марина Александровна": 45,
-      "Гончаров Николай Александрович": 162,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 39,
-      "Чеботарев Денис Евгеньевич": 35
+      "26120002444600": 126,
+      "26120002449529": 45,
+      "26120002449586": 162,
+      "26120002447583": 26,
+      "26120002445631": 39,
+      "26120002444564": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "4614021686279",
+    "uikName": "УИК №817",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1270,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 126,
-      "Гогу Марина Александровна": 64,
-      "Гончаров Николай Александрович": 143,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 33,
-      "Чеботарев Денис Евгеньевич": 55
+      "26120002444600": 126,
+      "26120002449529": 64,
+      "26120002449586": 143,
+      "26120002447583": 32,
+      "26120002445631": 33,
+      "26120002444564": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "4614021726125",
+    "uikName": "УИК №818",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 120,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 22,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 43,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 17
+      "26120002444600": 22,
+      "26120002449529": 8,
+      "26120002449586": 43,
+      "26120002447583": 4,
+      "26120002445631": 5,
+      "26120002444564": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 8343,
     "uikTvd": "4614021726837",
+    "uikName": "УИК №8343",
     "tikTvd": "26120002435611",
     "tikName": "Каменск-Шахтинская городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 692,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 3200,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 177,
-      "Гогу Марина Александровна": 36,
-      "Гончаров Николай Александрович": 293,
-      "Климов Андрей Анатольевич": 27,
-      "Цапенко Артур Дмитриевич": 37,
-      "Чеботарев Денис Евгеньевич": 76
+      "26120002444600": 177,
+      "26120002449529": 36,
+      "26120002449586": 293,
+      "26120002447583": 27,
+      "26120002445631": 37,
+      "26120002444564": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.517024+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435611&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435611&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "4614013350051",
+    "uikName": "УИК №550",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1064,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 840,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 96,
-      "Гогу Марина Александровна": 37,
-      "Гончаров Николай Александрович": 126,
-      "Климов Андрей Анатольевич": 25,
-      "Цапенко Артур Дмитриевич": 33,
-      "Чеботарев Денис Евгеньевич": 80
+      "26120002444600": 96,
+      "26120002449529": 37,
+      "26120002449586": 126,
+      "26120002447583": 25,
+      "26120002445631": 33,
+      "26120002444564": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "4614013350052",
+    "uikName": "УИК №551",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1728,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1330,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 155,
-      "Гогу Марина Александровна": 54,
-      "Гончаров Николай Александрович": 471,
-      "Климов Андрей Анатольевич": 41,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 132
+      "26120002444600": 155,
+      "26120002449529": 54,
+      "26120002449586": 471,
+      "26120002447583": 41,
+      "26120002445631": 30,
+      "26120002444564": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "4614013350053",
+    "uikName": "УИК №552",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 718,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 560,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 52,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 305,
-      "Климов Андрей Анатольевич": 13,
-      "Цапенко Артур Дмитриевич": 13,
-      "Чеботарев Денис Евгеньевич": 45
+      "26120002444600": 52,
+      "26120002449529": 22,
+      "26120002449586": 305,
+      "26120002447583": 13,
+      "26120002445631": 13,
+      "26120002444564": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "4614013350054",
+    "uikName": "УИК №553",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1709,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1838,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 156,
-      "Гогу Марина Александровна": 64,
-      "Гончаров Николай Александрович": 217,
-      "Климов Андрей Анатольевич": 53,
-      "Цапенко Артур Дмитриевич": 33,
-      "Чеботарев Денис Евгеньевич": 126
+      "26120002444600": 156,
+      "26120002449529": 64,
+      "26120002449586": 217,
+      "26120002447583": 53,
+      "26120002445631": 33,
+      "26120002444564": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "4614013350055",
+    "uikName": "УИК №554",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1806,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1430,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 156,
-      "Гогу Марина Александровна": 57,
-      "Гончаров Николай Александрович": 198,
-      "Климов Андрей Анатольевич": 32,
-      "Цапенко Артур Дмитриевич": 43,
-      "Чеботарев Денис Евгеньевич": 101
+      "26120002444600": 156,
+      "26120002449529": 57,
+      "26120002449586": 198,
+      "26120002447583": 32,
+      "26120002445631": 43,
+      "26120002444564": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "4614013350056",
+    "uikName": "УИК №555",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1814,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 162,
-      "Гогу Марина Александровна": 78,
-      "Гончаров Николай Александрович": 230,
-      "Климов Андрей Анатольевич": 55,
-      "Цапенко Артур Дмитриевич": 44,
-      "Чеботарев Денис Евгеньевич": 145
+      "26120002444600": 162,
+      "26120002449529": 78,
+      "26120002449586": 230,
+      "26120002447583": 55,
+      "26120002445631": 44,
+      "26120002444564": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "4614013350057",
+    "uikName": "УИК №556",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 761,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 580,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 78,
-      "Гогу Марина Александровна": 22,
-      "Гончаров Николай Александрович": 193,
-      "Климов Андрей Анатольевич": 12,
-      "Цапенко Артур Дмитриевич": 13,
-      "Чеботарев Денис Евгеньевич": 53
+      "26120002444600": 78,
+      "26120002449529": 22,
+      "26120002449586": 193,
+      "26120002447583": 12,
+      "26120002445631": 13,
+      "26120002444564": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "4614013350058",
+    "uikName": "УИК №557",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1088,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 860,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 110,
-      "Гогу Марина Александровна": 46,
-      "Гончаров Николай Александрович": 127,
-      "Климов Андрей Анатольевич": 30,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 70
+      "26120002444600": 110,
+      "26120002449529": 46,
+      "26120002449586": 127,
+      "26120002447583": 30,
+      "26120002445631": 17,
+      "26120002444564": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "4614013350059",
+    "uikName": "УИК №558",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1536,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1220,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 147,
-      "Гогу Марина Александровна": 60,
-      "Гончаров Николай Александрович": 192,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 46,
-      "Чеботарев Денис Евгеньевич": 103
+      "26120002444600": 147,
+      "26120002449529": 60,
+      "26120002449586": 192,
+      "26120002447583": 26,
+      "26120002445631": 46,
+      "26120002444564": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "4614013350060",
+    "uikName": "УИК №559",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1694,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1330,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 144,
-      "Гогу Марина Александровна": 53,
-      "Гончаров Николай Александрович": 162,
-      "Климов Андрей Анатольевич": 28,
-      "Цапенко Артур Дмитриевич": 34,
-      "Чеботарев Денис Евгеньевич": 120
+      "26120002444600": 144,
+      "26120002449529": 53,
+      "26120002449586": 162,
+      "26120002447583": 28,
+      "26120002445631": 34,
+      "26120002444564": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "4614013350061",
+    "uikName": "УИК №560",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1805,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1430,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 171,
-      "Гогу Марина Александровна": 76,
-      "Гончаров Николай Александрович": 293,
-      "Климов Андрей Анатольевич": 46,
-      "Цапенко Артур Дмитриевич": 41,
-      "Чеботарев Денис Евгеньевич": 105
+      "26120002444600": 171,
+      "26120002449529": 76,
+      "26120002449586": 293,
+      "26120002447583": 46,
+      "26120002445631": 41,
+      "26120002444564": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "4614013350062",
+    "uikName": "УИК №561",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1496,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1610,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 132,
-      "Гогу Марина Александровна": 71,
-      "Гончаров Николай Александрович": 191,
-      "Климов Андрей Анатольевич": 40,
-      "Цапенко Артур Дмитриевич": 26,
-      "Чеботарев Денис Евгеньевич": 111
+      "26120002444600": 132,
+      "26120002449529": 71,
+      "26120002449586": 191,
+      "26120002447583": 40,
+      "26120002445631": 26,
+      "26120002444564": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "4614013350063",
+    "uikName": "УИК №562",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1566,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1691,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 174,
-      "Гогу Марина Александровна": 58,
-      "Гончаров Николай Александрович": 504,
-      "Климов Андрей Анатольевич": 37,
-      "Цапенко Артур Дмитриевич": 25,
-      "Чеботарев Денис Евгеньевич": 108
+      "26120002444600": 174,
+      "26120002449529": 58,
+      "26120002449586": 504,
+      "26120002447583": 37,
+      "26120002445631": 25,
+      "26120002444564": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "4614013350064",
+    "uikName": "УИК №563",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1386,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1110,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 148,
-      "Гогу Марина Александровна": 33,
-      "Гончаров Николай Александрович": 228,
-      "Климов Андрей Анатольевич": 33,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 73
+      "26120002444600": 148,
+      "26120002449529": 33,
+      "26120002449586": 228,
+      "26120002447583": 33,
+      "26120002445631": 17,
+      "26120002444564": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "4614013350065",
+    "uikName": "УИК №564",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1603,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1715,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 157,
-      "Гогу Марина Александровна": 70,
-      "Гончаров Николай Александрович": 215,
-      "Климов Андрей Анатольевич": 38,
-      "Цапенко Артур Дмитриевич": 30,
-      "Чеботарев Денис Евгеньевич": 133
+      "26120002444600": 157,
+      "26120002449529": 70,
+      "26120002449586": 215,
+      "26120002447583": 38,
+      "26120002445631": 30,
+      "26120002444564": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "4614013350066",
+    "uikName": "УИК №565",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1731,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1410,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 153,
-      "Гогу Марина Александровна": 51,
-      "Гончаров Николай Александрович": 403,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 27,
-      "Чеботарев Денис Евгеньевич": 109
+      "26120002444600": 153,
+      "26120002449529": 51,
+      "26120002449586": 403,
+      "26120002447583": 26,
+      "26120002445631": 27,
+      "26120002444564": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "4614013350067",
+    "uikName": "УИК №566",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1755,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 140,
-      "Гогу Марина Александровна": 54,
-      "Гончаров Николай Александрович": 266,
-      "Климов Андрей Анатольевич": 26,
-      "Цапенко Артур Дмитриевич": 34,
-      "Чеботарев Денис Евгеньевич": 124
+      "26120002444600": 140,
+      "26120002449529": 54,
+      "26120002449586": 266,
+      "26120002447583": 26,
+      "26120002445631": 34,
+      "26120002444564": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "4614013350068",
+    "uikName": "УИК №567",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1457,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1130,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 136,
-      "Гогу Марина Александровна": 61,
-      "Гончаров Николай Александрович": 469,
-      "Климов Андрей Анатольевич": 28,
-      "Цапенко Артур Дмитриевич": 42,
-      "Чеботарев Денис Евгеньевич": 97
+      "26120002444600": 136,
+      "26120002449529": 61,
+      "26120002449586": 469,
+      "26120002447583": 28,
+      "26120002445631": 42,
+      "26120002444564": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "4614013350069",
+    "uikName": "УИК №568",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 751,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 600,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 70,
-      "Гогу Марина Александровна": 31,
-      "Гончаров Николай Александрович": 176,
-      "Климов Андрей Анатольевич": 9,
-      "Цапенко Артур Дмитриевич": 18,
-      "Чеботарев Денис Евгеньевич": 37
+      "26120002444600": 70,
+      "26120002449529": 31,
+      "26120002449586": 176,
+      "26120002447583": 9,
+      "26120002445631": 18,
+      "26120002444564": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "4614013350070",
+    "uikName": "УИК №569",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 652,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 530,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 69,
-      "Гогу Марина Александровна": 25,
-      "Гончаров Николай Александрович": 83,
-      "Климов Андрей Анатольевич": 15,
-      "Цапенко Артур Дмитриевич": 10,
-      "Чеботарев Денис Евгеньевич": 49
+      "26120002444600": 69,
+      "26120002449529": 25,
+      "26120002449586": 83,
+      "26120002447583": 15,
+      "26120002445631": 10,
+      "26120002444564": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "4614013350071",
+    "uikName": "УИК №570",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1503,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1210,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 145,
-      "Гогу Марина Александровна": 43,
-      "Гончаров Николай Александрович": 369,
-      "Климов Андрей Анатольевич": 29,
-      "Цапенко Артур Дмитриевич": 46,
-      "Чеботарев Денис Евгеньевич": 125
+      "26120002444600": 145,
+      "26120002449529": 43,
+      "26120002449586": 369,
+      "26120002447583": 29,
+      "26120002445631": 46,
+      "26120002444564": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "4614013350072",
+    "uikName": "УИК №571",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1560,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1220,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 78,
-      "Гогу Марина Александровна": 56,
-      "Гончаров Николай Александрович": 133,
-      "Климов Андрей Анатольевич": 25,
-      "Цапенко Артур Дмитриевич": 28,
-      "Чеботарев Денис Евгеньевич": 114
+      "26120002444600": 78,
+      "26120002449529": 56,
+      "26120002449586": 133,
+      "26120002447583": 25,
+      "26120002445631": 28,
+      "26120002444564": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "4614013350073",
+    "uikName": "УИК №572",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1641,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1701,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 99,
-      "Гогу Марина Александровна": 57,
-      "Гончаров Николай Александрович": 215,
-      "Климов Андрей Анатольевич": 29,
-      "Цапенко Артур Дмитриевич": 21,
-      "Чеботарев Денис Евгеньевич": 100
+      "26120002444600": 99,
+      "26120002449529": 57,
+      "26120002449586": 215,
+      "26120002447583": 29,
+      "26120002445631": 21,
+      "26120002444564": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "4614013350074",
+    "uikName": "УИК №573",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 639,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 38,
-      "Гогу Марина Александровна": 21,
-      "Гончаров Николай Александрович": 42,
-      "Климов Андрей Анатольевич": 10,
-      "Цапенко Артур Дмитриевич": 11,
-      "Чеботарев Денис Евгеньевич": 28
+      "26120002444600": 38,
+      "26120002449529": 21,
+      "26120002449586": 42,
+      "26120002447583": 10,
+      "26120002445631": 11,
+      "26120002444564": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "4614013350075",
+    "uikName": "УИК №574",
     "tikTvd": "26120002435612",
     "tikName": "Донецкая городская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 963,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 67,
-      "Гогу Марина Александровна": 40,
-      "Гончаров Николай Александрович": 138,
-      "Климов Андрей Анатольевич": 25,
-      "Цапенко Артур Дмитриевич": 21,
-      "Чеботарев Денис Евгеньевич": 88
+      "26120002444600": 67,
+      "26120002449529": 40,
+      "26120002449586": 138,
+      "26120002447583": 25,
+      "26120002445631": 21,
+      "26120002444564": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:03.679137+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435612&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435612&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7719,8 +9223,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "4614008275993",
+    "uikName": "УИК №367",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 68,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 66,
@@ -7736,12 +9244,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 0,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 46,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 0,
+      "26120002449529": 0,
+      "26120002449586": 46,
+      "26120002447583": 1,
+      "26120002445631": 3,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7751,6 +9259,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7760,8 +9272,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "4614008275995",
+    "uikName": "УИК №368",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 110,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 114,
@@ -7777,12 +9293,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 86,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 7,
+      "26120002449529": 0,
+      "26120002449586": 86,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7792,6 +9308,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7801,8 +9321,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "4614008275996",
+    "uikName": "УИК №369",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 173,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 174,
@@ -7818,12 +9342,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 17,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 101,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 17,
+      "26120002449529": 5,
+      "26120002449586": 101,
+      "26120002447583": 1,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7833,6 +9357,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7842,8 +9370,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "4614008275997",
+    "uikName": "УИК №370",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 479,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 522,
@@ -7859,12 +9391,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 41,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 297,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 6,
-      "Чеботарев Денис Евгеньевич": 7
+      "26120002444600": 41,
+      "26120002449529": 5,
+      "26120002449586": 297,
+      "26120002447583": 3,
+      "26120002445631": 6,
+      "26120002444564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7874,6 +9406,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7883,8 +9419,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "4614008275998",
+    "uikName": "УИК №371",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 111,
@@ -7900,12 +9440,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 11,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 75,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 11,
+      "26120002449529": 0,
+      "26120002449586": 75,
+      "26120002447583": 0,
+      "26120002445631": 2,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7915,6 +9455,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7924,8 +9468,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "4614008275999",
+    "uikName": "УИК №372",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -7941,12 +9489,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 6,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 66,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 6,
+      "26120002449529": 0,
+      "26120002449586": 66,
+      "26120002447583": 0,
+      "26120002445631": 1,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7956,6 +9504,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -7965,8 +9517,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "4614008276000",
+    "uikName": "УИК №373",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2530,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2804,
@@ -7982,12 +9538,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 171,
-      "Гогу Марина Александровна": 39,
-      "Гончаров Николай Александрович": 679,
-      "Климов Андрей Анатольевич": 21,
-      "Цапенко Артур Дмитриевич": 18,
-      "Чеботарев Денис Евгеньевич": 32
+      "26120002444600": 171,
+      "26120002449529": 39,
+      "26120002449586": 679,
+      "26120002447583": 21,
+      "26120002445631": 18,
+      "26120002444564": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -7997,6 +9553,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8006,8 +9566,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "4614008276001",
+    "uikName": "УИК №374",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1358,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1465,
@@ -8023,12 +9587,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 104,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 628,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 7,
-      "Чеботарев Денис Евгеньевич": 21
+      "26120002444600": 104,
+      "26120002449529": 8,
+      "26120002449586": 628,
+      "26120002447583": 5,
+      "26120002445631": 7,
+      "26120002444564": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8038,6 +9602,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8047,8 +9615,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "4614008276002",
+    "uikName": "УИК №375",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 691,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 746,
@@ -8064,12 +9636,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 110,
-      "Гогу Марина Александровна": 21,
-      "Гончаров Николай Александрович": 245,
-      "Климов Андрей Анатольевич": 19,
-      "Цапенко Артур Дмитриевич": 37,
-      "Чеботарев Денис Евгеньевич": 42
+      "26120002444600": 110,
+      "26120002449529": 21,
+      "26120002449586": 245,
+      "26120002447583": 19,
+      "26120002445631": 37,
+      "26120002444564": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8079,6 +9651,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8088,8 +9664,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "4614008276003",
+    "uikName": "УИК №376",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 586,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 633,
@@ -8105,12 +9685,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 107,
-      "Гогу Марина Александровна": 32,
-      "Гончаров Николай Александрович": 283,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 12,
-      "Чеботарев Денис Евгеньевич": 30
+      "26120002444600": 107,
+      "26120002449529": 32,
+      "26120002449586": 283,
+      "26120002447583": 8,
+      "26120002445631": 12,
+      "26120002444564": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8120,6 +9700,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8129,8 +9713,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "4614008276004",
+    "uikName": "УИК №377",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 229,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 242,
@@ -8146,12 +9734,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 13,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 158,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 13,
+      "26120002449529": 4,
+      "26120002449586": 158,
+      "26120002447583": 3,
+      "26120002445631": 1,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8161,6 +9749,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8170,8 +9762,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "4614008276005",
+    "uikName": "УИК №378",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 97,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 102,
@@ -8187,12 +9783,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 16,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 57,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 16,
+      "26120002449529": 2,
+      "26120002449586": 57,
+      "26120002447583": 2,
+      "26120002445631": 1,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8202,6 +9798,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8211,8 +9811,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "4614008276006",
+    "uikName": "УИК №379",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 66,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 70,
@@ -8228,12 +9832,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 2,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 44,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 2,
+      "26120002449529": 1,
+      "26120002449586": 44,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8243,6 +9847,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8252,8 +9860,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "4614008276007",
+    "uikName": "УИК №380",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1019,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1056,
@@ -8269,12 +9881,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 73,
-      "Гогу Марина Александровна": 19,
-      "Гончаров Николай Александрович": 487,
-      "Климов Андрей Анатольевич": 8,
-      "Цапенко Артур Дмитриевич": 31,
-      "Чеботарев Денис Евгеньевич": 19
+      "26120002444600": 73,
+      "26120002449529": 19,
+      "26120002449586": 487,
+      "26120002447583": 8,
+      "26120002445631": 31,
+      "26120002444564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8284,6 +9896,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8293,8 +9909,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "4614008276008",
+    "uikName": "УИК №381",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 59,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 64,
@@ -8310,12 +9930,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 40,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 4,
+      "26120002449529": 0,
+      "26120002449586": 40,
+      "26120002447583": 1,
+      "26120002445631": 1,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8325,6 +9945,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8334,8 +9958,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "4614008276009",
+    "uikName": "УИК №382",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 379,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 406,
@@ -8351,12 +9979,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 17,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 258,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 17,
+      "26120002449529": 6,
+      "26120002449586": 258,
+      "26120002447583": 2,
+      "26120002445631": 3,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8366,6 +9994,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8375,8 +10007,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "4614008276010",
+    "uikName": "УИК №383",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 127,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 139,
@@ -8392,12 +10028,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 81,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 4,
+      "26120002449529": 3,
+      "26120002449586": 81,
+      "26120002447583": 2,
+      "26120002445631": 2,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8407,6 +10043,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8416,8 +10056,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "4614008276011",
+    "uikName": "УИК №384",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 142,
@@ -8433,12 +10077,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 8,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 96,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 8,
+      "26120002449529": 0,
+      "26120002449586": 96,
+      "26120002447583": 0,
+      "26120002445631": 8,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8448,6 +10092,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8457,8 +10105,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "4614008276012",
+    "uikName": "УИК №385",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 108,
@@ -8474,12 +10126,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 75,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 7,
+      "26120002449529": 1,
+      "26120002449586": 75,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8489,6 +10141,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8498,8 +10154,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "4614008276013",
+    "uikName": "УИК №386",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 751,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 827,
@@ -8515,12 +10175,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 62,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 479,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 62,
+      "26120002449529": 8,
+      "26120002449586": 479,
+      "26120002447583": 3,
+      "26120002445631": 3,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8530,6 +10190,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8539,8 +10203,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "4614008276014",
+    "uikName": "УИК №387",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 143,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 148,
@@ -8556,12 +10224,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 6,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 99,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 6,
+      "26120002449529": 1,
+      "26120002449586": 99,
+      "26120002447583": 0,
+      "26120002445631": 4,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8571,6 +10239,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8580,8 +10252,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "4614008276015",
+    "uikName": "УИК №388",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 142,
@@ -8597,12 +10273,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 6,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 91,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 3
+      "26120002444600": 6,
+      "26120002449529": 2,
+      "26120002449586": 91,
+      "26120002447583": 0,
+      "26120002445631": 4,
+      "26120002444564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8612,6 +10288,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8621,8 +10301,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "4614008276016",
+    "uikName": "УИК №389",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1117,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1206,
@@ -8638,12 +10322,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 95,
-      "Гогу Марина Александровна": 10,
-      "Гончаров Николай Александрович": 386,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 17,
-      "Чеботарев Денис Евгеньевич": 20
+      "26120002444600": 95,
+      "26120002449529": 10,
+      "26120002449586": 386,
+      "26120002447583": 7,
+      "26120002445631": 17,
+      "26120002444564": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8653,6 +10337,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8662,8 +10350,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "4614008276017",
+    "uikName": "УИК №390",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 312,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -8679,12 +10371,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 15,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 227,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 3
+      "26120002444600": 15,
+      "26120002449529": 0,
+      "26120002449586": 227,
+      "26120002447583": 0,
+      "26120002445631": 0,
+      "26120002444564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8694,6 +10386,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8703,8 +10399,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "4614008276018",
+    "uikName": "УИК №391",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 67,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 74,
@@ -8720,12 +10420,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 3,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 46,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 1,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 3,
+      "26120002449529": 1,
+      "26120002449586": 46,
+      "26120002447583": 0,
+      "26120002445631": 1,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8735,6 +10435,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8744,8 +10448,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "4614008276019",
+    "uikName": "УИК №392",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 164,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 186,
@@ -8761,12 +10469,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 5,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 102,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 5,
+      "26120002449529": 4,
+      "26120002449586": 102,
+      "26120002447583": 0,
+      "26120002445631": 4,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8776,6 +10484,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8785,8 +10497,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "4614008276020",
+    "uikName": "УИК №393",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 397,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 445,
@@ -8802,12 +10518,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 18,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 222,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 6,
-      "Чеботарев Денис Евгеньевич": 16
+      "26120002444600": 18,
+      "26120002449529": 9,
+      "26120002449586": 222,
+      "26120002447583": 7,
+      "26120002445631": 6,
+      "26120002444564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8817,6 +10533,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8826,8 +10546,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "4614008276021",
+    "uikName": "УИК №394",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 81,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 87,
@@ -8843,12 +10567,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 5,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 53,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 5,
+      "26120002449529": 0,
+      "26120002449586": 53,
+      "26120002447583": 2,
+      "26120002445631": 3,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8858,6 +10582,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8867,8 +10595,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "4614008276022",
+    "uikName": "УИК №395",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 157,
@@ -8884,12 +10616,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 100,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 6,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 12,
+      "26120002449529": 0,
+      "26120002449586": 100,
+      "26120002447583": 0,
+      "26120002445631": 6,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8899,6 +10631,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8908,8 +10644,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "4614008276023",
+    "uikName": "УИК №396",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 367,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 396,
@@ -8925,12 +10665,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 30,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 244,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 30,
+      "26120002449529": 2,
+      "26120002449586": 244,
+      "26120002447583": 0,
+      "26120002445631": 2,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8940,6 +10680,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8949,8 +10693,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "4614008276024",
+    "uikName": "УИК №397",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 181,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 193,
@@ -8966,12 +10714,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 14,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 117,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 2
+      "26120002444600": 14,
+      "26120002449529": 3,
+      "26120002449586": 117,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -8981,6 +10729,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -8990,8 +10742,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "4614008276025",
+    "uikName": "УИК №398",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 64,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 62,
@@ -9007,12 +10763,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 3,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 45,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 3,
+      "26120002449529": 1,
+      "26120002449586": 45,
+      "26120002447583": 1,
+      "26120002445631": 3,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9022,6 +10778,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9031,8 +10791,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "4614008276026",
+    "uikName": "УИК №399",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 122,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 127,
@@ -9048,12 +10812,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 2,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 98,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 2,
+      "26120002449529": 0,
+      "26120002449586": 98,
+      "26120002447583": 3,
+      "26120002445631": 0,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9063,6 +10827,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9072,8 +10840,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "4614008276027",
+    "uikName": "УИК №400",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 537,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 569,
@@ -9089,12 +10861,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 49,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 227,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 3
+      "26120002444600": 49,
+      "26120002449529": 0,
+      "26120002449586": 227,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9104,6 +10876,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9113,8 +10889,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "4614008276028",
+    "uikName": "УИК №401",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -9130,12 +10910,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 77,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 7,
+      "26120002449529": 1,
+      "26120002449586": 77,
+      "26120002447583": 0,
+      "26120002445631": 2,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9145,6 +10925,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9154,8 +10938,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "4614008276029",
+    "uikName": "УИК №402",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 622,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 665,
@@ -9171,12 +10959,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 51,
-      "Гогу Марина Александровна": 16,
-      "Гончаров Николай Александрович": 373,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 7,
-      "Чеботарев Денис Евгеньевич": 14
+      "26120002444600": 51,
+      "26120002449529": 16,
+      "26120002449586": 373,
+      "26120002447583": 6,
+      "26120002445631": 7,
+      "26120002444564": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9186,6 +10974,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9195,8 +10987,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "4614008276030",
+    "uikName": "УИК №403",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 137,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 147,
@@ -9212,12 +11008,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 98,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 12,
+      "26120002449529": 1,
+      "26120002449586": 98,
+      "26120002447583": 0,
+      "26120002445631": 2,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9227,6 +11023,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9236,8 +11036,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "4614008276031",
+    "uikName": "УИК №404",
     "tikTvd": "26120002435613",
     "tikName": "Верхнедонская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 315,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 337,
@@ -9253,12 +11057,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 27,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 207,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 12
+      "26120002444600": 27,
+      "26120002449529": 2,
+      "26120002449586": 207,
+      "26120002447583": 3,
+      "26120002445631": 5,
+      "26120002444564": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
@@ -9268,6 +11072,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.200699+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435613&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435613&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9277,8 +11085,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "4614007396403",
+    "uikName": "УИК №341",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1980,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1895,
@@ -9294,12 +11106,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 143,
-      "Гогу Марина Александровна": 30,
-      "Гончаров Николай Александрович": 867,
-      "Климов Андрей Анатольевич": 33,
-      "Цапенко Артур Дмитриевич": 37,
-      "Чеботарев Денис Евгеньевич": 62
+      "26120002444600": 143,
+      "26120002449529": 30,
+      "26120002449586": 867,
+      "26120002447583": 33,
+      "26120002445631": 37,
+      "26120002444564": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9309,6 +11121,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9318,8 +11134,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "4614007396405",
+    "uikName": "УИК №342",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1817,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1740,
@@ -9335,12 +11155,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 180,
-      "Гогу Марина Александровна": 52,
-      "Гончаров Николай Александрович": 763,
-      "Климов Андрей Анатольевич": 49,
-      "Цапенко Артур Дмитриевич": 51,
-      "Чеботарев Денис Евгеньевич": 54
+      "26120002444600": 180,
+      "26120002449529": 52,
+      "26120002449586": 763,
+      "26120002447583": 49,
+      "26120002445631": 51,
+      "26120002444564": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9350,6 +11170,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9359,8 +11183,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "4614007396406",
+    "uikName": "УИК №343",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 295,
@@ -9376,12 +11204,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 17,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 157,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 17,
+      "26120002449529": 3,
+      "26120002449586": 157,
+      "26120002447583": 2,
+      "26120002445631": 2,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9391,6 +11219,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9400,8 +11232,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "4614007396407",
+    "uikName": "УИК №344",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 145,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 135,
@@ -9417,12 +11253,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 19,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 67,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 19,
+      "26120002449529": 5,
+      "26120002449586": 67,
+      "26120002447583": 5,
+      "26120002445631": 5,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9432,6 +11268,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9441,8 +11281,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "4614007396408",
+    "uikName": "УИК №345",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 421,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 395,
@@ -9458,12 +11302,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 35,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 209,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 6,
-      "Чеботарев Денис Евгеньевич": 16
+      "26120002444600": 35,
+      "26120002449529": 3,
+      "26120002449586": 209,
+      "26120002447583": 4,
+      "26120002445631": 6,
+      "26120002444564": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9473,6 +11317,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9482,8 +11330,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "4614007396409",
+    "uikName": "УИК №346",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 229,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 220,
@@ -9499,12 +11351,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 25,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 98,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 25,
+      "26120002449529": 8,
+      "26120002449586": 98,
+      "26120002447583": 0,
+      "26120002445631": 4,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9514,6 +11366,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9523,8 +11379,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "4614007396410",
+    "uikName": "УИК №347",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 290,
@@ -9540,12 +11400,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 18,
-      "Гогу Марина Александровна": 5,
-      "Гончаров Николай Александрович": 176,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 18,
+      "26120002449529": 5,
+      "26120002449586": 176,
+      "26120002447583": 4,
+      "26120002445631": 4,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9555,6 +11415,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9564,8 +11428,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "4614007396412",
+    "uikName": "УИК №348",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 422,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 390,
@@ -9581,12 +11449,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 48,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 235,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 9,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 48,
+      "26120002449529": 3,
+      "26120002449586": 235,
+      "26120002447583": 7,
+      "26120002445631": 9,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9596,6 +11464,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9605,8 +11477,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "4614007396413",
+    "uikName": "УИК №349",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 661,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 635,
@@ -9622,12 +11498,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 54,
-      "Гогу Марина Александровна": 11,
-      "Гончаров Николай Александрович": 391,
-      "Климов Андрей Анатольевич": 5,
-      "Цапенко Артур Дмитриевич": 14,
-      "Чеботарев Денис Евгеньевич": 7
+      "26120002444600": 54,
+      "26120002449529": 11,
+      "26120002449586": 391,
+      "26120002447583": 5,
+      "26120002445631": 14,
+      "26120002444564": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9637,6 +11513,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9646,8 +11526,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "4614007396414",
+    "uikName": "УИК №350",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 161,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -9663,12 +11547,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 102,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 7,
+      "26120002449529": 2,
+      "26120002449586": 102,
+      "26120002447583": 2,
+      "26120002445631": 0,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9678,6 +11562,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9687,8 +11575,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "4614007396415",
+    "uikName": "УИК №351",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 476,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 450,
@@ -9704,12 +11596,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 51,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 202,
-      "Климов Андрей Анатольевич": 17,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 51,
+      "26120002449529": 4,
+      "26120002449586": 202,
+      "26120002447583": 17,
+      "26120002445631": 8,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9719,6 +11611,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9728,8 +11624,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "4614007396416",
+    "uikName": "УИК №352",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 107,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 100,
@@ -9745,12 +11645,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 13,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 63,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 3,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 13,
+      "26120002449529": 2,
+      "26120002449586": 63,
+      "26120002447583": 0,
+      "26120002445631": 3,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9760,6 +11660,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9769,8 +11673,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "4614007396417",
+    "uikName": "УИК №353",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 130,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 125,
@@ -9786,12 +11694,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 7,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 73,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 7,
+      "26120002449529": 2,
+      "26120002449586": 73,
+      "26120002447583": 1,
+      "26120002445631": 2,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9801,6 +11709,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9810,8 +11722,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "4614007396419",
+    "uikName": "УИК №354",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 210,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -9827,12 +11743,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 4,
-      "Гогу Марина Александровна": 4,
-      "Гончаров Николай Александрович": 103,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 4,
+      "26120002449529": 4,
+      "26120002449586": 103,
+      "26120002447583": 4,
+      "26120002445631": 4,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9842,6 +11758,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9851,8 +11771,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "4614007396420",
+    "uikName": "УИК №355",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 632,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 620,
@@ -9868,12 +11792,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 55,
-      "Гогу Марина Александровна": 9,
-      "Гончаров Николай Александрович": 375,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 7,
-      "Чеботарев Денис Евгеньевич": 3
+      "26120002444600": 55,
+      "26120002449529": 9,
+      "26120002449586": 375,
+      "26120002447583": 7,
+      "26120002445631": 7,
+      "26120002444564": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9883,6 +11807,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9892,8 +11820,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "4614007396421",
+    "uikName": "УИК №356",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 423,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 420,
@@ -9909,12 +11841,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 43,
-      "Гогу Марина Александровна": 3,
-      "Гончаров Николай Александрович": 231,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 10
+      "26120002444600": 43,
+      "26120002449529": 3,
+      "26120002449586": 231,
+      "26120002447583": 3,
+      "26120002445631": 5,
+      "26120002444564": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9924,6 +11856,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9933,8 +11869,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "4614007396422",
+    "uikName": "УИК №357",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 78,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 75,
@@ -9950,12 +11890,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 8,
-      "Гогу Марина Александровна": 0,
-      "Гончаров Николай Александрович": 41,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 2,
-      "Чеботарев Денис Евгеньевич": 0
+      "26120002444600": 8,
+      "26120002449529": 0,
+      "26120002449586": 41,
+      "26120002447583": 1,
+      "26120002445631": 2,
+      "26120002444564": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -9965,6 +11905,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -9974,8 +11918,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "4614007396423",
+    "uikName": "УИК №358",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 168,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 155,
@@ -9991,12 +11939,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 20,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 92,
-      "Климов Андрей Анатольевич": 3,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 4
+      "26120002444600": 20,
+      "26120002449529": 1,
+      "26120002449586": 92,
+      "26120002447583": 3,
+      "26120002445631": 4,
+      "26120002444564": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10006,6 +11954,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -10015,8 +11967,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "4614007396424",
+    "uikName": "УИК №359",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 150,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 145,
@@ -10032,12 +11988,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 2,
-      "Гончаров Николай Александрович": 94,
-      "Климов Андрей Анатольевич": 1,
-      "Цапенко Артур Дмитриевич": 0,
-      "Чеботарев Денис Евгеньевич": 1
+      "26120002444600": 12,
+      "26120002449529": 2,
+      "26120002449586": 94,
+      "26120002447583": 1,
+      "26120002445631": 0,
+      "26120002444564": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10047,6 +12003,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -10056,8 +12016,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "4614007396425",
+    "uikName": "УИК №360",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 317,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 300,
@@ -10073,12 +12037,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 43,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 135,
-      "Климов Андрей Анатольевич": 7,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 19
+      "26120002444600": 43,
+      "26120002449529": 8,
+      "26120002449586": 135,
+      "26120002447583": 7,
+      "26120002445631": 8,
+      "26120002444564": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10088,6 +12052,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -10097,8 +12065,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "4614007396426",
+    "uikName": "УИК №361",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 263,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 265,
@@ -10114,12 +12086,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 17,
-      "Гогу Марина Александровна": 8,
-      "Гончаров Николай Александрович": 122,
-      "Климов Андрей Анатольевич": 6,
-      "Цапенко Артур Дмитриевич": 4,
-      "Чеботарев Денис Евгеньевич": 6
+      "26120002444600": 17,
+      "26120002449529": 8,
+      "26120002449586": 122,
+      "26120002447583": 6,
+      "26120002445631": 4,
+      "26120002444564": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10129,6 +12101,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -10138,8 +12114,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "4614007396427",
+    "uikName": "УИК №362",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 195,
@@ -10155,12 +12135,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 12,
-      "Гогу Марина Александровна": 1,
-      "Гончаров Николай Александрович": 96,
-      "Климов Андрей Анатольевич": 2,
-      "Цапенко Артур Дмитриевич": 5,
-      "Чеботарев Денис Евгеньевич": 8
+      "26120002444600": 12,
+      "26120002449529": 1,
+      "26120002449586": 96,
+      "26120002447583": 2,
+      "26120002445631": 5,
+      "26120002444564": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10170,6 +12150,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -10179,8 +12163,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "4614007396428",
+    "uikName": "УИК №363",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 382,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 365,
@@ -10196,12 +12184,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 39,
-      "Гогу Марина Александровна": 16,
-      "Гончаров Николай Александрович": 157,
-      "Климов Андрей Анатольевич": 4,
-      "Цапенко Артур Дмитриевич": 13,
-      "Чеботарев Денис Евгеньевич": 9
+      "26120002444600": 39,
+      "26120002449529": 16,
+      "26120002449586": 157,
+      "26120002447583": 4,
+      "26120002445631": 13,
+      "26120002444564": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10211,6 +12199,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   },
   {
@@ -10220,8 +12212,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "4614007396429",
+    "uikName": "УИК №364",
     "tikTvd": "26120002435614",
     "tikName": "Боковская",
+    "regionCode": "61",
+    "regionTvd": "100100225883634",
+    "regionName": "Ростовская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 202,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 190,
@@ -10237,12 +12233,12 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абакумов Виталий Анатольевич": 26,
-      "Гогу Марина Александровна": 6,
-      "Гончаров Николай Александрович": 79,
-      "Климов Андрей Анатольевич": 0,
-      "Цапенко Артур Дмитриевич": 8,
-      "Чеботарев Денис Евгеньевич": 5
+      "26120002444600": 26,
+      "26120002449529": 6,
+      "26120002449586": 79,
+      "26120002447583": 0,
+      "26120002445631": 8,
+      "26120002444564": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
@@ -10252,6 +12248,10 @@ export const duma_2021_uik_463_region_61_part_007 = [
       "retrievedAt": "2026-08-26T08:04:05.370544+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/rostov?action=show&root=1000202&tvd=26120002435614&vrn=100100225883172&region=61&global=&sub_region=61&prver=0&pronetvd=null&vibid=26120002435614&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100225883639"
     }
   }
 ] satisfies readonly UikProtocol[];

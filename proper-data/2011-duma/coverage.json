@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "election": "2011-duma",
   "regions": [
     {
@@ -1047,6 +1047,25 @@
       "reconciliation_status": "passed"
     }
   ],
+  "registry_gates": {
+    "sources_complete": true,
+    "registry_counts_complete": true,
+    "every_result_choice_matched_to_official_identity": true,
+    "identity_key_formulas_valid": true,
+    "uik_and_tik_vote_key_sets_valid": true,
+    "regular_and_special_winner_keys_exclusive": true,
+    "allowed_source_anomalies_exact": true,
+    "literal_elected_and_unique_highest_winner_agree": true,
+    "allowed_anomalies": [],
+    "errors": {
+      "sources": [],
+      "registry": [],
+      "identity": [],
+      "winner": []
+    },
+    "passed": true,
+    "publishable": true
+  },
   "summary": {
     "regions": 84,
     "districts": 0,
@@ -1059,7 +1078,9 @@
     "build_errors": 0,
     "duplicate_conflicts": 0,
     "direct_recovery_requests": 175,
-    "direct_recovery_valid": 0
+    "direct_recovery_valid": 0,
+    "registry_sources_complete": true,
+    "registry_gates_passed": true
   },
   "failed_direct_recovery": [
     {
@@ -1102,9 +1123,9 @@
       "contest": "party",
       "report_type": 242,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=102000020&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4104011155022&region=10&sub_region=10&vibid=4104011155022&type=242",
-      "status": 403,
-      "sha256": "23a550f2e10c7ecb4238c37c869b4c1b027961d3ddf3213b576c1656de0a4b78",
-      "validation_error": null
+      "status": 200,
+      "sha256": "80b7688bdc7526ffb3fa759974746b5b566d863bd519efa565893f4260a0b194",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "4104011155029",
@@ -2202,9 +2223,9 @@
       "contest": "party",
       "report_type": 242,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000002&vrn=100100028713299&global=true&prver=0&pronetvd=null&tvd=4504016102261&region=50&sub_region=50&vibid=4504016102261&type=242",
-      "status": 403,
-      "sha256": "a763366dbcba5e3947501c4d78ecc2b5e658166ac0460ae9e5c6b3bb5ff7b642",
-      "validation_error": null
+      "status": 200,
+      "sha256": "45e1419671a1cfc591301fd724fe1ca003ca0ccba87303c8efe4a2577ce69593",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "4504016102262",

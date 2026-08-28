@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 4,
-      "Вычужанин Петр Владимирович": 4,
-      "Глисков Александр Александрович": 3,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 14,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 7,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 4,
+      "gas:candidate-vibid:22420001395285": 4,
+      "gas:candidate-vibid:22420001258122": 3,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 14,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 7,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 18,
-      "Глисков Александр Александрович": 12,
-      "Гуров Антон Владимирович": 4,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 18,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 14,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 18,
+      "gas:candidate-vibid:22420001258122": 12,
+      "gas:candidate-vibid:22420001389155": 4,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 18,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 14,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 15,
-      "Глисков Александр Александрович": 8,
-      "Гуров Антон Владимирович": 3,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 32,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 3,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 15,
+      "gas:candidate-vibid:22420001258122": 8,
+      "gas:candidate-vibid:22420001389155": 3,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 32,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 3,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 4,
-      "Глисков Александр Александрович": 4,
-      "Гуров Антон Владимирович": 3,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 29,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 3,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 4,
+      "gas:candidate-vibid:22420001258122": 4,
+      "gas:candidate-vibid:22420001389155": 3,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 29,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 3,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 7,
-      "Вычужанин Петр Владимирович": 36,
-      "Глисков Александр Александрович": 32,
-      "Гуров Антон Владимирович": 23,
-      "Маркерт Максим Андреевич": 3,
-      "Пимашков Петр Иванович": 105,
-      "Подоляк Наталия Михайловна": 5,
-      "Серебряков Иван Александрович": 22,
-      "Урдаев Анатолий Юрьевич": 4
+      "gas:candidate-vibid:22420001396268": 7,
+      "gas:candidate-vibid:22420001395285": 36,
+      "gas:candidate-vibid:22420001258122": 32,
+      "gas:candidate-vibid:22420001389155": 23,
+      "gas:candidate-vibid:22420001395014": 3,
+      "gas:candidate-vibid:22420001399915": 105,
+      "gas:candidate-vibid:22420001400099": 5,
+      "gas:candidate-vibid:22420001387092": 22,
+      "gas:candidate-vibid:22420001397298": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 3,
-      "Вычужанин Петр Владимирович": 8,
-      "Глисков Александр Александрович": 8,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 2,
-      "Пимашков Петр Иванович": 44,
-      "Подоляк Наталия Михайловна": 2,
-      "Серебряков Иван Александрович": 4,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 3,
+      "gas:candidate-vibid:22420001395285": 8,
+      "gas:candidate-vibid:22420001258122": 8,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 2,
+      "gas:candidate-vibid:22420001399915": 44,
+      "gas:candidate-vibid:22420001400099": 2,
+      "gas:candidate-vibid:22420001387092": 4,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 3,
-      "Вычужанин Петр Владимирович": 6,
-      "Глисков Александр Александрович": 12,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 2,
-      "Пимашков Петр Иванович": 54,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 6,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 3,
+      "gas:candidate-vibid:22420001395285": 6,
+      "gas:candidate-vibid:22420001258122": 12,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 2,
+      "gas:candidate-vibid:22420001399915": 54,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 6,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 5,
-      "Глисков Александр Александрович": 5,
-      "Гуров Антон Владимирович": 7,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 18,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 13,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 5,
+      "gas:candidate-vibid:22420001258122": 5,
+      "gas:candidate-vibid:22420001389155": 7,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 18,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 13,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 5,
-      "Глисков Александр Александрович": 5,
-      "Гуров Антон Владимирович": 6,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 30,
-      "Подоляк Наталия Михайловна": 2,
-      "Серебряков Иван Александрович": 3,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 5,
+      "gas:candidate-vibid:22420001258122": 5,
+      "gas:candidate-vibid:22420001389155": 6,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 30,
+      "gas:candidate-vibid:22420001400099": 2,
+      "gas:candidate-vibid:22420001387092": 3,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 33,
-      "Глисков Александр Александрович": 33,
-      "Гуров Антон Владимирович": 17,
-      "Маркерт Максим Андреевич": 7,
-      "Пимашков Петр Иванович": 179,
-      "Подоляк Наталия Михайловна": 6,
-      "Серебряков Иван Александрович": 25,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 33,
+      "gas:candidate-vibid:22420001258122": 33,
+      "gas:candidate-vibid:22420001389155": 17,
+      "gas:candidate-vibid:22420001395014": 7,
+      "gas:candidate-vibid:22420001399915": 179,
+      "gas:candidate-vibid:22420001400099": 6,
+      "gas:candidate-vibid:22420001387092": 25,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 3,
-      "Вычужанин Петр Владимирович": 14,
-      "Глисков Александр Александрович": 30,
-      "Гуров Антон Владимирович": 10,
-      "Маркерт Максим Андреевич": 4,
-      "Пимашков Петр Иванович": 88,
-      "Подоляк Наталия Михайловна": 2,
-      "Серебряков Иван Александрович": 5,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 3,
+      "gas:candidate-vibid:22420001395285": 14,
+      "gas:candidate-vibid:22420001258122": 30,
+      "gas:candidate-vibid:22420001389155": 10,
+      "gas:candidate-vibid:22420001395014": 4,
+      "gas:candidate-vibid:22420001399915": 88,
+      "gas:candidate-vibid:22420001400099": 2,
+      "gas:candidate-vibid:22420001387092": 5,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 8,
-      "Глисков Александр Александрович": 18,
-      "Гуров Антон Владимирович": 5,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 58,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 5,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 8,
+      "gas:candidate-vibid:22420001258122": 18,
+      "gas:candidate-vibid:22420001389155": 5,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 58,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 5,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 4,
-      "Глисков Александр Александрович": 4,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 4,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 4,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 4,
+      "gas:candidate-vibid:22420001258122": 4,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 4,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 4,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 12,
-      "Глисков Александр Александрович": 6,
-      "Гуров Антон Владимирович": 4,
-      "Маркерт Максим Андреевич": 0,
-      "Пимашков Петр Иванович": 41,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 15,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 12,
+      "gas:candidate-vibid:22420001258122": 6,
+      "gas:candidate-vibid:22420001389155": 4,
+      "gas:candidate-vibid:22420001395014": 0,
+      "gas:candidate-vibid:22420001399915": 41,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 15,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 6,
-      "Вычужанин Петр Владимирович": 45,
-      "Глисков Александр Александрович": 40,
-      "Гуров Антон Владимирович": 15,
-      "Маркерт Максим Андреевич": 7,
-      "Пимашков Петр Иванович": 223,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 40,
-      "Урдаев Анатолий Юрьевич": 3
+      "gas:candidate-vibid:22420001396268": 6,
+      "gas:candidate-vibid:22420001395285": 45,
+      "gas:candidate-vibid:22420001258122": 40,
+      "gas:candidate-vibid:22420001389155": 15,
+      "gas:candidate-vibid:22420001395014": 7,
+      "gas:candidate-vibid:22420001399915": 223,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 40,
+      "gas:candidate-vibid:22420001397298": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180032&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180032&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 11,
-      "Вычужанин Петр Владимирович": 43,
-      "Глисков Александр Александрович": 97,
-      "Гуров Антон Владимирович": 31,
-      "Маркерт Максим Андреевич": 44,
-      "Пимашков Петр Иванович": 221,
-      "Подоляк Наталия Михайловна": 26,
-      "Серебряков Иван Александрович": 31,
-      "Урдаев Анатолий Юрьевич": 10
+      "gas:candidate-vibid:22420001396268": 11,
+      "gas:candidate-vibid:22420001395285": 43,
+      "gas:candidate-vibid:22420001258122": 97,
+      "gas:candidate-vibid:22420001389155": 31,
+      "gas:candidate-vibid:22420001395014": 44,
+      "gas:candidate-vibid:22420001399915": 221,
+      "gas:candidate-vibid:22420001400099": 26,
+      "gas:candidate-vibid:22420001387092": 31,
+      "gas:candidate-vibid:22420001397298": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 21,
-      "Вычужанин Петр Владимирович": 44,
-      "Глисков Александр Александрович": 76,
-      "Гуров Антон Владимирович": 20,
-      "Маркерт Максим Андреевич": 32,
-      "Пимашков Петр Иванович": 221,
-      "Подоляк Наталия Михайловна": 14,
-      "Серебряков Иван Александрович": 37,
-      "Урдаев Анатолий Юрьевич": 7
+      "gas:candidate-vibid:22420001396268": 21,
+      "gas:candidate-vibid:22420001395285": 44,
+      "gas:candidate-vibid:22420001258122": 76,
+      "gas:candidate-vibid:22420001389155": 20,
+      "gas:candidate-vibid:22420001395014": 32,
+      "gas:candidate-vibid:22420001399915": 221,
+      "gas:candidate-vibid:22420001400099": 14,
+      "gas:candidate-vibid:22420001387092": 37,
+      "gas:candidate-vibid:22420001397298": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 16,
-      "Вычужанин Петр Владимирович": 77,
-      "Глисков Александр Александрович": 99,
-      "Гуров Антон Владимирович": 25,
-      "Маркерт Максим Андреевич": 47,
-      "Пимашков Петр Иванович": 246,
-      "Подоляк Наталия Михайловна": 22,
-      "Серебряков Иван Александрович": 42,
-      "Урдаев Анатолий Юрьевич": 13
+      "gas:candidate-vibid:22420001396268": 16,
+      "gas:candidate-vibid:22420001395285": 77,
+      "gas:candidate-vibid:22420001258122": 99,
+      "gas:candidate-vibid:22420001389155": 25,
+      "gas:candidate-vibid:22420001395014": 47,
+      "gas:candidate-vibid:22420001399915": 246,
+      "gas:candidate-vibid:22420001400099": 22,
+      "gas:candidate-vibid:22420001387092": 42,
+      "gas:candidate-vibid:22420001397298": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 29,
-      "Вычужанин Петр Владимирович": 78,
-      "Глисков Александр Александрович": 132,
-      "Гуров Антон Владимирович": 23,
-      "Маркерт Максим Андреевич": 66,
-      "Пимашков Петр Иванович": 303,
-      "Подоляк Наталия Михайловна": 30,
-      "Серебряков Иван Александрович": 70,
-      "Урдаев Анатолий Юрьевич": 7
+      "gas:candidate-vibid:22420001396268": 29,
+      "gas:candidate-vibid:22420001395285": 78,
+      "gas:candidate-vibid:22420001258122": 132,
+      "gas:candidate-vibid:22420001389155": 23,
+      "gas:candidate-vibid:22420001395014": 66,
+      "gas:candidate-vibid:22420001399915": 303,
+      "gas:candidate-vibid:22420001400099": 30,
+      "gas:candidate-vibid:22420001387092": 70,
+      "gas:candidate-vibid:22420001397298": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 14,
-      "Вычужанин Петр Владимирович": 72,
-      "Глисков Александр Александрович": 108,
-      "Гуров Антон Владимирович": 28,
-      "Маркерт Максим Андреевич": 61,
-      "Пимашков Петр Иванович": 304,
-      "Подоляк Наталия Михайловна": 29,
-      "Серебряков Иван Александрович": 43,
-      "Урдаев Анатолий Юрьевич": 5
+      "gas:candidate-vibid:22420001396268": 14,
+      "gas:candidate-vibid:22420001395285": 72,
+      "gas:candidate-vibid:22420001258122": 108,
+      "gas:candidate-vibid:22420001389155": 28,
+      "gas:candidate-vibid:22420001395014": 61,
+      "gas:candidate-vibid:22420001399915": 304,
+      "gas:candidate-vibid:22420001400099": 29,
+      "gas:candidate-vibid:22420001387092": 43,
+      "gas:candidate-vibid:22420001397298": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 4,
-      "Вычужанин Петр Владимирович": 26,
-      "Глисков Александр Александрович": 26,
-      "Гуров Антон Владимирович": 7,
-      "Маркерт Максим Андреевич": 8,
-      "Пимашков Петр Иванович": 65,
-      "Подоляк Наталия Михайловна": 8,
-      "Серебряков Иван Александрович": 13,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 4,
+      "gas:candidate-vibid:22420001395285": 26,
+      "gas:candidate-vibid:22420001258122": 26,
+      "gas:candidate-vibid:22420001389155": 7,
+      "gas:candidate-vibid:22420001395014": 8,
+      "gas:candidate-vibid:22420001399915": 65,
+      "gas:candidate-vibid:22420001400099": 8,
+      "gas:candidate-vibid:22420001387092": 13,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 44,
-      "Вычужанин Петр Владимирович": 20,
-      "Глисков Александр Александрович": 22,
-      "Гуров Антон Владимирович": 52,
-      "Маркерт Максим Андреевич": 83,
-      "Пимашков Петр Иванович": 191,
-      "Подоляк Наталия Михайловна": 30,
-      "Серебряков Иван Александрович": 49,
-      "Урдаев Анатолий Юрьевич": 54
+      "gas:candidate-vibid:22420001396268": 44,
+      "gas:candidate-vibid:22420001395285": 20,
+      "gas:candidate-vibid:22420001258122": 22,
+      "gas:candidate-vibid:22420001389155": 52,
+      "gas:candidate-vibid:22420001395014": 83,
+      "gas:candidate-vibid:22420001399915": 191,
+      "gas:candidate-vibid:22420001400099": 30,
+      "gas:candidate-vibid:22420001387092": 49,
+      "gas:candidate-vibid:22420001397298": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 8,
-      "Вычужанин Петр Владимирович": 37,
-      "Глисков Александр Александрович": 70,
-      "Гуров Антон Владимирович": 23,
-      "Маркерт Максим Андреевич": 23,
-      "Пимашков Петр Иванович": 140,
-      "Подоляк Наталия Михайловна": 8,
-      "Серебряков Иван Александрович": 30,
-      "Урдаев Анатолий Юрьевич": 9
+      "gas:candidate-vibid:22420001396268": 8,
+      "gas:candidate-vibid:22420001395285": 37,
+      "gas:candidate-vibid:22420001258122": 70,
+      "gas:candidate-vibid:22420001389155": 23,
+      "gas:candidate-vibid:22420001395014": 23,
+      "gas:candidate-vibid:22420001399915": 140,
+      "gas:candidate-vibid:22420001400099": 8,
+      "gas:candidate-vibid:22420001387092": 30,
+      "gas:candidate-vibid:22420001397298": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 18,
-      "Вычужанин Петр Владимирович": 27,
-      "Глисков Александр Александрович": 84,
-      "Гуров Антон Владимирович": 22,
-      "Маркерт Максим Андреевич": 27,
-      "Пимашков Петр Иванович": 129,
-      "Подоляк Наталия Михайловна": 13,
-      "Серебряков Иван Александрович": 33,
-      "Урдаев Анатолий Юрьевич": 7
+      "gas:candidate-vibid:22420001396268": 18,
+      "gas:candidate-vibid:22420001395285": 27,
+      "gas:candidate-vibid:22420001258122": 84,
+      "gas:candidate-vibid:22420001389155": 22,
+      "gas:candidate-vibid:22420001395014": 27,
+      "gas:candidate-vibid:22420001399915": 129,
+      "gas:candidate-vibid:22420001400099": 13,
+      "gas:candidate-vibid:22420001387092": 33,
+      "gas:candidate-vibid:22420001397298": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 3,
-      "Вычужанин Петр Владимирович": 19,
-      "Глисков Александр Александрович": 47,
-      "Гуров Антон Владимирович": 4,
-      "Маркерт Максим Андреевич": 13,
-      "Пимашков Петр Иванович": 78,
-      "Подоляк Наталия Михайловна": 12,
-      "Серебряков Иван Александрович": 18,
-      "Урдаев Анатолий Юрьевич": 5
+      "gas:candidate-vibid:22420001396268": 3,
+      "gas:candidate-vibid:22420001395285": 19,
+      "gas:candidate-vibid:22420001258122": 47,
+      "gas:candidate-vibid:22420001389155": 4,
+      "gas:candidate-vibid:22420001395014": 13,
+      "gas:candidate-vibid:22420001399915": 78,
+      "gas:candidate-vibid:22420001400099": 12,
+      "gas:candidate-vibid:22420001387092": 18,
+      "gas:candidate-vibid:22420001397298": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 15,
-      "Вычужанин Петр Владимирович": 43,
-      "Глисков Александр Александрович": 83,
-      "Гуров Антон Владимирович": 17,
-      "Маркерт Максим Андреевич": 29,
-      "Пимашков Петр Иванович": 176,
-      "Подоляк Наталия Михайловна": 17,
-      "Серебряков Иван Александрович": 43,
-      "Урдаев Анатолий Юрьевич": 7
+      "gas:candidate-vibid:22420001396268": 15,
+      "gas:candidate-vibid:22420001395285": 43,
+      "gas:candidate-vibid:22420001258122": 83,
+      "gas:candidate-vibid:22420001389155": 17,
+      "gas:candidate-vibid:22420001395014": 29,
+      "gas:candidate-vibid:22420001399915": 176,
+      "gas:candidate-vibid:22420001400099": 17,
+      "gas:candidate-vibid:22420001387092": 43,
+      "gas:candidate-vibid:22420001397298": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 20,
-      "Вычужанин Петр Владимирович": 75,
-      "Глисков Александр Александрович": 103,
-      "Гуров Антон Владимирович": 25,
-      "Маркерт Максим Андреевич": 52,
-      "Пимашков Петр Иванович": 234,
-      "Подоляк Наталия Михайловна": 14,
-      "Серебряков Иван Александрович": 52,
-      "Урдаев Анатолий Юрьевич": 14
+      "gas:candidate-vibid:22420001396268": 20,
+      "gas:candidate-vibid:22420001395285": 75,
+      "gas:candidate-vibid:22420001258122": 103,
+      "gas:candidate-vibid:22420001389155": 25,
+      "gas:candidate-vibid:22420001395014": 52,
+      "gas:candidate-vibid:22420001399915": 234,
+      "gas:candidate-vibid:22420001400099": 14,
+      "gas:candidate-vibid:22420001387092": 52,
+      "gas:candidate-vibid:22420001397298": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 21,
-      "Вычужанин Петр Владимирович": 76,
-      "Глисков Александр Александрович": 127,
-      "Гуров Антон Владимирович": 32,
-      "Маркерт Максим Андреевич": 66,
-      "Пимашков Петр Иванович": 347,
-      "Подоляк Наталия Михайловна": 27,
-      "Серебряков Иван Александрович": 56,
-      "Урдаев Анатолий Юрьевич": 7
+      "gas:candidate-vibid:22420001396268": 21,
+      "gas:candidate-vibid:22420001395285": 76,
+      "gas:candidate-vibid:22420001258122": 127,
+      "gas:candidate-vibid:22420001389155": 32,
+      "gas:candidate-vibid:22420001395014": 66,
+      "gas:candidate-vibid:22420001399915": 347,
+      "gas:candidate-vibid:22420001400099": 27,
+      "gas:candidate-vibid:22420001387092": 56,
+      "gas:candidate-vibid:22420001397298": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 19,
-      "Вычужанин Петр Владимирович": 120,
-      "Глисков Александр Александрович": 174,
-      "Гуров Антон Владимирович": 38,
-      "Маркерт Максим Андреевич": 100,
-      "Пимашков Петр Иванович": 459,
-      "Подоляк Наталия Михайловна": 32,
-      "Серебряков Иван Александрович": 69,
-      "Урдаев Анатолий Юрьевич": 12
+      "gas:candidate-vibid:22420001396268": 19,
+      "gas:candidate-vibid:22420001395285": 120,
+      "gas:candidate-vibid:22420001258122": 174,
+      "gas:candidate-vibid:22420001389155": 38,
+      "gas:candidate-vibid:22420001395014": 100,
+      "gas:candidate-vibid:22420001399915": 459,
+      "gas:candidate-vibid:22420001400099": 32,
+      "gas:candidate-vibid:22420001387092": 69,
+      "gas:candidate-vibid:22420001397298": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 19,
-      "Вычужанин Петр Владимирович": 103,
-      "Глисков Александр Александрович": 148,
-      "Гуров Антон Владимирович": 42,
-      "Маркерт Максим Андреевич": 77,
-      "Пимашков Петр Иванович": 399,
-      "Подоляк Наталия Михайловна": 38,
-      "Серебряков Иван Александрович": 60,
-      "Урдаев Анатолий Юрьевич": 16
+      "gas:candidate-vibid:22420001396268": 19,
+      "gas:candidate-vibid:22420001395285": 103,
+      "gas:candidate-vibid:22420001258122": 148,
+      "gas:candidate-vibid:22420001389155": 42,
+      "gas:candidate-vibid:22420001395014": 77,
+      "gas:candidate-vibid:22420001399915": 399,
+      "gas:candidate-vibid:22420001400099": 38,
+      "gas:candidate-vibid:22420001387092": 60,
+      "gas:candidate-vibid:22420001397298": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 11,
-      "Вычужанин Петр Владимирович": 111,
-      "Глисков Александр Александрович": 160,
-      "Гуров Антон Владимирович": 28,
-      "Маркерт Максим Андреевич": 68,
-      "Пимашков Петр Иванович": 315,
-      "Подоляк Наталия Михайловна": 34,
-      "Серебряков Иван Александрович": 70,
-      "Урдаев Анатолий Юрьевич": 14
+      "gas:candidate-vibid:22420001396268": 11,
+      "gas:candidate-vibid:22420001395285": 111,
+      "gas:candidate-vibid:22420001258122": 160,
+      "gas:candidate-vibid:22420001389155": 28,
+      "gas:candidate-vibid:22420001395014": 68,
+      "gas:candidate-vibid:22420001399915": 315,
+      "gas:candidate-vibid:22420001400099": 34,
+      "gas:candidate-vibid:22420001387092": 70,
+      "gas:candidate-vibid:22420001397298": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 13,
-      "Вычужанин Петр Владимирович": 90,
-      "Глисков Александр Александрович": 137,
-      "Гуров Антон Владимирович": 37,
-      "Маркерт Максим Андреевич": 86,
-      "Пимашков Петр Иванович": 322,
-      "Подоляк Наталия Михайловна": 23,
-      "Серебряков Иван Александрович": 60,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 13,
+      "gas:candidate-vibid:22420001395285": 90,
+      "gas:candidate-vibid:22420001258122": 137,
+      "gas:candidate-vibid:22420001389155": 37,
+      "gas:candidate-vibid:22420001395014": 86,
+      "gas:candidate-vibid:22420001399915": 322,
+      "gas:candidate-vibid:22420001400099": 23,
+      "gas:candidate-vibid:22420001387092": 60,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 21,
-      "Вычужанин Петр Владимирович": 88,
-      "Глисков Александр Александрович": 121,
-      "Гуров Антон Владимирович": 32,
-      "Маркерт Максим Андреевич": 56,
-      "Пимашков Петр Иванович": 298,
-      "Подоляк Наталия Михайловна": 17,
-      "Серебряков Иван Александрович": 50,
-      "Урдаев Анатолий Юрьевич": 10
+      "gas:candidate-vibid:22420001396268": 21,
+      "gas:candidate-vibid:22420001395285": 88,
+      "gas:candidate-vibid:22420001258122": 121,
+      "gas:candidate-vibid:22420001389155": 32,
+      "gas:candidate-vibid:22420001395014": 56,
+      "gas:candidate-vibid:22420001399915": 298,
+      "gas:candidate-vibid:22420001400099": 17,
+      "gas:candidate-vibid:22420001387092": 50,
+      "gas:candidate-vibid:22420001397298": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 6,
-      "Вычужанин Петр Владимирович": 52,
-      "Глисков Александр Александрович": 78,
-      "Гуров Антон Владимирович": 18,
-      "Маркерт Максим Андреевич": 40,
-      "Пимашков Петр Иванович": 193,
-      "Подоляк Наталия Михайловна": 16,
-      "Серебряков Иван Александрович": 44,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 6,
+      "gas:candidate-vibid:22420001395285": 52,
+      "gas:candidate-vibid:22420001258122": 78,
+      "gas:candidate-vibid:22420001389155": 18,
+      "gas:candidate-vibid:22420001395014": 40,
+      "gas:candidate-vibid:22420001399915": 193,
+      "gas:candidate-vibid:22420001400099": 16,
+      "gas:candidate-vibid:22420001387092": 44,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 8,
-      "Вычужанин Петр Владимирович": 59,
-      "Глисков Александр Александрович": 86,
-      "Гуров Антон Владимирович": 17,
-      "Маркерт Максим Андреевич": 34,
-      "Пимашков Петр Иванович": 173,
-      "Подоляк Наталия Михайловна": 10,
-      "Серебряков Иван Александрович": 22,
-      "Урдаев Анатолий Юрьевич": 15
+      "gas:candidate-vibid:22420001396268": 8,
+      "gas:candidate-vibid:22420001395285": 59,
+      "gas:candidate-vibid:22420001258122": 86,
+      "gas:candidate-vibid:22420001389155": 17,
+      "gas:candidate-vibid:22420001395014": 34,
+      "gas:candidate-vibid:22420001399915": 173,
+      "gas:candidate-vibid:22420001400099": 10,
+      "gas:candidate-vibid:22420001387092": 22,
+      "gas:candidate-vibid:22420001397298": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 5,
-      "Вычужанин Петр Владимирович": 36,
-      "Глисков Александр Александрович": 58,
-      "Гуров Антон Владимирович": 11,
-      "Маркерт Максим Андреевич": 35,
-      "Пимашков Петр Иванович": 127,
-      "Подоляк Наталия Михайловна": 8,
-      "Серебряков Иван Александрович": 27,
-      "Урдаев Анатолий Юрьевич": 8
+      "gas:candidate-vibid:22420001396268": 5,
+      "gas:candidate-vibid:22420001395285": 36,
+      "gas:candidate-vibid:22420001258122": 58,
+      "gas:candidate-vibid:22420001389155": 11,
+      "gas:candidate-vibid:22420001395014": 35,
+      "gas:candidate-vibid:22420001399915": 127,
+      "gas:candidate-vibid:22420001400099": 8,
+      "gas:candidate-vibid:22420001387092": 27,
+      "gas:candidate-vibid:22420001397298": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 19,
-      "Вычужанин Петр Владимирович": 80,
-      "Глисков Александр Александрович": 105,
-      "Гуров Антон Владимирович": 33,
-      "Маркерт Максим Андреевич": 61,
-      "Пимашков Петр Иванович": 289,
-      "Подоляк Наталия Михайловна": 22,
-      "Серебряков Иван Александрович": 62,
-      "Урдаев Анатолий Юрьевич": 16
+      "gas:candidate-vibid:22420001396268": 19,
+      "gas:candidate-vibid:22420001395285": 80,
+      "gas:candidate-vibid:22420001258122": 105,
+      "gas:candidate-vibid:22420001389155": 33,
+      "gas:candidate-vibid:22420001395014": 61,
+      "gas:candidate-vibid:22420001399915": 289,
+      "gas:candidate-vibid:22420001400099": 22,
+      "gas:candidate-vibid:22420001387092": 62,
+      "gas:candidate-vibid:22420001397298": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 6,
-      "Вычужанин Петр Владимирович": 76,
-      "Глисков Александр Александрович": 123,
-      "Гуров Антон Владимирович": 28,
-      "Маркерт Максим Андреевич": 75,
-      "Пимашков Петр Иванович": 294,
-      "Подоляк Наталия Михайловна": 23,
-      "Серебряков Иван Александрович": 56,
-      "Урдаев Анатолий Юрьевич": 12
+      "gas:candidate-vibid:22420001396268": 6,
+      "gas:candidate-vibid:22420001395285": 76,
+      "gas:candidate-vibid:22420001258122": 123,
+      "gas:candidate-vibid:22420001389155": 28,
+      "gas:candidate-vibid:22420001395014": 75,
+      "gas:candidate-vibid:22420001399915": 294,
+      "gas:candidate-vibid:22420001400099": 23,
+      "gas:candidate-vibid:22420001387092": 56,
+      "gas:candidate-vibid:22420001397298": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 8,
-      "Вычужанин Петр Владимирович": 31,
-      "Глисков Александр Александрович": 41,
-      "Гуров Антон Владимирович": 10,
-      "Маркерт Максим Андреевич": 37,
-      "Пимашков Петр Иванович": 114,
-      "Подоляк Наталия Михайловна": 13,
-      "Серебряков Иван Александрович": 15,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 8,
+      "gas:candidate-vibid:22420001395285": 31,
+      "gas:candidate-vibid:22420001258122": 41,
+      "gas:candidate-vibid:22420001389155": 10,
+      "gas:candidate-vibid:22420001395014": 37,
+      "gas:candidate-vibid:22420001399915": 114,
+      "gas:candidate-vibid:22420001400099": 13,
+      "gas:candidate-vibid:22420001387092": 15,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 9,
-      "Вычужанин Петр Владимирович": 44,
-      "Глисков Александр Александрович": 53,
-      "Гуров Антон Владимирович": 16,
-      "Маркерт Максим Андреевич": 28,
-      "Пимашков Петр Иванович": 115,
-      "Подоляк Наталия Михайловна": 15,
-      "Серебряков Иван Александрович": 19,
-      "Урдаев Анатолий Юрьевич": 11
+      "gas:candidate-vibid:22420001396268": 9,
+      "gas:candidate-vibid:22420001395285": 44,
+      "gas:candidate-vibid:22420001258122": 53,
+      "gas:candidate-vibid:22420001389155": 16,
+      "gas:candidate-vibid:22420001395014": 28,
+      "gas:candidate-vibid:22420001399915": 115,
+      "gas:candidate-vibid:22420001400099": 15,
+      "gas:candidate-vibid:22420001387092": 19,
+      "gas:candidate-vibid:22420001397298": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 12,
-      "Вычужанин Петр Владимирович": 84,
-      "Глисков Александр Александрович": 135,
-      "Гуров Антон Владимирович": 27,
-      "Маркерт Максим Андреевич": 54,
-      "Пимашков Петр Иванович": 306,
-      "Подоляк Наталия Михайловна": 23,
-      "Серебряков Иван Александрович": 67,
-      "Урдаев Анатолий Юрьевич": 15
+      "gas:candidate-vibid:22420001396268": 12,
+      "gas:candidate-vibid:22420001395285": 84,
+      "gas:candidate-vibid:22420001258122": 135,
+      "gas:candidate-vibid:22420001389155": 27,
+      "gas:candidate-vibid:22420001395014": 54,
+      "gas:candidate-vibid:22420001399915": 306,
+      "gas:candidate-vibid:22420001400099": 23,
+      "gas:candidate-vibid:22420001387092": 67,
+      "gas:candidate-vibid:22420001397298": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 20,
-      "Вычужанин Петр Владимирович": 81,
-      "Глисков Александр Александрович": 169,
-      "Гуров Антон Владимирович": 34,
-      "Маркерт Максим Андреевич": 60,
-      "Пимашков Петр Иванович": 325,
-      "Подоляк Наталия Михайловна": 22,
-      "Серебряков Иван Александрович": 54,
-      "Урдаев Анатолий Юрьевич": 11
+      "gas:candidate-vibid:22420001396268": 20,
+      "gas:candidate-vibid:22420001395285": 81,
+      "gas:candidate-vibid:22420001258122": 169,
+      "gas:candidate-vibid:22420001389155": 34,
+      "gas:candidate-vibid:22420001395014": 60,
+      "gas:candidate-vibid:22420001399915": 325,
+      "gas:candidate-vibid:22420001400099": 22,
+      "gas:candidate-vibid:22420001387092": 54,
+      "gas:candidate-vibid:22420001397298": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 10,
-      "Вычужанин Петр Владимирович": 83,
-      "Глисков Александр Александрович": 114,
-      "Гуров Антон Владимирович": 46,
-      "Маркерт Максим Андреевич": 60,
-      "Пимашков Петр Иванович": 342,
-      "Подоляк Наталия Михайловна": 26,
-      "Серебряков Иван Александрович": 57,
-      "Урдаев Анатолий Юрьевич": 10
+      "gas:candidate-vibid:22420001396268": 10,
+      "gas:candidate-vibid:22420001395285": 83,
+      "gas:candidate-vibid:22420001258122": 114,
+      "gas:candidate-vibid:22420001389155": 46,
+      "gas:candidate-vibid:22420001395014": 60,
+      "gas:candidate-vibid:22420001399915": 342,
+      "gas:candidate-vibid:22420001400099": 26,
+      "gas:candidate-vibid:22420001387092": 57,
+      "gas:candidate-vibid:22420001397298": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 13,
-      "Вычужанин Петр Владимирович": 78,
-      "Глисков Александр Александрович": 141,
-      "Гуров Антон Владимирович": 35,
-      "Маркерт Максим Андреевич": 52,
-      "Пимашков Петр Иванович": 324,
-      "Подоляк Наталия Михайловна": 28,
-      "Серебряков Иван Александрович": 68,
-      "Урдаев Анатолий Юрьевич": 13
+      "gas:candidate-vibid:22420001396268": 13,
+      "gas:candidate-vibid:22420001395285": 78,
+      "gas:candidate-vibid:22420001258122": 141,
+      "gas:candidate-vibid:22420001389155": 35,
+      "gas:candidate-vibid:22420001395014": 52,
+      "gas:candidate-vibid:22420001399915": 324,
+      "gas:candidate-vibid:22420001400099": 28,
+      "gas:candidate-vibid:22420001387092": 68,
+      "gas:candidate-vibid:22420001397298": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 15,
-      "Вычужанин Петр Владимирович": 94,
-      "Глисков Александр Александрович": 153,
-      "Гуров Антон Владимирович": 38,
-      "Маркерт Максим Андреевич": 68,
-      "Пимашков Петр Иванович": 332,
-      "Подоляк Наталия Михайловна": 28,
-      "Серебряков Иван Александрович": 58,
-      "Урдаев Анатолий Юрьевич": 14
+      "gas:candidate-vibid:22420001396268": 15,
+      "gas:candidate-vibid:22420001395285": 94,
+      "gas:candidate-vibid:22420001258122": 153,
+      "gas:candidate-vibid:22420001389155": 38,
+      "gas:candidate-vibid:22420001395014": 68,
+      "gas:candidate-vibid:22420001399915": 332,
+      "gas:candidate-vibid:22420001400099": 28,
+      "gas:candidate-vibid:22420001387092": 58,
+      "gas:candidate-vibid:22420001397298": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 10,
-      "Вычужанин Петр Владимирович": 50,
-      "Глисков Александр Александрович": 98,
-      "Гуров Антон Владимирович": 22,
-      "Маркерт Максим Андреевич": 28,
-      "Пимашков Петр Иванович": 162,
-      "Подоляк Наталия Михайловна": 8,
-      "Серебряков Иван Александрович": 26,
-      "Урдаев Анатолий Юрьевич": 8
+      "gas:candidate-vibid:22420001396268": 10,
+      "gas:candidate-vibid:22420001395285": 50,
+      "gas:candidate-vibid:22420001258122": 98,
+      "gas:candidate-vibid:22420001389155": 22,
+      "gas:candidate-vibid:22420001395014": 28,
+      "gas:candidate-vibid:22420001399915": 162,
+      "gas:candidate-vibid:22420001400099": 8,
+      "gas:candidate-vibid:22420001387092": 26,
+      "gas:candidate-vibid:22420001397298": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 13,
-      "Вычужанин Петр Владимирович": 56,
-      "Глисков Александр Александрович": 92,
-      "Гуров Антон Владимирович": 26,
-      "Маркерт Максим Андреевич": 31,
-      "Пимашков Петр Иванович": 214,
-      "Подоляк Наталия Михайловна": 16,
-      "Серебряков Иван Александрович": 50,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 13,
+      "gas:candidate-vibid:22420001395285": 56,
+      "gas:candidate-vibid:22420001258122": 92,
+      "gas:candidate-vibid:22420001389155": 26,
+      "gas:candidate-vibid:22420001395014": 31,
+      "gas:candidate-vibid:22420001399915": 214,
+      "gas:candidate-vibid:22420001400099": 16,
+      "gas:candidate-vibid:22420001387092": 50,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 8,
-      "Вычужанин Петр Владимирович": 71,
-      "Глисков Александр Александрович": 112,
-      "Гуров Антон Владимирович": 27,
-      "Маркерт Максим Андреевич": 50,
-      "Пимашков Петр Иванович": 264,
-      "Подоляк Наталия Михайловна": 24,
-      "Серебряков Иван Александрович": 57,
-      "Урдаев Анатолий Юрьевич": 18
+      "gas:candidate-vibid:22420001396268": 8,
+      "gas:candidate-vibid:22420001395285": 71,
+      "gas:candidate-vibid:22420001258122": 112,
+      "gas:candidate-vibid:22420001389155": 27,
+      "gas:candidate-vibid:22420001395014": 50,
+      "gas:candidate-vibid:22420001399915": 264,
+      "gas:candidate-vibid:22420001400099": 24,
+      "gas:candidate-vibid:22420001387092": 57,
+      "gas:candidate-vibid:22420001397298": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 13,
-      "Вычужанин Петр Владимирович": 73,
-      "Глисков Александр Александрович": 113,
-      "Гуров Антон Владимирович": 19,
-      "Маркерт Максим Андреевич": 45,
-      "Пимашков Петр Иванович": 238,
-      "Подоляк Наталия Михайловна": 25,
-      "Серебряков Иван Александрович": 43,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 13,
+      "gas:candidate-vibid:22420001395285": 73,
+      "gas:candidate-vibid:22420001258122": 113,
+      "gas:candidate-vibid:22420001389155": 19,
+      "gas:candidate-vibid:22420001395014": 45,
+      "gas:candidate-vibid:22420001399915": 238,
+      "gas:candidate-vibid:22420001400099": 25,
+      "gas:candidate-vibid:22420001387092": 43,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 56,
-      "Вычужанин Петр Владимирович": 21,
-      "Глисков Александр Александрович": 34,
-      "Гуров Антон Владимирович": 141,
-      "Маркерт Максим Андреевич": 112,
-      "Пимашков Петр Иванович": 267,
-      "Подоляк Наталия Михайловна": 33,
-      "Серебряков Иван Александрович": 21,
-      "Урдаев Анатолий Юрьевич": 68
+      "gas:candidate-vibid:22420001396268": 56,
+      "gas:candidate-vibid:22420001395285": 21,
+      "gas:candidate-vibid:22420001258122": 34,
+      "gas:candidate-vibid:22420001389155": 141,
+      "gas:candidate-vibid:22420001395014": 112,
+      "gas:candidate-vibid:22420001399915": 267,
+      "gas:candidate-vibid:22420001400099": 33,
+      "gas:candidate-vibid:22420001387092": 21,
+      "gas:candidate-vibid:22420001397298": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 10,
-      "Вычужанин Петр Владимирович": 54,
-      "Глисков Александр Александрович": 103,
-      "Гуров Антон Владимирович": 23,
-      "Маркерт Максим Андреевич": 53,
-      "Пимашков Петр Иванович": 263,
-      "Подоляк Наталия Михайловна": 22,
-      "Серебряков Иван Александрович": 45,
-      "Урдаев Анатолий Юрьевич": 14
+      "gas:candidate-vibid:22420001396268": 10,
+      "gas:candidate-vibid:22420001395285": 54,
+      "gas:candidate-vibid:22420001258122": 103,
+      "gas:candidate-vibid:22420001389155": 23,
+      "gas:candidate-vibid:22420001395014": 53,
+      "gas:candidate-vibid:22420001399915": 263,
+      "gas:candidate-vibid:22420001400099": 22,
+      "gas:candidate-vibid:22420001387092": 45,
+      "gas:candidate-vibid:22420001397298": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 16,
-      "Вычужанин Петр Владимирович": 93,
-      "Глисков Александр Александрович": 136,
-      "Гуров Антон Владимирович": 30,
-      "Маркерт Максим Андреевич": 55,
-      "Пимашков Петр Иванович": 313,
-      "Подоляк Наталия Михайловна": 24,
-      "Серебряков Иван Александрович": 47,
-      "Урдаев Анатолий Юрьевич": 13
+      "gas:candidate-vibid:22420001396268": 16,
+      "gas:candidate-vibid:22420001395285": 93,
+      "gas:candidate-vibid:22420001258122": 136,
+      "gas:candidate-vibid:22420001389155": 30,
+      "gas:candidate-vibid:22420001395014": 55,
+      "gas:candidate-vibid:22420001399915": 313,
+      "gas:candidate-vibid:22420001400099": 24,
+      "gas:candidate-vibid:22420001387092": 47,
+      "gas:candidate-vibid:22420001397298": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 8,
-      "Вычужанин Петр Владимирович": 28,
-      "Глисков Александр Александрович": 48,
-      "Гуров Антон Владимирович": 19,
-      "Маркерт Максим Андреевич": 21,
-      "Пимашков Петр Иванович": 142,
-      "Подоляк Наталия Михайловна": 9,
-      "Серебряков Иван Александрович": 22,
-      "Урдаев Анатолий Юрьевич": 5
+      "gas:candidate-vibid:22420001396268": 8,
+      "gas:candidate-vibid:22420001395285": 28,
+      "gas:candidate-vibid:22420001258122": 48,
+      "gas:candidate-vibid:22420001389155": 19,
+      "gas:candidate-vibid:22420001395014": 21,
+      "gas:candidate-vibid:22420001399915": 142,
+      "gas:candidate-vibid:22420001400099": 9,
+      "gas:candidate-vibid:22420001387092": 22,
+      "gas:candidate-vibid:22420001397298": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 40,
-      "Глисков Александр Александрович": 52,
-      "Гуров Антон Владимирович": 8,
-      "Маркерт Максим Андреевич": 16,
-      "Пимашков Петр Иванович": 115,
-      "Подоляк Наталия Михайловна": 9,
-      "Серебряков Иван Александрович": 21,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 40,
+      "gas:candidate-vibid:22420001258122": 52,
+      "gas:candidate-vibid:22420001389155": 8,
+      "gas:candidate-vibid:22420001395014": 16,
+      "gas:candidate-vibid:22420001399915": 115,
+      "gas:candidate-vibid:22420001400099": 9,
+      "gas:candidate-vibid:22420001387092": 21,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 4,
-      "Вычужанин Петр Владимирович": 28,
-      "Глисков Александр Александрович": 61,
-      "Гуров Антон Владимирович": 9,
-      "Маркерт Максим Андреевич": 26,
-      "Пимашков Петр Иванович": 85,
-      "Подоляк Наталия Михайловна": 8,
-      "Серебряков Иван Александрович": 28,
-      "Урдаев Анатолий Юрьевич": 8
+      "gas:candidate-vibid:22420001396268": 4,
+      "gas:candidate-vibid:22420001395285": 28,
+      "gas:candidate-vibid:22420001258122": 61,
+      "gas:candidate-vibid:22420001389155": 9,
+      "gas:candidate-vibid:22420001395014": 26,
+      "gas:candidate-vibid:22420001399915": 85,
+      "gas:candidate-vibid:22420001400099": 8,
+      "gas:candidate-vibid:22420001387092": 28,
+      "gas:candidate-vibid:22420001397298": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 62,
-      "Глисков Александр Александрович": 64,
-      "Гуров Антон Владимирович": 18,
-      "Маркерт Максим Андреевич": 43,
-      "Пимашков Петр Иванович": 125,
-      "Подоляк Наталия Михайловна": 11,
-      "Серебряков Иван Александрович": 36,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 62,
+      "gas:candidate-vibid:22420001258122": 64,
+      "gas:candidate-vibid:22420001389155": 18,
+      "gas:candidate-vibid:22420001395014": 43,
+      "gas:candidate-vibid:22420001399915": 125,
+      "gas:candidate-vibid:22420001400099": 11,
+      "gas:candidate-vibid:22420001387092": 36,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 2,
-      "Глисков Александр Александрович": 5,
-      "Гуров Антон Владимирович": 5,
-      "Маркерт Максим Андреевич": 7,
-      "Пимашков Петр Иванович": 44,
-      "Подоляк Наталия Михайловна": 5,
-      "Серебряков Иван Александрович": 7,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 2,
+      "gas:candidate-vibid:22420001258122": 5,
+      "gas:candidate-vibid:22420001389155": 5,
+      "gas:candidate-vibid:22420001395014": 7,
+      "gas:candidate-vibid:22420001399915": 44,
+      "gas:candidate-vibid:22420001400099": 5,
+      "gas:candidate-vibid:22420001387092": 7,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 9,
-      "Вычужанин Петр Владимирович": 58,
-      "Глисков Александр Александрович": 93,
-      "Гуров Антон Владимирович": 30,
-      "Маркерт Максим Андреевич": 47,
-      "Пимашков Петр Иванович": 201,
-      "Подоляк Наталия Михайловна": 17,
-      "Серебряков Иван Александрович": 39,
-      "Урдаев Анатолий Юрьевич": 9
+      "gas:candidate-vibid:22420001396268": 9,
+      "gas:candidate-vibid:22420001395285": 58,
+      "gas:candidate-vibid:22420001258122": 93,
+      "gas:candidate-vibid:22420001389155": 30,
+      "gas:candidate-vibid:22420001395014": 47,
+      "gas:candidate-vibid:22420001399915": 201,
+      "gas:candidate-vibid:22420001400099": 17,
+      "gas:candidate-vibid:22420001387092": 39,
+      "gas:candidate-vibid:22420001397298": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 10,
-      "Вычужанин Петр Владимирович": 47,
-      "Глисков Александр Александрович": 81,
-      "Гуров Антон Владимирович": 17,
-      "Маркерт Максим Андреевич": 31,
-      "Пимашков Петр Иванович": 221,
-      "Подоляк Наталия Михайловна": 20,
-      "Серебряков Иван Александрович": 43,
-      "Урдаев Анатолий Юрьевич": 5
+      "gas:candidate-vibid:22420001396268": 10,
+      "gas:candidate-vibid:22420001395285": 47,
+      "gas:candidate-vibid:22420001258122": 81,
+      "gas:candidate-vibid:22420001389155": 17,
+      "gas:candidate-vibid:22420001395014": 31,
+      "gas:candidate-vibid:22420001399915": 221,
+      "gas:candidate-vibid:22420001400099": 20,
+      "gas:candidate-vibid:22420001387092": 43,
+      "gas:candidate-vibid:22420001397298": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 2,
-      "Глисков Александр Александрович": 3,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 3,
-      "Пимашков Петр Иванович": 8,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 8,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 2,
+      "gas:candidate-vibid:22420001258122": 3,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 3,
+      "gas:candidate-vibid:22420001399915": 8,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 8,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 8,
-      "Глисков Александр Александрович": 3,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 2,
-      "Пимашков Петр Иванович": 10,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 2,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 8,
+      "gas:candidate-vibid:22420001258122": 3,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 2,
+      "gas:candidate-vibid:22420001399915": 10,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 2,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 1,
-      "Глисков Александр Александрович": 3,
-      "Гуров Антон Владимирович": 0,
-      "Маркерт Максим Андреевич": 0,
-      "Пимашков Петр Иванович": 1,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 0,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 1,
+      "gas:candidate-vibid:22420001258122": 3,
+      "gas:candidate-vibid:22420001389155": 0,
+      "gas:candidate-vibid:22420001395014": 0,
+      "gas:candidate-vibid:22420001399915": 1,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 0,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 3,
-      "Глисков Александр Александрович": 3,
-      "Гуров Антон Владимирович": 5,
-      "Маркерт Максим Андреевич": 8,
-      "Пимашков Петр Иванович": 16,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 2,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 3,
+      "gas:candidate-vibid:22420001258122": 3,
+      "gas:candidate-vibid:22420001389155": 5,
+      "gas:candidate-vibid:22420001395014": 8,
+      "gas:candidate-vibid:22420001399915": 16,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 2,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 5,
-      "Вычужанин Петр Владимирович": 3,
-      "Глисков Александр Александрович": 5,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 3,
-      "Пимашков Петр Иванович": 11,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 2,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 5,
+      "gas:candidate-vibid:22420001395285": 3,
+      "gas:candidate-vibid:22420001258122": 5,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 3,
+      "gas:candidate-vibid:22420001399915": 11,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 2,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180033&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180033&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 5,
-      "Вычужанин Петр Владимирович": 3,
-      "Глисков Александр Александрович": 29,
-      "Гуров Антон Владимирович": 11,
-      "Маркерт Максим Андреевич": 9,
-      "Пимашков Петр Иванович": 58,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 10,
-      "Урдаев Анатолий Юрьевич": 9
+      "gas:candidate-vibid:22420001396268": 5,
+      "gas:candidate-vibid:22420001395285": 3,
+      "gas:candidate-vibid:22420001258122": 29,
+      "gas:candidate-vibid:22420001389155": 11,
+      "gas:candidate-vibid:22420001395014": 9,
+      "gas:candidate-vibid:22420001399915": 58,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 10,
+      "gas:candidate-vibid:22420001397298": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 6,
-      "Вычужанин Петр Владимирович": 28,
-      "Глисков Александр Александрович": 65,
-      "Гуров Антон Владимирович": 12,
-      "Маркерт Максим Андреевич": 17,
-      "Пимашков Петр Иванович": 161,
-      "Подоляк Наталия Михайловна": 7,
-      "Серебряков Иван Александрович": 30,
-      "Урдаев Анатолий Юрьевич": 13
+      "gas:candidate-vibid:22420001396268": 6,
+      "gas:candidate-vibid:22420001395285": 28,
+      "gas:candidate-vibid:22420001258122": 65,
+      "gas:candidate-vibid:22420001389155": 12,
+      "gas:candidate-vibid:22420001395014": 17,
+      "gas:candidate-vibid:22420001399915": 161,
+      "gas:candidate-vibid:22420001400099": 7,
+      "gas:candidate-vibid:22420001387092": 30,
+      "gas:candidate-vibid:22420001397298": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 7,
-      "Глисков Александр Александрович": 15,
-      "Гуров Антон Владимирович": 5,
-      "Маркерт Максим Андреевич": 12,
-      "Пимашков Петр Иванович": 60,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 8,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 7,
+      "gas:candidate-vibid:22420001258122": 15,
+      "gas:candidate-vibid:22420001389155": 5,
+      "gas:candidate-vibid:22420001395014": 12,
+      "gas:candidate-vibid:22420001399915": 60,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 8,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 3,
-      "Вычужанин Петр Владимирович": 34,
-      "Глисков Александр Александрович": 34,
-      "Гуров Антон Владимирович": 16,
-      "Маркерт Максим Андреевич": 15,
-      "Пимашков Петр Иванович": 119,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 16,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 3,
+      "gas:candidate-vibid:22420001395285": 34,
+      "gas:candidate-vibid:22420001258122": 34,
+      "gas:candidate-vibid:22420001389155": 16,
+      "gas:candidate-vibid:22420001395014": 15,
+      "gas:candidate-vibid:22420001399915": 119,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 16,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 8,
-      "Глисков Александр Александрович": 14,
-      "Гуров Антон Владимирович": 5,
-      "Маркерт Максим Андреевич": 3,
-      "Пимашков Петр Иванович": 59,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 6,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 8,
+      "gas:candidate-vibid:22420001258122": 14,
+      "gas:candidate-vibid:22420001389155": 5,
+      "gas:candidate-vibid:22420001395014": 3,
+      "gas:candidate-vibid:22420001399915": 59,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 6,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 5,
-      "Глисков Александр Александрович": 4,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 2,
-      "Пимашков Петр Иванович": 35,
-      "Подоляк Наталия Михайловна": 0,
-      "Серебряков Иван Александрович": 4,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 5,
+      "gas:candidate-vibid:22420001258122": 4,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 2,
+      "gas:candidate-vibid:22420001399915": 35,
+      "gas:candidate-vibid:22420001400099": 0,
+      "gas:candidate-vibid:22420001387092": 4,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 5,
-      "Вычужанин Петр Владимирович": 23,
-      "Глисков Александр Александрович": 57,
-      "Гуров Антон Владимирович": 11,
-      "Маркерт Максим Андреевич": 16,
-      "Пимашков Петр Иванович": 144,
-      "Подоляк Наталия Михайловна": 12,
-      "Серебряков Иван Александрович": 23,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 5,
+      "gas:candidate-vibid:22420001395285": 23,
+      "gas:candidate-vibid:22420001258122": 57,
+      "gas:candidate-vibid:22420001389155": 11,
+      "gas:candidate-vibid:22420001395014": 16,
+      "gas:candidate-vibid:22420001399915": 144,
+      "gas:candidate-vibid:22420001400099": 12,
+      "gas:candidate-vibid:22420001387092": 23,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 5,
-      "Вычужанин Петр Владимирович": 32,
-      "Глисков Александр Александрович": 30,
-      "Гуров Антон Владимирович": 9,
-      "Маркерт Максим Андреевич": 12,
-      "Пимашков Петр Иванович": 97,
-      "Подоляк Наталия Михайловна": 4,
-      "Серебряков Иван Александрович": 20,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 5,
+      "gas:candidate-vibid:22420001395285": 32,
+      "gas:candidate-vibid:22420001258122": 30,
+      "gas:candidate-vibid:22420001389155": 9,
+      "gas:candidate-vibid:22420001395014": 12,
+      "gas:candidate-vibid:22420001399915": 97,
+      "gas:candidate-vibid:22420001400099": 4,
+      "gas:candidate-vibid:22420001387092": 20,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 3,
-      "Вычужанин Петр Владимирович": 12,
-      "Глисков Александр Александрович": 24,
-      "Гуров Антон Владимирович": 9,
-      "Маркерт Максим Андреевич": 4,
-      "Пимашков Петр Иванович": 69,
-      "Подоляк Наталия Михайловна": 4,
-      "Серебряков Иван Александрович": 21,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 3,
+      "gas:candidate-vibid:22420001395285": 12,
+      "gas:candidate-vibid:22420001258122": 24,
+      "gas:candidate-vibid:22420001389155": 9,
+      "gas:candidate-vibid:22420001395014": 4,
+      "gas:candidate-vibid:22420001399915": 69,
+      "gas:candidate-vibid:22420001400099": 4,
+      "gas:candidate-vibid:22420001387092": 21,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 1,
-      "Вычужанин Петр Владимирович": 4,
-      "Глисков Александр Александрович": 4,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 2,
-      "Пимашков Петр Иванович": 20,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 6,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 1,
+      "gas:candidate-vibid:22420001395285": 4,
+      "gas:candidate-vibid:22420001258122": 4,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 2,
+      "gas:candidate-vibid:22420001399915": 20,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 6,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 10,
-      "Вычужанин Петр Владимирович": 77,
-      "Глисков Александр Александрович": 91,
-      "Гуров Антон Владимирович": 36,
-      "Маркерт Максим Андреевич": 42,
-      "Пимашков Петр Иванович": 272,
-      "Подоляк Наталия Михайловна": 15,
-      "Серебряков Иван Александрович": 51,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 10,
+      "gas:candidate-vibid:22420001395285": 77,
+      "gas:candidate-vibid:22420001258122": 91,
+      "gas:candidate-vibid:22420001389155": 36,
+      "gas:candidate-vibid:22420001395014": 42,
+      "gas:candidate-vibid:22420001399915": 272,
+      "gas:candidate-vibid:22420001400099": 15,
+      "gas:candidate-vibid:22420001387092": 51,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 6,
-      "Глисков Александр Александрович": 15,
-      "Гуров Антон Владимирович": 3,
-      "Маркерт Максим Андреевич": 2,
-      "Пимашков Петр Иванович": 59,
-      "Подоляк Наталия Михайловна": 2,
-      "Серебряков Иван Александрович": 17,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 6,
+      "gas:candidate-vibid:22420001258122": 15,
+      "gas:candidate-vibid:22420001389155": 3,
+      "gas:candidate-vibid:22420001395014": 2,
+      "gas:candidate-vibid:22420001399915": 59,
+      "gas:candidate-vibid:22420001400099": 2,
+      "gas:candidate-vibid:22420001387092": 17,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 9,
-      "Вычужанин Петр Владимирович": 42,
-      "Глисков Александр Александрович": 76,
-      "Гуров Антон Владимирович": 13,
-      "Маркерт Максим Андреевич": 28,
-      "Пимашков Петр Иванович": 194,
-      "Подоляк Наталия Михайловна": 13,
-      "Серебряков Иван Александрович": 39,
-      "Урдаев Анатолий Юрьевич": 3
+      "gas:candidate-vibid:22420001396268": 9,
+      "gas:candidate-vibid:22420001395285": 42,
+      "gas:candidate-vibid:22420001258122": 76,
+      "gas:candidate-vibid:22420001389155": 13,
+      "gas:candidate-vibid:22420001395014": 28,
+      "gas:candidate-vibid:22420001399915": 194,
+      "gas:candidate-vibid:22420001400099": 13,
+      "gas:candidate-vibid:22420001387092": 39,
+      "gas:candidate-vibid:22420001397298": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 8,
-      "Вычужанин Петр Владимирович": 65,
-      "Глисков Александр Александрович": 45,
-      "Гуров Антон Владимирович": 24,
-      "Маркерт Максим Андреевич": 24,
-      "Пимашков Петр Иванович": 206,
-      "Подоляк Наталия Михайловна": 8,
-      "Серебряков Иван Александрович": 46,
-      "Урдаев Анатолий Юрьевич": 3
+      "gas:candidate-vibid:22420001396268": 8,
+      "gas:candidate-vibid:22420001395285": 65,
+      "gas:candidate-vibid:22420001258122": 45,
+      "gas:candidate-vibid:22420001389155": 24,
+      "gas:candidate-vibid:22420001395014": 24,
+      "gas:candidate-vibid:22420001399915": 206,
+      "gas:candidate-vibid:22420001400099": 8,
+      "gas:candidate-vibid:22420001387092": 46,
+      "gas:candidate-vibid:22420001397298": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 10,
-      "Глисков Александр Александрович": 23,
-      "Гуров Антон Владимирович": 6,
-      "Маркерт Максим Андреевич": 8,
-      "Пимашков Петр Иванович": 82,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 10,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 10,
+      "gas:candidate-vibid:22420001258122": 23,
+      "gas:candidate-vibid:22420001389155": 6,
+      "gas:candidate-vibid:22420001395014": 8,
+      "gas:candidate-vibid:22420001399915": 82,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 10,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 11,
-      "Вычужанин Петр Владимирович": 21,
-      "Глисков Александр Александрович": 35,
-      "Гуров Антон Владимирович": 14,
-      "Маркерт Максим Андреевич": 19,
-      "Пимашков Петр Иванович": 167,
-      "Подоляк Наталия Михайловна": 9,
-      "Серебряков Иван Александрович": 20,
-      "Урдаев Анатолий Юрьевич": 3
+      "gas:candidate-vibid:22420001396268": 11,
+      "gas:candidate-vibid:22420001395285": 21,
+      "gas:candidate-vibid:22420001258122": 35,
+      "gas:candidate-vibid:22420001389155": 14,
+      "gas:candidate-vibid:22420001395014": 19,
+      "gas:candidate-vibid:22420001399915": 167,
+      "gas:candidate-vibid:22420001400099": 9,
+      "gas:candidate-vibid:22420001387092": 20,
+      "gas:candidate-vibid:22420001397298": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 6,
-      "Вычужанин Петр Владимирович": 27,
-      "Глисков Александр Александрович": 43,
-      "Гуров Антон Владимирович": 14,
-      "Маркерт Максим Андреевич": 39,
-      "Пимашков Петр Иванович": 141,
-      "Подоляк Наталия Михайловна": 12,
-      "Серебряков Иван Александрович": 17,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 6,
+      "gas:candidate-vibid:22420001395285": 27,
+      "gas:candidate-vibid:22420001258122": 43,
+      "gas:candidate-vibid:22420001389155": 14,
+      "gas:candidate-vibid:22420001395014": 39,
+      "gas:candidate-vibid:22420001399915": 141,
+      "gas:candidate-vibid:22420001400099": 12,
+      "gas:candidate-vibid:22420001387092": 17,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 2,
-      "Вычужанин Петр Владимирович": 6,
-      "Глисков Александр Александрович": 8,
-      "Гуров Антон Владимирович": 5,
-      "Маркерт Максим Андреевич": 5,
-      "Пимашков Петр Иванович": 37,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 3,
-      "Урдаев Анатолий Юрьевич": 1
+      "gas:candidate-vibid:22420001396268": 2,
+      "gas:candidate-vibid:22420001395285": 6,
+      "gas:candidate-vibid:22420001258122": 8,
+      "gas:candidate-vibid:22420001389155": 5,
+      "gas:candidate-vibid:22420001395014": 5,
+      "gas:candidate-vibid:22420001399915": 37,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 3,
+      "gas:candidate-vibid:22420001397298": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 10,
-      "Вычужанин Петр Владимирович": 18,
-      "Глисков Александр Александрович": 67,
-      "Гуров Антон Владимирович": 18,
-      "Маркерт Максим Андреевич": 24,
-      "Пимашков Петр Иванович": 121,
-      "Подоляк Наталия Михайловна": 5,
-      "Серебряков Иван Александрович": 25,
-      "Урдаев Анатолий Юрьевич": 5
+      "gas:candidate-vibid:22420001396268": 10,
+      "gas:candidate-vibid:22420001395285": 18,
+      "gas:candidate-vibid:22420001258122": 67,
+      "gas:candidate-vibid:22420001389155": 18,
+      "gas:candidate-vibid:22420001395014": 24,
+      "gas:candidate-vibid:22420001399915": 121,
+      "gas:candidate-vibid:22420001400099": 5,
+      "gas:candidate-vibid:22420001387092": 25,
+      "gas:candidate-vibid:22420001397298": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 3,
-      "Глисков Александр Александрович": 5,
-      "Гуров Антон Владимирович": 0,
-      "Маркерт Максим Андреевич": 1,
-      "Пимашков Петр Иванович": 26,
-      "Подоляк Наталия Михайловна": 1,
-      "Серебряков Иван Александрович": 1,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 3,
+      "gas:candidate-vibid:22420001258122": 5,
+      "gas:candidate-vibid:22420001389155": 0,
+      "gas:candidate-vibid:22420001395014": 1,
+      "gas:candidate-vibid:22420001399915": 26,
+      "gas:candidate-vibid:22420001400099": 1,
+      "gas:candidate-vibid:22420001387092": 1,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 7,
-      "Глисков Александр Александрович": 5,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 4,
-      "Пимашков Петр Иванович": 14,
-      "Подоляк Наталия Михайловна": 2,
-      "Серебряков Иван Александрович": 2,
-      "Урдаев Анатолий Юрьевич": 0
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 7,
+      "gas:candidate-vibid:22420001258122": 5,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 4,
+      "gas:candidate-vibid:22420001399915": 14,
+      "gas:candidate-vibid:22420001400099": 2,
+      "gas:candidate-vibid:22420001387092": 2,
+      "gas:candidate-vibid:22420001397298": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 5,
-      "Вычужанин Петр Владимирович": 2,
-      "Глисков Александр Александрович": 11,
-      "Гуров Антон Владимирович": 2,
-      "Маркерт Максим Андреевич": 6,
-      "Пимашков Петр Иванович": 53,
-      "Подоляк Наталия Михайловна": 4,
-      "Серебряков Иван Александрович": 5,
-      "Урдаев Анатолий Юрьевич": 6
+      "gas:candidate-vibid:22420001396268": 5,
+      "gas:candidate-vibid:22420001395285": 2,
+      "gas:candidate-vibid:22420001258122": 11,
+      "gas:candidate-vibid:22420001389155": 2,
+      "gas:candidate-vibid:22420001395014": 6,
+      "gas:candidate-vibid:22420001399915": 53,
+      "gas:candidate-vibid:22420001400099": 4,
+      "gas:candidate-vibid:22420001387092": 5,
+      "gas:candidate-vibid:22420001397298": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Евгений Алексеевич": 0,
-      "Вычужанин Петр Владимирович": 2,
-      "Глисков Александр Александрович": 2,
-      "Гуров Антон Владимирович": 1,
-      "Маркерт Максим Андреевич": 8,
-      "Пимашков Петр Иванович": 20,
-      "Подоляк Наталия Михайловна": 3,
-      "Серебряков Иван Александрович": 11,
-      "Урдаев Анатолий Юрьевич": 2
+      "gas:candidate-vibid:22420001396268": 0,
+      "gas:candidate-vibid:22420001395285": 2,
+      "gas:candidate-vibid:22420001258122": 2,
+      "gas:candidate-vibid:22420001389155": 1,
+      "gas:candidate-vibid:22420001395014": 8,
+      "gas:candidate-vibid:22420001399915": 20,
+      "gas:candidate-vibid:22420001400099": 3,
+      "gas:candidate-vibid:22420001387092": 11,
+      "gas:candidate-vibid:22420001397298": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000073&tvd=22420001180034&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180034&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 13,
-      "Зубарев Виктор Владиславович": 259,
-      "Иванова Ирина Геннадьевна": 32,
-      "Носов Дмитрий Юрьевич": 168,
-      "Питерский Ярослав Михайлович": 24,
-      "Семигин Геннадий Юрьевич": 52,
-      "Ульских Роман Николаевич": 39,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 13,
+      "gas:candidate-vibid:22420001399802": 259,
+      "gas:candidate-vibid:22420001401772": 32,
+      "gas:candidate-vibid:22420001395182": 168,
+      "gas:candidate-vibid:22420001398689": 24,
+      "gas:candidate-vibid:22420001387128": 52,
+      "gas:candidate-vibid:22420001258133": 39,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180035&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180035&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 17,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 8,
-      "Ульских Роман Николаевич": 10,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 17,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 8,
+      "gas:candidate-vibid:22420001258133": 10,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180035&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180035&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 12,
-      "Зубарев Виктор Владиславович": 39,
-      "Иванова Ирина Геннадьевна": 13,
-      "Носов Дмитрий Юрьевич": 21,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 7,
-      "Ульских Роман Николаевич": 17,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 12,
+      "gas:candidate-vibid:22420001399802": 39,
+      "gas:candidate-vibid:22420001401772": 13,
+      "gas:candidate-vibid:22420001395182": 21,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 7,
+      "gas:candidate-vibid:22420001258133": 17,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180035&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180035&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 84,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 23,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 26,
-      "Ульских Роман Николаевич": 14,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 84,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 23,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 26,
+      "gas:candidate-vibid:22420001258133": 14,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180035&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180035&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 33,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 10,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 33,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 10,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180035&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180035&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 10,
-      "Зубарев Виктор Владиславович": 117,
-      "Иванова Ирина Геннадьевна": 16,
-      "Носов Дмитрий Юрьевич": 60,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 19,
-      "Ульских Роман Николаевич": 31,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 10,
+      "gas:candidate-vibid:22420001399802": 117,
+      "gas:candidate-vibid:22420001401772": 16,
+      "gas:candidate-vibid:22420001395182": 60,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 19,
+      "gas:candidate-vibid:22420001258133": 31,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 18,
-      "Зубарев Виктор Владиславович": 150,
-      "Иванова Ирина Геннадьевна": 28,
-      "Носов Дмитрий Юрьевич": 55,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 12,
-      "Ульских Роман Николаевич": 46,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 18,
+      "gas:candidate-vibid:22420001399802": 150,
+      "gas:candidate-vibid:22420001401772": 28,
+      "gas:candidate-vibid:22420001395182": 55,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 12,
+      "gas:candidate-vibid:22420001258133": 46,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 27,
-      "Зубарев Виктор Владиславович": 223,
-      "Иванова Ирина Геннадьевна": 41,
-      "Носов Дмитрий Юрьевич": 106,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 47,
-      "Ульских Роман Николаевич": 79,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 27,
+      "gas:candidate-vibid:22420001399802": 223,
+      "gas:candidate-vibid:22420001401772": 41,
+      "gas:candidate-vibid:22420001395182": 106,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 47,
+      "gas:candidate-vibid:22420001258133": 79,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 32,
-      "Зубарев Виктор Владиславович": 241,
-      "Иванова Ирина Геннадьевна": 66,
-      "Носов Дмитрий Юрьевич": 103,
-      "Питерский Ярослав Михайлович": 12,
-      "Семигин Геннадий Юрьевич": 55,
-      "Ульских Роман Николаевич": 91,
-      "Ульянова Валентина Петровна": 15
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 32,
+      "gas:candidate-vibid:22420001399802": 241,
+      "gas:candidate-vibid:22420001401772": 66,
+      "gas:candidate-vibid:22420001395182": 103,
+      "gas:candidate-vibid:22420001398689": 12,
+      "gas:candidate-vibid:22420001387128": 55,
+      "gas:candidate-vibid:22420001258133": 91,
+      "gas:candidate-vibid:22420001401210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 21,
-      "Зубарев Виктор Владиславович": 205,
-      "Иванова Ирина Геннадьевна": 36,
-      "Носов Дмитрий Юрьевич": 119,
-      "Питерский Ярослав Михайлович": 12,
-      "Семигин Геннадий Юрьевич": 41,
-      "Ульских Роман Николаевич": 92,
-      "Ульянова Валентина Петровна": 9
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 21,
+      "gas:candidate-vibid:22420001399802": 205,
+      "gas:candidate-vibid:22420001401772": 36,
+      "gas:candidate-vibid:22420001395182": 119,
+      "gas:candidate-vibid:22420001398689": 12,
+      "gas:candidate-vibid:22420001387128": 41,
+      "gas:candidate-vibid:22420001258133": 92,
+      "gas:candidate-vibid:22420001401210": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 13,
-      "Золотухин Максим Анатольевич": 19,
-      "Зубарев Виктор Владиславович": 198,
-      "Иванова Ирина Геннадьевна": 57,
-      "Носов Дмитрий Юрьевич": 147,
-      "Питерский Ярослав Михайлович": 7,
-      "Семигин Геннадий Юрьевич": 44,
-      "Ульских Роман Николаевич": 87,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 13,
+      "gas:candidate-vibid:22420001395025": 19,
+      "gas:candidate-vibid:22420001399802": 198,
+      "gas:candidate-vibid:22420001401772": 57,
+      "gas:candidate-vibid:22420001395182": 147,
+      "gas:candidate-vibid:22420001398689": 7,
+      "gas:candidate-vibid:22420001387128": 44,
+      "gas:candidate-vibid:22420001258133": 87,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 30,
-      "Зубарев Виктор Владиславович": 169,
-      "Иванова Ирина Геннадьевна": 45,
-      "Носов Дмитрий Юрьевич": 82,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 30,
-      "Ульских Роман Николаевич": 54,
-      "Ульянова Валентина Петровна": 7
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 30,
+      "gas:candidate-vibid:22420001399802": 169,
+      "gas:candidate-vibid:22420001401772": 45,
+      "gas:candidate-vibid:22420001395182": 82,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 30,
+      "gas:candidate-vibid:22420001258133": 54,
+      "gas:candidate-vibid:22420001401210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 16,
-      "Золотухин Максим Анатольевич": 41,
-      "Зубарев Виктор Владиславович": 256,
-      "Иванова Ирина Геннадьевна": 47,
-      "Носов Дмитрий Юрьевич": 129,
-      "Питерский Ярослав Михайлович": 11,
-      "Семигин Геннадий Юрьевич": 59,
-      "Ульских Роман Николаевич": 91,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 16,
+      "gas:candidate-vibid:22420001395025": 41,
+      "gas:candidate-vibid:22420001399802": 256,
+      "gas:candidate-vibid:22420001401772": 47,
+      "gas:candidate-vibid:22420001395182": 129,
+      "gas:candidate-vibid:22420001398689": 11,
+      "gas:candidate-vibid:22420001387128": 59,
+      "gas:candidate-vibid:22420001258133": 91,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 31,
-      "Зубарев Виктор Владиславович": 232,
-      "Иванова Ирина Геннадьевна": 32,
-      "Носов Дмитрий Юрьевич": 121,
-      "Питерский Ярослав Михайлович": 15,
-      "Семигин Геннадий Юрьевич": 33,
-      "Ульских Роман Николаевич": 74,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 31,
+      "gas:candidate-vibid:22420001399802": 232,
+      "gas:candidate-vibid:22420001401772": 32,
+      "gas:candidate-vibid:22420001395182": 121,
+      "gas:candidate-vibid:22420001398689": 15,
+      "gas:candidate-vibid:22420001387128": 33,
+      "gas:candidate-vibid:22420001258133": 74,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 13,
-      "Золотухин Максим Анатольевич": 39,
-      "Зубарев Виктор Владиславович": 342,
-      "Иванова Ирина Геннадьевна": 64,
-      "Носов Дмитрий Юрьевич": 155,
-      "Питерский Ярослав Михайлович": 10,
-      "Семигин Геннадий Юрьевич": 45,
-      "Ульских Роман Николаевич": 93,
-      "Ульянова Валентина Петровна": 15
+      "gas:candidate-vibid:22420001401198": 13,
+      "gas:candidate-vibid:22420001395025": 39,
+      "gas:candidate-vibid:22420001399802": 342,
+      "gas:candidate-vibid:22420001401772": 64,
+      "gas:candidate-vibid:22420001395182": 155,
+      "gas:candidate-vibid:22420001398689": 10,
+      "gas:candidate-vibid:22420001387128": 45,
+      "gas:candidate-vibid:22420001258133": 93,
+      "gas:candidate-vibid:22420001401210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 19,
-      "Золотухин Максим Анатольевич": 30,
-      "Зубарев Виктор Владиславович": 264,
-      "Иванова Ирина Геннадьевна": 58,
-      "Носов Дмитрий Юрьевич": 129,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 40,
-      "Ульских Роман Николаевич": 91,
-      "Ульянова Валентина Петровна": 16
+      "gas:candidate-vibid:22420001401198": 19,
+      "gas:candidate-vibid:22420001395025": 30,
+      "gas:candidate-vibid:22420001399802": 264,
+      "gas:candidate-vibid:22420001401772": 58,
+      "gas:candidate-vibid:22420001395182": 129,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 40,
+      "gas:candidate-vibid:22420001258133": 91,
+      "gas:candidate-vibid:22420001401210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 60,
-      "Иванова Ирина Геннадьевна": 11,
-      "Носов Дмитрий Юрьевич": 20,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 15,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 60,
+      "gas:candidate-vibid:22420001401772": 11,
+      "gas:candidate-vibid:22420001395182": 20,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 15,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 20,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 7,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 20,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 7,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 51,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 8,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 6,
-      "Ульских Роман Николаевич": 4,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 51,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 8,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 6,
+      "gas:candidate-vibid:22420001258133": 4,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 23,
-      "Зубарев Виктор Владиславович": 288,
-      "Иванова Ирина Геннадьевна": 45,
-      "Носов Дмитрий Юрьевич": 55,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 34,
-      "Ульских Роман Николаевич": 54,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 23,
+      "gas:candidate-vibid:22420001399802": 288,
+      "gas:candidate-vibid:22420001401772": 45,
+      "gas:candidate-vibid:22420001395182": 55,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 34,
+      "gas:candidate-vibid:22420001258133": 54,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 112,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 8,
-      "Ульских Роман Николаевич": 20,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 112,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 8,
+      "gas:candidate-vibid:22420001258133": 20,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 23,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 23,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 14,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 14,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 43,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 43,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 8,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 121,
-      "Иванова Ирина Геннадьевна": 13,
-      "Носов Дмитрий Юрьевич": 28,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 20,
-      "Ульских Роман Николаевич": 42,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 8,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 121,
+      "gas:candidate-vibid:22420001401772": 13,
+      "gas:candidate-vibid:22420001395182": 28,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 20,
+      "gas:candidate-vibid:22420001258133": 42,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 20,
-      "Золотухин Максим Анатольевич": 29,
-      "Зубарев Виктор Владиславович": 242,
-      "Иванова Ирина Геннадьевна": 60,
-      "Носов Дмитрий Юрьевич": 69,
-      "Питерский Ярослав Михайлович": 7,
-      "Семигин Геннадий Юрьевич": 37,
-      "Ульских Роман Николаевич": 80,
-      "Ульянова Валентина Петровна": 14
+      "gas:candidate-vibid:22420001401198": 20,
+      "gas:candidate-vibid:22420001395025": 29,
+      "gas:candidate-vibid:22420001399802": 242,
+      "gas:candidate-vibid:22420001401772": 60,
+      "gas:candidate-vibid:22420001395182": 69,
+      "gas:candidate-vibid:22420001398689": 7,
+      "gas:candidate-vibid:22420001387128": 37,
+      "gas:candidate-vibid:22420001258133": 80,
+      "gas:candidate-vibid:22420001401210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 11,
-      "Золотухин Максим Анатольевич": 30,
-      "Зубарев Виктор Владиславович": 208,
-      "Иванова Ирина Геннадьевна": 41,
-      "Носов Дмитрий Юрьевич": 60,
-      "Питерский Ярослав Михайлович": 7,
-      "Семигин Геннадий Юрьевич": 13,
-      "Ульских Роман Николаевич": 85,
-      "Ульянова Валентина Петровна": 10
+      "gas:candidate-vibid:22420001401198": 11,
+      "gas:candidate-vibid:22420001395025": 30,
+      "gas:candidate-vibid:22420001399802": 208,
+      "gas:candidate-vibid:22420001401772": 41,
+      "gas:candidate-vibid:22420001395182": 60,
+      "gas:candidate-vibid:22420001398689": 7,
+      "gas:candidate-vibid:22420001387128": 13,
+      "gas:candidate-vibid:22420001258133": 85,
+      "gas:candidate-vibid:22420001401210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 14,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 2,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 14,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 2,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 69,
-      "Иванова Ирина Геннадьевна": 10,
-      "Носов Дмитрий Юрьевич": 12,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 14,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 69,
+      "gas:candidate-vibid:22420001401772": 10,
+      "gas:candidate-vibid:22420001395182": 12,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 14,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 31,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 31,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 30,
-      "Иванова Ирина Геннадьевна": 2,
-      "Носов Дмитрий Юрьевич": 3,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 30,
+      "gas:candidate-vibid:22420001401772": 2,
+      "gas:candidate-vibid:22420001395182": 3,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 8,
-      "Золотухин Максим Анатольевич": 13,
-      "Зубарев Виктор Владиславович": 209,
-      "Иванова Ирина Геннадьевна": 24,
-      "Носов Дмитрий Юрьевич": 44,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 20,
-      "Ульских Роман Николаевич": 53,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 8,
+      "gas:candidate-vibid:22420001395025": 13,
+      "gas:candidate-vibid:22420001399802": 209,
+      "gas:candidate-vibid:22420001401772": 24,
+      "gas:candidate-vibid:22420001395182": 44,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 20,
+      "gas:candidate-vibid:22420001258133": 53,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 48,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 10,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 48,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 10,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 31,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 31,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 11,
-      "Золотухин Максим Анатольевич": 15,
-      "Зубарев Виктор Владиславович": 174,
-      "Иванова Ирина Геннадьевна": 34,
-      "Носов Дмитрий Юрьевич": 134,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 19,
-      "Ульских Роман Николаевич": 24,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 11,
+      "gas:candidate-vibid:22420001395025": 15,
+      "gas:candidate-vibid:22420001399802": 174,
+      "gas:candidate-vibid:22420001401772": 34,
+      "gas:candidate-vibid:22420001395182": 134,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 19,
+      "gas:candidate-vibid:22420001258133": 24,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 5,
-      "Зубарев Виктор Владиславович": 90,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 9,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 9,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 5,
+      "gas:candidate-vibid:22420001399802": 90,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 9,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 9,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 5,
-      "Зубарев Виктор Владиславович": 38,
-      "Иванова Ирина Геннадьевна": 2,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 5,
+      "gas:candidate-vibid:22420001399802": 38,
+      "gas:candidate-vibid:22420001401772": 2,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 91,
-      "Иванова Ирина Геннадьевна": 20,
-      "Носов Дмитрий Юрьевич": 21,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 14,
-      "Ульских Роман Николаевич": 19,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 91,
+      "gas:candidate-vibid:22420001401772": 20,
+      "gas:candidate-vibid:22420001395182": 21,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 14,
+      "gas:candidate-vibid:22420001258133": 19,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 9,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 7,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 5,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 9,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 7,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 5,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180036&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180036&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 22,
-      "Золотухин Максим Анатольевич": 29,
-      "Зубарев Виктор Владиславович": 228,
-      "Иванова Ирина Геннадьевна": 66,
-      "Носов Дмитрий Юрьевич": 153,
-      "Питерский Ярослав Михайлович": 8,
-      "Семигин Геннадий Юрьевич": 43,
-      "Ульских Роман Николаевич": 95,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 22,
+      "gas:candidate-vibid:22420001395025": 29,
+      "gas:candidate-vibid:22420001399802": 228,
+      "gas:candidate-vibid:22420001401772": 66,
+      "gas:candidate-vibid:22420001395182": 153,
+      "gas:candidate-vibid:22420001398689": 8,
+      "gas:candidate-vibid:22420001387128": 43,
+      "gas:candidate-vibid:22420001258133": 95,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 30,
-      "Зубарев Виктор Владиславович": 202,
-      "Иванова Ирина Геннадьевна": 41,
-      "Носов Дмитрий Юрьевич": 136,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 41,
-      "Ульских Роман Николаевич": 67,
-      "Ульянова Валентина Петровна": 7
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 30,
+      "gas:candidate-vibid:22420001399802": 202,
+      "gas:candidate-vibid:22420001401772": 41,
+      "gas:candidate-vibid:22420001395182": 136,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 41,
+      "gas:candidate-vibid:22420001258133": 67,
+      "gas:candidate-vibid:22420001401210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 44,
-      "Зубарев Виктор Владиславович": 297,
-      "Иванова Ирина Геннадьевна": 52,
-      "Носов Дмитрий Юрьевич": 169,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 54,
-      "Ульских Роман Николаевич": 103,
-      "Ульянова Валентина Петровна": 16
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 44,
+      "gas:candidate-vibid:22420001399802": 297,
+      "gas:candidate-vibid:22420001401772": 52,
+      "gas:candidate-vibid:22420001395182": 169,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 54,
+      "gas:candidate-vibid:22420001258133": 103,
+      "gas:candidate-vibid:22420001401210": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 9,
-      "Золотухин Максим Анатольевич": 39,
-      "Зубарев Виктор Владиславович": 271,
-      "Иванова Ирина Геннадьевна": 53,
-      "Носов Дмитрий Юрьевич": 163,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 49,
-      "Ульских Роман Николаевич": 98,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 9,
+      "gas:candidate-vibid:22420001395025": 39,
+      "gas:candidate-vibid:22420001399802": 271,
+      "gas:candidate-vibid:22420001401772": 53,
+      "gas:candidate-vibid:22420001395182": 163,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 49,
+      "gas:candidate-vibid:22420001258133": 98,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 38,
-      "Зубарев Виктор Владиславович": 272,
-      "Иванова Ирина Геннадьевна": 64,
-      "Носов Дмитрий Юрьевич": 193,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 67,
-      "Ульских Роман Николаевич": 95,
-      "Ульянова Валентина Петровна": 10
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 38,
+      "gas:candidate-vibid:22420001399802": 272,
+      "gas:candidate-vibid:22420001401772": 64,
+      "gas:candidate-vibid:22420001395182": 193,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 67,
+      "gas:candidate-vibid:22420001258133": 95,
+      "gas:candidate-vibid:22420001401210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 19,
-      "Золотухин Максим Анатольевич": 35,
-      "Зубарев Виктор Владиславович": 300,
-      "Иванова Ирина Геннадьевна": 53,
-      "Носов Дмитрий Юрьевич": 136,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 73,
-      "Ульских Роман Николаевич": 92,
-      "Ульянова Валентина Петровна": 13
+      "gas:candidate-vibid:22420001401198": 19,
+      "gas:candidate-vibid:22420001395025": 35,
+      "gas:candidate-vibid:22420001399802": 300,
+      "gas:candidate-vibid:22420001401772": 53,
+      "gas:candidate-vibid:22420001395182": 136,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 73,
+      "gas:candidate-vibid:22420001258133": 92,
+      "gas:candidate-vibid:22420001401210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 52,
-      "Зубарев Виктор Владиславович": 304,
-      "Иванова Ирина Геннадьевна": 52,
-      "Носов Дмитрий Юрьевич": 155,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 63,
-      "Ульских Роман Николаевич": 79,
-      "Ульянова Валентина Петровна": 7
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 52,
+      "gas:candidate-vibid:22420001399802": 304,
+      "gas:candidate-vibid:22420001401772": 52,
+      "gas:candidate-vibid:22420001395182": 155,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 63,
+      "gas:candidate-vibid:22420001258133": 79,
+      "gas:candidate-vibid:22420001401210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 16,
-      "Золотухин Максим Анатольевич": 38,
-      "Зубарев Виктор Владиславович": 228,
-      "Иванова Ирина Геннадьевна": 43,
-      "Носов Дмитрий Юрьевич": 127,
-      "Питерский Ярослав Михайлович": 11,
-      "Семигин Геннадий Юрьевич": 32,
-      "Ульских Роман Николаевич": 65,
-      "Ульянова Валентина Петровна": 11
+      "gas:candidate-vibid:22420001401198": 16,
+      "gas:candidate-vibid:22420001395025": 38,
+      "gas:candidate-vibid:22420001399802": 228,
+      "gas:candidate-vibid:22420001401772": 43,
+      "gas:candidate-vibid:22420001395182": 127,
+      "gas:candidate-vibid:22420001398689": 11,
+      "gas:candidate-vibid:22420001387128": 32,
+      "gas:candidate-vibid:22420001258133": 65,
+      "gas:candidate-vibid:22420001401210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 13,
-      "Золотухин Максим Анатольевич": 60,
-      "Зубарев Виктор Владиславович": 367,
-      "Иванова Ирина Геннадьевна": 70,
-      "Носов Дмитрий Юрьевич": 191,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 44,
-      "Ульских Роман Николаевич": 117,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 13,
+      "gas:candidate-vibid:22420001395025": 60,
+      "gas:candidate-vibid:22420001399802": 367,
+      "gas:candidate-vibid:22420001401772": 70,
+      "gas:candidate-vibid:22420001395182": 191,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 44,
+      "gas:candidate-vibid:22420001258133": 117,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 11,
-      "Золотухин Максим Анатольевич": 21,
-      "Зубарев Виктор Владиславович": 230,
-      "Иванова Ирина Геннадьевна": 51,
-      "Носов Дмитрий Юрьевич": 136,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 26,
-      "Ульских Роман Николаевич": 77,
-      "Ульянова Валентина Петровна": 11
+      "gas:candidate-vibid:22420001401198": 11,
+      "gas:candidate-vibid:22420001395025": 21,
+      "gas:candidate-vibid:22420001399802": 230,
+      "gas:candidate-vibid:22420001401772": 51,
+      "gas:candidate-vibid:22420001395182": 136,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 26,
+      "gas:candidate-vibid:22420001258133": 77,
+      "gas:candidate-vibid:22420001401210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 20,
-      "Золотухин Максим Анатольевич": 35,
-      "Зубарев Виктор Владиславович": 344,
-      "Иванова Ирина Геннадьевна": 71,
-      "Носов Дмитрий Юрьевич": 177,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 54,
-      "Ульских Роман Николаевич": 84,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 20,
+      "gas:candidate-vibid:22420001395025": 35,
+      "gas:candidate-vibid:22420001399802": 344,
+      "gas:candidate-vibid:22420001401772": 71,
+      "gas:candidate-vibid:22420001395182": 177,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 54,
+      "gas:candidate-vibid:22420001258133": 84,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 12,
-      "Зубарев Виктор Владиславович": 152,
-      "Иванова Ирина Геннадьевна": 32,
-      "Носов Дмитрий Юрьевич": 68,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 16,
-      "Ульских Роман Николаевич": 39,
-      "Ульянова Валентина Петровна": 7
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 12,
+      "gas:candidate-vibid:22420001399802": 152,
+      "gas:candidate-vibid:22420001401772": 32,
+      "gas:candidate-vibid:22420001395182": 68,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 16,
+      "gas:candidate-vibid:22420001258133": 39,
+      "gas:candidate-vibid:22420001401210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 24,
-      "Зубарев Виктор Владиславович": 198,
-      "Иванова Ирина Геннадьевна": 38,
-      "Носов Дмитрий Юрьевич": 116,
-      "Питерский Ярослав Михайлович": 12,
-      "Семигин Геннадий Юрьевич": 26,
-      "Ульских Роман Николаевич": 66,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 24,
+      "gas:candidate-vibid:22420001399802": 198,
+      "gas:candidate-vibid:22420001401772": 38,
+      "gas:candidate-vibid:22420001395182": 116,
+      "gas:candidate-vibid:22420001398689": 12,
+      "gas:candidate-vibid:22420001387128": 26,
+      "gas:candidate-vibid:22420001258133": 66,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 17,
-      "Зубарев Виктор Владиславович": 136,
-      "Иванова Ирина Геннадьевна": 28,
-      "Носов Дмитрий Юрьевич": 80,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 28,
-      "Ульских Роман Николаевич": 64,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 17,
+      "gas:candidate-vibid:22420001399802": 136,
+      "gas:candidate-vibid:22420001401772": 28,
+      "gas:candidate-vibid:22420001395182": 80,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 28,
+      "gas:candidate-vibid:22420001258133": 64,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 19,
-      "Золотухин Максим Анатольевич": 20,
-      "Зубарев Виктор Владиславович": 200,
-      "Иванова Ирина Геннадьевна": 44,
-      "Носов Дмитрий Юрьевич": 137,
-      "Питерский Ярослав Михайлович": 10,
-      "Семигин Геннадий Юрьевич": 46,
-      "Ульских Роман Николаевич": 79,
-      "Ульянова Валентина Петровна": 9
+      "gas:candidate-vibid:22420001401198": 19,
+      "gas:candidate-vibid:22420001395025": 20,
+      "gas:candidate-vibid:22420001399802": 200,
+      "gas:candidate-vibid:22420001401772": 44,
+      "gas:candidate-vibid:22420001395182": 137,
+      "gas:candidate-vibid:22420001398689": 10,
+      "gas:candidate-vibid:22420001387128": 46,
+      "gas:candidate-vibid:22420001258133": 79,
+      "gas:candidate-vibid:22420001401210": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 11,
-      "Зубарев Виктор Владиславович": 93,
-      "Иванова Ирина Геннадьевна": 17,
-      "Носов Дмитрий Юрьевич": 99,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 17,
-      "Ульских Роман Николаевич": 25,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 11,
+      "gas:candidate-vibid:22420001399802": 93,
+      "gas:candidate-vibid:22420001401772": 17,
+      "gas:candidate-vibid:22420001395182": 99,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 17,
+      "gas:candidate-vibid:22420001258133": 25,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 8,
-      "Золотухин Максим Анатольевич": 21,
-      "Зубарев Виктор Владиславович": 178,
-      "Иванова Ирина Геннадьевна": 46,
-      "Носов Дмитрий Юрьевич": 73,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 14,
-      "Ульских Роман Николаевич": 58,
-      "Ульянова Валентина Петровна": 7
+      "gas:candidate-vibid:22420001401198": 8,
+      "gas:candidate-vibid:22420001395025": 21,
+      "gas:candidate-vibid:22420001399802": 178,
+      "gas:candidate-vibid:22420001401772": 46,
+      "gas:candidate-vibid:22420001395182": 73,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 14,
+      "gas:candidate-vibid:22420001258133": 58,
+      "gas:candidate-vibid:22420001401210": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 18,
-      "Золотухин Максим Анатольевич": 45,
-      "Зубарев Виктор Владиславович": 297,
-      "Иванова Ирина Геннадьевна": 74,
-      "Носов Дмитрий Юрьевич": 141,
-      "Питерский Ярослав Михайлович": 8,
-      "Семигин Геннадий Юрьевич": 19,
-      "Ульских Роман Николаевич": 129,
-      "Ульянова Валентина Петровна": 9
+      "gas:candidate-vibid:22420001401198": 18,
+      "gas:candidate-vibid:22420001395025": 45,
+      "gas:candidate-vibid:22420001399802": 297,
+      "gas:candidate-vibid:22420001401772": 74,
+      "gas:candidate-vibid:22420001395182": 141,
+      "gas:candidate-vibid:22420001398689": 8,
+      "gas:candidate-vibid:22420001387128": 19,
+      "gas:candidate-vibid:22420001258133": 129,
+      "gas:candidate-vibid:22420001401210": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 22,
-      "Золотухин Максим Анатольевич": 57,
-      "Зубарев Виктор Владиславович": 420,
-      "Иванова Ирина Геннадьевна": 87,
-      "Носов Дмитрий Юрьевич": 243,
-      "Питерский Ярослав Михайлович": 14,
-      "Семигин Геннадий Юрьевич": 48,
-      "Ульских Роман Николаевич": 140,
-      "Ульянова Валентина Петровна": 14
+      "gas:candidate-vibid:22420001401198": 22,
+      "gas:candidate-vibid:22420001395025": 57,
+      "gas:candidate-vibid:22420001399802": 420,
+      "gas:candidate-vibid:22420001401772": 87,
+      "gas:candidate-vibid:22420001395182": 243,
+      "gas:candidate-vibid:22420001398689": 14,
+      "gas:candidate-vibid:22420001387128": 48,
+      "gas:candidate-vibid:22420001258133": 140,
+      "gas:candidate-vibid:22420001401210": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 9,
-      "Золотухин Максим Анатольевич": 10,
-      "Зубарев Виктор Владиславович": 124,
-      "Иванова Ирина Геннадьевна": 27,
-      "Носов Дмитрий Юрьевич": 39,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 17,
-      "Ульских Роман Николаевич": 24,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 9,
+      "gas:candidate-vibid:22420001395025": 10,
+      "gas:candidate-vibid:22420001399802": 124,
+      "gas:candidate-vibid:22420001401772": 27,
+      "gas:candidate-vibid:22420001395182": 39,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 17,
+      "gas:candidate-vibid:22420001258133": 24,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180037&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180037&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 9,
-      "Золотухин Максим Анатольевич": 21,
-      "Зубарев Виктор Владиславович": 226,
-      "Иванова Ирина Геннадьевна": 24,
-      "Носов Дмитрий Юрьевич": 48,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 45,
-      "Ульских Роман Николаевич": 29,
-      "Ульянова Валентина Петровна": 18
+      "gas:candidate-vibid:22420001401198": 9,
+      "gas:candidate-vibid:22420001395025": 21,
+      "gas:candidate-vibid:22420001399802": 226,
+      "gas:candidate-vibid:22420001401772": 24,
+      "gas:candidate-vibid:22420001395182": 48,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 45,
+      "gas:candidate-vibid:22420001258133": 29,
+      "gas:candidate-vibid:22420001401210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 42,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 8,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 5,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 42,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 8,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 5,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 52,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 7,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 0,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 52,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 7,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 0,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 51,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 1,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 51,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 1,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 64,
-      "Иванова Ирина Геннадьевна": 14,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 3,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 64,
+      "gas:candidate-vibid:22420001401772": 14,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 3,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 188,
-      "Иванова Ирина Геннадьевна": 11,
-      "Носов Дмитрий Юрьевич": 29,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 14,
-      "Ульских Роман Николаевич": 21,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 188,
+      "gas:candidate-vibid:22420001401772": 11,
+      "gas:candidate-vibid:22420001395182": 29,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 14,
+      "gas:candidate-vibid:22420001258133": 21,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 206,
-      "Иванова Ирина Геннадьевна": 6,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 206,
+      "gas:candidate-vibid:22420001401772": 6,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 127,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 127,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 50,
-      "Иванова Ирина Геннадьевна": 14,
-      "Носов Дмитрий Юрьевич": 11,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 7,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 50,
+      "gas:candidate-vibid:22420001401772": 14,
+      "gas:candidate-vibid:22420001395182": 11,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 7,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 72,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 8,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 72,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 8,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 63,
-      "Иванова Ирина Геннадьевна": 6,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 12,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 63,
+      "gas:candidate-vibid:22420001401772": 6,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 12,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 13,
-      "Зубарев Виктор Владиславович": 162,
-      "Иванова Ирина Геннадьевна": 30,
-      "Носов Дмитрий Юрьевич": 72,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 30,
-      "Ульских Роман Николаевич": 40,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 13,
+      "gas:candidate-vibid:22420001399802": 162,
+      "gas:candidate-vibid:22420001401772": 30,
+      "gas:candidate-vibid:22420001395182": 72,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 30,
+      "gas:candidate-vibid:22420001258133": 40,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 9,
-      "Зубарев Виктор Владиславович": 56,
-      "Иванова Ирина Геннадьевна": 14,
-      "Носов Дмитрий Юрьевич": 19,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 11,
-      "Ульских Роман Николаевич": 10,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 9,
+      "gas:candidate-vibid:22420001399802": 56,
+      "gas:candidate-vibid:22420001401772": 14,
+      "gas:candidate-vibid:22420001395182": 19,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 11,
+      "gas:candidate-vibid:22420001258133": 10,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 50,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 7,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 13,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 50,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 7,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 13,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 9,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 80,
-      "Иванова Ирина Геннадьевна": 6,
-      "Носов Дмитрий Юрьевич": 9,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 9,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 80,
+      "gas:candidate-vibid:22420001401772": 6,
+      "gas:candidate-vibid:22420001395182": 9,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 9,
-      "Зубарев Виктор Владиславович": 222,
-      "Иванова Ирина Геннадьевна": 19,
-      "Носов Дмитрий Юрьевич": 61,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 15,
-      "Ульских Роман Николаевич": 26,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 9,
+      "gas:candidate-vibid:22420001399802": 222,
+      "gas:candidate-vibid:22420001401772": 19,
+      "gas:candidate-vibid:22420001395182": 61,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 15,
+      "gas:candidate-vibid:22420001258133": 26,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 14,
-      "Зубарев Виктор Владиславович": 252,
-      "Иванова Ирина Геннадьевна": 30,
-      "Носов Дмитрий Юрьевич": 18,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 21,
-      "Ульских Роман Николаевич": 17,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 14,
+      "gas:candidate-vibid:22420001399802": 252,
+      "gas:candidate-vibid:22420001401772": 30,
+      "gas:candidate-vibid:22420001395182": 18,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 21,
+      "gas:candidate-vibid:22420001258133": 17,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 36,
-      "Иванова Ирина Геннадьевна": 6,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 36,
+      "gas:candidate-vibid:22420001401772": 6,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 160,
-      "Иванова Ирина Геннадьевна": 18,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 6,
-      "Ульских Роман Николаевич": 17,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 160,
+      "gas:candidate-vibid:22420001401772": 18,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 6,
+      "gas:candidate-vibid:22420001258133": 17,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 0,
-      "Зубарев Виктор Владиславович": 107,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 9,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 1,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 0,
+      "gas:candidate-vibid:22420001399802": 107,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 9,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 1,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 11,
-      "Зубарев Виктор Владиславович": 128,
-      "Иванова Ирина Геннадьевна": 24,
-      "Носов Дмитрий Юрьевич": 50,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 32,
-      "Ульских Роман Николаевич": 35,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 11,
+      "gas:candidate-vibid:22420001399802": 128,
+      "gas:candidate-vibid:22420001401772": 24,
+      "gas:candidate-vibid:22420001395182": 50,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 32,
+      "gas:candidate-vibid:22420001258133": 35,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 26,
-      "Зубарев Виктор Владиславович": 207,
-      "Иванова Ирина Геннадьевна": 32,
-      "Носов Дмитрий Юрьевич": 136,
-      "Питерский Ярослав Михайлович": 8,
-      "Семигин Геннадий Юрьевич": 52,
-      "Ульских Роман Николаевич": 49,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 26,
+      "gas:candidate-vibid:22420001399802": 207,
+      "gas:candidate-vibid:22420001401772": 32,
+      "gas:candidate-vibid:22420001395182": 136,
+      "gas:candidate-vibid:22420001398689": 8,
+      "gas:candidate-vibid:22420001387128": 52,
+      "gas:candidate-vibid:22420001258133": 49,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 134,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 34,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 8,
-      "Ульских Роман Николаевич": 26,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 134,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 34,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 8,
+      "gas:candidate-vibid:22420001258133": 26,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 0,
-      "Зубарев Виктор Владиславович": 244,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 3,
-      "Ульских Роман Николаевич": 12,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 0,
+      "gas:candidate-vibid:22420001399802": 244,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 3,
+      "gas:candidate-vibid:22420001258133": 12,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 191,
-      "Иванова Ирина Геннадьевна": 6,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 4,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 191,
+      "gas:candidate-vibid:22420001401772": 6,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 4,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 50,
-      "Иванова Ирина Геннадьевна": 11,
-      "Носов Дмитрий Юрьевич": 13,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 12,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 50,
+      "gas:candidate-vibid:22420001401772": 11,
+      "gas:candidate-vibid:22420001395182": 13,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 12,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 11,
-      "Зубарев Виктор Владиславович": 115,
-      "Иванова Ирина Геннадьевна": 9,
-      "Носов Дмитрий Юрьевич": 28,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 9,
-      "Ульских Роман Николаевич": 23,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 11,
+      "gas:candidate-vibid:22420001399802": 115,
+      "gas:candidate-vibid:22420001401772": 9,
+      "gas:candidate-vibid:22420001395182": 28,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 9,
+      "gas:candidate-vibid:22420001258133": 23,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 13,
-      "Золотухин Максим Анатольевич": 12,
-      "Зубарев Виктор Владиславович": 353,
-      "Иванова Ирина Геннадьевна": 28,
-      "Носов Дмитрий Юрьевич": 50,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 30,
-      "Ульских Роман Николаевич": 44,
-      "Ульянова Валентина Петровна": 11
+      "gas:candidate-vibid:22420001401198": 13,
+      "gas:candidate-vibid:22420001395025": 12,
+      "gas:candidate-vibid:22420001399802": 353,
+      "gas:candidate-vibid:22420001401772": 28,
+      "gas:candidate-vibid:22420001395182": 50,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 30,
+      "gas:candidate-vibid:22420001258133": 44,
+      "gas:candidate-vibid:22420001401210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 43,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 10,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 43,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 10,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 101,
-      "Иванова Ирина Геннадьевна": 10,
-      "Носов Дмитрий Юрьевич": 9,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 101,
+      "gas:candidate-vibid:22420001401772": 10,
+      "gas:candidate-vibid:22420001395182": 9,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 100,
-      "Иванова Ирина Геннадьевна": 15,
-      "Носов Дмитрий Юрьевич": 20,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 5,
-      "Ульских Роман Николаевич": 11,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 100,
+      "gas:candidate-vibid:22420001401772": 15,
+      "gas:candidate-vibid:22420001395182": 20,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 5,
+      "gas:candidate-vibid:22420001258133": 11,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 9,
-      "Золотухин Максим Анатольевич": 17,
-      "Зубарев Виктор Владиславович": 103,
-      "Иванова Ирина Геннадьевна": 20,
-      "Носов Дмитрий Юрьевич": 10,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 5,
-      "Ульских Роман Николаевич": 12,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 9,
+      "gas:candidate-vibid:22420001395025": 17,
+      "gas:candidate-vibid:22420001399802": 103,
+      "gas:candidate-vibid:22420001401772": 20,
+      "gas:candidate-vibid:22420001395182": 10,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 5,
+      "gas:candidate-vibid:22420001258133": 12,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 0,
-      "Зубарев Виктор Владиславович": 30,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 3,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 0,
+      "gas:candidate-vibid:22420001399802": 30,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 3,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 35,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 10,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 35,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 10,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 53,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 8,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 5,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 53,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 8,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 5,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180038&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180038&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 15,
-      "Золотухин Максим Анатольевич": 25,
-      "Зубарев Виктор Владиславович": 508,
-      "Иванова Ирина Геннадьевна": 79,
-      "Носов Дмитрий Юрьевич": 134,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 28,
-      "Ульских Роман Николаевич": 83,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 15,
+      "gas:candidate-vibid:22420001395025": 25,
+      "gas:candidate-vibid:22420001399802": 508,
+      "gas:candidate-vibid:22420001401772": 79,
+      "gas:candidate-vibid:22420001395182": 134,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 28,
+      "gas:candidate-vibid:22420001258133": 83,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 184,
-      "Иванова Ирина Геннадьевна": 29,
-      "Носов Дмитрий Юрьевич": 28,
-      "Питерский Ярослав Михайлович": 11,
-      "Семигин Геннадий Юрьевич": 18,
-      "Ульских Роман Николаевич": 52,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 184,
+      "gas:candidate-vibid:22420001401772": 29,
+      "gas:candidate-vibid:22420001395182": 28,
+      "gas:candidate-vibid:22420001398689": 11,
+      "gas:candidate-vibid:22420001387128": 18,
+      "gas:candidate-vibid:22420001258133": 52,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 72,
-      "Иванова Ирина Геннадьевна": 10,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 7,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 27,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 72,
+      "gas:candidate-vibid:22420001401772": 10,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 7,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 27,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 16,
-      "Зубарев Виктор Владиславович": 149,
-      "Иванова Ирина Геннадьевна": 30,
-      "Носов Дмитрий Юрьевич": 54,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 17,
-      "Ульских Роман Николаевич": 21,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 16,
+      "gas:candidate-vibid:22420001399802": 149,
+      "gas:candidate-vibid:22420001401772": 30,
+      "gas:candidate-vibid:22420001395182": 54,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 17,
+      "gas:candidate-vibid:22420001258133": 21,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 9,
-      "Зубарев Виктор Владиславович": 171,
-      "Иванова Ирина Геннадьевна": 29,
-      "Носов Дмитрий Юрьевич": 42,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 20,
-      "Ульских Роман Николаевич": 51,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 9,
+      "gas:candidate-vibid:22420001399802": 171,
+      "gas:candidate-vibid:22420001401772": 29,
+      "gas:candidate-vibid:22420001395182": 42,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 20,
+      "gas:candidate-vibid:22420001258133": 51,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 20,
-      "Зубарев Виктор Владиславович": 278,
-      "Иванова Ирина Геннадьевна": 28,
-      "Носов Дмитрий Юрьевич": 64,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 19,
-      "Ульских Роман Николаевич": 85,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 20,
+      "gas:candidate-vibid:22420001399802": 278,
+      "gas:candidate-vibid:22420001401772": 28,
+      "gas:candidate-vibid:22420001395182": 64,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 19,
+      "gas:candidate-vibid:22420001258133": 85,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 6,
-      "Золотухин Максим Анатольевич": 5,
-      "Зубарев Виктор Владиславович": 130,
-      "Иванова Ирина Геннадьевна": 20,
-      "Носов Дмитрий Юрьевич": 46,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 27,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 6,
+      "gas:candidate-vibid:22420001395025": 5,
+      "gas:candidate-vibid:22420001399802": 130,
+      "gas:candidate-vibid:22420001401772": 20,
+      "gas:candidate-vibid:22420001395182": 46,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 27,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 170,
-      "Иванова Ирина Геннадьевна": 27,
-      "Носов Дмитрий Юрьевич": 34,
-      "Питерский Ярослав Михайлович": 7,
-      "Семигин Геннадий Юрьевич": 6,
-      "Ульских Роман Николаевич": 26,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 170,
+      "gas:candidate-vibid:22420001401772": 27,
+      "gas:candidate-vibid:22420001395182": 34,
+      "gas:candidate-vibid:22420001398689": 7,
+      "gas:candidate-vibid:22420001387128": 6,
+      "gas:candidate-vibid:22420001258133": 26,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 10,
-      "Зубарев Виктор Владиславович": 144,
-      "Иванова Ирина Геннадьевна": 17,
-      "Носов Дмитрий Юрьевич": 51,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 14,
-      "Ульских Роман Николаевич": 53,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 10,
+      "gas:candidate-vibid:22420001399802": 144,
+      "gas:candidate-vibid:22420001401772": 17,
+      "gas:candidate-vibid:22420001395182": 51,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 14,
+      "gas:candidate-vibid:22420001258133": 53,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 9,
-      "Зубарев Виктор Владиславович": 186,
-      "Иванова Ирина Геннадьевна": 25,
-      "Носов Дмитрий Юрьевич": 42,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 36,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 9,
+      "gas:candidate-vibid:22420001399802": 186,
+      "gas:candidate-vibid:22420001401772": 25,
+      "gas:candidate-vibid:22420001395182": 42,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 36,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 90,
-      "Иванова Ирина Геннадьевна": 12,
-      "Носов Дмитрий Юрьевич": 7,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 90,
+      "gas:candidate-vibid:22420001401772": 12,
+      "gas:candidate-vibid:22420001395182": 7,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 108,
-      "Иванова Ирина Геннадьевна": 12,
-      "Носов Дмитрий Юрьевич": 19,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 3,
-      "Ульских Роман Николаевич": 20,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 108,
+      "gas:candidate-vibid:22420001401772": 12,
+      "gas:candidate-vibid:22420001395182": 19,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 3,
+      "gas:candidate-vibid:22420001258133": 20,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 28,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 2,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 11,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 28,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 2,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 11,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 13,
-      "Зубарев Виктор Владиславович": 192,
-      "Иванова Ирина Геннадьевна": 22,
-      "Носов Дмитрий Юрьевич": 30,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 9,
-      "Ульских Роман Николаевич": 21,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 13,
+      "gas:candidate-vibid:22420001399802": 192,
+      "gas:candidate-vibid:22420001401772": 22,
+      "gas:candidate-vibid:22420001395182": 30,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 9,
+      "gas:candidate-vibid:22420001258133": 21,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 15,
-      "Зубарев Виктор Владиславович": 176,
-      "Иванова Ирина Геннадьевна": 22,
-      "Носов Дмитрий Юрьевич": 55,
-      "Питерский Ярослав Михайлович": 10,
-      "Семигин Геннадий Юрьевич": 13,
-      "Ульских Роман Николаевич": 44,
-      "Ульянова Валентина Петровна": 5
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 15,
+      "gas:candidate-vibid:22420001399802": 176,
+      "gas:candidate-vibid:22420001401772": 22,
+      "gas:candidate-vibid:22420001395182": 55,
+      "gas:candidate-vibid:22420001398689": 10,
+      "gas:candidate-vibid:22420001387128": 13,
+      "gas:candidate-vibid:22420001258133": 44,
+      "gas:candidate-vibid:22420001401210": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 45,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 6,
-      "Ульских Роман Николаевич": 10,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 45,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 6,
+      "gas:candidate-vibid:22420001258133": 10,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 61,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 61,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 52,
-      "Иванова Ирина Геннадьевна": 12,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 8,
-      "Ульских Роман Николаевич": 21,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 52,
+      "gas:candidate-vibid:22420001401772": 12,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 8,
+      "gas:candidate-vibid:22420001258133": 21,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 40,
-      "Иванова Ирина Геннадьевна": 10,
-      "Носов Дмитрий Юрьевич": 11,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 40,
+      "gas:candidate-vibid:22420001401772": 10,
+      "gas:candidate-vibid:22420001395182": 11,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 40,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 2,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 40,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 2,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 78,
-      "Иванова Ирина Геннадьевна": 15,
-      "Носов Дмитрий Юрьевич": 13,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 78,
+      "gas:candidate-vibid:22420001401772": 15,
+      "gas:candidate-vibid:22420001395182": 13,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 44,
-      "Иванова Ирина Геннадьевна": 11,
-      "Носов Дмитрий Юрьевич": 19,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 44,
+      "gas:candidate-vibid:22420001401772": 11,
+      "gas:candidate-vibid:22420001395182": 19,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 9,
-      "Золотухин Максим Анатольевич": 11,
-      "Зубарев Виктор Владиславович": 105,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 9,
+      "gas:candidate-vibid:22420001395025": 11,
+      "gas:candidate-vibid:22420001399802": 105,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 25,
-      "Золотухин Максим Анатольевич": 22,
-      "Зубарев Виктор Владиславович": 311,
-      "Иванова Ирина Геннадьевна": 36,
-      "Носов Дмитрий Юрьевич": 48,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 16,
-      "Ульских Роман Николаевич": 56,
-      "Ульянова Валентина Петровна": 11
+      "gas:candidate-vibid:22420001401198": 25,
+      "gas:candidate-vibid:22420001395025": 22,
+      "gas:candidate-vibid:22420001399802": 311,
+      "gas:candidate-vibid:22420001401772": 36,
+      "gas:candidate-vibid:22420001395182": 48,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 16,
+      "gas:candidate-vibid:22420001258133": 56,
+      "gas:candidate-vibid:22420001401210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 72,
-      "Иванова Ирина Геннадьевна": 11,
-      "Носов Дмитрий Юрьевич": 13,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 5,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 72,
+      "gas:candidate-vibid:22420001401772": 11,
+      "gas:candidate-vibid:22420001395182": 13,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 5,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 5,
-      "Зубарев Виктор Владиславович": 18,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 5,
+      "gas:candidate-vibid:22420001399802": 18,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 46,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 18,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 46,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 18,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 134,
-      "Иванова Ирина Геннадьевна": 27,
-      "Носов Дмитрий Юрьевич": 45,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 13,
-      "Ульских Роман Николаевич": 28,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 134,
+      "gas:candidate-vibid:22420001401772": 27,
+      "gas:candidate-vibid:22420001395182": 45,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 13,
+      "gas:candidate-vibid:22420001258133": 28,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 28,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 9,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 7,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 28,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 9,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 7,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 38,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 38,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 5,
-      "Зубарев Виктор Владиславович": 114,
-      "Иванова Ирина Геннадьевна": 18,
-      "Носов Дмитрий Юрьевич": 50,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 10,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 5,
+      "gas:candidate-vibid:22420001399802": 114,
+      "gas:candidate-vibid:22420001401772": 18,
+      "gas:candidate-vibid:22420001395182": 50,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 10,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 31,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 31,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 6,
-      "Зубарев Виктор Владиславович": 54,
-      "Иванова Ирина Геннадьевна": 17,
-      "Носов Дмитрий Юрьевич": 17,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 6,
+      "gas:candidate-vibid:22420001399802": 54,
+      "gas:candidate-vibid:22420001401772": 17,
+      "gas:candidate-vibid:22420001395182": 17,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 151,
-      "Иванова Ирина Геннадьевна": 12,
-      "Носов Дмитрий Юрьевич": 17,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 9,
-      "Ульских Роман Николаевич": 13,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 151,
+      "gas:candidate-vibid:22420001401772": 12,
+      "gas:candidate-vibid:22420001395182": 17,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 9,
+      "gas:candidate-vibid:22420001258133": 13,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 5,
-      "Зубарев Виктор Владиславович": 32,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 8,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 1,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 5,
+      "gas:candidate-vibid:22420001399802": 32,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 8,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 1,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 5,
-      "Золотухин Максим Анатольевич": 14,
-      "Зубарев Виктор Владиславович": 22,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 5,
+      "gas:candidate-vibid:22420001395025": 14,
+      "gas:candidate-vibid:22420001399802": 22,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 94,
-      "Иванова Ирина Геннадьевна": 14,
-      "Носов Дмитрий Юрьевич": 10,
-      "Питерский Ярослав Михайлович": 7,
-      "Семигин Геннадий Юрьевич": 6,
-      "Ульских Роман Николаевич": 11,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 94,
+      "gas:candidate-vibid:22420001401772": 14,
+      "gas:candidate-vibid:22420001395182": 10,
+      "gas:candidate-vibid:22420001398689": 7,
+      "gas:candidate-vibid:22420001387128": 6,
+      "gas:candidate-vibid:22420001258133": 11,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 118,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 3,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 118,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 3,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 10,
-      "Золотухин Максим Анатольевич": 23,
-      "Зубарев Виктор Владиславович": 170,
-      "Иванова Ирина Геннадьевна": 23,
-      "Носов Дмитрий Юрьевич": 31,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 9,
-      "Ульских Роман Николаевич": 37,
-      "Ульянова Валентина Петровна": 6
+      "gas:candidate-vibid:22420001401198": 10,
+      "gas:candidate-vibid:22420001395025": 23,
+      "gas:candidate-vibid:22420001399802": 170,
+      "gas:candidate-vibid:22420001401772": 23,
+      "gas:candidate-vibid:22420001395182": 31,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 9,
+      "gas:candidate-vibid:22420001258133": 37,
+      "gas:candidate-vibid:22420001401210": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 40,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 3,
-      "Ульских Роман Николаевич": 13,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 40,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 3,
+      "gas:candidate-vibid:22420001258133": 13,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 22,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 3,
-      "Питерский Ярослав Михайлович": 3,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 22,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 3,
+      "gas:candidate-vibid:22420001398689": 3,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 12,
-      "Золотухин Максим Анатольевич": 12,
-      "Зубарев Виктор Владиславович": 147,
-      "Иванова Ирина Геннадьевна": 36,
-      "Носов Дмитрий Юрьевич": 19,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 12,
-      "Ульских Роман Николаевич": 34,
-      "Ульянова Валентина Петровна": 4
+      "gas:candidate-vibid:22420001401198": 12,
+      "gas:candidate-vibid:22420001395025": 12,
+      "gas:candidate-vibid:22420001399802": 147,
+      "gas:candidate-vibid:22420001401772": 36,
+      "gas:candidate-vibid:22420001395182": 19,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 12,
+      "gas:candidate-vibid:22420001258133": 34,
+      "gas:candidate-vibid:22420001401210": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 8,
-      "Зубарев Виктор Владиславович": 44,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 8,
+      "gas:candidate-vibid:22420001399802": 44,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 43,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 9,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 43,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 9,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 39,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 1,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 39,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 1,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 12,
-      "Иванова Ирина Геннадьевна": 2,
-      "Носов Дмитрий Юрьевич": 13,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 0,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 12,
+      "gas:candidate-vibid:22420001401772": 2,
+      "gas:candidate-vibid:22420001395182": 13,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 0,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180039&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180039&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 33,
-      "Золотухин Максим Анатольевич": 37,
-      "Зубарев Виктор Владиславович": 331,
-      "Иванова Ирина Геннадьевна": 37,
-      "Носов Дмитрий Юрьевич": 111,
-      "Питерский Ярослав Михайлович": 11,
-      "Семигин Геннадий Юрьевич": 21,
-      "Ульских Роман Николаевич": 96,
-      "Ульянова Валентина Петровна": 13
+      "gas:candidate-vibid:22420001401198": 33,
+      "gas:candidate-vibid:22420001395025": 37,
+      "gas:candidate-vibid:22420001399802": 331,
+      "gas:candidate-vibid:22420001401772": 37,
+      "gas:candidate-vibid:22420001395182": 111,
+      "gas:candidate-vibid:22420001398689": 11,
+      "gas:candidate-vibid:22420001387128": 21,
+      "gas:candidate-vibid:22420001258133": 96,
+      "gas:candidate-vibid:22420001401210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180040&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180040&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 27,
-      "Золотухин Максим Анатольевич": 28,
-      "Зубарев Виктор Владиславович": 288,
-      "Иванова Ирина Геннадьевна": 41,
-      "Носов Дмитрий Юрьевич": 107,
-      "Питерский Ярослав Михайлович": 9,
-      "Семигин Геннадий Юрьевич": 22,
-      "Ульских Роман Николаевич": 64,
-      "Ульянова Валентина Петровна": 10
+      "gas:candidate-vibid:22420001401198": 27,
+      "gas:candidate-vibid:22420001395025": 28,
+      "gas:candidate-vibid:22420001399802": 288,
+      "gas:candidate-vibid:22420001401772": 41,
+      "gas:candidate-vibid:22420001395182": 107,
+      "gas:candidate-vibid:22420001398689": 9,
+      "gas:candidate-vibid:22420001387128": 22,
+      "gas:candidate-vibid:22420001258133": 64,
+      "gas:candidate-vibid:22420001401210": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180040&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180040&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 21,
-      "Золотухин Максим Анатольевич": 25,
-      "Зубарев Виктор Владиславович": 311,
-      "Иванова Ирина Геннадьевна": 40,
-      "Носов Дмитрий Юрьевич": 93,
-      "Питерский Ярослав Михайлович": 8,
-      "Семигин Геннадий Юрьевич": 30,
-      "Ульских Роман Николаевич": 46,
-      "Ульянова Валентина Петровна": 8
+      "gas:candidate-vibid:22420001401198": 21,
+      "gas:candidate-vibid:22420001395025": 25,
+      "gas:candidate-vibid:22420001399802": 311,
+      "gas:candidate-vibid:22420001401772": 40,
+      "gas:candidate-vibid:22420001395182": 93,
+      "gas:candidate-vibid:22420001398689": 8,
+      "gas:candidate-vibid:22420001387128": 30,
+      "gas:candidate-vibid:22420001258133": 46,
+      "gas:candidate-vibid:22420001401210": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180040&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180040&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 15,
-      "Золотухин Максим Анатольевич": 36,
-      "Зубарев Виктор Владиславович": 324,
-      "Иванова Ирина Геннадьевна": 58,
-      "Носов Дмитрий Юрьевич": 139,
-      "Питерский Ярослав Михайлович": 17,
-      "Семигин Геннадий Юрьевич": 33,
-      "Ульских Роман Николаевич": 87,
-      "Ульянова Валентина Петровна": 15
+      "gas:candidate-vibid:22420001401198": 15,
+      "gas:candidate-vibid:22420001395025": 36,
+      "gas:candidate-vibid:22420001399802": 324,
+      "gas:candidate-vibid:22420001401772": 58,
+      "gas:candidate-vibid:22420001395182": 139,
+      "gas:candidate-vibid:22420001398689": 17,
+      "gas:candidate-vibid:22420001387128": 33,
+      "gas:candidate-vibid:22420001258133": 87,
+      "gas:candidate-vibid:22420001401210": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180040&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180040&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 30,
-      "Золотухин Максим Анатольевич": 39,
-      "Зубарев Виктор Владиславович": 385,
-      "Иванова Ирина Геннадьевна": 56,
-      "Носов Дмитрий Юрьевич": 101,
-      "Питерский Ярослав Михайлович": 11,
-      "Семигин Геннадий Юрьевич": 28,
-      "Ульских Роман Николаевич": 82,
-      "Ульянова Валентина Петровна": 13
+      "gas:candidate-vibid:22420001401198": 30,
+      "gas:candidate-vibid:22420001395025": 39,
+      "gas:candidate-vibid:22420001399802": 385,
+      "gas:candidate-vibid:22420001401772": 56,
+      "gas:candidate-vibid:22420001395182": 101,
+      "gas:candidate-vibid:22420001398689": 11,
+      "gas:candidate-vibid:22420001387128": 28,
+      "gas:candidate-vibid:22420001258133": 82,
+      "gas:candidate-vibid:22420001401210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180040&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180040&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 18,
-      "Золотухин Максим Анатольевич": 19,
-      "Зубарев Виктор Владиславович": 311,
-      "Иванова Ирина Геннадьевна": 47,
-      "Носов Дмитрий Юрьевич": 119,
-      "Питерский Ярослав Михайлович": 4,
-      "Семигин Геннадий Юрьевич": 31,
-      "Ульских Роман Николаевич": 95,
-      "Ульянова Валентина Петровна": 18
+      "gas:candidate-vibid:22420001401198": 18,
+      "gas:candidate-vibid:22420001395025": 19,
+      "gas:candidate-vibid:22420001399802": 311,
+      "gas:candidate-vibid:22420001401772": 47,
+      "gas:candidate-vibid:22420001395182": 119,
+      "gas:candidate-vibid:22420001398689": 4,
+      "gas:candidate-vibid:22420001387128": 31,
+      "gas:candidate-vibid:22420001258133": 95,
+      "gas:candidate-vibid:22420001401210": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 15,
-      "Золотухин Максим Анатольевич": 21,
-      "Зубарев Виктор Владиславович": 279,
-      "Иванова Ирина Геннадьевна": 43,
-      "Носов Дмитрий Юрьевич": 132,
-      "Питерский Ярослав Михайлович": 5,
-      "Семигин Геннадий Юрьевич": 24,
-      "Ульских Роман Николаевич": 83,
-      "Ульянова Валентина Петровна": 12
+      "gas:candidate-vibid:22420001401198": 15,
+      "gas:candidate-vibid:22420001395025": 21,
+      "gas:candidate-vibid:22420001399802": 279,
+      "gas:candidate-vibid:22420001401772": 43,
+      "gas:candidate-vibid:22420001395182": 132,
+      "gas:candidate-vibid:22420001398689": 5,
+      "gas:candidate-vibid:22420001387128": 24,
+      "gas:candidate-vibid:22420001258133": 83,
+      "gas:candidate-vibid:22420001401210": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 14,
-      "Золотухин Максим Анатольевич": 22,
-      "Зубарев Виктор Владиславович": 254,
-      "Иванова Ирина Геннадьевна": 44,
-      "Носов Дмитрий Юрьевич": 131,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 17,
-      "Ульских Роман Николаевич": 75,
-      "Ульянова Валентина Петровна": 13
+      "gas:candidate-vibid:22420001401198": 14,
+      "gas:candidate-vibid:22420001395025": 22,
+      "gas:candidate-vibid:22420001399802": 254,
+      "gas:candidate-vibid:22420001401772": 44,
+      "gas:candidate-vibid:22420001395182": 131,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 17,
+      "gas:candidate-vibid:22420001258133": 75,
+      "gas:candidate-vibid:22420001401210": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 14,
-      "Зубарев Виктор Владиславович": 165,
-      "Иванова Ирина Геннадьевна": 29,
-      "Носов Дмитрий Юрьевич": 42,
-      "Питерский Ярослав Михайлович": 6,
-      "Семигин Геннадий Юрьевич": 6,
-      "Ульских Роман Николаевич": 44,
-      "Ульянова Валентина Петровна": 11
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 14,
+      "gas:candidate-vibid:22420001399802": 165,
+      "gas:candidate-vibid:22420001401772": 29,
+      "gas:candidate-vibid:22420001395182": 42,
+      "gas:candidate-vibid:22420001398689": 6,
+      "gas:candidate-vibid:22420001387128": 6,
+      "gas:candidate-vibid:22420001258133": 44,
+      "gas:candidate-vibid:22420001401210": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 4,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 24,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 2,
-      "Ульских Роман Николаевич": 6,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 4,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 24,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 2,
+      "gas:candidate-vibid:22420001258133": 6,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 29,
-      "Иванова Ирина Геннадьевна": 2,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 4,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 29,
+      "gas:candidate-vibid:22420001401772": 2,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 4,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 32,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 2,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 0,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 32,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 2,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 0,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 18,
-      "Иванова Ирина Геннадьевна": 4,
-      "Носов Дмитрий Юрьевич": 6,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 18,
+      "gas:candidate-vibid:22420001401772": 4,
+      "gas:candidate-vibid:22420001395182": 6,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 15,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 1,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 4,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 15,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 1,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 4,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 7,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 112,
-      "Иванова Ирина Геннадьевна": 23,
-      "Носов Дмитрий Юрьевич": 24,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 12,
-      "Ульских Роман Николаевич": 21,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 7,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 112,
+      "gas:candidate-vibid:22420001401772": 23,
+      "gas:candidate-vibid:22420001395182": 24,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 12,
+      "gas:candidate-vibid:22420001258133": 21,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 4,
-      "Зубарев Виктор Владиславович": 41,
-      "Иванова Ирина Геннадьевна": 7,
-      "Носов Дмитрий Юрьевич": 15,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 4,
-      "Ульянова Валентина Петровна": 3
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 4,
+      "gas:candidate-vibid:22420001399802": 41,
+      "gas:candidate-vibid:22420001401772": 7,
+      "gas:candidate-vibid:22420001395182": 15,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 4,
+      "gas:candidate-vibid:22420001401210": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 1,
-      "Золотухин Максим Анатольевич": 2,
-      "Зубарев Виктор Владиславович": 18,
-      "Иванова Ирина Геннадьевна": 2,
-      "Носов Дмитрий Юрьевич": 2,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 2,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 1,
+      "gas:candidate-vibid:22420001395025": 2,
+      "gas:candidate-vibid:22420001399802": 18,
+      "gas:candidate-vibid:22420001401772": 2,
+      "gas:candidate-vibid:22420001395182": 2,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 2,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 8,
-      "Иванова Ирина Геннадьевна": 2,
-      "Носов Дмитрий Юрьевич": 1,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 0,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 8,
+      "gas:candidate-vibid:22420001401772": 2,
+      "gas:candidate-vibid:22420001395182": 1,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 0,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 43,
-      "Иванова Ирина Геннадьевна": 12,
-      "Носов Дмитрий Юрьевич": 31,
-      "Питерский Ярослав Михайлович": 1,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 8,
-      "Ульянова Валентина Петровна": 2
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 43,
+      "gas:candidate-vibid:22420001401772": 12,
+      "gas:candidate-vibid:22420001395182": 31,
+      "gas:candidate-vibid:22420001398689": 1,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 8,
+      "gas:candidate-vibid:22420001401210": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 2,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 37,
-      "Иванова Ирина Геннадьевна": 3,
-      "Носов Дмитрий Юрьевич": 8,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 4,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 2,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 37,
+      "gas:candidate-vibid:22420001401772": 3,
+      "gas:candidate-vibid:22420001395182": 8,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 4,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 1,
-      "Зубарев Виктор Владиславович": 29,
-      "Иванова Ирина Геннадьевна": 1,
-      "Носов Дмитрий Юрьевич": 5,
-      "Питерский Ярослав Михайлович": 2,
-      "Семигин Геннадий Юрьевич": 1,
-      "Ульских Роман Николаевич": 5,
-      "Ульянова Валентина Петровна": 1
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 1,
+      "gas:candidate-vibid:22420001399802": 29,
+      "gas:candidate-vibid:22420001401772": 1,
+      "gas:candidate-vibid:22420001395182": 5,
+      "gas:candidate-vibid:22420001398689": 2,
+      "gas:candidate-vibid:22420001387128": 1,
+      "gas:candidate-vibid:22420001258133": 5,
+      "gas:candidate-vibid:22420001401210": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 3,
-      "Золотухин Максим Анатольевич": 3,
-      "Зубарев Виктор Владиславович": 74,
-      "Иванова Ирина Геннадьевна": 8,
-      "Носов Дмитрий Юрьевич": 14,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 0,
-      "Ульских Роман Николаевич": 3,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 3,
+      "gas:candidate-vibid:22420001395025": 3,
+      "gas:candidate-vibid:22420001399802": 74,
+      "gas:candidate-vibid:22420001401772": 8,
+      "gas:candidate-vibid:22420001395182": 14,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 0,
+      "gas:candidate-vibid:22420001258133": 3,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_24_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Ербягин Сергей Александрович": 0,
-      "Золотухин Максим Анатольевич": 7,
-      "Зубарев Виктор Владиславович": 40,
-      "Иванова Ирина Геннадьевна": 5,
-      "Носов Дмитрий Юрьевич": 4,
-      "Питерский Ярослав Михайлович": 0,
-      "Семигин Геннадий Юрьевич": 4,
-      "Ульских Роман Николаевич": 10,
-      "Ульянова Валентина Петровна": 0
+      "gas:candidate-vibid:22420001401198": 0,
+      "gas:candidate-vibid:22420001395025": 7,
+      "gas:candidate-vibid:22420001399802": 40,
+      "gas:candidate-vibid:22420001401772": 5,
+      "gas:candidate-vibid:22420001395182": 4,
+      "gas:candidate-vibid:22420001398689": 0,
+      "gas:candidate-vibid:22420001387128": 4,
+      "gas:candidate-vibid:22420001258133": 10,
+      "gas:candidate-vibid:22420001401210": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000074&tvd=22420001180041&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180041&type=464",

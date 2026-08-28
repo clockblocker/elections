@@ -43,16 +43,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 8,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 6,
-      "Казанков Сергей Иванович": 75,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 2,
-      "Федоров Альберт Иванович": 10,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 191
+      "gas:candidate-vibid:2122000659246": 8,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 6,
+      "gas:candidate-vibid:2122000658706": 75,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 2,
+      "gas:candidate-vibid:2122000657661": 10,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -103,16 +103,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 0,
-      "Золотухин Роман Владимирович": 4,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 3,
-      "Казанков Сергей Иванович": 89,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 2,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 134
+      "gas:candidate-vibid:2122000659246": 0,
+      "gas:candidate-vibid:2122000660349": 4,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 3,
+      "gas:candidate-vibid:2122000658706": 89,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 2,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -163,16 +163,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 3,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 3,
-      "Казаков Олег Александрович": 9,
-      "Казанков Сергей Иванович": 97,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 3,
-      "Федоров Альберт Иванович": 6,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 111
+      "gas:candidate-vibid:2122000659246": 3,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 3,
+      "gas:candidate-vibid:2122000657868": 9,
+      "gas:candidate-vibid:2122000658706": 97,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 3,
+      "gas:candidate-vibid:2122000657661": 6,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -223,16 +223,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 20,
-      "Казанков Сергей Иванович": 87,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 8,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 162
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 20,
+      "gas:candidate-vibid:2122000658706": 87,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 8,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -283,16 +283,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 1,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 10,
-      "Казанков Сергей Иванович": 45,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 2,
-      "Федоров Альберт Иванович": 3,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 62
+      "gas:candidate-vibid:2122000659246": 1,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 10,
+      "gas:candidate-vibid:2122000658706": 45,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 2,
+      "gas:candidate-vibid:2122000657661": 3,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -343,16 +343,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 1,
-      "Казаков Олег Александрович": 19,
-      "Казанков Сергей Иванович": 80,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 1,
-      "Федоров Альберт Иванович": 6,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 150
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 1,
+      "gas:candidate-vibid:2122000657868": 19,
+      "gas:candidate-vibid:2122000658706": 80,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 1,
+      "gas:candidate-vibid:2122000657661": 6,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -403,16 +403,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 16,
-      "Золотухин Роман Владимирович": 4,
-      "Зонов Юрий Александрович": 3,
-      "Казаков Олег Александрович": 17,
-      "Казанков Сергей Иванович": 175,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 4,
-      "Федоров Альберт Иванович": 20,
-      "Шпарбер Денис Викторович": 6,
-      "Яковлева Лариса Николаевна": 266
+      "gas:candidate-vibid:2122000659246": 16,
+      "gas:candidate-vibid:2122000660349": 4,
+      "gas:candidate-vibid:2122000660049": 3,
+      "gas:candidate-vibid:2122000657868": 17,
+      "gas:candidate-vibid:2122000658706": 175,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 4,
+      "gas:candidate-vibid:2122000657661": 20,
+      "gas:candidate-vibid:2122000659171": 6,
+      "gas:candidate-vibid:2122000660202": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -463,16 +463,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 9,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 3,
-      "Казаков Олег Александрович": 14,
-      "Казанков Сергей Иванович": 132,
-      "Смышляев Андрей Александрович": 2,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 12,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 173
+      "gas:candidate-vibid:2122000659246": 9,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 3,
+      "gas:candidate-vibid:2122000657868": 14,
+      "gas:candidate-vibid:2122000658706": 132,
+      "gas:candidate-vibid:2122000659591": 2,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 12,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -523,16 +523,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 5,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 5,
-      "Казаков Олег Александрович": 14,
-      "Казанков Сергей Иванович": 104,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 3,
-      "Федоров Альберт Иванович": 13,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 167
+      "gas:candidate-vibid:2122000659246": 5,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 5,
+      "gas:candidate-vibid:2122000657868": 14,
+      "gas:candidate-vibid:2122000658706": 104,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 3,
+      "gas:candidate-vibid:2122000657661": 13,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -583,16 +583,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 1,
-      "Казаков Олег Александрович": 8,
-      "Казанков Сергей Иванович": 98,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 3,
-      "Федоров Альберт Иванович": 3,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 98
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 1,
+      "gas:candidate-vibid:2122000657868": 8,
+      "gas:candidate-vibid:2122000658706": 98,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 3,
+      "gas:candidate-vibid:2122000657661": 3,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -643,16 +643,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 13,
-      "Казанков Сергей Иванович": 87,
-      "Смышляев Андрей Александрович": 2,
-      "Уланова Екатерина Валентиновна": 1,
-      "Федоров Альберт Иванович": 10,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 168
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 13,
+      "gas:candidate-vibid:2122000658706": 87,
+      "gas:candidate-vibid:2122000659591": 2,
+      "gas:candidate-vibid:2122000660258": 1,
+      "gas:candidate-vibid:2122000657661": 10,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -703,16 +703,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 6,
-      "Казанков Сергей Иванович": 71,
-      "Смышляев Андрей Александрович": 2,
-      "Уланова Екатерина Валентиновна": 2,
-      "Федоров Альберт Иванович": 5,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 103
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 6,
+      "gas:candidate-vibid:2122000658706": 71,
+      "gas:candidate-vibid:2122000659591": 2,
+      "gas:candidate-vibid:2122000660258": 2,
+      "gas:candidate-vibid:2122000657661": 5,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -763,16 +763,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 5,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 3,
-      "Казаков Олег Александрович": 20,
-      "Казанков Сергей Иванович": 97,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 2,
-      "Федоров Альберт Иванович": 19,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 169
+      "gas:candidate-vibid:2122000659246": 5,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 3,
+      "gas:candidate-vibid:2122000657868": 20,
+      "gas:candidate-vibid:2122000658706": 97,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 2,
+      "gas:candidate-vibid:2122000657661": 19,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608699&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608699&type=464",
@@ -823,16 +823,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 30,
-      "Золотухин Роман Владимирович": 6,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 14,
-      "Казанков Сергей Иванович": 91,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 9,
-      "Федоров Альберт Иванович": 24,
-      "Шпарбер Денис Викторович": 4,
-      "Яковлева Лариса Николаевна": 396
+      "gas:candidate-vibid:2122000659246": 30,
+      "gas:candidate-vibid:2122000660349": 6,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 14,
+      "gas:candidate-vibid:2122000658706": 91,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 9,
+      "gas:candidate-vibid:2122000657661": 24,
+      "gas:candidate-vibid:2122000659171": 4,
+      "gas:candidate-vibid:2122000660202": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -883,16 +883,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 26,
-      "Золотухин Роман Владимирович": 8,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 25,
-      "Казанков Сергей Иванович": 244,
-      "Смышляев Андрей Александрович": 6,
-      "Уланова Екатерина Валентиновна": 8,
-      "Федоров Альберт Иванович": 27,
-      "Шпарбер Денис Викторович": 2,
-      "Яковлева Лариса Николаевна": 227
+      "gas:candidate-vibid:2122000659246": 26,
+      "gas:candidate-vibid:2122000660349": 8,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 25,
+      "gas:candidate-vibid:2122000658706": 244,
+      "gas:candidate-vibid:2122000659591": 6,
+      "gas:candidate-vibid:2122000660258": 8,
+      "gas:candidate-vibid:2122000657661": 27,
+      "gas:candidate-vibid:2122000659171": 2,
+      "gas:candidate-vibid:2122000660202": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -943,16 +943,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 34,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 9,
-      "Казаков Олег Александрович": 25,
-      "Казанков Сергей Иванович": 272,
-      "Смышляев Андрей Александрович": 4,
-      "Уланова Екатерина Валентиновна": 7,
-      "Федоров Альберт Иванович": 25,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 230
+      "gas:candidate-vibid:2122000659246": 34,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 9,
+      "gas:candidate-vibid:2122000657868": 25,
+      "gas:candidate-vibid:2122000658706": 272,
+      "gas:candidate-vibid:2122000659591": 4,
+      "gas:candidate-vibid:2122000660258": 7,
+      "gas:candidate-vibid:2122000657661": 25,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1003,16 +1003,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 27,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 3,
-      "Казаков Олег Александрович": 46,
-      "Казанков Сергей Иванович": 69,
-      "Смышляев Андрей Александрович": 2,
-      "Уланова Екатерина Валентиновна": 3,
-      "Федоров Альберт Иванович": 16,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 284
+      "gas:candidate-vibid:2122000659246": 27,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 3,
+      "gas:candidate-vibid:2122000657868": 46,
+      "gas:candidate-vibid:2122000658706": 69,
+      "gas:candidate-vibid:2122000659591": 2,
+      "gas:candidate-vibid:2122000660258": 3,
+      "gas:candidate-vibid:2122000657661": 16,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1063,16 +1063,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 1,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 7,
-      "Казаков Олег Александрович": 9,
-      "Казанков Сергей Иванович": 128,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 3,
-      "Федоров Альберт Иванович": 7,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 151
+      "gas:candidate-vibid:2122000659246": 1,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 7,
+      "gas:candidate-vibid:2122000657868": 9,
+      "gas:candidate-vibid:2122000658706": 128,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 3,
+      "gas:candidate-vibid:2122000657661": 7,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1123,16 +1123,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 5,
-      "Золотухин Роман Владимирович": 3,
-      "Зонов Юрий Александрович": 5,
-      "Казаков Олег Александрович": 9,
-      "Казанков Сергей Иванович": 119,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 3,
-      "Федоров Альберт Иванович": 6,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 176
+      "gas:candidate-vibid:2122000659246": 5,
+      "gas:candidate-vibid:2122000660349": 3,
+      "gas:candidate-vibid:2122000660049": 5,
+      "gas:candidate-vibid:2122000657868": 9,
+      "gas:candidate-vibid:2122000658706": 119,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 3,
+      "gas:candidate-vibid:2122000657661": 6,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1183,16 +1183,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 1,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 6,
-      "Казанков Сергей Иванович": 60,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 1,
-      "Федоров Альберт Иванович": 1,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 98
+      "gas:candidate-vibid:2122000659246": 1,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 6,
+      "gas:candidate-vibid:2122000658706": 60,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 1,
+      "gas:candidate-vibid:2122000657661": 1,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1243,16 +1243,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 7,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 1,
-      "Казаков Олег Александрович": 4,
-      "Казанков Сергей Иванович": 108,
-      "Смышляев Андрей Александрович": 2,
-      "Уланова Екатерина Валентиновна": 1,
-      "Федоров Альберт Иванович": 9,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 98
+      "gas:candidate-vibid:2122000659246": 7,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 1,
+      "gas:candidate-vibid:2122000657868": 4,
+      "gas:candidate-vibid:2122000658706": 108,
+      "gas:candidate-vibid:2122000659591": 2,
+      "gas:candidate-vibid:2122000660258": 1,
+      "gas:candidate-vibid:2122000657661": 9,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1303,16 +1303,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 6,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 13,
-      "Казанков Сергей Иванович": 118,
-      "Смышляев Андрей Александрович": 4,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 8,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 238
+      "gas:candidate-vibid:2122000659246": 6,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 13,
+      "gas:candidate-vibid:2122000658706": 118,
+      "gas:candidate-vibid:2122000659591": 4,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 8,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1363,16 +1363,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 4,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 1,
-      "Казаков Олег Александрович": 6,
-      "Казанков Сергей Иванович": 100,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 4,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 124
+      "gas:candidate-vibid:2122000659246": 4,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 1,
+      "gas:candidate-vibid:2122000657868": 6,
+      "gas:candidate-vibid:2122000658706": 100,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 4,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1423,16 +1423,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 3,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 3,
-      "Казаков Олег Александрович": 13,
-      "Казанков Сергей Иванович": 110,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 5,
-      "Шпарбер Денис Викторович": 2,
-      "Яковлева Лариса Николаевна": 145
+      "gas:candidate-vibid:2122000659246": 3,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 3,
+      "gas:candidate-vibid:2122000657868": 13,
+      "gas:candidate-vibid:2122000658706": 110,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 5,
+      "gas:candidate-vibid:2122000659171": 2,
+      "gas:candidate-vibid:2122000660202": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1483,16 +1483,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 1,
-      "Золотухин Роман Владимирович": 2,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 5,
-      "Казанков Сергей Иванович": 50,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 1,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 70
+      "gas:candidate-vibid:2122000659246": 1,
+      "gas:candidate-vibid:2122000660349": 2,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 5,
+      "gas:candidate-vibid:2122000658706": 50,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 1,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1543,16 +1543,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 1,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 11,
-      "Казанков Сергей Иванович": 132,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 1,
-      "Федоров Альберт Иванович": 14,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 151
+      "gas:candidate-vibid:2122000659246": 1,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 11,
+      "gas:candidate-vibid:2122000658706": 132,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 1,
+      "gas:candidate-vibid:2122000657661": 14,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1603,16 +1603,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 4,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 2,
-      "Казаков Олег Александрович": 15,
-      "Казанков Сергей Иванович": 197,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 10,
-      "Шпарбер Денис Викторович": 2,
-      "Яковлева Лариса Николаевна": 152
+      "gas:candidate-vibid:2122000659246": 4,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 2,
+      "gas:candidate-vibid:2122000657868": 15,
+      "gas:candidate-vibid:2122000658706": 197,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 10,
+      "gas:candidate-vibid:2122000659171": 2,
+      "gas:candidate-vibid:2122000660202": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1663,16 +1663,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 1,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 11,
-      "Казанков Сергей Иванович": 134,
-      "Смышляев Андрей Александрович": 3,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 3,
-      "Шпарбер Денис Викторович": 1,
-      "Яковлева Лариса Николаевна": 80
+      "gas:candidate-vibid:2122000659246": 1,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 11,
+      "gas:candidate-vibid:2122000658706": 134,
+      "gas:candidate-vibid:2122000659591": 3,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 3,
+      "gas:candidate-vibid:2122000659171": 1,
+      "gas:candidate-vibid:2122000660202": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1723,16 +1723,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 5,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 1,
-      "Казаков Олег Александрович": 11,
-      "Казанков Сергей Иванович": 155,
-      "Смышляев Андрей Александрович": 5,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 6,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 112
+      "gas:candidate-vibid:2122000659246": 5,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 1,
+      "gas:candidate-vibid:2122000657868": 11,
+      "gas:candidate-vibid:2122000658706": 155,
+      "gas:candidate-vibid:2122000659591": 5,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 6,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1783,16 +1783,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 1,
-      "Зонов Юрий Александрович": 1,
-      "Казаков Олег Александрович": 6,
-      "Казанков Сергей Иванович": 169,
-      "Смышляев Андрей Александрович": 1,
-      "Уланова Екатерина Валентиновна": 2,
-      "Федоров Альберт Иванович": 2,
-      "Шпарбер Денис Викторович": 3,
-      "Яковлева Лариса Николаевна": 89
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 1,
+      "gas:candidate-vibid:2122000660049": 1,
+      "gas:candidate-vibid:2122000657868": 6,
+      "gas:candidate-vibid:2122000658706": 169,
+      "gas:candidate-vibid:2122000659591": 1,
+      "gas:candidate-vibid:2122000660258": 2,
+      "gas:candidate-vibid:2122000657661": 2,
+      "gas:candidate-vibid:2122000659171": 3,
+      "gas:candidate-vibid:2122000660202": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",
@@ -1843,16 +1843,16 @@ export const duma_2016_uik_463_region_12_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Глущенко Наталия Владимировна": 2,
-      "Золотухин Роман Владимирович": 0,
-      "Зонов Юрий Александрович": 0,
-      "Казаков Олег Александрович": 6,
-      "Казанков Сергей Иванович": 93,
-      "Смышляев Андрей Александрович": 0,
-      "Уланова Екатерина Валентиновна": 0,
-      "Федоров Альберт Иванович": 4,
-      "Шпарбер Денис Викторович": 0,
-      "Яковлева Лариса Николаевна": 100
+      "gas:candidate-vibid:2122000659246": 2,
+      "gas:candidate-vibid:2122000660349": 0,
+      "gas:candidate-vibid:2122000660049": 0,
+      "gas:candidate-vibid:2122000657868": 6,
+      "gas:candidate-vibid:2122000658706": 93,
+      "gas:candidate-vibid:2122000659591": 0,
+      "gas:candidate-vibid:2122000660258": 0,
+      "gas:candidate-vibid:2122000657661": 4,
+      "gas:candidate-vibid:2122000659171": 0,
+      "gas:candidate-vibid:2122000660202": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/mari-el?action=show&root=1000031&tvd=2122000608700&vrn=100100067795849&region=12&global=&sub_region=12&prver=0&pronetvd=null&vibid=2122000608700&type=464",

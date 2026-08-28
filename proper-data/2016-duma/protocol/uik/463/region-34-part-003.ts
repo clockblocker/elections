@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 12,
-      "Буров Алексей Никитович": 55,
-      "Калашников Дмитрий Владимирович": 25,
-      "Крылов Дмитрий Вадимович": 143,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 41,
-      "Цыбизова Татьяна Игоревна": 232
+      "gas:candidate-vibid:23420001156290": 12,
+      "gas:candidate-vibid:23420001154018": 55,
+      "gas:candidate-vibid:23420001154208": 25,
+      "gas:candidate-vibid:23420001155110": 143,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 41,
+      "gas:candidate-vibid:23420001156446": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 9,
-      "Буров Алексей Никитович": 47,
-      "Калашников Дмитрий Владимирович": 14,
-      "Крылов Дмитрий Вадимович": 76,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 36,
-      "Цыбизова Татьяна Игоревна": 157
+      "gas:candidate-vibid:23420001156290": 9,
+      "gas:candidate-vibid:23420001154018": 47,
+      "gas:candidate-vibid:23420001154208": 14,
+      "gas:candidate-vibid:23420001155110": 76,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 36,
+      "gas:candidate-vibid:23420001156446": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 13,
-      "Буров Алексей Никитович": 71,
-      "Калашников Дмитрий Владимирович": 24,
-      "Крылов Дмитрий Вадимович": 116,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 43,
-      "Цыбизова Татьяна Игоревна": 214
+      "gas:candidate-vibid:23420001156290": 13,
+      "gas:candidate-vibid:23420001154018": 71,
+      "gas:candidate-vibid:23420001154208": 24,
+      "gas:candidate-vibid:23420001155110": 116,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 43,
+      "gas:candidate-vibid:23420001156446": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 12,
-      "Буров Алексей Никитович": 46,
-      "Калашников Дмитрий Владимирович": 22,
-      "Крылов Дмитрий Вадимович": 147,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 58,
-      "Цыбизова Татьяна Игоревна": 177
+      "gas:candidate-vibid:23420001156290": 12,
+      "gas:candidate-vibid:23420001154018": 46,
+      "gas:candidate-vibid:23420001154208": 22,
+      "gas:candidate-vibid:23420001155110": 147,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 58,
+      "gas:candidate-vibid:23420001156446": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 16,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 29,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 58
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 16,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 29,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 15,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 71,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 122
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 15,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 71,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 4,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 5,
-      "Цыбизова Татьяна Игоревна": 46
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 4,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 5,
+      "gas:candidate-vibid:23420001156446": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 0,
-      "Буров Алексей Никитович": 2,
-      "Калашников Дмитрий Владимирович": 1,
-      "Крылов Дмитрий Вадимович": 9,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 2,
-      "Цыбизова Татьяна Игоревна": 32
+      "gas:candidate-vibid:23420001156290": 0,
+      "gas:candidate-vibid:23420001154018": 2,
+      "gas:candidate-vibid:23420001154208": 1,
+      "gas:candidate-vibid:23420001155110": 9,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 2,
+      "gas:candidate-vibid:23420001156446": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 6,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 17,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 6,
-      "Цыбизова Татьяна Игоревна": 21
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 6,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 17,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 6,
+      "gas:candidate-vibid:23420001156446": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 17,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 42,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 29,
-      "Цыбизова Татьяна Игоревна": 175
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 17,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 42,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 29,
+      "gas:candidate-vibid:23420001156446": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 10,
-      "Буров Алексей Никитович": 38,
-      "Калашников Дмитрий Владимирович": 23,
-      "Крылов Дмитрий Вадимович": 59,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 25,
-      "Цыбизова Татьяна Игоревна": 135
+      "gas:candidate-vibid:23420001156290": 10,
+      "gas:candidate-vibid:23420001154018": 38,
+      "gas:candidate-vibid:23420001154208": 23,
+      "gas:candidate-vibid:23420001155110": 59,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 25,
+      "gas:candidate-vibid:23420001156446": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 11,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 3,
-      "Цыбизова Татьяна Игоревна": 47
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 11,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 3,
+      "gas:candidate-vibid:23420001156446": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 8,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 7,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 3,
-      "Цыбизова Татьяна Игоревна": 28
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 8,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 7,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 3,
+      "gas:candidate-vibid:23420001156446": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105207&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105207&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 97,
-      "Калашников Дмитрий Владимирович": 47,
-      "Крылов Дмитрий Вадимович": 36,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 54,
-      "Цыбизова Татьяна Игоревна": 288
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 97,
+      "gas:candidate-vibid:23420001154208": 47,
+      "gas:candidate-vibid:23420001155110": 36,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 54,
+      "gas:candidate-vibid:23420001156446": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 114,
-      "Калашников Дмитрий Владимирович": 31,
-      "Крылов Дмитрий Вадимович": 49,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 63,
-      "Цыбизова Татьяна Игоревна": 289
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 114,
+      "gas:candidate-vibid:23420001154208": 31,
+      "gas:candidate-vibid:23420001155110": 49,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 63,
+      "gas:candidate-vibid:23420001156446": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 44,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 31,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 28,
-      "Цыбизова Татьяна Игоревна": 144
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 44,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 31,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 28,
+      "gas:candidate-vibid:23420001156446": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 18,
-      "Калашников Дмитрий Владимирович": 18,
-      "Крылов Дмитрий Вадимович": 18,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 35,
-      "Цыбизова Татьяна Игоревна": 96
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 18,
+      "gas:candidate-vibid:23420001154208": 18,
+      "gas:candidate-vibid:23420001155110": 18,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 35,
+      "gas:candidate-vibid:23420001156446": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 98,
-      "Калашников Дмитрий Владимирович": 34,
-      "Крылов Дмитрий Вадимович": 39,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 68,
-      "Цыбизова Татьяна Игоревна": 328
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 98,
+      "gas:candidate-vibid:23420001154208": 34,
+      "gas:candidate-vibid:23420001155110": 39,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 68,
+      "gas:candidate-vibid:23420001156446": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 24,
-      "Буров Алексей Никитович": 79,
-      "Калашников Дмитрий Владимирович": 37,
-      "Крылов Дмитрий Вадимович": 28,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 33,
-      "Цыбизова Татьяна Игоревна": 218
+      "gas:candidate-vibid:23420001156290": 24,
+      "gas:candidate-vibid:23420001154018": 79,
+      "gas:candidate-vibid:23420001154208": 37,
+      "gas:candidate-vibid:23420001155110": 28,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 33,
+      "gas:candidate-vibid:23420001156446": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 10,
-      "Буров Алексей Никитович": 17,
-      "Калашников Дмитрий Владимирович": 17,
-      "Крылов Дмитрий Вадимович": 15,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 17,
-      "Цыбизова Татьяна Игоревна": 83
+      "gas:candidate-vibid:23420001156290": 10,
+      "gas:candidate-vibid:23420001154018": 17,
+      "gas:candidate-vibid:23420001154208": 17,
+      "gas:candidate-vibid:23420001155110": 15,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 17,
+      "gas:candidate-vibid:23420001156446": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 15,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 18,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 5,
-      "Цыбизова Татьяна Игоревна": 53
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 15,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 18,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 5,
+      "gas:candidate-vibid:23420001156446": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 29,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 5,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 89
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 29,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 5,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 15,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 7,
-      "Цыбизова Татьяна Игоревна": 41
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 15,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 7,
+      "gas:candidate-vibid:23420001156446": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 72,
-      "Калашников Дмитрий Владимирович": 30,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 39,
-      "Цыбизова Татьяна Игоревна": 227
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 72,
+      "gas:candidate-vibid:23420001154208": 30,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 39,
+      "gas:candidate-vibid:23420001156446": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 28,
-      "Калашников Дмитрий Владимирович": 17,
-      "Крылов Дмитрий Вадимович": 25,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 28,
-      "Цыбизова Татьяна Игоревна": 121
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 28,
+      "gas:candidate-vibid:23420001154208": 17,
+      "gas:candidate-vibid:23420001155110": 25,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 28,
+      "gas:candidate-vibid:23420001156446": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 71,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 24,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 16,
-      "Цыбизова Татьяна Игоревна": 109
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 71,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 24,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 16,
+      "gas:candidate-vibid:23420001156446": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 54,
-      "Калашников Дмитрий Владимирович": 41,
-      "Крылов Дмитрий Вадимович": 26,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 44,
-      "Цыбизова Татьяна Игоревна": 266
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 54,
+      "gas:candidate-vibid:23420001154208": 41,
+      "gas:candidate-vibid:23420001155110": 26,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 44,
+      "gas:candidate-vibid:23420001156446": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 20,
-      "Калашников Дмитрий Владимирович": 10,
-      "Крылов Дмитрий Вадимович": 35,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 28,
-      "Цыбизова Татьяна Игоревна": 242
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 20,
+      "gas:candidate-vibid:23420001154208": 10,
+      "gas:candidate-vibid:23420001155110": 35,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 28,
+      "gas:candidate-vibid:23420001156446": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 19,
-      "Калашников Дмитрий Владимирович": 11,
-      "Крылов Дмитрий Вадимович": 13,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 17,
-      "Цыбизова Татьяна Игоревна": 204
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 19,
+      "gas:candidate-vibid:23420001154208": 11,
+      "gas:candidate-vibid:23420001155110": 13,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 17,
+      "gas:candidate-vibid:23420001156446": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 23,
-      "Калашников Дмитрий Владимирович": 12,
-      "Крылов Дмитрий Вадимович": 14,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 19,
-      "Цыбизова Татьяна Игоревна": 189
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 23,
+      "gas:candidate-vibid:23420001154208": 12,
+      "gas:candidate-vibid:23420001155110": 14,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 19,
+      "gas:candidate-vibid:23420001156446": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 90,
-      "Калашников Дмитрий Владимирович": 18,
-      "Крылов Дмитрий Вадимович": 12,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 39,
-      "Цыбизова Татьяна Игоревна": 314
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 90,
+      "gas:candidate-vibid:23420001154208": 18,
+      "gas:candidate-vibid:23420001155110": 12,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 39,
+      "gas:candidate-vibid:23420001156446": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 14,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 13,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 19,
-      "Цыбизова Татьяна Игоревна": 106
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 14,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 13,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 19,
+      "gas:candidate-vibid:23420001156446": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 38,
-      "Калашников Дмитрий Владимирович": 15,
-      "Крылов Дмитрий Вадимович": 22,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 37,
-      "Цыбизова Татьяна Игоревна": 366
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 38,
+      "gas:candidate-vibid:23420001154208": 15,
+      "gas:candidate-vibid:23420001155110": 22,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 37,
+      "gas:candidate-vibid:23420001156446": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 11,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 6,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 8,
-      "Цыбизова Татьяна Игоревна": 13
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 11,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 6,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 8,
+      "gas:candidate-vibid:23420001156446": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 9,
-      "Буров Алексей Никитович": 21,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 12,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 20,
-      "Цыбизова Татьяна Игоревна": 308
+      "gas:candidate-vibid:23420001156290": 9,
+      "gas:candidate-vibid:23420001154018": 21,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 12,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 20,
+      "gas:candidate-vibid:23420001156446": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 7,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 10,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 147
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 7,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 10,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 26,
-      "Калашников Дмитрий Владимирович": 10,
-      "Крылов Дмитрий Вадимович": 11,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 52,
-      "Цыбизова Татьяна Игоревна": 165
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 26,
+      "gas:candidate-vibid:23420001154208": 10,
+      "gas:candidate-vibid:23420001155110": 11,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 52,
+      "gas:candidate-vibid:23420001156446": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 18,
-      "Калашников Дмитрий Владимирович": 22,
-      "Крылов Дмитрий Вадимович": 0,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 19,
-      "Цыбизова Татьяна Игоревна": 264
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 18,
+      "gas:candidate-vibid:23420001154208": 22,
+      "gas:candidate-vibid:23420001155110": 0,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 19,
+      "gas:candidate-vibid:23420001156446": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105208&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105208&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 73,
-      "Калашников Дмитрий Владимирович": 62,
-      "Крылов Дмитрий Вадимович": 51,
-      "Меркулов Вадим Александрович": 16,
-      "Орлов Олег Алексеевич": 117,
-      "Цыбизова Татьяна Игоревна": 267
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 73,
+      "gas:candidate-vibid:23420001154208": 62,
+      "gas:candidate-vibid:23420001155110": 51,
+      "gas:candidate-vibid:23420001155134": 16,
+      "gas:candidate-vibid:23420001152335": 117,
+      "gas:candidate-vibid:23420001156446": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 55,
-      "Калашников Дмитрий Владимирович": 34,
-      "Крылов Дмитрий Вадимович": 40,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 53,
-      "Цыбизова Татьяна Игоревна": 130
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 55,
+      "gas:candidate-vibid:23420001154208": 34,
+      "gas:candidate-vibid:23420001155110": 40,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 53,
+      "gas:candidate-vibid:23420001156446": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 14,
-      "Буров Алексей Никитович": 54,
-      "Калашников Дмитрий Владимирович": 23,
-      "Крылов Дмитрий Вадимович": 48,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 60,
-      "Цыбизова Татьяна Игоревна": 137
+      "gas:candidate-vibid:23420001156290": 14,
+      "gas:candidate-vibid:23420001154018": 54,
+      "gas:candidate-vibid:23420001154208": 23,
+      "gas:candidate-vibid:23420001155110": 48,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 60,
+      "gas:candidate-vibid:23420001156446": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 127,
-      "Калашников Дмитрий Владимирович": 73,
-      "Крылов Дмитрий Вадимович": 98,
-      "Меркулов Вадим Александрович": 22,
-      "Орлов Олег Алексеевич": 133,
-      "Цыбизова Татьяна Игоревна": 401
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 127,
+      "gas:candidate-vibid:23420001154208": 73,
+      "gas:candidate-vibid:23420001155110": 98,
+      "gas:candidate-vibid:23420001155134": 22,
+      "gas:candidate-vibid:23420001152335": 133,
+      "gas:candidate-vibid:23420001156446": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 12,
-      "Буров Алексей Никитович": 68,
-      "Калашников Дмитрий Владимирович": 33,
-      "Крылов Дмитрий Вадимович": 48,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 49,
-      "Цыбизова Татьяна Игоревна": 174
+      "gas:candidate-vibid:23420001156290": 12,
+      "gas:candidate-vibid:23420001154018": 68,
+      "gas:candidate-vibid:23420001154208": 33,
+      "gas:candidate-vibid:23420001155110": 48,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 49,
+      "gas:candidate-vibid:23420001156446": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 52,
-      "Калашников Дмитрий Владимирович": 31,
-      "Крылов Дмитрий Вадимович": 21,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 27,
-      "Цыбизова Татьяна Игоревна": 110
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 52,
+      "gas:candidate-vibid:23420001154208": 31,
+      "gas:candidate-vibid:23420001155110": 21,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 27,
+      "gas:candidate-vibid:23420001156446": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 14,
-      "Буров Алексей Никитович": 45,
-      "Калашников Дмитрий Владимирович": 33,
-      "Крылов Дмитрий Вадимович": 43,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 46,
-      "Цыбизова Татьяна Игоревна": 146
+      "gas:candidate-vibid:23420001156290": 14,
+      "gas:candidate-vibid:23420001154018": 45,
+      "gas:candidate-vibid:23420001154208": 33,
+      "gas:candidate-vibid:23420001155110": 43,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 46,
+      "gas:candidate-vibid:23420001156446": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 10,
-      "Буров Алексей Никитович": 43,
-      "Калашников Дмитрий Владимирович": 27,
-      "Крылов Дмитрий Вадимович": 28,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 39,
-      "Цыбизова Татьяна Игоревна": 111
+      "gas:candidate-vibid:23420001156290": 10,
+      "gas:candidate-vibid:23420001154018": 43,
+      "gas:candidate-vibid:23420001154208": 27,
+      "gas:candidate-vibid:23420001155110": 28,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 39,
+      "gas:candidate-vibid:23420001156446": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 139,
-      "Калашников Дмитрий Владимирович": 48,
-      "Крылов Дмитрий Вадимович": 71,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 116,
-      "Цыбизова Татьяна Игоревна": 317
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 139,
+      "gas:candidate-vibid:23420001154208": 48,
+      "gas:candidate-vibid:23420001155110": 71,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 116,
+      "gas:candidate-vibid:23420001156446": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 93,
-      "Калашников Дмитрий Владимирович": 55,
-      "Крылов Дмитрий Вадимович": 40,
-      "Меркулов Вадим Александрович": 11,
-      "Орлов Олег Алексеевич": 67,
-      "Цыбизова Татьяна Игоревна": 221
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 93,
+      "gas:candidate-vibid:23420001154208": 55,
+      "gas:candidate-vibid:23420001155110": 40,
+      "gas:candidate-vibid:23420001155134": 11,
+      "gas:candidate-vibid:23420001152335": 67,
+      "gas:candidate-vibid:23420001156446": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 32,
-      "Буров Алексей Никитович": 102,
-      "Калашников Дмитрий Владимирович": 69,
-      "Крылов Дмитрий Вадимович": 86,
-      "Меркулов Вадим Александрович": 11,
-      "Орлов Олег Алексеевич": 110,
-      "Цыбизова Татьяна Игоревна": 329
+      "gas:candidate-vibid:23420001156290": 32,
+      "gas:candidate-vibid:23420001154018": 102,
+      "gas:candidate-vibid:23420001154208": 69,
+      "gas:candidate-vibid:23420001155110": 86,
+      "gas:candidate-vibid:23420001155134": 11,
+      "gas:candidate-vibid:23420001152335": 110,
+      "gas:candidate-vibid:23420001156446": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 22,
-      "Калашников Дмитрий Владимирович": 21,
-      "Крылов Дмитрий Вадимович": 47,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 27,
-      "Цыбизова Татьяна Игоревна": 157
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 22,
+      "gas:candidate-vibid:23420001154208": 21,
+      "gas:candidate-vibid:23420001155110": 47,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 27,
+      "gas:candidate-vibid:23420001156446": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 0,
-      "Буров Алексей Никитович": 3,
-      "Калашников Дмитрий Владимирович": 1,
-      "Крылов Дмитрий Вадимович": 11,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 2,
-      "Цыбизова Татьяна Игоревна": 24
+      "gas:candidate-vibid:23420001156290": 0,
+      "gas:candidate-vibid:23420001154018": 3,
+      "gas:candidate-vibid:23420001154208": 1,
+      "gas:candidate-vibid:23420001155110": 11,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 2,
+      "gas:candidate-vibid:23420001156446": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 7,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 1,
-      "Цыбизова Татьяна Игоревна": 16
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 7,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 1,
+      "gas:candidate-vibid:23420001156446": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 22,
-      "Калашников Дмитрий Владимирович": 27,
-      "Крылов Дмитрий Вадимович": 25,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 29,
-      "Цыбизова Татьяна Игоревна": 130
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 22,
+      "gas:candidate-vibid:23420001154208": 27,
+      "gas:candidate-vibid:23420001155110": 25,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 29,
+      "gas:candidate-vibid:23420001156446": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 25,
-      "Калашников Дмитрий Владимирович": 21,
-      "Крылов Дмитрий Вадимович": 12,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 23,
-      "Цыбизова Татьяна Игоревна": 110
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 25,
+      "gas:candidate-vibid:23420001154208": 21,
+      "gas:candidate-vibid:23420001155110": 12,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 23,
+      "gas:candidate-vibid:23420001156446": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 7,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 10,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 2,
-      "Цыбизова Татьяна Игоревна": 23
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 7,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 10,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 2,
+      "gas:candidate-vibid:23420001156446": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 39,
-      "Калашников Дмитрий Владимирович": 22,
-      "Крылов Дмитрий Вадимович": 36,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 40,
-      "Цыбизова Татьяна Игоревна": 129
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 39,
+      "gas:candidate-vibid:23420001154208": 22,
+      "gas:candidate-vibid:23420001155110": 36,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 40,
+      "gas:candidate-vibid:23420001156446": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 22,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 26,
-      "Цыбизова Татьяна Игоревна": 68
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 22,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 26,
+      "gas:candidate-vibid:23420001156446": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 5,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 21,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 8,
-      "Цыбизова Татьяна Игоревна": 47
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 5,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 21,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 8,
+      "gas:candidate-vibid:23420001156446": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 19,
-      "Калашников Дмитрий Владимирович": 15,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 19,
-      "Цыбизова Татьяна Игоревна": 71
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 19,
+      "gas:candidate-vibid:23420001154208": 15,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 19,
+      "gas:candidate-vibid:23420001156446": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 28,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 46,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 39,
-      "Цыбизова Татьяна Игоревна": 118
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 28,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 46,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 39,
+      "gas:candidate-vibid:23420001156446": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 28,
-      "Калашников Дмитрий Владимирович": 10,
-      "Крылов Дмитрий Вадимович": 36,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 32,
-      "Цыбизова Татьяна Игоревна": 338
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 28,
+      "gas:candidate-vibid:23420001154208": 10,
+      "gas:candidate-vibid:23420001155110": 36,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 32,
+      "gas:candidate-vibid:23420001156446": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 32,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 30,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 21,
-      "Цыбизова Татьяна Игоревна": 215
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 32,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 30,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 21,
+      "gas:candidate-vibid:23420001156446": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 10,
-      "Калашников Дмитрий Владимирович": 14,
-      "Крылов Дмитрий Вадимович": 27,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 108
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 10,
+      "gas:candidate-vibid:23420001154208": 14,
+      "gas:candidate-vibid:23420001155110": 27,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 10,
-      "Калашников Дмитрий Владимирович": 14,
-      "Крылов Дмитрий Вадимович": 6,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 59
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 10,
+      "gas:candidate-vibid:23420001154208": 14,
+      "gas:candidate-vibid:23420001155110": 6,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 30,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 32,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 16,
-      "Цыбизова Татьяна Игоревна": 140
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 30,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 32,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 16,
+      "gas:candidate-vibid:23420001156446": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 12,
-      "Калашников Дмитрий Владимирович": 16,
-      "Крылов Дмитрий Вадимович": 79,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 26,
-      "Цыбизова Татьяна Игоревна": 103
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 12,
+      "gas:candidate-vibid:23420001154208": 16,
+      "gas:candidate-vibid:23420001155110": 79,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 26,
+      "gas:candidate-vibid:23420001156446": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 15,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 30,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 11,
-      "Цыбизова Татьяна Игоревна": 115
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 15,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 30,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 11,
+      "gas:candidate-vibid:23420001156446": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 9,
-      "Калашников Дмитрий Владимирович": 1,
-      "Крылов Дмитрий Вадимович": 7,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 7,
-      "Цыбизова Татьяна Игоревна": 38
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 9,
+      "gas:candidate-vibid:23420001154208": 1,
+      "gas:candidate-vibid:23420001155110": 7,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 7,
+      "gas:candidate-vibid:23420001156446": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 10,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 8,
-      "Цыбизова Татьяна Игоревна": 39
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 10,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 8,
+      "gas:candidate-vibid:23420001156446": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 44,
-      "Калашников Дмитрий Владимирович": 16,
-      "Крылов Дмитрий Вадимович": 35,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 45,
-      "Цыбизова Татьяна Игоревна": 138
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 44,
+      "gas:candidate-vibid:23420001154208": 16,
+      "gas:candidate-vibid:23420001155110": 35,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 45,
+      "gas:candidate-vibid:23420001156446": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 13,
-      "Буров Алексей Никитович": 59,
-      "Калашников Дмитрий Владимирович": 35,
-      "Крылов Дмитрий Вадимович": 58,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 39,
-      "Цыбизова Татьяна Игоревна": 185
+      "gas:candidate-vibid:23420001156290": 13,
+      "gas:candidate-vibid:23420001154018": 59,
+      "gas:candidate-vibid:23420001154208": 35,
+      "gas:candidate-vibid:23420001155110": 58,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 39,
+      "gas:candidate-vibid:23420001156446": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 9,
-      "Калашников Дмитрий Владимирович": 10,
-      "Крылов Дмитрий Вадимович": 18,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 5,
-      "Цыбизова Татьяна Игоревна": 44
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 9,
+      "gas:candidate-vibid:23420001154208": 10,
+      "gas:candidate-vibid:23420001155110": 18,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 5,
+      "gas:candidate-vibid:23420001156446": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 30,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 23,
-      "Цыбизова Татьяна Игоревна": 132
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 30,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 23,
+      "gas:candidate-vibid:23420001156446": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 0,
-      "Буров Алексей Никитович": 6,
-      "Калашников Дмитрий Владимирович": 1,
-      "Крылов Дмитрий Вадимович": 7,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 3,
-      "Цыбизова Татьяна Игоревна": 38
+      "gas:candidate-vibid:23420001156290": 0,
+      "gas:candidate-vibid:23420001154018": 6,
+      "gas:candidate-vibid:23420001154208": 1,
+      "gas:candidate-vibid:23420001155110": 7,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 3,
+      "gas:candidate-vibid:23420001156446": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 14,
-      "Буров Алексей Никитович": 40,
-      "Калашников Дмитрий Владимирович": 16,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 31,
-      "Цыбизова Татьяна Игоревна": 209
+      "gas:candidate-vibid:23420001156290": 14,
+      "gas:candidate-vibid:23420001154018": 40,
+      "gas:candidate-vibid:23420001154208": 16,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 31,
+      "gas:candidate-vibid:23420001156446": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 16,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 11,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 7,
-      "Цыбизова Татьяна Игоревна": 56
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 16,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 11,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 7,
+      "gas:candidate-vibid:23420001156446": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105209&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105209&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 10,
-      "Буров Алексей Никитович": 35,
-      "Калашников Дмитрий Владимирович": 12,
-      "Крылов Дмитрий Вадимович": 12,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 32,
-      "Цыбизова Татьяна Игоревна": 358
+      "gas:candidate-vibid:23420001156290": 10,
+      "gas:candidate-vibid:23420001154018": 35,
+      "gas:candidate-vibid:23420001154208": 12,
+      "gas:candidate-vibid:23420001155110": 12,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 32,
+      "gas:candidate-vibid:23420001156446": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 73,
-      "Калашников Дмитрий Владимирович": 17,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 73,
-      "Цыбизова Татьяна Игоревна": 288
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 73,
+      "gas:candidate-vibid:23420001154208": 17,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 73,
+      "gas:candidate-vibid:23420001156446": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 22,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 15,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 21,
-      "Цыбизова Татьяна Игоревна": 82
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 22,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 15,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 21,
+      "gas:candidate-vibid:23420001156446": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 4,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 5,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 31
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 4,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 5,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 40,
-      "Калашников Дмитрий Владимирович": 33,
-      "Крылов Дмитрий Вадимович": 21,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 23,
-      "Цыбизова Татьяна Игоревна": 254
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 40,
+      "gas:candidate-vibid:23420001154208": 33,
+      "gas:candidate-vibid:23420001155110": 21,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 23,
+      "gas:candidate-vibid:23420001156446": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 31,
-      "Калашников Дмитрий Владимирович": 16,
-      "Крылов Дмитрий Вадимович": 7,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 17,
-      "Цыбизова Татьяна Игоревна": 72
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 31,
+      "gas:candidate-vibid:23420001154208": 16,
+      "gas:candidate-vibid:23420001155110": 7,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 17,
+      "gas:candidate-vibid:23420001156446": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 14,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 13,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 98
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 14,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 13,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 35,
-      "Калашников Дмитрий Владимирович": 21,
-      "Крылов Дмитрий Вадимович": 28,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 32,
-      "Цыбизова Татьяна Игоревна": 317
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 35,
+      "gas:candidate-vibid:23420001154208": 21,
+      "gas:candidate-vibid:23420001155110": 28,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 32,
+      "gas:candidate-vibid:23420001156446": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 12,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 103
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 12,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 77,
-      "Калашников Дмитрий Владимирович": 42,
-      "Крылов Дмитрий Вадимович": 18,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 30,
-      "Цыбизова Татьяна Игоревна": 153
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 77,
+      "gas:candidate-vibid:23420001154208": 42,
+      "gas:candidate-vibid:23420001155110": 18,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 30,
+      "gas:candidate-vibid:23420001156446": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 27,
-      "Буров Алексей Никитович": 133,
-      "Калашников Дмитрий Владимирович": 58,
-      "Крылов Дмитрий Вадимович": 42,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 104,
-      "Цыбизова Татьяна Игоревна": 568
+      "gas:candidate-vibid:23420001156290": 27,
+      "gas:candidate-vibid:23420001154018": 133,
+      "gas:candidate-vibid:23420001154208": 58,
+      "gas:candidate-vibid:23420001155110": 42,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 104,
+      "gas:candidate-vibid:23420001156446": 568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 20,
-      "Буров Алексей Никитович": 155,
-      "Калашников Дмитрий Владимирович": 76,
-      "Крылов Дмитрий Вадимович": 50,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 117,
-      "Цыбизова Татьяна Игоревна": 586
+      "gas:candidate-vibid:23420001156290": 20,
+      "gas:candidate-vibid:23420001154018": 155,
+      "gas:candidate-vibid:23420001154208": 76,
+      "gas:candidate-vibid:23420001155110": 50,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 117,
+      "gas:candidate-vibid:23420001156446": 586
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 10,
-      "Буров Алексей Никитович": 12,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 5,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 25,
-      "Цыбизова Татьяна Игоревна": 127
+      "gas:candidate-vibid:23420001156290": 10,
+      "gas:candidate-vibid:23420001154018": 12,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 5,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 25,
+      "gas:candidate-vibid:23420001156446": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 11,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 16,
-      "Цыбизова Татьяна Игоревна": 62
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 11,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 16,
+      "gas:candidate-vibid:23420001156446": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 38,
-      "Калашников Дмитрий Владимирович": 35,
-      "Крылов Дмитрий Вадимович": 14,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 25,
-      "Цыбизова Татьяна Игоревна": 340
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 38,
+      "gas:candidate-vibid:23420001154208": 35,
+      "gas:candidate-vibid:23420001155110": 14,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 25,
+      "gas:candidate-vibid:23420001156446": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 17,
-      "Буров Алексей Никитович": 42,
-      "Калашников Дмитрий Владимирович": 23,
-      "Крылов Дмитрий Вадимович": 13,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 48,
-      "Цыбизова Татьяна Игоревна": 168
+      "gas:candidate-vibid:23420001156290": 17,
+      "gas:candidate-vibid:23420001154018": 42,
+      "gas:candidate-vibid:23420001154208": 23,
+      "gas:candidate-vibid:23420001155110": 13,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 48,
+      "gas:candidate-vibid:23420001156446": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 9,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 15,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 12,
-      "Цыбизова Татьяна Игоревна": 57
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 9,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 15,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 12,
+      "gas:candidate-vibid:23420001156446": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 13,
-      "Буров Алексей Никитович": 53,
-      "Калашников Дмитрий Владимирович": 21,
-      "Крылов Дмитрий Вадимович": 34,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 20,
-      "Цыбизова Татьяна Игоревна": 213
+      "gas:candidate-vibid:23420001156290": 13,
+      "gas:candidate-vibid:23420001154018": 53,
+      "gas:candidate-vibid:23420001154208": 21,
+      "gas:candidate-vibid:23420001155110": 34,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 20,
+      "gas:candidate-vibid:23420001156446": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 18,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 10,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 8,
-      "Цыбизова Татьяна Игоревна": 36
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 18,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 10,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 8,
+      "gas:candidate-vibid:23420001156446": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 8,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 4,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 12,
-      "Цыбизова Татьяна Игоревна": 59
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 8,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 4,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 12,
+      "gas:candidate-vibid:23420001156446": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 82,
-      "Калашников Дмитрий Владимирович": 17,
-      "Крылов Дмитрий Вадимович": 26,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 76,
-      "Цыбизова Татьяна Игоревна": 295
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 82,
+      "gas:candidate-vibid:23420001154208": 17,
+      "gas:candidate-vibid:23420001155110": 26,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 76,
+      "gas:candidate-vibid:23420001156446": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 13,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 1,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 4,
-      "Цыбизова Татьяна Игоревна": 63
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 13,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 1,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 4,
+      "gas:candidate-vibid:23420001156446": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105210&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105210&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 48,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 172
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 48,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 6,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 2,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 4,
-      "Цыбизова Татьяна Игоревна": 30
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 6,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 2,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 4,
+      "gas:candidate-vibid:23420001156446": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 3,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 10,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 2,
-      "Цыбизова Татьяна Игоревна": 114
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 3,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 10,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 2,
+      "gas:candidate-vibid:23420001156446": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 11,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 31
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 11,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 45,
-      "Калашников Дмитрий Владимирович": 19,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 16,
-      "Цыбизова Татьяна Игоревна": 192
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 45,
+      "gas:candidate-vibid:23420001154208": 19,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 16,
+      "gas:candidate-vibid:23420001156446": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 18,
-      "Калашников Дмитрий Владимирович": 12,
-      "Крылов Дмитрий Вадимович": 21,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 16,
-      "Цыбизова Татьяна Игоревна": 86
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 18,
+      "gas:candidate-vibid:23420001154208": 12,
+      "gas:candidate-vibid:23420001155110": 21,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 16,
+      "gas:candidate-vibid:23420001156446": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 3,
-      "Калашников Дмитрий Владимирович": 10,
-      "Крылов Дмитрий Вадимович": 2,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 3,
-      "Цыбизова Татьяна Игоревна": 12
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 3,
+      "gas:candidate-vibid:23420001154208": 10,
+      "gas:candidate-vibid:23420001155110": 2,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 3,
+      "gas:candidate-vibid:23420001156446": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 10,
-      "Буров Алексей Никитович": 60,
-      "Калашников Дмитрий Владимирович": 40,
-      "Крылов Дмитрий Вадимович": 33,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 55,
-      "Цыбизова Татьяна Игоревна": 303
+      "gas:candidate-vibid:23420001156290": 10,
+      "gas:candidate-vibid:23420001154018": 60,
+      "gas:candidate-vibid:23420001154208": 40,
+      "gas:candidate-vibid:23420001155110": 33,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 55,
+      "gas:candidate-vibid:23420001156446": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 51,
-      "Буров Алексей Никитович": 106,
-      "Калашников Дмитрий Владимирович": 74,
-      "Крылов Дмитрий Вадимович": 54,
-      "Меркулов Вадим Александрович": 16,
-      "Орлов Олег Алексеевич": 101,
-      "Цыбизова Татьяна Игоревна": 347
+      "gas:candidate-vibid:23420001156290": 51,
+      "gas:candidate-vibid:23420001154018": 106,
+      "gas:candidate-vibid:23420001154208": 74,
+      "gas:candidate-vibid:23420001155110": 54,
+      "gas:candidate-vibid:23420001155134": 16,
+      "gas:candidate-vibid:23420001152335": 101,
+      "gas:candidate-vibid:23420001156446": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 14,
-      "Буров Алексей Никитович": 39,
-      "Калашников Дмитрий Владимирович": 15,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 16,
-      "Цыбизова Татьяна Игоревна": 219
+      "gas:candidate-vibid:23420001156290": 14,
+      "gas:candidate-vibid:23420001154018": 39,
+      "gas:candidate-vibid:23420001154208": 15,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 16,
+      "gas:candidate-vibid:23420001156446": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 13,
-      "Буров Алексей Никитович": 26,
-      "Калашников Дмитрий Владимирович": 10,
-      "Крылов Дмитрий Вадимович": 35,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 127
+      "gas:candidate-vibid:23420001156290": 13,
+      "gas:candidate-vibid:23420001154018": 26,
+      "gas:candidate-vibid:23420001154208": 10,
+      "gas:candidate-vibid:23420001155110": 35,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 73,
-      "Калашников Дмитрий Владимирович": 20,
-      "Крылов Дмитрий Вадимович": 33,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 51,
-      "Цыбизова Татьяна Игоревна": 208
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 73,
+      "gas:candidate-vibid:23420001154208": 20,
+      "gas:candidate-vibid:23420001155110": 33,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 51,
+      "gas:candidate-vibid:23420001156446": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 52,
-      "Буров Алексей Никитович": 77,
-      "Калашников Дмитрий Владимирович": 95,
-      "Крылов Дмитрий Вадимович": 44,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 86,
-      "Цыбизова Татьяна Игоревна": 252
+      "gas:candidate-vibid:23420001156290": 52,
+      "gas:candidate-vibid:23420001154018": 77,
+      "gas:candidate-vibid:23420001154208": 95,
+      "gas:candidate-vibid:23420001155110": 44,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 86,
+      "gas:candidate-vibid:23420001156446": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 44,
-      "Буров Алексей Никитович": 88,
-      "Калашников Дмитрий Владимирович": 71,
-      "Крылов Дмитрий Вадимович": 49,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 148,
-      "Цыбизова Татьяна Игоревна": 416
+      "gas:candidate-vibid:23420001156290": 44,
+      "gas:candidate-vibid:23420001154018": 88,
+      "gas:candidate-vibid:23420001154208": 71,
+      "gas:candidate-vibid:23420001155110": 49,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 148,
+      "gas:candidate-vibid:23420001156446": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 13,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 41
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 13,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 76,
-      "Калашников Дмитрий Владимирович": 30,
-      "Крылов Дмитрий Вадимович": 25,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 47,
-      "Цыбизова Татьяна Игоревна": 161
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 76,
+      "gas:candidate-vibid:23420001154208": 30,
+      "gas:candidate-vibid:23420001155110": 25,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 47,
+      "gas:candidate-vibid:23420001156446": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 21,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 8,
-      "Цыбизова Татьяна Игоревна": 15
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 21,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 8,
+      "gas:candidate-vibid:23420001156446": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 15,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 28,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 31
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 15,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 28,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 30,
-      "Калашников Дмитрий Владимирович": 14,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 8,
-      "Цыбизова Татьяна Игоревна": 80
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 30,
+      "gas:candidate-vibid:23420001154208": 14,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 8,
+      "gas:candidate-vibid:23420001156446": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 12,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 23,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 128
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 12,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 23,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 12,
-      "Калашников Дмитрий Владимирович": 6,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 11,
-      "Цыбизова Татьяна Игоревна": 38
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 12,
+      "gas:candidate-vibid:23420001154208": 6,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 11,
+      "gas:candidate-vibid:23420001156446": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 0,
-      "Буров Алексей Никитович": 8,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 5,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 6,
-      "Цыбизова Татьяна Игоревна": 35
+      "gas:candidate-vibid:23420001156290": 0,
+      "gas:candidate-vibid:23420001154018": 8,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 5,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 6,
+      "gas:candidate-vibid:23420001156446": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 9,
-      "Буров Алексей Никитович": 11,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 30,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 33
+      "gas:candidate-vibid:23420001156290": 9,
+      "gas:candidate-vibid:23420001154018": 11,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 30,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 8,
-      "Калашников Дмитрий Владимирович": 15,
-      "Крылов Дмитрий Вадимович": 33,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 3,
-      "Цыбизова Татьяна Игоревна": 41
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 8,
+      "gas:candidate-vibid:23420001154208": 15,
+      "gas:candidate-vibid:23420001155110": 33,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 3,
+      "gas:candidate-vibid:23420001156446": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 13,
-      "Калашников Дмитрий Владимирович": 15,
-      "Крылов Дмитрий Вадимович": 29,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 11,
-      "Цыбизова Татьяна Игоревна": 29
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 13,
+      "gas:candidate-vibid:23420001154208": 15,
+      "gas:candidate-vibid:23420001155110": 29,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 11,
+      "gas:candidate-vibid:23420001156446": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 39,
-      "Калашников Дмитрий Владимирович": 32,
-      "Крылов Дмитрий Вадимович": 41,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 31,
-      "Цыбизова Татьяна Игоревна": 163
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 39,
+      "gas:candidate-vibid:23420001154208": 32,
+      "gas:candidate-vibid:23420001155110": 41,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 31,
+      "gas:candidate-vibid:23420001156446": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 27,
-      "Калашников Дмитрий Владимирович": 12,
-      "Крылов Дмитрий Вадимович": 14,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 26,
-      "Цыбизова Татьяна Игоревна": 119
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 27,
+      "gas:candidate-vibid:23420001154208": 12,
+      "gas:candidate-vibid:23420001155110": 14,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 26,
+      "gas:candidate-vibid:23420001156446": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 27,
-      "Буров Алексей Никитович": 40,
-      "Калашников Дмитрий Владимирович": 38,
-      "Крылов Дмитрий Вадимович": 96,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 72,
-      "Цыбизова Татьяна Игоревна": 379
+      "gas:candidate-vibid:23420001156290": 27,
+      "gas:candidate-vibid:23420001154018": 40,
+      "gas:candidate-vibid:23420001154208": 38,
+      "gas:candidate-vibid:23420001155110": 96,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 72,
+      "gas:candidate-vibid:23420001156446": 379
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 21,
-      "Калашников Дмитрий Владимирович": 5,
-      "Крылов Дмитрий Вадимович": 11,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 19,
-      "Цыбизова Татьяна Игоревна": 69
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 21,
+      "gas:candidate-vibid:23420001154208": 5,
+      "gas:candidate-vibid:23420001155110": 11,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 19,
+      "gas:candidate-vibid:23420001156446": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 2,
-      "Буров Алексей Никитович": 10,
-      "Калашников Дмитрий Владимирович": 1,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 59
+      "gas:candidate-vibid:23420001156290": 2,
+      "gas:candidate-vibid:23420001154018": 10,
+      "gas:candidate-vibid:23420001154208": 1,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 0,
-      "Буров Алексей Никитович": 11,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 9,
-      "Цыбизова Татьяна Игоревна": 82
+      "gas:candidate-vibid:23420001156290": 0,
+      "gas:candidate-vibid:23420001154018": 11,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 9,
+      "gas:candidate-vibid:23420001156446": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 7,
-      "Буров Алексей Никитович": 32,
-      "Калашников Дмитрий Владимирович": 25,
-      "Крылов Дмитрий Вадимович": 11,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 117
+      "gas:candidate-vibid:23420001156290": 7,
+      "gas:candidate-vibid:23420001154018": 32,
+      "gas:candidate-vibid:23420001154208": 25,
+      "gas:candidate-vibid:23420001155110": 11,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 8,
-      "Калашников Дмитрий Владимирович": 2,
-      "Крылов Дмитрий Вадимович": 21,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 2,
-      "Цыбизова Татьяна Игоревна": 22
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 8,
+      "gas:candidate-vibid:23420001154208": 2,
+      "gas:candidate-vibid:23420001155110": 21,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 2,
+      "gas:candidate-vibid:23420001156446": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 10,
-      "Калашников Дмитрий Владимирович": 12,
-      "Крылов Дмитрий Вадимович": 10,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 17,
-      "Цыбизова Татьяна Игоревна": 66
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 10,
+      "gas:candidate-vibid:23420001154208": 12,
+      "gas:candidate-vibid:23420001155110": 10,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 17,
+      "gas:candidate-vibid:23420001156446": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 72,
-      "Калашников Дмитрий Владимирович": 40,
-      "Крылов Дмитрий Вадимович": 41,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 57,
-      "Цыбизова Татьяна Игоревна": 291
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 72,
+      "gas:candidate-vibid:23420001154208": 40,
+      "gas:candidate-vibid:23420001155110": 41,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 57,
+      "gas:candidate-vibid:23420001156446": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 25,
-      "Буров Алексей Никитович": 72,
-      "Калашников Дмитрий Владимирович": 45,
-      "Крылов Дмитрий Вадимович": 38,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 59,
-      "Цыбизова Татьяна Игоревна": 323
+      "gas:candidate-vibid:23420001156290": 25,
+      "gas:candidate-vibid:23420001154018": 72,
+      "gas:candidate-vibid:23420001154208": 45,
+      "gas:candidate-vibid:23420001155110": 38,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 59,
+      "gas:candidate-vibid:23420001156446": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 9,
-      "Буров Алексей Никитович": 49,
-      "Калашников Дмитрий Владимирович": 24,
-      "Крылов Дмитрий Вадимович": 26,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 42,
-      "Цыбизова Татьяна Игоревна": 172
+      "gas:candidate-vibid:23420001156290": 9,
+      "gas:candidate-vibid:23420001154018": 49,
+      "gas:candidate-vibid:23420001154208": 24,
+      "gas:candidate-vibid:23420001155110": 26,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 42,
+      "gas:candidate-vibid:23420001156446": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 25,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 18,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 25,
-      "Цыбизова Татьяна Игоревна": 73
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 25,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 18,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 25,
+      "gas:candidate-vibid:23420001156446": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 22,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 12,
-      "Цыбизова Татьяна Игоревна": 94
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 22,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 12,
+      "gas:candidate-vibid:23420001156446": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 43,
-      "Буров Алексей Никитович": 163,
-      "Калашников Дмитрий Владимирович": 42,
-      "Крылов Дмитрий Вадимович": 66,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 115,
-      "Цыбизова Татьяна Игоревна": 416
+      "gas:candidate-vibid:23420001156290": 43,
+      "gas:candidate-vibid:23420001154018": 163,
+      "gas:candidate-vibid:23420001154208": 42,
+      "gas:candidate-vibid:23420001155110": 66,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 115,
+      "gas:candidate-vibid:23420001156446": 416
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 100,
-      "Калашников Дмитрий Владимирович": 48,
-      "Крылов Дмитрий Вадимович": 31,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 75,
-      "Цыбизова Татьяна Игоревна": 354
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 100,
+      "gas:candidate-vibid:23420001154208": 48,
+      "gas:candidate-vibid:23420001155110": 31,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 75,
+      "gas:candidate-vibid:23420001156446": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 104,
-      "Буров Алексей Никитович": 87,
-      "Калашников Дмитрий Владимирович": 228,
-      "Крылов Дмитрий Вадимович": 41,
-      "Меркулов Вадим Александрович": 22,
-      "Орлов Олег Алексеевич": 128,
-      "Цыбизова Татьяна Игоревна": 378
+      "gas:candidate-vibid:23420001156290": 104,
+      "gas:candidate-vibid:23420001154018": 87,
+      "gas:candidate-vibid:23420001154208": 228,
+      "gas:candidate-vibid:23420001155110": 41,
+      "gas:candidate-vibid:23420001155134": 22,
+      "gas:candidate-vibid:23420001152335": 128,
+      "gas:candidate-vibid:23420001156446": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 31,
-      "Буров Алексей Никитович": 130,
-      "Калашников Дмитрий Владимирович": 83,
-      "Крылов Дмитрий Вадимович": 42,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 97,
-      "Цыбизова Татьяна Игоревна": 741
+      "gas:candidate-vibid:23420001156290": 31,
+      "gas:candidate-vibid:23420001154018": 130,
+      "gas:candidate-vibid:23420001154208": 83,
+      "gas:candidate-vibid:23420001155110": 42,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 97,
+      "gas:candidate-vibid:23420001156446": 741
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 31,
-      "Буров Алексей Никитович": 194,
-      "Калашников Дмитрий Владимирович": 77,
-      "Крылов Дмитрий Вадимович": 61,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 111,
-      "Цыбизова Татьяна Игоревна": 491
+      "gas:candidate-vibid:23420001156290": 31,
+      "gas:candidate-vibid:23420001154018": 194,
+      "gas:candidate-vibid:23420001154208": 77,
+      "gas:candidate-vibid:23420001155110": 61,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 111,
+      "gas:candidate-vibid:23420001156446": 491
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 91,
-      "Калашников Дмитрий Владимирович": 42,
-      "Крылов Дмитрий Вадимович": 37,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 87,
-      "Цыбизова Татьяна Игоревна": 317
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 91,
+      "gas:candidate-vibid:23420001154208": 42,
+      "gas:candidate-vibid:23420001155110": 37,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 87,
+      "gas:candidate-vibid:23420001156446": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 9,
-      "Буров Алексей Никитович": 43,
-      "Калашников Дмитрий Владимирович": 29,
-      "Крылов Дмитрий Вадимович": 26,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 60,
-      "Цыбизова Татьяна Игоревна": 179
+      "gas:candidate-vibid:23420001156290": 9,
+      "gas:candidate-vibid:23420001154018": 43,
+      "gas:candidate-vibid:23420001154208": 29,
+      "gas:candidate-vibid:23420001155110": 26,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 60,
+      "gas:candidate-vibid:23420001156446": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 87,
-      "Калашников Дмитрий Владимирович": 40,
-      "Крылов Дмитрий Вадимович": 62,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 71,
-      "Цыбизова Татьяна Игоревна": 299
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 87,
+      "gas:candidate-vibid:23420001154208": 40,
+      "gas:candidate-vibid:23420001155110": 62,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 71,
+      "gas:candidate-vibid:23420001156446": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 118,
-      "Калашников Дмитрий Владимирович": 53,
-      "Крылов Дмитрий Вадимович": 63,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 109,
-      "Цыбизова Татьяна Игоревна": 320
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 118,
+      "gas:candidate-vibid:23420001154208": 53,
+      "gas:candidate-vibid:23420001155110": 63,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 109,
+      "gas:candidate-vibid:23420001156446": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 14,
-      "Буров Алексей Никитович": 86,
-      "Калашников Дмитрий Владимирович": 37,
-      "Крылов Дмитрий Вадимович": 55,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 66,
-      "Цыбизова Татьяна Игоревна": 235
+      "gas:candidate-vibid:23420001156290": 14,
+      "gas:candidate-vibid:23420001154018": 86,
+      "gas:candidate-vibid:23420001154208": 37,
+      "gas:candidate-vibid:23420001155110": 55,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 66,
+      "gas:candidate-vibid:23420001156446": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 105,
-      "Калашников Дмитрий Владимирович": 45,
-      "Крылов Дмитрий Вадимович": 27,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 87,
-      "Цыбизова Татьяна Игоревна": 284
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 105,
+      "gas:candidate-vibid:23420001154208": 45,
+      "gas:candidate-vibid:23420001155110": 27,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 87,
+      "gas:candidate-vibid:23420001156446": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 9,
-      "Калашников Дмитрий Владимирович": 3,
-      "Крылов Дмитрий Вадимович": 3,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 4,
-      "Цыбизова Татьяна Игоревна": 59
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 9,
+      "gas:candidate-vibid:23420001154208": 3,
+      "gas:candidate-vibid:23420001155110": 3,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 4,
+      "gas:candidate-vibid:23420001156446": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105211&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105211&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 71,
-      "Буров Алексей Никитович": 162,
-      "Калашников Дмитрий Владимирович": 115,
-      "Крылов Дмитрий Вадимович": 153,
-      "Меркулов Вадим Александрович": 28,
-      "Орлов Олег Алексеевич": 82,
-      "Цыбизова Татьяна Игоревна": 379
+      "gas:candidate-vibid:23420001156290": 71,
+      "gas:candidate-vibid:23420001154018": 162,
+      "gas:candidate-vibid:23420001154208": 115,
+      "gas:candidate-vibid:23420001155110": 153,
+      "gas:candidate-vibid:23420001155134": 28,
+      "gas:candidate-vibid:23420001152335": 82,
+      "gas:candidate-vibid:23420001156446": 379
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 39,
-      "Буров Алексей Никитович": 140,
-      "Калашников Дмитрий Владимирович": 103,
-      "Крылов Дмитрий Вадимович": 77,
-      "Меркулов Вадим Александрович": 16,
-      "Орлов Олег Алексеевич": 89,
-      "Цыбизова Татьяна Игоревна": 335
+      "gas:candidate-vibid:23420001156290": 39,
+      "gas:candidate-vibid:23420001154018": 140,
+      "gas:candidate-vibid:23420001154208": 103,
+      "gas:candidate-vibid:23420001155110": 77,
+      "gas:candidate-vibid:23420001155134": 16,
+      "gas:candidate-vibid:23420001152335": 89,
+      "gas:candidate-vibid:23420001156446": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 42,
-      "Буров Алексей Никитович": 104,
-      "Калашников Дмитрий Владимирович": 97,
-      "Крылов Дмитрий Вадимович": 60,
-      "Меркулов Вадим Александрович": 25,
-      "Орлов Олег Алексеевич": 90,
-      "Цыбизова Татьяна Игоревна": 365
+      "gas:candidate-vibid:23420001156290": 42,
+      "gas:candidate-vibid:23420001154018": 104,
+      "gas:candidate-vibid:23420001154208": 97,
+      "gas:candidate-vibid:23420001155110": 60,
+      "gas:candidate-vibid:23420001155134": 25,
+      "gas:candidate-vibid:23420001152335": 90,
+      "gas:candidate-vibid:23420001156446": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 64,
-      "Буров Алексей Никитович": 134,
-      "Калашников Дмитрий Владимирович": 100,
-      "Крылов Дмитрий Вадимович": 98,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 102,
-      "Цыбизова Татьяна Игоревна": 331
+      "gas:candidate-vibid:23420001156290": 64,
+      "gas:candidate-vibid:23420001154018": 134,
+      "gas:candidate-vibid:23420001154208": 100,
+      "gas:candidate-vibid:23420001155110": 98,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 102,
+      "gas:candidate-vibid:23420001156446": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 70,
-      "Буров Алексей Никитович": 147,
-      "Калашников Дмитрий Владимирович": 133,
-      "Крылов Дмитрий Вадимович": 131,
-      "Меркулов Вадим Александрович": 23,
-      "Орлов Олег Алексеевич": 102,
-      "Цыбизова Татьяна Игоревна": 364
+      "gas:candidate-vibid:23420001156290": 70,
+      "gas:candidate-vibid:23420001154018": 147,
+      "gas:candidate-vibid:23420001154208": 133,
+      "gas:candidate-vibid:23420001155110": 131,
+      "gas:candidate-vibid:23420001155134": 23,
+      "gas:candidate-vibid:23420001152335": 102,
+      "gas:candidate-vibid:23420001156446": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 35,
-      "Буров Алексей Никитович": 134,
-      "Калашников Дмитрий Владимирович": 88,
-      "Крылов Дмитрий Вадимович": 70,
-      "Меркулов Вадим Александрович": 25,
-      "Орлов Олег Алексеевич": 124,
-      "Цыбизова Татьяна Игоревна": 479
+      "gas:candidate-vibid:23420001156290": 35,
+      "gas:candidate-vibid:23420001154018": 134,
+      "gas:candidate-vibid:23420001154208": 88,
+      "gas:candidate-vibid:23420001155110": 70,
+      "gas:candidate-vibid:23420001155134": 25,
+      "gas:candidate-vibid:23420001152335": 124,
+      "gas:candidate-vibid:23420001156446": 479
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 37,
-      "Буров Алексей Никитович": 136,
-      "Калашников Дмитрий Владимирович": 129,
-      "Крылов Дмитрий Вадимович": 153,
-      "Меркулов Вадим Александрович": 22,
-      "Орлов Олег Алексеевич": 158,
-      "Цыбизова Татьяна Игоревна": 472
+      "gas:candidate-vibid:23420001156290": 37,
+      "gas:candidate-vibid:23420001154018": 136,
+      "gas:candidate-vibid:23420001154208": 129,
+      "gas:candidate-vibid:23420001155110": 153,
+      "gas:candidate-vibid:23420001155134": 22,
+      "gas:candidate-vibid:23420001152335": 158,
+      "gas:candidate-vibid:23420001156446": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 56,
-      "Буров Алексей Никитович": 140,
-      "Калашников Дмитрий Владимирович": 138,
-      "Крылов Дмитрий Вадимович": 151,
-      "Меркулов Вадим Александрович": 20,
-      "Орлов Олег Алексеевич": 121,
-      "Цыбизова Татьяна Игоревна": 533
+      "gas:candidate-vibid:23420001156290": 56,
+      "gas:candidate-vibid:23420001154018": 140,
+      "gas:candidate-vibid:23420001154208": 138,
+      "gas:candidate-vibid:23420001155110": 151,
+      "gas:candidate-vibid:23420001155134": 20,
+      "gas:candidate-vibid:23420001152335": 121,
+      "gas:candidate-vibid:23420001156446": 533
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 26,
-      "Буров Алексей Никитович": 108,
-      "Калашников Дмитрий Владимирович": 29,
-      "Крылов Дмитрий Вадимович": 38,
-      "Меркулов Вадим Александрович": 12,
-      "Орлов Олег Алексеевич": 82,
-      "Цыбизова Татьяна Игоревна": 276
+      "gas:candidate-vibid:23420001156290": 26,
+      "gas:candidate-vibid:23420001154018": 108,
+      "gas:candidate-vibid:23420001154208": 29,
+      "gas:candidate-vibid:23420001155110": 38,
+      "gas:candidate-vibid:23420001155134": 12,
+      "gas:candidate-vibid:23420001152335": 82,
+      "gas:candidate-vibid:23420001156446": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 42,
-      "Буров Алексей Никитович": 90,
-      "Калашников Дмитрий Владимирович": 77,
-      "Крылов Дмитрий Вадимович": 42,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 117,
-      "Цыбизова Татьяна Игоревна": 338
+      "gas:candidate-vibid:23420001156290": 42,
+      "gas:candidate-vibid:23420001154018": 90,
+      "gas:candidate-vibid:23420001154208": 77,
+      "gas:candidate-vibid:23420001155110": 42,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 117,
+      "gas:candidate-vibid:23420001156446": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 30,
-      "Буров Алексей Никитович": 96,
-      "Калашников Дмитрий Владимирович": 62,
-      "Крылов Дмитрий Вадимович": 38,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 94,
-      "Цыбизова Татьяна Игоревна": 278
+      "gas:candidate-vibid:23420001156290": 30,
+      "gas:candidate-vibid:23420001154018": 96,
+      "gas:candidate-vibid:23420001154208": 62,
+      "gas:candidate-vibid:23420001155110": 38,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 94,
+      "gas:candidate-vibid:23420001156446": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 13,
-      "Калашников Дмитрий Владимирович": 9,
-      "Крылов Дмитрий Вадимович": 9,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 15,
-      "Цыбизова Татьяна Игоревна": 319
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 13,
+      "gas:candidate-vibid:23420001154208": 9,
+      "gas:candidate-vibid:23420001155110": 9,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 15,
+      "gas:candidate-vibid:23420001156446": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 45,
-      "Буров Алексей Никитович": 141,
-      "Калашников Дмитрий Владимирович": 97,
-      "Крылов Дмитрий Вадимович": 96,
-      "Меркулов Вадим Александрович": 22,
-      "Орлов Олег Алексеевич": 97,
-      "Цыбизова Татьяна Игоревна": 364
+      "gas:candidate-vibid:23420001156290": 45,
+      "gas:candidate-vibid:23420001154018": 141,
+      "gas:candidate-vibid:23420001154208": 97,
+      "gas:candidate-vibid:23420001155110": 96,
+      "gas:candidate-vibid:23420001155134": 22,
+      "gas:candidate-vibid:23420001152335": 97,
+      "gas:candidate-vibid:23420001156446": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 46,
-      "Буров Алексей Никитович": 155,
-      "Калашников Дмитрий Владимирович": 106,
-      "Крылов Дмитрий Вадимович": 92,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 142,
-      "Цыбизова Татьяна Игоревна": 437
+      "gas:candidate-vibid:23420001156290": 46,
+      "gas:candidate-vibid:23420001154018": 155,
+      "gas:candidate-vibid:23420001154208": 106,
+      "gas:candidate-vibid:23420001155110": 92,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 142,
+      "gas:candidate-vibid:23420001156446": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 42,
-      "Буров Алексей Никитович": 173,
-      "Калашников Дмитрий Владимирович": 133,
-      "Крылов Дмитрий Вадимович": 59,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 124,
-      "Цыбизова Татьяна Игоревна": 330
+      "gas:candidate-vibid:23420001156290": 42,
+      "gas:candidate-vibid:23420001154018": 173,
+      "gas:candidate-vibid:23420001154208": 133,
+      "gas:candidate-vibid:23420001155110": 59,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 124,
+      "gas:candidate-vibid:23420001156446": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 36,
-      "Буров Алексей Никитович": 108,
-      "Калашников Дмитрий Владимирович": 86,
-      "Крылов Дмитрий Вадимович": 63,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 83,
-      "Цыбизова Татьяна Игоревна": 314
+      "gas:candidate-vibid:23420001156290": 36,
+      "gas:candidate-vibid:23420001154018": 108,
+      "gas:candidate-vibid:23420001154208": 86,
+      "gas:candidate-vibid:23420001155110": 63,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 83,
+      "gas:candidate-vibid:23420001156446": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 34,
-      "Калашников Дмитрий Владимирович": 20,
-      "Крылов Дмитрий Вадимович": 15,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 23,
-      "Цыбизова Татьяна Игоревна": 74
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 34,
+      "gas:candidate-vibid:23420001154208": 20,
+      "gas:candidate-vibid:23420001155110": 15,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 23,
+      "gas:candidate-vibid:23420001156446": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 50,
-      "Буров Алексей Никитович": 194,
-      "Калашников Дмитрий Владимирович": 103,
-      "Крылов Дмитрий Вадимович": 56,
-      "Меркулов Вадим Александрович": 21,
-      "Орлов Олег Алексеевич": 108,
-      "Цыбизова Татьяна Игоревна": 369
+      "gas:candidate-vibid:23420001156290": 50,
+      "gas:candidate-vibid:23420001154018": 194,
+      "gas:candidate-vibid:23420001154208": 103,
+      "gas:candidate-vibid:23420001155110": 56,
+      "gas:candidate-vibid:23420001155134": 21,
+      "gas:candidate-vibid:23420001152335": 108,
+      "gas:candidate-vibid:23420001156446": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 200,
-      "Калашников Дмитрий Владимирович": 123,
-      "Крылов Дмитрий Вадимович": 74,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 111,
-      "Цыбизова Татьяна Игоревна": 375
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 200,
+      "gas:candidate-vibid:23420001154208": 123,
+      "gas:candidate-vibid:23420001155110": 74,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 111,
+      "gas:candidate-vibid:23420001156446": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 34,
-      "Буров Алексей Никитович": 160,
-      "Калашников Дмитрий Владимирович": 91,
-      "Крылов Дмитрий Вадимович": 66,
-      "Меркулов Вадим Александрович": 21,
-      "Орлов Олег Алексеевич": 108,
-      "Цыбизова Татьяна Игоревна": 349
+      "gas:candidate-vibid:23420001156290": 34,
+      "gas:candidate-vibid:23420001154018": 160,
+      "gas:candidate-vibid:23420001154208": 91,
+      "gas:candidate-vibid:23420001155110": 66,
+      "gas:candidate-vibid:23420001155134": 21,
+      "gas:candidate-vibid:23420001152335": 108,
+      "gas:candidate-vibid:23420001156446": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 36,
-      "Буров Алексей Никитович": 198,
-      "Калашников Дмитрий Владимирович": 126,
-      "Крылов Дмитрий Вадимович": 99,
-      "Меркулов Вадим Александрович": 20,
-      "Орлов Олег Алексеевич": 144,
-      "Цыбизова Татьяна Игоревна": 436
+      "gas:candidate-vibid:23420001156290": 36,
+      "gas:candidate-vibid:23420001154018": 198,
+      "gas:candidate-vibid:23420001154208": 126,
+      "gas:candidate-vibid:23420001155110": 99,
+      "gas:candidate-vibid:23420001155134": 20,
+      "gas:candidate-vibid:23420001152335": 144,
+      "gas:candidate-vibid:23420001156446": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 28,
-      "Буров Алексей Никитович": 101,
-      "Калашников Дмитрий Владимирович": 40,
-      "Крылов Дмитрий Вадимович": 57,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 85,
-      "Цыбизова Татьяна Игоревна": 245
+      "gas:candidate-vibid:23420001156290": 28,
+      "gas:candidate-vibid:23420001154018": 101,
+      "gas:candidate-vibid:23420001154208": 40,
+      "gas:candidate-vibid:23420001155110": 57,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 85,
+      "gas:candidate-vibid:23420001156446": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 44,
-      "Буров Алексей Никитович": 134,
-      "Калашников Дмитрий Владимирович": 85,
-      "Крылов Дмитрий Вадимович": 54,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 73,
-      "Цыбизова Татьяна Игоревна": 380
+      "gas:candidate-vibid:23420001156290": 44,
+      "gas:candidate-vibid:23420001154018": 134,
+      "gas:candidate-vibid:23420001154208": 85,
+      "gas:candidate-vibid:23420001155110": 54,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 73,
+      "gas:candidate-vibid:23420001156446": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 61,
-      "Буров Алексей Никитович": 136,
-      "Калашников Дмитрий Владимирович": 64,
-      "Крылов Дмитрий Вадимович": 83,
-      "Меркулов Вадим Александрович": 39,
-      "Орлов Олег Алексеевич": 164,
-      "Цыбизова Татьяна Игоревна": 449
+      "gas:candidate-vibid:23420001156290": 61,
+      "gas:candidate-vibid:23420001154018": 136,
+      "gas:candidate-vibid:23420001154208": 64,
+      "gas:candidate-vibid:23420001155110": 83,
+      "gas:candidate-vibid:23420001155134": 39,
+      "gas:candidate-vibid:23420001152335": 164,
+      "gas:candidate-vibid:23420001156446": 449
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 55,
-      "Буров Алексей Никитович": 127,
-      "Калашников Дмитрий Владимирович": 122,
-      "Крылов Дмитрий Вадимович": 57,
-      "Меркулов Вадим Александрович": 12,
-      "Орлов Олег Алексеевич": 107,
-      "Цыбизова Татьяна Игоревна": 316
+      "gas:candidate-vibid:23420001156290": 55,
+      "gas:candidate-vibid:23420001154018": 127,
+      "gas:candidate-vibid:23420001154208": 122,
+      "gas:candidate-vibid:23420001155110": 57,
+      "gas:candidate-vibid:23420001155134": 12,
+      "gas:candidate-vibid:23420001152335": 107,
+      "gas:candidate-vibid:23420001156446": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 53,
-      "Буров Алексей Никитович": 118,
-      "Калашников Дмитрий Владимирович": 123,
-      "Крылов Дмитрий Вадимович": 65,
-      "Меркулов Вадим Александрович": 23,
-      "Орлов Олег Алексеевич": 118,
-      "Цыбизова Татьяна Игоревна": 330
+      "gas:candidate-vibid:23420001156290": 53,
+      "gas:candidate-vibid:23420001154018": 118,
+      "gas:candidate-vibid:23420001154208": 123,
+      "gas:candidate-vibid:23420001155110": 65,
+      "gas:candidate-vibid:23420001155134": 23,
+      "gas:candidate-vibid:23420001152335": 118,
+      "gas:candidate-vibid:23420001156446": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 62,
-      "Буров Алексей Никитович": 178,
-      "Калашников Дмитрий Владимирович": 151,
-      "Крылов Дмитрий Вадимович": 68,
-      "Меркулов Вадим Александрович": 18,
-      "Орлов Олег Алексеевич": 105,
-      "Цыбизова Татьяна Игоревна": 485
+      "gas:candidate-vibid:23420001156290": 62,
+      "gas:candidate-vibid:23420001154018": 178,
+      "gas:candidate-vibid:23420001154208": 151,
+      "gas:candidate-vibid:23420001155110": 68,
+      "gas:candidate-vibid:23420001155134": 18,
+      "gas:candidate-vibid:23420001152335": 105,
+      "gas:candidate-vibid:23420001156446": 485
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 45,
-      "Буров Алексей Никитович": 150,
-      "Калашников Дмитрий Владимирович": 72,
-      "Крылов Дмитрий Вадимович": 36,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 131,
-      "Цыбизова Татьяна Игоревна": 359
+      "gas:candidate-vibid:23420001156290": 45,
+      "gas:candidate-vibid:23420001154018": 150,
+      "gas:candidate-vibid:23420001154208": 72,
+      "gas:candidate-vibid:23420001155110": 36,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 131,
+      "gas:candidate-vibid:23420001156446": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 152,
-      "Калашников Дмитрий Владимирович": 85,
-      "Крылов Дмитрий Вадимович": 44,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 134,
-      "Цыбизова Татьяна Игоревна": 315
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 152,
+      "gas:candidate-vibid:23420001154208": 85,
+      "gas:candidate-vibid:23420001155110": 44,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 134,
+      "gas:candidate-vibid:23420001156446": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 178,
-      "Калашников Дмитрий Владимирович": 95,
-      "Крылов Дмитрий Вадимович": 37,
-      "Меркулов Вадим Александрович": 17,
-      "Орлов Олег Алексеевич": 110,
-      "Цыбизова Татьяна Игоревна": 306
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 178,
+      "gas:candidate-vibid:23420001154208": 95,
+      "gas:candidate-vibid:23420001155110": 37,
+      "gas:candidate-vibid:23420001155134": 17,
+      "gas:candidate-vibid:23420001152335": 110,
+      "gas:candidate-vibid:23420001156446": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 168,
-      "Буров Алексей Никитович": 154,
-      "Калашников Дмитрий Владимирович": 243,
-      "Крылов Дмитрий Вадимович": 84,
-      "Меркулов Вадим Александрович": 44,
-      "Орлов Олег Алексеевич": 201,
-      "Цыбизова Татьяна Игоревна": 431
+      "gas:candidate-vibid:23420001156290": 168,
+      "gas:candidate-vibid:23420001154018": 154,
+      "gas:candidate-vibid:23420001154208": 243,
+      "gas:candidate-vibid:23420001155110": 84,
+      "gas:candidate-vibid:23420001155134": 44,
+      "gas:candidate-vibid:23420001152335": 201,
+      "gas:candidate-vibid:23420001156446": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 39,
-      "Буров Алексей Никитович": 271,
-      "Калашников Дмитрий Владимирович": 90,
-      "Крылов Дмитрий Вадимович": 45,
-      "Меркулов Вадим Александрович": 32,
-      "Орлов Олег Алексеевич": 205,
-      "Цыбизова Татьяна Игоревна": 484
+      "gas:candidate-vibid:23420001156290": 39,
+      "gas:candidate-vibid:23420001154018": 271,
+      "gas:candidate-vibid:23420001154208": 90,
+      "gas:candidate-vibid:23420001155110": 45,
+      "gas:candidate-vibid:23420001155134": 32,
+      "gas:candidate-vibid:23420001152335": 205,
+      "gas:candidate-vibid:23420001156446": 484
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 3,
-      "Буров Алексей Никитович": 30,
-      "Калашников Дмитрий Владимирович": 30,
-      "Крылов Дмитрий Вадимович": 15,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 37,
-      "Цыбизова Татьяна Игоревна": 192
+      "gas:candidate-vibid:23420001156290": 3,
+      "gas:candidate-vibid:23420001154018": 30,
+      "gas:candidate-vibid:23420001154208": 30,
+      "gas:candidate-vibid:23420001155110": 15,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 37,
+      "gas:candidate-vibid:23420001156446": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 97,
-      "Калашников Дмитрий Владимирович": 43,
-      "Крылов Дмитрий Вадимович": 43,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 64,
-      "Цыбизова Татьяна Игоревна": 324
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 97,
+      "gas:candidate-vibid:23420001154208": 43,
+      "gas:candidate-vibid:23420001155110": 43,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 64,
+      "gas:candidate-vibid:23420001156446": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 24,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 6,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 13,
-      "Цыбизова Татьяна Игоревна": 75
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 24,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 6,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 13,
+      "gas:candidate-vibid:23420001156446": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 13,
-      "Буров Алексей Никитович": 47,
-      "Калашников Дмитрий Владимирович": 23,
-      "Крылов Дмитрий Вадимович": 5,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 28,
-      "Цыбизова Татьяна Игоревна": 183
+      "gas:candidate-vibid:23420001156290": 13,
+      "gas:candidate-vibid:23420001154018": 47,
+      "gas:candidate-vibid:23420001154208": 23,
+      "gas:candidate-vibid:23420001155110": 5,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 28,
+      "gas:candidate-vibid:23420001156446": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 4,
-      "Буров Алексей Никитович": 13,
-      "Калашников Дмитрий Владимирович": 13,
-      "Крылов Дмитрий Вадимович": 10,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 18,
-      "Цыбизова Татьяна Игоревна": 83
+      "gas:candidate-vibid:23420001156290": 4,
+      "gas:candidate-vibid:23420001154018": 13,
+      "gas:candidate-vibid:23420001154208": 13,
+      "gas:candidate-vibid:23420001155110": 10,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 18,
+      "gas:candidate-vibid:23420001156446": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 25,
-      "Калашников Дмитрий Владимирович": 17,
-      "Крылов Дмитрий Вадимович": 8,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 26,
-      "Цыбизова Татьяна Игоревна": 200
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 25,
+      "gas:candidate-vibid:23420001154208": 17,
+      "gas:candidate-vibid:23420001155110": 8,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 26,
+      "gas:candidate-vibid:23420001156446": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 56,
-      "Буров Алексей Никитович": 187,
-      "Калашников Дмитрий Владимирович": 101,
-      "Крылов Дмитрий Вадимович": 85,
-      "Меркулов Вадим Александрович": 21,
-      "Орлов Олег Алексеевич": 88,
-      "Цыбизова Татьяна Игоревна": 378
+      "gas:candidate-vibid:23420001156290": 56,
+      "gas:candidate-vibid:23420001154018": 187,
+      "gas:candidate-vibid:23420001154208": 101,
+      "gas:candidate-vibid:23420001155110": 85,
+      "gas:candidate-vibid:23420001155134": 21,
+      "gas:candidate-vibid:23420001152335": 88,
+      "gas:candidate-vibid:23420001156446": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 10,
-      "Калашников Дмитрий Владимирович": 7,
-      "Крылов Дмитрий Вадимович": 7,
-      "Меркулов Вадим Александрович": 1,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 286
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 10,
+      "gas:candidate-vibid:23420001154208": 7,
+      "gas:candidate-vibid:23420001155110": 7,
+      "gas:candidate-vibid:23420001155134": 1,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 16,
-      "Калашников Дмитрий Владимирович": 18,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 93
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 16,
+      "gas:candidate-vibid:23420001154208": 18,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105212&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105212&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 60,
-      "Калашников Дмитрий Владимирович": 58,
-      "Крылов Дмитрий Вадимович": 54,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 60,
-      "Цыбизова Татьяна Игоревна": 136
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 60,
+      "gas:candidate-vibid:23420001154208": 58,
+      "gas:candidate-vibid:23420001155110": 54,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 60,
+      "gas:candidate-vibid:23420001156446": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 37,
-      "Буров Алексей Никитович": 87,
-      "Калашников Дмитрий Владимирович": 73,
-      "Крылов Дмитрий Вадимович": 91,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 45,
-      "Цыбизова Татьяна Игоревна": 222
+      "gas:candidate-vibid:23420001156290": 37,
+      "gas:candidate-vibid:23420001154018": 87,
+      "gas:candidate-vibid:23420001154208": 73,
+      "gas:candidate-vibid:23420001155110": 91,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 45,
+      "gas:candidate-vibid:23420001156446": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 15,
-      "Буров Алексей Никитович": 67,
-      "Калашников Дмитрий Владимирович": 52,
-      "Крылов Дмитрий Вадимович": 83,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 72,
-      "Цыбизова Татьяна Игоревна": 180
+      "gas:candidate-vibid:23420001156290": 15,
+      "gas:candidate-vibid:23420001154018": 67,
+      "gas:candidate-vibid:23420001154208": 52,
+      "gas:candidate-vibid:23420001155110": 83,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 72,
+      "gas:candidate-vibid:23420001156446": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 98,
-      "Калашников Дмитрий Владимирович": 94,
-      "Крылов Дмитрий Вадимович": 139,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 84,
-      "Цыбизова Татьяна Игоревна": 284
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 98,
+      "gas:candidate-vibid:23420001154208": 94,
+      "gas:candidate-vibid:23420001155110": 139,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 84,
+      "gas:candidate-vibid:23420001156446": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 5,
-      "Буров Алексей Никитович": 28,
-      "Калашников Дмитрий Владимирович": 35,
-      "Крылов Дмитрий Вадимович": 40,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 14,
-      "Цыбизова Татьяна Игоревна": 94
+      "gas:candidate-vibid:23420001156290": 5,
+      "gas:candidate-vibid:23420001154018": 28,
+      "gas:candidate-vibid:23420001154208": 35,
+      "gas:candidate-vibid:23420001155110": 40,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 14,
+      "gas:candidate-vibid:23420001156446": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 35,
-      "Буров Алексей Никитович": 91,
-      "Калашников Дмитрий Владимирович": 97,
-      "Крылов Дмитрий Вадимович": 110,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 77,
-      "Цыбизова Татьяна Игоревна": 364
+      "gas:candidate-vibid:23420001156290": 35,
+      "gas:candidate-vibid:23420001154018": 91,
+      "gas:candidate-vibid:23420001154208": 97,
+      "gas:candidate-vibid:23420001155110": 110,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 77,
+      "gas:candidate-vibid:23420001156446": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 79,
-      "Калашников Дмитрий Владимирович": 62,
-      "Крылов Дмитрий Вадимович": 110,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 52,
-      "Цыбизова Татьяна Игоревна": 216
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 79,
+      "gas:candidate-vibid:23420001154208": 62,
+      "gas:candidate-vibid:23420001155110": 110,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 52,
+      "gas:candidate-vibid:23420001156446": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 56,
-      "Калашников Дмитрий Владимирович": 96,
-      "Крылов Дмитрий Вадимович": 123,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 24,
-      "Цыбизова Татьяна Игоревна": 497
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 56,
+      "gas:candidate-vibid:23420001154208": 96,
+      "gas:candidate-vibid:23420001155110": 123,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 24,
+      "gas:candidate-vibid:23420001156446": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 20,
-      "Буров Алексей Никитович": 129,
-      "Калашников Дмитрий Владимирович": 111,
-      "Крылов Дмитрий Вадимович": 159,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 73,
-      "Цыбизова Татьяна Игоревна": 214
+      "gas:candidate-vibid:23420001156290": 20,
+      "gas:candidate-vibid:23420001154018": 129,
+      "gas:candidate-vibid:23420001154208": 111,
+      "gas:candidate-vibid:23420001155110": 159,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 73,
+      "gas:candidate-vibid:23420001156446": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 61,
-      "Буров Алексей Никитович": 131,
-      "Калашников Дмитрий Владимирович": 108,
-      "Крылов Дмитрий Вадимович": 229,
-      "Меркулов Вадим Александрович": 16,
-      "Орлов Олег Алексеевич": 61,
-      "Цыбизова Татьяна Игоревна": 291
+      "gas:candidate-vibid:23420001156290": 61,
+      "gas:candidate-vibid:23420001154018": 131,
+      "gas:candidate-vibid:23420001154208": 108,
+      "gas:candidate-vibid:23420001155110": 229,
+      "gas:candidate-vibid:23420001155134": 16,
+      "gas:candidate-vibid:23420001152335": 61,
+      "gas:candidate-vibid:23420001156446": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 36,
-      "Буров Алексей Никитович": 62,
-      "Калашников Дмитрий Владимирович": 81,
-      "Крылов Дмитрий Вадимович": 299,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 60,
-      "Цыбизова Татьяна Игоревна": 258
+      "gas:candidate-vibid:23420001156290": 36,
+      "gas:candidate-vibid:23420001154018": 62,
+      "gas:candidate-vibid:23420001154208": 81,
+      "gas:candidate-vibid:23420001155110": 299,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 60,
+      "gas:candidate-vibid:23420001156446": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 63,
-      "Калашников Дмитрий Владимирович": 101,
-      "Крылов Дмитрий Вадимович": 366,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 36,
-      "Цыбизова Татьяна Игоревна": 194
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 63,
+      "gas:candidate-vibid:23420001154208": 101,
+      "gas:candidate-vibid:23420001155110": 366,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 36,
+      "gas:candidate-vibid:23420001156446": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 69,
-      "Калашников Дмитрий Владимирович": 75,
-      "Крылов Дмитрий Вадимович": 301,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 47,
-      "Цыбизова Татьяна Игоревна": 348
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 69,
+      "gas:candidate-vibid:23420001154208": 75,
+      "gas:candidate-vibid:23420001155110": 301,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 47,
+      "gas:candidate-vibid:23420001156446": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 29,
-      "Буров Алексей Никитович": 82,
-      "Калашников Дмитрий Владимирович": 97,
-      "Крылов Дмитрий Вадимович": 385,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 64,
-      "Цыбизова Татьяна Игоревна": 243
+      "gas:candidate-vibid:23420001156290": 29,
+      "gas:candidate-vibid:23420001154018": 82,
+      "gas:candidate-vibid:23420001154208": 97,
+      "gas:candidate-vibid:23420001155110": 385,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 64,
+      "gas:candidate-vibid:23420001156446": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 28,
-      "Буров Алексей Никитович": 112,
-      "Калашников Дмитрий Владимирович": 117,
-      "Крылов Дмитрий Вадимович": 411,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 50,
-      "Цыбизова Татьяна Игоревна": 332
+      "gas:candidate-vibid:23420001156290": 28,
+      "gas:candidate-vibid:23420001154018": 112,
+      "gas:candidate-vibid:23420001154208": 117,
+      "gas:candidate-vibid:23420001155110": 411,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 50,
+      "gas:candidate-vibid:23420001156446": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 28,
-      "Буров Алексей Никитович": 88,
-      "Калашников Дмитрий Владимирович": 112,
-      "Крылов Дмитрий Вадимович": 487,
-      "Меркулов Вадим Александрович": 16,
-      "Орлов Олег Алексеевич": 59,
-      "Цыбизова Татьяна Игоревна": 260
+      "gas:candidate-vibid:23420001156290": 28,
+      "gas:candidate-vibid:23420001154018": 88,
+      "gas:candidate-vibid:23420001154208": 112,
+      "gas:candidate-vibid:23420001155110": 487,
+      "gas:candidate-vibid:23420001155134": 16,
+      "gas:candidate-vibid:23420001152335": 59,
+      "gas:candidate-vibid:23420001156446": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 43,
-      "Буров Алексей Никитович": 88,
-      "Калашников Дмитрий Владимирович": 106,
-      "Крылов Дмитрий Вадимович": 437,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 56,
-      "Цыбизова Татьяна Игоревна": 280
+      "gas:candidate-vibid:23420001156290": 43,
+      "gas:candidate-vibid:23420001154018": 88,
+      "gas:candidate-vibid:23420001154208": 106,
+      "gas:candidate-vibid:23420001155110": 437,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 56,
+      "gas:candidate-vibid:23420001156446": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 26,
-      "Буров Алексей Никитович": 79,
-      "Калашников Дмитрий Владимирович": 79,
-      "Крылов Дмитрий Вадимович": 598,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 39,
-      "Цыбизова Татьяна Игоревна": 267
+      "gas:candidate-vibid:23420001156290": 26,
+      "gas:candidate-vibid:23420001154018": 79,
+      "gas:candidate-vibid:23420001154208": 79,
+      "gas:candidate-vibid:23420001155110": 598,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 39,
+      "gas:candidate-vibid:23420001156446": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 37,
-      "Буров Алексей Никитович": 80,
-      "Калашников Дмитрий Владимирович": 115,
-      "Крылов Дмитрий Вадимович": 412,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 67,
-      "Цыбизова Татьяна Игоревна": 237
+      "gas:candidate-vibid:23420001156290": 37,
+      "gas:candidate-vibid:23420001154018": 80,
+      "gas:candidate-vibid:23420001154208": 115,
+      "gas:candidate-vibid:23420001155110": 412,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 67,
+      "gas:candidate-vibid:23420001156446": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 38,
-      "Буров Алексей Никитович": 91,
-      "Калашников Дмитрий Владимирович": 135,
-      "Крылов Дмитрий Вадимович": 433,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 69,
-      "Цыбизова Татьяна Игоревна": 248
+      "gas:candidate-vibid:23420001156290": 38,
+      "gas:candidate-vibid:23420001154018": 91,
+      "gas:candidate-vibid:23420001154208": 135,
+      "gas:candidate-vibid:23420001155110": 433,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 69,
+      "gas:candidate-vibid:23420001156446": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 43,
-      "Буров Алексей Никитович": 77,
-      "Калашников Дмитрий Владимирович": 154,
-      "Крылов Дмитрий Вадимович": 436,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 62,
-      "Цыбизова Татьяна Игоревна": 322
+      "gas:candidate-vibid:23420001156290": 43,
+      "gas:candidate-vibid:23420001154018": 77,
+      "gas:candidate-vibid:23420001154208": 154,
+      "gas:candidate-vibid:23420001155110": 436,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 62,
+      "gas:candidate-vibid:23420001156446": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 90,
-      "Калашников Дмитрий Владимирович": 111,
-      "Крылов Дмитрий Вадимович": 450,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 53,
-      "Цыбизова Татьяна Игоревна": 256
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 90,
+      "gas:candidate-vibid:23420001154208": 111,
+      "gas:candidate-vibid:23420001155110": 450,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 53,
+      "gas:candidate-vibid:23420001156446": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 31,
-      "Буров Алексей Никитович": 77,
-      "Калашников Дмитрий Владимирович": 105,
-      "Крылов Дмитрий Вадимович": 444,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 57,
-      "Цыбизова Татьяна Игоревна": 315
+      "gas:candidate-vibid:23420001156290": 31,
+      "gas:candidate-vibid:23420001154018": 77,
+      "gas:candidate-vibid:23420001154208": 105,
+      "gas:candidate-vibid:23420001155110": 444,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 57,
+      "gas:candidate-vibid:23420001156446": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 37,
-      "Буров Алексей Никитович": 118,
-      "Калашников Дмитрий Владимирович": 125,
-      "Крылов Дмитрий Вадимович": 150,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 71,
-      "Цыбизова Татьяна Игоревна": 227
+      "gas:candidate-vibid:23420001156290": 37,
+      "gas:candidate-vibid:23420001154018": 118,
+      "gas:candidate-vibid:23420001154208": 125,
+      "gas:candidate-vibid:23420001155110": 150,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 71,
+      "gas:candidate-vibid:23420001156446": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 12,
-      "Буров Алексей Никитович": 48,
-      "Калашников Дмитрий Владимирович": 56,
-      "Крылов Дмитрий Вадимович": 39,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 27,
-      "Цыбизова Татьяна Игоревна": 110
+      "gas:candidate-vibid:23420001156290": 12,
+      "gas:candidate-vibid:23420001154018": 48,
+      "gas:candidate-vibid:23420001154208": 56,
+      "gas:candidate-vibid:23420001155110": 39,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 27,
+      "gas:candidate-vibid:23420001156446": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 32,
-      "Буров Алексей Никитович": 80,
-      "Калашников Дмитрий Владимирович": 128,
-      "Крылов Дмитрий Вадимович": 279,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 41,
-      "Цыбизова Татьяна Игоревна": 237
+      "gas:candidate-vibid:23420001156290": 32,
+      "gas:candidate-vibid:23420001154018": 80,
+      "gas:candidate-vibid:23420001154208": 128,
+      "gas:candidate-vibid:23420001155110": 279,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 41,
+      "gas:candidate-vibid:23420001156446": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 27,
-      "Буров Алексей Никитович": 73,
-      "Калашников Дмитрий Владимирович": 122,
-      "Крылов Дмитрий Вадимович": 233,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 24,
-      "Цыбизова Татьяна Игоревна": 288
+      "gas:candidate-vibid:23420001156290": 27,
+      "gas:candidate-vibid:23420001154018": 73,
+      "gas:candidate-vibid:23420001154208": 122,
+      "gas:candidate-vibid:23420001155110": 233,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 24,
+      "gas:candidate-vibid:23420001156446": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 19,
-      "Буров Алексей Никитович": 68,
-      "Калашников Дмитрий Владимирович": 98,
-      "Крылов Дмитрий Вадимович": 194,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 35,
-      "Цыбизова Татьяна Игоревна": 162
+      "gas:candidate-vibid:23420001156290": 19,
+      "gas:candidate-vibid:23420001154018": 68,
+      "gas:candidate-vibid:23420001154208": 98,
+      "gas:candidate-vibid:23420001155110": 194,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 35,
+      "gas:candidate-vibid:23420001156446": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 20,
-      "Буров Алексей Никитович": 89,
-      "Калашников Дмитрий Владимирович": 121,
-      "Крылов Дмитрий Вадимович": 275,
-      "Меркулов Вадим Александрович": 12,
-      "Орлов Олег Алексеевич": 63,
-      "Цыбизова Татьяна Игоревна": 192
+      "gas:candidate-vibid:23420001156290": 20,
+      "gas:candidate-vibid:23420001154018": 89,
+      "gas:candidate-vibid:23420001154208": 121,
+      "gas:candidate-vibid:23420001155110": 275,
+      "gas:candidate-vibid:23420001155134": 12,
+      "gas:candidate-vibid:23420001152335": 63,
+      "gas:candidate-vibid:23420001156446": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 33,
-      "Буров Алексей Никитович": 74,
-      "Калашников Дмитрий Владимирович": 151,
-      "Крылов Дмитрий Вадимович": 277,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 63,
-      "Цыбизова Татьяна Игоревна": 350
+      "gas:candidate-vibid:23420001156290": 33,
+      "gas:candidate-vibid:23420001154018": 74,
+      "gas:candidate-vibid:23420001154208": 151,
+      "gas:candidate-vibid:23420001155110": 277,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 63,
+      "gas:candidate-vibid:23420001156446": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 57,
-      "Калашников Дмитрий Владимирович": 114,
-      "Крылов Дмитрий Вадимович": 256,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 55,
-      "Цыбизова Татьяна Игоревна": 478
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 57,
+      "gas:candidate-vibid:23420001154208": 114,
+      "gas:candidate-vibid:23420001155110": 256,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 55,
+      "gas:candidate-vibid:23420001156446": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 35,
-      "Буров Алексей Никитович": 104,
-      "Калашников Дмитрий Владимирович": 157,
-      "Крылов Дмитрий Вадимович": 228,
-      "Меркулов Вадим Александрович": 14,
-      "Орлов Олег Алексеевич": 71,
-      "Цыбизова Татьяна Игоревна": 250
+      "gas:candidate-vibid:23420001156290": 35,
+      "gas:candidate-vibid:23420001154018": 104,
+      "gas:candidate-vibid:23420001154208": 157,
+      "gas:candidate-vibid:23420001155110": 228,
+      "gas:candidate-vibid:23420001155134": 14,
+      "gas:candidate-vibid:23420001152335": 71,
+      "gas:candidate-vibid:23420001156446": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 49,
-      "Калашников Дмитрий Владимирович": 150,
-      "Крылов Дмитрий Вадимович": 270,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 43,
-      "Цыбизова Татьяна Игоревна": 380
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 49,
+      "gas:candidate-vibid:23420001154208": 150,
+      "gas:candidate-vibid:23420001155110": 270,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 43,
+      "gas:candidate-vibid:23420001156446": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 43,
-      "Буров Алексей Никитович": 129,
-      "Калашников Дмитрий Владимирович": 163,
-      "Крылов Дмитрий Вадимович": 194,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 110,
-      "Цыбизова Татьяна Игоревна": 252
+      "gas:candidate-vibid:23420001156290": 43,
+      "gas:candidate-vibid:23420001154018": 129,
+      "gas:candidate-vibid:23420001154208": 163,
+      "gas:candidate-vibid:23420001155110": 194,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 110,
+      "gas:candidate-vibid:23420001156446": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 22,
-      "Буров Алексей Никитович": 92,
-      "Калашников Дмитрий Владимирович": 80,
-      "Крылов Дмитрий Вадимович": 121,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 96,
-      "Цыбизова Татьяна Игоревна": 349
+      "gas:candidate-vibid:23420001156290": 22,
+      "gas:candidate-vibid:23420001154018": 92,
+      "gas:candidate-vibid:23420001154208": 80,
+      "gas:candidate-vibid:23420001155110": 121,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 96,
+      "gas:candidate-vibid:23420001156446": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 67,
-      "Калашников Дмитрий Владимирович": 144,
-      "Крылов Дмитрий Вадимович": 328,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 66,
-      "Цыбизова Татьяна Игоревна": 275
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 67,
+      "gas:candidate-vibid:23420001154208": 144,
+      "gas:candidate-vibid:23420001155110": 328,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 66,
+      "gas:candidate-vibid:23420001156446": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 12,
-      "Буров Алексей Никитович": 69,
-      "Калашников Дмитрий Владимирович": 149,
-      "Крылов Дмитрий Вадимович": 274,
-      "Меркулов Вадим Александрович": 13,
-      "Орлов Олег Алексеевич": 68,
-      "Цыбизова Татьяна Игоревна": 275
+      "gas:candidate-vibid:23420001156290": 12,
+      "gas:candidate-vibid:23420001154018": 69,
+      "gas:candidate-vibid:23420001154208": 149,
+      "gas:candidate-vibid:23420001155110": 274,
+      "gas:candidate-vibid:23420001155134": 13,
+      "gas:candidate-vibid:23420001152335": 68,
+      "gas:candidate-vibid:23420001156446": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 84,
-      "Калашников Дмитрий Владимирович": 116,
-      "Крылов Дмитрий Вадимович": 255,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 63,
-      "Цыбизова Татьяна Игоревна": 277
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 84,
+      "gas:candidate-vibid:23420001154208": 116,
+      "gas:candidate-vibid:23420001155110": 255,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 63,
+      "gas:candidate-vibid:23420001156446": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 25,
-      "Буров Алексей Никитович": 89,
-      "Калашников Дмитрий Владимирович": 154,
-      "Крылов Дмитрий Вадимович": 307,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 71,
-      "Цыбизова Татьяна Игоревна": 245
+      "gas:candidate-vibid:23420001156290": 25,
+      "gas:candidate-vibid:23420001154018": 89,
+      "gas:candidate-vibid:23420001154208": 154,
+      "gas:candidate-vibid:23420001155110": 307,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 71,
+      "gas:candidate-vibid:23420001156446": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 17,
-      "Буров Алексей Никитович": 81,
-      "Калашников Дмитрий Владимирович": 148,
-      "Крылов Дмитрий Вадимович": 166,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 41,
-      "Цыбизова Татьяна Игоревна": 342
+      "gas:candidate-vibid:23420001156290": 17,
+      "gas:candidate-vibid:23420001154018": 81,
+      "gas:candidate-vibid:23420001154208": 148,
+      "gas:candidate-vibid:23420001155110": 166,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 41,
+      "gas:candidate-vibid:23420001156446": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 67,
-      "Калашников Дмитрий Владимирович": 117,
-      "Крылов Дмитрий Вадимович": 153,
-      "Меркулов Вадим Александрович": 10,
-      "Орлов Олег Алексеевич": 62,
-      "Цыбизова Татьяна Игоревна": 215
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 67,
+      "gas:candidate-vibid:23420001154208": 117,
+      "gas:candidate-vibid:23420001155110": 153,
+      "gas:candidate-vibid:23420001155134": 10,
+      "gas:candidate-vibid:23420001152335": 62,
+      "gas:candidate-vibid:23420001156446": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 51,
-      "Калашников Дмитрий Владимирович": 142,
-      "Крылов Дмитрий Вадимович": 238,
-      "Меркулов Вадим Александрович": 5,
-      "Орлов Олег Алексеевич": 52,
-      "Цыбизова Татьяна Игоревна": 276
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 51,
+      "gas:candidate-vibid:23420001154208": 142,
+      "gas:candidate-vibid:23420001155110": 238,
+      "gas:candidate-vibid:23420001155134": 5,
+      "gas:candidate-vibid:23420001152335": 52,
+      "gas:candidate-vibid:23420001156446": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 77,
-      "Калашников Дмитрий Владимирович": 146,
-      "Крылов Дмитрий Вадимович": 116,
-      "Меркулов Вадим Александрович": 6,
-      "Орлов Олег Алексеевич": 43,
-      "Цыбизова Татьяна Игоревна": 197
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 77,
+      "gas:candidate-vibid:23420001154208": 146,
+      "gas:candidate-vibid:23420001155110": 116,
+      "gas:candidate-vibid:23420001155134": 6,
+      "gas:candidate-vibid:23420001152335": 43,
+      "gas:candidate-vibid:23420001156446": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 20,
-      "Буров Алексей Никитович": 72,
-      "Калашников Дмитрий Владимирович": 112,
-      "Крылов Дмитрий Вадимович": 107,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 42,
-      "Цыбизова Татьяна Игоревна": 476
+      "gas:candidate-vibid:23420001156290": 20,
+      "gas:candidate-vibid:23420001154018": 72,
+      "gas:candidate-vibid:23420001154208": 112,
+      "gas:candidate-vibid:23420001155110": 107,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 42,
+      "gas:candidate-vibid:23420001156446": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 20,
-      "Буров Алексей Никитович": 84,
-      "Калашников Дмитрий Владимирович": 263,
-      "Крылов Дмитрий Вадимович": 136,
-      "Меркулов Вадим Александрович": 15,
-      "Орлов Олег Алексеевич": 88,
-      "Цыбизова Татьяна Игоревна": 357
+      "gas:candidate-vibid:23420001156290": 20,
+      "gas:candidate-vibid:23420001154018": 84,
+      "gas:candidate-vibid:23420001154208": 263,
+      "gas:candidate-vibid:23420001155110": 136,
+      "gas:candidate-vibid:23420001155134": 15,
+      "gas:candidate-vibid:23420001152335": 88,
+      "gas:candidate-vibid:23420001156446": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 18,
-      "Буров Алексей Никитович": 28,
-      "Калашников Дмитрий Владимирович": 171,
-      "Крылов Дмитрий Вадимович": 86,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 30,
-      "Цыбизова Татьяна Игоревна": 488
+      "gas:candidate-vibid:23420001156290": 18,
+      "gas:candidate-vibid:23420001154018": 28,
+      "gas:candidate-vibid:23420001154208": 171,
+      "gas:candidate-vibid:23420001155110": 86,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 30,
+      "gas:candidate-vibid:23420001156446": 488
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 32,
-      "Буров Алексей Никитович": 67,
-      "Калашников Дмитрий Владимирович": 122,
-      "Крылов Дмитрий Вадимович": 138,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 70,
-      "Цыбизова Татьяна Игоревна": 222
+      "gas:candidate-vibid:23420001156290": 32,
+      "gas:candidate-vibid:23420001154018": 67,
+      "gas:candidate-vibid:23420001154208": 122,
+      "gas:candidate-vibid:23420001155110": 138,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 70,
+      "gas:candidate-vibid:23420001156446": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 30,
-      "Буров Алексей Никитович": 90,
-      "Калашников Дмитрий Владимирович": 285,
-      "Крылов Дмитрий Вадимович": 153,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 75,
-      "Цыбизова Татьяна Игоревна": 269
+      "gas:candidate-vibid:23420001156290": 30,
+      "gas:candidate-vibid:23420001154018": 90,
+      "gas:candidate-vibid:23420001154208": 285,
+      "gas:candidate-vibid:23420001155110": 153,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 75,
+      "gas:candidate-vibid:23420001156446": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 16,
-      "Буров Алексей Никитович": 80,
-      "Калашников Дмитрий Владимирович": 208,
-      "Крылов Дмитрий Вадимович": 81,
-      "Меркулов Вадим Александрович": 8,
-      "Орлов Олег Алексеевич": 49,
-      "Цыбизова Татьяна Игоревна": 290
+      "gas:candidate-vibid:23420001156290": 16,
+      "gas:candidate-vibid:23420001154018": 80,
+      "gas:candidate-vibid:23420001154208": 208,
+      "gas:candidate-vibid:23420001155110": 81,
+      "gas:candidate-vibid:23420001155134": 8,
+      "gas:candidate-vibid:23420001152335": 49,
+      "gas:candidate-vibid:23420001156446": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 26,
-      "Буров Алексей Никитович": 57,
-      "Калашников Дмитрий Владимирович": 276,
-      "Крылов Дмитрий Вадимович": 110,
-      "Меркулов Вадим Александрович": 7,
-      "Орлов Олег Алексеевич": 40,
-      "Цыбизова Татьяна Игоревна": 178
+      "gas:candidate-vibid:23420001156290": 26,
+      "gas:candidate-vibid:23420001154018": 57,
+      "gas:candidate-vibid:23420001154208": 276,
+      "gas:candidate-vibid:23420001155110": 110,
+      "gas:candidate-vibid:23420001155134": 7,
+      "gas:candidate-vibid:23420001152335": 40,
+      "gas:candidate-vibid:23420001156446": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 25,
-      "Буров Алексей Никитович": 76,
-      "Калашников Дмитрий Владимирович": 263,
-      "Крылов Дмитрий Вадимович": 140,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 69,
-      "Цыбизова Татьяна Игоревна": 245
+      "gas:candidate-vibid:23420001156290": 25,
+      "gas:candidate-vibid:23420001154018": 76,
+      "gas:candidate-vibid:23420001154208": 263,
+      "gas:candidate-vibid:23420001155110": 140,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 69,
+      "gas:candidate-vibid:23420001156446": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 11,
-      "Буров Алексей Никитович": 46,
-      "Калашников Дмитрий Владимирович": 222,
-      "Крылов Дмитрий Вадимович": 92,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 33,
-      "Цыбизова Татьяна Игоревна": 165
+      "gas:candidate-vibid:23420001156290": 11,
+      "gas:candidate-vibid:23420001154018": 46,
+      "gas:candidate-vibid:23420001154208": 222,
+      "gas:candidate-vibid:23420001155110": 92,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 33,
+      "gas:candidate-vibid:23420001156446": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 48,
-      "Калашников Дмитрий Владимирович": 88,
-      "Крылов Дмитрий Вадимович": 66,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 44,
-      "Цыбизова Татьяна Игоревна": 195
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 48,
+      "gas:candidate-vibid:23420001154208": 88,
+      "gas:candidate-vibid:23420001155110": 66,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 44,
+      "gas:candidate-vibid:23420001156446": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 8,
-      "Буров Алексей Никитович": 20,
-      "Калашников Дмитрий Владимирович": 41,
-      "Крылов Дмитрий Вадимович": 59,
-      "Меркулов Вадим Александрович": 3,
-      "Орлов Олег Алексеевич": 23,
-      "Цыбизова Татьяна Игоревна": 195
+      "gas:candidate-vibid:23420001156290": 8,
+      "gas:candidate-vibid:23420001154018": 20,
+      "gas:candidate-vibid:23420001154208": 41,
+      "gas:candidate-vibid:23420001155110": 59,
+      "gas:candidate-vibid:23420001155134": 3,
+      "gas:candidate-vibid:23420001152335": 23,
+      "gas:candidate-vibid:23420001156446": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 6,
-      "Буров Алексей Никитович": 6,
-      "Калашников Дмитрий Владимирович": 16,
-      "Крылов Дмитрий Вадимович": 20,
-      "Меркулов Вадим Александрович": 4,
-      "Орлов Олег Алексеевич": 13,
-      "Цыбизова Татьяна Игоревна": 110
+      "gas:candidate-vibid:23420001156290": 6,
+      "gas:candidate-vibid:23420001154018": 6,
+      "gas:candidate-vibid:23420001154208": 16,
+      "gas:candidate-vibid:23420001155110": 20,
+      "gas:candidate-vibid:23420001155134": 4,
+      "gas:candidate-vibid:23420001152335": 13,
+      "gas:candidate-vibid:23420001156446": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 7,
-      "Калашников Дмитрий Владимирович": 4,
-      "Крылов Дмитрий Вадимович": 13,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 4,
-      "Цыбизова Татьяна Игоревна": 21
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 7,
+      "gas:candidate-vibid:23420001154208": 4,
+      "gas:candidate-vibid:23420001155110": 13,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 4,
+      "gas:candidate-vibid:23420001156446": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 1,
-      "Буров Алексей Никитович": 7,
-      "Калашников Дмитрий Владимирович": 12,
-      "Крылов Дмитрий Вадимович": 11,
-      "Меркулов Вадим Александрович": 2,
-      "Орлов Олег Алексеевич": 5,
-      "Цыбизова Татьяна Игоревна": 55
+      "gas:candidate-vibid:23420001156290": 1,
+      "gas:candidate-vibid:23420001154018": 7,
+      "gas:candidate-vibid:23420001154208": 12,
+      "gas:candidate-vibid:23420001155110": 11,
+      "gas:candidate-vibid:23420001155134": 2,
+      "gas:candidate-vibid:23420001152335": 5,
+      "gas:candidate-vibid:23420001156446": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 9,
-      "Буров Алексей Никитович": 2,
-      "Калашников Дмитрий Владимирович": 8,
-      "Крылов Дмитрий Вадимович": 16,
-      "Меркулов Вадим Александрович": 0,
-      "Орлов Олег Алексеевич": 18,
-      "Цыбизова Татьяна Игоревна": 128
+      "gas:candidate-vibid:23420001156290": 9,
+      "gas:candidate-vibid:23420001154018": 2,
+      "gas:candidate-vibid:23420001154208": 8,
+      "gas:candidate-vibid:23420001155110": 16,
+      "gas:candidate-vibid:23420001155134": 0,
+      "gas:candidate-vibid:23420001152335": 18,
+      "gas:candidate-vibid:23420001156446": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105213&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105213&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 21,
-      "Буров Алексей Никитович": 105,
-      "Калашников Дмитрий Владимирович": 97,
-      "Крылов Дмитрий Вадимович": 88,
-      "Меркулов Вадим Александрович": 9,
-      "Орлов Олег Алексеевич": 97,
-      "Цыбизова Татьяна Игоревна": 281
+      "gas:candidate-vibid:23420001156290": 21,
+      "gas:candidate-vibid:23420001154018": 105,
+      "gas:candidate-vibid:23420001154208": 97,
+      "gas:candidate-vibid:23420001155110": 88,
+      "gas:candidate-vibid:23420001155134": 9,
+      "gas:candidate-vibid:23420001152335": 97,
+      "gas:candidate-vibid:23420001156446": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_34_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Болдырева Галина Васильевна": 35,
-      "Буров Алексей Никитович": 105,
-      "Калашников Дмитрий Владимирович": 109,
-      "Крылов Дмитрий Вадимович": 83,
-      "Меркулов Вадим Александрович": 21,
-      "Орлов Олег Алексеевич": 78,
-      "Цыбизова Татьяна Игоревна": 229
+      "gas:candidate-vibid:23420001156290": 35,
+      "gas:candidate-vibid:23420001154018": 105,
+      "gas:candidate-vibid:23420001154208": 109,
+      "gas:candidate-vibid:23420001155110": 83,
+      "gas:candidate-vibid:23420001155134": 21,
+      "gas:candidate-vibid:23420001152335": 78,
+      "gas:candidate-vibid:23420001156446": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000106&tvd=23420001105214&vrn=100100067795849&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=23420001105214&type=464",

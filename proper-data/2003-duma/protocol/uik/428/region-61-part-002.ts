@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 70,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 18,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 70,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 18,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 22,
-      "Дятленко Валерий Владимирович": 90,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 14,
-      "Топилин Виктор Михайлович": 38,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000195125": 22,
+      "gas:candidate-vibid:1001000225973": 90,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 14,
+      "gas:candidate-vibid:1001000131407": 38,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 31,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 31,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 8,
-      "Дятленко Валерий Владимирович": 67,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 22,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195125": 8,
+      "gas:candidate-vibid:1001000225973": 67,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 22,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 33,
-      "Дятленко Валерий Владимирович": 436,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 31,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195125": 33,
+      "gas:candidate-vibid:1001000225973": 436,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 31,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 283,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 20,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 38,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 283,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 20,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 38,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 456,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 52,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 456,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 52,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 29,
-      "Дятленко Валерий Владимирович": 277,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 19,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 16,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195125": 29,
+      "gas:candidate-vibid:1001000225973": 277,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 19,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 16,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 29,
-      "Дятленко Валерий Владимирович": 346,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 29,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000195125": 29,
+      "gas:candidate-vibid:1001000225973": 346,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 29,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 22,
-      "Дятленко Валерий Владимирович": 330,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 52,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195125": 22,
+      "gas:candidate-vibid:1001000225973": 330,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 52,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 200,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 200,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 61,
-      "Дятленко Валерий Владимирович": 400,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 50,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 57,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000195125": 61,
+      "gas:candidate-vibid:1001000225973": 400,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 50,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 57,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 126,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 31,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 126,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 31,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 47,
-      "Дятленко Валерий Владимирович": 461,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 49,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 98,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195125": 47,
+      "gas:candidate-vibid:1001000225973": 461,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 49,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 98,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 47,
-      "Дятленко Валерий Владимирович": 688,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 93,
-      "Лебедь Александр Александрович": 39,
-      "Топилин Виктор Михайлович": 99,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195125": 47,
+      "gas:candidate-vibid:1001000225973": 688,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 93,
+      "gas:candidate-vibid:1001000190402": 39,
+      "gas:candidate-vibid:1001000131407": 99,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 31,
-      "Дятленко Валерий Владимирович": 466,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 33,
-      "Лебедь Александр Александрович": 37,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000195125": 31,
+      "gas:candidate-vibid:1001000225973": 466,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 33,
+      "gas:candidate-vibid:1001000190402": 37,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070545&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 32,
-      "Дятленко Валерий Владимирович": 509,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 41,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 93,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000195125": 32,
+      "gas:candidate-vibid:1001000225973": 509,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 41,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 93,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 304,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 28,
-      "Лебедь Александр Александрович": 27,
-      "Топилин Виктор Михайлович": 82,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 304,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 28,
+      "gas:candidate-vibid:1001000190402": 27,
+      "gas:candidate-vibid:1001000131407": 82,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 31,
-      "Дятленко Валерий Владимирович": 361,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 40,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000195125": 31,
+      "gas:candidate-vibid:1001000225973": 361,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 40,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 112,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 13,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 112,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 13,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 20,
-      "Дятленко Валерий Владимирович": 242,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 19,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195125": 20,
+      "gas:candidate-vibid:1001000225973": 242,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 19,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 19,
-      "Дятленко Валерий Владимирович": 138,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 39,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195125": 19,
+      "gas:candidate-vibid:1001000225973": 138,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 39,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 450,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 450,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 26,
-      "Дятленко Валерий Владимирович": 300,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 34,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 51,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000195125": 26,
+      "gas:candidate-vibid:1001000225973": 300,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 34,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 51,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 96,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 96,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 25,
-      "Дятленко Валерий Владимирович": 403,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 54,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 60,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000195125": 25,
+      "gas:candidate-vibid:1001000225973": 403,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 54,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 60,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 183,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 15,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 183,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 15,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 8,
-      "Дятленко Валерий Владимирович": 112,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 10,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 8,
+      "gas:candidate-vibid:1001000225973": 112,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 10,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 456,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 456,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 394,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 34,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 394,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 34,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 31,
-      "Дятленко Валерий Владимирович": 330,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 18,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195125": 31,
+      "gas:candidate-vibid:1001000225973": 330,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 18,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 122,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 122,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 556,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 556,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 20,
-      "Дятленко Валерий Владимирович": 285,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 18,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000195125": 20,
+      "gas:candidate-vibid:1001000225973": 285,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 18,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 191,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 28,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 191,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 28,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 40,
-      "Дятленко Валерий Владимирович": 305,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 40,
-      "Лебедь Александр Александрович": 29,
-      "Топилин Виктор Михайлович": 91,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000195125": 40,
+      "gas:candidate-vibid:1001000225973": 305,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 40,
+      "gas:candidate-vibid:1001000190402": 29,
+      "gas:candidate-vibid:1001000131407": 91,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 47,
-      "Дятленко Валерий Владимирович": 444,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 27,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 94,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000195125": 47,
+      "gas:candidate-vibid:1001000225973": 444,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 27,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 94,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070547&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 1011,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 39,
-      "Лебедь Александр Александрович": 85,
-      "Топилин Виктор Михайлович": 162,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 1011,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 39,
+      "gas:candidate-vibid:1001000190402": 85,
+      "gas:candidate-vibid:1001000131407": 162,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 792,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 44,
-      "Топилин Виктор Михайлович": 169,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 792,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 44,
+      "gas:candidate-vibid:1001000131407": 169,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 353,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 353,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 18,
-      "Дятленко Валерий Владимирович": 584,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 37,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195125": 18,
+      "gas:candidate-vibid:1001000225973": 584,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 37,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 19,
-      "Дятленко Валерий Владимирович": 460,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 62,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195125": 19,
+      "gas:candidate-vibid:1001000225973": 460,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 62,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 25,
-      "Дятленко Валерий Владимирович": 317,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 45,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195125": 25,
+      "gas:candidate-vibid:1001000225973": 317,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 45,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 19,
-      "Дятленко Валерий Владимирович": 275,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 22,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 64,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000195125": 19,
+      "gas:candidate-vibid:1001000225973": 275,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 22,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 64,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 24,
-      "Дятленко Валерий Владимирович": 394,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 63,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195125": 24,
+      "gas:candidate-vibid:1001000225973": 394,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 63,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 20,
-      "Дятленко Валерий Владимирович": 224,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195125": 20,
+      "gas:candidate-vibid:1001000225973": 224,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 27,
-      "Дятленко Валерий Владимирович": 396,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 27,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 43,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195125": 27,
+      "gas:candidate-vibid:1001000225973": 396,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 27,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 43,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 80,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 80,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 73,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 73,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 86,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 86,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070549&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 42,
-      "Дятленко Валерий Владимирович": 325,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 62,
-      "Лебедь Александр Александрович": 30,
-      "Топилин Виктор Михайлович": 164,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000195125": 42,
+      "gas:candidate-vibid:1001000225973": 325,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 62,
+      "gas:candidate-vibid:1001000190402": 30,
+      "gas:candidate-vibid:1001000131407": 164,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 238,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 51,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 167,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 238,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 51,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 167,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 40,
-      "Дятленко Валерий Владимирович": 261,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 31,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 120,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000195125": 40,
+      "gas:candidate-vibid:1001000225973": 261,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 31,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 120,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 39,
-      "Дятленко Валерий Владимирович": 322,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 36,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 131,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000195125": 39,
+      "gas:candidate-vibid:1001000225973": 322,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 36,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 131,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 76,
-      "Дятленко Валерий Владимирович": 427,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 49,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 232,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000195125": 76,
+      "gas:candidate-vibid:1001000225973": 427,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 49,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 232,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 29,
-      "Дятленко Валерий Владимирович": 210,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 75,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000195125": 29,
+      "gas:candidate-vibid:1001000225973": 210,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 75,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 64,
-      "Дятленко Валерий Владимирович": 205,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 69,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 186,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000195125": 64,
+      "gas:candidate-vibid:1001000225973": 205,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 69,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 186,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 193,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 31,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 161,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 193,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 31,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 161,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 26,
-      "Дятленко Валерий Владимирович": 112,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195125": 26,
+      "gas:candidate-vibid:1001000225973": 112,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 66,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 61,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 66,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 61,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 89,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 74,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 89,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 74,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 68,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 1,
-      "Топилин Виктор Михайлович": 14,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 68,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 1,
+      "gas:candidate-vibid:1001000131407": 14,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 8,
-      "Дятленко Валерий Владимирович": 34,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195125": 8,
+      "gas:candidate-vibid:1001000225973": 34,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 29,
-      "Дятленко Валерий Владимирович": 121,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 77,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195125": 29,
+      "gas:candidate-vibid:1001000225973": 121,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 77,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 18,
-      "Дятленко Валерий Владимирович": 330,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 42,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 73,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195125": 18,
+      "gas:candidate-vibid:1001000225973": 330,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 42,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 73,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 127,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 76,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 127,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 76,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 130,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 31,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 130,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 31,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 95,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 23,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 95,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 23,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 208,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 33,
-      "Лебедь Александр Александрович": 32,
-      "Топилин Виктор Михайлович": 150,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 208,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 33,
+      "gas:candidate-vibid:1001000190402": 32,
+      "gas:candidate-vibid:1001000131407": 150,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 129,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 20,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 129,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 20,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 411,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 45,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 102,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 411,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 45,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 102,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 32,
-      "Дятленко Валерий Владимирович": 323,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 34,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 88,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195125": 32,
+      "gas:candidate-vibid:1001000225973": 323,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 34,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 88,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 22,
-      "Дятленко Валерий Владимирович": 196,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 10,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195125": 22,
+      "gas:candidate-vibid:1001000225973": 196,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 10,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 207,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 60,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 207,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 60,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 43,
-      "Дятленко Валерий Владимирович": 229,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 117,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195125": 43,
+      "gas:candidate-vibid:1001000225973": 229,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 117,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 135,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 135,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 56,
-      "Дятленко Валерий Владимирович": 445,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 46,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 76,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000195125": 56,
+      "gas:candidate-vibid:1001000225973": 445,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 46,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 76,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 24,
-      "Дятленко Валерий Владимирович": 133,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 38,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195125": 24,
+      "gas:candidate-vibid:1001000225973": 133,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 38,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 302,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 22,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 107,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 302,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 22,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 107,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 50,
-      "Дятленко Валерий Владимирович": 255,
-      "Желуницын Георгий Георгиевич": 13,
-      "Карпов Владимир Васильевич": 35,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 107,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000195125": 50,
+      "gas:candidate-vibid:1001000225973": 255,
+      "gas:candidate-vibid:361300270604": 13,
+      "gas:candidate-vibid:1001000136105": 35,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 107,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070551&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 69,
-      "Дятленко Валерий Владимирович": 1017,
-      "Желуницын Георгий Георгиевич": 18,
-      "Карпов Владимир Васильевич": 107,
-      "Лебедь Александр Александрович": 38,
-      "Топилин Виктор Михайлович": 226,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000195125": 69,
+      "gas:candidate-vibid:1001000225973": 1017,
+      "gas:candidate-vibid:361300270604": 18,
+      "gas:candidate-vibid:1001000136105": 107,
+      "gas:candidate-vibid:1001000190402": 38,
+      "gas:candidate-vibid:1001000131407": 226,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 57,
-      "Дятленко Валерий Владимирович": 708,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 56,
-      "Лебедь Александр Александрович": 40,
-      "Топилин Виктор Михайлович": 169,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000195125": 57,
+      "gas:candidate-vibid:1001000225973": 708,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 56,
+      "gas:candidate-vibid:1001000190402": 40,
+      "gas:candidate-vibid:1001000131407": 169,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 51,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 1,
-      "Топилин Виктор Михайлович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 51,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 1,
+      "gas:candidate-vibid:1001000131407": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 0,
-      "Дятленко Валерий Владимирович": 143,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195125": 0,
+      "gas:candidate-vibid:1001000225973": 143,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 375,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 39,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 375,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 39,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 185,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 32,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 185,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 32,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 106,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 27,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 106,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 27,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 18,
-      "Дятленко Валерий Владимирович": 246,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 27,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195125": 18,
+      "gas:candidate-vibid:1001000225973": 246,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 27,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 154,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 15,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 154,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 15,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 1,
-      "Дятленко Валерий Владимирович": 34,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 1,
-      "Топилин Виктор Михайлович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195125": 1,
+      "gas:candidate-vibid:1001000225973": 34,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 1,
+      "gas:candidate-vibid:1001000131407": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 189,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 189,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 75,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 75,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 315,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 20,
-      "Лебедь Александр Александрович": 10,
-      "Топилин Виктор Михайлович": 37,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 315,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 20,
+      "gas:candidate-vibid:1001000190402": 10,
+      "gas:candidate-vibid:1001000131407": 37,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 141,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 141,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 111,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 111,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 373,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 33,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 42,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 373,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 33,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 42,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 155,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 7,
-      "Лебедь Александр Александрович": 1,
-      "Топилин Виктор Михайлович": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 155,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 7,
+      "gas:candidate-vibid:1001000190402": 1,
+      "gas:candidate-vibid:1001000131407": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 113,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 12,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 113,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 12,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 51,
-      "Дятленко Валерий Владимирович": 851,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 71,
-      "Лебедь Александр Александрович": 43,
-      "Топилин Виктор Михайлович": 153,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000195125": 51,
+      "gas:candidate-vibid:1001000225973": 851,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 71,
+      "gas:candidate-vibid:1001000190402": 43,
+      "gas:candidate-vibid:1001000131407": 153,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 193,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 18,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 27,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 193,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 18,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 27,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 187,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 187,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 19,
-      "Дятленко Валерий Владимирович": 257,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 20,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 19,
+      "gas:candidate-vibid:1001000225973": 257,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 20,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 444,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 46,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 444,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 46,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 153,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 7,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 15,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 153,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 7,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 15,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 118,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 14,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 118,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 14,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 73,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 73,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 114,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 1,
-      "Топилин Виктор Михайлович": 17,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 114,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 1,
+      "gas:candidate-vibid:1001000131407": 17,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 531,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 51,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 531,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 51,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 332,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 34,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 332,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 34,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 443,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 12,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 443,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 12,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 295,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 74,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 295,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 74,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 19,
-      "Дятленко Валерий Владимирович": 244,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 18,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 42,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195125": 19,
+      "gas:candidate-vibid:1001000225973": 244,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 18,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 42,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 58,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 58,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 73,
-      "Дятленко Валерий Владимирович": 808,
-      "Желуницын Георгий Георгиевич": 13,
-      "Карпов Владимир Васильевич": 44,
-      "Лебедь Александр Александрович": 38,
-      "Топилин Виктор Михайлович": 122,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000195125": 73,
+      "gas:candidate-vibid:1001000225973": 808,
+      "gas:candidate-vibid:361300270604": 13,
+      "gas:candidate-vibid:1001000136105": 44,
+      "gas:candidate-vibid:1001000190402": 38,
+      "gas:candidate-vibid:1001000131407": 122,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 59,
-      "Дятленко Валерий Владимирович": 519,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 37,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 52,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195125": 59,
+      "gas:candidate-vibid:1001000225973": 519,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 37,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 52,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 26,
-      "Дятленко Валерий Владимирович": 445,
-      "Желуницын Георгий Георгиевич": 13,
-      "Карпов Владимир Васильевич": 20,
-      "Лебедь Александр Александрович": 10,
-      "Топилин Виктор Михайлович": 52,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195125": 26,
+      "gas:candidate-vibid:1001000225973": 445,
+      "gas:candidate-vibid:361300270604": 13,
+      "gas:candidate-vibid:1001000136105": 20,
+      "gas:candidate-vibid:1001000190402": 10,
+      "gas:candidate-vibid:1001000131407": 52,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 39,
-      "Дятленко Валерий Владимирович": 568,
-      "Желуницын Георгий Георгиевич": 11,
-      "Карпов Владимир Васильевич": 28,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 33,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195125": 39,
+      "gas:candidate-vibid:1001000225973": 568,
+      "gas:candidate-vibid:361300270604": 11,
+      "gas:candidate-vibid:1001000136105": 28,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 33,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 316,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 18,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 316,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 18,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 10,
-      "Дятленко Валерий Владимирович": 424,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 28,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195125": 10,
+      "gas:candidate-vibid:1001000225973": 424,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 28,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 135,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 135,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 33,
-      "Дятленко Валерий Владимирович": 350,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 58,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 78,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000195125": 33,
+      "gas:candidate-vibid:1001000225973": 350,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 58,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 78,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 82,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 82,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 40,
-      "Дятленко Валерий Владимирович": 320,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 37,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195125": 40,
+      "gas:candidate-vibid:1001000225973": 320,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 37,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 0,
-      "Дятленко Валерий Владимирович": 57,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195125": 0,
+      "gas:candidate-vibid:1001000225973": 57,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 60,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 60,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070553&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 40,
-      "Дятленко Валерий Владимирович": 255,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 14,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 72,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000195125": 40,
+      "gas:candidate-vibid:1001000225973": 255,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 14,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 72,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 162,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 162,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 149,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 11,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 149,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 11,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 1,
-      "Дятленко Валерий Владимирович": 85,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195125": 1,
+      "gas:candidate-vibid:1001000225973": 85,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 22,
-      "Дятленко Валерий Владимирович": 239,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195125": 22,
+      "gas:candidate-vibid:1001000225973": 239,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 25,
-      "Дятленко Валерий Владимирович": 240,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 26,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 58,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195125": 25,
+      "gas:candidate-vibid:1001000225973": 240,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 26,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 58,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 139,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 139,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 412,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 111,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 412,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 111,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 120,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 120,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 10,
-      "Дятленко Валерий Владимирович": 206,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195125": 10,
+      "gas:candidate-vibid:1001000225973": 206,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 32,
-      "Дятленко Валерий Владимирович": 420,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 139,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000195125": 32,
+      "gas:candidate-vibid:1001000225973": 420,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 139,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 0,
-      "Дятленко Валерий Владимирович": 64,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195125": 0,
+      "gas:candidate-vibid:1001000225973": 64,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 46,
-      "Дятленко Валерий Владимирович": 479,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 43,
-      "Лебедь Александр Александрович": 51,
-      "Топилин Виктор Михайлович": 82,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195125": 46,
+      "gas:candidate-vibid:1001000225973": 479,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 43,
+      "gas:candidate-vibid:1001000190402": 51,
+      "gas:candidate-vibid:1001000131407": 82,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 34,
-      "Дятленко Валерий Владимирович": 495,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 59,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 110,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000195125": 34,
+      "gas:candidate-vibid:1001000225973": 495,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 59,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 110,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 183,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 183,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 18,
-      "Дятленко Валерий Владимирович": 172,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195125": 18,
+      "gas:candidate-vibid:1001000225973": 172,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 227,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 24,
-      "Лебедь Александр Александрович": 30,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 227,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 24,
+      "gas:candidate-vibid:1001000190402": 30,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 88,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 88,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 344,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 20,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 344,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 20,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 84,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 84,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 2,
-      "Дятленко Валерий Владимирович": 110,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195125": 2,
+      "gas:candidate-vibid:1001000225973": 110,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 10,
-      "Дятленко Валерий Владимирович": 345,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 10,
-      "Топилин Виктор Михайлович": 81,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195125": 10,
+      "gas:candidate-vibid:1001000225973": 345,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 10,
+      "gas:candidate-vibid:1001000131407": 81,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 249,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 70,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 249,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 70,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 0,
-      "Дятленко Валерий Владимирович": 192,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195125": 0,
+      "gas:candidate-vibid:1001000225973": 192,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 4,
-      "Дятленко Валерий Владимирович": 98,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 1,
-      "Топилин Виктор Михайлович": 25,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 4,
+      "gas:candidate-vibid:1001000225973": 98,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 1,
+      "gas:candidate-vibid:1001000131407": 25,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 24,
-      "Дятленко Валерий Владимирович": 362,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 52,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195125": 24,
+      "gas:candidate-vibid:1001000225973": 362,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 52,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 110,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 4,
-      "Топилин Виктор Михайлович": 17,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 110,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 4,
+      "gas:candidate-vibid:1001000131407": 17,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 25,
-      "Дятленко Валерий Владимирович": 325,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 33,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 102,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000195125": 25,
+      "gas:candidate-vibid:1001000225973": 325,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 33,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 102,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 43,
-      "Дятленко Валерий Владимирович": 339,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 31,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 153,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000195125": 43,
+      "gas:candidate-vibid:1001000225973": 339,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 31,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 153,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 430,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 26,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 123,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 430,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 26,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 123,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 715,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 26,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 125,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 715,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 26,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 125,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 395,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 106,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 395,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 106,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 20,
-      "Дятленко Валерий Владимирович": 394,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 76,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000195125": 20,
+      "gas:candidate-vibid:1001000225973": 394,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 76,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 55,
-      "Дятленко Валерий Владимирович": 537,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 44,
-      "Топилин Виктор Михайлович": 140,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000195125": 55,
+      "gas:candidate-vibid:1001000225973": 537,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 44,
+      "gas:candidate-vibid:1001000131407": 140,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 22,
-      "Дятленко Валерий Владимирович": 516,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 16,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 81,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000195125": 22,
+      "gas:candidate-vibid:1001000225973": 516,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 16,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 81,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 50,
-      "Дятленко Валерий Владимирович": 558,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 156,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195125": 50,
+      "gas:candidate-vibid:1001000225973": 558,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 156,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 51,
-      "Дятленко Валерий Владимирович": 692,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 24,
-      "Лебедь Александр Александрович": 24,
-      "Топилин Виктор Михайлович": 124,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195125": 51,
+      "gas:candidate-vibid:1001000225973": 692,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 24,
+      "gas:candidate-vibid:1001000190402": 24,
+      "gas:candidate-vibid:1001000131407": 124,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 32,
-      "Дятленко Валерий Владимирович": 607,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 30,
-      "Лебедь Александр Александрович": 36,
-      "Топилин Виктор Михайлович": 140,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195125": 32,
+      "gas:candidate-vibid:1001000225973": 607,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 30,
+      "gas:candidate-vibid:1001000190402": 36,
+      "gas:candidate-vibid:1001000131407": 140,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 428,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 45,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 428,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 45,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 97,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 97,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 150,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 150,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 8,
-      "Дятленко Валерий Владимирович": 138,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 15,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000195125": 8,
+      "gas:candidate-vibid:1001000225973": 138,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 15,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 11,
-      "Дятленко Валерий Владимирович": 317,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 42,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000195125": 11,
+      "gas:candidate-vibid:1001000225973": 317,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 42,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 38,
-      "Дятленко Валерий Владимирович": 212,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 40,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195125": 38,
+      "gas:candidate-vibid:1001000225973": 212,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 40,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070555&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 55,
-      "Дятленко Валерий Владимирович": 877,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 34,
-      "Лебедь Александр Александрович": 28,
-      "Топилин Виктор Михайлович": 87,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000195125": 55,
+      "gas:candidate-vibid:1001000225973": 877,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 34,
+      "gas:candidate-vibid:1001000190402": 28,
+      "gas:candidate-vibid:1001000131407": 87,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 32,
-      "Дятленко Валерий Владимирович": 634,
-      "Желуницын Георгий Георгиевич": 15,
-      "Карпов Владимир Васильевич": 22,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 62,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000195125": 32,
+      "gas:candidate-vibid:1001000225973": 634,
+      "gas:candidate-vibid:361300270604": 15,
+      "gas:candidate-vibid:1001000136105": 22,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 62,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 47,
-      "Дятленко Валерий Владимирович": 838,
-      "Желуницын Георгий Георгиевич": 19,
-      "Карпов Владимир Васильевич": 26,
-      "Лебедь Александр Александрович": 29,
-      "Топилин Виктор Михайлович": 91,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000195125": 47,
+      "gas:candidate-vibid:1001000225973": 838,
+      "gas:candidate-vibid:361300270604": 19,
+      "gas:candidate-vibid:1001000136105": 26,
+      "gas:candidate-vibid:1001000190402": 29,
+      "gas:candidate-vibid:1001000131407": 91,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 49,
-      "Дятленко Валерий Владимирович": 725,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 38,
-      "Топилин Виктор Михайлович": 74,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000195125": 49,
+      "gas:candidate-vibid:1001000225973": 725,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 38,
+      "gas:candidate-vibid:1001000131407": 74,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 54,
-      "Дятленко Валерий Владимирович": 646,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 23,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 92,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000195125": 54,
+      "gas:candidate-vibid:1001000225973": 646,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 23,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 92,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 27,
-      "Дятленко Валерий Владимирович": 550,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 35,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195125": 27,
+      "gas:candidate-vibid:1001000225973": 550,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 35,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 635,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 20,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 43,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 635,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 20,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 43,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 65,
-      "Дятленко Валерий Владимирович": 1043,
-      "Желуницын Георгий Георгиевич": 11,
-      "Карпов Владимир Васильевич": 38,
-      "Лебедь Александр Александрович": 36,
-      "Топилин Виктор Михайлович": 64,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000195125": 65,
+      "gas:candidate-vibid:1001000225973": 1043,
+      "gas:candidate-vibid:361300270604": 11,
+      "gas:candidate-vibid:1001000136105": 38,
+      "gas:candidate-vibid:1001000190402": 36,
+      "gas:candidate-vibid:1001000131407": 64,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 351,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 26,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 351,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 26,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 37,
-      "Дятленко Валерий Владимирович": 983,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 28,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 54,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195125": 37,
+      "gas:candidate-vibid:1001000225973": 983,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 28,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 54,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 284,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 2,
-      "Топилин Виктор Михайлович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 284,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 2,
+      "gas:candidate-vibid:1001000131407": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 56,
-      "Дятленко Валерий Владимирович": 457,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 28,
-      "Лебедь Александр Александрович": 25,
-      "Топилин Виктор Михайлович": 12,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195125": 56,
+      "gas:candidate-vibid:1001000225973": 457,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 28,
+      "gas:candidate-vibid:1001000190402": 25,
+      "gas:candidate-vibid:1001000131407": 12,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 46,
-      "Дятленко Валерий Владимирович": 540,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 32,
-      "Лебедь Александр Александрович": 30,
-      "Топилин Виктор Михайлович": 112,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000195125": 46,
+      "gas:candidate-vibid:1001000225973": 540,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 32,
+      "gas:candidate-vibid:1001000190402": 30,
+      "gas:candidate-vibid:1001000131407": 112,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 33,
-      "Дятленко Валерий Владимирович": 566,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 19,
-      "Топилин Виктор Михайлович": 61,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000195125": 33,
+      "gas:candidate-vibid:1001000225973": 566,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 19,
+      "gas:candidate-vibid:1001000131407": 61,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 12,
-      "Дятленко Валерий Владимирович": 385,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 20,
-      "Топилин Виктор Михайлович": 21,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195125": 12,
+      "gas:candidate-vibid:1001000225973": 385,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 20,
+      "gas:candidate-vibid:1001000131407": 21,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 52,
-      "Дятленко Валерий Владимирович": 652,
-      "Желуницын Георгий Георгиевич": 22,
-      "Карпов Владимир Васильевич": 41,
-      "Лебедь Александр Александрович": 21,
-      "Топилин Виктор Михайлович": 63,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000195125": 52,
+      "gas:candidate-vibid:1001000225973": 652,
+      "gas:candidate-vibid:361300270604": 22,
+      "gas:candidate-vibid:1001000136105": 41,
+      "gas:candidate-vibid:1001000190402": 21,
+      "gas:candidate-vibid:1001000131407": 63,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 414,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 24,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 37,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 414,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 24,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 37,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 16,
-      "Дятленко Валерий Владимирович": 233,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 58,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000195125": 16,
+      "gas:candidate-vibid:1001000225973": 233,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 58,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 482,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 22,
-      "Топилин Виктор Михайлович": 63,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 482,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 22,
+      "gas:candidate-vibid:1001000131407": 63,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 18,
-      "Дятленко Валерий Владимирович": 432,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 51,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 80,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000195125": 18,
+      "gas:candidate-vibid:1001000225973": 432,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 51,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 80,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 56,
-      "Дятленко Валерий Владимирович": 436,
-      "Желуницын Георгий Георгиевич": 18,
-      "Карпов Владимир Васильевич": 43,
-      "Лебедь Александр Александрович": 37,
-      "Топилин Виктор Михайлович": 72,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000195125": 56,
+      "gas:candidate-vibid:1001000225973": 436,
+      "gas:candidate-vibid:361300270604": 18,
+      "gas:candidate-vibid:1001000136105": 43,
+      "gas:candidate-vibid:1001000190402": 37,
+      "gas:candidate-vibid:1001000131407": 72,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 595,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 27,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 56,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 595,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 27,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 56,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 30,
-      "Дятленко Валерий Владимирович": 833,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 19,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 66,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195125": 30,
+      "gas:candidate-vibid:1001000225973": 833,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 19,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 66,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070557&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 123,
-      "Дятленко Валерий Владимирович": 621,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 69,
-      "Лебедь Александр Александрович": 71,
-      "Топилин Виктор Михайлович": 138,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000195125": 123,
+      "gas:candidate-vibid:1001000225973": 621,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 69,
+      "gas:candidate-vibid:1001000190402": 71,
+      "gas:candidate-vibid:1001000131407": 138,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 66,
-      "Дятленко Валерий Владимирович": 449,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 61,
-      "Лебедь Александр Александрович": 54,
-      "Топилин Виктор Михайлович": 118,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000195125": 66,
+      "gas:candidate-vibid:1001000225973": 449,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 61,
+      "gas:candidate-vibid:1001000190402": 54,
+      "gas:candidate-vibid:1001000131407": 118,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 389,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 56,
-      "Лебедь Александр Александрович": 39,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 389,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 56,
+      "gas:candidate-vibid:1001000190402": 39,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 71,
-      "Дятленко Валерий Владимирович": 463,
-      "Желуницын Георгий Георгиевич": 12,
-      "Карпов Владимир Васильевич": 52,
-      "Лебедь Александр Александрович": 39,
-      "Топилин Виктор Михайлович": 87,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000195125": 71,
+      "gas:candidate-vibid:1001000225973": 463,
+      "gas:candidate-vibid:361300270604": 12,
+      "gas:candidate-vibid:1001000136105": 52,
+      "gas:candidate-vibid:1001000190402": 39,
+      "gas:candidate-vibid:1001000131407": 87,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 63,
-      "Дятленко Валерий Владимирович": 523,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 64,
-      "Лебедь Александр Александрович": 53,
-      "Топилин Виктор Михайлович": 118,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000195125": 63,
+      "gas:candidate-vibid:1001000225973": 523,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 64,
+      "gas:candidate-vibid:1001000190402": 53,
+      "gas:candidate-vibid:1001000131407": 118,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 70,
-      "Дятленко Валерий Владимирович": 492,
-      "Желуницын Георгий Георгиевич": 18,
-      "Карпов Владимир Васильевич": 60,
-      "Лебедь Александр Александрович": 40,
-      "Топилин Виктор Михайлович": 102,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000195125": 70,
+      "gas:candidate-vibid:1001000225973": 492,
+      "gas:candidate-vibid:361300270604": 18,
+      "gas:candidate-vibid:1001000136105": 60,
+      "gas:candidate-vibid:1001000190402": 40,
+      "gas:candidate-vibid:1001000131407": 102,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 78,
-      "Дятленко Валерий Владимирович": 349,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 37,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 83,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000195125": 78,
+      "gas:candidate-vibid:1001000225973": 349,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 37,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 83,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 78,
-      "Дятленко Валерий Владимирович": 596,
-      "Желуницын Георгий Георгиевич": 21,
-      "Карпов Владимир Васильевич": 93,
-      "Лебедь Александр Александрович": 44,
-      "Топилин Виктор Михайлович": 116,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000195125": 78,
+      "gas:candidate-vibid:1001000225973": 596,
+      "gas:candidate-vibid:361300270604": 21,
+      "gas:candidate-vibid:1001000136105": 93,
+      "gas:candidate-vibid:1001000190402": 44,
+      "gas:candidate-vibid:1001000131407": 116,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 315,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 38,
-      "Лебедь Александр Александрович": 34,
-      "Топилин Виктор Михайлович": 28,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 315,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 38,
+      "gas:candidate-vibid:1001000190402": 34,
+      "gas:candidate-vibid:1001000131407": 28,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 39,
-      "Дятленко Валерий Владимирович": 120,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 24,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195125": 39,
+      "gas:candidate-vibid:1001000225973": 120,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 24,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 56,
-      "Дятленко Валерий Владимирович": 573,
-      "Желуницын Георгий Георгиевич": 23,
-      "Карпов Владимир Васильевич": 45,
-      "Лебедь Александр Александрович": 33,
-      "Топилин Виктор Михайлович": 108,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000195125": 56,
+      "gas:candidate-vibid:1001000225973": 573,
+      "gas:candidate-vibid:361300270604": 23,
+      "gas:candidate-vibid:1001000136105": 45,
+      "gas:candidate-vibid:1001000190402": 33,
+      "gas:candidate-vibid:1001000131407": 108,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 97,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 5,
-      "Лебедь Александр Александрович": 9,
-      "Топилин Виктор Михайлович": 11,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 97,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 5,
+      "gas:candidate-vibid:1001000190402": 9,
+      "gas:candidate-vibid:1001000131407": 11,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 64,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 64,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 62,
-      "Дятленко Валерий Владимирович": 424,
-      "Желуницын Георгий Георгиевич": 14,
-      "Карпов Владимир Васильевич": 41,
-      "Лебедь Александр Александрович": 67,
-      "Топилин Виктор Михайлович": 104,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195125": 62,
+      "gas:candidate-vibid:1001000225973": 424,
+      "gas:candidate-vibid:361300270604": 14,
+      "gas:candidate-vibid:1001000136105": 41,
+      "gas:candidate-vibid:1001000190402": 67,
+      "gas:candidate-vibid:1001000131407": 104,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 9,
-      "Дятленко Валерий Владимирович": 44,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 17,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195125": 9,
+      "gas:candidate-vibid:1001000225973": 44,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 17,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 27,
-      "Дятленко Валерий Владимирович": 151,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 19,
-      "Лебедь Александр Александрович": 13,
-      "Топилин Виктор Михайлович": 39,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195125": 27,
+      "gas:candidate-vibid:1001000225973": 151,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 19,
+      "gas:candidate-vibid:1001000190402": 13,
+      "gas:candidate-vibid:1001000131407": 39,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 28,
-      "Дятленко Валерий Владимирович": 330,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 25,
-      "Лебедь Александр Александрович": 26,
-      "Топилин Виктор Михайлович": 56,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000195125": 28,
+      "gas:candidate-vibid:1001000225973": 330,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 25,
+      "gas:candidate-vibid:1001000190402": 26,
+      "gas:candidate-vibid:1001000131407": 56,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 65,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 65,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 25,
-      "Дятленко Валерий Владимирович": 174,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 36,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195125": 25,
+      "gas:candidate-vibid:1001000225973": 174,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 36,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 109,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 2,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 19,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 109,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 2,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 19,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 42,
-      "Дятленко Валерий Владимирович": 365,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 24,
-      "Лебедь Александр Александрович": 41,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195125": 42,
+      "gas:candidate-vibid:1001000225973": 365,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 24,
+      "gas:candidate-vibid:1001000190402": 41,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 200,
-      "Желуницын Георгий Георгиевич": 3,
-      "Карпов Владимир Васильевич": 12,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 43,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 200,
+      "gas:candidate-vibid:361300270604": 3,
+      "gas:candidate-vibid:1001000136105": 12,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 43,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 118,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 10,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 12,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 118,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 10,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 12,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 36,
-      "Дятленко Валерий Владимирович": 605,
-      "Желуницын Георгий Георгиевич": 26,
-      "Карпов Владимир Васильевич": 53,
-      "Лебедь Александр Александрович": 29,
-      "Топилин Виктор Михайлович": 71,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000195125": 36,
+      "gas:candidate-vibid:1001000225973": 605,
+      "gas:candidate-vibid:361300270604": 26,
+      "gas:candidate-vibid:1001000136105": 53,
+      "gas:candidate-vibid:1001000190402": 29,
+      "gas:candidate-vibid:1001000131407": 71,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 48,
-      "Дятленко Валерий Владимирович": 288,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 22,
-      "Лебедь Александр Александрович": 23,
-      "Топилин Виктор Михайлович": 49,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195125": 48,
+      "gas:candidate-vibid:1001000225973": 288,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 22,
+      "gas:candidate-vibid:1001000190402": 23,
+      "gas:candidate-vibid:1001000131407": 49,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 87,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 3,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 87,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 3,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070559&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 46,
-      "Дятленко Валерий Владимирович": 850,
-      "Желуницын Георгий Георгиевич": 32,
-      "Карпов Владимир Васильевич": 40,
-      "Лебедь Александр Александрович": 52,
-      "Топилин Виктор Михайлович": 238,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000195125": 46,
+      "gas:candidate-vibid:1001000225973": 850,
+      "gas:candidate-vibid:361300270604": 32,
+      "gas:candidate-vibid:1001000136105": 40,
+      "gas:candidate-vibid:1001000190402": 52,
+      "gas:candidate-vibid:1001000131407": 238,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 318,
-      "Желуницын Георгий Георгиевич": 15,
-      "Карпов Владимир Васильевич": 11,
-      "Лебедь Александр Александрович": 18,
-      "Топилин Виктор Михайлович": 90,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 318,
+      "gas:candidate-vibid:361300270604": 15,
+      "gas:candidate-vibid:1001000136105": 11,
+      "gas:candidate-vibid:1001000190402": 18,
+      "gas:candidate-vibid:1001000131407": 90,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 40,
-      "Дятленко Валерий Владимирович": 559,
-      "Желуницын Георгий Георгиевич": 23,
-      "Карпов Владимир Васильевич": 38,
-      "Лебедь Александр Александрович": 70,
-      "Топилин Виктор Михайлович": 181,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000195125": 40,
+      "gas:candidate-vibid:1001000225973": 559,
+      "gas:candidate-vibid:361300270604": 23,
+      "gas:candidate-vibid:1001000136105": 38,
+      "gas:candidate-vibid:1001000190402": 70,
+      "gas:candidate-vibid:1001000131407": 181,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 13,
-      "Дятленко Валерий Владимирович": 303,
-      "Желуницын Георгий Георгиевич": 6,
-      "Карпов Владимир Васильевич": 4,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 40,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195125": 13,
+      "gas:candidate-vibid:1001000225973": 303,
+      "gas:candidate-vibid:361300270604": 6,
+      "gas:candidate-vibid:1001000136105": 4,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 40,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 108,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 1,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 108,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 1,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 285,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 9,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 41,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 285,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 9,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 41,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 7,
-      "Дятленко Валерий Владимирович": 250,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 5,
-      "Топилин Виктор Михайлович": 33,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195125": 7,
+      "gas:candidate-vibid:1001000225973": 250,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 5,
+      "gas:candidate-vibid:1001000131407": 33,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 41,
-      "Дятленко Валерий Владимирович": 409,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 24,
-      "Лебедь Александр Александрович": 17,
-      "Топилин Виктор Михайлович": 113,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000195125": 41,
+      "gas:candidate-vibid:1001000225973": 409,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 24,
+      "gas:candidate-vibid:1001000190402": 17,
+      "gas:candidate-vibid:1001000131407": 113,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 23,
-      "Дятленко Валерий Владимирович": 256,
-      "Желуницын Георгий Георгиевич": 5,
-      "Карпов Владимир Васильевич": 15,
-      "Лебедь Александр Александрович": 11,
-      "Топилин Виктор Михайлович": 87,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000195125": 23,
+      "gas:candidate-vibid:1001000225973": 256,
+      "gas:candidate-vibid:361300270604": 5,
+      "gas:candidate-vibid:1001000136105": 15,
+      "gas:candidate-vibid:1001000190402": 11,
+      "gas:candidate-vibid:1001000131407": 87,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 14,
-      "Дятленко Валерий Владимирович": 115,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 19,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195125": 14,
+      "gas:candidate-vibid:1001000225973": 115,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 19,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 242,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 21,
-      "Лебедь Александр Александрович": 6,
-      "Топилин Виктор Михайлович": 134,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 242,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 21,
+      "gas:candidate-vibid:1001000190402": 6,
+      "gas:candidate-vibid:1001000131407": 134,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 3,
-      "Дятленко Валерий Владимирович": 31,
-      "Желуницын Георгий Георгиевич": 2,
-      "Карпов Владимир Васильевич": 0,
-      "Лебедь Александр Александрович": 0,
-      "Топилин Виктор Михайлович": 13,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195125": 3,
+      "gas:candidate-vibid:1001000225973": 31,
+      "gas:candidate-vibid:361300270604": 2,
+      "gas:candidate-vibid:1001000136105": 0,
+      "gas:candidate-vibid:1001000190402": 0,
+      "gas:candidate-vibid:1001000131407": 13,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 15,
-      "Дятленко Валерий Владимирович": 439,
-      "Желуницын Георгий Георгиевич": 1,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 59,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195125": 15,
+      "gas:candidate-vibid:1001000225973": 439,
+      "gas:candidate-vibid:361300270604": 1,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 59,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 5,
-      "Дятленко Валерий Владимирович": 84,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 6,
-      "Лебедь Александр Александрович": 3,
-      "Топилин Виктор Михайлович": 31,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195125": 5,
+      "gas:candidate-vibid:1001000225973": 84,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 6,
+      "gas:candidate-vibid:1001000190402": 3,
+      "gas:candidate-vibid:1001000131407": 31,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 343,
-      "Желуницын Георгий Георгиевич": 0,
-      "Карпов Владимир Васильевич": 8,
-      "Лебедь Александр Александрович": 7,
-      "Топилин Виктор Михайлович": 29,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 343,
+      "gas:candidate-vibid:361300270604": 0,
+      "gas:candidate-vibid:1001000136105": 8,
+      "gas:candidate-vibid:1001000190402": 7,
+      "gas:candidate-vibid:1001000131407": 29,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 21,
-      "Дятленко Валерий Владимирович": 198,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 13,
-      "Лебедь Александр Александрович": 15,
-      "Топилин Виктор Михайлович": 33,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000195125": 21,
+      "gas:candidate-vibid:1001000225973": 198,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 13,
+      "gas:candidate-vibid:1001000190402": 15,
+      "gas:candidate-vibid:1001000131407": 33,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 6,
-      "Дятленко Валерий Владимирович": 277,
-      "Желуницын Георгий Георгиевич": 4,
-      "Карпов Владимир Васильевич": 17,
-      "Лебедь Александр Александрович": 16,
-      "Топилин Виктор Михайлович": 30,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195125": 6,
+      "gas:candidate-vibid:1001000225973": 277,
+      "gas:candidate-vibid:361300270604": 4,
+      "gas:candidate-vibid:1001000136105": 17,
+      "gas:candidate-vibid:1001000190402": 16,
+      "gas:candidate-vibid:1001000131407": 30,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 17,
-      "Дятленко Валерий Владимирович": 138,
-      "Желуницын Георгий Георгиевич": 8,
-      "Карпов Владимир Васильевич": 7,
-      "Лебедь Александр Александрович": 8,
-      "Топилин Виктор Михайлович": 23,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195125": 17,
+      "gas:candidate-vibid:1001000225973": 138,
+      "gas:candidate-vibid:361300270604": 8,
+      "gas:candidate-vibid:1001000136105": 7,
+      "gas:candidate-vibid:1001000190402": 8,
+      "gas:candidate-vibid:1001000131407": 23,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070561&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 78,
-      "Дятленко Валерий Владимирович": 504,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 95,
-      "Лебедь Александр Александрович": 41,
-      "Топилин Виктор Михайлович": 317,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000195125": 78,
+      "gas:candidate-vibid:1001000225973": 504,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 95,
+      "gas:candidate-vibid:1001000190402": 41,
+      "gas:candidate-vibid:1001000131407": 317,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 39,
-      "Дятленко Валерий Владимирович": 300,
-      "Желуницын Георгий Георгиевич": 7,
-      "Карпов Владимир Васильевич": 64,
-      "Лебедь Александр Александрович": 31,
-      "Топилин Виктор Михайлович": 144,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000195125": 39,
+      "gas:candidate-vibid:1001000225973": 300,
+      "gas:candidate-vibid:361300270604": 7,
+      "gas:candidate-vibid:1001000136105": 64,
+      "gas:candidate-vibid:1001000190402": 31,
+      "gas:candidate-vibid:1001000131407": 144,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 94,
-      "Дятленко Валерий Владимирович": 642,
-      "Желуницын Георгий Георгиевич": 9,
-      "Карпов Владимир Васильевич": 101,
-      "Лебедь Александр Александрович": 48,
-      "Топилин Виктор Михайлович": 202,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000195125": 94,
+      "gas:candidate-vibid:1001000225973": 642,
+      "gas:candidate-vibid:361300270604": 9,
+      "gas:candidate-vibid:1001000136105": 101,
+      "gas:candidate-vibid:1001000190402": 48,
+      "gas:candidate-vibid:1001000131407": 202,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 91,
-      "Дятленко Валерий Владимирович": 602,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 98,
-      "Лебедь Александр Александрович": 61,
-      "Топилин Виктор Михайлович": 232,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000195125": 91,
+      "gas:candidate-vibid:1001000225973": 602,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 98,
+      "gas:candidate-vibid:1001000190402": 61,
+      "gas:candidate-vibid:1001000131407": 232,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 83,
-      "Дятленко Валерий Владимирович": 537,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 91,
-      "Лебедь Александр Александрович": 68,
-      "Топилин Виктор Михайлович": 305,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000195125": 83,
+      "gas:candidate-vibid:1001000225973": 537,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 91,
+      "gas:candidate-vibid:1001000190402": 68,
+      "gas:candidate-vibid:1001000131407": 305,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 96,
-      "Дятленко Валерий Владимирович": 478,
-      "Желуницын Георгий Георгиевич": 13,
-      "Карпов Владимир Васильевич": 78,
-      "Лебедь Александр Александрович": 60,
-      "Топилин Виктор Михайлович": 280,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000195125": 96,
+      "gas:candidate-vibid:1001000225973": 478,
+      "gas:candidate-vibid:361300270604": 13,
+      "gas:candidate-vibid:1001000136105": 78,
+      "gas:candidate-vibid:1001000190402": 60,
+      "gas:candidate-vibid:1001000131407": 280,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 53,
-      "Дятленко Валерий Владимирович": 413,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 66,
-      "Лебедь Александр Александрович": 36,
-      "Топилин Виктор Михайлович": 211,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000195125": 53,
+      "gas:candidate-vibid:1001000225973": 413,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 66,
+      "gas:candidate-vibid:1001000190402": 36,
+      "gas:candidate-vibid:1001000131407": 211,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 52,
-      "Дятленко Валерий Владимирович": 502,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 60,
-      "Лебедь Александр Александрович": 44,
-      "Топилин Виктор Михайлович": 270,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000195125": 52,
+      "gas:candidate-vibid:1001000225973": 502,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 60,
+      "gas:candidate-vibid:1001000190402": 44,
+      "gas:candidate-vibid:1001000131407": 270,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 63,
-      "Дятленко Валерий Владимирович": 525,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 83,
-      "Лебедь Александр Александрович": 70,
-      "Топилин Виктор Михайлович": 306,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000195125": 63,
+      "gas:candidate-vibid:1001000225973": 525,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 83,
+      "gas:candidate-vibid:1001000190402": 70,
+      "gas:candidate-vibid:1001000131407": 306,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 51,
-      "Дятленко Валерий Владимирович": 539,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 65,
-      "Лебедь Александр Александрович": 52,
-      "Топилин Виктор Михайлович": 327,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000195125": 51,
+      "gas:candidate-vibid:1001000225973": 539,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 65,
+      "gas:candidate-vibid:1001000190402": 52,
+      "gas:candidate-vibid:1001000131407": 327,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 62,
-      "Дятленко Валерий Владимирович": 448,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 74,
-      "Лебедь Александр Александрович": 42,
-      "Топилин Виктор Михайлович": 187,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195125": 62,
+      "gas:candidate-vibid:1001000225973": 448,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 74,
+      "gas:candidate-vibid:1001000190402": 42,
+      "gas:candidate-vibid:1001000131407": 187,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 93,
-      "Дятленко Валерий Владимирович": 580,
-      "Желуницын Георгий Георгиевич": 17,
-      "Карпов Владимир Васильевич": 86,
-      "Лебедь Александр Александрович": 50,
-      "Топилин Виктор Михайлович": 247,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000195125": 93,
+      "gas:candidate-vibid:1001000225973": 580,
+      "gas:candidate-vibid:361300270604": 17,
+      "gas:candidate-vibid:1001000136105": 86,
+      "gas:candidate-vibid:1001000190402": 50,
+      "gas:candidate-vibid:1001000131407": 247,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 50,
-      "Дятленко Валерий Владимирович": 410,
-      "Желуницын Георгий Георгиевич": 10,
-      "Карпов Владимир Васильевич": 63,
-      "Лебедь Александр Александрович": 42,
-      "Топилин Виктор Михайлович": 235,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000195125": 50,
+      "gas:candidate-vibid:1001000225973": 410,
+      "gas:candidate-vibid:361300270604": 10,
+      "gas:candidate-vibid:1001000136105": 63,
+      "gas:candidate-vibid:1001000190402": 42,
+      "gas:candidate-vibid:1001000131407": 235,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_61_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гордеева Анна Васильевна": 58,
-      "Дятленко Валерий Владимирович": 318,
-      "Желуницын Георгий Георгиевич": 15,
-      "Карпов Владимир Васильевич": 47,
-      "Лебедь Александр Александрович": 33,
-      "Топилин Виктор Михайлович": 178,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000195125": 58,
+      "gas:candidate-vibid:1001000225973": 318,
+      "gas:candidate-vibid:361300270604": 15,
+      "gas:candidate-vibid:1001000136105": 47,
+      "gas:candidate-vibid:1001000190402": 33,
+      "gas:candidate-vibid:1001000131407": 178,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=612000028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=261200070563&region=0&sub_region=0&type=429",

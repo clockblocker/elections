@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 75,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 60,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 165,
-      "Цуканов Сергей Андреевич": 30,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225919": 75,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 60,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 165,
+      "gas:candidate-vibid:1001000217904": 30,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 102,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 51,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 94,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225919": 102,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 51,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 94,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 11,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 18,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 11,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 18,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 140,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 107,
-      "Цуканов Сергей Андреевич": 54,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225919": 140,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 107,
+      "gas:candidate-vibid:1001000217904": 54,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 33,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 33,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 47,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 26,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 47,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 26,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 10,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 18,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 10,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 18,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 3,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 3,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 104,
-      "Цуканов Сергей Андреевич": 29,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 104,
+      "gas:candidate-vibid:1001000217904": 29,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 23,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 23,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 16,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 19,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 16,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 19,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 16,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 16,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 37,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 29,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 37,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 29,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 58,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 22,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 7,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 58,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 22,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 7,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 57,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 62,
-      "Цуканов Сергей Андреевич": 21,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 57,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 62,
+      "gas:candidate-vibid:1001000217904": 21,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 3,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 10,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 3,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 10,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 52,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 29,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225919": 52,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 29,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 18,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 45,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 18,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 45,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 27,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 27,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 10,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 14,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 10,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 14,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 11,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 33,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 11,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 33,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 9,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 9,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 82,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 84,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 82,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 84,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 35,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 23,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 35,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 23,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067636&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 265,
-      "Каспирович Сергей Викторович": 56,
-      "Ковалев Василий Николаевич": 16,
-      "Многогрешнов Александр Александрович": 114,
-      "Натаров Сергей Васильевич": 12,
-      "Романов Петр Васильевич": 128,
-      "Цуканов Сергей Андреевич": 27,
-      "Шевченко Анатолий Николаевич": 17,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000225919": 265,
+      "gas:candidate-vibid:1001000136024": 56,
+      "gas:candidate-vibid:1001000195051": 16,
+      "gas:candidate-vibid:324300466702": 114,
+      "gas:candidate-vibid:1001000190312": 12,
+      "gas:candidate-vibid:1001000121820": 128,
+      "gas:candidate-vibid:1001000217904": 27,
+      "gas:candidate-vibid:324300466696": 17,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 293,
-      "Каспирович Сергей Викторович": 48,
-      "Ковалев Василий Николаевич": 20,
-      "Многогрешнов Александр Александрович": 77,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 79,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 32,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000225919": 293,
+      "gas:candidate-vibid:1001000136024": 48,
+      "gas:candidate-vibid:1001000195051": 20,
+      "gas:candidate-vibid:324300466702": 77,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 79,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 32,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 263,
-      "Каспирович Сергей Викторович": 40,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 85,
-      "Натаров Сергей Васильевич": 11,
-      "Романов Петр Васильевич": 90,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 20,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000225919": 263,
+      "gas:candidate-vibid:1001000136024": 40,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 85,
+      "gas:candidate-vibid:1001000190312": 11,
+      "gas:candidate-vibid:1001000121820": 90,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 20,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 280,
-      "Каспирович Сергей Викторович": 22,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 37,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 58,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 21,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000225919": 280,
+      "gas:candidate-vibid:1001000136024": 22,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 37,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 58,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 21,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 193,
-      "Каспирович Сергей Викторович": 22,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 49,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 37,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000225919": 193,
+      "gas:candidate-vibid:1001000136024": 22,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 49,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 37,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 69,
-      "Каспирович Сергей Викторович": 20,
-      "Ковалев Василий Николаевич": 16,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 13,
-      "Романов Петр Васильевич": 33,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000225919": 69,
+      "gas:candidate-vibid:1001000136024": 20,
+      "gas:candidate-vibid:1001000195051": 16,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 13,
+      "gas:candidate-vibid:1001000121820": 33,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 142,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225919": 142,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 55,
-      "Каспирович Сергей Викторович": 23,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 83,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 58,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225919": 55,
+      "gas:candidate-vibid:1001000136024": 23,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 83,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 58,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 31,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 14,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 31,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 14,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 20,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 29,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 20,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 29,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067637&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 169,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 179,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 279,
-      "Цуканов Сергей Андреевич": 45,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000225919": 169,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 179,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 279,
+      "gas:candidate-vibid:1001000217904": 45,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 137,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 136,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 269,
-      "Цуканов Сергей Андреевич": 41,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225919": 137,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 136,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 269,
+      "gas:candidate-vibid:1001000217904": 41,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 136,
-      "Каспирович Сергей Викторович": 21,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 193,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 251,
-      "Цуканов Сергей Андреевич": 40,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225919": 136,
+      "gas:candidate-vibid:1001000136024": 21,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 193,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 251,
+      "gas:candidate-vibid:1001000217904": 40,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 38,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 16,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 38,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 16,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 7,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 23,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 7,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 23,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 73,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 73,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 73,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 73,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 51,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 56,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 51,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 56,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 36,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 72,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 70,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225919": 36,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 72,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 70,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 51,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 93,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 129,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225919": 51,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 93,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 129,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 75,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 39,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 114,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 75,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 39,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 114,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 7,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 59,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 16,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 7,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 59,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 16,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 59,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 159,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 35,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 59,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 159,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 35,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 42,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 45,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 42,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 45,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 63,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 36,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 63,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 36,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 58,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 28,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 58,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 28,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 60,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 113,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 76,
-      "Цуканов Сергей Андреевич": 25,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 60,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 113,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 76,
+      "gas:candidate-vibid:1001000217904": 25,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 19,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 53,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 23,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 19,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 53,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 23,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 87,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 69,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 74,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 87,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 69,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 74,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 2,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 10,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 27,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 2,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 10,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 27,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 26,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 26,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 27,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 27,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 44,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 35,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 47,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 44,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 35,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 47,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 23,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 14,
-      "Цуканов Сергей Андреевич": 9,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 23,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 14,
+      "gas:candidate-vibid:1001000217904": 9,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067638&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 89,
-      "Каспирович Сергей Викторович": 14,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 88,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 116,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225919": 89,
+      "gas:candidate-vibid:1001000136024": 14,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 88,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 116,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 142,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 8,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 120,
-      "Цуканов Сергей Андреевич": 27,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225919": 142,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 8,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 120,
+      "gas:candidate-vibid:1001000217904": 27,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 25,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 11,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 25,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 11,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 31,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 53,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 31,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 53,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 50,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 90,
-      "Цуканов Сергей Андреевич": 21,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 50,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 90,
+      "gas:candidate-vibid:1001000217904": 21,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 27,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 25,
-      "Цуканов Сергей Андреевич": 23,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 27,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 25,
+      "gas:candidate-vibid:1001000217904": 23,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 85,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 32,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 103,
-      "Цуканов Сергей Андреевич": 18,
-      "Шевченко Анатолий Николаевич": 10,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225919": 85,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 32,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 103,
+      "gas:candidate-vibid:1001000217904": 18,
+      "gas:candidate-vibid:324300466696": 10,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 67,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 74,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 67,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 74,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 38,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 41,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 38,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 41,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 10,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 37,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 10,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 37,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 226,
-      "Каспирович Сергей Викторович": 29,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 81,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 177,
-      "Цуканов Сергей Андреевич": 97,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000225919": 226,
+      "gas:candidate-vibid:1001000136024": 29,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 81,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 177,
+      "gas:candidate-vibid:1001000217904": 97,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 98,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 55,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000225919": 98,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 55,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 31,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225919": 31,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 18,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 10,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 18,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 10,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 32,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 2,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 32,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 2,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 121,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 75,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225919": 121,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 75,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 68,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 59,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 95,
-      "Цуканов Сергей Андреевич": 17,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225919": 68,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 59,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 95,
+      "gas:candidate-vibid:1001000217904": 17,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 25,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 25,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 38,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 26,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 38,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 26,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 40,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 10,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 14,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 40,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 10,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 14,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 20,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 20,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 18,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 18,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 158,
-      "Каспирович Сергей Викторович": 30,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 134,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 110,
-      "Цуканов Сергей Андреевич": 37,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225919": 158,
+      "gas:candidate-vibid:1001000136024": 30,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 134,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 110,
+      "gas:candidate-vibid:1001000217904": 37,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 36,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 36,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 28,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 48,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 11,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 28,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 48,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 11,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 65,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 30,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 65,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 30,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 59,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 17,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 59,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 17,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 84,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 101,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 68,
-      "Цуканов Сергей Андреевич": 29,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225919": 84,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 101,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 68,
+      "gas:candidate-vibid:1001000217904": 29,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 22,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 16,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 22,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 16,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 8,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 8,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 43,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 43,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 83,
-      "Каспирович Сергей Викторович": 38,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 87,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 110,
-      "Цуканов Сергей Андреевич": 21,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000225919": 83,
+      "gas:candidate-vibid:1001000136024": 38,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 87,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 110,
+      "gas:candidate-vibid:1001000217904": 21,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 75,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 32,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225919": 75,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 32,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 44,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 79,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 44,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 79,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 455,
-      "Каспирович Сергей Викторович": 143,
-      "Ковалев Василий Николаевич": 30,
-      "Многогрешнов Александр Александрович": 178,
-      "Натаров Сергей Васильевич": 19,
-      "Романов Петр Васильевич": 377,
-      "Цуканов Сергей Андреевич": 46,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000225919": 455,
+      "gas:candidate-vibid:1001000136024": 143,
+      "gas:candidate-vibid:1001000195051": 30,
+      "gas:candidate-vibid:324300466702": 178,
+      "gas:candidate-vibid:1001000190312": 19,
+      "gas:candidate-vibid:1001000121820": 377,
+      "gas:candidate-vibid:1001000217904": 46,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067639&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 33,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225919": 33,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 61,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 27,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 60,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 61,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 27,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 60,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 140,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 8,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 56,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 140,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 8,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 56,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 59,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 59,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 112,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 78,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 67,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000225919": 112,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 78,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 67,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 40,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 40,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 100,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 26,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 100,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 26,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 45,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 46,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 45,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 46,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 13,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 25,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 13,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 25,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 70,
-      "Каспирович Сергей Викторович": 5,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 100,
-      "Цуканов Сергей Андреевич": 22,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 70,
+      "gas:candidate-vibid:1001000136024": 5,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 100,
+      "gas:candidate-vibid:1001000217904": 22,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 434,
-      "Каспирович Сергей Викторович": 29,
-      "Ковалев Василий Николаевич": 9,
-      "Многогрешнов Александр Александрович": 115,
-      "Натаров Сергей Васильевич": 13,
-      "Романов Петр Васильевич": 313,
-      "Цуканов Сергей Андреевич": 67,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000225919": 434,
+      "gas:candidate-vibid:1001000136024": 29,
+      "gas:candidate-vibid:1001000195051": 9,
+      "gas:candidate-vibid:324300466702": 115,
+      "gas:candidate-vibid:1001000190312": 13,
+      "gas:candidate-vibid:1001000121820": 313,
+      "gas:candidate-vibid:1001000217904": 67,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 23,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 23,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 38,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 59,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 38,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 59,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 21,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 17,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 21,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 17,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 163,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 37,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 46,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225919": 163,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 37,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 46,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 37,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 16,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 52,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 37,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 16,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 52,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 36,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 36,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 20,
-      "Каспирович Сергей Викторович": 14,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225919": 20,
+      "gas:candidate-vibid:1001000136024": 14,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067640&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 42,
-      "Каспирович Сергей Викторович": 13,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 74,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 36,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225919": 42,
+      "gas:candidate-vibid:1001000136024": 13,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 74,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 36,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 24,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 10,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 24,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 10,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 177,
-      "Каспирович Сергей Викторович": 32,
-      "Ковалев Василий Николаевич": 11,
-      "Многогрешнов Александр Александрович": 47,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 104,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225919": 177,
+      "gas:candidate-vibid:1001000136024": 32,
+      "gas:candidate-vibid:1001000195051": 11,
+      "gas:candidate-vibid:324300466702": 47,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 104,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 86,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 32,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 82,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 10,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 86,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 32,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 82,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 10,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 46,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 23,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 46,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 23,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 224,
-      "Каспирович Сергей Викторович": 24,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 43,
-      "Натаров Сергей Васильевич": 9,
-      "Романов Петр Васильевич": 127,
-      "Цуканов Сергей Андреевич": 64,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000225919": 224,
+      "gas:candidate-vibid:1001000136024": 24,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 43,
+      "gas:candidate-vibid:1001000190312": 9,
+      "gas:candidate-vibid:1001000121820": 127,
+      "gas:candidate-vibid:1001000217904": 64,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 25,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 22,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 25,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 22,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 12,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 8,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 33,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 12,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 8,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 33,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 56,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 23,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225919": 56,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 23,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 67,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 33,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 64,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225919": 67,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 33,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 64,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 60,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 22,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 60,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 22,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 17,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 32,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 17,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 32,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 80,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 121,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 80,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 121,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 39,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 20,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 39,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 20,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 46,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 12,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 82,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 46,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 12,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 82,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 87,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 128,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225919": 87,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 128,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 96,
-      "Каспирович Сергей Викторович": 16,
-      "Ковалев Василий Николаевич": 13,
-      "Многогрешнов Александр Александрович": 32,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 48,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 13,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225919": 96,
+      "gas:candidate-vibid:1001000136024": 16,
+      "gas:candidate-vibid:1001000195051": 13,
+      "gas:candidate-vibid:324300466702": 32,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 48,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 13,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 55,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 55,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225919": 55,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 55,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 15,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 15,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 285,
-      "Каспирович Сергей Викторович": 31,
-      "Ковалев Василий Николаевич": 13,
-      "Многогрешнов Александр Александрович": 145,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 293,
-      "Цуканов Сергей Андреевич": 48,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000225919": 285,
+      "gas:candidate-vibid:1001000136024": 31,
+      "gas:candidate-vibid:1001000195051": 13,
+      "gas:candidate-vibid:324300466702": 145,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 293,
+      "gas:candidate-vibid:1001000217904": 48,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 97,
-      "Каспирович Сергей Викторович": 11,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 107,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 97,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225919": 97,
+      "gas:candidate-vibid:1001000136024": 11,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 107,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 97,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 92,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 52,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 83,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000225919": 92,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 52,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 83,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067641&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 45,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 34,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 45,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 34,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 408,
-      "Каспирович Сергей Викторович": 37,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 152,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 280,
-      "Цуканов Сергей Андреевич": 65,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000225919": 408,
+      "gas:candidate-vibid:1001000136024": 37,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 152,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 280,
+      "gas:candidate-vibid:1001000217904": 65,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 220,
-      "Каспирович Сергей Викторович": 33,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 95,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 192,
-      "Цуканов Сергей Андреевич": 24,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000225919": 220,
+      "gas:candidate-vibid:1001000136024": 33,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 95,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 192,
+      "gas:candidate-vibid:1001000217904": 24,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 57,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 51,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 18,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225919": 57,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 51,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 18,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 158,
-      "Каспирович Сергей Викторович": 37,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 23,
-      "Натаров Сергей Васильевич": 8,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000225919": 158,
+      "gas:candidate-vibid:1001000136024": 37,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 23,
+      "gas:candidate-vibid:1001000190312": 8,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 39,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 9,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 39,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 9,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 29,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 15,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 29,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 15,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 177,
-      "Каспирович Сергей Викторович": 44,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 181,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 286,
-      "Цуканов Сергей Андреевич": 43,
-      "Шевченко Анатолий Николаевич": 132,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225919": 177,
+      "gas:candidate-vibid:1001000136024": 44,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 181,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 286,
+      "gas:candidate-vibid:1001000217904": 43,
+      "gas:candidate-vibid:324300466696": 132,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 223,
-      "Каспирович Сергей Викторович": 54,
-      "Ковалев Василий Николаевич": 16,
-      "Многогрешнов Александр Александрович": 132,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 301,
-      "Цуканов Сергей Андреевич": 28,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000225919": 223,
+      "gas:candidate-vibid:1001000136024": 54,
+      "gas:candidate-vibid:1001000195051": 16,
+      "gas:candidate-vibid:324300466702": 132,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 301,
+      "gas:candidate-vibid:1001000217904": 28,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 122,
-      "Каспирович Сергей Викторович": 30,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 37,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 185,
-      "Цуканов Сергей Андреевич": 29,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000225919": 122,
+      "gas:candidate-vibid:1001000136024": 30,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 37,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 185,
+      "gas:candidate-vibid:1001000217904": 29,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 74,
-      "Каспирович Сергей Викторович": 24,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 58,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 170,
-      "Цуканов Сергей Андреевич": 18,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000225919": 74,
+      "gas:candidate-vibid:1001000136024": 24,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 58,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 170,
+      "gas:candidate-vibid:1001000217904": 18,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 54,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 10,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 39,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225919": 54,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 10,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 39,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 203,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 56,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 82,
-      "Цуканов Сергей Андреевич": 24,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225919": 203,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 56,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 82,
+      "gas:candidate-vibid:1001000217904": 24,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 78,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 55,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 91,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225919": 78,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 55,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 91,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 104,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 30,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 74,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225919": 104,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 30,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 74,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 87,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 81,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 87,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 81,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 46,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 134,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 46,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 134,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 45,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 43,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 32,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225919": 45,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 43,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 32,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 31,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 31,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 51,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 48,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 51,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 48,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 8,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 8,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 90,
-      "Каспирович Сергей Викторович": 11,
-      "Ковалев Василий Николаевич": 12,
-      "Многогрешнов Александр Александрович": 42,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 82,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225919": 90,
+      "gas:candidate-vibid:1001000136024": 11,
+      "gas:candidate-vibid:1001000195051": 12,
+      "gas:candidate-vibid:324300466702": 42,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 82,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 55,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 18,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 61,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 55,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 18,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 61,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 32,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 20,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 32,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 20,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 217,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 41,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 147,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000225919": 217,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 41,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 147,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 62,
-      "Каспирович Сергей Викторович": 14,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225919": 62,
+      "gas:candidate-vibid:1001000136024": 14,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 5,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 13,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 5,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 13,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 45,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 24,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 22,
-      "Цуканов Сергей Андреевич": 19,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 45,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 24,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 22,
+      "gas:candidate-vibid:1001000217904": 19,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 50,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 11,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 79,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 50,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 11,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 79,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 45,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 95,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 45,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 95,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 13,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 52,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 37,
-      "Цуканов Сергей Андреевич": 13,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 13,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 52,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 37,
+      "gas:candidate-vibid:1001000217904": 13,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 3,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 19,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225919": 3,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 19,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 40,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 16,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 26,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225919": 40,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 16,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 26,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 123,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 40,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 59,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225919": 123,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 40,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 59,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 95,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 17,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 74,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 11,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225919": 95,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 17,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 74,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 11,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 8,
-      "Каспирович Сергей Викторович": 7,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 8,
+      "gas:candidate-vibid:1001000136024": 7,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 59,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 4,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225919": 59,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 4,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 30,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 13,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225919": 30,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 13,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 23,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 125,
-      "Цуканов Сергей Андреевич": 18,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225919": 23,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 125,
+      "gas:candidate-vibid:1001000217904": 18,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 6,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 9,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 12,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 6,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 9,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 12,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 19,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 42,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 19,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 42,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 19,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 3,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 29,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225919": 19,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 3,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 29,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 48,
-      "Каспирович Сергей Викторович": 12,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 83,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 101,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225919": 48,
+      "gas:candidate-vibid:1001000136024": 12,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 83,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 101,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 204,
-      "Каспирович Сергей Викторович": 26,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 55,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 136,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225919": 204,
+      "gas:candidate-vibid:1001000136024": 26,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 55,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 136,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 22,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 30,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 22,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 30,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 120,
-      "Каспирович Сергей Викторович": 13,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 69,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 53,
-      "Цуканов Сергей Андреевич": 5,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225919": 120,
+      "gas:candidate-vibid:1001000136024": 13,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 69,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 53,
+      "gas:candidate-vibid:1001000217904": 5,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067642&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 81,
-      "Каспирович Сергей Викторович": 25,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 62,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 132,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225919": 81,
+      "gas:candidate-vibid:1001000136024": 25,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 62,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 132,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 127,
-      "Каспирович Сергей Викторович": 17,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 124,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 238,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000225919": 127,
+      "gas:candidate-vibid:1001000136024": 17,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 124,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 238,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 90,
-      "Каспирович Сергей Викторович": 21,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 89,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 143,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000225919": 90,
+      "gas:candidate-vibid:1001000136024": 21,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 89,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 143,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 113,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 115,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 135,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000225919": 113,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 115,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 135,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 41,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 39,
-      "Цуканов Сергей Андреевич": 6,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225919": 41,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 39,
+      "gas:candidate-vibid:1001000217904": 6,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 99,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 154,
-      "Цуканов Сергей Андреевич": 21,
-      "Шевченко Анатолий Николаевич": 10,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000225919": 99,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 154,
+      "gas:candidate-vibid:1001000217904": 21,
+      "gas:candidate-vibid:324300466696": 10,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 21,
-      "Каспирович Сергей Викторович": 16,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 53,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225919": 21,
+      "gas:candidate-vibid:1001000136024": 16,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 53,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 133,
-      "Каспирович Сергей Викторович": 26,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 138,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225919": 133,
+      "gas:candidate-vibid:1001000136024": 26,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 138,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 25,
-      "Каспирович Сергей Викторович": 11,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 15,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 69,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225919": 25,
+      "gas:candidate-vibid:1001000136024": 11,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 15,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 69,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 65,
-      "Каспирович Сергей Викторович": 24,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 52,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 64,
-      "Цуканов Сергей Андреевич": 14,
-      "Шевченко Анатолий Николаевич": 17,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000225919": 65,
+      "gas:candidate-vibid:1001000136024": 24,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 52,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 64,
+      "gas:candidate-vibid:1001000217904": 14,
+      "gas:candidate-vibid:324300466696": 17,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 92,
-      "Каспирович Сергей Викторович": 15,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 105,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 111,
-      "Цуканов Сергей Андреевич": 10,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000225919": 92,
+      "gas:candidate-vibid:1001000136024": 15,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 105,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 111,
+      "gas:candidate-vibid:1001000217904": 10,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 95,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 9,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 179,
-      "Цуканов Сергей Андреевич": 15,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225919": 95,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 9,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 179,
+      "gas:candidate-vibid:1001000217904": 15,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 28,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 48,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 87,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000225919": 28,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 48,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 87,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 216,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 165,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 228,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000225919": 216,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 165,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 228,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 67,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 65,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 101,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225919": 67,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 65,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 101,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 18,
-      "Каспирович Сергей Викторович": 19,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 70,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225919": 18,
+      "gas:candidate-vibid:1001000136024": 19,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 70,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 125,
-      "Каспирович Сергей Викторович": 23,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 5,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 85,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225919": 125,
+      "gas:candidate-vibid:1001000136024": 23,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 5,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 85,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067643&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 22,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 4,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 86,
-      "Цуканов Сергей Андреевич": 7,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 22,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 4,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 86,
+      "gas:candidate-vibid:1001000217904": 7,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 16,
-      "Каспирович Сергей Викторович": 10,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 2,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 16,
+      "gas:candidate-vibid:1001000136024": 10,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 2,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 4,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 40,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225919": 4,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 40,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 32,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 14,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 83,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225919": 32,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 14,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 83,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 58,
-      "Каспирович Сергей Викторович": 4,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 16,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 95,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225919": 58,
+      "gas:candidate-vibid:1001000136024": 4,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 16,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 95,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 79,
-      "Каспирович Сергей Викторович": 11,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 88,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 97,
-      "Цуканов Сергей Андреевич": 4,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225919": 79,
+      "gas:candidate-vibid:1001000136024": 11,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 88,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 97,
+      "gas:candidate-vibid:1001000217904": 4,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 17,
-      "Каспирович Сергей Викторович": 13,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 28,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 51,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225919": 17,
+      "gas:candidate-vibid:1001000136024": 13,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 28,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 51,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 7,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 6,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 6,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 7,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 6,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 6,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 21,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 1,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 10,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225919": 21,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 1,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 10,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 58,
-      "Каспирович Сергей Викторович": 2,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 16,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 43,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 58,
+      "gas:candidate-vibid:1001000136024": 2,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 16,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 43,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 29,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 8,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 21,
-      "Цуканов Сергей Андреевич": 1,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225919": 29,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 8,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 21,
+      "gas:candidate-vibid:1001000217904": 1,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 302,
-      "Каспирович Сергей Викторович": 39,
-      "Ковалев Василий Николаевич": 10,
-      "Многогрешнов Александр Александрович": 197,
-      "Натаров Сергей Васильевич": 15,
-      "Романов Петр Васильевич": 334,
-      "Цуканов Сергей Андреевич": 26,
-      "Шевченко Анатолий Николаевич": 11,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000225919": 302,
+      "gas:candidate-vibid:1001000136024": 39,
+      "gas:candidate-vibid:1001000195051": 10,
+      "gas:candidate-vibid:324300466702": 197,
+      "gas:candidate-vibid:1001000190312": 15,
+      "gas:candidate-vibid:1001000121820": 334,
+      "gas:candidate-vibid:1001000217904": 26,
+      "gas:candidate-vibid:324300466696": 11,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 282,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 154,
-      "Натаров Сергей Васильевич": 13,
-      "Романов Петр Васильевич": 294,
-      "Цуканов Сергей Андреевич": 11,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000225919": 282,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 154,
+      "gas:candidate-vibid:1001000190312": 13,
+      "gas:candidate-vibid:1001000121820": 294,
+      "gas:candidate-vibid:1001000217904": 11,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 296,
-      "Каспирович Сергей Викторович": 47,
-      "Ковалев Василий Николаевич": 15,
-      "Многогрешнов Александр Александрович": 174,
-      "Натаров Сергей Васильевич": 7,
-      "Романов Петр Васильевич": 352,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 16,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000225919": 296,
+      "gas:candidate-vibid:1001000136024": 47,
+      "gas:candidate-vibid:1001000195051": 15,
+      "gas:candidate-vibid:324300466702": 174,
+      "gas:candidate-vibid:1001000190312": 7,
+      "gas:candidate-vibid:1001000121820": 352,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 16,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 367,
-      "Каспирович Сергей Викторович": 46,
-      "Ковалев Василий Николаевич": 8,
-      "Многогрешнов Александр Александрович": 178,
-      "Натаров Сергей Васильевич": 14,
-      "Романов Петр Васильевич": 276,
-      "Цуканов Сергей Андреевич": 20,
-      "Шевченко Анатолий Николаевич": 17,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000225919": 367,
+      "gas:candidate-vibid:1001000136024": 46,
+      "gas:candidate-vibid:1001000195051": 8,
+      "gas:candidate-vibid:324300466702": 178,
+      "gas:candidate-vibid:1001000190312": 14,
+      "gas:candidate-vibid:1001000121820": 276,
+      "gas:candidate-vibid:1001000217904": 20,
+      "gas:candidate-vibid:324300466696": 17,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 37,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 7,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 24,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225919": 37,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 7,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 24,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 7,
-      "Каспирович Сергей Викторович": 0,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 93,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225919": 7,
+      "gas:candidate-vibid:1001000136024": 0,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 93,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 144,
-      "Каспирович Сергей Викторович": 24,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 23,
-      "Натаров Сергей Васильевич": 6,
-      "Романов Петр Васильевич": 104,
-      "Цуканов Сергей Андреевич": 12,
-      "Шевченко Анатолий Николаевич": 9,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000225919": 144,
+      "gas:candidate-vibid:1001000136024": 24,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 23,
+      "gas:candidate-vibid:1001000190312": 6,
+      "gas:candidate-vibid:1001000121820": 104,
+      "gas:candidate-vibid:1001000217904": 12,
+      "gas:candidate-vibid:324300466696": 9,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 43,
-      "Каспирович Сергей Викторович": 1,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 2,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 36,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225919": 43,
+      "gas:candidate-vibid:1001000136024": 1,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 2,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 36,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 202,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 25,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 139,
-      "Цуканов Сергей Андреевич": 8,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000225919": 202,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 25,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 139,
+      "gas:candidate-vibid:1001000217904": 8,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 114,
-      "Каспирович Сергей Викторович": 6,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 22,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 57,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225919": 114,
+      "gas:candidate-vibid:1001000136024": 6,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 22,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 57,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 6,
-      "Каспирович Сергей Викторович": 3,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 13,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 75,
-      "Цуканов Сергей Андреевич": 0,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 6,
+      "gas:candidate-vibid:1001000136024": 3,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 13,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 75,
+      "gas:candidate-vibid:1001000217904": 0,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 51,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 19,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 43,
-      "Цуканов Сергей Андреевич": 2,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225919": 51,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 19,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 43,
+      "gas:candidate-vibid:1001000217904": 2,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 22,
-      "Каспирович Сергей Викторович": 8,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 3,
-      "Цуканов Сергей Андреевич": 3,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225919": 22,
+      "gas:candidate-vibid:1001000136024": 8,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 0,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 3,
+      "gas:candidate-vibid:1001000217904": 3,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067644&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 126,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 0,
-      "Многогрешнов Александр Александрович": 32,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 95,
-      "Цуканов Сергей Андреевич": 121,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225919": 126,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 0,
+      "gas:candidate-vibid:324300466702": 32,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 95,
+      "gas:candidate-vibid:1001000217904": 121,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 209,
-      "Каспирович Сергей Викторович": 31,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 48,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 238,
-      "Цуканов Сергей Андреевич": 234,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000225919": 209,
+      "gas:candidate-vibid:1001000136024": 31,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 48,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 238,
+      "gas:candidate-vibid:1001000217904": 234,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 98,
-      "Каспирович Сергей Викторович": 13,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 21,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 105,
-      "Цуканов Сергей Андреевич": 83,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225919": 98,
+      "gas:candidate-vibid:1001000136024": 13,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 21,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 105,
+      "gas:candidate-vibid:1001000217904": 83,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 305,
-      "Каспирович Сергей Викторович": 29,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 61,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 276,
-      "Цуканов Сергей Андреевич": 212,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000225919": 305,
+      "gas:candidate-vibid:1001000136024": 29,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 61,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 276,
+      "gas:candidate-vibid:1001000217904": 212,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 180,
-      "Каспирович Сергей Викторович": 16,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 57,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 389,
-      "Цуканов Сергей Андреевич": 282,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000225919": 180,
+      "gas:candidate-vibid:1001000136024": 16,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 57,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 389,
+      "gas:candidate-vibid:1001000217904": 282,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 206,
-      "Каспирович Сергей Викторович": 20,
-      "Ковалев Василий Николаевич": 7,
-      "Многогрешнов Александр Александрович": 95,
-      "Натаров Сергей Васильевич": 5,
-      "Романов Петр Васильевич": 348,
-      "Цуканов Сергей Андреевич": 295,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000225919": 206,
+      "gas:candidate-vibid:1001000136024": 20,
+      "gas:candidate-vibid:1001000195051": 7,
+      "gas:candidate-vibid:324300466702": 95,
+      "gas:candidate-vibid:1001000190312": 5,
+      "gas:candidate-vibid:1001000121820": 348,
+      "gas:candidate-vibid:1001000217904": 295,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 193,
-      "Каспирович Сергей Викторович": 23,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 48,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 374,
-      "Цуканов Сергей Андреевич": 274,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000225919": 193,
+      "gas:candidate-vibid:1001000136024": 23,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 48,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 374,
+      "gas:candidate-vibid:1001000217904": 274,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 132,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 35,
-      "Натаров Сергей Васильевич": 1,
-      "Романов Петр Васильевич": 185,
-      "Цуканов Сергей Андреевич": 116,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225919": 132,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 35,
+      "gas:candidate-vibid:1001000190312": 1,
+      "gas:candidate-vibid:1001000121820": 185,
+      "gas:candidate-vibid:1001000217904": 116,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 119,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 41,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 156,
-      "Цуканов Сергей Андреевич": 121,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225919": 119,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 41,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 156,
+      "gas:candidate-vibid:1001000217904": 121,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 180,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 2,
-      "Многогрешнов Александр Александрович": 68,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 148,
-      "Цуканов Сергей Андреевич": 132,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000225919": 180,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 2,
+      "gas:candidate-vibid:324300466702": 68,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 148,
+      "gas:candidate-vibid:1001000217904": 132,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 136,
-      "Каспирович Сергей Викторович": 38,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 62,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 287,
-      "Цуканов Сергей Андреевич": 178,
-      "Шевченко Анатолий Николаевич": 6,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000225919": 136,
+      "gas:candidate-vibid:1001000136024": 38,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 62,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 287,
+      "gas:candidate-vibid:1001000217904": 178,
+      "gas:candidate-vibid:324300466696": 6,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 147,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 46,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 156,
-      "Цуканов Сергей Андреевич": 113,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225919": 147,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 46,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 156,
+      "gas:candidate-vibid:1001000217904": 113,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 108,
-      "Каспирович Сергей Викторович": 17,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 54,
-      "Натаров Сергей Васильевич": 0,
-      "Романов Петр Васильевич": 124,
-      "Цуканов Сергей Андреевич": 92,
-      "Шевченко Анатолий Николаевич": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000225919": 108,
+      "gas:candidate-vibid:1001000136024": 17,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 54,
+      "gas:candidate-vibid:1001000190312": 0,
+      "gas:candidate-vibid:1001000121820": 124,
+      "gas:candidate-vibid:1001000217904": 92,
+      "gas:candidate-vibid:324300466696": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 203,
-      "Каспирович Сергей Викторович": 23,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 73,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 278,
-      "Цуканов Сергей Андреевич": 210,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000225919": 203,
+      "gas:candidate-vibid:1001000136024": 23,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 73,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 278,
+      "gas:candidate-vibid:1001000217904": 210,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 234,
-      "Каспирович Сергей Викторович": 29,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 121,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 250,
-      "Цуканов Сергей Андреевич": 194,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000225919": 234,
+      "gas:candidate-vibid:1001000136024": 29,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 121,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 250,
+      "gas:candidate-vibid:1001000217904": 194,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 244,
-      "Каспирович Сергей Викторович": 39,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 105,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 134,
-      "Цуканов Сергей Андреевич": 111,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000225919": 244,
+      "gas:candidate-vibid:1001000136024": 39,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 105,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 134,
+      "gas:candidate-vibid:1001000217904": 111,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 106,
-      "Каспирович Сергей Викторович": 9,
-      "Ковалев Василий Николаевич": 1,
-      "Многогрешнов Александр Александрович": 33,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 246,
-      "Цуканов Сергей Андреевич": 89,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225919": 106,
+      "gas:candidate-vibid:1001000136024": 9,
+      "gas:candidate-vibid:1001000195051": 1,
+      "gas:candidate-vibid:324300466702": 33,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 246,
+      "gas:candidate-vibid:1001000217904": 89,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 214,
-      "Каспирович Сергей Викторович": 36,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 55,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 240,
-      "Цуканов Сергей Андреевич": 240,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000225919": 214,
+      "gas:candidate-vibid:1001000136024": 36,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 55,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 240,
+      "gas:candidate-vibid:1001000217904": 240,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 157,
-      "Каспирович Сергей Викторович": 34,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 96,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 198,
-      "Цуканов Сергей Андреевич": 197,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225919": 157,
+      "gas:candidate-vibid:1001000136024": 34,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 96,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 198,
+      "gas:candidate-vibid:1001000217904": 197,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 194,
-      "Каспирович Сергей Викторович": 34,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 77,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 267,
-      "Цуканов Сергей Андреевич": 218,
-      "Шевченко Анатолий Николаевич": 3,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000225919": 194,
+      "gas:candidate-vibid:1001000136024": 34,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 77,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 267,
+      "gas:candidate-vibid:1001000217904": 218,
+      "gas:candidate-vibid:324300466696": 3,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 121,
-      "Каспирович Сергей Викторович": 18,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 55,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 228,
-      "Цуканов Сергей Андреевич": 208,
-      "Шевченко Анатолий Николаевич": 0,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225919": 121,
+      "gas:candidate-vibid:1001000136024": 18,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 55,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 228,
+      "gas:candidate-vibid:1001000217904": 208,
+      "gas:candidate-vibid:324300466696": 0,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 185,
-      "Каспирович Сергей Викторович": 26,
-      "Ковалев Василий Николаевич": 4,
-      "Многогрешнов Александр Александрович": 127,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 271,
-      "Цуканов Сергей Андреевич": 311,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000225919": 185,
+      "gas:candidate-vibid:1001000136024": 26,
+      "gas:candidate-vibid:1001000195051": 4,
+      "gas:candidate-vibid:324300466702": 127,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 271,
+      "gas:candidate-vibid:1001000217904": 311,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 257,
-      "Каспирович Сергей Викторович": 46,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 148,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 365,
-      "Цуканов Сергей Андреевич": 288,
-      "Шевченко Анатолий Николаевич": 8,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000225919": 257,
+      "gas:candidate-vibid:1001000136024": 46,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 148,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 365,
+      "gas:candidate-vibid:1001000217904": 288,
+      "gas:candidate-vibid:324300466696": 8,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 253,
-      "Каспирович Сергей Викторович": 47,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 123,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 326,
-      "Цуканов Сергей Андреевич": 191,
-      "Шевченко Анатолий Николаевич": 7,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000225919": 253,
+      "gas:candidate-vibid:1001000136024": 47,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 123,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 326,
+      "gas:candidate-vibid:1001000217904": 191,
+      "gas:candidate-vibid:324300466696": 7,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 262,
-      "Каспирович Сергей Викторович": 30,
-      "Ковалев Василий Николаевич": 5,
-      "Многогрешнов Александр Александрович": 144,
-      "Натаров Сергей Васильевич": 4,
-      "Романов Петр Васильевич": 454,
-      "Цуканов Сергей Андреевич": 251,
-      "Шевченко Анатолий Николаевич": 1,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000225919": 262,
+      "gas:candidate-vibid:1001000136024": 30,
+      "gas:candidate-vibid:1001000195051": 5,
+      "gas:candidate-vibid:324300466702": 144,
+      "gas:candidate-vibid:1001000190312": 4,
+      "gas:candidate-vibid:1001000121820": 454,
+      "gas:candidate-vibid:1001000217904": 251,
+      "gas:candidate-vibid:324300466696": 1,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 194,
-      "Каспирович Сергей Викторович": 28,
-      "Ковалев Василий Николаевич": 3,
-      "Многогрешнов Александр Александрович": 85,
-      "Натаров Сергей Васильевич": 3,
-      "Романов Петр Васильевич": 225,
-      "Цуканов Сергей Андреевич": 169,
-      "Шевченко Анатолий Николаевич": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000225919": 194,
+      "gas:candidate-vibid:1001000136024": 28,
+      "gas:candidate-vibid:1001000195051": 3,
+      "gas:candidate-vibid:324300466702": 85,
+      "gas:candidate-vibid:1001000190312": 3,
+      "gas:candidate-vibid:1001000121820": 225,
+      "gas:candidate-vibid:1001000217904": 169,
+      "gas:candidate-vibid:324300466696": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_24_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Исаков Игорь Анатольевич": 229,
-      "Каспирович Сергей Викторович": 27,
-      "Ковалев Василий Николаевич": 6,
-      "Многогрешнов Александр Александрович": 81,
-      "Натаров Сергей Васильевич": 2,
-      "Романов Петр Васильевич": 303,
-      "Цуканов Сергей Андреевич": 207,
-      "Шевченко Анатолий Николаевич": 5,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000225919": 229,
+      "gas:candidate-vibid:1001000136024": 27,
+      "gas:candidate-vibid:1001000195051": 6,
+      "gas:candidate-vibid:324300466702": 81,
+      "gas:candidate-vibid:1001000190312": 2,
+      "gas:candidate-vibid:1001000121820": 303,
+      "gas:candidate-vibid:1001000217904": 207,
+      "gas:candidate-vibid:324300466696": 5,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=242000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=224200067645&region=0&sub_region=0&type=429",

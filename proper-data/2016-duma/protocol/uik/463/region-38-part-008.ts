@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 88,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 12,
-      "Любенков Георгий Александрович": 50,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 188
+      "gas:candidate-vibid:4384009323792": 88,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 12,
+      "gas:candidate-vibid:4384009307511": 50,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 45,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 16,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 49
+      "gas:candidate-vibid:4384009323792": 45,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 16,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 12,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 26
+      "gas:candidate-vibid:4384009323792": 9,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 12,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 166,
-      "Беликов Дмитрий Валерьевич": 16,
-      "Катасонов Олег Вячеславович": 28,
-      "Кучменко Денис Александрович": 16,
-      "Любенков Георгий Александрович": 52,
-      "Макаров Виктор Викторович": 19,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 345
+      "gas:candidate-vibid:4384009323792": 166,
+      "gas:candidate-vibid:4384009321226": 16,
+      "gas:candidate-vibid:4384009320685": 28,
+      "gas:candidate-vibid:4384009323610": 16,
+      "gas:candidate-vibid:4384009307511": 52,
+      "gas:candidate-vibid:4384009321200": 19,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 110,
-      "Беликов Дмитрий Валерьевич": 17,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 14,
-      "Любенков Георгий Александрович": 63,
-      "Макаров Виктор Викторович": 15,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 244
+      "gas:candidate-vibid:4384009323792": 110,
+      "gas:candidate-vibid:4384009321226": 17,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 14,
+      "gas:candidate-vibid:4384009307511": 63,
+      "gas:candidate-vibid:4384009321200": 15,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 12,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 31
+      "gas:candidate-vibid:4384009323792": 9,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 12,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 43,
-      "Беликов Дмитрий Валерьевич": 12,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 16,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 148
+      "gas:candidate-vibid:4384009323792": 43,
+      "gas:candidate-vibid:4384009321226": 12,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 16,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 6,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 24
+      "gas:candidate-vibid:4384009323792": 9,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 6,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 4,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 0,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 31
+      "gas:candidate-vibid:4384009323792": 4,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 0,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 32,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 14,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 95
+      "gas:candidate-vibid:4384009323792": 32,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 14,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 149,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 37,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 203
+      "gas:candidate-vibid:4384009323792": 149,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 37,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 66,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 24,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 109
+      "gas:candidate-vibid:4384009323792": 66,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 24,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 13,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 11,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 27
+      "gas:candidate-vibid:4384009323792": 13,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 11,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 6,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 2,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 19
+      "gas:candidate-vibid:4384009323792": 6,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 2,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 35,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 3,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 7,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 63
+      "gas:candidate-vibid:4384009323792": 35,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 3,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 7,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 5,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 3,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 30
+      "gas:candidate-vibid:4384009323792": 5,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 3,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 4,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 0,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 22
+      "gas:candidate-vibid:4384009323792": 4,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 0,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 12,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 1,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 18
+      "gas:candidate-vibid:4384009323792": 12,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 1,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 43,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 17,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 60
+      "gas:candidate-vibid:4384009323792": 43,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 17,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 60,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 48
+      "gas:candidate-vibid:4384009323792": 60,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 0,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 8
+      "gas:candidate-vibid:4384009323792": 0,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 11,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 5,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 44
+      "gas:candidate-vibid:4384009323792": 11,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 5,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 5,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 3,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 9,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 9
+      "gas:candidate-vibid:4384009323792": 5,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 3,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 9,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306499&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306499&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 75,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 21,
-      "Кучменко Денис Александрович": 12,
-      "Любенков Георгий Александрович": 98,
-      "Макаров Виктор Викторович": 28,
-      "Очкас Николай Николаевич": 11,
-      "Чернышев Андрей Владимирович": 118
+      "gas:candidate-vibid:4384009323792": 75,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 21,
+      "gas:candidate-vibid:4384009323610": 12,
+      "gas:candidate-vibid:4384009307511": 98,
+      "gas:candidate-vibid:4384009321200": 28,
+      "gas:candidate-vibid:4384009323701": 11,
+      "gas:candidate-vibid:4384009321010": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306500&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306500&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 71,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 19,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 72,
-      "Макаров Виктор Викторович": 34,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 119
+      "gas:candidate-vibid:4384009323792": 71,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 19,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 72,
+      "gas:candidate-vibid:4384009321200": 34,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306500&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306500&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 11,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 6,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 14
+      "gas:candidate-vibid:4384009323792": 11,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 6,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306500&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306500&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 22,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 64
+      "gas:candidate-vibid:4384009323792": 22,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306500&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306500&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 15,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 10,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 12
+      "gas:candidate-vibid:4384009323792": 15,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 10,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306500&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306500&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 38,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 41,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 73
+      "gas:candidate-vibid:4384009323792": 38,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 41,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306500&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306500&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 73,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 16,
-      "Любенков Георгий Александрович": 78,
-      "Макаров Виктор Викторович": 16,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 162
+      "gas:candidate-vibid:4384009323792": 73,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 16,
+      "gas:candidate-vibid:4384009307511": 78,
+      "gas:candidate-vibid:4384009321200": 16,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 73,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 76,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 148
+      "gas:candidate-vibid:4384009323792": 73,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 76,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 35,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 45,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 97
+      "gas:candidate-vibid:4384009323792": 35,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 45,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 76,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 62,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 156
+      "gas:candidate-vibid:4384009323792": 76,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 62,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 88,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 71,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 191
+      "gas:candidate-vibid:4384009323792": 88,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 71,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 132,
-      "Беликов Дмитрий Валерьевич": 18,
-      "Катасонов Олег Вячеславович": 20,
-      "Кучменко Денис Александрович": 15,
-      "Любенков Георгий Александрович": 102,
-      "Макаров Виктор Викторович": 19,
-      "Очкас Николай Николаевич": 20,
-      "Чернышев Андрей Владимирович": 294
+      "gas:candidate-vibid:4384009323792": 132,
+      "gas:candidate-vibid:4384009321226": 18,
+      "gas:candidate-vibid:4384009320685": 20,
+      "gas:candidate-vibid:4384009323610": 15,
+      "gas:candidate-vibid:4384009307511": 102,
+      "gas:candidate-vibid:4384009321200": 19,
+      "gas:candidate-vibid:4384009323701": 20,
+      "gas:candidate-vibid:4384009321010": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 120,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 22,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 112,
-      "Макаров Виктор Викторович": 25,
-      "Очкас Николай Николаевич": 25,
-      "Чернышев Андрей Владимирович": 255
+      "gas:candidate-vibid:4384009323792": 120,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 22,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 112,
+      "gas:candidate-vibid:4384009321200": 25,
+      "gas:candidate-vibid:4384009323701": 25,
+      "gas:candidate-vibid:4384009321010": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 163,
-      "Беликов Дмитрий Валерьевич": 29,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 21,
-      "Любенков Георгий Александрович": 128,
-      "Макаров Виктор Викторович": 37,
-      "Очкас Николай Николаевич": 37,
-      "Чернышев Андрей Владимирович": 273
+      "gas:candidate-vibid:4384009323792": 163,
+      "gas:candidate-vibid:4384009321226": 29,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 21,
+      "gas:candidate-vibid:4384009307511": 128,
+      "gas:candidate-vibid:4384009321200": 37,
+      "gas:candidate-vibid:4384009323701": 37,
+      "gas:candidate-vibid:4384009321010": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 87,
-      "Беликов Дмитрий Валерьевич": 12,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 12,
-      "Любенков Георгий Александрович": 74,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 155
+      "gas:candidate-vibid:4384009323792": 87,
+      "gas:candidate-vibid:4384009321226": 12,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 12,
+      "gas:candidate-vibid:4384009307511": 74,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 189,
-      "Беликов Дмитрий Валерьевич": 19,
-      "Катасонов Олег Вячеславович": 34,
-      "Кучменко Денис Александрович": 20,
-      "Любенков Георгий Александрович": 90,
-      "Макаров Виктор Викторович": 25,
-      "Очкас Николай Николаевич": 23,
-      "Чернышев Андрей Владимирович": 323
+      "gas:candidate-vibid:4384009323792": 189,
+      "gas:candidate-vibid:4384009321226": 19,
+      "gas:candidate-vibid:4384009320685": 34,
+      "gas:candidate-vibid:4384009323610": 20,
+      "gas:candidate-vibid:4384009307511": 90,
+      "gas:candidate-vibid:4384009321200": 25,
+      "gas:candidate-vibid:4384009323701": 23,
+      "gas:candidate-vibid:4384009321010": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 87,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 70,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 174
+      "gas:candidate-vibid:4384009323792": 87,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 70,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 135,
-      "Беликов Дмитрий Валерьевич": 28,
-      "Катасонов Олег Вячеславович": 24,
-      "Кучменко Денис Александрович": 26,
-      "Любенков Георгий Александрович": 95,
-      "Макаров Виктор Викторович": 27,
-      "Очкас Николай Николаевич": 18,
-      "Чернышев Андрей Владимирович": 206
+      "gas:candidate-vibid:4384009323792": 135,
+      "gas:candidate-vibid:4384009321226": 28,
+      "gas:candidate-vibid:4384009320685": 24,
+      "gas:candidate-vibid:4384009323610": 26,
+      "gas:candidate-vibid:4384009307511": 95,
+      "gas:candidate-vibid:4384009321200": 27,
+      "gas:candidate-vibid:4384009323701": 18,
+      "gas:candidate-vibid:4384009321010": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 10,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 2,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 16
+      "gas:candidate-vibid:4384009323792": 10,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 2,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 12,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 7,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 25
+      "gas:candidate-vibid:4384009323792": 12,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 7,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 18,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 54
+      "gas:candidate-vibid:4384009323792": 18,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 4,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 0,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 105
+      "gas:candidate-vibid:4384009323792": 4,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 0,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 54,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 36,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 203
+      "gas:candidate-vibid:4384009323792": 54,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 36,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 62,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 27,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 152
+      "gas:candidate-vibid:4384009323792": 62,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 27,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 57,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 41,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 183
+      "gas:candidate-vibid:4384009323792": 57,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 41,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 2,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 2,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 23
+      "gas:candidate-vibid:4384009323792": 2,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 2,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 43,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 13,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 124
+      "gas:candidate-vibid:4384009323792": 43,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 13,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 3,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 8,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 2
+      "gas:candidate-vibid:4384009323792": 3,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 8,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 61,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 17,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 122
+      "gas:candidate-vibid:4384009323792": 61,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 17,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 33,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 23,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 110
+      "gas:candidate-vibid:4384009323792": 33,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 23,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 9,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 2,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 40
+      "gas:candidate-vibid:4384009323792": 9,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 2,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 41,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 3,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 17,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 62
+      "gas:candidate-vibid:4384009323792": 41,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 3,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 17,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 1,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 18
+      "gas:candidate-vibid:4384009323792": 1,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 93,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 49,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 192
+      "gas:candidate-vibid:4384009323792": 93,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 49,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 51,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 35,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 154
+      "gas:candidate-vibid:4384009323792": 51,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 35,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 15,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 14,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 33
+      "gas:candidate-vibid:4384009323792": 15,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 14,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 29,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 3,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 9,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 73
+      "gas:candidate-vibid:4384009323792": 29,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 3,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 9,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 27,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 12,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 27
+      "gas:candidate-vibid:4384009323792": 27,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 12,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3581,14 +3581,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 141,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 19,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 115,
-      "Макаров Виктор Викторович": 17,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 119
+      "gas:candidate-vibid:4384009323792": 141,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 19,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 115,
+      "gas:candidate-vibid:4384009321200": 17,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3639,14 +3639,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 93,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 9,
-      "Любенков Георгий Александрович": 58,
-      "Макаров Виктор Викторович": 16,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 67
+      "gas:candidate-vibid:4384009323792": 93,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 9,
+      "gas:candidate-vibid:4384009307511": 58,
+      "gas:candidate-vibid:4384009321200": 16,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3697,14 +3697,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 88,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 18,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 52,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 142
+      "gas:candidate-vibid:4384009323792": 88,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 18,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 52,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3755,14 +3755,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 82,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 17,
-      "Кучменко Денис Александрович": 12,
-      "Любенков Георгий Александрович": 58,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 113
+      "gas:candidate-vibid:4384009323792": 82,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 17,
+      "gas:candidate-vibid:4384009323610": 12,
+      "gas:candidate-vibid:4384009307511": 58,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3813,14 +3813,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 112,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 21,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 80
+      "gas:candidate-vibid:4384009323792": 112,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 21,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3871,14 +3871,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 86,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 28,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 133
+      "gas:candidate-vibid:4384009323792": 86,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 28,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3929,14 +3929,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 148,
-      "Беликов Дмитрий Валерьевич": 24,
-      "Катасонов Олег Вячеславович": 31,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 99,
-      "Макаров Виктор Викторович": 15,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 180
+      "gas:candidate-vibid:4384009323792": 148,
+      "gas:candidate-vibid:4384009321226": 24,
+      "gas:candidate-vibid:4384009320685": 31,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 99,
+      "gas:candidate-vibid:4384009321200": 15,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -3987,14 +3987,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 108,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 85,
-      "Макаров Виктор Викторович": 17,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 159
+      "gas:candidate-vibid:4384009323792": 108,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 85,
+      "gas:candidate-vibid:4384009321200": 17,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -4045,14 +4045,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 108,
-      "Беликов Дмитрий Валерьевич": 20,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 57,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 162
+      "gas:candidate-vibid:4384009323792": 108,
+      "gas:candidate-vibid:4384009321226": 20,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 57,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -4103,14 +4103,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 226,
-      "Беликов Дмитрий Валерьевич": 19,
-      "Катасонов Олег Вячеславович": 23,
-      "Кучменко Денис Александрович": 23,
-      "Любенков Георгий Александрович": 149,
-      "Макаров Виктор Викторович": 22,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 405
+      "gas:candidate-vibid:4384009323792": 226,
+      "gas:candidate-vibid:4384009321226": 19,
+      "gas:candidate-vibid:4384009320685": 23,
+      "gas:candidate-vibid:4384009323610": 23,
+      "gas:candidate-vibid:4384009307511": 149,
+      "gas:candidate-vibid:4384009321200": 22,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 405
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306501&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306501&type=464",
@@ -4161,14 +4161,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 123,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 71,
-      "Макаров Виктор Викторович": 21,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 225
+      "gas:candidate-vibid:4384009323792": 123,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 71,
+      "gas:candidate-vibid:4384009321200": 21,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4219,14 +4219,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 123,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 17,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 56,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 206
+      "gas:candidate-vibid:4384009323792": 123,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 17,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 56,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4277,14 +4277,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 144,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 66,
-      "Макаров Виктор Викторович": 19,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 234
+      "gas:candidate-vibid:4384009323792": 144,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 66,
+      "gas:candidate-vibid:4384009321200": 19,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4335,14 +4335,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 142,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 59,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 224
+      "gas:candidate-vibid:4384009323792": 142,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 59,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4393,14 +4393,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 61,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 66,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 171
+      "gas:candidate-vibid:4384009323792": 61,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 66,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4451,14 +4451,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 89,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 72,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 15,
-      "Чернышев Андрей Владимирович": 190
+      "gas:candidate-vibid:4384009323792": 89,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 72,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 15,
+      "gas:candidate-vibid:4384009321010": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4509,14 +4509,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 105,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 20,
-      "Кучменко Денис Александрович": 20,
-      "Любенков Георгий Александрович": 61,
-      "Макаров Виктор Викторович": 16,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 254
+      "gas:candidate-vibid:4384009323792": 105,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 20,
+      "gas:candidate-vibid:4384009323610": 20,
+      "gas:candidate-vibid:4384009307511": 61,
+      "gas:candidate-vibid:4384009321200": 16,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4567,14 +4567,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 118,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 25,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 70,
-      "Макаров Виктор Викторович": 19,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 238
+      "gas:candidate-vibid:4384009323792": 118,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 25,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 70,
+      "gas:candidate-vibid:4384009321200": 19,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4625,14 +4625,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 141,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 19,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 56,
-      "Макаров Виктор Викторович": 21,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 222
+      "gas:candidate-vibid:4384009323792": 141,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 19,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 56,
+      "gas:candidate-vibid:4384009321200": 21,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4683,14 +4683,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 84,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 42,
-      "Макаров Виктор Викторович": 14,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 207
+      "gas:candidate-vibid:4384009323792": 84,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 42,
+      "gas:candidate-vibid:4384009321200": 14,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4741,14 +4741,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 32,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 51,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 134
+      "gas:candidate-vibid:4384009323792": 32,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 51,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4799,14 +4799,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 46,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 51,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 138
+      "gas:candidate-vibid:4384009323792": 46,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 51,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4857,14 +4857,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 93,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 13,
-      "Любенков Георгий Александрович": 55,
-      "Макаров Виктор Викторович": 18,
-      "Очкас Николай Николаевич": 23,
-      "Чернышев Андрей Владимирович": 165
+      "gas:candidate-vibid:4384009323792": 93,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 13,
+      "gas:candidate-vibid:4384009307511": 55,
+      "gas:candidate-vibid:4384009321200": 18,
+      "gas:candidate-vibid:4384009323701": 23,
+      "gas:candidate-vibid:4384009321010": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4915,14 +4915,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 87,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 49,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 131
+      "gas:candidate-vibid:4384009323792": 87,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 49,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -4973,14 +4973,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 103,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 18,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 63,
-      "Макаров Виктор Викторович": 19,
-      "Очкас Николай Николаевич": 11,
-      "Чернышев Андрей Владимирович": 184
+      "gas:candidate-vibid:4384009323792": 103,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 18,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 63,
+      "gas:candidate-vibid:4384009321200": 19,
+      "gas:candidate-vibid:4384009323701": 11,
+      "gas:candidate-vibid:4384009321010": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5031,14 +5031,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 116,
-      "Беликов Дмитрий Валерьевич": 12,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 65,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 212
+      "gas:candidate-vibid:4384009323792": 116,
+      "gas:candidate-vibid:4384009321226": 12,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 65,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5089,14 +5089,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 143,
-      "Беликов Дмитрий Валерьевич": 16,
-      "Катасонов Олег Вячеславович": 24,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 78,
-      "Макаров Виктор Викторович": 23,
-      "Очкас Николай Николаевич": 11,
-      "Чернышев Андрей Владимирович": 233
+      "gas:candidate-vibid:4384009323792": 143,
+      "gas:candidate-vibid:4384009321226": 16,
+      "gas:candidate-vibid:4384009320685": 24,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 78,
+      "gas:candidate-vibid:4384009321200": 23,
+      "gas:candidate-vibid:4384009323701": 11,
+      "gas:candidate-vibid:4384009321010": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5147,14 +5147,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 164,
-      "Беликов Дмитрий Валерьевич": 16,
-      "Катасонов Олег Вячеславович": 20,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 58,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 183
+      "gas:candidate-vibid:4384009323792": 164,
+      "gas:candidate-vibid:4384009321226": 16,
+      "gas:candidate-vibid:4384009320685": 20,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 58,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5205,14 +5205,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 145,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 60,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 225
+      "gas:candidate-vibid:4384009323792": 145,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 60,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5263,14 +5263,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 128,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 52,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 19,
-      "Чернышев Андрей Владимирович": 196
+      "gas:candidate-vibid:4384009323792": 128,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 52,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 19,
+      "gas:candidate-vibid:4384009321010": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5321,14 +5321,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 100,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 45,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 20,
-      "Чернышев Андрей Владимирович": 195
+      "gas:candidate-vibid:4384009323792": 100,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 45,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 20,
+      "gas:candidate-vibid:4384009321010": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5379,14 +5379,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 108,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 49,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 15,
-      "Чернышев Андрей Владимирович": 241
+      "gas:candidate-vibid:4384009323792": 108,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 49,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 15,
+      "gas:candidate-vibid:4384009321010": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5437,14 +5437,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 146,
-      "Беликов Дмитрий Валерьевич": 18,
-      "Катасонов Олег Вячеславович": 19,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 84,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 16,
-      "Чернышев Андрей Владимирович": 308
+      "gas:candidate-vibid:4384009323792": 146,
+      "gas:candidate-vibid:4384009321226": 18,
+      "gas:candidate-vibid:4384009320685": 19,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 84,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 16,
+      "gas:candidate-vibid:4384009321010": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5495,14 +5495,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 127,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 18,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 66,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 183
+      "gas:candidate-vibid:4384009323792": 127,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 18,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 66,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5553,14 +5553,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 145,
-      "Беликов Дмитрий Валерьевич": 16,
-      "Катасонов Олег Вячеславович": 29,
-      "Кучменко Денис Александрович": 12,
-      "Любенков Георгий Александрович": 84,
-      "Макаров Виктор Викторович": 30,
-      "Очкас Николай Николаевич": 18,
-      "Чернышев Андрей Владимирович": 299
+      "gas:candidate-vibid:4384009323792": 145,
+      "gas:candidate-vibid:4384009321226": 16,
+      "gas:candidate-vibid:4384009320685": 29,
+      "gas:candidate-vibid:4384009323610": 12,
+      "gas:candidate-vibid:4384009307511": 84,
+      "gas:candidate-vibid:4384009321200": 30,
+      "gas:candidate-vibid:4384009323701": 18,
+      "gas:candidate-vibid:4384009321010": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5611,14 +5611,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 99,
-      "Беликов Дмитрий Валерьевич": 17,
-      "Катасонов Олег Вячеславович": 14,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 57,
-      "Макаров Виктор Викторович": 14,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 236
+      "gas:candidate-vibid:4384009323792": 99,
+      "gas:candidate-vibid:4384009321226": 17,
+      "gas:candidate-vibid:4384009320685": 14,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 57,
+      "gas:candidate-vibid:4384009321200": 14,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5669,14 +5669,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 107,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 57,
-      "Макаров Виктор Викторович": 18,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 168
+      "gas:candidate-vibid:4384009323792": 107,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 57,
+      "gas:candidate-vibid:4384009321200": 18,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5727,14 +5727,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 131,
-      "Беликов Дмитрий Валерьевич": 14,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 14,
-      "Любенков Георгий Александрович": 67,
-      "Макаров Виктор Викторович": 17,
-      "Очкас Николай Николаевич": 20,
-      "Чернышев Андрей Владимирович": 204
+      "gas:candidate-vibid:4384009323792": 131,
+      "gas:candidate-vibid:4384009321226": 14,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 14,
+      "gas:candidate-vibid:4384009307511": 67,
+      "gas:candidate-vibid:4384009321200": 17,
+      "gas:candidate-vibid:4384009323701": 20,
+      "gas:candidate-vibid:4384009321010": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5785,14 +5785,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 124,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 9,
-      "Любенков Георгий Александрович": 91,
-      "Макаров Виктор Викторович": 22,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 163
+      "gas:candidate-vibid:4384009323792": 124,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 9,
+      "gas:candidate-vibid:4384009307511": 91,
+      "gas:candidate-vibid:4384009321200": 22,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5843,14 +5843,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 97,
-      "Беликов Дмитрий Валерьевич": 12,
-      "Катасонов Олег Вячеславович": 14,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 67,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 226
+      "gas:candidate-vibid:4384009323792": 97,
+      "gas:candidate-vibid:4384009321226": 12,
+      "gas:candidate-vibid:4384009320685": 14,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 67,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5901,14 +5901,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 125,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 20,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 62,
-      "Макаров Виктор Викторович": 23,
-      "Очкас Николай Николаевич": 17,
-      "Чернышев Андрей Владимирович": 191
+      "gas:candidate-vibid:4384009323792": 125,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 20,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 62,
+      "gas:candidate-vibid:4384009321200": 23,
+      "gas:candidate-vibid:4384009323701": 17,
+      "gas:candidate-vibid:4384009321010": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -5959,14 +5959,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 125,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 52,
-      "Макаров Виктор Викторович": 19,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 173
+      "gas:candidate-vibid:4384009323792": 125,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 52,
+      "gas:candidate-vibid:4384009321200": 19,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6017,14 +6017,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 117,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 13,
-      "Любенков Георгий Александрович": 75,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 156
+      "gas:candidate-vibid:4384009323792": 117,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 13,
+      "gas:candidate-vibid:4384009307511": 75,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6075,14 +6075,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 92,
-      "Беликов Дмитрий Валерьевич": 14,
-      "Катасонов Олег Вячеславович": 14,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 67,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 133
+      "gas:candidate-vibid:4384009323792": 92,
+      "gas:candidate-vibid:4384009321226": 14,
+      "gas:candidate-vibid:4384009320685": 14,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 67,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6133,14 +6133,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 84,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 70,
-      "Макаров Виктор Викторович": 22,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 146
+      "gas:candidate-vibid:4384009323792": 84,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 70,
+      "gas:candidate-vibid:4384009321200": 22,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6191,14 +6191,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 106,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 17,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 49,
-      "Макаров Виктор Викторович": 18,
-      "Очкас Николай Николаевич": 11,
-      "Чернышев Андрей Владимирович": 127
+      "gas:candidate-vibid:4384009323792": 106,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 17,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 49,
+      "gas:candidate-vibid:4384009321200": 18,
+      "gas:candidate-vibid:4384009323701": 11,
+      "gas:candidate-vibid:4384009321010": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6249,14 +6249,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 115,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 57,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 135
+      "gas:candidate-vibid:4384009323792": 115,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 57,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6307,14 +6307,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 142,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 47,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 167
+      "gas:candidate-vibid:4384009323792": 142,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 47,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6365,14 +6365,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 143,
-      "Беликов Дмитрий Валерьевич": 14,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 61,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 14,
-      "Чернышев Андрей Владимирович": 219
+      "gas:candidate-vibid:4384009323792": 143,
+      "gas:candidate-vibid:4384009321226": 14,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 61,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 14,
+      "gas:candidate-vibid:4384009321010": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6423,14 +6423,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 155,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 18,
-      "Любенков Георгий Александрович": 74,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 19,
-      "Чернышев Андрей Владимирович": 228
+      "gas:candidate-vibid:4384009323792": 155,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 18,
+      "gas:candidate-vibid:4384009307511": 74,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 19,
+      "gas:candidate-vibid:4384009321010": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306502&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306502&type=464",
@@ -6481,14 +6481,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 86,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 13,
-      "Любенков Георгий Александрович": 59,
-      "Макаров Виктор Викторович": 47,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 263
+      "gas:candidate-vibid:4384009323792": 86,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 13,
+      "gas:candidate-vibid:4384009307511": 59,
+      "gas:candidate-vibid:4384009321200": 47,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6539,14 +6539,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 87,
-      "Беликов Дмитрий Валерьевич": 16,
-      "Катасонов Олег Вячеславович": 26,
-      "Кучменко Денис Александрович": 13,
-      "Любенков Георгий Александрович": 55,
-      "Макаров Виктор Викторович": 40,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 325
+      "gas:candidate-vibid:4384009323792": 87,
+      "gas:candidate-vibid:4384009321226": 16,
+      "gas:candidate-vibid:4384009320685": 26,
+      "gas:candidate-vibid:4384009323610": 13,
+      "gas:candidate-vibid:4384009307511": 55,
+      "gas:candidate-vibid:4384009321200": 40,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6597,14 +6597,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 86,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 33,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 67,
-      "Макаров Виктор Викторович": 35,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 208
+      "gas:candidate-vibid:4384009323792": 86,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 33,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 67,
+      "gas:candidate-vibid:4384009321200": 35,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6655,14 +6655,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 57,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 32,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 142
+      "gas:candidate-vibid:4384009323792": 57,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 32,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6713,14 +6713,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 79,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 30,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 154
+      "gas:candidate-vibid:4384009323792": 79,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 30,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6771,14 +6771,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 58,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 47,
-      "Макаров Виктор Викторович": 23,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 163
+      "gas:candidate-vibid:4384009323792": 58,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 47,
+      "gas:candidate-vibid:4384009321200": 23,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6829,14 +6829,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 53,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 37,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 160
+      "gas:candidate-vibid:4384009323792": 53,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 37,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6887,14 +6887,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 58,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 39,
-      "Макаров Виктор Викторович": 14,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 174
+      "gas:candidate-vibid:4384009323792": 58,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 39,
+      "gas:candidate-vibid:4384009321200": 14,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -6945,14 +6945,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 28,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 12,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 130
+      "gas:candidate-vibid:4384009323792": 28,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 12,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7003,14 +7003,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 16,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 5,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 21
+      "gas:candidate-vibid:4384009323792": 16,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 5,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7061,14 +7061,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 48,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 21,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 124
+      "gas:candidate-vibid:4384009323792": 48,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 21,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7119,14 +7119,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 36,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 20,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 133
+      "gas:candidate-vibid:4384009323792": 36,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 20,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7177,14 +7177,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 20,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 122
+      "gas:candidate-vibid:4384009323792": 20,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7235,14 +7235,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 26,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 21,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 105
+      "gas:candidate-vibid:4384009323792": 26,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 21,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7293,14 +7293,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 66,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 45,
-      "Макаров Виктор Викторович": 27,
-      "Очкас Николай Николаевич": 15,
-      "Чернышев Андрей Владимирович": 129
+      "gas:candidate-vibid:4384009323792": 66,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 45,
+      "gas:candidate-vibid:4384009321200": 27,
+      "gas:candidate-vibid:4384009323701": 15,
+      "gas:candidate-vibid:4384009321010": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306503&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306503&type=464",
@@ -7351,14 +7351,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 2,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 1,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 8
+      "gas:candidate-vibid:4384009323792": 2,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 1,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7409,14 +7409,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 8,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 11,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 12
+      "gas:candidate-vibid:4384009323792": 8,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 11,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7467,14 +7467,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 3,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 6,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 15
+      "gas:candidate-vibid:4384009323792": 3,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 6,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7525,14 +7525,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 8,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 7
+      "gas:candidate-vibid:4384009323792": 8,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7583,14 +7583,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 8,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 9
+      "gas:candidate-vibid:4384009323792": 8,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7641,14 +7641,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 47,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 47,
-      "Макаров Виктор Викторович": 14,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 102
+      "gas:candidate-vibid:4384009323792": 47,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 47,
+      "gas:candidate-vibid:4384009321200": 14,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7699,14 +7699,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 81,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 40,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 174
+      "gas:candidate-vibid:4384009323792": 81,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 40,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7757,14 +7757,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 77,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 59,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 71
+      "gas:candidate-vibid:4384009323792": 77,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 59,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7815,14 +7815,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 46,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 23,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 52
+      "gas:candidate-vibid:4384009323792": 46,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 23,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7873,14 +7873,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 30,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 16,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 34
+      "gas:candidate-vibid:4384009323792": 30,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 16,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7931,14 +7931,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 55,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 39,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 76
+      "gas:candidate-vibid:4384009323792": 55,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 39,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -7989,14 +7989,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 61,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 54,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 64
+      "gas:candidate-vibid:4384009323792": 61,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 54,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8047,14 +8047,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 74,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 41,
-      "Макаров Виктор Викторович": 10,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 101
+      "gas:candidate-vibid:4384009323792": 74,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 41,
+      "gas:candidate-vibid:4384009321200": 10,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8105,14 +8105,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 47,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 39,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 73
+      "gas:candidate-vibid:4384009323792": 47,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 39,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8163,14 +8163,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 68,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 29,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 94
+      "gas:candidate-vibid:4384009323792": 68,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 29,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8221,14 +8221,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 114,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 20,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 61,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 176
+      "gas:candidate-vibid:4384009323792": 114,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 20,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 61,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8279,14 +8279,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 133,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 17,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 76,
-      "Макаров Виктор Викторович": 17,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 140
+      "gas:candidate-vibid:4384009323792": 133,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 17,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 76,
+      "gas:candidate-vibid:4384009321200": 17,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8337,14 +8337,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 45,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 43,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 108
+      "gas:candidate-vibid:4384009323792": 45,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 43,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8395,14 +8395,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 157,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 15,
-      "Любенков Георгий Александрович": 80,
-      "Макаров Виктор Викторович": 15,
-      "Очкас Николай Николаевич": 11,
-      "Чернышев Андрей Владимирович": 226
+      "gas:candidate-vibid:4384009323792": 157,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 15,
+      "gas:candidate-vibid:4384009307511": 80,
+      "gas:candidate-vibid:4384009321200": 15,
+      "gas:candidate-vibid:4384009323701": 11,
+      "gas:candidate-vibid:4384009321010": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8453,14 +8453,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 63,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 32,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 102
+      "gas:candidate-vibid:4384009323792": 63,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 32,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8511,14 +8511,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 129,
-      "Беликов Дмитрий Валерьевич": 16,
-      "Катасонов Олег Вячеславович": 22,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 65,
-      "Макаров Виктор Викторович": 14,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 137
+      "gas:candidate-vibid:4384009323792": 129,
+      "gas:candidate-vibid:4384009321226": 16,
+      "gas:candidate-vibid:4384009320685": 22,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 65,
+      "gas:candidate-vibid:4384009321200": 14,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8569,14 +8569,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 106,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 59,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 107
+      "gas:candidate-vibid:4384009323792": 106,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 59,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8627,14 +8627,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 74,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 35,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 109
+      "gas:candidate-vibid:4384009323792": 74,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 35,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8685,14 +8685,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 132,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 66,
-      "Макаров Виктор Викторович": 31,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 151
+      "gas:candidate-vibid:4384009323792": 132,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 66,
+      "gas:candidate-vibid:4384009321200": 31,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8743,14 +8743,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 79,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 17,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 53,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 115
+      "gas:candidate-vibid:4384009323792": 79,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 17,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 53,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8801,14 +8801,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 117,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 75,
-      "Макаров Виктор Викторович": 15,
-      "Очкас Николай Николаевич": 12,
-      "Чернышев Андрей Владимирович": 156
+      "gas:candidate-vibid:4384009323792": 117,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 75,
+      "gas:candidate-vibid:4384009321200": 15,
+      "gas:candidate-vibid:4384009323701": 12,
+      "gas:candidate-vibid:4384009321010": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8859,14 +8859,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 128,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 78,
-      "Макаров Виктор Викторович": 22,
-      "Очкас Николай Николаевич": 15,
-      "Чернышев Андрей Владимирович": 182
+      "gas:candidate-vibid:4384009323792": 128,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 78,
+      "gas:candidate-vibid:4384009321200": 22,
+      "gas:candidate-vibid:4384009323701": 15,
+      "gas:candidate-vibid:4384009321010": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8917,14 +8917,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 134,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 19,
-      "Кучменко Денис Александрович": 13,
-      "Любенков Георгий Александрович": 88,
-      "Макаров Виктор Викторович": 26,
-      "Очкас Николай Николаевич": 18,
-      "Чернышев Андрей Владимирович": 204
+      "gas:candidate-vibid:4384009323792": 134,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 19,
+      "gas:candidate-vibid:4384009323610": 13,
+      "gas:candidate-vibid:4384009307511": 88,
+      "gas:candidate-vibid:4384009321200": 26,
+      "gas:candidate-vibid:4384009323701": 18,
+      "gas:candidate-vibid:4384009321010": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -8975,14 +8975,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 44,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 14,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 55
+      "gas:candidate-vibid:4384009323792": 44,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 14,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9033,14 +9033,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 97,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 47,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 125
+      "gas:candidate-vibid:4384009323792": 97,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 47,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9091,14 +9091,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 112,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 12,
-      "Любенков Георгий Александрович": 52,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 103
+      "gas:candidate-vibid:4384009323792": 112,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 12,
+      "gas:candidate-vibid:4384009307511": 52,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9149,14 +9149,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 120,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 39,
-      "Макаров Виктор Викторович": 9,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 94
+      "gas:candidate-vibid:4384009323792": 120,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 39,
+      "gas:candidate-vibid:4384009321200": 9,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9207,14 +9207,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 104,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 43,
-      "Макаров Виктор Викторович": 15,
-      "Очкас Николай Николаевич": 10,
-      "Чернышев Андрей Владимирович": 123
+      "gas:candidate-vibid:4384009323792": 104,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 43,
+      "gas:candidate-vibid:4384009321200": 15,
+      "gas:candidate-vibid:4384009323701": 10,
+      "gas:candidate-vibid:4384009321010": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9265,14 +9265,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 91,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 9,
-      "Любенков Георгий Александрович": 81,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 146
+      "gas:candidate-vibid:4384009323792": 91,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 9,
+      "gas:candidate-vibid:4384009307511": 81,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9323,14 +9323,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 45,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 108
+      "gas:candidate-vibid:4384009323792": 45,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9381,14 +9381,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 19,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 45
+      "gas:candidate-vibid:4384009323792": 19,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9439,14 +9439,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 8,
-      "Беликов Дмитрий Валерьевич": 0,
-      "Катасонов Олег Вячеславович": 0,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 6,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 13
+      "gas:candidate-vibid:4384009323792": 8,
+      "gas:candidate-vibid:4384009321226": 0,
+      "gas:candidate-vibid:4384009320685": 0,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 6,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9497,14 +9497,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 65,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 26,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 95
+      "gas:candidate-vibid:4384009323792": 65,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 26,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9555,14 +9555,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 26,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 6,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 31
+      "gas:candidate-vibid:4384009323792": 26,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 6,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9613,14 +9613,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 57,
-      "Беликов Дмитрий Валерьевич": 14,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 41,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 123
+      "gas:candidate-vibid:4384009323792": 57,
+      "gas:candidate-vibid:4384009321226": 14,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 41,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9671,14 +9671,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 47,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 9,
-      "Любенков Георгий Александрович": 37,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 96
+      "gas:candidate-vibid:4384009323792": 47,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 9,
+      "gas:candidate-vibid:4384009307511": 37,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9729,14 +9729,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 17,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 3,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 11,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 19
+      "gas:candidate-vibid:4384009323792": 17,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 3,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 11,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306504&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306504&type=464",
@@ -9787,14 +9787,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 85,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 51,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 74
+      "gas:candidate-vibid:4384009323792": 85,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 51,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -9845,14 +9845,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 156,
-      "Беликов Дмитрий Валерьевич": 15,
-      "Катасонов Олег Вячеславович": 24,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 55,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 11,
-      "Чернышев Андрей Владимирович": 191
+      "gas:candidate-vibid:4384009323792": 156,
+      "gas:candidate-vibid:4384009321226": 15,
+      "gas:candidate-vibid:4384009320685": 24,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 55,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 11,
+      "gas:candidate-vibid:4384009321010": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -9903,14 +9903,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 138,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 25,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 102
+      "gas:candidate-vibid:4384009323792": 138,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 25,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -9961,14 +9961,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 124,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 34,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 94
+      "gas:candidate-vibid:4384009323792": 124,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 34,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10019,14 +10019,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 222,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 21,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 54,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 9,
-      "Чернышев Андрей Владимирович": 147
+      "gas:candidate-vibid:4384009323792": 222,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 21,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 54,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 9,
+      "gas:candidate-vibid:4384009321010": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10077,14 +10077,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 189,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 19,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 40,
-      "Макаров Виктор Викторович": 11,
-      "Очкас Николай Николаевич": 13,
-      "Чернышев Андрей Владимирович": 132
+      "gas:candidate-vibid:4384009323792": 189,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 19,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 40,
+      "gas:candidate-vibid:4384009321200": 11,
+      "gas:candidate-vibid:4384009323701": 13,
+      "gas:candidate-vibid:4384009321010": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10135,14 +10135,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 189,
-      "Беликов Дмитрий Валерьевич": 12,
-      "Катасонов Олег Вячеславович": 29,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 58,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 123
+      "gas:candidate-vibid:4384009323792": 189,
+      "gas:candidate-vibid:4384009321226": 12,
+      "gas:candidate-vibid:4384009320685": 29,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 58,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10193,14 +10193,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 160,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 58,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 102
+      "gas:candidate-vibid:4384009323792": 160,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 58,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10251,14 +10251,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 173,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 43,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 126
+      "gas:candidate-vibid:4384009323792": 173,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 43,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10309,14 +10309,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 129,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 30,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 87
+      "gas:candidate-vibid:4384009323792": 129,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 30,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10367,14 +10367,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 36,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 16,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 50
+      "gas:candidate-vibid:4384009323792": 36,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 16,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10425,14 +10425,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 120,
-      "Беликов Дмитрий Валерьевич": 6,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 39,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 5,
-      "Чернышев Андрей Владимирович": 144
+      "gas:candidate-vibid:4384009323792": 120,
+      "gas:candidate-vibid:4384009321226": 6,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 39,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 5,
+      "gas:candidate-vibid:4384009321010": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10483,14 +10483,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 140,
-      "Беликов Дмитрий Валерьевич": 14,
-      "Катасонов Олег Вячеславович": 11,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 47,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 187
+      "gas:candidate-vibid:4384009323792": 140,
+      "gas:candidate-vibid:4384009321226": 14,
+      "gas:candidate-vibid:4384009320685": 11,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 47,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10541,14 +10541,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 110,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 15,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 55,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 125
+      "gas:candidate-vibid:4384009323792": 110,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 15,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 55,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10599,14 +10599,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 98,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 14,
-      "Кучменко Денис Александрович": 9,
-      "Любенков Георгий Александрович": 30,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 96
+      "gas:candidate-vibid:4384009323792": 98,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 14,
+      "gas:candidate-vibid:4384009323610": 9,
+      "gas:candidate-vibid:4384009307511": 30,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10657,14 +10657,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 18,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 22
+      "gas:candidate-vibid:4384009323792": 18,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10715,14 +10715,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 105,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 4,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 45,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 8,
-      "Чернышев Андрей Владимирович": 88
+      "gas:candidate-vibid:4384009323792": 105,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 4,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 45,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 8,
+      "gas:candidate-vibid:4384009321010": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10773,14 +10773,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 76,
-      "Беликов Дмитрий Валерьевич": 7,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 39,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 64
+      "gas:candidate-vibid:4384009323792": 76,
+      "gas:candidate-vibid:4384009321226": 7,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 39,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10831,14 +10831,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 83,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 45,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 70
+      "gas:candidate-vibid:4384009323792": 83,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 45,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10889,14 +10889,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 133,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 17,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 55,
-      "Макаров Виктор Викторович": 12,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 110
+      "gas:candidate-vibid:4384009323792": 133,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 17,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 55,
+      "gas:candidate-vibid:4384009321200": 12,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -10947,14 +10947,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 23,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 1,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 14,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 41
+      "gas:candidate-vibid:4384009323792": 23,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 1,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 14,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11005,14 +11005,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 15,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 10,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 22
+      "gas:candidate-vibid:4384009323792": 15,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 10,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11063,14 +11063,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 107,
-      "Беликов Дмитрий Валерьевич": 14,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 10,
-      "Любенков Георгий Александрович": 46,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 140
+      "gas:candidate-vibid:4384009323792": 107,
+      "gas:candidate-vibid:4384009321226": 14,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 10,
+      "gas:candidate-vibid:4384009307511": 46,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11121,14 +11121,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 22,
-      "Беликов Дмитрий Валерьевич": 10,
-      "Катасонов Олег Вячеславович": 9,
-      "Кучменко Денис Александрович": 4,
-      "Любенков Георгий Александрович": 12,
-      "Макаров Виктор Викторович": 8,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 35
+      "gas:candidate-vibid:4384009323792": 22,
+      "gas:candidate-vibid:4384009321226": 10,
+      "gas:candidate-vibid:4384009320685": 9,
+      "gas:candidate-vibid:4384009323610": 4,
+      "gas:candidate-vibid:4384009307511": 12,
+      "gas:candidate-vibid:4384009321200": 8,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11179,14 +11179,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 35,
-      "Беликов Дмитрий Валерьевич": 11,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 5,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 28
+      "gas:candidate-vibid:4384009323792": 35,
+      "gas:candidate-vibid:4384009321226": 11,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 5,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11237,14 +11237,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 30,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 7,
-      "Любенков Георгий Александрович": 24,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 41
+      "gas:candidate-vibid:4384009323792": 30,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 7,
+      "gas:candidate-vibid:4384009307511": 24,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11295,14 +11295,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 61,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 27,
-      "Макаров Виктор Викторович": 1,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 45
+      "gas:candidate-vibid:4384009323792": 61,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 27,
+      "gas:candidate-vibid:4384009321200": 1,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11353,14 +11353,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 51,
-      "Беликов Дмитрий Валерьевич": 3,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 37,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 62
+      "gas:candidate-vibid:4384009323792": 51,
+      "gas:candidate-vibid:4384009321226": 3,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 37,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11411,14 +11411,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 59,
-      "Беликов Дмитрий Валерьевич": 8,
-      "Катасонов Олег Вячеславович": 8,
-      "Кучменко Денис Александрович": 6,
-      "Любенков Георгий Александрович": 17,
-      "Макаров Виктор Викторович": 7,
-      "Очкас Николай Николаевич": 4,
-      "Чернышев Андрей Владимирович": 101
+      "gas:candidate-vibid:4384009323792": 59,
+      "gas:candidate-vibid:4384009321226": 8,
+      "gas:candidate-vibid:4384009320685": 8,
+      "gas:candidate-vibid:4384009323610": 6,
+      "gas:candidate-vibid:4384009307511": 17,
+      "gas:candidate-vibid:4384009321200": 7,
+      "gas:candidate-vibid:4384009323701": 4,
+      "gas:candidate-vibid:4384009321010": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11469,14 +11469,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 60,
-      "Беликов Дмитрий Валерьевич": 12,
-      "Катасонов Олег Вячеславович": 7,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 33,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 7,
-      "Чернышев Андрей Владимирович": 113
+      "gas:candidate-vibid:4384009323792": 60,
+      "gas:candidate-vibid:4384009321226": 12,
+      "gas:candidate-vibid:4384009320685": 7,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 33,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 7,
+      "gas:candidate-vibid:4384009321010": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11527,14 +11527,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 31,
-      "Беликов Дмитрий Валерьевич": 4,
-      "Катасонов Олег Вячеславович": 12,
-      "Кучменко Денис Александрович": 3,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 4,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 58
+      "gas:candidate-vibid:4384009323792": 31,
+      "gas:candidate-vibid:4384009321226": 4,
+      "gas:candidate-vibid:4384009320685": 12,
+      "gas:candidate-vibid:4384009323610": 3,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 4,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11585,14 +11585,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 188,
-      "Беликов Дмитрий Валерьевич": 13,
-      "Катасонов Олег Вячеславович": 16,
-      "Кучменко Денис Александрович": 11,
-      "Любенков Георгий Александрович": 64,
-      "Макаров Виктор Викторович": 13,
-      "Очкас Николай Николаевич": 6,
-      "Чернышев Андрей Владимирович": 124
+      "gas:candidate-vibid:4384009323792": 188,
+      "gas:candidate-vibid:4384009321226": 13,
+      "gas:candidate-vibid:4384009320685": 16,
+      "gas:candidate-vibid:4384009323610": 11,
+      "gas:candidate-vibid:4384009307511": 64,
+      "gas:candidate-vibid:4384009321200": 13,
+      "gas:candidate-vibid:4384009323701": 6,
+      "gas:candidate-vibid:4384009321010": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11643,14 +11643,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 19,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 6,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 3,
-      "Макаров Виктор Викторович": 3,
-      "Очкас Николай Николаевич": 0,
-      "Чернышев Андрей Владимирович": 39
+      "gas:candidate-vibid:4384009323792": 19,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 6,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 3,
+      "gas:candidate-vibid:4384009321200": 3,
+      "gas:candidate-vibid:4384009323701": 0,
+      "gas:candidate-vibid:4384009321010": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11701,14 +11701,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 54,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 10,
-      "Кучменко Денис Александрович": 5,
-      "Любенков Георгий Александрович": 21,
-      "Макаров Виктор Викторович": 5,
-      "Очкас Николай Николаевич": 3,
-      "Чернышев Андрей Владимирович": 62
+      "gas:candidate-vibid:4384009323792": 54,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 10,
+      "gas:candidate-vibid:4384009323610": 5,
+      "gas:candidate-vibid:4384009307511": 21,
+      "gas:candidate-vibid:4384009321200": 5,
+      "gas:candidate-vibid:4384009323701": 3,
+      "gas:candidate-vibid:4384009321010": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11759,14 +11759,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 51,
-      "Беликов Дмитрий Валерьевич": 9,
-      "Катасонов Олег Вячеславович": 14,
-      "Кучменко Денис Александрович": 8,
-      "Любенков Георгий Александрович": 15,
-      "Макаров Виктор Викторович": 6,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 49
+      "gas:candidate-vibid:4384009323792": 51,
+      "gas:candidate-vibid:4384009321226": 9,
+      "gas:candidate-vibid:4384009320685": 14,
+      "gas:candidate-vibid:4384009323610": 8,
+      "gas:candidate-vibid:4384009307511": 15,
+      "gas:candidate-vibid:4384009321200": 6,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11817,14 +11817,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 10,
-      "Беликов Дмитрий Валерьевич": 1,
-      "Катасонов Олег Вячеславович": 5,
-      "Кучменко Денис Александрович": 1,
-      "Любенков Георгий Александрович": 1,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 23
+      "gas:candidate-vibid:4384009323792": 10,
+      "gas:candidate-vibid:4384009321226": 1,
+      "gas:candidate-vibid:4384009320685": 5,
+      "gas:candidate-vibid:4384009323610": 1,
+      "gas:candidate-vibid:4384009307511": 1,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11875,14 +11875,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 12,
-      "Беликов Дмитрий Валерьевич": 2,
-      "Катасонов Олег Вячеславович": 2,
-      "Кучменко Денис Александрович": 2,
-      "Любенков Георгий Александрович": 4,
-      "Макаров Виктор Викторович": 0,
-      "Очкас Николай Николаевич": 2,
-      "Чернышев Андрей Владимирович": 29
+      "gas:candidate-vibid:4384009323792": 12,
+      "gas:candidate-vibid:4384009321226": 2,
+      "gas:candidate-vibid:4384009320685": 2,
+      "gas:candidate-vibid:4384009323610": 2,
+      "gas:candidate-vibid:4384009307511": 4,
+      "gas:candidate-vibid:4384009321200": 0,
+      "gas:candidate-vibid:4384009323701": 2,
+      "gas:candidate-vibid:4384009321010": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",
@@ -11933,14 +11933,14 @@ export const duma_2016_uik_463_region_38_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андреев Андрей Анатольевич": 28,
-      "Беликов Дмитрий Валерьевич": 5,
-      "Катасонов Олег Вячеславович": 13,
-      "Кучменко Денис Александрович": 0,
-      "Любенков Георгий Александрович": 8,
-      "Макаров Виктор Викторович": 2,
-      "Очкас Николай Николаевич": 1,
-      "Чернышев Андрей Владимирович": 45
+      "gas:candidate-vibid:4384009323792": 28,
+      "gas:candidate-vibid:4384009321226": 5,
+      "gas:candidate-vibid:4384009320685": 13,
+      "gas:candidate-vibid:4384009323610": 0,
+      "gas:candidate-vibid:4384009307511": 8,
+      "gas:candidate-vibid:4384009321200": 2,
+      "gas:candidate-vibid:4384009323701": 1,
+      "gas:candidate-vibid:4384009321010": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000124&tvd=4384009306505&vrn=100100067795849&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=4384009306505&type=464",

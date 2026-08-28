@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 15,
-      "Карабаев Виктор Николаевич": 63,
-      "Кочкин Олег Валерьевич": 83,
-      "Лазуткин Виктор Александрович": 294,
-      "Мейер Максим Михайлович": 28,
-      "Рябов Игорь Олегович": 95,
-      "Против всех": 67
+      "gas:candidate-vibid:358300270542": 15,
+      "gas:candidate-vibid:1001000121890": 63,
+      "gas:candidate-vibid:1001000112241": 83,
+      "gas:candidate-vibid:358300270497": 294,
+      "gas:candidate-vibid:358300270500": 28,
+      "gas:candidate-vibid:1001000118560": 95,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 84,
-      "Кочкин Олег Валерьевич": 51,
-      "Лазуткин Виктор Александрович": 175,
-      "Мейер Максим Михайлович": 23,
-      "Рябов Игорь Олегович": 174,
-      "Против всех": 81
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 84,
+      "gas:candidate-vibid:1001000112241": 51,
+      "gas:candidate-vibid:358300270497": 175,
+      "gas:candidate-vibid:358300270500": 23,
+      "gas:candidate-vibid:1001000118560": 174,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 69,
-      "Кочкин Олег Валерьевич": 60,
-      "Лазуткин Виктор Александрович": 226,
-      "Мейер Максим Михайлович": 39,
-      "Рябов Игорь Олегович": 153,
-      "Против всех": 104
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 69,
+      "gas:candidate-vibid:1001000112241": 60,
+      "gas:candidate-vibid:358300270497": 226,
+      "gas:candidate-vibid:358300270500": 39,
+      "gas:candidate-vibid:1001000118560": 153,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 92,
-      "Кочкин Олег Валерьевич": 53,
-      "Лазуткин Виктор Александрович": 217,
-      "Мейер Максим Михайлович": 30,
-      "Рябов Игорь Олегович": 172,
-      "Против всех": 91
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 92,
+      "gas:candidate-vibid:1001000112241": 53,
+      "gas:candidate-vibid:358300270497": 217,
+      "gas:candidate-vibid:358300270500": 30,
+      "gas:candidate-vibid:1001000118560": 172,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 52,
-      "Кочкин Олег Валерьевич": 154,
-      "Лазуткин Виктор Александрович": 264,
-      "Мейер Максим Михайлович": 38,
-      "Рябов Игорь Олегович": 108,
-      "Против всех": 135
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 52,
+      "gas:candidate-vibid:1001000112241": 154,
+      "gas:candidate-vibid:358300270497": 264,
+      "gas:candidate-vibid:358300270500": 38,
+      "gas:candidate-vibid:1001000118560": 108,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 72,
-      "Кочкин Олег Валерьевич": 48,
-      "Лазуткин Виктор Александрович": 264,
-      "Мейер Максим Михайлович": 39,
-      "Рябов Игорь Олегович": 64,
-      "Против всех": 66
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 72,
+      "gas:candidate-vibid:1001000112241": 48,
+      "gas:candidate-vibid:358300270497": 264,
+      "gas:candidate-vibid:358300270500": 39,
+      "gas:candidate-vibid:1001000118560": 64,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 64,
-      "Кочкин Олег Валерьевич": 46,
-      "Лазуткин Виктор Александрович": 257,
-      "Мейер Максим Михайлович": 34,
-      "Рябов Игорь Олегович": 124,
-      "Против всех": 75
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 64,
+      "gas:candidate-vibid:1001000112241": 46,
+      "gas:candidate-vibid:358300270497": 257,
+      "gas:candidate-vibid:358300270500": 34,
+      "gas:candidate-vibid:1001000118560": 124,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 88,
-      "Кочкин Олег Валерьевич": 87,
-      "Лазуткин Виктор Александрович": 271,
-      "Мейер Максим Михайлович": 34,
-      "Рябов Игорь Олегович": 121,
-      "Против всех": 92
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 88,
+      "gas:candidate-vibid:1001000112241": 87,
+      "gas:candidate-vibid:358300270497": 271,
+      "gas:candidate-vibid:358300270500": 34,
+      "gas:candidate-vibid:1001000118560": 121,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 82,
-      "Кочкин Олег Валерьевич": 115,
-      "Лазуткин Виктор Александрович": 214,
-      "Мейер Максим Михайлович": 38,
-      "Рябов Игорь Олегович": 91,
-      "Против всех": 70
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 82,
+      "gas:candidate-vibid:1001000112241": 115,
+      "gas:candidate-vibid:358300270497": 214,
+      "gas:candidate-vibid:358300270500": 38,
+      "gas:candidate-vibid:1001000118560": 91,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 71,
-      "Кочкин Олег Валерьевич": 101,
-      "Лазуткин Виктор Александрович": 257,
-      "Мейер Максим Михайлович": 24,
-      "Рябов Игорь Олегович": 87,
-      "Против всех": 53
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 71,
+      "gas:candidate-vibid:1001000112241": 101,
+      "gas:candidate-vibid:358300270497": 257,
+      "gas:candidate-vibid:358300270500": 24,
+      "gas:candidate-vibid:1001000118560": 87,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 67,
-      "Кочкин Олег Валерьевич": 74,
-      "Лазуткин Виктор Александрович": 220,
-      "Мейер Максим Михайлович": 29,
-      "Рябов Игорь Олегович": 158,
-      "Против всех": 84
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 67,
+      "gas:candidate-vibid:1001000112241": 74,
+      "gas:candidate-vibid:358300270497": 220,
+      "gas:candidate-vibid:358300270500": 29,
+      "gas:candidate-vibid:1001000118560": 158,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 122,
-      "Кочкин Олег Валерьевич": 71,
-      "Лазуткин Виктор Александрович": 316,
-      "Мейер Максим Михайлович": 43,
-      "Рябов Игорь Олегович": 133,
-      "Против всех": 92
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 122,
+      "gas:candidate-vibid:1001000112241": 71,
+      "gas:candidate-vibid:358300270497": 316,
+      "gas:candidate-vibid:358300270500": 43,
+      "gas:candidate-vibid:1001000118560": 133,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 178,
-      "Кочкин Олег Валерьевич": 59,
-      "Лазуткин Виктор Александрович": 331,
-      "Мейер Максим Михайлович": 24,
-      "Рябов Игорь Олегович": 201,
-      "Против всех": 78
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 178,
+      "gas:candidate-vibid:1001000112241": 59,
+      "gas:candidate-vibid:358300270497": 331,
+      "gas:candidate-vibid:358300270500": 24,
+      "gas:candidate-vibid:1001000118560": 201,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 104,
-      "Кочкин Олег Валерьевич": 54,
-      "Лазуткин Виктор Александрович": 219,
-      "Мейер Максим Михайлович": 36,
-      "Рябов Игорь Олегович": 142,
-      "Против всех": 106
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 104,
+      "gas:candidate-vibid:1001000112241": 54,
+      "gas:candidate-vibid:358300270497": 219,
+      "gas:candidate-vibid:358300270500": 36,
+      "gas:candidate-vibid:1001000118560": 142,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 119,
-      "Кочкин Олег Валерьевич": 69,
-      "Лазуткин Виктор Александрович": 265,
-      "Мейер Максим Михайлович": 34,
-      "Рябов Игорь Олегович": 129,
-      "Против всех": 78
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 119,
+      "gas:candidate-vibid:1001000112241": 69,
+      "gas:candidate-vibid:358300270497": 265,
+      "gas:candidate-vibid:358300270500": 34,
+      "gas:candidate-vibid:1001000118560": 129,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 6,
-      "Карабаев Виктор Николаевич": 74,
-      "Кочкин Олег Валерьевич": 32,
-      "Лазуткин Виктор Александрович": 204,
-      "Мейер Максим Михайлович": 51,
-      "Рябов Игорь Олегович": 55,
-      "Против всех": 74
+      "gas:candidate-vibid:358300270542": 6,
+      "gas:candidate-vibid:1001000121890": 74,
+      "gas:candidate-vibid:1001000112241": 32,
+      "gas:candidate-vibid:358300270497": 204,
+      "gas:candidate-vibid:358300270500": 51,
+      "gas:candidate-vibid:1001000118560": 55,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 11,
-      "Карабаев Виктор Николаевич": 27,
-      "Кочкин Олег Валерьевич": 16,
-      "Лазуткин Виктор Александрович": 102,
-      "Мейер Максим Михайлович": 10,
-      "Рябов Игорь Олегович": 10,
-      "Против всех": 25
+      "gas:candidate-vibid:358300270542": 11,
+      "gas:candidate-vibid:1001000121890": 27,
+      "gas:candidate-vibid:1001000112241": 16,
+      "gas:candidate-vibid:358300270497": 102,
+      "gas:candidate-vibid:358300270500": 10,
+      "gas:candidate-vibid:1001000118560": 10,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 38,
-      "Кочкин Олег Валерьевич": 53,
-      "Лазуткин Виктор Александрович": 237,
-      "Мейер Максим Михайлович": 79,
-      "Рябов Игорь Олегович": 48,
-      "Против всех": 72
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 38,
+      "gas:candidate-vibid:1001000112241": 53,
+      "gas:candidate-vibid:358300270497": 237,
+      "gas:candidate-vibid:358300270500": 79,
+      "gas:candidate-vibid:1001000118560": 48,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 14,
-      "Карабаев Виктор Николаевич": 65,
-      "Кочкин Олег Валерьевич": 114,
-      "Лазуткин Виктор Александрович": 255,
-      "Мейер Максим Михайлович": 52,
-      "Рябов Игорь Олегович": 88,
-      "Против всех": 122
+      "gas:candidate-vibid:358300270542": 14,
+      "gas:candidate-vibid:1001000121890": 65,
+      "gas:candidate-vibid:1001000112241": 114,
+      "gas:candidate-vibid:358300270497": 255,
+      "gas:candidate-vibid:358300270500": 52,
+      "gas:candidate-vibid:1001000118560": 88,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 16,
-      "Карабаев Виктор Николаевич": 90,
-      "Кочкин Олег Валерьевич": 140,
-      "Лазуткин Виктор Александрович": 272,
-      "Мейер Максим Михайлович": 52,
-      "Рябов Игорь Олегович": 113,
-      "Против всех": 106
+      "gas:candidate-vibid:358300270542": 16,
+      "gas:candidate-vibid:1001000121890": 90,
+      "gas:candidate-vibid:1001000112241": 140,
+      "gas:candidate-vibid:358300270497": 272,
+      "gas:candidate-vibid:358300270500": 52,
+      "gas:candidate-vibid:1001000118560": 113,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 11,
-      "Карабаев Виктор Николаевич": 93,
-      "Кочкин Олег Валерьевич": 148,
-      "Лазуткин Виктор Александрович": 394,
-      "Мейер Максим Михайлович": 46,
-      "Рябов Игорь Олегович": 99,
-      "Против всех": 89
+      "gas:candidate-vibid:358300270542": 11,
+      "gas:candidate-vibid:1001000121890": 93,
+      "gas:candidate-vibid:1001000112241": 148,
+      "gas:candidate-vibid:358300270497": 394,
+      "gas:candidate-vibid:358300270500": 46,
+      "gas:candidate-vibid:1001000118560": 99,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 73,
-      "Кочкин Олег Валерьевич": 75,
-      "Лазуткин Виктор Александрович": 340,
-      "Мейер Максим Михайлович": 20,
-      "Рябов Игорь Олегович": 133,
-      "Против всех": 102
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 73,
+      "gas:candidate-vibid:1001000112241": 75,
+      "gas:candidate-vibid:358300270497": 340,
+      "gas:candidate-vibid:358300270500": 20,
+      "gas:candidate-vibid:1001000118560": 133,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 6,
-      "Карабаев Виктор Николаевич": 45,
-      "Кочкин Олег Валерьевич": 120,
-      "Лазуткин Виктор Александрович": 232,
-      "Мейер Максим Михайлович": 74,
-      "Рябов Игорь Олегович": 58,
-      "Против всех": 90
+      "gas:candidate-vibid:358300270542": 6,
+      "gas:candidate-vibid:1001000121890": 45,
+      "gas:candidate-vibid:1001000112241": 120,
+      "gas:candidate-vibid:358300270497": 232,
+      "gas:candidate-vibid:358300270500": 74,
+      "gas:candidate-vibid:1001000118560": 58,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 50,
-      "Кочкин Олег Валерьевич": 68,
-      "Лазуткин Виктор Александрович": 253,
-      "Мейер Максим Михайлович": 68,
-      "Рябов Игорь Олегович": 40,
-      "Против всех": 60
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 50,
+      "gas:candidate-vibid:1001000112241": 68,
+      "gas:candidate-vibid:358300270497": 253,
+      "gas:candidate-vibid:358300270500": 68,
+      "gas:candidate-vibid:1001000118560": 40,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070660&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 73,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 73,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 9,
-      "Кочкин Олег Валерьевич": 7,
-      "Лазуткин Виктор Александрович": 57,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 9,
+      "gas:candidate-vibid:1001000112241": 7,
+      "gas:candidate-vibid:358300270497": 57,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 65,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 65,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 12,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 317,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 12,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 317,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 59,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 59,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 9,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 212,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 9,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 212,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 85,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 85,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 6,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 12,
-      "Лазуткин Виктор Александрович": 201,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 6,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 12,
+      "gas:candidate-vibid:358300270497": 201,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 6,
-      "Карабаев Виктор Николаевич": 22,
-      "Кочкин Олег Валерьевич": 29,
-      "Лазуткин Виктор Александрович": 253,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:358300270542": 6,
+      "gas:candidate-vibid:1001000121890": 22,
+      "gas:candidate-vibid:1001000112241": 29,
+      "gas:candidate-vibid:358300270497": 253,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 312,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 312,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 68,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 86,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 68,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 86,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 30,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 265,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 30,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 265,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 14,
-      "Лазуткин Виктор Александрович": 130,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 14,
+      "gas:candidate-vibid:358300270497": 130,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 67,
-      "Кочкин Олег Валерьевич": 18,
-      "Лазуткин Виктор Александрович": 389,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 67,
+      "gas:candidate-vibid:1001000112241": 18,
+      "gas:candidate-vibid:358300270497": 389,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 11,
-      "Лазуткин Виктор Александрович": 247,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 11,
+      "gas:candidate-vibid:358300270497": 247,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 26,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 340,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 26,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 340,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 14,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 120,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 14,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 120,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 13,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 119,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 13,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 119,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 51,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 51,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 154,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 154,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 233,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 233,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 24,
-      "Кочкин Олег Валерьевич": 65,
-      "Лазуткин Виктор Александрович": 311,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 16
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 24,
+      "gas:candidate-vibid:1001000112241": 65,
+      "gas:candidate-vibid:358300270497": 311,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 17,
-      "Карабаев Виктор Николаевич": 49,
-      "Кочкин Олег Валерьевич": 13,
-      "Лазуткин Виктор Александрович": 454,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 15,
-      "Против всех": 28
+      "gas:candidate-vibid:358300270542": 17,
+      "gas:candidate-vibid:1001000121890": 49,
+      "gas:candidate-vibid:1001000112241": 13,
+      "gas:candidate-vibid:358300270497": 454,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 15,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 22,
-      "Кочкин Олег Валерьевич": 20,
-      "Лазуткин Виктор Александрович": 449,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 22,
+      "gas:candidate-vibid:1001000112241": 20,
+      "gas:candidate-vibid:358300270497": 449,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 110,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 110,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 319,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 319,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 31,
-      "Кочкин Олег Валерьевич": 12,
-      "Лазуткин Виктор Александрович": 234,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 31,
+      "gas:candidate-vibid:1001000112241": 12,
+      "gas:candidate-vibid:358300270497": 234,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 175,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 175,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 201,
-      "Карабаев Виктор Николаевич": 12,
-      "Кочкин Олег Валерьевич": 11,
-      "Лазуткин Виктор Александрович": 507,
-      "Мейер Максим Михайлович": 7,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 201,
+      "gas:candidate-vibid:1001000121890": 12,
+      "gas:candidate-vibid:1001000112241": 11,
+      "gas:candidate-vibid:358300270497": 507,
+      "gas:candidate-vibid:358300270500": 7,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 94,
-      "Кочкин Олег Валерьевич": 145,
-      "Лазуткин Виктор Александрович": 576,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 51,
-      "Против всех": 56
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 94,
+      "gas:candidate-vibid:1001000112241": 145,
+      "gas:candidate-vibid:358300270497": 576,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 51,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 105,
-      "Кочкин Олег Валерьевич": 148,
-      "Лазуткин Виктор Александрович": 694,
-      "Мейер Максим Михайлович": 19,
-      "Рябов Игорь Олегович": 70,
-      "Против всех": 85
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 105,
+      "gas:candidate-vibid:1001000112241": 148,
+      "gas:candidate-vibid:358300270497": 694,
+      "gas:candidate-vibid:358300270500": 19,
+      "gas:candidate-vibid:1001000118560": 70,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 10,
-      "Карабаев Виктор Николаевич": 54,
-      "Кочкин Олег Валерьевич": 94,
-      "Лазуткин Виктор Александрович": 439,
-      "Мейер Максим Михайлович": 12,
-      "Рябов Игорь Олегович": 42,
-      "Против всех": 47
+      "gas:candidate-vibid:358300270542": 10,
+      "gas:candidate-vibid:1001000121890": 54,
+      "gas:candidate-vibid:1001000112241": 94,
+      "gas:candidate-vibid:358300270497": 439,
+      "gas:candidate-vibid:358300270500": 12,
+      "gas:candidate-vibid:1001000118560": 42,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070661&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 35,
-      "Карабаев Виктор Николаевич": 11,
-      "Кочкин Олег Валерьевич": 167,
-      "Лазуткин Виктор Александрович": 581,
-      "Мейер Максим Михайлович": 23,
-      "Рябов Игорь Олегович": 22,
-      "Против всех": 45
+      "gas:candidate-vibid:358300270542": 35,
+      "gas:candidate-vibid:1001000121890": 11,
+      "gas:candidate-vibid:1001000112241": 167,
+      "gas:candidate-vibid:358300270497": 581,
+      "gas:candidate-vibid:358300270500": 23,
+      "gas:candidate-vibid:1001000118560": 22,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 21,
-      "Лазуткин Виктор Александрович": 110,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 21,
+      "gas:candidate-vibid:358300270497": 110,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 32,
-      "Лазуткин Виктор Александрович": 93,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 21,
-      "Против всех": 16
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 32,
+      "gas:candidate-vibid:358300270497": 93,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 21,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 97,
-      "Карабаев Виктор Николаевич": 12,
-      "Кочкин Олег Валерьевич": 77,
-      "Лазуткин Виктор Александрович": 432,
-      "Мейер Максим Михайлович": 186,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:358300270542": 97,
+      "gas:candidate-vibid:1001000121890": 12,
+      "gas:candidate-vibid:1001000112241": 77,
+      "gas:candidate-vibid:358300270497": 432,
+      "gas:candidate-vibid:358300270500": 186,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 86,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 43,
-      "Лазуткин Виктор Александрович": 372,
-      "Мейер Максим Михайлович": 118,
-      "Рябов Игорь Олегович": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:358300270542": 86,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 43,
+      "gas:candidate-vibid:358300270497": 372,
+      "gas:candidate-vibid:358300270500": 118,
+      "gas:candidate-vibid:1001000118560": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 97,
-      "Карабаев Виктор Николаевич": 40,
-      "Кочкин Олег Валерьевич": 40,
-      "Лазуткин Виктор Александрович": 674,
-      "Мейер Максим Михайлович": 209,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:358300270542": 97,
+      "gas:candidate-vibid:1001000121890": 40,
+      "gas:candidate-vibid:1001000112241": 40,
+      "gas:candidate-vibid:358300270497": 674,
+      "gas:candidate-vibid:358300270500": 209,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 49,
-      "Карабаев Виктор Николаевич": 29,
-      "Кочкин Олег Валерьевич": 237,
-      "Лазуткин Виктор Александрович": 548,
-      "Мейер Максим Михайлович": 11,
-      "Рябов Игорь Олегович": 29,
-      "Против всех": 50
+      "gas:candidate-vibid:358300270542": 49,
+      "gas:candidate-vibid:1001000121890": 29,
+      "gas:candidate-vibid:1001000112241": 237,
+      "gas:candidate-vibid:358300270497": 548,
+      "gas:candidate-vibid:358300270500": 11,
+      "gas:candidate-vibid:1001000118560": 29,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 14,
-      "Карабаев Виктор Николаевич": 40,
-      "Кочкин Олег Валерьевич": 229,
-      "Лазуткин Виктор Александрович": 443,
-      "Мейер Максим Михайлович": 45,
-      "Рябов Игорь Олегович": 31,
-      "Против всех": 60
+      "gas:candidate-vibid:358300270542": 14,
+      "gas:candidate-vibid:1001000121890": 40,
+      "gas:candidate-vibid:1001000112241": 229,
+      "gas:candidate-vibid:358300270497": 443,
+      "gas:candidate-vibid:358300270500": 45,
+      "gas:candidate-vibid:1001000118560": 31,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 39,
-      "Карабаев Виктор Николаевич": 20,
-      "Кочкин Олег Валерьевич": 203,
-      "Лазуткин Виктор Александрович": 306,
-      "Мейер Максим Михайлович": 93,
-      "Рябов Игорь Олегович": 38,
-      "Против всех": 48
+      "gas:candidate-vibid:358300270542": 39,
+      "gas:candidate-vibid:1001000121890": 20,
+      "gas:candidate-vibid:1001000112241": 203,
+      "gas:candidate-vibid:358300270497": 306,
+      "gas:candidate-vibid:358300270500": 93,
+      "gas:candidate-vibid:1001000118560": 38,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 17,
-      "Карабаев Виктор Николаевич": 31,
-      "Кочкин Олег Валерьевич": 132,
-      "Лазуткин Виктор Александрович": 311,
-      "Мейер Максим Михайлович": 22,
-      "Рябов Игорь Олегович": 20,
-      "Против всех": 32
+      "gas:candidate-vibid:358300270542": 17,
+      "gas:candidate-vibid:1001000121890": 31,
+      "gas:candidate-vibid:1001000112241": 132,
+      "gas:candidate-vibid:358300270497": 311,
+      "gas:candidate-vibid:358300270500": 22,
+      "gas:candidate-vibid:1001000118560": 20,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 6,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 18,
-      "Лазуткин Виктор Александрович": 108,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 6,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 18,
+      "gas:candidate-vibid:358300270497": 108,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 8,
-      "Кочкин Олег Валерьевич": 86,
-      "Лазуткин Виктор Александрович": 274,
-      "Мейер Максим Михайлович": 14,
-      "Рябов Игорь Олегович": 9,
-      "Против всех": 31
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 8,
+      "gas:candidate-vibid:1001000112241": 86,
+      "gas:candidate-vibid:358300270497": 274,
+      "gas:candidate-vibid:358300270500": 14,
+      "gas:candidate-vibid:1001000118560": 9,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 10,
-      "Кочкин Олег Валерьевич": 13,
-      "Лазуткин Виктор Александрович": 75,
-      "Мейер Максим Михайлович": 25,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 10,
+      "gas:candidate-vibid:1001000112241": 13,
+      "gas:candidate-vibid:358300270497": 75,
+      "gas:candidate-vibid:358300270500": 25,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 74,
-      "Карабаев Виктор Николаевич": 40,
-      "Кочкин Олег Валерьевич": 135,
-      "Лазуткин Виктор Александрович": 408,
-      "Мейер Максим Михайлович": 54,
-      "Рябов Игорь Олегович": 36,
-      "Против всех": 80
+      "gas:candidate-vibid:358300270542": 74,
+      "gas:candidate-vibid:1001000121890": 40,
+      "gas:candidate-vibid:1001000112241": 135,
+      "gas:candidate-vibid:358300270497": 408,
+      "gas:candidate-vibid:358300270500": 54,
+      "gas:candidate-vibid:1001000118560": 36,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 19,
-      "Кочкин Олег Валерьевич": 74,
-      "Лазуткин Виктор Александрович": 169,
-      "Мейер Максим Михайлович": 8,
-      "Рябов Игорь Олегович": 13,
-      "Против всех": 33
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 19,
+      "gas:candidate-vibid:1001000112241": 74,
+      "gas:candidate-vibid:358300270497": 169,
+      "gas:candidate-vibid:358300270500": 8,
+      "gas:candidate-vibid:1001000118560": 13,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 45,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 188,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 45,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 188,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 80,
-      "Кочкин Олег Валерьевич": 191,
-      "Лазуткин Виктор Александрович": 379,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 20,
-      "Против всех": 51
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 80,
+      "gas:candidate-vibid:1001000112241": 191,
+      "gas:candidate-vibid:358300270497": 379,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 20,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 29,
-      "Лазуткин Виктор Александрович": 131,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 29,
+      "gas:candidate-vibid:358300270497": 131,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 23,
-      "Кочкин Олег Валерьевич": 163,
-      "Лазуткин Виктор Александрович": 328,
-      "Мейер Максим Михайлович": 15,
-      "Рябов Игорь Олегович": 39,
-      "Против всех": 68
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 23,
+      "gas:candidate-vibid:1001000112241": 163,
+      "gas:candidate-vibid:358300270497": 328,
+      "gas:candidate-vibid:358300270500": 15,
+      "gas:candidate-vibid:1001000118560": 39,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 27,
-      "Кочкин Олег Валерьевич": 150,
-      "Лазуткин Виктор Александрович": 363,
-      "Мейер Максим Михайлович": 33,
-      "Рябов Игорь Олегович": 58,
-      "Против всех": 58
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 27,
+      "gas:candidate-vibid:1001000112241": 150,
+      "gas:candidate-vibid:358300270497": 363,
+      "gas:candidate-vibid:358300270500": 33,
+      "gas:candidate-vibid:1001000118560": 58,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 33,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 33,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 12,
-      "Карабаев Виктор Николаевич": 17,
-      "Кочкин Олег Валерьевич": 163,
-      "Лазуткин Виктор Александрович": 357,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 27,
-      "Против всех": 34
+      "gas:candidate-vibid:358300270542": 12,
+      "gas:candidate-vibid:1001000121890": 17,
+      "gas:candidate-vibid:1001000112241": 163,
+      "gas:candidate-vibid:358300270497": 357,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 27,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 39,
-      "Карабаев Виктор Николаевич": 8,
-      "Кочкин Олег Валерьевич": 36,
-      "Лазуткин Виктор Александрович": 177,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:358300270542": 39,
+      "gas:candidate-vibid:1001000121890": 8,
+      "gas:candidate-vibid:1001000112241": 36,
+      "gas:candidate-vibid:358300270497": 177,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 37,
-      "Лазуткин Виктор Александрович": 326,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 37,
+      "gas:candidate-vibid:358300270497": 326,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 79,
-      "Карабаев Виктор Николаевич": 10,
-      "Кочкин Олег Валерьевич": 37,
-      "Лазуткин Виктор Александрович": 485,
-      "Мейер Максим Михайлович": 88,
-      "Рябов Игорь Олегович": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 79,
+      "gas:candidate-vibid:1001000121890": 10,
+      "gas:candidate-vibid:1001000112241": 37,
+      "gas:candidate-vibid:358300270497": 485,
+      "gas:candidate-vibid:358300270500": 88,
+      "gas:candidate-vibid:1001000118560": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 24,
-      "Кочкин Олег Валерьевич": 26,
-      "Лазуткин Виктор Александрович": 166,
-      "Мейер Максим Михайлович": 15,
-      "Рябов Игорь Олегович": 10,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 24,
+      "gas:candidate-vibid:1001000112241": 26,
+      "gas:candidate-vibid:358300270497": 166,
+      "gas:candidate-vibid:358300270500": 15,
+      "gas:candidate-vibid:1001000118560": 10,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 41,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 41,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 85,
-      "Кочкин Олег Валерьевич": 59,
-      "Лазуткин Виктор Александрович": 170,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 9,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 85,
+      "gas:candidate-vibid:1001000112241": 59,
+      "gas:candidate-vibid:358300270497": 170,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 9,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 57,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 57,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 12,
-      "Лазуткин Виктор Александрович": 71,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 12,
+      "gas:candidate-vibid:358300270497": 71,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 95,
-      "Лазуткин Виктор Александрович": 258,
-      "Мейер Максим Михайлович": 9,
-      "Рябов Игорь Олегович": 42,
-      "Против всех": 25
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 95,
+      "gas:candidate-vibid:358300270497": 258,
+      "gas:candidate-vibid:358300270500": 9,
+      "gas:candidate-vibid:1001000118560": 42,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 57,
-      "Лазуткин Виктор Александрович": 70,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 57,
+      "gas:candidate-vibid:358300270497": 70,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 76,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 76,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 23,
-      "Кочкин Олег Валерьевич": 129,
-      "Лазуткин Виктор Александрович": 237,
-      "Мейер Максим Михайлович": 9,
-      "Рябов Игорь Олегович": 21,
-      "Против всех": 20
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 23,
+      "gas:candidate-vibid:1001000112241": 129,
+      "gas:candidate-vibid:358300270497": 237,
+      "gas:candidate-vibid:358300270500": 9,
+      "gas:candidate-vibid:1001000118560": 21,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 11,
-      "Кочкин Олег Валерьевич": 49,
-      "Лазуткин Виктор Александрович": 180,
-      "Мейер Максим Михайлович": 12,
-      "Рябов Игорь Олегович": 12,
-      "Против всех": 26
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 11,
+      "gas:candidate-vibid:1001000112241": 49,
+      "gas:candidate-vibid:358300270497": 180,
+      "gas:candidate-vibid:358300270500": 12,
+      "gas:candidate-vibid:1001000118560": 12,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 24,
-      "Лазуткин Виктор Александрович": 55,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 21,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 24,
+      "gas:candidate-vibid:358300270497": 55,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 21,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 53,
-      "Лазуткин Виктор Александрович": 131,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 16,
-      "Против всех": 25
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 53,
+      "gas:candidate-vibid:358300270497": 131,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 16,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 40,
-      "Карабаев Виктор Николаевич": 48,
-      "Кочкин Олег Валерьевич": 191,
-      "Лазуткин Виктор Александрович": 491,
-      "Мейер Максим Михайлович": 13,
-      "Рябов Игорь Олегович": 27,
-      "Против всех": 41
+      "gas:candidate-vibid:358300270542": 40,
+      "gas:candidate-vibid:1001000121890": 48,
+      "gas:candidate-vibid:1001000112241": 191,
+      "gas:candidate-vibid:358300270497": 491,
+      "gas:candidate-vibid:358300270500": 13,
+      "gas:candidate-vibid:1001000118560": 27,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 18,
-      "Кочкин Олег Валерьевич": 84,
-      "Лазуткин Виктор Александрович": 288,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 41,
-      "Против всех": 17
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 18,
+      "gas:candidate-vibid:1001000112241": 84,
+      "gas:candidate-vibid:358300270497": 288,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 41,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 18,
-      "Кочкин Олег Валерьевич": 174,
-      "Лазуткин Виктор Александрович": 266,
-      "Мейер Максим Михайлович": 29,
-      "Рябов Игорь Олегович": 43,
-      "Против всех": 59
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 18,
+      "gas:candidate-vibid:1001000112241": 174,
+      "gas:candidate-vibid:358300270497": 266,
+      "gas:candidate-vibid:358300270500": 29,
+      "gas:candidate-vibid:1001000118560": 43,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 122,
-      "Карабаев Виктор Николаевич": 56,
-      "Кочкин Олег Валерьевич": 137,
-      "Лазуткин Виктор Александрович": 450,
-      "Мейер Максим Михайлович": 57,
-      "Рябов Игорь Олегович": 108,
-      "Против всех": 453
+      "gas:candidate-vibid:358300270542": 122,
+      "gas:candidate-vibid:1001000121890": 56,
+      "gas:candidate-vibid:1001000112241": 137,
+      "gas:candidate-vibid:358300270497": 450,
+      "gas:candidate-vibid:358300270500": 57,
+      "gas:candidate-vibid:1001000118560": 108,
+      "special:against-all": 453
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070662&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 21,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 381,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 19,
-      "Против всех": 22
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 21,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 381,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 19,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 28,
-      "Кочкин Олег Валерьевич": 22,
-      "Лазуткин Виктор Александрович": 303,
-      "Мейер Максим Михайлович": 11,
-      "Рябов Игорь Олегович": 64,
-      "Против всех": 20
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 28,
+      "gas:candidate-vibid:1001000112241": 22,
+      "gas:candidate-vibid:358300270497": 303,
+      "gas:candidate-vibid:358300270500": 11,
+      "gas:candidate-vibid:1001000118560": 64,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 35,
-      "Карабаев Виктор Николаевич": 17,
-      "Кочкин Олег Валерьевич": 16,
-      "Лазуткин Виктор Александрович": 318,
-      "Мейер Максим Михайлович": 7,
-      "Рябов Игорь Олегович": 37,
-      "Против всех": 25
+      "gas:candidate-vibid:358300270542": 35,
+      "gas:candidate-vibid:1001000121890": 17,
+      "gas:candidate-vibid:1001000112241": 16,
+      "gas:candidate-vibid:358300270497": 318,
+      "gas:candidate-vibid:358300270500": 7,
+      "gas:candidate-vibid:1001000118560": 37,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 6,
-      "Карабаев Виктор Николаевич": 27,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 231,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:358300270542": 6,
+      "gas:candidate-vibid:1001000121890": 27,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 231,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 7,
-      "Лазуткин Виктор Александрович": 222,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 7,
+      "gas:candidate-vibid:358300270497": 222,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 175,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 175,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 79,
-      "Карабаев Виктор Николаевич": 48,
-      "Кочкин Олег Валерьевич": 64,
-      "Лазуткин Виктор Александрович": 598,
-      "Мейер Максим Михайлович": 84,
-      "Рябов Игорь Олегович": 37,
-      "Против всех": 74
+      "gas:candidate-vibid:358300270542": 79,
+      "gas:candidate-vibid:1001000121890": 48,
+      "gas:candidate-vibid:1001000112241": 64,
+      "gas:candidate-vibid:358300270497": 598,
+      "gas:candidate-vibid:358300270500": 84,
+      "gas:candidate-vibid:1001000118560": 37,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 87,
-      "Карабаев Виктор Николаевич": 33,
-      "Кочкин Олег Валерьевич": 68,
-      "Лазуткин Виктор Александрович": 484,
-      "Мейер Максим Михайлович": 100,
-      "Рябов Игорь Олегович": 57,
-      "Против всех": 83
+      "gas:candidate-vibid:358300270542": 87,
+      "gas:candidate-vibid:1001000121890": 33,
+      "gas:candidate-vibid:1001000112241": 68,
+      "gas:candidate-vibid:358300270497": 484,
+      "gas:candidate-vibid:358300270500": 100,
+      "gas:candidate-vibid:1001000118560": 57,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 57,
-      "Карабаев Виктор Николаевич": 85,
-      "Кочкин Олег Валерьевич": 94,
-      "Лазуткин Виктор Александрович": 675,
-      "Мейер Максим Михайлович": 89,
-      "Рябов Игорь Олегович": 101,
-      "Против всех": 138
+      "gas:candidate-vibid:358300270542": 57,
+      "gas:candidate-vibid:1001000121890": 85,
+      "gas:candidate-vibid:1001000112241": 94,
+      "gas:candidate-vibid:358300270497": 675,
+      "gas:candidate-vibid:358300270500": 89,
+      "gas:candidate-vibid:1001000118560": 101,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 7,
-      "Лазуткин Виктор Александрович": 200,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 7,
+      "gas:candidate-vibid:358300270497": 200,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 311,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 29,
-      "Против всех": 19
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 311,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 29,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 15,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 7,
-      "Лазуткин Виктор Александрович": 415,
-      "Мейер Максим Михайлович": 8,
-      "Рябов Игорь Олегович": 15,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 15,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 7,
+      "gas:candidate-vibid:358300270497": 415,
+      "gas:candidate-vibid:358300270500": 8,
+      "gas:candidate-vibid:1001000118560": 15,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 46,
-      "Карабаев Виктор Николаевич": 85,
-      "Кочкин Олег Валерьевич": 135,
-      "Лазуткин Виктор Александрович": 648,
-      "Мейер Максим Михайлович": 52,
-      "Рябов Игорь Олегович": 186,
-      "Против всех": 115
+      "gas:candidate-vibid:358300270542": 46,
+      "gas:candidate-vibid:1001000121890": 85,
+      "gas:candidate-vibid:1001000112241": 135,
+      "gas:candidate-vibid:358300270497": 648,
+      "gas:candidate-vibid:358300270500": 52,
+      "gas:candidate-vibid:1001000118560": 186,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 28,
-      "Карабаев Виктор Николаевич": 71,
-      "Кочкин Олег Валерьевич": 105,
-      "Лазуткин Виктор Александрович": 631,
-      "Мейер Максим Михайлович": 40,
-      "Рябов Игорь Олегович": 185,
-      "Против всех": 89
+      "gas:candidate-vibid:358300270542": 28,
+      "gas:candidate-vibid:1001000121890": 71,
+      "gas:candidate-vibid:1001000112241": 105,
+      "gas:candidate-vibid:358300270497": 631,
+      "gas:candidate-vibid:358300270500": 40,
+      "gas:candidate-vibid:1001000118560": 185,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 49,
-      "Карабаев Виктор Николаевич": 105,
-      "Кочкин Олег Валерьевич": 129,
-      "Лазуткин Виктор Александрович": 608,
-      "Мейер Максим Михайлович": 48,
-      "Рябов Игорь Олегович": 94,
-      "Против всех": 73
+      "gas:candidate-vibid:358300270542": 49,
+      "gas:candidate-vibid:1001000121890": 105,
+      "gas:candidate-vibid:1001000112241": 129,
+      "gas:candidate-vibid:358300270497": 608,
+      "gas:candidate-vibid:358300270500": 48,
+      "gas:candidate-vibid:1001000118560": 94,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 32,
-      "Лазуткин Виктор Александрович": 315,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 15,
-      "Против всех": 6
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 32,
+      "gas:candidate-vibid:358300270497": 315,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 15,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 13,
-      "Лазуткин Виктор Александрович": 255,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 13,
+      "gas:candidate-vibid:358300270497": 255,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 15,
-      "Лазуткин Виктор Александрович": 241,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 12,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 15,
+      "gas:candidate-vibid:358300270497": 241,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 12,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 19,
-      "Лазуткин Виктор Александрович": 139,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 19,
+      "gas:candidate-vibid:358300270497": 139,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 15,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 125,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 8,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 15,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 125,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 8,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 15,
-      "Лазуткин Виктор Александрович": 72,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 15,
+      "gas:candidate-vibid:358300270497": 72,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 17,
-      "Кочкин Олег Валерьевич": 44,
-      "Лазуткин Виктор Александрович": 630,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 65,
-      "Против всех": 38
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 17,
+      "gas:candidate-vibid:1001000112241": 44,
+      "gas:candidate-vibid:358300270497": 630,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 65,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 38,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 356,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 38,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 356,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 128,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 128,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 40,
-      "Кочкин Олег Валерьевич": 88,
-      "Лазуткин Виктор Александрович": 577,
-      "Мейер Максим Михайлович": 11,
-      "Рябов Игорь Олегович": 42,
-      "Против всех": 34
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 40,
+      "gas:candidate-vibid:1001000112241": 88,
+      "gas:candidate-vibid:358300270497": 577,
+      "gas:candidate-vibid:358300270500": 11,
+      "gas:candidate-vibid:1001000118560": 42,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 27,
-      "Карабаев Виктор Николаевич": 24,
-      "Кочкин Олег Валерьевич": 44,
-      "Лазуткин Виктор Александрович": 279,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 21,
-      "Против всех": 27
+      "gas:candidate-vibid:358300270542": 27,
+      "gas:candidate-vibid:1001000121890": 24,
+      "gas:candidate-vibid:1001000112241": 44,
+      "gas:candidate-vibid:358300270497": 279,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 21,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 55,
-      "Карабаев Виктор Николаевич": 48,
-      "Кочкин Олег Валерьевич": 114,
-      "Лазуткин Виктор Александрович": 547,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 84,
-      "Против всех": 34
+      "gas:candidate-vibid:358300270542": 55,
+      "gas:candidate-vibid:1001000121890": 48,
+      "gas:candidate-vibid:1001000112241": 114,
+      "gas:candidate-vibid:358300270497": 547,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 84,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 72,
-      "Карабаев Виктор Николаевич": 41,
-      "Кочкин Олег Валерьевич": 45,
-      "Лазуткин Виктор Александрович": 496,
-      "Мейер Максим Михайлович": 10,
-      "Рябов Игорь Олегович": 31,
-      "Против всех": 45
+      "gas:candidate-vibid:358300270542": 72,
+      "gas:candidate-vibid:1001000121890": 41,
+      "gas:candidate-vibid:1001000112241": 45,
+      "gas:candidate-vibid:358300270497": 496,
+      "gas:candidate-vibid:358300270500": 10,
+      "gas:candidate-vibid:1001000118560": 31,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 59,
-      "Карабаев Виктор Николаевич": 65,
-      "Кочкин Олег Валерьевич": 86,
-      "Лазуткин Виктор Александрович": 440,
-      "Мейер Максим Михайлович": 17,
-      "Рябов Игорь Олегович": 34,
-      "Против всех": 42
+      "gas:candidate-vibid:358300270542": 59,
+      "gas:candidate-vibid:1001000121890": 65,
+      "gas:candidate-vibid:1001000112241": 86,
+      "gas:candidate-vibid:358300270497": 440,
+      "gas:candidate-vibid:358300270500": 17,
+      "gas:candidate-vibid:1001000118560": 34,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 35,
-      "Карабаев Виктор Николаевич": 42,
-      "Кочкин Олег Валерьевич": 101,
-      "Лазуткин Виктор Александрович": 635,
-      "Мейер Максим Михайлович": 7,
-      "Рябов Игорь Олегович": 31,
-      "Против всех": 51
+      "gas:candidate-vibid:358300270542": 35,
+      "gas:candidate-vibid:1001000121890": 42,
+      "gas:candidate-vibid:1001000112241": 101,
+      "gas:candidate-vibid:358300270497": 635,
+      "gas:candidate-vibid:358300270500": 7,
+      "gas:candidate-vibid:1001000118560": 31,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 32,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 122,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 32,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 122,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 117,
-      "Карабаев Виктор Николаевич": 17,
-      "Кочкин Олег Валерьевич": 21,
-      "Лазуткин Виктор Александрович": 576,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 9,
-      "Против всех": 11
+      "gas:candidate-vibid:358300270542": 117,
+      "gas:candidate-vibid:1001000121890": 17,
+      "gas:candidate-vibid:1001000112241": 21,
+      "gas:candidate-vibid:358300270497": 576,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 9,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 20,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 87,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 20,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 87,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 12,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 64,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 12,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 64,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 628,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 177,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:358300270542": 628,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 177,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 630,
-      "Карабаев Виктор Николаевич": 7,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 209,
-      "Мейер Максим Михайлович": 7,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 630,
+      "gas:candidate-vibid:1001000121890": 7,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 209,
+      "gas:candidate-vibid:358300270500": 7,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 800,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 228,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 800,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 228,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 309,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 689,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 309,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 689,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000022&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070663&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 114,
-      "Кочкин Олег Валерьевич": 12,
-      "Лазуткин Виктор Александрович": 423,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 38,
-      "Против всех": 30
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 114,
+      "gas:candidate-vibid:1001000112241": 12,
+      "gas:candidate-vibid:358300270497": 423,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 38,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 65,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 387,
-      "Мейер Максим Михайлович": 7,
-      "Рябов Игорь Олегович": 29,
-      "Против всех": 10
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 65,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 387,
+      "gas:candidate-vibid:358300270500": 7,
+      "gas:candidate-vibid:1001000118560": 29,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 104,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 586,
-      "Мейер Максим Михайлович": 8,
-      "Рябов Игорь Олегович": 41,
-      "Против всех": 34
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 104,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 586,
+      "gas:candidate-vibid:358300270500": 8,
+      "gas:candidate-vibid:1001000118560": 41,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 71,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 309,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 28,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 71,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 309,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 28,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 47,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 236,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 37,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 47,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 236,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 37,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 28,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 302,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 23,
-      "Против всех": 14
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 28,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 302,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 23,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 9,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 324,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 9,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 324,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 41,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 41,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 89,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 89,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 7,
-      "Кочкин Олег Валерьевич": 6,
-      "Лазуткин Виктор Александрович": 242,
-      "Мейер Максим Михайлович": 7,
-      "Рябов Игорь Олегович": 12,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 7,
+      "gas:candidate-vibid:1001000112241": 6,
+      "gas:candidate-vibid:358300270497": 242,
+      "gas:candidate-vibid:358300270500": 7,
+      "gas:candidate-vibid:1001000118560": 12,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 7,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 194,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 7,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 194,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 106,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 106,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 22,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 220,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 13,
-      "Против всех": 17
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 22,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 220,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 13,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 10,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 204,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 10,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 204,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 70,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 70,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 16,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 222,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 16,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 222,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 39,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 420,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 17,
-      "Против всех": 25
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 39,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 420,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 17,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 7,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 93,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 7,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 93,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 26,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 312,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 26,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 312,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 15,
-      "Карабаев Виктор Николаевич": 10,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 294,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 15,
+      "gas:candidate-vibid:1001000121890": 10,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 294,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 10,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 237,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 10,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 237,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 59,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 59,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070664&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 87,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 87,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 74,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 74,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 88,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 88,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 26,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 335,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 13,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 26,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 335,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 13,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 168,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 168,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 15,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 175,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 15,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 175,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 8,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 111,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 8,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 111,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 12,
-      "Кочкин Олег Валерьевич": 14,
-      "Лазуткин Виктор Александрович": 246,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 13,
-      "Против всех": 18
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 12,
+      "gas:candidate-vibid:1001000112241": 14,
+      "gas:candidate-vibid:358300270497": 246,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 13,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 12,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 253,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 12,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 253,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 10,
-      "Карабаев Виктор Николаевич": 26,
-      "Кочкин Олег Валерьевич": 14,
-      "Лазуткин Виктор Александрович": 635,
-      "Мейер Максим Михайлович": 9,
-      "Рябов Игорь Олегович": 69,
-      "Против всех": 20
+      "gas:candidate-vibid:358300270542": 10,
+      "gas:candidate-vibid:1001000121890": 26,
+      "gas:candidate-vibid:1001000112241": 14,
+      "gas:candidate-vibid:358300270497": 635,
+      "gas:candidate-vibid:358300270500": 9,
+      "gas:candidate-vibid:1001000118560": 69,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 47,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 264,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 47,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 264,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 8,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 198,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 12,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 8,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 198,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 12,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 101,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 101,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 106,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 106,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 25,
-      "Кочкин Олег Валерьевич": 16,
-      "Лазуткин Виктор Александрович": 466,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 25,
+      "gas:candidate-vibid:1001000112241": 16,
+      "gas:candidate-vibid:358300270497": 466,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 39,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 237,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 39,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 237,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 89,
-      "Кочкин Олег Валерьевич": 43,
-      "Лазуткин Виктор Александрович": 711,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 46,
-      "Против всех": 44
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 89,
+      "gas:candidate-vibid:1001000112241": 43,
+      "gas:candidate-vibid:358300270497": 711,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 46,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 105,
-      "Кочкин Олег Валерьевич": 42,
-      "Лазуткин Виктор Александрович": 608,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 43,
-      "Против всех": 36
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 105,
+      "gas:candidate-vibid:1001000112241": 42,
+      "gas:candidate-vibid:358300270497": 608,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 43,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 95,
-      "Кочкин Олег Валерьевич": 33,
-      "Лазуткин Виктор Александрович": 683,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 68,
-      "Против всех": 45
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 95,
+      "gas:candidate-vibid:1001000112241": 33,
+      "gas:candidate-vibid:358300270497": 683,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 68,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 222,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 222,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 88,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 88,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 62,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 62,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 157,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 157,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 11,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 70,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 11,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 70,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 146,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 262,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 146,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 262,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 51,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 51,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 57,
-      "Карабаев Виктор Николаевич": 10,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 646,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 57,
+      "gas:candidate-vibid:1001000121890": 10,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 646,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 536,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 536,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 42,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 7,
-      "Лазуткин Виктор Александрович": 451,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 42,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 7,
+      "gas:candidate-vibid:358300270497": 451,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 5,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 100,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 5,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 100,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 171,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 171,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070665&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 34,
-      "Кочкин Олег Валерьевич": 24,
-      "Лазуткин Виктор Александрович": 204,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 34,
+      "gas:candidate-vibid:1001000112241": 24,
+      "gas:candidate-vibid:358300270497": 204,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 13,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 23,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 13,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 23,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 28,
-      "Мейер Максим Михайлович": 10,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 28,
+      "gas:candidate-vibid:358300270500": 10,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 3,
-      "Карабаев Виктор Николаевич": 134,
-      "Кочкин Олег Валерьевич": 14,
-      "Лазуткин Виктор Александрович": 824,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 32,
-      "Против всех": 33
+      "gas:candidate-vibid:358300270542": 3,
+      "gas:candidate-vibid:1001000121890": 134,
+      "gas:candidate-vibid:1001000112241": 14,
+      "gas:candidate-vibid:358300270497": 824,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 32,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 22,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 272,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 14,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 22,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 272,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 14,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 149,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 149,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 14,
-      "Карабаев Виктор Николаевич": 70,
-      "Кочкин Олег Валерьевич": 19,
-      "Лазуткин Виктор Александрович": 250,
-      "Мейер Максим Михайлович": 8,
-      "Рябов Игорь Олегович": 7,
-      "Против всех": 46
+      "gas:candidate-vibid:358300270542": 14,
+      "gas:candidate-vibid:1001000121890": 70,
+      "gas:candidate-vibid:1001000112241": 19,
+      "gas:candidate-vibid:358300270497": 250,
+      "gas:candidate-vibid:358300270500": 8,
+      "gas:candidate-vibid:1001000118560": 7,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 14,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 102,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 14,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 102,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 35,
-      "Кочкин Олег Валерьевич": 14,
-      "Лазуткин Виктор Александрович": 303,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 20
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 35,
+      "gas:candidate-vibid:1001000112241": 14,
+      "gas:candidate-vibid:358300270497": 303,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 135,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 135,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 75,
-      "Кочкин Олег Валерьевич": 13,
-      "Лазуткин Виктор Александрович": 362,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 17,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 75,
+      "gas:candidate-vibid:1001000112241": 13,
+      "gas:candidate-vibid:358300270497": 362,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 17,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 6,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 81,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 6,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 81,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 14,
-      "Кочкин Олег Валерьевич": 9,
-      "Лазуткин Виктор Александрович": 210,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 16,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 14,
+      "gas:candidate-vibid:1001000112241": 9,
+      "gas:candidate-vibid:358300270497": 210,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 16,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 53,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 8,
-      "Лазуткин Виктор Александрович": 133,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:358300270542": 53,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 8,
+      "gas:candidate-vibid:358300270497": 133,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 13,
-      "Карабаев Виктор Николаевич": 41,
-      "Кочкин Олег Валерьевич": 41,
-      "Лазуткин Виктор Александрович": 352,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 31
+      "gas:candidate-vibid:358300270542": 13,
+      "gas:candidate-vibid:1001000121890": 41,
+      "gas:candidate-vibid:1001000112241": 41,
+      "gas:candidate-vibid:358300270497": 352,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 8,
-      "Карабаев Виктор Николаевич": 51,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 153,
-      "Мейер Максим Михайлович": 4,
-      "Рябов Игорь Олегович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 8,
+      "gas:candidate-vibid:1001000121890": 51,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 153,
+      "gas:candidate-vibid:358300270500": 4,
+      "gas:candidate-vibid:1001000118560": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 81,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 81,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 120,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 120,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 23,
-      "Кочкин Олег Валерьевич": 16,
-      "Лазуткин Виктор Александрович": 251,
-      "Мейер Максим Михайлович": 5,
-      "Рябов Игорь Олегович": 39,
-      "Против всех": 26
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 23,
+      "gas:candidate-vibid:1001000112241": 16,
+      "gas:candidate-vibid:358300270497": 251,
+      "gas:candidate-vibid:358300270500": 5,
+      "gas:candidate-vibid:1001000118560": 39,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 21,
-      "Кочкин Олег Валерьевич": 11,
-      "Лазуткин Виктор Александрович": 195,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 21,
+      "gas:candidate-vibid:1001000112241": 11,
+      "gas:candidate-vibid:358300270497": 195,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 14,
-      "Кочкин Олег Валерьевич": 13,
-      "Лазуткин Виктор Александрович": 170,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 14,
+      "gas:candidate-vibid:1001000112241": 13,
+      "gas:candidate-vibid:358300270497": 170,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 2,
-      "Карабаев Виктор Николаевич": 21,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 263,
-      "Мейер Максим Михайлович": 3,
-      "Рябов Игорь Олегович": 11,
-      "Против всех": 7
+      "gas:candidate-vibid:358300270542": 2,
+      "gas:candidate-vibid:1001000121890": 21,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 263,
+      "gas:candidate-vibid:358300270500": 3,
+      "gas:candidate-vibid:1001000118560": 11,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 64,
-      "Кочкин Олег Валерьевич": 28,
-      "Лазуткин Виктор Александрович": 520,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 33,
-      "Против всех": 57
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 64,
+      "gas:candidate-vibid:1001000112241": 28,
+      "gas:candidate-vibid:358300270497": 520,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 33,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 11,
-      "Карабаев Виктор Николаевич": 41,
-      "Кочкин Олег Валерьевич": 14,
-      "Лазуткин Виктор Александрович": 389,
-      "Мейер Максим Михайлович": 9,
-      "Рябов Игорь Олегович": 34,
-      "Против всех": 40
+      "gas:candidate-vibid:358300270542": 11,
+      "gas:candidate-vibid:1001000121890": 41,
+      "gas:candidate-vibid:1001000112241": 14,
+      "gas:candidate-vibid:358300270497": 389,
+      "gas:candidate-vibid:358300270500": 9,
+      "gas:candidate-vibid:1001000118560": 34,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 46,
-      "Кочкин Олег Валерьевич": 18,
-      "Лазуткин Виктор Александрович": 306,
-      "Мейер Максим Михайлович": 8,
-      "Рябов Игорь Олегович": 71,
-      "Против всех": 42
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 46,
+      "gas:candidate-vibid:1001000112241": 18,
+      "gas:candidate-vibid:358300270497": 306,
+      "gas:candidate-vibid:358300270500": 8,
+      "gas:candidate-vibid:1001000118560": 71,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 129,
-      "Кочкин Олег Валерьевич": 37,
-      "Лазуткин Виктор Александрович": 397,
-      "Мейер Максим Михайлович": 10,
-      "Рябов Игорь Олегович": 76,
-      "Против всех": 65
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 129,
+      "gas:candidate-vibid:1001000112241": 37,
+      "gas:candidate-vibid:358300270497": 397,
+      "gas:candidate-vibid:358300270500": 10,
+      "gas:candidate-vibid:1001000118560": 76,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 7,
-      "Карабаев Виктор Николаевич": 103,
-      "Кочкин Олег Валерьевич": 46,
-      "Лазуткин Виктор Александрович": 388,
-      "Мейер Максим Михайлович": 13,
-      "Рябов Игорь Олегович": 108,
-      "Против всех": 59
+      "gas:candidate-vibid:358300270542": 7,
+      "gas:candidate-vibid:1001000121890": 103,
+      "gas:candidate-vibid:1001000112241": 46,
+      "gas:candidate-vibid:358300270497": 388,
+      "gas:candidate-vibid:358300270500": 13,
+      "gas:candidate-vibid:1001000118560": 108,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 96,
-      "Кочкин Олег Валерьевич": 48,
-      "Лазуткин Виктор Александрович": 483,
-      "Мейер Максим Михайлович": 9,
-      "Рябов Игорь Олегович": 75,
-      "Против всех": 64
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 96,
+      "gas:candidate-vibid:1001000112241": 48,
+      "gas:candidate-vibid:358300270497": 483,
+      "gas:candidate-vibid:358300270500": 9,
+      "gas:candidate-vibid:1001000118560": 75,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 11,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 153,
-      "Мейер Максим Михайлович": 2,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 11,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 153,
+      "gas:candidate-vibid:358300270500": 2,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 12,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 138,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 12,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 138,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 89,
-      "Кочкин Олег Валерьевич": 16,
-      "Лазуткин Виктор Александрович": 397,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 31,
-      "Против всех": 31
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 89,
+      "gas:candidate-vibid:1001000112241": 16,
+      "gas:candidate-vibid:358300270497": 397,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 31,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 14,
-      "Кочкин Олег Валерьевич": 1,
-      "Лазуткин Виктор Александрович": 28,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 14,
+      "gas:candidate-vibid:1001000112241": 1,
+      "gas:candidate-vibid:358300270497": 28,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 18,
-      "Кочкин Олег Валерьевич": 10,
-      "Лазуткин Виктор Александрович": 201,
-      "Мейер Максим Михайлович": 6,
-      "Рябов Игорь Олегович": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 18,
+      "gas:candidate-vibid:1001000112241": 10,
+      "gas:candidate-vibid:358300270497": 201,
+      "gas:candidate-vibid:358300270500": 6,
+      "gas:candidate-vibid:1001000118560": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 13,
-      "Кочкин Олег Валерьевич": 4,
-      "Лазуткин Виктор Александрович": 74,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 13,
+      "gas:candidate-vibid:1001000112241": 4,
+      "gas:candidate-vibid:358300270497": 74,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 1,
-      "Карабаев Виктор Николаевич": 20,
-      "Кочкин Олег Валерьевич": 5,
-      "Лазуткин Виктор Александрович": 79,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:358300270542": 1,
+      "gas:candidate-vibid:1001000121890": 20,
+      "gas:candidate-vibid:1001000112241": 5,
+      "gas:candidate-vibid:358300270497": 79,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 5,
-      "Карабаев Виктор Николаевич": 2,
-      "Кочкин Олег Валерьевич": 2,
-      "Лазуткин Виктор Александрович": 264,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:358300270542": 5,
+      "gas:candidate-vibid:1001000121890": 2,
+      "gas:candidate-vibid:1001000112241": 2,
+      "gas:candidate-vibid:358300270497": 264,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 3,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 83,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 3,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 83,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 1,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 66,
-      "Мейер Максим Михайлович": 0,
-      "Рябов Игорь Олегович": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 1,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 66,
+      "gas:candidate-vibid:358300270500": 0,
+      "gas:candidate-vibid:1001000118560": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 4,
-      "Кочкин Олег Валерьевич": 3,
-      "Лазуткин Виктор Александрович": 223,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 4,
+      "gas:candidate-vibid:1001000112241": 3,
+      "gas:candidate-vibid:358300270497": 223,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 0,
-      "Карабаев Виктор Николаевич": 0,
-      "Кочкин Олег Валерьевич": 0,
-      "Лазуткин Виктор Александрович": 98,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:358300270542": 0,
+      "gas:candidate-vibid:1001000121890": 0,
+      "gas:candidate-vibid:1001000112241": 0,
+      "gas:candidate-vibid:358300270497": 98,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000025&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070666&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 24,
-      "Карабаев Виктор Николаевич": 50,
-      "Кочкин Олег Валерьевич": 143,
-      "Лазуткин Виктор Александрович": 283,
-      "Мейер Максим Михайлович": 46,
-      "Рябов Игорь Олегович": 73,
-      "Против всех": 67
+      "gas:candidate-vibid:358300270542": 24,
+      "gas:candidate-vibid:1001000121890": 50,
+      "gas:candidate-vibid:1001000112241": 143,
+      "gas:candidate-vibid:358300270497": 283,
+      "gas:candidate-vibid:358300270500": 46,
+      "gas:candidate-vibid:1001000118560": 73,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 55,
-      "Карабаев Виктор Николаевич": 126,
-      "Кочкин Олег Валерьевич": 172,
-      "Лазуткин Виктор Александрович": 302,
-      "Мейер Максим Михайлович": 37,
-      "Рябов Игорь Олегович": 101,
-      "Против всех": 67
+      "gas:candidate-vibid:358300270542": 55,
+      "gas:candidate-vibid:1001000121890": 126,
+      "gas:candidate-vibid:1001000112241": 172,
+      "gas:candidate-vibid:358300270497": 302,
+      "gas:candidate-vibid:358300270500": 37,
+      "gas:candidate-vibid:1001000118560": 101,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 85,
-      "Карабаев Виктор Николаевич": 79,
-      "Кочкин Олег Валерьевич": 238,
-      "Лазуткин Виктор Александрович": 322,
-      "Мейер Максим Михайлович": 51,
-      "Рябов Игорь Олегович": 118,
-      "Против всех": 81
+      "gas:candidate-vibid:358300270542": 85,
+      "gas:candidate-vibid:1001000121890": 79,
+      "gas:candidate-vibid:1001000112241": 238,
+      "gas:candidate-vibid:358300270497": 322,
+      "gas:candidate-vibid:358300270500": 51,
+      "gas:candidate-vibid:1001000118560": 118,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 46,
-      "Карабаев Виктор Николаевич": 62,
-      "Кочкин Олег Валерьевич": 258,
-      "Лазуткин Виктор Александрович": 364,
-      "Мейер Максим Михайлович": 36,
-      "Рябов Игорь Олегович": 140,
-      "Против всех": 100
+      "gas:candidate-vibid:358300270542": 46,
+      "gas:candidate-vibid:1001000121890": 62,
+      "gas:candidate-vibid:1001000112241": 258,
+      "gas:candidate-vibid:358300270497": 364,
+      "gas:candidate-vibid:358300270500": 36,
+      "gas:candidate-vibid:1001000118560": 140,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 39,
-      "Карабаев Виктор Николаевич": 132,
-      "Кочкин Олег Валерьевич": 304,
-      "Лазуткин Виктор Александрович": 448,
-      "Мейер Максим Михайлович": 78,
-      "Рябов Игорь Олегович": 132,
-      "Против всех": 177
+      "gas:candidate-vibid:358300270542": 39,
+      "gas:candidate-vibid:1001000121890": 132,
+      "gas:candidate-vibid:1001000112241": 304,
+      "gas:candidate-vibid:358300270497": 448,
+      "gas:candidate-vibid:358300270500": 78,
+      "gas:candidate-vibid:1001000118560": 132,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 38,
-      "Карабаев Виктор Николаевич": 156,
-      "Кочкин Олег Валерьевич": 334,
-      "Лазуткин Виктор Александрович": 537,
-      "Мейер Максим Михайлович": 53,
-      "Рябов Игорь Олегович": 201,
-      "Против всех": 191
+      "gas:candidate-vibid:358300270542": 38,
+      "gas:candidate-vibid:1001000121890": 156,
+      "gas:candidate-vibid:1001000112241": 334,
+      "gas:candidate-vibid:358300270497": 537,
+      "gas:candidate-vibid:358300270500": 53,
+      "gas:candidate-vibid:1001000118560": 201,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 35,
-      "Карабаев Виктор Николаевич": 145,
-      "Кочкин Олег Валерьевич": 429,
-      "Лазуткин Виктор Александрович": 473,
-      "Мейер Максим Михайлович": 61,
-      "Рябов Игорь Олегович": 187,
-      "Против всех": 193
+      "gas:candidate-vibid:358300270542": 35,
+      "gas:candidate-vibid:1001000121890": 145,
+      "gas:candidate-vibid:1001000112241": 429,
+      "gas:candidate-vibid:358300270497": 473,
+      "gas:candidate-vibid:358300270500": 61,
+      "gas:candidate-vibid:1001000118560": 187,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 24,
-      "Карабаев Виктор Николаевич": 50,
-      "Кочкин Олег Валерьевич": 229,
-      "Лазуткин Виктор Александрович": 299,
-      "Мейер Максим Михайлович": 40,
-      "Рябов Игорь Олегович": 76,
-      "Против всех": 110
+      "gas:candidate-vibid:358300270542": 24,
+      "gas:candidate-vibid:1001000121890": 50,
+      "gas:candidate-vibid:1001000112241": 229,
+      "gas:candidate-vibid:358300270497": 299,
+      "gas:candidate-vibid:358300270500": 40,
+      "gas:candidate-vibid:1001000118560": 76,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 39,
-      "Карабаев Виктор Николаевич": 82,
-      "Кочкин Олег Валерьевич": 393,
-      "Лазуткин Виктор Александрович": 438,
-      "Мейер Максим Михайлович": 64,
-      "Рябов Игорь Олегович": 108,
-      "Против всех": 198
+      "gas:candidate-vibid:358300270542": 39,
+      "gas:candidate-vibid:1001000121890": 82,
+      "gas:candidate-vibid:1001000112241": 393,
+      "gas:candidate-vibid:358300270497": 438,
+      "gas:candidate-vibid:358300270500": 64,
+      "gas:candidate-vibid:1001000118560": 108,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 61,
-      "Карабаев Виктор Николаевич": 74,
-      "Кочкин Олег Валерьевич": 356,
-      "Лазуткин Виктор Александрович": 345,
-      "Мейер Максим Михайлович": 63,
-      "Рябов Игорь Олегович": 138,
-      "Против всех": 100
+      "gas:candidate-vibid:358300270542": 61,
+      "gas:candidate-vibid:1001000121890": 74,
+      "gas:candidate-vibid:1001000112241": 356,
+      "gas:candidate-vibid:358300270497": 345,
+      "gas:candidate-vibid:358300270500": 63,
+      "gas:candidate-vibid:1001000118560": 138,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 26,
-      "Карабаев Виктор Николаевич": 97,
-      "Кочкин Олег Валерьевич": 451,
-      "Лазуткин Виктор Александрович": 458,
-      "Мейер Максим Михайлович": 65,
-      "Рябов Игорь Олегович": 147,
-      "Против всех": 213
+      "gas:candidate-vibid:358300270542": 26,
+      "gas:candidate-vibid:1001000121890": 97,
+      "gas:candidate-vibid:1001000112241": 451,
+      "gas:candidate-vibid:358300270497": 458,
+      "gas:candidate-vibid:358300270500": 65,
+      "gas:candidate-vibid:1001000118560": 147,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 18,
-      "Карабаев Виктор Николаевич": 92,
-      "Кочкин Олег Валерьевич": 368,
-      "Лазуткин Виктор Александрович": 391,
-      "Мейер Максим Михайлович": 51,
-      "Рябов Игорь Олегович": 177,
-      "Против всех": 191
+      "gas:candidate-vibid:358300270542": 18,
+      "gas:candidate-vibid:1001000121890": 92,
+      "gas:candidate-vibid:1001000112241": 368,
+      "gas:candidate-vibid:358300270497": 391,
+      "gas:candidate-vibid:358300270500": 51,
+      "gas:candidate-vibid:1001000118560": 177,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 32,
-      "Карабаев Виктор Николаевич": 94,
-      "Кочкин Олег Валерьевич": 456,
-      "Лазуткин Виктор Александрович": 368,
-      "Мейер Максим Михайлович": 65,
-      "Рябов Игорь Олегович": 128,
-      "Против всех": 197
+      "gas:candidate-vibid:358300270542": 32,
+      "gas:candidate-vibid:1001000121890": 94,
+      "gas:candidate-vibid:1001000112241": 456,
+      "gas:candidate-vibid:358300270497": 368,
+      "gas:candidate-vibid:358300270500": 65,
+      "gas:candidate-vibid:1001000118560": 128,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 16,
-      "Карабаев Виктор Николаевич": 49,
-      "Кочкин Олег Валерьевич": 168,
-      "Лазуткин Виктор Александрович": 236,
-      "Мейер Максим Михайлович": 27,
-      "Рябов Игорь Олегович": 57,
-      "Против всех": 83
+      "gas:candidate-vibid:358300270542": 16,
+      "gas:candidate-vibid:1001000121890": 49,
+      "gas:candidate-vibid:1001000112241": 168,
+      "gas:candidate-vibid:358300270497": 236,
+      "gas:candidate-vibid:358300270500": 27,
+      "gas:candidate-vibid:1001000118560": 57,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 39,
-      "Карабаев Виктор Николаевич": 122,
-      "Кочкин Олег Валерьевич": 368,
-      "Лазуткин Виктор Александрович": 405,
-      "Мейер Максим Михайлович": 46,
-      "Рябов Игорь Олегович": 96,
-      "Против всех": 125
+      "gas:candidate-vibid:358300270542": 39,
+      "gas:candidate-vibid:1001000121890": 122,
+      "gas:candidate-vibid:1001000112241": 368,
+      "gas:candidate-vibid:358300270497": 405,
+      "gas:candidate-vibid:358300270500": 46,
+      "gas:candidate-vibid:1001000118560": 96,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 25,
-      "Карабаев Виктор Николаевич": 100,
-      "Кочкин Олег Валерьевич": 303,
-      "Лазуткин Виктор Александрович": 396,
-      "Мейер Максим Михайлович": 65,
-      "Рябов Игорь Олегович": 156,
-      "Против всех": 136
+      "gas:candidate-vibid:358300270542": 25,
+      "gas:candidate-vibid:1001000121890": 100,
+      "gas:candidate-vibid:1001000112241": 303,
+      "gas:candidate-vibid:358300270497": 396,
+      "gas:candidate-vibid:358300270500": 65,
+      "gas:candidate-vibid:1001000118560": 156,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 27,
-      "Карабаев Виктор Николаевич": 120,
-      "Кочкин Олег Валерьевич": 269,
-      "Лазуткин Виктор Александрович": 437,
-      "Мейер Максим Михайлович": 72,
-      "Рябов Игорь Олегович": 133,
-      "Против всех": 130
+      "gas:candidate-vibid:358300270542": 27,
+      "gas:candidate-vibid:1001000121890": 120,
+      "gas:candidate-vibid:1001000112241": 269,
+      "gas:candidate-vibid:358300270497": 437,
+      "gas:candidate-vibid:358300270500": 72,
+      "gas:candidate-vibid:1001000118560": 133,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 23,
-      "Карабаев Виктор Николаевич": 122,
-      "Кочкин Олег Валерьевич": 297,
-      "Лазуткин Виктор Александрович": 373,
-      "Мейер Максим Михайлович": 56,
-      "Рябов Игорь Олегович": 109,
-      "Против всех": 99
+      "gas:candidate-vibid:358300270542": 23,
+      "gas:candidate-vibid:1001000121890": 122,
+      "gas:candidate-vibid:1001000112241": 297,
+      "gas:candidate-vibid:358300270497": 373,
+      "gas:candidate-vibid:358300270500": 56,
+      "gas:candidate-vibid:1001000118560": 109,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 4,
-      "Карабаев Виктор Николаевич": 8,
-      "Кочкин Олег Валерьевич": 23,
-      "Лазуткин Виктор Александрович": 68,
-      "Мейер Максим Михайлович": 1,
-      "Рябов Игорь Олегович": 8,
-      "Против всех": 23
+      "gas:candidate-vibid:358300270542": 4,
+      "gas:candidate-vibid:1001000121890": 8,
+      "gas:candidate-vibid:1001000112241": 23,
+      "gas:candidate-vibid:358300270497": 68,
+      "gas:candidate-vibid:358300270500": 1,
+      "gas:candidate-vibid:1001000118560": 8,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 20,
-      "Карабаев Виктор Николаевич": 90,
-      "Кочкин Олег Валерьевич": 245,
-      "Лазуткин Виктор Александрович": 334,
-      "Мейер Максим Михайлович": 46,
-      "Рябов Игорь Олегович": 62,
-      "Против всех": 83
+      "gas:candidate-vibid:358300270542": 20,
+      "gas:candidate-vibid:1001000121890": 90,
+      "gas:candidate-vibid:1001000112241": 245,
+      "gas:candidate-vibid:358300270497": 334,
+      "gas:candidate-vibid:358300270500": 46,
+      "gas:candidate-vibid:1001000118560": 62,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 33,
-      "Карабаев Виктор Николаевич": 143,
-      "Кочкин Олег Валерьевич": 245,
-      "Лазуткин Виктор Александрович": 355,
-      "Мейер Максим Михайлович": 54,
-      "Рябов Игорь Олегович": 127,
-      "Против всех": 104
+      "gas:candidate-vibid:358300270542": 33,
+      "gas:candidate-vibid:1001000121890": 143,
+      "gas:candidate-vibid:1001000112241": 245,
+      "gas:candidate-vibid:358300270497": 355,
+      "gas:candidate-vibid:358300270500": 54,
+      "gas:candidate-vibid:1001000118560": 127,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_58_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дебердеев Кязым Шагазамович": 9,
-      "Карабаев Виктор Николаевич": 21,
-      "Кочкин Олег Валерьевич": 124,
-      "Лазуткин Виктор Александрович": 386,
-      "Мейер Максим Михайлович": 11,
-      "Рябов Игорь Олегович": 29,
-      "Против всех": 29
+      "gas:candidate-vibid:358300270542": 9,
+      "gas:candidate-vibid:1001000121890": 21,
+      "gas:candidate-vibid:1001000112241": 124,
+      "gas:candidate-vibid:358300270497": 386,
+      "gas:candidate-vibid:358300270500": 11,
+      "gas:candidate-vibid:1001000118560": 29,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=582000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=258200070667&region=0&sub_region=0&type=429",

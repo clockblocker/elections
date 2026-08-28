@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 0,
-      "Заварзин Виктор Михайлович": 49,
-      "Иванов Александр Анатольевич": 5,
-      "Исмагилов Руслан Шавкатович": 2,
-      "Кулахметов Кайрат Жайгунусович": 34,
-      "Мирохин Владимир Юрьевич": 2,
-      "Нетесанов Сергей Дмитриевич": 0,
-      "Рыбалко Ольга Александровна": 0
+      "gas:candidate-vibid:25620001003279": 0,
+      "gas:candidate-vibid:25620001003253": 49,
+      "gas:candidate-vibid:25620001004243": 5,
+      "gas:candidate-vibid:25620001004691": 2,
+      "gas:candidate-vibid:2562000994510": 34,
+      "gas:candidate-vibid:2562000991851": 2,
+      "gas:candidate-vibid:25620001004219": 0,
+      "gas:candidate-vibid:25620001004707": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 0,
-      "Заварзин Виктор Михайлович": 36,
-      "Иванов Александр Анатольевич": 16,
-      "Исмагилов Руслан Шавкатович": 7,
-      "Кулахметов Кайрат Жайгунусович": 34,
-      "Мирохин Владимир Юрьевич": 14,
-      "Нетесанов Сергей Дмитриевич": 0,
-      "Рыбалко Ольга Александровна": 1
+      "gas:candidate-vibid:25620001003279": 0,
+      "gas:candidate-vibid:25620001003253": 36,
+      "gas:candidate-vibid:25620001004243": 16,
+      "gas:candidate-vibid:25620001004691": 7,
+      "gas:candidate-vibid:2562000994510": 34,
+      "gas:candidate-vibid:2562000991851": 14,
+      "gas:candidate-vibid:25620001004219": 0,
+      "gas:candidate-vibid:25620001004707": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 5,
-      "Заварзин Виктор Михайлович": 49,
-      "Иванов Александр Анатольевич": 25,
-      "Исмагилов Руслан Шавкатович": 1,
-      "Кулахметов Кайрат Жайгунусович": 11,
-      "Мирохин Владимир Юрьевич": 15,
-      "Нетесанов Сергей Дмитриевич": 2,
-      "Рыбалко Ольга Александровна": 5
+      "gas:candidate-vibid:25620001003279": 5,
+      "gas:candidate-vibid:25620001003253": 49,
+      "gas:candidate-vibid:25620001004243": 25,
+      "gas:candidate-vibid:25620001004691": 1,
+      "gas:candidate-vibid:2562000994510": 11,
+      "gas:candidate-vibid:2562000991851": 15,
+      "gas:candidate-vibid:25620001004219": 2,
+      "gas:candidate-vibid:25620001004707": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 3,
-      "Заварзин Виктор Михайлович": 41,
-      "Иванов Александр Анатольевич": 40,
-      "Исмагилов Руслан Шавкатович": 0,
-      "Кулахметов Кайрат Жайгунусович": 20,
-      "Мирохин Владимир Юрьевич": 22,
-      "Нетесанов Сергей Дмитриевич": 1,
-      "Рыбалко Ольга Александровна": 3
+      "gas:candidate-vibid:25620001003279": 3,
+      "gas:candidate-vibid:25620001003253": 41,
+      "gas:candidate-vibid:25620001004243": 40,
+      "gas:candidate-vibid:25620001004691": 0,
+      "gas:candidate-vibid:2562000994510": 20,
+      "gas:candidate-vibid:2562000991851": 22,
+      "gas:candidate-vibid:25620001004219": 1,
+      "gas:candidate-vibid:25620001004707": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 2,
-      "Заварзин Виктор Михайлович": 8,
-      "Иванов Александр Анатольевич": 19,
-      "Исмагилов Руслан Шавкатович": 0,
-      "Кулахметов Кайрат Жайгунусович": 6,
-      "Мирохин Владимир Юрьевич": 8,
-      "Нетесанов Сергей Дмитриевич": 0,
-      "Рыбалко Ольга Александровна": 0
+      "gas:candidate-vibid:25620001003279": 2,
+      "gas:candidate-vibid:25620001003253": 8,
+      "gas:candidate-vibid:25620001004243": 19,
+      "gas:candidate-vibid:25620001004691": 0,
+      "gas:candidate-vibid:2562000994510": 6,
+      "gas:candidate-vibid:2562000991851": 8,
+      "gas:candidate-vibid:25620001004219": 0,
+      "gas:candidate-vibid:25620001004707": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 6,
-      "Заварзин Виктор Михайлович": 139,
-      "Иванов Александр Анатольевич": 39,
-      "Исмагилов Руслан Шавкатович": 3,
-      "Кулахметов Кайрат Жайгунусович": 49,
-      "Мирохин Владимир Юрьевич": 15,
-      "Нетесанов Сергей Дмитриевич": 6,
-      "Рыбалко Ольга Александровна": 5
+      "gas:candidate-vibid:25620001003279": 6,
+      "gas:candidate-vibid:25620001003253": 139,
+      "gas:candidate-vibid:25620001004243": 39,
+      "gas:candidate-vibid:25620001004691": 3,
+      "gas:candidate-vibid:2562000994510": 49,
+      "gas:candidate-vibid:2562000991851": 15,
+      "gas:candidate-vibid:25620001004219": 6,
+      "gas:candidate-vibid:25620001004707": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 5,
-      "Заварзин Виктор Михайлович": 28,
-      "Иванов Александр Анатольевич": 14,
-      "Исмагилов Руслан Шавкатович": 4,
-      "Кулахметов Кайрат Жайгунусович": 21,
-      "Мирохин Владимир Юрьевич": 9,
-      "Нетесанов Сергей Дмитриевич": 2,
-      "Рыбалко Ольга Александровна": 1
+      "gas:candidate-vibid:25620001003279": 5,
+      "gas:candidate-vibid:25620001003253": 28,
+      "gas:candidate-vibid:25620001004243": 14,
+      "gas:candidate-vibid:25620001004691": 4,
+      "gas:candidate-vibid:2562000994510": 21,
+      "gas:candidate-vibid:2562000991851": 9,
+      "gas:candidate-vibid:25620001004219": 2,
+      "gas:candidate-vibid:25620001004707": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 7,
-      "Заварзин Виктор Михайлович": 144,
-      "Иванов Александр Анатольевич": 96,
-      "Исмагилов Руслан Шавкатович": 8,
-      "Кулахметов Кайрат Жайгунусович": 56,
-      "Мирохин Владимир Юрьевич": 56,
-      "Нетесанов Сергей Дмитриевич": 10,
-      "Рыбалко Ольга Александровна": 14
+      "gas:candidate-vibid:25620001003279": 7,
+      "gas:candidate-vibid:25620001003253": 144,
+      "gas:candidate-vibid:25620001004243": 96,
+      "gas:candidate-vibid:25620001004691": 8,
+      "gas:candidate-vibid:2562000994510": 56,
+      "gas:candidate-vibid:2562000991851": 56,
+      "gas:candidate-vibid:25620001004219": 10,
+      "gas:candidate-vibid:25620001004707": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 1,
-      "Заварзин Виктор Михайлович": 75,
-      "Иванов Александр Анатольевич": 36,
-      "Исмагилов Руслан Шавкатович": 1,
-      "Кулахметов Кайрат Жайгунусович": 12,
-      "Мирохин Владимир Юрьевич": 30,
-      "Нетесанов Сергей Дмитриевич": 0,
-      "Рыбалко Ольга Александровна": 8
+      "gas:candidate-vibid:25620001003279": 1,
+      "gas:candidate-vibid:25620001003253": 75,
+      "gas:candidate-vibid:25620001004243": 36,
+      "gas:candidate-vibid:25620001004691": 1,
+      "gas:candidate-vibid:2562000994510": 12,
+      "gas:candidate-vibid:2562000991851": 30,
+      "gas:candidate-vibid:25620001004219": 0,
+      "gas:candidate-vibid:25620001004707": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 2,
-      "Заварзин Виктор Михайлович": 40,
-      "Иванов Александр Анатольевич": 15,
-      "Исмагилов Руслан Шавкатович": 6,
-      "Кулахметов Кайрат Жайгунусович": 13,
-      "Мирохин Владимир Юрьевич": 5,
-      "Нетесанов Сергей Дмитриевич": 0,
-      "Рыбалко Ольга Александровна": 2
+      "gas:candidate-vibid:25620001003279": 2,
+      "gas:candidate-vibid:25620001003253": 40,
+      "gas:candidate-vibid:25620001004243": 15,
+      "gas:candidate-vibid:25620001004691": 6,
+      "gas:candidate-vibid:2562000994510": 13,
+      "gas:candidate-vibid:2562000991851": 5,
+      "gas:candidate-vibid:25620001004219": 0,
+      "gas:candidate-vibid:25620001004707": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 1,
-      "Заварзин Виктор Михайлович": 61,
-      "Иванов Александр Анатольевич": 35,
-      "Исмагилов Руслан Шавкатович": 4,
-      "Кулахметов Кайрат Жайгунусович": 18,
-      "Мирохин Владимир Юрьевич": 6,
-      "Нетесанов Сергей Дмитриевич": 2,
-      "Рыбалко Ольга Александровна": 0
+      "gas:candidate-vibid:25620001003279": 1,
+      "gas:candidate-vibid:25620001003253": 61,
+      "gas:candidate-vibid:25620001004243": 35,
+      "gas:candidate-vibid:25620001004691": 4,
+      "gas:candidate-vibid:2562000994510": 18,
+      "gas:candidate-vibid:2562000991851": 6,
+      "gas:candidate-vibid:25620001004219": 2,
+      "gas:candidate-vibid:25620001004707": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 3,
-      "Заварзин Виктор Михайлович": 30,
-      "Иванов Александр Анатольевич": 24,
-      "Исмагилов Руслан Шавкатович": 3,
-      "Кулахметов Кайрат Жайгунусович": 18,
-      "Мирохин Владимир Юрьевич": 8,
-      "Нетесанов Сергей Дмитриевич": 5,
-      "Рыбалко Ольга Александровна": 0
+      "gas:candidate-vibid:25620001003279": 3,
+      "gas:candidate-vibid:25620001003253": 30,
+      "gas:candidate-vibid:25620001004243": 24,
+      "gas:candidate-vibid:25620001004691": 3,
+      "gas:candidate-vibid:2562000994510": 18,
+      "gas:candidate-vibid:2562000991851": 8,
+      "gas:candidate-vibid:25620001004219": 5,
+      "gas:candidate-vibid:25620001004707": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 7,
-      "Заварзин Виктор Михайлович": 159,
-      "Иванов Александр Анатольевич": 97,
-      "Исмагилов Руслан Шавкатович": 9,
-      "Кулахметов Кайрат Жайгунусович": 51,
-      "Мирохин Владимир Юрьевич": 83,
-      "Нетесанов Сергей Дмитриевич": 3,
-      "Рыбалко Ольга Александровна": 14
+      "gas:candidate-vibid:25620001003279": 7,
+      "gas:candidate-vibid:25620001003253": 159,
+      "gas:candidate-vibid:25620001004243": 97,
+      "gas:candidate-vibid:25620001004691": 9,
+      "gas:candidate-vibid:2562000994510": 51,
+      "gas:candidate-vibid:2562000991851": 83,
+      "gas:candidate-vibid:25620001004219": 3,
+      "gas:candidate-vibid:25620001004707": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 3,
-      "Заварзин Виктор Михайлович": 65,
-      "Иванов Александр Анатольевич": 44,
-      "Исмагилов Руслан Шавкатович": 2,
-      "Кулахметов Кайрат Жайгунусович": 26,
-      "Мирохин Владимир Юрьевич": 30,
-      "Нетесанов Сергей Дмитриевич": 5,
-      "Рыбалко Ольга Александровна": 6
+      "gas:candidate-vibid:25620001003279": 3,
+      "gas:candidate-vibid:25620001003253": 65,
+      "gas:candidate-vibid:25620001004243": 44,
+      "gas:candidate-vibid:25620001004691": 2,
+      "gas:candidate-vibid:2562000994510": 26,
+      "gas:candidate-vibid:2562000991851": 30,
+      "gas:candidate-vibid:25620001004219": 5,
+      "gas:candidate-vibid:25620001004707": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 3,
-      "Заварзин Виктор Михайлович": 87,
-      "Иванов Александр Анатольевич": 50,
-      "Исмагилов Руслан Шавкатович": 7,
-      "Кулахметов Кайрат Жайгунусович": 44,
-      "Мирохин Владимир Юрьевич": 58,
-      "Нетесанов Сергей Дмитриевич": 7,
-      "Рыбалко Ольга Александровна": 12
+      "gas:candidate-vibid:25620001003279": 3,
+      "gas:candidate-vibid:25620001003253": 87,
+      "gas:candidate-vibid:25620001004243": 50,
+      "gas:candidate-vibid:25620001004691": 7,
+      "gas:candidate-vibid:2562000994510": 44,
+      "gas:candidate-vibid:2562000991851": 58,
+      "gas:candidate-vibid:25620001004219": 7,
+      "gas:candidate-vibid:25620001004707": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_56_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бенцман Сергей Исакович": 4,
-      "Заварзин Виктор Михайлович": 26,
-      "Иванов Александр Анатольевич": 21,
-      "Исмагилов Руслан Шавкатович": 2,
-      "Кулахметов Кайрат Жайгунусович": 15,
-      "Мирохин Владимир Юрьевич": 18,
-      "Нетесанов Сергей Дмитриевич": 1,
-      "Рыбалко Ольга Александровна": 1
+      "gas:candidate-vibid:25620001003279": 4,
+      "gas:candidate-vibid:25620001003253": 26,
+      "gas:candidate-vibid:25620001004243": 21,
+      "gas:candidate-vibid:25620001004691": 2,
+      "gas:candidate-vibid:2562000994510": 15,
+      "gas:candidate-vibid:2562000991851": 18,
+      "gas:candidate-vibid:25620001004219": 1,
+      "gas:candidate-vibid:25620001004707": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/orenburg?action=show&root=1000189&tvd=2562000922529&vrn=100100067795849&region=56&global=&sub_region=56&prver=0&pronetvd=null&vibid=2562000922529&type=464",

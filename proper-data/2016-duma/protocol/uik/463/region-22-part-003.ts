@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 87,
-      "Молотов Александр Владимирович": 20,
-      "Резникова Татьяна Владимировна": 8,
-      "Рыжков Владимир Александрович": 23,
-      "Сартаков Андрей Александрович": 38,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 20
+      "gas:candidate-vibid:22220001365897": 87,
+      "gas:candidate-vibid:22220001359266": 20,
+      "gas:candidate-vibid:22220001370606": 8,
+      "gas:candidate-vibid:22220001368892": 23,
+      "gas:candidate-vibid:22220001368781": 38,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 216,
-      "Молотов Александр Владимирович": 76,
-      "Резникова Татьяна Владимировна": 20,
-      "Рыжков Владимир Александрович": 80,
-      "Сартаков Андрей Александрович": 99,
-      "Чеснов Павел Алексеевич": 15,
-      "Щукин Андрей Евгеньевич": 138
+      "gas:candidate-vibid:22220001365897": 216,
+      "gas:candidate-vibid:22220001359266": 76,
+      "gas:candidate-vibid:22220001370606": 20,
+      "gas:candidate-vibid:22220001368892": 80,
+      "gas:candidate-vibid:22220001368781": 99,
+      "gas:candidate-vibid:22220001368994": 15,
+      "gas:candidate-vibid:22220001352021": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 35,
-      "Молотов Александр Владимирович": 9,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 10,
-      "Сартаков Андрей Александрович": 14,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 2
+      "gas:candidate-vibid:22220001365897": 35,
+      "gas:candidate-vibid:22220001359266": 9,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 10,
+      "gas:candidate-vibid:22220001368781": 14,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 26,
-      "Молотов Александр Владимирович": 11,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 15,
-      "Чеснов Павел Алексеевич": 0,
-      "Щукин Андрей Евгеньевич": 9
+      "gas:candidate-vibid:22220001365897": 26,
+      "gas:candidate-vibid:22220001359266": 11,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 15,
+      "gas:candidate-vibid:22220001368994": 0,
+      "gas:candidate-vibid:22220001352021": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 41,
-      "Молотов Александр Владимирович": 21,
-      "Резникова Татьяна Владимировна": 7,
-      "Рыжков Владимир Александрович": 13,
-      "Сартаков Андрей Александрович": 22,
-      "Чеснов Павел Алексеевич": 5,
-      "Щукин Андрей Евгеньевич": 9
+      "gas:candidate-vibid:22220001365897": 41,
+      "gas:candidate-vibid:22220001359266": 21,
+      "gas:candidate-vibid:22220001370606": 7,
+      "gas:candidate-vibid:22220001368892": 13,
+      "gas:candidate-vibid:22220001368781": 22,
+      "gas:candidate-vibid:22220001368994": 5,
+      "gas:candidate-vibid:22220001352021": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 48,
-      "Молотов Александр Владимирович": 14,
-      "Резникова Татьяна Владимировна": 2,
-      "Рыжков Владимир Александрович": 9,
-      "Сартаков Андрей Александрович": 25,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 17
+      "gas:candidate-vibid:22220001365897": 48,
+      "gas:candidate-vibid:22220001359266": 14,
+      "gas:candidate-vibid:22220001370606": 2,
+      "gas:candidate-vibid:22220001368892": 9,
+      "gas:candidate-vibid:22220001368781": 25,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 24,
-      "Молотов Александр Владимирович": 6,
-      "Резникова Татьяна Владимировна": 3,
-      "Рыжков Владимир Александрович": 16,
-      "Сартаков Андрей Александрович": 22,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 1
+      "gas:candidate-vibid:22220001365897": 24,
+      "gas:candidate-vibid:22220001359266": 6,
+      "gas:candidate-vibid:22220001370606": 3,
+      "gas:candidate-vibid:22220001368892": 16,
+      "gas:candidate-vibid:22220001368781": 22,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 43,
-      "Молотов Александр Владимирович": 15,
-      "Резникова Татьяна Владимировна": 10,
-      "Рыжков Владимир Александрович": 7,
-      "Сартаков Андрей Александрович": 27,
-      "Чеснов Павел Алексеевич": 1,
-      "Щукин Андрей Евгеньевич": 10
+      "gas:candidate-vibid:22220001365897": 43,
+      "gas:candidate-vibid:22220001359266": 15,
+      "gas:candidate-vibid:22220001370606": 10,
+      "gas:candidate-vibid:22220001368892": 7,
+      "gas:candidate-vibid:22220001368781": 27,
+      "gas:candidate-vibid:22220001368994": 1,
+      "gas:candidate-vibid:22220001352021": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 104,
-      "Молотов Александр Владимирович": 59,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 50,
-      "Сартаков Андрей Александрович": 84,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 25
+      "gas:candidate-vibid:22220001365897": 104,
+      "gas:candidate-vibid:22220001359266": 59,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 50,
+      "gas:candidate-vibid:22220001368781": 84,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 164,
-      "Молотов Александр Владимирович": 39,
-      "Резникова Татьяна Владимировна": 16,
-      "Рыжков Владимир Александрович": 53,
-      "Сартаков Андрей Александрович": 63,
-      "Чеснов Павел Алексеевич": 4,
-      "Щукин Андрей Евгеньевич": 28
+      "gas:candidate-vibid:22220001365897": 164,
+      "gas:candidate-vibid:22220001359266": 39,
+      "gas:candidate-vibid:22220001370606": 16,
+      "gas:candidate-vibid:22220001368892": 53,
+      "gas:candidate-vibid:22220001368781": 63,
+      "gas:candidate-vibid:22220001368994": 4,
+      "gas:candidate-vibid:22220001352021": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 87,
-      "Молотов Александр Владимирович": 19,
-      "Резникова Татьяна Владимировна": 9,
-      "Рыжков Владимир Александрович": 8,
-      "Сартаков Андрей Александрович": 15,
-      "Чеснов Павел Алексеевич": 2,
-      "Щукин Андрей Евгеньевич": 8
+      "gas:candidate-vibid:22220001365897": 87,
+      "gas:candidate-vibid:22220001359266": 19,
+      "gas:candidate-vibid:22220001370606": 9,
+      "gas:candidate-vibid:22220001368892": 8,
+      "gas:candidate-vibid:22220001368781": 15,
+      "gas:candidate-vibid:22220001368994": 2,
+      "gas:candidate-vibid:22220001352021": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бессарабов Даниил Владимирович": 63,
-      "Молотов Александр Владимирович": 31,
-      "Резникова Татьяна Владимировна": 5,
-      "Рыжков Владимир Александрович": 18,
-      "Сартаков Андрей Александрович": 35,
-      "Чеснов Павел Алексеевич": 3,
-      "Щукин Андрей Евгеньевич": 13
+      "gas:candidate-vibid:22220001365897": 63,
+      "gas:candidate-vibid:22220001359266": 31,
+      "gas:candidate-vibid:22220001370606": 5,
+      "gas:candidate-vibid:22220001368892": 18,
+      "gas:candidate-vibid:22220001368781": 35,
+      "gas:candidate-vibid:22220001368994": 3,
+      "gas:candidate-vibid:22220001352021": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000058&tvd=22220001272348&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272348&type=464",
@@ -727,15 +727,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 20,
-      "Зобнев Виктор Викторович": 38,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 31,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 20,
+      "gas:candidate-vibid:22220001363641": 38,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 31,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -786,15 +786,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 94,
-      "Зобнев Виктор Викторович": 78,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 19,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 50,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 94,
+      "gas:candidate-vibid:22220001363641": 78,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 19,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 50,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -845,15 +845,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 32,
-      "Зобнев Виктор Викторович": 41,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 3,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 22
+      "gas:candidate-vibid:22220001362282": 32,
+      "gas:candidate-vibid:22220001363641": 41,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 3,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -904,15 +904,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 91,
-      "Зобнев Виктор Викторович": 93,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 25,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 35,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 91,
+      "gas:candidate-vibid:22220001363641": 93,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 25,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 35,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -963,15 +963,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 131,
-      "Зобнев Виктор Викторович": 79,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 22,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 36
+      "gas:candidate-vibid:22220001362282": 131,
+      "gas:candidate-vibid:22220001363641": 79,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 22,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1022,15 +1022,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 26,
-      "Зобнев Виктор Викторович": 39,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 2,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 2,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 4
+      "gas:candidate-vibid:22220001362282": 26,
+      "gas:candidate-vibid:22220001363641": 39,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 2,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 2,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1081,15 +1081,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 35,
-      "Зобнев Виктор Викторович": 19,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 35,
+      "gas:candidate-vibid:22220001363641": 19,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1140,15 +1140,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 55,
-      "Зобнев Виктор Викторович": 70,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 21,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 55,
+      "gas:candidate-vibid:22220001363641": 70,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 21,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1199,15 +1199,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 98,
-      "Зобнев Виктор Викторович": 135,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 31,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 48
+      "gas:candidate-vibid:22220001362282": 98,
+      "gas:candidate-vibid:22220001363641": 135,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 31,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1258,15 +1258,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 142,
-      "Зобнев Виктор Викторович": 96,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 35,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 25
+      "gas:candidate-vibid:22220001362282": 142,
+      "gas:candidate-vibid:22220001363641": 96,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 35,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1317,15 +1317,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 65,
-      "Зобнев Виктор Викторович": 54,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 9,
-      "Останина Нина Александровна": 19,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 23
+      "gas:candidate-vibid:22220001362282": 65,
+      "gas:candidate-vibid:22220001363641": 54,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 9,
+      "gas:candidate-vibid:22220001369414": 19,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1376,15 +1376,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 25,
-      "Зобнев Виктор Викторович": 57,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 3,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 4,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 16
+      "gas:candidate-vibid:22220001362282": 25,
+      "gas:candidate-vibid:22220001363641": 57,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 3,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 4,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1435,15 +1435,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 29,
-      "Зобнев Виктор Викторович": 33,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 3,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 4
+      "gas:candidate-vibid:22220001362282": 29,
+      "gas:candidate-vibid:22220001363641": 33,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 3,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1494,15 +1494,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 23,
-      "Зобнев Виктор Викторович": 55,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 13
+      "gas:candidate-vibid:22220001362282": 23,
+      "gas:candidate-vibid:22220001363641": 55,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1553,15 +1553,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 28,
-      "Зобнев Виктор Викторович": 29,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 19
+      "gas:candidate-vibid:22220001362282": 28,
+      "gas:candidate-vibid:22220001363641": 29,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1612,15 +1612,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 143,
-      "Зобнев Виктор Викторович": 89,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 31,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 143,
+      "gas:candidate-vibid:22220001363641": 89,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 31,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1671,15 +1671,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 102,
-      "Зобнев Виктор Викторович": 110,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 15,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 29,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 102,
+      "gas:candidate-vibid:22220001363641": 110,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 15,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 29,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1730,15 +1730,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 20,
-      "Зобнев Виктор Викторович": 21,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 3,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 11
+      "gas:candidate-vibid:22220001362282": 20,
+      "gas:candidate-vibid:22220001363641": 21,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 3,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1789,15 +1789,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 61,
-      "Зобнев Виктор Викторович": 32,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 15,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 5
+      "gas:candidate-vibid:22220001362282": 61,
+      "gas:candidate-vibid:22220001363641": 32,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 15,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1848,15 +1848,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 25,
-      "Зобнев Виктор Викторович": 20,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 12,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 17
+      "gas:candidate-vibid:22220001362282": 25,
+      "gas:candidate-vibid:22220001363641": 20,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 12,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1907,15 +1907,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 94,
-      "Зобнев Виктор Викторович": 119,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 44,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 25
+      "gas:candidate-vibid:22220001362282": 94,
+      "gas:candidate-vibid:22220001363641": 119,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 44,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -1966,15 +1966,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 60,
-      "Зобнев Виктор Викторович": 59,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 10,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 12
+      "gas:candidate-vibid:22220001362282": 60,
+      "gas:candidate-vibid:22220001363641": 59,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 10,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2025,15 +2025,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 56,
-      "Зобнев Виктор Викторович": 61,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 17,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 9
+      "gas:candidate-vibid:22220001362282": 56,
+      "gas:candidate-vibid:22220001363641": 61,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 17,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2084,15 +2084,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 81,
-      "Зобнев Виктор Викторович": 65,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 22,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 19
+      "gas:candidate-vibid:22220001362282": 81,
+      "gas:candidate-vibid:22220001363641": 65,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 22,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2143,15 +2143,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 197,
-      "Зобнев Виктор Викторович": 95,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 37,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 49
+      "gas:candidate-vibid:22220001362282": 197,
+      "gas:candidate-vibid:22220001363641": 95,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 37,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2202,15 +2202,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 132,
-      "Зобнев Виктор Викторович": 165,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 11,
-      "Останина Нина Александровна": 43,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 31
+      "gas:candidate-vibid:22220001362282": 132,
+      "gas:candidate-vibid:22220001363641": 165,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 11,
+      "gas:candidate-vibid:22220001369414": 43,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2261,15 +2261,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 61,
-      "Зобнев Виктор Викторович": 128,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 14,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 18,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 61,
+      "gas:candidate-vibid:22220001363641": 128,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 14,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 18,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2320,15 +2320,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 113,
-      "Зобнев Виктор Викторович": 126,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 8,
-      "Останина Нина Александровна": 45,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 27
+      "gas:candidate-vibid:22220001362282": 113,
+      "gas:candidate-vibid:22220001363641": 126,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 8,
+      "gas:candidate-vibid:22220001369414": 45,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2379,15 +2379,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 27,
-      "Зобнев Виктор Викторович": 20,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 10,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 11
+      "gas:candidate-vibid:22220001362282": 27,
+      "gas:candidate-vibid:22220001363641": 20,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 10,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2438,15 +2438,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 89,
-      "Зобнев Виктор Викторович": 82,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 31,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 89,
+      "gas:candidate-vibid:22220001363641": 82,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 31,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2497,15 +2497,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 140,
-      "Зобнев Виктор Викторович": 90,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 11,
-      "Останина Нина Александровна": 24,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 39
+      "gas:candidate-vibid:22220001362282": 140,
+      "gas:candidate-vibid:22220001363641": 90,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 11,
+      "gas:candidate-vibid:22220001369414": 24,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2556,15 +2556,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 246,
-      "Зобнев Виктор Викторович": 246,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 38,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 13,
-      "Останина Нина Александровна": 116,
-      "Рау Виктор Филиппович": 25,
-      "Шудра Ирина Павловна": 144
+      "gas:candidate-vibid:22220001362282": 246,
+      "gas:candidate-vibid:22220001363641": 246,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 38,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 13,
+      "gas:candidate-vibid:22220001369414": 116,
+      "gas:candidate-vibid:22220001369102": 25,
+      "gas:candidate-vibid:22220001321222": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2615,15 +2615,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 110,
-      "Зобнев Виктор Викторович": 76,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 35,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 50
+      "gas:candidate-vibid:22220001362282": 110,
+      "gas:candidate-vibid:22220001363641": 76,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 35,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2674,15 +2674,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 241,
-      "Зобнев Виктор Викторович": 193,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 36,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 19,
-      "Останина Нина Александровна": 108,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 121
+      "gas:candidate-vibid:22220001362282": 241,
+      "gas:candidate-vibid:22220001363641": 193,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 36,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 19,
+      "gas:candidate-vibid:22220001369414": 108,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2733,15 +2733,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 278,
-      "Зобнев Виктор Викторович": 266,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 50,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 22,
-      "Останина Нина Александровна": 110,
-      "Рау Виктор Филиппович": 11,
-      "Шудра Ирина Павловна": 131
+      "gas:candidate-vibid:22220001362282": 278,
+      "gas:candidate-vibid:22220001363641": 266,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 50,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 22,
+      "gas:candidate-vibid:22220001369414": 110,
+      "gas:candidate-vibid:22220001369102": 11,
+      "gas:candidate-vibid:22220001321222": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2792,15 +2792,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 77,
-      "Зобнев Виктор Викторович": 65,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 11,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 29,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 42
+      "gas:candidate-vibid:22220001362282": 77,
+      "gas:candidate-vibid:22220001363641": 65,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 11,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 29,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272349&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272349&type=464",
@@ -2851,15 +2851,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 55,
-      "Зобнев Виктор Викторович": 89,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 16,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 18,
-      "Останина Нина Александровна": 34,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 20
+      "gas:candidate-vibid:22220001362282": 55,
+      "gas:candidate-vibid:22220001363641": 89,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 16,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 18,
+      "gas:candidate-vibid:22220001369414": 34,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -2910,15 +2910,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 36,
-      "Зобнев Виктор Викторович": 33,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 6
+      "gas:candidate-vibid:22220001362282": 36,
+      "gas:candidate-vibid:22220001363641": 33,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -2969,15 +2969,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 3,
-      "Зобнев Виктор Викторович": 7,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 0,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 1,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 2
+      "gas:candidate-vibid:22220001362282": 3,
+      "gas:candidate-vibid:22220001363641": 7,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 0,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 1,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3028,15 +3028,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 54,
-      "Зобнев Виктор Викторович": 126,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 34,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 30,
-      "Останина Нина Александровна": 87,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 30
+      "gas:candidate-vibid:22220001362282": 54,
+      "gas:candidate-vibid:22220001363641": 126,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 34,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 30,
+      "gas:candidate-vibid:22220001369414": 87,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3087,15 +3087,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 41,
-      "Зобнев Виктор Викторович": 51,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 4,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 22,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 16
+      "gas:candidate-vibid:22220001362282": 41,
+      "gas:candidate-vibid:22220001363641": 51,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 4,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 22,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3146,15 +3146,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 75,
-      "Зобнев Виктор Викторович": 91,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 25,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 54,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 49
+      "gas:candidate-vibid:22220001362282": 75,
+      "gas:candidate-vibid:22220001363641": 91,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 25,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 54,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3205,15 +3205,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 9,
-      "Зобнев Виктор Викторович": 31,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 9,
+      "gas:candidate-vibid:22220001363641": 31,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3264,15 +3264,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 31,
-      "Зобнев Виктор Викторович": 99,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 11,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 22,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 22
+      "gas:candidate-vibid:22220001362282": 31,
+      "gas:candidate-vibid:22220001363641": 99,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 11,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 22,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3323,15 +3323,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 34,
-      "Зобнев Виктор Викторович": 48,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 22,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 50,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 16
+      "gas:candidate-vibid:22220001362282": 34,
+      "gas:candidate-vibid:22220001363641": 48,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 22,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 50,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3382,15 +3382,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 5,
-      "Зобнев Виктор Викторович": 16,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 2,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 1
+      "gas:candidate-vibid:22220001362282": 5,
+      "gas:candidate-vibid:22220001363641": 16,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 2,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3441,15 +3441,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 9,
-      "Зобнев Виктор Викторович": 16,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 2,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 9,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 11
+      "gas:candidate-vibid:22220001362282": 9,
+      "gas:candidate-vibid:22220001363641": 16,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 2,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 9,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3500,15 +3500,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 117,
-      "Зобнев Виктор Викторович": 189,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 28,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 22,
-      "Останина Нина Александровна": 149,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 125
+      "gas:candidate-vibid:22220001362282": 117,
+      "gas:candidate-vibid:22220001363641": 189,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 28,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 22,
+      "gas:candidate-vibid:22220001369414": 149,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3559,15 +3559,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 112,
-      "Зобнев Виктор Викторович": 233,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 43,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 36,
-      "Останина Нина Александровна": 194,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 97
+      "gas:candidate-vibid:22220001362282": 112,
+      "gas:candidate-vibid:22220001363641": 233,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 43,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 36,
+      "gas:candidate-vibid:22220001369414": 194,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3618,15 +3618,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 36,
-      "Зобнев Виктор Викторович": 46,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 16,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 11
+      "gas:candidate-vibid:22220001362282": 36,
+      "gas:candidate-vibid:22220001363641": 46,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 16,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3677,15 +3677,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 57,
-      "Зобнев Виктор Викторович": 167,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 40,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 47
+      "gas:candidate-vibid:22220001362282": 57,
+      "gas:candidate-vibid:22220001363641": 167,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 40,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3736,15 +3736,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 15,
-      "Зобнев Виктор Викторович": 43,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 2,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 2
+      "gas:candidate-vibid:22220001362282": 15,
+      "gas:candidate-vibid:22220001363641": 43,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 2,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3795,15 +3795,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 15,
-      "Зобнев Виктор Викторович": 40,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 15,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 11
+      "gas:candidate-vibid:22220001362282": 15,
+      "gas:candidate-vibid:22220001363641": 40,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 15,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3854,15 +3854,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 51,
-      "Зобнев Виктор Викторович": 14,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 9,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 16
+      "gas:candidate-vibid:22220001362282": 51,
+      "gas:candidate-vibid:22220001363641": 14,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 9,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3913,15 +3913,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 49,
-      "Зобнев Виктор Викторович": 55,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 16,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 97,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 29
+      "gas:candidate-vibid:22220001362282": 49,
+      "gas:candidate-vibid:22220001363641": 55,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 16,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 97,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -3972,15 +3972,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 16,
-      "Зобнев Виктор Викторович": 42,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 6,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 7
+      "gas:candidate-vibid:22220001362282": 16,
+      "gas:candidate-vibid:22220001363641": 42,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 6,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -4031,15 +4031,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 47,
-      "Зобнев Виктор Викторович": 107,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 16,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 52,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 41
+      "gas:candidate-vibid:22220001362282": 47,
+      "gas:candidate-vibid:22220001363641": 107,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 16,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 52,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272350&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272350&type=464",
@@ -4090,15 +4090,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 144,
-      "Зобнев Виктор Викторович": 354,
-      "Зонов Александр Сергеевич": 18,
-      "Крамсков Антон Юрьевич": 53,
-      "Малыхин Сергей Иванович": 18,
-      "Назаренко Николай Васильевич": 58,
-      "Останина Нина Александровна": 187,
-      "Рау Виктор Филиппович": 26,
-      "Шудра Ирина Павловна": 355
+      "gas:candidate-vibid:22220001362282": 144,
+      "gas:candidate-vibid:22220001363641": 354,
+      "gas:candidate-vibid:22220001369517": 18,
+      "gas:candidate-vibid:22220001369017": 53,
+      "gas:candidate-vibid:22220001365540": 18,
+      "gas:candidate-vibid:22220001368942": 58,
+      "gas:candidate-vibid:22220001369414": 187,
+      "gas:candidate-vibid:22220001369102": 26,
+      "gas:candidate-vibid:22220001321222": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4149,15 +4149,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 119,
-      "Зобнев Виктор Викторович": 194,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 47,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 37,
-      "Останина Нина Александровна": 152,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 340
+      "gas:candidate-vibid:22220001362282": 119,
+      "gas:candidate-vibid:22220001363641": 194,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 47,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 37,
+      "gas:candidate-vibid:22220001369414": 152,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4208,15 +4208,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 101,
-      "Зобнев Виктор Викторович": 182,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 48,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 27,
-      "Останина Нина Александровна": 119,
-      "Рау Виктор Филиппович": 17,
-      "Шудра Ирина Павловна": 207
+      "gas:candidate-vibid:22220001362282": 101,
+      "gas:candidate-vibid:22220001363641": 182,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 48,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 27,
+      "gas:candidate-vibid:22220001369414": 119,
+      "gas:candidate-vibid:22220001369102": 17,
+      "gas:candidate-vibid:22220001321222": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4267,15 +4267,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 87,
-      "Зобнев Виктор Викторович": 147,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 28,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 34,
-      "Останина Нина Александровна": 112,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 177
+      "gas:candidate-vibid:22220001362282": 87,
+      "gas:candidate-vibid:22220001363641": 147,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 28,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 34,
+      "gas:candidate-vibid:22220001369414": 112,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4326,15 +4326,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 88,
-      "Зобнев Виктор Викторович": 129,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 33,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 29,
-      "Останина Нина Александровна": 75,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 254
+      "gas:candidate-vibid:22220001362282": 88,
+      "gas:candidate-vibid:22220001363641": 129,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 33,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 29,
+      "gas:candidate-vibid:22220001369414": 75,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4385,15 +4385,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 83,
-      "Зобнев Виктор Викторович": 188,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 38,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 59,
-      "Останина Нина Александровна": 107,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 293
+      "gas:candidate-vibid:22220001362282": 83,
+      "gas:candidate-vibid:22220001363641": 188,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 38,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 59,
+      "gas:candidate-vibid:22220001369414": 107,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4444,15 +4444,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 112,
-      "Зобнев Виктор Викторович": 171,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 44,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 34,
-      "Останина Нина Александровна": 141,
-      "Рау Виктор Филиппович": 19,
-      "Шудра Ирина Павловна": 267
+      "gas:candidate-vibid:22220001362282": 112,
+      "gas:candidate-vibid:22220001363641": 171,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 44,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 34,
+      "gas:candidate-vibid:22220001369414": 141,
+      "gas:candidate-vibid:22220001369102": 19,
+      "gas:candidate-vibid:22220001321222": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4503,15 +4503,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 112,
-      "Зобнев Виктор Викторович": 159,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 45,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 35,
-      "Останина Нина Александровна": 121,
-      "Рау Виктор Филиппович": 19,
-      "Шудра Ирина Павловна": 232
+      "gas:candidate-vibid:22220001362282": 112,
+      "gas:candidate-vibid:22220001363641": 159,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 45,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 35,
+      "gas:candidate-vibid:22220001369414": 121,
+      "gas:candidate-vibid:22220001369102": 19,
+      "gas:candidate-vibid:22220001321222": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4562,15 +4562,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 81,
-      "Зобнев Виктор Викторович": 148,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 14,
-      "Назаренко Николай Васильевич": 15,
-      "Останина Нина Александровна": 113,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 215
+      "gas:candidate-vibid:22220001362282": 81,
+      "gas:candidate-vibid:22220001363641": 148,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 14,
+      "gas:candidate-vibid:22220001368942": 15,
+      "gas:candidate-vibid:22220001369414": 113,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4621,15 +4621,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 103,
-      "Зобнев Виктор Викторович": 162,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 34,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 38,
-      "Останина Нина Александровна": 101,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 217
+      "gas:candidate-vibid:22220001362282": 103,
+      "gas:candidate-vibid:22220001363641": 162,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 34,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 38,
+      "gas:candidate-vibid:22220001369414": 101,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4680,15 +4680,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 75,
-      "Зобнев Виктор Викторович": 177,
-      "Зонов Александр Сергеевич": 16,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 44,
-      "Останина Нина Александровна": 97,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 236
+      "gas:candidate-vibid:22220001362282": 75,
+      "gas:candidate-vibid:22220001363641": 177,
+      "gas:candidate-vibid:22220001369517": 16,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 44,
+      "gas:candidate-vibid:22220001369414": 97,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4739,15 +4739,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 109,
-      "Зобнев Виктор Викторович": 245,
-      "Зонов Александр Сергеевич": 17,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 13,
-      "Назаренко Николай Васильевич": 48,
-      "Останина Нина Александровна": 133,
-      "Рау Виктор Филиппович": 21,
-      "Шудра Ирина Павловна": 223
+      "gas:candidate-vibid:22220001362282": 109,
+      "gas:candidate-vibid:22220001363641": 245,
+      "gas:candidate-vibid:22220001369517": 17,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 13,
+      "gas:candidate-vibid:22220001368942": 48,
+      "gas:candidate-vibid:22220001369414": 133,
+      "gas:candidate-vibid:22220001369102": 21,
+      "gas:candidate-vibid:22220001321222": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4798,15 +4798,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 96,
-      "Зобнев Виктор Викторович": 234,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 39,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 35,
-      "Останина Нина Александровна": 128,
-      "Рау Виктор Филиппович": 19,
-      "Шудра Ирина Павловна": 273
+      "gas:candidate-vibid:22220001362282": 96,
+      "gas:candidate-vibid:22220001363641": 234,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 39,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 35,
+      "gas:candidate-vibid:22220001369414": 128,
+      "gas:candidate-vibid:22220001369102": 19,
+      "gas:candidate-vibid:22220001321222": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4857,15 +4857,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 110,
-      "Зобнев Виктор Викторович": 207,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 13,
-      "Назаренко Николай Васильевич": 50,
-      "Останина Нина Александровна": 118,
-      "Рау Виктор Филиппович": 22,
-      "Шудра Ирина Павловна": 234
+      "gas:candidate-vibid:22220001362282": 110,
+      "gas:candidate-vibid:22220001363641": 207,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 13,
+      "gas:candidate-vibid:22220001368942": 50,
+      "gas:candidate-vibid:22220001369414": 118,
+      "gas:candidate-vibid:22220001369102": 22,
+      "gas:candidate-vibid:22220001321222": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4916,15 +4916,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 108,
-      "Зобнев Виктор Викторович": 241,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 45,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 58,
-      "Останина Нина Александровна": 127,
-      "Рау Виктор Филиппович": 24,
-      "Шудра Ирина Павловна": 315
+      "gas:candidate-vibid:22220001362282": 108,
+      "gas:candidate-vibid:22220001363641": 241,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 45,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 58,
+      "gas:candidate-vibid:22220001369414": 127,
+      "gas:candidate-vibid:22220001369102": 24,
+      "gas:candidate-vibid:22220001321222": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -4975,15 +4975,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 100,
-      "Зобнев Виктор Викторович": 217,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 38,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 62,
-      "Останина Нина Александровна": 120,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 213
+      "gas:candidate-vibid:22220001362282": 100,
+      "gas:candidate-vibid:22220001363641": 217,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 38,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 62,
+      "gas:candidate-vibid:22220001369414": 120,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5034,15 +5034,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 73,
-      "Зобнев Виктор Викторович": 180,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 34,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 35,
-      "Останина Нина Александровна": 140,
-      "Рау Виктор Филиппович": 12,
-      "Шудра Ирина Павловна": 159
+      "gas:candidate-vibid:22220001362282": 73,
+      "gas:candidate-vibid:22220001363641": 180,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 34,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 35,
+      "gas:candidate-vibid:22220001369414": 140,
+      "gas:candidate-vibid:22220001369102": 12,
+      "gas:candidate-vibid:22220001321222": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5093,15 +5093,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 108,
-      "Зобнев Виктор Викторович": 216,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 47,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 45,
-      "Останина Нина Александровна": 171,
-      "Рау Виктор Филиппович": 27,
-      "Шудра Ирина Павловна": 143
+      "gas:candidate-vibid:22220001362282": 108,
+      "gas:candidate-vibid:22220001363641": 216,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 47,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 45,
+      "gas:candidate-vibid:22220001369414": 171,
+      "gas:candidate-vibid:22220001369102": 27,
+      "gas:candidate-vibid:22220001321222": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5152,15 +5152,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 64,
-      "Зобнев Виктор Викторович": 168,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 35,
-      "Останина Нина Александровна": 156,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 123
+      "gas:candidate-vibid:22220001362282": 64,
+      "gas:candidate-vibid:22220001363641": 168,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 35,
+      "gas:candidate-vibid:22220001369414": 156,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5211,15 +5211,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 64,
-      "Зобнев Виктор Викторович": 153,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 35,
-      "Останина Нина Александровна": 145,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 132
+      "gas:candidate-vibid:22220001362282": 64,
+      "gas:candidate-vibid:22220001363641": 153,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 35,
+      "gas:candidate-vibid:22220001369414": 145,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5270,15 +5270,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 58,
-      "Зобнев Виктор Викторович": 176,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 54,
-      "Останина Нина Александровна": 137,
-      "Рау Виктор Филиппович": 14,
-      "Шудра Ирина Павловна": 146
+      "gas:candidate-vibid:22220001362282": 58,
+      "gas:candidate-vibid:22220001363641": 176,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 54,
+      "gas:candidate-vibid:22220001369414": 137,
+      "gas:candidate-vibid:22220001369102": 14,
+      "gas:candidate-vibid:22220001321222": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5329,15 +5329,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 87,
-      "Зобнев Виктор Викторович": 219,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 62,
-      "Останина Нина Александровна": 166,
-      "Рау Виктор Филиппович": 11,
-      "Шудра Ирина Павловна": 153
+      "gas:candidate-vibid:22220001362282": 87,
+      "gas:candidate-vibid:22220001363641": 219,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 62,
+      "gas:candidate-vibid:22220001369414": 166,
+      "gas:candidate-vibid:22220001369102": 11,
+      "gas:candidate-vibid:22220001321222": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5388,15 +5388,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 60,
-      "Зобнев Виктор Викторович": 163,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 46,
-      "Останина Нина Александровна": 152,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 140
+      "gas:candidate-vibid:22220001362282": 60,
+      "gas:candidate-vibid:22220001363641": 163,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 46,
+      "gas:candidate-vibid:22220001369414": 152,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5447,15 +5447,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 85,
-      "Зобнев Виктор Викторович": 208,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 44,
-      "Малыхин Сергей Иванович": 17,
-      "Назаренко Николай Васильевич": 40,
-      "Останина Нина Александровна": 181,
-      "Рау Виктор Филиппович": 20,
-      "Шудра Ирина Павловна": 195
+      "gas:candidate-vibid:22220001362282": 85,
+      "gas:candidate-vibid:22220001363641": 208,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 44,
+      "gas:candidate-vibid:22220001365540": 17,
+      "gas:candidate-vibid:22220001368942": 40,
+      "gas:candidate-vibid:22220001369414": 181,
+      "gas:candidate-vibid:22220001369102": 20,
+      "gas:candidate-vibid:22220001321222": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5506,15 +5506,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 104,
-      "Зобнев Виктор Викторович": 246,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 42,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 35,
-      "Останина Нина Александровна": 223,
-      "Рау Виктор Филиппович": 18,
-      "Шудра Ирина Павловна": 261
+      "gas:candidate-vibid:22220001362282": 104,
+      "gas:candidate-vibid:22220001363641": 246,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 42,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 35,
+      "gas:candidate-vibid:22220001369414": 223,
+      "gas:candidate-vibid:22220001369102": 18,
+      "gas:candidate-vibid:22220001321222": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5565,15 +5565,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 72,
-      "Зобнев Виктор Викторович": 205,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 14,
-      "Назаренко Николай Васильевич": 44,
-      "Останина Нина Александровна": 131,
-      "Рау Виктор Филиппович": 24,
-      "Шудра Ирина Павловна": 147
+      "gas:candidate-vibid:22220001362282": 72,
+      "gas:candidate-vibid:22220001363641": 205,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 14,
+      "gas:candidate-vibid:22220001368942": 44,
+      "gas:candidate-vibid:22220001369414": 131,
+      "gas:candidate-vibid:22220001369102": 24,
+      "gas:candidate-vibid:22220001321222": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5624,15 +5624,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 97,
-      "Зобнев Виктор Викторович": 196,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 39,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 38,
-      "Останина Нина Александровна": 206,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 204
+      "gas:candidate-vibid:22220001362282": 97,
+      "gas:candidate-vibid:22220001363641": 196,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 39,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 38,
+      "gas:candidate-vibid:22220001369414": 206,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5683,15 +5683,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 82,
-      "Зобнев Виктор Викторович": 197,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 32,
-      "Останина Нина Александровна": 145,
-      "Рау Виктор Филиппович": 17,
-      "Шудра Ирина Павловна": 186
+      "gas:candidate-vibid:22220001362282": 82,
+      "gas:candidate-vibid:22220001363641": 197,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 32,
+      "gas:candidate-vibid:22220001369414": 145,
+      "gas:candidate-vibid:22220001369102": 17,
+      "gas:candidate-vibid:22220001321222": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5742,15 +5742,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 91,
-      "Зобнев Виктор Викторович": 213,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 37,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 34,
-      "Останина Нина Александровна": 147,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 133
+      "gas:candidate-vibid:22220001362282": 91,
+      "gas:candidate-vibid:22220001363641": 213,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 37,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 34,
+      "gas:candidate-vibid:22220001369414": 147,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5801,15 +5801,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 83,
-      "Зобнев Виктор Викторович": 221,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 28,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 50,
-      "Останина Нина Александровна": 127,
-      "Рау Виктор Филиппович": 12,
-      "Шудра Ирина Павловна": 139
+      "gas:candidate-vibid:22220001362282": 83,
+      "gas:candidate-vibid:22220001363641": 221,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 28,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 50,
+      "gas:candidate-vibid:22220001369414": 127,
+      "gas:candidate-vibid:22220001369102": 12,
+      "gas:candidate-vibid:22220001321222": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5860,15 +5860,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 113,
-      "Зобнев Виктор Викторович": 232,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 36,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 57,
-      "Останина Нина Александровна": 180,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 186
+      "gas:candidate-vibid:22220001362282": 113,
+      "gas:candidate-vibid:22220001363641": 232,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 36,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 57,
+      "gas:candidate-vibid:22220001369414": 180,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5919,15 +5919,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 84,
-      "Зобнев Виктор Викторович": 204,
-      "Зонов Александр Сергеевич": 16,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 34,
-      "Останина Нина Александровна": 146,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 128
+      "gas:candidate-vibid:22220001362282": 84,
+      "gas:candidate-vibid:22220001363641": 204,
+      "gas:candidate-vibid:22220001369517": 16,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 34,
+      "gas:candidate-vibid:22220001369414": 146,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -5978,15 +5978,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 100,
-      "Зобнев Виктор Викторович": 213,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 37,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 31,
-      "Останина Нина Александровна": 183,
-      "Рау Виктор Филиппович": 15,
-      "Шудра Ирина Павловна": 184
+      "gas:candidate-vibid:22220001362282": 100,
+      "gas:candidate-vibid:22220001363641": 213,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 37,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 31,
+      "gas:candidate-vibid:22220001369414": 183,
+      "gas:candidate-vibid:22220001369102": 15,
+      "gas:candidate-vibid:22220001321222": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6037,15 +6037,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 120,
-      "Зобнев Виктор Викторович": 212,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 42,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 50,
-      "Останина Нина Александровна": 136,
-      "Рау Виктор Филиппович": 12,
-      "Шудра Ирина Павловна": 169
+      "gas:candidate-vibid:22220001362282": 120,
+      "gas:candidate-vibid:22220001363641": 212,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 42,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 50,
+      "gas:candidate-vibid:22220001369414": 136,
+      "gas:candidate-vibid:22220001369102": 12,
+      "gas:candidate-vibid:22220001321222": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6096,15 +6096,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 100,
-      "Зобнев Виктор Викторович": 234,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 29,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 50,
-      "Останина Нина Александровна": 135,
-      "Рау Виктор Филиппович": 9,
-      "Шудра Ирина Павловна": 165
+      "gas:candidate-vibid:22220001362282": 100,
+      "gas:candidate-vibid:22220001363641": 234,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 29,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 50,
+      "gas:candidate-vibid:22220001369414": 135,
+      "gas:candidate-vibid:22220001369102": 9,
+      "gas:candidate-vibid:22220001321222": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6155,15 +6155,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 97,
-      "Зобнев Виктор Викторович": 221,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 39,
-      "Останина Нина Александровна": 159,
-      "Рау Виктор Филиппович": 15,
-      "Шудра Ирина Павловна": 157
+      "gas:candidate-vibid:22220001362282": 97,
+      "gas:candidate-vibid:22220001363641": 221,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 39,
+      "gas:candidate-vibid:22220001369414": 159,
+      "gas:candidate-vibid:22220001369102": 15,
+      "gas:candidate-vibid:22220001321222": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6214,15 +6214,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 72,
-      "Зобнев Виктор Викторович": 177,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 32,
-      "Малыхин Сергей Иванович": 13,
-      "Назаренко Николай Васильевич": 46,
-      "Останина Нина Александровна": 128,
-      "Рау Виктор Филиппович": 15,
-      "Шудра Ирина Павловна": 163
+      "gas:candidate-vibid:22220001362282": 72,
+      "gas:candidate-vibid:22220001363641": 177,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 32,
+      "gas:candidate-vibid:22220001365540": 13,
+      "gas:candidate-vibid:22220001368942": 46,
+      "gas:candidate-vibid:22220001369414": 128,
+      "gas:candidate-vibid:22220001369102": 15,
+      "gas:candidate-vibid:22220001321222": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6273,15 +6273,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 99,
-      "Зобнев Виктор Викторович": 209,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 57,
-      "Останина Нина Александровна": 122,
-      "Рау Виктор Филиппович": 16,
-      "Шудра Ирина Павловна": 176
+      "gas:candidate-vibid:22220001362282": 99,
+      "gas:candidate-vibid:22220001363641": 209,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 57,
+      "gas:candidate-vibid:22220001369414": 122,
+      "gas:candidate-vibid:22220001369102": 16,
+      "gas:candidate-vibid:22220001321222": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6332,15 +6332,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 80,
-      "Зобнев Виктор Викторович": 184,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 29,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 43,
-      "Останина Нина Александровна": 120,
-      "Рау Виктор Филиппович": 9,
-      "Шудра Ирина Павловна": 124
+      "gas:candidate-vibid:22220001362282": 80,
+      "gas:candidate-vibid:22220001363641": 184,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 29,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 43,
+      "gas:candidate-vibid:22220001369414": 120,
+      "gas:candidate-vibid:22220001369102": 9,
+      "gas:candidate-vibid:22220001321222": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6391,15 +6391,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 118,
-      "Зобнев Виктор Викторович": 246,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 28,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 34,
-      "Останина Нина Александровна": 137,
-      "Рау Виктор Филиппович": 20,
-      "Шудра Ирина Павловна": 207
+      "gas:candidate-vibid:22220001362282": 118,
+      "gas:candidate-vibid:22220001363641": 246,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 28,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 34,
+      "gas:candidate-vibid:22220001369414": 137,
+      "gas:candidate-vibid:22220001369102": 20,
+      "gas:candidate-vibid:22220001321222": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6450,15 +6450,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 122,
-      "Зобнев Виктор Викторович": 302,
-      "Зонов Александр Сергеевич": 22,
-      "Крамсков Антон Юрьевич": 39,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 56,
-      "Останина Нина Александровна": 160,
-      "Рау Виктор Филиппович": 16,
-      "Шудра Ирина Павловна": 206
+      "gas:candidate-vibid:22220001362282": 122,
+      "gas:candidate-vibid:22220001363641": 302,
+      "gas:candidate-vibid:22220001369517": 22,
+      "gas:candidate-vibid:22220001369017": 39,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 56,
+      "gas:candidate-vibid:22220001369414": 160,
+      "gas:candidate-vibid:22220001369102": 16,
+      "gas:candidate-vibid:22220001321222": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6509,15 +6509,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 107,
-      "Зобнев Виктор Викторович": 277,
-      "Зонов Александр Сергеевич": 17,
-      "Крамсков Антон Юрьевич": 52,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 41,
-      "Останина Нина Александровна": 179,
-      "Рау Виктор Филиппович": 19,
-      "Шудра Ирина Павловна": 202
+      "gas:candidate-vibid:22220001362282": 107,
+      "gas:candidate-vibid:22220001363641": 277,
+      "gas:candidate-vibid:22220001369517": 17,
+      "gas:candidate-vibid:22220001369017": 52,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 41,
+      "gas:candidate-vibid:22220001369414": 179,
+      "gas:candidate-vibid:22220001369102": 19,
+      "gas:candidate-vibid:22220001321222": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6568,15 +6568,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 38,
-      "Зобнев Виктор Викторович": 151,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 23,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 79,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 165
+      "gas:candidate-vibid:22220001362282": 38,
+      "gas:candidate-vibid:22220001363641": 151,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 23,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 79,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6627,15 +6627,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 32,
-      "Зобнев Виктор Викторович": 141,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 25,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 14,
-      "Останина Нина Александровна": 79,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 168
+      "gas:candidate-vibid:22220001362282": 32,
+      "gas:candidate-vibid:22220001363641": 141,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 25,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 14,
+      "gas:candidate-vibid:22220001369414": 79,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6686,15 +6686,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 38,
-      "Зобнев Виктор Викторович": 141,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 29,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 14,
-      "Останина Нина Александровна": 48,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 181
+      "gas:candidate-vibid:22220001362282": 38,
+      "gas:candidate-vibid:22220001363641": 141,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 29,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 14,
+      "gas:candidate-vibid:22220001369414": 48,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6745,15 +6745,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 40,
-      "Зобнев Виктор Викторович": 142,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 19,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 15,
-      "Останина Нина Александровна": 53,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 135
+      "gas:candidate-vibid:22220001362282": 40,
+      "gas:candidate-vibid:22220001363641": 142,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 19,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 15,
+      "gas:candidate-vibid:22220001369414": 53,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6804,15 +6804,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 57,
-      "Зобнев Виктор Викторович": 132,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 14,
-      "Останина Нина Александровна": 65,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 214
+      "gas:candidate-vibid:22220001362282": 57,
+      "gas:candidate-vibid:22220001363641": 132,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 14,
+      "gas:candidate-vibid:22220001369414": 65,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6863,15 +6863,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 49,
-      "Зобнев Виктор Викторович": 139,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 43,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 78,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 159
+      "gas:candidate-vibid:22220001362282": 49,
+      "gas:candidate-vibid:22220001363641": 139,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 43,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 78,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6922,15 +6922,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 50,
-      "Зобнев Виктор Викторович": 103,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 27,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 9,
-      "Останина Нина Александровна": 68,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 197
+      "gas:candidate-vibid:22220001362282": 50,
+      "gas:candidate-vibid:22220001363641": 103,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 27,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 9,
+      "gas:candidate-vibid:22220001369414": 68,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -6981,15 +6981,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 57,
-      "Зобнев Виктор Викторович": 144,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 103,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 221
+      "gas:candidate-vibid:22220001362282": 57,
+      "gas:candidate-vibid:22220001363641": 144,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 103,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7040,15 +7040,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 42,
-      "Зобнев Виктор Викторович": 97,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 22,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 75,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 234
+      "gas:candidate-vibid:22220001362282": 42,
+      "gas:candidate-vibid:22220001363641": 97,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 22,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 75,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7099,15 +7099,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 41,
-      "Зобнев Виктор Викторович": 92,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 12,
-      "Останина Нина Александровна": 63,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 161
+      "gas:candidate-vibid:22220001362282": 41,
+      "gas:candidate-vibid:22220001363641": 92,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 12,
+      "gas:candidate-vibid:22220001369414": 63,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7158,15 +7158,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 53,
-      "Зобнев Виктор Викторович": 160,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 29,
-      "Останина Нина Александровна": 70,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 262
+      "gas:candidate-vibid:22220001362282": 53,
+      "gas:candidate-vibid:22220001363641": 160,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 29,
+      "gas:candidate-vibid:22220001369414": 70,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7217,15 +7217,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 49,
-      "Зобнев Виктор Викторович": 198,
-      "Зонов Александр Сергеевич": 22,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 25,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 137
+      "gas:candidate-vibid:22220001362282": 49,
+      "gas:candidate-vibid:22220001363641": 198,
+      "gas:candidate-vibid:22220001369517": 22,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 25,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7276,15 +7276,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 32,
-      "Зобнев Виктор Викторович": 113,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 19,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 63,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 183
+      "gas:candidate-vibid:22220001362282": 32,
+      "gas:candidate-vibid:22220001363641": 113,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 19,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 63,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7335,15 +7335,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 6,
-      "Зобнев Виктор Викторович": 30,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 6
+      "gas:candidate-vibid:22220001362282": 6,
+      "gas:candidate-vibid:22220001363641": 30,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7394,15 +7394,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 9,
-      "Зобнев Виктор Викторович": 14,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 3,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 5,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 17
+      "gas:candidate-vibid:22220001362282": 9,
+      "gas:candidate-vibid:22220001363641": 14,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 3,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 5,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7453,15 +7453,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 13,
-      "Зобнев Виктор Викторович": 29,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 10,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 27
+      "gas:candidate-vibid:22220001362282": 13,
+      "gas:candidate-vibid:22220001363641": 29,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 10,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272351&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272351&type=464",
@@ -7512,15 +7512,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 18,
-      "Зобнев Виктор Викторович": 87,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 34,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 52
+      "gas:candidate-vibid:22220001362282": 18,
+      "gas:candidate-vibid:22220001363641": 87,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 34,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7571,15 +7571,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 59,
-      "Зобнев Виктор Викторович": 207,
-      "Зонов Александр Сергеевич": 19,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 96,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 128
+      "gas:candidate-vibid:22220001362282": 59,
+      "gas:candidate-vibid:22220001363641": 207,
+      "gas:candidate-vibid:22220001369517": 19,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 96,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7630,15 +7630,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 15,
-      "Зобнев Виктор Викторович": 81,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 20,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 43
+      "gas:candidate-vibid:22220001362282": 15,
+      "gas:candidate-vibid:22220001363641": 81,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 20,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7689,15 +7689,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 42,
-      "Зобнев Виктор Викторович": 136,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 14,
-      "Останина Нина Александровна": 39,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 54
+      "gas:candidate-vibid:22220001362282": 42,
+      "gas:candidate-vibid:22220001363641": 136,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 14,
+      "gas:candidate-vibid:22220001369414": 39,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7748,15 +7748,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 18,
-      "Зобнев Виктор Викторович": 78,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 15,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 18,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 39
+      "gas:candidate-vibid:22220001362282": 18,
+      "gas:candidate-vibid:22220001363641": 78,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 15,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 18,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7807,15 +7807,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 19,
-      "Зобнев Виктор Викторович": 124,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 10,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 26,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 41
+      "gas:candidate-vibid:22220001362282": 19,
+      "gas:candidate-vibid:22220001363641": 124,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 10,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 26,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7866,15 +7866,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 108,
-      "Зобнев Виктор Викторович": 280,
-      "Зонов Александр Сергеевич": 19,
-      "Крамсков Антон Юрьевич": 34,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 41,
-      "Останина Нина Александровна": 129,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 224
+      "gas:candidate-vibid:22220001362282": 108,
+      "gas:candidate-vibid:22220001363641": 280,
+      "gas:candidate-vibid:22220001369517": 19,
+      "gas:candidate-vibid:22220001369017": 34,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 41,
+      "gas:candidate-vibid:22220001369414": 129,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7925,15 +7925,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 47,
-      "Зобнев Виктор Викторович": 139,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 75,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 108
+      "gas:candidate-vibid:22220001362282": 47,
+      "gas:candidate-vibid:22220001363641": 139,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 75,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -7984,15 +7984,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 33,
-      "Зобнев Виктор Викторович": 58,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 32,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 34
+      "gas:candidate-vibid:22220001362282": 33,
+      "gas:candidate-vibid:22220001363641": 58,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 32,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8043,15 +8043,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 41,
-      "Зобнев Виктор Викторович": 103,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 44,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 66
+      "gas:candidate-vibid:22220001362282": 41,
+      "gas:candidate-vibid:22220001363641": 103,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 44,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8102,15 +8102,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 26,
-      "Зобнев Виктор Викторович": 109,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 11,
-      "Останина Нина Александровна": 70,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 64
+      "gas:candidate-vibid:22220001362282": 26,
+      "gas:candidate-vibid:22220001363641": 109,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 11,
+      "gas:candidate-vibid:22220001369414": 70,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8161,15 +8161,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 41,
-      "Зобнев Виктор Викторович": 56,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 15,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 46
+      "gas:candidate-vibid:22220001362282": 41,
+      "gas:candidate-vibid:22220001363641": 56,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 15,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8220,15 +8220,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 55,
-      "Зобнев Виктор Викторович": 119,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 48,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 57
+      "gas:candidate-vibid:22220001362282": 55,
+      "gas:candidate-vibid:22220001363641": 119,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 48,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8279,15 +8279,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 42,
-      "Зобнев Виктор Викторович": 152,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 70,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 97
+      "gas:candidate-vibid:22220001362282": 42,
+      "gas:candidate-vibid:22220001363641": 152,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 70,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8338,15 +8338,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 26,
-      "Зобнев Виктор Викторович": 42,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 15,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 67
+      "gas:candidate-vibid:22220001362282": 26,
+      "gas:candidate-vibid:22220001363641": 42,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 15,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8397,15 +8397,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 33,
-      "Зобнев Виктор Викторович": 115,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 34,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 56
+      "gas:candidate-vibid:22220001362282": 33,
+      "gas:candidate-vibid:22220001363641": 115,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 34,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8456,15 +8456,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 55,
-      "Зобнев Виктор Викторович": 123,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 14,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 37,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 69
+      "gas:candidate-vibid:22220001362282": 55,
+      "gas:candidate-vibid:22220001363641": 123,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 14,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 37,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8515,15 +8515,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 67,
-      "Зобнев Виктор Викторович": 145,
-      "Зонов Александр Сергеевич": 18,
-      "Крамсков Антон Юрьевич": 15,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 8,
-      "Останина Нина Александровна": 40,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 108
+      "gas:candidate-vibid:22220001362282": 67,
+      "gas:candidate-vibid:22220001363641": 145,
+      "gas:candidate-vibid:22220001369517": 18,
+      "gas:candidate-vibid:22220001369017": 15,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 8,
+      "gas:candidate-vibid:22220001369414": 40,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8574,15 +8574,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 69,
-      "Зобнев Виктор Викторович": 119,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 12,
-      "Останина Нина Александровна": 58,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 81
+      "gas:candidate-vibid:22220001362282": 69,
+      "gas:candidate-vibid:22220001363641": 119,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 12,
+      "gas:candidate-vibid:22220001369414": 58,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8633,15 +8633,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 11,
-      "Зобнев Виктор Викторович": 57,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 4,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 17,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 44
+      "gas:candidate-vibid:22220001362282": 11,
+      "gas:candidate-vibid:22220001363641": 57,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 4,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 17,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8692,15 +8692,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 12,
-      "Зобнев Виктор Викторович": 53,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 23,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 49
+      "gas:candidate-vibid:22220001362282": 12,
+      "gas:candidate-vibid:22220001363641": 53,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 23,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8751,15 +8751,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 14,
-      "Зобнев Виктор Викторович": 36,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 45,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 38
+      "gas:candidate-vibid:22220001362282": 14,
+      "gas:candidate-vibid:22220001363641": 36,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 45,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8810,15 +8810,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 52,
-      "Зобнев Виктор Викторович": 165,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 75,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 81
+      "gas:candidate-vibid:22220001362282": 52,
+      "gas:candidate-vibid:22220001363641": 165,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 75,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8869,15 +8869,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 65,
-      "Зобнев Виктор Викторович": 106,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 16,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 44,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 45
+      "gas:candidate-vibid:22220001362282": 65,
+      "gas:candidate-vibid:22220001363641": 106,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 16,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 44,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8928,15 +8928,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 16,
-      "Зобнев Виктор Викторович": 99,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 41,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 64
+      "gas:candidate-vibid:22220001362282": 16,
+      "gas:candidate-vibid:22220001363641": 99,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 41,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -8987,15 +8987,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 32,
-      "Зобнев Виктор Викторович": 60,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 22,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 30
+      "gas:candidate-vibid:22220001362282": 32,
+      "gas:candidate-vibid:22220001363641": 60,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 22,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -9046,15 +9046,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 18,
-      "Зобнев Виктор Викторович": 55,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 41
+      "gas:candidate-vibid:22220001362282": 18,
+      "gas:candidate-vibid:22220001363641": 55,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272352&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272352&type=464",
@@ -9105,15 +9105,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 63,
-      "Зобнев Виктор Викторович": 128,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 32,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 19,
-      "Останина Нина Александровна": 74,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 31
+      "gas:candidate-vibid:22220001362282": 63,
+      "gas:candidate-vibid:22220001363641": 128,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 32,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 19,
+      "gas:candidate-vibid:22220001369414": 74,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9164,15 +9164,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 15,
-      "Зобнев Виктор Викторович": 77,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 58,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 8
+      "gas:candidate-vibid:22220001362282": 15,
+      "gas:candidate-vibid:22220001363641": 77,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 58,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9223,15 +9223,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 64,
-      "Зобнев Виктор Викторович": 151,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 14,
-      "Останина Нина Александровна": 66,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 32
+      "gas:candidate-vibid:22220001362282": 64,
+      "gas:candidate-vibid:22220001363641": 151,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 14,
+      "gas:candidate-vibid:22220001369414": 66,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9282,15 +9282,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 29,
-      "Зобнев Виктор Викторович": 115,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 28,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 29,
+      "gas:candidate-vibid:22220001363641": 115,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 28,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9341,15 +9341,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 34,
-      "Зобнев Виктор Викторович": 135,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 13,
-      "Останина Нина Александровна": 86,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 27
+      "gas:candidate-vibid:22220001362282": 34,
+      "gas:candidate-vibid:22220001363641": 135,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 13,
+      "gas:candidate-vibid:22220001369414": 86,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9400,15 +9400,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 29,
-      "Зобнев Виктор Викторович": 78,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 13,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 44,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 12
+      "gas:candidate-vibid:22220001362282": 29,
+      "gas:candidate-vibid:22220001363641": 78,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 13,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 44,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9459,15 +9459,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 19,
-      "Зобнев Виктор Викторович": 30,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 38,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 8
+      "gas:candidate-vibid:22220001362282": 19,
+      "gas:candidate-vibid:22220001363641": 30,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 38,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9518,15 +9518,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 8,
-      "Зобнев Виктор Викторович": 21,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 1,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 15,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 6
+      "gas:candidate-vibid:22220001362282": 8,
+      "gas:candidate-vibid:22220001363641": 21,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 1,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 15,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9577,15 +9577,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 11,
-      "Зобнев Виктор Викторович": 38,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 10,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 25,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 2
+      "gas:candidate-vibid:22220001362282": 11,
+      "gas:candidate-vibid:22220001363641": 38,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 10,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 25,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9636,15 +9636,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 24,
-      "Зобнев Виктор Викторович": 44,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 32,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 17
+      "gas:candidate-vibid:22220001362282": 24,
+      "gas:candidate-vibid:22220001363641": 44,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 32,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9695,15 +9695,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 159,
-      "Зобнев Виктор Викторович": 257,
-      "Зонов Александр Сергеевич": 18,
-      "Крамсков Антон Юрьевич": 47,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 33,
-      "Останина Нина Александровна": 121,
-      "Рау Виктор Филиппович": 14,
-      "Шудра Ирина Павловна": 88
+      "gas:candidate-vibid:22220001362282": 159,
+      "gas:candidate-vibid:22220001363641": 257,
+      "gas:candidate-vibid:22220001369517": 18,
+      "gas:candidate-vibid:22220001369017": 47,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 33,
+      "gas:candidate-vibid:22220001369414": 121,
+      "gas:candidate-vibid:22220001369102": 14,
+      "gas:candidate-vibid:22220001321222": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9754,15 +9754,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 170,
-      "Зобнев Виктор Викторович": 244,
-      "Зонов Александр Сергеевич": 21,
-      "Крамсков Антон Юрьевич": 35,
-      "Малыхин Сергей Иванович": 13,
-      "Назаренко Николай Васильевич": 44,
-      "Останина Нина Александровна": 141,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 73
+      "gas:candidate-vibid:22220001362282": 170,
+      "gas:candidate-vibid:22220001363641": 244,
+      "gas:candidate-vibid:22220001369517": 21,
+      "gas:candidate-vibid:22220001369017": 35,
+      "gas:candidate-vibid:22220001365540": 13,
+      "gas:candidate-vibid:22220001368942": 44,
+      "gas:candidate-vibid:22220001369414": 141,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9813,15 +9813,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 128,
-      "Зобнев Виктор Викторович": 177,
-      "Зонов Александр Сергеевич": 22,
-      "Крамсков Антон Юрьевич": 42,
-      "Малыхин Сергей Иванович": 15,
-      "Назаренко Николай Васильевич": 32,
-      "Останина Нина Александровна": 98,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 53
+      "gas:candidate-vibid:22220001362282": 128,
+      "gas:candidate-vibid:22220001363641": 177,
+      "gas:candidate-vibid:22220001369517": 22,
+      "gas:candidate-vibid:22220001369017": 42,
+      "gas:candidate-vibid:22220001365540": 15,
+      "gas:candidate-vibid:22220001368942": 32,
+      "gas:candidate-vibid:22220001369414": 98,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9872,15 +9872,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 91,
-      "Зобнев Виктор Викторович": 189,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 28,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 82,
-      "Рау Виктор Филиппович": 9,
-      "Шудра Ирина Павловна": 70
+      "gas:candidate-vibid:22220001362282": 91,
+      "gas:candidate-vibid:22220001363641": 189,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 28,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 82,
+      "gas:candidate-vibid:22220001369102": 9,
+      "gas:candidate-vibid:22220001321222": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9931,15 +9931,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 64,
-      "Зобнев Виктор Викторович": 94,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 11,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 46,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 14
+      "gas:candidate-vibid:22220001362282": 64,
+      "gas:candidate-vibid:22220001363641": 94,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 11,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 46,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272353&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272353&type=464",
@@ -9990,15 +9990,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 92,
-      "Зобнев Виктор Викторович": 153,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 47,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 18,
-      "Останина Нина Александровна": 113,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 72
+      "gas:candidate-vibid:22220001362282": 92,
+      "gas:candidate-vibid:22220001363641": 153,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 47,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 18,
+      "gas:candidate-vibid:22220001369414": 113,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10049,15 +10049,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 166,
-      "Зобнев Виктор Викторович": 300,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 55,
-      "Малыхин Сергей Иванович": 44,
-      "Назаренко Николай Васильевич": 51,
-      "Останина Нина Александровна": 245,
-      "Рау Виктор Филиппович": 23,
-      "Шудра Ирина Павловна": 132
+      "gas:candidate-vibid:22220001362282": 166,
+      "gas:candidate-vibid:22220001363641": 300,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 55,
+      "gas:candidate-vibid:22220001365540": 44,
+      "gas:candidate-vibid:22220001368942": 51,
+      "gas:candidate-vibid:22220001369414": 245,
+      "gas:candidate-vibid:22220001369102": 23,
+      "gas:candidate-vibid:22220001321222": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10108,15 +10108,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 84,
-      "Зобнев Виктор Викторович": 195,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 41,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 29,
-      "Останина Нина Александровна": 139,
-      "Рау Виктор Филиппович": 11,
-      "Шудра Ирина Павловна": 101
+      "gas:candidate-vibid:22220001362282": 84,
+      "gas:candidate-vibid:22220001363641": 195,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 41,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 29,
+      "gas:candidate-vibid:22220001369414": 139,
+      "gas:candidate-vibid:22220001369102": 11,
+      "gas:candidate-vibid:22220001321222": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10167,15 +10167,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 27,
-      "Зобнев Виктор Викторович": 56,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 16,
-      "Останина Нина Александровна": 41,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 22
+      "gas:candidate-vibid:22220001362282": 27,
+      "gas:candidate-vibid:22220001363641": 56,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 16,
+      "gas:candidate-vibid:22220001369414": 41,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10226,15 +10226,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 28,
-      "Зобнев Виктор Викторович": 61,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 15,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 37,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 41
+      "gas:candidate-vibid:22220001362282": 28,
+      "gas:candidate-vibid:22220001363641": 61,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 15,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 37,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10285,15 +10285,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 36,
-      "Зобнев Виктор Викторович": 201,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 35,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 26,
-      "Останина Нина Александровна": 50,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 48
+      "gas:candidate-vibid:22220001362282": 36,
+      "gas:candidate-vibid:22220001363641": 201,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 35,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 26,
+      "gas:candidate-vibid:22220001369414": 50,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10344,15 +10344,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 12,
-      "Зобнев Виктор Викторович": 122,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 49,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 19
+      "gas:candidate-vibid:22220001362282": 12,
+      "gas:candidate-vibid:22220001363641": 122,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 49,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10403,15 +10403,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 22,
-      "Зобнев Виктор Викторович": 111,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 38,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 27
+      "gas:candidate-vibid:22220001362282": 22,
+      "gas:candidate-vibid:22220001363641": 111,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 38,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10462,15 +10462,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 6,
-      "Зобнев Виктор Викторович": 45,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 11,
-      "Останина Нина Александровна": 117,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 15
+      "gas:candidate-vibid:22220001362282": 6,
+      "gas:candidate-vibid:22220001363641": 45,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 11,
+      "gas:candidate-vibid:22220001369414": 117,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10521,15 +10521,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 24,
-      "Зобнев Виктор Викторович": 97,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 9,
-      "Останина Нина Александровна": 40,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 32
+      "gas:candidate-vibid:22220001362282": 24,
+      "gas:candidate-vibid:22220001363641": 97,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 9,
+      "gas:candidate-vibid:22220001369414": 40,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10580,15 +10580,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 5,
-      "Зобнев Виктор Викторович": 25,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 3,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 15,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 9
+      "gas:candidate-vibid:22220001362282": 5,
+      "gas:candidate-vibid:22220001363641": 25,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 3,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 15,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10639,15 +10639,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 16,
-      "Зобнев Виктор Викторович": 35,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 4,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 13,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 12
+      "gas:candidate-vibid:22220001362282": 16,
+      "gas:candidate-vibid:22220001363641": 35,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 4,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 13,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10698,15 +10698,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 27,
-      "Зобнев Виктор Викторович": 88,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 14,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 12,
-      "Останина Нина Александровна": 72,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 35
+      "gas:candidate-vibid:22220001362282": 27,
+      "gas:candidate-vibid:22220001363641": 88,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 14,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 12,
+      "gas:candidate-vibid:22220001369414": 72,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10757,15 +10757,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 19,
-      "Зобнев Виктор Викторович": 134,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 17,
-      "Останина Нина Александровна": 95,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 19,
+      "gas:candidate-vibid:22220001363641": 134,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 17,
+      "gas:candidate-vibid:22220001369414": 95,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10816,15 +10816,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 5,
-      "Зобнев Виктор Викторович": 35,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 15,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 34,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 13
+      "gas:candidate-vibid:22220001362282": 5,
+      "gas:candidate-vibid:22220001363641": 35,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 15,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 34,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10875,15 +10875,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 17,
-      "Зобнев Виктор Викторович": 98,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 30,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 43,
-      "Рау Виктор Филиппович": 6,
-      "Шудра Ирина Павловна": 36
+      "gas:candidate-vibid:22220001362282": 17,
+      "gas:candidate-vibid:22220001363641": 98,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 30,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 43,
+      "gas:candidate-vibid:22220001369102": 6,
+      "gas:candidate-vibid:22220001321222": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10934,15 +10934,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 12,
-      "Зобнев Виктор Викторович": 35,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 27,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 19
+      "gas:candidate-vibid:22220001362282": 12,
+      "gas:candidate-vibid:22220001363641": 35,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 27,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -10993,15 +10993,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 16,
-      "Зобнев Виктор Викторович": 45,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 8,
-      "Останина Нина Александровна": 17,
-      "Рау Виктор Филиппович": 24,
-      "Шудра Ирина Павловна": 14
+      "gas:candidate-vibid:22220001362282": 16,
+      "gas:candidate-vibid:22220001363641": 45,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 8,
+      "gas:candidate-vibid:22220001369414": 17,
+      "gas:candidate-vibid:22220001369102": 24,
+      "gas:candidate-vibid:22220001321222": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11052,15 +11052,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 15,
-      "Зобнев Виктор Викторович": 77,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 33,
-      "Останина Нина Александровна": 64,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 15,
+      "gas:candidate-vibid:22220001363641": 77,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 33,
+      "gas:candidate-vibid:22220001369414": 64,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11111,15 +11111,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 27,
-      "Зобнев Виктор Викторович": 107,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 86,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 23
+      "gas:candidate-vibid:22220001362282": 27,
+      "gas:candidate-vibid:22220001363641": 107,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 86,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11170,15 +11170,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 8,
-      "Зобнев Виктор Викторович": 20,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 7,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 2
+      "gas:candidate-vibid:22220001362282": 8,
+      "gas:candidate-vibid:22220001363641": 20,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 7,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11229,15 +11229,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 145,
-      "Зобнев Виктор Викторович": 262,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 67,
-      "Малыхин Сергей Иванович": 13,
-      "Назаренко Николай Васильевич": 68,
-      "Останина Нина Александровна": 139,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 139
+      "gas:candidate-vibid:22220001362282": 145,
+      "gas:candidate-vibid:22220001363641": 262,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 67,
+      "gas:candidate-vibid:22220001365540": 13,
+      "gas:candidate-vibid:22220001368942": 68,
+      "gas:candidate-vibid:22220001369414": 139,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11288,15 +11288,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 59,
-      "Зобнев Виктор Викторович": 186,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 36,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 36,
-      "Останина Нина Александровна": 63,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 47
+      "gas:candidate-vibid:22220001362282": 59,
+      "gas:candidate-vibid:22220001363641": 186,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 36,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 36,
+      "gas:candidate-vibid:22220001369414": 63,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11347,15 +11347,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 20,
-      "Зобнев Виктор Викторович": 114,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 23,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 19,
-      "Останина Нина Александровна": 36,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 26
+      "gas:candidate-vibid:22220001362282": 20,
+      "gas:candidate-vibid:22220001363641": 114,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 23,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 19,
+      "gas:candidate-vibid:22220001369414": 36,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11406,15 +11406,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 13,
-      "Зобнев Виктор Викторович": 75,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 27,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 56,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 35
+      "gas:candidate-vibid:22220001362282": 13,
+      "gas:candidate-vibid:22220001363641": 75,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 27,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 56,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272354&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272354&type=464",
@@ -11465,15 +11465,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 82,
-      "Зобнев Виктор Викторович": 281,
-      "Зонов Александр Сергеевич": 20,
-      "Крамсков Антон Юрьевич": 41,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 19,
-      "Останина Нина Александровна": 204,
-      "Рау Виктор Филиппович": 14,
-      "Шудра Ирина Павловна": 108
+      "gas:candidate-vibid:22220001362282": 82,
+      "gas:candidate-vibid:22220001363641": 281,
+      "gas:candidate-vibid:22220001369517": 20,
+      "gas:candidate-vibid:22220001369017": 41,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 19,
+      "gas:candidate-vibid:22220001369414": 204,
+      "gas:candidate-vibid:22220001369102": 14,
+      "gas:candidate-vibid:22220001321222": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11524,15 +11524,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 83,
-      "Зобнев Виктор Викторович": 258,
-      "Зонов Александр Сергеевич": 20,
-      "Крамсков Антон Юрьевич": 47,
-      "Малыхин Сергей Иванович": 17,
-      "Назаренко Николай Васильевич": 22,
-      "Останина Нина Александровна": 136,
-      "Рау Виктор Филиппович": 12,
-      "Шудра Ирина Павловна": 120
+      "gas:candidate-vibid:22220001362282": 83,
+      "gas:candidate-vibid:22220001363641": 258,
+      "gas:candidate-vibid:22220001369517": 20,
+      "gas:candidate-vibid:22220001369017": 47,
+      "gas:candidate-vibid:22220001365540": 17,
+      "gas:candidate-vibid:22220001368942": 22,
+      "gas:candidate-vibid:22220001369414": 136,
+      "gas:candidate-vibid:22220001369102": 12,
+      "gas:candidate-vibid:22220001321222": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11583,15 +11583,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 87,
-      "Зобнев Виктор Викторович": 187,
-      "Зонов Александр Сергеевич": 21,
-      "Крамсков Антон Юрьевич": 33,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 18,
-      "Останина Нина Александровна": 182,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 74
+      "gas:candidate-vibid:22220001362282": 87,
+      "gas:candidate-vibid:22220001363641": 187,
+      "gas:candidate-vibid:22220001369517": 21,
+      "gas:candidate-vibid:22220001369017": 33,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 18,
+      "gas:candidate-vibid:22220001369414": 182,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11642,15 +11642,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 138,
-      "Зобнев Виктор Викторович": 268,
-      "Зонов Александр Сергеевич": 27,
-      "Крамсков Антон Юрьевич": 54,
-      "Малыхин Сергей Иванович": 18,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 186,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 107
+      "gas:candidate-vibid:22220001362282": 138,
+      "gas:candidate-vibid:22220001363641": 268,
+      "gas:candidate-vibid:22220001369517": 27,
+      "gas:candidate-vibid:22220001369017": 54,
+      "gas:candidate-vibid:22220001365540": 18,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 186,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11701,15 +11701,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 150,
-      "Зобнев Виктор Викторович": 250,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 17,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 187,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 106
+      "gas:candidate-vibid:22220001362282": 150,
+      "gas:candidate-vibid:22220001363641": 250,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 17,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 187,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11760,15 +11760,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 39,
-      "Зобнев Виктор Викторович": 214,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 33,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 12,
-      "Останина Нина Александровна": 70,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 60
+      "gas:candidate-vibid:22220001362282": 39,
+      "gas:candidate-vibid:22220001363641": 214,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 33,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 12,
+      "gas:candidate-vibid:22220001369414": 70,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11819,15 +11819,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 12,
-      "Зобнев Виктор Викторович": 71,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 7,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 7,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 10
+      "gas:candidate-vibid:22220001362282": 12,
+      "gas:candidate-vibid:22220001363641": 71,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 7,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 7,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11878,15 +11878,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 35,
-      "Зобнев Виктор Викторович": 283,
-      "Зонов Александр Сергеевич": 12,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 19,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 46,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 39
+      "gas:candidate-vibid:22220001362282": 35,
+      "gas:candidate-vibid:22220001363641": 283,
+      "gas:candidate-vibid:22220001369517": 12,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 19,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 46,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11937,15 +11937,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 43,
-      "Зобнев Виктор Викторович": 203,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 39,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 13,
-      "Останина Нина Александровна": 88,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 34
+      "gas:candidate-vibid:22220001362282": 43,
+      "gas:candidate-vibid:22220001363641": 203,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 39,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 13,
+      "gas:candidate-vibid:22220001369414": 88,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -11996,15 +11996,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 2,
-      "Зобнев Виктор Викторович": 24,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 20,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 9
+      "gas:candidate-vibid:22220001362282": 2,
+      "gas:candidate-vibid:22220001363641": 24,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 20,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12055,15 +12055,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 41,
-      "Зобнев Виктор Викторович": 75,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 27,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 133,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 12
+      "gas:candidate-vibid:22220001362282": 41,
+      "gas:candidate-vibid:22220001363641": 75,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 27,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 133,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12114,15 +12114,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 29,
-      "Зобнев Виктор Викторович": 106,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 2,
-      "Останина Нина Александровна": 78,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 29,
+      "gas:candidate-vibid:22220001363641": 106,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 2,
+      "gas:candidate-vibid:22220001369414": 78,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12173,15 +12173,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 7,
-      "Зобнев Виктор Викторович": 20,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 2,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 0,
-      "Останина Нина Александровна": 16,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 2
+      "gas:candidate-vibid:22220001362282": 7,
+      "gas:candidate-vibid:22220001363641": 20,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 2,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 0,
+      "gas:candidate-vibid:22220001369414": 16,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12232,15 +12232,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 33,
-      "Зобнев Виктор Викторович": 119,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 58,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 24
+      "gas:candidate-vibid:22220001362282": 33,
+      "gas:candidate-vibid:22220001363641": 119,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 58,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12291,15 +12291,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 78,
-      "Зобнев Виктор Викторович": 191,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 26,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 10,
-      "Останина Нина Александровна": 98,
-      "Рау Виктор Филиппович": 8,
-      "Шудра Ирина Павловна": 42
+      "gas:candidate-vibid:22220001362282": 78,
+      "gas:candidate-vibid:22220001363641": 191,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 26,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 10,
+      "gas:candidate-vibid:22220001369414": 98,
+      "gas:candidate-vibid:22220001369102": 8,
+      "gas:candidate-vibid:22220001321222": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12350,15 +12350,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 47,
-      "Зобнев Виктор Викторович": 144,
-      "Зонов Александр Сергеевич": 10,
-      "Крамсков Антон Юрьевич": 31,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 32,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 28
+      "gas:candidate-vibid:22220001362282": 47,
+      "gas:candidate-vibid:22220001363641": 144,
+      "gas:candidate-vibid:22220001369517": 10,
+      "gas:candidate-vibid:22220001369017": 31,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 32,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12409,15 +12409,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 30,
-      "Зобнев Виктор Викторович": 116,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 11,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 22,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 27
+      "gas:candidate-vibid:22220001362282": 30,
+      "gas:candidate-vibid:22220001363641": 116,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 11,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 22,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12468,15 +12468,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 82,
-      "Зобнев Виктор Викторович": 198,
-      "Зонов Александр Сергеевич": 16,
-      "Крамсков Антон Юрьевич": 20,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 51,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 49
+      "gas:candidate-vibid:22220001362282": 82,
+      "gas:candidate-vibid:22220001363641": 198,
+      "gas:candidate-vibid:22220001369517": 16,
+      "gas:candidate-vibid:22220001369017": 20,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 51,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12527,15 +12527,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 42,
-      "Зобнев Виктор Викторович": 107,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 37,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 20
+      "gas:candidate-vibid:22220001362282": 42,
+      "gas:candidate-vibid:22220001363641": 107,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 37,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12586,15 +12586,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 16,
-      "Зобнев Виктор Викторович": 58,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 12,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 24,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 18
+      "gas:candidate-vibid:22220001362282": 16,
+      "gas:candidate-vibid:22220001363641": 58,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 12,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 24,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272355&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272355&type=464",
@@ -12645,15 +12645,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 124,
-      "Зобнев Виктор Викторович": 214,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 63,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 52,
-      "Останина Нина Александровна": 224,
-      "Рау Виктор Филиппович": 19,
-      "Шудра Ирина Павловна": 77
+      "gas:candidate-vibid:22220001362282": 124,
+      "gas:candidate-vibid:22220001363641": 214,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 63,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 52,
+      "gas:candidate-vibid:22220001369414": 224,
+      "gas:candidate-vibid:22220001369102": 19,
+      "gas:candidate-vibid:22220001321222": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -12704,15 +12704,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 108,
-      "Зобнев Виктор Викторович": 197,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 38,
-      "Малыхин Сергей Иванович": 17,
-      "Назаренко Николай Васильевич": 38,
-      "Останина Нина Александровна": 160,
-      "Рау Виктор Филиппович": 9,
-      "Шудра Ирина Павловна": 103
+      "gas:candidate-vibid:22220001362282": 108,
+      "gas:candidate-vibid:22220001363641": 197,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 38,
+      "gas:candidate-vibid:22220001365540": 17,
+      "gas:candidate-vibid:22220001368942": 38,
+      "gas:candidate-vibid:22220001369414": 160,
+      "gas:candidate-vibid:22220001369102": 9,
+      "gas:candidate-vibid:22220001321222": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -12763,15 +12763,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 127,
-      "Зобнев Виктор Викторович": 225,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 65,
-      "Малыхин Сергей Иванович": 15,
-      "Назаренко Николай Васильевич": 26,
-      "Останина Нина Александровна": 157,
-      "Рау Виктор Филиппович": 20,
-      "Шудра Ирина Павловна": 99
+      "gas:candidate-vibid:22220001362282": 127,
+      "gas:candidate-vibid:22220001363641": 225,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 65,
+      "gas:candidate-vibid:22220001365540": 15,
+      "gas:candidate-vibid:22220001368942": 26,
+      "gas:candidate-vibid:22220001369414": 157,
+      "gas:candidate-vibid:22220001369102": 20,
+      "gas:candidate-vibid:22220001321222": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -12822,15 +12822,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 135,
-      "Зобнев Виктор Викторович": 218,
-      "Зонов Александр Сергеевич": 15,
-      "Крамсков Антон Юрьевич": 52,
-      "Малыхин Сергей Иванович": 16,
-      "Назаренко Николай Васильевич": 49,
-      "Останина Нина Александровна": 138,
-      "Рау Виктор Филиппович": 15,
-      "Шудра Ирина Павловна": 56
+      "gas:candidate-vibid:22220001362282": 135,
+      "gas:candidate-vibid:22220001363641": 218,
+      "gas:candidate-vibid:22220001369517": 15,
+      "gas:candidate-vibid:22220001369017": 52,
+      "gas:candidate-vibid:22220001365540": 16,
+      "gas:candidate-vibid:22220001368942": 49,
+      "gas:candidate-vibid:22220001369414": 138,
+      "gas:candidate-vibid:22220001369102": 15,
+      "gas:candidate-vibid:22220001321222": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -12881,15 +12881,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 104,
-      "Зобнев Виктор Викторович": 222,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 49,
-      "Малыхин Сергей Иванович": 9,
-      "Назаренко Николай Васильевич": 44,
-      "Останина Нина Александровна": 177,
-      "Рау Виктор Филиппович": 21,
-      "Шудра Ирина Павловна": 62
+      "gas:candidate-vibid:22220001362282": 104,
+      "gas:candidate-vibid:22220001363641": 222,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 49,
+      "gas:candidate-vibid:22220001365540": 9,
+      "gas:candidate-vibid:22220001368942": 44,
+      "gas:candidate-vibid:22220001369414": 177,
+      "gas:candidate-vibid:22220001369102": 21,
+      "gas:candidate-vibid:22220001321222": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -12940,15 +12940,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 109,
-      "Зобнев Виктор Викторович": 222,
-      "Зонов Александр Сергеевич": 9,
-      "Крамсков Антон Юрьевич": 59,
-      "Малыхин Сергей Иванович": 15,
-      "Назаренко Николай Васильевич": 26,
-      "Останина Нина Александровна": 165,
-      "Рау Виктор Филиппович": 11,
-      "Шудра Ирина Павловна": 79
+      "gas:candidate-vibid:22220001362282": 109,
+      "gas:candidate-vibid:22220001363641": 222,
+      "gas:candidate-vibid:22220001369517": 9,
+      "gas:candidate-vibid:22220001369017": 59,
+      "gas:candidate-vibid:22220001365540": 15,
+      "gas:candidate-vibid:22220001368942": 26,
+      "gas:candidate-vibid:22220001369414": 165,
+      "gas:candidate-vibid:22220001369102": 11,
+      "gas:candidate-vibid:22220001321222": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -12999,15 +12999,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 99,
-      "Зобнев Виктор Викторович": 168,
-      "Зонов Александр Сергеевич": 16,
-      "Крамсков Антон Юрьевич": 41,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 20,
-      "Останина Нина Александровна": 147,
-      "Рау Виктор Филиппович": 10,
-      "Шудра Ирина Павловна": 83
+      "gas:candidate-vibid:22220001362282": 99,
+      "gas:candidate-vibid:22220001363641": 168,
+      "gas:candidate-vibid:22220001369517": 16,
+      "gas:candidate-vibid:22220001369017": 41,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 20,
+      "gas:candidate-vibid:22220001369414": 147,
+      "gas:candidate-vibid:22220001369102": 10,
+      "gas:candidate-vibid:22220001321222": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13058,15 +13058,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 6,
-      "Зобнев Виктор Викторович": 36,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 8,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 11,
-      "Останина Нина Александровна": 14,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 14
+      "gas:candidate-vibid:22220001362282": 6,
+      "gas:candidate-vibid:22220001363641": 36,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 8,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 11,
+      "gas:candidate-vibid:22220001369414": 14,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13117,15 +13117,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 45,
-      "Зобнев Виктор Викторович": 117,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 27,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 28,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 25
+      "gas:candidate-vibid:22220001362282": 45,
+      "gas:candidate-vibid:22220001363641": 117,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 27,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 28,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13176,15 +13176,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 9,
-      "Зобнев Виктор Викторович": 44,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 18,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 16
+      "gas:candidate-vibid:22220001362282": 9,
+      "gas:candidate-vibid:22220001363641": 44,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 18,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13235,15 +13235,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 69,
-      "Зобнев Виктор Викторович": 114,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 28,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 12,
-      "Останина Нина Александровна": 39,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 23
+      "gas:candidate-vibid:22220001362282": 69,
+      "gas:candidate-vibid:22220001363641": 114,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 28,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 12,
+      "gas:candidate-vibid:22220001369414": 39,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13294,15 +13294,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 81,
-      "Зобнев Виктор Викторович": 97,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 14,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 7,
-      "Останина Нина Александровна": 31,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 30
+      "gas:candidate-vibid:22220001362282": 81,
+      "gas:candidate-vibid:22220001363641": 97,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 14,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 7,
+      "gas:candidate-vibid:22220001369414": 31,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13353,15 +13353,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 63,
-      "Зобнев Виктор Викторович": 160,
-      "Зонов Александр Сергеевич": 7,
-      "Крамсков Антон Юрьевич": 13,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 25,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 17
+      "gas:candidate-vibid:22220001362282": 63,
+      "gas:candidate-vibid:22220001363641": 160,
+      "gas:candidate-vibid:22220001369517": 7,
+      "gas:candidate-vibid:22220001369017": 13,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 25,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13412,15 +13412,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 17,
-      "Зобнев Виктор Викторович": 36,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 14,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 3,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 3,
-      "Шудра Ирина Павловна": 14
+      "gas:candidate-vibid:22220001362282": 17,
+      "gas:candidate-vibid:22220001363641": 36,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 14,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 3,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 3,
+      "gas:candidate-vibid:22220001321222": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13471,15 +13471,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 28,
-      "Зобнев Виктор Викторович": 67,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 13,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 21,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 16
+      "gas:candidate-vibid:22220001362282": 28,
+      "gas:candidate-vibid:22220001363641": 67,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 13,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 21,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13530,15 +13530,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 5,
-      "Зобнев Виктор Викторович": 37,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 5,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 8,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 8
+      "gas:candidate-vibid:22220001362282": 5,
+      "gas:candidate-vibid:22220001363641": 37,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 5,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 8,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13589,15 +13589,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 13,
-      "Зобнев Виктор Викторович": 15,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 1,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 12,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 3
+      "gas:candidate-vibid:22220001362282": 13,
+      "gas:candidate-vibid:22220001363641": 15,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 1,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 12,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13648,15 +13648,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 20,
-      "Зобнев Виктор Викторович": 13,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 3,
-      "Назаренко Николай Васильевич": 8,
-      "Останина Нина Александровна": 5,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 13
+      "gas:candidate-vibid:22220001362282": 20,
+      "gas:candidate-vibid:22220001363641": 13,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 3,
+      "gas:candidate-vibid:22220001368942": 8,
+      "gas:candidate-vibid:22220001369414": 5,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13707,15 +13707,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 51,
-      "Зобнев Виктор Викторович": 169,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 21,
-      "Останина Нина Александровна": 46,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 52
+      "gas:candidate-vibid:22220001362282": 51,
+      "gas:candidate-vibid:22220001363641": 169,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 21,
+      "gas:candidate-vibid:22220001369414": 46,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13766,15 +13766,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 12,
-      "Зобнев Виктор Викторович": 49,
-      "Зонов Александр Сергеевич": 0,
-      "Крамсков Антон Юрьевич": 11,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 4,
-      "Останина Нина Александровна": 3,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 20
+      "gas:candidate-vibid:22220001362282": 12,
+      "gas:candidate-vibid:22220001363641": 49,
+      "gas:candidate-vibid:22220001369517": 0,
+      "gas:candidate-vibid:22220001369017": 11,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 4,
+      "gas:candidate-vibid:22220001369414": 3,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13825,15 +13825,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 74,
-      "Зобнев Виктор Викторович": 106,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 17,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 13,
-      "Останина Нина Александровна": 39,
-      "Рау Виктор Филиппович": 4,
-      "Шудра Ирина Павловна": 49
+      "gas:candidate-vibid:22220001362282": 74,
+      "gas:candidate-vibid:22220001363641": 106,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 17,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 13,
+      "gas:candidate-vibid:22220001369414": 39,
+      "gas:candidate-vibid:22220001369102": 4,
+      "gas:candidate-vibid:22220001321222": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13884,15 +13884,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 120,
-      "Зобнев Виктор Викторович": 130,
-      "Зонов Александр Сергеевич": 13,
-      "Крамсков Антон Юрьевич": 37,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 27,
-      "Останина Нина Александровна": 66,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 62
+      "gas:candidate-vibid:22220001362282": 120,
+      "gas:candidate-vibid:22220001363641": 130,
+      "gas:candidate-vibid:22220001369517": 13,
+      "gas:candidate-vibid:22220001369017": 37,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 27,
+      "gas:candidate-vibid:22220001369414": 66,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -13943,15 +13943,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 45,
-      "Зобнев Виктор Викторович": 52,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 14,
-      "Малыхин Сергей Иванович": 8,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 19,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 14
+      "gas:candidate-vibid:22220001362282": 45,
+      "gas:candidate-vibid:22220001363641": 52,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 14,
+      "gas:candidate-vibid:22220001365540": 8,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 19,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14002,15 +14002,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 61,
-      "Зобнев Виктор Викторович": 92,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 35,
-      "Малыхин Сергей Иванович": 11,
-      "Назаренко Николай Васильевич": 11,
-      "Останина Нина Александровна": 97,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 42
+      "gas:candidate-vibid:22220001362282": 61,
+      "gas:candidate-vibid:22220001363641": 92,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 35,
+      "gas:candidate-vibid:22220001365540": 11,
+      "gas:candidate-vibid:22220001368942": 11,
+      "gas:candidate-vibid:22220001369414": 97,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14061,15 +14061,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 16,
-      "Зобнев Виктор Викторович": 39,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 2,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 10,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 25
+      "gas:candidate-vibid:22220001362282": 16,
+      "gas:candidate-vibid:22220001363641": 39,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 2,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 10,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14120,15 +14120,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 140,
-      "Зобнев Виктор Викторович": 293,
-      "Зонов Александр Сергеевич": 18,
-      "Крамсков Антон Юрьевич": 63,
-      "Малыхин Сергей Иванович": 17,
-      "Назаренко Николай Васильевич": 40,
-      "Останина Нина Александровна": 172,
-      "Рау Виктор Филиппович": 25,
-      "Шудра Ирина Павловна": 142
+      "gas:candidate-vibid:22220001362282": 140,
+      "gas:candidate-vibid:22220001363641": 293,
+      "gas:candidate-vibid:22220001369517": 18,
+      "gas:candidate-vibid:22220001369017": 63,
+      "gas:candidate-vibid:22220001365540": 17,
+      "gas:candidate-vibid:22220001368942": 40,
+      "gas:candidate-vibid:22220001369414": 172,
+      "gas:candidate-vibid:22220001369102": 25,
+      "gas:candidate-vibid:22220001321222": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14179,15 +14179,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 104,
-      "Зобнев Виктор Викторович": 265,
-      "Зонов Александр Сергеевич": 19,
-      "Крамсков Антон Юрьевич": 53,
-      "Малыхин Сергей Иванович": 22,
-      "Назаренко Николай Васильевич": 52,
-      "Останина Нина Александровна": 157,
-      "Рау Виктор Филиппович": 23,
-      "Шудра Ирина Павловна": 126
+      "gas:candidate-vibid:22220001362282": 104,
+      "gas:candidate-vibid:22220001363641": 265,
+      "gas:candidate-vibid:22220001369517": 19,
+      "gas:candidate-vibid:22220001369017": 53,
+      "gas:candidate-vibid:22220001365540": 22,
+      "gas:candidate-vibid:22220001368942": 52,
+      "gas:candidate-vibid:22220001369414": 157,
+      "gas:candidate-vibid:22220001369102": 23,
+      "gas:candidate-vibid:22220001321222": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14238,15 +14238,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 32,
-      "Зобнев Виктор Викторович": 56,
-      "Зонов Александр Сергеевич": 5,
-      "Крамсков Антон Юрьевич": 9,
-      "Малыхин Сергей Иванович": 4,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 23,
-      "Рау Виктор Филиппович": 5,
-      "Шудра Ирина Павловна": 19
+      "gas:candidate-vibid:22220001362282": 32,
+      "gas:candidate-vibid:22220001363641": 56,
+      "gas:candidate-vibid:22220001369517": 5,
+      "gas:candidate-vibid:22220001369017": 9,
+      "gas:candidate-vibid:22220001365540": 4,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 23,
+      "gas:candidate-vibid:22220001369102": 5,
+      "gas:candidate-vibid:22220001321222": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14297,15 +14297,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 8,
-      "Зобнев Виктор Викторович": 17,
-      "Зонов Александр Сергеевич": 2,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 0,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 10,
-      "Рау Виктор Филиппович": 2,
-      "Шудра Ирина Павловна": 5
+      "gas:candidate-vibid:22220001362282": 8,
+      "gas:candidate-vibid:22220001363641": 17,
+      "gas:candidate-vibid:22220001369517": 2,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 0,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 10,
+      "gas:candidate-vibid:22220001369102": 2,
+      "gas:candidate-vibid:22220001321222": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14356,15 +14356,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 44,
-      "Зобнев Виктор Викторович": 174,
-      "Зонов Александр Сергеевич": 11,
-      "Крамсков Антон Юрьевич": 18,
-      "Малыхин Сергей Иванович": 6,
-      "Назаренко Николай Васильевич": 21,
-      "Останина Нина Александровна": 54,
-      "Рау Виктор Филиппович": 7,
-      "Шудра Ирина Павловна": 55
+      "gas:candidate-vibid:22220001362282": 44,
+      "gas:candidate-vibid:22220001363641": 174,
+      "gas:candidate-vibid:22220001369517": 11,
+      "gas:candidate-vibid:22220001369017": 18,
+      "gas:candidate-vibid:22220001365540": 6,
+      "gas:candidate-vibid:22220001368942": 21,
+      "gas:candidate-vibid:22220001369414": 54,
+      "gas:candidate-vibid:22220001369102": 7,
+      "gas:candidate-vibid:22220001321222": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14415,15 +14415,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 5,
-      "Зобнев Виктор Викторович": 11,
-      "Зонов Александр Сергеевич": 1,
-      "Крамсков Антон Юрьевич": 2,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 1,
-      "Останина Нина Александровна": 2,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 3
+      "gas:candidate-vibid:22220001362282": 5,
+      "gas:candidate-vibid:22220001363641": 11,
+      "gas:candidate-vibid:22220001369517": 1,
+      "gas:candidate-vibid:22220001369017": 2,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 1,
+      "gas:candidate-vibid:22220001369414": 2,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14474,15 +14474,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 182,
-      "Зобнев Виктор Викторович": 300,
-      "Зонов Александр Сергеевич": 14,
-      "Крамсков Антон Юрьевич": 37,
-      "Малыхин Сергей Иванович": 10,
-      "Назаренко Николай Васильевич": 17,
-      "Останина Нина Александровна": 91,
-      "Рау Виктор Филиппович": 13,
-      "Шудра Ирина Павловна": 91
+      "gas:candidate-vibid:22220001362282": 182,
+      "gas:candidate-vibid:22220001363641": 300,
+      "gas:candidate-vibid:22220001369517": 14,
+      "gas:candidate-vibid:22220001369017": 37,
+      "gas:candidate-vibid:22220001365540": 10,
+      "gas:candidate-vibid:22220001368942": 17,
+      "gas:candidate-vibid:22220001369414": 91,
+      "gas:candidate-vibid:22220001369102": 13,
+      "gas:candidate-vibid:22220001321222": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14533,15 +14533,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 61,
-      "Зобнев Виктор Викторович": 87,
-      "Зонов Александр Сергеевич": 3,
-      "Крамсков Антон Юрьевич": 10,
-      "Малыхин Сергей Иванович": 5,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 20,
-      "Рау Виктор Филиппович": 1,
-      "Шудра Ирина Павловна": 9
+      "gas:candidate-vibid:22220001362282": 61,
+      "gas:candidate-vibid:22220001363641": 87,
+      "gas:candidate-vibid:22220001369517": 3,
+      "gas:candidate-vibid:22220001369017": 10,
+      "gas:candidate-vibid:22220001365540": 5,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 20,
+      "gas:candidate-vibid:22220001369102": 1,
+      "gas:candidate-vibid:22220001321222": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14592,15 +14592,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 9,
-      "Зобнев Виктор Викторович": 38,
-      "Зонов Александр Сергеевич": 4,
-      "Крамсков Антон Юрьевич": 6,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 5,
-      "Останина Нина Александровна": 11,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 11
+      "gas:candidate-vibid:22220001362282": 9,
+      "gas:candidate-vibid:22220001363641": 38,
+      "gas:candidate-vibid:22220001369517": 4,
+      "gas:candidate-vibid:22220001369017": 6,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 5,
+      "gas:candidate-vibid:22220001369414": 11,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14651,15 +14651,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 97,
-      "Зобнев Виктор Викторович": 127,
-      "Зонов Александр Сергеевич": 8,
-      "Крамсков Антон Юрьевич": 24,
-      "Малыхин Сергей Иванович": 12,
-      "Назаренко Николай Васильевич": 19,
-      "Останина Нина Александровна": 78,
-      "Рау Виктор Филиппович": 9,
-      "Шудра Ирина Павловна": 38
+      "gas:candidate-vibid:22220001362282": 97,
+      "gas:candidate-vibid:22220001363641": 127,
+      "gas:candidate-vibid:22220001369517": 8,
+      "gas:candidate-vibid:22220001369017": 24,
+      "gas:candidate-vibid:22220001365540": 12,
+      "gas:candidate-vibid:22220001368942": 19,
+      "gas:candidate-vibid:22220001369414": 78,
+      "gas:candidate-vibid:22220001369102": 9,
+      "gas:candidate-vibid:22220001321222": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",
@@ -14710,15 +14710,15 @@ export const duma_2016_uik_463_region_22_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Вакаев Владислав Александрович": 21,
-      "Зобнев Виктор Викторович": 56,
-      "Зонов Александр Сергеевич": 6,
-      "Крамсков Антон Юрьевич": 10,
-      "Малыхин Сергей Иванович": 1,
-      "Назаренко Николай Васильевич": 6,
-      "Останина Нина Александровна": 9,
-      "Рау Виктор Филиппович": 0,
-      "Шудра Ирина Павловна": 12
+      "gas:candidate-vibid:22220001362282": 21,
+      "gas:candidate-vibid:22220001363641": 56,
+      "gas:candidate-vibid:22220001369517": 6,
+      "gas:candidate-vibid:22220001369017": 10,
+      "gas:candidate-vibid:22220001365540": 1,
+      "gas:candidate-vibid:22220001368942": 6,
+      "gas:candidate-vibid:22220001369414": 9,
+      "gas:candidate-vibid:22220001369102": 0,
+      "gas:candidate-vibid:22220001321222": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/altai-terr?action=show&root=1000059&tvd=22220001272356&vrn=100100067795849&region=22&global=&sub_region=22&prver=0&pronetvd=null&vibid=22220001272356&type=464",

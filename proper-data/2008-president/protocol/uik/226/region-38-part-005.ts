@@ -39,10 +39,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 232
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -89,10 +89,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 126,
-      "Зюганов Геннадий Андреевич": 207,
-      "Медведев Дмитрий Анатольевич": 742
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 126,
+      "gas:candidate-vibid:100100022247121": 207,
+      "gas:candidate-vibid:100100022248789": 742
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -139,10 +139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 45,
-      "Медведев Дмитрий Анатольевич": 156
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 45,
+      "gas:candidate-vibid:100100022248789": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -189,10 +189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 138,
-      "Медведев Дмитрий Анатольевич": 264
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 138,
+      "gas:candidate-vibid:100100022248789": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -239,10 +239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 163
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -289,10 +289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 59
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -339,10 +339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 170
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -389,10 +389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 70
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -439,10 +439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 94,
-      "Зюганов Геннадий Андреевич": 110,
-      "Медведев Дмитрий Анатольевич": 538
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 94,
+      "gas:candidate-vibid:100100022247121": 110,
+      "gas:candidate-vibid:100100022248789": 538
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -489,10 +489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 130
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -539,10 +539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 106
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -589,10 +589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 148,
-      "Зюганов Геннадий Андреевич": 296,
-      "Медведев Дмитрий Анатольевич": 991
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 148,
+      "gas:candidate-vibid:100100022247121": 296,
+      "gas:candidate-vibid:100100022248789": 991
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -639,10 +639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 131,
-      "Зюганов Геннадий Андреевич": 190,
-      "Медведев Дмитрий Анатольевич": 936
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 131,
+      "gas:candidate-vibid:100100022247121": 190,
+      "gas:candidate-vibid:100100022248789": 936
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -689,10 +689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 133,
-      "Зюганов Геннадий Андреевич": 285,
-      "Медведев Дмитрий Анатольевич": 714
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 133,
+      "gas:candidate-vibid:100100022247121": 285,
+      "gas:candidate-vibid:100100022248789": 714
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -739,10 +739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 57,
-      "Медведев Дмитрий Анатольевич": 211
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 40,
+      "gas:candidate-vibid:100100022247121": 57,
+      "gas:candidate-vibid:100100022248789": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -789,10 +789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 44,
-      "Медведев Дмитрий Анатольевич": 897
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 44,
+      "gas:candidate-vibid:100100022248789": 897
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -839,10 +839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 59,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 386
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 59,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -889,10 +889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 78,
-      "Медведев Дмитрий Анатольевич": 524
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 78,
+      "gas:candidate-vibid:100100022248789": 524
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -939,10 +939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 230
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 46,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -989,10 +989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 109,
-      "Медведев Дмитрий Анатольевич": 365
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 109,
+      "gas:candidate-vibid:100100022248789": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1039,10 +1039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 54
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1089,10 +1089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 105,
-      "Медведев Дмитрий Анатольевич": 396
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 71,
+      "gas:candidate-vibid:100100022247121": 105,
+      "gas:candidate-vibid:100100022248789": 396
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1139,10 +1139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 104,
-      "Медведев Дмитрий Анатольевич": 507
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 80,
+      "gas:candidate-vibid:100100022247121": 104,
+      "gas:candidate-vibid:100100022248789": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1189,10 +1189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 145
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1239,10 +1239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 149
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1289,10 +1289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 182
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1339,10 +1339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 56,
-      "Медведев Дмитрий Анатольевич": 447
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 56,
+      "gas:candidate-vibid:100100022248789": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1389,10 +1389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 96
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1439,10 +1439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 115
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1489,10 +1489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 67,
-      "Медведев Дмитрий Анатольевич": 361
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 66,
+      "gas:candidate-vibid:100100022247121": 67,
+      "gas:candidate-vibid:100100022248789": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1539,10 +1539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 36
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1589,10 +1589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 46,
-      "Медведев Дмитрий Анатольевич": 149
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 46,
+      "gas:candidate-vibid:100100022248789": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1639,10 +1639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 81,
-      "Медведев Дмитрий Анатольевич": 204
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 81,
+      "gas:candidate-vibid:100100022248789": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1689,10 +1689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 129
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1739,10 +1739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 64,
-      "Медведев Дмитрий Анатольевич": 376
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 64,
+      "gas:candidate-vibid:100100022248789": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1789,10 +1789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 154
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1839,10 +1839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 123
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1889,10 +1889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 108
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1939,10 +1939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 97
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -1989,10 +1989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 82
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 37,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -2039,10 +2039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 102
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250844&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250844&type=227",
@@ -2089,10 +2089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 343
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 60,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2139,10 +2139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 256,
-      "Медведев Дмитрий Анатольевич": 718
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 145,
+      "gas:candidate-vibid:100100022247121": 256,
+      "gas:candidate-vibid:100100022248789": 718
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2189,10 +2189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 106,
-      "Зюганов Геннадий Андреевич": 308,
-      "Медведев Дмитрий Анатольевич": 692
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 106,
+      "gas:candidate-vibid:100100022247121": 308,
+      "gas:candidate-vibid:100100022248789": 692
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2239,10 +2239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 172,
-      "Зюганов Геннадий Андреевич": 244,
-      "Медведев Дмитрий Анатольевич": 609
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 172,
+      "gas:candidate-vibid:100100022247121": 244,
+      "gas:candidate-vibid:100100022248789": 609
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2289,10 +2289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 29,
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 259,
-      "Медведев Дмитрий Анатольевич": 709
+      "gas:candidate-vibid:100100022245504": 29,
+      "gas:candidate-vibid:100100022247031": 136,
+      "gas:candidate-vibid:100100022247121": 259,
+      "gas:candidate-vibid:100100022248789": 709
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2339,10 +2339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 242,
-      "Медведев Дмитрий Анатольевич": 620
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 145,
+      "gas:candidate-vibid:100100022247121": 242,
+      "gas:candidate-vibid:100100022248789": 620
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2389,10 +2389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 156,
-      "Зюганов Геннадий Андреевич": 226,
-      "Медведев Дмитрий Анатольевич": 739
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 156,
+      "gas:candidate-vibid:100100022247121": 226,
+      "gas:candidate-vibid:100100022248789": 739
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2439,10 +2439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 161,
-      "Зюганов Геннадий Андреевич": 230,
-      "Медведев Дмитрий Анатольевич": 724
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 161,
+      "gas:candidate-vibid:100100022247121": 230,
+      "gas:candidate-vibid:100100022248789": 724
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2489,10 +2489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 236,
-      "Медведев Дмитрий Анатольевич": 650
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 118,
+      "gas:candidate-vibid:100100022247121": 236,
+      "gas:candidate-vibid:100100022248789": 650
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2539,10 +2539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 140,
-      "Зюганов Геннадий Андреевич": 224,
-      "Медведев Дмитрий Анатольевич": 699
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 140,
+      "gas:candidate-vibid:100100022247121": 224,
+      "gas:candidate-vibid:100100022248789": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2589,10 +2589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 171,
-      "Зюганов Геннадий Андреевич": 267,
-      "Медведев Дмитрий Анатольевич": 787
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 171,
+      "gas:candidate-vibid:100100022247121": 267,
+      "gas:candidate-vibid:100100022248789": 787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2639,10 +2639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 120,
-      "Зюганов Геннадий Андреевич": 334,
-      "Медведев Дмитрий Анатольевич": 700
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 120,
+      "gas:candidate-vibid:100100022247121": 334,
+      "gas:candidate-vibid:100100022248789": 700
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2689,10 +2689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 259,
-      "Медведев Дмитрий Анатольевич": 645
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 114,
+      "gas:candidate-vibid:100100022247121": 259,
+      "gas:candidate-vibid:100100022248789": 645
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2739,10 +2739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 161,
-      "Зюганов Геннадий Андреевич": 204,
-      "Медведев Дмитрий Анатольевич": 729
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 161,
+      "gas:candidate-vibid:100100022247121": 204,
+      "gas:candidate-vibid:100100022248789": 729
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2789,10 +2789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 26,
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 322,
-      "Медведев Дмитрий Анатольевич": 661
+      "gas:candidate-vibid:100100022245504": 26,
+      "gas:candidate-vibid:100100022247031": 103,
+      "gas:candidate-vibid:100100022247121": 322,
+      "gas:candidate-vibid:100100022248789": 661
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2839,10 +2839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 59,
-      "Медведев Дмитрий Анатольевич": 181
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 56,
+      "gas:candidate-vibid:100100022247121": 59,
+      "gas:candidate-vibid:100100022248789": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2889,10 +2889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 277,
-      "Медведев Дмитрий Анатольевич": 581
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 108,
+      "gas:candidate-vibid:100100022247121": 277,
+      "gas:candidate-vibid:100100022248789": 581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2939,10 +2939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 210,
-      "Медведев Дмитрий Анатольевич": 501
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 210,
+      "gas:candidate-vibid:100100022248789": 501
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -2989,10 +2989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 266,
-      "Медведев Дмитрий Анатольевич": 671
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 103,
+      "gas:candidate-vibid:100100022247121": 266,
+      "gas:candidate-vibid:100100022248789": 671
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -3039,10 +3039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 259,
-      "Медведев Дмитрий Анатольевич": 618
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 114,
+      "gas:candidate-vibid:100100022247121": 259,
+      "gas:candidate-vibid:100100022248789": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -3089,10 +3089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 154,
-      "Медведев Дмитрий Анатольевич": 423
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 112,
+      "gas:candidate-vibid:100100022247121": 154,
+      "gas:candidate-vibid:100100022248789": 423
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -3139,10 +3139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 218,
-      "Медведев Дмитрий Анатольевич": 603
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 116,
+      "gas:candidate-vibid:100100022247121": 218,
+      "gas:candidate-vibid:100100022248789": 603
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250847&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250847&type=227",
@@ -3189,10 +3189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 40
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3239,10 +3239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 293
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3289,10 +3289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 44,
-      "Медведев Дмитрий Анатольевич": 95
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 44,
+      "gas:candidate-vibid:100100022248789": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3339,10 +3339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 32
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3389,10 +3389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 236
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3439,10 +3439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 84
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3489,10 +3489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 98
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3539,10 +3539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 229,
-      "Медведев Дмитрий Анатольевич": 1493
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 102,
+      "gas:candidate-vibid:100100022247121": 229,
+      "gas:candidate-vibid:100100022248789": 1493
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3589,10 +3589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 108
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3639,10 +3639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 123
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3689,10 +3689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 203
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3739,10 +3739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 73
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3789,10 +3789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 203
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3839,10 +3839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 21
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3889,10 +3889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 75
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3939,10 +3939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 80,
-      "Медведев Дмитрий Анатольевич": 562
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 43,
+      "gas:candidate-vibid:100100022247121": 80,
+      "gas:candidate-vibid:100100022248789": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -3989,10 +3989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -4039,10 +4039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 174
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250848&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250848&type=227",
@@ -4089,10 +4089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 135,
-      "Зюганов Геннадий Андреевич": 200,
-      "Медведев Дмитрий Анатольевич": 455
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 135,
+      "gas:candidate-vibid:100100022247121": 200,
+      "gas:candidate-vibid:100100022248789": 455
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4139,10 +4139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 201,
-      "Медведев Дмитрий Анатольевич": 489
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 105,
+      "gas:candidate-vibid:100100022247121": 201,
+      "gas:candidate-vibid:100100022248789": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4189,10 +4189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 132,
-      "Зюганов Геннадий Андреевич": 142,
-      "Медведев Дмитрий Анатольевич": 381
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 132,
+      "gas:candidate-vibid:100100022247121": 142,
+      "gas:candidate-vibid:100100022248789": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4239,10 +4239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 176,
-      "Медведев Дмитрий Анатольевич": 574
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 136,
+      "gas:candidate-vibid:100100022247121": 176,
+      "gas:candidate-vibid:100100022248789": 574
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4289,10 +4289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 148,
-      "Зюганов Геннадий Андреевич": 201,
-      "Медведев Дмитрий Анатольевич": 609
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 148,
+      "gas:candidate-vibid:100100022247121": 201,
+      "gas:candidate-vibid:100100022248789": 609
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4339,10 +4339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 183,
-      "Зюганов Геннадий Андреевич": 383,
-      "Медведев Дмитрий Анатольевич": 823
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 183,
+      "gas:candidate-vibid:100100022247121": 383,
+      "gas:candidate-vibid:100100022248789": 823
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4389,10 +4389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 248,
-      "Зюганов Геннадий Андреевич": 320,
-      "Медведев Дмитрий Анатольевич": 824
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 248,
+      "gas:candidate-vibid:100100022247121": 320,
+      "gas:candidate-vibid:100100022248789": 824
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4439,10 +4439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 165,
-      "Зюганов Геннадий Андреевич": 316,
-      "Медведев Дмитрий Анатольевич": 772
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 165,
+      "gas:candidate-vibid:100100022247121": 316,
+      "gas:candidate-vibid:100100022248789": 772
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4489,10 +4489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 157,
-      "Зюганов Геннадий Андреевич": 275,
-      "Медведев Дмитрий Анатольевич": 595
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 157,
+      "gas:candidate-vibid:100100022247121": 275,
+      "gas:candidate-vibid:100100022248789": 595
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4539,10 +4539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 214,
-      "Зюганов Геннадий Андреевич": 462,
-      "Медведев Дмитрий Анатольевич": 1062
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 214,
+      "gas:candidate-vibid:100100022247121": 462,
+      "gas:candidate-vibid:100100022248789": 1062
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4589,10 +4589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 164,
-      "Медведев Дмитрий Анатольевич": 309
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 164,
+      "gas:candidate-vibid:100100022248789": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4639,10 +4639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 192,
-      "Зюганов Геннадий Андреевич": 290,
-      "Медведев Дмитрий Анатольевич": 798
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 192,
+      "gas:candidate-vibid:100100022247121": 290,
+      "gas:candidate-vibid:100100022248789": 798
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4689,10 +4689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 49
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4739,10 +4739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 79,
-      "Медведев Дмитрий Анатольевич": 341
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 79,
+      "gas:candidate-vibid:100100022248789": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4789,10 +4789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 69,
-      "Медведев Дмитрий Анатольевич": 202
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 69,
+      "gas:candidate-vibid:100100022248789": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4839,10 +4839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 36,
-      "Медведев Дмитрий Анатольевич": 208
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 36,
+      "gas:candidate-vibid:100100022248789": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4889,10 +4889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 125,
-      "Медведев Дмитрий Анатольевич": 431
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 49,
+      "gas:candidate-vibid:100100022247121": 125,
+      "gas:candidate-vibid:100100022248789": 431
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4939,10 +4939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 86,
-      "Медведев Дмитрий Анатольевич": 380
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 86,
+      "gas:candidate-vibid:100100022248789": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -4989,10 +4989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 59,
-      "Зюганов Геннадий Андреевич": 119,
-      "Медведев Дмитрий Анатольевич": 414
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 59,
+      "gas:candidate-vibid:100100022247121": 119,
+      "gas:candidate-vibid:100100022248789": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5039,10 +5039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 31
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5089,10 +5089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 230
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5139,10 +5139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5189,10 +5189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 130,
-      "Медведев Дмитрий Анатольевич": 299
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 130,
+      "gas:candidate-vibid:100100022248789": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5239,10 +5239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 92,
-      "Медведев Дмитрий Анатольевич": 327
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 51,
+      "gas:candidate-vibid:100100022247121": 92,
+      "gas:candidate-vibid:100100022248789": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5289,10 +5289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 57
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5339,10 +5339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 130,
-      "Медведев Дмитрий Анатольевич": 203
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 130,
+      "gas:candidate-vibid:100100022248789": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5389,10 +5389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 32
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5439,10 +5439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 152
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5489,10 +5489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 106,
-      "Медведев Дмитрий Анатольевич": 364
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 112,
+      "gas:candidate-vibid:100100022247121": 106,
+      "gas:candidate-vibid:100100022248789": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5539,10 +5539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 82,
-      "Медведев Дмитрий Анатольевич": 385
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 80,
+      "gas:candidate-vibid:100100022247121": 82,
+      "gas:candidate-vibid:100100022248789": 385
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5589,10 +5589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 74
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5639,10 +5639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 45,
-      "Медведев Дмитрий Анатольевич": 158
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 45,
+      "gas:candidate-vibid:100100022248789": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5689,10 +5689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 39,
-      "Медведев Дмитрий Анатольевич": 143
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 39,
+      "gas:candidate-vibid:100100022248789": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5739,10 +5739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 156,
-      "Зюганов Геннадий Андреевич": 296,
-      "Медведев Дмитрий Анатольевич": 546
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 156,
+      "gas:candidate-vibid:100100022247121": 296,
+      "gas:candidate-vibid:100100022248789": 546
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5789,10 +5789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 184,
-      "Медведев Дмитрий Анатольевич": 356
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 119,
+      "gas:candidate-vibid:100100022247121": 184,
+      "gas:candidate-vibid:100100022248789": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5839,10 +5839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 124,
-      "Медведев Дмитрий Анатольевич": 298
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 74,
+      "gas:candidate-vibid:100100022247121": 124,
+      "gas:candidate-vibid:100100022248789": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5889,10 +5889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 144,
-      "Медведев Дмитрий Анатольевич": 360
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 93,
+      "gas:candidate-vibid:100100022247121": 144,
+      "gas:candidate-vibid:100100022248789": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5939,10 +5939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 138,
-      "Медведев Дмитрий Анатольевич": 220
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 138,
+      "gas:candidate-vibid:100100022248789": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -5989,10 +5989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 130,
-      "Медведев Дмитрий Анатольевич": 353
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 130,
+      "gas:candidate-vibid:100100022248789": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -6039,10 +6039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 163,
-      "Зюганов Геннадий Андреевич": 181,
-      "Медведев Дмитрий Анатольевич": 891
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 163,
+      "gas:candidate-vibid:100100022247121": 181,
+      "gas:candidate-vibid:100100022248789": 891
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -6089,10 +6089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 85,
-      "Зюганов Геннадий Андреевич": 191,
-      "Медведев Дмитрий Анатольевич": 709
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 85,
+      "gas:candidate-vibid:100100022247121": 191,
+      "gas:candidate-vibid:100100022248789": 709
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -6139,10 +6139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 85,
-      "Зюганов Геннадий Андреевич": 183,
-      "Медведев Дмитрий Анатольевич": 653
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 85,
+      "gas:candidate-vibid:100100022247121": 183,
+      "gas:candidate-vibid:100100022248789": 653
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -6189,10 +6189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 132,
-      "Зюганов Геннадий Андреевич": 322,
-      "Медведев Дмитрий Анатольевич": 1146
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 132,
+      "gas:candidate-vibid:100100022247121": 322,
+      "gas:candidate-vibid:100100022248789": 1146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250849&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250849&type=227",
@@ -6239,10 +6239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 249,
-      "Медведев Дмитрий Анатольевич": 701
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 119,
+      "gas:candidate-vibid:100100022247121": 249,
+      "gas:candidate-vibid:100100022248789": 701
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6289,10 +6289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 126,
-      "Медведев Дмитрий Анатольевич": 452
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 83,
+      "gas:candidate-vibid:100100022247121": 126,
+      "gas:candidate-vibid:100100022248789": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6339,10 +6339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 90,
-      "Медведев Дмитрий Анатольевич": 271
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 90,
+      "gas:candidate-vibid:100100022248789": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6389,10 +6389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 158,
-      "Медведев Дмитрий Анатольевич": 422
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 90,
+      "gas:candidate-vibid:100100022247121": 158,
+      "gas:candidate-vibid:100100022248789": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6439,10 +6439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 62,
-      "Медведев Дмитрий Анатольевич": 231
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 62,
+      "gas:candidate-vibid:100100022248789": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6489,10 +6489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 115,
-      "Медведев Дмитрий Анатольевич": 476
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 68,
+      "gas:candidate-vibid:100100022247121": 115,
+      "gas:candidate-vibid:100100022248789": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6539,10 +6539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 86,
-      "Медведев Дмитрий Анатольевич": 187
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 46,
+      "gas:candidate-vibid:100100022247121": 86,
+      "gas:candidate-vibid:100100022248789": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6589,10 +6589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 107,
-      "Медведев Дмитрий Анатольевич": 388
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 107,
+      "gas:candidate-vibid:100100022248789": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6639,10 +6639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 254
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6689,10 +6689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 91,
-      "Зюганов Геннадий Андреевич": 131,
-      "Медведев Дмитрий Анатольевич": 447
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 91,
+      "gas:candidate-vibid:100100022247121": 131,
+      "gas:candidate-vibid:100100022248789": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6739,10 +6739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 115,
-      "Медведев Дмитрий Анатольевич": 279
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 48,
+      "gas:candidate-vibid:100100022247121": 115,
+      "gas:candidate-vibid:100100022248789": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6789,10 +6789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 37,
-      "Медведев Дмитрий Анатольевич": 77
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 37,
+      "gas:candidate-vibid:100100022248789": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6839,10 +6839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 60
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6889,10 +6889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 110
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6939,10 +6939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 86
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -6989,10 +6989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 62,
-      "Медведев Дмитрий Анатольевич": 105
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 62,
+      "gas:candidate-vibid:100100022248789": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7039,10 +7039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 39
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7089,10 +7089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7139,10 +7139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 34
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7189,10 +7189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 176,
-      "Медведев Дмитрий Анатольевич": 432
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 93,
+      "gas:candidate-vibid:100100022247121": 176,
+      "gas:candidate-vibid:100100022248789": 432
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7239,10 +7239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 105,
-      "Медведев Дмитрий Анатольевич": 146
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 105,
+      "gas:candidate-vibid:100100022248789": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7289,10 +7289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 32
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7339,10 +7339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 88
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7389,10 +7389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 112
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7439,10 +7439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 87,
-      "Медведев Дмитрий Анатольевич": 161
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 87,
+      "gas:candidate-vibid:100100022248789": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7489,10 +7489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 38,
-      "Медведев Дмитрий Анатольевич": 98
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 38,
+      "gas:candidate-vibid:100100022248789": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7539,10 +7539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 43,
-      "Медведев Дмитрий Анатольевич": 163
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 43,
+      "gas:candidate-vibid:100100022248789": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7589,10 +7589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 54
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 62,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7639,10 +7639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 177
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7689,10 +7689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 141
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7739,10 +7739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 237,
-      "Медведев Дмитрий Анатольевич": 601
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 237,
+      "gas:candidate-vibid:100100022248789": 601
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7789,10 +7789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 149
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7839,10 +7839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7889,10 +7889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 98,
-      "Зюганов Геннадий Андреевич": 95,
-      "Медведев Дмитрий Анатольевич": 558
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 98,
+      "gas:candidate-vibid:100100022247121": 95,
+      "gas:candidate-vibid:100100022248789": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7939,10 +7939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 106,
-      "Зюганов Геннадий Андреевич": 183,
-      "Медведев Дмитрий Анатольевич": 420
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 106,
+      "gas:candidate-vibid:100100022247121": 183,
+      "gas:candidate-vibid:100100022248789": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -7989,10 +7989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 92,
-      "Медведев Дмитрий Анатольевич": 398
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 58,
+      "gas:candidate-vibid:100100022247121": 92,
+      "gas:candidate-vibid:100100022248789": 398
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8039,10 +8039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 59
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8089,10 +8089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 124,
-      "Медведев Дмитрий Анатольевич": 424
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 124,
+      "gas:candidate-vibid:100100022248789": 424
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8139,10 +8139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 101
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8189,10 +8189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 108
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 67,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8239,10 +8239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 53,
-      "Жириновский Владимир Вольфович": 184,
-      "Зюганов Геннадий Андреевич": 336,
-      "Медведев Дмитрий Анатольевич": 676
+      "gas:candidate-vibid:100100022245504": 53,
+      "gas:candidate-vibid:100100022247031": 184,
+      "gas:candidate-vibid:100100022247121": 336,
+      "gas:candidate-vibid:100100022248789": 676
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8289,10 +8289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8339,10 +8339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 44
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8389,10 +8389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 100
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8439,10 +8439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 44,
-      "Медведев Дмитрий Анатольевич": 73
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 44,
+      "gas:candidate-vibid:100100022248789": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8489,10 +8489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 57
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8539,10 +8539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 45
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8589,10 +8589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 103,
-      "Медведев Дмитрий Анатольевич": 309
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 103,
+      "gas:candidate-vibid:100100022248789": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8639,10 +8639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 115
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8689,10 +8689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 121
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8739,10 +8739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 85
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8789,10 +8789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 59,
-      "Медведев Дмитрий Анатольевич": 121
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 59,
+      "gas:candidate-vibid:100100022248789": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8839,10 +8839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 120,
-      "Зюганов Геннадий Андреевич": 134,
-      "Медведев Дмитрий Анатольевич": 575
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 120,
+      "gas:candidate-vibid:100100022247121": 134,
+      "gas:candidate-vibid:100100022248789": 575
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8889,10 +8889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 59,
-      "Медведев Дмитрий Анатольевич": 306
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 76,
+      "gas:candidate-vibid:100100022247121": 59,
+      "gas:candidate-vibid:100100022248789": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8939,10 +8939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 61
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -8989,10 +8989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 130,
-      "Зюганов Геннадий Андреевич": 171,
-      "Медведев Дмитрий Анатольевич": 562
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 130,
+      "gas:candidate-vibid:100100022247121": 171,
+      "gas:candidate-vibid:100100022248789": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9039,10 +9039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 125
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9089,10 +9089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 170,
-      "Медведев Дмитрий Анатольевич": 178
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 48,
+      "gas:candidate-vibid:100100022247121": 170,
+      "gas:candidate-vibid:100100022248789": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9139,10 +9139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 43,
-      "Медведев Дмитрий Анатольевич": 148
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 43,
+      "gas:candidate-vibid:100100022248789": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9189,10 +9189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 70
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9239,10 +9239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9289,10 +9289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 103,
-      "Медведев Дмитрий Анатольевич": 374
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 69,
+      "gas:candidate-vibid:100100022247121": 103,
+      "gas:candidate-vibid:100100022248789": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9339,10 +9339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 68
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9389,10 +9389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 57,
-      "Медведев Дмитрий Анатольевич": 110
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 57,
+      "gas:candidate-vibid:100100022248789": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9439,10 +9439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 29
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250850&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250850&type=227",
@@ -9489,10 +9489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 195,
-      "Медведев Дмитрий Анатольевич": 763
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 81,
+      "gas:candidate-vibid:100100022247121": 195,
+      "gas:candidate-vibid:100100022248789": 763
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9539,10 +9539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 134,
-      "Медведев Дмитрий Анатольевич": 618
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 103,
+      "gas:candidate-vibid:100100022247121": 134,
+      "gas:candidate-vibid:100100022248789": 618
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9589,10 +9589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 90
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9639,10 +9639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 255
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9689,10 +9689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 106
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9739,10 +9739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 67,
-      "Медведев Дмитрий Анатольевич": 256
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 67,
+      "gas:candidate-vibid:100100022248789": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9789,10 +9789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 44,
-      "Медведев Дмитрий Анатольевич": 128
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 44,
+      "gas:candidate-vibid:100100022248789": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9839,10 +9839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 191
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250851&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250851&type=227",
@@ -9889,10 +9889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 35
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -9939,10 +9939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 24
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -9989,10 +9989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 93,
-      "Медведев Дмитрий Анатольевич": 358
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 51,
+      "gas:candidate-vibid:100100022247121": 93,
+      "gas:candidate-vibid:100100022248789": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10039,10 +10039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 203
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10089,10 +10089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 251
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10139,10 +10139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 96,
-      "Медведев Дмитрий Анатольевич": 449
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 83,
+      "gas:candidate-vibid:100100022247121": 96,
+      "gas:candidate-vibid:100100022248789": 449
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10189,10 +10189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 127,
-      "Медведев Дмитрий Анатольевич": 613
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 122,
+      "gas:candidate-vibid:100100022247121": 127,
+      "gas:candidate-vibid:100100022248789": 613
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10239,10 +10239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 117,
-      "Медведев Дмитрий Анатольевич": 499
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 84,
+      "gas:candidate-vibid:100100022247121": 117,
+      "gas:candidate-vibid:100100022248789": 499
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10289,10 +10289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 92,
-      "Медведев Дмитрий Анатольевич": 426
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 81,
+      "gas:candidate-vibid:100100022247121": 92,
+      "gas:candidate-vibid:100100022248789": 426
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10339,10 +10339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 74,
-      "Медведев Дмитрий Анатольевич": 324
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 79,
+      "gas:candidate-vibid:100100022247121": 74,
+      "gas:candidate-vibid:100100022248789": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10389,10 +10389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 169
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10439,10 +10439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 75
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10489,10 +10489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 99,
-      "Зюганов Геннадий Андреевич": 199,
-      "Медведев Дмитрий Анатольевич": 591
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 99,
+      "gas:candidate-vibid:100100022247121": 199,
+      "gas:candidate-vibid:100100022248789": 591
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10539,10 +10539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 107,
-      "Медведев Дмитрий Анатольевич": 596
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 112,
+      "gas:candidate-vibid:100100022247121": 107,
+      "gas:candidate-vibid:100100022248789": 596
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10589,10 +10589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 78
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10639,10 +10639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 245
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10689,10 +10689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 67
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10739,10 +10739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 36,
-      "Медведев Дмитрий Анатольевич": 252
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 44,
+      "gas:candidate-vibid:100100022247121": 36,
+      "gas:candidate-vibid:100100022248789": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10789,10 +10789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 60
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10839,10 +10839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 129,
-      "Медведев Дмитрий Анатольевич": 443
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 109,
+      "gas:candidate-vibid:100100022247121": 129,
+      "gas:candidate-vibid:100100022248789": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10889,10 +10889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 92,
-      "Медведев Дмитрий Анатольевич": 366
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 75,
+      "gas:candidate-vibid:100100022247121": 92,
+      "gas:candidate-vibid:100100022248789": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10939,10 +10939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 49
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -10989,10 +10989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 39
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11039,10 +11039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 131
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11089,10 +11089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 64
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11139,10 +11139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 52
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11189,10 +11189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 59
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11239,10 +11239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 43,
-      "Медведев Дмитрий Анатольевич": 162
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 43,
+      "gas:candidate-vibid:100100022248789": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11289,10 +11289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 157
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11339,10 +11339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11389,10 +11389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 10
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11439,10 +11439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 28
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11489,10 +11489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 102
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11539,10 +11539,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250852&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250852&type=227",
@@ -11589,10 +11589,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 166,
-      "Медведев Дмитрий Анатольевич": 399
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 78,
+      "gas:candidate-vibid:100100022247121": 166,
+      "gas:candidate-vibid:100100022248789": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11639,10 +11639,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 55,
-      "Медведев Дмитрий Анатольевич": 174
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 55,
+      "gas:candidate-vibid:100100022248789": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11689,10 +11689,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 76
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11739,10 +11739,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 37,
-      "Медведев Дмитрий Анатольевич": 86
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 37,
+      "gas:candidate-vibid:100100022248789": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11789,10 +11789,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11839,10 +11839,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 76
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11889,10 +11889,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 78,
-      "Медведев Дмитрий Анатольевич": 132
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 78,
+      "gas:candidate-vibid:100100022248789": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11939,10 +11939,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 201,
-      "Медведев Дмитрий Анатольевич": 588
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 89,
+      "gas:candidate-vibid:100100022247121": 201,
+      "gas:candidate-vibid:100100022248789": 588
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -11989,10 +11989,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 144
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12039,10 +12039,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 219
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12089,10 +12089,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 37
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12139,10 +12139,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 239
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12189,10 +12189,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 92
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12239,10 +12239,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 66,
-      "Медведев Дмитрий Анатольевич": 203
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 66,
+      "gas:candidate-vibid:100100022248789": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12289,10 +12289,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 53,
-      "Медведев Дмитрий Анатольевич": 310
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 74,
+      "gas:candidate-vibid:100100022247121": 53,
+      "gas:candidate-vibid:100100022248789": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12339,10 +12339,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 110,
-      "Зюганов Геннадий Андреевич": 46,
-      "Медведев Дмитрий Анатольевич": 325
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 110,
+      "gas:candidate-vibid:100100022247121": 46,
+      "gas:candidate-vibid:100100022248789": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12389,10 +12389,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 104,
-      "Медведев Дмитрий Анатольевич": 224
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 71,
+      "gas:candidate-vibid:100100022247121": 104,
+      "gas:candidate-vibid:100100022248789": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12439,10 +12439,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 125,
-      "Медведев Дмитрий Анатольевич": 245
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 66,
+      "gas:candidate-vibid:100100022247121": 125,
+      "gas:candidate-vibid:100100022248789": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",
@@ -12489,10 +12489,10 @@ export const president_2008_uik_226_region_38_part_005 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 100
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 37,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/irkutsk?action=show&root=1000014&tvd=2382000250853&vrn=100100022176412&region=38&global=&sub_region=38&prver=0&pronetvd=null&vibid=2382000250853&type=227",

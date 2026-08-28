@@ -39,10 +39,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 114
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -89,10 +89,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 131
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 43,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -139,10 +139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 111
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -189,10 +189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 80,
-      "Медведев Дмитрий Анатольевич": 339
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 103,
+      "gas:candidate-vibid:100100022247121": 80,
+      "gas:candidate-vibid:100100022248789": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -239,10 +239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 257
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -289,10 +289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 167
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 48,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -339,10 +339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 117,
-      "Медведев Дмитрий Анатольевич": 307
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 93,
+      "gas:candidate-vibid:100100022247121": 117,
+      "gas:candidate-vibid:100100022248789": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -389,10 +389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 181
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 82,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -439,10 +439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -489,10 +489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 149,
-      "Медведев Дмитрий Анатольевич": 404
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 93,
+      "gas:candidate-vibid:100100022247121": 149,
+      "gas:candidate-vibid:100100022248789": 404
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -539,10 +539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 142,
-      "Медведев Дмитрий Анатольевич": 602
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 142,
+      "gas:candidate-vibid:100100022248789": 602
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -589,10 +589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 40
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -639,10 +639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 63,
-      "Медведев Дмитрий Анатольевич": 76
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 63,
+      "gas:candidate-vibid:100100022248789": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -689,10 +689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 138
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 33,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -739,10 +739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 76
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -789,10 +789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 109,
-      "Медведев Дмитрий Анатольевич": 429
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 95,
+      "gas:candidate-vibid:100100022247121": 109,
+      "gas:candidate-vibid:100100022248789": 429
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -839,10 +839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 53,
-      "Медведев Дмитрий Анатольевич": 256
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 53,
+      "gas:candidate-vibid:100100022248789": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -889,10 +889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 108
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -939,10 +939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 71,
-      "Медведев Дмитрий Анатольевич": 257
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 67,
+      "gas:candidate-vibid:100100022247121": 71,
+      "gas:candidate-vibid:100100022248789": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -989,10 +989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 167,
-      "Зюганов Геннадий Андреевич": 225,
-      "Медведев Дмитрий Анатольевич": 681
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 167,
+      "gas:candidate-vibid:100100022247121": 225,
+      "gas:candidate-vibid:100100022248789": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1039,10 +1039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 291
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 82,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1089,10 +1089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 105,
-      "Медведев Дмитрий Анатольевич": 335
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 86,
+      "gas:candidate-vibid:100100022247121": 105,
+      "gas:candidate-vibid:100100022248789": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1139,10 +1139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 124
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 33,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1189,10 +1189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 50
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1239,10 +1239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 69
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1289,10 +1289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 40
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1339,10 +1339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1389,10 +1389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 129
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1439,10 +1439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 220
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 40,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1489,10 +1489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 71
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1539,10 +1539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 91,
-      "Зюганов Геннадий Андреевич": 120,
-      "Медведев Дмитрий Анатольевич": 365
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 91,
+      "gas:candidate-vibid:100100022247121": 120,
+      "gas:candidate-vibid:100100022248789": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1589,10 +1589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 56
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1639,10 +1639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 33
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1689,10 +1689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 65
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1739,10 +1739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 56
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1789,10 +1789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 90,
-      "Медведев Дмитрий Анатольевич": 274
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 69,
+      "gas:candidate-vibid:100100022247121": 90,
+      "gas:candidate-vibid:100100022248789": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1839,10 +1839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1889,10 +1889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1939,10 +1939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 50
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -1989,10 +1989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2039,10 +2039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 86,
-      "Медведев Дмитрий Анатольевич": 260
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 71,
+      "gas:candidate-vibid:100100022247121": 86,
+      "gas:candidate-vibid:100100022248789": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2089,10 +2089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 216
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 43,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2139,10 +2139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 152
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2189,10 +2189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2239,10 +2239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2289,10 +2289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 113,
-      "Медведев Дмитрий Анатольевич": 449
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 74,
+      "gas:candidate-vibid:100100022247121": 113,
+      "gas:candidate-vibid:100100022248789": 449
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195419&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195419&type=227",
@@ -2339,10 +2339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 147,
-      "Медведев Дмитрий Анатольевич": 225
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 74,
+      "gas:candidate-vibid:100100022247121": 147,
+      "gas:candidate-vibid:100100022248789": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2389,10 +2389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 132,
-      "Медведев Дмитрий Анатольевич": 358
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 56,
+      "gas:candidate-vibid:100100022247121": 132,
+      "gas:candidate-vibid:100100022248789": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2439,10 +2439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 162,
-      "Медведев Дмитрий Анатольевич": 337
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 95,
+      "gas:candidate-vibid:100100022247121": 162,
+      "gas:candidate-vibid:100100022248789": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2489,10 +2489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 77,
-      "Зюганов Геннадий Андреевич": 178,
-      "Медведев Дмитрий Анатольевич": 351
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 77,
+      "gas:candidate-vibid:100100022247121": 178,
+      "gas:candidate-vibid:100100022248789": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2539,10 +2539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 96,
-      "Медведев Дмитрий Анатольевич": 199
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 96,
+      "gas:candidate-vibid:100100022248789": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2589,10 +2589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 104,
-      "Медведев Дмитрий Анатольевич": 218
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 62,
+      "gas:candidate-vibid:100100022247121": 104,
+      "gas:candidate-vibid:100100022248789": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2639,10 +2639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 199,
-      "Медведев Дмитрий Анатольевич": 519
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 88,
+      "gas:candidate-vibid:100100022247121": 199,
+      "gas:candidate-vibid:100100022248789": 519
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2689,10 +2689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 191,
-      "Медведев Дмитрий Анатольевич": 377
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 78,
+      "gas:candidate-vibid:100100022247121": 191,
+      "gas:candidate-vibid:100100022248789": 377
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2739,10 +2739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 73
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2789,10 +2789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 61,
-      "Медведев Дмитрий Анатольевич": 258
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 40,
+      "gas:candidate-vibid:100100022247121": 61,
+      "gas:candidate-vibid:100100022248789": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2839,10 +2839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 70,
-      "Медведев Дмитрий Анатольевич": 204
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 57,
+      "gas:candidate-vibid:100100022247121": 70,
+      "gas:candidate-vibid:100100022248789": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2889,10 +2889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 35
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2939,10 +2939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -2989,10 +2989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 69
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3039,10 +3039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 83
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3089,10 +3089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 229
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3139,10 +3139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 61
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3189,10 +3189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 178,
-      "Медведев Дмитрий Анатольевич": 290
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 178,
+      "gas:candidate-vibid:100100022248789": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3239,10 +3239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 119
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3289,10 +3289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3339,10 +3339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 42
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3389,10 +3389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 80,
-      "Медведев Дмитрий Анатольевич": 158
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 40,
+      "gas:candidate-vibid:100100022247121": 80,
+      "gas:candidate-vibid:100100022248789": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3439,10 +3439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3489,10 +3489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 45
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3539,10 +3539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 175,
-      "Медведев Дмитрий Анатольевич": 166
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 175,
+      "gas:candidate-vibid:100100022248789": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3589,10 +3589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 11
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3639,10 +3639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3689,10 +3689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 73,
-      "Зюганов Геннадий Андреевич": 182,
-      "Медведев Дмитрий Анатольевич": 394
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 73,
+      "gas:candidate-vibid:100100022247121": 182,
+      "gas:candidate-vibid:100100022248789": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3739,10 +3739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 83,
-      "Медведев Дмитрий Анатольевич": 62
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 83,
+      "gas:candidate-vibid:100100022248789": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3789,10 +3789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 46,
-      "Медведев Дмитрий Анатольевич": 86
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 46,
+      "gas:candidate-vibid:100100022248789": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3839,10 +3839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 67
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3889,10 +3889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 125,
-      "Медведев Дмитрий Анатольевич": 246
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 125,
+      "gas:candidate-vibid:100100022248789": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3939,10 +3939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 108
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -3989,10 +3989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 81
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -4039,10 +4039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 32
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -4089,10 +4089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195420&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195420&type=227",
@@ -4139,10 +4139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 134
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4189,10 +4189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 60
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4239,10 +4239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 143,
-      "Зюганов Геннадий Андреевич": 323,
-      "Медведев Дмитрий Анатольевич": 876
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 143,
+      "gas:candidate-vibid:100100022247121": 323,
+      "gas:candidate-vibid:100100022248789": 876
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4289,10 +4289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 74,
-      "Медведев Дмитрий Анатольевич": 210
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 37,
+      "gas:candidate-vibid:100100022247121": 74,
+      "gas:candidate-vibid:100100022248789": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4339,10 +4339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 54,
-      "Медведев Дмитрий Анатольевич": 61
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 54,
+      "gas:candidate-vibid:100100022248789": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4389,10 +4389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 69,
-      "Медведев Дмитрий Анатольевич": 235
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 69,
+      "gas:candidate-vibid:100100022248789": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4439,10 +4439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 75
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4489,10 +4489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 97
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4539,10 +4539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 115
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4589,10 +4589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 74
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4639,10 +4639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 115,
-      "Медведев Дмитрий Анатольевич": 225
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 115,
+      "gas:candidate-vibid:100100022248789": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4689,10 +4689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 73
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4739,10 +4739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 123
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4789,10 +4789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 70
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4839,10 +4839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 41
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4889,10 +4889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 41
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4939,10 +4939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 137
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -4989,10 +4989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 43
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -5039,10 +5039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 155,
-      "Медведев Дмитрий Анатольевич": 429
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 108,
+      "gas:candidate-vibid:100100022247121": 155,
+      "gas:candidate-vibid:100100022248789": 429
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -5089,10 +5089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195421&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195421&type=227",
@@ -5139,10 +5139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 218,
-      "Зюганов Геннадий Андреевич": 356,
-      "Медведев Дмитрий Анатольевич": 689
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 218,
+      "gas:candidate-vibid:100100022247121": 356,
+      "gas:candidate-vibid:100100022248789": 689
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5189,10 +5189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 242,
-      "Зюганов Геннадий Андреевич": 405,
-      "Медведев Дмитрий Анатольевич": 659
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 242,
+      "gas:candidate-vibid:100100022247121": 405,
+      "gas:candidate-vibid:100100022248789": 659
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5239,10 +5239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 193,
-      "Зюганов Геннадий Андреевич": 363,
-      "Медведев Дмитрий Анатольевич": 574
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 193,
+      "gas:candidate-vibid:100100022247121": 363,
+      "gas:candidate-vibid:100100022248789": 574
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5289,10 +5289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 226,
-      "Зюганов Геннадий Андреевич": 396,
-      "Медведев Дмитрий Анатольевич": 790
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 226,
+      "gas:candidate-vibid:100100022247121": 396,
+      "gas:candidate-vibid:100100022248789": 790
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5339,10 +5339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 214,
-      "Зюганов Геннадий Андреевич": 418,
-      "Медведев Дмитрий Анатольевич": 702
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 214,
+      "gas:candidate-vibid:100100022247121": 418,
+      "gas:candidate-vibid:100100022248789": 702
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5389,10 +5389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 156,
-      "Зюганов Геннадий Андреевич": 333,
-      "Медведев Дмитрий Анатольевич": 532
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 156,
+      "gas:candidate-vibid:100100022247121": 333,
+      "gas:candidate-vibid:100100022248789": 532
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5439,10 +5439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 160,
-      "Зюганов Геннадий Андреевич": 377,
-      "Медведев Дмитрий Анатольевич": 622
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 160,
+      "gas:candidate-vibid:100100022247121": 377,
+      "gas:candidate-vibid:100100022248789": 622
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5489,10 +5489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 27,
-      "Жириновский Владимир Вольфович": 246,
-      "Зюганов Геннадий Андреевич": 410,
-      "Медведев Дмитрий Анатольевич": 741
+      "gas:candidate-vibid:100100022245504": 27,
+      "gas:candidate-vibid:100100022247031": 246,
+      "gas:candidate-vibid:100100022247121": 410,
+      "gas:candidate-vibid:100100022248789": 741
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195422&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195422&type=227",
@@ -5539,10 +5539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 166,
-      "Зюганов Геннадий Андреевич": 318,
-      "Медведев Дмитрий Анатольевич": 802
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 166,
+      "gas:candidate-vibid:100100022247121": 318,
+      "gas:candidate-vibid:100100022248789": 802
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5589,10 +5589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 117,
-      "Зюганов Геннадий Андреевич": 250,
-      "Медведев Дмитрий Анатольевич": 641
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 117,
+      "gas:candidate-vibid:100100022247121": 250,
+      "gas:candidate-vibid:100100022248789": 641
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5639,10 +5639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 161,
-      "Зюганов Геннадий Андреевич": 308,
-      "Медведев Дмитрий Анатольевич": 793
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 161,
+      "gas:candidate-vibid:100100022247121": 308,
+      "gas:candidate-vibid:100100022248789": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5689,10 +5689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 213,
-      "Медведев Дмитрий Анатольевич": 625
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 84,
+      "gas:candidate-vibid:100100022247121": 213,
+      "gas:candidate-vibid:100100022248789": 625
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5739,10 +5739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 91
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5789,10 +5789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 45,
-      "Медведев Дмитрий Анатольевич": 123
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 45,
+      "gas:candidate-vibid:100100022248789": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5839,10 +5839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 97,
-      "Медведев Дмитрий Анатольевич": 299
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 97,
+      "gas:candidate-vibid:100100022248789": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5889,10 +5889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 200
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5939,10 +5939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 57,
-      "Медведев Дмитрий Анатольевич": 243
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 57,
+      "gas:candidate-vibid:100100022248789": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -5989,10 +5989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 99
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6039,10 +6039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 126
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6089,10 +6089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 66
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6139,10 +6139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 98,
-      "Медведев Дмитрий Анатольевич": 152
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 98,
+      "gas:candidate-vibid:100100022248789": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6189,10 +6189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 172
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6239,10 +6239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 88,
-      "Медведев Дмитрий Анатольевич": 191
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 58,
+      "gas:candidate-vibid:100100022247121": 88,
+      "gas:candidate-vibid:100100022248789": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6289,10 +6289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 118
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6339,10 +6339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 205
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6389,10 +6389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 46
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6439,10 +6439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6489,10 +6489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 92
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6539,10 +6539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 41,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 187
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 41,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6589,10 +6589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 88
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6639,10 +6639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6689,10 +6689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 117,
-      "Медведев Дмитрий Анатольевич": 277
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 56,
+      "gas:candidate-vibid:100100022247121": 117,
+      "gas:candidate-vibid:100100022248789": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6739,10 +6739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 60
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6789,10 +6789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 59,
-      "Зюганов Геннадий Андреевич": 98,
-      "Медведев Дмитрий Анатольевич": 132
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 59,
+      "gas:candidate-vibid:100100022247121": 98,
+      "gas:candidate-vibid:100100022248789": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6839,10 +6839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 39,
-      "Медведев Дмитрий Анатольевич": 81
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 39,
+      "gas:candidate-vibid:100100022248789": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6889,10 +6889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 135
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195423&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195423&type=227",
@@ -6939,10 +6939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 37
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -6989,10 +6989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 56,
-      "Медведев Дмитрий Анатольевич": 254
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 56,
+      "gas:candidate-vibid:100100022248789": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7039,10 +7039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 141,
-      "Зюганов Геннадий Андреевич": 183,
-      "Медведев Дмитрий Анатольевич": 766
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 141,
+      "gas:candidate-vibid:100100022247121": 183,
+      "gas:candidate-vibid:100100022248789": 766
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7089,10 +7089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 63,
-      "Зюганов Геннадий Андреевич": 80,
-      "Медведев Дмитрий Анатольевич": 298
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 63,
+      "gas:candidate-vibid:100100022247121": 80,
+      "gas:candidate-vibid:100100022248789": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7139,10 +7139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 33
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7189,10 +7189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 18
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7239,10 +7239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 58,
-      "Медведев Дмитрий Анатольевич": 89
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 58,
+      "gas:candidate-vibid:100100022248789": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7289,10 +7289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 213
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7339,10 +7339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 115,
-      "Зюганов Геннадий Андреевич": 200,
-      "Медведев Дмитрий Анатольевич": 674
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 115,
+      "gas:candidate-vibid:100100022247121": 200,
+      "gas:candidate-vibid:100100022248789": 674
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7389,10 +7389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 199,
-      "Медведев Дмитрий Анатольевич": 683
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 199,
+      "gas:candidate-vibid:100100022248789": 683
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7439,10 +7439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 72
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7489,10 +7489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 155,
-      "Зюганов Геннадий Андреевич": 270,
-      "Медведев Дмитрий Анатольевич": 570
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 155,
+      "gas:candidate-vibid:100100022247121": 270,
+      "gas:candidate-vibid:100100022248789": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7539,10 +7539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 152,
-      "Медведев Дмитрий Анатольевич": 451
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 70,
+      "gas:candidate-vibid:100100022247121": 152,
+      "gas:candidate-vibid:100100022248789": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7589,10 +7589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 163,
-      "Медведев Дмитрий Анатольевич": 407
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 101,
+      "gas:candidate-vibid:100100022247121": 163,
+      "gas:candidate-vibid:100100022248789": 407
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7639,10 +7639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 195,
-      "Медведев Дмитрий Анатольевич": 519
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 195,
+      "gas:candidate-vibid:100100022248789": 519
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7689,10 +7689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 107,
-      "Зюганов Геннадий Андреевич": 155,
-      "Медведев Дмитрий Анатольевич": 508
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 107,
+      "gas:candidate-vibid:100100022247121": 155,
+      "gas:candidate-vibid:100100022248789": 508
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7739,10 +7739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 124,
-      "Зюганов Геннадий Андреевич": 143,
-      "Медведев Дмитрий Анатольевич": 559
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 124,
+      "gas:candidate-vibid:100100022247121": 143,
+      "gas:candidate-vibid:100100022248789": 559
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7789,10 +7789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 135,
-      "Медведев Дмитрий Анатольевич": 415
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 78,
+      "gas:candidate-vibid:100100022247121": 135,
+      "gas:candidate-vibid:100100022248789": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7839,10 +7839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 72,
-      "Зюганов Геннадий Андреевич": 79,
-      "Медведев Дмитрий Анатольевич": 500
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 72,
+      "gas:candidate-vibid:100100022247121": 79,
+      "gas:candidate-vibid:100100022248789": 500
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7889,10 +7889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 157,
-      "Медведев Дмитрий Анатольевич": 671
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 157,
+      "gas:candidate-vibid:100100022248789": 671
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7939,10 +7939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 127,
-      "Медведев Дмитрий Анатольевич": 562
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 80,
+      "gas:candidate-vibid:100100022247121": 127,
+      "gas:candidate-vibid:100100022248789": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -7989,10 +7989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 41,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 177
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 41,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8039,10 +8039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 177,
-      "Зюганов Геннадий Андреевич": 231,
-      "Медведев Дмитрий Анатольевич": 898
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 177,
+      "gas:candidate-vibid:100100022247121": 231,
+      "gas:candidate-vibid:100100022248789": 898
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8089,10 +8089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 270,
-      "Зюганов Геннадий Андреевич": 316,
-      "Медведев Дмитрий Анатольевич": 917
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 270,
+      "gas:candidate-vibid:100100022247121": 316,
+      "gas:candidate-vibid:100100022248789": 917
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8139,10 +8139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 82
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8189,10 +8189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 62,
-      "Медведев Дмитрий Анатольевич": 314
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 62,
+      "gas:candidate-vibid:100100022248789": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8239,10 +8239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 229,
-      "Зюганов Геннадий Андреевич": 324,
-      "Медведев Дмитрий Анатольевич": 1009
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 229,
+      "gas:candidate-vibid:100100022247121": 324,
+      "gas:candidate-vibid:100100022248789": 1009
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8289,10 +8289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 54
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8339,10 +8339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 236,
-      "Зюганов Геннадий Андреевич": 353,
-      "Медведев Дмитрий Анатольевич": 829
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 236,
+      "gas:candidate-vibid:100100022247121": 353,
+      "gas:candidate-vibid:100100022248789": 829
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8389,10 +8389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 130,
-      "Зюганов Геннадий Андреевич": 168,
-      "Медведев Дмитрий Анатольевич": 564
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 130,
+      "gas:candidate-vibid:100100022247121": 168,
+      "gas:candidate-vibid:100100022248789": 564
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8439,10 +8439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 75,
-      "Медведев Дмитрий Анатольевич": 327
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 70,
+      "gas:candidate-vibid:100100022247121": 75,
+      "gas:candidate-vibid:100100022248789": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8489,10 +8489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 215,
-      "Медведев Дмитрий Анатольевич": 657
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 215,
+      "gas:candidate-vibid:100100022248789": 657
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8539,10 +8539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 297
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 57,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8589,10 +8589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 123,
-      "Зюганов Геннадий Андреевич": 143,
-      "Медведев Дмитрий Анатольевич": 478
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 123,
+      "gas:candidate-vibid:100100022247121": 143,
+      "gas:candidate-vibid:100100022248789": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8639,10 +8639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 15
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195424&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195424&type=227",
@@ -8689,10 +8689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 100,
-      "Зюганов Геннадий Андреевич": 109,
-      "Медведев Дмитрий Анатольевич": 346
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 100,
+      "gas:candidate-vibid:100100022247121": 109,
+      "gas:candidate-vibid:100100022248789": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -8739,10 +8739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 162,
-      "Медведев Дмитрий Анатольевич": 342
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 95,
+      "gas:candidate-vibid:100100022247121": 162,
+      "gas:candidate-vibid:100100022248789": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -8789,10 +8789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 158,
-      "Медведев Дмитрий Анатольевич": 345
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 90,
+      "gas:candidate-vibid:100100022247121": 158,
+      "gas:candidate-vibid:100100022248789": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -8839,10 +8839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 111,
-      "Зюганов Геннадий Андреевич": 204,
-      "Медведев Дмитрий Анатольевич": 328
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 111,
+      "gas:candidate-vibid:100100022247121": 204,
+      "gas:candidate-vibid:100100022248789": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -8889,10 +8889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 94,
-      "Зюганов Геннадий Андреевич": 150,
-      "Медведев Дмитрий Анатольевич": 313
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 94,
+      "gas:candidate-vibid:100100022247121": 150,
+      "gas:candidate-vibid:100100022248789": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -8939,10 +8939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 233,
-      "Медведев Дмитрий Анатольевич": 280
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 68,
+      "gas:candidate-vibid:100100022247121": 233,
+      "gas:candidate-vibid:100100022248789": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -8989,10 +8989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 171,
-      "Медведев Дмитрий Анатольевич": 345
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 171,
+      "gas:candidate-vibid:100100022248789": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9039,10 +9039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 184,
-      "Медведев Дмитрий Анатольевич": 323
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 184,
+      "gas:candidate-vibid:100100022248789": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9089,10 +9089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 138,
-      "Зюганов Геннадий Андреевич": 163,
-      "Медведев Дмитрий Анатольевич": 384
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 138,
+      "gas:candidate-vibid:100100022247121": 163,
+      "gas:candidate-vibid:100100022248789": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9139,10 +9139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 136,
-      "Зюганов Геннадий Андреевич": 153,
-      "Медведев Дмитрий Анатольевич": 372
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 136,
+      "gas:candidate-vibid:100100022247121": 153,
+      "gas:candidate-vibid:100100022248789": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9189,10 +9189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 133,
-      "Зюганов Геннадий Андреевич": 133,
-      "Медведев Дмитрий Анатольевич": 400
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 133,
+      "gas:candidate-vibid:100100022247121": 133,
+      "gas:candidate-vibid:100100022248789": 400
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9239,10 +9239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 64
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9289,10 +9289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 37
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9339,10 +9339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 203,
-      "Медведев Дмитрий Анатольевич": 349
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 90,
+      "gas:candidate-vibid:100100022247121": 203,
+      "gas:candidate-vibid:100100022248789": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9389,10 +9389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 112,
-      "Зюганов Геннадий Андреевич": 167,
-      "Медведев Дмитрий Анатольевич": 355
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 112,
+      "gas:candidate-vibid:100100022247121": 167,
+      "gas:candidate-vibid:100100022248789": 355
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9439,10 +9439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 159,
-      "Медведев Дмитрий Анатольевич": 317
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 114,
+      "gas:candidate-vibid:100100022247121": 159,
+      "gas:candidate-vibid:100100022248789": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9489,10 +9489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 172,
-      "Медведев Дмитрий Анатольевич": 390
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 95,
+      "gas:candidate-vibid:100100022247121": 172,
+      "gas:candidate-vibid:100100022248789": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9539,10 +9539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 95,
-      "Зюганов Геннадий Андреевич": 162,
-      "Медведев Дмитрий Анатольевич": 322
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 95,
+      "gas:candidate-vibid:100100022247121": 162,
+      "gas:candidate-vibid:100100022248789": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9589,10 +9589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 130,
-      "Зюганов Геннадий Андреевич": 156,
-      "Медведев Дмитрий Анатольевич": 340
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 130,
+      "gas:candidate-vibid:100100022247121": 156,
+      "gas:candidate-vibid:100100022248789": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9639,10 +9639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 128,
-      "Медведев Дмитрий Анатольевич": 291
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 128,
+      "gas:candidate-vibid:100100022248789": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195425&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195425&type=227",
@@ -9689,10 +9689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 133,
-      "Зюганов Геннадий Андреевич": 254,
-      "Медведев Дмитрий Анатольевич": 681
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 133,
+      "gas:candidate-vibid:100100022247121": 254,
+      "gas:candidate-vibid:100100022248789": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -9739,10 +9739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 205,
-      "Медведев Дмитрий Анатольевич": 572
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 101,
+      "gas:candidate-vibid:100100022247121": 205,
+      "gas:candidate-vibid:100100022248789": 572
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -9789,10 +9789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 90
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -9839,10 +9839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 62,
-      "Медведев Дмитрий Анатольевич": 127
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 62,
+      "gas:candidate-vibid:100100022248789": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -9889,10 +9889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 44
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -9939,10 +9939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 65
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -9989,10 +9989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 26
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10039,10 +10039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 116
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10089,10 +10089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 42
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10139,10 +10139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10189,10 +10189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 59,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 229
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 59,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10239,10 +10239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 13
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10289,10 +10289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 160,
-      "Зюганов Геннадий Андреевич": 251,
-      "Медведев Дмитрий Анатольевич": 872
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 160,
+      "gas:candidate-vibid:100100022247121": 251,
+      "gas:candidate-vibid:100100022248789": 872
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10339,10 +10339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10389,10 +10389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 9
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10439,10 +10439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 29
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10489,10 +10489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 53,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 53,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10539,10 +10539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 147
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10589,10 +10589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 29
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10639,10 +10639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 132
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10689,10 +10689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 39,
-      "Медведев Дмитрий Анатольевич": 57
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 39,
+      "gas:candidate-vibid:100100022248789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10739,10 +10739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 43,
-      "Медведев Дмитрий Анатольевич": 95
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 43,
+      "gas:candidate-vibid:100100022248789": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10789,10 +10789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10839,10 +10839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10889,10 +10889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 65
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10939,10 +10939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 13
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -10989,10 +10989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 14
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195426&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195426&type=227",
@@ -11039,10 +11039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 163,
-      "Зюганов Геннадий Андреевич": 221,
-      "Медведев Дмитрий Анатольевич": 588
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 163,
+      "gas:candidate-vibid:100100022247121": 221,
+      "gas:candidate-vibid:100100022248789": 588
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11089,10 +11089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 169,
-      "Зюганов Геннадий Андреевич": 220,
-      "Медведев Дмитрий Анатольевич": 498
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 169,
+      "gas:candidate-vibid:100100022247121": 220,
+      "gas:candidate-vibid:100100022248789": 498
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11139,10 +11139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 153,
-      "Зюганов Геннадий Андреевич": 198,
-      "Медведев Дмитрий Анатольевич": 649
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 153,
+      "gas:candidate-vibid:100100022247121": 198,
+      "gas:candidate-vibid:100100022248789": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11189,10 +11189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 72,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 255
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 72,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11239,10 +11239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 270,
-      "Зюганов Геннадий Андреевич": 283,
-      "Медведев Дмитрий Анатольевич": 771
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 270,
+      "gas:candidate-vibid:100100022247121": 283,
+      "gas:candidate-vibid:100100022248789": 771
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11289,10 +11289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 147,
-      "Медведев Дмитрий Анатольевич": 573
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 137,
+      "gas:candidate-vibid:100100022247121": 147,
+      "gas:candidate-vibid:100100022248789": 573
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11339,10 +11339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 147,
-      "Зюганов Геннадий Андреевич": 209,
-      "Медведев Дмитрий Анатольевич": 578
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 147,
+      "gas:candidate-vibid:100100022247121": 209,
+      "gas:candidate-vibid:100100022248789": 578
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11389,10 +11389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 140,
-      "Медведев Дмитрий Анатольевич": 295
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 140,
+      "gas:candidate-vibid:100100022248789": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11439,10 +11439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 115
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11489,10 +11489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 106,
-      "Медведев Дмитрий Анатольевич": 439
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 106,
+      "gas:candidate-vibid:100100022248789": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11539,10 +11539,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 115
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11589,10 +11589,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 75
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11639,10 +11639,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 80,
-      "Зюганов Геннадий Андреевич": 58,
-      "Медведев Дмитрий Анатольевич": 243
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 80,
+      "gas:candidate-vibid:100100022247121": 58,
+      "gas:candidate-vibid:100100022248789": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11689,10 +11689,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 72
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11739,10 +11739,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 93,
-      "Медведев Дмитрий Анатольевич": 353
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 116,
+      "gas:candidate-vibid:100100022247121": 93,
+      "gas:candidate-vibid:100100022248789": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11789,10 +11789,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 82,
-      "Медведев Дмитрий Анатольевич": 253
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 78,
+      "gas:candidate-vibid:100100022247121": 82,
+      "gas:candidate-vibid:100100022248789": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11839,10 +11839,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 67
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11889,10 +11889,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 120,
-      "Зюганов Геннадий Андреевич": 150,
-      "Медведев Дмитрий Анатольевич": 451
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 120,
+      "gas:candidate-vibid:100100022247121": 150,
+      "gas:candidate-vibid:100100022248789": 451
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11939,10 +11939,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 108,
-      "Медведев Дмитрий Анатольевич": 310
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 108,
+      "gas:candidate-vibid:100100022248789": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -11989,10 +11989,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 136,
-      "Медведев Дмитрий Анатольевич": 374
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 129,
+      "gas:candidate-vibid:100100022247121": 136,
+      "gas:candidate-vibid:100100022248789": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12039,10 +12039,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 56
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12089,10 +12089,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 51
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12139,10 +12139,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 54,
-      "Медведев Дмитрий Анатольевич": 221
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 58,
+      "gas:candidate-vibid:100100022247121": 54,
+      "gas:candidate-vibid:100100022248789": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12189,10 +12189,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 183
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 53,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12239,10 +12239,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 48,
-      "Медведев Дмитрий Анатольевич": 114
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 48,
+      "gas:candidate-vibid:100100022248789": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12289,10 +12289,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 122
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12339,10 +12339,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 69
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12389,10 +12389,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 47
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12439,10 +12439,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 38,
-      "Медведев Дмитрий Анатольевич": 56
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 38,
+      "gas:candidate-vibid:100100022248789": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195427&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195427&type=227",
@@ -12489,10 +12489,10 @@ export const president_2008_uik_226_region_24_part_008 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 73,
-      "Зюганов Геннадий Андреевич": 189,
-      "Медведев Дмитрий Анатольевич": 504
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 73,
+      "gas:candidate-vibid:100100022247121": 189,
+      "gas:candidate-vibid:100100022248789": 504
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000008&tvd=2242000195428&vrn=100100022176412&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=2242000195428&type=227",

@@ -8,11562 +8,30832 @@ export const duma_2021_uik_to_tik_region_5 = [
     "uikNumber": 1,
     "uikTvd": "4054001173479",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №1",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "4054001173480",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №2",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "4054001173481",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №3",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "4054001173482",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №4",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "4054001173483",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №5",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "4054001173484",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №6",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "4054001173485",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №7",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "4054001173486",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №8",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "4054001173487",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №9",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "4054001173488",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №10",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "4054001173489",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №11",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "4054001173490",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №12",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "4054001173491",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №13",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "4054001173492",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №14",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "4054001173493",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №15",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "4054001173494",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №16",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "4054001173495",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №17",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "4054001173496",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №18",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "4054001173497",
     "tikTvd": "20520001792122",
-    "tikName": "Агульская"
+    "tikName": "Агульская",
+    "uikName": "УИК №19",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "4054002222019",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №20",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "4054002222020",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №21",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "4054002222021",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №22",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "4054002222022",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №23",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "4054002222023",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №24",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "4054002222024",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №25",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "4054002222025",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №26",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "4054002222026",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №27",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "4054002222027",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №28",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "4054002222028",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №29",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "4054002222029",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №30",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "4054002222030",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №31",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "4054002222031",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №32",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "4054002222032",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №33",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "4054002222033",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №34",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "4054002222034",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №35",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "4054002222035",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №36",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "4054002222036",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №37",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "4054002222037",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №38",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "4054002222038",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №39",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "4054002222039",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №40",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "4054002222040",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №41",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "4054002222041",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №42",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "4054002222042",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №43",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "4054002222043",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №44",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "4054002222044",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №45",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "4054002222045",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №46",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "4054002222046",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №47",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "4054002222047",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №48",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "4054002222048",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №49",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "4054002222049",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №50",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "4054002222050",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №51",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "4054002222051",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №52",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "4054002222052",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №53",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "4054002222053",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №54",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "4054002222054",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №55",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "4054002222055",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №56",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "4054002222056",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №57",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "4054002222057",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №58",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "4054002222058",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №59",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "4054002222059",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №60",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "4054002222060",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №61",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "4054002222061",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №62",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "4054002222062",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №63",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "4054002222063",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №64",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "4054002222064",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №65",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "4054002222065",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №66",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "4054002222066",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №67",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "4054002222067",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №68",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "4054002222068",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №69",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "4054002222069",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №70",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "4054002222070",
     "tikTvd": "20520001792121",
-    "tikName": "Акушинская"
+    "tikName": "Акушинская",
+    "uikName": "УИК №71",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "4054003236431",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №72",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "4054003236432",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №73",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "4054003236433",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №74",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "4054003236434",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №75",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "4054003236435",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №76",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "4054003236436",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №77",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "4054003236437",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №78",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "4054003236438",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №79",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "4054003236439",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №80",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "4054003236440",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №81",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "4054003236441",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №82",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "4054003236442",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №83",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "4054003236443",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №84",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "4054003236444",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №85",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "4054003236445",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №86",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "4054003236446",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №87",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "4054003236447",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №88",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "4054003236448",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №89",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "4054003236449",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №90",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "4054003236450",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №91",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "4054003236451",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №92",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "4054003236452",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №93",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "4054003236453",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №94",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "4054003236454",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №95",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "4054003236455",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №96",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "4054003236456",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №97",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "4054003236457",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №98",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "4054003236458",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №99",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "4054003236459",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №100",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "4054003236460",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №101",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "4054003236461",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №102",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "4054003236462",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №103",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "4054003236463",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №104",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "4054003236464",
     "tikTvd": "20520001792120",
-    "tikName": "Ахвахская"
+    "tikName": "Ахвахская",
+    "uikName": "УИК №105",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "4054004158363",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №106",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "4054004158364",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №107",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "4054004158365",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №108",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "4054004158366",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №109",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "4054004158367",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №110",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "4054004158368",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №111",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "4054004158369",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №112",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "4054004158370",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №113",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "4054004158371",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №114",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "4054004158372",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №115",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "4054004158373",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №116",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "4054004158374",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №117",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "4054004158375",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №118",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "4054004158376",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №119",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "4054004158377",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №120",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "4054004158378",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №121",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "4054004158379",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №122",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "4054004158380",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №123",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "4054004158381",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №124",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "4054004158382",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №125",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "4054004158383",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №126",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "4054004158384",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №127",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "4054004158385",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №128",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "4054004158386",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №129",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "4054004158387",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №130",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "4054004158388",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №131",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "4054004158389",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №132",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "4054004158390",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №133",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "4054004158391",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №134",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "4054004158392",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №135",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "4054004158393",
     "tikTvd": "20520001792119",
-    "tikName": "Ахтынская"
+    "tikName": "Ахтынская",
+    "uikName": "УИК №136",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "4054005197274",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №137",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "4054005197275",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №138",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "4054005197276",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №139",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "4054005197277",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №140",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "4054005197278",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №141",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "4054005197279",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №142",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "4054005197280",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №143",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "4054005197281",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №144",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "4054005197282",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №145",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "4054005197283",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №146",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "4054005197284",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №147",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "4054005197285",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №148",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "4054005197286",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №149",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "4054005197287",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №150",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "4054005197288",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №151",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "4054005197289",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №152",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "4054005197290",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №153",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "4054005197291",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №154",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "4054005197292",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №155",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "4054005197293",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №156",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "4054005197294",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №157",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "4054005197295",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №158",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "4054005197296",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №159",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "4054005197297",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №160",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "4054005197298",
     "tikTvd": "20520001791998",
-    "tikName": "Бабаюртовская"
+    "tikName": "Бабаюртовская",
+    "uikName": "УИК №161",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "4054006262939",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №162",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "4054006262940",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №163",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "4054006262941",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №164",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "4054006262942",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №165",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "4054006262943",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №166",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "4054006262944",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №167",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "4054006262945",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №168",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "4054006262946",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №169",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "4054006262947",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №170",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "4054006262948",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №171",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "4054006262949",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №172",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "4054006262950",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №173",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "4054006262951",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №174",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "4054006262952",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №175",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "4054006262953",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №176",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "4054006262954",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №177",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "4054006262955",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №178",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "4054006262956",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №179",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "4054006262957",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №180",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "4054006262958",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №181",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "4054006262959",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №182",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "4054006262960",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №183",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "4054006262961",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №184",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "4054006262962",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №185",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "4054006262963",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №186",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "4054006262964",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №187",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "4054006262965",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №188",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "4054006262966",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №189",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "4054006262967",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №190",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "4054006262968",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №191",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "4054006262969",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №192",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "4054006262970",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №193",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "4054006262971",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №194",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "4054006262972",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №195",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "4054006262973",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №196",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "4054006262974",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №197",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "4054006262975",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №198",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "4054006262976",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №199",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "4054006262977",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №200",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "4054006262978",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №201",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "4054006262979",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №202",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "4054006262980",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №203",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "4054006262981",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №204",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "4054006262982",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №205",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "4054006262983",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №206",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "4054006262984",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №207",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "4054006262985",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №208",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "4054006262986",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №209",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "4054006262987",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №210",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "4054006262988",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №211",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "4054006262989",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №212",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "4054006262990",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №213",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "4054006262991",
     "tikTvd": "20520001792117",
-    "tikName": "Ботлихская"
+    "tikName": "Ботлихская",
+    "uikName": "УИК №214",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "4054047220734",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №215",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "4054047220735",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №216",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "4054047220736",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №217",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "4054047220737",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №218",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "4054047220738",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №219",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "4054047220739",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №220",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "4054047220740",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №221",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "4054047220741",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №222",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "4054047220742",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №223",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "4054047220743",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №224",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "4054047220744",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №225",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "4054047220745",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №226",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "4054047220746",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №227",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "4054047220747",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №228",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "4054047220748",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №229",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "4054047220749",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №230",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "4054047220750",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №231",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "4054047220751",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №232",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "4054047220752",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №233",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "4054047220753",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №234",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "4054047220754",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №235",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "4054047220755",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №236",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "4054047220756",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №237",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "4054047220757",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №238",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "4054047220758",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №239",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "4054047220759",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №240",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "4054047220760",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №241",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "4054047220761",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №242",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "4054047220762",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №243",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "4054047220763",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №244",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "4054047220764",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №245",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "4054047220765",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №246",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "4054047220766",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №247",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "4054047220767",
     "tikTvd": "20520001792116",
-    "tikName": "Буйнакская"
+    "tikName": "Буйнакская",
+    "uikName": "УИК №248",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "4054007144476",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №249",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "4054007144477",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №250",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "4054007144478",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №251",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "4054007144479",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №252",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "4054007144480",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №253",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "4054007144481",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №254",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "4054007144482",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №255",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "4054007144483",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №256",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "4054007144484",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №257",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "4054007144485",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №258",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "4054007144486",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №259",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "4054007144487",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №260",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "4054007144488",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №261",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "4054007144489",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №262",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "4054007144490",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №263",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "4054007144491",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №264",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "4054007144492",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №265",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "4054007144493",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №266",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "4054007144494",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №267",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "4054007144495",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №268",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "4054007144496",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №269",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "4054007144497",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №270",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "4054007144498",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №271",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "4054007144499",
     "tikTvd": "20520001792115",
-    "tikName": "Буйнакская городская"
+    "tikName": "Буйнакская городская",
+    "uikName": "УИК №272",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "4054008187984",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №273",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "4054008187985",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №274",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "4054008187986",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №275",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "4054008187987",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №276",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "4054008187988",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №277",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "4054008187989",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №278",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "4054008187990",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №279",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "4054008187991",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №280",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "4054008187992",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №281",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "4054008187993",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №282",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "4054008187994",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №283",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "4054008187995",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №284",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "4054008187996",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №285",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "4054008187997",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №286",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "4054008187998",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №287",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "4054008187999",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №288",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "4054008188000",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №289",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "4054008188001",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №290",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "4054008188002",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №291",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "4054008188003",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №292",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "4054008188004",
     "tikTvd": "20520001792114",
-    "tikName": "Гергебильская"
+    "tikName": "Гергебильская",
+    "uikName": "УИК №293",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "4054009195451",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №294",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "4054009195452",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №295",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "4054009195453",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №296",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "4054009195454",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №297",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "4054009195455",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №298",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "4054009195456",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №299",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "4054009195457",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №300",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "4054009195458",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №301",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "4054009195459",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №302",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "4054009195460",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №303",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "4054009195461",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №304",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "4054009195462",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №305",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "4054009195463",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №306",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "4054009195464",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №307",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "4054009195465",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №308",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "4054009195466",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №309",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "4054009195467",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №310",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "4054009195468",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №311",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "4054009195469",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №312",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "4054009195470",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №313",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "4054009195471",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №314",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "4054009195472",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №315",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "4054009195473",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №316",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "4054009195474",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №317",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "4054009195475",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №318",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "4054009195476",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №319",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "4054009195477",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №320",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "4054009195478",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №321",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "4054009195479",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №322",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "4054009195480",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №323",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "4054009195481",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №324",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "4054009195482",
     "tikTvd": "20520001792113",
-    "tikName": "Гумбетовская"
+    "tikName": "Гумбетовская",
+    "uikName": "УИК №325",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "4054010198598",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №326",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "4054010198599",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №327",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "4054010198600",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №328",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "4054010198601",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №329",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "4054010198602",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №330",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "4054010198603",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №331",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "4054010198604",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №332",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "4054010198605",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №333",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "4054010198606",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №334",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "4054010198607",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №335",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "4054010198608",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №336",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "4054010198609",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №337",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "4054010198610",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №338",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "4054010198611",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №339",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "4054010198612",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №340",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "4054010198613",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №341",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "4054010198614",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №342",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "4054010198615",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №343",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "4054010198616",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №344",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "4054010198617",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №345",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "4054010198618",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №346",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "4054010198619",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №347",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "4054010198620",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №348",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "4054010198621",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №349",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "4054010198622",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №350",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "4054010198623",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №351",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "4054010198624",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №352",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "4054010198625",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №353",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "4054010198626",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №354",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "4054010198627",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №355",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "4054010198628",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №356",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "4054010198629",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №357",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "4054010198630",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №358",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "4054010198631",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №359",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "4054010198632",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №360",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "4054010198633",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №361",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "4054010198634",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №362",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "4054010198635",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №363",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "4054010198636",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №364",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "4054010198637",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №365",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "4054010198638",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №366",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "4054010198639",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №367",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "4054010198640",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №368",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "4054010198641",
     "tikTvd": "20520001792112",
-    "tikName": "Гунибская"
+    "tikName": "Гунибская",
+    "uikName": "УИК №369",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "4054011145490",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №370",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "4054011145491",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №371",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "4054011145492",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №372",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "4054011145493",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №373",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "4054011145494",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №374",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "4054011145495",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №375",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "4054011145496",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №376",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "4054011145497",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №377",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "4054011145498",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №378",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "4054011145499",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №379",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "4054011145500",
     "tikTvd": "20520001792066",
-    "tikName": "Дагогнинская городская"
+    "tikName": "Дагогнинская городская",
+    "uikName": "УИК №380",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "4054012247839",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №381",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "4054012247840",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №382",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "4054012247841",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №383",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "4054012247842",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №384",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "4054012247843",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №385",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "4054012247844",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №386",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "4054012247845",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №387",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "4054012247846",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №388",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "4054012247847",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №389",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "4054012247848",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №390",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "4054012247849",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №391",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "4054012247850",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №392",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "4054012247851",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №393",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "4054012247852",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №394",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "4054012247853",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №395",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "4054012247854",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №396",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "4054012247855",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №397",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "4054012247856",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №398",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "4054012247857",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №399",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "4054012247858",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №400",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "4054012247859",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №401",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "4054012247860",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №402",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "4054012247861",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №403",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "4054012247862",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №404",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "4054012247863",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №405",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "4054012247864",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №406",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "4054012247865",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №407",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "4054012247866",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №408",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "4054012247867",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №409",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "4054012247868",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №410",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "4054012247869",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №411",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "4054012247870",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №412",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "4054012247871",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №413",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "4054012247872",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №414",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "4054012247873",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №415",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "4054012247874",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №416",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "4054012247875",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №417",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "4054012247876",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №418",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "4054012247877",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №419",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "4054012247878",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №420",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "4054012247879",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №421",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "4054012247880",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №422",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "4054012247881",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №423",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "4054012247882",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №424",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "4054012247883",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №425",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "4054012247884",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №426",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "4054012247885",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №427",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "4054012247886",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №428",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "4054012247887",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №429",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "4054012247888",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №430",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "4054012247889",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №431",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "4054012247890",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №432",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "4054012247891",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №433",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "4054012247892",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №434",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "4054012247893",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №435",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "4054012247894",
     "tikTvd": "20520001792111",
-    "tikName": "Дахадаевская"
+    "tikName": "Дахадаевская",
+    "uikName": "УИК №436",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "4054048285047",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №437",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "4054048285048",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №438",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "4054048285049",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №439",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "4054048285050",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №440",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "4054048285051",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №441",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "4054048285052",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №442",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "4054048285053",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №443",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "4054048285054",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №444",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "4054048285055",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №445",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "4054048285056",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №446",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "4054048285057",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №447",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "4054048285058",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №448",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "4054048285059",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №449",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "4054048285060",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №450",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "4054048285061",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №451",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "4054048285062",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №452",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "4054048285063",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №453",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "4054048285064",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №454",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "4054048285065",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №455",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "4054048285066",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №456",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "4054048285067",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №457",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "4054048285068",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №458",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "4054048285069",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №459",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "4054048285070",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №460",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "4054048285071",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №461",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "4054048285072",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №462",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "4054048285073",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №463",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "4054048285074",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №464",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "4054048285075",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №465",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "4054048285076",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №466",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "4054048285077",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №467",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "4054048285078",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №468",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "4054048285079",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №469",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "4054048285080",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №470",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "4054048285081",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №471",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "4054048285082",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №472",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "4054048285083",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №473",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "4054048285084",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №474",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "4054048285085",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №475",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "4054048285086",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №476",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "4054048285087",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №477",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "4054048285088",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №478",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "4054013184986",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №479",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "4054013184987",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №480",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "4054013184988",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №481",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "4054013184989",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №482",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "4054013184990",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №483",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "4054013184991",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №484",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "4054013184992",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №485",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "4054013184993",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №486",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "4054013184994",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №487",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "4054013184995",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №488",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "4054013184996",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №489",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "4054013184997",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №490",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "4054013184998",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №491",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "4054013184999",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №492",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "4054013185000",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №493",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "4054013185001",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №494",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "4054013185002",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №495",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "4054013185003",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №496",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "4054013185004",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №497",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "4054013185005",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №498",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "4054013185006",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №499",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "4054013185007",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №500",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "4054013185008",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №501",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "4054013185009",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №502",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "4054013185010",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №503",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "4054013185011",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №504",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "4054013185012",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №505",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "4054013185013",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №506",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "4054013185014",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №507",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "4054013185015",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №508",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "4054013185016",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №509",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "4054013185017",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №510",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "4054013185018",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №511",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "4054013185019",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №512",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "4054013185020",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №513",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "4054013185021",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №514",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "4054014165352",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №515",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "4054014165353",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №516",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "4054014165354",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №517",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "4054014165355",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №518",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "4054014165356",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №519",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "4054014165357",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №520",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "4054014165358",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №521",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "4054014165359",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №522",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "4054014165360",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №523",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "4054014165361",
     "tikTvd": "20520001792110",
-    "tikName": "Докузпаринская"
+    "tikName": "Докузпаринская",
+    "uikName": "УИК №524",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "4054015137349",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №525",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "4054015137350",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №526",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "4054015137351",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №527",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "4054015137352",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №528",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "4054015137353",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №529",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "4054015137354",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №530",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "4054015137355",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №531",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "4054015137356",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №532",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "4054015137357",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №533",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "4054015137358",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №534",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "4054015137359",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №535",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "4054015137360",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №536",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "4054015137361",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №537",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "4054015137362",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №538",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "4054015137363",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №539",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "4054015137364",
     "tikTvd": "20520001792063",
-    "tikName": "Избербашская городская"
+    "tikName": "Избербашская городская",
+    "uikName": "УИК №540",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "4054016231108",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №541",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "4054016231109",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №542",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "4054016231110",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №543",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "4054016231111",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №544",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "4054016231112",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №545",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "4054016231113",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №546",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "4054016231114",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №547",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "4054016231115",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №548",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "4054016231116",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №549",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "4054016231117",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №550",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "4054016231118",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №551",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "4054016231119",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №552",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "4054016231120",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №553",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "4054016231121",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №554",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "4054016231122",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №555",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "4054016231123",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №556",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "4054016231124",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №557",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "4054016231125",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №558",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "4054016231126",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №559",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "4054016231127",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №560",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "4054016231128",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №561",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "4054016231129",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №562",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "4054016231130",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №563",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "4054016231131",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №564",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "4054016231132",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №565",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "4054016231133",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №566",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "4054017192901",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №567",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "4054017192902",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №568",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "4054017192903",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №569",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "4054017192904",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №570",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "4054017192905",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №571",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "4054017192906",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №572",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "4054017192907",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №573",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "4054017192908",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №574",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "4054017192909",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №575",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "4054017192910",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №576",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "4054017192911",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №577",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "4054017192912",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №578",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "4054017192913",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №579",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "4054017192914",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №580",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "4054017192915",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №581",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "4054017192916",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №582",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "4054017192917",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №583",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "4054017192918",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №584",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "4054017192919",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №585",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "4054017192920",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №586",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "4054017192921",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №587",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "4054017192922",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №588",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "4054017192923",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №589",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "4054017192924",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №590",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "4054017192925",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №591",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "4054017192926",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №592",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "4054017192927",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №593",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "4054017192928",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №594",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "4054017192929",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №595",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "4054017192930",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №596",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "4054017192931",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №597",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "4054017192932",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №598",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "4054017192933",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №599",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "4054017192934",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №600",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "4054017192935",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №601",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "4054017192936",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №602",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "4054017192937",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №603",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "4054017192938",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №604",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "4054017192939",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №605",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "4054017192940",
     "tikTvd": "20520001792062",
-    "tikName": "Кайтагская"
+    "tikName": "Кайтагская",
+    "uikName": "УИК №606",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "4054018255139",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №607",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "4054018255140",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №608",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "4054018255141",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №609",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "4054018255142",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №610",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "4054018255143",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №611",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "4054018255144",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №612",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "4054018255145",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №613",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "4054018255146",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №614",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "4054018255147",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №615",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "4054018255148",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №616",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "4054018255149",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №617",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "4054018255150",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №618",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "4054018255151",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №619",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "4054018255152",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №620",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "4054018255153",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №621",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "4054018255154",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №622",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "4054018255155",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №623",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "4054018255156",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №624",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "4054018255157",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №625",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "4054018255158",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №626",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "4054018255159",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №627",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "4054018255160",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №628",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "4054018255161",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №629",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "4054018255162",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №630",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "4054018255163",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №631",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "4054018255164",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №632",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "4054018255165",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №633",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "4054018255166",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №634",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "4054018255167",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №635",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "4054018255168",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №636",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "4054018255169",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №637",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "4054018255170",
     "tikTvd": "20520001792061",
-    "tikName": "Карабудахкентская"
+    "tikName": "Карабудахкентская",
+    "uikName": "УИК №638",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "4054019166071",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №639",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "4054019166072",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №640",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "4054019166073",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №641",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "4054019166074",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №642",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "4054019166075",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №643",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "4054019166076",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №644",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "4054019166077",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №645",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "4054019166078",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №646",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "4054019166079",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №647",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "4054019166080",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №648",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "4054019166081",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №649",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "4054019166082",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №650",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "4054019166083",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №651",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "4054019166084",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №652",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "4054019166085",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №653",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "4054019166086",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №654",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "4054019166087",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №655",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "4054019166088",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №656",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "4054019166089",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №657",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "4054019166090",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №658",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "4054019166091",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №659",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "4054019166092",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №660",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "4054020203836",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №662",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "4054020203837",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №663",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "4054020203838",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №664",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "4054020203839",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №665",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "4054020203840",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №666",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "4054020203841",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №667",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "4054020203842",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №668",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "4054020203843",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №669",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "4054020203844",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №670",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "4054020203845",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №671",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "4054020203846",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №672",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "4054020203847",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №673",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "4054020203848",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №674",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "4054020203849",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №675",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "4054020203850",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №676",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "4054020203851",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №677",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "4054020203852",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №678",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "4054020203853",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №679",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "4054020203854",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №680",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "4054020203855",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №681",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "4054020203856",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №682",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "4054020203857",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №683",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "4054020203858",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №684",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "4054020203859",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №685",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "4054020203860",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №686",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "4054020203861",
     "tikTvd": "20520001792059",
-    "tikName": "Каякентская"
+    "tikName": "Каякентская",
+    "uikName": "УИК №687",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "4054049222774",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №688",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "4054049222775",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №689",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "4054049222776",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №690",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "4054049222777",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №691",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "4054049222778",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №692",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "4054049222779",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №693",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "4054049222780",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №694",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "4054049222781",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №695",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "4054049222782",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №696",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "4054049222783",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №697",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "4054049222784",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №698",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "4054049222785",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №699",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "4054049222786",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №700",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "4054049222787",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №701",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "4054049222788",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №702",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "4054049222789",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №703",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "4054049222790",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №704",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "4054049222791",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №705",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "4054049222792",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №706",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "4054049222793",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №707",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "4054049222794",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №708",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "4054049222795",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №709",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "4054049222796",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №710",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "4054049222797",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №711",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "4054049222798",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №712",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "4054049222799",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №713",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "4054049222800",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №714",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "4054049222801",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №715",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "4054049222802",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №716",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "4054049222803",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №717",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "4054049222804",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №718",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "4054049222805",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №719",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "4054049222806",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №720",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "4054049222807",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №721",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "4054049222808",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №722",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "4054049222809",
     "tikTvd": "20520001792014",
-    "tikName": "Кизилюртовская"
+    "tikName": "Кизилюртовская",
+    "uikName": "УИК №723",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "4054021152935",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №724",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "4054021152936",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №725",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "4054021152937",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №726",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "4054021152938",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №727",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "4054021152939",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №728",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "4054021152940",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №729",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "4054021152941",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №730",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "4054021152942",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №731",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "4054021152943",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №732",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "4054021152944",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №733",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "4054021152945",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №734",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "4054021152946",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №735",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "4054021152947",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №736",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "4054021152948",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №737",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "4054021152949",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №738",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "4054021152950",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №739",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "4054021152951",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №740",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "4054021152952",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №741",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "4054021152953",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №742",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "4054021152954",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №743",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "4054021152955",
     "tikTvd": "20520001792013",
-    "tikName": "Кизилюртовская городская"
+    "tikName": "Кизилюртовская городская",
+    "uikName": "УИК №744",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "4054050238354",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №745",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "4054050238355",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №746",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "4054050238356",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №747",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "4054050238357",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №748",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "4054050238358",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №749",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "4054050238359",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №750",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "4054050238360",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №751",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "4054050238361",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №752",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "4054050238362",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №753",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "4054050238363",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №754",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "4054050238364",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №755",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "4054050238365",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №756",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "4054050238366",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №757",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "4054050238367",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №758",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "4054050238368",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №759",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "4054050238369",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №760",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "4054050238370",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №761",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "4054050238371",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №762",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "4054050238372",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №763",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "4054050238373",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №764",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "4054050238374",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №765",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "4054050238375",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №766",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "4054050238376",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №767",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "4054050238377",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №768",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "4054050238378",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №769",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "4054050238379",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №770",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "4054050238380",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №771",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "4054050238381",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №772",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "4054050238382",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №773",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "4054050238383",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №774",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "4054050238384",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №775",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "4054050238385",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №776",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "4054050238386",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №777",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "4054050238387",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №778",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "4054050238388",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №779",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "4054050238389",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №780",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "4054050238390",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №781",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "4054050238391",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №782",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "4054050238392",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №783",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "4054050238393",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №784",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "4054050238394",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №785",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "4054050238395",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №786",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "4054050238396",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №787",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "4054050238397",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №788",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "4054050238398",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №789",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "4054050238399",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №790",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "4054050238400",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №791",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "4054050238401",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №792",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "4054050238402",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №793",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "4054050238403",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №794",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "4054050238404",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №795",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "4054050238405",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №796",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "4054050238406",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №797",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "4054050238407",
     "tikTvd": "20520001792012",
-    "tikName": "Кизлярская"
+    "tikName": "Кизлярская",
+    "uikName": "УИК №798",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "4054022142997",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №799",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "4054022142998",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №800",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "4054022142999",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №801",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "4054022143000",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №802",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "4054022143001",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №803",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "4054022143002",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №804",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "4054022143003",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №805",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "4054022143004",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №806",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "4054022143005",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №807",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "4054022143006",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №808",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "4054022143007",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №809",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "4054022143008",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №810",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "4054022143009",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №811",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "4054022143010",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №812",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "4054022143011",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №813",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "4054022143012",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №814",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "4054022143013",
     "tikTvd": "20520001792011",
-    "tikName": "Кизлярская городская"
+    "tikName": "Кизлярская городская",
+    "uikName": "УИК №815",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "4054023172568",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №816",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "4054023172569",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №817",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "4054023172570",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №818",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "4054023172571",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №819",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "4054023172572",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №820",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "4054023172573",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №821",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "4054023172574",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №822",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "4054023172575",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №823",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "4054023172576",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №824",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "4054023172577",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №825",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "4054023172578",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №826",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "4054023172579",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №827",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "4054023172580",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №828",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "4054023172581",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №829",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "4054023172582",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №830",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "4054023172583",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №831",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "4054023172584",
     "tikTvd": "20520001792108",
-    "tikName": "Кулинская"
+    "tikName": "Кулинская",
+    "uikName": "УИК №832",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "4054024159028",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №833",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "4054024159029",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №834",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "4054024159030",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №835",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "4054024159031",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №836",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "4054024159032",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №837",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "4054024159033",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №838",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "4054024159034",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №839",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "4054024159035",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №840",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "4054024159036",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №841",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "4054025198322",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №842",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "4054025198323",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №843",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "4054025198324",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №844",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "4054025198325",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №845",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "4054025198326",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №846",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "4054025198327",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №847",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "4054025198328",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №848",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "4054025198329",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №849",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "4054025198330",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №850",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "4054025198331",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №851",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "4054025198332",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №852",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "4054025198333",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №853",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "4054025198334",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №854",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "4054025198335",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №855",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "4054025198336",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №856",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "4054025198337",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №857",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "4054025198338",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №858",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "4054025198339",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №859",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "4054025198340",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №860",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "4054025198341",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №861",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "4054025198342",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №862",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "4054025198343",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №863",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "4054025198344",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №864",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "4054025198345",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №865",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "4054025198346",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №866",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "4054025198347",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №867",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "4054025198348",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №868",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "4054025198349",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №869",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "4054025198350",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №870",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "4054025198351",
     "tikTvd": "20520001792107",
-    "tikName": "Курахская"
+    "tikName": "Курахская",
+    "uikName": "УИК №871",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "4054026192830",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №872",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "4054026192831",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №873",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "4054026192832",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №874",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "4054026192833",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №875",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "4054026192834",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №876",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "4054026192835",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №877",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "4054026192836",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №878",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "4054026192837",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №879",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "4054026192838",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №880",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "4054026192839",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №881",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "4054026192840",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №882",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "4054026192841",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №883",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "4054026192842",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №884",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "4054026192843",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №885",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "4054026192844",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №886",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "4054026192845",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №887",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "4054026192846",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №888",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "4054026192847",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №889",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "4054026192848",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №890",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "4054026192849",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №891",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "4054026192850",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №892",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "4054026192851",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №893",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "4054026192852",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №894",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "4054026192853",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №895",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "4054026192854",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №896",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "4054026192855",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №897",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "4054026192856",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №898",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "4054026192857",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №899",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "4054026192858",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №900",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "4054026192859",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №901",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "4054026192860",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №902",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "4054026192861",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №903",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "4054026192862",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №904",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "4054026192863",
     "tikTvd": "20520001792106",
-    "tikName": "Лакская"
+    "tikName": "Лакская",
+    "uikName": "УИК №905",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "4054027258272",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №906",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "4054027258273",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №907",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "4054027258274",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №908",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "4054027258275",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №909",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "4054027258276",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №910",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "4054027258277",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №911",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "4054027258278",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №912",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "4054027258279",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №913",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "4054027258280",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №914",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "4054027258281",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №915",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "4054027258282",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №916",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "4054027258283",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №917",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "4054027258284",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №918",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "4054027258285",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №919",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "4054027258286",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №920",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "4054027258287",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №921",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "4054027258288",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №922",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "4054027258289",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №923",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "4054027258290",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №924",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "4054027258291",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №925",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "4054027258292",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №926",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "4054027258293",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №927",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "4054027258294",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №928",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "4054027258295",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №929",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "4054027258296",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №930",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "4054027258297",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №931",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "4054027258298",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №932",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "4054027258299",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №933",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "4054027258300",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №934",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "4054027258301",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №935",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "4054027258302",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №936",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "4054027258303",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №937",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "4054027258304",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №938",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "4054027258305",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №939",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "4054027258306",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №940",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "4054027258307",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №941",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "4054027258308",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №942",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "4054027258309",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №943",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "4054027258310",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №944",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "4054027258311",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №945",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "4054027258312",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №946",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "4054027258313",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №947",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "4054027258314",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №948",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "4054027258315",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №949",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "4054027258316",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №950",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "4054027258317",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №951",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "4054027258318",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №952",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "4054027258319",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №953",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "4054027258320",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №954",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "4054027258321",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №955",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "4054027258322",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №956",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "4054027258323",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №957",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "4054027258324",
     "tikTvd": "20520001792105",
-    "tikName": "Левашинская"
+    "tikName": "Левашинская",
+    "uikName": "УИК №958",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "4054028218776",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №959",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "4054028218777",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №960",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "4054028218778",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №961",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "4054028218779",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №962",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "4054028218780",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №963",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "4054028218781",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №964",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "4054028218782",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №965",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "4054028218783",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №966",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "4054028218784",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №967",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "4054028218785",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №968",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "4054028218786",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №969",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "4054028218787",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №970",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "4054028218788",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №971",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "4054028218789",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №972",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "4054028218790",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №973",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "4054028218791",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №974",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "4054028218792",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №975",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "4054028218793",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №976",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "4054028218794",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №977",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "4054028218795",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №978",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "4054028218796",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №979",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "4054028218797",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №980",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "4054028218798",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №981",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "4054028218799",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №982",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "4054028218800",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №983",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "4054028218801",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №984",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "4054028218802",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №985",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "4054028218803",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №986",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "4054028218804",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №987",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "4054028218805",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №988",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "4054028218806",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №989",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "4054028218807",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №990",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "4054028218808",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №991",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "4054028218809",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №992",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "4054028218810",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №993",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "4054028218811",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №994",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "4054028218812",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №995",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "4054028218813",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №996",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "4054028218814",
     "tikTvd": "20520001792058",
-    "tikName": "Магарамкентская"
+    "tikName": "Магарамкентская",
+    "uikName": "УИК №997",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "4054051190770",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №998",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "4054051190771",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №999",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "4054051190772",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1000",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "4054051190773",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1001",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "4054051190774",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1002",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "4054051190775",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1003",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "4054051190776",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1004",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "4054051190777",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1005",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "4054051190778",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1006",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "4054051190779",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1007",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "4054051190780",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1008",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "4054051190781",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1009",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "4054051190782",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1010",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "4054051190783",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1011",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "4054051190784",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1012",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "4054051190785",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1013",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "4054051190786",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1014",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "4054051190787",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1015",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "4054051190788",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1016",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "4054051190789",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1017",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "4054051190790",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1018",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "4054051190791",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1019",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "4054051190792",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1020",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "4054051190793",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1021",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "4054051190794",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1022",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "4054051190795",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1023",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "4054051190796",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1024",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "4054051190797",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1025",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "4054051190798",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1026",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "4054051190799",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1027",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "4054051190800",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1028",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "4054051190801",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1029",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "4054051190802",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1030",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "4054051190803",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1031",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "4054051190804",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1032",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "4054051190805",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1033",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "4054051190806",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1034",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "4054051190807",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1035",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "4054051190808",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1036",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "4054051190809",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1037",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "4054051190810",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1038",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "4054051190811",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1039",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "4054051190812",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1040",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "4054051190813",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1041",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "4054051190814",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1042",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "4054051190815",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1043",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "4054051190816",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1044",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "4054051190817",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1045",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "4054051190818",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1046",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "4054051190819",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1047",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "4054052210944",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1049",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "4054052210945",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1050",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "4054052210946",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1051",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "4054052210947",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1052",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "4054052210948",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1053",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "4054052210949",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1054",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "4054052210950",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1055",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "4054052210951",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1056",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "4054052210952",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1057",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "4054052210953",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1058",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "4054052210954",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1059",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "4054052210955",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1060",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "4054052210956",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1061",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "4054052210957",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1062",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "4054052210958",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1063",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "4054052210959",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1064",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "4054052210960",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1065",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "4054052210961",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1066",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "4054052210962",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1067",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "4054052210963",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1068",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "4054052210964",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1069",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "4054052210965",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1070",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "4054052210966",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1071",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "4054052210967",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1072",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "4054052210968",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1073",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "4054052210969",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1074",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "4054052210970",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1075",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "4054052210971",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1076",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "4054052210972",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1077",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "4054052210973",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1078",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "4054052210974",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1079",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "4054052210975",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1080",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "4054052210976",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1081",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "4054052210977",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1082",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "4054052210978",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1083",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "4054052210979",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1084",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "4054052210980",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1085",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "4054052210981",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1086",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "4054052210982",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1087",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "4054052210983",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1088",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "4054052210984",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1089",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "4054052210985",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1090",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "4054052210986",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1091",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "4054052210987",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1092",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "4054052210988",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1093",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "4054052210989",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1094",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "4054052210990",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1095",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "4054053192920",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1096",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "4054053192921",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1097",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "4054053192922",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1098",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "4054053192923",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1099",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "4054053192924",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1100",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "4054053192925",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1101",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "4054053192926",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1102",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "4054053192927",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1103",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "4054053192928",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1104",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "4054053192929",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1105",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "4054053192930",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1106",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "4054053192931",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1107",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "4054053192932",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1108",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "4054053192933",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1109",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "4054053192934",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1110",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "4054053192935",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1111",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "4054053192936",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1112",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "4054053192937",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1113",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "4054053192938",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1114",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "4054053192939",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1115",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "4054053192940",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1116",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "4054053192941",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1117",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "4054053192942",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1118",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "4054053192943",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1119",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "4054053192944",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1120",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "4054053192945",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1121",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "4054053192946",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1122",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "4054053192947",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1123",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "4054053192948",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1124",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "4054053192949",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1125",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "4054053192950",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1126",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "4054053192951",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1127",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "4054053192952",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1128",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "4054053192953",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1129",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "4054053192954",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1130",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "4054053192955",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1131",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "4054053192956",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1132",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "4054053192957",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1133",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "4054053192958",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1134",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "4054053192959",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1135",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "4054053192960",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1136",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "4054053192961",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1137",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "4054053192962",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1138",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "4054053192963",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1139",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "4054053192964",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1140",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "4054053192965",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1141",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "4054053192966",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1142",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "4054053192967",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1143",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "4054053192968",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1144",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "4054053192969",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1145",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "4054053192970",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1146",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "4054053192971",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1147",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "4054053192972",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1148",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "4054053192973",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1149",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "4054053192974",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1150",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "4054053192975",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1151",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "4054053192976",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1152",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "4054053192977",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1153",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "4054053192978",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1154",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "4054053192979",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1155",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "4054030238141",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1156",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "4054030238142",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1157",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "4054030238143",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1158",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "4054030238144",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1159",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "4054030238145",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1160",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "4054030238146",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1161",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "4054030238147",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1162",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "4054030238148",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1163",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "4054030238149",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1164",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "4054030238150",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1165",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "4054030238151",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1166",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "4054030238152",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1167",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "4054030238153",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1168",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "4054030238154",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1169",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "4054030238155",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1170",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "4054030238156",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1171",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "4054030238157",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1172",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "4054030238158",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1173",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "4054030238159",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1174",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "4054030238160",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1175",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "4054030238161",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1176",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "4054030238162",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1177",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "4054030238163",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1178",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "4054030238164",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1179",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "4054030238165",
     "tikTvd": "20520001792104",
-    "tikName": "Новолакская"
+    "tikName": "Новолакская",
+    "uikName": "УИК №1180",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "4054031216000",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1181",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "4054031216001",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1182",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "4054031216002",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1183",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "4054031216003",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1184",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "4054031216004",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1185",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "4054031216005",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1186",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "4054031216006",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1187",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "4054031216007",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1188",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "4054031216008",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1189",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "4054031216009",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1190",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "4054031216010",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1191",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "4054031216011",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1192",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "4054031216012",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1193",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "4054031216013",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1194",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "4054031216014",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1195",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "4054031216015",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1196",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "4054031216016",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1197",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "4054031216017",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1198",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "4054031216018",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1199",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "4054031216019",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1200",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "4054031216020",
     "tikTvd": "20520001792018",
-    "tikName": "Ногайская"
+    "tikName": "Ногайская",
+    "uikName": "УИК №1201",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "4054032374145",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1202",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "4054032374146",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1203",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "4054032374147",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1204",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "4054032374148",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1205",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "4054032374149",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1206",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "4054032374150",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1207",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "4054032374151",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1208",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "4054032374152",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1209",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "4054032374153",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1210",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "4054032374154",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1211",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "4054032374155",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1212",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "4054032374156",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1213",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "4054032374157",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1214",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "4054032374158",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1215",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "4054032374159",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1216",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "4054032374160",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1217",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "4054032374161",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1218",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "4054032374162",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1219",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "4054032374163",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1220",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "4054032374164",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1221",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "4054032374165",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1222",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "4054032374166",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1223",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "4054032374167",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1224",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "4054032374168",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1225",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "4054032374169",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1226",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "4054032374170",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1227",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "4054032374171",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1228",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "4054032374172",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1229",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "4054032374173",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1230",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "4054032374174",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1231",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "4054032374175",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1232",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "4054032374176",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1233",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "4054032374177",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1234",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "4054032374178",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1235",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "4054032374179",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1236",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "4054032374180",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1237",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "4054032374181",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1238",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "4054032374182",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1239",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "4054032374183",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1240",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "4054032374184",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1241",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "4054032374185",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1242",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "4054032374186",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1243",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "4054032374187",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1244",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "4054032374188",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1245",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "4054032374189",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1246",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "4054032374190",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1247",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "4054032374191",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1248",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "4054032374192",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1249",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "4054032374193",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1250",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "4054032374194",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1251",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "4054032374195",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1252",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "4054032374196",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1253",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "4054032374197",
     "tikTvd": "20520001792103",
-    "tikName": "Рутульская"
+    "tikName": "Рутульская",
+    "uikName": "УИК №1254",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "4054033190047",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1255",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "4054033190048",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1256",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "4054033190049",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1257",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "4054033190050",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1258",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "4054033190051",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1259",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "4054033190052",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1260",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "4054033190053",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1261",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "4054033190054",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1262",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "4054033190055",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1263",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "4054033190056",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1264",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "4054033190057",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1265",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "4054033190058",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1266",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "4054033190059",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1267",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "4054033190060",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1268",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "4054033190061",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1269",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "4054033190062",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1270",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "4054033190063",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1271",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "4054033190064",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1272",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "4054033190065",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1273",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "4054033190066",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1274",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "4054033190067",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1275",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "4054033190068",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1276",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "4054033190069",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1277",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "4054033190070",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1278",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "4054033190071",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1279",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "4054033190072",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1280",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "4054033190073",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1281",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "4054033190074",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1282",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "4054033190075",
     "tikTvd": "20520001792056",
-    "tikName": "Сергокалинская"
+    "tikName": "Сергокалинская",
+    "uikName": "УИК №1283",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "4054034243982",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1284",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "4054034243983",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1285",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "4054034243984",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1286",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "4054034243985",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1287",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "4054034243986",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1288",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "4054034243987",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1289",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "4054034243988",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1290",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "4054034243989",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1291",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "4054034243990",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1292",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "4054034243991",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1293",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "4054034243992",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1294",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "4054034243993",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1295",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "4054034243994",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1296",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "4054034243995",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1297",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "4054034243996",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1298",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "4054034243997",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1299",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "4054034243998",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1300",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "4054034243999",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1301",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "4054034244000",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1302",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "4054034244001",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1303",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "4054034244002",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1304",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "4054034244003",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1305",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "4054034244004",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1306",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "4054034244005",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1307",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "4054034244006",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1308",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "4054034244007",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1309",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "4054034244008",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1310",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "4054034244009",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1311",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "4054034244010",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1312",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "4054034244011",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1313",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "4054034244012",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1314",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "4054034244013",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1315",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "4054034244014",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1316",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "4054034244015",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1317",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "4054034244016",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1318",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "4054034244017",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1319",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "4054034244018",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1320",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "4054034244019",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1321",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "4054034244020",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1322",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "4054034244021",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1323",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "4054034244022",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1324",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "4054034244023",
     "tikTvd": "20520001792055",
-    "tikName": "Сулейман-Стальская"
+    "tikName": "Сулейман-Стальская",
+    "uikName": "УИК №1325",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "4054035261613",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1326",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "4054035261614",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1327",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "4054035261615",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1328",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "4054035261616",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1329",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "4054035261617",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1330",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "4054035261618",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1331",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "4054035261619",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1332",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "4054035261620",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1333",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "4054035261621",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1334",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "4054035261622",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1335",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "4054035261623",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1336",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "4054035261624",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1337",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "4054035261625",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1338",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "4054035261626",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1339",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "4054035261627",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1340",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "4054035261628",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1341",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "4054035261629",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1342",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "4054035261630",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1343",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "4054035261631",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1344",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "4054035261632",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1345",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "4054035261633",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1346",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "4054035261634",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1347",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "4054035261635",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1348",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "4054035261636",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1349",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "4054035261637",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1350",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "4054035261638",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1351",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "4054035261639",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1352",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "4054035261640",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1353",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "4054035261641",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1354",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "4054035261642",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1355",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "4054035261643",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1356",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "4054035261644",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1357",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "4054035261645",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1358",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "4054035261646",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1359",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "4054035261647",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1360",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "4054035261648",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1361",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "4054035261649",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1362",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "4054035261650",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1363",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "4054035261651",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1364",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "4054035261652",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1365",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "4054035261653",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1366",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "4054035261654",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1367",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "4054035261655",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1368",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "4054035261656",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1369",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "4054035261657",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1370",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "4054035261658",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1371",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "4054035261659",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1372",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "4054035261660",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1373",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "4054035261661",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1374",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "4054035261662",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1375",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "4054035261663",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1376",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "4054035261664",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1377",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "4054035261665",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1378",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "4054035261666",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1379",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "4054035261667",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1380",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "4054035261668",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1381",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "4054035261669",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1382",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "4054035261670",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1383",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "4054035261671",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1384",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "4054035261672",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1385",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "4054035261673",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1386",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "4054035261674",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1387",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "4054035261675",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1388",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "4054035261676",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1389",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "4054035261677",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1390",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "4054035261678",
     "tikTvd": "20520001792054",
-    "tikName": "Табасаранская"
+    "tikName": "Табасаранская",
+    "uikName": "УИК №1391",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "4054036195946",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1392",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "4054036195947",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1393",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "4054036195948",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1394",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "4054036195949",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1395",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "4054036195950",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1396",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "4054036195951",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1397",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1398,
     "uikTvd": "4054036195952",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1398",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1399,
     "uikTvd": "4054036195953",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1399",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "4054036195954",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1400",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "4054036195955",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1401",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "4054036195956",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1402",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "4054036195957",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1403",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "4054036195958",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1404",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "4054036195959",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1405",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "4054036195960",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1406",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "4054036195961",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1407",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "4054036195962",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1408",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "4054036195963",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1409",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "4054036195964",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1410",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "4054036195965",
     "tikTvd": "20520001792017",
-    "tikName": "Тарумовская"
+    "tikName": "Тарумовская",
+    "uikName": "УИК №1411",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "4054037233722",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1412",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "4054037233723",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1413",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "4054037233724",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1414",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "4054037233725",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1415",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "4054037233726",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1416",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "4054037233727",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1417",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "4054037233728",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1418",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "4054037233729",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1419",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "4054037233730",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1420",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "4054037233731",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1421",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "4054037233732",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1422",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "4054037233733",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1423",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "4054037233734",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1424",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "4054037233735",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1425",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "4054037233736",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1426",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "4054037233737",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1427",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "4054037233738",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1428",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "4054037233739",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1429",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "4054037233740",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1430",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "4054037233741",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1431",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "4054037233742",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1432",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "4054037233743",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1433",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "4054037233744",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1434",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "4054037233745",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1435",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "4054037233746",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1436",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1437,
     "uikTvd": "4054037233747",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1437",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "4054037233748",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1438",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "4054037233749",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1439",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "4054037233750",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1440",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "4054037233751",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1441",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "4054037233752",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1442",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "4054037233753",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1443",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "4054037233754",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1444",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "4054037233755",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1445",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "4054037233756",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1446",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "4054037233757",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1447",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "4054037233758",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1448",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "4054037233759",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1449",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "4054037233760",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1450",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "4054037233761",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1451",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "4054037233762",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1452",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "4054037233763",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1453",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "4054037233764",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1454",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "4054037233765",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1455",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "4054037233766",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1456",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "4054037233767",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1457",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "4054037233768",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1458",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "4054037233769",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1459",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "4054037233770",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1460",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "4054037233771",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1461",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "4054037233772",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1462",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "4054037233773",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1463",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1464,
     "uikTvd": "4054037233774",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1464",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "4054037233775",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1465",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "4054037233776",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1466",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "4054037233777",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1467",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "4054037233778",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1468",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "4054037233779",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1469",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "4054037233780",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1470",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "4054037233781",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1471",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "4054037233782",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1472",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "4054037233783",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1473",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1474,
     "uikTvd": "4054037233784",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1474",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "4054037233785",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1475",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "4054037233786",
     "tikTvd": "20520001792102",
-    "tikName": "Тляратинская"
+    "tikName": "Тляратинская",
+    "uikName": "УИК №1476",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "4054038168187",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1477",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "4054038168188",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1478",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1479,
     "uikTvd": "4054038168189",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1479",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1480,
     "uikTvd": "4054038168190",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1480",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "4054038168191",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1481",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "4054038168192",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1482",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "4054038168193",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1483",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "4054038168194",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1484",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "4054038168195",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1485",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "4054038168196",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1486",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "4054038168197",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1487",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "4054038168198",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1488",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "4054038168199",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1489",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "4054038168200",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1490",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "4054038168201",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1491",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "4054038168202",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1492",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "4054038168203",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1493",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "4054038168204",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1494",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "4054038168205",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1495",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "4054038168206",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1496",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "4054038168207",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1497",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "4054038168208",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1498",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "4054038168209",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1499",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "4054038168210",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1500",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "4054038168211",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1501",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "4054038168212",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1502",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "4054038168213",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1503",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "4054038168214",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1504",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "4054038168215",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1505",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "4054038168216",
     "tikTvd": "20520001792101",
-    "tikName": "Унцукульская"
+    "tikName": "Унцукульская",
+    "uikName": "УИК №1506",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "4054054419158",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1507",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "4054054419159",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1508",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "4054054419160",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1509",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "4054054419161",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1510",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "4054054419162",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1511",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "4054054419163",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1512",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "4054054419164",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1513",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "4054054419165",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1514",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "4054054419166",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1515",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "4054054419167",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1516",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "4054054419168",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1517",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "4054054419169",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1518",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "4054054419170",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1519",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "4054054419171",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1520",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "4054054419172",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1521",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "4054054419173",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1522",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "4054054419174",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1523",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "4054054419175",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1524",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "4054054419176",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1525",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "4054054419177",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1526",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "4054054419178",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1527",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "4054054419179",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1528",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "4054054419180",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1529",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "4054054419181",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1530",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "4054054419182",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1531",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "4054054419183",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1532",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "4054054419184",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1533",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "4054054419185",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1534",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "4054054419186",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1535",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "4054054419187",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1536",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "4054054419188",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1537",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "4054054419189",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1538",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "4054054419190",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1539",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "4054054419191",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1540",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "4054054419192",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1541",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "4054054419193",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1542",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "4054054419194",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1543",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "4054054419195",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1544",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "4054054419196",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1545",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "4054054419197",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1546",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "4054054419198",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1547",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "4054054419199",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1548",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "4054054419200",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1549",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "4054054419201",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1550",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1551,
     "uikTvd": "4054054419202",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1551",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1552,
     "uikTvd": "4054054419203",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1552",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1553,
     "uikTvd": "4054054419204",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1553",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "4054054419205",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1554",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "4054054419206",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1555",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "4054054419207",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1556",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "4054054419208",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1557",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1558,
     "uikTvd": "4054054419209",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1558",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "4054054419210",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1559",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "4054054419211",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1560",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "4054054419212",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1561",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "4054054419213",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1562",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "4054054419214",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1563",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "4054054419215",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1564",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "4054054419216",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1565",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "4054054419217",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1566",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "4054054419218",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1567",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "4054054419219",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1568",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "4054054419220",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1569",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "4054054419221",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1570",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "4054054419222",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1571",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "4054054419223",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1572",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "4054054419224",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1573",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "4054054419225",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1574",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "4054054419226",
     "tikTvd": "20520001792016",
-    "tikName": "Хасавюртовская"
+    "tikName": "Хасавюртовская",
+    "uikName": "УИК №1575",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "4054039177856",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1576",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "4054039177857",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1577",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1578,
     "uikTvd": "4054039177858",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1578",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "4054039177859",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1579",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "4054039177860",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1580",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "4054039177861",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1581",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "4054039177862",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1582",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "4054039177863",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1583",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "4054039177864",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1584",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "4054039177865",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1585",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "4054039177866",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1586",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1587,
     "uikTvd": "4054039177867",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1587",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1588,
     "uikTvd": "4054039177868",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1588",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "4054039177869",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1589",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "4054039177870",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1590",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "4054039177871",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1591",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "4054039177872",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1592",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "4054039177873",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1593",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "4054039177874",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1594",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "4054039177875",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1595",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "4054039177876",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1596",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "4054039177877",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1597",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "4054039177878",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1598",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "4054039177879",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1599",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "4054039177880",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1600",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "4054039177881",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1601",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "4054039177882",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1602",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "4054039177883",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1603",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "4054039177884",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1604",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "4054039177885",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1605",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "4054039177886",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1606",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "4054039177887",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1607",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "4054039177888",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1608",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "4054039177889",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1609",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "4054039177890",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1610",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "4054039177891",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1611",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "4054039177892",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1612",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "4054039177893",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1613",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "4054039177894",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1614",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "4054039177895",
     "tikTvd": "20520001792100",
-    "tikName": "Хасавюртовская городская"
+    "tikName": "Хасавюртовская городская",
+    "uikName": "УИК №1615",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "4054040187667",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1616",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "4054040187668",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1617",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "4054040187669",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1618",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "4054040187670",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1619",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "4054040187671",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1620",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "4054040187672",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1621",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "4054040187673",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1622",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "4054040187674",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1623",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "4054040187675",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1624",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "4054040187676",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1625",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "4054040187677",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1626",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "4054040187678",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1627",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "4054040187679",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1628",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "4054040187680",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1629",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "4054040187681",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1630",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "4054040187682",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1631",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "4054040187683",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1632",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "4054040187684",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1633",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "4054040187685",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1634",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "4054040187686",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1635",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "4054040187687",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1636",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "4054040187688",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1637",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "4054040187689",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1638",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "4054040187690",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1639",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "4054040187691",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1640",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "4054040187692",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1641",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "4054040187693",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1642",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "4054040187694",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1643",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "4054040187695",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1644",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "4054040187696",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1645",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "4054040187697",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1646",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "4054040187698",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1647",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "4054040187699",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1648",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "4054040187700",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1649",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "4054040187701",
     "tikTvd": "20520001792053",
-    "tikName": "Хивская"
+    "tikName": "Хивская",
+    "uikName": "УИК №1650",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "4054041260194",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1651",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "4054041260195",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1652",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "4054041260196",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1653",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "4054041260197",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1654",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "4054041260198",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1655",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "4054041260199",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1656",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "4054041260200",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1657",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "4054041260201",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1658",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "4054041260202",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1659",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "4054041260203",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1660",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "4054041260204",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1661",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "4054041260205",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1662",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "4054041260206",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1663",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "4054041260207",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1664",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "4054041260208",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1665",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "4054041260209",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1666",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "4054041260210",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1667",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "4054041260211",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1668",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "4054041260212",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1669",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "4054041260213",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1670",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "4054041260214",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1671",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "4054041260215",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1672",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "4054041260216",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1673",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "4054041260217",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1674",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "4054041260218",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1675",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "4054041260219",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1676",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "4054041260220",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1677",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "4054041260221",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1678",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "4054041260222",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1679",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "4054041260223",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1680",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "4054041260224",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1681",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "4054041260225",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1682",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "4054041260226",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1683",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "4054041260227",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1684",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "4054041260228",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1685",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "4054041260229",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1686",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "4054041260230",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1687",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "4054041260231",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1688",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "4054041260232",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1689",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "4054041260233",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1690",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1691,
     "uikTvd": "4054041260234",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1691",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "4054041260235",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1692",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1693,
     "uikTvd": "4054041260236",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1693",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "4054041260237",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1694",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "4054041260238",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1695",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "4054041260239",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1696",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "4054041260240",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1697",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "4054041260241",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1698",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "4054041260242",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1699",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "4054041260243",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1700",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "4054041260244",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1701",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "4054041260245",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1702",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "4054041260246",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1703",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "4054041260247",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1704",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "4054041260248",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1705",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "4054041260249",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1706",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "4054041260250",
     "tikTvd": "20520001792099",
-    "tikName": "Хунзахская"
+    "tikName": "Хунзахская",
+    "uikName": "УИК №1707",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "4054042247562",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1708",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "4054042247818",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1709",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "4054042247564",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1710",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "4054042247820",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1711",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "4054042247822",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1712",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "4054042247824",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1713",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "4054042247826",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1714",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "4054042247828",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1715",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "4054042247830",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1716",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "4054042247832",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1717",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "4054042247834",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1718",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "4054042247836",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1719",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "4054042247838",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1720",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "4054042247840",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1721",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "4054042247842",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1722",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "4054042247844",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1723",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "4054042247846",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1724",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "4054042247848",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1725",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "4054042247850",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1726",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "4054042247852",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1727",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "4054042247854",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1728",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "4054042247856",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1729",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "4054042247858",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1730",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "4054042247860",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1731",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "4054042247862",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1732",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "4054042247864",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1733",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "4054042247866",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1734",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "4054042247868",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1735",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "4054042247870",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1736",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "4054042247872",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1737",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "4054042247874",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1738",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "4054042247876",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1739",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "4054042247878",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1740",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "4054042247880",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1741",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "4054042247882",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1742",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "4054042247884",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1743",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "4054042247886",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1744",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "4054042247888",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1745",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "4054042247890",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1746",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "4054042247892",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1747",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "4054042247894",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1748",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "4054042247896",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1749",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "4054042247898",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1750",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "4054042247900",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1751",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "4054042247902",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1752",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "4054042247904",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1753",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "4054042247906",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1754",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "4054042247908",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1755",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "4054042247910",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1756",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "4054042247912",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1757",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "4054042247914",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1758",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "4054042247916",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1759",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "4054042247918",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1760",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "4054042247920",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1761",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "4054042247922",
     "tikTvd": "20520001792098",
-    "tikName": "Цумадинская"
+    "tikName": "Цумадинская",
+    "uikName": "УИК №1762",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "4054043255913",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1763",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "4054043255915",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1764",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "4054043255917",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1765",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "4054043255919",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1766",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "4054043255921",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1767",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "4054043255923",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1768",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "4054043255925",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1769",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "4054043255927",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1770",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "4054043255929",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1771",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "4054043255931",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1772",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "4054043255933",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1773",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "4054043255935",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1774",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "4054043255937",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1775",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "4054043255939",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1776",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "4054043255941",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1777",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "4054043255943",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1778",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "4054043255945",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1779",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "4054043255947",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1780",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "4054043255949",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1781",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "4054043255951",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1782",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "4054043255953",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1783",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "4054043255955",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1784",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "4054043255957",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1785",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "4054043255959",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1786",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "4054043255961",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1787",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "4054043255963",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1788",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "4054043255965",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1789",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "4054043255967",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1790",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "4054043255969",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1791",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "4054043255971",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1792",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "4054043255973",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1793",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "4054043255975",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1794",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1795,
     "uikTvd": "4054043255977",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1795",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "4054043255979",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1796",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "4054043255981",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1797",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "4054043255983",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1798",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "4054043255985",
     "tikTvd": "20520001792097",
-    "tikName": "Цунтинская"
+    "tikName": "Цунтинская",
+    "uikName": "УИК №1799",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1800,
     "uikTvd": "4054055208451",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1800",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "4054055208452",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1801",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "4054055208453",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1802",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "4054055208454",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1803",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "4054055208455",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1804",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "4054055208456",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1805",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "4054055208457",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1806",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "4054055208458",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1807",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "4054055208459",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1808",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "4054055208460",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1809",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "4054055208461",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1810",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "4054055208462",
     "tikTvd": "20520001792118",
-    "tikName": "Бежтинская"
+    "tikName": "Бежтинская",
+    "uikName": "УИК №1811",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "4054044189109",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1812",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "4054044189110",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1813",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "4054044189111",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1814",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "4054044189112",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1815",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "4054044189113",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1816",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "4054044189114",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1817",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "4054044189115",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1818",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "4054044189116",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1819",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "4054044189117",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1820",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "4054044189118",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1821",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "4054044189119",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1822",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "4054044189120",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1823",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "4054044189121",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1824",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "4054044189122",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1825",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "4054044189123",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1826",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "4054044189124",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1827",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "4054044189125",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1828",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "4054044189126",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1829",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "4054044189127",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1830",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "4054044189128",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1831",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "4054044189129",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1832",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "4054044189130",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1833",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "4054044189131",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1834",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "4054044189132",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1835",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "4054044189133",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1836",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "4054044189134",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1837",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "4054044189135",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1838",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "4054044189136",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1839",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "4054044189137",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1840",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "4054044189138",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1841",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "4054044189139",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1842",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "4054044189140",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1843",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "4054044189141",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1844",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "4054044189142",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1845",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "4054044189143",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1846",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "4054044189144",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1847",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "4054044189145",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1848",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "4054044189146",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1849",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "4054044189147",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1850",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "4054044189148",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1851",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "4054044189149",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1852",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "4054044189150",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1853",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "4054044189151",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1854",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "4054044189152",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1855",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "4054044189153",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1856",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "4054044189154",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1857",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "4054044189155",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1858",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "4054044189156",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1859",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "4054044189157",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1860",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "4054044189158",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1861",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "4054044189159",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1862",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "4054044189160",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1863",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "4054044189161",
     "tikTvd": "20520001792096",
-    "tikName": "Чародинская"
+    "tikName": "Чародинская",
+    "uikName": "УИК №1864",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "4054045221418",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1865",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "4054045221419",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1866",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "4054045221420",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1867",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "4054045221421",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1868",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "4054045221422",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1869",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "4054045221423",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1870",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "4054045221424",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1871",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "4054045221425",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1872",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "4054045221426",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1873",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "4054045221427",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1874",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "4054045221428",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1875",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "4054045221429",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1876",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "4054045221430",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1877",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "4054045221431",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1878",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "4054045221432",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1879",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "4054045221433",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1880",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "4054045221434",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1881",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "4054045221435",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1882",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "4054045221436",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1883",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "4054045221437",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1884",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1885,
     "uikTvd": "4054045221438",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1885",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1886,
     "uikTvd": "4054045221439",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1886",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1887,
     "uikTvd": "4054045221440",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1887",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1888,
     "uikTvd": "4054045221441",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1888",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1889,
     "uikTvd": "4054045221442",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1889",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "4054045221443",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1890",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "4054045221444",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1891",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "4054045221445",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1892",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "4054045221446",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1893",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "4054045221447",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1894",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "4054045221448",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1895",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "4054045221449",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1896",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "4054045221450",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1897",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "4054045221451",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1898",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "4054045221452",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1899",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "4054045221453",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1900",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "4054045221454",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1901",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "4054045221455",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1902",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "4054045221456",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1903",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "4054045221457",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1904",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "4054045221458",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1905",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "4054045221459",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1906",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "4054045221460",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1907",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "4054045221461",
     "tikTvd": "20520001792095",
-    "tikName": "Шамильская"
+    "tikName": "Шамильская",
+    "uikName": "УИК №1908",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "4054046116471",
     "tikTvd": "20520001792015",
-    "tikName": "Южно-Сухокумская городская"
+    "tikName": "Южно-Сухокумская городская",
+    "uikName": "УИК №1909",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "4054046116472",
     "tikTvd": "20520001792015",
-    "tikName": "Южно-Сухокумская городская"
+    "tikName": "Южно-Сухокумская городская",
+    "uikName": "УИК №1910",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "4054046116473",
     "tikTvd": "20520001792015",
-    "tikName": "Южно-Сухокумская городская"
+    "tikName": "Южно-Сухокумская городская",
+    "uikName": "УИК №1911",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "4054046116474",
     "tikTvd": "20520001792015",
-    "tikName": "Южно-Сухокумская городская"
+    "tikName": "Южно-Сухокумская городская",
+    "uikName": "УИК №1912",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "4054024159037",
     "tikTvd": "20520001792021",
-    "tikName": "Кумторкалинская"
+    "tikName": "Кумторкалинская",
+    "uikName": "УИК №1913",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "4054051190820",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1914",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "4054048285089",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №1915",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "4054048285090",
     "tikTvd": "20520001792065",
-    "tikName": "Дербентская"
+    "tikName": "Дербентская",
+    "uikName": "УИК №1916",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "4054013185022",
     "tikTvd": "20520001792064",
-    "tikName": "Дербентская городская"
+    "tikName": "Дербентская городская",
+    "uikName": "УИК №1917",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "4054016231134",
     "tikTvd": "20520001792109",
-    "tikName": "Казбековская"
+    "tikName": "Казбековская",
+    "uikName": "УИК №1918",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883414",
+    "oikName": "Республика Дагестан – Южный",
+    "district": {
+      "districtNumber": 12,
+      "oikTvd": "100100225883414"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "4054019166093",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №1919",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "4054019166094",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №1920",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "4054019166095",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №1921",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "4054019166096",
     "tikTvd": "20520001792060",
-    "tikName": "Каспийская городская"
+    "tikName": "Каспийская городская",
+    "uikName": "УИК №1922",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "4054051190821",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1923",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "4054051190823",
     "tikTvd": "20520001792020",
-    "tikName": "Махачкала, Кировская"
+    "tikName": "Махачкала, Кировская",
+    "uikName": "УИК №1924",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "4054052210991",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1925",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "4054052210992",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1926",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "4054052210993",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1927",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "4054052210994",
     "tikTvd": "20520001792057",
-    "tikName": "Махачкала, Ленинская"
+    "tikName": "Махачкала, Ленинская",
+    "uikName": "УИК №1928",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883413",
+    "oikName": "Республика Дагестан – Центральный",
+    "district": {
+      "districtNumber": 11,
+      "oikTvd": "100100225883413"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "4054053192980",
     "tikTvd": "20520001792019",
-    "tikName": "Махачкала, Советская"
+    "tikName": "Махачкала, Советская",
+    "uikName": "УИК №1929",
+    "regionCode": "5",
+    "regionTvd": "100100225883411",
+    "regionName": "Республика Дагестан",
+    "oikTvd": "100100225883412",
+    "oikName": "Республика Дагестан – Северный",
+    "district": {
+      "districtNumber": 10,
+      "oikTvd": "100100225883412"
+    }
   }
 ] satisfies readonly UikTikRelation[];

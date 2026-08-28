@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 58,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 23,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 5,
-      "Пятикоп Александр Иванович": 75,
-      "Ревин Игорь Алексеевич": 23,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 58,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 23,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 5,
+      "gas:candidate-vibid:2392000547764": 75,
+      "gas:candidate-vibid:2392000498112": 23,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 40,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 2,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 10,
-      "Пятикоп Александр Иванович": 78,
-      "Ревин Игорь Алексеевич": 26,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 40,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 2,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 10,
+      "gas:candidate-vibid:2392000547764": 78,
+      "gas:candidate-vibid:2392000498112": 26,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 82,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 46,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 9,
-      "Пятикоп Александр Иванович": 159,
-      "Ревин Игорь Алексеевич": 36,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 82,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 46,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 9,
+      "gas:candidate-vibid:2392000547764": 159,
+      "gas:candidate-vibid:2392000498112": 36,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 90,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 35,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 30,
-      "Потапенко Дмитрий Валерьевич": 15,
-      "Пятикоп Александр Иванович": 169,
-      "Ревин Игорь Алексеевич": 66,
-      "Чесалин Михаил Юрьевич": 14
+      "gas:candidate-vibid:2392000496818": 90,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 35,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 30,
+      "gas:candidate-vibid:2392000544697": 15,
+      "gas:candidate-vibid:2392000547764": 169,
+      "gas:candidate-vibid:2392000498112": 66,
+      "gas:candidate-vibid:2392000544635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 84,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 41,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 17,
-      "Пятикоп Александр Иванович": 144,
-      "Ревин Игорь Алексеевич": 65,
-      "Чесалин Михаил Юрьевич": 21
+      "gas:candidate-vibid:2392000496818": 84,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 41,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 17,
+      "gas:candidate-vibid:2392000547764": 144,
+      "gas:candidate-vibid:2392000498112": 65,
+      "gas:candidate-vibid:2392000544635": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 88,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 57,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 17,
-      "Пятикоп Александр Иванович": 176,
-      "Ревин Игорь Алексеевич": 100,
-      "Чесалин Михаил Юрьевич": 24
+      "gas:candidate-vibid:2392000496818": 88,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 57,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 17,
+      "gas:candidate-vibid:2392000547764": 176,
+      "gas:candidate-vibid:2392000498112": 100,
+      "gas:candidate-vibid:2392000544635": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 60,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 38,
-      "Новик Дмитрий Александрович": 14,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 12,
-      "Пятикоп Александр Иванович": 148,
-      "Ревин Игорь Алексеевич": 78,
-      "Чесалин Михаил Юрьевич": 17
+      "gas:candidate-vibid:2392000496818": 60,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 38,
+      "gas:candidate-vibid:2392000536164": 14,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 12,
+      "gas:candidate-vibid:2392000547764": 148,
+      "gas:candidate-vibid:2392000498112": 78,
+      "gas:candidate-vibid:2392000544635": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 87,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 52,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 18,
-      "Пятикоп Александр Иванович": 164,
-      "Ревин Игорь Алексеевич": 96,
-      "Чесалин Михаил Юрьевич": 20
+      "gas:candidate-vibid:2392000496818": 87,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 52,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 18,
+      "gas:candidate-vibid:2392000547764": 164,
+      "gas:candidate-vibid:2392000498112": 96,
+      "gas:candidate-vibid:2392000544635": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 80,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 40,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 27,
-      "Пятикоп Александр Иванович": 150,
-      "Ревин Игорь Алексеевич": 85,
-      "Чесалин Михаил Юрьевич": 31
+      "gas:candidate-vibid:2392000496818": 80,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 40,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 27,
+      "gas:candidate-vibid:2392000547764": 150,
+      "gas:candidate-vibid:2392000498112": 85,
+      "gas:candidate-vibid:2392000544635": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 93,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 67,
-      "Новик Дмитрий Александрович": 18,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 17,
-      "Пятикоп Александр Иванович": 173,
-      "Ревин Игорь Алексеевич": 106,
-      "Чесалин Михаил Юрьевич": 26
+      "gas:candidate-vibid:2392000496818": 93,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 67,
+      "gas:candidate-vibid:2392000536164": 18,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 17,
+      "gas:candidate-vibid:2392000547764": 173,
+      "gas:candidate-vibid:2392000498112": 106,
+      "gas:candidate-vibid:2392000544635": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 199,
-      "Гончаров Виталий Анатольевич": 33,
-      "Масянова Наталья Николаевна": 102,
-      "Новик Дмитрий Александрович": 31,
-      "Орлов Александр Сергеевич": 59,
-      "Потапенко Дмитрий Валерьевич": 30,
-      "Пятикоп Александр Иванович": 416,
-      "Ревин Игорь Алексеевич": 176,
-      "Чесалин Михаил Юрьевич": 54
+      "gas:candidate-vibid:2392000496818": 199,
+      "gas:candidate-vibid:2392000544683": 33,
+      "gas:candidate-vibid:2392000500912": 102,
+      "gas:candidate-vibid:2392000536164": 31,
+      "gas:candidate-vibid:2392000544668": 59,
+      "gas:candidate-vibid:2392000544697": 30,
+      "gas:candidate-vibid:2392000547764": 416,
+      "gas:candidate-vibid:2392000498112": 176,
+      "gas:candidate-vibid:2392000544635": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 162,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 107,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 42,
-      "Потапенко Дмитрий Валерьевич": 33,
-      "Пятикоп Александр Иванович": 332,
-      "Ревин Игорь Алексеевич": 182,
-      "Чесалин Михаил Юрьевич": 44
+      "gas:candidate-vibid:2392000496818": 162,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 107,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 42,
+      "gas:candidate-vibid:2392000544697": 33,
+      "gas:candidate-vibid:2392000547764": 332,
+      "gas:candidate-vibid:2392000498112": 182,
+      "gas:candidate-vibid:2392000544635": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 93,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 51,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 173,
-      "Ревин Игорь Алексеевич": 105,
-      "Чесалин Михаил Юрьевич": 21
+      "gas:candidate-vibid:2392000496818": 93,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 51,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 173,
+      "gas:candidate-vibid:2392000498112": 105,
+      "gas:candidate-vibid:2392000544635": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 135,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 93,
-      "Новик Дмитрий Александрович": 14,
-      "Орлов Александр Сергеевич": 56,
-      "Потапенко Дмитрий Валерьевич": 21,
-      "Пятикоп Александр Иванович": 337,
-      "Ревин Игорь Алексеевич": 154,
-      "Чесалин Михаил Юрьевич": 43
+      "gas:candidate-vibid:2392000496818": 135,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 93,
+      "gas:candidate-vibid:2392000536164": 14,
+      "gas:candidate-vibid:2392000544668": 56,
+      "gas:candidate-vibid:2392000544697": 21,
+      "gas:candidate-vibid:2392000547764": 337,
+      "gas:candidate-vibid:2392000498112": 154,
+      "gas:candidate-vibid:2392000544635": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 209,
-      "Гончаров Виталий Анатольевич": 24,
-      "Масянова Наталья Николаевна": 68,
-      "Новик Дмитрий Александрович": 52,
-      "Орлов Александр Сергеевич": 69,
-      "Потапенко Дмитрий Валерьевич": 19,
-      "Пятикоп Александр Иванович": 417,
-      "Ревин Игорь Алексеевич": 69,
-      "Чесалин Михаил Юрьевич": 29
+      "gas:candidate-vibid:2392000496818": 209,
+      "gas:candidate-vibid:2392000544683": 24,
+      "gas:candidate-vibid:2392000500912": 68,
+      "gas:candidate-vibid:2392000536164": 52,
+      "gas:candidate-vibid:2392000544668": 69,
+      "gas:candidate-vibid:2392000544697": 19,
+      "gas:candidate-vibid:2392000547764": 417,
+      "gas:candidate-vibid:2392000498112": 69,
+      "gas:candidate-vibid:2392000544635": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 220,
-      "Гончаров Виталий Анатольевич": 61,
-      "Масянова Наталья Николаевна": 82,
-      "Новик Дмитрий Александрович": 69,
-      "Орлов Александр Сергеевич": 78,
-      "Потапенко Дмитрий Валерьевич": 31,
-      "Пятикоп Александр Иванович": 382,
-      "Ревин Игорь Алексеевич": 108,
-      "Чесалин Михаил Юрьевич": 24
+      "gas:candidate-vibid:2392000496818": 220,
+      "gas:candidate-vibid:2392000544683": 61,
+      "gas:candidate-vibid:2392000500912": 82,
+      "gas:candidate-vibid:2392000536164": 69,
+      "gas:candidate-vibid:2392000544668": 78,
+      "gas:candidate-vibid:2392000544697": 31,
+      "gas:candidate-vibid:2392000547764": 382,
+      "gas:candidate-vibid:2392000498112": 108,
+      "gas:candidate-vibid:2392000544635": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 131,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 45,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 53,
-      "Потапенко Дмитрий Валерьевич": 24,
-      "Пятикоп Александр Иванович": 196,
-      "Ревин Игорь Алексеевич": 63,
-      "Чесалин Михаил Юрьевич": 19
+      "gas:candidate-vibid:2392000496818": 131,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 45,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 53,
+      "gas:candidate-vibid:2392000544697": 24,
+      "gas:candidate-vibid:2392000547764": 196,
+      "gas:candidate-vibid:2392000498112": 63,
+      "gas:candidate-vibid:2392000544635": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 60,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 18,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 17,
-      "Потапенко Дмитрий Валерьевич": 8,
-      "Пятикоп Александр Иванович": 123,
-      "Ревин Игорь Алексеевич": 40,
-      "Чесалин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2392000496818": 60,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 18,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 17,
+      "gas:candidate-vibid:2392000544697": 8,
+      "gas:candidate-vibid:2392000547764": 123,
+      "gas:candidate-vibid:2392000498112": 40,
+      "gas:candidate-vibid:2392000544635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 112,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 34,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 22,
-      "Потапенко Дмитрий Валерьевич": 16,
-      "Пятикоп Александр Иванович": 139,
-      "Ревин Игорь Алексеевич": 22,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 112,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 34,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 22,
+      "gas:candidate-vibid:2392000544697": 16,
+      "gas:candidate-vibid:2392000547764": 139,
+      "gas:candidate-vibid:2392000498112": 22,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 106,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 35,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 44,
-      "Потапенко Дмитрий Валерьевич": 10,
-      "Пятикоп Александр Иванович": 289,
-      "Ревин Игорь Алексеевич": 77,
-      "Чесалин Михаил Юрьевич": 18
+      "gas:candidate-vibid:2392000496818": 106,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 35,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 44,
+      "gas:candidate-vibid:2392000544697": 10,
+      "gas:candidate-vibid:2392000547764": 289,
+      "gas:candidate-vibid:2392000498112": 77,
+      "gas:candidate-vibid:2392000544635": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 23,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 9,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 8,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 75,
-      "Ревин Игорь Алексеевич": 13,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 23,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 9,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 8,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 75,
+      "gas:candidate-vibid:2392000498112": 13,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 25,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 12,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 3,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 51,
-      "Ревин Игорь Алексеевич": 5,
-      "Чесалин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2392000496818": 25,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 12,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 3,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 51,
+      "gas:candidate-vibid:2392000498112": 5,
+      "gas:candidate-vibid:2392000544635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 2,
-      "Гончаров Виталий Анатольевич": 0,
-      "Масянова Наталья Николаевна": 1,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 5,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 14,
-      "Ревин Игорь Алексеевич": 0,
-      "Чесалин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2392000496818": 2,
+      "gas:candidate-vibid:2392000544683": 0,
+      "gas:candidate-vibid:2392000500912": 1,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 5,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 14,
+      "gas:candidate-vibid:2392000498112": 0,
+      "gas:candidate-vibid:2392000544635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 45,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 9,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 8,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 69,
-      "Ревин Игорь Алексеевич": 7,
-      "Чесалин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2392000496818": 45,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 9,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 8,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 69,
+      "gas:candidate-vibid:2392000498112": 7,
+      "gas:candidate-vibid:2392000544635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475039&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475039&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 111,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 85,
-      "Новик Дмитрий Александрович": 14,
-      "Орлов Александр Сергеевич": 63,
-      "Потапенко Дмитрий Валерьевич": 27,
-      "Пятикоп Александр Иванович": 283,
-      "Ревин Игорь Алексеевич": 130,
-      "Чесалин Михаил Юрьевич": 66
+      "gas:candidate-vibid:2392000496818": 111,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 85,
+      "gas:candidate-vibid:2392000536164": 14,
+      "gas:candidate-vibid:2392000544668": 63,
+      "gas:candidate-vibid:2392000544697": 27,
+      "gas:candidate-vibid:2392000547764": 283,
+      "gas:candidate-vibid:2392000498112": 130,
+      "gas:candidate-vibid:2392000544635": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 112,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 70,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 70,
-      "Потапенко Дмитрий Валерьевич": 62,
-      "Пятикоп Александр Иванович": 347,
-      "Ревин Игорь Алексеевич": 152,
-      "Чесалин Михаил Юрьевич": 44
+      "gas:candidate-vibid:2392000496818": 112,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 70,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 70,
+      "gas:candidate-vibid:2392000544697": 62,
+      "gas:candidate-vibid:2392000547764": 347,
+      "gas:candidate-vibid:2392000498112": 152,
+      "gas:candidate-vibid:2392000544635": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 67,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 56,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 42,
-      "Потапенко Дмитрий Валерьевич": 40,
-      "Пятикоп Александр Иванович": 238,
-      "Ревин Игорь Алексеевич": 120,
-      "Чесалин Михаил Юрьевич": 39
+      "gas:candidate-vibid:2392000496818": 67,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 56,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 42,
+      "gas:candidate-vibid:2392000544697": 40,
+      "gas:candidate-vibid:2392000547764": 238,
+      "gas:candidate-vibid:2392000498112": 120,
+      "gas:candidate-vibid:2392000544635": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 70,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 49,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 45,
-      "Потапенко Дмитрий Валерьевич": 28,
-      "Пятикоп Александр Иванович": 158,
-      "Ревин Игорь Алексеевич": 92,
-      "Чесалин Михаил Юрьевич": 40
+      "gas:candidate-vibid:2392000496818": 70,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 49,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 45,
+      "gas:candidate-vibid:2392000544697": 28,
+      "gas:candidate-vibid:2392000547764": 158,
+      "gas:candidate-vibid:2392000498112": 92,
+      "gas:candidate-vibid:2392000544635": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 156,
-      "Гончаров Виталий Анатольевич": 28,
-      "Масянова Наталья Николаевна": 95,
-      "Новик Дмитрий Александрович": 33,
-      "Орлов Александр Сергеевич": 75,
-      "Потапенко Дмитрий Валерьевич": 54,
-      "Пятикоп Александр Иванович": 414,
-      "Ревин Игорь Алексеевич": 156,
-      "Чесалин Михаил Юрьевич": 49
+      "gas:candidate-vibid:2392000496818": 156,
+      "gas:candidate-vibid:2392000544683": 28,
+      "gas:candidate-vibid:2392000500912": 95,
+      "gas:candidate-vibid:2392000536164": 33,
+      "gas:candidate-vibid:2392000544668": 75,
+      "gas:candidate-vibid:2392000544697": 54,
+      "gas:candidate-vibid:2392000547764": 414,
+      "gas:candidate-vibid:2392000498112": 156,
+      "gas:candidate-vibid:2392000544635": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 96,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 37,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 35,
-      "Потапенко Дмитрий Валерьевич": 22,
-      "Пятикоп Александр Иванович": 366,
-      "Ревин Игорь Алексеевич": 69,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 96,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 37,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 35,
+      "gas:candidate-vibid:2392000544697": 22,
+      "gas:candidate-vibid:2392000547764": 366,
+      "gas:candidate-vibid:2392000498112": 69,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 34,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 22,
-      "Потапенко Дмитрий Валерьевич": 12,
-      "Пятикоп Александр Иванович": 140,
-      "Ревин Игорь Алексеевич": 36,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 34,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 22,
+      "gas:candidate-vibid:2392000544697": 12,
+      "gas:candidate-vibid:2392000547764": 140,
+      "gas:candidate-vibid:2392000498112": 36,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 29,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 174,
-      "Ревин Игорь Алексеевич": 13,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 29,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 174,
+      "gas:candidate-vibid:2392000498112": 13,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 30,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 11,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 161,
-      "Ревин Игорь Алексеевич": 21,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 30,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 11,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 161,
+      "gas:candidate-vibid:2392000498112": 21,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 69,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 40,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 41,
-      "Потапенко Дмитрий Валерьевич": 17,
-      "Пятикоп Александр Иванович": 414,
-      "Ревин Игорь Алексеевич": 64,
-      "Чесалин Михаил Юрьевич": 19
+      "gas:candidate-vibid:2392000496818": 69,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 40,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 41,
+      "gas:candidate-vibid:2392000544697": 17,
+      "gas:candidate-vibid:2392000547764": 414,
+      "gas:candidate-vibid:2392000498112": 64,
+      "gas:candidate-vibid:2392000544635": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 50,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 9,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 8,
-      "Пятикоп Александр Иванович": 74,
-      "Ревин Игорь Алексеевич": 23,
-      "Чесалин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2392000496818": 50,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 9,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 8,
+      "gas:candidate-vibid:2392000547764": 74,
+      "gas:candidate-vibid:2392000498112": 23,
+      "gas:candidate-vibid:2392000544635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 37,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 17,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 119,
-      "Ревин Игорь Алексеевич": 40,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 37,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 17,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 119,
+      "gas:candidate-vibid:2392000498112": 40,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 44,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 27,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 169,
-      "Ревин Игорь Алексеевич": 23,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 44,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 27,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 169,
+      "gas:candidate-vibid:2392000498112": 23,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 31,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 20,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 25,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 137,
-      "Ревин Игорь Алексеевич": 37,
-      "Чесалин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2392000496818": 31,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 20,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 25,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 137,
+      "gas:candidate-vibid:2392000498112": 37,
+      "gas:candidate-vibid:2392000544635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 61,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 25,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 20,
-      "Пятикоп Александр Иванович": 179,
-      "Ревин Игорь Алексеевич": 64,
-      "Чесалин Михаил Юрьевич": 18
+      "gas:candidate-vibid:2392000496818": 61,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 25,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 20,
+      "gas:candidate-vibid:2392000547764": 179,
+      "gas:candidate-vibid:2392000498112": 64,
+      "gas:candidate-vibid:2392000544635": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 61,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 30,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 20,
-      "Пятикоп Александр Иванович": 181,
-      "Ревин Игорь Алексеевич": 52,
-      "Чесалин Михаил Юрьевич": 25
+      "gas:candidate-vibid:2392000496818": 61,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 30,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 20,
+      "gas:candidate-vibid:2392000547764": 181,
+      "gas:candidate-vibid:2392000498112": 52,
+      "gas:candidate-vibid:2392000544635": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 75,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 32,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 18,
-      "Пятикоп Александр Иванович": 312,
-      "Ревин Игорь Алексеевич": 36,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 75,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 32,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 18,
+      "gas:candidate-vibid:2392000547764": 312,
+      "gas:candidate-vibid:2392000498112": 36,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 168,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 51,
-      "Новик Дмитрий Александрович": 26,
-      "Орлов Александр Сергеевич": 41,
-      "Потапенко Дмитрий Валерьевич": 18,
-      "Пятикоп Александр Иванович": 395,
-      "Ревин Игорь Алексеевич": 82,
-      "Чесалин Михаил Юрьевич": 42
+      "gas:candidate-vibid:2392000496818": 168,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 51,
+      "gas:candidate-vibid:2392000536164": 26,
+      "gas:candidate-vibid:2392000544668": 41,
+      "gas:candidate-vibid:2392000544697": 18,
+      "gas:candidate-vibid:2392000547764": 395,
+      "gas:candidate-vibid:2392000498112": 82,
+      "gas:candidate-vibid:2392000544635": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 152,
-      "Гончаров Виталий Анатольевич": 28,
-      "Масянова Наталья Николаевна": 64,
-      "Новик Дмитрий Александрович": 49,
-      "Орлов Александр Сергеевич": 70,
-      "Потапенко Дмитрий Валерьевич": 73,
-      "Пятикоп Александр Иванович": 372,
-      "Ревин Игорь Алексеевич": 99,
-      "Чесалин Михаил Юрьевич": 66
+      "gas:candidate-vibid:2392000496818": 152,
+      "gas:candidate-vibid:2392000544683": 28,
+      "gas:candidate-vibid:2392000500912": 64,
+      "gas:candidate-vibid:2392000536164": 49,
+      "gas:candidate-vibid:2392000544668": 70,
+      "gas:candidate-vibid:2392000544697": 73,
+      "gas:candidate-vibid:2392000547764": 372,
+      "gas:candidate-vibid:2392000498112": 99,
+      "gas:candidate-vibid:2392000544635": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 85,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 62,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 48,
-      "Потапенко Дмитрий Валерьевич": 27,
-      "Пятикоп Александр Иванович": 550,
-      "Ревин Игорь Алексеевич": 84,
-      "Чесалин Михаил Юрьевич": 33
+      "gas:candidate-vibid:2392000496818": 85,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 62,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 48,
+      "gas:candidate-vibid:2392000544697": 27,
+      "gas:candidate-vibid:2392000547764": 550,
+      "gas:candidate-vibid:2392000498112": 84,
+      "gas:candidate-vibid:2392000544635": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 109,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 60,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 42,
-      "Потапенко Дмитрий Валерьевич": 41,
-      "Пятикоп Александр Иванович": 780,
-      "Ревин Игорь Алексеевич": 120,
-      "Чесалин Михаил Юрьевич": 42
+      "gas:candidate-vibid:2392000496818": 109,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 60,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 42,
+      "gas:candidate-vibid:2392000544697": 41,
+      "gas:candidate-vibid:2392000547764": 780,
+      "gas:candidate-vibid:2392000498112": 120,
+      "gas:candidate-vibid:2392000544635": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 117,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 46,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 36,
-      "Потапенко Дмитрий Валерьевич": 31,
-      "Пятикоп Александр Иванович": 588,
-      "Ревин Игорь Алексеевич": 96,
-      "Чесалин Михаил Юрьевич": 29
+      "gas:candidate-vibid:2392000496818": 117,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 46,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 36,
+      "gas:candidate-vibid:2392000544697": 31,
+      "gas:candidate-vibid:2392000547764": 588,
+      "gas:candidate-vibid:2392000498112": 96,
+      "gas:candidate-vibid:2392000544635": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 47,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 36,
-      "Новик Дмитрий Александрович": 15,
-      "Орлов Александр Сергеевич": 13,
-      "Потапенко Дмитрий Валерьевич": 33,
-      "Пятикоп Александр Иванович": 577,
-      "Ревин Игорь Алексеевич": 50,
-      "Чесалин Михаил Юрьевич": 19
+      "gas:candidate-vibid:2392000496818": 47,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 36,
+      "gas:candidate-vibid:2392000536164": 15,
+      "gas:candidate-vibid:2392000544668": 13,
+      "gas:candidate-vibid:2392000544697": 33,
+      "gas:candidate-vibid:2392000547764": 577,
+      "gas:candidate-vibid:2392000498112": 50,
+      "gas:candidate-vibid:2392000544635": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 127,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 61,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 44,
-      "Пятикоп Александр Иванович": 776,
-      "Ревин Игорь Алексеевич": 80,
-      "Чесалин Михаил Юрьевич": 26
+      "gas:candidate-vibid:2392000496818": 127,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 61,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 44,
+      "gas:candidate-vibid:2392000547764": 776,
+      "gas:candidate-vibid:2392000498112": 80,
+      "gas:candidate-vibid:2392000544635": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 59,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 35,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 26,
-      "Пятикоп Александр Иванович": 607,
-      "Ревин Игорь Алексеевич": 36,
-      "Чесалин Михаил Юрьевич": 17
+      "gas:candidate-vibid:2392000496818": 59,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 35,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 26,
+      "gas:candidate-vibid:2392000547764": 607,
+      "gas:candidate-vibid:2392000498112": 36,
+      "gas:candidate-vibid:2392000544635": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 68,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 25,
-      "Новик Дмитрий Александрович": 18,
-      "Орлов Александр Сергеевич": 23,
-      "Потапенко Дмитрий Валерьевич": 16,
-      "Пятикоп Александр Иванович": 295,
-      "Ревин Игорь Алексеевич": 46,
-      "Чесалин Михаил Юрьевич": 20
+      "gas:candidate-vibid:2392000496818": 68,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 25,
+      "gas:candidate-vibid:2392000536164": 18,
+      "gas:candidate-vibid:2392000544668": 23,
+      "gas:candidate-vibid:2392000544697": 16,
+      "gas:candidate-vibid:2392000547764": 295,
+      "gas:candidate-vibid:2392000498112": 46,
+      "gas:candidate-vibid:2392000544635": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 91,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 46,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 16,
-      "Пятикоп Александр Иванович": 824,
-      "Ревин Игорь Алексеевич": 48,
-      "Чесалин Михаил Юрьевич": 24
+      "gas:candidate-vibid:2392000496818": 91,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 46,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 16,
+      "gas:candidate-vibid:2392000547764": 824,
+      "gas:candidate-vibid:2392000498112": 48,
+      "gas:candidate-vibid:2392000544635": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 88,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 57,
-      "Новик Дмитрий Александрович": 29,
-      "Орлов Александр Сергеевич": 45,
-      "Потапенко Дмитрий Валерьевич": 25,
-      "Пятикоп Александр Иванович": 685,
-      "Ревин Игорь Алексеевич": 89,
-      "Чесалин Михаил Юрьевич": 39
+      "gas:candidate-vibid:2392000496818": 88,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 57,
+      "gas:candidate-vibid:2392000536164": 29,
+      "gas:candidate-vibid:2392000544668": 45,
+      "gas:candidate-vibid:2392000544697": 25,
+      "gas:candidate-vibid:2392000547764": 685,
+      "gas:candidate-vibid:2392000498112": 89,
+      "gas:candidate-vibid:2392000544635": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 60,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 19,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 135,
-      "Ревин Игорь Алексеевич": 31,
-      "Чесалин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2392000496818": 60,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 19,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 135,
+      "gas:candidate-vibid:2392000498112": 31,
+      "gas:candidate-vibid:2392000544635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 71,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 31,
-      "Новик Дмитрий Александрович": 25,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 17,
-      "Пятикоп Александр Иванович": 376,
-      "Ревин Игорь Алексеевич": 51,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 71,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 31,
+      "gas:candidate-vibid:2392000536164": 25,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 17,
+      "gas:candidate-vibid:2392000547764": 376,
+      "gas:candidate-vibid:2392000498112": 51,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 34,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 12,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 97,
-      "Ревин Игорь Алексеевич": 28,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 34,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 12,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 97,
+      "gas:candidate-vibid:2392000498112": 28,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 33,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 141,
-      "Ревин Игорь Алексеевич": 22,
-      "Чесалин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2392000496818": 33,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 141,
+      "gas:candidate-vibid:2392000498112": 22,
+      "gas:candidate-vibid:2392000544635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475040&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475040&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 121,
-      "Гончаров Виталий Анатольевич": 35,
-      "Масянова Наталья Николаевна": 88,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 54,
-      "Потапенко Дмитрий Валерьевич": 47,
-      "Пятикоп Александр Иванович": 382,
-      "Ревин Игорь Алексеевич": 164,
-      "Чесалин Михаил Юрьевич": 80
+      "gas:candidate-vibid:2392000496818": 121,
+      "gas:candidate-vibid:2392000544683": 35,
+      "gas:candidate-vibid:2392000500912": 88,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 54,
+      "gas:candidate-vibid:2392000544697": 47,
+      "gas:candidate-vibid:2392000547764": 382,
+      "gas:candidate-vibid:2392000498112": 164,
+      "gas:candidate-vibid:2392000544635": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 64,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 45,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 14,
-      "Потапенко Дмитрий Валерьевич": 22,
-      "Пятикоп Александр Иванович": 167,
-      "Ревин Игорь Алексеевич": 65,
-      "Чесалин Михаил Юрьевич": 46
+      "gas:candidate-vibid:2392000496818": 64,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 45,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 14,
+      "gas:candidate-vibid:2392000544697": 22,
+      "gas:candidate-vibid:2392000547764": 167,
+      "gas:candidate-vibid:2392000498112": 65,
+      "gas:candidate-vibid:2392000544635": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 113,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 75,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 47,
-      "Потапенко Дмитрий Валерьевич": 36,
-      "Пятикоп Александр Иванович": 309,
-      "Ревин Игорь Алексеевич": 134,
-      "Чесалин Михаил Юрьевич": 68
+      "gas:candidate-vibid:2392000496818": 113,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 75,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 47,
+      "gas:candidate-vibid:2392000544697": 36,
+      "gas:candidate-vibid:2392000547764": 309,
+      "gas:candidate-vibid:2392000498112": 134,
+      "gas:candidate-vibid:2392000544635": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 151,
-      "Гончаров Виталий Анатольевич": 32,
-      "Масянова Наталья Николаевна": 103,
-      "Новик Дмитрий Александрович": 44,
-      "Орлов Александр Сергеевич": 44,
-      "Потапенко Дмитрий Валерьевич": 73,
-      "Пятикоп Александр Иванович": 353,
-      "Ревин Игорь Алексеевич": 202,
-      "Чесалин Михаил Юрьевич": 105
+      "gas:candidate-vibid:2392000496818": 151,
+      "gas:candidate-vibid:2392000544683": 32,
+      "gas:candidate-vibid:2392000500912": 103,
+      "gas:candidate-vibid:2392000536164": 44,
+      "gas:candidate-vibid:2392000544668": 44,
+      "gas:candidate-vibid:2392000544697": 73,
+      "gas:candidate-vibid:2392000547764": 353,
+      "gas:candidate-vibid:2392000498112": 202,
+      "gas:candidate-vibid:2392000544635": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 78,
-      "Гончаров Виталий Анатольевич": 22,
-      "Масянова Наталья Николаевна": 41,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 33,
-      "Пятикоп Александр Иванович": 179,
-      "Ревин Игорь Алексеевич": 99,
-      "Чесалин Михаил Юрьевич": 62
+      "gas:candidate-vibid:2392000496818": 78,
+      "gas:candidate-vibid:2392000544683": 22,
+      "gas:candidate-vibid:2392000500912": 41,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 33,
+      "gas:candidate-vibid:2392000547764": 179,
+      "gas:candidate-vibid:2392000498112": 99,
+      "gas:candidate-vibid:2392000544635": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 156,
-      "Гончаров Виталий Анатольевич": 31,
-      "Масянова Наталья Николаевна": 101,
-      "Новик Дмитрий Александрович": 39,
-      "Орлов Александр Сергеевич": 60,
-      "Потапенко Дмитрий Валерьевич": 50,
-      "Пятикоп Александр Иванович": 677,
-      "Ревин Игорь Алексеевич": 196,
-      "Чесалин Михаил Юрьевич": 117
+      "gas:candidate-vibid:2392000496818": 156,
+      "gas:candidate-vibid:2392000544683": 31,
+      "gas:candidate-vibid:2392000500912": 101,
+      "gas:candidate-vibid:2392000536164": 39,
+      "gas:candidate-vibid:2392000544668": 60,
+      "gas:candidate-vibid:2392000544697": 50,
+      "gas:candidate-vibid:2392000547764": 677,
+      "gas:candidate-vibid:2392000498112": 196,
+      "gas:candidate-vibid:2392000544635": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 17,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 6,
-      "Потапенко Дмитрий Валерьевич": 9,
-      "Пятикоп Александр Иванович": 50,
-      "Ревин Игорь Алексеевич": 30,
-      "Чесалин Михаил Юрьевич": 27
+      "gas:candidate-vibid:2392000496818": 17,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 6,
+      "gas:candidate-vibid:2392000544697": 9,
+      "gas:candidate-vibid:2392000547764": 50,
+      "gas:candidate-vibid:2392000498112": 30,
+      "gas:candidate-vibid:2392000544635": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 37,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 24,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 11,
-      "Потапенко Дмитрий Валерьевич": 24,
-      "Пятикоп Александр Иванович": 142,
-      "Ревин Игорь Алексеевич": 51,
-      "Чесалин Михаил Юрьевич": 37
+      "gas:candidate-vibid:2392000496818": 37,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 24,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 11,
+      "gas:candidate-vibid:2392000544697": 24,
+      "gas:candidate-vibid:2392000547764": 142,
+      "gas:candidate-vibid:2392000498112": 51,
+      "gas:candidate-vibid:2392000544635": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 10,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 4,
-      "Новик Дмитрий Александрович": 1,
-      "Орлов Александр Сергеевич": 4,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 16,
-      "Ревин Игорь Алексеевич": 16,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 10,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 4,
+      "gas:candidate-vibid:2392000536164": 1,
+      "gas:candidate-vibid:2392000544668": 4,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 16,
+      "gas:candidate-vibid:2392000498112": 16,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 120,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 56,
-      "Новик Дмитрий Александрович": 25,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 16,
-      "Пятикоп Александр Иванович": 257,
-      "Ревин Игорь Алексеевич": 73,
-      "Чесалин Михаил Юрьевич": 51
+      "gas:candidate-vibid:2392000496818": 120,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 56,
+      "gas:candidate-vibid:2392000536164": 25,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 16,
+      "gas:candidate-vibid:2392000547764": 257,
+      "gas:candidate-vibid:2392000498112": 73,
+      "gas:candidate-vibid:2392000544635": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 42,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 41,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 24,
-      "Потапенко Дмитрий Валерьевич": 16,
-      "Пятикоп Александр Иванович": 162,
-      "Ревин Игорь Алексеевич": 36,
-      "Чесалин Михаил Юрьевич": 30
+      "gas:candidate-vibid:2392000496818": 42,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 41,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 24,
+      "gas:candidate-vibid:2392000544697": 16,
+      "gas:candidate-vibid:2392000547764": 162,
+      "gas:candidate-vibid:2392000498112": 36,
+      "gas:candidate-vibid:2392000544635": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 22,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 12,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 67,
-      "Ревин Игорь Алексеевич": 15,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 22,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 12,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 67,
+      "gas:candidate-vibid:2392000498112": 15,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 44,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 18,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 126,
-      "Ревин Игорь Алексеевич": 34,
-      "Чесалин Михаил Юрьевич": 21
+      "gas:candidate-vibid:2392000496818": 44,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 18,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 126,
+      "gas:candidate-vibid:2392000498112": 34,
+      "gas:candidate-vibid:2392000544635": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 64,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 23,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 18,
-      "Пятикоп Александр Иванович": 161,
-      "Ревин Игорь Алексеевич": 30,
-      "Чесалин Михаил Юрьевич": 20
+      "gas:candidate-vibid:2392000496818": 64,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 23,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 18,
+      "gas:candidate-vibid:2392000547764": 161,
+      "gas:candidate-vibid:2392000498112": 30,
+      "gas:candidate-vibid:2392000544635": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 53,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 33,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 30,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 145,
-      "Ревин Игорь Алексеевич": 32,
-      "Чесалин Михаил Юрьевич": 19
+      "gas:candidate-vibid:2392000496818": 53,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 33,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 30,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 145,
+      "gas:candidate-vibid:2392000498112": 32,
+      "gas:candidate-vibid:2392000544635": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 21,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 16,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 10,
-      "Потапенко Дмитрий Валерьевич": 9,
-      "Пятикоп Александр Иванович": 79,
-      "Ревин Игорь Алексеевич": 10,
-      "Чесалин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2392000496818": 21,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 16,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 10,
+      "gas:candidate-vibid:2392000544697": 9,
+      "gas:candidate-vibid:2392000547764": 79,
+      "gas:candidate-vibid:2392000498112": 10,
+      "gas:candidate-vibid:2392000544635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 53,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 11,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 100,
-      "Ревин Игорь Алексеевич": 13,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 53,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 11,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 100,
+      "gas:candidate-vibid:2392000498112": 13,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 51,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 31,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 114,
-      "Ревин Игорь Алексеевич": 50,
-      "Чесалин Михаил Юрьевич": 20
+      "gas:candidate-vibid:2392000496818": 51,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 31,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 114,
+      "gas:candidate-vibid:2392000498112": 50,
+      "gas:candidate-vibid:2392000544635": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 38,
-      "Гончаров Виталий Анатольевич": 0,
-      "Масянова Наталья Николаевна": 0,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 5,
-      "Пятикоп Александр Иванович": 60,
-      "Ревин Игорь Алексеевич": 34,
-      "Чесалин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2392000496818": 38,
+      "gas:candidate-vibid:2392000544683": 0,
+      "gas:candidate-vibid:2392000500912": 0,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 5,
+      "gas:candidate-vibid:2392000547764": 60,
+      "gas:candidate-vibid:2392000498112": 34,
+      "gas:candidate-vibid:2392000544635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 123,
-      "Гончаров Виталий Анатольевич": 26,
-      "Масянова Наталья Николаевна": 64,
-      "Новик Дмитрий Александрович": 42,
-      "Орлов Александр Сергеевич": 62,
-      "Потапенко Дмитрий Валерьевич": 21,
-      "Пятикоп Александр Иванович": 327,
-      "Ревин Игорь Алексеевич": 60,
-      "Чесалин Михаил Юрьевич": 32
+      "gas:candidate-vibid:2392000496818": 123,
+      "gas:candidate-vibid:2392000544683": 26,
+      "gas:candidate-vibid:2392000500912": 64,
+      "gas:candidate-vibid:2392000536164": 42,
+      "gas:candidate-vibid:2392000544668": 62,
+      "gas:candidate-vibid:2392000544697": 21,
+      "gas:candidate-vibid:2392000547764": 327,
+      "gas:candidate-vibid:2392000498112": 60,
+      "gas:candidate-vibid:2392000544635": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 124,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 34,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 19,
-      "Пятикоп Александр Иванович": 231,
-      "Ревин Игорь Алексеевич": 36,
-      "Чесалин Михаил Юрьевич": 25
+      "gas:candidate-vibid:2392000496818": 124,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 34,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 19,
+      "gas:candidate-vibid:2392000547764": 231,
+      "gas:candidate-vibid:2392000498112": 36,
+      "gas:candidate-vibid:2392000544635": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 47,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 28,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 140,
-      "Ревин Игорь Алексеевич": 17,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 47,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 28,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 140,
+      "gas:candidate-vibid:2392000498112": 17,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 42,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 16,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 92,
-      "Ревин Игорь Алексеевич": 20,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 42,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 16,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 92,
+      "gas:candidate-vibid:2392000498112": 20,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 14,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 6,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 4,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 38,
-      "Ревин Игорь Алексеевич": 4,
-      "Чесалин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2392000496818": 14,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 6,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 4,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 38,
+      "gas:candidate-vibid:2392000498112": 4,
+      "gas:candidate-vibid:2392000544635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 80,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 36,
-      "Новик Дмитрий Александрович": 30,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 21,
-      "Пятикоп Александр Иванович": 257,
-      "Ревин Игорь Алексеевич": 22,
-      "Чесалин Михаил Юрьевич": 14
+      "gas:candidate-vibid:2392000496818": 80,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 36,
+      "gas:candidate-vibid:2392000536164": 30,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 21,
+      "gas:candidate-vibid:2392000547764": 257,
+      "gas:candidate-vibid:2392000498112": 22,
+      "gas:candidate-vibid:2392000544635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475041&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475041&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 23,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 11,
-      "Новик Дмитрий Александрович": 2,
-      "Орлов Александр Сергеевич": 5,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 43,
-      "Ревин Игорь Алексеевич": 20,
-      "Чесалин Михаил Юрьевич": 14
+      "gas:candidate-vibid:2392000496818": 23,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 11,
+      "gas:candidate-vibid:2392000536164": 2,
+      "gas:candidate-vibid:2392000544668": 5,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 43,
+      "gas:candidate-vibid:2392000498112": 20,
+      "gas:candidate-vibid:2392000544635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 77,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 22,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 9,
-      "Потапенко Дмитрий Валерьевич": 7,
-      "Пятикоп Александр Иванович": 119,
-      "Ревин Игорь Алексеевич": 34,
-      "Чесалин Михаил Юрьевич": 16
+      "gas:candidate-vibid:2392000496818": 77,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 22,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 9,
+      "gas:candidate-vibid:2392000544697": 7,
+      "gas:candidate-vibid:2392000547764": 119,
+      "gas:candidate-vibid:2392000498112": 34,
+      "gas:candidate-vibid:2392000544635": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 18,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 14,
-      "Новик Дмитрий Александрович": 2,
-      "Орлов Александр Сергеевич": 12,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 32,
-      "Ревин Игорь Алексеевич": 14,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 18,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 14,
+      "gas:candidate-vibid:2392000536164": 2,
+      "gas:candidate-vibid:2392000544668": 12,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 32,
+      "gas:candidate-vibid:2392000498112": 14,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 151,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 86,
-      "Новик Дмитрий Александрович": 31,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 43,
-      "Пятикоп Александр Иванович": 248,
-      "Ревин Игорь Алексеевич": 122,
-      "Чесалин Михаил Юрьевич": 76
+      "gas:candidate-vibid:2392000496818": 151,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 86,
+      "gas:candidate-vibid:2392000536164": 31,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 43,
+      "gas:candidate-vibid:2392000547764": 248,
+      "gas:candidate-vibid:2392000498112": 122,
+      "gas:candidate-vibid:2392000544635": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 80,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 59,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 29,
-      "Потапенко Дмитрий Валерьевич": 44,
-      "Пятикоп Александр Иванович": 180,
-      "Ревин Игорь Алексеевич": 153,
-      "Чесалин Михаил Юрьевич": 106
+      "gas:candidate-vibid:2392000496818": 80,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 59,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 29,
+      "gas:candidate-vibid:2392000544697": 44,
+      "gas:candidate-vibid:2392000547764": 180,
+      "gas:candidate-vibid:2392000498112": 153,
+      "gas:candidate-vibid:2392000544635": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 67,
-      "Гончаров Виталий Анатольевич": 19,
-      "Масянова Наталья Николаевна": 58,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 177,
-      "Ревин Игорь Алексеевич": 100,
-      "Чесалин Михаил Юрьевич": 51
+      "gas:candidate-vibid:2392000496818": 67,
+      "gas:candidate-vibid:2392000544683": 19,
+      "gas:candidate-vibid:2392000500912": 58,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 177,
+      "gas:candidate-vibid:2392000498112": 100,
+      "gas:candidate-vibid:2392000544635": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 88,
-      "Гончаров Виталий Анатольевич": 30,
-      "Масянова Наталья Николаевна": 74,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 45,
-      "Пятикоп Александр Иванович": 163,
-      "Ревин Игорь Алексеевич": 142,
-      "Чесалин Михаил Юрьевич": 66
+      "gas:candidate-vibid:2392000496818": 88,
+      "gas:candidate-vibid:2392000544683": 30,
+      "gas:candidate-vibid:2392000500912": 74,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 45,
+      "gas:candidate-vibid:2392000547764": 163,
+      "gas:candidate-vibid:2392000498112": 142,
+      "gas:candidate-vibid:2392000544635": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 144,
-      "Гончаров Виталий Анатольевич": 28,
-      "Масянова Наталья Николаевна": 67,
-      "Новик Дмитрий Александрович": 33,
-      "Орлов Александр Сергеевич": 39,
-      "Потапенко Дмитрий Валерьевич": 48,
-      "Пятикоп Александр Иванович": 308,
-      "Ревин Игорь Алексеевич": 179,
-      "Чесалин Михаил Юрьевич": 74
+      "gas:candidate-vibid:2392000496818": 144,
+      "gas:candidate-vibid:2392000544683": 28,
+      "gas:candidate-vibid:2392000500912": 67,
+      "gas:candidate-vibid:2392000536164": 33,
+      "gas:candidate-vibid:2392000544668": 39,
+      "gas:candidate-vibid:2392000544697": 48,
+      "gas:candidate-vibid:2392000547764": 308,
+      "gas:candidate-vibid:2392000498112": 179,
+      "gas:candidate-vibid:2392000544635": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 152,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 87,
-      "Новик Дмитрий Александрович": 30,
-      "Орлов Александр Сергеевич": 45,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 290,
-      "Ревин Игорь Алексеевич": 128,
-      "Чесалин Михаил Юрьевич": 66
+      "gas:candidate-vibid:2392000496818": 152,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 87,
+      "gas:candidate-vibid:2392000536164": 30,
+      "gas:candidate-vibid:2392000544668": 45,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 290,
+      "gas:candidate-vibid:2392000498112": 128,
+      "gas:candidate-vibid:2392000544635": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 128,
-      "Гончаров Виталий Анатольевич": 22,
-      "Масянова Наталья Николаевна": 84,
-      "Новик Дмитрий Александрович": 37,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 273,
-      "Ревин Игорь Алексеевич": 148,
-      "Чесалин Михаил Юрьевич": 61
+      "gas:candidate-vibid:2392000496818": 128,
+      "gas:candidate-vibid:2392000544683": 22,
+      "gas:candidate-vibid:2392000500912": 84,
+      "gas:candidate-vibid:2392000536164": 37,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 273,
+      "gas:candidate-vibid:2392000498112": 148,
+      "gas:candidate-vibid:2392000544635": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 113,
-      "Гончаров Виталий Анатольевич": 19,
-      "Масянова Наталья Николаевна": 69,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 41,
-      "Потапенко Дмитрий Валерьевич": 32,
-      "Пятикоп Александр Иванович": 210,
-      "Ревин Игорь Алексеевич": 101,
-      "Чесалин Михаил Юрьевич": 48
+      "gas:candidate-vibid:2392000496818": 113,
+      "gas:candidate-vibid:2392000544683": 19,
+      "gas:candidate-vibid:2392000500912": 69,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 41,
+      "gas:candidate-vibid:2392000544697": 32,
+      "gas:candidate-vibid:2392000547764": 210,
+      "gas:candidate-vibid:2392000498112": 101,
+      "gas:candidate-vibid:2392000544635": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 126,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 69,
-      "Новик Дмитрий Александрович": 28,
-      "Орлов Александр Сергеевич": 32,
-      "Потапенко Дмитрий Валерьевич": 26,
-      "Пятикоп Александр Иванович": 234,
-      "Ревин Игорь Алексеевич": 128,
-      "Чесалин Михаил Юрьевич": 72
+      "gas:candidate-vibid:2392000496818": 126,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 69,
+      "gas:candidate-vibid:2392000536164": 28,
+      "gas:candidate-vibid:2392000544668": 32,
+      "gas:candidate-vibid:2392000544697": 26,
+      "gas:candidate-vibid:2392000547764": 234,
+      "gas:candidate-vibid:2392000498112": 128,
+      "gas:candidate-vibid:2392000544635": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 112,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 91,
-      "Новик Дмитрий Александрович": 15,
-      "Орлов Александр Сергеевич": 31,
-      "Потапенко Дмитрий Валерьевич": 35,
-      "Пятикоп Александр Иванович": 158,
-      "Ревин Игорь Алексеевич": 135,
-      "Чесалин Михаил Юрьевич": 78
+      "gas:candidate-vibid:2392000496818": 112,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 91,
+      "gas:candidate-vibid:2392000536164": 15,
+      "gas:candidate-vibid:2392000544668": 31,
+      "gas:candidate-vibid:2392000544697": 35,
+      "gas:candidate-vibid:2392000547764": 158,
+      "gas:candidate-vibid:2392000498112": 135,
+      "gas:candidate-vibid:2392000544635": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 96,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 74,
-      "Новик Дмитрий Александрович": 27,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 36,
-      "Пятикоп Александр Иванович": 203,
-      "Ревин Игорь Алексеевич": 122,
-      "Чесалин Михаил Юрьевич": 78
+      "gas:candidate-vibid:2392000496818": 96,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 74,
+      "gas:candidate-vibid:2392000536164": 27,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 36,
+      "gas:candidate-vibid:2392000547764": 203,
+      "gas:candidate-vibid:2392000498112": 122,
+      "gas:candidate-vibid:2392000544635": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 89,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 90,
-      "Новик Дмитрий Александрович": 31,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 50,
-      "Пятикоп Александр Иванович": 237,
-      "Ревин Игорь Алексеевич": 198,
-      "Чесалин Михаил Юрьевич": 135
+      "gas:candidate-vibid:2392000496818": 89,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 90,
+      "gas:candidate-vibid:2392000536164": 31,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 50,
+      "gas:candidate-vibid:2392000547764": 237,
+      "gas:candidate-vibid:2392000498112": 198,
+      "gas:candidate-vibid:2392000544635": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 73,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 101,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 42,
-      "Потапенко Дмитрий Валерьевич": 58,
-      "Пятикоп Александр Иванович": 257,
-      "Ревин Игорь Алексеевич": 196,
-      "Чесалин Михаил Юрьевич": 129
+      "gas:candidate-vibid:2392000496818": 73,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 101,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 42,
+      "gas:candidate-vibid:2392000544697": 58,
+      "gas:candidate-vibid:2392000547764": 257,
+      "gas:candidate-vibid:2392000498112": 196,
+      "gas:candidate-vibid:2392000544635": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 93,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 88,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 39,
-      "Потапенко Дмитрий Валерьевич": 57,
-      "Пятикоп Александр Иванович": 216,
-      "Ревин Игорь Алексеевич": 172,
-      "Чесалин Михаил Юрьевич": 149
+      "gas:candidate-vibid:2392000496818": 93,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 88,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 39,
+      "gas:candidate-vibid:2392000544697": 57,
+      "gas:candidate-vibid:2392000547764": 216,
+      "gas:candidate-vibid:2392000498112": 172,
+      "gas:candidate-vibid:2392000544635": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 85,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 76,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 40,
-      "Потапенко Дмитрий Валерьевич": 33,
-      "Пятикоп Александр Иванович": 219,
-      "Ревин Игорь Алексеевич": 145,
-      "Чесалин Михаил Юрьевич": 102
+      "gas:candidate-vibid:2392000496818": 85,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 76,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 40,
+      "gas:candidate-vibid:2392000544697": 33,
+      "gas:candidate-vibid:2392000547764": 219,
+      "gas:candidate-vibid:2392000498112": 145,
+      "gas:candidate-vibid:2392000544635": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 74,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 90,
-      "Новик Дмитрий Александрович": 28,
-      "Орлов Александр Сергеевич": 37,
-      "Потапенко Дмитрий Валерьевич": 44,
-      "Пятикоп Александр Иванович": 245,
-      "Ревин Игорь Алексеевич": 205,
-      "Чесалин Михаил Юрьевич": 100
+      "gas:candidate-vibid:2392000496818": 74,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 90,
+      "gas:candidate-vibid:2392000536164": 28,
+      "gas:candidate-vibid:2392000544668": 37,
+      "gas:candidate-vibid:2392000544697": 44,
+      "gas:candidate-vibid:2392000547764": 245,
+      "gas:candidate-vibid:2392000498112": 205,
+      "gas:candidate-vibid:2392000544635": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 106,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 81,
-      "Новик Дмитрий Александрович": 28,
-      "Орлов Александр Сергеевич": 32,
-      "Потапенко Дмитрий Валерьевич": 40,
-      "Пятикоп Александр Иванович": 211,
-      "Ревин Игорь Алексеевич": 160,
-      "Чесалин Михаил Юрьевич": 102
+      "gas:candidate-vibid:2392000496818": 106,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 81,
+      "gas:candidate-vibid:2392000536164": 28,
+      "gas:candidate-vibid:2392000544668": 32,
+      "gas:candidate-vibid:2392000544697": 40,
+      "gas:candidate-vibid:2392000547764": 211,
+      "gas:candidate-vibid:2392000498112": 160,
+      "gas:candidate-vibid:2392000544635": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 106,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 97,
-      "Новик Дмитрий Александрович": 32,
-      "Орлов Александр Сергеевич": 45,
-      "Потапенко Дмитрий Валерьевич": 50,
-      "Пятикоп Александр Иванович": 247,
-      "Ревин Игорь Алексеевич": 205,
-      "Чесалин Михаил Юрьевич": 96
+      "gas:candidate-vibid:2392000496818": 106,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 97,
+      "gas:candidate-vibid:2392000536164": 32,
+      "gas:candidate-vibid:2392000544668": 45,
+      "gas:candidate-vibid:2392000544697": 50,
+      "gas:candidate-vibid:2392000547764": 247,
+      "gas:candidate-vibid:2392000498112": 205,
+      "gas:candidate-vibid:2392000544635": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 82,
-      "Гончаров Виталий Анатольевич": 19,
-      "Масянова Наталья Николаевна": 86,
-      "Новик Дмитрий Александрович": 18,
-      "Орлов Александр Сергеевич": 42,
-      "Потапенко Дмитрий Валерьевич": 39,
-      "Пятикоп Александр Иванович": 268,
-      "Ревин Игорь Алексеевич": 195,
-      "Чесалин Михаил Юрьевич": 138
+      "gas:candidate-vibid:2392000496818": 82,
+      "gas:candidate-vibid:2392000544683": 19,
+      "gas:candidate-vibid:2392000500912": 86,
+      "gas:candidate-vibid:2392000536164": 18,
+      "gas:candidate-vibid:2392000544668": 42,
+      "gas:candidate-vibid:2392000544697": 39,
+      "gas:candidate-vibid:2392000547764": 268,
+      "gas:candidate-vibid:2392000498112": 195,
+      "gas:candidate-vibid:2392000544635": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 97,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 99,
-      "Новик Дмитрий Александрович": 18,
-      "Орлов Александр Сергеевич": 36,
-      "Потапенко Дмитрий Валерьевич": 35,
-      "Пятикоп Александр Иванович": 186,
-      "Ревин Игорь Алексеевич": 159,
-      "Чесалин Михаил Юрьевич": 90
+      "gas:candidate-vibid:2392000496818": 97,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 99,
+      "gas:candidate-vibid:2392000536164": 18,
+      "gas:candidate-vibid:2392000544668": 36,
+      "gas:candidate-vibid:2392000544697": 35,
+      "gas:candidate-vibid:2392000547764": 186,
+      "gas:candidate-vibid:2392000498112": 159,
+      "gas:candidate-vibid:2392000544635": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 92,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 88,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 36,
-      "Пятикоп Александр Иванович": 206,
-      "Ревин Игорь Алексеевич": 168,
-      "Чесалин Михаил Юрьевич": 104
+      "gas:candidate-vibid:2392000496818": 92,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 88,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 36,
+      "gas:candidate-vibid:2392000547764": 206,
+      "gas:candidate-vibid:2392000498112": 168,
+      "gas:candidate-vibid:2392000544635": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 114,
-      "Гончаров Виталий Анатольевич": 19,
-      "Масянова Наталья Николаевна": 81,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 48,
-      "Потапенко Дмитрий Валерьевич": 50,
-      "Пятикоп Александр Иванович": 207,
-      "Ревин Игорь Алексеевич": 159,
-      "Чесалин Михаил Юрьевич": 102
+      "gas:candidate-vibid:2392000496818": 114,
+      "gas:candidate-vibid:2392000544683": 19,
+      "gas:candidate-vibid:2392000500912": 81,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 48,
+      "gas:candidate-vibid:2392000544697": 50,
+      "gas:candidate-vibid:2392000547764": 207,
+      "gas:candidate-vibid:2392000498112": 159,
+      "gas:candidate-vibid:2392000544635": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 83,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 74,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 36,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 281,
-      "Ревин Игорь Алексеевич": 195,
-      "Чесалин Михаил Юрьевич": 115
+      "gas:candidate-vibid:2392000496818": 83,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 74,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 36,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 281,
+      "gas:candidate-vibid:2392000498112": 195,
+      "gas:candidate-vibid:2392000544635": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 88,
-      "Гончаров Виталий Анатольевич": 19,
-      "Масянова Наталья Николаевна": 89,
-      "Новик Дмитрий Александрович": 25,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 53,
-      "Пятикоп Александр Иванович": 315,
-      "Ревин Игорь Алексеевич": 217,
-      "Чесалин Михаил Юрьевич": 125
+      "gas:candidate-vibid:2392000496818": 88,
+      "gas:candidate-vibid:2392000544683": 19,
+      "gas:candidate-vibid:2392000500912": 89,
+      "gas:candidate-vibid:2392000536164": 25,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 53,
+      "gas:candidate-vibid:2392000547764": 315,
+      "gas:candidate-vibid:2392000498112": 217,
+      "gas:candidate-vibid:2392000544635": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 77,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 59,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 43,
-      "Пятикоп Александр Иванович": 201,
-      "Ревин Игорь Алексеевич": 123,
-      "Чесалин Михаил Юрьевич": 55
+      "gas:candidate-vibid:2392000496818": 77,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 59,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 43,
+      "gas:candidate-vibid:2392000547764": 201,
+      "gas:candidate-vibid:2392000498112": 123,
+      "gas:candidate-vibid:2392000544635": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 60,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 43,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 23,
-      "Потапенко Дмитрий Валерьевич": 41,
-      "Пятикоп Александр Иванович": 124,
-      "Ревин Игорь Алексеевич": 79,
-      "Чесалин Михаил Юрьевич": 38
+      "gas:candidate-vibid:2392000496818": 60,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 43,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 23,
+      "gas:candidate-vibid:2392000544697": 41,
+      "gas:candidate-vibid:2392000547764": 124,
+      "gas:candidate-vibid:2392000498112": 79,
+      "gas:candidate-vibid:2392000544635": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 82,
-      "Гончаров Виталий Анатольевич": 25,
-      "Масянова Наталья Николаевна": 121,
-      "Новик Дмитрий Александрович": 23,
-      "Орлов Александр Сергеевич": 50,
-      "Потапенко Дмитрий Валерьевич": 64,
-      "Пятикоп Александр Иванович": 250,
-      "Ревин Игорь Алексеевич": 187,
-      "Чесалин Михаил Юрьевич": 113
+      "gas:candidate-vibid:2392000496818": 82,
+      "gas:candidate-vibid:2392000544683": 25,
+      "gas:candidate-vibid:2392000500912": 121,
+      "gas:candidate-vibid:2392000536164": 23,
+      "gas:candidate-vibid:2392000544668": 50,
+      "gas:candidate-vibid:2392000544697": 64,
+      "gas:candidate-vibid:2392000547764": 250,
+      "gas:candidate-vibid:2392000498112": 187,
+      "gas:candidate-vibid:2392000544635": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 70,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 84,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 62,
-      "Потапенко Дмитрий Валерьевич": 65,
-      "Пятикоп Александр Иванович": 203,
-      "Ревин Игорь Алексеевич": 149,
-      "Чесалин Михаил Юрьевич": 112
+      "gas:candidate-vibid:2392000496818": 70,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 84,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 62,
+      "gas:candidate-vibid:2392000544697": 65,
+      "gas:candidate-vibid:2392000547764": 203,
+      "gas:candidate-vibid:2392000498112": 149,
+      "gas:candidate-vibid:2392000544635": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 86,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 72,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 29,
-      "Потапенко Дмитрий Валерьевич": 35,
-      "Пятикоп Александр Иванович": 162,
-      "Ревин Игорь Алексеевич": 115,
-      "Чесалин Михаил Юрьевич": 90
+      "gas:candidate-vibid:2392000496818": 86,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 72,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 29,
+      "gas:candidate-vibid:2392000544697": 35,
+      "gas:candidate-vibid:2392000547764": 162,
+      "gas:candidate-vibid:2392000498112": 115,
+      "gas:candidate-vibid:2392000544635": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 97,
-      "Гончаров Виталий Анатольевич": 25,
-      "Масянова Наталья Николаевна": 81,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 40,
-      "Потапенко Дмитрий Валерьевич": 47,
-      "Пятикоп Александр Иванович": 231,
-      "Ревин Игорь Алексеевич": 149,
-      "Чесалин Михаил Юрьевич": 88
+      "gas:candidate-vibid:2392000496818": 97,
+      "gas:candidate-vibid:2392000544683": 25,
+      "gas:candidate-vibid:2392000500912": 81,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 40,
+      "gas:candidate-vibid:2392000544697": 47,
+      "gas:candidate-vibid:2392000547764": 231,
+      "gas:candidate-vibid:2392000498112": 149,
+      "gas:candidate-vibid:2392000544635": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 80,
-      "Гончаров Виталий Анатольевич": 35,
-      "Масянова Наталья Николаевна": 95,
-      "Новик Дмитрий Александрович": 31,
-      "Орлов Александр Сергеевич": 31,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 252,
-      "Ревин Игорь Алексеевич": 194,
-      "Чесалин Михаил Юрьевич": 142
+      "gas:candidate-vibid:2392000496818": 80,
+      "gas:candidate-vibid:2392000544683": 35,
+      "gas:candidate-vibid:2392000500912": 95,
+      "gas:candidate-vibid:2392000536164": 31,
+      "gas:candidate-vibid:2392000544668": 31,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 252,
+      "gas:candidate-vibid:2392000498112": 194,
+      "gas:candidate-vibid:2392000544635": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 106,
-      "Гончаров Виталий Анатольевич": 22,
-      "Масянова Наталья Николаевна": 85,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 46,
-      "Пятикоп Александр Иванович": 210,
-      "Ревин Игорь Алексеевич": 141,
-      "Чесалин Михаил Юрьевич": 55
+      "gas:candidate-vibid:2392000496818": 106,
+      "gas:candidate-vibid:2392000544683": 22,
+      "gas:candidate-vibid:2392000500912": 85,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 46,
+      "gas:candidate-vibid:2392000547764": 210,
+      "gas:candidate-vibid:2392000498112": 141,
+      "gas:candidate-vibid:2392000544635": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 103,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 102,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 40,
-      "Потапенко Дмитрий Валерьевич": 41,
-      "Пятикоп Александр Иванович": 194,
-      "Ревин Игорь Алексеевич": 148,
-      "Чесалин Михаил Юрьевич": 72
+      "gas:candidate-vibid:2392000496818": 103,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 102,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 40,
+      "gas:candidate-vibid:2392000544697": 41,
+      "gas:candidate-vibid:2392000547764": 194,
+      "gas:candidate-vibid:2392000498112": 148,
+      "gas:candidate-vibid:2392000544635": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 130,
-      "Гончаров Виталий Анатольевич": 35,
-      "Масянова Наталья Николаевна": 119,
-      "Новик Дмитрий Александрович": 40,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 94,
-      "Пятикоп Александр Иванович": 292,
-      "Ревин Игорь Алексеевич": 195,
-      "Чесалин Михаил Юрьевич": 92
+      "gas:candidate-vibid:2392000496818": 130,
+      "gas:candidate-vibid:2392000544683": 35,
+      "gas:candidate-vibid:2392000500912": 119,
+      "gas:candidate-vibid:2392000536164": 40,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 94,
+      "gas:candidate-vibid:2392000547764": 292,
+      "gas:candidate-vibid:2392000498112": 195,
+      "gas:candidate-vibid:2392000544635": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 138,
-      "Гончаров Виталий Анатольевич": 42,
-      "Масянова Наталья Николаевна": 119,
-      "Новик Дмитрий Александрович": 38,
-      "Орлов Александр Сергеевич": 31,
-      "Потапенко Дмитрий Валерьевич": 75,
-      "Пятикоп Александр Иванович": 270,
-      "Ревин Игорь Алексеевич": 128,
-      "Чесалин Михаил Юрьевич": 98
+      "gas:candidate-vibid:2392000496818": 138,
+      "gas:candidate-vibid:2392000544683": 42,
+      "gas:candidate-vibid:2392000500912": 119,
+      "gas:candidate-vibid:2392000536164": 38,
+      "gas:candidate-vibid:2392000544668": 31,
+      "gas:candidate-vibid:2392000544697": 75,
+      "gas:candidate-vibid:2392000547764": 270,
+      "gas:candidate-vibid:2392000498112": 128,
+      "gas:candidate-vibid:2392000544635": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 153,
-      "Гончаров Виталий Анатольевич": 41,
-      "Масянова Наталья Николаевна": 115,
-      "Новик Дмитрий Александрович": 39,
-      "Орлов Александр Сергеевич": 51,
-      "Потапенко Дмитрий Валерьевич": 92,
-      "Пятикоп Александр Иванович": 292,
-      "Ревин Игорь Алексеевич": 215,
-      "Чесалин Михаил Юрьевич": 91
+      "gas:candidate-vibid:2392000496818": 153,
+      "gas:candidate-vibid:2392000544683": 41,
+      "gas:candidate-vibid:2392000500912": 115,
+      "gas:candidate-vibid:2392000536164": 39,
+      "gas:candidate-vibid:2392000544668": 51,
+      "gas:candidate-vibid:2392000544697": 92,
+      "gas:candidate-vibid:2392000547764": 292,
+      "gas:candidate-vibid:2392000498112": 215,
+      "gas:candidate-vibid:2392000544635": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 152,
-      "Гончаров Виталий Анатольевич": 33,
-      "Масянова Наталья Николаевна": 89,
-      "Новик Дмитрий Александрович": 34,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 244,
-      "Ревин Игорь Алексеевич": 125,
-      "Чесалин Михаил Юрьевич": 82
+      "gas:candidate-vibid:2392000496818": 152,
+      "gas:candidate-vibid:2392000544683": 33,
+      "gas:candidate-vibid:2392000500912": 89,
+      "gas:candidate-vibid:2392000536164": 34,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 244,
+      "gas:candidate-vibid:2392000498112": 125,
+      "gas:candidate-vibid:2392000544635": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 108,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 76,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 35,
-      "Потапенко Дмитрий Валерьевич": 51,
-      "Пятикоп Александр Иванович": 191,
-      "Ревин Игорь Алексеевич": 148,
-      "Чесалин Михаил Юрьевич": 106
+      "gas:candidate-vibid:2392000496818": 108,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 76,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 35,
+      "gas:candidate-vibid:2392000544697": 51,
+      "gas:candidate-vibid:2392000547764": 191,
+      "gas:candidate-vibid:2392000498112": 148,
+      "gas:candidate-vibid:2392000544635": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 102,
-      "Гончаров Виталий Анатольевич": 24,
-      "Масянова Наталья Николаевна": 63,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 71,
-      "Пятикоп Александр Иванович": 214,
-      "Ревин Игорь Алексеевич": 127,
-      "Чесалин Михаил Юрьевич": 80
+      "gas:candidate-vibid:2392000496818": 102,
+      "gas:candidate-vibid:2392000544683": 24,
+      "gas:candidate-vibid:2392000500912": 63,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 71,
+      "gas:candidate-vibid:2392000547764": 214,
+      "gas:candidate-vibid:2392000498112": 127,
+      "gas:candidate-vibid:2392000544635": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 95,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 75,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 35,
-      "Пятикоп Александр Иванович": 202,
-      "Ревин Игорь Алексеевич": 164,
-      "Чесалин Михаил Юрьевич": 74
+      "gas:candidate-vibid:2392000496818": 95,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 75,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 35,
+      "gas:candidate-vibid:2392000547764": 202,
+      "gas:candidate-vibid:2392000498112": 164,
+      "gas:candidate-vibid:2392000544635": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 152,
-      "Гончаров Виталий Анатольевич": 27,
-      "Масянова Наталья Николаевна": 123,
-      "Новик Дмитрий Александрович": 23,
-      "Орлов Александр Сергеевич": 49,
-      "Потапенко Дмитрий Валерьевич": 62,
-      "Пятикоп Александр Иванович": 313,
-      "Ревин Игорь Алексеевич": 175,
-      "Чесалин Михаил Юрьевич": 69
+      "gas:candidate-vibid:2392000496818": 152,
+      "gas:candidate-vibid:2392000544683": 27,
+      "gas:candidate-vibid:2392000500912": 123,
+      "gas:candidate-vibid:2392000536164": 23,
+      "gas:candidate-vibid:2392000544668": 49,
+      "gas:candidate-vibid:2392000544697": 62,
+      "gas:candidate-vibid:2392000547764": 313,
+      "gas:candidate-vibid:2392000498112": 175,
+      "gas:candidate-vibid:2392000544635": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 165,
-      "Гончаров Виталий Анатольевич": 29,
-      "Масянова Наталья Николаевна": 129,
-      "Новик Дмитрий Александрович": 35,
-      "Орлов Александр Сергеевич": 44,
-      "Потапенко Дмитрий Валерьевич": 83,
-      "Пятикоп Александр Иванович": 269,
-      "Ревин Игорь Алексеевич": 149,
-      "Чесалин Михаил Юрьевич": 98
+      "gas:candidate-vibid:2392000496818": 165,
+      "gas:candidate-vibid:2392000544683": 29,
+      "gas:candidate-vibid:2392000500912": 129,
+      "gas:candidate-vibid:2392000536164": 35,
+      "gas:candidate-vibid:2392000544668": 44,
+      "gas:candidate-vibid:2392000544697": 83,
+      "gas:candidate-vibid:2392000547764": 269,
+      "gas:candidate-vibid:2392000498112": 149,
+      "gas:candidate-vibid:2392000544635": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 147,
-      "Гончаров Виталий Анатольевич": 26,
-      "Масянова Наталья Николаевна": 85,
-      "Новик Дмитрий Александрович": 27,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 47,
-      "Пятикоп Александр Иванович": 240,
-      "Ревин Игорь Алексеевич": 133,
-      "Чесалин Михаил Юрьевич": 80
+      "gas:candidate-vibid:2392000496818": 147,
+      "gas:candidate-vibid:2392000544683": 26,
+      "gas:candidate-vibid:2392000500912": 85,
+      "gas:candidate-vibid:2392000536164": 27,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 47,
+      "gas:candidate-vibid:2392000547764": 240,
+      "gas:candidate-vibid:2392000498112": 133,
+      "gas:candidate-vibid:2392000544635": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 93,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 71,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 40,
-      "Пятикоп Александр Иванович": 184,
-      "Ревин Игорь Алексеевич": 116,
-      "Чесалин Михаил Юрьевич": 69
+      "gas:candidate-vibid:2392000496818": 93,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 71,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 40,
+      "gas:candidate-vibid:2392000547764": 184,
+      "gas:candidate-vibid:2392000498112": 116,
+      "gas:candidate-vibid:2392000544635": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 75,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 58,
-      "Новик Дмитрий Александрович": 28,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 50,
-      "Пятикоп Александр Иванович": 154,
-      "Ревин Игорь Алексеевич": 102,
-      "Чесалин Михаил Юрьевич": 58
+      "gas:candidate-vibid:2392000496818": 75,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 58,
+      "gas:candidate-vibid:2392000536164": 28,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 50,
+      "gas:candidate-vibid:2392000547764": 154,
+      "gas:candidate-vibid:2392000498112": 102,
+      "gas:candidate-vibid:2392000544635": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 136,
-      "Гончаров Виталий Анатольевич": 25,
-      "Масянова Наталья Николаевна": 61,
-      "Новик Дмитрий Александрович": 42,
-      "Орлов Александр Сергеевич": 25,
-      "Потапенко Дмитрий Валерьевич": 44,
-      "Пятикоп Александр Иванович": 287,
-      "Ревин Игорь Алексеевич": 137,
-      "Чесалин Михаил Юрьевич": 59
+      "gas:candidate-vibid:2392000496818": 136,
+      "gas:candidate-vibid:2392000544683": 25,
+      "gas:candidate-vibid:2392000500912": 61,
+      "gas:candidate-vibid:2392000536164": 42,
+      "gas:candidate-vibid:2392000544668": 25,
+      "gas:candidate-vibid:2392000544697": 44,
+      "gas:candidate-vibid:2392000547764": 287,
+      "gas:candidate-vibid:2392000498112": 137,
+      "gas:candidate-vibid:2392000544635": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 109,
-      "Гончаров Виталий Анатольевич": 30,
-      "Масянова Наталья Николаевна": 73,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 33,
-      "Потапенко Дмитрий Валерьевич": 63,
-      "Пятикоп Александр Иванович": 222,
-      "Ревин Игорь Алексеевич": 153,
-      "Чесалин Михаил Юрьевич": 86
+      "gas:candidate-vibid:2392000496818": 109,
+      "gas:candidate-vibid:2392000544683": 30,
+      "gas:candidate-vibid:2392000500912": 73,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 33,
+      "gas:candidate-vibid:2392000544697": 63,
+      "gas:candidate-vibid:2392000547764": 222,
+      "gas:candidate-vibid:2392000498112": 153,
+      "gas:candidate-vibid:2392000544635": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 102,
-      "Гончаров Виталий Анатольевич": 26,
-      "Масянова Наталья Николаевна": 98,
-      "Новик Дмитрий Александрович": 36,
-      "Орлов Александр Сергеевич": 39,
-      "Потапенко Дмитрий Валерьевич": 107,
-      "Пятикоп Александр Иванович": 252,
-      "Ревин Игорь Алексеевич": 134,
-      "Чесалин Михаил Юрьевич": 81
+      "gas:candidate-vibid:2392000496818": 102,
+      "gas:candidate-vibid:2392000544683": 26,
+      "gas:candidate-vibid:2392000500912": 98,
+      "gas:candidate-vibid:2392000536164": 36,
+      "gas:candidate-vibid:2392000544668": 39,
+      "gas:candidate-vibid:2392000544697": 107,
+      "gas:candidate-vibid:2392000547764": 252,
+      "gas:candidate-vibid:2392000498112": 134,
+      "gas:candidate-vibid:2392000544635": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 111,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 95,
-      "Новик Дмитрий Александрович": 30,
-      "Орлов Александр Сергеевич": 49,
-      "Потапенко Дмитрий Валерьевич": 55,
-      "Пятикоп Александр Иванович": 244,
-      "Ревин Игорь Алексеевич": 144,
-      "Чесалин Михаил Юрьевич": 72
+      "gas:candidate-vibid:2392000496818": 111,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 95,
+      "gas:candidate-vibid:2392000536164": 30,
+      "gas:candidate-vibid:2392000544668": 49,
+      "gas:candidate-vibid:2392000544697": 55,
+      "gas:candidate-vibid:2392000547764": 244,
+      "gas:candidate-vibid:2392000498112": 144,
+      "gas:candidate-vibid:2392000544635": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 88,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 85,
-      "Новик Дмитрий Александрович": 34,
-      "Орлов Александр Сергеевич": 25,
-      "Потапенко Дмитрий Валерьевич": 52,
-      "Пятикоп Александр Иванович": 175,
-      "Ревин Игорь Алексеевич": 118,
-      "Чесалин Михаил Юрьевич": 46
+      "gas:candidate-vibid:2392000496818": 88,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 85,
+      "gas:candidate-vibid:2392000536164": 34,
+      "gas:candidate-vibid:2392000544668": 25,
+      "gas:candidate-vibid:2392000544697": 52,
+      "gas:candidate-vibid:2392000547764": 175,
+      "gas:candidate-vibid:2392000498112": 118,
+      "gas:candidate-vibid:2392000544635": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 108,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 86,
-      "Новик Дмитрий Александрович": 23,
-      "Орлов Александр Сергеевич": 23,
-      "Потапенко Дмитрий Валерьевич": 61,
-      "Пятикоп Александр Иванович": 242,
-      "Ревин Игорь Алексеевич": 156,
-      "Чесалин Михаил Юрьевич": 76
+      "gas:candidate-vibid:2392000496818": 108,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 86,
+      "gas:candidate-vibid:2392000536164": 23,
+      "gas:candidate-vibid:2392000544668": 23,
+      "gas:candidate-vibid:2392000544697": 61,
+      "gas:candidate-vibid:2392000547764": 242,
+      "gas:candidate-vibid:2392000498112": 156,
+      "gas:candidate-vibid:2392000544635": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 110,
-      "Гончаров Виталий Анатольевич": 27,
-      "Масянова Наталья Николаевна": 77,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 43,
-      "Пятикоп Александр Иванович": 207,
-      "Ревин Игорь Алексеевич": 100,
-      "Чесалин Михаил Юрьевич": 48
+      "gas:candidate-vibid:2392000496818": 110,
+      "gas:candidate-vibid:2392000544683": 27,
+      "gas:candidate-vibid:2392000500912": 77,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 43,
+      "gas:candidate-vibid:2392000547764": 207,
+      "gas:candidate-vibid:2392000498112": 100,
+      "gas:candidate-vibid:2392000544635": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 85,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 58,
-      "Новик Дмитрий Александрович": 18,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 39,
-      "Пятикоп Александр Иванович": 202,
-      "Ревин Игорь Алексеевич": 102,
-      "Чесалин Михаил Юрьевич": 43
+      "gas:candidate-vibid:2392000496818": 85,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 58,
+      "gas:candidate-vibid:2392000536164": 18,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 39,
+      "gas:candidate-vibid:2392000547764": 202,
+      "gas:candidate-vibid:2392000498112": 102,
+      "gas:candidate-vibid:2392000544635": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 99,
-      "Гончаров Виталий Анатольевич": 24,
-      "Масянова Наталья Николаевна": 76,
-      "Новик Дмитрий Александрович": 25,
-      "Орлов Александр Сергеевич": 36,
-      "Потапенко Дмитрий Валерьевич": 59,
-      "Пятикоп Александр Иванович": 215,
-      "Ревин Игорь Алексеевич": 129,
-      "Чесалин Михаил Юрьевич": 52
+      "gas:candidate-vibid:2392000496818": 99,
+      "gas:candidate-vibid:2392000544683": 24,
+      "gas:candidate-vibid:2392000500912": 76,
+      "gas:candidate-vibid:2392000536164": 25,
+      "gas:candidate-vibid:2392000544668": 36,
+      "gas:candidate-vibid:2392000544697": 59,
+      "gas:candidate-vibid:2392000547764": 215,
+      "gas:candidate-vibid:2392000498112": 129,
+      "gas:candidate-vibid:2392000544635": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 73,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 89,
-      "Новик Дмитрий Александрович": 27,
-      "Орлов Александр Сергеевич": 29,
-      "Потапенко Дмитрий Валерьевич": 76,
-      "Пятикоп Александр Иванович": 227,
-      "Ревин Игорь Алексеевич": 141,
-      "Чесалин Михаил Юрьевич": 61
+      "gas:candidate-vibid:2392000496818": 73,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 89,
+      "gas:candidate-vibid:2392000536164": 27,
+      "gas:candidate-vibid:2392000544668": 29,
+      "gas:candidate-vibid:2392000544697": 76,
+      "gas:candidate-vibid:2392000547764": 227,
+      "gas:candidate-vibid:2392000498112": 141,
+      "gas:candidate-vibid:2392000544635": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 138,
-      "Гончаров Виталий Анатольевич": 32,
-      "Масянова Наталья Николаевна": 144,
-      "Новик Дмитрий Александрович": 32,
-      "Орлов Александр Сергеевич": 36,
-      "Потапенко Дмитрий Валерьевич": 85,
-      "Пятикоп Александр Иванович": 326,
-      "Ревин Игорь Алексеевич": 229,
-      "Чесалин Михаил Юрьевич": 86
+      "gas:candidate-vibid:2392000496818": 138,
+      "gas:candidate-vibid:2392000544683": 32,
+      "gas:candidate-vibid:2392000500912": 144,
+      "gas:candidate-vibid:2392000536164": 32,
+      "gas:candidate-vibid:2392000544668": 36,
+      "gas:candidate-vibid:2392000544697": 85,
+      "gas:candidate-vibid:2392000547764": 326,
+      "gas:candidate-vibid:2392000498112": 229,
+      "gas:candidate-vibid:2392000544635": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 90,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 93,
-      "Новик Дмитрий Александрович": 23,
-      "Орлов Александр Сергеевич": 29,
-      "Потапенко Дмитрий Валерьевич": 30,
-      "Пятикоп Александр Иванович": 187,
-      "Ревин Игорь Алексеевич": 120,
-      "Чесалин Михаил Юрьевич": 41
+      "gas:candidate-vibid:2392000496818": 90,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 93,
+      "gas:candidate-vibid:2392000536164": 23,
+      "gas:candidate-vibid:2392000544668": 29,
+      "gas:candidate-vibid:2392000544697": 30,
+      "gas:candidate-vibid:2392000547764": 187,
+      "gas:candidate-vibid:2392000498112": 120,
+      "gas:candidate-vibid:2392000544635": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 168,
-      "Гончаров Виталий Анатольевич": 35,
-      "Масянова Наталья Николаевна": 81,
-      "Новик Дмитрий Александрович": 43,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 84,
-      "Пятикоп Александр Иванович": 328,
-      "Ревин Игорь Алексеевич": 147,
-      "Чесалин Михаил Юрьевич": 57
+      "gas:candidate-vibid:2392000496818": 168,
+      "gas:candidate-vibid:2392000544683": 35,
+      "gas:candidate-vibid:2392000500912": 81,
+      "gas:candidate-vibid:2392000536164": 43,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 84,
+      "gas:candidate-vibid:2392000547764": 328,
+      "gas:candidate-vibid:2392000498112": 147,
+      "gas:candidate-vibid:2392000544635": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 101,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 106,
-      "Новик Дмитрий Александрович": 34,
-      "Орлов Александр Сергеевич": 33,
-      "Потапенко Дмитрий Валерьевич": 50,
-      "Пятикоп Александр Иванович": 285,
-      "Ревин Игорь Алексеевич": 164,
-      "Чесалин Михаил Юрьевич": 95
+      "gas:candidate-vibid:2392000496818": 101,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 106,
+      "gas:candidate-vibid:2392000536164": 34,
+      "gas:candidate-vibid:2392000544668": 33,
+      "gas:candidate-vibid:2392000544697": 50,
+      "gas:candidate-vibid:2392000547764": 285,
+      "gas:candidate-vibid:2392000498112": 164,
+      "gas:candidate-vibid:2392000544635": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 86,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 88,
-      "Новик Дмитрий Александрович": 27,
-      "Орлов Александр Сергеевич": 31,
-      "Потапенко Дмитрий Валерьевич": 49,
-      "Пятикоп Александр Иванович": 248,
-      "Ревин Игорь Алексеевич": 141,
-      "Чесалин Михаил Юрьевич": 48
+      "gas:candidate-vibid:2392000496818": 86,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 88,
+      "gas:candidate-vibid:2392000536164": 27,
+      "gas:candidate-vibid:2392000544668": 31,
+      "gas:candidate-vibid:2392000544697": 49,
+      "gas:candidate-vibid:2392000547764": 248,
+      "gas:candidate-vibid:2392000498112": 141,
+      "gas:candidate-vibid:2392000544635": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 118,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 75,
-      "Новик Дмитрий Александрович": 18,
-      "Орлов Александр Сергеевич": 44,
-      "Потапенко Дмитрий Валерьевич": 41,
-      "Пятикоп Александр Иванович": 276,
-      "Ревин Игорь Алексеевич": 152,
-      "Чесалин Михаил Юрьевич": 62
+      "gas:candidate-vibid:2392000496818": 118,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 75,
+      "gas:candidate-vibid:2392000536164": 18,
+      "gas:candidate-vibid:2392000544668": 44,
+      "gas:candidate-vibid:2392000544697": 41,
+      "gas:candidate-vibid:2392000547764": 276,
+      "gas:candidate-vibid:2392000498112": 152,
+      "gas:candidate-vibid:2392000544635": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 171,
-      "Гончаров Виталий Анатольевич": 22,
-      "Масянова Наталья Николаевна": 90,
-      "Новик Дмитрий Александрович": 28,
-      "Орлов Александр Сергеевич": 51,
-      "Потапенко Дмитрий Валерьевич": 51,
-      "Пятикоп Александр Иванович": 346,
-      "Ревин Игорь Алексеевич": 212,
-      "Чесалин Михаил Юрьевич": 72
+      "gas:candidate-vibid:2392000496818": 171,
+      "gas:candidate-vibid:2392000544683": 22,
+      "gas:candidate-vibid:2392000500912": 90,
+      "gas:candidate-vibid:2392000536164": 28,
+      "gas:candidate-vibid:2392000544668": 51,
+      "gas:candidate-vibid:2392000544697": 51,
+      "gas:candidate-vibid:2392000547764": 346,
+      "gas:candidate-vibid:2392000498112": 212,
+      "gas:candidate-vibid:2392000544635": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 114,
-      "Гончаров Виталий Анатольевич": 32,
-      "Масянова Наталья Николаевна": 64,
-      "Новик Дмитрий Александрович": 36,
-      "Орлов Александр Сергеевич": 59,
-      "Потапенко Дмитрий Валерьевич": 55,
-      "Пятикоп Александр Иванович": 251,
-      "Ревин Игорь Алексеевич": 202,
-      "Чесалин Михаил Юрьевич": 95
+      "gas:candidate-vibid:2392000496818": 114,
+      "gas:candidate-vibid:2392000544683": 32,
+      "gas:candidate-vibid:2392000500912": 64,
+      "gas:candidate-vibid:2392000536164": 36,
+      "gas:candidate-vibid:2392000544668": 59,
+      "gas:candidate-vibid:2392000544697": 55,
+      "gas:candidate-vibid:2392000547764": 251,
+      "gas:candidate-vibid:2392000498112": 202,
+      "gas:candidate-vibid:2392000544635": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 114,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 88,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 55,
-      "Потапенко Дмитрий Валерьевич": 39,
-      "Пятикоп Александр Иванович": 314,
-      "Ревин Игорь Алексеевич": 230,
-      "Чесалин Михаил Юрьевич": 96
+      "gas:candidate-vibid:2392000496818": 114,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 88,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 55,
+      "gas:candidate-vibid:2392000544697": 39,
+      "gas:candidate-vibid:2392000547764": 314,
+      "gas:candidate-vibid:2392000498112": 230,
+      "gas:candidate-vibid:2392000544635": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 100,
-      "Гончаров Виталий Анатольевич": 22,
-      "Масянова Наталья Николаевна": 66,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 55,
-      "Потапенко Дмитрий Валерьевич": 55,
-      "Пятикоп Александр Иванович": 222,
-      "Ревин Игорь Алексеевич": 151,
-      "Чесалин Михаил Юрьевич": 70
+      "gas:candidate-vibid:2392000496818": 100,
+      "gas:candidate-vibid:2392000544683": 22,
+      "gas:candidate-vibid:2392000500912": 66,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 55,
+      "gas:candidate-vibid:2392000544697": 55,
+      "gas:candidate-vibid:2392000547764": 222,
+      "gas:candidate-vibid:2392000498112": 151,
+      "gas:candidate-vibid:2392000544635": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 180,
-      "Гончаров Виталий Анатольевич": 43,
-      "Масянова Наталья Николаевна": 98,
-      "Новик Дмитрий Александрович": 29,
-      "Орлов Александр Сергеевич": 41,
-      "Потапенко Дмитрий Валерьевич": 48,
-      "Пятикоп Александр Иванович": 386,
-      "Ревин Игорь Алексеевич": 186,
-      "Чесалин Михаил Юрьевич": 99
+      "gas:candidate-vibid:2392000496818": 180,
+      "gas:candidate-vibid:2392000544683": 43,
+      "gas:candidate-vibid:2392000500912": 98,
+      "gas:candidate-vibid:2392000536164": 29,
+      "gas:candidate-vibid:2392000544668": 41,
+      "gas:candidate-vibid:2392000544697": 48,
+      "gas:candidate-vibid:2392000547764": 386,
+      "gas:candidate-vibid:2392000498112": 186,
+      "gas:candidate-vibid:2392000544635": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 166,
-      "Гончаров Виталий Анатольевич": 25,
-      "Масянова Наталья Николаевна": 93,
-      "Новик Дмитрий Александрович": 29,
-      "Орлов Александр Сергеевич": 57,
-      "Потапенко Дмитрий Валерьевич": 38,
-      "Пятикоп Александр Иванович": 365,
-      "Ревин Игорь Алексеевич": 216,
-      "Чесалин Михаил Юрьевич": 95
+      "gas:candidate-vibid:2392000496818": 166,
+      "gas:candidate-vibid:2392000544683": 25,
+      "gas:candidate-vibid:2392000500912": 93,
+      "gas:candidate-vibid:2392000536164": 29,
+      "gas:candidate-vibid:2392000544668": 57,
+      "gas:candidate-vibid:2392000544697": 38,
+      "gas:candidate-vibid:2392000547764": 365,
+      "gas:candidate-vibid:2392000498112": 216,
+      "gas:candidate-vibid:2392000544635": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 85,
-      "Гончаров Виталий Анатольевич": 39,
-      "Масянова Наталья Николаевна": 82,
-      "Новик Дмитрий Александрович": 38,
-      "Орлов Александр Сергеевич": 24,
-      "Потапенко Дмитрий Валерьевич": 59,
-      "Пятикоп Александр Иванович": 403,
-      "Ревин Игорь Алексеевич": 59,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 85,
+      "gas:candidate-vibid:2392000544683": 39,
+      "gas:candidate-vibid:2392000500912": 82,
+      "gas:candidate-vibid:2392000536164": 38,
+      "gas:candidate-vibid:2392000544668": 24,
+      "gas:candidate-vibid:2392000544697": 59,
+      "gas:candidate-vibid:2392000547764": 403,
+      "gas:candidate-vibid:2392000498112": 59,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 54,
-      "Гончаров Виталий Анатольевич": 26,
-      "Масянова Наталья Николаевна": 45,
-      "Новик Дмитрий Александрович": 25,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 36,
-      "Пятикоп Александр Иванович": 266,
-      "Ревин Игорь Алексеевич": 29,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 54,
+      "gas:candidate-vibid:2392000544683": 26,
+      "gas:candidate-vibid:2392000500912": 45,
+      "gas:candidate-vibid:2392000536164": 25,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 36,
+      "gas:candidate-vibid:2392000547764": 266,
+      "gas:candidate-vibid:2392000498112": 29,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 60,
-      "Гончаров Виталий Анатольевич": 24,
-      "Масянова Наталья Николаевна": 59,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 50,
-      "Потапенко Дмитрий Валерьевич": 25,
-      "Пятикоп Александр Иванович": 405,
-      "Ревин Игорь Алексеевич": 109,
-      "Чесалин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2392000496818": 60,
+      "gas:candidate-vibid:2392000544683": 24,
+      "gas:candidate-vibid:2392000500912": 59,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 50,
+      "gas:candidate-vibid:2392000544697": 25,
+      "gas:candidate-vibid:2392000547764": 405,
+      "gas:candidate-vibid:2392000498112": 109,
+      "gas:candidate-vibid:2392000544635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 281,
-      "Гончаров Виталий Анатольевич": 59,
-      "Масянова Наталья Николаевна": 115,
-      "Новик Дмитрий Александрович": 72,
-      "Орлов Александр Сергеевич": 108,
-      "Потапенко Дмитрий Валерьевич": 42,
-      "Пятикоп Александр Иванович": 646,
-      "Ревин Игорь Алексеевич": 88,
-      "Чесалин Михаил Юрьевич": 27
+      "gas:candidate-vibid:2392000496818": 281,
+      "gas:candidate-vibid:2392000544683": 59,
+      "gas:candidate-vibid:2392000500912": 115,
+      "gas:candidate-vibid:2392000536164": 72,
+      "gas:candidate-vibid:2392000544668": 108,
+      "gas:candidate-vibid:2392000544697": 42,
+      "gas:candidate-vibid:2392000547764": 646,
+      "gas:candidate-vibid:2392000498112": 88,
+      "gas:candidate-vibid:2392000544635": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 154,
-      "Гончаров Виталий Анатольевич": 23,
-      "Масянова Наталья Николаевна": 55,
-      "Новик Дмитрий Александрович": 30,
-      "Орлов Александр Сергеевич": 45,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 278,
-      "Ревин Игорь Алексеевич": 41,
-      "Чесалин Михаил Юрьевич": 17
+      "gas:candidate-vibid:2392000496818": 154,
+      "gas:candidate-vibid:2392000544683": 23,
+      "gas:candidate-vibid:2392000500912": 55,
+      "gas:candidate-vibid:2392000536164": 30,
+      "gas:candidate-vibid:2392000544668": 45,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 278,
+      "gas:candidate-vibid:2392000498112": 41,
+      "gas:candidate-vibid:2392000544635": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 79,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 57,
-      "Новик Дмитрий Александрович": 32,
-      "Орлов Александр Сергеевич": 39,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 301,
-      "Ревин Игорь Алексеевич": 37,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 79,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 57,
+      "gas:candidate-vibid:2392000536164": 32,
+      "gas:candidate-vibid:2392000544668": 39,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 301,
+      "gas:candidate-vibid:2392000498112": 37,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 5,
-      "Гончаров Виталий Анатольевич": 1,
-      "Масянова Наталья Николаевна": 2,
-      "Новик Дмитрий Александрович": 1,
-      "Орлов Александр Сергеевич": 2,
-      "Потапенко Дмитрий Валерьевич": 0,
-      "Пятикоп Александр Иванович": 366,
-      "Ревин Игорь Алексеевич": 3,
-      "Чесалин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2392000496818": 5,
+      "gas:candidate-vibid:2392000544683": 1,
+      "gas:candidate-vibid:2392000500912": 2,
+      "gas:candidate-vibid:2392000536164": 1,
+      "gas:candidate-vibid:2392000544668": 2,
+      "gas:candidate-vibid:2392000544697": 0,
+      "gas:candidate-vibid:2392000547764": 366,
+      "gas:candidate-vibid:2392000498112": 3,
+      "gas:candidate-vibid:2392000544635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 24,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 24,
-      "Новик Дмитрий Александрович": 15,
-      "Орлов Александр Сергеевич": 23,
-      "Потапенко Дмитрий Валерьевич": 10,
-      "Пятикоп Александр Иванович": 256,
-      "Ревин Игорь Алексеевич": 38,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 24,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 24,
+      "gas:candidate-vibid:2392000536164": 15,
+      "gas:candidate-vibid:2392000544668": 23,
+      "gas:candidate-vibid:2392000544697": 10,
+      "gas:candidate-vibid:2392000547764": 256,
+      "gas:candidate-vibid:2392000498112": 38,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475042&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475042&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 154,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 76,
-      "Новик Дмитрий Александрович": 29,
-      "Орлов Александр Сергеевич": 65,
-      "Потапенко Дмитрий Валерьевич": 35,
-      "Пятикоп Александр Иванович": 360,
-      "Ревин Игорь Алексеевич": 102,
-      "Чесалин Михаил Юрьевич": 26
+      "gas:candidate-vibid:2392000496818": 154,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 76,
+      "gas:candidate-vibid:2392000536164": 29,
+      "gas:candidate-vibid:2392000544668": 65,
+      "gas:candidate-vibid:2392000544697": 35,
+      "gas:candidate-vibid:2392000547764": 360,
+      "gas:candidate-vibid:2392000498112": 102,
+      "gas:candidate-vibid:2392000544635": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 62,
-      "Гончаров Виталий Анатольевич": 24,
-      "Масянова Наталья Николаевна": 48,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 44,
-      "Потапенко Дмитрий Валерьевич": 20,
-      "Пятикоп Александр Иванович": 155,
-      "Ревин Игорь Алексеевич": 71,
-      "Чесалин Михаил Юрьевич": 16
+      "gas:candidate-vibid:2392000496818": 62,
+      "gas:candidate-vibid:2392000544683": 24,
+      "gas:candidate-vibid:2392000500912": 48,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 44,
+      "gas:candidate-vibid:2392000544697": 20,
+      "gas:candidate-vibid:2392000547764": 155,
+      "gas:candidate-vibid:2392000498112": 71,
+      "gas:candidate-vibid:2392000544635": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 28,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 10,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 12,
-      "Пятикоп Александр Иванович": 260,
-      "Ревин Игорь Алексеевич": 20,
-      "Чесалин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2392000496818": 28,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 10,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 12,
+      "gas:candidate-vibid:2392000547764": 260,
+      "gas:candidate-vibid:2392000498112": 20,
+      "gas:candidate-vibid:2392000544635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 46,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 179,
-      "Ревин Игорь Алексеевич": 14,
-      "Чесалин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2392000496818": 46,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 179,
+      "gas:candidate-vibid:2392000498112": 14,
+      "gas:candidate-vibid:2392000544635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 19,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 10,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 48,
-      "Ревин Игорь Алексеевич": 28,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 19,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 10,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 48,
+      "gas:candidate-vibid:2392000498112": 28,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 16,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 48,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 78,
-      "Ревин Игорь Алексеевич": 12,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 16,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 48,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 78,
+      "gas:candidate-vibid:2392000498112": 12,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 20,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 8,
-      "Пятикоп Александр Иванович": 96,
-      "Ревин Игорь Алексеевич": 15,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 20,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 8,
+      "gas:candidate-vibid:2392000547764": 96,
+      "gas:candidate-vibid:2392000498112": 15,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 27,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 10,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 71,
-      "Ревин Игорь Алексеевич": 20,
-      "Чесалин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2392000496818": 27,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 10,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 71,
+      "gas:candidate-vibid:2392000498112": 20,
+      "gas:candidate-vibid:2392000544635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 81,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 41,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 30,
-      "Потапенко Дмитрий Валерьевич": 9,
-      "Пятикоп Александр Иванович": 224,
-      "Ревин Игорь Алексеевич": 35,
-      "Чесалин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2392000496818": 81,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 41,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 30,
+      "gas:candidate-vibid:2392000544697": 9,
+      "gas:candidate-vibid:2392000547764": 224,
+      "gas:candidate-vibid:2392000498112": 35,
+      "gas:candidate-vibid:2392000544635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 32,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 14,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 90,
-      "Ревин Игорь Алексеевич": 66,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 32,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 14,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 90,
+      "gas:candidate-vibid:2392000498112": 66,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 35,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 106,
-      "Ревин Игорь Алексеевич": 22,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 35,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 106,
+      "gas:candidate-vibid:2392000498112": 22,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 35,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 11,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 5,
-      "Пятикоп Александр Иванович": 175,
-      "Ревин Игорь Алексеевич": 21,
-      "Чесалин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2392000496818": 35,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 11,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 5,
+      "gas:candidate-vibid:2392000547764": 175,
+      "gas:candidate-vibid:2392000498112": 21,
+      "gas:candidate-vibid:2392000544635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 22,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 20,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 11,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 124,
-      "Ревин Игорь Алексеевич": 23,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 22,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 20,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 11,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 124,
+      "gas:candidate-vibid:2392000498112": 23,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475043&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475043&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 84,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 29,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 12,
-      "Пятикоп Александр Иванович": 197,
-      "Ревин Игорь Алексеевич": 74,
-      "Чесалин Михаил Юрьевич": 14
+      "gas:candidate-vibid:2392000496818": 84,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 29,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 12,
+      "gas:candidate-vibid:2392000547764": 197,
+      "gas:candidate-vibid:2392000498112": 74,
+      "gas:candidate-vibid:2392000544635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 49,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 29,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 0,
-      "Пятикоп Александр Иванович": 225,
-      "Ревин Игорь Алексеевич": 29,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 49,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 29,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 0,
+      "gas:candidate-vibid:2392000547764": 225,
+      "gas:candidate-vibid:2392000498112": 29,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 72,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 53,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 22,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 463,
-      "Ревин Игорь Алексеевич": 52,
-      "Чесалин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2392000496818": 72,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 53,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 22,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 463,
+      "gas:candidate-vibid:2392000498112": 52,
+      "gas:candidate-vibid:2392000544635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 104,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 35,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 10,
-      "Пятикоп Александр Иванович": 127,
-      "Ревин Игорь Алексеевич": 52,
-      "Чесалин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2392000496818": 104,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 35,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 10,
+      "gas:candidate-vibid:2392000547764": 127,
+      "gas:candidate-vibid:2392000498112": 52,
+      "gas:candidate-vibid:2392000544635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 70,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 34,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 37,
-      "Потапенко Дмитрий Валерьевич": 18,
-      "Пятикоп Александр Иванович": 209,
-      "Ревин Игорь Алексеевич": 80,
-      "Чесалин Михаил Юрьевич": 22
+      "gas:candidate-vibid:2392000496818": 70,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 34,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 37,
+      "gas:candidate-vibid:2392000544697": 18,
+      "gas:candidate-vibid:2392000547764": 209,
+      "gas:candidate-vibid:2392000498112": 80,
+      "gas:candidate-vibid:2392000544635": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 66,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 38,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 5,
-      "Пятикоп Александр Иванович": 197,
-      "Ревин Игорь Алексеевич": 47,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 66,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 38,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 5,
+      "gas:candidate-vibid:2392000547764": 197,
+      "gas:candidate-vibid:2392000498112": 47,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 63,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 50,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 47,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 304,
-      "Ревин Игорь Алексеевич": 44,
-      "Чесалин Михаил Юрьевич": 13
+      "gas:candidate-vibid:2392000496818": 63,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 50,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 47,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 304,
+      "gas:candidate-vibid:2392000498112": 44,
+      "gas:candidate-vibid:2392000544635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 109,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 42,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 10,
-      "Пятикоп Александр Иванович": 182,
-      "Ревин Игорь Алексеевич": 22,
-      "Чесалин Михаил Юрьевич": 12
+      "gas:candidate-vibid:2392000496818": 109,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 42,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 10,
+      "gas:candidate-vibid:2392000547764": 182,
+      "gas:candidate-vibid:2392000498112": 22,
+      "gas:candidate-vibid:2392000544635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 85,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 31,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 405,
-      "Ревин Игорь Алексеевич": 37,
-      "Чесалин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2392000496818": 85,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 31,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 405,
+      "gas:candidate-vibid:2392000498112": 37,
+      "gas:candidate-vibid:2392000544635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 37,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 18,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 9,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 203,
-      "Ревин Игорь Алексеевич": 18,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 37,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 18,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 9,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 203,
+      "gas:candidate-vibid:2392000498112": 18,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 30,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 4,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 6,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 170,
-      "Ревин Игорь Алексеевич": 6,
-      "Чесалин Михаил Юрьевич": 4
+      "gas:candidate-vibid:2392000496818": 30,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 4,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 6,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 170,
+      "gas:candidate-vibid:2392000498112": 6,
+      "gas:candidate-vibid:2392000544635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 41,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 19,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 7,
-      "Пятикоп Александр Иванович": 169,
-      "Ревин Игорь Алексеевич": 19,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 41,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 19,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 7,
+      "gas:candidate-vibid:2392000547764": 169,
+      "gas:candidate-vibid:2392000498112": 19,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 48,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 13,
-      "Потапенко Дмитрий Валерьевич": 9,
-      "Пятикоп Александр Иванович": 245,
-      "Ревин Игорь Алексеевич": 19,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 48,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 13,
+      "gas:candidate-vibid:2392000544697": 9,
+      "gas:candidate-vibid:2392000547764": 245,
+      "gas:candidate-vibid:2392000498112": 19,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 30,
-      "Гончаров Виталий Анатольевич": 0,
-      "Масянова Наталья Николаевна": 9,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 3,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 152,
-      "Ревин Игорь Алексеевич": 5,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 30,
+      "gas:candidate-vibid:2392000544683": 0,
+      "gas:candidate-vibid:2392000500912": 9,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 3,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 152,
+      "gas:candidate-vibid:2392000498112": 5,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 61,
-      "Гончаров Виталий Анатольевич": 1,
-      "Масянова Наталья Николаевна": 20,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 12,
-      "Потапенко Дмитрий Валерьевич": 12,
-      "Пятикоп Александр Иванович": 326,
-      "Ревин Игорь Алексеевич": 21,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 61,
+      "gas:candidate-vibid:2392000544683": 1,
+      "gas:candidate-vibid:2392000500912": 20,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 12,
+      "gas:candidate-vibid:2392000544697": 12,
+      "gas:candidate-vibid:2392000547764": 326,
+      "gas:candidate-vibid:2392000498112": 21,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 45,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 12,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 5,
-      "Пятикоп Александр Иванович": 151,
-      "Ревин Игорь Алексеевич": 17,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 45,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 12,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 5,
+      "gas:candidate-vibid:2392000547764": 151,
+      "gas:candidate-vibid:2392000498112": 17,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 39,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 18,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 8,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 191,
-      "Ревин Игорь Алексеевич": 5,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 39,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 18,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 8,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 191,
+      "gas:candidate-vibid:2392000498112": 5,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 141,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 40,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 15,
-      "Пятикоп Александр Иванович": 131,
-      "Ревин Игорь Алексеевич": 41,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 141,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 40,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 15,
+      "gas:candidate-vibid:2392000547764": 131,
+      "gas:candidate-vibid:2392000498112": 41,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 49,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 38,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 17,
-      "Потапенко Дмитрий Валерьевич": 8,
-      "Пятикоп Александр Иванович": 159,
-      "Ревин Игорь Алексеевич": 17,
-      "Чесалин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2392000496818": 49,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 38,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 17,
+      "gas:candidate-vibid:2392000544697": 8,
+      "gas:candidate-vibid:2392000547764": 159,
+      "gas:candidate-vibid:2392000498112": 17,
+      "gas:candidate-vibid:2392000544635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 21,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 10,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 12,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 156,
-      "Ревин Игорь Алексеевич": 5,
-      "Чесалин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2392000496818": 21,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 10,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 12,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 156,
+      "gas:candidate-vibid:2392000498112": 5,
+      "gas:candidate-vibid:2392000544635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475044&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475044&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 193,
-      "Гончаров Виталий Анатольевич": 45,
-      "Масянова Наталья Николаевна": 85,
-      "Новик Дмитрий Александрович": 57,
-      "Орлов Александр Сергеевич": 65,
-      "Потапенко Дмитрий Валерьевич": 43,
-      "Пятикоп Александр Иванович": 577,
-      "Ревин Игорь Алексеевич": 257,
-      "Чесалин Михаил Юрьевич": 93
+      "gas:candidate-vibid:2392000496818": 193,
+      "gas:candidate-vibid:2392000544683": 45,
+      "gas:candidate-vibid:2392000500912": 85,
+      "gas:candidate-vibid:2392000536164": 57,
+      "gas:candidate-vibid:2392000544668": 65,
+      "gas:candidate-vibid:2392000544697": 43,
+      "gas:candidate-vibid:2392000547764": 577,
+      "gas:candidate-vibid:2392000498112": 257,
+      "gas:candidate-vibid:2392000544635": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 70,
-      "Гончаров Виталий Анатольевич": 19,
-      "Масянова Наталья Николаевна": 40,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 19,
-      "Потапенко Дмитрий Валерьевич": 25,
-      "Пятикоп Александр Иванович": 201,
-      "Ревин Игорь Алексеевич": 132,
-      "Чесалин Михаил Юрьевич": 45
+      "gas:candidate-vibid:2392000496818": 70,
+      "gas:candidate-vibid:2392000544683": 19,
+      "gas:candidate-vibid:2392000500912": 40,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 19,
+      "gas:candidate-vibid:2392000544697": 25,
+      "gas:candidate-vibid:2392000547764": 201,
+      "gas:candidate-vibid:2392000498112": 132,
+      "gas:candidate-vibid:2392000544635": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 74,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 42,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 26,
-      "Пятикоп Александр Иванович": 297,
-      "Ревин Игорь Алексеевич": 130,
-      "Чесалин Михаил Юрьевич": 40
+      "gas:candidate-vibid:2392000496818": 74,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 42,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 26,
+      "gas:candidate-vibid:2392000547764": 297,
+      "gas:candidate-vibid:2392000498112": 130,
+      "gas:candidate-vibid:2392000544635": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 93,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 44,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 262,
-      "Ревин Игорь Алексеевич": 124,
-      "Чесалин Михаил Юрьевич": 38
+      "gas:candidate-vibid:2392000496818": 93,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 44,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 262,
+      "gas:candidate-vibid:2392000498112": 124,
+      "gas:candidate-vibid:2392000544635": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 68,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 34,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 23,
-      "Потапенко Дмитрий Валерьевич": 15,
-      "Пятикоп Александр Иванович": 263,
-      "Ревин Игорь Алексеевич": 123,
-      "Чесалин Михаил Юрьевич": 47
+      "gas:candidate-vibid:2392000496818": 68,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 34,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 23,
+      "gas:candidate-vibid:2392000544697": 15,
+      "gas:candidate-vibid:2392000547764": 263,
+      "gas:candidate-vibid:2392000498112": 123,
+      "gas:candidate-vibid:2392000544635": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 71,
-      "Гончаров Виталий Анатольевич": 12,
-      "Масянова Наталья Николаевна": 44,
-      "Новик Дмитрий Александрович": 11,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 25,
-      "Пятикоп Александр Иванович": 304,
-      "Ревин Игорь Алексеевич": 115,
-      "Чесалин Михаил Юрьевич": 54
+      "gas:candidate-vibid:2392000496818": 71,
+      "gas:candidate-vibid:2392000544683": 12,
+      "gas:candidate-vibid:2392000500912": 44,
+      "gas:candidate-vibid:2392000536164": 11,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 25,
+      "gas:candidate-vibid:2392000547764": 304,
+      "gas:candidate-vibid:2392000498112": 115,
+      "gas:candidate-vibid:2392000544635": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 26,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 10,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 7,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 106,
-      "Ревин Игорь Алексеевич": 32,
-      "Чесалин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2392000496818": 26,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 10,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 7,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 106,
+      "gas:candidate-vibid:2392000498112": 32,
+      "gas:candidate-vibid:2392000544635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 21,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 10,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 8,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 132,
-      "Ревин Игорь Алексеевич": 31,
-      "Чесалин Михаил Юрьевич": 2
+      "gas:candidate-vibid:2392000496818": 21,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 10,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 8,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 132,
+      "gas:candidate-vibid:2392000498112": 31,
+      "gas:candidate-vibid:2392000544635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475045&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475045&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 104,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 88,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 53,
-      "Потапенко Дмитрий Валерьевич": 23,
-      "Пятикоп Александр Иванович": 464,
-      "Ревин Игорь Алексеевич": 93,
-      "Чесалин Михаил Юрьевич": 63
+      "gas:candidate-vibid:2392000496818": 104,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 88,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 53,
+      "gas:candidate-vibid:2392000544697": 23,
+      "gas:candidate-vibid:2392000547764": 464,
+      "gas:candidate-vibid:2392000498112": 93,
+      "gas:candidate-vibid:2392000544635": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 90,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 54,
-      "Новик Дмитрий Александрович": 16,
-      "Орлов Александр Сергеевич": 40,
-      "Потапенко Дмитрий Валерьевич": 20,
-      "Пятикоп Александр Иванович": 350,
-      "Ревин Игорь Алексеевич": 104,
-      "Чесалин Михаил Юрьевич": 53
+      "gas:candidate-vibid:2392000496818": 90,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 54,
+      "gas:candidate-vibid:2392000536164": 16,
+      "gas:candidate-vibid:2392000544668": 40,
+      "gas:candidate-vibid:2392000544697": 20,
+      "gas:candidate-vibid:2392000547764": 350,
+      "gas:candidate-vibid:2392000498112": 104,
+      "gas:candidate-vibid:2392000544635": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 78,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 50,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 32,
-      "Потапенко Дмитрий Валерьевич": 18,
-      "Пятикоп Александр Иванович": 311,
-      "Ревин Игорь Алексеевич": 96,
-      "Чесалин Михаил Юрьевич": 61
+      "gas:candidate-vibid:2392000496818": 78,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 50,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 32,
+      "gas:candidate-vibid:2392000544697": 18,
+      "gas:candidate-vibid:2392000547764": 311,
+      "gas:candidate-vibid:2392000498112": 96,
+      "gas:candidate-vibid:2392000544635": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 51,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 40,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 28,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 237,
-      "Ревин Игорь Алексеевич": 54,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 51,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 40,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 28,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 237,
+      "gas:candidate-vibid:2392000498112": 54,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 20,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 12,
-      "Новик Дмитрий Александрович": 2,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 101,
-      "Ревин Игорь Алексеевич": 17,
-      "Чесалин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2392000496818": 20,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 12,
+      "gas:candidate-vibid:2392000536164": 2,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 101,
+      "gas:candidate-vibid:2392000498112": 17,
+      "gas:candidate-vibid:2392000544635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 34,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 23,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 18,
-      "Потапенко Дмитрий Валерьевич": 0,
-      "Пятикоп Александр Иванович": 150,
-      "Ревин Игорь Алексеевич": 31,
-      "Чесалин Михаил Юрьевич": 7
+      "gas:candidate-vibid:2392000496818": 34,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 23,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 18,
+      "gas:candidate-vibid:2392000544697": 0,
+      "gas:candidate-vibid:2392000547764": 150,
+      "gas:candidate-vibid:2392000498112": 31,
+      "gas:candidate-vibid:2392000544635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 19,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 11,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 119,
-      "Ревин Игорь Алексеевич": 15,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 19,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 11,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 119,
+      "gas:candidate-vibid:2392000498112": 15,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 59,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 19,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 31,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 138,
-      "Ревин Игорь Алексеевич": 77,
-      "Чесалин Михаил Юрьевич": 27
+      "gas:candidate-vibid:2392000496818": 59,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 19,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 31,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 138,
+      "gas:candidate-vibid:2392000498112": 77,
+      "gas:candidate-vibid:2392000544635": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 23,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 8,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 2,
-      "Потапенко Дмитрий Валерьевич": 3,
-      "Пятикоп Александр Иванович": 70,
-      "Ревин Игорь Алексеевич": 23,
-      "Чесалин Михаил Юрьевич": 10
+      "gas:candidate-vibid:2392000496818": 23,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 8,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 2,
+      "gas:candidate-vibid:2392000544697": 3,
+      "gas:candidate-vibid:2392000547764": 70,
+      "gas:candidate-vibid:2392000498112": 23,
+      "gas:candidate-vibid:2392000544635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 47,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 18,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 127,
-      "Ревин Игорь Алексеевич": 29,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 47,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 18,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 127,
+      "gas:candidate-vibid:2392000498112": 29,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 16,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 20,
-      "Новик Дмитрий Александрович": 5,
-      "Орлов Александр Сергеевич": 21,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 74,
-      "Ревин Игорь Алексеевич": 28,
-      "Чесалин Михаил Юрьевич": 9
+      "gas:candidate-vibid:2392000496818": 16,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 20,
+      "gas:candidate-vibid:2392000536164": 5,
+      "gas:candidate-vibid:2392000544668": 21,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 74,
+      "gas:candidate-vibid:2392000498112": 28,
+      "gas:candidate-vibid:2392000544635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 23,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 24,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 17,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 89,
-      "Ревин Игорь Алексеевич": 30,
-      "Чесалин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2392000496818": 23,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 24,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 17,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 89,
+      "gas:candidate-vibid:2392000498112": 30,
+      "gas:candidate-vibid:2392000544635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 25,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 19,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 13,
-      "Потапенко Дмитрий Валерьевич": 9,
-      "Пятикоп Александр Иванович": 109,
-      "Ревин Игорь Алексеевич": 21,
-      "Чесалин Михаил Юрьевич": 11
+      "gas:candidate-vibid:2392000496818": 25,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 19,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 13,
+      "gas:candidate-vibid:2392000544697": 9,
+      "gas:candidate-vibid:2392000547764": 109,
+      "gas:candidate-vibid:2392000498112": 21,
+      "gas:candidate-vibid:2392000544635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 66,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 41,
-      "Новик Дмитрий Александрович": 9,
-      "Орлов Александр Сергеевич": 26,
-      "Потапенко Дмитрий Валерьевич": 13,
-      "Пятикоп Александр Иванович": 209,
-      "Ревин Игорь Алексеевич": 41,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 66,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 41,
+      "gas:candidate-vibid:2392000536164": 9,
+      "gas:candidate-vibid:2392000544668": 26,
+      "gas:candidate-vibid:2392000544697": 13,
+      "gas:candidate-vibid:2392000547764": 209,
+      "gas:candidate-vibid:2392000498112": 41,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 18,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 12,
-      "Новик Дмитрий Александрович": 2,
-      "Орлов Александр Сергеевич": 9,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 63,
-      "Ревин Игорь Алексеевич": 15,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 18,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 12,
+      "gas:candidate-vibid:2392000536164": 2,
+      "gas:candidate-vibid:2392000544668": 9,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 63,
+      "gas:candidate-vibid:2392000498112": 15,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475046&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475046&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 137,
-      "Гончаров Виталий Анатольевич": 26,
-      "Масянова Наталья Николаевна": 83,
-      "Новик Дмитрий Александрович": 29,
-      "Орлов Александр Сергеевич": 47,
-      "Потапенко Дмитрий Валерьевич": 49,
-      "Пятикоп Александр Иванович": 424,
-      "Ревин Игорь Алексеевич": 240,
-      "Чесалин Михаил Юрьевич": 74
+      "gas:candidate-vibid:2392000496818": 137,
+      "gas:candidate-vibid:2392000544683": 26,
+      "gas:candidate-vibid:2392000500912": 83,
+      "gas:candidate-vibid:2392000536164": 29,
+      "gas:candidate-vibid:2392000544668": 47,
+      "gas:candidate-vibid:2392000544697": 49,
+      "gas:candidate-vibid:2392000547764": 424,
+      "gas:candidate-vibid:2392000498112": 240,
+      "gas:candidate-vibid:2392000544635": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 102,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 76,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 24,
-      "Потапенко Дмитрий Валерьевич": 32,
-      "Пятикоп Александр Иванович": 307,
-      "Ревин Игорь Алексеевич": 122,
-      "Чесалин Михаил Юрьевич": 60
+      "gas:candidate-vibid:2392000496818": 102,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 76,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 24,
+      "gas:candidate-vibid:2392000544697": 32,
+      "gas:candidate-vibid:2392000547764": 307,
+      "gas:candidate-vibid:2392000498112": 122,
+      "gas:candidate-vibid:2392000544635": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 102,
-      "Гончаров Виталий Анатольевич": 21,
-      "Масянова Наталья Николаевна": 77,
-      "Новик Дмитрий Александрович": 36,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 56,
-      "Пятикоп Александр Иванович": 417,
-      "Ревин Игорь Алексеевич": 147,
-      "Чесалин Михаил Юрьевич": 50
+      "gas:candidate-vibid:2392000496818": 102,
+      "gas:candidate-vibid:2392000544683": 21,
+      "gas:candidate-vibid:2392000500912": 77,
+      "gas:candidate-vibid:2392000536164": 36,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 56,
+      "gas:candidate-vibid:2392000547764": 417,
+      "gas:candidate-vibid:2392000498112": 147,
+      "gas:candidate-vibid:2392000544635": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 60,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 31,
-      "Новик Дмитрий Александрович": 24,
-      "Орлов Александр Сергеевич": 23,
-      "Потапенко Дмитрий Валерьевич": 41,
-      "Пятикоп Александр Иванович": 423,
-      "Ревин Игорь Алексеевич": 47,
-      "Чесалин Михаил Юрьевич": 31
+      "gas:candidate-vibid:2392000496818": 60,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 31,
+      "gas:candidate-vibid:2392000536164": 24,
+      "gas:candidate-vibid:2392000544668": 23,
+      "gas:candidate-vibid:2392000544697": 41,
+      "gas:candidate-vibid:2392000547764": 423,
+      "gas:candidate-vibid:2392000498112": 47,
+      "gas:candidate-vibid:2392000544635": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 45,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 50,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 22,
-      "Потапенко Дмитрий Валерьевич": 23,
-      "Пятикоп Александр Иванович": 169,
-      "Ревин Игорь Алексеевич": 96,
-      "Чесалин Михаил Юрьевич": 43
+      "gas:candidate-vibid:2392000496818": 45,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 50,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 22,
+      "gas:candidate-vibid:2392000544697": 23,
+      "gas:candidate-vibid:2392000547764": 169,
+      "gas:candidate-vibid:2392000498112": 96,
+      "gas:candidate-vibid:2392000544635": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 66,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 38,
-      "Новик Дмитрий Александрович": 35,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 37,
-      "Пятикоп Александр Иванович": 383,
-      "Ревин Игорь Алексеевич": 86,
-      "Чесалин Михаил Юрьевич": 29
+      "gas:candidate-vibid:2392000496818": 66,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 38,
+      "gas:candidate-vibid:2392000536164": 35,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 37,
+      "gas:candidate-vibid:2392000547764": 383,
+      "gas:candidate-vibid:2392000498112": 86,
+      "gas:candidate-vibid:2392000544635": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 59,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 17,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 15,
-      "Потапенко Дмитрий Валерьевич": 15,
-      "Пятикоп Александр Иванович": 245,
-      "Ревин Игорь Алексеевич": 43,
-      "Чесалин Михаил Юрьевич": 15
+      "gas:candidate-vibid:2392000496818": 59,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 17,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 15,
+      "gas:candidate-vibid:2392000544697": 15,
+      "gas:candidate-vibid:2392000547764": 245,
+      "gas:candidate-vibid:2392000498112": 43,
+      "gas:candidate-vibid:2392000544635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 146,
-      "Гончаров Виталий Анатольевич": 26,
-      "Масянова Наталья Николаевна": 53,
-      "Новик Дмитрий Александрович": 29,
-      "Орлов Александр Сергеевич": 58,
-      "Потапенко Дмитрий Валерьевич": 25,
-      "Пятикоп Александр Иванович": 413,
-      "Ревин Игорь Алексеевич": 119,
-      "Чесалин Михаил Юрьевич": 42
+      "gas:candidate-vibid:2392000496818": 146,
+      "gas:candidate-vibid:2392000544683": 26,
+      "gas:candidate-vibid:2392000500912": 53,
+      "gas:candidate-vibid:2392000536164": 29,
+      "gas:candidate-vibid:2392000544668": 58,
+      "gas:candidate-vibid:2392000544697": 25,
+      "gas:candidate-vibid:2392000547764": 413,
+      "gas:candidate-vibid:2392000498112": 119,
+      "gas:candidate-vibid:2392000544635": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475047&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475047&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 125,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 61,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 37,
-      "Потапенко Дмитрий Валерьевич": 24,
-      "Пятикоп Александр Иванович": 298,
-      "Ревин Игорь Алексеевич": 98,
-      "Чесалин Михаил Юрьевич": 56
+      "gas:candidate-vibid:2392000496818": 125,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 61,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 37,
+      "gas:candidate-vibid:2392000544697": 24,
+      "gas:candidate-vibid:2392000547764": 298,
+      "gas:candidate-vibid:2392000498112": 98,
+      "gas:candidate-vibid:2392000544635": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 92,
-      "Гончаров Виталий Анатольевич": 10,
-      "Масянова Наталья Николаевна": 56,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 37,
-      "Потапенко Дмитрий Валерьевич": 19,
-      "Пятикоп Александр Иванович": 220,
-      "Ревин Игорь Алексеевич": 72,
-      "Чесалин Михаил Юрьевич": 64
+      "gas:candidate-vibid:2392000496818": 92,
+      "gas:candidate-vibid:2392000544683": 10,
+      "gas:candidate-vibid:2392000500912": 56,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 37,
+      "gas:candidate-vibid:2392000544697": 19,
+      "gas:candidate-vibid:2392000547764": 220,
+      "gas:candidate-vibid:2392000498112": 72,
+      "gas:candidate-vibid:2392000544635": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 74,
-      "Гончаров Виталий Анатольевич": 6,
-      "Масянова Наталья Николаевна": 47,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 37,
-      "Потапенко Дмитрий Валерьевич": 19,
-      "Пятикоп Александр Иванович": 178,
-      "Ревин Игорь Алексеевич": 81,
-      "Чесалин Михаил Юрьевич": 54
+      "gas:candidate-vibid:2392000496818": 74,
+      "gas:candidate-vibid:2392000544683": 6,
+      "gas:candidate-vibid:2392000500912": 47,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 37,
+      "gas:candidate-vibid:2392000544697": 19,
+      "gas:candidate-vibid:2392000547764": 178,
+      "gas:candidate-vibid:2392000498112": 81,
+      "gas:candidate-vibid:2392000544635": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 91,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 85,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 47,
-      "Потапенко Дмитрий Валерьевич": 15,
-      "Пятикоп Александр Иванович": 197,
-      "Ревин Игорь Алексеевич": 99,
-      "Чесалин Михаил Юрьевич": 52
+      "gas:candidate-vibid:2392000496818": 91,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 85,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 47,
+      "gas:candidate-vibid:2392000544697": 15,
+      "gas:candidate-vibid:2392000547764": 197,
+      "gas:candidate-vibid:2392000498112": 99,
+      "gas:candidate-vibid:2392000544635": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 117,
-      "Гончаров Виталий Анатольевич": 18,
-      "Масянова Наталья Николаевна": 62,
-      "Новик Дмитрий Александрович": 17,
-      "Орлов Александр Сергеевич": 51,
-      "Потапенко Дмитрий Валерьевич": 24,
-      "Пятикоп Александр Иванович": 261,
-      "Ревин Игорь Алексеевич": 74,
-      "Чесалин Михаил Юрьевич": 44
+      "gas:candidate-vibid:2392000496818": 117,
+      "gas:candidate-vibid:2392000544683": 18,
+      "gas:candidate-vibid:2392000500912": 62,
+      "gas:candidate-vibid:2392000536164": 17,
+      "gas:candidate-vibid:2392000544668": 51,
+      "gas:candidate-vibid:2392000544697": 24,
+      "gas:candidate-vibid:2392000547764": 261,
+      "gas:candidate-vibid:2392000498112": 74,
+      "gas:candidate-vibid:2392000544635": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 137,
-      "Гончаров Виталий Анатольевич": 3,
-      "Масянова Наталья Николаевна": 65,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 47,
-      "Потапенко Дмитрий Валерьевич": 24,
-      "Пятикоп Александр Иванович": 241,
-      "Ревин Игорь Алексеевич": 112,
-      "Чесалин Михаил Юрьевич": 70
+      "gas:candidate-vibid:2392000496818": 137,
+      "gas:candidate-vibid:2392000544683": 3,
+      "gas:candidate-vibid:2392000500912": 65,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 47,
+      "gas:candidate-vibid:2392000544697": 24,
+      "gas:candidate-vibid:2392000547764": 241,
+      "gas:candidate-vibid:2392000498112": 112,
+      "gas:candidate-vibid:2392000544635": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 86,
-      "Гончаров Виталий Анатольевич": 16,
-      "Масянова Наталья Николаевна": 64,
-      "Новик Дмитрий Александрович": 13,
-      "Орлов Александр Сергеевич": 38,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 211,
-      "Ревин Игорь Алексеевич": 50,
-      "Чесалин Михаил Юрьевич": 53
+      "gas:candidate-vibid:2392000496818": 86,
+      "gas:candidate-vibid:2392000544683": 16,
+      "gas:candidate-vibid:2392000500912": 64,
+      "gas:candidate-vibid:2392000536164": 13,
+      "gas:candidate-vibid:2392000544668": 38,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 211,
+      "gas:candidate-vibid:2392000498112": 50,
+      "gas:candidate-vibid:2392000544635": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 104,
-      "Гончаров Виталий Анатольевич": 17,
-      "Масянова Наталья Николаевна": 56,
-      "Новик Дмитрий Александрович": 21,
-      "Орлов Александр Сергеевич": 44,
-      "Потапенко Дмитрий Валерьевич": 22,
-      "Пятикоп Александр Иванович": 270,
-      "Ревин Игорь Алексеевич": 111,
-      "Чесалин Михаил Юрьевич": 56
+      "gas:candidate-vibid:2392000496818": 104,
+      "gas:candidate-vibid:2392000544683": 17,
+      "gas:candidate-vibid:2392000500912": 56,
+      "gas:candidate-vibid:2392000536164": 21,
+      "gas:candidate-vibid:2392000544668": 44,
+      "gas:candidate-vibid:2392000544697": 22,
+      "gas:candidate-vibid:2392000547764": 270,
+      "gas:candidate-vibid:2392000498112": 111,
+      "gas:candidate-vibid:2392000544635": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 83,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 53,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 30,
-      "Потапенко Дмитрий Валерьевич": 14,
-      "Пятикоп Александр Иванович": 161,
-      "Ревин Игорь Алексеевич": 82,
-      "Чесалин Михаил Юрьевич": 58
+      "gas:candidate-vibid:2392000496818": 83,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 53,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 30,
+      "gas:candidate-vibid:2392000544697": 14,
+      "gas:candidate-vibid:2392000547764": 161,
+      "gas:candidate-vibid:2392000498112": 82,
+      "gas:candidate-vibid:2392000544635": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 93,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 69,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 60,
-      "Потапенко Дмитрий Валерьевич": 36,
-      "Пятикоп Александр Иванович": 243,
-      "Ревин Игорь Алексеевич": 109,
-      "Чесалин Михаил Юрьевич": 60
+      "gas:candidate-vibid:2392000496818": 93,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 69,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 60,
+      "gas:candidate-vibid:2392000544697": 36,
+      "gas:candidate-vibid:2392000547764": 243,
+      "gas:candidate-vibid:2392000498112": 109,
+      "gas:candidate-vibid:2392000544635": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 90,
-      "Гончаров Виталий Анатольевич": 11,
-      "Масянова Наталья Николаевна": 56,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 45,
-      "Потапенко Дмитрий Валерьевич": 11,
-      "Пятикоп Александр Иванович": 218,
-      "Ревин Игорь Алексеевич": 57,
-      "Чесалин Михаил Юрьевич": 45
+      "gas:candidate-vibid:2392000496818": 90,
+      "gas:candidate-vibid:2392000544683": 11,
+      "gas:candidate-vibid:2392000500912": 56,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 45,
+      "gas:candidate-vibid:2392000544697": 11,
+      "gas:candidate-vibid:2392000547764": 218,
+      "gas:candidate-vibid:2392000498112": 57,
+      "gas:candidate-vibid:2392000544635": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 67,
-      "Гончаров Виталий Анатольевич": 15,
-      "Масянова Наталья Николаевна": 61,
-      "Новик Дмитрий Александрович": 22,
-      "Орлов Александр Сергеевич": 34,
-      "Потапенко Дмитрий Валерьевич": 22,
-      "Пятикоп Александр Иванович": 272,
-      "Ревин Игорь Алексеевич": 66,
-      "Чесалин Михаил Юрьевич": 29
+      "gas:candidate-vibid:2392000496818": 67,
+      "gas:candidate-vibid:2392000544683": 15,
+      "gas:candidate-vibid:2392000500912": 61,
+      "gas:candidate-vibid:2392000536164": 22,
+      "gas:candidate-vibid:2392000544668": 34,
+      "gas:candidate-vibid:2392000544697": 22,
+      "gas:candidate-vibid:2392000547764": 272,
+      "gas:candidate-vibid:2392000498112": 66,
+      "gas:candidate-vibid:2392000544635": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 124,
-      "Гончаров Виталий Анатольевич": 14,
-      "Масянова Наталья Николаевна": 46,
-      "Новик Дмитрий Александрович": 20,
-      "Орлов Александр Сергеевич": 53,
-      "Потапенко Дмитрий Валерьевич": 33,
-      "Пятикоп Александр Иванович": 292,
-      "Ревин Игорь Алексеевич": 61,
-      "Чесалин Михаил Юрьевич": 77
+      "gas:candidate-vibid:2392000496818": 124,
+      "gas:candidate-vibid:2392000544683": 14,
+      "gas:candidate-vibid:2392000500912": 46,
+      "gas:candidate-vibid:2392000536164": 20,
+      "gas:candidate-vibid:2392000544668": 53,
+      "gas:candidate-vibid:2392000544697": 33,
+      "gas:candidate-vibid:2392000547764": 292,
+      "gas:candidate-vibid:2392000498112": 61,
+      "gas:candidate-vibid:2392000544635": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 103,
-      "Гончаров Виталий Анатольевич": 20,
-      "Масянова Наталья Николаевна": 28,
-      "Новик Дмитрий Александрович": 27,
-      "Орлов Александр Сергеевич": 32,
-      "Потапенко Дмитрий Валерьевич": 20,
-      "Пятикоп Александр Иванович": 251,
-      "Ревин Игорь Алексеевич": 62,
-      "Чесалин Михаил Юрьевич": 40
+      "gas:candidate-vibid:2392000496818": 103,
+      "gas:candidate-vibid:2392000544683": 20,
+      "gas:candidate-vibid:2392000500912": 28,
+      "gas:candidate-vibid:2392000536164": 27,
+      "gas:candidate-vibid:2392000544668": 32,
+      "gas:candidate-vibid:2392000544697": 20,
+      "gas:candidate-vibid:2392000547764": 251,
+      "gas:candidate-vibid:2392000498112": 62,
+      "gas:candidate-vibid:2392000544635": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 109,
-      "Гончаров Виталий Анатольевич": 13,
-      "Масянова Наталья Николаевна": 67,
-      "Новик Дмитрий Александрович": 19,
-      "Орлов Александр Сергеевич": 53,
-      "Потапенко Дмитрий Валерьевич": 25,
-      "Пятикоп Александр Иванович": 269,
-      "Ревин Игорь Алексеевич": 88,
-      "Чесалин Михаил Юрьевич": 59
+      "gas:candidate-vibid:2392000496818": 109,
+      "gas:candidate-vibid:2392000544683": 13,
+      "gas:candidate-vibid:2392000500912": 67,
+      "gas:candidate-vibid:2392000536164": 19,
+      "gas:candidate-vibid:2392000544668": 53,
+      "gas:candidate-vibid:2392000544697": 25,
+      "gas:candidate-vibid:2392000547764": 269,
+      "gas:candidate-vibid:2392000498112": 88,
+      "gas:candidate-vibid:2392000544635": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475048&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475048&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 83,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 89,
-      "Новик Дмитрий Александрович": 8,
-      "Орлов Александр Сергеевич": 52,
-      "Потапенко Дмитрий Валерьевич": 26,
-      "Пятикоп Александр Иванович": 298,
-      "Ревин Игорь Алексеевич": 126,
-      "Чесалин Михаил Юрьевич": 23
+      "gas:candidate-vibid:2392000496818": 83,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 89,
+      "gas:candidate-vibid:2392000536164": 8,
+      "gas:candidate-vibid:2392000544668": 52,
+      "gas:candidate-vibid:2392000544697": 26,
+      "gas:candidate-vibid:2392000547764": 298,
+      "gas:candidate-vibid:2392000498112": 126,
+      "gas:candidate-vibid:2392000544635": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 89,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 75,
-      "Новик Дмитрий Александрович": 14,
-      "Орлов Александр Сергеевич": 27,
-      "Потапенко Дмитрий Валерьевич": 36,
-      "Пятикоп Александр Иванович": 335,
-      "Ревин Игорь Алексеевич": 89,
-      "Чесалин Михаил Юрьевич": 16
+      "gas:candidate-vibid:2392000496818": 89,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 75,
+      "gas:candidate-vibid:2392000536164": 14,
+      "gas:candidate-vibid:2392000544668": 27,
+      "gas:candidate-vibid:2392000544697": 36,
+      "gas:candidate-vibid:2392000547764": 335,
+      "gas:candidate-vibid:2392000498112": 89,
+      "gas:candidate-vibid:2392000544635": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 123,
-      "Гончаров Виталий Анатольевич": 8,
-      "Масянова Наталья Николаевна": 80,
-      "Новик Дмитрий Александрович": 12,
-      "Орлов Александр Сергеевич": 37,
-      "Потапенко Дмитрий Валерьевич": 22,
-      "Пятикоп Александр Иванович": 235,
-      "Ревин Игорь Алексеевич": 108,
-      "Чесалин Михаил Юрьевич": 8
+      "gas:candidate-vibid:2392000496818": 123,
+      "gas:candidate-vibid:2392000544683": 8,
+      "gas:candidate-vibid:2392000500912": 80,
+      "gas:candidate-vibid:2392000536164": 12,
+      "gas:candidate-vibid:2392000544668": 37,
+      "gas:candidate-vibid:2392000544697": 22,
+      "gas:candidate-vibid:2392000547764": 235,
+      "gas:candidate-vibid:2392000498112": 108,
+      "gas:candidate-vibid:2392000544635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 14,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 18,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 8,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 46,
-      "Ревин Игорь Алексеевич": 18,
-      "Чесалин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2392000496818": 14,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 18,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 8,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 46,
+      "gas:candidate-vibid:2392000498112": 18,
+      "gas:candidate-vibid:2392000544635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 8,
-      "Гончаров Виталий Анатольевич": 1,
-      "Масянова Наталья Николаевна": 7,
-      "Новик Дмитрий Александрович": 0,
-      "Орлов Александр Сергеевич": 4,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 58,
-      "Ревин Игорь Алексеевич": 4,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 8,
+      "gas:candidate-vibid:2392000544683": 1,
+      "gas:candidate-vibid:2392000500912": 7,
+      "gas:candidate-vibid:2392000536164": 0,
+      "gas:candidate-vibid:2392000544668": 4,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 58,
+      "gas:candidate-vibid:2392000498112": 4,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 33,
-      "Гончаров Виталий Анатольевич": 7,
-      "Масянова Наталья Николаевна": 24,
-      "Новик Дмитрий Александрович": 10,
-      "Орлов Александр Сергеевич": 13,
-      "Потапенко Дмитрий Валерьевич": 8,
-      "Пятикоп Александр Иванович": 66,
-      "Ревин Игорь Алексеевич": 23,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 33,
+      "gas:candidate-vibid:2392000544683": 7,
+      "gas:candidate-vibid:2392000500912": 24,
+      "gas:candidate-vibid:2392000536164": 10,
+      "gas:candidate-vibid:2392000544668": 13,
+      "gas:candidate-vibid:2392000544697": 8,
+      "gas:candidate-vibid:2392000547764": 66,
+      "gas:candidate-vibid:2392000498112": 23,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 18,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 15,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 8,
-      "Потапенко Дмитрий Валерьевич": 0,
-      "Пятикоп Александр Иванович": 64,
-      "Ревин Игорь Алексеевич": 12,
-      "Чесалин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2392000496818": 18,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 15,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 8,
+      "gas:candidate-vibid:2392000544697": 0,
+      "gas:candidate-vibid:2392000547764": 64,
+      "gas:candidate-vibid:2392000498112": 12,
+      "gas:candidate-vibid:2392000544635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 8,
-      "Гончаров Виталий Анатольевич": 2,
-      "Масянова Наталья Николаевна": 13,
-      "Новик Дмитрий Александрович": 3,
-      "Орлов Александр Сергеевич": 5,
-      "Потапенко Дмитрий Валерьевич": 1,
-      "Пятикоп Александр Иванович": 33,
-      "Ревин Игорь Алексеевич": 5,
-      "Чесалин Михаил Юрьевич": 0
+      "gas:candidate-vibid:2392000496818": 8,
+      "gas:candidate-vibid:2392000544683": 2,
+      "gas:candidate-vibid:2392000500912": 13,
+      "gas:candidate-vibid:2392000536164": 3,
+      "gas:candidate-vibid:2392000544668": 5,
+      "gas:candidate-vibid:2392000544697": 1,
+      "gas:candidate-vibid:2392000547764": 33,
+      "gas:candidate-vibid:2392000498112": 5,
+      "gas:candidate-vibid:2392000544635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 19,
-      "Гончаров Виталий Анатольевич": 9,
-      "Масянова Наталья Николаевна": 19,
-      "Новик Дмитрий Александрович": 7,
-      "Орлов Александр Сергеевич": 20,
-      "Потапенко Дмитрий Валерьевич": 6,
-      "Пятикоп Александр Иванович": 161,
-      "Ревин Игорь Алексеевич": 46,
-      "Чесалин Михаил Юрьевич": 5
+      "gas:candidate-vibid:2392000496818": 19,
+      "gas:candidate-vibid:2392000544683": 9,
+      "gas:candidate-vibid:2392000500912": 19,
+      "gas:candidate-vibid:2392000536164": 7,
+      "gas:candidate-vibid:2392000544668": 20,
+      "gas:candidate-vibid:2392000544697": 6,
+      "gas:candidate-vibid:2392000547764": 161,
+      "gas:candidate-vibid:2392000498112": 46,
+      "gas:candidate-vibid:2392000544635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 21,
-      "Гончаров Виталий Анатольевич": 5,
-      "Масянова Наталья Николаевна": 27,
-      "Новик Дмитрий Александрович": 6,
-      "Орлов Александр Сергеевич": 12,
-      "Потапенко Дмитрий Валерьевич": 2,
-      "Пятикоп Александр Иванович": 64,
-      "Ревин Игорь Алексеевич": 10,
-      "Чесалин Михаил Юрьевич": 6
+      "gas:candidate-vibid:2392000496818": 21,
+      "gas:candidate-vibid:2392000544683": 5,
+      "gas:candidate-vibid:2392000500912": 27,
+      "gas:candidate-vibid:2392000536164": 6,
+      "gas:candidate-vibid:2392000544668": 12,
+      "gas:candidate-vibid:2392000544697": 2,
+      "gas:candidate-vibid:2392000547764": 64,
+      "gas:candidate-vibid:2392000498112": 10,
+      "gas:candidate-vibid:2392000544635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 10,
-      "Гончаров Виталий Анатольевич": 1,
-      "Масянова Наталья Николаевна": 8,
-      "Новик Дмитрий Александрович": 2,
-      "Орлов Александр Сергеевич": 9,
-      "Потапенко Дмитрий Валерьевич": 16,
-      "Пятикоп Александр Иванович": 57,
-      "Ревин Игорь Алексеевич": 16,
-      "Чесалин Михаил Юрьевич": 3
+      "gas:candidate-vibid:2392000496818": 10,
+      "gas:candidate-vibid:2392000544683": 1,
+      "gas:candidate-vibid:2392000500912": 8,
+      "gas:candidate-vibid:2392000536164": 2,
+      "gas:candidate-vibid:2392000544668": 9,
+      "gas:candidate-vibid:2392000544697": 16,
+      "gas:candidate-vibid:2392000547764": 57,
+      "gas:candidate-vibid:2392000498112": 16,
+      "gas:candidate-vibid:2392000544635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_39_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Анисимов Егор Игоревич": 15,
-      "Гончаров Виталий Анатольевич": 4,
-      "Масянова Наталья Николаевна": 9,
-      "Новик Дмитрий Александрович": 4,
-      "Орлов Александр Сергеевич": 16,
-      "Потапенко Дмитрий Валерьевич": 4,
-      "Пятикоп Александр Иванович": 120,
-      "Ревин Игорь Алексеевич": 37,
-      "Чесалин Михаил Юрьевич": 1
+      "gas:candidate-vibid:2392000496818": 15,
+      "gas:candidate-vibid:2392000544683": 4,
+      "gas:candidate-vibid:2392000500912": 9,
+      "gas:candidate-vibid:2392000536164": 4,
+      "gas:candidate-vibid:2392000544668": 16,
+      "gas:candidate-vibid:2392000544697": 4,
+      "gas:candidate-vibid:2392000547764": 120,
+      "gas:candidate-vibid:2392000498112": 37,
+      "gas:candidate-vibid:2392000544635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000126&tvd=2392000475049&vrn=100100067795849&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000475049&type=464",

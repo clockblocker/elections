@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 12,
-      "Вершинин Василий Федорович": 40,
-      "Киселев Николай Петрович": 124,
-      "Климов Владимир Владимирович": 117,
-      "Пономарев Владимир Михайлович": 16,
-      "Швецов Дмитрий Владимирович": 9,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113938": 12,
+      "gas:candidate-vibid:1001000217927": 40,
+      "gas:candidate-vibid:1001000121856": 124,
+      "gas:candidate-vibid:1001000225945": 117,
+      "gas:candidate-vibid:1001000136065": 16,
+      "gas:candidate-vibid:1001000112217": 9,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 11,
-      "Вершинин Василий Федорович": 12,
-      "Киселев Николай Петрович": 59,
-      "Климов Владимир Владимирович": 57,
-      "Пономарев Владимир Михайлович": 9,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113938": 11,
+      "gas:candidate-vibid:1001000217927": 12,
+      "gas:candidate-vibid:1001000121856": 59,
+      "gas:candidate-vibid:1001000225945": 57,
+      "gas:candidate-vibid:1001000136065": 9,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 37,
-      "Вершинин Василий Федорович": 27,
-      "Киселев Николай Петрович": 185,
-      "Климов Владимир Владимирович": 198,
-      "Пономарев Владимир Михайлович": 13,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000113938": 37,
+      "gas:candidate-vibid:1001000217927": 27,
+      "gas:candidate-vibid:1001000121856": 185,
+      "gas:candidate-vibid:1001000225945": 198,
+      "gas:candidate-vibid:1001000136065": 13,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 4,
-      "Вершинин Василий Федорович": 3,
-      "Киселев Николай Петрович": 52,
-      "Климов Владимир Владимирович": 25,
-      "Пономарев Владимир Михайлович": 0,
-      "Швецов Дмитрий Владимирович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113938": 4,
+      "gas:candidate-vibid:1001000217927": 3,
+      "gas:candidate-vibid:1001000121856": 52,
+      "gas:candidate-vibid:1001000225945": 25,
+      "gas:candidate-vibid:1001000136065": 0,
+      "gas:candidate-vibid:1001000112217": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 5,
-      "Вершинин Василий Федорович": 17,
-      "Киселев Николай Петрович": 55,
-      "Климов Владимир Владимирович": 34,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113938": 5,
+      "gas:candidate-vibid:1001000217927": 17,
+      "gas:candidate-vibid:1001000121856": 55,
+      "gas:candidate-vibid:1001000225945": 34,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 4,
-      "Вершинин Василий Федорович": 14,
-      "Киселев Николай Петрович": 23,
-      "Климов Владимир Владимирович": 34,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113938": 4,
+      "gas:candidate-vibid:1001000217927": 14,
+      "gas:candidate-vibid:1001000121856": 23,
+      "gas:candidate-vibid:1001000225945": 34,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 21,
-      "Вершинин Василий Федорович": 27,
-      "Киселев Николай Петрович": 249,
-      "Климов Владимир Владимирович": 166,
-      "Пономарев Владимир Михайлович": 10,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113938": 21,
+      "gas:candidate-vibid:1001000217927": 27,
+      "gas:candidate-vibid:1001000121856": 249,
+      "gas:candidate-vibid:1001000225945": 166,
+      "gas:candidate-vibid:1001000136065": 10,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 27,
-      "Вершинин Василий Федорович": 28,
-      "Киселев Николай Петрович": 219,
-      "Климов Владимир Владимирович": 135,
-      "Пономарев Владимир Михайлович": 18,
-      "Швецов Дмитрий Владимирович": 9,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113938": 27,
+      "gas:candidate-vibid:1001000217927": 28,
+      "gas:candidate-vibid:1001000121856": 219,
+      "gas:candidate-vibid:1001000225945": 135,
+      "gas:candidate-vibid:1001000136065": 18,
+      "gas:candidate-vibid:1001000112217": 9,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 11,
-      "Вершинин Василий Федорович": 5,
-      "Киселев Николай Петрович": 53,
-      "Климов Владимир Владимирович": 23,
-      "Пономарев Владимир Михайлович": 1,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113938": 11,
+      "gas:candidate-vibid:1001000217927": 5,
+      "gas:candidate-vibid:1001000121856": 53,
+      "gas:candidate-vibid:1001000225945": 23,
+      "gas:candidate-vibid:1001000136065": 1,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000046&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070847&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 29,
-      "Вершинин Василий Федорович": 13,
-      "Киселев Николай Петрович": 63,
-      "Климов Владимир Владимирович": 136,
-      "Пономарев Владимир Михайлович": 9,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113938": 29,
+      "gas:candidate-vibid:1001000217927": 13,
+      "gas:candidate-vibid:1001000121856": 63,
+      "gas:candidate-vibid:1001000225945": 136,
+      "gas:candidate-vibid:1001000136065": 9,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 8,
-      "Вершинин Василий Федорович": 8,
-      "Киселев Николай Петрович": 19,
-      "Климов Владимир Владимирович": 24,
-      "Пономарев Владимир Михайлович": 0,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113938": 8,
+      "gas:candidate-vibid:1001000217927": 8,
+      "gas:candidate-vibid:1001000121856": 19,
+      "gas:candidate-vibid:1001000225945": 24,
+      "gas:candidate-vibid:1001000136065": 0,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 7,
-      "Вершинин Василий Федорович": 20,
-      "Киселев Николай Петрович": 134,
-      "Климов Владимир Владимирович": 183,
-      "Пономарев Владимир Михайлович": 9,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113938": 7,
+      "gas:candidate-vibid:1001000217927": 20,
+      "gas:candidate-vibid:1001000121856": 134,
+      "gas:candidate-vibid:1001000225945": 183,
+      "gas:candidate-vibid:1001000136065": 9,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 6,
-      "Вершинин Василий Федорович": 7,
-      "Киселев Николай Петрович": 31,
-      "Климов Владимир Владимирович": 74,
-      "Пономарев Владимир Михайлович": 1,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113938": 6,
+      "gas:candidate-vibid:1001000217927": 7,
+      "gas:candidate-vibid:1001000121856": 31,
+      "gas:candidate-vibid:1001000225945": 74,
+      "gas:candidate-vibid:1001000136065": 1,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 2,
-      "Вершинин Василий Федорович": 16,
-      "Киселев Николай Петрович": 22,
-      "Климов Владимир Владимирович": 19,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113938": 2,
+      "gas:candidate-vibid:1001000217927": 16,
+      "gas:candidate-vibid:1001000121856": 22,
+      "gas:candidate-vibid:1001000225945": 19,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 13,
-      "Вершинин Василий Федорович": 18,
-      "Киселев Николай Петрович": 180,
-      "Климов Владимир Владимирович": 137,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 9,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113938": 13,
+      "gas:candidate-vibid:1001000217927": 18,
+      "gas:candidate-vibid:1001000121856": 180,
+      "gas:candidate-vibid:1001000225945": 137,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 9,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 13,
-      "Вершинин Василий Федорович": 17,
-      "Киселев Николай Петрович": 146,
-      "Климов Владимир Владимирович": 146,
-      "Пономарев Владимир Михайлович": 9,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113938": 13,
+      "gas:candidate-vibid:1001000217927": 17,
+      "gas:candidate-vibid:1001000121856": 146,
+      "gas:candidate-vibid:1001000225945": 146,
+      "gas:candidate-vibid:1001000136065": 9,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 12,
-      "Вершинин Василий Федорович": 29,
-      "Киселев Николай Петрович": 53,
-      "Климов Владимир Владимирович": 82,
-      "Пономарев Владимир Михайлович": 8,
-      "Швецов Дмитрий Владимирович": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113938": 12,
+      "gas:candidate-vibid:1001000217927": 29,
+      "gas:candidate-vibid:1001000121856": 53,
+      "gas:candidate-vibid:1001000225945": 82,
+      "gas:candidate-vibid:1001000136065": 8,
+      "gas:candidate-vibid:1001000112217": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 9,
-      "Вершинин Василий Федорович": 13,
-      "Киселев Николай Петрович": 48,
-      "Климов Владимир Владимирович": 38,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113938": 9,
+      "gas:candidate-vibid:1001000217927": 13,
+      "gas:candidate-vibid:1001000121856": 48,
+      "gas:candidate-vibid:1001000225945": 38,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 9,
-      "Вершинин Василий Федорович": 6,
-      "Киселев Николай Петрович": 97,
-      "Климов Владимир Владимирович": 78,
-      "Пономарев Владимир Михайлович": 7,
-      "Швецов Дмитрий Владимирович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113938": 9,
+      "gas:candidate-vibid:1001000217927": 6,
+      "gas:candidate-vibid:1001000121856": 97,
+      "gas:candidate-vibid:1001000225945": 78,
+      "gas:candidate-vibid:1001000136065": 7,
+      "gas:candidate-vibid:1001000112217": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 13,
-      "Вершинин Василий Федорович": 17,
-      "Киселев Николай Петрович": 53,
-      "Климов Владимир Владимирович": 70,
-      "Пономарев Владимир Михайлович": 5,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113938": 13,
+      "gas:candidate-vibid:1001000217927": 17,
+      "gas:candidate-vibid:1001000121856": 53,
+      "gas:candidate-vibid:1001000225945": 70,
+      "gas:candidate-vibid:1001000136065": 5,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 8,
-      "Вершинин Василий Федорович": 27,
-      "Киселев Николай Петрович": 108,
-      "Климов Владимир Владимирович": 93,
-      "Пономарев Владимир Михайлович": 4,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113938": 8,
+      "gas:candidate-vibid:1001000217927": 27,
+      "gas:candidate-vibid:1001000121856": 108,
+      "gas:candidate-vibid:1001000225945": 93,
+      "gas:candidate-vibid:1001000136065": 4,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 16,
-      "Вершинин Василий Федорович": 15,
-      "Киселев Николай Петрович": 58,
-      "Климов Владимир Владимирович": 61,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113938": 16,
+      "gas:candidate-vibid:1001000217927": 15,
+      "gas:candidate-vibid:1001000121856": 58,
+      "gas:candidate-vibid:1001000225945": 61,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 3,
-      "Вершинин Василий Федорович": 7,
-      "Киселев Николай Петрович": 74,
-      "Климов Владимир Владимирович": 27,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113938": 3,
+      "gas:candidate-vibid:1001000217927": 7,
+      "gas:candidate-vibid:1001000121856": 74,
+      "gas:candidate-vibid:1001000225945": 27,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 7,
-      "Вершинин Василий Федорович": 10,
-      "Киселев Николай Петрович": 136,
-      "Климов Владимир Владимирович": 89,
-      "Пономарев Владимир Михайлович": 6,
-      "Швецов Дмитрий Владимирович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113938": 7,
+      "gas:candidate-vibid:1001000217927": 10,
+      "gas:candidate-vibid:1001000121856": 136,
+      "gas:candidate-vibid:1001000225945": 89,
+      "gas:candidate-vibid:1001000136065": 6,
+      "gas:candidate-vibid:1001000112217": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 8,
-      "Вершинин Василий Федорович": 10,
-      "Киселев Николай Петрович": 120,
-      "Климов Владимир Владимирович": 104,
-      "Пономарев Владимир Михайлович": 5,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113938": 8,
+      "gas:candidate-vibid:1001000217927": 10,
+      "gas:candidate-vibid:1001000121856": 120,
+      "gas:candidate-vibid:1001000225945": 104,
+      "gas:candidate-vibid:1001000136065": 5,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 14,
-      "Вершинин Василий Федорович": 15,
-      "Киселев Николай Петрович": 124,
-      "Климов Владимир Владимирович": 271,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113938": 14,
+      "gas:candidate-vibid:1001000217927": 15,
+      "gas:candidate-vibid:1001000121856": 124,
+      "gas:candidate-vibid:1001000225945": 271,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 4,
-      "Вершинин Василий Федорович": 18,
-      "Киселев Николай Петрович": 39,
-      "Климов Владимир Владимирович": 152,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113938": 4,
+      "gas:candidate-vibid:1001000217927": 18,
+      "gas:candidate-vibid:1001000121856": 39,
+      "gas:candidate-vibid:1001000225945": 152,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 8,
-      "Вершинин Василий Федорович": 7,
-      "Киселев Николай Петрович": 41,
-      "Климов Владимир Владимирович": 55,
-      "Пономарев Владимир Михайлович": 10,
-      "Швецов Дмитрий Владимирович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113938": 8,
+      "gas:candidate-vibid:1001000217927": 7,
+      "gas:candidate-vibid:1001000121856": 41,
+      "gas:candidate-vibid:1001000225945": 55,
+      "gas:candidate-vibid:1001000136065": 10,
+      "gas:candidate-vibid:1001000112217": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 5,
-      "Вершинин Василий Федорович": 11,
-      "Киселев Николай Петрович": 59,
-      "Климов Владимир Владимирович": 36,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113938": 5,
+      "gas:candidate-vibid:1001000217927": 11,
+      "gas:candidate-vibid:1001000121856": 59,
+      "gas:candidate-vibid:1001000225945": 36,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 50,
-      "Вершинин Василий Федорович": 32,
-      "Киселев Николай Петрович": 282,
-      "Климов Владимир Владимирович": 374,
-      "Пономарев Владимир Михайлович": 37,
-      "Швецов Дмитрий Владимирович": 15,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000113938": 50,
+      "gas:candidate-vibid:1001000217927": 32,
+      "gas:candidate-vibid:1001000121856": 282,
+      "gas:candidate-vibid:1001000225945": 374,
+      "gas:candidate-vibid:1001000136065": 37,
+      "gas:candidate-vibid:1001000112217": 15,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 37,
-      "Вершинин Василий Федорович": 12,
-      "Киселев Николай Петрович": 194,
-      "Климов Владимир Владимирович": 288,
-      "Пономарев Владимир Михайлович": 20,
-      "Швецов Дмитрий Владимирович": 17,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000113938": 37,
+      "gas:candidate-vibid:1001000217927": 12,
+      "gas:candidate-vibid:1001000121856": 194,
+      "gas:candidate-vibid:1001000225945": 288,
+      "gas:candidate-vibid:1001000136065": 20,
+      "gas:candidate-vibid:1001000112217": 17,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 15,
-      "Вершинин Василий Федорович": 12,
-      "Киселев Николай Петрович": 109,
-      "Климов Владимир Владимирович": 98,
-      "Пономарев Владимир Михайлович": 11,
-      "Швецов Дмитрий Владимирович": 7,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000113938": 15,
+      "gas:candidate-vibid:1001000217927": 12,
+      "gas:candidate-vibid:1001000121856": 109,
+      "gas:candidate-vibid:1001000225945": 98,
+      "gas:candidate-vibid:1001000136065": 11,
+      "gas:candidate-vibid:1001000112217": 7,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 49,
-      "Вершинин Василий Федорович": 35,
-      "Киселев Николай Петрович": 313,
-      "Климов Владимир Владимирович": 246,
-      "Пономарев Владимир Михайлович": 31,
-      "Швецов Дмитрий Владимирович": 21,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000113938": 49,
+      "gas:candidate-vibid:1001000217927": 35,
+      "gas:candidate-vibid:1001000121856": 313,
+      "gas:candidate-vibid:1001000225945": 246,
+      "gas:candidate-vibid:1001000136065": 31,
+      "gas:candidate-vibid:1001000112217": 21,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000047&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070848&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 48,
-      "Вершинин Василий Федорович": 40,
-      "Киселев Николай Петрович": 175,
-      "Климов Владимир Владимирович": 228,
-      "Пономарев Владимир Михайлович": 29,
-      "Швецов Дмитрий Владимирович": 21,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113938": 48,
+      "gas:candidate-vibid:1001000217927": 40,
+      "gas:candidate-vibid:1001000121856": 175,
+      "gas:candidate-vibid:1001000225945": 228,
+      "gas:candidate-vibid:1001000136065": 29,
+      "gas:candidate-vibid:1001000112217": 21,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 45,
-      "Вершинин Василий Федорович": 30,
-      "Киселев Николай Петрович": 178,
-      "Климов Владимир Владимирович": 211,
-      "Пономарев Владимир Михайлович": 10,
-      "Швецов Дмитрий Владимирович": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000113938": 45,
+      "gas:candidate-vibid:1001000217927": 30,
+      "gas:candidate-vibid:1001000121856": 178,
+      "gas:candidate-vibid:1001000225945": 211,
+      "gas:candidate-vibid:1001000136065": 10,
+      "gas:candidate-vibid:1001000112217": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 80,
-      "Вершинин Василий Федорович": 83,
-      "Киселев Николай Петрович": 257,
-      "Климов Владимир Владимирович": 381,
-      "Пономарев Владимир Михайлович": 16,
-      "Швецов Дмитрий Владимирович": 29,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000113938": 80,
+      "gas:candidate-vibid:1001000217927": 83,
+      "gas:candidate-vibid:1001000121856": 257,
+      "gas:candidate-vibid:1001000225945": 381,
+      "gas:candidate-vibid:1001000136065": 16,
+      "gas:candidate-vibid:1001000112217": 29,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 57,
-      "Вершинин Василий Федорович": 40,
-      "Киселев Николай Петрович": 187,
-      "Климов Владимир Владимирович": 342,
-      "Пономарев Владимир Михайлович": 8,
-      "Швецов Дмитрий Владимирович": 28,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000113938": 57,
+      "gas:candidate-vibid:1001000217927": 40,
+      "gas:candidate-vibid:1001000121856": 187,
+      "gas:candidate-vibid:1001000225945": 342,
+      "gas:candidate-vibid:1001000136065": 8,
+      "gas:candidate-vibid:1001000112217": 28,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 54,
-      "Вершинин Василий Федорович": 33,
-      "Киселев Николай Петрович": 168,
-      "Климов Владимир Владимирович": 328,
-      "Пономарев Владимир Михайлович": 28,
-      "Швецов Дмитрий Владимирович": 31,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113938": 54,
+      "gas:candidate-vibid:1001000217927": 33,
+      "gas:candidate-vibid:1001000121856": 168,
+      "gas:candidate-vibid:1001000225945": 328,
+      "gas:candidate-vibid:1001000136065": 28,
+      "gas:candidate-vibid:1001000112217": 31,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 72,
-      "Вершинин Василий Федорович": 70,
-      "Киселев Николай Петрович": 244,
-      "Климов Владимир Владимирович": 367,
-      "Пономарев Владимир Михайлович": 36,
-      "Швецов Дмитрий Владимирович": 27,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000113938": 72,
+      "gas:candidate-vibid:1001000217927": 70,
+      "gas:candidate-vibid:1001000121856": 244,
+      "gas:candidate-vibid:1001000225945": 367,
+      "gas:candidate-vibid:1001000136065": 36,
+      "gas:candidate-vibid:1001000112217": 27,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 27,
-      "Вершинин Василий Федорович": 48,
-      "Киселев Николай Петрович": 82,
-      "Климов Владимир Владимирович": 92,
-      "Пономарев Владимир Михайлович": 11,
-      "Швецов Дмитрий Владимирович": 12,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113938": 27,
+      "gas:candidate-vibid:1001000217927": 48,
+      "gas:candidate-vibid:1001000121856": 82,
+      "gas:candidate-vibid:1001000225945": 92,
+      "gas:candidate-vibid:1001000136065": 11,
+      "gas:candidate-vibid:1001000112217": 12,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 11,
-      "Вершинин Василий Федорович": 23,
-      "Киселев Николай Петрович": 84,
-      "Климов Владимир Владимирович": 35,
-      "Пономарев Владимир Михайлович": 8,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113938": 11,
+      "gas:candidate-vibid:1001000217927": 23,
+      "gas:candidate-vibid:1001000121856": 84,
+      "gas:candidate-vibid:1001000225945": 35,
+      "gas:candidate-vibid:1001000136065": 8,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 15,
-      "Вершинин Василий Федорович": 22,
-      "Киселев Николай Петрович": 67,
-      "Климов Владимир Владимирович": 115,
-      "Пономарев Владимир Михайлович": 13,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113938": 15,
+      "gas:candidate-vibid:1001000217927": 22,
+      "gas:candidate-vibid:1001000121856": 67,
+      "gas:candidate-vibid:1001000225945": 115,
+      "gas:candidate-vibid:1001000136065": 13,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 22,
-      "Вершинин Василий Федорович": 68,
-      "Киселев Николай Петрович": 129,
-      "Климов Владимир Владимирович": 218,
-      "Пономарев Владимир Михайлович": 14,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113938": 22,
+      "gas:candidate-vibid:1001000217927": 68,
+      "gas:candidate-vibid:1001000121856": 129,
+      "gas:candidate-vibid:1001000225945": 218,
+      "gas:candidate-vibid:1001000136065": 14,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 3,
-      "Вершинин Василий Федорович": 25,
-      "Киселев Николай Петрович": 22,
-      "Климов Владимир Владимирович": 17,
-      "Пономарев Владимир Михайлович": 1,
-      "Швецов Дмитрий Владимирович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113938": 3,
+      "gas:candidate-vibid:1001000217927": 25,
+      "gas:candidate-vibid:1001000121856": 22,
+      "gas:candidate-vibid:1001000225945": 17,
+      "gas:candidate-vibid:1001000136065": 1,
+      "gas:candidate-vibid:1001000112217": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 21,
-      "Вершинин Василий Федорович": 27,
-      "Киселев Николай Петрович": 115,
-      "Климов Владимир Владимирович": 63,
-      "Пономарев Владимир Михайлович": 4,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113938": 21,
+      "gas:candidate-vibid:1001000217927": 27,
+      "gas:candidate-vibid:1001000121856": 115,
+      "gas:candidate-vibid:1001000225945": 63,
+      "gas:candidate-vibid:1001000136065": 4,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 26,
-      "Вершинин Василий Федорович": 40,
-      "Киселев Николай Петрович": 126,
-      "Климов Владимир Владимирович": 181,
-      "Пономарев Владимир Михайлович": 12,
-      "Швецов Дмитрий Владимирович": 16,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113938": 26,
+      "gas:candidate-vibid:1001000217927": 40,
+      "gas:candidate-vibid:1001000121856": 126,
+      "gas:candidate-vibid:1001000225945": 181,
+      "gas:candidate-vibid:1001000136065": 12,
+      "gas:candidate-vibid:1001000112217": 16,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 3,
-      "Вершинин Василий Федорович": 12,
-      "Киселев Николай Петрович": 27,
-      "Климов Владимир Владимирович": 56,
-      "Пономарев Владимир Михайлович": 4,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113938": 3,
+      "gas:candidate-vibid:1001000217927": 12,
+      "gas:candidate-vibid:1001000121856": 27,
+      "gas:candidate-vibid:1001000225945": 56,
+      "gas:candidate-vibid:1001000136065": 4,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 13,
-      "Вершинин Василий Федорович": 32,
-      "Киселев Николай Петрович": 69,
-      "Климов Владимир Владимирович": 100,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113938": 13,
+      "gas:candidate-vibid:1001000217927": 32,
+      "gas:candidate-vibid:1001000121856": 69,
+      "gas:candidate-vibid:1001000225945": 100,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 12,
-      "Вершинин Василий Федорович": 16,
-      "Киселев Николай Петрович": 102,
-      "Климов Владимир Владимирович": 89,
-      "Пономарев Владимир Михайлович": 9,
-      "Швецов Дмитрий Владимирович": 8,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113938": 12,
+      "gas:candidate-vibid:1001000217927": 16,
+      "gas:candidate-vibid:1001000121856": 102,
+      "gas:candidate-vibid:1001000225945": 89,
+      "gas:candidate-vibid:1001000136065": 9,
+      "gas:candidate-vibid:1001000112217": 8,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 6,
-      "Вершинин Василий Федорович": 3,
-      "Киселев Николай Петрович": 50,
-      "Климов Владимир Владимирович": 24,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113938": 6,
+      "gas:candidate-vibid:1001000217927": 3,
+      "gas:candidate-vibid:1001000121856": 50,
+      "gas:candidate-vibid:1001000225945": 24,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 5,
-      "Вершинин Василий Федорович": 3,
-      "Киселев Николай Петрович": 30,
-      "Климов Владимир Владимирович": 17,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113938": 5,
+      "gas:candidate-vibid:1001000217927": 3,
+      "gas:candidate-vibid:1001000121856": 30,
+      "gas:candidate-vibid:1001000225945": 17,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 11,
-      "Вершинин Василий Федорович": 12,
-      "Киселев Николай Петрович": 45,
-      "Климов Владимир Владимирович": 54,
-      "Пономарев Владимир Михайлович": 6,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113938": 11,
+      "gas:candidate-vibid:1001000217927": 12,
+      "gas:candidate-vibid:1001000121856": 45,
+      "gas:candidate-vibid:1001000225945": 54,
+      "gas:candidate-vibid:1001000136065": 6,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 3,
-      "Вершинин Василий Федорович": 11,
-      "Киселев Николай Петрович": 42,
-      "Климов Владимир Владимирович": 28,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113938": 3,
+      "gas:candidate-vibid:1001000217927": 11,
+      "gas:candidate-vibid:1001000121856": 42,
+      "gas:candidate-vibid:1001000225945": 28,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 35,
-      "Вершинин Василий Федорович": 34,
-      "Киселев Николай Петрович": 102,
-      "Климов Владимир Владимирович": 299,
-      "Пономарев Владимир Михайлович": 20,
-      "Швецов Дмитрий Владимирович": 19,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113938": 35,
+      "gas:candidate-vibid:1001000217927": 34,
+      "gas:candidate-vibid:1001000121856": 102,
+      "gas:candidate-vibid:1001000225945": 299,
+      "gas:candidate-vibid:1001000136065": 20,
+      "gas:candidate-vibid:1001000112217": 19,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 5,
-      "Вершинин Василий Федорович": 3,
-      "Киселев Николай Петрович": 70,
-      "Климов Владимир Владимирович": 52,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113938": 5,
+      "gas:candidate-vibid:1001000217927": 3,
+      "gas:candidate-vibid:1001000121856": 70,
+      "gas:candidate-vibid:1001000225945": 52,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 6,
-      "Вершинин Василий Федорович": 5,
-      "Киселев Николай Петрович": 26,
-      "Климов Владимир Владимирович": 51,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113938": 6,
+      "gas:candidate-vibid:1001000217927": 5,
+      "gas:candidate-vibid:1001000121856": 26,
+      "gas:candidate-vibid:1001000225945": 51,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 12,
-      "Вершинин Василий Федорович": 9,
-      "Киселев Николай Петрович": 80,
-      "Климов Владимир Владимирович": 66,
-      "Пономарев Владимир Михайлович": 9,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113938": 12,
+      "gas:candidate-vibid:1001000217927": 9,
+      "gas:candidate-vibid:1001000121856": 80,
+      "gas:candidate-vibid:1001000225945": 66,
+      "gas:candidate-vibid:1001000136065": 9,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 19,
-      "Вершинин Василий Федорович": 56,
-      "Киселев Николай Петрович": 82,
-      "Климов Владимир Владимирович": 148,
-      "Пономарев Владимир Михайлович": 10,
-      "Швецов Дмитрий Владимирович": 9,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113938": 19,
+      "gas:candidate-vibid:1001000217927": 56,
+      "gas:candidate-vibid:1001000121856": 82,
+      "gas:candidate-vibid:1001000225945": 148,
+      "gas:candidate-vibid:1001000136065": 10,
+      "gas:candidate-vibid:1001000112217": 9,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 7,
-      "Вершинин Василий Федорович": 29,
-      "Киселев Николай Петрович": 16,
-      "Климов Владимир Владимирович": 26,
-      "Пономарев Владимир Михайлович": 1,
-      "Швецов Дмитрий Владимирович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113938": 7,
+      "gas:candidate-vibid:1001000217927": 29,
+      "gas:candidate-vibid:1001000121856": 16,
+      "gas:candidate-vibid:1001000225945": 26,
+      "gas:candidate-vibid:1001000136065": 1,
+      "gas:candidate-vibid:1001000112217": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 11,
-      "Вершинин Василий Федорович": 11,
-      "Киселев Николай Петрович": 27,
-      "Климов Владимир Владимирович": 26,
-      "Пономарев Владимир Михайлович": 7,
-      "Швецов Дмитрий Владимирович": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113938": 11,
+      "gas:candidate-vibid:1001000217927": 11,
+      "gas:candidate-vibid:1001000121856": 27,
+      "gas:candidate-vibid:1001000225945": 26,
+      "gas:candidate-vibid:1001000136065": 7,
+      "gas:candidate-vibid:1001000112217": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 20,
-      "Вершинин Василий Федорович": 16,
-      "Киселев Николай Петрович": 86,
-      "Климов Владимир Владимирович": 77,
-      "Пономарев Владимир Михайлович": 4,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113938": 20,
+      "gas:candidate-vibid:1001000217927": 16,
+      "gas:candidate-vibid:1001000121856": 86,
+      "gas:candidate-vibid:1001000225945": 77,
+      "gas:candidate-vibid:1001000136065": 4,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 10,
-      "Вершинин Василий Федорович": 37,
-      "Киселев Николай Петрович": 47,
-      "Климов Владимир Владимирович": 201,
-      "Пономарев Владимир Михайлович": 1,
-      "Швецов Дмитрий Владимирович": 10,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113938": 10,
+      "gas:candidate-vibid:1001000217927": 37,
+      "gas:candidate-vibid:1001000121856": 47,
+      "gas:candidate-vibid:1001000225945": 201,
+      "gas:candidate-vibid:1001000136065": 1,
+      "gas:candidate-vibid:1001000112217": 10,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 21,
-      "Вершинин Василий Федорович": 14,
-      "Киселев Николай Петрович": 104,
-      "Климов Владимир Владимирович": 85,
-      "Пономарев Владимир Михайлович": 10,
-      "Швецов Дмитрий Владимирович": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113938": 21,
+      "gas:candidate-vibid:1001000217927": 14,
+      "gas:candidate-vibid:1001000121856": 104,
+      "gas:candidate-vibid:1001000225945": 85,
+      "gas:candidate-vibid:1001000136065": 10,
+      "gas:candidate-vibid:1001000112217": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 51,
-      "Вершинин Василий Федорович": 42,
-      "Киселев Николай Петрович": 174,
-      "Климов Владимир Владимирович": 315,
-      "Пономарев Владимир Михайлович": 37,
-      "Швецов Дмитрий Владимирович": 32,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000113938": 51,
+      "gas:candidate-vibid:1001000217927": 42,
+      "gas:candidate-vibid:1001000121856": 174,
+      "gas:candidate-vibid:1001000225945": 315,
+      "gas:candidate-vibid:1001000136065": 37,
+      "gas:candidate-vibid:1001000112217": 32,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 14,
-      "Вершинин Василий Федорович": 20,
-      "Киселев Николай Петрович": 39,
-      "Климов Владимир Владимирович": 44,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113938": 14,
+      "gas:candidate-vibid:1001000217927": 20,
+      "gas:candidate-vibid:1001000121856": 39,
+      "gas:candidate-vibid:1001000225945": 44,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 28,
-      "Вершинин Василий Федорович": 29,
-      "Киселев Николай Петрович": 64,
-      "Климов Владимир Владимирович": 52,
-      "Пономарев Владимир Михайлович": 3,
-      "Швецов Дмитрий Владимирович": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113938": 28,
+      "gas:candidate-vibid:1001000217927": 29,
+      "gas:candidate-vibid:1001000121856": 64,
+      "gas:candidate-vibid:1001000225945": 52,
+      "gas:candidate-vibid:1001000136065": 3,
+      "gas:candidate-vibid:1001000112217": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 5,
-      "Вершинин Василий Федорович": 45,
-      "Киселев Николай Петрович": 118,
-      "Климов Владимир Владимирович": 82,
-      "Пономарев Владимир Михайлович": 6,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113938": 5,
+      "gas:candidate-vibid:1001000217927": 45,
+      "gas:candidate-vibid:1001000121856": 118,
+      "gas:candidate-vibid:1001000225945": 82,
+      "gas:candidate-vibid:1001000136065": 6,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 6,
-      "Вершинин Василий Федорович": 21,
-      "Киселев Николай Петрович": 130,
-      "Климов Владимир Владимирович": 110,
-      "Пономарев Владимир Михайлович": 13,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113938": 6,
+      "gas:candidate-vibid:1001000217927": 21,
+      "gas:candidate-vibid:1001000121856": 130,
+      "gas:candidate-vibid:1001000225945": 110,
+      "gas:candidate-vibid:1001000136065": 13,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 3,
-      "Вершинин Василий Федорович": 19,
-      "Киселев Николай Петрович": 14,
-      "Климов Владимир Владимирович": 13,
-      "Пономарев Владимир Михайлович": 7,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113938": 3,
+      "gas:candidate-vibid:1001000217927": 19,
+      "gas:candidate-vibid:1001000121856": 14,
+      "gas:candidate-vibid:1001000225945": 13,
+      "gas:candidate-vibid:1001000136065": 7,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 1,
-      "Вершинин Василий Федорович": 11,
-      "Киселев Николай Петрович": 39,
-      "Климов Владимир Владимирович": 36,
-      "Пономарев Владимир Михайлович": 5,
-      "Швецов Дмитрий Владимирович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113938": 1,
+      "gas:candidate-vibid:1001000217927": 11,
+      "gas:candidate-vibid:1001000121856": 39,
+      "gas:candidate-vibid:1001000225945": 36,
+      "gas:candidate-vibid:1001000136065": 5,
+      "gas:candidate-vibid:1001000112217": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 17,
-      "Вершинин Василий Федорович": 23,
-      "Киселев Николай Петрович": 121,
-      "Климов Владимир Владимирович": 125,
-      "Пономарев Владимир Михайлович": 14,
-      "Швецов Дмитрий Владимирович": 10,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113938": 17,
+      "gas:candidate-vibid:1001000217927": 23,
+      "gas:candidate-vibid:1001000121856": 121,
+      "gas:candidate-vibid:1001000225945": 125,
+      "gas:candidate-vibid:1001000136065": 14,
+      "gas:candidate-vibid:1001000112217": 10,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 11,
-      "Вершинин Василий Федорович": 19,
-      "Киселев Николай Петрович": 43,
-      "Климов Владимир Владимирович": 116,
-      "Пономарев Владимир Михайлович": 5,
-      "Швецов Дмитрий Владимирович": 10,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113938": 11,
+      "gas:candidate-vibid:1001000217927": 19,
+      "gas:candidate-vibid:1001000121856": 43,
+      "gas:candidate-vibid:1001000225945": 116,
+      "gas:candidate-vibid:1001000136065": 5,
+      "gas:candidate-vibid:1001000112217": 10,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 9,
-      "Вершинин Василий Федорович": 17,
-      "Киселев Николай Петрович": 34,
-      "Климов Владимир Владимирович": 38,
-      "Пономарев Владимир Михайлович": 2,
-      "Швецов Дмитрий Владимирович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113938": 9,
+      "gas:candidate-vibid:1001000217927": 17,
+      "gas:candidate-vibid:1001000121856": 34,
+      "gas:candidate-vibid:1001000225945": 38,
+      "gas:candidate-vibid:1001000136065": 2,
+      "gas:candidate-vibid:1001000112217": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 6,
-      "Вершинин Василий Федорович": 2,
-      "Киселев Николай Петрович": 14,
-      "Климов Владимир Владимирович": 16,
-      "Пономарев Владимир Михайлович": 0,
-      "Швецов Дмитрий Владимирович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113938": 6,
+      "gas:candidate-vibid:1001000217927": 2,
+      "gas:candidate-vibid:1001000121856": 14,
+      "gas:candidate-vibid:1001000225945": 16,
+      "gas:candidate-vibid:1001000136065": 0,
+      "gas:candidate-vibid:1001000112217": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 13,
-      "Вершинин Василий Федорович": 27,
-      "Киселев Николай Петрович": 129,
-      "Климов Владимир Владимирович": 83,
-      "Пономарев Владимир Михайлович": 1,
-      "Швецов Дмитрий Владимирович": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113938": 13,
+      "gas:candidate-vibid:1001000217927": 27,
+      "gas:candidate-vibid:1001000121856": 129,
+      "gas:candidate-vibid:1001000225945": 83,
+      "gas:candidate-vibid:1001000136065": 1,
+      "gas:candidate-vibid:1001000112217": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 29,
-      "Вершинин Василий Федорович": 52,
-      "Киселев Николай Петрович": 198,
-      "Климов Владимир Владимирович": 220,
-      "Пономарев Владимир Михайлович": 22,
-      "Швецов Дмитрий Владимирович": 23,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113938": 29,
+      "gas:candidate-vibid:1001000217927": 52,
+      "gas:candidate-vibid:1001000121856": 198,
+      "gas:candidate-vibid:1001000225945": 220,
+      "gas:candidate-vibid:1001000136065": 22,
+      "gas:candidate-vibid:1001000112217": 23,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 13,
-      "Вершинин Василий Федорович": 16,
-      "Киселев Николай Петрович": 87,
-      "Климов Владимир Владимирович": 62,
-      "Пономарев Владимир Михайлович": 13,
-      "Швецов Дмитрий Владимирович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113938": 13,
+      "gas:candidate-vibid:1001000217927": 16,
+      "gas:candidate-vibid:1001000121856": 87,
+      "gas:candidate-vibid:1001000225945": 62,
+      "gas:candidate-vibid:1001000136065": 13,
+      "gas:candidate-vibid:1001000112217": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 0,
-      "Вершинин Василий Федорович": 14,
-      "Киселев Николай Петрович": 15,
-      "Климов Владимир Владимирович": 25,
-      "Пономарев Владимир Михайлович": 5,
-      "Швецов Дмитрий Владимирович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113938": 0,
+      "gas:candidate-vibid:1001000217927": 14,
+      "gas:candidate-vibid:1001000121856": 15,
+      "gas:candidate-vibid:1001000225945": 25,
+      "gas:candidate-vibid:1001000136065": 5,
+      "gas:candidate-vibid:1001000112217": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_43_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вавилов Андрей Николаевич": 9,
-      "Вершинин Василий Федорович": 11,
-      "Киселев Николай Петрович": 23,
-      "Климов Владимир Владимирович": 75,
-      "Пономарев Владимир Михайлович": 4,
-      "Швецов Дмитрий Владимирович": 14,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113938": 9,
+      "gas:candidate-vibid:1001000217927": 11,
+      "gas:candidate-vibid:1001000121856": 23,
+      "gas:candidate-vibid:1001000225945": 75,
+      "gas:candidate-vibid:1001000136065": 4,
+      "gas:candidate-vibid:1001000112217": 14,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=432000048&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=243200070849&region=0&sub_region=0&type=429",

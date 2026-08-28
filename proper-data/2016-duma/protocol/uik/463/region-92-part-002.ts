@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 88,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 88,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 44,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 6,
-      "Ушаков Вячеслав Иванович": 13
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 44,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 6,
+      "gas:candidate-vibid:2752000881369": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 122,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 122,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 54,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 10,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 54,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 10,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 15,
-      "Волков Юрий Геннадьевич": 50,
-      "Говорин Николай Васильевич": 119,
-      "Катушев Александр Николаевич": 16,
-      "Пименов Вячеслав Владимирович": 16,
-      "Поздняков Владимир Георгиевич": 33,
-      "Ушаков Вячеслав Иванович": 38
+      "gas:candidate-vibid:2752000879901": 15,
+      "gas:candidate-vibid:2752000879140": 50,
+      "gas:candidate-vibid:2752000882889": 119,
+      "gas:candidate-vibid:2752000882380": 16,
+      "gas:candidate-vibid:2752000881660": 16,
+      "gas:candidate-vibid:2752000881456": 33,
+      "gas:candidate-vibid:2752000881369": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 15,
-      "Говорин Николай Васильевич": 30,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 15,
+      "gas:candidate-vibid:2752000882889": 30,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 55,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 55,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 11,
-      "Говорин Николай Васильевич": 31,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 11,
+      "gas:candidate-vibid:2752000882889": 31,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 14,
-      "Волков Юрий Геннадьевич": 36,
-      "Говорин Николай Васильевич": 115,
-      "Катушев Александр Николаевич": 20,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 13,
-      "Ушаков Вячеслав Иванович": 14
+      "gas:candidate-vibid:2752000879901": 14,
+      "gas:candidate-vibid:2752000879140": 36,
+      "gas:candidate-vibid:2752000882889": 115,
+      "gas:candidate-vibid:2752000882380": 20,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 13,
+      "gas:candidate-vibid:2752000881369": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 12,
-      "Говорин Николай Васильевич": 59,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 17,
-      "Ушаков Вячеслав Иванович": 11
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 12,
+      "gas:candidate-vibid:2752000882889": 59,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 17,
+      "gas:candidate-vibid:2752000881369": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 84,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 36,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 84,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 36,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 63,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 63,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 29,
-      "Говорин Николай Васильевич": 107,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 10,
-      "Поздняков Владимир Георгиевич": 36,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 29,
+      "gas:candidate-vibid:2752000882889": 107,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 10,
+      "gas:candidate-vibid:2752000881456": 36,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 36,
-      "Говорин Николай Васильевич": 140,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 17,
-      "Поздняков Владимир Георгиевич": 45,
-      "Ушаков Вячеслав Иванович": 24
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 36,
+      "gas:candidate-vibid:2752000882889": 140,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 17,
+      "gas:candidate-vibid:2752000881456": 45,
+      "gas:candidate-vibid:2752000881369": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 14,
-      "Волков Юрий Геннадьевич": 28,
-      "Говорин Николай Васильевич": 113,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 14,
-      "Поздняков Владимир Георгиевич": 29,
-      "Ушаков Вячеслав Иванович": 22
+      "gas:candidate-vibid:2752000879901": 14,
+      "gas:candidate-vibid:2752000879140": 28,
+      "gas:candidate-vibid:2752000882889": 113,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 14,
+      "gas:candidate-vibid:2752000881456": 29,
+      "gas:candidate-vibid:2752000881369": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 20,
-      "Волков Юрий Геннадьевич": 69,
-      "Говорин Николай Васильевич": 253,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 44,
-      "Ушаков Вячеслав Иванович": 34
+      "gas:candidate-vibid:2752000879901": 20,
+      "gas:candidate-vibid:2752000879140": 69,
+      "gas:candidate-vibid:2752000882889": 253,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 44,
+      "gas:candidate-vibid:2752000881369": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 27,
-      "Волков Юрий Геннадьевич": 71,
-      "Говорин Николай Васильевич": 325,
-      "Катушев Александр Николаевич": 23,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 118,
-      "Ушаков Вячеслав Иванович": 35
+      "gas:candidate-vibid:2752000879901": 27,
+      "gas:candidate-vibid:2752000879140": 71,
+      "gas:candidate-vibid:2752000882889": 325,
+      "gas:candidate-vibid:2752000882380": 23,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 118,
+      "gas:candidate-vibid:2752000881369": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 30,
-      "Волков Юрий Геннадьевич": 72,
-      "Говорин Николай Васильевич": 321,
-      "Катушев Александр Николаевич": 17,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 103,
-      "Ушаков Вячеслав Иванович": 53
+      "gas:candidate-vibid:2752000879901": 30,
+      "gas:candidate-vibid:2752000879140": 72,
+      "gas:candidate-vibid:2752000882889": 321,
+      "gas:candidate-vibid:2752000882380": 17,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 103,
+      "gas:candidate-vibid:2752000881369": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 52,
-      "Говорин Николай Васильевич": 153,
-      "Катушев Александр Николаевич": 11,
-      "Пименов Вячеслав Владимирович": 21,
-      "Поздняков Владимир Георгиевич": 29,
-      "Ушаков Вячеслав Иванович": 16
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 52,
+      "gas:candidate-vibid:2752000882889": 153,
+      "gas:candidate-vibid:2752000882380": 11,
+      "gas:candidate-vibid:2752000881660": 21,
+      "gas:candidate-vibid:2752000881456": 29,
+      "gas:candidate-vibid:2752000881369": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 18,
-      "Волков Юрий Геннадьевич": 47,
-      "Говорин Николай Васильевич": 246,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 25,
-      "Поздняков Владимир Георгиевич": 63,
-      "Ушаков Вячеслав Иванович": 28
+      "gas:candidate-vibid:2752000879901": 18,
+      "gas:candidate-vibid:2752000879140": 47,
+      "gas:candidate-vibid:2752000882889": 246,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 25,
+      "gas:candidate-vibid:2752000881456": 63,
+      "gas:candidate-vibid:2752000881369": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 19,
-      "Говорин Николай Васильевич": 53,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 17,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 19,
+      "gas:candidate-vibid:2752000882889": 53,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 17,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824635&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824635&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 32,
-      "Волков Юрий Геннадьевич": 55,
-      "Говорин Николай Васильевич": 138,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 19,
-      "Поздняков Владимир Георгиевич": 39,
-      "Ушаков Вячеслав Иванович": 43
+      "gas:candidate-vibid:2752000879901": 32,
+      "gas:candidate-vibid:2752000879140": 55,
+      "gas:candidate-vibid:2752000882889": 138,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 19,
+      "gas:candidate-vibid:2752000881456": 39,
+      "gas:candidate-vibid:2752000881369": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 32,
-      "Волков Юрий Геннадьевич": 130,
-      "Говорин Николай Васильевич": 147,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 21,
-      "Поздняков Владимир Георгиевич": 51,
-      "Ушаков Вячеслав Иванович": 68
+      "gas:candidate-vibid:2752000879901": 32,
+      "gas:candidate-vibid:2752000879140": 130,
+      "gas:candidate-vibid:2752000882889": 147,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 21,
+      "gas:candidate-vibid:2752000881456": 51,
+      "gas:candidate-vibid:2752000881369": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 18,
-      "Волков Юрий Геннадьевич": 54,
-      "Говорин Николай Васильевич": 66,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 24,
-      "Ушаков Вячеслав Иванович": 28
+      "gas:candidate-vibid:2752000879901": 18,
+      "gas:candidate-vibid:2752000879140": 54,
+      "gas:candidate-vibid:2752000882889": 66,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 24,
+      "gas:candidate-vibid:2752000881369": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 13,
-      "Волков Юрий Геннадьевич": 56,
-      "Говорин Николай Васильевич": 83,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 33,
-      "Ушаков Вячеслав Иванович": 22
+      "gas:candidate-vibid:2752000879901": 13,
+      "gas:candidate-vibid:2752000879140": 56,
+      "gas:candidate-vibid:2752000882889": 83,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 33,
+      "gas:candidate-vibid:2752000881369": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 38,
-      "Волков Юрий Геннадьевич": 148,
-      "Говорин Николай Васильевич": 278,
-      "Катушев Александр Николаевич": 11,
-      "Пименов Вячеслав Владимирович": 49,
-      "Поздняков Владимир Георгиевич": 100,
-      "Ушаков Вячеслав Иванович": 81
+      "gas:candidate-vibid:2752000879901": 38,
+      "gas:candidate-vibid:2752000879140": 148,
+      "gas:candidate-vibid:2752000882889": 278,
+      "gas:candidate-vibid:2752000882380": 11,
+      "gas:candidate-vibid:2752000881660": 49,
+      "gas:candidate-vibid:2752000881456": 100,
+      "gas:candidate-vibid:2752000881369": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 33,
-      "Волков Юрий Геннадьевич": 127,
-      "Говорин Николай Васильевич": 199,
-      "Катушев Александр Николаевич": 14,
-      "Пименов Вячеслав Владимирович": 40,
-      "Поздняков Владимир Георгиевич": 62,
-      "Ушаков Вячеслав Иванович": 59
+      "gas:candidate-vibid:2752000879901": 33,
+      "gas:candidate-vibid:2752000879140": 127,
+      "gas:candidate-vibid:2752000882889": 199,
+      "gas:candidate-vibid:2752000882380": 14,
+      "gas:candidate-vibid:2752000881660": 40,
+      "gas:candidate-vibid:2752000881456": 62,
+      "gas:candidate-vibid:2752000881369": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 24,
-      "Волков Юрий Геннадьевич": 112,
-      "Говорин Николай Васильевич": 128,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 39,
-      "Ушаков Вячеслав Иванович": 52
+      "gas:candidate-vibid:2752000879901": 24,
+      "gas:candidate-vibid:2752000879140": 112,
+      "gas:candidate-vibid:2752000882889": 128,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 39,
+      "gas:candidate-vibid:2752000881369": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 13,
-      "Волков Юрий Геннадьевич": 59,
-      "Говорин Николай Васильевич": 97,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 20,
-      "Поздняков Владимир Георгиевич": 19,
-      "Ушаков Вячеслав Иванович": 32
+      "gas:candidate-vibid:2752000879901": 13,
+      "gas:candidate-vibid:2752000879140": 59,
+      "gas:candidate-vibid:2752000882889": 97,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 20,
+      "gas:candidate-vibid:2752000881456": 19,
+      "gas:candidate-vibid:2752000881369": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 92,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 92,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 24,
-      "Говорин Николай Васильевич": 79,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 24,
+      "gas:candidate-vibid:2752000882889": 79,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 51,
-      "Говорин Николай Васильевич": 145,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 24,
-      "Ушаков Вячеслав Иванович": 17
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 51,
+      "gas:candidate-vibid:2752000882889": 145,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 24,
+      "gas:candidate-vibid:2752000881369": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 16,
-      "Волков Юрий Геннадьевич": 50,
-      "Говорин Николай Васильевич": 92,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 16,
-      "Поздняков Владимир Георгиевич": 23,
-      "Ушаков Вячеслав Иванович": 42
+      "gas:candidate-vibid:2752000879901": 16,
+      "gas:candidate-vibid:2752000879140": 50,
+      "gas:candidate-vibid:2752000882889": 92,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 16,
+      "gas:candidate-vibid:2752000881456": 23,
+      "gas:candidate-vibid:2752000881369": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 70,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 11
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 70,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 38,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 38,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 8,
-      "Говорин Николай Васильевич": 44,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 6,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 8,
+      "gas:candidate-vibid:2752000882889": 44,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 6,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 24,
-      "Говорин Николай Васильевич": 126,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 19,
-      "Ушаков Вячеслав Иванович": 15
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 24,
+      "gas:candidate-vibid:2752000882889": 126,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 19,
+      "gas:candidate-vibid:2752000881369": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -2152,13 +2152,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 22,
-      "Волков Юрий Геннадьевич": 46,
-      "Говорин Николай Васильевич": 212,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 15,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 19
+      "gas:candidate-vibid:2752000879901": 22,
+      "gas:candidate-vibid:2752000879140": 46,
+      "gas:candidate-vibid:2752000882889": 212,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 15,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -2209,13 +2209,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 15,
-      "Волков Юрий Геннадьевич": 38,
-      "Говорин Николай Васильевич": 196,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 24,
-      "Поздняков Владимир Георгиевич": 27,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 15,
+      "gas:candidate-vibid:2752000879140": 38,
+      "gas:candidate-vibid:2752000882889": 196,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 24,
+      "gas:candidate-vibid:2752000881456": 27,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -2266,13 +2266,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 18,
-      "Волков Юрий Геннадьевич": 84,
-      "Говорин Николай Васильевич": 93,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 16,
-      "Поздняков Владимир Георгиевич": 33,
-      "Ушаков Вячеслав Иванович": 25
+      "gas:candidate-vibid:2752000879901": 18,
+      "gas:candidate-vibid:2752000879140": 84,
+      "gas:candidate-vibid:2752000882889": 93,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 16,
+      "gas:candidate-vibid:2752000881456": 33,
+      "gas:candidate-vibid:2752000881369": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824636&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824636&type=464",
@@ -2323,13 +2323,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 14,
-      "Говорин Николай Васильевич": 34,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 14,
+      "gas:candidate-vibid:2752000882889": 34,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2380,13 +2380,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 25,
-      "Говорин Николай Васильевич": 110,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 13,
-      "Ушаков Вячеслав Иванович": 41
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 25,
+      "gas:candidate-vibid:2752000882889": 110,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 13,
+      "gas:candidate-vibid:2752000881369": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2437,13 +2437,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 7,
-      "Говорин Николай Васильевич": 32,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 16
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 7,
+      "gas:candidate-vibid:2752000882889": 32,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2494,13 +2494,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 20,
-      "Волков Юрий Геннадьевич": 76,
-      "Говорин Николай Васильевич": 260,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 48,
-      "Ушаков Вячеслав Иванович": 44
+      "gas:candidate-vibid:2752000879901": 20,
+      "gas:candidate-vibid:2752000879140": 76,
+      "gas:candidate-vibid:2752000882889": 260,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 48,
+      "gas:candidate-vibid:2752000881369": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2551,13 +2551,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 22,
-      "Говорин Николай Васильевич": 51,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 6,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 22,
+      "gas:candidate-vibid:2752000882889": 51,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 6,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2608,13 +2608,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 31,
-      "Говорин Николай Васильевич": 108,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 29,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 31,
+      "gas:candidate-vibid:2752000882889": 108,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 29,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2665,13 +2665,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 7,
-      "Говорин Николай Васильевич": 15,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 0,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 7,
+      "gas:candidate-vibid:2752000882889": 15,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 0,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2722,13 +2722,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 30,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 30,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2779,13 +2779,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 11,
-      "Волков Юрий Геннадьевич": 34,
-      "Говорин Николай Васильевич": 131,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 20,
-      "Поздняков Владимир Георгиевич": 30,
-      "Ушаков Вячеслав Иванович": 15
+      "gas:candidate-vibid:2752000879901": 11,
+      "gas:candidate-vibid:2752000879140": 34,
+      "gas:candidate-vibid:2752000882889": 131,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 20,
+      "gas:candidate-vibid:2752000881456": 30,
+      "gas:candidate-vibid:2752000881369": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2836,13 +2836,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 41,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 41,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2893,13 +2893,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 20,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 19,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 20,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 19,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -2950,13 +2950,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 58,
-      "Волков Юрий Геннадьевич": 139,
-      "Говорин Николай Васильевич": 491,
-      "Катушев Александр Николаевич": 27,
-      "Пименов Вячеслав Владимирович": 76,
-      "Поздняков Владимир Георгиевич": 163,
-      "Ушаков Вячеслав Иванович": 72
+      "gas:candidate-vibid:2752000879901": 58,
+      "gas:candidate-vibid:2752000879140": 139,
+      "gas:candidate-vibid:2752000882889": 491,
+      "gas:candidate-vibid:2752000882380": 27,
+      "gas:candidate-vibid:2752000881660": 76,
+      "gas:candidate-vibid:2752000881456": 163,
+      "gas:candidate-vibid:2752000881369": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3007,13 +3007,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 26,
-      "Волков Юрий Геннадьевич": 113,
-      "Говорин Николай Васильевич": 192,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 42,
-      "Поздняков Владимир Георгиевич": 53,
-      "Ушаков Вячеслав Иванович": 40
+      "gas:candidate-vibid:2752000879901": 26,
+      "gas:candidate-vibid:2752000879140": 113,
+      "gas:candidate-vibid:2752000882889": 192,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 42,
+      "gas:candidate-vibid:2752000881456": 53,
+      "gas:candidate-vibid:2752000881369": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3064,13 +3064,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 14,
-      "Волков Юрий Геннадьевич": 88,
-      "Говорин Николай Васильевич": 162,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 27,
-      "Поздняков Владимир Георгиевич": 61,
-      "Ушаков Вячеслав Иванович": 39
+      "gas:candidate-vibid:2752000879901": 14,
+      "gas:candidate-vibid:2752000879140": 88,
+      "gas:candidate-vibid:2752000882889": 162,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 27,
+      "gas:candidate-vibid:2752000881456": 61,
+      "gas:candidate-vibid:2752000881369": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3121,13 +3121,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 25,
-      "Волков Юрий Геннадьевич": 110,
-      "Говорин Николай Васильевич": 231,
-      "Катушев Александр Николаевич": 14,
-      "Пименов Вячеслав Владимирович": 29,
-      "Поздняков Владимир Георгиевич": 57,
-      "Ушаков Вячеслав Иванович": 33
+      "gas:candidate-vibid:2752000879901": 25,
+      "gas:candidate-vibid:2752000879140": 110,
+      "gas:candidate-vibid:2752000882889": 231,
+      "gas:candidate-vibid:2752000882380": 14,
+      "gas:candidate-vibid:2752000881660": 29,
+      "gas:candidate-vibid:2752000881456": 57,
+      "gas:candidate-vibid:2752000881369": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3178,13 +3178,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 21,
-      "Волков Юрий Геннадьевич": 99,
-      "Говорин Николай Васильевич": 212,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 32,
-      "Поздняков Владимир Георгиевич": 57,
-      "Ушаков Вячеслав Иванович": 24
+      "gas:candidate-vibid:2752000879901": 21,
+      "gas:candidate-vibid:2752000879140": 99,
+      "gas:candidate-vibid:2752000882889": 212,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 32,
+      "gas:candidate-vibid:2752000881456": 57,
+      "gas:candidate-vibid:2752000881369": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3235,13 +3235,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 12,
-      "Волков Юрий Геннадьевич": 39,
-      "Говорин Николай Васильевич": 119,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 18,
-      "Поздняков Владимир Георгиевич": 24,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 12,
+      "gas:candidate-vibid:2752000879140": 39,
+      "gas:candidate-vibid:2752000882889": 119,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 18,
+      "gas:candidate-vibid:2752000881456": 24,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3292,13 +3292,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 12,
-      "Волков Юрий Геннадьевич": 53,
-      "Говорин Николай Васильевич": 89,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 15,
-      "Поздняков Владимир Георгиевич": 13,
-      "Ушаков Вячеслав Иванович": 23
+      "gas:candidate-vibid:2752000879901": 12,
+      "gas:candidate-vibid:2752000879140": 53,
+      "gas:candidate-vibid:2752000882889": 89,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 15,
+      "gas:candidate-vibid:2752000881456": 13,
+      "gas:candidate-vibid:2752000881369": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3349,13 +3349,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 17,
-      "Говорин Николай Васильевич": 61,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 10,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 17,
+      "gas:candidate-vibid:2752000882889": 61,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 10,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3406,13 +3406,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 24,
-      "Говорин Николай Васильевич": 65,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 11,
-      "Поздняков Владимир Георгиевич": 17,
-      "Ушаков Вячеслав Иванович": 26
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 24,
+      "gas:candidate-vibid:2752000882889": 65,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 11,
+      "gas:candidate-vibid:2752000881456": 17,
+      "gas:candidate-vibid:2752000881369": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3463,13 +3463,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 49,
-      "Говорин Николай Васильевич": 130,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 19,
-      "Поздняков Владимир Георгиевич": 39,
-      "Ушаков Вячеслав Иванович": 36
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 49,
+      "gas:candidate-vibid:2752000882889": 130,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 19,
+      "gas:candidate-vibid:2752000881456": 39,
+      "gas:candidate-vibid:2752000881369": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3520,13 +3520,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 36,
-      "Говорин Николай Васильевич": 109,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 15,
-      "Поздняков Владимир Георгиевич": 28,
-      "Ушаков Вячеслав Иванович": 37
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 36,
+      "gas:candidate-vibid:2752000882889": 109,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 15,
+      "gas:candidate-vibid:2752000881456": 28,
+      "gas:candidate-vibid:2752000881369": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3577,13 +3577,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 29,
-      "Волков Юрий Геннадьевич": 142,
-      "Говорин Николай Васильевич": 379,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 54,
-      "Поздняков Владимир Георгиевич": 115,
-      "Ушаков Вячеслав Иванович": 141
+      "gas:candidate-vibid:2752000879901": 29,
+      "gas:candidate-vibid:2752000879140": 142,
+      "gas:candidate-vibid:2752000882889": 379,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 54,
+      "gas:candidate-vibid:2752000881456": 115,
+      "gas:candidate-vibid:2752000881369": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3634,13 +3634,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 22,
-      "Говорин Николай Васильевич": 43,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 6,
-      "Ушаков Вячеслав Иванович": 15
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 22,
+      "gas:candidate-vibid:2752000882889": 43,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 6,
+      "gas:candidate-vibid:2752000881369": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3691,13 +3691,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 32,
-      "Говорин Николай Васильевич": 130,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 21,
-      "Поздняков Владимир Георгиевич": 48,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 32,
+      "gas:candidate-vibid:2752000882889": 130,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 21,
+      "gas:candidate-vibid:2752000881456": 48,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3748,13 +3748,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 23,
-      "Говорин Николай Васильевич": 126,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 24,
-      "Ушаков Вячеслав Иванович": 23
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 23,
+      "gas:candidate-vibid:2752000882889": 126,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 24,
+      "gas:candidate-vibid:2752000881369": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3805,13 +3805,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 68,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 17,
-      "Ушаков Вячеслав Иванович": 20
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 68,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 17,
+      "gas:candidate-vibid:2752000881369": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3862,13 +3862,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 21,
-      "Говорин Николай Васильевич": 82,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 21,
-      "Поздняков Владимир Георгиевич": 33,
-      "Ушаков Вячеслав Иванович": 29
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 21,
+      "gas:candidate-vibid:2752000882889": 82,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 21,
+      "gas:candidate-vibid:2752000881456": 33,
+      "gas:candidate-vibid:2752000881369": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3919,13 +3919,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 51,
-      "Говорин Николай Васильевич": 151,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 14,
-      "Поздняков Владимир Георгиевич": 35,
-      "Ушаков Вячеслав Иванович": 26
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 51,
+      "gas:candidate-vibid:2752000882889": 151,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 14,
+      "gas:candidate-vibid:2752000881456": 35,
+      "gas:candidate-vibid:2752000881369": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824637&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824637&type=464",
@@ -3976,13 +3976,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 20,
-      "Говорин Николай Васильевич": 145,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 31,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 20,
+      "gas:candidate-vibid:2752000882889": 145,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 31,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4033,13 +4033,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 9,
-      "Говорин Николай Васильевич": 54,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 10,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 9,
+      "gas:candidate-vibid:2752000882889": 54,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 10,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4090,13 +4090,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 14,
-      "Говорин Николай Васильевич": 131,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 11,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 14,
+      "gas:candidate-vibid:2752000882889": 131,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 11,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4147,13 +4147,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 12,
-      "Волков Юрий Геннадьевич": 36,
-      "Говорин Николай Васильевич": 133,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 20,
-      "Поздняков Владимир Георгиевич": 25,
-      "Ушаков Вячеслав Иванович": 16
+      "gas:candidate-vibid:2752000879901": 12,
+      "gas:candidate-vibid:2752000879140": 36,
+      "gas:candidate-vibid:2752000882889": 133,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 20,
+      "gas:candidate-vibid:2752000881456": 25,
+      "gas:candidate-vibid:2752000881369": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4204,13 +4204,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 24,
-      "Волков Юрий Геннадьевич": 80,
-      "Говорин Николай Васильевич": 547,
-      "Катушев Александр Николаевич": 12,
-      "Пименов Вячеслав Владимирович": 27,
-      "Поздняков Владимир Георгиевич": 101,
-      "Ушаков Вячеслав Иванович": 30
+      "gas:candidate-vibid:2752000879901": 24,
+      "gas:candidate-vibid:2752000879140": 80,
+      "gas:candidate-vibid:2752000882889": 547,
+      "gas:candidate-vibid:2752000882380": 12,
+      "gas:candidate-vibid:2752000881660": 27,
+      "gas:candidate-vibid:2752000881456": 101,
+      "gas:candidate-vibid:2752000881369": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4261,13 +4261,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 7,
-      "Говорин Николай Васильевич": 40,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 7,
+      "gas:candidate-vibid:2752000882889": 40,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4318,13 +4318,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 25,
-      "Говорин Николай Васильевич": 134,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 6,
-      "Поздняков Владимир Георгиевич": 18,
-      "Ушаков Вячеслав Иванович": 18
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 25,
+      "gas:candidate-vibid:2752000882889": 134,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 6,
+      "gas:candidate-vibid:2752000881456": 18,
+      "gas:candidate-vibid:2752000881369": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4375,13 +4375,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 20,
-      "Говорин Николай Васильевич": 105,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 11,
-      "Поздняков Владимир Георгиевич": 16,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 20,
+      "gas:candidate-vibid:2752000882889": 105,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 11,
+      "gas:candidate-vibid:2752000881456": 16,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4432,13 +4432,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 32,
-      "Говорин Николай Васильевич": 114,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 6,
-      "Поздняков Владимир Георгиевич": 21,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 32,
+      "gas:candidate-vibid:2752000882889": 114,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 6,
+      "gas:candidate-vibid:2752000881456": 21,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4489,13 +4489,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 29,
-      "Говорин Николай Васильевич": 102,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 29,
+      "gas:candidate-vibid:2752000882889": 102,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4546,13 +4546,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 56,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 4,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 56,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 4,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824638&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824638&type=464",
@@ -4603,13 +4603,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 15,
-      "Волков Юрий Геннадьевич": 45,
-      "Говорин Николай Васильевич": 55,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 37,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 15,
+      "gas:candidate-vibid:2752000879140": 45,
+      "gas:candidate-vibid:2752000882889": 55,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 37,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -4660,13 +4660,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 36,
-      "Говорин Николай Васильевич": 57,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 23,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 36,
+      "gas:candidate-vibid:2752000882889": 57,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 23,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -4717,13 +4717,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 17,
-      "Волков Юрий Геннадьевич": 35,
-      "Говорин Николай Васильевич": 59,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 17,
-      "Поздняков Владимир Георгиевич": 19,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 17,
+      "gas:candidate-vibid:2752000879140": 35,
+      "gas:candidate-vibid:2752000882889": 59,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 17,
+      "gas:candidate-vibid:2752000881456": 19,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -4774,13 +4774,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 31,
-      "Говорин Николай Васильевич": 37,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 31,
+      "gas:candidate-vibid:2752000882889": 37,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -4831,13 +4831,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 16,
-      "Волков Юрий Геннадьевич": 55,
-      "Говорин Николай Васильевич": 44,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 10,
-      "Поздняков Владимир Георгиевич": 16,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 16,
+      "gas:candidate-vibid:2752000879140": 55,
+      "gas:candidate-vibid:2752000882889": 44,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 10,
+      "gas:candidate-vibid:2752000881456": 16,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -4888,13 +4888,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 11,
-      "Говорин Николай Васильевич": 10,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 11,
+      "gas:candidate-vibid:2752000882889": 10,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -4945,13 +4945,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 11,
-      "Волков Юрий Геннадьевич": 34,
-      "Говорин Николай Васильевич": 25,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 19,
-      "Ушаков Вячеслав Иванович": 18
+      "gas:candidate-vibid:2752000879901": 11,
+      "gas:candidate-vibid:2752000879140": 34,
+      "gas:candidate-vibid:2752000882889": 25,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 19,
+      "gas:candidate-vibid:2752000881369": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5002,13 +5002,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 28,
-      "Волков Юрий Геннадьевич": 57,
-      "Говорин Николай Васильевич": 74,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 19,
-      "Поздняков Владимир Георгиевич": 19,
-      "Ушаков Вячеслав Иванович": 19
+      "gas:candidate-vibid:2752000879901": 28,
+      "gas:candidate-vibid:2752000879140": 57,
+      "gas:candidate-vibid:2752000882889": 74,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 19,
+      "gas:candidate-vibid:2752000881456": 19,
+      "gas:candidate-vibid:2752000881369": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5059,13 +5059,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 17,
-      "Волков Юрий Геннадьевич": 34,
-      "Говорин Николай Васильевич": 52,
-      "Катушев Александр Николаевич": 11,
-      "Пименов Вячеслав Владимирович": 27,
-      "Поздняков Владимир Георгиевич": 23,
-      "Ушаков Вячеслав Иванович": 16
+      "gas:candidate-vibid:2752000879901": 17,
+      "gas:candidate-vibid:2752000879140": 34,
+      "gas:candidate-vibid:2752000882889": 52,
+      "gas:candidate-vibid:2752000882380": 11,
+      "gas:candidate-vibid:2752000881660": 27,
+      "gas:candidate-vibid:2752000881456": 23,
+      "gas:candidate-vibid:2752000881369": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5116,13 +5116,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 25,
-      "Говорин Николай Васильевич": 61,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 27,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 25,
+      "gas:candidate-vibid:2752000882889": 61,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 27,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5173,13 +5173,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 9,
-      "Говорин Николай Васильевич": 24,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 9,
+      "gas:candidate-vibid:2752000882889": 24,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5230,13 +5230,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 45,
-      "Говорин Николай Васильевич": 47,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 10,
-      "Поздняков Владимир Георгиевич": 16,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 45,
+      "gas:candidate-vibid:2752000882889": 47,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 10,
+      "gas:candidate-vibid:2752000881456": 16,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5287,13 +5287,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 26,
-      "Говорин Николай Васильевич": 58,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 11,
-      "Поздняков Владимир Георгиевич": 26,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 26,
+      "gas:candidate-vibid:2752000882889": 58,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 11,
+      "gas:candidate-vibid:2752000881456": 26,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5344,13 +5344,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 24,
-      "Говорин Николай Васильевич": 69,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 14,
-      "Поздняков Владимир Георгиевич": 16,
-      "Ушаков Вячеслав Иванович": 8
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 24,
+      "gas:candidate-vibid:2752000882889": 69,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 14,
+      "gas:candidate-vibid:2752000881456": 16,
+      "gas:candidate-vibid:2752000881369": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5401,13 +5401,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 30,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 30,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824639&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824639&type=464",
@@ -5458,13 +5458,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 40,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 40,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5515,13 +5515,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 8,
-      "Говорин Николай Васильевич": 36,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 8
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 8,
+      "gas:candidate-vibid:2752000882889": 36,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5572,13 +5572,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 8,
-      "Говорин Николай Васильевич": 38,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 0,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 8,
+      "gas:candidate-vibid:2752000882889": 38,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 0,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5629,13 +5629,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 53,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 6,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 53,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 6,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5686,13 +5686,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 11,
-      "Говорин Николай Васильевич": 102,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 11,
+      "gas:candidate-vibid:2752000882889": 102,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5743,13 +5743,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 11,
-      "Волков Юрий Геннадьевич": 33,
-      "Говорин Николай Васильевич": 174,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 18,
-      "Поздняков Владимир Георгиевич": 30,
-      "Ушаков Вячеслав Иванович": 37
+      "gas:candidate-vibid:2752000879901": 11,
+      "gas:candidate-vibid:2752000879140": 33,
+      "gas:candidate-vibid:2752000882889": 174,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 18,
+      "gas:candidate-vibid:2752000881456": 30,
+      "gas:candidate-vibid:2752000881369": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5800,13 +5800,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 61,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 6,
-      "Ушаков Вячеслав Иванович": 13
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 61,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 6,
+      "gas:candidate-vibid:2752000881369": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5857,13 +5857,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 82,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 14
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 82,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5914,13 +5914,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 21,
-      "Говорин Николай Васильевич": 114,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 4,
-      "Ушаков Вячеслав Иванович": 11
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 21,
+      "gas:candidate-vibid:2752000882889": 114,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 4,
+      "gas:candidate-vibid:2752000881369": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -5971,13 +5971,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 8,
-      "Говорин Николай Васильевич": 48,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 8
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 8,
+      "gas:candidate-vibid:2752000882889": 48,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6028,13 +6028,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 31,
-      "Волков Юрий Геннадьевич": 31,
-      "Говорин Николай Васильевич": 127,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 24
+      "gas:candidate-vibid:2752000879901": 31,
+      "gas:candidate-vibid:2752000879140": 31,
+      "gas:candidate-vibid:2752000882889": 127,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6085,13 +6085,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 16,
-      "Волков Юрий Геннадьевич": 41,
-      "Говорин Николай Васильевич": 120,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 15,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 23
+      "gas:candidate-vibid:2752000879901": 16,
+      "gas:candidate-vibid:2752000879140": 41,
+      "gas:candidate-vibid:2752000882889": 120,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 15,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6142,13 +6142,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 25,
-      "Говорин Николай Васильевич": 125,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 22
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 25,
+      "gas:candidate-vibid:2752000882889": 125,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6199,13 +6199,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 11,
-      "Говорин Николай Васильевич": 85,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 22
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 11,
+      "gas:candidate-vibid:2752000882889": 85,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6256,13 +6256,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 3,
-      "Говорин Николай Васильевич": 48,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 3,
+      "gas:candidate-vibid:2752000882889": 48,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6313,13 +6313,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 19,
-      "Говорин Николай Васильевич": 91,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 16,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 19,
+      "gas:candidate-vibid:2752000882889": 91,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 16,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6370,13 +6370,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 48,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 6,
-      "Ушаков Вячеслав Иванович": 11
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 48,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 6,
+      "gas:candidate-vibid:2752000881369": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6427,13 +6427,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 47,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 47,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6484,13 +6484,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 9,
-      "Говорин Николай Васильевич": 105,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 24,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 9,
+      "gas:candidate-vibid:2752000882889": 105,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 24,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6541,13 +6541,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 14,
-      "Говорин Николай Васильевич": 59,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 14,
+      "gas:candidate-vibid:2752000882889": 59,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6598,13 +6598,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 19,
-      "Говорин Николай Васильевич": 110,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 13
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 19,
+      "gas:candidate-vibid:2752000882889": 110,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824640&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824640&type=464",
@@ -6655,13 +6655,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 39,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 13,
-      "Ушаков Вячеслав Иванович": 7
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 39,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 13,
+      "gas:candidate-vibid:2752000881369": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -6712,13 +6712,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 31,
-      "Говорин Николай Васильевич": 125,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 13,
-      "Ушаков Вячеслав Иванович": 30
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 31,
+      "gas:candidate-vibid:2752000882889": 125,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 13,
+      "gas:candidate-vibid:2752000881369": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -6769,13 +6769,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 9,
-      "Волков Юрий Геннадьевич": 52,
-      "Говорин Николай Васильевич": 162,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 19,
-      "Поздняков Владимир Георгиевич": 27,
-      "Ушаков Вячеслав Иванович": 40
+      "gas:candidate-vibid:2752000879901": 9,
+      "gas:candidate-vibid:2752000879140": 52,
+      "gas:candidate-vibid:2752000882889": 162,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 19,
+      "gas:candidate-vibid:2752000881456": 27,
+      "gas:candidate-vibid:2752000881369": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -6826,13 +6826,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 28,
-      "Говорин Николай Васильевич": 148,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 25,
-      "Ушаков Вячеслав Иванович": 23
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 28,
+      "gas:candidate-vibid:2752000882889": 148,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 25,
+      "gas:candidate-vibid:2752000881369": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -6883,13 +6883,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 12,
-      "Волков Юрий Геннадьевич": 35,
-      "Говорин Николай Васильевич": 176,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 28
+      "gas:candidate-vibid:2752000879901": 12,
+      "gas:candidate-vibid:2752000879140": 35,
+      "gas:candidate-vibid:2752000882889": 176,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -6940,13 +6940,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 15,
-      "Волков Юрий Геннадьевич": 29,
-      "Говорин Николай Васильевич": 141,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 22
+      "gas:candidate-vibid:2752000879901": 15,
+      "gas:candidate-vibid:2752000879140": 29,
+      "gas:candidate-vibid:2752000882889": 141,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -6997,13 +6997,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 29,
-      "Говорин Николай Васильевич": 177,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 23
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 29,
+      "gas:candidate-vibid:2752000882889": 177,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7054,13 +7054,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 68,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 13
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 68,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7111,13 +7111,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 56,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 10,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 56,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 10,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7168,13 +7168,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 66,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 8
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 66,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7225,13 +7225,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 26,
-      "Говорин Николай Васильевич": 115,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 11,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 12
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 26,
+      "gas:candidate-vibid:2752000882889": 115,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 11,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7282,13 +7282,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 20,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 115,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 10,
-      "Ушаков Вячеслав Иванович": 15
+      "gas:candidate-vibid:2752000879901": 20,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 115,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 10,
+      "gas:candidate-vibid:2752000881369": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7339,13 +7339,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 28,
-      "Говорин Николай Васильевич": 90,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 18
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 28,
+      "gas:candidate-vibid:2752000882889": 90,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7396,13 +7396,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 39,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 39,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7453,13 +7453,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 17,
-      "Волков Юрий Геннадьевич": 31,
-      "Говорин Николай Васильевич": 232,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 47,
-      "Ушаков Вячеслав Иванович": 20
+      "gas:candidate-vibid:2752000879901": 17,
+      "gas:candidate-vibid:2752000879140": 31,
+      "gas:candidate-vibid:2752000882889": 232,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 47,
+      "gas:candidate-vibid:2752000881369": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7510,13 +7510,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 24,
-      "Говорин Николай Васильевич": 65,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 14
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 24,
+      "gas:candidate-vibid:2752000882889": 65,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7567,13 +7567,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 12,
-      "Говорин Николай Васильевич": 89,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 15
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 12,
+      "gas:candidate-vibid:2752000882889": 89,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7624,13 +7624,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 12,
-      "Говорин Николай Васильевич": 37,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 21
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 12,
+      "gas:candidate-vibid:2752000882889": 37,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7681,13 +7681,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 2,
-      "Говорин Николай Васильевич": 16,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 0,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 2,
+      "gas:candidate-vibid:2752000882889": 16,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 0,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7738,13 +7738,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 13,
-      "Говорин Николай Васильевич": 62,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 21
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 13,
+      "gas:candidate-vibid:2752000882889": 62,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7795,13 +7795,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 5,
-      "Говорин Николай Васильевич": 49,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 5,
+      "gas:candidate-vibid:2752000882889": 49,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7852,13 +7852,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 15,
-      "Говорин Николай Васильевич": 29,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 15,
+      "gas:candidate-vibid:2752000882889": 29,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7909,13 +7909,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 85,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 6,
-      "Поздняков Владимир Георгиевич": 10,
-      "Ушаков Вячеслав Иванович": 20
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 85,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 6,
+      "gas:candidate-vibid:2752000881456": 10,
+      "gas:candidate-vibid:2752000881369": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -7966,13 +7966,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 15,
-      "Говорин Николай Васильевич": 14,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 0,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 15,
+      "gas:candidate-vibid:2752000882889": 14,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 0,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8023,13 +8023,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 27,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 14
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 27,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8080,13 +8080,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 3,
-      "Говорин Николай Васильевич": 32,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 3,
+      "gas:candidate-vibid:2752000882889": 32,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8137,13 +8137,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 23,
-      "Говорин Николай Васильевич": 151,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 10,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 17
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 23,
+      "gas:candidate-vibid:2752000882889": 151,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 10,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8194,13 +8194,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 16,
-      "Волков Юрий Геннадьевич": 40,
-      "Говорин Николай Васильевич": 174,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 16,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 16,
+      "gas:candidate-vibid:2752000879140": 40,
+      "gas:candidate-vibid:2752000882889": 174,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 16,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8251,13 +8251,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 81,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 81,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8308,13 +8308,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 14,
-      "Говорин Николай Васильевич": 38,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 22,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 14,
+      "gas:candidate-vibid:2752000882889": 38,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 22,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8365,13 +8365,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 35,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 5
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 35,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8422,13 +8422,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 12,
-      "Говорин Николай Васильевич": 35,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 12,
+      "gas:candidate-vibid:2752000882889": 35,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8479,13 +8479,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 26,
-      "Говорин Николай Васильевич": 151,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 8
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 26,
+      "gas:candidate-vibid:2752000882889": 151,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8536,13 +8536,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 5,
-      "Говорин Николай Васильевич": 30,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 5,
+      "gas:candidate-vibid:2752000882889": 30,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8593,13 +8593,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 5,
-      "Говорин Николай Васильевич": 33,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 5,
+      "gas:candidate-vibid:2752000882889": 33,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8650,13 +8650,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 11,
-      "Говорин Николай Васильевич": 51,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 17
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 11,
+      "gas:candidate-vibid:2752000882889": 51,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824641&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824641&type=464",
@@ -8707,13 +8707,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 95,
-      "Говорин Николай Васильевич": 301,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 15,
-      "Поздняков Владимир Георгиевич": 50,
-      "Ушаков Вячеслав Иванович": 62
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 95,
+      "gas:candidate-vibid:2752000882889": 301,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 15,
+      "gas:candidate-vibid:2752000881456": 50,
+      "gas:candidate-vibid:2752000881369": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -8764,13 +8764,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 19,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 4,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 19,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 4,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -8821,13 +8821,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 29,
-      "Говорин Николай Васильевич": 125,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 29,
+      "gas:candidate-vibid:2752000882889": 125,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -8878,13 +8878,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 84,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 17,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 84,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 17,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -8935,13 +8935,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 14,
-      "Говорин Николай Васильевич": 60,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 4,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 14,
+      "gas:candidate-vibid:2752000882889": 60,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 4,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -8992,13 +8992,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 5,
-      "Говорин Николай Васильевич": 45,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 5,
+      "gas:candidate-vibid:2752000882889": 45,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9049,13 +9049,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 58,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 58,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9106,13 +9106,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 21,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 1
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 21,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9163,13 +9163,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 24,
-      "Говорин Николай Васильевич": 54,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 24,
+      "gas:candidate-vibid:2752000882889": 54,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9220,13 +9220,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 28,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 28,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9277,13 +9277,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 10,
-      "Говорин Николай Васильевич": 25,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 5,
-      "Ушаков Вячеслав Иванович": 15
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 10,
+      "gas:candidate-vibid:2752000882889": 25,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 5,
+      "gas:candidate-vibid:2752000881369": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9334,13 +9334,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 39,
-      "Говорин Николай Васильевич": 41,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 39,
+      "gas:candidate-vibid:2752000882889": 41,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9391,13 +9391,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 8,
-      "Говорин Николай Васильевич": 45,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 1,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 1
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 8,
+      "gas:candidate-vibid:2752000882889": 45,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 1,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9448,13 +9448,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 8,
-      "Волков Юрий Геннадьевич": 31,
-      "Говорин Николай Васильевич": 111,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 6,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 10
+      "gas:candidate-vibid:2752000879901": 8,
+      "gas:candidate-vibid:2752000879140": 31,
+      "gas:candidate-vibid:2752000882889": 111,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 6,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9505,13 +9505,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 75,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 75,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9562,13 +9562,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 42,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 7,
-      "Поздняков Владимир Георгиевич": 4,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 42,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 7,
+      "gas:candidate-vibid:2752000881456": 4,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9619,13 +9619,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 5,
-      "Говорин Николай Васильевич": 49,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 10,
-      "Ушаков Вячеслав Иванович": 3
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 5,
+      "gas:candidate-vibid:2752000882889": 49,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 10,
+      "gas:candidate-vibid:2752000881369": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9676,13 +9676,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 7,
-      "Волков Юрий Геннадьевич": 25,
-      "Говорин Николай Васильевич": 135,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 16,
-      "Поздняков Владимир Георгиевич": 25,
-      "Ушаков Вячеслав Иванович": 11
+      "gas:candidate-vibid:2752000879901": 7,
+      "gas:candidate-vibid:2752000879140": 25,
+      "gas:candidate-vibid:2752000882889": 135,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 16,
+      "gas:candidate-vibid:2752000881456": 25,
+      "gas:candidate-vibid:2752000881369": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9733,13 +9733,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 15,
-      "Говорин Николай Васильевич": 64,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 15,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 15,
+      "gas:candidate-vibid:2752000882889": 64,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 15,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9790,13 +9790,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 2,
-      "Волков Юрий Геннадьевич": 0,
-      "Говорин Николай Васильевич": 68,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 1,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 2,
+      "gas:candidate-vibid:2752000879140": 0,
+      "gas:candidate-vibid:2752000882889": 68,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 1,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9847,13 +9847,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 8,
-      "Говорин Николай Васильевич": 40,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 8,
+      "gas:candidate-vibid:2752000882889": 40,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9904,13 +9904,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 0,
-      "Говорин Николай Васильевич": 39,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 5,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 0,
+      "gas:candidate-vibid:2752000882889": 39,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 5,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -9961,13 +9961,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 5,
-      "Волков Юрий Геннадьевич": 16,
-      "Говорин Николай Васильевич": 97,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 3,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 17
+      "gas:candidate-vibid:2752000879901": 5,
+      "gas:candidate-vibid:2752000879140": 16,
+      "gas:candidate-vibid:2752000882889": 97,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 3,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -10018,13 +10018,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 11,
-      "Волков Юрий Геннадьевич": 14,
-      "Говорин Николай Васильевич": 92,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 23,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 0
+      "gas:candidate-vibid:2752000879901": 11,
+      "gas:candidate-vibid:2752000879140": 14,
+      "gas:candidate-vibid:2752000882889": 92,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 23,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -10075,13 +10075,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 0,
-      "Волков Юрий Геннадьевич": 3,
-      "Говорин Николай Васильевич": 18,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 2,
-      "Ушаков Вячеслав Иванович": 1
+      "gas:candidate-vibid:2752000879901": 0,
+      "gas:candidate-vibid:2752000879140": 3,
+      "gas:candidate-vibid:2752000882889": 18,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 2,
+      "gas:candidate-vibid:2752000881369": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -10132,13 +10132,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 1,
-      "Волков Юрий Геннадьевич": 3,
-      "Говорин Николай Васильевич": 48,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 12,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 1,
+      "gas:candidate-vibid:2752000879140": 3,
+      "gas:candidate-vibid:2752000882889": 48,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 12,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824642&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824642&type=464",
@@ -10189,13 +10189,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 40,
-      "Волков Юрий Геннадьевич": 114,
-      "Говорин Николай Васильевич": 339,
-      "Катушев Александр Николаевич": 21,
-      "Пименов Вячеслав Владимирович": 33,
-      "Поздняков Владимир Георгиевич": 57,
-      "Ушаков Вячеслав Иванович": 28
+      "gas:candidate-vibid:2752000879901": 40,
+      "gas:candidate-vibid:2752000879140": 114,
+      "gas:candidate-vibid:2752000882889": 339,
+      "gas:candidate-vibid:2752000882380": 21,
+      "gas:candidate-vibid:2752000881660": 33,
+      "gas:candidate-vibid:2752000881456": 57,
+      "gas:candidate-vibid:2752000881369": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10246,13 +10246,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 148,
-      "Волков Юрий Геннадьевич": 395,
-      "Говорин Николай Васильевич": 658,
-      "Катушев Александр Николаевич": 89,
-      "Пименов Вячеслав Владимирович": 81,
-      "Поздняков Владимир Георгиевич": 110,
-      "Ушаков Вячеслав Иванович": 141
+      "gas:candidate-vibid:2752000879901": 148,
+      "gas:candidate-vibid:2752000879140": 395,
+      "gas:candidate-vibid:2752000882889": 658,
+      "gas:candidate-vibid:2752000882380": 89,
+      "gas:candidate-vibid:2752000881660": 81,
+      "gas:candidate-vibid:2752000881456": 110,
+      "gas:candidate-vibid:2752000881369": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10303,13 +10303,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 60,
-      "Волков Юрий Геннадьевич": 238,
-      "Говорин Николай Васильевич": 470,
-      "Катушев Александр Николаевич": 52,
-      "Пименов Вячеслав Владимирович": 55,
-      "Поздняков Владимир Георгиевич": 84,
-      "Ушаков Вячеслав Иванович": 120
+      "gas:candidate-vibid:2752000879901": 60,
+      "gas:candidate-vibid:2752000879140": 238,
+      "gas:candidate-vibid:2752000882889": 470,
+      "gas:candidate-vibid:2752000882380": 52,
+      "gas:candidate-vibid:2752000881660": 55,
+      "gas:candidate-vibid:2752000881456": 84,
+      "gas:candidate-vibid:2752000881369": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10360,13 +10360,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 47,
-      "Волков Юрий Геннадьевич": 137,
-      "Говорин Николай Васильевич": 385,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 33,
-      "Поздняков Владимир Георгиевич": 83,
-      "Ушаков Вячеслав Иванович": 44
+      "gas:candidate-vibid:2752000879901": 47,
+      "gas:candidate-vibid:2752000879140": 137,
+      "gas:candidate-vibid:2752000882889": 385,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 33,
+      "gas:candidate-vibid:2752000881456": 83,
+      "gas:candidate-vibid:2752000881369": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10417,13 +10417,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 21,
-      "Волков Юрий Геннадьевич": 61,
-      "Говорин Николай Васильевич": 163,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 13,
-      "Поздняков Владимир Георгиевич": 37,
-      "Ушаков Вячеслав Иванович": 25
+      "gas:candidate-vibid:2752000879901": 21,
+      "gas:candidate-vibid:2752000879140": 61,
+      "gas:candidate-vibid:2752000882889": 163,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 13,
+      "gas:candidate-vibid:2752000881456": 37,
+      "gas:candidate-vibid:2752000881369": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10474,13 +10474,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 97,
-      "Волков Юрий Геннадьевич": 133,
-      "Говорин Николай Васильевич": 628,
-      "Катушев Александр Николаевич": 30,
-      "Пименов Вячеслав Владимирович": 42,
-      "Поздняков Владимир Георгиевич": 136,
-      "Ушаков Вячеслав Иванович": 50
+      "gas:candidate-vibid:2752000879901": 97,
+      "gas:candidate-vibid:2752000879140": 133,
+      "gas:candidate-vibid:2752000882889": 628,
+      "gas:candidate-vibid:2752000882380": 30,
+      "gas:candidate-vibid:2752000881660": 42,
+      "gas:candidate-vibid:2752000881456": 136,
+      "gas:candidate-vibid:2752000881369": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10531,13 +10531,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 81,
-      "Волков Юрий Геннадьевич": 112,
-      "Говорин Николай Васильевич": 463,
-      "Катушев Александр Николаевич": 12,
-      "Пименов Вячеслав Владимирович": 45,
-      "Поздняков Владимир Георгиевич": 85,
-      "Ушаков Вячеслав Иванович": 44
+      "gas:candidate-vibid:2752000879901": 81,
+      "gas:candidate-vibid:2752000879140": 112,
+      "gas:candidate-vibid:2752000882889": 463,
+      "gas:candidate-vibid:2752000882380": 12,
+      "gas:candidate-vibid:2752000881660": 45,
+      "gas:candidate-vibid:2752000881456": 85,
+      "gas:candidate-vibid:2752000881369": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10588,13 +10588,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 67,
-      "Волков Юрий Геннадьевич": 90,
-      "Говорин Николай Васильевич": 394,
-      "Катушев Александр Николаевич": 23,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 89,
-      "Ушаков Вячеслав Иванович": 49
+      "gas:candidate-vibid:2752000879901": 67,
+      "gas:candidate-vibid:2752000879140": 90,
+      "gas:candidate-vibid:2752000882889": 394,
+      "gas:candidate-vibid:2752000882380": 23,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 89,
+      "gas:candidate-vibid:2752000881369": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10645,13 +10645,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 69,
-      "Волков Юрий Геннадьевич": 73,
-      "Говорин Николай Васильевич": 448,
-      "Катушев Александр Николаевич": 17,
-      "Пименов Вячеслав Владимирович": 27,
-      "Поздняков Владимир Георгиевич": 93,
-      "Ушаков Вячеслав Иванович": 38
+      "gas:candidate-vibid:2752000879901": 69,
+      "gas:candidate-vibid:2752000879140": 73,
+      "gas:candidate-vibid:2752000882889": 448,
+      "gas:candidate-vibid:2752000882380": 17,
+      "gas:candidate-vibid:2752000881660": 27,
+      "gas:candidate-vibid:2752000881456": 93,
+      "gas:candidate-vibid:2752000881369": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10702,13 +10702,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 41,
-      "Волков Юрий Геннадьевич": 75,
-      "Говорин Николай Васильевич": 214,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 15,
-      "Поздняков Владимир Георгиевич": 39,
-      "Ушаков Вячеслав Иванович": 22
+      "gas:candidate-vibid:2752000879901": 41,
+      "gas:candidate-vibid:2752000879140": 75,
+      "gas:candidate-vibid:2752000882889": 214,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 15,
+      "gas:candidate-vibid:2752000881456": 39,
+      "gas:candidate-vibid:2752000881369": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10759,13 +10759,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 61,
-      "Волков Юрий Геннадьевич": 85,
-      "Говорин Николай Васильевич": 442,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 24,
-      "Поздняков Владимир Георгиевич": 95,
-      "Ушаков Вячеслав Иванович": 36
+      "gas:candidate-vibid:2752000879901": 61,
+      "gas:candidate-vibid:2752000879140": 85,
+      "gas:candidate-vibid:2752000882889": 442,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 24,
+      "gas:candidate-vibid:2752000881456": 95,
+      "gas:candidate-vibid:2752000881369": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10816,13 +10816,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 60,
-      "Волков Юрий Геннадьевич": 57,
-      "Говорин Николай Васильевич": 433,
-      "Катушев Александр Николаевич": 14,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 78,
-      "Ушаков Вячеслав Иванович": 32
+      "gas:candidate-vibid:2752000879901": 60,
+      "gas:candidate-vibid:2752000879140": 57,
+      "gas:candidate-vibid:2752000882889": 433,
+      "gas:candidate-vibid:2752000882380": 14,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 78,
+      "gas:candidate-vibid:2752000881369": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10873,13 +10873,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 50,
-      "Волков Юрий Геннадьевич": 74,
-      "Говорин Николай Васильевич": 407,
-      "Катушев Александр Николаевич": 14,
-      "Пименов Вячеслав Владимирович": 34,
-      "Поздняков Владимир Георгиевич": 70,
-      "Ушаков Вячеслав Иванович": 52
+      "gas:candidate-vibid:2752000879901": 50,
+      "gas:candidate-vibid:2752000879140": 74,
+      "gas:candidate-vibid:2752000882889": 407,
+      "gas:candidate-vibid:2752000882380": 14,
+      "gas:candidate-vibid:2752000881660": 34,
+      "gas:candidate-vibid:2752000881456": 70,
+      "gas:candidate-vibid:2752000881369": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10930,13 +10930,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 29,
-      "Волков Юрий Геннадьевич": 45,
-      "Говорин Николай Васильевич": 203,
-      "Катушев Александр Николаевич": 9,
-      "Пименов Вячеслав Владимирович": 18,
-      "Поздняков Владимир Георгиевич": 45,
-      "Ушаков Вячеслав Иванович": 16
+      "gas:candidate-vibid:2752000879901": 29,
+      "gas:candidate-vibid:2752000879140": 45,
+      "gas:candidate-vibid:2752000882889": 203,
+      "gas:candidate-vibid:2752000882380": 9,
+      "gas:candidate-vibid:2752000881660": 18,
+      "gas:candidate-vibid:2752000881456": 45,
+      "gas:candidate-vibid:2752000881369": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -10987,13 +10987,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 84,
-      "Волков Юрий Геннадьевич": 85,
-      "Говорин Николай Васильевич": 454,
-      "Катушев Александр Николаевич": 18,
-      "Пименов Вячеслав Владимирович": 31,
-      "Поздняков Владимир Георгиевич": 102,
-      "Ушаков Вячеслав Иванович": 37
+      "gas:candidate-vibid:2752000879901": 84,
+      "gas:candidate-vibid:2752000879140": 85,
+      "gas:candidate-vibid:2752000882889": 454,
+      "gas:candidate-vibid:2752000882380": 18,
+      "gas:candidate-vibid:2752000881660": 31,
+      "gas:candidate-vibid:2752000881456": 102,
+      "gas:candidate-vibid:2752000881369": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11044,13 +11044,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 104,
-      "Волков Юрий Геннадьевич": 94,
-      "Говорин Николай Васильевич": 590,
-      "Катушев Александр Николаевич": 22,
-      "Пименов Вячеслав Владимирович": 45,
-      "Поздняков Владимир Георгиевич": 131,
-      "Ушаков Вячеслав Иванович": 48
+      "gas:candidate-vibid:2752000879901": 104,
+      "gas:candidate-vibid:2752000879140": 94,
+      "gas:candidate-vibid:2752000882889": 590,
+      "gas:candidate-vibid:2752000882380": 22,
+      "gas:candidate-vibid:2752000881660": 45,
+      "gas:candidate-vibid:2752000881456": 131,
+      "gas:candidate-vibid:2752000881369": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11101,13 +11101,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 29,
-      "Волков Юрий Геннадьевич": 83,
-      "Говорин Николай Васильевич": 277,
-      "Катушев Александр Николаевич": 7,
-      "Пименов Вячеслав Владимирович": 21,
-      "Поздняков Владимир Георгиевич": 44,
-      "Ушаков Вячеслав Иванович": 32
+      "gas:candidate-vibid:2752000879901": 29,
+      "gas:candidate-vibid:2752000879140": 83,
+      "gas:candidate-vibid:2752000882889": 277,
+      "gas:candidate-vibid:2752000882380": 7,
+      "gas:candidate-vibid:2752000881660": 21,
+      "gas:candidate-vibid:2752000881456": 44,
+      "gas:candidate-vibid:2752000881369": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11158,13 +11158,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 25,
-      "Волков Юрий Геннадьевич": 73,
-      "Говорин Николай Васильевич": 254,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 55,
-      "Ушаков Вячеслав Иванович": 28
+      "gas:candidate-vibid:2752000879901": 25,
+      "gas:candidate-vibid:2752000879140": 73,
+      "gas:candidate-vibid:2752000882889": 254,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 55,
+      "gas:candidate-vibid:2752000881369": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11215,13 +11215,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 52,
-      "Волков Юрий Геннадьевич": 81,
-      "Говорин Николай Васильевич": 321,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 80,
-      "Ушаков Вячеслав Иванович": 47
+      "gas:candidate-vibid:2752000879901": 52,
+      "gas:candidate-vibid:2752000879140": 81,
+      "gas:candidate-vibid:2752000882889": 321,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 80,
+      "gas:candidate-vibid:2752000881369": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11272,13 +11272,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 69,
-      "Волков Юрий Геннадьевич": 102,
-      "Говорин Николай Васильевич": 474,
-      "Катушев Александр Николаевич": 23,
-      "Пименов Вячеслав Владимирович": 30,
-      "Поздняков Владимир Георгиевич": 74,
-      "Ушаков Вячеслав Иванович": 45
+      "gas:candidate-vibid:2752000879901": 69,
+      "gas:candidate-vibid:2752000879140": 102,
+      "gas:candidate-vibid:2752000882889": 474,
+      "gas:candidate-vibid:2752000882380": 23,
+      "gas:candidate-vibid:2752000881660": 30,
+      "gas:candidate-vibid:2752000881456": 74,
+      "gas:candidate-vibid:2752000881369": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11329,13 +11329,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 81,
-      "Волков Юрий Геннадьевич": 103,
-      "Говорин Николай Васильевич": 515,
-      "Катушев Александр Николаевич": 18,
-      "Пименов Вячеслав Владимирович": 39,
-      "Поздняков Владимир Георгиевич": 123,
-      "Ушаков Вячеслав Иванович": 51
+      "gas:candidate-vibid:2752000879901": 81,
+      "gas:candidate-vibid:2752000879140": 103,
+      "gas:candidate-vibid:2752000882889": 515,
+      "gas:candidate-vibid:2752000882380": 18,
+      "gas:candidate-vibid:2752000881660": 39,
+      "gas:candidate-vibid:2752000881456": 123,
+      "gas:candidate-vibid:2752000881369": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11386,13 +11386,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 30,
-      "Волков Юрий Геннадьевич": 69,
-      "Говорин Николай Васильевич": 235,
-      "Катушев Александр Николаевич": 4,
-      "Пименов Вячеслав Владимирович": 24,
-      "Поздняков Владимир Георгиевич": 62,
-      "Ушаков Вячеслав Иванович": 39
+      "gas:candidate-vibid:2752000879901": 30,
+      "gas:candidate-vibid:2752000879140": 69,
+      "gas:candidate-vibid:2752000882889": 235,
+      "gas:candidate-vibid:2752000882380": 4,
+      "gas:candidate-vibid:2752000881660": 24,
+      "gas:candidate-vibid:2752000881456": 62,
+      "gas:candidate-vibid:2752000881369": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11443,13 +11443,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 12,
-      "Говорин Николай Васильевич": 75,
-      "Катушев Александр Николаевич": 3,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 11,
-      "Ушаков Вячеслав Иванович": 13
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 12,
+      "gas:candidate-vibid:2752000882889": 75,
+      "gas:candidate-vibid:2752000882380": 3,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 11,
+      "gas:candidate-vibid:2752000881369": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11500,13 +11500,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 37,
-      "Волков Юрий Геннадьевич": 138,
-      "Говорин Николай Васильевич": 466,
-      "Катушев Александр Николаевич": 14,
-      "Пименов Вячеслав Владимирович": 38,
-      "Поздняков Владимир Георгиевич": 64,
-      "Ушаков Вячеслав Иванович": 63
+      "gas:candidate-vibid:2752000879901": 37,
+      "gas:candidate-vibid:2752000879140": 138,
+      "gas:candidate-vibid:2752000882889": 466,
+      "gas:candidate-vibid:2752000882380": 14,
+      "gas:candidate-vibid:2752000881660": 38,
+      "gas:candidate-vibid:2752000881456": 64,
+      "gas:candidate-vibid:2752000881369": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11557,13 +11557,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 18,
-      "Говорин Николай Васильевич": 60,
-      "Катушев Александр Николаевич": 1,
-      "Пименов Вячеслав Владимирович": 4,
-      "Поздняков Владимир Георгиевич": 8,
-      "Ушаков Вячеслав Иванович": 8
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 18,
+      "gas:candidate-vibid:2752000882889": 60,
+      "gas:candidate-vibid:2752000882380": 1,
+      "gas:candidate-vibid:2752000881660": 4,
+      "gas:candidate-vibid:2752000881456": 8,
+      "gas:candidate-vibid:2752000881369": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11614,13 +11614,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 21,
-      "Волков Юрий Геннадьевич": 39,
-      "Говорин Николай Васильевич": 70,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 12,
-      "Поздняков Владимир Георгиевич": 14,
-      "Ушаков Вячеслав Иванович": 16
+      "gas:candidate-vibid:2752000879901": 21,
+      "gas:candidate-vibid:2752000879140": 39,
+      "gas:candidate-vibid:2752000882889": 70,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 12,
+      "gas:candidate-vibid:2752000881456": 14,
+      "gas:candidate-vibid:2752000881369": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11671,13 +11671,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 10,
-      "Волков Юрий Геннадьевич": 19,
-      "Говорин Николай Васильевич": 54,
-      "Катушев Александр Николаевич": 0,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 7,
-      "Ушаков Вячеслав Иванович": 2
+      "gas:candidate-vibid:2752000879901": 10,
+      "gas:candidate-vibid:2752000879140": 19,
+      "gas:candidate-vibid:2752000882889": 54,
+      "gas:candidate-vibid:2752000882380": 0,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 7,
+      "gas:candidate-vibid:2752000881369": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824643&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824643&type=464",
@@ -11728,13 +11728,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 65,
-      "Волков Юрий Геннадьевич": 106,
-      "Говорин Николай Васильевич": 397,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 32,
-      "Поздняков Владимир Георгиевич": 79,
-      "Ушаков Вячеслав Иванович": 64
+      "gas:candidate-vibid:2752000879901": 65,
+      "gas:candidate-vibid:2752000879140": 106,
+      "gas:candidate-vibid:2752000882889": 397,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 32,
+      "gas:candidate-vibid:2752000881456": 79,
+      "gas:candidate-vibid:2752000881369": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -11785,13 +11785,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 81,
-      "Волков Юрий Геннадьевич": 96,
-      "Говорин Николай Васильевич": 520,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 25,
-      "Поздняков Владимир Георгиевич": 90,
-      "Ушаков Вячеслав Иванович": 78
+      "gas:candidate-vibid:2752000879901": 81,
+      "gas:candidate-vibid:2752000879140": 96,
+      "gas:candidate-vibid:2752000882889": 520,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 25,
+      "gas:candidate-vibid:2752000881456": 90,
+      "gas:candidate-vibid:2752000881369": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -11842,13 +11842,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 57,
-      "Волков Юрий Геннадьевич": 90,
-      "Говорин Николай Васильевич": 587,
-      "Катушев Александр Николаевич": 22,
-      "Пименов Вячеслав Владимирович": 36,
-      "Поздняков Владимир Георгиевич": 90,
-      "Ушаков Вячеслав Иванович": 84
+      "gas:candidate-vibid:2752000879901": 57,
+      "gas:candidate-vibid:2752000879140": 90,
+      "gas:candidate-vibid:2752000882889": 587,
+      "gas:candidate-vibid:2752000882380": 22,
+      "gas:candidate-vibid:2752000881660": 36,
+      "gas:candidate-vibid:2752000881456": 90,
+      "gas:candidate-vibid:2752000881369": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -11899,13 +11899,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 85,
-      "Волков Юрий Геннадьевич": 134,
-      "Говорин Николай Васильевич": 654,
-      "Катушев Александр Николаевич": 20,
-      "Пименов Вячеслав Владимирович": 51,
-      "Поздняков Владимир Георгиевич": 97,
-      "Ушаков Вячеслав Иванович": 89
+      "gas:candidate-vibid:2752000879901": 85,
+      "gas:candidate-vibid:2752000879140": 134,
+      "gas:candidate-vibid:2752000882889": 654,
+      "gas:candidate-vibid:2752000882380": 20,
+      "gas:candidate-vibid:2752000881660": 51,
+      "gas:candidate-vibid:2752000881456": 97,
+      "gas:candidate-vibid:2752000881369": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -11956,13 +11956,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 79,
-      "Волков Юрий Геннадьевич": 114,
-      "Говорин Николай Васильевич": 610,
-      "Катушев Александр Николаевич": 23,
-      "Пименов Вячеслав Владимирович": 37,
-      "Поздняков Владимир Георгиевич": 95,
-      "Ушаков Вячеслав Иванович": 67
+      "gas:candidate-vibid:2752000879901": 79,
+      "gas:candidate-vibid:2752000879140": 114,
+      "gas:candidate-vibid:2752000882889": 610,
+      "gas:candidate-vibid:2752000882380": 23,
+      "gas:candidate-vibid:2752000881660": 37,
+      "gas:candidate-vibid:2752000881456": 95,
+      "gas:candidate-vibid:2752000881369": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12013,13 +12013,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 55,
-      "Волков Юрий Геннадьевич": 80,
-      "Говорин Николай Васильевич": 560,
-      "Катушев Александр Николаевич": 12,
-      "Пименов Вячеслав Владимирович": 34,
-      "Поздняков Владимир Георгиевич": 116,
-      "Ушаков Вячеслав Иванович": 142
+      "gas:candidate-vibid:2752000879901": 55,
+      "gas:candidate-vibid:2752000879140": 80,
+      "gas:candidate-vibid:2752000882889": 560,
+      "gas:candidate-vibid:2752000882380": 12,
+      "gas:candidate-vibid:2752000881660": 34,
+      "gas:candidate-vibid:2752000881456": 116,
+      "gas:candidate-vibid:2752000881369": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12070,13 +12070,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 45,
-      "Волков Юрий Геннадьевич": 85,
-      "Говорин Николай Васильевич": 369,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 29,
-      "Поздняков Владимир Георгиевич": 92,
-      "Ушаков Вячеслав Иванович": 79
+      "gas:candidate-vibid:2752000879901": 45,
+      "gas:candidate-vibid:2752000879140": 85,
+      "gas:candidate-vibid:2752000882889": 369,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 29,
+      "gas:candidate-vibid:2752000881456": 92,
+      "gas:candidate-vibid:2752000881369": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12127,13 +12127,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 65,
-      "Волков Юрий Геннадьевич": 115,
-      "Говорин Николай Васильевич": 438,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 76,
-      "Ушаков Вячеслав Иванович": 62
+      "gas:candidate-vibid:2752000879901": 65,
+      "gas:candidate-vibid:2752000879140": 115,
+      "gas:candidate-vibid:2752000882889": 438,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 76,
+      "gas:candidate-vibid:2752000881369": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12184,13 +12184,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 72,
-      "Волков Юрий Геннадьевич": 114,
-      "Говорин Николай Васильевич": 551,
-      "Катушев Александр Николаевич": 18,
-      "Пименов Вячеслав Владимирович": 40,
-      "Поздняков Владимир Георгиевич": 93,
-      "Ушаков Вячеслав Иванович": 64
+      "gas:candidate-vibid:2752000879901": 72,
+      "gas:candidate-vibid:2752000879140": 114,
+      "gas:candidate-vibid:2752000882889": 551,
+      "gas:candidate-vibid:2752000882380": 18,
+      "gas:candidate-vibid:2752000881660": 40,
+      "gas:candidate-vibid:2752000881456": 93,
+      "gas:candidate-vibid:2752000881369": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12241,13 +12241,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 63,
-      "Волков Юрий Геннадьевич": 107,
-      "Говорин Николай Васильевич": 527,
-      "Катушев Александр Николаевич": 14,
-      "Пименов Вячеслав Владимирович": 34,
-      "Поздняков Владимир Георгиевич": 98,
-      "Ушаков Вячеслав Иванович": 72
+      "gas:candidate-vibid:2752000879901": 63,
+      "gas:candidate-vibid:2752000879140": 107,
+      "gas:candidate-vibid:2752000882889": 527,
+      "gas:candidate-vibid:2752000882380": 14,
+      "gas:candidate-vibid:2752000881660": 34,
+      "gas:candidate-vibid:2752000881456": 98,
+      "gas:candidate-vibid:2752000881369": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12298,13 +12298,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 60,
-      "Волков Юрий Геннадьевич": 96,
-      "Говорин Николай Васильевич": 542,
-      "Катушев Александр Николаевич": 19,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 57,
-      "Ушаков Вячеслав Иванович": 61
+      "gas:candidate-vibid:2752000879901": 60,
+      "gas:candidate-vibid:2752000879140": 96,
+      "gas:candidate-vibid:2752000882889": 542,
+      "gas:candidate-vibid:2752000882380": 19,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 57,
+      "gas:candidate-vibid:2752000881369": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12355,13 +12355,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 70,
-      "Волков Юрий Геннадьевич": 117,
-      "Говорин Николай Васильевич": 576,
-      "Катушев Александр Николаевич": 11,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 90,
-      "Ушаков Вячеслав Иванович": 66
+      "gas:candidate-vibid:2752000879901": 70,
+      "gas:candidate-vibid:2752000879140": 117,
+      "gas:candidate-vibid:2752000882889": 576,
+      "gas:candidate-vibid:2752000882380": 11,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 90,
+      "gas:candidate-vibid:2752000881369": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12412,13 +12412,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 88,
-      "Волков Юрий Геннадьевич": 104,
-      "Говорин Николай Васильевич": 728,
-      "Катушев Александр Николаевич": 17,
-      "Пименов Вячеслав Владимирович": 39,
-      "Поздняков Владимир Георгиевич": 101,
-      "Ушаков Вячеслав Иванович": 63
+      "gas:candidate-vibid:2752000879901": 88,
+      "gas:candidate-vibid:2752000879140": 104,
+      "gas:candidate-vibid:2752000882889": 728,
+      "gas:candidate-vibid:2752000882380": 17,
+      "gas:candidate-vibid:2752000881660": 39,
+      "gas:candidate-vibid:2752000881456": 101,
+      "gas:candidate-vibid:2752000881369": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12469,13 +12469,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 52,
-      "Волков Юрий Геннадьевич": 90,
-      "Говорин Николай Васильевич": 492,
-      "Катушев Александр Николаевич": 29,
-      "Пименов Вячеслав Владимирович": 29,
-      "Поздняков Владимир Георгиевич": 58,
-      "Ушаков Вячеслав Иванович": 44
+      "gas:candidate-vibid:2752000879901": 52,
+      "gas:candidate-vibid:2752000879140": 90,
+      "gas:candidate-vibid:2752000882889": 492,
+      "gas:candidate-vibid:2752000882380": 29,
+      "gas:candidate-vibid:2752000881660": 29,
+      "gas:candidate-vibid:2752000881456": 58,
+      "gas:candidate-vibid:2752000881369": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12526,13 +12526,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 78,
-      "Волков Юрий Геннадьевич": 92,
-      "Говорин Николай Васильевич": 520,
-      "Катушев Александр Николаевич": 8,
-      "Пименов Вячеслав Владимирович": 28,
-      "Поздняков Владимир Георгиевич": 102,
-      "Ушаков Вячеслав Иванович": 65
+      "gas:candidate-vibid:2752000879901": 78,
+      "gas:candidate-vibid:2752000879140": 92,
+      "gas:candidate-vibid:2752000882889": 520,
+      "gas:candidate-vibid:2752000882380": 8,
+      "gas:candidate-vibid:2752000881660": 28,
+      "gas:candidate-vibid:2752000881456": 102,
+      "gas:candidate-vibid:2752000881369": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12583,13 +12583,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 59,
-      "Волков Юрий Геннадьевич": 109,
-      "Говорин Николай Васильевич": 498,
-      "Катушев Александр Николаевич": 19,
-      "Пименов Вячеслав Владимирович": 43,
-      "Поздняков Владимир Георгиевич": 78,
-      "Ушаков Вячеслав Иванович": 60
+      "gas:candidate-vibid:2752000879901": 59,
+      "gas:candidate-vibid:2752000879140": 109,
+      "gas:candidate-vibid:2752000882889": 498,
+      "gas:candidate-vibid:2752000882380": 19,
+      "gas:candidate-vibid:2752000881660": 43,
+      "gas:candidate-vibid:2752000881456": 78,
+      "gas:candidate-vibid:2752000881369": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12640,13 +12640,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 90,
-      "Волков Юрий Геннадьевич": 88,
-      "Говорин Николай Васильевич": 619,
-      "Катушев Александр Николаевич": 12,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 110,
-      "Ушаков Вячеслав Иванович": 58
+      "gas:candidate-vibid:2752000879901": 90,
+      "gas:candidate-vibid:2752000879140": 88,
+      "gas:candidate-vibid:2752000882889": 619,
+      "gas:candidate-vibid:2752000882380": 12,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 110,
+      "gas:candidate-vibid:2752000881369": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12697,13 +12697,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 59,
-      "Волков Юрий Геннадьевич": 99,
-      "Говорин Николай Васильевич": 532,
-      "Катушев Александр Николаевич": 11,
-      "Пименов Вячеслав Владимирович": 39,
-      "Поздняков Владимир Георгиевич": 106,
-      "Ушаков Вячеслав Иванович": 45
+      "gas:candidate-vibid:2752000879901": 59,
+      "gas:candidate-vibid:2752000879140": 99,
+      "gas:candidate-vibid:2752000882889": 532,
+      "gas:candidate-vibid:2752000882380": 11,
+      "gas:candidate-vibid:2752000881660": 39,
+      "gas:candidate-vibid:2752000881456": 106,
+      "gas:candidate-vibid:2752000881369": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12754,13 +12754,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 78,
-      "Волков Юрий Геннадьевич": 86,
-      "Говорин Николай Васильевич": 573,
-      "Катушев Александр Николаевич": 19,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 97,
-      "Ушаков Вячеслав Иванович": 35
+      "gas:candidate-vibid:2752000879901": 78,
+      "gas:candidate-vibid:2752000879140": 86,
+      "gas:candidate-vibid:2752000882889": 573,
+      "gas:candidate-vibid:2752000882380": 19,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 97,
+      "gas:candidate-vibid:2752000881369": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12811,13 +12811,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 76,
-      "Волков Юрий Геннадьевич": 76,
-      "Говорин Николай Васильевич": 531,
-      "Катушев Александр Николаевич": 15,
-      "Пименов Вячеслав Владимирович": 38,
-      "Поздняков Владимир Георгиевич": 106,
-      "Ушаков Вячеслав Иванович": 53
+      "gas:candidate-vibid:2752000879901": 76,
+      "gas:candidate-vibid:2752000879140": 76,
+      "gas:candidate-vibid:2752000882889": 531,
+      "gas:candidate-vibid:2752000882380": 15,
+      "gas:candidate-vibid:2752000881660": 38,
+      "gas:candidate-vibid:2752000881456": 106,
+      "gas:candidate-vibid:2752000881369": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12868,13 +12868,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 101,
-      "Волков Юрий Геннадьевич": 82,
-      "Говорин Николай Васильевич": 676,
-      "Катушев Александр Николаевич": 17,
-      "Пименов Вячеслав Владимирович": 34,
-      "Поздняков Владимир Георгиевич": 152,
-      "Ушаков Вячеслав Иванович": 44
+      "gas:candidate-vibid:2752000879901": 101,
+      "gas:candidate-vibid:2752000879140": 82,
+      "gas:candidate-vibid:2752000882889": 676,
+      "gas:candidate-vibid:2752000882380": 17,
+      "gas:candidate-vibid:2752000881660": 34,
+      "gas:candidate-vibid:2752000881456": 152,
+      "gas:candidate-vibid:2752000881369": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12925,13 +12925,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 60,
-      "Волков Юрий Геннадьевич": 75,
-      "Говорин Николай Васильевич": 398,
-      "Катушев Александр Николаевич": 16,
-      "Пименов Вячеслав Владимирович": 18,
-      "Поздняков Владимир Георгиевич": 65,
-      "Ушаков Вячеслав Иванович": 39
+      "gas:candidate-vibid:2752000879901": 60,
+      "gas:candidate-vibid:2752000879140": 75,
+      "gas:candidate-vibid:2752000882889": 398,
+      "gas:candidate-vibid:2752000882380": 16,
+      "gas:candidate-vibid:2752000881660": 18,
+      "gas:candidate-vibid:2752000881456": 65,
+      "gas:candidate-vibid:2752000881369": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -12982,13 +12982,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 47,
-      "Волков Юрий Геннадьевич": 65,
-      "Говорин Николай Васильевич": 410,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 17,
-      "Поздняков Владимир Георгиевич": 55,
-      "Ушаков Вячеслав Иванович": 33
+      "gas:candidate-vibid:2752000879901": 47,
+      "gas:candidate-vibid:2752000879140": 65,
+      "gas:candidate-vibid:2752000882889": 410,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 17,
+      "gas:candidate-vibid:2752000881456": 55,
+      "gas:candidate-vibid:2752000881369": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13039,13 +13039,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 51,
-      "Волков Юрий Геннадьевич": 79,
-      "Говорин Николай Васильевич": 341,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 19,
-      "Поздняков Владимир Георгиевич": 51,
-      "Ушаков Вячеслав Иванович": 33
+      "gas:candidate-vibid:2752000879901": 51,
+      "gas:candidate-vibid:2752000879140": 79,
+      "gas:candidate-vibid:2752000882889": 341,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 19,
+      "gas:candidate-vibid:2752000881456": 51,
+      "gas:candidate-vibid:2752000881369": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13096,13 +13096,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 65,
-      "Волков Юрий Геннадьевич": 65,
-      "Говорин Николай Васильевич": 485,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 27,
-      "Поздняков Владимир Георгиевич": 100,
-      "Ушаков Вячеслав Иванович": 36
+      "gas:candidate-vibid:2752000879901": 65,
+      "gas:candidate-vibid:2752000879140": 65,
+      "gas:candidate-vibid:2752000882889": 485,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 27,
+      "gas:candidate-vibid:2752000881456": 100,
+      "gas:candidate-vibid:2752000881369": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13153,13 +13153,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 105,
-      "Волков Юрий Геннадьевич": 98,
-      "Говорин Николай Васильевич": 630,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 41,
-      "Поздняков Владимир Георгиевич": 120,
-      "Ушаков Вячеслав Иванович": 50
+      "gas:candidate-vibid:2752000879901": 105,
+      "gas:candidate-vibid:2752000879140": 98,
+      "gas:candidate-vibid:2752000882889": 630,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 41,
+      "gas:candidate-vibid:2752000881456": 120,
+      "gas:candidate-vibid:2752000881369": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13210,13 +13210,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 41,
-      "Волков Юрий Геннадьевич": 83,
-      "Говорин Николай Васильевич": 397,
-      "Катушев Александр Николаевич": 20,
-      "Пименов Вячеслав Владимирович": 26,
-      "Поздняков Владимир Георгиевич": 54,
-      "Ушаков Вячеслав Иванович": 49
+      "gas:candidate-vibid:2752000879901": 41,
+      "gas:candidate-vibid:2752000879140": 83,
+      "gas:candidate-vibid:2752000882889": 397,
+      "gas:candidate-vibid:2752000882380": 20,
+      "gas:candidate-vibid:2752000881660": 26,
+      "gas:candidate-vibid:2752000881456": 54,
+      "gas:candidate-vibid:2752000881369": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13267,13 +13267,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 74,
-      "Волков Юрий Геннадьевич": 115,
-      "Говорин Николай Васильевич": 587,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 35,
-      "Поздняков Владимир Георгиевич": 121,
-      "Ушаков Вячеслав Иванович": 54
+      "gas:candidate-vibid:2752000879901": 74,
+      "gas:candidate-vibid:2752000879140": 115,
+      "gas:candidate-vibid:2752000882889": 587,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 35,
+      "gas:candidate-vibid:2752000881456": 121,
+      "gas:candidate-vibid:2752000881369": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13324,13 +13324,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 43,
-      "Волков Юрий Геннадьевич": 39,
-      "Говорин Николай Васильевич": 418,
-      "Катушев Александр Николаевич": 17,
-      "Пименов Вячеслав Владимирович": 27,
-      "Поздняков Владимир Георгиевич": 64,
-      "Ушаков Вячеслав Иванович": 37
+      "gas:candidate-vibid:2752000879901": 43,
+      "gas:candidate-vibid:2752000879140": 39,
+      "gas:candidate-vibid:2752000882889": 418,
+      "gas:candidate-vibid:2752000882380": 17,
+      "gas:candidate-vibid:2752000881660": 27,
+      "gas:candidate-vibid:2752000881456": 64,
+      "gas:candidate-vibid:2752000881369": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13381,13 +13381,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 101,
-      "Волков Юрий Геннадьевич": 113,
-      "Говорин Николай Васильевич": 567,
-      "Катушев Александр Николаевич": 25,
-      "Пименов Вячеслав Владимирович": 40,
-      "Поздняков Владимир Георгиевич": 116,
-      "Ушаков Вячеслав Иванович": 65
+      "gas:candidate-vibid:2752000879901": 101,
+      "gas:candidate-vibid:2752000879140": 113,
+      "gas:candidate-vibid:2752000882889": 567,
+      "gas:candidate-vibid:2752000882380": 25,
+      "gas:candidate-vibid:2752000881660": 40,
+      "gas:candidate-vibid:2752000881456": 116,
+      "gas:candidate-vibid:2752000881369": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13438,13 +13438,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 81,
-      "Волков Юрий Геннадьевич": 93,
-      "Говорин Николай Васильевич": 485,
-      "Катушев Александр Николаевич": 21,
-      "Пименов Вячеслав Владимирович": 32,
-      "Поздняков Владимир Георгиевич": 82,
-      "Ушаков Вячеслав Иванович": 35
+      "gas:candidate-vibid:2752000879901": 81,
+      "gas:candidate-vibid:2752000879140": 93,
+      "gas:candidate-vibid:2752000882889": 485,
+      "gas:candidate-vibid:2752000882380": 21,
+      "gas:candidate-vibid:2752000881660": 32,
+      "gas:candidate-vibid:2752000881456": 82,
+      "gas:candidate-vibid:2752000881369": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13495,13 +13495,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 72,
-      "Волков Юрий Геннадьевич": 74,
-      "Говорин Николай Васильевич": 496,
-      "Катушев Александр Николаевич": 18,
-      "Пименов Вячеслав Владимирович": 16,
-      "Поздняков Владимир Георгиевич": 86,
-      "Ушаков Вячеслав Иванович": 50
+      "gas:candidate-vibid:2752000879901": 72,
+      "gas:candidate-vibid:2752000879140": 74,
+      "gas:candidate-vibid:2752000882889": 496,
+      "gas:candidate-vibid:2752000882380": 18,
+      "gas:candidate-vibid:2752000881660": 16,
+      "gas:candidate-vibid:2752000881456": 86,
+      "gas:candidate-vibid:2752000881369": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13552,13 +13552,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 83,
-      "Волков Юрий Геннадьевич": 70,
-      "Говорин Николай Васильевич": 434,
-      "Катушев Александр Николаевич": 13,
-      "Пименов Вячеслав Владимирович": 22,
-      "Поздняков Владимир Георгиевич": 77,
-      "Ушаков Вячеслав Иванович": 27
+      "gas:candidate-vibid:2752000879901": 83,
+      "gas:candidate-vibid:2752000879140": 70,
+      "gas:candidate-vibid:2752000882889": 434,
+      "gas:candidate-vibid:2752000882380": 13,
+      "gas:candidate-vibid:2752000881660": 22,
+      "gas:candidate-vibid:2752000881456": 77,
+      "gas:candidate-vibid:2752000881369": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13609,13 +13609,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 104,
-      "Волков Юрий Геннадьевич": 61,
-      "Говорин Николай Васильевич": 429,
-      "Катушев Александр Николаевич": 12,
-      "Пименов Вячеслав Владимирович": 31,
-      "Поздняков Владимир Георгиевич": 58,
-      "Ушаков Вячеслав Иванович": 36
+      "gas:candidate-vibid:2752000879901": 104,
+      "gas:candidate-vibid:2752000879140": 61,
+      "gas:candidate-vibid:2752000882889": 429,
+      "gas:candidate-vibid:2752000882380": 12,
+      "gas:candidate-vibid:2752000881660": 31,
+      "gas:candidate-vibid:2752000881456": 58,
+      "gas:candidate-vibid:2752000881369": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13666,13 +13666,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 98,
-      "Волков Юрий Геннадьевич": 70,
-      "Говорин Николай Васильевич": 479,
-      "Катушев Александр Николаевич": 12,
-      "Пименов Вячеслав Владимирович": 28,
-      "Поздняков Владимир Георгиевич": 84,
-      "Ушаков Вячеслав Иванович": 46
+      "gas:candidate-vibid:2752000879901": 98,
+      "gas:candidate-vibid:2752000879140": 70,
+      "gas:candidate-vibid:2752000882889": 479,
+      "gas:candidate-vibid:2752000882380": 12,
+      "gas:candidate-vibid:2752000881660": 28,
+      "gas:candidate-vibid:2752000881456": 84,
+      "gas:candidate-vibid:2752000881369": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13723,13 +13723,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 65,
-      "Волков Юрий Геннадьевич": 61,
-      "Говорин Николай Васильевич": 362,
-      "Катушев Александр Николаевич": 10,
-      "Пименов Вячеслав Владимирович": 17,
-      "Поздняков Владимир Георгиевич": 72,
-      "Ушаков Вячеслав Иванович": 26
+      "gas:candidate-vibid:2752000879901": 65,
+      "gas:candidate-vibid:2752000879140": 61,
+      "gas:candidate-vibid:2752000882889": 362,
+      "gas:candidate-vibid:2752000882380": 10,
+      "gas:candidate-vibid:2752000881660": 17,
+      "gas:candidate-vibid:2752000881456": 72,
+      "gas:candidate-vibid:2752000881369": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13780,13 +13780,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 20,
-      "Волков Юрий Геннадьевич": 43,
-      "Говорин Николай Васильевич": 361,
-      "Катушев Александр Николаевич": 5,
-      "Пименов Вячеслав Владимирович": 9,
-      "Поздняков Владимир Георгиевич": 42,
-      "Ушаков Вячеслав Иванович": 31
+      "gas:candidate-vibid:2752000879901": 20,
+      "gas:candidate-vibid:2752000879140": 43,
+      "gas:candidate-vibid:2752000882889": 361,
+      "gas:candidate-vibid:2752000882380": 5,
+      "gas:candidate-vibid:2752000881660": 9,
+      "gas:candidate-vibid:2752000881456": 42,
+      "gas:candidate-vibid:2752000881369": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13837,13 +13837,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 126,
-      "Волков Юрий Геннадьевич": 327,
-      "Говорин Николай Васильевич": 753,
-      "Катушев Александр Николаевич": 92,
-      "Пименов Вячеслав Владимирович": 105,
-      "Поздняков Владимир Георгиевич": 152,
-      "Ушаков Вячеслав Иванович": 259
+      "gas:candidate-vibid:2752000879901": 126,
+      "gas:candidate-vibid:2752000879140": 327,
+      "gas:candidate-vibid:2752000882889": 753,
+      "gas:candidate-vibid:2752000882380": 92,
+      "gas:candidate-vibid:2752000881660": 105,
+      "gas:candidate-vibid:2752000881456": 152,
+      "gas:candidate-vibid:2752000881369": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13894,13 +13894,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 12,
-      "Волков Юрий Геннадьевич": 11,
-      "Говорин Николай Васильевич": 75,
-      "Катушев Александр Николаевич": 6,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 9
+      "gas:candidate-vibid:2752000879901": 12,
+      "gas:candidate-vibid:2752000879140": 11,
+      "gas:candidate-vibid:2752000882889": 75,
+      "gas:candidate-vibid:2752000882380": 6,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -13951,13 +13951,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 4,
-      "Волков Юрий Геннадьевич": 6,
-      "Говорин Николай Васильевич": 188,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 2,
-      "Поздняков Владимир Георгиевич": 3,
-      "Ушаков Вячеслав Иванович": 4
+      "gas:candidate-vibid:2752000879901": 4,
+      "gas:candidate-vibid:2752000879140": 6,
+      "gas:candidate-vibid:2752000882889": 188,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 2,
+      "gas:candidate-vibid:2752000881456": 3,
+      "gas:candidate-vibid:2752000881369": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -14008,13 +14008,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 3,
-      "Волков Юрий Геннадьевич": 20,
-      "Говорин Николай Васильевич": 29,
-      "Катушев Александр Николаевич": 2,
-      "Пименов Вячеслав Владимирович": 0,
-      "Поздняков Владимир Георгиевич": 9,
-      "Ушаков Вячеслав Иванович": 1
+      "gas:candidate-vibid:2752000879901": 3,
+      "gas:candidate-vibid:2752000879140": 20,
+      "gas:candidate-vibid:2752000882889": 29,
+      "gas:candidate-vibid:2752000882380": 2,
+      "gas:candidate-vibid:2752000881660": 0,
+      "gas:candidate-vibid:2752000881456": 9,
+      "gas:candidate-vibid:2752000881369": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -14065,13 +14065,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 28,
-      "Волков Юрий Геннадьевич": 19,
-      "Говорин Николай Васильевич": 315,
-      "Катушев Александр Николаевич": 25,
-      "Пименов Вячеслав Владимирович": 18,
-      "Поздняков Владимир Георгиевич": 28,
-      "Ушаков Вячеслав Иванович": 20
+      "gas:candidate-vibid:2752000879901": 28,
+      "gas:candidate-vibid:2752000879140": 19,
+      "gas:candidate-vibid:2752000882889": 315,
+      "gas:candidate-vibid:2752000882380": 25,
+      "gas:candidate-vibid:2752000881660": 18,
+      "gas:candidate-vibid:2752000881456": 28,
+      "gas:candidate-vibid:2752000881369": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -14122,13 +14122,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 6,
-      "Волков Юрий Геннадьевич": 9,
-      "Говорин Николай Васильевич": 224,
-      "Катушев Александр Николаевич": 11,
-      "Пименов Вячеслав Владимирович": 8,
-      "Поздняков Владимир Георгиевич": 21,
-      "Ушаков Вячеслав Иванович": 6
+      "gas:candidate-vibid:2752000879901": 6,
+      "gas:candidate-vibid:2752000879140": 9,
+      "gas:candidate-vibid:2752000882889": 224,
+      "gas:candidate-vibid:2752000882380": 11,
+      "gas:candidate-vibid:2752000881660": 8,
+      "gas:candidate-vibid:2752000881456": 21,
+      "gas:candidate-vibid:2752000881369": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -14179,13 +14179,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 17,
-      "Волков Юрий Геннадьевич": 36,
-      "Говорин Николай Васильевич": 1068,
-      "Катушев Александр Николаевич": 21,
-      "Пименов Вячеслав Владимирович": 42,
-      "Поздняков Владимир Георгиевич": 109,
-      "Ушаков Вячеслав Иванович": 25
+      "gas:candidate-vibid:2752000879901": 17,
+      "gas:candidate-vibid:2752000879140": 36,
+      "gas:candidate-vibid:2752000882889": 1068,
+      "gas:candidate-vibid:2752000882380": 21,
+      "gas:candidate-vibid:2752000881660": 42,
+      "gas:candidate-vibid:2752000881456": 109,
+      "gas:candidate-vibid:2752000881369": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",
@@ -14236,13 +14236,13 @@ export const duma_2016_uik_463_region_92_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Афицинский Валерий Александрович": 19,
-      "Волков Юрий Геннадьевич": 33,
-      "Говорин Николай Васильевич": 657,
-      "Катушев Александр Николаевич": 25,
-      "Пименов Вячеслав Владимирович": 41,
-      "Поздняков Владимир Георгиевич": 63,
-      "Ушаков Вячеслав Иванович": 39
+      "gas:candidate-vibid:2752000879901": 19,
+      "gas:candidate-vibid:2752000879140": 33,
+      "gas:candidate-vibid:2752000882889": 657,
+      "gas:candidate-vibid:2752000882380": 25,
+      "gas:candidate-vibid:2752000881660": 41,
+      "gas:candidate-vibid:2752000881456": 63,
+      "gas:candidate-vibid:2752000881369": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/zabkray?action=show&root=1000303&tvd=2752000824644&vrn=100100067795849&region=92&global=&sub_region=92&prver=0&pronetvd=null&vibid=2752000824644&type=464",

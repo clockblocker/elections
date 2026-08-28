@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 79,
-      "Лысенко Владимир Николаевич": 405,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 137,
-      "Хованская Галина Петровна": 399,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 79,
+      "gas:candidate-vibid:377300470625": 405,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 137,
+      "gas:candidate-vibid:1001000112275": 399,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 57,
-      "Громов Евгений Васильевич": 42,
-      "Лысенко Владимир Николаевич": 312,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 206,
-      "Хованская Галина Петровна": 333,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 57,
+      "gas:candidate-vibid:1001000195164": 42,
+      "gas:candidate-vibid:377300470625": 312,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 206,
+      "gas:candidate-vibid:1001000112275": 333,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 42,
-      "Лысенко Владимир Николаевич": 378,
-      "Свинцов Андрей Николаевич": 35,
-      "Улас Владимир Дмитриевич": 157,
-      "Хованская Галина Петровна": 357,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 42,
+      "gas:candidate-vibid:377300470625": 378,
+      "gas:candidate-vibid:1001000136149": 35,
+      "gas:candidate-vibid:1001000121934": 157,
+      "gas:candidate-vibid:1001000112275": 357,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 71,
-      "Лысенко Владимир Николаевич": 401,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 122,
-      "Хованская Галина Петровна": 431,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 71,
+      "gas:candidate-vibid:377300470625": 401,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 122,
+      "gas:candidate-vibid:1001000112275": 431,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 34,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 51,
-      "Лысенко Владимир Николаевич": 438,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 101,
-      "Хованская Галина Петровна": 307,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000190441": 34,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 51,
+      "gas:candidate-vibid:377300470625": 438,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 101,
+      "gas:candidate-vibid:1001000112275": 307,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 54,
-      "Лысенко Владимир Николаевич": 498,
-      "Свинцов Андрей Николаевич": 33,
-      "Улас Владимир Дмитриевич": 156,
-      "Хованская Галина Петровна": 350,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 54,
+      "gas:candidate-vibid:377300470625": 498,
+      "gas:candidate-vibid:1001000136149": 33,
+      "gas:candidate-vibid:1001000121934": 156,
+      "gas:candidate-vibid:1001000112275": 350,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 41,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 48,
-      "Лысенко Владимир Николаевич": 466,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 134,
-      "Хованская Галина Петровна": 362,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000190441": 41,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 48,
+      "gas:candidate-vibid:377300470625": 466,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 134,
+      "gas:candidate-vibid:1001000112275": 362,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 25,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 37,
-      "Лысенко Владимир Николаевич": 534,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 127,
-      "Хованская Галина Петровна": 328,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000190441": 25,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 37,
+      "gas:candidate-vibid:377300470625": 534,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 127,
+      "gas:candidate-vibid:1001000112275": 328,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 18,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 48,
-      "Лысенко Владимир Николаевич": 356,
-      "Свинцов Андрей Николаевич": 38,
-      "Улас Владимир Дмитриевич": 147,
-      "Хованская Галина Петровна": 393,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000190441": 18,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 48,
+      "gas:candidate-vibid:377300470625": 356,
+      "gas:candidate-vibid:1001000136149": 38,
+      "gas:candidate-vibid:1001000121934": 147,
+      "gas:candidate-vibid:1001000112275": 393,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 28,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 43,
-      "Лысенко Владимир Николаевич": 438,
-      "Свинцов Андрей Николаевич": 18,
-      "Улас Владимир Дмитриевич": 175,
-      "Хованская Галина Петровна": 374,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000190441": 28,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 43,
+      "gas:candidate-vibid:377300470625": 438,
+      "gas:candidate-vibid:1001000136149": 18,
+      "gas:candidate-vibid:1001000121934": 175,
+      "gas:candidate-vibid:1001000112275": 374,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 25,
-      "Габрусев Олег Евгеньевич": 6,
-      "Громов Евгений Васильевич": 35,
-      "Лысенко Владимир Николаевич": 313,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 157,
-      "Хованская Галина Петровна": 377,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000190441": 25,
+      "gas:candidate-vibid:377300470954": 6,
+      "gas:candidate-vibid:1001000195164": 35,
+      "gas:candidate-vibid:377300470625": 313,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 157,
+      "gas:candidate-vibid:1001000112275": 377,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 0,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 2,
-      "Лысенко Владимир Николаевич": 1,
-      "Свинцов Андрей Николаевич": 2,
-      "Улас Владимир Дмитриевич": 1,
-      "Хованская Галина Петровна": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190441": 0,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 2,
+      "gas:candidate-vibid:377300470625": 1,
+      "gas:candidate-vibid:1001000136149": 2,
+      "gas:candidate-vibid:1001000121934": 1,
+      "gas:candidate-vibid:1001000112275": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470648&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 60,
-      "Лысенко Владимир Николаевич": 324,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 101,
-      "Хованская Галина Петровна": 329,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 60,
+      "gas:candidate-vibid:377300470625": 324,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 101,
+      "gas:candidate-vibid:1001000112275": 329,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 29,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 55,
-      "Лысенко Владимир Николаевич": 398,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 84,
-      "Хованская Галина Петровна": 396,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190441": 29,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 55,
+      "gas:candidate-vibid:377300470625": 398,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 84,
+      "gas:candidate-vibid:1001000112275": 396,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 32,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 49,
-      "Лысенко Владимир Николаевич": 563,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 173,
-      "Хованская Галина Петровна": 488,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000190441": 32,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 49,
+      "gas:candidate-vibid:377300470625": 563,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 173,
+      "gas:candidate-vibid:1001000112275": 488,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 40,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 46,
-      "Лысенко Владимир Николаевич": 531,
-      "Свинцов Андрей Николаевич": 16,
-      "Улас Владимир Дмитриевич": 182,
-      "Хованская Галина Петровна": 481,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000190441": 40,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 46,
+      "gas:candidate-vibid:377300470625": 531,
+      "gas:candidate-vibid:1001000136149": 16,
+      "gas:candidate-vibid:1001000121934": 182,
+      "gas:candidate-vibid:1001000112275": 481,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 71,
-      "Лысенко Владимир Николаевич": 451,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 170,
-      "Хованская Галина Петровна": 429,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 71,
+      "gas:candidate-vibid:377300470625": 451,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 170,
+      "gas:candidate-vibid:1001000112275": 429,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 81,
-      "Лысенко Владимир Николаевич": 418,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 159,
-      "Хованская Галина Петровна": 508,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 81,
+      "gas:candidate-vibid:377300470625": 418,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 159,
+      "gas:candidate-vibid:1001000112275": 508,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 54,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 81,
-      "Лысенко Владимир Николаевич": 513,
-      "Свинцов Андрей Николаевич": 35,
-      "Улас Владимир Дмитриевич": 150,
-      "Хованская Галина Петровна": 619,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000190441": 54,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 81,
+      "gas:candidate-vibid:377300470625": 513,
+      "gas:candidate-vibid:1001000136149": 35,
+      "gas:candidate-vibid:1001000121934": 150,
+      "gas:candidate-vibid:1001000112275": 619,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 40,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 73,
-      "Лысенко Владимир Николаевич": 383,
-      "Свинцов Андрей Николаевич": 25,
-      "Улас Владимир Дмитриевич": 206,
-      "Хованская Галина Петровна": 546,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000190441": 40,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 73,
+      "gas:candidate-vibid:377300470625": 383,
+      "gas:candidate-vibid:1001000136149": 25,
+      "gas:candidate-vibid:1001000121934": 206,
+      "gas:candidate-vibid:1001000112275": 546,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 70,
-      "Лысенко Владимир Николаевич": 434,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 222,
-      "Хованская Галина Петровна": 496,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 70,
+      "gas:candidate-vibid:377300470625": 434,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 222,
+      "gas:candidate-vibid:1001000112275": 496,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 61,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 64,
-      "Лысенко Владимир Николаевич": 400,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 210,
-      "Хованская Галина Петровна": 502,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000190441": 61,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 64,
+      "gas:candidate-vibid:377300470625": 400,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 210,
+      "gas:candidate-vibid:1001000112275": 502,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 55,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 375,
-      "Свинцов Андрей Николаевич": 36,
-      "Улас Владимир Дмитриевич": 182,
-      "Хованская Галина Петровна": 618,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000190441": 55,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 375,
+      "gas:candidate-vibid:1001000136149": 36,
+      "gas:candidate-vibid:1001000121934": 182,
+      "gas:candidate-vibid:1001000112275": 618,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 70,
-      "Лысенко Владимир Николаевич": 347,
-      "Свинцов Андрей Николаевич": 31,
-      "Улас Владимир Дмитриевич": 128,
-      "Хованская Галина Петровна": 406,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 70,
+      "gas:candidate-vibid:377300470625": 347,
+      "gas:candidate-vibid:1001000136149": 31,
+      "gas:candidate-vibid:1001000121934": 128,
+      "gas:candidate-vibid:1001000112275": 406,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 32,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 60,
-      "Лысенко Владимир Николаевич": 385,
-      "Свинцов Андрей Николаевич": 17,
-      "Улас Владимир Дмитриевич": 162,
-      "Хованская Галина Петровна": 466,
-      "Против всех": 280
+      "gas:candidate-vibid:1001000190441": 32,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 60,
+      "gas:candidate-vibid:377300470625": 385,
+      "gas:candidate-vibid:1001000136149": 17,
+      "gas:candidate-vibid:1001000121934": 162,
+      "gas:candidate-vibid:1001000112275": 466,
+      "special:against-all": 280
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 39,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 325,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 120,
-      "Хованская Галина Петровна": 386,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000190441": 39,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 325,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 120,
+      "gas:candidate-vibid:1001000112275": 386,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 61,
-      "Лысенко Владимир Николаевич": 454,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 135,
-      "Хованская Галина Петровна": 399,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 61,
+      "gas:candidate-vibid:377300470625": 454,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 135,
+      "gas:candidate-vibid:1001000112275": 399,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 83,
-      "Лысенко Владимир Николаевич": 512,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 155,
-      "Хованская Галина Петровна": 462,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 83,
+      "gas:candidate-vibid:377300470625": 512,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 155,
+      "gas:candidate-vibid:1001000112275": 462,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 39,
-      "Габрусев Олег Евгеньевич": 6,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 470,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 152,
-      "Хованская Галина Петровна": 387,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190441": 39,
+      "gas:candidate-vibid:377300470954": 6,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 470,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 152,
+      "gas:candidate-vibid:1001000112275": 387,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 32,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 68,
-      "Лысенко Владимир Николаевич": 467,
-      "Свинцов Андрей Николаевич": 44,
-      "Улас Владимир Дмитриевич": 143,
-      "Хованская Галина Петровна": 400,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000190441": 32,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 68,
+      "gas:candidate-vibid:377300470625": 467,
+      "gas:candidate-vibid:1001000136149": 44,
+      "gas:candidate-vibid:1001000121934": 143,
+      "gas:candidate-vibid:1001000112275": 400,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 34,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 56,
-      "Лысенко Владимир Николаевич": 429,
-      "Свинцов Андрей Николаевич": 24,
-      "Улас Владимир Дмитриевич": 159,
-      "Хованская Галина Петровна": 411,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000190441": 34,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 56,
+      "gas:candidate-vibid:377300470625": 429,
+      "gas:candidate-vibid:1001000136149": 24,
+      "gas:candidate-vibid:1001000121934": 159,
+      "gas:candidate-vibid:1001000112275": 411,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 28,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 77,
-      "Лысенко Владимир Николаевич": 426,
-      "Свинцов Андрей Николаевич": 39,
-      "Улас Владимир Дмитриевич": 139,
-      "Хованская Галина Петровна": 423,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000190441": 28,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 77,
+      "gas:candidate-vibid:377300470625": 426,
+      "gas:candidate-vibid:1001000136149": 39,
+      "gas:candidate-vibid:1001000121934": 139,
+      "gas:candidate-vibid:1001000112275": 423,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 31,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 55,
-      "Лысенко Владимир Николаевич": 423,
-      "Свинцов Андрей Николаевич": 36,
-      "Улас Владимир Дмитриевич": 123,
-      "Хованская Галина Петровна": 389,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190441": 31,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 55,
+      "gas:candidate-vibid:377300470625": 423,
+      "gas:candidate-vibid:1001000136149": 36,
+      "gas:candidate-vibid:1001000121934": 123,
+      "gas:candidate-vibid:1001000112275": 389,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 35,
-      "Габрусев Олег Евгеньевич": 73,
-      "Громов Евгений Васильевич": 37,
-      "Лысенко Владимир Николаевич": 481,
-      "Свинцов Андрей Николаевич": 24,
-      "Улас Владимир Дмитриевич": 84,
-      "Хованская Галина Петровна": 417,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190441": 35,
+      "gas:candidate-vibid:377300470954": 73,
+      "gas:candidate-vibid:1001000195164": 37,
+      "gas:candidate-vibid:377300470625": 481,
+      "gas:candidate-vibid:1001000136149": 24,
+      "gas:candidate-vibid:1001000121934": 84,
+      "gas:candidate-vibid:1001000112275": 417,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 76,
-      "Лысенко Владимир Николаевич": 378,
-      "Свинцов Андрей Николаевич": 19,
-      "Улас Владимир Дмитриевич": 100,
-      "Хованская Галина Петровна": 512,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 76,
+      "gas:candidate-vibid:377300470625": 378,
+      "gas:candidate-vibid:1001000136149": 19,
+      "gas:candidate-vibid:1001000121934": 100,
+      "gas:candidate-vibid:1001000112275": 512,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 61,
-      "Лысенко Владимир Николаевич": 431,
-      "Свинцов Андрей Николаевич": 16,
-      "Улас Владимир Дмитриевич": 91,
-      "Хованская Галина Петровна": 401,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 61,
+      "gas:candidate-vibid:377300470625": 431,
+      "gas:candidate-vibid:1001000136149": 16,
+      "gas:candidate-vibid:1001000121934": 91,
+      "gas:candidate-vibid:1001000112275": 401,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 54,
-      "Лысенко Владимир Николаевич": 457,
-      "Свинцов Андрей Николаевич": 33,
-      "Улас Владимир Дмитриевич": 121,
-      "Хованская Галина Петровна": 335,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 54,
+      "gas:candidate-vibid:377300470625": 457,
+      "gas:candidate-vibid:1001000136149": 33,
+      "gas:candidate-vibid:1001000121934": 121,
+      "gas:candidate-vibid:1001000112275": 335,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 30,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 62,
-      "Лысенко Владимир Николаевич": 575,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 134,
-      "Хованская Галина Петровна": 316,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000190441": 30,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 62,
+      "gas:candidate-vibid:377300470625": 575,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 134,
+      "gas:candidate-vibid:1001000112275": 316,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470650&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 62,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 103,
-      "Лысенко Владимир Николаевич": 463,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 191,
-      "Хованская Галина Петровна": 436,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190441": 62,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 103,
+      "gas:candidate-vibid:377300470625": 463,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 191,
+      "gas:candidate-vibid:1001000112275": 436,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 64,
-      "Габрусев Олег Евгеньевич": 19,
-      "Громов Евгений Васильевич": 73,
-      "Лысенко Владимир Николаевич": 301,
-      "Свинцов Андрей Николаевич": 31,
-      "Улас Владимир Дмитриевич": 163,
-      "Хованская Галина Петровна": 461,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000190441": 64,
+      "gas:candidate-vibid:377300470954": 19,
+      "gas:candidate-vibid:1001000195164": 73,
+      "gas:candidate-vibid:377300470625": 301,
+      "gas:candidate-vibid:1001000136149": 31,
+      "gas:candidate-vibid:1001000121934": 163,
+      "gas:candidate-vibid:1001000112275": 461,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 41,
-      "Габрусев Олег Евгеньевич": 23,
-      "Громов Евгений Васильевич": 71,
-      "Лысенко Владимир Николаевич": 449,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 157,
-      "Хованская Галина Петровна": 470,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190441": 41,
+      "gas:candidate-vibid:377300470954": 23,
+      "gas:candidate-vibid:1001000195164": 71,
+      "gas:candidate-vibid:377300470625": 449,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 157,
+      "gas:candidate-vibid:1001000112275": 470,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 49,
-      "Габрусев Олег Евгеньевич": 53,
-      "Громов Евгений Васильевич": 75,
-      "Лысенко Владимир Николаевич": 430,
-      "Свинцов Андрей Николаевич": 48,
-      "Улас Владимир Дмитриевич": 158,
-      "Хованская Галина Петровна": 405,
-      "Против всех": 366
+      "gas:candidate-vibid:1001000190441": 49,
+      "gas:candidate-vibid:377300470954": 53,
+      "gas:candidate-vibid:1001000195164": 75,
+      "gas:candidate-vibid:377300470625": 430,
+      "gas:candidate-vibid:1001000136149": 48,
+      "gas:candidate-vibid:1001000121934": 158,
+      "gas:candidate-vibid:1001000112275": 405,
+      "special:against-all": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 470,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 201,
-      "Хованская Галина Петровна": 386,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 470,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 201,
+      "gas:candidate-vibid:1001000112275": 386,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 59,
-      "Громов Евгений Васильевич": 51,
-      "Лысенко Владимир Николаевич": 317,
-      "Свинцов Андрей Николаевич": 21,
-      "Улас Владимир Дмитриевич": 77,
-      "Хованская Галина Петровна": 311,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 59,
+      "gas:candidate-vibid:1001000195164": 51,
+      "gas:candidate-vibid:377300470625": 317,
+      "gas:candidate-vibid:1001000136149": 21,
+      "gas:candidate-vibid:1001000121934": 77,
+      "gas:candidate-vibid:1001000112275": 311,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 98,
-      "Лысенко Владимир Николаевич": 422,
-      "Свинцов Андрей Николаевич": 45,
-      "Улас Владимир Дмитриевич": 169,
-      "Хованская Галина Петровна": 378,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 98,
+      "gas:candidate-vibid:377300470625": 422,
+      "gas:candidate-vibid:1001000136149": 45,
+      "gas:candidate-vibid:1001000121934": 169,
+      "gas:candidate-vibid:1001000112275": 378,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 39,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 89,
-      "Лысенко Владимир Николаевич": 414,
-      "Свинцов Андрей Николаевич": 53,
-      "Улас Владимир Дмитриевич": 148,
-      "Хованская Галина Петровна": 428,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000190441": 39,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 89,
+      "gas:candidate-vibid:377300470625": 414,
+      "gas:candidate-vibid:1001000136149": 53,
+      "gas:candidate-vibid:1001000121934": 148,
+      "gas:candidate-vibid:1001000112275": 428,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 59,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 86,
-      "Лысенко Владимир Николаевич": 541,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 131,
-      "Хованская Галина Петровна": 412,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000190441": 59,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 86,
+      "gas:candidate-vibid:377300470625": 541,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 131,
+      "gas:candidate-vibid:1001000112275": 412,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 30,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 58,
-      "Лысенко Владимир Николаевич": 409,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 91,
-      "Хованская Галина Петровна": 252,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000190441": 30,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 58,
+      "gas:candidate-vibid:377300470625": 409,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 91,
+      "gas:candidate-vibid:1001000112275": 252,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 23,
-      "Громов Евгений Васильевич": 69,
-      "Лысенко Владимир Николаевич": 446,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 151,
-      "Хованская Галина Петровна": 349,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 23,
+      "gas:candidate-vibid:1001000195164": 69,
+      "gas:candidate-vibid:377300470625": 446,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 151,
+      "gas:candidate-vibid:1001000112275": 349,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 32,
-      "Габрусев Олег Евгеньевич": 18,
-      "Громов Евгений Васильевич": 68,
-      "Лысенко Владимир Николаевич": 388,
-      "Свинцов Андрей Николаевич": 41,
-      "Улас Владимир Дмитриевич": 244,
-      "Хованская Галина Петровна": 355,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190441": 32,
+      "gas:candidate-vibid:377300470954": 18,
+      "gas:candidate-vibid:1001000195164": 68,
+      "gas:candidate-vibid:377300470625": 388,
+      "gas:candidate-vibid:1001000136149": 41,
+      "gas:candidate-vibid:1001000121934": 244,
+      "gas:candidate-vibid:1001000112275": 355,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 46,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 86,
-      "Лысенко Владимир Николаевич": 461,
-      "Свинцов Андрей Николаевич": 39,
-      "Улас Владимир Дмитриевич": 169,
-      "Хованская Галина Петровна": 352,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000190441": 46,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 86,
+      "gas:candidate-vibid:377300470625": 461,
+      "gas:candidate-vibid:1001000136149": 39,
+      "gas:candidate-vibid:1001000121934": 169,
+      "gas:candidate-vibid:1001000112275": 352,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 69,
-      "Лысенко Владимир Николаевич": 502,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 133,
-      "Хованская Галина Петровна": 233,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 69,
+      "gas:candidate-vibid:377300470625": 502,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 133,
+      "gas:candidate-vibid:1001000112275": 233,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 53,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 96,
-      "Лысенко Владимир Николаевич": 373,
-      "Свинцов Андрей Николаевич": 45,
-      "Улас Владимир Дмитриевич": 149,
-      "Хованская Галина Петровна": 356,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000190441": 53,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 96,
+      "gas:candidate-vibid:377300470625": 373,
+      "gas:candidate-vibid:1001000136149": 45,
+      "gas:candidate-vibid:1001000121934": 149,
+      "gas:candidate-vibid:1001000112275": 356,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 76,
-      "Лысенко Владимир Николаевич": 353,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 126,
-      "Хованская Галина Петровна": 316,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 76,
+      "gas:candidate-vibid:377300470625": 353,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 126,
+      "gas:candidate-vibid:1001000112275": 316,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 60,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 90,
-      "Лысенко Владимир Николаевич": 515,
-      "Свинцов Андрей Николаевич": 35,
-      "Улас Владимир Дмитриевич": 154,
-      "Хованская Галина Петровна": 380,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000190441": 60,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 90,
+      "gas:candidate-vibid:377300470625": 515,
+      "gas:candidate-vibid:1001000136149": 35,
+      "gas:candidate-vibid:1001000121934": 154,
+      "gas:candidate-vibid:1001000112275": 380,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 49,
-      "Габрусев Олег Евгеньевич": 18,
-      "Громов Евгений Васильевич": 74,
-      "Лысенко Владимир Николаевич": 335,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 102,
-      "Хованская Галина Петровна": 392,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000190441": 49,
+      "gas:candidate-vibid:377300470954": 18,
+      "gas:candidate-vibid:1001000195164": 74,
+      "gas:candidate-vibid:377300470625": 335,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 102,
+      "gas:candidate-vibid:1001000112275": 392,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 27,
-      "Громов Евгений Васильевич": 78,
-      "Лысенко Владимир Николаевич": 356,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 153,
-      "Хованская Галина Петровна": 377,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 27,
+      "gas:candidate-vibid:1001000195164": 78,
+      "gas:candidate-vibid:377300470625": 356,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 153,
+      "gas:candidate-vibid:1001000112275": 377,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 18,
-      "Громов Евгений Васильевич": 93,
-      "Лысенко Владимир Николаевич": 474,
-      "Свинцов Андрей Николаевич": 19,
-      "Улас Владимир Дмитриевич": 200,
-      "Хованская Галина Петровна": 399,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 18,
+      "gas:candidate-vibid:1001000195164": 93,
+      "gas:candidate-vibid:377300470625": 474,
+      "gas:candidate-vibid:1001000136149": 19,
+      "gas:candidate-vibid:1001000121934": 200,
+      "gas:candidate-vibid:1001000112275": 399,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 92,
-      "Лысенко Владимир Николаевич": 479,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 140,
-      "Хованская Галина Петровна": 298,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 92,
+      "gas:candidate-vibid:377300470625": 479,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 140,
+      "gas:candidate-vibid:1001000112275": 298,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 68,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 81,
-      "Лысенко Владимир Николаевич": 465,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 156,
-      "Хованская Галина Петровна": 384,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000190441": 68,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 81,
+      "gas:candidate-vibid:377300470625": 465,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 156,
+      "gas:candidate-vibid:1001000112275": 384,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 35,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 65,
-      "Лысенко Владимир Николаевич": 350,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 124,
-      "Хованская Галина Петровна": 340,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190441": 35,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 65,
+      "gas:candidate-vibid:377300470625": 350,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 124,
+      "gas:candidate-vibid:1001000112275": 340,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 49,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 68,
-      "Лысенко Владимир Николаевич": 336,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 140,
-      "Хованская Галина Петровна": 460,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000190441": 49,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 68,
+      "gas:candidate-vibid:377300470625": 336,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 140,
+      "gas:candidate-vibid:1001000112275": 460,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 0,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 1,
-      "Лысенко Владимир Николаевич": 4,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 1,
-      "Хованская Галина Петровна": 6,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190441": 0,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 1,
+      "gas:candidate-vibid:377300470625": 4,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 1,
+      "gas:candidate-vibid:1001000112275": 6,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 0,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 0,
-      "Лысенко Владимир Николаевич": 2,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 0,
-      "Хованская Галина Петровна": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190441": 0,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 0,
+      "gas:candidate-vibid:377300470625": 2,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 0,
+      "gas:candidate-vibid:1001000112275": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 6,
-      "Лысенко Владимир Николаевич": 12,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 3,
-      "Хованская Галина Петровна": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 6,
+      "gas:candidate-vibid:377300470625": 12,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 3,
+      "gas:candidate-vibid:1001000112275": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470652&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 62,
-      "Лысенко Владимир Николаевич": 389,
-      "Свинцов Андрей Николаевич": 39,
-      "Улас Владимир Дмитриевич": 214,
-      "Хованская Галина Петровна": 506,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 62,
+      "gas:candidate-vibid:377300470625": 389,
+      "gas:candidate-vibid:1001000136149": 39,
+      "gas:candidate-vibid:1001000121934": 214,
+      "gas:candidate-vibid:1001000112275": 506,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 208,
-      "Громов Евгений Васильевич": 76,
-      "Лысенко Владимир Николаевич": 241,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 185,
-      "Хованская Галина Петровна": 422,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 208,
+      "gas:candidate-vibid:1001000195164": 76,
+      "gas:candidate-vibid:377300470625": 241,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 185,
+      "gas:candidate-vibid:1001000112275": 422,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 27,
-      "Габрусев Олег Евгеньевич": 19,
-      "Громов Евгений Васильевич": 53,
-      "Лысенко Владимир Николаевич": 309,
-      "Свинцов Андрей Николаевич": 25,
-      "Улас Владимир Дмитриевич": 126,
-      "Хованская Галина Петровна": 405,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000190441": 27,
+      "gas:candidate-vibid:377300470954": 19,
+      "gas:candidate-vibid:1001000195164": 53,
+      "gas:candidate-vibid:377300470625": 309,
+      "gas:candidate-vibid:1001000136149": 25,
+      "gas:candidate-vibid:1001000121934": 126,
+      "gas:candidate-vibid:1001000112275": 405,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 88,
-      "Габрусев Олег Евгеньевич": 30,
-      "Громов Евгений Васильевич": 162,
-      "Лысенко Владимир Николаевич": 353,
-      "Свинцов Андрей Николаевич": 72,
-      "Улас Владимир Дмитриевич": 188,
-      "Хованская Галина Петровна": 460,
-      "Против всех": 366
+      "gas:candidate-vibid:1001000190441": 88,
+      "gas:candidate-vibid:377300470954": 30,
+      "gas:candidate-vibid:1001000195164": 162,
+      "gas:candidate-vibid:377300470625": 353,
+      "gas:candidate-vibid:1001000136149": 72,
+      "gas:candidate-vibid:1001000121934": 188,
+      "gas:candidate-vibid:1001000112275": 460,
+      "special:against-all": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 92,
-      "Лысенко Владимир Николаевич": 245,
-      "Свинцов Андрей Николаевич": 33,
-      "Улас Владимир Дмитриевич": 153,
-      "Хованская Галина Петровна": 403,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 92,
+      "gas:candidate-vibid:377300470625": 245,
+      "gas:candidate-vibid:1001000136149": 33,
+      "gas:candidate-vibid:1001000121934": 153,
+      "gas:candidate-vibid:1001000112275": 403,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 81,
-      "Лысенко Владимир Николаевич": 347,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 147,
-      "Хованская Галина Петровна": 361,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 81,
+      "gas:candidate-vibid:377300470625": 347,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 147,
+      "gas:candidate-vibid:1001000112275": 361,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 71,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 82,
-      "Лысенко Владимир Николаевич": 328,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 165,
-      "Хованская Галина Петровна": 440,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000190441": 71,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 82,
+      "gas:candidate-vibid:377300470625": 328,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 165,
+      "gas:candidate-vibid:1001000112275": 440,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 79,
-      "Лысенко Владимир Николаевич": 287,
-      "Свинцов Андрей Николаевич": 44,
-      "Улас Владимир Дмитриевич": 154,
-      "Хованская Галина Петровна": 416,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 79,
+      "gas:candidate-vibid:377300470625": 287,
+      "gas:candidate-vibid:1001000136149": 44,
+      "gas:candidate-vibid:1001000121934": 154,
+      "gas:candidate-vibid:1001000112275": 416,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 65,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 89,
-      "Лысенко Владимир Николаевич": 332,
-      "Свинцов Андрей Николаевич": 48,
-      "Улас Владимир Дмитриевич": 180,
-      "Хованская Галина Петровна": 483,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000190441": 65,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 89,
+      "gas:candidate-vibid:377300470625": 332,
+      "gas:candidate-vibid:1001000136149": 48,
+      "gas:candidate-vibid:1001000121934": 180,
+      "gas:candidate-vibid:1001000112275": 483,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 56,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 79,
-      "Лысенко Владимир Николаевич": 377,
-      "Свинцов Андрей Николаевич": 47,
-      "Улас Владимир Дмитриевич": 215,
-      "Хованская Галина Петровна": 468,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000190441": 56,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 79,
+      "gas:candidate-vibid:377300470625": 377,
+      "gas:candidate-vibid:1001000136149": 47,
+      "gas:candidate-vibid:1001000121934": 215,
+      "gas:candidate-vibid:1001000112275": 468,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 61,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 118,
-      "Лысенко Владимир Николаевич": 348,
-      "Свинцов Андрей Николаевич": 52,
-      "Улас Владимир Дмитриевич": 238,
-      "Хованская Галина Петровна": 475,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000190441": 61,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 118,
+      "gas:candidate-vibid:377300470625": 348,
+      "gas:candidate-vibid:1001000136149": 52,
+      "gas:candidate-vibid:1001000121934": 238,
+      "gas:candidate-vibid:1001000112275": 475,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 39,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 54,
-      "Лысенко Владимир Николаевич": 413,
-      "Свинцов Андрей Николаевич": 42,
-      "Улас Владимир Дмитриевич": 183,
-      "Хованская Галина Петровна": 366,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000190441": 39,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 54,
+      "gas:candidate-vibid:377300470625": 413,
+      "gas:candidate-vibid:1001000136149": 42,
+      "gas:candidate-vibid:1001000121934": 183,
+      "gas:candidate-vibid:1001000112275": 366,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 83,
-      "Лысенко Владимир Николаевич": 337,
-      "Свинцов Андрей Николаевич": 45,
-      "Улас Владимир Дмитриевич": 168,
-      "Хованская Галина Петровна": 404,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 83,
+      "gas:candidate-vibid:377300470625": 337,
+      "gas:candidate-vibid:1001000136149": 45,
+      "gas:candidate-vibid:1001000121934": 168,
+      "gas:candidate-vibid:1001000112275": 404,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 54,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 95,
-      "Лысенко Владимир Николаевич": 357,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 188,
-      "Хованская Галина Петровна": 459,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000190441": 54,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 95,
+      "gas:candidate-vibid:377300470625": 357,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 188,
+      "gas:candidate-vibid:1001000112275": 459,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 66,
-      "Лысенко Владимир Николаевич": 329,
-      "Свинцов Андрей Николаевич": 35,
-      "Улас Владимир Дмитриевич": 172,
-      "Хованская Галина Петровна": 444,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 66,
+      "gas:candidate-vibid:377300470625": 329,
+      "gas:candidate-vibid:1001000136149": 35,
+      "gas:candidate-vibid:1001000121934": 172,
+      "gas:candidate-vibid:1001000112275": 444,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 1,
-      "Громов Евгений Васильевич": 0,
-      "Лысенко Владимир Николаевич": 2,
-      "Свинцов Андрей Николаевич": 1,
-      "Улас Владимир Дмитриевич": 1,
-      "Хованская Галина Петровна": 6,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 1,
+      "gas:candidate-vibid:1001000195164": 0,
+      "gas:candidate-vibid:377300470625": 2,
+      "gas:candidate-vibid:1001000136149": 1,
+      "gas:candidate-vibid:1001000121934": 1,
+      "gas:candidate-vibid:1001000112275": 6,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 4,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 5,
-      "Лысенко Владимир Николаевич": 5,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 11,
-      "Хованская Галина Петровна": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190441": 4,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 5,
+      "gas:candidate-vibid:377300470625": 5,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 11,
+      "gas:candidate-vibid:1001000112275": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470654&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 30,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 45,
-      "Лысенко Владимир Николаевич": 380,
-      "Свинцов Андрей Николаевич": 17,
-      "Улас Владимир Дмитриевич": 250,
-      "Хованская Галина Петровна": 620,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000190441": 30,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 45,
+      "gas:candidate-vibid:377300470625": 380,
+      "gas:candidate-vibid:1001000136149": 17,
+      "gas:candidate-vibid:1001000121934": 250,
+      "gas:candidate-vibid:1001000112275": 620,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 34,
-      "Лысенко Владимир Николаевич": 381,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 213,
-      "Хованская Галина Петровна": 594,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 34,
+      "gas:candidate-vibid:377300470625": 381,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 213,
+      "gas:candidate-vibid:1001000112275": 594,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 31,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 48,
-      "Лысенко Владимир Николаевич": 340,
-      "Свинцов Андрей Николаевич": 18,
-      "Улас Владимир Дмитриевич": 339,
-      "Хованская Галина Петровна": 481,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000190441": 31,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 48,
+      "gas:candidate-vibid:377300470625": 340,
+      "gas:candidate-vibid:1001000136149": 18,
+      "gas:candidate-vibid:1001000121934": 339,
+      "gas:candidate-vibid:1001000112275": 481,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 75,
-      "Лысенко Владимир Николаевич": 399,
-      "Свинцов Андрей Николаевич": 26,
-      "Улас Владимир Дмитриевич": 222,
-      "Хованская Галина Петровна": 668,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 75,
+      "gas:candidate-vibid:377300470625": 399,
+      "gas:candidate-vibid:1001000136149": 26,
+      "gas:candidate-vibid:1001000121934": 222,
+      "gas:candidate-vibid:1001000112275": 668,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 53,
-      "Лысенко Владимир Николаевич": 359,
-      "Свинцов Андрей Николаевич": 39,
-      "Улас Владимир Дмитриевич": 173,
-      "Хованская Галина Петровна": 568,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 53,
+      "gas:candidate-vibid:377300470625": 359,
+      "gas:candidate-vibid:1001000136149": 39,
+      "gas:candidate-vibid:1001000121934": 173,
+      "gas:candidate-vibid:1001000112275": 568,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 39,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 31,
-      "Лысенко Владимир Николаевич": 296,
-      "Свинцов Андрей Николаевич": 47,
-      "Улас Владимир Дмитриевич": 115,
-      "Хованская Галина Петровна": 399,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000190441": 39,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 31,
+      "gas:candidate-vibid:377300470625": 296,
+      "gas:candidate-vibid:1001000136149": 47,
+      "gas:candidate-vibid:1001000121934": 115,
+      "gas:candidate-vibid:1001000112275": 399,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 60,
-      "Лысенко Владимир Николаевич": 259,
-      "Свинцов Андрей Николаевич": 44,
-      "Улас Владимир Дмитриевич": 164,
-      "Хованская Галина Петровна": 443,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 60,
+      "gas:candidate-vibid:377300470625": 259,
+      "gas:candidate-vibid:1001000136149": 44,
+      "gas:candidate-vibid:1001000121934": 164,
+      "gas:candidate-vibid:1001000112275": 443,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 35,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 44,
-      "Лысенко Владимир Николаевич": 368,
-      "Свинцов Андрей Николаевич": 19,
-      "Улас Владимир Дмитриевич": 172,
-      "Хованская Галина Петровна": 380,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000190441": 35,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 44,
+      "gas:candidate-vibid:377300470625": 368,
+      "gas:candidate-vibid:1001000136149": 19,
+      "gas:candidate-vibid:1001000121934": 172,
+      "gas:candidate-vibid:1001000112275": 380,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 28,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 60,
-      "Лысенко Владимир Николаевич": 370,
-      "Свинцов Андрей Николаевич": 14,
-      "Улас Владимир Дмитриевич": 196,
-      "Хованская Галина Петровна": 791,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000190441": 28,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 60,
+      "gas:candidate-vibid:377300470625": 370,
+      "gas:candidate-vibid:1001000136149": 14,
+      "gas:candidate-vibid:1001000121934": 196,
+      "gas:candidate-vibid:1001000112275": 791,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 21,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 36,
-      "Лысенко Владимир Николаевич": 463,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 239,
-      "Хованская Галина Петровна": 539,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000190441": 21,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 36,
+      "gas:candidate-vibid:377300470625": 463,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 239,
+      "gas:candidate-vibid:1001000112275": 539,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 39,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 39,
-      "Лысенко Владимир Николаевич": 373,
-      "Свинцов Андрей Николаевич": 15,
-      "Улас Владимир Дмитриевич": 270,
-      "Хованская Галина Петровна": 532,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000190441": 39,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 39,
+      "gas:candidate-vibid:377300470625": 373,
+      "gas:candidate-vibid:1001000136149": 15,
+      "gas:candidate-vibid:1001000121934": 270,
+      "gas:candidate-vibid:1001000112275": 532,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 36,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 46,
-      "Лысенко Владимир Николаевич": 327,
-      "Свинцов Андрей Николаевич": 25,
-      "Улас Владимир Дмитриевич": 196,
-      "Хованская Галина Петровна": 582,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000190441": 36,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 46,
+      "gas:candidate-vibid:377300470625": 327,
+      "gas:candidate-vibid:1001000136149": 25,
+      "gas:candidate-vibid:1001000121934": 196,
+      "gas:candidate-vibid:1001000112275": 582,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 35,
-      "Габрусев Олег Евгеньевич": 22,
-      "Громов Евгений Васильевич": 37,
-      "Лысенко Владимир Николаевич": 344,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 277,
-      "Хованская Галина Петровна": 645,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000190441": 35,
+      "gas:candidate-vibid:377300470954": 22,
+      "gas:candidate-vibid:1001000195164": 37,
+      "gas:candidate-vibid:377300470625": 344,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 277,
+      "gas:candidate-vibid:1001000112275": 645,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 46,
-      "Габрусев Олег Евгеньевич": 6,
-      "Громов Евгений Васильевич": 55,
-      "Лысенко Владимир Николаевич": 373,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 259,
-      "Хованская Галина Петровна": 644,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000190441": 46,
+      "gas:candidate-vibid:377300470954": 6,
+      "gas:candidate-vibid:1001000195164": 55,
+      "gas:candidate-vibid:377300470625": 373,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 259,
+      "gas:candidate-vibid:1001000112275": 644,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 0,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 1,
-      "Лысенко Владимир Николаевич": 1,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 1,
-      "Хованская Галина Петровна": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190441": 0,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 1,
+      "gas:candidate-vibid:377300470625": 1,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 1,
+      "gas:candidate-vibid:1001000112275": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 0,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 1,
-      "Лысенко Владимир Николаевич": 2,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 1,
-      "Хованская Галина Петровна": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190441": 0,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 1,
+      "gas:candidate-vibid:377300470625": 2,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 1,
+      "gas:candidate-vibid:1001000112275": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470660&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 47,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 58,
-      "Лысенко Владимир Николаевич": 340,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 240,
-      "Хованская Галина Петровна": 447,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000190441": 47,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 58,
+      "gas:candidate-vibid:377300470625": 340,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 240,
+      "gas:candidate-vibid:1001000112275": 447,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 47,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 63,
-      "Лысенко Владимир Николаевич": 467,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 158,
-      "Хованская Галина Петровна": 423,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000190441": 47,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 63,
+      "gas:candidate-vibid:377300470625": 467,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 158,
+      "gas:candidate-vibid:1001000112275": 423,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 77,
-      "Лысенко Владимир Николаевич": 458,
-      "Свинцов Андрей Николаевич": 39,
-      "Улас Владимир Дмитриевич": 188,
-      "Хованская Галина Петровна": 373,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 77,
+      "gas:candidate-vibid:377300470625": 458,
+      "gas:candidate-vibid:1001000136149": 39,
+      "gas:candidate-vibid:1001000121934": 188,
+      "gas:candidate-vibid:1001000112275": 373,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 31,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 98,
-      "Лысенко Владимир Николаевич": 403,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 189,
-      "Хованская Галина Петровна": 376,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000190441": 31,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 98,
+      "gas:candidate-vibid:377300470625": 403,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 189,
+      "gas:candidate-vibid:1001000112275": 376,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 54,
-      "Лысенко Владимир Николаевич": 426,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 177,
-      "Хованская Галина Петровна": 389,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 54,
+      "gas:candidate-vibid:377300470625": 426,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 177,
+      "gas:candidate-vibid:1001000112275": 389,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 7,
-      "Громов Евгений Васильевич": 80,
-      "Лысенко Владимир Николаевич": 400,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 192,
-      "Хованская Галина Петровна": 375,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 7,
+      "gas:candidate-vibid:1001000195164": 80,
+      "gas:candidate-vibid:377300470625": 400,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 192,
+      "gas:candidate-vibid:1001000112275": 375,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 51,
-      "Габрусев Олег Евгеньевич": 24,
-      "Громов Евгений Васильевич": 112,
-      "Лысенко Владимир Николаевич": 446,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 178,
-      "Хованская Галина Петровна": 494,
-      "Против всех": 356
+      "gas:candidate-vibid:1001000190441": 51,
+      "gas:candidate-vibid:377300470954": 24,
+      "gas:candidate-vibid:1001000195164": 112,
+      "gas:candidate-vibid:377300470625": 446,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 178,
+      "gas:candidate-vibid:1001000112275": 494,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 49,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 82,
-      "Лысенко Владимир Николаевич": 448,
-      "Свинцов Андрей Николаевич": 27,
-      "Улас Владимир Дмитриевич": 212,
-      "Хованская Галина Петровна": 385,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000190441": 49,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 82,
+      "gas:candidate-vibid:377300470625": 448,
+      "gas:candidate-vibid:1001000136149": 27,
+      "gas:candidate-vibid:1001000121934": 212,
+      "gas:candidate-vibid:1001000112275": 385,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 30,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 72,
-      "Лысенко Владимир Николаевич": 317,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 222,
-      "Хованская Галина Петровна": 330,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000190441": 30,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 72,
+      "gas:candidate-vibid:377300470625": 317,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 222,
+      "gas:candidate-vibid:1001000112275": 330,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 109,
-      "Габрусев Олег Евгеньевич": 43,
-      "Громов Евгений Васильевич": 173,
-      "Лысенко Владимир Николаевич": 232,
-      "Свинцов Андрей Николаевич": 108,
-      "Улас Владимир Дмитриевич": 147,
-      "Хованская Галина Петровна": 251,
-      "Против всех": 667
+      "gas:candidate-vibid:1001000190441": 109,
+      "gas:candidate-vibid:377300470954": 43,
+      "gas:candidate-vibid:1001000195164": 173,
+      "gas:candidate-vibid:377300470625": 232,
+      "gas:candidate-vibid:1001000136149": 108,
+      "gas:candidate-vibid:1001000121934": 147,
+      "gas:candidate-vibid:1001000112275": 251,
+      "special:against-all": 667
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 66,
-      "Лысенко Владимир Николаевич": 289,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 130,
-      "Хованская Галина Петровна": 276,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 66,
+      "gas:candidate-vibid:377300470625": 289,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 130,
+      "gas:candidate-vibid:1001000112275": 276,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 63,
-      "Габрусев Олег Евгеньевич": 13,
-      "Громов Евгений Васильевич": 120,
-      "Лысенко Владимир Николаевич": 314,
-      "Свинцов Андрей Николаевич": 41,
-      "Улас Владимир Дмитриевич": 153,
-      "Хованская Галина Петровна": 329,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000190441": 63,
+      "gas:candidate-vibid:377300470954": 13,
+      "gas:candidate-vibid:1001000195164": 120,
+      "gas:candidate-vibid:377300470625": 314,
+      "gas:candidate-vibid:1001000136149": 41,
+      "gas:candidate-vibid:1001000121934": 153,
+      "gas:candidate-vibid:1001000112275": 329,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 46,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 84,
-      "Лысенко Владимир Николаевич": 264,
-      "Свинцов Андрей Николаевич": 40,
-      "Улас Владимир Дмитриевич": 114,
-      "Хованская Галина Петровна": 298,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000190441": 46,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 84,
+      "gas:candidate-vibid:377300470625": 264,
+      "gas:candidate-vibid:1001000136149": 40,
+      "gas:candidate-vibid:1001000121934": 114,
+      "gas:candidate-vibid:1001000112275": 298,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 23,
-      "Громов Евгений Васильевич": 78,
-      "Лысенко Владимир Николаевич": 244,
-      "Свинцов Андрей Николаевич": 38,
-      "Улас Владимир Дмитриевич": 135,
-      "Хованская Галина Петровна": 285,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 23,
+      "gas:candidate-vibid:1001000195164": 78,
+      "gas:candidate-vibid:377300470625": 244,
+      "gas:candidate-vibid:1001000136149": 38,
+      "gas:candidate-vibid:1001000121934": 135,
+      "gas:candidate-vibid:1001000112275": 285,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 51,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 96,
-      "Лысенко Владимир Николаевич": 316,
-      "Свинцов Андрей Николаевич": 60,
-      "Улас Владимир Дмитриевич": 178,
-      "Хованская Галина Петровна": 310,
-      "Против всех": 351
+      "gas:candidate-vibid:1001000190441": 51,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 96,
+      "gas:candidate-vibid:377300470625": 316,
+      "gas:candidate-vibid:1001000136149": 60,
+      "gas:candidate-vibid:1001000121934": 178,
+      "gas:candidate-vibid:1001000112275": 310,
+      "special:against-all": 351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 54,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 84,
-      "Лысенко Владимир Николаевич": 443,
-      "Свинцов Андрей Николаевич": 26,
-      "Улас Владимир Дмитриевич": 228,
-      "Хованская Галина Петровна": 480,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000190441": 54,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 84,
+      "gas:candidate-vibid:377300470625": 443,
+      "gas:candidate-vibid:1001000136149": 26,
+      "gas:candidate-vibid:1001000121934": 228,
+      "gas:candidate-vibid:1001000112275": 480,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 56,
-      "Габрусев Олег Евгеньевич": 19,
-      "Громов Евгений Васильевич": 81,
-      "Лысенко Владимир Николаевич": 339,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 221,
-      "Хованская Галина Петровна": 464,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000190441": 56,
+      "gas:candidate-vibid:377300470954": 19,
+      "gas:candidate-vibid:1001000195164": 81,
+      "gas:candidate-vibid:377300470625": 339,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 221,
+      "gas:candidate-vibid:1001000112275": 464,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 77,
-      "Лысенко Владимир Николаевич": 392,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 165,
-      "Хованская Галина Петровна": 495,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 77,
+      "gas:candidate-vibid:377300470625": 392,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 165,
+      "gas:candidate-vibid:1001000112275": 495,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 42,
-      "Габрусев Олег Евгеньевич": 16,
-      "Громов Евгений Васильевич": 74,
-      "Лысенко Владимир Николаевич": 376,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 146,
-      "Хованская Галина Петровна": 332,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000190441": 42,
+      "gas:candidate-vibid:377300470954": 16,
+      "gas:candidate-vibid:1001000195164": 74,
+      "gas:candidate-vibid:377300470625": 376,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 146,
+      "gas:candidate-vibid:1001000112275": 332,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 55,
-      "Габрусев Олег Евгеньевич": 22,
-      "Громов Евгений Васильевич": 71,
-      "Лысенко Владимир Николаевич": 400,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 204,
-      "Хованская Галина Петровна": 494,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000190441": 55,
+      "gas:candidate-vibid:377300470954": 22,
+      "gas:candidate-vibid:1001000195164": 71,
+      "gas:candidate-vibid:377300470625": 400,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 204,
+      "gas:candidate-vibid:1001000112275": 494,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 80,
-      "Лысенко Владимир Николаевич": 501,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 202,
-      "Хованская Галина Петровна": 469,
-      "Против всех": 332
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 80,
+      "gas:candidate-vibid:377300470625": 501,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 202,
+      "gas:candidate-vibid:1001000112275": 469,
+      "special:against-all": 332
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 8,
-      "Габрусев Олег Евгеньевич": 2,
-      "Громов Евгений Васильевич": 20,
-      "Лысенко Владимир Николаевич": 50,
-      "Свинцов Андрей Николаевич": 3,
-      "Улас Владимир Дмитриевич": 11,
-      "Хованская Галина Петровна": 49,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190441": 8,
+      "gas:candidate-vibid:377300470954": 2,
+      "gas:candidate-vibid:1001000195164": 20,
+      "gas:candidate-vibid:377300470625": 50,
+      "gas:candidate-vibid:1001000136149": 3,
+      "gas:candidate-vibid:1001000121934": 11,
+      "gas:candidate-vibid:1001000112275": 49,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 35,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 13,
-      "Лысенко Владимир Николаевич": 5,
-      "Свинцов Андрей Николаевич": 14,
-      "Улас Владимир Дмитриевич": 26,
-      "Хованская Галина Петровна": 34,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000190441": 35,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 13,
+      "gas:candidate-vibid:377300470625": 5,
+      "gas:candidate-vibid:1001000136149": 14,
+      "gas:candidate-vibid:1001000121934": 26,
+      "gas:candidate-vibid:1001000112275": 34,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 34,
-      "Габрусев Олег Евгеньевич": 2,
-      "Громов Евгений Васильевич": 29,
-      "Лысенко Владимир Николаевич": 7,
-      "Свинцов Андрей Николаевич": 6,
-      "Улас Владимир Дмитриевич": 68,
-      "Хованская Галина Петровна": 28,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000190441": 34,
+      "gas:candidate-vibid:377300470954": 2,
+      "gas:candidate-vibid:1001000195164": 29,
+      "gas:candidate-vibid:377300470625": 7,
+      "gas:candidate-vibid:1001000136149": 6,
+      "gas:candidate-vibid:1001000121934": 68,
+      "gas:candidate-vibid:1001000112275": 28,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 9,
-      "Габрусев Олег Евгеньевич": 1,
-      "Громов Евгений Васильевич": 11,
-      "Лысенко Владимир Николаевич": 3,
-      "Свинцов Андрей Николаевич": 9,
-      "Улас Владимир Дмитриевич": 16,
-      "Хованская Галина Петровна": 18,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190441": 9,
+      "gas:candidate-vibid:377300470954": 1,
+      "gas:candidate-vibid:1001000195164": 11,
+      "gas:candidate-vibid:377300470625": 3,
+      "gas:candidate-vibid:1001000136149": 9,
+      "gas:candidate-vibid:1001000121934": 16,
+      "gas:candidate-vibid:1001000112275": 18,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 9,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 6,
-      "Лысенко Владимир Николаевич": 2,
-      "Свинцов Андрей Николаевич": 1,
-      "Улас Владимир Дмитриевич": 23,
-      "Хованская Галина Петровна": 17,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190441": 9,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 6,
+      "gas:candidate-vibid:377300470625": 2,
+      "gas:candidate-vibid:1001000136149": 1,
+      "gas:candidate-vibid:1001000121934": 23,
+      "gas:candidate-vibid:1001000112275": 17,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 74,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 92,
-      "Лысенко Владимир Николаевич": 36,
-      "Свинцов Андрей Николаевич": 33,
-      "Улас Владимир Дмитриевич": 90,
-      "Хованская Галина Петровна": 127,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000190441": 74,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 92,
+      "gas:candidate-vibid:377300470625": 36,
+      "gas:candidate-vibid:1001000136149": 33,
+      "gas:candidate-vibid:1001000121934": 90,
+      "gas:candidate-vibid:1001000112275": 127,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 26,
-      "Габрусев Олег Евгеньевич": 3,
-      "Громов Евгений Васильевич": 23,
-      "Лысенко Владимир Николаевич": 8,
-      "Свинцов Андрей Николаевич": 4,
-      "Улас Владимир Дмитриевич": 4,
-      "Хованская Галина Петровна": 19,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190441": 26,
+      "gas:candidate-vibid:377300470954": 3,
+      "gas:candidate-vibid:1001000195164": 23,
+      "gas:candidate-vibid:377300470625": 8,
+      "gas:candidate-vibid:1001000136149": 4,
+      "gas:candidate-vibid:1001000121934": 4,
+      "gas:candidate-vibid:1001000112275": 19,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 33,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 59,
-      "Лысенко Владимир Николаевич": 10,
-      "Свинцов Андрей Николаевич": 30,
-      "Улас Владимир Дмитриевич": 47,
-      "Хованская Галина Петровна": 77,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000190441": 33,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 59,
+      "gas:candidate-vibid:377300470625": 10,
+      "gas:candidate-vibid:1001000136149": 30,
+      "gas:candidate-vibid:1001000121934": 47,
+      "gas:candidate-vibid:1001000112275": 77,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 20,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 32,
-      "Лысенко Владимир Николаевич": 12,
-      "Свинцов Андрей Николаевич": 7,
-      "Улас Владимир Дмитриевич": 17,
-      "Хованская Галина Петровна": 27,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000190441": 20,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 32,
+      "gas:candidate-vibid:377300470625": 12,
+      "gas:candidate-vibid:1001000136149": 7,
+      "gas:candidate-vibid:1001000121934": 17,
+      "gas:candidate-vibid:1001000112275": 27,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 1,
-      "Лысенко Владимир Николаевич": 3,
-      "Свинцов Андрей Николаевич": 2,
-      "Улас Владимир Дмитриевич": 8,
-      "Хованская Галина Петровна": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 1,
+      "gas:candidate-vibid:377300470625": 3,
+      "gas:candidate-vibid:1001000136149": 2,
+      "gas:candidate-vibid:1001000121934": 8,
+      "gas:candidate-vibid:1001000112275": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 26,
-      "Габрусев Олег Евгеньевич": 4,
-      "Громов Евгений Васильевич": 42,
-      "Лысенко Владимир Николаевич": 50,
-      "Свинцов Андрей Николаевич": 11,
-      "Улас Владимир Дмитриевич": 57,
-      "Хованская Галина Петровна": 113,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000190441": 26,
+      "gas:candidate-vibid:377300470954": 4,
+      "gas:candidate-vibid:1001000195164": 42,
+      "gas:candidate-vibid:377300470625": 50,
+      "gas:candidate-vibid:1001000136149": 11,
+      "gas:candidate-vibid:1001000121934": 57,
+      "gas:candidate-vibid:1001000112275": 113,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 3,
-      "Лысенко Владимир Николаевич": 1,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 5,
-      "Хованская Галина Петровна": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 3,
+      "gas:candidate-vibid:377300470625": 1,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 5,
+      "gas:candidate-vibid:1001000112275": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 3,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 2,
-      "Лысенко Владимир Николаевич": 2,
-      "Свинцов Андрей Николаевич": 2,
-      "Улас Владимир Дмитриевич": 3,
-      "Хованская Галина Петровна": 14,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190441": 3,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 2,
+      "gas:candidate-vibid:377300470625": 2,
+      "gas:candidate-vibid:1001000136149": 2,
+      "gas:candidate-vibid:1001000121934": 3,
+      "gas:candidate-vibid:1001000112275": 14,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 5,
-      "Габрусев Олег Евгеньевич": 1,
-      "Громов Евгений Васильевич": 2,
-      "Лысенко Владимир Николаевич": 8,
-      "Свинцов Андрей Николаевич": 3,
-      "Улас Владимир Дмитриевич": 3,
-      "Хованская Галина Петровна": 11,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190441": 5,
+      "gas:candidate-vibid:377300470954": 1,
+      "gas:candidate-vibid:1001000195164": 2,
+      "gas:candidate-vibid:377300470625": 8,
+      "gas:candidate-vibid:1001000136149": 3,
+      "gas:candidate-vibid:1001000121934": 3,
+      "gas:candidate-vibid:1001000112275": 11,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 23,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 12,
-      "Лысенко Владимир Николаевич": 9,
-      "Свинцов Андрей Николаевич": 11,
-      "Улас Владимир Дмитриевич": 31,
-      "Хованская Галина Петровна": 49,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000190441": 23,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 12,
+      "gas:candidate-vibid:377300470625": 9,
+      "gas:candidate-vibid:1001000136149": 11,
+      "gas:candidate-vibid:1001000121934": 31,
+      "gas:candidate-vibid:1001000112275": 49,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 4,
-      "Габрусев Олег Евгеньевич": 1,
-      "Громов Евгений Васильевич": 0,
-      "Лысенко Владимир Николаевич": 3,
-      "Свинцов Андрей Николаевич": 7,
-      "Улас Владимир Дмитриевич": 5,
-      "Хованская Галина Петровна": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190441": 4,
+      "gas:candidate-vibid:377300470954": 1,
+      "gas:candidate-vibid:1001000195164": 0,
+      "gas:candidate-vibid:377300470625": 3,
+      "gas:candidate-vibid:1001000136149": 7,
+      "gas:candidate-vibid:1001000121934": 5,
+      "gas:candidate-vibid:1001000112275": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 3,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 5,
-      "Лысенко Владимир Николаевич": 10,
-      "Свинцов Андрей Николаевич": 2,
-      "Улас Владимир Дмитриевич": 6,
-      "Хованская Галина Петровна": 14,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190441": 3,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 5,
+      "gas:candidate-vibid:377300470625": 10,
+      "gas:candidate-vibid:1001000136149": 2,
+      "gas:candidate-vibid:1001000121934": 6,
+      "gas:candidate-vibid:1001000112275": 14,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 8,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 18,
-      "Лысенко Владимир Николаевич": 12,
-      "Свинцов Андрей Николаевич": 7,
-      "Улас Владимир Дмитриевич": 17,
-      "Хованская Галина Петровна": 43,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190441": 8,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 18,
+      "gas:candidate-vibid:377300470625": 12,
+      "gas:candidate-vibid:1001000136149": 7,
+      "gas:candidate-vibid:1001000121934": 17,
+      "gas:candidate-vibid:1001000112275": 43,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 11,
-      "Габрусев Олег Евгеньевич": 1,
-      "Громов Евгений Васильевич": 19,
-      "Лысенко Владимир Николаевич": 6,
-      "Свинцов Андрей Николаевич": 7,
-      "Улас Владимир Дмитриевич": 39,
-      "Хованская Галина Петровна": 17,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190441": 11,
+      "gas:candidate-vibid:377300470954": 1,
+      "gas:candidate-vibid:1001000195164": 19,
+      "gas:candidate-vibid:377300470625": 6,
+      "gas:candidate-vibid:1001000136149": 7,
+      "gas:candidate-vibid:1001000121934": 39,
+      "gas:candidate-vibid:1001000112275": 17,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 55,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 33,
-      "Лысенко Владимир Николаевич": 27,
-      "Свинцов Андрей Николаевич": 26,
-      "Улас Владимир Дмитриевич": 89,
-      "Хованская Галина Петровна": 46,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190441": 55,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 33,
+      "gas:candidate-vibid:377300470625": 27,
+      "gas:candidate-vibid:1001000136149": 26,
+      "gas:candidate-vibid:1001000121934": 89,
+      "gas:candidate-vibid:1001000112275": 46,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 1,
-      "Габрусев Олег Евгеньевич": 3,
-      "Громов Евгений Васильевич": 4,
-      "Лысенко Владимир Николаевич": 7,
-      "Свинцов Андрей Николаевич": 2,
-      "Улас Владимир Дмитриевич": 3,
-      "Хованская Галина Петровна": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190441": 1,
+      "gas:candidate-vibid:377300470954": 3,
+      "gas:candidate-vibid:1001000195164": 4,
+      "gas:candidate-vibid:377300470625": 7,
+      "gas:candidate-vibid:1001000136149": 2,
+      "gas:candidate-vibid:1001000121934": 3,
+      "gas:candidate-vibid:1001000112275": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 103,
-      "Габрусев Олег Евгеньевич": 25,
-      "Громов Евгений Васильевич": 112,
-      "Лысенко Владимир Николаевич": 125,
-      "Свинцов Андрей Николаевич": 116,
-      "Улас Владимир Дмитриевич": 188,
-      "Хованская Галина Петровна": 112,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000190441": 103,
+      "gas:candidate-vibid:377300470954": 25,
+      "gas:candidate-vibid:1001000195164": 112,
+      "gas:candidate-vibid:377300470625": 125,
+      "gas:candidate-vibid:1001000136149": 116,
+      "gas:candidate-vibid:1001000121934": 188,
+      "gas:candidate-vibid:1001000112275": 112,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 102,
-      "Габрусев Олег Евгеньевич": 65,
-      "Громов Евгений Васильевич": 44,
-      "Лысенко Владимир Николаевич": 101,
-      "Свинцов Андрей Николаевич": 49,
-      "Улас Владимир Дмитриевич": 122,
-      "Хованская Галина Петровна": 40,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190441": 102,
+      "gas:candidate-vibid:377300470954": 65,
+      "gas:candidate-vibid:1001000195164": 44,
+      "gas:candidate-vibid:377300470625": 101,
+      "gas:candidate-vibid:1001000136149": 49,
+      "gas:candidate-vibid:1001000121934": 122,
+      "gas:candidate-vibid:1001000112275": 40,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 112,
-      "Громов Евгений Васильевич": 57,
-      "Лысенко Владимир Николаевич": 207,
-      "Свинцов Андрей Николаевич": 77,
-      "Улас Владимир Дмитриевич": 246,
-      "Хованская Галина Петровна": 40,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 112,
+      "gas:candidate-vibid:1001000195164": 57,
+      "gas:candidate-vibid:377300470625": 207,
+      "gas:candidate-vibid:1001000136149": 77,
+      "gas:candidate-vibid:1001000121934": 246,
+      "gas:candidate-vibid:1001000112275": 40,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 38,
-      "Громов Евгений Васильевич": 78,
-      "Лысенко Владимир Николаевич": 1270,
-      "Свинцов Андрей Николаевич": 80,
-      "Улас Владимир Дмитриевич": 127,
-      "Хованская Галина Петровна": 50,
-      "Против всех": 375
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 38,
+      "gas:candidate-vibid:1001000195164": 78,
+      "gas:candidate-vibid:377300470625": 1270,
+      "gas:candidate-vibid:1001000136149": 80,
+      "gas:candidate-vibid:1001000121934": 127,
+      "gas:candidate-vibid:1001000112275": 50,
+      "special:against-all": 375
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 53,
-      "Габрусев Олег Евгеньевич": 30,
-      "Громов Евгений Васильевич": 50,
-      "Лысенко Владимир Николаевич": 256,
-      "Свинцов Андрей Николаевич": 74,
-      "Улас Владимир Дмитриевич": 106,
-      "Хованская Галина Петровна": 40,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000190441": 53,
+      "gas:candidate-vibid:377300470954": 30,
+      "gas:candidate-vibid:1001000195164": 50,
+      "gas:candidate-vibid:377300470625": 256,
+      "gas:candidate-vibid:1001000136149": 74,
+      "gas:candidate-vibid:1001000121934": 106,
+      "gas:candidate-vibid:1001000112275": 40,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 107,
-      "Габрусев Олег Евгеньевич": 43,
-      "Громов Евгений Васильевич": 123,
-      "Лысенко Владимир Николаевич": 950,
-      "Свинцов Андрей Николаевич": 110,
-      "Улас Владимир Дмитриевич": 332,
-      "Хованская Галина Петровна": 98,
-      "Против всех": 514
+      "gas:candidate-vibid:1001000190441": 107,
+      "gas:candidate-vibid:377300470954": 43,
+      "gas:candidate-vibid:1001000195164": 123,
+      "gas:candidate-vibid:377300470625": 950,
+      "gas:candidate-vibid:1001000136149": 110,
+      "gas:candidate-vibid:1001000121934": 332,
+      "gas:candidate-vibid:1001000112275": 98,
+      "special:against-all": 514
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 96,
-      "Габрусев Олег Евгеньевич": 25,
-      "Громов Евгений Васильевич": 89,
-      "Лысенко Владимир Николаевич": 755,
-      "Свинцов Андрей Николаевич": 88,
-      "Улас Владимир Дмитриевич": 189,
-      "Хованская Галина Петровна": 105,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000190441": 96,
+      "gas:candidate-vibid:377300470954": 25,
+      "gas:candidate-vibid:1001000195164": 89,
+      "gas:candidate-vibid:377300470625": 755,
+      "gas:candidate-vibid:1001000136149": 88,
+      "gas:candidate-vibid:1001000121934": 189,
+      "gas:candidate-vibid:1001000112275": 105,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 62,
-      "Габрусев Олег Евгеньевич": 22,
-      "Громов Евгений Васильевич": 104,
-      "Лысенко Владимир Николаевич": 542,
-      "Свинцов Андрей Николаевич": 86,
-      "Улас Владимир Дмитриевич": 71,
-      "Хованская Галина Петровна": 69,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000190441": 62,
+      "gas:candidate-vibid:377300470954": 22,
+      "gas:candidate-vibid:1001000195164": 104,
+      "gas:candidate-vibid:377300470625": 542,
+      "gas:candidate-vibid:1001000136149": 86,
+      "gas:candidate-vibid:1001000121934": 71,
+      "gas:candidate-vibid:1001000112275": 69,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 72,
-      "Габрусев Олег Евгеньевич": 29,
-      "Громов Евгений Васильевич": 108,
-      "Лысенко Владимир Николаевич": 516,
-      "Свинцов Андрей Николаевич": 101,
-      "Улас Владимир Дмитриевич": 82,
-      "Хованская Галина Петровна": 55,
-      "Против всех": 409
+      "gas:candidate-vibid:1001000190441": 72,
+      "gas:candidate-vibid:377300470954": 29,
+      "gas:candidate-vibid:1001000195164": 108,
+      "gas:candidate-vibid:377300470625": 516,
+      "gas:candidate-vibid:1001000136149": 101,
+      "gas:candidate-vibid:1001000121934": 82,
+      "gas:candidate-vibid:1001000112275": 55,
+      "special:against-all": 409
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 16,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 28,
-      "Лысенко Владимир Николаевич": 279,
-      "Свинцов Андрей Николаевич": 20,
-      "Улас Владимир Дмитриевич": 31,
-      "Хованская Галина Петровна": 10,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000190441": 16,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 28,
+      "gas:candidate-vibid:377300470625": 279,
+      "gas:candidate-vibid:1001000136149": 20,
+      "gas:candidate-vibid:1001000121934": 31,
+      "gas:candidate-vibid:1001000112275": 10,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 7,
-      "Габрусев Олег Евгеньевич": 1,
-      "Громов Евгений Васильевич": 10,
-      "Лысенко Владимир Николаевич": 215,
-      "Свинцов Андрей Николаевич": 6,
-      "Улас Владимир Дмитриевич": 10,
-      "Хованская Галина Петровна": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190441": 7,
+      "gas:candidate-vibid:377300470954": 1,
+      "gas:candidate-vibid:1001000195164": 10,
+      "gas:candidate-vibid:377300470625": 215,
+      "gas:candidate-vibid:1001000136149": 6,
+      "gas:candidate-vibid:1001000121934": 10,
+      "gas:candidate-vibid:1001000112275": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 6,
-      "Габрусев Олег Евгеньевич": 4,
-      "Громов Евгений Васильевич": 15,
-      "Лысенко Владимир Николаевич": 189,
-      "Свинцов Андрей Николаевич": 11,
-      "Улас Владимир Дмитриевич": 32,
-      "Хованская Галина Петровна": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190441": 6,
+      "gas:candidate-vibid:377300470954": 4,
+      "gas:candidate-vibid:1001000195164": 15,
+      "gas:candidate-vibid:377300470625": 189,
+      "gas:candidate-vibid:1001000136149": 11,
+      "gas:candidate-vibid:1001000121934": 32,
+      "gas:candidate-vibid:1001000112275": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 7,
-      "Габрусев Олег Евгеньевич": 5,
-      "Громов Евгений Васильевич": 10,
-      "Лысенко Владимир Николаевич": 26,
-      "Свинцов Андрей Николаевич": 2,
-      "Улас Владимир Дмитриевич": 2,
-      "Хованская Галина Петровна": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190441": 7,
+      "gas:candidate-vibid:377300470954": 5,
+      "gas:candidate-vibid:1001000195164": 10,
+      "gas:candidate-vibid:377300470625": 26,
+      "gas:candidate-vibid:1001000136149": 2,
+      "gas:candidate-vibid:1001000121934": 2,
+      "gas:candidate-vibid:1001000112275": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 37,
-      "Габрусев Олег Евгеньевич": 23,
-      "Громов Евгений Васильевич": 39,
-      "Лысенко Владимир Николаевич": 141,
-      "Свинцов Андрей Николаевич": 59,
-      "Улас Владимир Дмитриевич": 69,
-      "Хованская Галина Петровна": 41,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190441": 37,
+      "gas:candidate-vibid:377300470954": 23,
+      "gas:candidate-vibid:1001000195164": 39,
+      "gas:candidate-vibid:377300470625": 141,
+      "gas:candidate-vibid:1001000136149": 59,
+      "gas:candidate-vibid:1001000121934": 69,
+      "gas:candidate-vibid:1001000112275": 41,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 58,
-      "Габрусев Олег Евгеньевич": 29,
-      "Громов Евгений Васильевич": 76,
-      "Лысенко Владимир Николаевич": 631,
-      "Свинцов Андрей Николаевич": 55,
-      "Улас Владимир Дмитриевич": 127,
-      "Хованская Галина Петровна": 47,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000190441": 58,
+      "gas:candidate-vibid:377300470954": 29,
+      "gas:candidate-vibid:1001000195164": 76,
+      "gas:candidate-vibid:377300470625": 631,
+      "gas:candidate-vibid:1001000136149": 55,
+      "gas:candidate-vibid:1001000121934": 127,
+      "gas:candidate-vibid:1001000112275": 47,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 31,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 37,
-      "Лысенко Владимир Николаевич": 19,
-      "Свинцов Андрей Николаевич": 25,
-      "Улас Владимир Дмитриевич": 45,
-      "Хованская Галина Петровна": 29,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190441": 31,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 37,
+      "gas:candidate-vibid:377300470625": 19,
+      "gas:candidate-vibid:1001000136149": 25,
+      "gas:candidate-vibid:1001000121934": 45,
+      "gas:candidate-vibid:1001000112275": 29,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470664&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 46,
-      "Лысенко Владимир Николаевич": 275,
-      "Свинцов Андрей Николаевич": 47,
-      "Улас Владимир Дмитриевич": 81,
-      "Хованская Галина Петровна": 763,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 46,
+      "gas:candidate-vibid:377300470625": 275,
+      "gas:candidate-vibid:1001000136149": 47,
+      "gas:candidate-vibid:1001000121934": 81,
+      "gas:candidate-vibid:1001000112275": 763,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 19,
-      "Габрусев Олег Евгеньевич": 3,
-      "Громов Евгений Васильевич": 43,
-      "Лысенко Владимир Николаевич": 157,
-      "Свинцов Андрей Николаевич": 14,
-      "Улас Владимир Дмитриевич": 82,
-      "Хованская Галина Петровна": 449,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000190441": 19,
+      "gas:candidate-vibid:377300470954": 3,
+      "gas:candidate-vibid:1001000195164": 43,
+      "gas:candidate-vibid:377300470625": 157,
+      "gas:candidate-vibid:1001000136149": 14,
+      "gas:candidate-vibid:1001000121934": 82,
+      "gas:candidate-vibid:1001000112275": 449,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 68,
-      "Лысенко Владимир Николаевич": 294,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 126,
-      "Хованская Галина Петровна": 561,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 68,
+      "gas:candidate-vibid:377300470625": 294,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 126,
+      "gas:candidate-vibid:1001000112275": 561,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 142,
-      "Лысенко Владимир Николаевич": 372,
-      "Свинцов Андрей Николаевич": 47,
-      "Улас Владимир Дмитриевич": 138,
-      "Хованская Галина Петровна": 387,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 142,
+      "gas:candidate-vibid:377300470625": 372,
+      "gas:candidate-vibid:1001000136149": 47,
+      "gas:candidate-vibid:1001000121934": 138,
+      "gas:candidate-vibid:1001000112275": 387,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 58,
-      "Лысенко Владимир Николаевич": 273,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 179,
-      "Хованская Галина Петровна": 413,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 58,
+      "gas:candidate-vibid:377300470625": 273,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 179,
+      "gas:candidate-vibid:1001000112275": 413,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 41,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 53,
-      "Лысенко Владимир Николаевич": 442,
-      "Свинцов Андрей Николаевич": 21,
-      "Улас Владимир Дмитриевич": 222,
-      "Хованская Галина Петровна": 614,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000190441": 41,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 53,
+      "gas:candidate-vibid:377300470625": 442,
+      "gas:candidate-vibid:1001000136149": 21,
+      "gas:candidate-vibid:1001000121934": 222,
+      "gas:candidate-vibid:1001000112275": 614,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 41,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 34,
-      "Лысенко Владимир Николаевич": 426,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 196,
-      "Хованская Галина Петровна": 515,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000190441": 41,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 34,
+      "gas:candidate-vibid:377300470625": 426,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 196,
+      "gas:candidate-vibid:1001000112275": 515,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 28,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 61,
-      "Лысенко Владимир Николаевич": 406,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 149,
-      "Хованская Галина Петровна": 521,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000190441": 28,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 61,
+      "gas:candidate-vibid:377300470625": 406,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 149,
+      "gas:candidate-vibid:1001000112275": 521,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 52,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 59,
-      "Лысенко Владимир Николаевич": 373,
-      "Свинцов Андрей Николаевич": 35,
-      "Улас Владимир Дмитриевич": 163,
-      "Хованская Галина Петровна": 536,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000190441": 52,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 59,
+      "gas:candidate-vibid:377300470625": 373,
+      "gas:candidate-vibid:1001000136149": 35,
+      "gas:candidate-vibid:1001000121934": 163,
+      "gas:candidate-vibid:1001000112275": 536,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 47,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 75,
-      "Лысенко Владимир Николаевич": 447,
-      "Свинцов Андрей Николаевич": 31,
-      "Улас Владимир Дмитриевич": 267,
-      "Хованская Галина Петровна": 531,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000190441": 47,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 75,
+      "gas:candidate-vibid:377300470625": 447,
+      "gas:candidate-vibid:1001000136149": 31,
+      "gas:candidate-vibid:1001000121934": 267,
+      "gas:candidate-vibid:1001000112275": 531,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 26,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 60,
-      "Лысенко Владимир Николаевич": 278,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 100,
-      "Хованская Галина Петровна": 460,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000190441": 26,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 60,
+      "gas:candidate-vibid:377300470625": 278,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 100,
+      "gas:candidate-vibid:1001000112275": 460,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 25,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 42,
-      "Лысенко Владимир Николаевич": 293,
-      "Свинцов Андрей Николаевич": 24,
-      "Улас Владимир Дмитриевич": 176,
-      "Хованская Галина Петровна": 335,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000190441": 25,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 42,
+      "gas:candidate-vibid:377300470625": 293,
+      "gas:candidate-vibid:1001000136149": 24,
+      "gas:candidate-vibid:1001000121934": 176,
+      "gas:candidate-vibid:1001000112275": 335,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 45,
-      "Лысенко Владимир Николаевич": 374,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 256,
-      "Хованская Галина Петровна": 533,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 45,
+      "gas:candidate-vibid:377300470625": 374,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 256,
+      "gas:candidate-vibid:1001000112275": 533,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 32,
-      "Габрусев Олег Евгеньевич": 20,
-      "Громов Евгений Васильевич": 57,
-      "Лысенко Владимир Николаевич": 374,
-      "Свинцов Андрей Николаевич": 29,
-      "Улас Владимир Дмитриевич": 189,
-      "Хованская Галина Петровна": 494,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000190441": 32,
+      "gas:candidate-vibid:377300470954": 20,
+      "gas:candidate-vibid:1001000195164": 57,
+      "gas:candidate-vibid:377300470625": 374,
+      "gas:candidate-vibid:1001000136149": 29,
+      "gas:candidate-vibid:1001000121934": 189,
+      "gas:candidate-vibid:1001000112275": 494,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 27,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 53,
-      "Лысенко Владимир Николаевич": 336,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 205,
-      "Хованская Галина Петровна": 447,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000190441": 27,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 53,
+      "gas:candidate-vibid:377300470625": 336,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 205,
+      "gas:candidate-vibid:1001000112275": 447,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 58,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 66,
-      "Лысенко Владимир Николаевич": 251,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 174,
-      "Хованская Галина Петровна": 530,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000190441": 58,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 66,
+      "gas:candidate-vibid:377300470625": 251,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 174,
+      "gas:candidate-vibid:1001000112275": 530,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470666&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 77,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 111,
-      "Лысенко Владимир Николаевич": 298,
-      "Свинцов Андрей Николаевич": 42,
-      "Улас Владимир Дмитриевич": 183,
-      "Хованская Галина Петровна": 588,
-      "Против всех": 430
+      "gas:candidate-vibid:1001000190441": 77,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 111,
+      "gas:candidate-vibid:377300470625": 298,
+      "gas:candidate-vibid:1001000136149": 42,
+      "gas:candidate-vibid:1001000121934": 183,
+      "gas:candidate-vibid:1001000112275": 588,
+      "special:against-all": 430
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 49,
-      "Габрусев Олег Евгеньевич": 25,
-      "Громов Евгений Васильевич": 103,
-      "Лысенко Владимир Николаевич": 179,
-      "Свинцов Андрей Николаевич": 33,
-      "Улас Владимир Дмитриевич": 104,
-      "Хованская Галина Петровна": 381,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000190441": 49,
+      "gas:candidate-vibid:377300470954": 25,
+      "gas:candidate-vibid:1001000195164": 103,
+      "gas:candidate-vibid:377300470625": 179,
+      "gas:candidate-vibid:1001000136149": 33,
+      "gas:candidate-vibid:1001000121934": 104,
+      "gas:candidate-vibid:1001000112275": 381,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 62,
-      "Габрусев Олег Евгеньевич": 8,
-      "Громов Евгений Васильевич": 88,
-      "Лысенко Владимир Николаевич": 305,
-      "Свинцов Андрей Николаевич": 36,
-      "Улас Владимир Дмитриевич": 153,
-      "Хованская Галина Петровна": 465,
-      "Против всех": 360
+      "gas:candidate-vibid:1001000190441": 62,
+      "gas:candidate-vibid:377300470954": 8,
+      "gas:candidate-vibid:1001000195164": 88,
+      "gas:candidate-vibid:377300470625": 305,
+      "gas:candidate-vibid:1001000136149": 36,
+      "gas:candidate-vibid:1001000121934": 153,
+      "gas:candidate-vibid:1001000112275": 465,
+      "special:against-all": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 96,
-      "Габрусев Олег Евгеньевич": 18,
-      "Громов Евгений Васильевич": 104,
-      "Лысенко Владимир Николаевич": 170,
-      "Свинцов Андрей Николаевич": 53,
-      "Улас Владимир Дмитриевич": 192,
-      "Хованская Галина Петровна": 583,
-      "Против всех": 476
+      "gas:candidate-vibid:1001000190441": 96,
+      "gas:candidate-vibid:377300470954": 18,
+      "gas:candidate-vibid:1001000195164": 104,
+      "gas:candidate-vibid:377300470625": 170,
+      "gas:candidate-vibid:1001000136149": 53,
+      "gas:candidate-vibid:1001000121934": 192,
+      "gas:candidate-vibid:1001000112275": 583,
+      "special:against-all": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 57,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 110,
-      "Лысенко Владимир Николаевич": 193,
-      "Свинцов Андрей Николаевич": 37,
-      "Улас Владимир Дмитриевич": 134,
-      "Хованская Галина Петровна": 484,
-      "Против всех": 394
+      "gas:candidate-vibid:1001000190441": 57,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 110,
+      "gas:candidate-vibid:377300470625": 193,
+      "gas:candidate-vibid:1001000136149": 37,
+      "gas:candidate-vibid:1001000121934": 134,
+      "gas:candidate-vibid:1001000112275": 484,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 45,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 78,
-      "Лысенко Владимир Николаевич": 195,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 106,
-      "Хованская Галина Петровна": 477,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190441": 45,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 78,
+      "gas:candidate-vibid:377300470625": 195,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 106,
+      "gas:candidate-vibid:1001000112275": 477,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 57,
-      "Габрусев Олег Евгеньевич": 25,
-      "Громов Евгений Васильевич": 98,
-      "Лысенко Владимир Николаевич": 169,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 113,
-      "Хованская Галина Петровна": 472,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000190441": 57,
+      "gas:candidate-vibid:377300470954": 25,
+      "gas:candidate-vibid:1001000195164": 98,
+      "gas:candidate-vibid:377300470625": 169,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 113,
+      "gas:candidate-vibid:1001000112275": 472,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 88,
-      "Лысенко Владимир Николаевич": 246,
-      "Свинцов Андрей Николаевич": 36,
-      "Улас Владимир Дмитриевич": 136,
-      "Хованская Галина Петровна": 526,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 88,
+      "gas:candidate-vibid:377300470625": 246,
+      "gas:candidate-vibid:1001000136149": 36,
+      "gas:candidate-vibid:1001000121934": 136,
+      "gas:candidate-vibid:1001000112275": 526,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 63,
-      "Габрусев Олег Евгеньевич": 29,
-      "Громов Евгений Васильевич": 63,
-      "Лысенко Владимир Николаевич": 235,
-      "Свинцов Андрей Николаевич": 34,
-      "Улас Владимир Дмитриевич": 133,
-      "Хованская Галина Петровна": 431,
-      "Против всех": 313
+      "gas:candidate-vibid:1001000190441": 63,
+      "gas:candidate-vibid:377300470954": 29,
+      "gas:candidate-vibid:1001000195164": 63,
+      "gas:candidate-vibid:377300470625": 235,
+      "gas:candidate-vibid:1001000136149": 34,
+      "gas:candidate-vibid:1001000121934": 133,
+      "gas:candidate-vibid:1001000112275": 431,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 48,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 78,
-      "Лысенко Владимир Николаевич": 186,
-      "Свинцов Андрей Николаевич": 38,
-      "Улас Владимир Дмитриевич": 128,
-      "Хованская Галина Петровна": 419,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000190441": 48,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 78,
+      "gas:candidate-vibid:377300470625": 186,
+      "gas:candidate-vibid:1001000136149": 38,
+      "gas:candidate-vibid:1001000121934": 128,
+      "gas:candidate-vibid:1001000112275": 419,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 54,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 96,
-      "Лысенко Владимир Николаевич": 152,
-      "Свинцов Андрей Николаевич": 42,
-      "Улас Владимир Дмитриевич": 147,
-      "Хованская Галина Петровна": 419,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000190441": 54,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 96,
+      "gas:candidate-vibid:377300470625": 152,
+      "gas:candidate-vibid:1001000136149": 42,
+      "gas:candidate-vibid:1001000121934": 147,
+      "gas:candidate-vibid:1001000112275": 419,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 10,
-      "Громов Евгений Васильевич": 85,
-      "Лысенко Владимир Николаевич": 70,
-      "Свинцов Андрей Николаевич": 25,
-      "Улас Владимир Дмитриевич": 83,
-      "Хованская Галина Петровна": 247,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 10,
+      "gas:candidate-vibid:1001000195164": 85,
+      "gas:candidate-vibid:377300470625": 70,
+      "gas:candidate-vibid:1001000136149": 25,
+      "gas:candidate-vibid:1001000121934": 83,
+      "gas:candidate-vibid:1001000112275": 247,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 57,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 79,
-      "Лысенко Владимир Николаевич": 108,
-      "Свинцов Андрей Николаевич": 22,
-      "Улас Владимир Дмитриевич": 115,
-      "Хованская Галина Петровна": 327,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000190441": 57,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 79,
+      "gas:candidate-vibid:377300470625": 108,
+      "gas:candidate-vibid:1001000136149": 22,
+      "gas:candidate-vibid:1001000121934": 115,
+      "gas:candidate-vibid:1001000112275": 327,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 38,
-      "Габрусев Олег Евгеньевич": 18,
-      "Громов Евгений Васильевич": 73,
-      "Лысенко Владимир Николаевич": 114,
-      "Свинцов Андрей Николаевич": 28,
-      "Улас Владимир Дмитриевич": 96,
-      "Хованская Галина Петровна": 443,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190441": 38,
+      "gas:candidate-vibid:377300470954": 18,
+      "gas:candidate-vibid:1001000195164": 73,
+      "gas:candidate-vibid:377300470625": 114,
+      "gas:candidate-vibid:1001000136149": 28,
+      "gas:candidate-vibid:1001000121934": 96,
+      "gas:candidate-vibid:1001000112275": 443,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 48,
-      "Лысенко Владимир Николаевич": 118,
-      "Свинцов Андрей Николаевич": 54,
-      "Улас Владимир Дмитриевич": 117,
-      "Хованская Галина Петровна": 478,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 48,
+      "gas:candidate-vibid:377300470625": 118,
+      "gas:candidate-vibid:1001000136149": 54,
+      "gas:candidate-vibid:1001000121934": 117,
+      "gas:candidate-vibid:1001000112275": 478,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 44,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 70,
-      "Лысенко Владимир Николаевич": 131,
-      "Свинцов Андрей Николаевич": 23,
-      "Улас Владимир Дмитриевич": 104,
-      "Хованская Галина Петровна": 390,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000190441": 44,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 70,
+      "gas:candidate-vibid:377300470625": 131,
+      "gas:candidate-vibid:1001000136149": 23,
+      "gas:candidate-vibid:1001000121934": 104,
+      "gas:candidate-vibid:1001000112275": 390,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 76,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 111,
-      "Лысенко Владимир Николаевич": 209,
-      "Свинцов Андрей Николаевич": 38,
-      "Улас Владимир Дмитриевич": 129,
-      "Хованская Галина Петровна": 646,
-      "Против всех": 428
+      "gas:candidate-vibid:1001000190441": 76,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 111,
+      "gas:candidate-vibid:377300470625": 209,
+      "gas:candidate-vibid:1001000136149": 38,
+      "gas:candidate-vibid:1001000121934": 129,
+      "gas:candidate-vibid:1001000112275": 646,
+      "special:against-all": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 56,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 83,
-      "Лысенко Владимир Николаевич": 179,
-      "Свинцов Андрей Николаевич": 32,
-      "Улас Владимир Дмитриевич": 195,
-      "Хованская Галина Петровна": 609,
-      "Против всех": 401
+      "gas:candidate-vibid:1001000190441": 56,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 83,
+      "gas:candidate-vibid:377300470625": 179,
+      "gas:candidate-vibid:1001000136149": 32,
+      "gas:candidate-vibid:1001000121934": 195,
+      "gas:candidate-vibid:1001000112275": 609,
+      "special:against-all": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 51,
-      "Габрусев Олег Евгеньевич": 12,
-      "Громов Евгений Васильевич": 88,
-      "Лысенко Владимир Николаевич": 140,
-      "Свинцов Андрей Николаевич": 45,
-      "Улас Владимир Дмитриевич": 106,
-      "Хованская Галина Петровна": 564,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000190441": 51,
+      "gas:candidate-vibid:377300470954": 12,
+      "gas:candidate-vibid:1001000195164": 88,
+      "gas:candidate-vibid:377300470625": 140,
+      "gas:candidate-vibid:1001000136149": 45,
+      "gas:candidate-vibid:1001000121934": 106,
+      "gas:candidate-vibid:1001000112275": 564,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 72,
-      "Габрусев Олег Евгеньевич": 14,
-      "Громов Евгений Васильевич": 106,
-      "Лысенко Владимир Николаевич": 181,
-      "Свинцов Андрей Николаевич": 39,
-      "Улас Владимир Дмитриевич": 116,
-      "Хованская Галина Петровна": 533,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000190441": 72,
+      "gas:candidate-vibid:377300470954": 14,
+      "gas:candidate-vibid:1001000195164": 106,
+      "gas:candidate-vibid:377300470625": 181,
+      "gas:candidate-vibid:1001000136149": 39,
+      "gas:candidate-vibid:1001000121934": 116,
+      "gas:candidate-vibid:1001000112275": 533,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 76,
-      "Габрусев Олег Евгеньевич": 19,
-      "Громов Евгений Васильевич": 116,
-      "Лысенко Владимир Николаевич": 160,
-      "Свинцов Андрей Николаевич": 46,
-      "Улас Владимир Дмитриевич": 139,
-      "Хованская Галина Петровна": 478,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000190441": 76,
+      "gas:candidate-vibid:377300470954": 19,
+      "gas:candidate-vibid:1001000195164": 116,
+      "gas:candidate-vibid:377300470625": 160,
+      "gas:candidate-vibid:1001000136149": 46,
+      "gas:candidate-vibid:1001000121934": 139,
+      "gas:candidate-vibid:1001000112275": 478,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 50,
-      "Габрусев Олег Евгеньевич": 23,
-      "Громов Евгений Васильевич": 85,
-      "Лысенко Владимир Николаевич": 200,
-      "Свинцов Андрей Николаевич": 36,
-      "Улас Владимир Дмитриевич": 117,
-      "Хованская Галина Петровна": 419,
-      "Против всех": 366
+      "gas:candidate-vibid:1001000190441": 50,
+      "gas:candidate-vibid:377300470954": 23,
+      "gas:candidate-vibid:1001000195164": 85,
+      "gas:candidate-vibid:377300470625": 200,
+      "gas:candidate-vibid:1001000136149": 36,
+      "gas:candidate-vibid:1001000121934": 117,
+      "gas:candidate-vibid:1001000112275": 419,
+      "special:against-all": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 43,
-      "Габрусев Олег Евгеньевич": 17,
-      "Громов Евгений Васильевич": 69,
-      "Лысенко Владимир Николаевич": 127,
-      "Свинцов Андрей Николаевич": 50,
-      "Улас Владимир Дмитриевич": 88,
-      "Хованская Галина Петровна": 406,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000190441": 43,
+      "gas:candidate-vibid:377300470954": 17,
+      "gas:candidate-vibid:1001000195164": 69,
+      "gas:candidate-vibid:377300470625": 127,
+      "gas:candidate-vibid:1001000136149": 50,
+      "gas:candidate-vibid:1001000121934": 88,
+      "gas:candidate-vibid:1001000112275": 406,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 70,
-      "Габрусев Олег Евгеньевич": 21,
-      "Громов Евгений Васильевич": 94,
-      "Лысенко Владимир Николаевич": 198,
-      "Свинцов Андрей Николаевич": 47,
-      "Улас Владимир Дмитриевич": 173,
-      "Хованская Галина Петровна": 517,
-      "Против всех": 408
+      "gas:candidate-vibid:1001000190441": 70,
+      "gas:candidate-vibid:377300470954": 21,
+      "gas:candidate-vibid:1001000195164": 94,
+      "gas:candidate-vibid:377300470625": 198,
+      "gas:candidate-vibid:1001000136149": 47,
+      "gas:candidate-vibid:1001000121934": 173,
+      "gas:candidate-vibid:1001000112275": 517,
+      "special:against-all": 408
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 73,
-      "Габрусев Олег Евгеньевич": 15,
-      "Громов Евгений Васильевич": 125,
-      "Лысенко Владимир Николаевич": 253,
-      "Свинцов Андрей Николаевич": 45,
-      "Улас Владимир Дмитриевич": 141,
-      "Хованская Галина Петровна": 490,
-      "Против всех": 424
+      "gas:candidate-vibid:1001000190441": 73,
+      "gas:candidate-vibid:377300470954": 15,
+      "gas:candidate-vibid:1001000195164": 125,
+      "gas:candidate-vibid:377300470625": 253,
+      "gas:candidate-vibid:1001000136149": 45,
+      "gas:candidate-vibid:1001000121934": 141,
+      "gas:candidate-vibid:1001000112275": 490,
+      "special:against-all": 424
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 61,
-      "Габрусев Олег Евгеньевич": 11,
-      "Громов Евгений Васильевич": 67,
-      "Лысенко Владимир Николаевич": 137,
-      "Свинцов Андрей Николаевич": 38,
-      "Улас Владимир Дмитриевич": 119,
-      "Хованская Галина Петровна": 327,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000190441": 61,
+      "gas:candidate-vibid:377300470954": 11,
+      "gas:candidate-vibid:1001000195164": 67,
+      "gas:candidate-vibid:377300470625": 137,
+      "gas:candidate-vibid:1001000136149": 38,
+      "gas:candidate-vibid:1001000121934": 119,
+      "gas:candidate-vibid:1001000112275": 327,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 58,
-      "Габрусев Олег Евгеньевич": 9,
-      "Громов Евгений Васильевич": 87,
-      "Лысенко Владимир Николаевич": 135,
-      "Свинцов Андрей Николаевич": 43,
-      "Улас Владимир Дмитриевич": 127,
-      "Хованская Галина Петровна": 492,
-      "Против всех": 406
+      "gas:candidate-vibid:1001000190441": 58,
+      "gas:candidate-vibid:377300470954": 9,
+      "gas:candidate-vibid:1001000195164": 87,
+      "gas:candidate-vibid:377300470625": 135,
+      "gas:candidate-vibid:1001000136149": 43,
+      "gas:candidate-vibid:1001000121934": 127,
+      "gas:candidate-vibid:1001000112275": 492,
+      "special:against-all": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 14,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 6,
-      "Лысенко Владимир Николаевич": 6,
-      "Свинцов Андрей Николаевич": 0,
-      "Улас Владимир Дмитриевич": 4,
-      "Хованская Галина Петровна": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190441": 14,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 6,
+      "gas:candidate-vibid:377300470625": 6,
+      "gas:candidate-vibid:1001000136149": 0,
+      "gas:candidate-vibid:1001000121934": 4,
+      "gas:candidate-vibid:1001000112275": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Архипов Виктор Алексеевич": 2,
-      "Габрусев Олег Евгеньевич": 0,
-      "Громов Евгений Васильевич": 1,
-      "Лысенко Владимир Николаевич": 1,
-      "Свинцов Андрей Николаевич": 1,
-      "Улас Владимир Дмитриевич": 0,
-      "Хованская Галина Петровна": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190441": 2,
+      "gas:candidate-vibid:377300470954": 0,
+      "gas:candidate-vibid:1001000195164": 1,
+      "gas:candidate-vibid:377300470625": 1,
+      "gas:candidate-vibid:1001000136149": 1,
+      "gas:candidate-vibid:1001000121934": 0,
+      "gas:candidate-vibid:1001000112275": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773004015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300470669&region=0&sub_region=0&type=429",
@@ -11499,15 +11499,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 49,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 472,
-      "Политухин Юрий Алексеевич": 94,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 149,
-      "Шабалов Александр Павлович": 124,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 49,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 472,
+      "gas:candidate-vibid:1001000121935": 94,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 149,
+      "gas:candidate-vibid:1001000190445": 124,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11557,15 +11557,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 63,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 444,
-      "Политухин Юрий Алексеевич": 91,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 150,
-      "Шабалов Александр Павлович": 124,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 63,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 444,
+      "gas:candidate-vibid:1001000121935": 91,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 150,
+      "gas:candidate-vibid:1001000190445": 124,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11615,15 +11615,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 41,
-      "Кокарев Юрий Петрович": 35,
-      "Панина Елена Владимировна": 467,
-      "Политухин Юрий Алексеевич": 101,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 194,
-      "Шабалов Александр Павлович": 147,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 41,
+      "gas:candidate-vibid:377300570432": 35,
+      "gas:candidate-vibid:1001000226007": 467,
+      "gas:candidate-vibid:1001000121935": 101,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 194,
+      "gas:candidate-vibid:1001000190445": 147,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11673,15 +11673,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 42,
-      "Кокарев Юрий Петрович": 14,
-      "Панина Елена Владимировна": 232,
-      "Политухин Юрий Алексеевич": 26,
-      "Прияткин Андрей Николаевич": 26,
-      "Федоров Борис Григорьевич": 67,
-      "Шабалов Александр Павлович": 53,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 42,
+      "gas:candidate-vibid:377300570432": 14,
+      "gas:candidate-vibid:1001000226007": 232,
+      "gas:candidate-vibid:1001000121935": 26,
+      "gas:candidate-vibid:377300570544": 26,
+      "gas:candidate-vibid:1001000118564": 67,
+      "gas:candidate-vibid:1001000190445": 53,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11731,15 +11731,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 57,
-      "Кокарев Юрий Петрович": 39,
-      "Панина Елена Владимировна": 437,
-      "Политухин Юрий Алексеевич": 129,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 198,
-      "Шабалов Александр Павлович": 127,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 57,
+      "gas:candidate-vibid:377300570432": 39,
+      "gas:candidate-vibid:1001000226007": 437,
+      "gas:candidate-vibid:1001000121935": 129,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 198,
+      "gas:candidate-vibid:1001000190445": 127,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11789,15 +11789,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 30,
-      "Игрунов Вячеслав Владимирович": 46,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 460,
-      "Политухин Юрий Алексеевич": 123,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 239,
-      "Шабалов Александр Павлович": 187,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000136150": 30,
+      "gas:candidate-vibid:1001000253497": 46,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 460,
+      "gas:candidate-vibid:1001000121935": 123,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 239,
+      "gas:candidate-vibid:1001000190445": 187,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11847,15 +11847,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 49,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 357,
-      "Политухин Юрий Алексеевич": 98,
-      "Прияткин Андрей Николаевич": 15,
-      "Федоров Борис Григорьевич": 238,
-      "Шабалов Александр Павлович": 102,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 49,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 357,
+      "gas:candidate-vibid:1001000121935": 98,
+      "gas:candidate-vibid:377300570544": 15,
+      "gas:candidate-vibid:1001000118564": 238,
+      "gas:candidate-vibid:1001000190445": 102,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11905,15 +11905,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 46,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 484,
-      "Политухин Юрий Алексеевич": 102,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 280,
-      "Шабалов Александр Павлович": 146,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 46,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 484,
+      "gas:candidate-vibid:1001000121935": 102,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 280,
+      "gas:candidate-vibid:1001000190445": 146,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -11963,15 +11963,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 58,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 420,
-      "Политухин Юрий Алексеевич": 99,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 232,
-      "Шабалов Александр Павлович": 106,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 58,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 420,
+      "gas:candidate-vibid:1001000121935": 99,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 232,
+      "gas:candidate-vibid:1001000190445": 106,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12021,15 +12021,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 59,
-      "Кокарев Юрий Петрович": 30,
-      "Панина Елена Владимировна": 417,
-      "Политухин Юрий Алексеевич": 88,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 231,
-      "Шабалов Александр Павлович": 136,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 59,
+      "gas:candidate-vibid:377300570432": 30,
+      "gas:candidate-vibid:1001000226007": 417,
+      "gas:candidate-vibid:1001000121935": 88,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 231,
+      "gas:candidate-vibid:1001000190445": 136,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12079,15 +12079,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 62,
-      "Кокарев Юрий Петрович": 43,
-      "Панина Елена Владимировна": 428,
-      "Политухин Юрий Алексеевич": 111,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 301,
-      "Шабалов Александр Павлович": 98,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 62,
+      "gas:candidate-vibid:377300570432": 43,
+      "gas:candidate-vibid:1001000226007": 428,
+      "gas:candidate-vibid:1001000121935": 111,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 301,
+      "gas:candidate-vibid:1001000190445": 98,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12137,15 +12137,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 53,
-      "Кокарев Юрий Петрович": 31,
-      "Панина Елена Владимировна": 470,
-      "Политухин Юрий Алексеевич": 114,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 290,
-      "Шабалов Александр Павлович": 115,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 53,
+      "gas:candidate-vibid:377300570432": 31,
+      "gas:candidate-vibid:1001000226007": 470,
+      "gas:candidate-vibid:1001000121935": 114,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 290,
+      "gas:candidate-vibid:1001000190445": 115,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12195,15 +12195,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 65,
-      "Кокарев Юрий Петрович": 28,
-      "Панина Елена Владимировна": 528,
-      "Политухин Юрий Алексеевич": 69,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 231,
-      "Шабалов Александр Павлович": 161,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 65,
+      "gas:candidate-vibid:377300570432": 28,
+      "gas:candidate-vibid:1001000226007": 528,
+      "gas:candidate-vibid:1001000121935": 69,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 231,
+      "gas:candidate-vibid:1001000190445": 161,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12253,15 +12253,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 36,
-      "Игрунов Вячеслав Владимирович": 46,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 494,
-      "Политухин Юрий Алексеевич": 99,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 253,
-      "Шабалов Александр Павлович": 138,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136150": 36,
+      "gas:candidate-vibid:1001000253497": 46,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 494,
+      "gas:candidate-vibid:1001000121935": 99,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 253,
+      "gas:candidate-vibid:1001000190445": 138,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12311,15 +12311,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 49,
-      "Кокарев Юрий Петрович": 22,
-      "Панина Елена Владимировна": 478,
-      "Политухин Юрий Алексеевич": 107,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 266,
-      "Шабалов Александр Павлович": 126,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 49,
+      "gas:candidate-vibid:377300570432": 22,
+      "gas:candidate-vibid:1001000226007": 478,
+      "gas:candidate-vibid:1001000121935": 107,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 266,
+      "gas:candidate-vibid:1001000190445": 126,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12369,15 +12369,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 50,
-      "Кокарев Юрий Петрович": 45,
-      "Панина Елена Владимировна": 469,
-      "Политухин Юрий Алексеевич": 90,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 218,
-      "Шабалов Александр Павлович": 138,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 50,
+      "gas:candidate-vibid:377300570432": 45,
+      "gas:candidate-vibid:1001000226007": 469,
+      "gas:candidate-vibid:1001000121935": 90,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 218,
+      "gas:candidate-vibid:1001000190445": 138,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12427,15 +12427,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 33,
-      "Игрунов Вячеслав Владимирович": 65,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 456,
-      "Политухин Юрий Алексеевич": 103,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 289,
-      "Шабалов Александр Павлович": 123,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000136150": 33,
+      "gas:candidate-vibid:1001000253497": 65,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 456,
+      "gas:candidate-vibid:1001000121935": 103,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 289,
+      "gas:candidate-vibid:1001000190445": 123,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12485,15 +12485,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 62,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 488,
-      "Политухин Юрий Алексеевич": 73,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 303,
-      "Шабалов Александр Павлович": 103,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 62,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 488,
+      "gas:candidate-vibid:1001000121935": 73,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 303,
+      "gas:candidate-vibid:1001000190445": 103,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12543,15 +12543,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 35,
-      "Игрунов Вячеслав Владимирович": 79,
-      "Кокарев Юрий Петрович": 28,
-      "Панина Елена Владимировна": 402,
-      "Политухин Юрий Алексеевич": 77,
-      "Прияткин Андрей Николаевич": 23,
-      "Федоров Борис Григорьевич": 315,
-      "Шабалов Александр Павлович": 94,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136150": 35,
+      "gas:candidate-vibid:1001000253497": 79,
+      "gas:candidate-vibid:377300570432": 28,
+      "gas:candidate-vibid:1001000226007": 402,
+      "gas:candidate-vibid:1001000121935": 77,
+      "gas:candidate-vibid:377300570544": 23,
+      "gas:candidate-vibid:1001000118564": 315,
+      "gas:candidate-vibid:1001000190445": 94,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12601,15 +12601,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 96,
-      "Кокарев Юрий Петрович": 13,
-      "Панина Елена Владимировна": 263,
-      "Политухин Юрий Алексеевич": 83,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 179,
-      "Шабалов Александр Павлович": 108,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 96,
+      "gas:candidate-vibid:377300570432": 13,
+      "gas:candidate-vibid:1001000226007": 263,
+      "gas:candidate-vibid:1001000121935": 83,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 179,
+      "gas:candidate-vibid:1001000190445": 108,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12659,15 +12659,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 61,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 455,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 236,
-      "Шабалов Александр Павлович": 136,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 61,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 455,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 236,
+      "gas:candidate-vibid:1001000190445": 136,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12717,15 +12717,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 76,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 456,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 16,
-      "Федоров Борис Григорьевич": 180,
-      "Шабалов Александр Павлович": 190,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 76,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 456,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 16,
+      "gas:candidate-vibid:1001000118564": 180,
+      "gas:candidate-vibid:1001000190445": 190,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12775,15 +12775,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 31,
-      "Игрунов Вячеслав Владимирович": 54,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 475,
-      "Политухин Юрий Алексеевич": 77,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 205,
-      "Шабалов Александр Павлович": 123,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136150": 31,
+      "gas:candidate-vibid:1001000253497": 54,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 475,
+      "gas:candidate-vibid:1001000121935": 77,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 205,
+      "gas:candidate-vibid:1001000190445": 123,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12833,15 +12833,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 70,
-      "Кокарев Юрий Петрович": 24,
-      "Панина Елена Владимировна": 368,
-      "Политухин Юрий Алексеевич": 124,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 253,
-      "Шабалов Александр Павлович": 129,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 70,
+      "gas:candidate-vibid:377300570432": 24,
+      "gas:candidate-vibid:1001000226007": 368,
+      "gas:candidate-vibid:1001000121935": 124,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 253,
+      "gas:candidate-vibid:1001000190445": 129,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12891,15 +12891,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 23,
-      "Игрунов Вячеслав Владимирович": 66,
-      "Кокарев Юрий Петрович": 38,
-      "Панина Елена Владимировна": 539,
-      "Политухин Юрий Алексеевич": 97,
-      "Прияткин Андрей Николаевич": 20,
-      "Федоров Борис Григорьевич": 172,
-      "Шабалов Александр Павлович": 184,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000136150": 23,
+      "gas:candidate-vibid:1001000253497": 66,
+      "gas:candidate-vibid:377300570432": 38,
+      "gas:candidate-vibid:1001000226007": 539,
+      "gas:candidate-vibid:1001000121935": 97,
+      "gas:candidate-vibid:377300570544": 20,
+      "gas:candidate-vibid:1001000118564": 172,
+      "gas:candidate-vibid:1001000190445": 184,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -12949,15 +12949,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 61,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 454,
-      "Политухин Юрий Алексеевич": 63,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 199,
-      "Шабалов Александр Павлович": 121,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 61,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 454,
+      "gas:candidate-vibid:1001000121935": 63,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 199,
+      "gas:candidate-vibid:1001000190445": 121,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13007,15 +13007,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 51,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 405,
-      "Политухин Юрий Алексеевич": 87,
-      "Прияткин Андрей Николаевич": 9,
-      "Федоров Борис Григорьевич": 193,
-      "Шабалов Александр Павлович": 76,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 51,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 405,
+      "gas:candidate-vibid:1001000121935": 87,
+      "gas:candidate-vibid:377300570544": 9,
+      "gas:candidate-vibid:1001000118564": 193,
+      "gas:candidate-vibid:1001000190445": 76,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13065,15 +13065,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 44,
-      "Кокарев Юрий Петрович": 25,
-      "Панина Елена Владимировна": 431,
-      "Политухин Юрий Алексеевич": 73,
-      "Прияткин Андрей Николаевич": 10,
-      "Федоров Борис Григорьевич": 171,
-      "Шабалов Александр Павлович": 95,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 44,
+      "gas:candidate-vibid:377300570432": 25,
+      "gas:candidate-vibid:1001000226007": 431,
+      "gas:candidate-vibid:1001000121935": 73,
+      "gas:candidate-vibid:377300570544": 10,
+      "gas:candidate-vibid:1001000118564": 171,
+      "gas:candidate-vibid:1001000190445": 95,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13123,15 +13123,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 21,
-      "Игрунов Вячеслав Владимирович": 33,
-      "Кокарев Юрий Петрович": 12,
-      "Панина Елена Владимировна": 358,
-      "Политухин Юрий Алексеевич": 62,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 136,
-      "Шабалов Александр Павлович": 92,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000136150": 21,
+      "gas:candidate-vibid:1001000253497": 33,
+      "gas:candidate-vibid:377300570432": 12,
+      "gas:candidate-vibid:1001000226007": 358,
+      "gas:candidate-vibid:1001000121935": 62,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 136,
+      "gas:candidate-vibid:1001000190445": 92,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13181,15 +13181,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 31,
-      "Кокарев Юрий Петрович": 22,
-      "Панина Елена Владимировна": 479,
-      "Политухин Юрий Алексеевич": 59,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 139,
-      "Шабалов Александр Павлович": 102,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 31,
+      "gas:candidate-vibid:377300570432": 22,
+      "gas:candidate-vibid:1001000226007": 479,
+      "gas:candidate-vibid:1001000121935": 59,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 139,
+      "gas:candidate-vibid:1001000190445": 102,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13239,15 +13239,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 16,
-      "Игрунов Вячеслав Владимирович": 51,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 578,
-      "Политухин Юрий Алексеевич": 84,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 188,
-      "Шабалов Александр Павлович": 84,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000136150": 16,
+      "gas:candidate-vibid:1001000253497": 51,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 578,
+      "gas:candidate-vibid:1001000121935": 84,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 188,
+      "gas:candidate-vibid:1001000190445": 84,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13297,15 +13297,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 19,
-      "Игрунов Вячеслав Владимирович": 45,
-      "Кокарев Юрий Петрович": 29,
-      "Панина Елена Владимировна": 477,
-      "Политухин Юрий Алексеевич": 72,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 150,
-      "Шабалов Александр Павлович": 117,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136150": 19,
+      "gas:candidate-vibid:1001000253497": 45,
+      "gas:candidate-vibid:377300570432": 29,
+      "gas:candidate-vibid:1001000226007": 477,
+      "gas:candidate-vibid:1001000121935": 72,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 150,
+      "gas:candidate-vibid:1001000190445": 117,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13355,15 +13355,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 40,
-      "Кокарев Юрий Петрович": 20,
-      "Панина Елена Владимировна": 420,
-      "Политухин Юрий Алексеевич": 54,
-      "Прияткин Андрей Николаевич": 4,
-      "Федоров Борис Григорьевич": 134,
-      "Шабалов Александр Павлович": 110,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 40,
+      "gas:candidate-vibid:377300570432": 20,
+      "gas:candidate-vibid:1001000226007": 420,
+      "gas:candidate-vibid:1001000121935": 54,
+      "gas:candidate-vibid:377300570544": 4,
+      "gas:candidate-vibid:1001000118564": 134,
+      "gas:candidate-vibid:1001000190445": 110,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13413,15 +13413,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 32,
-      "Кокарев Юрий Петрович": 23,
-      "Панина Елена Владимировна": 427,
-      "Политухин Юрий Алексеевич": 62,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 151,
-      "Шабалов Александр Павлович": 146,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 32,
+      "gas:candidate-vibid:377300570432": 23,
+      "gas:candidate-vibid:1001000226007": 427,
+      "gas:candidate-vibid:1001000121935": 62,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 151,
+      "gas:candidate-vibid:1001000190445": 146,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13471,15 +13471,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 33,
-      "Кокарев Юрий Петрович": 19,
-      "Панина Елена Владимировна": 491,
-      "Политухин Юрий Алексеевич": 66,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 161,
-      "Шабалов Александр Павлович": 114,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 33,
+      "gas:candidate-vibid:377300570432": 19,
+      "gas:candidate-vibid:1001000226007": 491,
+      "gas:candidate-vibid:1001000121935": 66,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 161,
+      "gas:candidate-vibid:1001000190445": 114,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13529,15 +13529,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 45,
-      "Кокарев Юрий Петрович": 26,
-      "Панина Елена Владимировна": 518,
-      "Политухин Юрий Алексеевич": 66,
-      "Прияткин Андрей Николаевич": 20,
-      "Федоров Борис Григорьевич": 190,
-      "Шабалов Александр Павлович": 143,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 45,
+      "gas:candidate-vibid:377300570432": 26,
+      "gas:candidate-vibid:1001000226007": 518,
+      "gas:candidate-vibid:1001000121935": 66,
+      "gas:candidate-vibid:377300570544": 20,
+      "gas:candidate-vibid:1001000118564": 190,
+      "gas:candidate-vibid:1001000190445": 143,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13587,15 +13587,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 56,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 633,
-      "Политухин Юрий Алексеевич": 92,
-      "Прияткин Андрей Николаевич": 12,
-      "Федоров Борис Григорьевич": 182,
-      "Шабалов Александр Павлович": 127,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 56,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 633,
+      "gas:candidate-vibid:1001000121935": 92,
+      "gas:candidate-vibid:377300570544": 12,
+      "gas:candidate-vibid:1001000118564": 182,
+      "gas:candidate-vibid:1001000190445": 127,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13645,15 +13645,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 40,
-      "Кокарев Юрий Петрович": 15,
-      "Панина Елена Владимировна": 480,
-      "Политухин Юрий Алексеевич": 67,
-      "Прияткин Андрей Николаевич": 6,
-      "Федоров Борис Григорьевич": 144,
-      "Шабалов Александр Павлович": 115,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 40,
+      "gas:candidate-vibid:377300570432": 15,
+      "gas:candidate-vibid:1001000226007": 480,
+      "gas:candidate-vibid:1001000121935": 67,
+      "gas:candidate-vibid:377300570544": 6,
+      "gas:candidate-vibid:1001000118564": 144,
+      "gas:candidate-vibid:1001000190445": 115,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13703,15 +13703,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 28,
-      "Игрунов Вячеслав Владимирович": 75,
-      "Кокарев Юрий Петрович": 42,
-      "Панина Елена Владимировна": 611,
-      "Политухин Юрий Алексеевич": 65,
-      "Прияткин Андрей Николаевич": 28,
-      "Федоров Борис Григорьевич": 199,
-      "Шабалов Александр Павлович": 118,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000136150": 28,
+      "gas:candidate-vibid:1001000253497": 75,
+      "gas:candidate-vibid:377300570432": 42,
+      "gas:candidate-vibid:1001000226007": 611,
+      "gas:candidate-vibid:1001000121935": 65,
+      "gas:candidate-vibid:377300570544": 28,
+      "gas:candidate-vibid:1001000118564": 199,
+      "gas:candidate-vibid:1001000190445": 118,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13761,15 +13761,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 58,
-      "Кокарев Юрий Петрович": 70,
-      "Панина Елена Владимировна": 569,
-      "Политухин Юрий Алексеевич": 86,
-      "Прияткин Андрей Николаевич": 13,
-      "Федоров Борис Григорьевич": 165,
-      "Шабалов Александр Павлович": 135,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 58,
+      "gas:candidate-vibid:377300570432": 70,
+      "gas:candidate-vibid:1001000226007": 569,
+      "gas:candidate-vibid:1001000121935": 86,
+      "gas:candidate-vibid:377300570544": 13,
+      "gas:candidate-vibid:1001000118564": 165,
+      "gas:candidate-vibid:1001000190445": 135,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13819,15 +13819,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 35,
-      "Игрунов Вячеслав Владимирович": 46,
-      "Кокарев Юрий Петрович": 33,
-      "Панина Елена Владимировна": 617,
-      "Политухин Юрий Алексеевич": 64,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 143,
-      "Шабалов Александр Павлович": 121,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000136150": 35,
+      "gas:candidate-vibid:1001000253497": 46,
+      "gas:candidate-vibid:377300570432": 33,
+      "gas:candidate-vibid:1001000226007": 617,
+      "gas:candidate-vibid:1001000121935": 64,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 143,
+      "gas:candidate-vibid:1001000190445": 121,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13877,15 +13877,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 22,
-      "Игрунов Вячеслав Владимирович": 52,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 587,
-      "Политухин Юрий Алексеевич": 81,
-      "Прияткин Андрей Николаевич": 8,
-      "Федоров Борис Григорьевич": 182,
-      "Шабалов Александр Павлович": 127,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000136150": 22,
+      "gas:candidate-vibid:1001000253497": 52,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 587,
+      "gas:candidate-vibid:1001000121935": 81,
+      "gas:candidate-vibid:377300570544": 8,
+      "gas:candidate-vibid:1001000118564": 182,
+      "gas:candidate-vibid:1001000190445": 127,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13935,15 +13935,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 13,
-      "Игрунов Вячеслав Владимирович": 37,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 371,
-      "Политухин Юрий Алексеевич": 82,
-      "Прияткин Андрей Николаевич": 7,
-      "Федоров Борис Григорьевич": 159,
-      "Шабалов Александр Павлович": 99,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000136150": 13,
+      "gas:candidate-vibid:1001000253497": 37,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 371,
+      "gas:candidate-vibid:1001000121935": 82,
+      "gas:candidate-vibid:377300570544": 7,
+      "gas:candidate-vibid:1001000118564": 159,
+      "gas:candidate-vibid:1001000190445": 99,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -13993,15 +13993,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 25,
-      "Игрунов Вячеслав Владимирович": 82,
-      "Кокарев Юрий Петрович": 41,
-      "Панина Елена Владимировна": 572,
-      "Политухин Юрий Алексеевич": 73,
-      "Прияткин Андрей Николаевич": 19,
-      "Федоров Борис Григорьевич": 210,
-      "Шабалов Александр Павлович": 151,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136150": 25,
+      "gas:candidate-vibid:1001000253497": 82,
+      "gas:candidate-vibid:377300570432": 41,
+      "gas:candidate-vibid:1001000226007": 572,
+      "gas:candidate-vibid:1001000121935": 73,
+      "gas:candidate-vibid:377300570544": 19,
+      "gas:candidate-vibid:1001000118564": 210,
+      "gas:candidate-vibid:1001000190445": 151,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -14051,15 +14051,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 37,
-      "Игрунов Вячеслав Владимирович": 37,
-      "Кокарев Юрий Петрович": 34,
-      "Панина Елена Владимировна": 468,
-      "Политухин Юрий Алексеевич": 106,
-      "Прияткин Андрей Николаевич": 14,
-      "Федоров Борис Григорьевич": 131,
-      "Шабалов Александр Павлович": 158,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000136150": 37,
+      "gas:candidate-vibid:1001000253497": 37,
+      "gas:candidate-vibid:377300570432": 34,
+      "gas:candidate-vibid:1001000226007": 468,
+      "gas:candidate-vibid:1001000121935": 106,
+      "gas:candidate-vibid:377300570544": 14,
+      "gas:candidate-vibid:1001000118564": 131,
+      "gas:candidate-vibid:1001000190445": 158,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -14109,15 +14109,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 18,
-      "Игрунов Вячеслав Владимирович": 49,
-      "Кокарев Юрий Петрович": 32,
-      "Панина Елена Владимировна": 478,
-      "Политухин Юрий Алексеевич": 76,
-      "Прияткин Андрей Николаевич": 11,
-      "Федоров Борис Григорьевич": 160,
-      "Шабалов Александр Павлович": 117,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136150": 18,
+      "gas:candidate-vibid:1001000253497": 49,
+      "gas:candidate-vibid:377300570432": 32,
+      "gas:candidate-vibid:1001000226007": 478,
+      "gas:candidate-vibid:1001000121935": 76,
+      "gas:candidate-vibid:377300570544": 11,
+      "gas:candidate-vibid:1001000118564": 160,
+      "gas:candidate-vibid:1001000190445": 117,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -14167,15 +14167,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 20,
-      "Игрунов Вячеслав Владимирович": 42,
-      "Кокарев Юрий Петрович": 18,
-      "Панина Елена Владимировна": 569,
-      "Политухин Юрий Алексеевич": 61,
-      "Прияткин Андрей Николаевич": 18,
-      "Федоров Борис Григорьевич": 156,
-      "Шабалов Александр Павлович": 127,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000136150": 20,
+      "gas:candidate-vibid:1001000253497": 42,
+      "gas:candidate-vibid:377300570432": 18,
+      "gas:candidate-vibid:1001000226007": 569,
+      "gas:candidate-vibid:1001000121935": 61,
+      "gas:candidate-vibid:377300570544": 18,
+      "gas:candidate-vibid:1001000118564": 156,
+      "gas:candidate-vibid:1001000190445": 127,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -14225,15 +14225,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 24,
-      "Игрунов Вячеслав Владимирович": 59,
-      "Кокарев Юрий Петрович": 36,
-      "Панина Елена Владимировна": 483,
-      "Политухин Юрий Алексеевич": 75,
-      "Прияткин Андрей Николаевич": 17,
-      "Федоров Борис Григорьевич": 182,
-      "Шабалов Александр Павлович": 130,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000136150": 24,
+      "gas:candidate-vibid:1001000253497": 59,
+      "gas:candidate-vibid:377300570432": 36,
+      "gas:candidate-vibid:1001000226007": 483,
+      "gas:candidate-vibid:1001000121935": 75,
+      "gas:candidate-vibid:377300570544": 17,
+      "gas:candidate-vibid:1001000118564": 182,
+      "gas:candidate-vibid:1001000190445": 130,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",
@@ -14283,15 +14283,15 @@ export const duma_2003_uik_428_region_77_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абельцев Сергей Николаевич": 26,
-      "Игрунов Вячеслав Владимирович": 56,
-      "Кокарев Юрий Петрович": 27,
-      "Панина Елена Владимировна": 545,
-      "Политухин Юрий Алексеевич": 58,
-      "Прияткин Андрей Николаевич": 20,
-      "Федоров Борис Григорьевич": 157,
-      "Шабалов Александр Павлович": 136,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000136150": 26,
+      "gas:candidate-vibid:1001000253497": 56,
+      "gas:candidate-vibid:377300570432": 27,
+      "gas:candidate-vibid:1001000226007": 545,
+      "gas:candidate-vibid:1001000121935": 58,
+      "gas:candidate-vibid:377300570544": 20,
+      "gas:candidate-vibid:1001000118564": 157,
+      "gas:candidate-vibid:1001000190445": 136,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773005001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300570360&region=0&sub_region=0&type=429",

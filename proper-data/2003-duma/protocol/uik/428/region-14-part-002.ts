@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 64,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 20,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 82,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 64,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 20,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 82,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 113,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 58,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 81,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 113,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 58,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 81,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 64,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 76,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 112,
-      "Шамаев Иван Иванович": 22,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 64,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 76,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 112,
+      "gas:candidate-vibid:1001000201799": 22,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 157,
-      "Гаврильев Александр Иванович": 27,
-      "Назаров Семен Николаевич": 37,
-      "Тресков Игорь Борисович": 14,
-      "Тумусов Федот Семенович": 119,
-      "Шамаев Иван Иванович": 14,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 157,
+      "gas:candidate-vibid:1001000121796": 27,
+      "gas:candidate-vibid:1001000190284": 37,
+      "gas:candidate-vibid:1001000113899": 14,
+      "gas:candidate-vibid:1001000187985": 119,
+      "gas:candidate-vibid:1001000201799": 14,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 95,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 33,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 39,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 95,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 33,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 39,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 61,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 55,
-      "Тресков Игорь Борисович": 15,
-      "Тумусов Федот Семенович": 20,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 61,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 55,
+      "gas:candidate-vibid:1001000113899": 15,
+      "gas:candidate-vibid:1001000187985": 20,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 236,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 73,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 131,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 236,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 73,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 131,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 6,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 1,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 4,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 6,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 1,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 4,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 84,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 75,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 12,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 84,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 75,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 12,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 67,
-      "Гаврильев Александр Иванович": 19,
-      "Назаров Семен Николаевич": 52,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 77,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 67,
+      "gas:candidate-vibid:1001000121796": 19,
+      "gas:candidate-vibid:1001000190284": 52,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 77,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066707&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 207,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 20,
-      "Тресков Игорь Борисович": 14,
-      "Тумусов Федот Семенович": 79,
-      "Шамаев Иван Иванович": 14,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 207,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 20,
+      "gas:candidate-vibid:1001000113899": 14,
+      "gas:candidate-vibid:1001000187985": 79,
+      "gas:candidate-vibid:1001000201799": 14,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 55,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 41,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 55,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 41,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 230,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 19,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 120,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 230,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 19,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 120,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 141,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 4,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 11,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 141,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 4,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 11,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 215,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 53,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 68,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 215,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 53,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 68,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 59,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 13,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 59,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 13,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 477,
-      "Гаврильев Александр Иванович": 37,
-      "Назаров Семен Николаевич": 55,
-      "Тресков Игорь Борисович": 24,
-      "Тумусов Федот Семенович": 318,
-      "Шамаев Иван Иванович": 37,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:214200067580": 477,
+      "gas:candidate-vibid:1001000121796": 37,
+      "gas:candidate-vibid:1001000190284": 55,
+      "gas:candidate-vibid:1001000113899": 24,
+      "gas:candidate-vibid:1001000187985": 318,
+      "gas:candidate-vibid:1001000201799": 37,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 81,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 8,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 71,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 81,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 8,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 71,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 193,
-      "Гаврильев Александр Иванович": 26,
-      "Назаров Семен Николаевич": 17,
-      "Тресков Игорь Борисович": 19,
-      "Тумусов Федот Семенович": 122,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 193,
+      "gas:candidate-vibid:1001000121796": 26,
+      "gas:candidate-vibid:1001000190284": 17,
+      "gas:candidate-vibid:1001000113899": 19,
+      "gas:candidate-vibid:1001000187985": 122,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 142,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 25,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 38,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 142,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 25,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 38,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 76,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 21,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 23,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 76,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 21,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 23,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 208,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 27,
-      "Тресков Игорь Борисович": 15,
-      "Тумусов Федот Семенович": 102,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 208,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 27,
+      "gas:candidate-vibid:1001000113899": 15,
+      "gas:candidate-vibid:1001000187985": 102,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 284,
-      "Гаврильев Александр Иванович": 32,
-      "Назаров Семен Николаевич": 66,
-      "Тресков Игорь Борисович": 31,
-      "Тумусов Федот Семенович": 174,
-      "Шамаев Иван Иванович": 21,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 284,
+      "gas:candidate-vibid:1001000121796": 32,
+      "gas:candidate-vibid:1001000190284": 66,
+      "gas:candidate-vibid:1001000113899": 31,
+      "gas:candidate-vibid:1001000187985": 174,
+      "gas:candidate-vibid:1001000201799": 21,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 234,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 52,
-      "Тресков Игорь Борисович": 48,
-      "Тумусов Федот Семенович": 86,
-      "Шамаев Иван Иванович": 18,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 234,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 52,
+      "gas:candidate-vibid:1001000113899": 48,
+      "gas:candidate-vibid:1001000187985": 86,
+      "gas:candidate-vibid:1001000201799": 18,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 337,
-      "Гаврильев Александр Иванович": 32,
-      "Назаров Семен Николаевич": 64,
-      "Тресков Игорь Борисович": 38,
-      "Тумусов Федот Семенович": 177,
-      "Шамаев Иван Иванович": 22,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 337,
+      "gas:candidate-vibid:1001000121796": 32,
+      "gas:candidate-vibid:1001000190284": 64,
+      "gas:candidate-vibid:1001000113899": 38,
+      "gas:candidate-vibid:1001000187985": 177,
+      "gas:candidate-vibid:1001000201799": 22,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 252,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 43,
-      "Тресков Игорь Борисович": 24,
-      "Тумусов Федот Семенович": 97,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 252,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 43,
+      "gas:candidate-vibid:1001000113899": 24,
+      "gas:candidate-vibid:1001000187985": 97,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 226,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 39,
-      "Тресков Игорь Борисович": 42,
-      "Тумусов Федот Семенович": 136,
-      "Шамаев Иван Иванович": 24,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 226,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 39,
+      "gas:candidate-vibid:1001000113899": 42,
+      "gas:candidate-vibid:1001000187985": 136,
+      "gas:candidate-vibid:1001000201799": 24,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 69,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 15,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 69,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 15,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 112,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 10,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 63,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 112,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 10,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 63,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 55,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 10,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 37,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 55,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 10,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 37,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 238,
-      "Гаврильев Александр Иванович": 19,
-      "Назаров Семен Николаевич": 13,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 180,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 238,
+      "gas:candidate-vibid:1001000121796": 19,
+      "gas:candidate-vibid:1001000190284": 13,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 180,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 52,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 0,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 14,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 52,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 0,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 14,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 182,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 8,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 31,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 182,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 8,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 31,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 128,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 18,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 44,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 128,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 18,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 44,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 235,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 11,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 26,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 235,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 11,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 26,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 179,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 27,
-      "Тресков Игорь Борисович": 16,
-      "Тумусов Федот Семенович": 59,
-      "Шамаев Иван Иванович": 11,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 179,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 27,
+      "gas:candidate-vibid:1001000113899": 16,
+      "gas:candidate-vibid:1001000187985": 59,
+      "gas:candidate-vibid:1001000201799": 11,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 452,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 54,
-      "Тресков Игорь Борисович": 29,
-      "Тумусов Федот Семенович": 133,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 452,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 54,
+      "gas:candidate-vibid:1001000113899": 29,
+      "gas:candidate-vibid:1001000187985": 133,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 173,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 83,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 173,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 83,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 228,
-      "Гаврильев Александр Иванович": 24,
-      "Назаров Семен Николаевич": 57,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 57,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 228,
+      "gas:candidate-vibid:1001000121796": 24,
+      "gas:candidate-vibid:1001000190284": 57,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 57,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 21,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 1,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 43,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 21,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 1,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 43,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 278,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 16,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 58,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 278,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 16,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 58,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066708&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 102,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 47,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 36,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 102,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 47,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 36,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 266,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 145,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 81,
-      "Шамаев Иван Иванович": 17,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 266,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 145,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 81,
+      "gas:candidate-vibid:1001000201799": 17,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 128,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 43,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 39,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 128,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 43,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 39,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 199,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 139,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 73,
-      "Шамаев Иван Иванович": 16,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 199,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 139,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 73,
+      "gas:candidate-vibid:1001000201799": 16,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 222,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 69,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 96,
-      "Шамаев Иван Иванович": 26,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 222,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 69,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 96,
+      "gas:candidate-vibid:1001000201799": 26,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 154,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 81,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 57,
-      "Шамаев Иван Иванович": 16,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 154,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 81,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 57,
+      "gas:candidate-vibid:1001000201799": 16,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 185,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 128,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 90,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 185,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 128,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 90,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 222,
-      "Гаврильев Александр Иванович": 10,
-      "Назаров Семен Николаевич": 178,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 92,
-      "Шамаев Иван Иванович": 14,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 222,
+      "gas:candidate-vibid:1001000121796": 10,
+      "gas:candidate-vibid:1001000190284": 178,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 92,
+      "gas:candidate-vibid:1001000201799": 14,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 109,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 68,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 162,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 109,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 68,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 162,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 73,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 19,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 8,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 73,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 19,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 8,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 136,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 48,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 144,
-      "Шамаев Иван Иванович": 31,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 136,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 48,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 144,
+      "gas:candidate-vibid:1001000201799": 31,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 177,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 119,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 122,
-      "Шамаев Иван Иванович": 36,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 177,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 119,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 122,
+      "gas:candidate-vibid:1001000201799": 36,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 93,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 68,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 94,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 93,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 68,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 94,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 344,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 159,
-      "Тресков Игорь Борисович": 13,
-      "Тумусов Федот Семенович": 133,
-      "Шамаев Иван Иванович": 27,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 344,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 159,
+      "gas:candidate-vibid:1001000113899": 13,
+      "gas:candidate-vibid:1001000187985": 133,
+      "gas:candidate-vibid:1001000201799": 27,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 329,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 113,
-      "Тресков Игорь Борисович": 12,
-      "Тумусов Федот Семенович": 158,
-      "Шамаев Иван Иванович": 41,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 329,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 113,
+      "gas:candidate-vibid:1001000113899": 12,
+      "gas:candidate-vibid:1001000187985": 158,
+      "gas:candidate-vibid:1001000201799": 41,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 339,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 129,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 151,
-      "Шамаев Иван Иванович": 31,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 339,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 129,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 151,
+      "gas:candidate-vibid:1001000201799": 31,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066709&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 211,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 15,
-      "Тресков Игорь Борисович": 40,
-      "Тумусов Федот Семенович": 24,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 50
+      "gas:candidate-vibid:214200067580": 211,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 15,
+      "gas:candidate-vibid:1001000113899": 40,
+      "gas:candidate-vibid:1001000187985": 24,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 356,
-      "Гаврильев Александр Иванович": 11,
-      "Назаров Семен Николаевич": 36,
-      "Тресков Игорь Борисович": 88,
-      "Тумусов Федот Семенович": 34,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 64
+      "gas:candidate-vibid:214200067580": 356,
+      "gas:candidate-vibid:1001000121796": 11,
+      "gas:candidate-vibid:1001000190284": 36,
+      "gas:candidate-vibid:1001000113899": 88,
+      "gas:candidate-vibid:1001000187985": 34,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 452,
-      "Гаврильев Александр Иванович": 22,
-      "Назаров Семен Николаевич": 20,
-      "Тресков Игорь Борисович": 100,
-      "Тумусов Федот Семенович": 43,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 6,
-      "Против всех": 35
+      "gas:candidate-vibid:214200067580": 452,
+      "gas:candidate-vibid:1001000121796": 22,
+      "gas:candidate-vibid:1001000190284": 20,
+      "gas:candidate-vibid:1001000113899": 100,
+      "gas:candidate-vibid:1001000187985": 43,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 6,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 515,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 30,
-      "Тресков Игорь Борисович": 109,
-      "Тумусов Федот Семенович": 27,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 44
+      "gas:candidate-vibid:214200067580": 515,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 30,
+      "gas:candidate-vibid:1001000113899": 109,
+      "gas:candidate-vibid:1001000187985": 27,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 61,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 5,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 9,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 61,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 5,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 9,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 495,
-      "Гаврильев Александр Иванович": 31,
-      "Назаров Семен Николаевич": 89,
-      "Тресков Игорь Борисович": 79,
-      "Тумусов Федот Семенович": 27,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 17,
-      "Против всех": 126
+      "gas:candidate-vibid:214200067580": 495,
+      "gas:candidate-vibid:1001000121796": 31,
+      "gas:candidate-vibid:1001000190284": 89,
+      "gas:candidate-vibid:1001000113899": 79,
+      "gas:candidate-vibid:1001000187985": 27,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 17,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 73,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 4,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 1,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 73,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 4,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 1,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 81,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 14,
-      "Тумусов Федот Семенович": 5,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 81,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 14,
+      "gas:candidate-vibid:1001000187985": 5,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 70,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 5,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 3,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 70,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 5,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 3,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 112,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 14,
-      "Тресков Игорь Борисович": 23,
-      "Тумусов Федот Семенович": 24,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:214200067580": 112,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 14,
+      "gas:candidate-vibid:1001000113899": 23,
+      "gas:candidate-vibid:1001000187985": 24,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 393,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 30,
-      "Тресков Игорь Борисович": 25,
-      "Тумусов Федот Семенович": 56,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 393,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 30,
+      "gas:candidate-vibid:1001000113899": 25,
+      "gas:candidate-vibid:1001000187985": 56,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 319,
-      "Гаврильев Александр Иванович": 24,
-      "Назаров Семен Николаевич": 84,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 84,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 319,
+      "gas:candidate-vibid:1001000121796": 24,
+      "gas:candidate-vibid:1001000190284": 84,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 84,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 54,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 7,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 26,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 54,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 7,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 26,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 36,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 18,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 36,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 18,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 63,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 12,
-      "Тумусов Федот Семенович": 7,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:214200067580": 63,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 12,
+      "gas:candidate-vibid:1001000187985": 7,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 86,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 19,
-      "Тресков Игорь Борисович": 84,
-      "Тумусов Федот Семенович": 12,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:214200067580": 86,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 19,
+      "gas:candidate-vibid:1001000113899": 84,
+      "gas:candidate-vibid:1001000187985": 12,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 52,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 3,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 14,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 52,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 3,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 14,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 307,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 22,
-      "Тумусов Федот Семенович": 11,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:214200067580": 307,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 22,
+      "gas:candidate-vibid:1001000187985": 11,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066710&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 35,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 1,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 1,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 35,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 1,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 1,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 348,
-      "Гаврильев Александр Иванович": 18,
-      "Назаров Семен Николаевич": 2,
-      "Тресков Игорь Борисович": 16,
-      "Тумусов Федот Семенович": 7,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 348,
+      "gas:candidate-vibid:1001000121796": 18,
+      "gas:candidate-vibid:1001000190284": 2,
+      "gas:candidate-vibid:1001000113899": 16,
+      "gas:candidate-vibid:1001000187985": 7,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 209,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 2,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 4,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 209,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 2,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 4,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 45,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 8,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 2,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 45,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 8,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 2,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 204,
-      "Гаврильев Александр Иванович": 26,
-      "Назаров Семен Николаевич": 4,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 17,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 204,
+      "gas:candidate-vibid:1001000121796": 26,
+      "gas:candidate-vibid:1001000190284": 4,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 17,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 185,
-      "Гаврильев Александр Иванович": 30,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 25,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 185,
+      "gas:candidate-vibid:1001000121796": 30,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 25,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 456,
-      "Гаврильев Александр Иванович": 37,
-      "Назаров Семен Николаевич": 91,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 74,
-      "Шамаев Иван Иванович": 38,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:214200067580": 456,
+      "gas:candidate-vibid:1001000121796": 37,
+      "gas:candidate-vibid:1001000190284": 91,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 74,
+      "gas:candidate-vibid:1001000201799": 38,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 248,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 66,
-      "Тресков Игорь Борисович": 18,
-      "Тумусов Федот Семенович": 77,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 248,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 66,
+      "gas:candidate-vibid:1001000113899": 18,
+      "gas:candidate-vibid:1001000187985": 77,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 37,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 13,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 3,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 37,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 13,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 3,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 276,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 74,
-      "Тресков Игорь Борисович": 21,
-      "Тумусов Федот Семенович": 52,
-      "Шамаев Иван Иванович": 32,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 276,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 74,
+      "gas:candidate-vibid:1001000113899": 21,
+      "gas:candidate-vibid:1001000187985": 52,
+      "gas:candidate-vibid:1001000201799": 32,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 27,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 7,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 10,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 27,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 7,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 10,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 143,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 31,
-      "Тресков Игорь Борисович": 22,
-      "Тумусов Федот Семенович": 25,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:214200067580": 143,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 31,
+      "gas:candidate-vibid:1001000113899": 22,
+      "gas:candidate-vibid:1001000187985": 25,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 126,
-      "Гаврильев Александр Иванович": 53,
-      "Назаров Семен Николаевич": 58,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 31,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 126,
+      "gas:candidate-vibid:1001000121796": 53,
+      "gas:candidate-vibid:1001000190284": 58,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 31,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 140,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 30,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 36,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 140,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 30,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 36,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 243,
-      "Гаврильев Александр Иванович": 19,
-      "Назаров Семен Николаевич": 38,
-      "Тресков Игорь Борисович": 32,
-      "Тумусов Федот Семенович": 18,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:214200067580": 243,
+      "gas:candidate-vibid:1001000121796": 19,
+      "gas:candidate-vibid:1001000190284": 38,
+      "gas:candidate-vibid:1001000113899": 32,
+      "gas:candidate-vibid:1001000187985": 18,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 113,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 24,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 113,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 24,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 280,
-      "Гаврильев Александр Иванович": 32,
-      "Назаров Семен Николаевич": 32,
-      "Тресков Игорь Борисович": 29,
-      "Тумусов Федот Семенович": 29,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 41
+      "gas:candidate-vibid:214200067580": 280,
+      "gas:candidate-vibid:1001000121796": 32,
+      "gas:candidate-vibid:1001000190284": 32,
+      "gas:candidate-vibid:1001000113899": 29,
+      "gas:candidate-vibid:1001000187985": 29,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 152,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 8,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 13,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 152,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 8,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 13,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 139,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 25,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 21,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 139,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 25,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 21,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 182,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 12,
-      "Тумусов Федот Семенович": 137,
-      "Шамаев Иван Иванович": 19,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:214200067580": 182,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 12,
+      "gas:candidate-vibid:1001000187985": 137,
+      "gas:candidate-vibid:1001000201799": 19,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 185,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 17,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 185,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 17,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 90,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 15,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:214200067580": 90,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 15,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 288,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 26,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 33,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 288,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 26,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 33,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 52,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 0,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 52,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 0,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 241,
-      "Гаврильев Александр Иванович": 36,
-      "Назаров Семен Николаевич": 126,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 63,
-      "Шамаев Иван Иванович": 21,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:214200067580": 241,
+      "gas:candidate-vibid:1001000121796": 36,
+      "gas:candidate-vibid:1001000190284": 126,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 63,
+      "gas:candidate-vibid:1001000201799": 21,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 58,
-      "Гаврильев Александр Иванович": 23,
-      "Назаров Семен Николаевич": 38,
-      "Тресков Игорь Борисович": 15,
-      "Тумусов Федот Семенович": 14,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 58,
+      "gas:candidate-vibid:1001000121796": 23,
+      "gas:candidate-vibid:1001000190284": 38,
+      "gas:candidate-vibid:1001000113899": 15,
+      "gas:candidate-vibid:1001000187985": 14,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 106,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 0,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 27,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 106,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 0,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 27,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 80,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 15,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 80,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 15,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 76,
-      "Гаврильев Александр Иванович": 23,
-      "Назаров Семен Николаевич": 2,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 43,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 76,
+      "gas:candidate-vibid:1001000121796": 23,
+      "gas:candidate-vibid:1001000190284": 2,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 43,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 224,
-      "Гаврильев Александр Иванович": 25,
-      "Назаров Семен Николаевич": 10,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 13,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:214200067580": 224,
+      "gas:candidate-vibid:1001000121796": 25,
+      "gas:candidate-vibid:1001000190284": 10,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 13,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 11,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 1,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 16,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:214200067580": 11,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 1,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 16,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 321,
-      "Гаврильев Александр Иванович": 49,
-      "Назаров Семен Николаевич": 36,
-      "Тресков Игорь Борисович": 44,
-      "Тумусов Федот Семенович": 25,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:214200067580": 321,
+      "gas:candidate-vibid:1001000121796": 49,
+      "gas:candidate-vibid:1001000190284": 36,
+      "gas:candidate-vibid:1001000113899": 44,
+      "gas:candidate-vibid:1001000187985": 25,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 373,
-      "Гаврильев Александр Иванович": 49,
-      "Назаров Семен Николаевич": 34,
-      "Тресков Игорь Борисович": 37,
-      "Тумусов Федот Семенович": 38,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 58
+      "gas:candidate-vibid:214200067580": 373,
+      "gas:candidate-vibid:1001000121796": 49,
+      "gas:candidate-vibid:1001000190284": 34,
+      "gas:candidate-vibid:1001000113899": 37,
+      "gas:candidate-vibid:1001000187985": 38,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 406,
-      "Гаврильев Александр Иванович": 62,
-      "Назаров Семен Николаевич": 24,
-      "Тресков Игорь Борисович": 32,
-      "Тумусов Федот Семенович": 39,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 7,
-      "Против всех": 70
+      "gas:candidate-vibid:214200067580": 406,
+      "gas:candidate-vibid:1001000121796": 62,
+      "gas:candidate-vibid:1001000190284": 24,
+      "gas:candidate-vibid:1001000113899": 32,
+      "gas:candidate-vibid:1001000187985": 39,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 7,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 476,
-      "Гаврильев Александр Иванович": 48,
-      "Назаров Семен Николаевич": 37,
-      "Тресков Игорь Борисович": 29,
-      "Тумусов Федот Семенович": 50,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 65
+      "gas:candidate-vibid:214200067580": 476,
+      "gas:candidate-vibid:1001000121796": 48,
+      "gas:candidate-vibid:1001000190284": 37,
+      "gas:candidate-vibid:1001000113899": 29,
+      "gas:candidate-vibid:1001000187985": 50,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 145,
-      "Гаврильев Александр Иванович": 20,
-      "Назаров Семен Николаевич": 17,
-      "Тресков Игорь Борисович": 21,
-      "Тумусов Федот Семенович": 32,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:214200067580": 145,
+      "gas:candidate-vibid:1001000121796": 20,
+      "gas:candidate-vibid:1001000190284": 17,
+      "gas:candidate-vibid:1001000113899": 21,
+      "gas:candidate-vibid:1001000187985": 32,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 239,
-      "Гаврильев Александр Иванович": 35,
-      "Назаров Семен Николаевич": 42,
-      "Тресков Игорь Борисович": 38,
-      "Тумусов Федот Семенович": 45,
-      "Шамаев Иван Иванович": 6,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:214200067580": 239,
+      "gas:candidate-vibid:1001000121796": 35,
+      "gas:candidate-vibid:1001000190284": 42,
+      "gas:candidate-vibid:1001000113899": 38,
+      "gas:candidate-vibid:1001000187985": 45,
+      "gas:candidate-vibid:1001000201799": 6,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 295,
-      "Гаврильев Александр Иванович": 33,
-      "Назаров Семен Николаевич": 23,
-      "Тресков Игорь Борисович": 29,
-      "Тумусов Федот Семенович": 30,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:214200067580": 295,
+      "gas:candidate-vibid:1001000121796": 33,
+      "gas:candidate-vibid:1001000190284": 23,
+      "gas:candidate-vibid:1001000113899": 29,
+      "gas:candidate-vibid:1001000187985": 30,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 128,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 6,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:214200067580": 128,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 6,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 119,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 10,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 15,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:214200067580": 119,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 10,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 15,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 69,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 5,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:214200067580": 69,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 5,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066711&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 147,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 40,
-      "Тресков Игорь Борисович": 55,
-      "Тумусов Федот Семенович": 44,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 11,
-      "Против всех": 21
+      "gas:candidate-vibid:214200067580": 147,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 40,
+      "gas:candidate-vibid:1001000113899": 55,
+      "gas:candidate-vibid:1001000187985": 44,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 11,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 336,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 93,
-      "Тресков Игорь Борисович": 84,
-      "Тумусов Федот Семенович": 90,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:214200067580": 336,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 93,
+      "gas:candidate-vibid:1001000113899": 84,
+      "gas:candidate-vibid:1001000187985": 90,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 334,
-      "Гаврильев Александр Иванович": 30,
-      "Назаров Семен Николаевич": 116,
-      "Тресков Игорь Борисович": 73,
-      "Тумусов Федот Семенович": 63,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 38
+      "gas:candidate-vibid:214200067580": 334,
+      "gas:candidate-vibid:1001000121796": 30,
+      "gas:candidate-vibid:1001000190284": 116,
+      "gas:candidate-vibid:1001000113899": 73,
+      "gas:candidate-vibid:1001000187985": 63,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 190,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 55,
-      "Тресков Игорь Борисович": 36,
-      "Тумусов Федот Семенович": 48,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 190,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 55,
+      "gas:candidate-vibid:1001000113899": 36,
+      "gas:candidate-vibid:1001000187985": 48,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 219,
-      "Гаврильев Александр Иванович": 20,
-      "Назаров Семен Николаевич": 31,
-      "Тресков Игорь Борисович": 44,
-      "Тумусов Федот Семенович": 27,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 219,
+      "gas:candidate-vibid:1001000121796": 20,
+      "gas:candidate-vibid:1001000190284": 31,
+      "gas:candidate-vibid:1001000113899": 44,
+      "gas:candidate-vibid:1001000187985": 27,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 60,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 18,
-      "Тумусов Федот Семенович": 23,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:214200067580": 60,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 18,
+      "gas:candidate-vibid:1001000187985": 23,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 133,
-      "Гаврильев Александр Иванович": 10,
-      "Назаров Семен Николаевич": 41,
-      "Тресков Игорь Борисович": 20,
-      "Тумусов Федот Семенович": 51,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 133,
+      "gas:candidate-vibid:1001000121796": 10,
+      "gas:candidate-vibid:1001000190284": 41,
+      "gas:candidate-vibid:1001000113899": 20,
+      "gas:candidate-vibid:1001000187985": 51,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 135,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 16,
-      "Тресков Игорь Борисович": 20,
-      "Тумусов Федот Семенович": 120,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 135,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 16,
+      "gas:candidate-vibid:1001000113899": 20,
+      "gas:candidate-vibid:1001000187985": 120,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 193,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 34,
-      "Тресков Игорь Борисович": 94,
-      "Тумусов Федот Семенович": 51,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 193,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 34,
+      "gas:candidate-vibid:1001000113899": 94,
+      "gas:candidate-vibid:1001000187985": 51,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 164,
-      "Гаврильев Александр Иванович": 26,
-      "Назаров Семен Николаевич": 30,
-      "Тресков Игорь Борисович": 62,
-      "Тумусов Федот Семенович": 68,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 164,
+      "gas:candidate-vibid:1001000121796": 26,
+      "gas:candidate-vibid:1001000190284": 30,
+      "gas:candidate-vibid:1001000113899": 62,
+      "gas:candidate-vibid:1001000187985": 68,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 77,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 27,
-      "Тресков Игорь Борисович": 43,
-      "Тумусов Федот Семенович": 13,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 77,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 27,
+      "gas:candidate-vibid:1001000113899": 43,
+      "gas:candidate-vibid:1001000187985": 13,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 156,
-      "Гаврильев Александр Иванович": 10,
-      "Назаров Семен Николаевич": 25,
-      "Тресков Игорь Борисович": 21,
-      "Тумусов Федот Семенович": 29,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 156,
+      "gas:candidate-vibid:1001000121796": 10,
+      "gas:candidate-vibid:1001000190284": 25,
+      "gas:candidate-vibid:1001000113899": 21,
+      "gas:candidate-vibid:1001000187985": 29,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066712&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 572,
-      "Гаврильев Александр Иванович": 58,
-      "Назаров Семен Николаевич": 50,
-      "Тресков Игорь Борисович": 113,
-      "Тумусов Федот Семенович": 95,
-      "Шамаев Иван Иванович": 11,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:214200067580": 572,
+      "gas:candidate-vibid:1001000121796": 58,
+      "gas:candidate-vibid:1001000190284": 50,
+      "gas:candidate-vibid:1001000113899": 113,
+      "gas:candidate-vibid:1001000187985": 95,
+      "gas:candidate-vibid:1001000201799": 11,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066713&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 265,
-      "Гаврильев Александр Иванович": 18,
-      "Назаров Семен Николаевич": 20,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 40,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 265,
+      "gas:candidate-vibid:1001000121796": 18,
+      "gas:candidate-vibid:1001000190284": 20,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 40,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066713&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 302,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 7,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 66,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:214200067580": 302,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 7,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 66,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066713&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 145,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 0,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 32,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 145,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 0,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 32,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066713&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 84,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 36,
-      "Тресков Игорь Борисович": 43,
-      "Тумусов Федот Семенович": 46,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:214200067580": 84,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 36,
+      "gas:candidate-vibid:1001000113899": 43,
+      "gas:candidate-vibid:1001000187985": 46,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 63,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 44,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 45,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:214200067580": 63,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 44,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 45,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 127,
-      "Гаврильев Александр Иванович": 26,
-      "Назаров Семен Николаевич": 26,
-      "Тресков Игорь Борисович": 13,
-      "Тумусов Федот Семенович": 20,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 127,
+      "gas:candidate-vibid:1001000121796": 26,
+      "gas:candidate-vibid:1001000190284": 26,
+      "gas:candidate-vibid:1001000113899": 13,
+      "gas:candidate-vibid:1001000187985": 20,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 272,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 61,
-      "Тресков Игорь Борисович": 39,
-      "Тумусов Федот Семенович": 105,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 272,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 61,
+      "gas:candidate-vibid:1001000113899": 39,
+      "gas:candidate-vibid:1001000187985": 105,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 27,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 31,
-      "Тумусов Федот Семенович": 15,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:214200067580": 27,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 31,
+      "gas:candidate-vibid:1001000187985": 15,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 263,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 38,
-      "Тресков Игорь Борисович": 18,
-      "Тумусов Федот Семенович": 82,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:214200067580": 263,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 38,
+      "gas:candidate-vibid:1001000113899": 18,
+      "gas:candidate-vibid:1001000187985": 82,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 109,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 6,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 109,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 6,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 92,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 22,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 6,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:214200067580": 92,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 22,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 6,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 149,
-      "Гаврильев Александр Иванович": 19,
-      "Назаров Семен Николаевич": 19,
-      "Тресков Игорь Борисович": 22,
-      "Тумусов Федот Семенович": 12,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 5,
-      "Против всех": 34
+      "gas:candidate-vibid:214200067580": 149,
+      "gas:candidate-vibid:1001000121796": 19,
+      "gas:candidate-vibid:1001000190284": 19,
+      "gas:candidate-vibid:1001000113899": 22,
+      "gas:candidate-vibid:1001000187985": 12,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 5,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 434,
-      "Гаврильев Александр Иванович": 29,
-      "Назаров Семен Николаевич": 103,
-      "Тресков Игорь Борисович": 42,
-      "Тумусов Федот Семенович": 29,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 4,
-      "Против всех": 105
+      "gas:candidate-vibid:214200067580": 434,
+      "gas:candidate-vibid:1001000121796": 29,
+      "gas:candidate-vibid:1001000190284": 103,
+      "gas:candidate-vibid:1001000113899": 42,
+      "gas:candidate-vibid:1001000187985": 29,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 4,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 296,
-      "Гаврильев Александр Иванович": 30,
-      "Назаров Семен Николаевич": 60,
-      "Тресков Игорь Борисович": 47,
-      "Тумусов Федот Семенович": 23,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 6,
-      "Против всех": 52
+      "gas:candidate-vibid:214200067580": 296,
+      "gas:candidate-vibid:1001000121796": 30,
+      "gas:candidate-vibid:1001000190284": 60,
+      "gas:candidate-vibid:1001000113899": 47,
+      "gas:candidate-vibid:1001000187985": 23,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 6,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 71,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 0,
-      "Тресков Игорь Борисович": 14,
-      "Тумусов Федот Семенович": 2,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:214200067580": 71,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 0,
+      "gas:candidate-vibid:1001000113899": 14,
+      "gas:candidate-vibid:1001000187985": 2,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 256,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 17,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 7,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 5,
-      "Против всех": 44
+      "gas:candidate-vibid:214200067580": 256,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 17,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 7,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 5,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 140,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 27,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 6,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 8,
-      "Против всех": 58
+      "gas:candidate-vibid:214200067580": 140,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 27,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 6,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 8,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 165,
-      "Гаврильев Александр Иванович": 11,
-      "Назаров Семен Николаевич": 30,
-      "Тресков Игорь Борисович": 37,
-      "Тумусов Федот Семенович": 11,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:214200067580": 165,
+      "gas:candidate-vibid:1001000121796": 11,
+      "gas:candidate-vibid:1001000190284": 30,
+      "gas:candidate-vibid:1001000113899": 37,
+      "gas:candidate-vibid:1001000187985": 11,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 176,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 32,
-      "Тресков Игорь Борисович": 15,
-      "Тумусов Федот Семенович": 8,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:214200067580": 176,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 32,
+      "gas:candidate-vibid:1001000113899": 15,
+      "gas:candidate-vibid:1001000187985": 8,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066714&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 768,
-      "Гаврильев Александр Иванович": 66,
-      "Назаров Семен Николаевич": 107,
-      "Тресков Игорь Борисович": 118,
-      "Тумусов Федот Семенович": 79,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 19,
-      "Против всех": 255
+      "gas:candidate-vibid:214200067580": 768,
+      "gas:candidate-vibid:1001000121796": 66,
+      "gas:candidate-vibid:1001000190284": 107,
+      "gas:candidate-vibid:1001000113899": 118,
+      "gas:candidate-vibid:1001000187985": 79,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 19,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 934,
-      "Гаврильев Александр Иванович": 123,
-      "Назаров Семен Николаевич": 112,
-      "Тресков Игорь Борисович": 215,
-      "Тумусов Федот Семенович": 141,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 25,
-      "Против всех": 352
+      "gas:candidate-vibid:214200067580": 934,
+      "gas:candidate-vibid:1001000121796": 123,
+      "gas:candidate-vibid:1001000190284": 112,
+      "gas:candidate-vibid:1001000113899": 215,
+      "gas:candidate-vibid:1001000187985": 141,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 25,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 774,
-      "Гаврильев Александр Иванович": 81,
-      "Назаров Семен Николаевич": 152,
-      "Тресков Игорь Борисович": 132,
-      "Тумусов Федот Семенович": 73,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 17,
-      "Против всех": 279
+      "gas:candidate-vibid:214200067580": 774,
+      "gas:candidate-vibid:1001000121796": 81,
+      "gas:candidate-vibid:1001000190284": 152,
+      "gas:candidate-vibid:1001000113899": 132,
+      "gas:candidate-vibid:1001000187985": 73,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 17,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 1029,
-      "Гаврильев Александр Иванович": 84,
-      "Назаров Семен Николаевич": 175,
-      "Тресков Игорь Борисович": 167,
-      "Тумусов Федот Семенович": 131,
-      "Шамаев Иван Иванович": 17,
-      "Шемчук Виктор Леонидович": 27,
-      "Против всех": 345
+      "gas:candidate-vibid:214200067580": 1029,
+      "gas:candidate-vibid:1001000121796": 84,
+      "gas:candidate-vibid:1001000190284": 175,
+      "gas:candidate-vibid:1001000113899": 167,
+      "gas:candidate-vibid:1001000187985": 131,
+      "gas:candidate-vibid:1001000201799": 17,
+      "gas:candidate-vibid:1001000195029": 27,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 895,
-      "Гаврильев Александр Иванович": 92,
-      "Назаров Семен Николаевич": 159,
-      "Тресков Игорь Борисович": 164,
-      "Тумусов Федот Семенович": 107,
-      "Шамаев Иван Иванович": 19,
-      "Шемчук Виктор Леонидович": 21,
-      "Против всех": 309
+      "gas:candidate-vibid:214200067580": 895,
+      "gas:candidate-vibid:1001000121796": 92,
+      "gas:candidate-vibid:1001000190284": 159,
+      "gas:candidate-vibid:1001000113899": 164,
+      "gas:candidate-vibid:1001000187985": 107,
+      "gas:candidate-vibid:1001000201799": 19,
+      "gas:candidate-vibid:1001000195029": 21,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 909,
-      "Гаврильев Александр Иванович": 74,
-      "Назаров Семен Николаевич": 146,
-      "Тресков Игорь Борисович": 153,
-      "Тумусов Федот Семенович": 95,
-      "Шамаев Иван Иванович": 19,
-      "Шемчук Виктор Леонидович": 17,
-      "Против всех": 326
+      "gas:candidate-vibid:214200067580": 909,
+      "gas:candidate-vibid:1001000121796": 74,
+      "gas:candidate-vibid:1001000190284": 146,
+      "gas:candidate-vibid:1001000113899": 153,
+      "gas:candidate-vibid:1001000187985": 95,
+      "gas:candidate-vibid:1001000201799": 19,
+      "gas:candidate-vibid:1001000195029": 17,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 713,
-      "Гаврильев Александр Иванович": 95,
-      "Назаров Семен Николаевич": 99,
-      "Тресков Игорь Борисович": 105,
-      "Тумусов Федот Семенович": 110,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 13,
-      "Против всех": 250
+      "gas:candidate-vibid:214200067580": 713,
+      "gas:candidate-vibid:1001000121796": 95,
+      "gas:candidate-vibid:1001000190284": 99,
+      "gas:candidate-vibid:1001000113899": 105,
+      "gas:candidate-vibid:1001000187985": 110,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 13,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 835,
-      "Гаврильев Александр Иванович": 71,
-      "Назаров Семен Николаевич": 131,
-      "Тресков Игорь Борисович": 126,
-      "Тумусов Федот Семенович": 124,
-      "Шамаев Иван Иванович": 15,
-      "Шемчук Виктор Леонидович": 30,
-      "Против всех": 331
+      "gas:candidate-vibid:214200067580": 835,
+      "gas:candidate-vibid:1001000121796": 71,
+      "gas:candidate-vibid:1001000190284": 131,
+      "gas:candidate-vibid:1001000113899": 126,
+      "gas:candidate-vibid:1001000187985": 124,
+      "gas:candidate-vibid:1001000201799": 15,
+      "gas:candidate-vibid:1001000195029": 30,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 1018,
-      "Гаврильев Александр Иванович": 104,
-      "Назаров Семен Николаевич": 119,
-      "Тресков Игорь Борисович": 146,
-      "Тумусов Федот Семенович": 163,
-      "Шамаев Иван Иванович": 11,
-      "Шемчук Виктор Леонидович": 18,
-      "Против всех": 367
+      "gas:candidate-vibid:214200067580": 1018,
+      "gas:candidate-vibid:1001000121796": 104,
+      "gas:candidate-vibid:1001000190284": 119,
+      "gas:candidate-vibid:1001000113899": 146,
+      "gas:candidate-vibid:1001000187985": 163,
+      "gas:candidate-vibid:1001000201799": 11,
+      "gas:candidate-vibid:1001000195029": 18,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 997,
-      "Гаврильев Александр Иванович": 110,
-      "Назаров Семен Николаевич": 138,
-      "Тресков Игорь Борисович": 141,
-      "Тумусов Федот Семенович": 120,
-      "Шамаев Иван Иванович": 18,
-      "Шемчук Виктор Леонидович": 14,
-      "Против всех": 324
+      "gas:candidate-vibid:214200067580": 997,
+      "gas:candidate-vibid:1001000121796": 110,
+      "gas:candidate-vibid:1001000190284": 138,
+      "gas:candidate-vibid:1001000113899": 141,
+      "gas:candidate-vibid:1001000187985": 120,
+      "gas:candidate-vibid:1001000201799": 18,
+      "gas:candidate-vibid:1001000195029": 14,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 891,
-      "Гаврильев Александр Иванович": 91,
-      "Назаров Семен Николаевич": 155,
-      "Тресков Игорь Борисович": 171,
-      "Тумусов Федот Семенович": 114,
-      "Шамаев Иван Иванович": 15,
-      "Шемчук Виктор Леонидович": 17,
-      "Против всех": 366
+      "gas:candidate-vibid:214200067580": 891,
+      "gas:candidate-vibid:1001000121796": 91,
+      "gas:candidate-vibid:1001000190284": 155,
+      "gas:candidate-vibid:1001000113899": 171,
+      "gas:candidate-vibid:1001000187985": 114,
+      "gas:candidate-vibid:1001000201799": 15,
+      "gas:candidate-vibid:1001000195029": 17,
+      "special:against-all": 366
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 996,
-      "Гаврильев Александр Иванович": 108,
-      "Назаров Семен Николаевич": 123,
-      "Тресков Игорь Борисович": 173,
-      "Тумусов Федот Семенович": 126,
-      "Шамаев Иван Иванович": 16,
-      "Шемчук Виктор Леонидович": 28,
-      "Против всех": 364
+      "gas:candidate-vibid:214200067580": 996,
+      "gas:candidate-vibid:1001000121796": 108,
+      "gas:candidate-vibid:1001000190284": 123,
+      "gas:candidate-vibid:1001000113899": 173,
+      "gas:candidate-vibid:1001000187985": 126,
+      "gas:candidate-vibid:1001000201799": 16,
+      "gas:candidate-vibid:1001000195029": 28,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 1008,
-      "Гаврильев Александр Иванович": 84,
-      "Назаров Семен Николаевич": 176,
-      "Тресков Игорь Борисович": 219,
-      "Тумусов Федот Семенович": 145,
-      "Шамаев Иван Иванович": 14,
-      "Шемчук Виктор Леонидович": 14,
-      "Против всех": 356
+      "gas:candidate-vibid:214200067580": 1008,
+      "gas:candidate-vibid:1001000121796": 84,
+      "gas:candidate-vibid:1001000190284": 176,
+      "gas:candidate-vibid:1001000113899": 219,
+      "gas:candidate-vibid:1001000187985": 145,
+      "gas:candidate-vibid:1001000201799": 14,
+      "gas:candidate-vibid:1001000195029": 14,
+      "special:against-all": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 946,
-      "Гаврильев Александр Иванович": 101,
-      "Назаров Семен Николаевич": 98,
-      "Тресков Игорь Борисович": 159,
-      "Тумусов Федот Семенович": 150,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 31,
-      "Против всех": 386
+      "gas:candidate-vibid:214200067580": 946,
+      "gas:candidate-vibid:1001000121796": 101,
+      "gas:candidate-vibid:1001000190284": 98,
+      "gas:candidate-vibid:1001000113899": 159,
+      "gas:candidate-vibid:1001000187985": 150,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 31,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 1019,
-      "Гаврильев Александр Иванович": 91,
-      "Назаров Семен Николаевич": 160,
-      "Тресков Игорь Борисович": 139,
-      "Тумусов Федот Семенович": 137,
-      "Шамаев Иван Иванович": 20,
-      "Шемчук Виктор Леонидович": 18,
-      "Против всех": 365
+      "gas:candidate-vibid:214200067580": 1019,
+      "gas:candidate-vibid:1001000121796": 91,
+      "gas:candidate-vibid:1001000190284": 160,
+      "gas:candidate-vibid:1001000113899": 139,
+      "gas:candidate-vibid:1001000187985": 137,
+      "gas:candidate-vibid:1001000201799": 20,
+      "gas:candidate-vibid:1001000195029": 18,
+      "special:against-all": 365
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 722,
-      "Гаврильев Александр Иванович": 83,
-      "Назаров Семен Николаевич": 105,
-      "Тресков Игорь Борисович": 117,
-      "Тумусов Федот Семенович": 137,
-      "Шамаев Иван Иванович": 25,
-      "Шемчук Виктор Леонидович": 10,
-      "Против всех": 238
+      "gas:candidate-vibid:214200067580": 722,
+      "gas:candidate-vibid:1001000121796": 83,
+      "gas:candidate-vibid:1001000190284": 105,
+      "gas:candidate-vibid:1001000113899": 117,
+      "gas:candidate-vibid:1001000187985": 137,
+      "gas:candidate-vibid:1001000201799": 25,
+      "gas:candidate-vibid:1001000195029": 10,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 796,
-      "Гаврильев Александр Иванович": 76,
-      "Назаров Семен Николаевич": 145,
-      "Тресков Игорь Борисович": 170,
-      "Тумусов Федот Семенович": 127,
-      "Шамаев Иван Иванович": 17,
-      "Шемчук Виктор Леонидович": 17,
-      "Против всех": 342
+      "gas:candidate-vibid:214200067580": 796,
+      "gas:candidate-vibid:1001000121796": 76,
+      "gas:candidate-vibid:1001000190284": 145,
+      "gas:candidate-vibid:1001000113899": 170,
+      "gas:candidate-vibid:1001000187985": 127,
+      "gas:candidate-vibid:1001000201799": 17,
+      "gas:candidate-vibid:1001000195029": 17,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 841,
-      "Гаврильев Александр Иванович": 98,
-      "Назаров Семен Николаевич": 127,
-      "Тресков Игорь Борисович": 222,
-      "Тумусов Федот Семенович": 89,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 14,
-      "Против всех": 316
+      "gas:candidate-vibid:214200067580": 841,
+      "gas:candidate-vibid:1001000121796": 98,
+      "gas:candidate-vibid:1001000190284": 127,
+      "gas:candidate-vibid:1001000113899": 222,
+      "gas:candidate-vibid:1001000187985": 89,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 14,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 750,
-      "Гаврильев Александр Иванович": 155,
-      "Назаров Семен Николаевич": 93,
-      "Тресков Игорь Борисович": 80,
-      "Тумусов Федот Семенович": 55,
-      "Шамаев Иван Иванович": 14,
-      "Шемчук Виктор Леонидович": 9,
-      "Против всех": 197
+      "gas:candidate-vibid:214200067580": 750,
+      "gas:candidate-vibid:1001000121796": 155,
+      "gas:candidate-vibid:1001000190284": 93,
+      "gas:candidate-vibid:1001000113899": 80,
+      "gas:candidate-vibid:1001000187985": 55,
+      "gas:candidate-vibid:1001000201799": 14,
+      "gas:candidate-vibid:1001000195029": 9,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 537,
-      "Гаврильев Александр Иванович": 95,
-      "Назаров Семен Николаевич": 84,
-      "Тресков Игорь Борисович": 66,
-      "Тумусов Федот Семенович": 33,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 10,
-      "Против всех": 153
+      "gas:candidate-vibid:214200067580": 537,
+      "gas:candidate-vibid:1001000121796": 95,
+      "gas:candidate-vibid:1001000190284": 84,
+      "gas:candidate-vibid:1001000113899": 66,
+      "gas:candidate-vibid:1001000187985": 33,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 10,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 793,
-      "Гаврильев Александр Иванович": 142,
-      "Назаров Семен Николаевич": 151,
-      "Тресков Игорь Борисович": 130,
-      "Тумусов Федот Семенович": 60,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 6,
-      "Против всех": 198
+      "gas:candidate-vibid:214200067580": 793,
+      "gas:candidate-vibid:1001000121796": 142,
+      "gas:candidate-vibid:1001000190284": 151,
+      "gas:candidate-vibid:1001000113899": 130,
+      "gas:candidate-vibid:1001000187985": 60,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 6,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 580,
-      "Гаврильев Александр Иванович": 101,
-      "Назаров Семен Николаевич": 57,
-      "Тресков Игорь Борисович": 53,
-      "Тумусов Федот Семенович": 40,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 10,
-      "Против всех": 161
+      "gas:candidate-vibid:214200067580": 580,
+      "gas:candidate-vibid:1001000121796": 101,
+      "gas:candidate-vibid:1001000190284": 57,
+      "gas:candidate-vibid:1001000113899": 53,
+      "gas:candidate-vibid:1001000187985": 40,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 10,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 86,
-      "Гаврильев Александр Иванович": 18,
-      "Назаров Семен Николаевич": 27,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 24,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:214200067580": 86,
+      "gas:candidate-vibid:1001000121796": 18,
+      "gas:candidate-vibid:1001000190284": 27,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 24,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 356,
-      "Гаврильев Александр Иванович": 36,
-      "Назаров Семен Николаевич": 66,
-      "Тресков Игорь Борисович": 71,
-      "Тумусов Федот Семенович": 19,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 8,
-      "Против всех": 111
+      "gas:candidate-vibid:214200067580": 356,
+      "gas:candidate-vibid:1001000121796": 36,
+      "gas:candidate-vibid:1001000190284": 66,
+      "gas:candidate-vibid:1001000113899": 71,
+      "gas:candidate-vibid:1001000187985": 19,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 8,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 490,
-      "Гаврильев Александр Иванович": 66,
-      "Назаров Семен Николаевич": 103,
-      "Тресков Игорь Борисович": 87,
-      "Тумусов Федот Семенович": 48,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 10,
-      "Против всех": 153
+      "gas:candidate-vibid:214200067580": 490,
+      "gas:candidate-vibid:1001000121796": 66,
+      "gas:candidate-vibid:1001000190284": 103,
+      "gas:candidate-vibid:1001000113899": 87,
+      "gas:candidate-vibid:1001000187985": 48,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 10,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 438,
-      "Гаврильев Александр Иванович": 59,
-      "Назаров Семен Николаевич": 55,
-      "Тресков Игорь Борисович": 64,
-      "Тумусов Федот Семенович": 48,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 10,
-      "Против всех": 190
+      "gas:candidate-vibid:214200067580": 438,
+      "gas:candidate-vibid:1001000121796": 59,
+      "gas:candidate-vibid:1001000190284": 55,
+      "gas:candidate-vibid:1001000113899": 64,
+      "gas:candidate-vibid:1001000187985": 48,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 10,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 550,
-      "Гаврильев Александр Иванович": 61,
-      "Назаров Семен Николаевич": 92,
-      "Тресков Игорь Борисович": 100,
-      "Тумусов Федот Семенович": 88,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 15,
-      "Против всех": 247
+      "gas:candidate-vibid:214200067580": 550,
+      "gas:candidate-vibid:1001000121796": 61,
+      "gas:candidate-vibid:1001000190284": 92,
+      "gas:candidate-vibid:1001000113899": 100,
+      "gas:candidate-vibid:1001000187985": 88,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 15,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 191,
-      "Гаврильев Александр Иванович": 45,
-      "Назаров Семен Николаевич": 25,
-      "Тресков Игорь Борисович": 24,
-      "Тумусов Федот Семенович": 27,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 8,
-      "Против всех": 90
+      "gas:candidate-vibid:214200067580": 191,
+      "gas:candidate-vibid:1001000121796": 45,
+      "gas:candidate-vibid:1001000190284": 25,
+      "gas:candidate-vibid:1001000113899": 24,
+      "gas:candidate-vibid:1001000187985": 27,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 8,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 317,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 38,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 11,
-      "Шамаев Иван Иванович": 28,
-      "Шемчук Виктор Леонидович": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:214200067580": 317,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 38,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 11,
+      "gas:candidate-vibid:1001000201799": 28,
+      "gas:candidate-vibid:1001000195029": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 85,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 40,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 6,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:214200067580": 85,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 40,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 6,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 53,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 12,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 5,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:214200067580": 53,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 12,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 5,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066715&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 574,
-      "Гаврильев Александр Иванович": 77,
-      "Назаров Семен Николаевич": 37,
-      "Тресков Игорь Борисович": 149,
-      "Тумусов Федот Семенович": 168,
-      "Шамаев Иван Иванович": 19,
-      "Шемчук Виктор Леонидович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:214200067580": 574,
+      "gas:candidate-vibid:1001000121796": 77,
+      "gas:candidate-vibid:1001000190284": 37,
+      "gas:candidate-vibid:1001000113899": 149,
+      "gas:candidate-vibid:1001000187985": 168,
+      "gas:candidate-vibid:1001000201799": 19,
+      "gas:candidate-vibid:1001000195029": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 50,
-      "Гаврильев Александр Иванович": 8,
-      "Назаров Семен Николаевич": 4,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 8,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 50,
+      "gas:candidate-vibid:1001000121796": 8,
+      "gas:candidate-vibid:1001000190284": 4,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 8,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 157,
-      "Гаврильев Александр Иванович": 14,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 61,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 157,
+      "gas:candidate-vibid:1001000121796": 14,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 61,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 86,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 4,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 65,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 86,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 4,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 65,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 70,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 1,
-      "Тресков Игорь Борисович": 10,
-      "Тумусов Федот Семенович": 16,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 70,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 1,
+      "gas:candidate-vibid:1001000113899": 10,
+      "gas:candidate-vibid:1001000187985": 16,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 279,
-      "Гаврильев Александр Иванович": 11,
-      "Назаров Семен Николаевич": 7,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 70,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 279,
+      "gas:candidate-vibid:1001000121796": 11,
+      "gas:candidate-vibid:1001000190284": 7,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 70,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 87,
-      "Гаврильев Александр Иванович": 16,
-      "Назаров Семен Николаевич": 8,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 29,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 87,
+      "gas:candidate-vibid:1001000121796": 16,
+      "gas:candidate-vibid:1001000190284": 8,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 29,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066716&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 140,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 28,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 57,
-      "Шамаев Иван Иванович": 12,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 140,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 28,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 57,
+      "gas:candidate-vibid:1001000201799": 12,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 87,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 11,
-      "Тресков Игорь Борисович": 20,
-      "Тумусов Федот Семенович": 44,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 87,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 11,
+      "gas:candidate-vibid:1001000113899": 20,
+      "gas:candidate-vibid:1001000187985": 44,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 47,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 30,
-      "Тресков Игорь Борисович": 19,
-      "Тумусов Федот Семенович": 19,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 47,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 30,
+      "gas:candidate-vibid:1001000113899": 19,
+      "gas:candidate-vibid:1001000187985": 19,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 74,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 76,
-      "Тресков Игорь Борисович": 39,
-      "Тумусов Федот Семенович": 54,
-      "Шамаев Иван Иванович": 12,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 74,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 76,
+      "gas:candidate-vibid:1001000113899": 39,
+      "gas:candidate-vibid:1001000187985": 54,
+      "gas:candidate-vibid:1001000201799": 12,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 61,
-      "Гаврильев Александр Иванович": 7,
-      "Назаров Семен Николаевич": 45,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 15,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 61,
+      "gas:candidate-vibid:1001000121796": 7,
+      "gas:candidate-vibid:1001000190284": 45,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 15,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 56,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 29,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 12,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 56,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 29,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 12,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 126,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 52,
-      "Тресков Игорь Борисович": 24,
-      "Тумусов Федот Семенович": 35,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 126,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 52,
+      "gas:candidate-vibid:1001000113899": 24,
+      "gas:candidate-vibid:1001000187985": 35,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 121,
-      "Гаврильев Александр Иванович": 11,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 26,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 121,
+      "gas:candidate-vibid:1001000121796": 11,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 26,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 53,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 24,
-      "Тресков Игорь Борисович": 17,
-      "Тумусов Федот Семенович": 35,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 53,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 24,
+      "gas:candidate-vibid:1001000113899": 17,
+      "gas:candidate-vibid:1001000187985": 35,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 174,
-      "Гаврильев Александр Иванович": 87,
-      "Назаров Семен Николаевич": 36,
-      "Тресков Игорь Борисович": 60,
-      "Тумусов Федот Семенович": 130,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:214200067580": 174,
+      "gas:candidate-vibid:1001000121796": 87,
+      "gas:candidate-vibid:1001000190284": 36,
+      "gas:candidate-vibid:1001000113899": 60,
+      "gas:candidate-vibid:1001000187985": 130,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 66,
-      "Гаврильев Александр Иванович": 15,
-      "Назаров Семен Николаевич": 28,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 46,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 66,
+      "gas:candidate-vibid:1001000121796": 15,
+      "gas:candidate-vibid:1001000190284": 28,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 46,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 39,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 16,
-      "Тресков Игорь Борисович": 13,
-      "Тумусов Федот Семенович": 21,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 39,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 16,
+      "gas:candidate-vibid:1001000113899": 13,
+      "gas:candidate-vibid:1001000187985": 21,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 59,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 6,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 10,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 59,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 6,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 10,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 162,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 50,
-      "Тресков Игорь Борисович": 33,
-      "Тумусов Федот Семенович": 77,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 162,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 50,
+      "gas:candidate-vibid:1001000113899": 33,
+      "gas:candidate-vibid:1001000187985": 77,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 237,
-      "Гаврильев Александр Иванович": 35,
-      "Назаров Семен Николаевич": 63,
-      "Тресков Игорь Борисович": 61,
-      "Тумусов Федот Семенович": 80,
-      "Шамаев Иван Иванович": 30,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:214200067580": 237,
+      "gas:candidate-vibid:1001000121796": 35,
+      "gas:candidate-vibid:1001000190284": 63,
+      "gas:candidate-vibid:1001000113899": 61,
+      "gas:candidate-vibid:1001000187985": 80,
+      "gas:candidate-vibid:1001000201799": 30,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 192,
-      "Гаврильев Александр Иванович": 61,
-      "Назаров Семен Николаевич": 74,
-      "Тресков Игорь Борисович": 66,
-      "Тумусов Федот Семенович": 96,
-      "Шамаев Иван Иванович": 19,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:214200067580": 192,
+      "gas:candidate-vibid:1001000121796": 61,
+      "gas:candidate-vibid:1001000190284": 74,
+      "gas:candidate-vibid:1001000113899": 66,
+      "gas:candidate-vibid:1001000187985": 96,
+      "gas:candidate-vibid:1001000201799": 19,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 198,
-      "Гаврильев Александр Иванович": 46,
-      "Назаров Семен Николаевич": 54,
-      "Тресков Игорь Борисович": 45,
-      "Тумусов Федот Семенович": 95,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 198,
+      "gas:candidate-vibid:1001000121796": 46,
+      "gas:candidate-vibid:1001000190284": 54,
+      "gas:candidate-vibid:1001000113899": 45,
+      "gas:candidate-vibid:1001000187985": 95,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 229,
-      "Гаврильев Александр Иванович": 50,
-      "Назаров Семен Николаевич": 68,
-      "Тресков Игорь Борисович": 63,
-      "Тумусов Федот Семенович": 69,
-      "Шамаев Иван Иванович": 11,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:214200067580": 229,
+      "gas:candidate-vibid:1001000121796": 50,
+      "gas:candidate-vibid:1001000190284": 68,
+      "gas:candidate-vibid:1001000113899": 63,
+      "gas:candidate-vibid:1001000187985": 69,
+      "gas:candidate-vibid:1001000201799": 11,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 206,
-      "Гаврильев Александр Иванович": 35,
-      "Назаров Семен Николаевич": 57,
-      "Тресков Игорь Борисович": 61,
-      "Тумусов Федот Семенович": 66,
-      "Шамаев Иван Иванович": 16,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 206,
+      "gas:candidate-vibid:1001000121796": 35,
+      "gas:candidate-vibid:1001000190284": 57,
+      "gas:candidate-vibid:1001000113899": 61,
+      "gas:candidate-vibid:1001000187985": 66,
+      "gas:candidate-vibid:1001000201799": 16,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 98,
-      "Гаврильев Александр Иванович": 33,
-      "Назаров Семен Николаевич": 32,
-      "Тресков Игорь Борисович": 25,
-      "Тумусов Федот Семенович": 28,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 98,
+      "gas:candidate-vibid:1001000121796": 33,
+      "gas:candidate-vibid:1001000190284": 32,
+      "gas:candidate-vibid:1001000113899": 25,
+      "gas:candidate-vibid:1001000187985": 28,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 136,
-      "Гаврильев Александр Иванович": 13,
-      "Назаров Семен Николаевич": 16,
-      "Тресков Игорь Борисович": 42,
-      "Тумусов Федот Семенович": 52,
-      "Шамаев Иван Иванович": 27,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 136,
+      "gas:candidate-vibid:1001000121796": 13,
+      "gas:candidate-vibid:1001000190284": 16,
+      "gas:candidate-vibid:1001000113899": 42,
+      "gas:candidate-vibid:1001000187985": 52,
+      "gas:candidate-vibid:1001000201799": 27,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 300,
-      "Гаврильев Александр Иванович": 18,
-      "Назаров Семен Николаевич": 56,
-      "Тресков Игорь Борисович": 47,
-      "Тумусов Федот Семенович": 83,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:214200067580": 300,
+      "gas:candidate-vibid:1001000121796": 18,
+      "gas:candidate-vibid:1001000190284": 56,
+      "gas:candidate-vibid:1001000113899": 47,
+      "gas:candidate-vibid:1001000187985": 83,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 69,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 8,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 10,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 69,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 8,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 10,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 121,
-      "Гаврильев Александр Иванович": 21,
-      "Назаров Семен Николаевич": 19,
-      "Тресков Игорь Борисович": 24,
-      "Тумусов Федот Семенович": 26,
-      "Шамаев Иван Иванович": 30,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 121,
+      "gas:candidate-vibid:1001000121796": 21,
+      "gas:candidate-vibid:1001000190284": 19,
+      "gas:candidate-vibid:1001000113899": 24,
+      "gas:candidate-vibid:1001000187985": 26,
+      "gas:candidate-vibid:1001000201799": 30,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 145,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 10,
-      "Тресков Игорь Борисович": 21,
-      "Тумусов Федот Семенович": 52,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 145,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 10,
+      "gas:candidate-vibid:1001000113899": 21,
+      "gas:candidate-vibid:1001000187985": 52,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 42,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 7,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 21,
-      "Шамаев Иван Иванович": 3,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 42,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 7,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 21,
+      "gas:candidate-vibid:1001000201799": 3,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 144,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 26,
-      "Тресков Игорь Борисович": 13,
-      "Тумусов Федот Семенович": 17,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 144,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 26,
+      "gas:candidate-vibid:1001000113899": 13,
+      "gas:candidate-vibid:1001000187985": 17,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 130,
-      "Гаврильев Александр Иванович": 9,
-      "Назаров Семен Николаевич": 23,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 7,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 130,
+      "gas:candidate-vibid:1001000121796": 9,
+      "gas:candidate-vibid:1001000190284": 23,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 7,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 51,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 3,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 10,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 51,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 3,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 10,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 123,
-      "Гаврильев Александр Иванович": 10,
-      "Назаров Семен Николаевич": 5,
-      "Тресков Игорь Борисович": 26,
-      "Тумусов Федот Семенович": 26,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 123,
+      "gas:candidate-vibid:1001000121796": 10,
+      "gas:candidate-vibid:1001000190284": 5,
+      "gas:candidate-vibid:1001000113899": 26,
+      "gas:candidate-vibid:1001000187985": 26,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 73,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 6,
-      "Тресков Игорь Борисович": 39,
-      "Тумусов Федот Семенович": 28,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 73,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 6,
+      "gas:candidate-vibid:1001000113899": 39,
+      "gas:candidate-vibid:1001000187985": 28,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 126,
-      "Гаврильев Александр Иванович": 10,
-      "Назаров Семен Николаевич": 36,
-      "Тресков Игорь Борисович": 30,
-      "Тумусов Федот Семенович": 58,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 126,
+      "gas:candidate-vibid:1001000121796": 10,
+      "gas:candidate-vibid:1001000190284": 36,
+      "gas:candidate-vibid:1001000113899": 30,
+      "gas:candidate-vibid:1001000187985": 58,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 43,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 7,
-      "Тресков Игорь Борисович": 1,
-      "Тумусов Федот Семенович": 10,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 43,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 7,
+      "gas:candidate-vibid:1001000113899": 1,
+      "gas:candidate-vibid:1001000187985": 10,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066717&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 247,
-      "Гаврильев Александр Иванович": 11,
-      "Назаров Семен Николаевич": 610,
-      "Тресков Игорь Борисович": 29,
-      "Тумусов Федот Семенович": 177,
-      "Шамаев Иван Иванович": 13,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:214200067580": 247,
+      "gas:candidate-vibid:1001000121796": 11,
+      "gas:candidate-vibid:1001000190284": 610,
+      "gas:candidate-vibid:1001000113899": 29,
+      "gas:candidate-vibid:1001000187985": 177,
+      "gas:candidate-vibid:1001000201799": 13,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 232,
-      "Гаврильев Александр Иванович": 12,
-      "Назаров Семен Николаевич": 552,
-      "Тресков Игорь Борисович": 11,
-      "Тумусов Федот Семенович": 209,
-      "Шамаев Иван Иванович": 17,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:214200067580": 232,
+      "gas:candidate-vibid:1001000121796": 12,
+      "gas:candidate-vibid:1001000190284": 552,
+      "gas:candidate-vibid:1001000113899": 11,
+      "gas:candidate-vibid:1001000187985": 209,
+      "gas:candidate-vibid:1001000201799": 17,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 215,
-      "Гаврильев Александр Иванович": 11,
-      "Назаров Семен Николаевич": 590,
-      "Тресков Игорь Борисович": 20,
-      "Тумусов Федот Семенович": 173,
-      "Шамаев Иван Иванович": 22,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:214200067580": 215,
+      "gas:candidate-vibid:1001000121796": 11,
+      "gas:candidate-vibid:1001000190284": 590,
+      "gas:candidate-vibid:1001000113899": 20,
+      "gas:candidate-vibid:1001000187985": 173,
+      "gas:candidate-vibid:1001000201799": 22,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 214,
-      "Гаврильев Александр Иванович": 19,
-      "Назаров Семен Николаевич": 118,
-      "Тресков Игорь Борисович": 61,
-      "Тумусов Федот Семенович": 41,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:214200067580": 214,
+      "gas:candidate-vibid:1001000121796": 19,
+      "gas:candidate-vibid:1001000190284": 118,
+      "gas:candidate-vibid:1001000113899": 61,
+      "gas:candidate-vibid:1001000187985": 41,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 102,
-      "Гаврильев Александр Иванович": 17,
-      "Назаров Семен Николаевич": 139,
-      "Тресков Игорь Борисович": 65,
-      "Тумусов Федот Семенович": 36,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 16,
-      "Против всех": 57
+      "gas:candidate-vibid:214200067580": 102,
+      "gas:candidate-vibid:1001000121796": 17,
+      "gas:candidate-vibid:1001000190284": 139,
+      "gas:candidate-vibid:1001000113899": 65,
+      "gas:candidate-vibid:1001000187985": 36,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 16,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 145,
-      "Гаврильев Александр Иванович": 35,
-      "Назаров Семен Николаевич": 510,
-      "Тресков Игорь Борисович": 25,
-      "Тумусов Федот Семенович": 114,
-      "Шамаев Иван Иванович": 16,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 145,
+      "gas:candidate-vibid:1001000121796": 35,
+      "gas:candidate-vibid:1001000190284": 510,
+      "gas:candidate-vibid:1001000113899": 25,
+      "gas:candidate-vibid:1001000187985": 114,
+      "gas:candidate-vibid:1001000201799": 16,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 4,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 9,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 26,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 4,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 9,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 26,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 63,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 417,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 24,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 63,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 417,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 24,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 32,
-      "Гаврильев Александр Иванович": 2,
-      "Назаров Семен Николаевич": 196,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 14,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 32,
+      "gas:candidate-vibid:1001000121796": 2,
+      "gas:candidate-vibid:1001000190284": 196,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 14,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 146,
-      "Гаврильев Александр Иванович": 24,
-      "Назаров Семен Николаевич": 218,
-      "Тресков Игорь Борисович": 9,
-      "Тумусов Федот Семенович": 155,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 146,
+      "gas:candidate-vibid:1001000121796": 24,
+      "gas:candidate-vibid:1001000190284": 218,
+      "gas:candidate-vibid:1001000113899": 9,
+      "gas:candidate-vibid:1001000187985": 155,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 89,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 151,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 101,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:214200067580": 89,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 151,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 101,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 113,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 75,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 78,
-      "Шамаев Иван Иванович": 5,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 113,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 75,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 78,
+      "gas:candidate-vibid:1001000201799": 5,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 26,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 106,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 30,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 26,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 106,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 30,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 105,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 176,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 108,
-      "Шамаев Иван Иванович": 8,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 105,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 176,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 108,
+      "gas:candidate-vibid:1001000201799": 8,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 93,
-      "Гаврильев Александр Иванович": 20,
-      "Назаров Семен Николаевич": 34,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 49,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 93,
+      "gas:candidate-vibid:1001000121796": 20,
+      "gas:candidate-vibid:1001000190284": 34,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 49,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 31,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 33,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 14,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:214200067580": 31,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 33,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 14,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 222,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 108,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 153,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 222,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 108,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 153,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 68,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 52,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 63,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 68,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 52,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 63,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 37,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 92,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 139,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 37,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 92,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 139,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 74,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 118,
-      "Тресков Игорь Борисович": 5,
-      "Тумусов Федот Семенович": 59,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:214200067580": 74,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 118,
+      "gas:candidate-vibid:1001000113899": 5,
+      "gas:candidate-vibid:1001000187985": 59,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 72,
-      "Гаврильев Александр Иванович": 6,
-      "Назаров Семен Николаевич": 77,
-      "Тресков Игорь Борисович": 4,
-      "Тумусов Федот Семенович": 158,
-      "Шамаев Иван Иванович": 10,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 72,
+      "gas:candidate-vibid:1001000121796": 6,
+      "gas:candidate-vibid:1001000190284": 77,
+      "gas:candidate-vibid:1001000113899": 4,
+      "gas:candidate-vibid:1001000187985": 158,
+      "gas:candidate-vibid:1001000201799": 10,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 109,
-      "Гаврильев Александр Иванович": 27,
-      "Назаров Семен Николаевич": 117,
-      "Тресков Игорь Борисович": 8,
-      "Тумусов Федот Семенович": 125,
-      "Шамаев Иван Иванович": 16,
-      "Шемчук Виктор Леонидович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:214200067580": 109,
+      "gas:candidate-vibid:1001000121796": 27,
+      "gas:candidate-vibid:1001000190284": 117,
+      "gas:candidate-vibid:1001000113899": 8,
+      "gas:candidate-vibid:1001000187985": 125,
+      "gas:candidate-vibid:1001000201799": 16,
+      "gas:candidate-vibid:1001000195029": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 65,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 61,
-      "Тресков Игорь Борисович": 6,
-      "Тумусов Федот Семенович": 77,
-      "Шамаев Иван Иванович": 14,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 65,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 61,
+      "gas:candidate-vibid:1001000113899": 6,
+      "gas:candidate-vibid:1001000187985": 77,
+      "gas:candidate-vibid:1001000201799": 14,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 37,
-      "Гаврильев Александр Иванович": 1,
-      "Назаров Семен Николаевич": 88,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 27,
-      "Шамаев Иван Иванович": 0,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:214200067580": 37,
+      "gas:candidate-vibid:1001000121796": 1,
+      "gas:candidate-vibid:1001000190284": 88,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 27,
+      "gas:candidate-vibid:1001000201799": 0,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 41,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 306,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 41,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 41,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 306,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 41,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 2,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 44,
-      "Тресков Игорь Борисович": 0,
-      "Тумусов Федот Семенович": 8,
-      "Шамаев Иван Иванович": 1,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:214200067580": 2,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 44,
+      "gas:candidate-vibid:1001000113899": 0,
+      "gas:candidate-vibid:1001000187985": 8,
+      "gas:candidate-vibid:1001000201799": 1,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 98,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 310,
-      "Тресков Игорь Борисович": 13,
-      "Тумусов Федот Семенович": 69,
-      "Шамаев Иван Иванович": 9,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:214200067580": 98,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 310,
+      "gas:candidate-vibid:1001000113899": 13,
+      "gas:candidate-vibid:1001000187985": 69,
+      "gas:candidate-vibid:1001000201799": 9,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 63,
-      "Гаврильев Александр Иванович": 5,
-      "Назаров Семен Николаевич": 231,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 88,
-      "Шамаев Иван Иванович": 7,
-      "Шемчук Виктор Леонидович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:214200067580": 63,
+      "gas:candidate-vibid:1001000121796": 5,
+      "gas:candidate-vibid:1001000190284": 231,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 88,
+      "gas:candidate-vibid:1001000201799": 7,
+      "gas:candidate-vibid:1001000195029": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 41,
-      "Гаврильев Александр Иванович": 3,
-      "Назаров Семен Николаевич": 193,
-      "Тресков Игорь Борисович": 2,
-      "Тумусов Федот Семенович": 52,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 41,
+      "gas:candidate-vibid:1001000121796": 3,
+      "gas:candidate-vibid:1001000190284": 193,
+      "gas:candidate-vibid:1001000113899": 2,
+      "gas:candidate-vibid:1001000187985": 52,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 68,
-      "Гаврильев Александр Иванович": 0,
-      "Назаров Семен Николаевич": 100,
-      "Тресков Игорь Борисович": 3,
-      "Тумусов Федот Семенович": 56,
-      "Шамаев Иван Иванович": 2,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:214200067580": 68,
+      "gas:candidate-vibid:1001000121796": 0,
+      "gas:candidate-vibid:1001000190284": 100,
+      "gas:candidate-vibid:1001000113899": 3,
+      "gas:candidate-vibid:1001000187985": 56,
+      "gas:candidate-vibid:1001000201799": 2,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_14_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Басыгысов Виталий Николаевич": 152,
-      "Гаврильев Александр Иванович": 4,
-      "Назаров Семен Николаевич": 316,
-      "Тресков Игорь Борисович": 7,
-      "Тумусов Федот Семенович": 46,
-      "Шамаев Иван Иванович": 4,
-      "Шемчук Виктор Леонидович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:214200067580": 152,
+      "gas:candidate-vibid:1001000121796": 4,
+      "gas:candidate-vibid:1001000190284": 316,
+      "gas:candidate-vibid:1001000113899": 7,
+      "gas:candidate-vibid:1001000187985": 46,
+      "gas:candidate-vibid:1001000201799": 4,
+      "gas:candidate-vibid:1001000195029": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=142000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=214200066718&region=0&sub_region=0&type=429",

@@ -11,8 +11,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "4724016260860",
+    "uikName": "УИК №1844",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 909,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -28,12 +32,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 47,
-      "Абукин Динар Марсельевич": 55,
-      "Брыкин Николай Гаврилович": 151,
-      "Соловьев Сергей Владимирович": 28,
-      "Трубин Глеб Александрович": 47,
-      "Чуйкова Светлана Геннадьевна": 30
+      "27220001497784": 47,
+      "27220001499469": 55,
+      "27220001498405": 151,
+      "27220001498290": 28,
+      "27220001492853": 47,
+      "27220001499345": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -43,6 +47,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -52,8 +60,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1845,
     "uikTvd": "4724016260861",
+    "uikName": "УИК №1845",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1643,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1500,
@@ -69,12 +81,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 112,
-      "Абукин Динар Марсельевич": 100,
-      "Брыкин Николай Гаврилович": 377,
-      "Соловьев Сергей Владимирович": 48,
-      "Трубин Глеб Александрович": 72,
-      "Чуйкова Светлана Геннадьевна": 66
+      "27220001497784": 112,
+      "27220001499469": 100,
+      "27220001498405": 377,
+      "27220001498290": 48,
+      "27220001492853": 72,
+      "27220001499345": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -84,6 +96,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -93,8 +109,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1846,
     "uikTvd": "4724016260862",
+    "uikName": "УИК №1846",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1336,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -110,12 +130,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 112,
-      "Абукин Динар Марсельевич": 84,
-      "Брыкин Николай Гаврилович": 599,
-      "Соловьев Сергей Владимирович": 20,
-      "Трубин Глеб Александрович": 125,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 112,
+      "27220001499469": 84,
+      "27220001498405": 599,
+      "27220001498290": 20,
+      "27220001492853": 125,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -125,6 +145,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -134,8 +158,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1847,
     "uikTvd": "4724016260863",
+    "uikName": "УИК №1847",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1024,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -151,12 +179,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 70,
-      "Абукин Динар Марсельевич": 58,
-      "Брыкин Николай Гаврилович": 245,
-      "Соловьев Сергей Владимирович": 49,
-      "Трубин Глеб Александрович": 70,
-      "Чуйкова Светлана Геннадьевна": 42
+      "27220001497784": 70,
+      "27220001499469": 58,
+      "27220001498405": 245,
+      "27220001498290": 49,
+      "27220001492853": 70,
+      "27220001499345": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -166,6 +194,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -175,8 +207,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1848,
     "uikTvd": "4724016260864",
+    "uikName": "УИК №1848",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1400,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1300,
@@ -192,12 +228,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 96,
-      "Абукин Динар Марсельевич": 64,
-      "Брыкин Николай Гаврилович": 271,
-      "Соловьев Сергей Владимирович": 97,
-      "Трубин Глеб Александрович": 64,
-      "Чуйкова Светлана Геннадьевна": 55
+      "27220001497784": 96,
+      "27220001499469": 64,
+      "27220001498405": 271,
+      "27220001498290": 97,
+      "27220001492853": 64,
+      "27220001499345": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -207,6 +243,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -216,8 +256,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1850,
     "uikTvd": "4724016260865",
+    "uikName": "УИК №1850",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1007,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -233,12 +277,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 78,
-      "Абукин Динар Марсельевич": 67,
-      "Брыкин Николай Гаврилович": 239,
-      "Соловьев Сергей Владимирович": 84,
-      "Трубин Глеб Александрович": 64,
-      "Чуйкова Светлана Геннадьевна": 41
+      "27220001497784": 78,
+      "27220001499469": 67,
+      "27220001498405": 239,
+      "27220001498290": 84,
+      "27220001492853": 64,
+      "27220001499345": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -248,6 +292,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -257,8 +305,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1851,
     "uikTvd": "4724016260866",
+    "uikName": "УИК №1851",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1558,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1400,
@@ -274,12 +326,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 105,
-      "Абукин Динар Марсельевич": 92,
-      "Брыкин Николай Гаврилович": 428,
-      "Соловьев Сергей Владимирович": 117,
-      "Трубин Глеб Александрович": 86,
-      "Чуйкова Светлана Геннадьевна": 48
+      "27220001497784": 105,
+      "27220001499469": 92,
+      "27220001498405": 428,
+      "27220001498290": 117,
+      "27220001492853": 86,
+      "27220001499345": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -289,6 +341,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -298,8 +354,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1852,
     "uikTvd": "4724016263429",
+    "uikName": "УИК №1852",
     "tikTvd": "27220001482158",
     "tikName": "Тобольская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 257,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 500,
@@ -315,12 +375,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 37,
-      "Абукин Динар Марсельевич": 26,
-      "Брыкин Николай Гаврилович": 120,
-      "Соловьев Сергей Владимирович": 37,
-      "Трубин Глеб Александрович": 21,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 37,
+      "27220001499469": 26,
+      "27220001498405": 120,
+      "27220001498290": 37,
+      "27220001492853": 21,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
@@ -330,6 +390,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:50.287135+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482158&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482158&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -339,8 +403,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1701,
     "uikTvd": "4724027277473",
+    "uikName": "УИК №1701",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 844,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -356,12 +424,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 88,
-      "Абукин Динар Марсельевич": 96,
-      "Брыкин Николай Гаврилович": 153,
-      "Соловьев Сергей Владимирович": 61,
-      "Трубин Глеб Александрович": 47,
-      "Чуйкова Светлана Геннадьевна": 49
+      "27220001497784": 88,
+      "27220001499469": 96,
+      "27220001498405": 153,
+      "27220001498290": 61,
+      "27220001492853": 47,
+      "27220001499345": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -371,6 +439,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -380,8 +452,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1702,
     "uikTvd": "4724027277474",
+    "uikName": "УИК №1702",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 527,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 534,
@@ -397,12 +473,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 233,
-      "Абукин Динар Марсельевич": 56,
-      "Брыкин Николай Гаврилович": 54,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 233,
+      "27220001499469": 56,
+      "27220001498405": 54,
+      "27220001498290": 6,
+      "27220001492853": 9,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -412,6 +488,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -421,8 +501,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1703,
     "uikTvd": "4724027277475",
+    "uikName": "УИК №1703",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1348,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1348,
@@ -438,12 +522,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 117,
-      "Абукин Динар Марсельевич": 99,
-      "Брыкин Николай Гаврилович": 369,
-      "Соловьев Сергей Владимирович": 119,
-      "Трубин Глеб Александрович": 89,
-      "Чуйкова Светлана Геннадьевна": 50
+      "27220001497784": 117,
+      "27220001499469": 99,
+      "27220001498405": 369,
+      "27220001498290": 119,
+      "27220001492853": 89,
+      "27220001499345": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -453,6 +537,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -462,8 +550,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1704,
     "uikTvd": "4724027277476",
+    "uikName": "УИК №1704",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1033,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1020,
@@ -479,12 +571,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 37,
-      "Абукин Динар Марсельевич": 34,
-      "Брыкин Николай Гаврилович": 578,
-      "Соловьев Сергей Владимирович": 29,
-      "Трубин Глеб Александрович": 37,
-      "Чуйкова Светлана Геннадьевна": 24
+      "27220001497784": 37,
+      "27220001499469": 34,
+      "27220001498405": 578,
+      "27220001498290": 29,
+      "27220001492853": 37,
+      "27220001499345": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -494,6 +586,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -503,8 +599,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1705,
     "uikTvd": "4724027277477",
+    "uikName": "УИК №1705",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 383,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 425,
@@ -520,12 +620,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 349,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 3,
+      "27220001499469": 5,
+      "27220001498405": 349,
+      "27220001498290": 4,
+      "27220001492853": 2,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -535,6 +635,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -544,8 +648,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1706,
     "uikTvd": "4724027277478",
+    "uikName": "УИК №1706",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 682,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 684,
@@ -561,12 +669,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 35,
-      "Абукин Динар Марсельевич": 43,
-      "Брыкин Николай Гаврилович": 231,
-      "Соловьев Сергей Владимирович": 42,
-      "Трубин Глеб Александрович": 44,
-      "Чуйкова Светлана Геннадьевна": 24
+      "27220001497784": 35,
+      "27220001499469": 43,
+      "27220001498405": 231,
+      "27220001498290": 42,
+      "27220001492853": 44,
+      "27220001499345": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -576,6 +684,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -585,8 +697,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1707,
     "uikTvd": "4724027277479",
+    "uikName": "УИК №1707",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 472,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 489,
@@ -602,12 +718,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 33,
-      "Абукин Динар Марсельевич": 17,
-      "Брыкин Николай Гаврилович": 288,
-      "Соловьев Сергей Владимирович": 16,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 33,
+      "27220001499469": 17,
+      "27220001498405": 288,
+      "27220001498290": 16,
+      "27220001492853": 9,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -617,6 +733,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -626,8 +746,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1708,
     "uikTvd": "4724027277480",
+    "uikName": "УИК №1708",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 283,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 288,
@@ -643,12 +767,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 15,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 201,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 11,
-      "Чуйкова Светлана Геннадьевна": 9
+      "27220001497784": 15,
+      "27220001499469": 18,
+      "27220001498405": 201,
+      "27220001498290": 8,
+      "27220001492853": 11,
+      "27220001499345": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -658,6 +782,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -667,8 +795,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "4724027277481",
+    "uikName": "УИК №1709",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 374,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 391,
@@ -684,12 +816,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 1,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 316,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 28,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 1,
+      "27220001499469": 7,
+      "27220001498405": 316,
+      "27220001498290": 0,
+      "27220001492853": 28,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -699,6 +831,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -708,8 +844,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "4724027277482",
+    "uikName": "УИК №1710",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 560,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 582,
@@ -725,12 +865,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 30,
-      "Абукин Динар Марсельевич": 43,
-      "Брыкин Николай Гаврилович": 430,
-      "Соловьев Сергей Владимирович": 23,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 30,
+      "27220001499469": 43,
+      "27220001498405": 430,
+      "27220001498290": 23,
+      "27220001492853": 10,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -740,6 +880,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -749,8 +893,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "4724027277483",
+    "uikName": "УИК №1711",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 163,
@@ -766,12 +914,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 23,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 56,
-      "Соловьев Сергей Владимирович": 19,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 23,
+      "27220001499469": 8,
+      "27220001498405": 56,
+      "27220001498290": 19,
+      "27220001492853": 7,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -781,6 +929,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -790,8 +942,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "4724027277484",
+    "uikName": "УИК №1712",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 188,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 207,
@@ -807,12 +963,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 13,
-      "Абукин Динар Марсельевич": 14,
-      "Брыкин Николай Гаврилович": 67,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 13,
+      "27220001499469": 14,
+      "27220001498405": 67,
+      "27220001498290": 18,
+      "27220001492853": 15,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -822,6 +978,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -831,8 +991,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "4724027277485",
+    "uikName": "УИК №1713",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 217,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 221,
@@ -848,12 +1012,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 12,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 173,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 12,
+      "27220001499469": 5,
+      "27220001498405": 173,
+      "27220001498290": 2,
+      "27220001492853": 4,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -863,6 +1027,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -872,8 +1040,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "4724027277486",
+    "uikName": "УИК №1714",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 185,
@@ -889,12 +1061,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 16,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 118,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 16,
+      "27220001499469": 12,
+      "27220001498405": 118,
+      "27220001498290": 2,
+      "27220001492853": 3,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -904,6 +1076,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -913,8 +1089,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "4724027277487",
+    "uikName": "УИК №1715",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 408,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 431,
@@ -930,12 +1110,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 58,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 152,
-      "Соловьев Сергей Владимирович": 41,
-      "Трубин Глеб Александрович": 25,
-      "Чуйкова Светлана Геннадьевна": 27
+      "27220001497784": 58,
+      "27220001499469": 23,
+      "27220001498405": 152,
+      "27220001498290": 41,
+      "27220001492853": 25,
+      "27220001499345": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -945,6 +1125,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -954,8 +1138,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "4724027277488",
+    "uikName": "УИК №1716",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 682,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 678,
@@ -971,12 +1159,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 62,
-      "Абукин Динар Марсельевич": 48,
-      "Брыкин Николай Гаврилович": 341,
-      "Соловьев Сергей Владимирович": 43,
-      "Трубин Глеб Александрович": 47,
-      "Чуйкова Светлана Геннадьевна": 35
+      "27220001497784": 62,
+      "27220001499469": 48,
+      "27220001498405": 341,
+      "27220001498290": 43,
+      "27220001492853": 47,
+      "27220001499345": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -986,6 +1174,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -995,8 +1187,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "4724027277489",
+    "uikName": "УИК №1717",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 301,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 289,
@@ -1012,12 +1208,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 13,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 251,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 0,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 13,
+      "27220001499469": 18,
+      "27220001498405": 251,
+      "27220001498290": 4,
+      "27220001492853": 0,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1027,6 +1223,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1036,8 +1236,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "4724027277490",
+    "uikName": "УИК №1718",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 454,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 510,
@@ -1053,12 +1257,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 174,
-      "Абукин Динар Марсельевич": 54,
-      "Брыкин Николай Гаврилович": 67,
-      "Соловьев Сергей Владимирович": 23,
-      "Трубин Глеб Александрович": 24,
-      "Чуйкова Светлана Геннадьевна": 9
+      "27220001497784": 174,
+      "27220001499469": 54,
+      "27220001498405": 67,
+      "27220001498290": 23,
+      "27220001492853": 24,
+      "27220001499345": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1068,6 +1272,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1077,8 +1285,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "4724027277491",
+    "uikName": "УИК №1719",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1068,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1062,
@@ -1094,12 +1306,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 77,
-      "Абукин Динар Марсельевич": 59,
-      "Брыкин Николай Гаврилович": 390,
-      "Соловьев Сергей Владимирович": 70,
-      "Трубин Глеб Александрович": 70,
-      "Чуйкова Светлана Геннадьевна": 48
+      "27220001497784": 77,
+      "27220001499469": 59,
+      "27220001498405": 390,
+      "27220001498290": 70,
+      "27220001492853": 70,
+      "27220001499345": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1109,6 +1321,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1118,8 +1334,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "4724027277492",
+    "uikName": "УИК №1720",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 547,
@@ -1135,12 +1355,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 56,
-      "Абукин Динар Марсельевич": 56,
-      "Брыкин Николай Гаврилович": 168,
-      "Соловьев Сергей Владимирович": 47,
-      "Трубин Глеб Александрович": 38,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 56,
+      "27220001499469": 56,
+      "27220001498405": 168,
+      "27220001498290": 47,
+      "27220001492853": 38,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1150,6 +1370,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1159,8 +1383,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "4724027277493",
+    "uikName": "УИК №1721",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 535,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 545,
@@ -1176,12 +1404,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 75,
-      "Абукин Динар Марсельевич": 43,
-      "Брыкин Николай Гаврилович": 320,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 25,
-      "Чуйкова Светлана Геннадьевна": 17
+      "27220001497784": 75,
+      "27220001499469": 43,
+      "27220001498405": 320,
+      "27220001498290": 24,
+      "27220001492853": 25,
+      "27220001499345": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1191,6 +1419,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1200,8 +1432,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "4724027277494",
+    "uikName": "УИК №1722",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 642,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 637,
@@ -1217,12 +1453,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 101,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 332,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 49,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 101,
+      "27220001499469": 11,
+      "27220001498405": 332,
+      "27220001498290": 4,
+      "27220001492853": 49,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1232,6 +1468,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1241,8 +1481,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "4724027277495",
+    "uikName": "УИК №1723",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1662,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1450,
@@ -1258,12 +1502,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 116,
-      "Абукин Динар Марсельевич": 105,
-      "Брыкин Николай Гаврилович": 339,
-      "Соловьев Сергей Владимирович": 142,
-      "Трубин Глеб Александрович": 102,
-      "Чуйкова Светлана Геннадьевна": 79
+      "27220001497784": 116,
+      "27220001499469": 105,
+      "27220001498405": 339,
+      "27220001498290": 142,
+      "27220001492853": 102,
+      "27220001499345": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1273,6 +1517,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1282,8 +1530,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1724,
     "uikTvd": "4724027277496",
+    "uikName": "УИК №1724",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 335,
@@ -1299,12 +1551,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 208,
-      "Соловьев Сергей Владимирович": 7,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 19,
+      "27220001499469": 7,
+      "27220001498405": 208,
+      "27220001498290": 7,
+      "27220001492853": 15,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1314,6 +1566,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1323,8 +1579,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1725,
     "uikTvd": "4724027277497",
+    "uikName": "УИК №1725",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 438,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 437,
@@ -1340,12 +1600,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 58,
-      "Абукин Динар Марсельевич": 55,
-      "Брыкин Николай Гаврилович": 151,
-      "Соловьев Сергей Владимирович": 13,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 58,
+      "27220001499469": 55,
+      "27220001498405": 151,
+      "27220001498290": 13,
+      "27220001492853": 10,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1355,6 +1615,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1364,8 +1628,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1726,
     "uikTvd": "4724027277498",
+    "uikName": "УИК №1726",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 236,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 237,
@@ -1381,12 +1649,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 28,
-      "Абукин Динар Марсельевич": 34,
-      "Брыкин Николай Гаврилович": 99,
-      "Соловьев Сергей Владимирович": 16,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 28,
+      "27220001499469": 34,
+      "27220001498405": 99,
+      "27220001498290": 16,
+      "27220001492853": 6,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1396,6 +1664,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1405,8 +1677,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1727,
     "uikTvd": "4724027277499",
+    "uikName": "УИК №1727",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 585,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 587,
@@ -1422,12 +1698,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 70,
-      "Абукин Динар Марсельевич": 48,
-      "Брыкин Николай Гаврилович": 122,
-      "Соловьев Сергей Владимирович": 55,
-      "Трубин Глеб Александрович": 36,
-      "Чуйкова Светлана Геннадьевна": 36
+      "27220001497784": 70,
+      "27220001499469": 48,
+      "27220001498405": 122,
+      "27220001498290": 55,
+      "27220001492853": 36,
+      "27220001499345": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1437,6 +1713,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1446,8 +1726,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1728,
     "uikTvd": "4724027277500",
+    "uikName": "УИК №1728",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 343,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 351,
@@ -1463,12 +1747,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 18,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 198,
-      "Соловьев Сергей Владимирович": 37,
-      "Трубин Глеб Александрович": 24,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 18,
+      "27220001499469": 23,
+      "27220001498405": 198,
+      "27220001498290": 37,
+      "27220001492853": 24,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1478,6 +1762,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1487,8 +1775,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1729,
     "uikTvd": "4724027277501",
+    "uikName": "УИК №1729",
     "tikTvd": "27220001482159",
     "tikName": "Тобольская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 211,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 233,
@@ -1504,12 +1796,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 7,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 147,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 7,
+      "27220001499469": 11,
+      "27220001498405": 147,
+      "27220001498290": 9,
+      "27220001492853": 8,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
@@ -1519,6 +1811,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.580738+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482159&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482159&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1528,8 +1824,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "4724015167701",
+    "uikName": "УИК №1601",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1429,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1463,
@@ -1545,12 +1845,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 76,
-      "Абукин Динар Марсельевич": 81,
-      "Брыкин Николай Гаврилович": 363,
-      "Соловьев Сергей Владимирович": 131,
-      "Трубин Глеб Александрович": 104,
-      "Чуйкова Светлана Геннадьевна": 84
+      "27220001497784": 76,
+      "27220001499469": 81,
+      "27220001498405": 363,
+      "27220001498290": 131,
+      "27220001492853": 104,
+      "27220001499345": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1560,6 +1860,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1569,8 +1873,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "4724015167702",
+    "uikName": "УИК №1602",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 895,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 925,
@@ -1586,12 +1894,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 52,
-      "Абукин Динар Марсельевич": 57,
-      "Брыкин Николай Гаврилович": 186,
-      "Соловьев Сергей Владимирович": 92,
-      "Трубин Глеб Александрович": 62,
-      "Чуйкова Светлана Геннадьевна": 64
+      "27220001497784": 52,
+      "27220001499469": 57,
+      "27220001498405": 186,
+      "27220001498290": 92,
+      "27220001492853": 62,
+      "27220001499345": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1601,6 +1909,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1610,8 +1922,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "4724015167703",
+    "uikName": "УИК №1603",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 878,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 890,
@@ -1627,12 +1943,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 48,
-      "Абукин Динар Марсельевич": 59,
-      "Брыкин Николай Гаврилович": 255,
-      "Соловьев Сергей Владимирович": 57,
-      "Трубин Глеб Александрович": 50,
-      "Чуйкова Светлана Геннадьевна": 38
+      "27220001497784": 48,
+      "27220001499469": 59,
+      "27220001498405": 255,
+      "27220001498290": 57,
+      "27220001492853": 50,
+      "27220001499345": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1642,6 +1958,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1651,8 +1971,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "4724015167704",
+    "uikName": "УИК №1604",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1027,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1055,
@@ -1668,12 +1992,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 66,
-      "Абукин Динар Марсельевич": 52,
-      "Брыкин Николай Гаврилович": 230,
-      "Соловьев Сергей Владимирович": 70,
-      "Трубин Глеб Александрович": 56,
-      "Чуйкова Светлана Геннадьевна": 66
+      "27220001497784": 66,
+      "27220001499469": 52,
+      "27220001498405": 230,
+      "27220001498290": 70,
+      "27220001492853": 56,
+      "27220001499345": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1683,6 +2007,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1692,8 +2020,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "4724015167705",
+    "uikName": "УИК №1605",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 259,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 282,
@@ -1709,12 +2041,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 7,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 183,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 7,
+      "27220001499469": 7,
+      "27220001498405": 183,
+      "27220001498290": 12,
+      "27220001492853": 6,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1724,6 +2056,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1733,8 +2069,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "4724015167706",
+    "uikName": "УИК №1606",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 338,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 423,
@@ -1750,12 +2090,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 296,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 12,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 4,
+      "27220001499469": 0,
+      "27220001498405": 296,
+      "27220001498290": 0,
+      "27220001492853": 12,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1765,6 +2105,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1774,8 +2118,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "4724015167707",
+    "uikName": "УИК №1607",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 314,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 365,
@@ -1791,12 +2139,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 17,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 197,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 21,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 17,
+      "27220001499469": 5,
+      "27220001498405": 197,
+      "27220001498290": 6,
+      "27220001492853": 21,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1806,6 +2154,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1815,8 +2167,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "4724015167708",
+    "uikName": "УИК №1608",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 152,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 158,
@@ -1832,12 +2188,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 60,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 12,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 5,
+      "27220001499469": 10,
+      "27220001498405": 60,
+      "27220001498290": 11,
+      "27220001492853": 12,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1847,6 +2203,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1856,8 +2216,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "4724015167709",
+    "uikName": "УИК №1609",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 732,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 750,
@@ -1873,12 +2237,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 670,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 12,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 8,
+      "27220001499469": 1,
+      "27220001498405": 670,
+      "27220001498290": 2,
+      "27220001492853": 12,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1888,6 +2252,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1897,8 +2265,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "4724015167710",
+    "uikName": "УИК №1610",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 138,
@@ -1914,12 +2286,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 103,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 6,
+      "27220001499469": 2,
+      "27220001498405": 103,
+      "27220001498290": 3,
+      "27220001492853": 6,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1929,6 +2301,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1938,8 +2314,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "4724015167711",
+    "uikName": "УИК №1611",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 186,
@@ -1955,12 +2335,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 150,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 3,
+      "27220001499469": 1,
+      "27220001498405": 150,
+      "27220001498290": 2,
+      "27220001492853": 4,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -1970,6 +2350,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -1979,8 +2363,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "4724015167712",
+    "uikName": "УИК №1612",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 90,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 92,
@@ -1996,12 +2384,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 40,
-      "Соловьев Сергей Владимирович": 13,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 4,
+      "27220001499469": 6,
+      "27220001498405": 40,
+      "27220001498290": 13,
+      "27220001492853": 1,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -2011,6 +2399,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2020,8 +2412,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "4724015167713",
+    "uikName": "УИК №1613",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 525,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 553,
@@ -2037,12 +2433,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 354,
-      "Соловьев Сергей Владимирович": 41,
-      "Трубин Глеб Александрович": 18,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 19,
+      "27220001499469": 24,
+      "27220001498405": 354,
+      "27220001498290": 41,
+      "27220001492853": 18,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -2052,6 +2448,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2061,8 +2461,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "4724015167714",
+    "uikName": "УИК №1614",
     "tikTvd": "27220001482160",
     "tikName": "Сорокинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 190,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 199,
@@ -2078,12 +2482,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 162,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 5,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 4,
+      "27220001499469": 0,
+      "27220001498405": 162,
+      "27220001498290": 0,
+      "27220001492853": 5,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
@@ -2093,6 +2497,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:51.767488+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482160&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482160&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2102,8 +2510,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "4724012247030",
+    "uikName": "УИК №1301",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 536,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 545,
@@ -2119,12 +2531,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 37,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 436,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 36,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 37,
+      "27220001499469": 2,
+      "27220001498405": 436,
+      "27220001498290": 3,
+      "27220001492853": 36,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2134,6 +2546,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2143,8 +2559,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "4724012247031",
+    "uikName": "УИК №1302",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 164,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 166,
@@ -2160,12 +2580,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 30,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 104,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 30,
+      "27220001499469": 5,
+      "27220001498405": 104,
+      "27220001498290": 3,
+      "27220001492853": 8,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2175,6 +2595,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2184,8 +2608,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "4724012247032",
+    "uikName": "УИК №1303",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 533,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 532,
@@ -2201,12 +2629,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 25,
-      "Абукин Динар Марсельевич": 26,
-      "Брыкин Николай Гаврилович": 394,
-      "Соловьев Сергей Владимирович": 25,
-      "Трубин Глеб Александрович": 16,
-      "Чуйкова Светлана Геннадьевна": 30
+      "27220001497784": 25,
+      "27220001499469": 26,
+      "27220001498405": 394,
+      "27220001498290": 25,
+      "27220001492853": 16,
+      "27220001499345": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2216,6 +2644,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2225,8 +2657,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "4724012247033",
+    "uikName": "УИК №1304",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 132,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 136,
@@ -2242,12 +2678,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 20,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 79,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 20,
+      "27220001499469": 23,
+      "27220001498405": 79,
+      "27220001498290": 1,
+      "27220001492853": 4,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2257,6 +2693,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2266,8 +2706,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "4724012247034",
+    "uikName": "УИК №1305",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 434,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 437,
@@ -2283,12 +2727,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 12,
-      "Абукин Динар Марсельевич": 29,
-      "Брыкин Николай Гаврилович": 304,
-      "Соловьев Сергей Владимирович": 36,
-      "Трубин Глеб Александрович": 25,
-      "Чуйкова Светлана Геннадьевна": 20
+      "27220001497784": 12,
+      "27220001499469": 29,
+      "27220001498405": 304,
+      "27220001498290": 36,
+      "27220001492853": 25,
+      "27220001499345": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2298,6 +2742,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2307,8 +2755,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "4724012247035",
+    "uikName": "УИК №1306",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 670,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 694,
@@ -2324,12 +2776,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 39,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 503,
-      "Соловьев Сергей Владимирович": 29,
-      "Трубин Глеб Александрович": 66,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 39,
+      "27220001499469": 4,
+      "27220001498405": 503,
+      "27220001498290": 29,
+      "27220001492853": 66,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2339,6 +2791,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2348,8 +2804,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "4724012247036",
+    "uikName": "УИК №1307",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 310,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 323,
@@ -2365,12 +2825,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 21,
-      "Брыкин Николай Гаврилович": 211,
-      "Соловьев Сергей Владимирович": 16,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 6,
+      "27220001499469": 21,
+      "27220001498405": 211,
+      "27220001498290": 16,
+      "27220001492853": 17,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2380,6 +2840,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2389,8 +2853,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "4724012247037",
+    "uikName": "УИК №1308",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1265,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1200,
@@ -2406,12 +2874,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 55,
-      "Абукин Динар Марсельевич": 48,
-      "Брыкин Николай Гаврилович": 627,
-      "Соловьев Сергей Владимирович": 54,
-      "Трубин Глеб Александрович": 59,
-      "Чуйкова Светлана Геннадьевна": 64
+      "27220001497784": 55,
+      "27220001499469": 48,
+      "27220001498405": 627,
+      "27220001498290": 54,
+      "27220001492853": 59,
+      "27220001499345": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2421,6 +2889,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2430,8 +2902,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "4724012247038",
+    "uikName": "УИК №1309",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 908,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 923,
@@ -2447,12 +2923,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 27,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 809,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 16,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 27,
+      "27220001499469": 11,
+      "27220001498405": 809,
+      "27220001498290": 11,
+      "27220001492853": 16,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2462,6 +2938,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2471,8 +2951,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "4724012247039",
+    "uikName": "УИК №1310",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 317,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 328,
@@ -2488,12 +2972,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 122,
-      "Соловьев Сергей Владимирович": 26,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 12
+      "27220001497784": 24,
+      "27220001499469": 10,
+      "27220001498405": 122,
+      "27220001498290": 26,
+      "27220001492853": 17,
+      "27220001499345": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2503,6 +2987,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2512,8 +3000,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "4724012247040",
+    "uikName": "УИК №1311",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 352,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 359,
@@ -2529,12 +3021,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 214,
-      "Соловьев Сергей Владимирович": 28,
-      "Трубин Глеб Александрович": 35,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 8,
+      "27220001499469": 24,
+      "27220001498405": 214,
+      "27220001498290": 28,
+      "27220001492853": 35,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2544,6 +3036,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2553,8 +3049,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "4724012247041",
+    "uikName": "УИК №1312",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 351,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 360,
@@ -2570,12 +3070,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 23,
-      "Абукин Динар Марсельевич": 19,
-      "Брыкин Николай Гаврилович": 261,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 13,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 23,
+      "27220001499469": 19,
+      "27220001498405": 261,
+      "27220001498290": 12,
+      "27220001492853": 13,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2585,6 +3085,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2594,8 +3098,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "4724012247042",
+    "uikName": "УИК №1313",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 278,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 279,
@@ -2611,12 +3119,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 210,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 22,
-      "Чуйкова Светлана Геннадьевна": 13
+      "27220001497784": 6,
+      "27220001499469": 10,
+      "27220001498405": 210,
+      "27220001498290": 6,
+      "27220001492853": 22,
+      "27220001499345": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2626,6 +3134,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2635,8 +3147,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "4724012247043",
+    "uikName": "УИК №1314",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 419,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 422,
@@ -2652,12 +3168,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 42,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 276,
-      "Соловьев Сергей Владимирович": 19,
-      "Трубин Глеб Александрович": 50,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 42,
+      "27220001499469": 6,
+      "27220001498405": 276,
+      "27220001498290": 19,
+      "27220001492853": 50,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2667,6 +3183,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2676,8 +3196,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "4724012247044",
+    "uikName": "УИК №1315",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 495,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 499,
@@ -2693,12 +3217,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 23,
-      "Абукин Динар Марсельевич": 31,
-      "Брыкин Николай Гаврилович": 320,
-      "Соловьев Сергей Владимирович": 21,
-      "Трубин Глеб Александрович": 63,
-      "Чуйкова Светлана Геннадьевна": 19
+      "27220001497784": 23,
+      "27220001499469": 31,
+      "27220001498405": 320,
+      "27220001498290": 21,
+      "27220001492853": 63,
+      "27220001499345": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2708,6 +3232,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2717,8 +3245,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "4724012247045",
+    "uikName": "УИК №1317",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2514,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2400,
@@ -2734,12 +3266,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 153,
-      "Абукин Динар Марсельевич": 124,
-      "Брыкин Николай Гаврилович": 561,
-      "Соловьев Сергей Владимирович": 170,
-      "Трубин Глеб Александрович": 163,
-      "Чуйкова Светлана Геннадьевна": 149
+      "27220001497784": 153,
+      "27220001499469": 124,
+      "27220001498405": 561,
+      "27220001498290": 170,
+      "27220001492853": 163,
+      "27220001499345": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2749,6 +3281,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2758,8 +3294,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "4724012247046",
+    "uikName": "УИК №1318",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1900,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -2775,12 +3315,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 115,
-      "Абукин Динар Марсельевич": 115,
-      "Брыкин Николай Гаврилович": 272,
-      "Соловьев Сергей Владимирович": 121,
-      "Трубин Глеб Александрович": 144,
-      "Чуйкова Светлана Геннадьевна": 102
+      "27220001497784": 115,
+      "27220001499469": 115,
+      "27220001498405": 272,
+      "27220001498290": 121,
+      "27220001492853": 144,
+      "27220001499345": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2790,6 +3330,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2799,8 +3343,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "4724012247047",
+    "uikName": "УИК №1319",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1742,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -2816,12 +3364,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 56,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 938,
-      "Соловьев Сергей Владимирович": 53,
-      "Трубин Глеб Александрович": 62,
-      "Чуйкова Светлана Геннадьевна": 50
+      "27220001497784": 56,
+      "27220001499469": 11,
+      "27220001498405": 938,
+      "27220001498290": 53,
+      "27220001492853": 62,
+      "27220001499345": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2831,6 +3379,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2840,8 +3392,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "4724012247048",
+    "uikName": "УИК №1320",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 267,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 288,
@@ -2857,12 +3413,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 29,
-      "Абукин Динар Марсельевич": 25,
-      "Брыкин Николай Гаврилович": 60,
-      "Соловьев Сергей Владимирович": 26,
-      "Трубин Глеб Александрович": 22,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 29,
+      "27220001499469": 25,
+      "27220001498405": 60,
+      "27220001498290": 26,
+      "27220001492853": 22,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2872,6 +3428,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2881,8 +3441,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "4724012247049",
+    "uikName": "УИК №1321",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 205,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 210,
@@ -2898,12 +3462,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 154,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 5,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 14,
+      "27220001499469": 16,
+      "27220001498405": 154,
+      "27220001498290": 9,
+      "27220001492853": 5,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2913,6 +3477,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2922,8 +3490,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "4724012247050",
+    "uikName": "УИК №1322",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 170,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 172,
@@ -2939,12 +3511,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 9,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 131,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 19,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 9,
+      "27220001499469": 0,
+      "27220001498405": 131,
+      "27220001498290": 0,
+      "27220001492853": 19,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2954,6 +3526,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -2963,8 +3539,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "4724012247051",
+    "uikName": "УИК №1323",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 361,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 364,
@@ -2980,12 +3560,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 16,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 250,
-      "Соловьев Сергей Владимирович": 17,
-      "Трубин Глеб Александрович": 38,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 16,
+      "27220001499469": 12,
+      "27220001498405": 250,
+      "27220001498290": 17,
+      "27220001492853": 38,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -2995,6 +3575,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3004,8 +3588,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "4724012247052",
+    "uikName": "УИК №1324",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 143,
@@ -3021,12 +3609,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 7,
-      "Абукин Динар Марсельевич": 3,
-      "Брыкин Николай Гаврилович": 102,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 13,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 7,
+      "27220001499469": 3,
+      "27220001498405": 102,
+      "27220001498290": 2,
+      "27220001492853": 13,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3036,6 +3624,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3045,8 +3637,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "4724012247053",
+    "uikName": "УИК №1325",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 211,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 208,
@@ -3062,12 +3658,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 16,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 126,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 16,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 16,
+      "27220001499469": 12,
+      "27220001498405": 126,
+      "27220001498290": 11,
+      "27220001492853": 16,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3077,6 +3673,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3086,8 +3686,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "4724012247054",
+    "uikName": "УИК №1326",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 152,
@@ -3103,12 +3707,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 12,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 101,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 12,
+      "27220001499469": 18,
+      "27220001498405": 101,
+      "27220001498290": 2,
+      "27220001492853": 7,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3118,6 +3722,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3127,8 +3735,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "4724012247055",
+    "uikName": "УИК №1327",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 203,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 207,
@@ -3144,12 +3756,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 0,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 163,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 0,
+      "27220001499469": 4,
+      "27220001498405": 163,
+      "27220001498290": 6,
+      "27220001492853": 8,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3159,6 +3771,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3168,8 +3784,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "4724012247056",
+    "uikName": "УИК №1328",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 591,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 588,
@@ -3185,12 +3805,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 23,
-      "Абукин Динар Марсельевич": 15,
-      "Брыкин Николай Гаврилович": 525,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 23,
+      "27220001499469": 15,
+      "27220001498405": 525,
+      "27220001498290": 1,
+      "27220001492853": 15,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3200,6 +3820,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3209,8 +3833,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "4724012247057",
+    "uikName": "УИК №1329",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1856,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1800,
@@ -3226,12 +3854,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 120,
-      "Абукин Динар Марсельевич": 54,
-      "Брыкин Николай Гаврилович": 1043,
-      "Соловьев Сергей Владимирович": 21,
-      "Трубин Глеб Александрович": 142,
-      "Чуйкова Светлана Геннадьевна": 31
+      "27220001497784": 120,
+      "27220001499469": 54,
+      "27220001498405": 1043,
+      "27220001498290": 21,
+      "27220001492853": 142,
+      "27220001499345": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3241,6 +3869,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3250,8 +3882,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "4724012247058",
+    "uikName": "УИК №1330",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 305,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 305,
@@ -3267,12 +3903,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 0,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 198,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 79,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 0,
+      "27220001499469": 0,
+      "27220001498405": 198,
+      "27220001498290": 5,
+      "27220001492853": 79,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3282,6 +3918,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3291,8 +3931,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "4724012247059",
+    "uikName": "УИК №1332",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 364,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 370,
@@ -3308,12 +3952,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 7,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 298,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 11,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 7,
+      "27220001499469": 11,
+      "27220001498405": 298,
+      "27220001498290": 18,
+      "27220001492853": 11,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3323,6 +3967,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3332,8 +3980,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "4724012247060",
+    "uikName": "УИК №1333",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 714,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 722,
@@ -3349,12 +4001,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 71,
-      "Абукин Динар Марсельевич": 67,
-      "Брыкин Николай Гаврилович": 166,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 31,
-      "Чуйкова Светлана Геннадьевна": 28
+      "27220001497784": 71,
+      "27220001499469": 67,
+      "27220001498405": 166,
+      "27220001498290": 24,
+      "27220001492853": 31,
+      "27220001499345": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3364,6 +4016,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3373,8 +4029,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "4724012247061",
+    "uikName": "УИК №1334",
     "tikTvd": "27220001482161",
     "tikName": "Нижнетавдинская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 113,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 115,
@@ -3390,12 +4050,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 80,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 4,
+      "27220001499469": 8,
+      "27220001498405": 80,
+      "27220001498290": 5,
+      "27220001492853": 6,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
@@ -3405,6 +4065,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:52.145508+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482161&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482161&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3414,8 +4078,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "4724010228601",
+    "uikName": "УИК №1101",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1915,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -3431,12 +4099,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 201,
-      "Абукин Динар Марсельевич": 141,
-      "Брыкин Николай Гаврилович": 639,
-      "Соловьев Сергей Владимирович": 121,
-      "Трубин Глеб Александрович": 141,
-      "Чуйкова Светлана Геннадьевна": 116
+      "27220001497784": 201,
+      "27220001499469": 141,
+      "27220001498405": 639,
+      "27220001498290": 121,
+      "27220001492853": 141,
+      "27220001499345": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3446,6 +4114,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3455,8 +4127,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "4724010228602",
+    "uikName": "УИК №1102",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 897,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 940,
@@ -3472,12 +4148,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 70,
-      "Абукин Динар Марсельевич": 48,
-      "Брыкин Николай Гаврилович": 311,
-      "Соловьев Сергей Владимирович": 63,
-      "Трубин Глеб Александрович": 42,
-      "Чуйкова Светлана Геннадьевна": 38
+      "27220001497784": 70,
+      "27220001499469": 48,
+      "27220001498405": 311,
+      "27220001498290": 63,
+      "27220001492853": 42,
+      "27220001499345": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3487,6 +4163,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3496,8 +4176,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "4724010228603",
+    "uikName": "УИК №1103",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1045,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1020,
@@ -3513,12 +4197,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 97,
-      "Абукин Динар Марсельевич": 26,
-      "Брыкин Николай Гаврилович": 688,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 97,
+      "27220001499469": 26,
+      "27220001498405": 688,
+      "27220001498290": 4,
+      "27220001492853": 7,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3528,6 +4212,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3537,8 +4225,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "4724010228604",
+    "uikName": "УИК №1104",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1290,
@@ -3554,12 +4246,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 74,
-      "Абукин Динар Марсельевич": 14,
-      "Брыкин Николай Гаврилович": 633,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 131,
-      "Чуйкова Светлана Геннадьевна": 12
+      "27220001497784": 74,
+      "27220001499469": 14,
+      "27220001498405": 633,
+      "27220001498290": 12,
+      "27220001492853": 131,
+      "27220001499345": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3569,6 +4261,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3578,8 +4274,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "4724010228605",
+    "uikName": "УИК №1105",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1364,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1340,
@@ -3595,12 +4295,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 60,
-      "Абукин Динар Марсельевич": 37,
-      "Брыкин Николай Гаврилович": 793,
-      "Соловьев Сергей Владимирович": 62,
-      "Трубин Глеб Александрович": 75,
-      "Чуйкова Светлана Геннадьевна": 68
+      "27220001497784": 60,
+      "27220001499469": 37,
+      "27220001498405": 793,
+      "27220001498290": 62,
+      "27220001492853": 75,
+      "27220001499345": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3610,6 +4310,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3619,8 +4323,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "4724010228606",
+    "uikName": "УИК №1106",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 999,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3636,12 +4344,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 51,
-      "Абукин Динар Марсельевич": 41,
-      "Брыкин Николай Гаврилович": 541,
-      "Соловьев Сергей Владимирович": 76,
-      "Трубин Глеб Александрович": 62,
-      "Чуйкова Светлана Геннадьевна": 55
+      "27220001497784": 51,
+      "27220001499469": 41,
+      "27220001498405": 541,
+      "27220001498290": 76,
+      "27220001492853": 62,
+      "27220001499345": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3651,6 +4359,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3660,8 +4372,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "4724010228607",
+    "uikName": "УИК №1107",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1144,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1140,
@@ -3677,12 +4393,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 82,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 654,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 144,
-      "Чуйкова Светлана Геннадьевна": 57
+      "27220001497784": 82,
+      "27220001499469": 10,
+      "27220001498405": 654,
+      "27220001498290": 12,
+      "27220001492853": 144,
+      "27220001499345": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3692,6 +4408,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3701,8 +4421,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "4724010228608",
+    "uikName": "УИК №1108",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 823,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 860,
@@ -3718,12 +4442,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 86,
-      "Абукин Динар Марсельевич": 17,
-      "Брыкин Николай Гаврилович": 524,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 89,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 86,
+      "27220001499469": 17,
+      "27220001498405": 524,
+      "27220001498290": 5,
+      "27220001492853": 89,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3733,6 +4457,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3742,8 +4470,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "4724010228609",
+    "uikName": "УИК №1109",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1406,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -3759,12 +4491,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 54,
-      "Абукин Динар Марсельевич": 26,
-      "Брыкин Николай Гаврилович": 834,
-      "Соловьев Сергей Владимирович": 45,
-      "Трубин Глеб Александрович": 35,
-      "Чуйкова Светлана Геннадьевна": 35
+      "27220001497784": 54,
+      "27220001499469": 26,
+      "27220001498405": 834,
+      "27220001498290": 45,
+      "27220001492853": 35,
+      "27220001499345": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3774,6 +4506,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3783,8 +4519,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "4724010228610",
+    "uikName": "УИК №1110",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1024,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -3800,12 +4540,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 58,
-      "Абукин Динар Марсельевич": 27,
-      "Брыкин Николай Гаврилович": 430,
-      "Соловьев Сергей Владимирович": 55,
-      "Трубин Глеб Александрович": 38,
-      "Чуйкова Светлана Геннадьевна": 43
+      "27220001497784": 58,
+      "27220001499469": 27,
+      "27220001498405": 430,
+      "27220001498290": 55,
+      "27220001492853": 38,
+      "27220001499345": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3815,6 +4555,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3824,8 +4568,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "4724010228611",
+    "uikName": "УИК №1111",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1196,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1120,
@@ -3841,12 +4589,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 99,
-      "Абукин Динар Марсельевич": 63,
-      "Брыкин Николай Гаврилович": 292,
-      "Соловьев Сергей Владимирович": 109,
-      "Трубин Глеб Александрович": 94,
-      "Чуйкова Светлана Геннадьевна": 77
+      "27220001497784": 99,
+      "27220001499469": 63,
+      "27220001498405": 292,
+      "27220001498290": 109,
+      "27220001492853": 94,
+      "27220001499345": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3856,6 +4604,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3865,8 +4617,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "4724010228612",
+    "uikName": "УИК №1112",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 811,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 820,
@@ -3882,12 +4638,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 59,
-      "Абукин Динар Марсельевич": 29,
-      "Брыкин Николай Гаврилович": 510,
-      "Соловьев Сергей Владимирович": 28,
-      "Трубин Глеб Александрович": 52,
-      "Чуйкова Светлана Геннадьевна": 51
+      "27220001497784": 59,
+      "27220001499469": 29,
+      "27220001498405": 510,
+      "27220001498290": 28,
+      "27220001492853": 52,
+      "27220001499345": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3897,6 +4653,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3906,8 +4666,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "4724010228613",
+    "uikName": "УИК №1113",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1724,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1730,
@@ -3923,12 +4687,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 127,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 944,
-      "Соловьев Сергей Владимирович": 26,
-      "Трубин Глеб Александрович": 200,
-      "Чуйкова Светлана Геннадьевна": 40
+      "27220001497784": 127,
+      "27220001499469": 8,
+      "27220001498405": 944,
+      "27220001498290": 26,
+      "27220001492853": 200,
+      "27220001499345": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3938,6 +4702,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3947,8 +4715,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "4724010228614",
+    "uikName": "УИК №1114",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1237,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1230,
@@ -3964,12 +4736,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 83,
-      "Брыкин Николай Гаврилович": 621,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 127,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 24,
+      "27220001499469": 83,
+      "27220001498405": 621,
+      "27220001498290": 5,
+      "27220001492853": 127,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -3979,6 +4751,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -3988,8 +4764,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "4724010228615",
+    "uikName": "УИК №1115",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 805,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -4005,12 +4785,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 64,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 381,
-      "Соловьев Сергей Владимирович": 30,
-      "Трубин Глеб Александрович": 90,
-      "Чуйкова Светлана Геннадьевна": 15
+      "27220001497784": 64,
+      "27220001499469": 24,
+      "27220001498405": 381,
+      "27220001498290": 30,
+      "27220001492853": 90,
+      "27220001499345": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4020,6 +4800,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4029,8 +4813,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "4724010228616",
+    "uikName": "УИК №1116",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 897,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 890,
@@ -4046,12 +4834,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 68,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 496,
-      "Соловьев Сергей Владимирович": 48,
-      "Трубин Глеб Александрович": 120,
-      "Чуйкова Светлана Геннадьевна": 45
+      "27220001497784": 68,
+      "27220001499469": 23,
+      "27220001498405": 496,
+      "27220001498290": 48,
+      "27220001492853": 120,
+      "27220001499345": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4061,6 +4849,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4070,8 +4862,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "4724010228617",
+    "uikName": "УИК №1117",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 890,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 890,
@@ -4087,12 +4883,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 93,
-      "Абукин Динар Марсельевич": 40,
-      "Брыкин Николай Гаврилович": 343,
-      "Соловьев Сергей Владимирович": 48,
-      "Трубин Глеб Александрович": 64,
-      "Чуйкова Светлана Геннадьевна": 53
+      "27220001497784": 93,
+      "27220001499469": 40,
+      "27220001498405": 343,
+      "27220001498290": 48,
+      "27220001492853": 64,
+      "27220001499345": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4102,6 +4898,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4111,8 +4911,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "4724010228618",
+    "uikName": "УИК №1118",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 899,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -4128,12 +4932,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 99,
-      "Абукин Динар Марсельевич": 40,
-      "Брыкин Николай Гаврилович": 169,
-      "Соловьев Сергей Владимирович": 92,
-      "Трубин Глеб Александрович": 53,
-      "Чуйкова Светлана Геннадьевна": 63
+      "27220001497784": 99,
+      "27220001499469": 40,
+      "27220001498405": 169,
+      "27220001498290": 92,
+      "27220001492853": 53,
+      "27220001499345": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4143,6 +4947,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4152,8 +4960,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "4724010228619",
+    "uikName": "УИК №1119",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 922,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 900,
@@ -4169,12 +4981,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 68,
-      "Абукин Динар Марсельевич": 31,
-      "Брыкин Николай Гаврилович": 572,
-      "Соловьев Сергей Владимирович": 63,
-      "Трубин Глеб Александрович": 32,
-      "Чуйкова Светлана Геннадьевна": 32
+      "27220001497784": 68,
+      "27220001499469": 31,
+      "27220001498405": 572,
+      "27220001498290": 63,
+      "27220001492853": 32,
+      "27220001499345": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4184,6 +4996,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4193,8 +5009,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "4724010228620",
+    "uikName": "УИК №1120",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1126,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1120,
@@ -4210,12 +5030,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 35,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 765,
-      "Соловьев Сергей Владимирович": 30,
-      "Трубин Глеб Александрович": 25,
-      "Чуйкова Светлана Геннадьевна": 30
+      "27220001497784": 35,
+      "27220001499469": 16,
+      "27220001498405": 765,
+      "27220001498290": 30,
+      "27220001492853": 25,
+      "27220001499345": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4225,6 +5045,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4234,8 +5058,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "4724010228621",
+    "uikName": "УИК №1121",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1199,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1180,
@@ -4251,12 +5079,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 31,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 898,
-      "Соловьев Сергей Владимирович": 14,
-      "Трубин Глеб Александрович": 76,
-      "Чуйкова Светлана Геннадьевна": 32
+      "27220001497784": 31,
+      "27220001499469": 2,
+      "27220001498405": 898,
+      "27220001498290": 14,
+      "27220001492853": 76,
+      "27220001499345": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4266,6 +5094,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4275,8 +5107,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "4724010228622",
+    "uikName": "УИК №1122",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1929,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1900,
@@ -4292,12 +5128,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 98,
-      "Абукин Динар Марсельевич": 96,
-      "Брыкин Николай Гаврилович": 873,
-      "Соловьев Сергей Владимирович": 54,
-      "Трубин Глеб Александрович": 202,
-      "Чуйкова Светлана Геннадьевна": 27
+      "27220001497784": 98,
+      "27220001499469": 96,
+      "27220001498405": 873,
+      "27220001498290": 54,
+      "27220001492853": 202,
+      "27220001499345": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4307,6 +5143,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4316,8 +5156,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "4724010228623",
+    "uikName": "УИК №1123",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1023,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1010,
@@ -4333,12 +5177,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 54,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 481,
-      "Соловьев Сергей Владимирович": 22,
-      "Трубин Глеб Александрович": 79,
-      "Чуйкова Светлана Геннадьевна": 54
+      "27220001497784": 54,
+      "27220001499469": 23,
+      "27220001498405": 481,
+      "27220001498290": 22,
+      "27220001492853": 79,
+      "27220001499345": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4348,6 +5192,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4357,8 +5205,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "4724010228624",
+    "uikName": "УИК №1124",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1151,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1150,
@@ -4374,12 +5226,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 87,
-      "Абукин Динар Марсельевич": 52,
-      "Брыкин Николай Гаврилович": 540,
-      "Соловьев Сергей Владимирович": 93,
-      "Трубин Глеб Александрович": 91,
-      "Чуйкова Светлана Геннадьевна": 69
+      "27220001497784": 87,
+      "27220001499469": 52,
+      "27220001498405": 540,
+      "27220001498290": 93,
+      "27220001492853": 91,
+      "27220001499345": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4389,6 +5241,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4398,8 +5254,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "4724010228625",
+    "uikName": "УИК №1125",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1277,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1270,
@@ -4415,12 +5275,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 123,
-      "Абукин Динар Марсельевич": 75,
-      "Брыкин Николай Гаврилович": 394,
-      "Соловьев Сергей Владимирович": 116,
-      "Трубин Глеб Александрович": 121,
-      "Чуйкова Светлана Геннадьевна": 83
+      "27220001497784": 123,
+      "27220001499469": 75,
+      "27220001498405": 394,
+      "27220001498290": 116,
+      "27220001492853": 121,
+      "27220001499345": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4430,6 +5290,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4439,8 +5303,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "4724010228626",
+    "uikName": "УИК №1126",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1244,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1210,
@@ -4456,12 +5324,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 97,
-      "Абукин Динар Марсельевич": 64,
-      "Брыкин Николай Гаврилович": 642,
-      "Соловьев Сергей Владимирович": 56,
-      "Трубин Глеб Александрович": 53,
-      "Чуйкова Светлана Геннадьевна": 53
+      "27220001497784": 97,
+      "27220001499469": 64,
+      "27220001498405": 642,
+      "27220001498290": 56,
+      "27220001492853": 53,
+      "27220001499345": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4471,6 +5339,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4480,8 +5352,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "4724010228627",
+    "uikName": "УИК №1127",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 849,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 850,
@@ -4497,12 +5373,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 72,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 403,
-      "Соловьев Сергей Владимирович": 15,
-      "Трубин Глеб Александрович": 102,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 72,
+      "27220001499469": 23,
+      "27220001498405": 403,
+      "27220001498290": 15,
+      "27220001492853": 102,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4512,6 +5388,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4521,8 +5401,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "4724010228628",
+    "uikName": "УИК №1128",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1070,
@@ -4538,12 +5422,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 80,
-      "Абукин Динар Марсельевич": 37,
-      "Брыкин Николай Гаврилович": 325,
-      "Соловьев Сергей Владимирович": 83,
-      "Трубин Глеб Александрович": 50,
-      "Чуйкова Светлана Геннадьевна": 31
+      "27220001497784": 80,
+      "27220001499469": 37,
+      "27220001498405": 325,
+      "27220001498290": 83,
+      "27220001492853": 50,
+      "27220001499345": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4553,6 +5437,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4562,8 +5450,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "4724010228629",
+    "uikName": "УИК №1129",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1562,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1550,
@@ -4579,12 +5471,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 116,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 890,
-      "Соловьев Сергей Владимирович": 14,
-      "Трубин Глеб Александрович": 202,
-      "Чуйкова Светлана Геннадьевна": 104
+      "27220001497784": 116,
+      "27220001499469": 18,
+      "27220001498405": 890,
+      "27220001498290": 14,
+      "27220001492853": 202,
+      "27220001499345": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4594,6 +5486,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4603,8 +5499,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "4724010228630",
+    "uikName": "УИК №1130",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2037,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2030,
@@ -4620,12 +5520,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 123,
-      "Абукин Динар Марсельевич": 80,
-      "Брыкин Николай Гаврилович": 868,
-      "Соловьев Сергей Владимирович": 113,
-      "Трубин Глеб Александрович": 235,
-      "Чуйкова Светлана Геннадьевна": 46
+      "27220001497784": 123,
+      "27220001499469": 80,
+      "27220001498405": 868,
+      "27220001498290": 113,
+      "27220001492853": 235,
+      "27220001499345": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4635,6 +5535,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4644,8 +5548,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "4724010228631",
+    "uikName": "УИК №1131",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1350,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1350,
@@ -4661,12 +5569,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 152,
-      "Абукин Динар Марсельевич": 29,
-      "Брыкин Николай Гаврилович": 663,
-      "Соловьев Сергей Владимирович": 25,
-      "Трубин Глеб Александрович": 101,
-      "Чуйкова Светлана Геннадьевна": 35
+      "27220001497784": 152,
+      "27220001499469": 29,
+      "27220001498405": 663,
+      "27220001498290": 25,
+      "27220001492853": 101,
+      "27220001499345": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4676,6 +5584,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4685,8 +5597,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "4724010228632",
+    "uikName": "УИК №1132",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1180,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1160,
@@ -4702,12 +5618,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 89,
-      "Абукин Динар Марсельевич": 36,
-      "Брыкин Николай Гаврилович": 663,
-      "Соловьев Сергей Владимирович": 15,
-      "Трубин Глеб Александрович": 153,
-      "Чуйкова Светлана Геннадьевна": 41
+      "27220001497784": 89,
+      "27220001499469": 36,
+      "27220001498405": 663,
+      "27220001498290": 15,
+      "27220001492853": 153,
+      "27220001499345": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4717,6 +5633,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4726,8 +5646,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "4724010228633",
+    "uikName": "УИК №1133",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 936,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 940,
@@ -4743,12 +5667,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 58,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 448,
-      "Соловьев Сергей Владимирович": 22,
-      "Трубин Глеб Александрович": 82,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 58,
+      "27220001499469": 12,
+      "27220001498405": 448,
+      "27220001498290": 22,
+      "27220001492853": 82,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4758,6 +5682,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4767,8 +5695,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "4724010228634",
+    "uikName": "УИК №1134",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 2079,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 2040,
@@ -4784,12 +5716,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 242,
-      "Абукин Динар Марсельевич": 41,
-      "Брыкин Николай Гаврилович": 889,
-      "Соловьев Сергей Владимирович": 42,
-      "Трубин Глеб Александрович": 247,
-      "Чуйкова Светлана Геннадьевна": 17
+      "27220001497784": 242,
+      "27220001499469": 41,
+      "27220001498405": 889,
+      "27220001498290": 42,
+      "27220001492853": 247,
+      "27220001499345": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4799,6 +5731,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4808,8 +5744,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "4724010228635",
+    "uikName": "УИК №1136",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 811,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 800,
@@ -4825,12 +5765,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 38,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 443,
-      "Соловьев Сергей Владимирович": 20,
-      "Трубин Глеб Александрович": 97,
-      "Чуйкова Светлана Геннадьевна": 19
+      "27220001497784": 38,
+      "27220001499469": 18,
+      "27220001498405": 443,
+      "27220001498290": 20,
+      "27220001492853": 97,
+      "27220001499345": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4840,6 +5780,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4849,8 +5793,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "4724010228636",
+    "uikName": "УИК №1137",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1674,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1640,
@@ -4866,12 +5814,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 113,
-      "Абукин Динар Марсельевич": 148,
-      "Брыкин Николай Гаврилович": 685,
-      "Соловьев Сергей Владимирович": 20,
-      "Трубин Глеб Александрович": 208,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 113,
+      "27220001499469": 148,
+      "27220001498405": 685,
+      "27220001498290": 20,
+      "27220001492853": 208,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4881,6 +5829,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4890,8 +5842,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "4724010228637",
+    "uikName": "УИК №1138",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1092,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1100,
@@ -4907,12 +5863,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 46,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 538,
-      "Соловьев Сергей Владимирович": 33,
-      "Трубин Глеб Александрович": 120,
-      "Чуйкова Светлана Геннадьевна": 13
+      "27220001497784": 46,
+      "27220001499469": 10,
+      "27220001498405": 538,
+      "27220001498290": 33,
+      "27220001492853": 120,
+      "27220001499345": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4922,6 +5878,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4931,8 +5891,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "4724010228638",
+    "uikName": "УИК №1139",
     "tikTvd": "27220001482162",
     "tikName": "Ишимская городская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1589,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1700,
@@ -4948,12 +5912,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 116,
-      "Абукин Динар Марсельевич": 21,
-      "Брыкин Николай Гаврилович": 989,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 204,
-      "Чуйкова Светлана Геннадьевна": 9
+      "27220001497784": 116,
+      "27220001499469": 21,
+      "27220001498405": 989,
+      "27220001498290": 24,
+      "27220001492853": 204,
+      "27220001499345": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
@@ -4963,6 +5927,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:15:37.342819+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482162&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482162&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -4972,8 +5940,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "4724026301510",
+    "uikName": "УИК №1001",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 600,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 658,
@@ -4989,12 +5961,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 53,
-      "Абукин Динар Марсельевич": 43,
-      "Брыкин Николай Гаврилович": 145,
-      "Соловьев Сергей Владимирович": 53,
-      "Трубин Глеб Александрович": 38,
-      "Чуйкова Светлана Геннадьевна": 32
+      "27220001497784": 53,
+      "27220001499469": 43,
+      "27220001498405": 145,
+      "27220001498290": 53,
+      "27220001492853": 38,
+      "27220001499345": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5004,6 +5976,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5013,8 +5989,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "4724026301511",
+    "uikName": "УИК №1002",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 194,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 236,
@@ -5030,12 +6010,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 162,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 4,
+      "27220001499469": 2,
+      "27220001498405": 162,
+      "27220001498290": 4,
+      "27220001492853": 3,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5045,6 +6025,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5054,8 +6038,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "4724026301512",
+    "uikName": "УИК №1003",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 226,
@@ -5071,12 +6059,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 111,
-      "Соловьев Сергей Владимирович": 25,
-      "Трубин Глеб Александрович": 32,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 24,
+      "27220001499469": 7,
+      "27220001498405": 111,
+      "27220001498290": 25,
+      "27220001492853": 32,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5086,6 +6074,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5095,8 +6087,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "4724026301513",
+    "uikName": "УИК №1004",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 191,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 194,
@@ -5112,12 +6108,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 13,
-      "Брыкин Николай Гаврилович": 95,
-      "Соловьев Сергей Владимирович": 13,
-      "Трубин Глеб Александрович": 24,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 19,
+      "27220001499469": 13,
+      "27220001498405": 95,
+      "27220001498290": 13,
+      "27220001492853": 24,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5127,6 +6123,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5136,8 +6136,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "4724026301514",
+    "uikName": "УИК №1005",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 312,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 315,
@@ -5153,12 +6157,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 248,
-      "Соловьев Сергей Владимирович": 14,
-      "Трубин Глеб Александрович": 14,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 4,
+      "27220001499469": 5,
+      "27220001498405": 248,
+      "27220001498290": 14,
+      "27220001492853": 14,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5168,6 +6172,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5177,8 +6185,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "4724026301515",
+    "uikName": "УИК №1006",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 713,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 736,
@@ -5194,12 +6206,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 26,
-      "Абукин Динар Марсельевич": 35,
-      "Брыкин Николай Гаврилович": 457,
-      "Соловьев Сергей Владимирович": 35,
-      "Трубин Глеб Александрович": 48,
-      "Чуйкова Светлана Геннадьевна": 43
+      "27220001497784": 26,
+      "27220001499469": 35,
+      "27220001498405": 457,
+      "27220001498290": 35,
+      "27220001492853": 48,
+      "27220001499345": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5209,6 +6221,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5218,8 +6234,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "4724026301516",
+    "uikName": "УИК №1007",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 448,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 457,
@@ -5235,12 +6255,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 37,
-      "Брыкин Николай Гаврилович": 256,
-      "Соловьев Сергей Владимирович": 27,
-      "Трубин Глеб Александрович": 18,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 24,
+      "27220001499469": 37,
+      "27220001498405": 256,
+      "27220001498290": 27,
+      "27220001492853": 18,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5250,6 +6270,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5259,8 +6283,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "4724026301517",
+    "uikName": "УИК №1008",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 318,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 323,
@@ -5276,12 +6304,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 15,
-      "Брыкин Николай Гаврилович": 159,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 29,
-      "Чуйкова Светлана Геннадьевна": 11
+      "27220001497784": 19,
+      "27220001499469": 15,
+      "27220001498405": 159,
+      "27220001498290": 18,
+      "27220001492853": 29,
+      "27220001499345": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5291,6 +6319,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5300,8 +6332,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "4724026301518",
+    "uikName": "УИК №1009",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 369,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 377,
@@ -5317,12 +6353,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 33,
-      "Абукин Динар Марсельевич": 25,
-      "Брыкин Николай Гаврилович": 89,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 32,
-      "Чуйкова Светлана Геннадьевна": 17
+      "27220001497784": 33,
+      "27220001499469": 25,
+      "27220001498405": 89,
+      "27220001498290": 24,
+      "27220001492853": 32,
+      "27220001499345": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5332,6 +6368,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5341,8 +6381,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "4724026301519",
+    "uikName": "УИК №1010",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 158,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 158,
@@ -5358,12 +6402,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 105,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 5,
+      "27220001499469": 5,
+      "27220001498405": 105,
+      "27220001498290": 6,
+      "27220001492853": 4,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5373,6 +6417,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5382,8 +6430,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "4724026301520",
+    "uikName": "УИК №1011",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 184,
@@ -5399,12 +6451,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 132,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 4,
+      "27220001499469": 8,
+      "27220001498405": 132,
+      "27220001498290": 8,
+      "27220001492853": 6,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5414,6 +6466,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5423,8 +6479,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "4724026301521",
+    "uikName": "УИК №1012",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 251,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 253,
@@ -5440,12 +6500,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 183,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 14,
+      "27220001499469": 5,
+      "27220001498405": 183,
+      "27220001498290": 6,
+      "27220001492853": 6,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5455,6 +6515,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5464,8 +6528,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "4724026301522",
+    "uikName": "УИК №1013",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1364,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1396,
@@ -5481,12 +6549,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 122,
-      "Абукин Динар Марсельевич": 71,
-      "Брыкин Николай Гаврилович": 365,
-      "Соловьев Сергей Владимирович": 119,
-      "Трубин Глеб Александрович": 78,
-      "Чуйкова Светлана Геннадьевна": 84
+      "27220001497784": 122,
+      "27220001499469": 71,
+      "27220001498405": 365,
+      "27220001498290": 119,
+      "27220001492853": 78,
+      "27220001499345": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5496,6 +6564,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5505,8 +6577,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "4724026301523",
+    "uikName": "УИК №1014",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 268,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 276,
@@ -5522,12 +6598,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 17,
-      "Брыкин Николай Гаврилович": 139,
-      "Соловьев Сергей Владимирович": 38,
-      "Трубин Глеб Александрович": 23,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 8,
+      "27220001499469": 17,
+      "27220001498405": 139,
+      "27220001498290": 38,
+      "27220001492853": 23,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5537,6 +6613,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5546,8 +6626,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "4724026301524",
+    "uikName": "УИК №1015",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 79,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 82,
@@ -5563,12 +6647,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 44,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 3,
+      "27220001499469": 4,
+      "27220001498405": 44,
+      "27220001498290": 8,
+      "27220001492853": 6,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5578,6 +6662,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5587,8 +6675,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "4724026301525",
+    "uikName": "УИК №1016",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 287,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 287,
@@ -5604,12 +6696,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 11,
-      "Абукин Динар Марсельевич": 15,
-      "Брыкин Николай Гаврилович": 158,
-      "Соловьев Сергей Владимирович": 38,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 11,
+      "27220001499469": 15,
+      "27220001498405": 158,
+      "27220001498290": 38,
+      "27220001492853": 15,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5619,6 +6711,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5628,8 +6724,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "4724026301526",
+    "uikName": "УИК №1017",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 602,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 611,
@@ -5645,12 +6745,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 21,
-      "Абукин Динар Марсельевич": 17,
-      "Брыкин Николай Гаврилович": 415,
-      "Соловьев Сергей Владимирович": 38,
-      "Трубин Глеб Александрович": 18,
-      "Чуйкова Светлана Геннадьевна": 28
+      "27220001497784": 21,
+      "27220001499469": 17,
+      "27220001498405": 415,
+      "27220001498290": 38,
+      "27220001492853": 18,
+      "27220001499345": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5660,6 +6760,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5669,8 +6773,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "4724026301527",
+    "uikName": "УИК №1018",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 665,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 676,
@@ -5686,12 +6794,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 57,
-      "Абукин Динар Марсельевич": 13,
-      "Брыкин Николай Гаврилович": 434,
-      "Соловьев Сергей Владимирович": 32,
-      "Трубин Глеб Александрович": 28,
-      "Чуйкова Светлана Геннадьевна": 26
+      "27220001497784": 57,
+      "27220001499469": 13,
+      "27220001498405": 434,
+      "27220001498290": 32,
+      "27220001492853": 28,
+      "27220001499345": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5701,6 +6809,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5710,8 +6822,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "4724026301528",
+    "uikName": "УИК №1019",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 126,
@@ -5727,12 +6843,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 22,
-      "Брыкин Николай Гаврилович": 66,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 5,
+      "27220001499469": 22,
+      "27220001498405": 66,
+      "27220001498290": 9,
+      "27220001492853": 1,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5742,6 +6858,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5751,8 +6871,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "4724026301529",
+    "uikName": "УИК №1020",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 572,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 582,
@@ -5768,12 +6892,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 440,
-      "Соловьев Сергей Владимирович": 19,
-      "Трубин Глеб Александрович": 35,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 14,
+      "27220001499469": 9,
+      "27220001498405": 440,
+      "27220001498290": 19,
+      "27220001492853": 35,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5783,6 +6907,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5792,8 +6920,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "4724026301530",
+    "uikName": "УИК №1021",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 193,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 193,
@@ -5809,12 +6941,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 139,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 5,
+      "27220001499469": 10,
+      "27220001498405": 139,
+      "27220001498290": 11,
+      "27220001492853": 9,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5824,6 +6956,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5833,8 +6969,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "4724026301531",
+    "uikName": "УИК №1022",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 791,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 791,
@@ -5850,12 +6990,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 52,
-      "Абукин Динар Марсельевич": 37,
-      "Брыкин Николай Гаврилович": 473,
-      "Соловьев Сергей Владимирович": 64,
-      "Трубин Глеб Александрович": 29,
-      "Чуйкова Светлана Геннадьевна": 50
+      "27220001497784": 52,
+      "27220001499469": 37,
+      "27220001498405": 473,
+      "27220001498290": 64,
+      "27220001492853": 29,
+      "27220001499345": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5865,6 +7005,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5874,8 +7018,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "4724026301532",
+    "uikName": "УИК №1023",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 86,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 82,
@@ -5891,12 +7039,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 0,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 63,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 0,
+      "27220001499469": 1,
+      "27220001498405": 63,
+      "27220001498290": 2,
+      "27220001492853": 3,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5906,6 +7054,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5915,8 +7067,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "4724026301533",
+    "uikName": "УИК №1024",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 484,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 494,
@@ -5932,12 +7088,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 42,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 302,
-      "Соловьев Сергей Владимирович": 37,
-      "Трубин Глеб Александрович": 27,
-      "Чуйкова Светлана Геннадьевна": 15
+      "27220001497784": 42,
+      "27220001499469": 24,
+      "27220001498405": 302,
+      "27220001498290": 37,
+      "27220001492853": 27,
+      "27220001499345": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5947,6 +7103,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5956,8 +7116,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "4724026301534",
+    "uikName": "УИК №1025",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 746,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 762,
@@ -5973,12 +7137,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 18,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 547,
-      "Соловьев Сергей Владимирович": 61,
-      "Трубин Глеб Александрович": 13,
-      "Чуйкова Светлана Геннадьевна": 11
+      "27220001497784": 18,
+      "27220001499469": 10,
+      "27220001498405": 547,
+      "27220001498290": 61,
+      "27220001492853": 13,
+      "27220001499345": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -5988,6 +7152,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -5997,8 +7165,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "4724026301535",
+    "uikName": "УИК №1026",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 111,
@@ -6014,12 +7186,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 2,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 85,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 2,
+      "27220001499469": 6,
+      "27220001498405": 85,
+      "27220001498290": 3,
+      "27220001492853": 1,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6029,6 +7201,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6038,8 +7214,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "4724026301536",
+    "uikName": "УИК №1027",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 540,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 556,
@@ -6055,12 +7235,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 28,
-      "Абукин Динар Марсельевич": 21,
-      "Брыкин Николай Гаврилович": 402,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 13
+      "27220001497784": 28,
+      "27220001499469": 21,
+      "27220001498405": 402,
+      "27220001498290": 24,
+      "27220001492853": 15,
+      "27220001499345": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6070,6 +7250,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6079,8 +7263,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "4724026301537",
+    "uikName": "УИК №1028",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 404,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 419,
@@ -6096,12 +7284,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 9,
-      "Абукин Динар Марсельевич": 13,
-      "Брыкин Николай Гаврилович": 237,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 9,
+      "27220001499469": 13,
+      "27220001498405": 237,
+      "27220001498290": 18,
+      "27220001492853": 9,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6111,6 +7299,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6120,8 +7312,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "4724026301538",
+    "uikName": "УИК №1029",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 180,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 186,
@@ -6137,12 +7333,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 143,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 3,
+      "27220001499469": 5,
+      "27220001498405": 143,
+      "27220001498290": 5,
+      "27220001492853": 4,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6152,6 +7348,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6161,8 +7361,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "4724026301539",
+    "uikName": "УИК №1030",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 628,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 641,
@@ -6178,12 +7382,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 48,
-      "Абукин Динар Марсельевич": 26,
-      "Брыкин Николай Гаврилович": 198,
-      "Соловьев Сергей Владимирович": 40,
-      "Трубин Глеб Александрович": 31,
-      "Чуйкова Светлана Геннадьевна": 33
+      "27220001497784": 48,
+      "27220001499469": 26,
+      "27220001498405": 198,
+      "27220001498290": 40,
+      "27220001492853": 31,
+      "27220001499345": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6193,6 +7397,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6202,8 +7410,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "4724026301540",
+    "uikName": "УИК №1031",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 423,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 429,
@@ -6219,12 +7431,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 17,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 269,
-      "Соловьев Сергей Владимирович": 24,
-      "Трубин Глеб Александрович": 11,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 17,
+      "27220001499469": 23,
+      "27220001498405": 269,
+      "27220001498290": 24,
+      "27220001492853": 11,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6234,6 +7446,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6243,8 +7459,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "4724026301541",
+    "uikName": "УИК №1032",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 329,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 335,
@@ -6260,12 +7480,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 22,
-      "Абукин Динар Марсельевич": 13,
-      "Брыкин Николай Гаврилович": 193,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 13,
-      "Чуйкова Светлана Геннадьевна": 17
+      "27220001497784": 22,
+      "27220001499469": 13,
+      "27220001498405": 193,
+      "27220001498290": 11,
+      "27220001492853": 13,
+      "27220001499345": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6275,6 +7495,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6284,8 +7508,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "4724026301542",
+    "uikName": "УИК №1033",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 701,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 711,
@@ -6301,12 +7529,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 23,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 551,
-      "Соловьев Сергей Владимирович": 17,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 16
+      "27220001497784": 23,
+      "27220001499469": 16,
+      "27220001498405": 551,
+      "27220001498290": 17,
+      "27220001492853": 9,
+      "27220001499345": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6316,6 +7544,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6325,8 +7557,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "4724026301543",
+    "uikName": "УИК №1034",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 897,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 924,
@@ -6342,12 +7578,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 87,
-      "Абукин Динар Марсельевич": 49,
-      "Брыкин Николай Гаврилович": 498,
-      "Соловьев Сергей Владимирович": 74,
-      "Трубин Глеб Александрович": 44,
-      "Чуйкова Светлана Геннадьевна": 40
+      "27220001497784": 87,
+      "27220001499469": 49,
+      "27220001498405": 498,
+      "27220001498290": 74,
+      "27220001492853": 44,
+      "27220001499345": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6357,6 +7593,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6366,8 +7606,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "4724026301544",
+    "uikName": "УИК №1035",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 622,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 632,
@@ -6383,12 +7627,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 31,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 491,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 14
+      "27220001497784": 31,
+      "27220001499469": 10,
+      "27220001498405": 491,
+      "27220001498290": 8,
+      "27220001492853": 15,
+      "27220001499345": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6398,6 +7642,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6407,8 +7655,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "4724026301545",
+    "uikName": "УИК №1036",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 72,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 75,
@@ -6424,12 +7676,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 54,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 4,
+      "27220001499469": 0,
+      "27220001498405": 54,
+      "27220001498290": 4,
+      "27220001492853": 2,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6439,6 +7691,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6448,8 +7704,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "4724026301546",
+    "uikName": "УИК №1037",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 445,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 454,
@@ -6465,12 +7725,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 13,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 332,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 13,
+      "27220001499469": 5,
+      "27220001498405": 332,
+      "27220001498290": 12,
+      "27220001492853": 4,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6480,6 +7740,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6489,8 +7753,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "4724026301547",
+    "uikName": "УИК №1038",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 191,
@@ -6506,12 +7774,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 5,
-      "Абукин Динар Марсельевич": 3,
-      "Брыкин Николай Гаврилович": 131,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 5,
+      "27220001499469": 3,
+      "27220001498405": 131,
+      "27220001498290": 5,
+      "27220001492853": 4,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6521,6 +7789,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6530,8 +7802,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "4724026301548",
+    "uikName": "УИК №1039",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 149,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 156,
@@ -6547,12 +7823,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 99,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 8,
+      "27220001499469": 6,
+      "27220001498405": 99,
+      "27220001498290": 9,
+      "27220001492853": 10,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6562,6 +7838,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6571,8 +7851,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "4724026301549",
+    "uikName": "УИК №1040",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1345,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1286,
@@ -6588,12 +7872,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 112,
-      "Абукин Динар Марсельевич": 80,
-      "Брыкин Николай Гаврилович": 566,
-      "Соловьев Сергей Владимирович": 120,
-      "Трубин Глеб Александрович": 93,
-      "Чуйкова Светлана Геннадьевна": 76
+      "27220001497784": 112,
+      "27220001499469": 80,
+      "27220001498405": 566,
+      "27220001498290": 120,
+      "27220001492853": 93,
+      "27220001499345": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6603,6 +7887,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6612,8 +7900,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "4724026301550",
+    "uikName": "УИК №1041",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1467,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1497,
@@ -6629,12 +7921,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 123,
-      "Абукин Динар Марсельевич": 80,
-      "Брыкин Николай Гаврилович": 230,
-      "Соловьев Сергей Владимирович": 143,
-      "Трубин Глеб Александрович": 85,
-      "Чуйкова Светлана Геннадьевна": 96
+      "27220001497784": 123,
+      "27220001499469": 80,
+      "27220001498405": 230,
+      "27220001498290": 143,
+      "27220001492853": 85,
+      "27220001499345": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6644,6 +7936,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6653,8 +7949,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "4724026301551",
+    "uikName": "УИК №1042",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 263,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 269,
@@ -6670,12 +7970,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 22,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 121,
-      "Соловьев Сергей Владимирович": 27,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 22
+      "27220001497784": 22,
+      "27220001499469": 16,
+      "27220001498405": 121,
+      "27220001498290": 27,
+      "27220001492853": 17,
+      "27220001499345": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6685,6 +7985,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6694,8 +7998,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "4724026301552",
+    "uikName": "УИК №1043",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 255,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 258,
@@ -6711,12 +8019,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 21,
-      "Абукин Динар Марсельевич": 11,
-      "Брыкин Николай Гаврилович": 120,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 25,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 21,
+      "27220001499469": 11,
+      "27220001498405": 120,
+      "27220001498290": 18,
+      "27220001492853": 25,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6726,6 +8034,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6735,8 +8047,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "4724026301553",
+    "uikName": "УИК №1044",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 668,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 693,
@@ -6752,12 +8068,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 57,
-      "Абукин Динар Марсельевич": 51,
-      "Брыкин Николай Гаврилович": 267,
-      "Соловьев Сергей Владимирович": 49,
-      "Трубин Глеб Александрович": 55,
-      "Чуйкова Светлана Геннадьевна": 22
+      "27220001497784": 57,
+      "27220001499469": 51,
+      "27220001498405": 267,
+      "27220001498290": 49,
+      "27220001492853": 55,
+      "27220001499345": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6767,6 +8083,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6776,8 +8096,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "4724026301554",
+    "uikName": "УИК №1045",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 416,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 418,
@@ -6793,12 +8117,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 31,
-      "Абукин Динар Марсельевич": 30,
-      "Брыкин Николай Гаврилович": 188,
-      "Соловьев Сергей Владимирович": 33,
-      "Трубин Глеб Александрович": 45,
-      "Чуйкова Светлана Геннадьевна": 23
+      "27220001497784": 31,
+      "27220001499469": 30,
+      "27220001498405": 188,
+      "27220001498290": 33,
+      "27220001492853": 45,
+      "27220001499345": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6808,6 +8132,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6817,8 +8145,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "4724026301555",
+    "uikName": "УИК №1046",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 789,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 796,
@@ -6834,12 +8166,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 41,
-      "Абукин Динар Марсельевич": 35,
-      "Брыкин Николай Гаврилович": 334,
-      "Соловьев Сергей Владимирович": 49,
-      "Трубин Глеб Александрович": 48,
-      "Чуйкова Светлана Геннадьевна": 31
+      "27220001497784": 41,
+      "27220001499469": 35,
+      "27220001498405": 334,
+      "27220001498290": 49,
+      "27220001492853": 48,
+      "27220001499345": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6849,6 +8181,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6858,8 +8194,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "4724026301556",
+    "uikName": "УИК №1047",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 105,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -6875,12 +8215,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 68,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 5,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 3,
+      "27220001499469": 2,
+      "27220001498405": 68,
+      "27220001498290": 3,
+      "27220001492853": 5,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6890,6 +8230,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6899,8 +8243,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "4724026301557",
+    "uikName": "УИК №1048",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 158,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 163,
@@ -6916,12 +8264,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 112,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 8,
+      "27220001499469": 6,
+      "27220001498405": 112,
+      "27220001498290": 9,
+      "27220001492853": 1,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6931,6 +8279,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6940,8 +8292,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "4724026301558",
+    "uikName": "УИК №1049",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 135,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 140,
@@ -6957,12 +8313,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 89,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 10,
+      "27220001499469": 7,
+      "27220001498405": 89,
+      "27220001498290": 0,
+      "27220001492853": 7,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -6972,6 +8328,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -6981,8 +8341,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1050,
     "uikTvd": "4724026301559",
+    "uikName": "УИК №1050",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 456,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 458,
@@ -6998,12 +8362,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 11,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 362,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 16,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 11,
+      "27220001499469": 18,
+      "27220001498405": 362,
+      "27220001498290": 12,
+      "27220001492853": 16,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -7013,6 +8377,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7022,8 +8390,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1051,
     "uikTvd": "4724026301560",
+    "uikName": "УИК №1051",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 147,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 150,
@@ -7039,12 +8411,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 96,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 6,
+      "27220001499469": 5,
+      "27220001498405": 96,
+      "27220001498290": 9,
+      "27220001492853": 17,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -7054,6 +8426,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7063,8 +8439,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1052,
     "uikTvd": "4724026301561",
+    "uikName": "УИК №1052",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 216,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 218,
@@ -7080,12 +8460,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 2,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 173,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 2,
+      "27220001499469": 1,
+      "27220001498405": 173,
+      "27220001498290": 3,
+      "27220001492853": 10,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -7095,6 +8475,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7104,8 +8488,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1053,
     "uikTvd": "4724026301562",
+    "uikName": "УИК №1053",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 395,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 406,
@@ -7121,12 +8509,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 28,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 278,
-      "Соловьев Сергей Владимирович": 16,
-      "Трубин Глеб Александрович": 14,
-      "Чуйкова Светлана Геннадьевна": 11
+      "27220001497784": 28,
+      "27220001499469": 10,
+      "27220001498405": 278,
+      "27220001498290": 16,
+      "27220001492853": 14,
+      "27220001499345": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -7136,6 +8524,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7145,8 +8537,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1054,
     "uikTvd": "4724026301563",
+    "uikName": "УИК №1054",
     "tikTvd": "27220001482163",
     "tikName": "Ишимская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 198,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 203,
@@ -7162,12 +8558,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 139,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 8,
+      "27220001499469": 1,
+      "27220001498405": 139,
+      "27220001498290": 8,
+      "27220001492853": 7,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
@@ -7177,6 +8573,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.086928+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482163&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482163&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7186,8 +8586,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "4724006250831",
+    "uikName": "УИК №601",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 491,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 505,
@@ -7203,12 +8607,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 29,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 115,
-      "Соловьев Сергей Владимирович": 28,
-      "Трубин Глеб Александрович": 34,
-      "Чуйкова Светлана Геннадьевна": 31
+      "27220001497784": 29,
+      "27220001499469": 24,
+      "27220001498405": 115,
+      "27220001498290": 28,
+      "27220001492853": 34,
+      "27220001499345": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7218,6 +8622,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7227,8 +8635,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "4724006250832",
+    "uikName": "УИК №602",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 119,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 125,
@@ -7244,12 +8656,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 15,
-      "Абукин Динар Марсельевич": 8,
-      "Брыкин Николай Гаврилович": 29,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 15,
+      "27220001499469": 8,
+      "27220001498405": 29,
+      "27220001498290": 12,
+      "27220001492853": 7,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7259,6 +8671,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7268,8 +8684,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "4724006250833",
+    "uikName": "УИК №603",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 137,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 141,
@@ -7285,12 +8705,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 24,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 30,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 11,
-      "Чуйкова Светлана Геннадьевна": 9
+      "27220001497784": 24,
+      "27220001499469": 6,
+      "27220001498405": 30,
+      "27220001498290": 12,
+      "27220001492853": 11,
+      "27220001499345": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7300,6 +8720,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7309,8 +8733,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "4724006250834",
+    "uikName": "УИК №604",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 280,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 293,
@@ -7326,12 +8754,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 14,
-      "Брыкин Николай Гаврилович": 165,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 15,
-      "Чуйкова Светлана Геннадьевна": 18
+      "27220001497784": 14,
+      "27220001499469": 14,
+      "27220001498405": 165,
+      "27220001498290": 18,
+      "27220001492853": 15,
+      "27220001499345": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7341,6 +8769,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7350,8 +8782,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "4724006250835",
+    "uikName": "УИК №605",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 292,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 308,
@@ -7367,12 +8803,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 11,
-      "Абукин Динар Марсельевич": 23,
-      "Брыкин Николай Гаврилович": 148,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 29,
-      "Чуйкова Светлана Геннадьевна": 12
+      "27220001497784": 11,
+      "27220001499469": 23,
+      "27220001498405": 148,
+      "27220001498290": 12,
+      "27220001492853": 29,
+      "27220001499345": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7382,6 +8818,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7391,8 +8831,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "4724006250836",
+    "uikName": "УИК №606",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1511,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1346,
@@ -7408,12 +8852,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 101,
-      "Абукин Динар Марсельевич": 80,
-      "Брыкин Николай Гаврилович": 273,
-      "Соловьев Сергей Владимирович": 86,
-      "Трубин Глеб Александрович": 78,
-      "Чуйкова Светлана Геннадьевна": 93
+      "27220001497784": 101,
+      "27220001499469": 80,
+      "27220001498405": 273,
+      "27220001498290": 86,
+      "27220001492853": 78,
+      "27220001499345": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7423,6 +8867,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7432,8 +8880,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "4724006250837",
+    "uikName": "УИК №607",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1094,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1052,
@@ -7449,12 +8901,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 68,
-      "Абукин Динар Марсельевич": 52,
-      "Брыкин Николай Гаврилович": 263,
-      "Соловьев Сергей Владимирович": 70,
-      "Трубин Глеб Александрович": 52,
-      "Чуйкова Светлана Геннадьевна": 74
+      "27220001497784": 68,
+      "27220001499469": 52,
+      "27220001498405": 263,
+      "27220001498290": 70,
+      "27220001492853": 52,
+      "27220001499345": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7464,6 +8916,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7473,8 +8929,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "4724006250838",
+    "uikName": "УИК №608",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1344,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1244,
@@ -7490,12 +8950,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 81,
-      "Абукин Динар Марсельевич": 58,
-      "Брыкин Николай Гаврилович": 301,
-      "Соловьев Сергей Владимирович": 98,
-      "Трубин Глеб Александрович": 59,
-      "Чуйкова Светлана Геннадьевна": 85
+      "27220001497784": 81,
+      "27220001499469": 58,
+      "27220001498405": 301,
+      "27220001498290": 98,
+      "27220001492853": 59,
+      "27220001499345": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7505,6 +8965,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7514,8 +8978,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "4724006250839",
+    "uikName": "УИК №609",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1380,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1276,
@@ -7531,12 +8999,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 88,
-      "Абукин Динар Марсельевич": 57,
-      "Брыкин Николай Гаврилович": 251,
-      "Соловьев Сергей Владимирович": 109,
-      "Трубин Глеб Александрович": 54,
-      "Чуйкова Светлана Геннадьевна": 96
+      "27220001497784": 88,
+      "27220001499469": 57,
+      "27220001498405": 251,
+      "27220001498290": 109,
+      "27220001492853": 54,
+      "27220001499345": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7546,6 +9014,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7555,8 +9027,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "4724006250840",
+    "uikName": "УИК №610",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 351,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 362,
@@ -7572,12 +9048,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 32,
-      "Абукин Динар Марсельевич": 18,
-      "Брыкин Николай Гаврилович": 84,
-      "Соловьев Сергей Владимирович": 25,
-      "Трубин Глеб Александрович": 26,
-      "Чуйкова Светлана Геннадьевна": 34
+      "27220001497784": 32,
+      "27220001499469": 18,
+      "27220001498405": 84,
+      "27220001498290": 25,
+      "27220001492853": 26,
+      "27220001499345": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7587,6 +9063,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7596,8 +9076,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "4724006250841",
+    "uikName": "УИК №611",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 228,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 263,
@@ -7613,12 +9097,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 20,
-      "Абукин Динар Марсельевич": 10,
-      "Брыкин Николай Гаврилович": 115,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 20,
+      "27220001499469": 10,
+      "27220001498405": 115,
+      "27220001498290": 18,
+      "27220001492853": 6,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7628,6 +9112,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7637,8 +9125,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "4724006250842",
+    "uikName": "УИК №612",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 358,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 409,
@@ -7654,12 +9146,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 28,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 182,
-      "Соловьев Сергей Владимирович": 27,
-      "Трубин Глеб Александрович": 22,
-      "Чуйкова Светлана Геннадьевна": 15
+      "27220001497784": 28,
+      "27220001499469": 24,
+      "27220001498405": 182,
+      "27220001498290": 27,
+      "27220001492853": 22,
+      "27220001499345": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7669,6 +9161,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7678,8 +9174,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "4724006250843",
+    "uikName": "УИК №613",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 108,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 113,
@@ -7695,12 +9195,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 65,
-      "Соловьев Сергей Владимирович": 10,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 6,
+      "27220001499469": 4,
+      "27220001498405": 65,
+      "27220001498290": 10,
+      "27220001492853": 3,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7710,6 +9210,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7719,8 +9223,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "4724006250844",
+    "uikName": "УИК №615",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 519,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 603,
@@ -7736,12 +9244,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 40,
-      "Абукин Динар Марсельевич": 32,
-      "Брыкин Николай Гаврилович": 271,
-      "Соловьев Сергей Владимирович": 40,
-      "Трубин Глеб Александрович": 18,
-      "Чуйкова Светлана Геннадьевна": 37
+      "27220001497784": 40,
+      "27220001499469": 32,
+      "27220001498405": 271,
+      "27220001498290": 40,
+      "27220001492853": 18,
+      "27220001499345": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7751,6 +9259,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7760,8 +9272,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "4724006250845",
+    "uikName": "УИК №616",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 428,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 476,
@@ -7777,12 +9293,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 43,
-      "Абукин Динар Марсельевич": 27,
-      "Брыкин Николай Гаврилович": 165,
-      "Соловьев Сергей Владимирович": 36,
-      "Трубин Глеб Александрович": 27,
-      "Чуйкова Светлана Геннадьевна": 28
+      "27220001497784": 43,
+      "27220001499469": 27,
+      "27220001498405": 165,
+      "27220001498290": 36,
+      "27220001492853": 27,
+      "27220001499345": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7792,6 +9308,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7801,8 +9321,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "4724006250846",
+    "uikName": "УИК №617",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 95,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 107,
@@ -7818,12 +9342,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 17,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 28,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 17,
+      "27220001499469": 7,
+      "27220001498405": 28,
+      "27220001498290": 11,
+      "27220001492853": 7,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7833,6 +9357,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7842,8 +9370,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "4724006250847",
+    "uikName": "УИК №618",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 102,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 119,
@@ -7859,12 +9391,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 44,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 5,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 8,
+      "27220001499469": 6,
+      "27220001498405": 44,
+      "27220001498290": 5,
+      "27220001492853": 5,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7874,6 +9406,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7883,8 +9419,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "4724006250848",
+    "uikName": "УИК №619",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 359,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 416,
@@ -7900,12 +9440,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 25,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 180,
-      "Соловьев Сергей Владимирович": 13,
-      "Трубин Глеб Александрович": 20,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 25,
+      "27220001499469": 1,
+      "27220001498405": 180,
+      "27220001498290": 13,
+      "27220001492853": 20,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7915,6 +9455,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7924,8 +9468,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "4724006250849",
+    "uikName": "УИК №621",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 574,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 614,
@@ -7941,12 +9489,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 84,
-      "Абукин Динар Марсельевич": 31,
-      "Брыкин Николай Гаврилович": 268,
-      "Соловьев Сергей Владимирович": 37,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 26
+      "27220001497784": 84,
+      "27220001499469": 31,
+      "27220001498405": 268,
+      "27220001498290": 37,
+      "27220001492853": 10,
+      "27220001499345": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7956,6 +9504,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -7965,8 +9517,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "4724006250850",
+    "uikName": "УИК №623",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 432,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 462,
@@ -7982,12 +9538,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 33,
-      "Абукин Динар Марсельевич": 22,
-      "Брыкин Николай Гаврилович": 129,
-      "Соловьев Сергей Владимирович": 53,
-      "Трубин Глеб Александрович": 28,
-      "Чуйкова Светлана Геннадьевна": 23
+      "27220001497784": 33,
+      "27220001499469": 22,
+      "27220001498405": 129,
+      "27220001498290": 53,
+      "27220001492853": 28,
+      "27220001499345": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -7997,6 +9553,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8006,8 +9566,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "4724006250851",
+    "uikName": "УИК №624",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 116,
@@ -8023,12 +9587,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 22,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 9,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 10,
+      "27220001499469": 7,
+      "27220001498405": 22,
+      "27220001498290": 11,
+      "27220001492853": 9,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8038,6 +9602,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8047,8 +9615,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "4724006250852",
+    "uikName": "УИК №626",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 156,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 159,
@@ -8064,12 +9636,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 17,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 57,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 17,
+      "27220001499469": 9,
+      "27220001498405": 57,
+      "27220001498290": 18,
+      "27220001492853": 8,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8079,6 +9651,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8088,8 +9664,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "4724006250853",
+    "uikName": "УИК №627",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 106,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 110,
@@ -8105,12 +9685,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 7,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 30,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 7,
+      "27220001499469": 0,
+      "27220001498405": 30,
+      "27220001498290": 6,
+      "27220001492853": 10,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8120,6 +9700,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8129,8 +9713,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "4724006250854",
+    "uikName": "УИК №628",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 289,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 256,
@@ -8146,12 +9734,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 18,
-      "Абукин Динар Марсельевич": 19,
-      "Брыкин Николай Гаврилович": 126,
-      "Соловьев Сергей Владимирович": 32,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 18,
+      "27220001499469": 19,
+      "27220001498405": 126,
+      "27220001498290": 32,
+      "27220001492853": 17,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8161,6 +9749,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8170,8 +9762,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "4724006250855",
+    "uikName": "УИК №629",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 94,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 96,
@@ -8187,12 +9783,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 32,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 3,
+      "27220001499469": 6,
+      "27220001498405": 32,
+      "27220001498290": 11,
+      "27220001492853": 1,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8202,6 +9798,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8211,8 +9811,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "4724006250856",
+    "uikName": "УИК №630",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 63,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 76,
@@ -8228,12 +9832,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 26,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 4,
+      "27220001499469": 4,
+      "27220001498405": 26,
+      "27220001498290": 4,
+      "27220001492853": 2,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8243,6 +9847,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8252,8 +9860,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "4724006250857",
+    "uikName": "УИК №631",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 96,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 116,
@@ -8269,12 +9881,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 13,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 44,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 13,
+      "27220001499469": 5,
+      "27220001498405": 44,
+      "27220001498290": 8,
+      "27220001492853": 7,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8284,6 +9896,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8293,8 +9909,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "4724006250858",
+    "uikName": "УИК №632",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 330,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 344,
@@ -8310,12 +9930,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 20,
-      "Абукин Динар Марсельевич": 22,
-      "Брыкин Николай Гаврилович": 93,
-      "Соловьев Сергей Владимирович": 35,
-      "Трубин Глеб Александрович": 14,
-      "Чуйкова Светлана Геннадьевна": 19
+      "27220001497784": 20,
+      "27220001499469": 22,
+      "27220001498405": 93,
+      "27220001498290": 35,
+      "27220001492853": 14,
+      "27220001499345": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8325,6 +9945,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8334,8 +9958,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "4724006250859",
+    "uikName": "УИК №633",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 80,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 83,
@@ -8351,12 +9979,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 6,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 39,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 4,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 6,
+      "27220001499469": 4,
+      "27220001498405": 39,
+      "27220001498290": 1,
+      "27220001492853": 4,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8366,6 +9994,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8375,8 +10007,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "4724006250860",
+    "uikName": "УИК №634",
     "tikTvd": "27220001482164",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 111,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 116,
@@ -8392,12 +10028,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 7,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 38,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 5
+      "27220001497784": 7,
+      "27220001499469": 4,
+      "27220001498405": 38,
+      "27220001498290": 9,
+      "27220001492853": 6,
+      "27220001499345": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
@@ -8407,6 +10043,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:54.274748+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482164&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482164&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8416,8 +10056,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "4724005286459",
+    "uikName": "УИК №501",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 178,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 187,
@@ -8433,12 +10077,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 151,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 4,
+      "27220001499469": 7,
+      "27220001498405": 151,
+      "27220001498290": 0,
+      "27220001492853": 1,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8448,6 +10092,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8457,8 +10105,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "4724005286460",
+    "uikName": "УИК №502",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 232,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 242,
@@ -8474,12 +10126,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 174,
-      "Соловьев Сергей Владимирович": 9,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 14,
+      "27220001499469": 16,
+      "27220001498405": 174,
+      "27220001498290": 9,
+      "27220001492853": 7,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8489,6 +10141,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8498,8 +10154,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "4724005286461",
+    "uikName": "УИК №503",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 750,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 761,
@@ -8515,12 +10175,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 36,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 637,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 14,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 36,
+      "27220001499469": 0,
+      "27220001498405": 637,
+      "27220001498290": 2,
+      "27220001492853": 14,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8530,6 +10190,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8539,8 +10203,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "4724005286462",
+    "uikName": "УИК №505",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1086,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1113,
@@ -8556,12 +10224,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 22,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 732,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 42,
-      "Чуйкова Светлана Геннадьевна": 10
+      "27220001497784": 22,
+      "27220001499469": 16,
+      "27220001498405": 732,
+      "27220001498290": 8,
+      "27220001492853": 42,
+      "27220001499345": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8571,6 +10239,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8580,8 +10252,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "4724005286463",
+    "uikName": "УИК №506",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1004,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1019,
@@ -8597,12 +10273,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 154,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 713,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 17,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 154,
+      "27220001499469": 2,
+      "27220001498405": 713,
+      "27220001498290": 2,
+      "27220001492853": 17,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8612,6 +10288,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8621,8 +10301,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "4724005286464",
+    "uikName": "УИК №507",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1296,
@@ -8638,12 +10322,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 93,
-      "Абукин Динар Марсельевич": 69,
-      "Брыкин Николай Гаврилович": 815,
-      "Соловьев Сергей Владимирович": 68,
-      "Трубин Глеб Александрович": 70,
-      "Чуйкова Светлана Геннадьевна": 50
+      "27220001497784": 93,
+      "27220001499469": 69,
+      "27220001498405": 815,
+      "27220001498290": 68,
+      "27220001492853": 70,
+      "27220001499345": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8653,6 +10337,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8662,8 +10350,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "4724005286465",
+    "uikName": "УИК №508",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 729,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 735,
@@ -8679,12 +10371,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 67,
-      "Абукин Динар Марсельевич": 40,
-      "Брыкин Николай Гаврилович": 257,
-      "Соловьев Сергей Владимирович": 33,
-      "Трубин Глеб Александрович": 56,
-      "Чуйкова Светлана Геннадьевна": 13
+      "27220001497784": 67,
+      "27220001499469": 40,
+      "27220001498405": 257,
+      "27220001498290": 33,
+      "27220001492853": 56,
+      "27220001499345": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8694,6 +10386,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8703,8 +10399,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "4724005286466",
+    "uikName": "УИК №509",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 162,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 170,
@@ -8720,12 +10420,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 15,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 86,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 15,
+      "27220001499469": 9,
+      "27220001498405": 86,
+      "27220001498290": 2,
+      "27220001492853": 3,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8735,6 +10435,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8744,8 +10448,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "4724005286467",
+    "uikName": "УИК №510",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 340,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 350,
@@ -8761,12 +10469,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 42,
-      "Абукин Динар Марсельевич": 26,
-      "Брыкин Николай Гаврилович": 120,
-      "Соловьев Сергей Владимирович": 34,
-      "Трубин Глеб Александрович": 11,
-      "Чуйкова Светлана Геннадьевна": 13
+      "27220001497784": 42,
+      "27220001499469": 26,
+      "27220001498405": 120,
+      "27220001498290": 34,
+      "27220001492853": 11,
+      "27220001499345": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8776,6 +10484,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8785,8 +10497,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "4724005286468",
+    "uikName": "УИК №511",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 239,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 247,
@@ -8802,12 +10518,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 14,
-      "Абукин Динар Марсельевич": 22,
-      "Брыкин Николай Гаврилович": 132,
-      "Соловьев Сергей Владимирович": 18,
-      "Трубин Глеб Александрович": 10,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 14,
+      "27220001499469": 22,
+      "27220001498405": 132,
+      "27220001498290": 18,
+      "27220001492853": 10,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8817,6 +10533,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8826,8 +10546,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "4724005286469",
+    "uikName": "УИК №512",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 122,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 119,
@@ -8843,12 +10567,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 2,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 91,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 2,
+      "27220001499469": 1,
+      "27220001498405": 91,
+      "27220001498290": 1,
+      "27220001492853": 6,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8858,6 +10582,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8867,8 +10595,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "4724005286470",
+    "uikName": "УИК №513",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 367,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 366,
@@ -8884,12 +10616,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 218,
-      "Соловьев Сергей Владимирович": 25,
-      "Трубин Глеб Александрович": 20,
-      "Чуйкова Светлана Геннадьевна": 30
+      "27220001497784": 19,
+      "27220001499469": 0,
+      "27220001498405": 218,
+      "27220001498290": 25,
+      "27220001492853": 20,
+      "27220001499345": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8899,6 +10631,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8908,8 +10644,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "4724005286471",
+    "uikName": "УИК №515",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 454,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 453,
@@ -8925,12 +10665,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 23,
-      "Абукин Динар Марсельевич": 25,
-      "Брыкин Николай Гаврилович": 154,
-      "Соловьев Сергей Владимирович": 15,
-      "Трубин Глеб Александрович": 27,
-      "Чуйкова Светлана Геннадьевна": 23
+      "27220001497784": 23,
+      "27220001499469": 25,
+      "27220001498405": 154,
+      "27220001498290": 15,
+      "27220001492853": 27,
+      "27220001499345": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8940,6 +10680,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8949,8 +10693,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "4724005286472",
+    "uikName": "УИК №516",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 302,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 311,
@@ -8966,12 +10714,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 18,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 232,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 18,
+      "27220001499469": 12,
+      "27220001498405": 232,
+      "27220001498290": 6,
+      "27220001492853": 6,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -8981,6 +10729,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -8990,8 +10742,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "4724005286473",
+    "uikName": "УИК №517",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 254,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 263,
@@ -9007,12 +10763,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 19,
-      "Абукин Динар Марсельевич": 15,
-      "Брыкин Николай Гаврилович": 157,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 19,
+      "27220001499469": 15,
+      "27220001498405": 157,
+      "27220001498290": 12,
+      "27220001492853": 8,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9022,6 +10778,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9031,8 +10791,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "4724005286474",
+    "uikName": "УИК №518",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 374,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 400,
@@ -9048,12 +10812,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 11,
-      "Абукин Динар Марсельевич": 22,
-      "Брыкин Николай Гаврилович": 258,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 11,
+      "27220001499469": 22,
+      "27220001498405": 258,
+      "27220001498290": 4,
+      "27220001492853": 7,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9063,6 +10827,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9072,8 +10840,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "4724005286475",
+    "uikName": "УИК №519",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 893,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 901,
@@ -9089,12 +10861,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 62,
-      "Абукин Динар Марсельевич": 51,
-      "Брыкин Николай Гаврилович": 527,
-      "Соловьев Сергей Владимирович": 80,
-      "Трубин Глеб Александрович": 63,
-      "Чуйкова Светлана Геннадьевна": 29
+      "27220001497784": 62,
+      "27220001499469": 51,
+      "27220001498405": 527,
+      "27220001498290": 80,
+      "27220001492853": 63,
+      "27220001499345": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9104,6 +10876,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9113,8 +10889,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "4724005286476",
+    "uikName": "УИК №520",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 128,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 129,
@@ -9130,12 +10910,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 15,
-      "Брыкин Николай Гаврилович": 78,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 4,
+      "27220001499469": 15,
+      "27220001498405": 78,
+      "27220001498290": 2,
+      "27220001492853": 1,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9145,6 +10925,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9154,8 +10938,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "4724005286477",
+    "uikName": "УИК №521",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 148,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 148,
@@ -9171,12 +10959,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 10,
-      "Абукин Динар Марсельевич": 21,
-      "Брыкин Николай Гаврилович": 74,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 10,
+      "27220001499469": 21,
+      "27220001498405": 74,
+      "27220001498290": 2,
+      "27220001492853": 1,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9186,6 +10974,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9195,8 +10987,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "4724005286478",
+    "uikName": "УИК №522",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 334,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 371,
@@ -9212,12 +11008,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 36,
-      "Абукин Динар Марсельевич": 56,
-      "Брыкин Николай Гаврилович": 132,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 36,
+      "27220001499469": 56,
+      "27220001498405": 132,
+      "27220001498290": 3,
+      "27220001492853": 2,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9227,6 +11023,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9236,8 +11036,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "4724005286479",
+    "uikName": "УИК №523",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 608,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 626,
@@ -9253,12 +11057,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 12,
-      "Абукин Динар Марсельевич": 34,
-      "Брыкин Николай Гаврилович": 380,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 12,
+      "27220001499469": 34,
+      "27220001498405": 380,
+      "27220001498290": 1,
+      "27220001492853": 1,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9268,6 +11072,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9277,8 +11085,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "4724005286480",
+    "uikName": "УИК №524",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 103,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 104,
@@ -9294,12 +11106,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 3,
-      "Абукин Динар Марсельевич": 0,
-      "Брыкин Николай Гаврилович": 55,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 0,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 3,
+      "27220001499469": 0,
+      "27220001498405": 55,
+      "27220001498290": 2,
+      "27220001492853": 0,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9309,6 +11121,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9318,8 +11134,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "4724005286481",
+    "uikName": "УИК №525",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 123,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 122,
@@ -9335,12 +11155,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 13,
-      "Абукин Динар Марсельевич": 7,
-      "Брыкин Николай Гаврилович": 25,
-      "Соловьев Сергей Владимирович": 5,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 13,
+      "27220001499469": 7,
+      "27220001498405": 25,
+      "27220001498290": 5,
+      "27220001492853": 2,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9350,6 +11170,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9359,8 +11183,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "4724005286482",
+    "uikName": "УИК №526",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 668,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 681,
@@ -9376,12 +11204,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 119,
-      "Абукин Динар Марсельевич": 43,
-      "Брыкин Николай Гаврилович": 122,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 6,
-      "Чуйкова Светлана Геннадьевна": 8
+      "27220001497784": 119,
+      "27220001499469": 43,
+      "27220001498405": 122,
+      "27220001498290": 2,
+      "27220001492853": 6,
+      "27220001499345": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9391,6 +11219,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9400,8 +11232,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "4724005286483",
+    "uikName": "УИК №527",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 124,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 124,
@@ -9417,12 +11253,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 40,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 25,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 40,
+      "27220001499469": 12,
+      "27220001498405": 25,
+      "27220001498290": 1,
+      "27220001492853": 2,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9432,6 +11268,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9441,8 +11281,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "4724005286484",
+    "uikName": "УИК №528",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 325,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 332,
@@ -9458,12 +11302,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 9,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 220,
-      "Соловьев Сергей Владимирович": 22,
-      "Трубин Глеб Александрович": 8,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 9,
+      "27220001499469": 24,
+      "27220001498405": 220,
+      "27220001498290": 22,
+      "27220001492853": 8,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9473,6 +11317,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9482,8 +11330,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "4724005286485",
+    "uikName": "УИК №529",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1017,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1030,
@@ -9499,12 +11351,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 51,
-      "Абукин Динар Марсельевич": 4,
-      "Брыкин Николай Гаврилович": 714,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 59,
-      "Чуйкова Светлана Геннадьевна": 4
+      "27220001497784": 51,
+      "27220001499469": 4,
+      "27220001498405": 714,
+      "27220001498290": 12,
+      "27220001492853": 59,
+      "27220001499345": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9514,6 +11366,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9523,8 +11379,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "4724005286486",
+    "uikName": "УИК №531",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 133,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 144,
@@ -9540,12 +11400,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 2,
-      "Абукин Динар Марсельевич": 5,
-      "Брыкин Николай Гаврилович": 123,
-      "Соловьев Сергей Владимирович": 0,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 2,
+      "27220001499469": 5,
+      "27220001498405": 123,
+      "27220001498290": 0,
+      "27220001492853": 1,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9555,6 +11415,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9564,8 +11428,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "4724005286487",
+    "uikName": "УИК №532",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 210,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 216,
@@ -9581,12 +11449,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 24,
-      "Брыкин Николай Гаврилович": 137,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 3
+      "27220001497784": 4,
+      "27220001499469": 24,
+      "27220001498405": 137,
+      "27220001498290": 1,
+      "27220001492853": 3,
+      "27220001499345": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9596,6 +11464,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9605,8 +11477,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "4724005286488",
+    "uikName": "УИК №533",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 438,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 455,
@@ -9622,12 +11498,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 36,
-      "Абукин Динар Марсельевич": 56,
-      "Брыкин Николай Гаврилович": 142,
-      "Соловьев Сергей Владимирович": 15,
-      "Трубин Глеб Александрович": 7,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 36,
+      "27220001499469": 56,
+      "27220001498405": 142,
+      "27220001498290": 15,
+      "27220001492853": 7,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9637,6 +11513,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9646,8 +11526,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "4724005286489",
+    "uikName": "УИК №534",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 226,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 233,
@@ -9663,12 +11547,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 18,
-      "Абукин Динар Марсельевич": 49,
-      "Брыкин Николай Гаврилович": 118,
-      "Соловьев Сергей Владимирович": 12,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 18,
+      "27220001499469": 49,
+      "27220001498405": 118,
+      "27220001498290": 12,
+      "27220001492853": 2,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9678,6 +11562,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9687,8 +11575,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "4724005286490",
+    "uikName": "УИК №535",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 216,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 223,
@@ -9704,12 +11596,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 4,
-      "Абукин Динар Марсельевич": 12,
-      "Брыкин Николай Гаврилович": 179,
-      "Соловьев Сергей Владимирович": 6,
-      "Трубин Глеб Александрович": 1,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 4,
+      "27220001499469": 12,
+      "27220001498405": 179,
+      "27220001498290": 6,
+      "27220001492853": 1,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9719,6 +11611,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9728,8 +11624,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "4724005286491",
+    "uikName": "УИК №536",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 419,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 421,
@@ -9745,12 +11645,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 55,
-      "Абукин Динар Марсельевич": 6,
-      "Брыкин Николай Гаврилович": 294,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 0,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 55,
+      "27220001499469": 6,
+      "27220001498405": 294,
+      "27220001498290": 4,
+      "27220001492853": 0,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9760,6 +11660,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9769,8 +11673,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "4724005286492",
+    "uikName": "УИК №537",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 255,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 259,
@@ -9786,12 +11694,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 17,
-      "Абукин Динар Марсельевич": 14,
-      "Брыкин Николай Гаврилович": 161,
-      "Соловьев Сергей Владимирович": 7,
-      "Трубин Глеб Александрович": 19,
-      "Чуйкова Светлана Геннадьевна": 9
+      "27220001497784": 17,
+      "27220001499469": 14,
+      "27220001498405": 161,
+      "27220001498290": 7,
+      "27220001492853": 19,
+      "27220001499345": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9801,6 +11709,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9810,8 +11722,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "4724005286493",
+    "uikName": "УИК №538",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 276,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 281,
@@ -9827,12 +11743,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 1,
-      "Абукин Динар Марсельевич": 3,
-      "Брыкин Николай Гаврилович": 164,
-      "Соловьев Сергей Владимирович": 14,
-      "Трубин Глеб Александрович": 12,
-      "Чуйкова Светлана Геннадьевна": 7
+      "27220001497784": 1,
+      "27220001499469": 3,
+      "27220001498405": 164,
+      "27220001498290": 14,
+      "27220001492853": 12,
+      "27220001499345": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9842,6 +11758,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9851,8 +11771,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "4724005286494",
+    "uikName": "УИК №539",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 137,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 143,
@@ -9868,12 +11792,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 8,
-      "Абукин Динар Марсельевич": 9,
-      "Брыкин Николай Гаврилович": 77,
-      "Соловьев Сергей Владимирович": 4,
-      "Трубин Глеб Александрович": 0,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 8,
+      "27220001499469": 9,
+      "27220001498405": 77,
+      "27220001498290": 4,
+      "27220001492853": 0,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9883,6 +11807,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9892,8 +11820,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "4724005286495",
+    "uikName": "УИК №540",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 151,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 156,
@@ -9909,12 +11841,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 20,
-      "Абукин Динар Марсельевич": 19,
-      "Брыкин Николай Гаврилович": 33,
-      "Соловьев Сергей Владимирович": 8,
-      "Трубин Глеб Александрович": 5,
-      "Чуйкова Светлана Геннадьевна": 6
+      "27220001497784": 20,
+      "27220001499469": 19,
+      "27220001498405": 33,
+      "27220001498290": 8,
+      "27220001492853": 5,
+      "27220001499345": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9924,6 +11856,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9933,8 +11869,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "4724005286496",
+    "uikName": "УИК №541",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 307,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 312,
@@ -9950,12 +11890,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 13,
-      "Абукин Динар Марсельевич": 16,
-      "Брыкин Николай Гаврилович": 221,
-      "Соловьев Сергей Владимирович": 11,
-      "Трубин Глеб Александрович": 3,
-      "Чуйкова Светлана Геннадьевна": 1
+      "27220001497784": 13,
+      "27220001499469": 16,
+      "27220001498405": 221,
+      "27220001498290": 11,
+      "27220001492853": 3,
+      "27220001499345": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -9965,6 +11905,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -9974,8 +11918,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "4724005286497",
+    "uikName": "УИК №542",
     "tikTvd": "27220001482165",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 146,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 147,
@@ -9991,12 +11939,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 17,
-      "Абукин Динар Марсельевич": 21,
-      "Брыкин Николай Гаврилович": 89,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 2,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 17,
+      "27220001499469": 21,
+      "27220001498405": 89,
+      "27220001498290": 1,
+      "27220001492853": 2,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
@@ -10006,6 +11954,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.194345+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482165&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482165&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -10015,8 +11967,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "4724003195070",
+    "uikName": "УИК №301",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 935,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 890,
@@ -10032,12 +11988,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 72,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 703,
-      "Соловьев Сергей Владимирович": 3,
-      "Трубин Глеб Александрович": 87,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 72,
+      "27220001499469": 1,
+      "27220001498405": 703,
+      "27220001498290": 3,
+      "27220001492853": 87,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -10047,6 +12003,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -10056,8 +12016,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "4724003195071",
+    "uikName": "УИК №302",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 1039,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 1000,
@@ -10073,12 +12037,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 80,
-      "Абукин Динар Марсельевич": 3,
-      "Брыкин Николай Гаврилович": 780,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 96,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 80,
+      "27220001499469": 3,
+      "27220001498405": 780,
+      "27220001498290": 2,
+      "27220001492853": 96,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -10088,6 +12052,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -10097,8 +12065,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "4724003195072",
+    "uikName": "УИК №303",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 864,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 835,
@@ -10114,12 +12086,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 68,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 647,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 82,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 68,
+      "27220001499469": 2,
+      "27220001498405": 647,
+      "27220001498290": 2,
+      "27220001492853": 82,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -10129,6 +12101,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -10138,8 +12114,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "4724003195073",
+    "uikName": "УИК №304",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 884,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 930,
@@ -10155,12 +12135,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 71,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 716,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 85,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 71,
+      "27220001499469": 1,
+      "27220001498405": 716,
+      "27220001498290": 1,
+      "27220001492853": 85,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -10170,6 +12150,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -10179,8 +12163,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "4724003195074",
+    "uikName": "УИК №306",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 864,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 845,
@@ -10196,12 +12184,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 69,
-      "Абукин Динар Марсельевич": 2,
-      "Брыкин Николай Гаврилович": 640,
-      "Соловьев Сергей Владимирович": 2,
-      "Трубин Глеб Александрович": 89,
-      "Чуйкова Светлана Геннадьевна": 2
+      "27220001497784": 69,
+      "27220001499469": 2,
+      "27220001498405": 640,
+      "27220001498290": 2,
+      "27220001492853": 89,
+      "27220001499345": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -10211,6 +12199,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   },
   {
@@ -10220,8 +12212,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "4724003195075",
+    "uikName": "УИК №307",
     "tikTvd": "27220001482166",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100225883681",
+    "regionName": "Тюменская область",
     "accounting": {
       "Число избирателей, внесенных в список избирателей на момент окончания голосования": 323,
       "Число избирательных бюллетеней, полученных участковой избирательной комиссией": 315,
@@ -10237,12 +12233,12 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Абдуразаков Жалауддин Загидинович": 25,
-      "Абукин Динар Марсельевич": 1,
-      "Брыкин Николай Гаврилович": 243,
-      "Соловьев Сергей Владимирович": 1,
-      "Трубин Глеб Александрович": 30,
-      "Чуйкова Светлана Геннадьевна": 0
+      "27220001497784": 25,
+      "27220001499469": 1,
+      "27220001498405": 243,
+      "27220001498290": 1,
+      "27220001492853": 30,
+      "27220001499345": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
@@ -10252,6 +12248,10 @@ export const duma_2021_uik_463_region_72_part_002 = [
       "retrievedAt": "2026-08-26T08:08:56.360041+00:00",
       "finalUrl": "http://old.izbirkom.ru/region/region/tyumen?action=show&root=1000245&tvd=27220001482166&vrn=100100225883172&region=72&global=&sub_region=72&prver=0&pronetvd=null&vibid=27220001482166&type=464",
       "provenance": "live-official"
+    },
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100225883682"
     }
   }
 ] satisfies readonly UikProtocol[];

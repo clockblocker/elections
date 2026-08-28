@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 11,
-      "Быков Юрий Николаевич": 72,
-      "Климов Андрей Аркадьевич": 675,
-      "Коданев Михаил Николаевич": 36,
-      "Никитасенко Анатолий Валентинович": 89,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 8,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000202347": 11,
+      "gas:candidate-vibid:1001000121952": 72,
+      "gas:candidate-vibid:281200067144": 675,
+      "gas:candidate-vibid:281200068173": 36,
+      "gas:candidate-vibid:281200067642": 89,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 8,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 14,
-      "Климов Андрей Аркадьевич": 154,
-      "Коданев Михаил Николаевич": 12,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 14,
+      "gas:candidate-vibid:281200067144": 154,
+      "gas:candidate-vibid:281200068173": 12,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 10,
-      "Быков Юрий Николаевич": 32,
-      "Климов Андрей Аркадьевич": 396,
-      "Коданев Михаил Николаевич": 31,
-      "Никитасенко Анатолий Валентинович": 31,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202347": 10,
+      "gas:candidate-vibid:1001000121952": 32,
+      "gas:candidate-vibid:281200067144": 396,
+      "gas:candidate-vibid:281200068173": 31,
+      "gas:candidate-vibid:281200067642": 31,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 63,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 63,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 58,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 58,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 30,
-      "Климов Андрей Аркадьевич": 234,
-      "Коданев Михаил Николаевич": 26,
-      "Никитасенко Анатолий Валентинович": 30,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 23,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 30,
+      "gas:candidate-vibid:281200067144": 234,
+      "gas:candidate-vibid:281200068173": 26,
+      "gas:candidate-vibid:281200067642": 30,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 23,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 13,
-      "Климов Андрей Аркадьевич": 334,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 21,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 13,
+      "gas:candidate-vibid:281200067144": 334,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 21,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 22,
-      "Климов Андрей Аркадьевич": 341,
-      "Коданев Михаил Николаевич": 37,
-      "Никитасенко Анатолий Валентинович": 20,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 22,
+      "gas:candidate-vibid:281200067144": 341,
+      "gas:candidate-vibid:281200068173": 37,
+      "gas:candidate-vibid:281200067642": 20,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 12,
-      "Климов Андрей Аркадьевич": 70,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 12,
+      "gas:candidate-vibid:281200067144": 70,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 85,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 85,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 88,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 88,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 41,
-      "Климов Андрей Аркадьевич": 492,
-      "Коданев Михаил Николаевич": 26,
-      "Никитасенко Анатолий Валентинович": 28,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 41,
+      "gas:candidate-vibid:281200067144": 492,
+      "gas:candidate-vibid:281200068173": 26,
+      "gas:candidate-vibid:281200067642": 28,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 22,
-      "Климов Андрей Аркадьевич": 201,
-      "Коданев Михаил Николаевич": 30,
-      "Никитасенко Анатолий Валентинович": 6,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 22,
+      "gas:candidate-vibid:281200067144": 201,
+      "gas:candidate-vibid:281200068173": 30,
+      "gas:candidate-vibid:281200067642": 6,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 21,
-      "Климов Андрей Аркадьевич": 235,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 21,
+      "gas:candidate-vibid:281200067144": 235,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 9,
-      "Быков Юрий Николаевич": 39,
-      "Климов Андрей Аркадьевич": 379,
-      "Коданев Михаил Николаевич": 27,
-      "Никитасенко Анатолий Валентинович": 32,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202347": 9,
+      "gas:candidate-vibid:1001000121952": 39,
+      "gas:candidate-vibid:281200067144": 379,
+      "gas:candidate-vibid:281200068173": 27,
+      "gas:candidate-vibid:281200067642": 32,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 10,
-      "Быков Юрий Николаевич": 21,
-      "Климов Андрей Аркадьевич": 351,
-      "Коданев Михаил Николаевич": 24,
-      "Никитасенко Анатолий Валентинович": 16,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 6,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000202347": 10,
+      "gas:candidate-vibid:1001000121952": 21,
+      "gas:candidate-vibid:281200067144": 351,
+      "gas:candidate-vibid:281200068173": 24,
+      "gas:candidate-vibid:281200067642": 16,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 6,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 11,
-      "Быков Юрий Николаевич": 39,
-      "Климов Андрей Аркадьевич": 622,
-      "Коданев Михаил Николаевич": 63,
-      "Никитасенко Анатолий Валентинович": 42,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202347": 11,
+      "gas:candidate-vibid:1001000121952": 39,
+      "gas:candidate-vibid:281200067144": 622,
+      "gas:candidate-vibid:281200068173": 63,
+      "gas:candidate-vibid:281200067642": 42,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 105,
-      "Коданев Михаил Николаевич": 8,
-      "Никитасенко Анатолий Валентинович": 44,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 105,
+      "gas:candidate-vibid:281200068173": 8,
+      "gas:candidate-vibid:281200067642": 44,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 108,
-      "Коданев Михаил Николаевич": 17,
-      "Никитасенко Анатолий Валентинович": 15,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 108,
+      "gas:candidate-vibid:281200068173": 17,
+      "gas:candidate-vibid:281200067642": 15,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 86,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 12,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 86,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 12,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 137,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 14,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 137,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 14,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 20,
-      "Климов Андрей Аркадьевич": 240,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 20,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 20,
+      "gas:candidate-vibid:281200067144": 240,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 20,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 26,
-      "Климов Андрей Аркадьевич": 173,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 22,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 26,
+      "gas:candidate-vibid:281200067144": 173,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 22,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 8,
-      "Быков Юрий Николаевич": 26,
-      "Климов Андрей Аркадьевич": 402,
-      "Коданев Михаил Николаевич": 30,
-      "Никитасенко Анатолий Валентинович": 61,
-      "Седых Олег Михайлович": 4,
-      "Четин Александр Иванович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202347": 8,
+      "gas:candidate-vibid:1001000121952": 26,
+      "gas:candidate-vibid:281200067144": 402,
+      "gas:candidate-vibid:281200068173": 30,
+      "gas:candidate-vibid:281200067642": 61,
+      "gas:candidate-vibid:281200068055": 4,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 41,
-      "Климов Андрей Аркадьевич": 363,
-      "Коданев Михаил Николаевич": 22,
-      "Никитасенко Анатолий Валентинович": 46,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 41,
+      "gas:candidate-vibid:281200067144": 363,
+      "gas:candidate-vibid:281200068173": 22,
+      "gas:candidate-vibid:281200067642": 46,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 14,
-      "Быков Юрий Николаевич": 16,
-      "Климов Андрей Аркадьевич": 217,
-      "Коданев Михаил Николаевич": 23,
-      "Никитасенко Анатолий Валентинович": 40,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202347": 14,
+      "gas:candidate-vibid:1001000121952": 16,
+      "gas:candidate-vibid:281200067144": 217,
+      "gas:candidate-vibid:281200068173": 23,
+      "gas:candidate-vibid:281200067642": 40,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 149,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 149,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 9,
-      "Быков Юрий Николаевич": 14,
-      "Климов Андрей Аркадьевич": 387,
-      "Коданев Михаил Николаевич": 25,
-      "Никитасенко Анатолий Валентинович": 80,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202347": 9,
+      "gas:candidate-vibid:1001000121952": 14,
+      "gas:candidate-vibid:281200067144": 387,
+      "gas:candidate-vibid:281200068173": 25,
+      "gas:candidate-vibid:281200067642": 80,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 92,
-      "Коданев Михаил Николаевич": 19,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 92,
+      "gas:candidate-vibid:281200068173": 19,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 88,
-      "Коданев Михаил Николаевич": 19,
-      "Никитасенко Анатолий Валентинович": 7,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 88,
+      "gas:candidate-vibid:281200068173": 19,
+      "gas:candidate-vibid:281200067642": 7,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 37,
-      "Климов Андрей Аркадьевич": 261,
-      "Коданев Михаил Николаевич": 16,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 37,
+      "gas:candidate-vibid:281200067144": 261,
+      "gas:candidate-vibid:281200068173": 16,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 12,
-      "Климов Андрей Аркадьевич": 243,
-      "Коданев Михаил Николаевич": 15,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 12,
+      "gas:candidate-vibid:281200067144": 243,
+      "gas:candidate-vibid:281200068173": 15,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 9,
-      "Быков Юрий Николаевич": 24,
-      "Климов Андрей Аркадьевич": 230,
-      "Коданев Михаил Николаевич": 27,
-      "Никитасенко Анатолий Валентинович": 51,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 9,
+      "gas:candidate-vibid:1001000121952": 24,
+      "gas:candidate-vibid:281200067144": 230,
+      "gas:candidate-vibid:281200068173": 27,
+      "gas:candidate-vibid:281200067642": 51,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 12,
-      "Климов Андрей Аркадьевич": 348,
-      "Коданев Михаил Николаевич": 26,
-      "Никитасенко Анатолий Валентинович": 22,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 12,
+      "gas:candidate-vibid:281200067144": 348,
+      "gas:candidate-vibid:281200068173": 26,
+      "gas:candidate-vibid:281200067642": 22,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 130,
-      "Коданев Михаил Николаевич": 18,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 130,
+      "gas:candidate-vibid:281200068173": 18,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 146,
-      "Коданев Михаил Николаевич": 5,
-      "Никитасенко Анатолий Валентинович": 34,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 146,
+      "gas:candidate-vibid:281200068173": 5,
+      "gas:candidate-vibid:281200067642": 34,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 23,
-      "Климов Андрей Аркадьевич": 173,
-      "Коданев Михаил Николаевич": 10,
-      "Никитасенко Анатолий Валентинович": 8,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 23,
+      "gas:candidate-vibid:281200067144": 173,
+      "gas:candidate-vibid:281200068173": 10,
+      "gas:candidate-vibid:281200067642": 8,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 18,
-      "Климов Андрей Аркадьевич": 206,
-      "Коданев Михаил Николаевич": 31,
-      "Никитасенко Анатолий Валентинович": 26,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 18,
+      "gas:candidate-vibid:281200067144": 206,
+      "gas:candidate-vibid:281200068173": 31,
+      "gas:candidate-vibid:281200067642": 26,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 17,
-      "Климов Андрей Аркадьевич": 279,
-      "Коданев Михаил Николаевич": 32,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 17,
+      "gas:candidate-vibid:281200067144": 279,
+      "gas:candidate-vibid:281200068173": 32,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 10,
-      "Климов Андрей Аркадьевич": 108,
-      "Коданев Михаил Николаевич": 17,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 10,
+      "gas:candidate-vibid:281200067144": 108,
+      "gas:candidate-vibid:281200068173": 17,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 213,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 5,
-      "Четин Александр Иванович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 213,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 5,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 201,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 12,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 201,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 12,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 9,
-      "Климов Андрей Аркадьевич": 206,
-      "Коданев Михаил Николаевич": 17,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 9,
+      "gas:candidate-vibid:281200067144": 206,
+      "gas:candidate-vibid:281200068173": 17,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067133&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 32,
-      "Климов Андрей Аркадьевич": 316,
-      "Коданев Михаил Николаевич": 24,
-      "Никитасенко Анатолий Валентинович": 21,
-      "Седых Олег Михайлович": 6,
-      "Четин Александр Иванович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 32,
+      "gas:candidate-vibid:281200067144": 316,
+      "gas:candidate-vibid:281200068173": 24,
+      "gas:candidate-vibid:281200067642": 21,
+      "gas:candidate-vibid:281200068055": 6,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 24,
-      "Климов Андрей Аркадьевич": 306,
-      "Коданев Михаил Николаевич": 18,
-      "Никитасенко Анатолий Валентинович": 48,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 9,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 24,
+      "gas:candidate-vibid:281200067144": 306,
+      "gas:candidate-vibid:281200068173": 18,
+      "gas:candidate-vibid:281200067642": 48,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 9,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 12,
-      "Быков Юрий Николаевич": 29,
-      "Климов Андрей Аркадьевич": 437,
-      "Коданев Михаил Николаевич": 23,
-      "Никитасенко Анатолий Валентинович": 44,
-      "Седых Олег Михайлович": 5,
-      "Четин Александр Иванович": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000202347": 12,
+      "gas:candidate-vibid:1001000121952": 29,
+      "gas:candidate-vibid:281200067144": 437,
+      "gas:candidate-vibid:281200068173": 23,
+      "gas:candidate-vibid:281200067642": 44,
+      "gas:candidate-vibid:281200068055": 5,
+      "gas:candidate-vibid:281200067663": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 156,
-      "Коданев Михаил Николаевич": 29,
-      "Никитасенко Анатолий Валентинович": 59,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 156,
+      "gas:candidate-vibid:281200068173": 29,
+      "gas:candidate-vibid:281200067642": 59,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 14,
-      "Климов Андрей Аркадьевич": 301,
-      "Коданев Михаил Николаевич": 22,
-      "Никитасенко Анатолий Валентинович": 48,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 14,
+      "gas:candidate-vibid:281200067144": 301,
+      "gas:candidate-vibid:281200068173": 22,
+      "gas:candidate-vibid:281200067642": 48,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 106,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 106,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 42,
-      "Коданев Михаил Николаевич": 8,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 42,
+      "gas:candidate-vibid:281200068173": 8,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 40,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 40,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 70,
-      "Коданев Михаил Николаевич": 13,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 70,
+      "gas:candidate-vibid:281200068173": 13,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 22,
-      "Климов Андрей Аркадьевич": 109,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 17,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 22,
+      "gas:candidate-vibid:281200067144": 109,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 17,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 95,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 95,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 27,
-      "Климов Андрей Аркадьевич": 229,
-      "Коданев Михаил Николаевич": 44,
-      "Никитасенко Анатолий Валентинович": 59,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 27,
+      "gas:candidate-vibid:281200067144": 229,
+      "gas:candidate-vibid:281200068173": 44,
+      "gas:candidate-vibid:281200067642": 59,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 56,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 56,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 158,
-      "Коданев Михаил Николаевич": 31,
-      "Никитасенко Анатолий Валентинович": 33,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 158,
+      "gas:candidate-vibid:281200068173": 31,
+      "gas:candidate-vibid:281200067642": 33,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 14,
-      "Климов Андрей Аркадьевич": 209,
-      "Коданев Михаил Николаевич": 17,
-      "Никитасенко Анатолий Валентинович": 72,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 14,
+      "gas:candidate-vibid:281200067144": 209,
+      "gas:candidate-vibid:281200068173": 17,
+      "gas:candidate-vibid:281200067642": 72,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 0,
-      "Климов Андрей Аркадьевич": 53,
-      "Коданев Михаил Николаевич": 15,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 0,
+      "gas:candidate-vibid:281200067144": 53,
+      "gas:candidate-vibid:281200068173": 15,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 98,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 98,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 15,
-      "Климов Андрей Аркадьевич": 286,
-      "Коданев Михаил Николаевич": 20,
-      "Никитасенко Анатолий Валентинович": 60,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 15,
+      "gas:candidate-vibid:281200067144": 286,
+      "gas:candidate-vibid:281200068173": 20,
+      "gas:candidate-vibid:281200067642": 60,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 36,
-      "Коданев Михаил Николаевич": 10,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 36,
+      "gas:candidate-vibid:281200068173": 10,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 136,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 136,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 71,
-      "Коданев Михаил Николаевич": 5,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 71,
+      "gas:candidate-vibid:281200068173": 5,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 10,
-      "Быков Юрий Николаевич": 14,
-      "Климов Андрей Аркадьевич": 176,
-      "Коданев Михаил Николаевич": 26,
-      "Никитасенко Анатолий Валентинович": 140,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000202347": 10,
+      "gas:candidate-vibid:1001000121952": 14,
+      "gas:candidate-vibid:281200067144": 176,
+      "gas:candidate-vibid:281200068173": 26,
+      "gas:candidate-vibid:281200067642": 140,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 87,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 37,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 87,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 37,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 83,
-      "Коданев Михаил Николаевич": 16,
-      "Никитасенко Анатолий Валентинович": 16,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 83,
+      "gas:candidate-vibid:281200068173": 16,
+      "gas:candidate-vibid:281200067642": 16,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 71,
-      "Коданев Михаил Николаевич": 13,
-      "Никитасенко Анатолий Валентинович": 13,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 71,
+      "gas:candidate-vibid:281200068173": 13,
+      "gas:candidate-vibid:281200067642": 13,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 142,
-      "Коданев Михаил Николаевич": 1,
-      "Никитасенко Анатолий Валентинович": 44,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 142,
+      "gas:candidate-vibid:281200068173": 1,
+      "gas:candidate-vibid:281200067642": 44,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 166,
-      "Коданев Михаил Николаевич": 37,
-      "Никитасенко Анатолий Валентинович": 69,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 166,
+      "gas:candidate-vibid:281200068173": 37,
+      "gas:candidate-vibid:281200067642": 69,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 15,
-      "Климов Андрей Аркадьевич": 410,
-      "Коданев Михаил Николаевич": 74,
-      "Никитасенко Анатолий Валентинович": 78,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 15,
+      "gas:candidate-vibid:281200067144": 410,
+      "gas:candidate-vibid:281200068173": 74,
+      "gas:candidate-vibid:281200067642": 78,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 12,
-      "Климов Андрей Аркадьевич": 238,
-      "Коданев Михаил Николаевич": 45,
-      "Никитасенко Анатолий Валентинович": 70,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 12,
+      "gas:candidate-vibid:281200067144": 238,
+      "gas:candidate-vibid:281200068173": 45,
+      "gas:candidate-vibid:281200067642": 70,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067134&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 97,
-      "Климов Андрей Аркадьевич": 568,
-      "Коданев Михаил Николаевич": 33,
-      "Никитасенко Анатолий Валентинович": 206,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 97,
+      "gas:candidate-vibid:281200067144": 568,
+      "gas:candidate-vibid:281200068173": 33,
+      "gas:candidate-vibid:281200067642": 206,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 41,
-      "Климов Андрей Аркадьевич": 366,
-      "Коданев Михаил Николаевич": 16,
-      "Никитасенко Анатолий Валентинович": 106,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 41,
+      "gas:candidate-vibid:281200067144": 366,
+      "gas:candidate-vibid:281200068173": 16,
+      "gas:candidate-vibid:281200067642": 106,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 31,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 7,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 31,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 7,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 34,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 34,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 73,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 73,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 197,
-      "Коданев Михаил Николаевич": 14,
-      "Никитасенко Анатолий Валентинович": 12,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 197,
+      "gas:candidate-vibid:281200068173": 14,
+      "gas:candidate-vibid:281200067642": 12,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 155,
-      "Коданев Михаил Николаевич": 24,
-      "Никитасенко Анатолий Валентинович": 18,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 155,
+      "gas:candidate-vibid:281200068173": 24,
+      "gas:candidate-vibid:281200067642": 18,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 20,
-      "Климов Андрей Аркадьевич": 147,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 47,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 20,
+      "gas:candidate-vibid:281200067144": 147,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 47,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 90,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 7,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 90,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 7,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 40,
-      "Коданев Михаил Николаевич": 8,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 40,
+      "gas:candidate-vibid:281200068173": 8,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 21,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 21,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 16,
-      "Климов Андрей Аркадьевич": 82,
-      "Коданев Михаил Николаевич": 24,
-      "Никитасенко Анатолий Валентинович": 14,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 16,
+      "gas:candidate-vibid:281200067144": 82,
+      "gas:candidate-vibid:281200068173": 24,
+      "gas:candidate-vibid:281200067642": 14,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 43,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 22,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 43,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 22,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 12,
-      "Климов Андрей Аркадьевич": 175,
-      "Коданев Михаил Николаевич": 14,
-      "Никитасенко Анатолий Валентинович": 13,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 12,
+      "gas:candidate-vibid:281200067144": 175,
+      "gas:candidate-vibid:281200068173": 14,
+      "gas:candidate-vibid:281200067642": 13,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 37,
-      "Коданев Михаил Николаевич": 5,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 37,
+      "gas:candidate-vibid:281200068173": 5,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 73,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 73,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 13,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 13,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 129,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 98,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 129,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 98,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 92,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 14,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 92,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 14,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 38,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 81,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 38,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 81,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 52,
-      "Коданев Михаил Николаевич": 13,
-      "Никитасенко Анатолий Валентинович": 45,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 52,
+      "gas:candidate-vibid:281200068173": 13,
+      "gas:candidate-vibid:281200067642": 45,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 83,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 9,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 83,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 9,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067135&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 15,
-      "Климов Андрей Аркадьевич": 150,
-      "Коданев Михаил Николаевич": 56,
-      "Никитасенко Анатолий Валентинович": 23,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 15,
+      "gas:candidate-vibid:281200067144": 150,
+      "gas:candidate-vibid:281200068173": 56,
+      "gas:candidate-vibid:281200067642": 23,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 29,
-      "Быков Юрий Николаевич": 159,
-      "Климов Андрей Аркадьевич": 915,
-      "Коданев Михаил Николаевич": 124,
-      "Никитасенко Анатолий Валентинович": 114,
-      "Седых Олег Михайлович": 7,
-      "Четин Александр Иванович": 10,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000202347": 29,
+      "gas:candidate-vibid:1001000121952": 159,
+      "gas:candidate-vibid:281200067144": 915,
+      "gas:candidate-vibid:281200068173": 124,
+      "gas:candidate-vibid:281200067642": 114,
+      "gas:candidate-vibid:281200068055": 7,
+      "gas:candidate-vibid:281200067663": 10,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 0,
-      "Климов Андрей Аркадьевич": 47,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 0,
+      "gas:candidate-vibid:281200067144": 47,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 10,
-      "Климов Андрей Аркадьевич": 64,
-      "Коданев Михаил Николаевич": 22,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 10,
+      "gas:candidate-vibid:281200067144": 64,
+      "gas:candidate-vibid:281200068173": 22,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 28,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 28,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 18,
-      "Климов Андрей Аркадьевич": 120,
-      "Коданев Михаил Николаевич": 27,
-      "Никитасенко Анатолий Валентинович": 17,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 18,
+      "gas:candidate-vibid:281200067144": 120,
+      "gas:candidate-vibid:281200068173": 27,
+      "gas:candidate-vibid:281200067642": 17,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 30,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 30,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 107,
-      "Коданев Михаил Николаевич": 8,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 107,
+      "gas:candidate-vibid:281200068173": 8,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 61,
-      "Коданев Михаил Николаевич": 20,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 61,
+      "gas:candidate-vibid:281200068173": 20,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 210,
-      "Коданев Михаил Николаевич": 21,
-      "Никитасенко Анатолий Валентинович": 25,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 210,
+      "gas:candidate-vibid:281200068173": 21,
+      "gas:candidate-vibid:281200067642": 25,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 59,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 59,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 37,
-      "Климов Андрей Аркадьевич": 142,
-      "Коданев Михаил Николаевич": 12,
-      "Никитасенко Анатолий Валентинович": 11,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 37,
+      "gas:candidate-vibid:281200067144": 142,
+      "gas:candidate-vibid:281200068173": 12,
+      "gas:candidate-vibid:281200067642": 11,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 40,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 40,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 17,
-      "Климов Андрей Аркадьевич": 153,
-      "Коданев Михаил Николаевич": 27,
-      "Никитасенко Анатолий Валентинович": 18,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 17,
+      "gas:candidate-vibid:281200067144": 153,
+      "gas:candidate-vibid:281200068173": 27,
+      "gas:candidate-vibid:281200067642": 18,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 10,
-      "Климов Андрей Аркадьевич": 26,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 11,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 10,
+      "gas:candidate-vibid:281200067144": 26,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 11,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 83,
-      "Коданев Михаил Николаевич": 32,
-      "Никитасенко Анатолий Валентинович": 7,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 83,
+      "gas:candidate-vibid:281200068173": 32,
+      "gas:candidate-vibid:281200067642": 7,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 88,
-      "Коданев Михаил Николаевич": 9,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 88,
+      "gas:candidate-vibid:281200068173": 9,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 10,
-      "Климов Андрей Аркадьевич": 223,
-      "Коданев Михаил Николаевич": 17,
-      "Никитасенко Анатолий Валентинович": 10,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 10,
+      "gas:candidate-vibid:281200067144": 223,
+      "gas:candidate-vibid:281200068173": 17,
+      "gas:candidate-vibid:281200067642": 10,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 83,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 6,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 83,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 6,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 17,
-      "Климов Андрей Аркадьевич": 202,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 16,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 17,
+      "gas:candidate-vibid:281200067144": 202,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 16,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 76,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 23,
-      "Седых Олег Михайлович": 6,
-      "Четин Александр Иванович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 76,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 23,
+      "gas:candidate-vibid:281200068055": 6,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 50,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 50,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 95,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 95,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 87,
-      "Коданев Михаил Николаевич": 14,
-      "Никитасенко Анатолий Валентинович": 20,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 87,
+      "gas:candidate-vibid:281200068173": 14,
+      "gas:candidate-vibid:281200067642": 20,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 20,
-      "Климов Андрей Аркадьевич": 165,
-      "Коданев Михаил Николаевич": 30,
-      "Никитасенко Анатолий Валентинович": 57,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 20,
+      "gas:candidate-vibid:281200067144": 165,
+      "gas:candidate-vibid:281200068173": 30,
+      "gas:candidate-vibid:281200067642": 57,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 23,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 23,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 10,
-      "Климов Андрей Аркадьевич": 41,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 10,
+      "gas:candidate-vibid:281200067144": 41,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 9,
-      "Климов Андрей Аркадьевич": 62,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 6,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 9,
+      "gas:candidate-vibid:281200067144": 62,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 6,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 62,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 62,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067136&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 15,
-      "Быков Юрий Николаевич": 247,
-      "Климов Андрей Аркадьевич": 666,
-      "Коданев Михаил Николаевич": 61,
-      "Никитасенко Анатолий Валентинович": 161,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 10,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000202347": 15,
+      "gas:candidate-vibid:1001000121952": 247,
+      "gas:candidate-vibid:281200067144": 666,
+      "gas:candidate-vibid:281200068173": 61,
+      "gas:candidate-vibid:281200067642": 161,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 10,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 63,
-      "Климов Андрей Аркадьевич": 215,
-      "Коданев Михаил Николаевич": 12,
-      "Никитасенко Анатолий Валентинович": 66,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 63,
+      "gas:candidate-vibid:281200067144": 215,
+      "gas:candidate-vibid:281200068173": 12,
+      "gas:candidate-vibid:281200067642": 66,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 152,
-      "Климов Андрей Аркадьевич": 224,
-      "Коданев Михаил Николаевич": 19,
-      "Никитасенко Анатолий Валентинович": 55,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 152,
+      "gas:candidate-vibid:281200067144": 224,
+      "gas:candidate-vibid:281200068173": 19,
+      "gas:candidate-vibid:281200067642": 55,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 10,
-      "Климов Андрей Аркадьевич": 94,
-      "Коданев Михаил Николаевич": 13,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 10,
+      "gas:candidate-vibid:281200067144": 94,
+      "gas:candidate-vibid:281200068173": 13,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 13,
-      "Климов Андрей Аркадьевич": 119,
-      "Коданев Михаил Николаевич": 33,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 13,
+      "gas:candidate-vibid:281200067144": 119,
+      "gas:candidate-vibid:281200068173": 33,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 44,
-      "Климов Андрей Аркадьевич": 251,
-      "Коданев Михаил Николаевич": 38,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 44,
+      "gas:candidate-vibid:281200067144": 251,
+      "gas:candidate-vibid:281200068173": 38,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 60,
-      "Климов Андрей Аркадьевич": 182,
-      "Коданев Михаил Николаевич": 47,
-      "Никитасенко Анатолий Валентинович": 14,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 60,
+      "gas:candidate-vibid:281200067144": 182,
+      "gas:candidate-vibid:281200068173": 47,
+      "gas:candidate-vibid:281200067642": 14,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 10,
-      "Быков Юрий Николаевич": 90,
-      "Климов Андрей Аркадьевич": 348,
-      "Коданев Михаил Николаевич": 45,
-      "Никитасенко Анатолий Валентинович": 11,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202347": 10,
+      "gas:candidate-vibid:1001000121952": 90,
+      "gas:candidate-vibid:281200067144": 348,
+      "gas:candidate-vibid:281200068173": 45,
+      "gas:candidate-vibid:281200067642": 11,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 76,
-      "Климов Андрей Аркадьевич": 281,
-      "Коданев Михаил Николаевич": 28,
-      "Никитасенко Анатолий Валентинович": 26,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 6,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 76,
+      "gas:candidate-vibid:281200067144": 281,
+      "gas:candidate-vibid:281200068173": 28,
+      "gas:candidate-vibid:281200067642": 26,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 6,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 139,
-      "Коданев Михаил Николаевич": 12,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 139,
+      "gas:candidate-vibid:281200068173": 12,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 272,
-      "Коданев Михаил Николаевич": 10,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 272,
+      "gas:candidate-vibid:281200068173": 10,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 24,
-      "Климов Андрей Аркадьевич": 288,
-      "Коданев Михаил Николаевич": 25,
-      "Никитасенко Анатолий Валентинович": 18,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 24,
+      "gas:candidate-vibid:281200067144": 288,
+      "gas:candidate-vibid:281200068173": 25,
+      "gas:candidate-vibid:281200067642": 18,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 23,
-      "Климов Андрей Аркадьевич": 184,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 8,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 23,
+      "gas:candidate-vibid:281200067144": 184,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 8,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 11,
-      "Климов Андрей Аркадьевич": 76,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 9,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 11,
+      "gas:candidate-vibid:281200067144": 76,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 9,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 34,
-      "Климов Андрей Аркадьевич": 300,
-      "Коданев Михаил Николаевич": 16,
-      "Никитасенко Анатолий Валентинович": 12,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 34,
+      "gas:candidate-vibid:281200067144": 300,
+      "gas:candidate-vibid:281200068173": 16,
+      "gas:candidate-vibid:281200067642": 12,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 13,
-      "Климов Андрей Аркадьевич": 150,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 13,
+      "gas:candidate-vibid:281200067144": 150,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 30,
-      "Климов Андрей Аркадьевич": 175,
-      "Коданев Михаил Николаевич": 31,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 30,
+      "gas:candidate-vibid:281200067144": 175,
+      "gas:candidate-vibid:281200068173": 31,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 22,
-      "Климов Андрей Аркадьевич": 94,
-      "Коданев Михаил Николаевич": 25,
-      "Никитасенко Анатолий Валентинович": 27,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 22,
+      "gas:candidate-vibid:281200067144": 94,
+      "gas:candidate-vibid:281200068173": 25,
+      "gas:candidate-vibid:281200067642": 27,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 13,
-      "Климов Андрей Аркадьевич": 31,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 13,
+      "gas:candidate-vibid:281200067144": 31,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 51,
-      "Климов Андрей Аркадьевич": 149,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 17,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 51,
+      "gas:candidate-vibid:281200067144": 149,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 17,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 35,
-      "Климов Андрей Аркадьевич": 162,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 23,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 35,
+      "gas:candidate-vibid:281200067144": 162,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 23,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 38,
-      "Климов Андрей Аркадьевич": 376,
-      "Коданев Михаил Николаевич": 20,
-      "Никитасенко Анатолий Валентинович": 22,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 38,
+      "gas:candidate-vibid:281200067144": 376,
+      "gas:candidate-vibid:281200068173": 20,
+      "gas:candidate-vibid:281200067642": 22,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 30,
-      "Климов Андрей Аркадьевич": 324,
-      "Коданев Михаил Николаевич": 38,
-      "Никитасенко Анатолий Валентинович": 50,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 30,
+      "gas:candidate-vibid:281200067144": 324,
+      "gas:candidate-vibid:281200068173": 38,
+      "gas:candidate-vibid:281200067642": 50,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 40,
-      "Климов Андрей Аркадьевич": 518,
-      "Коданев Михаил Николаевич": 52,
-      "Никитасенко Анатолий Валентинович": 75,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 40,
+      "gas:candidate-vibid:281200067144": 518,
+      "gas:candidate-vibid:281200068173": 52,
+      "gas:candidate-vibid:281200067642": 75,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 68,
-      "Коданев Михаил Николаевич": 8,
-      "Никитасенко Анатолий Валентинович": 4,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 68,
+      "gas:candidate-vibid:281200068173": 8,
+      "gas:candidate-vibid:281200067642": 4,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 17,
-      "Климов Андрей Аркадьевич": 350,
-      "Коданев Михаил Николаевич": 28,
-      "Никитасенко Анатолий Валентинович": 21,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 0,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 17,
+      "gas:candidate-vibid:281200067144": 350,
+      "gas:candidate-vibid:281200068173": 28,
+      "gas:candidate-vibid:281200067642": 21,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 16,
-      "Климов Андрей Аркадьевич": 393,
-      "Коданев Михаил Николаевич": 32,
-      "Никитасенко Анатолий Валентинович": 39,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 16,
+      "gas:candidate-vibid:281200067144": 393,
+      "gas:candidate-vibid:281200068173": 32,
+      "gas:candidate-vibid:281200067642": 39,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 8,
-      "Быков Юрий Николаевич": 33,
-      "Климов Андрей Аркадьевич": 722,
-      "Коданев Михаил Николаевич": 30,
-      "Никитасенко Анатолий Валентинович": 36,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 3,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000202347": 8,
+      "gas:candidate-vibid:1001000121952": 33,
+      "gas:candidate-vibid:281200067144": 722,
+      "gas:candidate-vibid:281200068173": 30,
+      "gas:candidate-vibid:281200067642": 36,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 7,
-      "Быков Юрий Николаевич": 25,
-      "Климов Андрей Аркадьевич": 286,
-      "Коданев Михаил Николаевич": 33,
-      "Никитасенко Анатолий Валентинович": 74,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202347": 7,
+      "gas:candidate-vibid:1001000121952": 25,
+      "gas:candidate-vibid:281200067144": 286,
+      "gas:candidate-vibid:281200068173": 33,
+      "gas:candidate-vibid:281200067642": 74,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 14,
-      "Климов Андрей Аркадьевич": 49,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 20,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 14,
+      "gas:candidate-vibid:281200067144": 49,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 20,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067137&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 19,
-      "Климов Андрей Аркадьевич": 267,
-      "Коданев Михаил Николаевич": 13,
-      "Никитасенко Анатолий Валентинович": 56,
-      "Седых Олег Михайлович": 4,
-      "Четин Александр Иванович": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 19,
+      "gas:candidate-vibid:281200067144": 267,
+      "gas:candidate-vibid:281200068173": 13,
+      "gas:candidate-vibid:281200067642": 56,
+      "gas:candidate-vibid:281200068055": 4,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 17,
-      "Климов Андрей Аркадьевич": 193,
-      "Коданев Михаил Николаевич": 14,
-      "Никитасенко Анатолий Валентинович": 73,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 17,
+      "gas:candidate-vibid:281200067144": 193,
+      "gas:candidate-vibid:281200068173": 14,
+      "gas:candidate-vibid:281200067642": 73,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 13,
-      "Климов Андрей Аркадьевич": 200,
-      "Коданев Михаил Николаевич": 14,
-      "Никитасенко Анатолий Валентинович": 52,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 13,
+      "gas:candidate-vibid:281200067144": 200,
+      "gas:candidate-vibid:281200068173": 14,
+      "gas:candidate-vibid:281200067642": 52,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 19,
-      "Климов Андрей Аркадьевич": 185,
-      "Коданев Михаил Николаевич": 16,
-      "Никитасенко Анатолий Валентинович": 52,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 1,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 19,
+      "gas:candidate-vibid:281200067144": 185,
+      "gas:candidate-vibid:281200068173": 16,
+      "gas:candidate-vibid:281200067642": 52,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 63,
-      "Коданев Михаил Николаевич": 1,
-      "Никитасенко Анатолий Валентинович": 19,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 63,
+      "gas:candidate-vibid:281200068173": 1,
+      "gas:candidate-vibid:281200067642": 19,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 13,
-      "Климов Андрей Аркадьевич": 117,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 99,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 13,
+      "gas:candidate-vibid:281200067144": 117,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 99,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 86,
-      "Коданев Михаил Николаевич": 11,
-      "Никитасенко Анатолий Валентинович": 7,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 86,
+      "gas:candidate-vibid:281200068173": 11,
+      "gas:candidate-vibid:281200067642": 7,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 102,
-      "Коданев Михаил Николаевич": 8,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 102,
+      "gas:candidate-vibid:281200068173": 8,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 54,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 20,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 54,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 20,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 43,
-      "Климов Андрей Аркадьевич": 79,
-      "Коданев Михаил Николаевич": 26,
-      "Никитасенко Анатолий Валентинович": 19,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 43,
+      "gas:candidate-vibid:281200067144": 79,
+      "gas:candidate-vibid:281200068173": 26,
+      "gas:candidate-vibid:281200067642": 19,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 9,
-      "Климов Андрей Аркадьевич": 69,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 19,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 9,
+      "gas:candidate-vibid:281200067144": 69,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 19,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 27,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 0,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 27,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 0,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 9,
-      "Климов Андрей Аркадьевич": 60,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 9,
+      "gas:candidate-vibid:281200067144": 60,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 22,
-      "Климов Андрей Аркадьевич": 204,
-      "Коданев Михаил Николаевич": 22,
-      "Никитасенко Анатолий Валентинович": 26,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 22,
+      "gas:candidate-vibid:281200067144": 204,
+      "gas:candidate-vibid:281200068173": 22,
+      "gas:candidate-vibid:281200067642": 26,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 88,
-      "Коданев Михаил Николаевич": 6,
-      "Никитасенко Анатолий Валентинович": 5,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 88,
+      "gas:candidate-vibid:281200068173": 6,
+      "gas:candidate-vibid:281200067642": 5,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 76,
-      "Коданев Михаил Николаевич": 5,
-      "Никитасенко Анатолий Валентинович": 82,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 76,
+      "gas:candidate-vibid:281200068173": 5,
+      "gas:candidate-vibid:281200067642": 82,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 51,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 3,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 51,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 3,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 5,
-      "Быков Юрий Николаевич": 20,
-      "Климов Андрей Аркадьевич": 192,
-      "Коданев Михаил Николаевич": 30,
-      "Никитасенко Анатолий Валентинович": 36,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000202347": 5,
+      "gas:candidate-vibid:1001000121952": 20,
+      "gas:candidate-vibid:281200067144": 192,
+      "gas:candidate-vibid:281200068173": 30,
+      "gas:candidate-vibid:281200067642": 36,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 3,
-      "Климов Андрей Аркадьевич": 46,
-      "Коданев Михаил Николаевич": 16,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 3,
+      "gas:candidate-vibid:281200067144": 46,
+      "gas:candidate-vibid:281200068173": 16,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 91,
-      "Коданев Михаил Николаевич": 17,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 91,
+      "gas:candidate-vibid:281200068173": 17,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 5,
-      "Климов Андрей Аркадьевич": 78,
-      "Коданев Михаил Николаевич": 0,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 5,
+      "gas:candidate-vibid:281200067144": 78,
+      "gas:candidate-vibid:281200068173": 0,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 3,
-      "Быков Юрий Николаевич": 4,
-      "Климов Андрей Аркадьевич": 84,
-      "Коданев Михаил Николаевич": 10,
-      "Никитасенко Анатолий Валентинович": 2,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202347": 3,
+      "gas:candidate-vibid:1001000121952": 4,
+      "gas:candidate-vibid:281200067144": 84,
+      "gas:candidate-vibid:281200068173": 10,
+      "gas:candidate-vibid:281200067642": 2,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 4,
-      "Быков Юрий Николаевич": 15,
-      "Климов Андрей Аркадьевич": 184,
-      "Коданев Михаил Николаевич": 28,
-      "Никитасенко Анатолий Валентинович": 26,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202347": 4,
+      "gas:candidate-vibid:1001000121952": 15,
+      "gas:candidate-vibid:281200067144": 184,
+      "gas:candidate-vibid:281200068173": 28,
+      "gas:candidate-vibid:281200067642": 26,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 79,
-      "Коданев Михаил Николаевич": 14,
-      "Никитасенко Анатолий Валентинович": 46,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 79,
+      "gas:candidate-vibid:281200068173": 14,
+      "gas:candidate-vibid:281200067642": 46,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 1,
-      "Климов Андрей Аркадьевич": 148,
-      "Коданев Михаил Николаевич": 7,
-      "Никитасенко Анатолий Валентинович": 92,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 1,
+      "gas:candidate-vibid:281200067144": 148,
+      "gas:candidate-vibid:281200068173": 7,
+      "gas:candidate-vibid:281200067642": 92,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 0,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 70,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 1,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202347": 0,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 70,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 1,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 1,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 140,
-      "Коданев Михаил Николаевич": 3,
-      "Никитасенко Анатолий Валентинович": 51,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202347": 1,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 140,
+      "gas:candidate-vibid:281200068173": 3,
+      "gas:candidate-vibid:281200067642": 51,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 7,
-      "Климов Андрей Аркадьевич": 188,
-      "Коданев Михаил Николаевич": 4,
-      "Никитасенко Анатолий Валентинович": 68,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 7,
+      "gas:candidate-vibid:281200067144": 188,
+      "gas:candidate-vibid:281200068173": 4,
+      "gas:candidate-vibid:281200067642": 68,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 2,
-      "Климов Андрей Аркадьевич": 97,
-      "Коданев Михаил Николаевич": 2,
-      "Никитасенко Анатолий Валентинович": 25,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 2,
+      "gas:candidate-vibid:281200067144": 97,
+      "gas:candidate-vibid:281200068173": 2,
+      "gas:candidate-vibid:281200067642": 25,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 6,
-      "Климов Андрей Аркадьевич": 104,
-      "Коданев Михаил Николаевич": 1,
-      "Никитасенко Анатолий Валентинович": 54,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 6,
+      "gas:candidate-vibid:281200067144": 104,
+      "gas:candidate-vibid:281200068173": 1,
+      "gas:candidate-vibid:281200067642": 54,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067138&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 54,
-      "Климов Андрей Аркадьевич": 213,
-      "Коданев Михаил Николаевич": 139,
-      "Никитасенко Анатолий Валентинович": 76,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 5,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 54,
+      "gas:candidate-vibid:281200067144": 213,
+      "gas:candidate-vibid:281200068173": 139,
+      "gas:candidate-vibid:281200067642": 76,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 5,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 10,
-      "Быков Юрий Николаевич": 48,
-      "Климов Андрей Аркадьевич": 343,
-      "Коданев Михаил Николаевич": 73,
-      "Никитасенко Анатолий Валентинович": 81,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 7,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000202347": 10,
+      "gas:candidate-vibid:1001000121952": 48,
+      "gas:candidate-vibid:281200067144": 343,
+      "gas:candidate-vibid:281200068173": 73,
+      "gas:candidate-vibid:281200067642": 81,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 7,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 12,
-      "Быков Юрий Николаевич": 94,
-      "Климов Андрей Аркадьевич": 567,
-      "Коданев Михаил Николаевич": 151,
-      "Никитасенко Анатолий Валентинович": 137,
-      "Седых Олег Михайлович": 10,
-      "Четин Александр Иванович": 8,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000202347": 12,
+      "gas:candidate-vibid:1001000121952": 94,
+      "gas:candidate-vibid:281200067144": 567,
+      "gas:candidate-vibid:281200068173": 151,
+      "gas:candidate-vibid:281200067642": 137,
+      "gas:candidate-vibid:281200068055": 10,
+      "gas:candidate-vibid:281200067663": 8,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 24,
-      "Быков Юрий Николаевич": 140,
-      "Климов Андрей Аркадьевич": 672,
-      "Коданев Михаил Николаевич": 104,
-      "Никитасенко Анатолий Валентинович": 165,
-      "Седых Олег Михайлович": 6,
-      "Четин Александр Иванович": 21,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000202347": 24,
+      "gas:candidate-vibid:1001000121952": 140,
+      "gas:candidate-vibid:281200067144": 672,
+      "gas:candidate-vibid:281200068173": 104,
+      "gas:candidate-vibid:281200067642": 165,
+      "gas:candidate-vibid:281200068055": 6,
+      "gas:candidate-vibid:281200067663": 21,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 8,
-      "Быков Юрий Николаевич": 108,
-      "Климов Андрей Аркадьевич": 456,
-      "Коданев Михаил Николаевич": 104,
-      "Никитасенко Анатолий Валентинович": 120,
-      "Седых Олег Михайлович": 1,
-      "Четин Александр Иванович": 8,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000202347": 8,
+      "gas:candidate-vibid:1001000121952": 108,
+      "gas:candidate-vibid:281200067144": 456,
+      "gas:candidate-vibid:281200068173": 104,
+      "gas:candidate-vibid:281200067642": 120,
+      "gas:candidate-vibid:281200068055": 1,
+      "gas:candidate-vibid:281200067663": 8,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 23,
-      "Быков Юрий Николаевич": 138,
-      "Климов Андрей Аркадьевич": 549,
-      "Коданев Михаил Николаевич": 122,
-      "Никитасенко Анатолий Валентинович": 127,
-      "Седых Олег Михайлович": 4,
-      "Четин Александр Иванович": 13,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000202347": 23,
+      "gas:candidate-vibid:1001000121952": 138,
+      "gas:candidate-vibid:281200067144": 549,
+      "gas:candidate-vibid:281200068173": 122,
+      "gas:candidate-vibid:281200067642": 127,
+      "gas:candidate-vibid:281200068055": 4,
+      "gas:candidate-vibid:281200067663": 13,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 40,
-      "Быков Юрий Николаевич": 175,
-      "Климов Андрей Аркадьевич": 623,
-      "Коданев Михаил Николаевич": 177,
-      "Никитасенко Анатолий Валентинович": 177,
-      "Седых Олег Михайлович": 5,
-      "Четин Александр Иванович": 22,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000202347": 40,
+      "gas:candidate-vibid:1001000121952": 175,
+      "gas:candidate-vibid:281200067144": 623,
+      "gas:candidate-vibid:281200068173": 177,
+      "gas:candidate-vibid:281200067642": 177,
+      "gas:candidate-vibid:281200068055": 5,
+      "gas:candidate-vibid:281200067663": 22,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 12,
-      "Быков Юрий Николаевич": 82,
-      "Климов Андрей Аркадьевич": 378,
-      "Коданев Михаил Николаевич": 137,
-      "Никитасенко Анатолий Валентинович": 136,
-      "Седых Олег Михайлович": 4,
-      "Четин Александр Иванович": 11,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000202347": 12,
+      "gas:candidate-vibid:1001000121952": 82,
+      "gas:candidate-vibid:281200067144": 378,
+      "gas:candidate-vibid:281200068173": 137,
+      "gas:candidate-vibid:281200067642": 136,
+      "gas:candidate-vibid:281200068055": 4,
+      "gas:candidate-vibid:281200067663": 11,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 10,
-      "Быков Юрий Николаевич": 44,
-      "Климов Андрей Аркадьевич": 413,
-      "Коданев Михаил Николаевич": 67,
-      "Никитасенко Анатолий Валентинович": 90,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 4,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202347": 10,
+      "gas:candidate-vibid:1001000121952": 44,
+      "gas:candidate-vibid:281200067144": 413,
+      "gas:candidate-vibid:281200068173": 67,
+      "gas:candidate-vibid:281200067642": 90,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 4,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 2,
-      "Быков Юрий Николаевич": 8,
-      "Климов Андрей Аркадьевич": 96,
-      "Коданев Михаил Николаевич": 34,
-      "Никитасенко Анатолий Валентинович": 20,
-      "Седых Олег Михайлович": 0,
-      "Четин Александр Иванович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202347": 2,
+      "gas:candidate-vibid:1001000121952": 8,
+      "gas:candidate-vibid:281200067144": 96,
+      "gas:candidate-vibid:281200068173": 34,
+      "gas:candidate-vibid:281200067642": 20,
+      "gas:candidate-vibid:281200068055": 0,
+      "gas:candidate-vibid:281200067663": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 13,
-      "Быков Юрий Николаевич": 87,
-      "Климов Андрей Аркадьевич": 400,
-      "Коданев Михаил Николаевич": 206,
-      "Никитасенко Анатолий Валентинович": 156,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 7,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000202347": 13,
+      "gas:candidate-vibid:1001000121952": 87,
+      "gas:candidate-vibid:281200067144": 400,
+      "gas:candidate-vibid:281200068173": 206,
+      "gas:candidate-vibid:281200067642": 156,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 7,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 17,
-      "Быков Юрий Николаевич": 91,
-      "Климов Андрей Аркадьевич": 472,
-      "Коданев Михаил Николаевич": 187,
-      "Никитасенко Анатолий Валентинович": 98,
-      "Седых Олег Михайлович": 3,
-      "Четин Александр Иванович": 11,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202347": 17,
+      "gas:candidate-vibid:1001000121952": 91,
+      "gas:candidate-vibid:281200067144": 472,
+      "gas:candidate-vibid:281200068173": 187,
+      "gas:candidate-vibid:281200067642": 98,
+      "gas:candidate-vibid:281200068055": 3,
+      "gas:candidate-vibid:281200067663": 11,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 12,
-      "Быков Юрий Николаевич": 55,
-      "Климов Андрей Аркадьевич": 631,
-      "Коданев Михаил Николаевич": 101,
-      "Никитасенко Анатолий Валентинович": 113,
-      "Седых Олег Михайлович": 4,
-      "Четин Александр Иванович": 5,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000202347": 12,
+      "gas:candidate-vibid:1001000121952": 55,
+      "gas:candidate-vibid:281200067144": 631,
+      "gas:candidate-vibid:281200068173": 101,
+      "gas:candidate-vibid:281200067642": 113,
+      "gas:candidate-vibid:281200068055": 4,
+      "gas:candidate-vibid:281200067663": 5,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_81_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анисимов Александр Григорьевич": 6,
-      "Быков Юрий Николаевич": 58,
-      "Климов Андрей Аркадьевич": 421,
-      "Коданев Михаил Николаевич": 107,
-      "Никитасенко Анатолий Валентинович": 102,
-      "Седых Олег Михайлович": 2,
-      "Четин Александр Иванович": 13,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000202347": 6,
+      "gas:candidate-vibid:1001000121952": 58,
+      "gas:candidate-vibid:281200067144": 421,
+      "gas:candidate-vibid:281200068173": 107,
+      "gas:candidate-vibid:281200067642": 102,
+      "gas:candidate-vibid:281200068055": 2,
+      "gas:candidate-vibid:281200067663": 13,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=812000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=281200067139&region=0&sub_region=0&type=429",

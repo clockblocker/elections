@@ -32,14 +32,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 54,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 757,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 54,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 757,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635711&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635711&type=227",
@@ -79,14 +79,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 48,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 1461,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 48,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 1461,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -126,14 +126,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 40,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 1422,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 40,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 1422,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -173,14 +173,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 67,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 1329,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 67,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 1329,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -220,14 +220,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 618,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 618,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -267,14 +267,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 750,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 750,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -314,14 +314,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 228,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 228,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -361,14 +361,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 227,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 227,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -408,14 +408,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 630,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 630,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -455,14 +455,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 689,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 689,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -502,14 +502,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 222,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 222,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -549,14 +549,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 264,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 264,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -596,14 +596,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 86,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 86,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -643,14 +643,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 136,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 136,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -690,14 +690,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 183,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 183,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -737,14 +737,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -784,14 +784,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 659,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 659,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -831,14 +831,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 34,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 722,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 34,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 722,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -878,14 +878,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 65,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 65,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -925,14 +925,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 34,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 540,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 34,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 540,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -972,14 +972,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 274,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 274,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1019,14 +1019,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 278,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 278,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1066,14 +1066,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 122,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 122,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1113,14 +1113,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 491,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 491,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1160,14 +1160,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Путин Владимир Владимирович": 95,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 0,
+      "gas:candidate-vibid:100100084986022": 95,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1207,14 +1207,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 272,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 272,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1254,14 +1254,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 257,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 257,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1301,14 +1301,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 173,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 173,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635712&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635712&type=227",
@@ -1348,14 +1348,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 161,
-      "Жириновский Владимир Вольфович": 92,
-      "Путин Владимир Владимирович": 1348,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 161,
+      "gas:candidate-vibid:100100084907814": 92,
+      "gas:candidate-vibid:100100084986022": 1348,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1395,14 +1395,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 102,
-      "Жириновский Владимир Вольфович": 43,
-      "Путин Владимир Владимирович": 1026,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 102,
+      "gas:candidate-vibid:100100084907814": 43,
+      "gas:candidate-vibid:100100084986022": 1026,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1442,14 +1442,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 151,
-      "Жириновский Владимир Вольфович": 86,
-      "Путин Владимир Владимирович": 1201,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 151,
+      "gas:candidate-vibid:100100084907814": 86,
+      "gas:candidate-vibid:100100084986022": 1201,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1489,14 +1489,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 140,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 140,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1536,14 +1536,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 32,
-      "Путин Владимир Владимирович": 425,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 32,
+      "gas:candidate-vibid:100100084986022": 425,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1583,14 +1583,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 67,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 67,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1630,14 +1630,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 29,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 278,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 29,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 278,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1677,14 +1677,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 138,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 138,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1724,14 +1724,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 331,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 331,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1771,14 +1771,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 50,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 50,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1818,14 +1818,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 161,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 161,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1865,14 +1865,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 169,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 169,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1912,14 +1912,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 228,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 228,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -1959,14 +1959,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 66,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 66,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2006,14 +2006,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 24,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 139,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 24,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 139,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2053,14 +2053,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 52,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 52,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2100,14 +2100,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 12,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 151,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 12,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 151,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2147,14 +2147,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 408,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 408,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2194,14 +2194,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 175,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 175,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2241,14 +2241,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 390,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 390,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2288,14 +2288,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 255,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 255,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635713&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635713&type=227",
@@ -2335,14 +2335,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 20,
-      "Грудинин Павел Николаевич": 188,
-      "Жириновский Владимир Вольфович": 82,
-      "Путин Владимир Владимирович": 646,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 20,
+      "gas:candidate-vibid:100100085002829": 188,
+      "gas:candidate-vibid:100100084907814": 82,
+      "gas:candidate-vibid:100100084986022": 646,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2382,14 +2382,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 154,
-      "Жириновский Владимир Вольфович": 110,
-      "Путин Владимир Владимирович": 925,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 154,
+      "gas:candidate-vibid:100100084907814": 110,
+      "gas:candidate-vibid:100100084986022": 925,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2429,14 +2429,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 173,
-      "Жириновский Владимир Вольфович": 70,
-      "Путин Владимир Владимирович": 910,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 16,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 173,
+      "gas:candidate-vibid:100100084907814": 70,
+      "gas:candidate-vibid:100100084986022": 910,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 16,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2476,14 +2476,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 209,
-      "Жириновский Владимир Вольфович": 64,
-      "Путин Владимир Владимирович": 815,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 209,
+      "gas:candidate-vibid:100100084907814": 64,
+      "gas:candidate-vibid:100100084986022": 815,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2523,14 +2523,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 140,
-      "Жириновский Владимир Вольфович": 54,
-      "Путин Владимир Владимирович": 588,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 140,
+      "gas:candidate-vibid:100100084907814": 54,
+      "gas:candidate-vibid:100100084986022": 588,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2570,14 +2570,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 156,
-      "Жириновский Владимир Вольфович": 50,
-      "Путин Владимир Владимирович": 935,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 156,
+      "gas:candidate-vibid:100100084907814": 50,
+      "gas:candidate-vibid:100100084986022": 935,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2617,14 +2617,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 200,
-      "Жириновский Владимир Вольфович": 72,
-      "Путин Владимир Владимирович": 951,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 200,
+      "gas:candidate-vibid:100100084907814": 72,
+      "gas:candidate-vibid:100100084986022": 951,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2664,14 +2664,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 78,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 479,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 78,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 479,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2711,14 +2711,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 120,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 606,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 120,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 606,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2758,14 +2758,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 47,
-      "Жириновский Владимир Вольфович": 23,
-      "Путин Владимир Владимирович": 236,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 47,
+      "gas:candidate-vibid:100100084907814": 23,
+      "gas:candidate-vibid:100100084986022": 236,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2805,14 +2805,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 147,
-      "Жириновский Владимир Вольфович": 55,
-      "Путин Владимир Владимирович": 680,
-      "Собчак Ксения Анатольевна": 9,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 147,
+      "gas:candidate-vibid:100100084907814": 55,
+      "gas:candidate-vibid:100100084986022": 680,
+      "gas:candidate-vibid:100100084956361": 9,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2852,14 +2852,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 180,
-      "Жириновский Владимир Вольфович": 81,
-      "Путин Владимир Владимирович": 844,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 180,
+      "gas:candidate-vibid:100100084907814": 81,
+      "gas:candidate-vibid:100100084986022": 844,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2899,14 +2899,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 135,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 780,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 135,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 780,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2946,14 +2946,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 159,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 781,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 159,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 781,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -2993,14 +2993,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 189,
-      "Жириновский Владимир Вольфович": 68,
-      "Путин Владимир Владимирович": 902,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 15,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 189,
+      "gas:candidate-vibid:100100084907814": 68,
+      "gas:candidate-vibid:100100084986022": 902,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 15,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -3040,14 +3040,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 131,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 579,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 131,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 579,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -3087,14 +3087,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 81,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 380,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 81,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 380,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -3134,14 +3134,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 88,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 466,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 88,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 466,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -3181,14 +3181,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 141,
-      "Жириновский Владимир Вольфович": 64,
-      "Путин Владимир Владимирович": 715,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 141,
+      "gas:candidate-vibid:100100084907814": 64,
+      "gas:candidate-vibid:100100084986022": 715,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -3228,14 +3228,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 144,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 706,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 144,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 706,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635714&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635714&type=227",
@@ -3275,14 +3275,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 117,
-      "Жириновский Владимир Вольфович": 76,
-      "Путин Владимир Владимирович": 1301,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 117,
+      "gas:candidate-vibid:100100084907814": 76,
+      "gas:candidate-vibid:100100084986022": 1301,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3322,14 +3322,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 278,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 278,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3369,14 +3369,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 308,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 308,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3416,14 +3416,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 114,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 114,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3463,14 +3463,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 136,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 136,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3510,14 +3510,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 161,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 161,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3557,14 +3557,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 237,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 237,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3604,14 +3604,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 224,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 224,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3651,14 +3651,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 214,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 214,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3698,14 +3698,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 39,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 310,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 39,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 310,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3745,14 +3745,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 359,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 359,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3792,14 +3792,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 25,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 355,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 25,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 355,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3839,14 +3839,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 192,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 192,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3886,14 +3886,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 550,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 550,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3933,14 +3933,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 225,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 225,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -3980,14 +3980,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 17,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 240,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 17,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 240,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4027,14 +4027,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 66,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 66,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4074,14 +4074,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 124,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 124,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4121,14 +4121,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 425,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 425,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4168,14 +4168,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 27,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 368,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 27,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 368,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4215,14 +4215,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 52,
-      "Жириновский Владимир Вольфович": 42,
-      "Путин Владимир Владимирович": 771,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 52,
+      "gas:candidate-vibid:100100084907814": 42,
+      "gas:candidate-vibid:100100084986022": 771,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4262,14 +4262,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 17,
-      "Грудинин Павел Николаевич": 127,
-      "Жириновский Владимир Вольфович": 50,
-      "Путин Владимир Владимирович": 649,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 19,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 14
+      "gas:candidate-vibid:100100084946464": 17,
+      "gas:candidate-vibid:100100085002829": 127,
+      "gas:candidate-vibid:100100084907814": 50,
+      "gas:candidate-vibid:100100084986022": 649,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 19,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4309,14 +4309,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 89,
-      "Жириновский Владимир Вольфович": 33,
-      "Путин Владимир Владимирович": 936,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 89,
+      "gas:candidate-vibid:100100084907814": 33,
+      "gas:candidate-vibid:100100084986022": 936,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4356,14 +4356,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 149,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 149,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4403,14 +4403,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 229,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 229,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4450,14 +4450,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 65,
-      "Жириновский Владимир Вольфович": 33,
-      "Путин Владимир Владимирович": 672,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 65,
+      "gas:candidate-vibid:100100084907814": 33,
+      "gas:candidate-vibid:100100084986022": 672,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4497,14 +4497,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 251,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 251,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4544,14 +4544,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 259,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 259,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4591,14 +4591,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 429,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 429,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4638,14 +4638,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 189,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 189,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4685,14 +4685,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 65,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 305,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 65,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 305,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4732,14 +4732,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 441,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 441,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4779,14 +4779,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 328,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 328,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4826,14 +4826,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 15,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 250,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 15,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 250,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4873,14 +4873,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 212,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 212,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4920,14 +4920,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 266,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 266,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -4967,14 +4967,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 64,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 239,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 64,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 239,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5014,14 +5014,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 218,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 218,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5061,14 +5061,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 104,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 104,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5108,14 +5108,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 119,
-      "Жириновский Владимир Вольфович": 42,
-      "Путин Владимир Владимирович": 846,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 119,
+      "gas:candidate-vibid:100100084907814": 42,
+      "gas:candidate-vibid:100100084986022": 846,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5155,14 +5155,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 129,
-      "Жириновский Владимир Вольфович": 39,
-      "Путин Владимир Владимирович": 752,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 129,
+      "gas:candidate-vibid:100100084907814": 39,
+      "gas:candidate-vibid:100100084986022": 752,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5202,14 +5202,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 31,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 425,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 31,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 425,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5249,14 +5249,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 58,
-      "Жириновский Владимир Вольфович": 39,
-      "Путин Владимир Владимирович": 748,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 58,
+      "gas:candidate-vibid:100100084907814": 39,
+      "gas:candidate-vibid:100100084986022": 748,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5296,14 +5296,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 63,
-      "Жириновский Владимир Вольфович": 35,
-      "Путин Владимир Владимирович": 771,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 63,
+      "gas:candidate-vibid:100100084907814": 35,
+      "gas:candidate-vibid:100100084986022": 771,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5343,14 +5343,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 18,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 261,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 18,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 261,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5390,14 +5390,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 233,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 233,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5437,14 +5437,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 229,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 229,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635715&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635715&type=227",
@@ -5484,14 +5484,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 186,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 186,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5531,14 +5531,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 148,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 148,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5578,14 +5578,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 57,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 57,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5625,14 +5625,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 292,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 292,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5672,14 +5672,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 261,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 261,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5719,14 +5719,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 132,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 132,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5766,14 +5766,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 302,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 302,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5813,14 +5813,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 216,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 216,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5860,14 +5860,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 106,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 106,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5907,14 +5907,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 295,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 295,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -5954,14 +5954,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 37,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 499,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 37,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 499,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6001,14 +6001,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 216,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 216,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6048,14 +6048,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 83,
-      "Жириновский Владимир Вольфович": 29,
-      "Путин Владимир Владимирович": 549,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 83,
+      "gas:candidate-vibid:100100084907814": 29,
+      "gas:candidate-vibid:100100084986022": 549,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6095,14 +6095,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 87,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 457,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 87,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 457,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6142,14 +6142,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 333,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 333,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6189,14 +6189,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 101,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 413,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 101,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 413,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6236,14 +6236,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 35,
-      "Путин Владимир Владимирович": 524,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 35,
+      "gas:candidate-vibid:100100084986022": 524,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6283,14 +6283,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 42,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 416,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 42,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 416,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6330,14 +6330,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 74,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 74,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6377,14 +6377,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 151,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 151,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6424,14 +6424,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 26,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 181,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 26,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 181,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6471,14 +6471,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 92,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 225,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 92,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 225,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6518,14 +6518,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 31,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 291,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 31,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 291,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6565,14 +6565,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 48,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 146,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 48,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 146,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6612,14 +6612,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 261,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 261,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6659,14 +6659,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 424,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 424,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6706,14 +6706,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 189,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 189,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6753,14 +6753,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 294,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 294,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6800,14 +6800,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 13,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 124,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 13,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 124,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6847,14 +6847,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 52,
-      "Жириновский Владимир Вольфович": 23,
-      "Путин Владимир Владимирович": 332,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 52,
+      "gas:candidate-vibid:100100084907814": 23,
+      "gas:candidate-vibid:100100084986022": 332,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635716&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635716&type=227",
@@ -6894,14 +6894,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 122,
-      "Жириновский Владимир Вольфович": 55,
-      "Путин Владимир Владимирович": 775,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 122,
+      "gas:candidate-vibid:100100084907814": 55,
+      "gas:candidate-vibid:100100084986022": 775,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -6941,14 +6941,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 50,
-      "Путин Владимир Владимирович": 721,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 50,
+      "gas:candidate-vibid:100100084986022": 721,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -6988,14 +6988,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 78,
-      "Жириновский Владимир Вольфович": 82,
-      "Путин Владимир Владимирович": 701,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 78,
+      "gas:candidate-vibid:100100084907814": 82,
+      "gas:candidate-vibid:100100084986022": 701,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7035,14 +7035,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 131,
-      "Жириновский Владимир Вольфович": 42,
-      "Путин Владимир Владимирович": 716,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 131,
+      "gas:candidate-vibid:100100084907814": 42,
+      "gas:candidate-vibid:100100084986022": 716,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7082,14 +7082,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 116,
-      "Жириновский Владимир Вольфович": 30,
-      "Путин Владимир Владимирович": 622,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 116,
+      "gas:candidate-vibid:100100084907814": 30,
+      "gas:candidate-vibid:100100084986022": 622,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7129,14 +7129,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 53,
-      "Жириновский Владимир Вольфович": 19,
-      "Путин Владимир Владимирович": 600,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 53,
+      "gas:candidate-vibid:100100084907814": 19,
+      "gas:candidate-vibid:100100084986022": 600,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7176,14 +7176,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 113,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 742,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 113,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 742,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7223,14 +7223,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 82,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 567,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 82,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 567,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7270,14 +7270,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 126,
-      "Жириновский Владимир Вольфович": 42,
-      "Путин Владимир Владимирович": 835,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 126,
+      "gas:candidate-vibid:100100084907814": 42,
+      "gas:candidate-vibid:100100084986022": 835,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7317,14 +7317,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 112,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 797,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 112,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 797,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7364,14 +7364,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 68,
-      "Жириновский Владимир Вольфович": 102,
-      "Путин Владимир Владимирович": 798,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 68,
+      "gas:candidate-vibid:100100084907814": 102,
+      "gas:candidate-vibid:100100084986022": 798,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7411,14 +7411,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 50,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 622,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 50,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 622,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7458,14 +7458,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 129,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 1132,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 129,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 1132,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7505,14 +7505,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 189,
-      "Жириновский Владимир Вольфович": 49,
-      "Путин Владимир Владимирович": 1269,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 15,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 189,
+      "gas:candidate-vibid:100100084907814": 49,
+      "gas:candidate-vibid:100100084986022": 1269,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 15,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7552,14 +7552,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 29,
-      "Жириновский Владимир Вольфович": 71,
-      "Путин Владимир Владимирович": 551,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 29,
+      "gas:candidate-vibid:100100084907814": 71,
+      "gas:candidate-vibid:100100084986022": 551,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7599,14 +7599,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 49,
-      "Жириновский Владимир Вольфович": 51,
-      "Путин Владимир Владимирович": 606,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 49,
+      "gas:candidate-vibid:100100084907814": 51,
+      "gas:candidate-vibid:100100084986022": 606,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7646,14 +7646,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 29,
-      "Путин Владимир Владимирович": 631,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 29,
+      "gas:candidate-vibid:100100084986022": 631,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7693,14 +7693,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 136,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 624,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 136,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 624,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7740,14 +7740,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 72,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 629,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 72,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 629,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7787,14 +7787,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 200,
-      "Путин Владимир Владимирович": 696,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 200,
+      "gas:candidate-vibid:100100084986022": 696,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7834,14 +7834,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 104,
-      "Жириновский Владимир Вольфович": 106,
-      "Путин Владимир Владимирович": 737,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 104,
+      "gas:candidate-vibid:100100084907814": 106,
+      "gas:candidate-vibid:100100084986022": 737,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7881,14 +7881,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 76,
-      "Жириновский Владимир Вольфович": 30,
-      "Путин Владимир Владимирович": 651,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 76,
+      "gas:candidate-vibid:100100084907814": 30,
+      "gas:candidate-vibid:100100084986022": 651,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7928,14 +7928,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 173,
-      "Жириновский Владимир Вольфович": 51,
-      "Путин Владимир Владимирович": 1207,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 173,
+      "gas:candidate-vibid:100100084907814": 51,
+      "gas:candidate-vibid:100100084986022": 1207,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -7975,14 +7975,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 193,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 1271,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 193,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 1271,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8022,14 +8022,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 187,
-      "Жириновский Владимир Вольфович": 66,
-      "Путин Владимир Владимирович": 1053,
-      "Собчак Ксения Анатольевна": 18,
-      "Сурайкин Максим Александрович": 17,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 187,
+      "gas:candidate-vibid:100100084907814": 66,
+      "gas:candidate-vibid:100100084986022": 1053,
+      "gas:candidate-vibid:100100084956361": 18,
+      "gas:candidate-vibid:100100084946387": 17,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8069,14 +8069,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 106,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 1623,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 106,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 1623,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8116,14 +8116,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 140,
-      "Жириновский Владимир Вольфович": 69,
-      "Путин Владимир Владимирович": 1300,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 140,
+      "gas:candidate-vibid:100100084907814": 69,
+      "gas:candidate-vibid:100100084986022": 1300,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8163,14 +8163,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 1302,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 1302,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8210,14 +8210,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 78,
-      "Жириновский Владимир Вольфович": 50,
-      "Путин Владимир Владимирович": 1110,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 78,
+      "gas:candidate-vibid:100100084907814": 50,
+      "gas:candidate-vibid:100100084986022": 1110,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8257,14 +8257,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 48,
-      "Жириновский Владимир Вольфович": 91,
-      "Путин Владимир Владимирович": 721,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 48,
+      "gas:candidate-vibid:100100084907814": 91,
+      "gas:candidate-vibid:100100084986022": 721,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8304,14 +8304,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 70,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 466,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 70,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 466,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8351,14 +8351,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 87,
-      "Жириновский Владимир Вольфович": 79,
-      "Путин Владимир Владимирович": 942,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 87,
+      "gas:candidate-vibid:100100084907814": 79,
+      "gas:candidate-vibid:100100084986022": 942,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8398,14 +8398,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 43,
-      "Жириновский Владимир Вольфович": 38,
-      "Путин Владимир Владимирович": 442,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 43,
+      "gas:candidate-vibid:100100084907814": 38,
+      "gas:candidate-vibid:100100084986022": 442,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8445,14 +8445,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 98,
-      "Жириновский Владимир Вольфович": 44,
-      "Путин Владимир Владимирович": 584,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 98,
+      "gas:candidate-vibid:100100084907814": 44,
+      "gas:candidate-vibid:100100084986022": 584,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8492,14 +8492,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 58,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 616,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 58,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 616,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8539,14 +8539,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 17,
-      "Грудинин Павел Николаевич": 163,
-      "Жириновский Владимир Вольфович": 66,
-      "Путин Владимир Владимирович": 1152,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 17,
+      "gas:candidate-vibid:100100085002829": 163,
+      "gas:candidate-vibid:100100084907814": 66,
+      "gas:candidate-vibid:100100084986022": 1152,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8586,14 +8586,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 131,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 684,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 131,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 684,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8633,14 +8633,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 105,
-      "Жириновский Владимир Вольфович": 136,
-      "Путин Владимир Владимирович": 1257,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 105,
+      "gas:candidate-vibid:100100084907814": 136,
+      "gas:candidate-vibid:100100084986022": 1257,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8680,14 +8680,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 64,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 471,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 64,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 471,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8727,14 +8727,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 1182,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 1182,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8774,14 +8774,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 123,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 702,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 123,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 702,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8821,14 +8821,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 92,
-      "Жириновский Владимир Вольфович": 30,
-      "Путин Владимир Владимирович": 765,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 92,
+      "gas:candidate-vibid:100100084907814": 30,
+      "gas:candidate-vibid:100100084986022": 765,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8868,14 +8868,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 66,
-      "Жириновский Владимир Вольфович": 98,
-      "Путин Владимир Владимирович": 980,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 66,
+      "gas:candidate-vibid:100100084907814": 98,
+      "gas:candidate-vibid:100100084986022": 980,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8915,14 +8915,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 74,
-      "Жириновский Владимир Вольфович": 51,
-      "Путин Владимир Владимирович": 778,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 74,
+      "gas:candidate-vibid:100100084907814": 51,
+      "gas:candidate-vibid:100100084986022": 778,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -8962,14 +8962,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 133,
-      "Жириновский Владимир Вольфович": 141,
-      "Путин Владимир Владимирович": 1218,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 133,
+      "gas:candidate-vibid:100100084907814": 141,
+      "gas:candidate-vibid:100100084986022": 1218,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -9009,14 +9009,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 76,
-      "Жириновский Владимир Вольфович": 32,
-      "Путин Владимир Владимирович": 788,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 76,
+      "gas:candidate-vibid:100100084907814": 32,
+      "gas:candidate-vibid:100100084986022": 788,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -9056,14 +9056,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 82,
-      "Жириновский Владимир Вольфович": 101,
-      "Путин Владимир Владимирович": 861,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 82,
+      "gas:candidate-vibid:100100084907814": 101,
+      "gas:candidate-vibid:100100084986022": 861,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -9103,14 +9103,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 181,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 1287,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 20,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 181,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 1287,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 20,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635717&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635717&type=227",
@@ -9150,14 +9150,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 91,
-      "Жириновский Владимир Вольфович": 32,
-      "Путин Владимир Владимирович": 391,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 91,
+      "gas:candidate-vibid:100100084907814": 32,
+      "gas:candidate-vibid:100100084986022": 391,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9197,14 +9197,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 60,
-      "Жириновский Владимир Вольфович": 12,
-      "Путин Владимир Владимирович": 278,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 60,
+      "gas:candidate-vibid:100100084907814": 12,
+      "gas:candidate-vibid:100100084986022": 278,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9244,14 +9244,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 142,
-      "Жириновский Владимир Вольфович": 20,
-      "Путин Владимир Владимирович": 772,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 142,
+      "gas:candidate-vibid:100100084907814": 20,
+      "gas:candidate-vibid:100100084986022": 772,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9291,14 +9291,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 107,
-      "Жириновский Владимир Вольфович": 53,
-      "Путин Владимир Владимирович": 719,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 107,
+      "gas:candidate-vibid:100100084907814": 53,
+      "gas:candidate-vibid:100100084986022": 719,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9338,14 +9338,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 116,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 594,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 116,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 594,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9385,14 +9385,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 101,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 568,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 101,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 568,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9432,14 +9432,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 76,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 651,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 76,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 651,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9479,14 +9479,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 41,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 409,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 41,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 409,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9526,14 +9526,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 17,
-      "Путин Владимир Владимирович": 236,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 17,
+      "gas:candidate-vibid:100100084986022": 236,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9573,14 +9573,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 23,
-      "Путин Владимир Владимирович": 534,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 23,
+      "gas:candidate-vibid:100100084986022": 534,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9620,14 +9620,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 168,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 168,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9667,14 +9667,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 28,
-      "Путин Владимир Владимирович": 354,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 28,
+      "gas:candidate-vibid:100100084986022": 354,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9714,14 +9714,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 40,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 427,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 40,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 427,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9761,14 +9761,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 120,
-      "Жириновский Владимир Вольфович": 41,
-      "Путин Владимир Владимирович": 736,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 120,
+      "gas:candidate-vibid:100100084907814": 41,
+      "gas:candidate-vibid:100100084986022": 736,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9808,14 +9808,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 53,
-      "Жириновский Владимир Вольфович": 111,
-      "Путин Владимир Владимирович": 1013,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 53,
+      "gas:candidate-vibid:100100084907814": 111,
+      "gas:candidate-vibid:100100084986022": 1013,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9855,14 +9855,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 74,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 0,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 74,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9902,14 +9902,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 2,
-      "Путин Владимир Владимирович": 122,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 2,
+      "gas:candidate-vibid:100100084986022": 122,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9949,14 +9949,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 43,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 790,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 43,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 790,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -9996,14 +9996,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 357,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 357,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10043,14 +10043,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 116,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 116,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10090,14 +10090,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 13,
-      "Путин Владимир Владимирович": 304,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 13,
+      "gas:candidate-vibid:100100084986022": 304,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10137,14 +10137,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 386,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 386,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10184,14 +10184,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 4,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 235,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 4,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 235,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10231,14 +10231,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 713,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 713,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10278,14 +10278,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 11,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 324,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 11,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 324,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10325,14 +10325,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 8,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 306,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 8,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 306,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10372,14 +10372,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 3,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 131,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 3,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 131,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10419,14 +10419,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 10,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 308,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 10,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 308,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10466,14 +10466,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 73,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 73,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10513,14 +10513,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 35,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 237,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 35,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 237,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10560,14 +10560,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 184,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 184,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10607,14 +10607,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 99,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 99,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10654,14 +10654,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 16,
-      "Жириновский Владимир Вольфович": 11,
-      "Путин Владимир Владимирович": 325,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 16,
+      "gas:candidate-vibid:100100084907814": 11,
+      "gas:candidate-vibid:100100084986022": 325,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10701,14 +10701,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 23,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 320,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 23,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 320,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10748,14 +10748,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 2,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 106,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 2,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 106,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10795,14 +10795,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 381,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 381,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10842,14 +10842,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 276,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 276,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10889,14 +10889,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 46,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 334,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 46,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 334,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10936,14 +10936,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 6,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 193,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 6,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 193,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -10983,14 +10983,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 5,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 398,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 5,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 398,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11030,14 +11030,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 57,
-      "Жириновский Владимир Вольфович": 14,
-      "Путин Владимир Владимирович": 323,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 57,
+      "gas:candidate-vibid:100100084907814": 14,
+      "gas:candidate-vibid:100100084986022": 323,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11077,14 +11077,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 9,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 227,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 9,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 227,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11124,14 +11124,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 21,
-      "Жириновский Владимир Вольфович": 30,
-      "Путин Владимир Владимирович": 518,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 21,
+      "gas:candidate-vibid:100100084907814": 30,
+      "gas:candidate-vibid:100100084986022": 518,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11171,14 +11171,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 40,
-      "Жириновский Владимир Вольфович": 18,
-      "Путин Владимир Владимирович": 319,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 40,
+      "gas:candidate-vibid:100100084907814": 18,
+      "gas:candidate-vibid:100100084986022": 319,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11218,14 +11218,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 20,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 291,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 20,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 291,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11265,14 +11265,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 31,
-      "Жириновский Владимир Вольфович": 37,
-      "Путин Владимир Владимирович": 525,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 31,
+      "gas:candidate-vibid:100100084907814": 37,
+      "gas:candidate-vibid:100100084986022": 525,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11312,14 +11312,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 14,
-      "Жириновский Владимир Вольфович": 5,
-      "Путин Владимир Владимирович": 129,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 14,
+      "gas:candidate-vibid:100100084907814": 5,
+      "gas:candidate-vibid:100100084986022": 129,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635718&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635718&type=227",
@@ -11359,14 +11359,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 109,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 1434,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 109,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 1434,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11406,14 +11406,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 44,
-      "Жириновский Владимир Вольфович": 66,
-      "Путин Владимир Владимирович": 714,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 44,
+      "gas:candidate-vibid:100100084907814": 66,
+      "gas:candidate-vibid:100100084986022": 714,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11453,14 +11453,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 97,
-      "Жириновский Владимир Вольфович": 103,
-      "Путин Владимир Владимирович": 1149,
-      "Собчак Ксения Анатольевна": 9,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 97,
+      "gas:candidate-vibid:100100084907814": 103,
+      "gas:candidate-vibid:100100084986022": 1149,
+      "gas:candidate-vibid:100100084956361": 9,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11500,14 +11500,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 137,
-      "Жириновский Владимир Вольфович": 99,
-      "Путин Владимир Владимирович": 1685,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 137,
+      "gas:candidate-vibid:100100084907814": 99,
+      "gas:candidate-vibid:100100084986022": 1685,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11547,14 +11547,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 86,
-      "Жириновский Владимир Вольфович": 93,
-      "Путин Владимир Владимирович": 1040,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 86,
+      "gas:candidate-vibid:100100084907814": 93,
+      "gas:candidate-vibid:100100084986022": 1040,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11594,14 +11594,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 62,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 748,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 62,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 748,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11641,14 +11641,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 195,
-      "Жириновский Владимир Вольфович": 111,
-      "Путин Владимир Владимирович": 1508,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 195,
+      "gas:candidate-vibid:100100084907814": 111,
+      "gas:candidate-vibid:100100084986022": 1508,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11688,14 +11688,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 69,
-      "Жириновский Владимир Вольфович": 151,
-      "Путин Владимир Владимирович": 1631,
-      "Собчак Ксения Анатольевна": 5,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 69,
+      "gas:candidate-vibid:100100084907814": 151,
+      "gas:candidate-vibid:100100084986022": 1631,
+      "gas:candidate-vibid:100100084956361": 5,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",
@@ -11735,14 +11735,14 @@ export const president_2018_uik_226_region_68_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 98,
-      "Жириновский Владимир Вольфович": 124,
-      "Путин Владимир Владимирович": 1503,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 98,
+      "gas:candidate-vibid:100100084907814": 124,
+      "gas:candidate-vibid:100100084986022": 1503,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tambov?action=show&root=1000066&tvd=2682000635719&vrn=100100084849062&region=68&global=&sub_region=68&prver=0&pronetvd=null&vibid=2682000635719&type=227",

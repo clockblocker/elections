@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 105,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 14,
-      "Житухин Эдуард Александрович": 54,
-      "Кирин Александр Николаевич": 20,
-      "Костерин Николай Николаевич": 144,
-      "Хинштейн Александр Евсеевич": 289,
-      "Против всех": 77
+      "gas:candidate-vibid:352300570677": 105,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 14,
+      "gas:candidate-vibid:1001000121877": 54,
+      "gas:candidate-vibid:352300570366": 20,
+      "gas:candidate-vibid:1001000217939": 144,
+      "gas:candidate-vibid:352300570734": 289,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 137,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 14,
-      "Житухин Эдуард Александрович": 59,
-      "Кирин Александр Николаевич": 12,
-      "Костерин Николай Николаевич": 116,
-      "Хинштейн Александр Евсеевич": 206,
-      "Против всех": 96
+      "gas:candidate-vibid:352300570677": 137,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 14,
+      "gas:candidate-vibid:1001000121877": 59,
+      "gas:candidate-vibid:352300570366": 12,
+      "gas:candidate-vibid:1001000217939": 116,
+      "gas:candidate-vibid:352300570734": 206,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 188,
-      "Евдокимов Александр Филиппович": 15,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 67,
-      "Кирин Александр Николаевич": 13,
-      "Костерин Николай Николаевич": 144,
-      "Хинштейн Александр Евсеевич": 276,
-      "Против всех": 80
+      "gas:candidate-vibid:352300570677": 188,
+      "gas:candidate-vibid:1001000338520": 15,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 67,
+      "gas:candidate-vibid:352300570366": 13,
+      "gas:candidate-vibid:1001000217939": 144,
+      "gas:candidate-vibid:352300570734": 276,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 53,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 9,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 142,
-      "Хинштейн Александр Евсеевич": 116,
-      "Против всех": 34
+      "gas:candidate-vibid:352300570677": 53,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 9,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 142,
+      "gas:candidate-vibid:352300570734": 116,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 48,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 7,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 86,
-      "Хинштейн Александр Евсеевич": 87,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 48,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 7,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 86,
+      "gas:candidate-vibid:352300570734": 87,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 13,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 37,
-      "Хинштейн Александр Евсеевич": 53,
-      "Против всех": 12
+      "gas:candidate-vibid:352300570677": 13,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 37,
+      "gas:candidate-vibid:352300570734": 53,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 28,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 132,
-      "Хинштейн Александр Евсеевич": 53,
-      "Против всех": 13
+      "gas:candidate-vibid:352300570677": 28,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 132,
+      "gas:candidate-vibid:352300570734": 53,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 36,
-      "Хинштейн Александр Евсеевич": 46,
-      "Против всех": 6
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 36,
+      "gas:candidate-vibid:352300570734": 46,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 12,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 2,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 30,
-      "Хинштейн Александр Евсеевич": 28,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 12,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 2,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 30,
+      "gas:candidate-vibid:352300570734": 28,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 53,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 47,
-      "Хинштейн Александр Евсеевич": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 53,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 47,
+      "gas:candidate-vibid:352300570734": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 56,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 39,
-      "Хинштейн Александр Евсеевич": 101,
-      "Против всех": 23
+      "gas:candidate-vibid:352300570677": 56,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 39,
+      "gas:candidate-vibid:352300570734": 101,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 71,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 36,
-      "Хинштейн Александр Евсеевич": 107,
-      "Против всех": 29
+      "gas:candidate-vibid:352300570677": 71,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 36,
+      "gas:candidate-vibid:352300570734": 107,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 0,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 38,
-      "Хинштейн Александр Евсеевич": 16,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 0,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 38,
+      "gas:candidate-vibid:352300570734": 16,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 56,
-      "Хинштейн Александр Евсеевич": 23,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 56,
+      "gas:candidate-vibid:352300570734": 23,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 15,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 43,
-      "Хинштейн Александр Евсеевич": 29,
-      "Против всех": 3
+      "gas:candidate-vibid:352300570677": 15,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 43,
+      "gas:candidate-vibid:352300570734": 29,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 29,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 79,
-      "Хинштейн Александр Евсеевич": 25,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 29,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 79,
+      "gas:candidate-vibid:352300570734": 25,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 16,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 33,
-      "Хинштейн Александр Евсеевич": 85,
-      "Против всех": 10
+      "gas:candidate-vibid:352300570677": 16,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 33,
+      "gas:candidate-vibid:352300570734": 85,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 0,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 14,
-      "Хинштейн Александр Евсеевич": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 0,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 14,
+      "gas:candidate-vibid:352300570734": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 15,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 115,
-      "Хинштейн Александр Евсеевич": 52,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 15,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 115,
+      "gas:candidate-vibid:352300570734": 52,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 70,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 6,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 38,
-      "Хинштейн Александр Евсеевич": 30,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 70,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 6,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 38,
+      "gas:candidate-vibid:352300570734": 30,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 83,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 10,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 100,
-      "Хинштейн Александр Евсеевич": 60,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 83,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 10,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 100,
+      "gas:candidate-vibid:352300570734": 60,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 40,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 7,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 42,
-      "Хинштейн Александр Евсеевич": 63,
-      "Против всех": 6
+      "gas:candidate-vibid:352300570677": 40,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 7,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 42,
+      "gas:candidate-vibid:352300570734": 63,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 22,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 20,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 109,
-      "Хинштейн Александр Евсеевич": 82,
-      "Против всех": 7
+      "gas:candidate-vibid:352300570677": 22,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 20,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 109,
+      "gas:candidate-vibid:352300570734": 82,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 19,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 21,
-      "Хинштейн Александр Евсеевич": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:352300570677": 19,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 21,
+      "gas:candidate-vibid:352300570734": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 12,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 9,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 129,
-      "Хинштейн Александр Евсеевич": 48,
-      "Против всех": 15
+      "gas:candidate-vibid:352300570677": 12,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 9,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 129,
+      "gas:candidate-vibid:352300570734": 48,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 36,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 10,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 35,
-      "Хинштейн Александр Евсеевич": 32,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 36,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 10,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 35,
+      "gas:candidate-vibid:352300570734": 32,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 19,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 116,
-      "Хинштейн Александр Евсеевич": 74,
-      "Против всех": 18
+      "gas:candidate-vibid:352300570677": 19,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 116,
+      "gas:candidate-vibid:352300570734": 74,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 42,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 14,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 90,
-      "Хинштейн Александр Евсеевич": 36,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 42,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 14,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 90,
+      "gas:candidate-vibid:352300570734": 36,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 50,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 116,
-      "Хинштейн Александр Евсеевич": 26,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 50,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 116,
+      "gas:candidate-vibid:352300570734": 26,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 19,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 19,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 128,
-      "Хинштейн Александр Евсеевич": 79,
-      "Против всех": 10
+      "gas:candidate-vibid:352300570677": 19,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 19,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 128,
+      "gas:candidate-vibid:352300570734": 79,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 18,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 69,
-      "Хинштейн Александр Евсеевич": 59,
-      "Против всех": 25
+      "gas:candidate-vibid:352300570677": 18,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 69,
+      "gas:candidate-vibid:352300570734": 59,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570482&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 29,
-      "Евдокимов Александр Филиппович": 89,
-      "Емельянов Валерий Иванович": 20,
-      "Житухин Эдуард Александрович": 193,
-      "Кирин Александр Николаевич": 55,
-      "Костерин Николай Николаевич": 170,
-      "Хинштейн Александр Евсеевич": 444,
-      "Против всех": 65
+      "gas:candidate-vibid:352300570677": 29,
+      "gas:candidate-vibid:1001000338520": 89,
+      "gas:candidate-vibid:1001000136087": 20,
+      "gas:candidate-vibid:1001000121877": 193,
+      "gas:candidate-vibid:352300570366": 55,
+      "gas:candidate-vibid:1001000217939": 170,
+      "gas:candidate-vibid:352300570734": 444,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 45,
-      "Евдокимов Александр Филиппович": 153,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 123,
-      "Кирин Александр Николаевич": 156,
-      "Костерин Николай Николаевич": 165,
-      "Хинштейн Александр Евсеевич": 599,
-      "Против всех": 96
+      "gas:candidate-vibid:352300570677": 45,
+      "gas:candidate-vibid:1001000338520": 153,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 123,
+      "gas:candidate-vibid:352300570366": 156,
+      "gas:candidate-vibid:1001000217939": 165,
+      "gas:candidate-vibid:352300570734": 599,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 16,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 28,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 30,
-      "Хинштейн Александр Евсеевич": 84,
-      "Против всех": 6
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 16,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 28,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 30,
+      "gas:candidate-vibid:352300570734": 84,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 75,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 29,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 65,
-      "Хинштейн Александр Евсеевич": 231,
-      "Против всех": 23
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 75,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 29,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 65,
+      "gas:candidate-vibid:352300570734": 231,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 20,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 81,
-      "Хинштейн Александр Евсеевич": 118,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 20,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 81,
+      "gas:candidate-vibid:352300570734": 118,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 11,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 128,
-      "Хинштейн Александр Евсеевич": 68,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 11,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 128,
+      "gas:candidate-vibid:352300570734": 68,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 19,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 38,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 46,
-      "Хинштейн Александр Евсеевич": 106,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 19,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 38,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 46,
+      "gas:candidate-vibid:352300570734": 106,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 17,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 16,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 34,
-      "Хинштейн Александр Евсеевич": 115,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 17,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 16,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 34,
+      "gas:candidate-vibid:352300570734": 115,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 7,
-      "Евдокимов Александр Филиппович": 18,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 11,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 130,
-      "Хинштейн Александр Евсеевич": 68,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 7,
+      "gas:candidate-vibid:1001000338520": 18,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 11,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 130,
+      "gas:candidate-vibid:352300570734": 68,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 16,
-      "Костерин Николай Николаевич": 57,
-      "Хинштейн Александр Евсеевич": 137,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 16,
+      "gas:candidate-vibid:1001000217939": 57,
+      "gas:candidate-vibid:352300570734": 137,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 5,
-      "Евдокимов Александр Филиппович": 21,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 37,
-      "Хинштейн Александр Евсеевич": 94,
-      "Против всех": 10
+      "gas:candidate-vibid:352300570677": 5,
+      "gas:candidate-vibid:1001000338520": 21,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 37,
+      "gas:candidate-vibid:352300570734": 94,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 14,
-      "Костерин Николай Николаевич": 27,
-      "Хинштейн Александр Евсеевич": 30,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 14,
+      "gas:candidate-vibid:1001000217939": 27,
+      "gas:candidate-vibid:352300570734": 30,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 8,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 18,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 15,
-      "Хинштейн Александр Евсеевич": 90,
-      "Против всех": 10
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 8,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 18,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 15,
+      "gas:candidate-vibid:352300570734": 90,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 13,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 32,
-      "Кирин Александр Николаевич": 7,
-      "Костерин Николай Николаевич": 27,
-      "Хинштейн Александр Евсеевич": 51,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 13,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 32,
+      "gas:candidate-vibid:352300570366": 7,
+      "gas:candidate-vibid:1001000217939": 27,
+      "gas:candidate-vibid:352300570734": 51,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570483&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 22,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 62,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 43,
-      "Хинштейн Александр Евсеевич": 188,
-      "Против всех": 24
+      "gas:candidate-vibid:352300570677": 22,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 62,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 43,
+      "gas:candidate-vibid:352300570734": 188,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 14,
-      "Евдокимов Александр Филиппович": 16,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 33,
-      "Кирин Александр Николаевич": 10,
-      "Костерин Николай Николаевич": 39,
-      "Хинштейн Александр Евсеевич": 184,
-      "Против всех": 35
+      "gas:candidate-vibid:352300570677": 14,
+      "gas:candidate-vibid:1001000338520": 16,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 33,
+      "gas:candidate-vibid:352300570366": 10,
+      "gas:candidate-vibid:1001000217939": 39,
+      "gas:candidate-vibid:352300570734": 184,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 33,
-      "Евдокимов Александр Филиппович": 19,
-      "Емельянов Валерий Иванович": 18,
-      "Житухин Эдуард Александрович": 96,
-      "Кирин Александр Николаевич": 19,
-      "Костерин Николай Николаевич": 92,
-      "Хинштейн Александр Евсеевич": 340,
-      "Против всех": 76
+      "gas:candidate-vibid:352300570677": 33,
+      "gas:candidate-vibid:1001000338520": 19,
+      "gas:candidate-vibid:1001000136087": 18,
+      "gas:candidate-vibid:1001000121877": 96,
+      "gas:candidate-vibid:352300570366": 19,
+      "gas:candidate-vibid:1001000217939": 92,
+      "gas:candidate-vibid:352300570734": 340,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 20,
-      "Кирин Александр Николаевич": 7,
-      "Костерин Николай Николаевич": 47,
-      "Хинштейн Александр Евсеевич": 142,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 20,
+      "gas:candidate-vibid:352300570366": 7,
+      "gas:candidate-vibid:1001000217939": 47,
+      "gas:candidate-vibid:352300570734": 142,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 7,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 23,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 61,
-      "Хинштейн Александр Евсеевич": 115,
-      "Против всех": 12
+      "gas:candidate-vibid:352300570677": 7,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 23,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 61,
+      "gas:candidate-vibid:352300570734": 115,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 16,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 10,
-      "Житухин Эдуард Александрович": 21,
-      "Кирин Александр Николаевич": 16,
-      "Костерин Николай Николаевич": 27,
-      "Хинштейн Александр Евсеевич": 101,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 16,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 10,
+      "gas:candidate-vibid:1001000121877": 21,
+      "gas:candidate-vibid:352300570366": 16,
+      "gas:candidate-vibid:1001000217939": 27,
+      "gas:candidate-vibid:352300570734": 101,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 3,
-      "Хинштейн Александр Евсеевич": 34,
-      "Против всех": 0
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 3,
+      "gas:candidate-vibid:352300570734": 34,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 15,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 23,
-      "Хинштейн Александр Евсеевич": 86,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 15,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 23,
+      "gas:candidate-vibid:352300570734": 86,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 27,
-      "Хинштейн Александр Евсеевич": 28,
-      "Против всех": 7
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 27,
+      "gas:candidate-vibid:352300570734": 28,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 16,
-      "Житухин Эдуард Александрович": 48,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 62,
-      "Хинштейн Александр Евсеевич": 298,
-      "Против всех": 45
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 16,
+      "gas:candidate-vibid:1001000121877": 48,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 62,
+      "gas:candidate-vibid:352300570734": 298,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 38,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 49,
-      "Хинштейн Александр Евсеевич": 195,
-      "Против всех": 24
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 38,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 49,
+      "gas:candidate-vibid:352300570734": 195,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 6,
-      "Евдокимов Александр Филиппович": 13,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 48,
-      "Кирин Александр Николаевич": 7,
-      "Костерин Николай Николаевич": 78,
-      "Хинштейн Александр Евсеевич": 227,
-      "Против всех": 40
+      "gas:candidate-vibid:352300570677": 6,
+      "gas:candidate-vibid:1001000338520": 13,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 48,
+      "gas:candidate-vibid:352300570366": 7,
+      "gas:candidate-vibid:1001000217939": 78,
+      "gas:candidate-vibid:352300570734": 227,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 52,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 38,
-      "Хинштейн Александр Евсеевич": 114,
-      "Против всех": 18
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 52,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 38,
+      "gas:candidate-vibid:352300570734": 114,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 12,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 41,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 43,
-      "Хинштейн Александр Евсеевич": 244,
-      "Против всех": 28
+      "gas:candidate-vibid:352300570677": 12,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 41,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 43,
+      "gas:candidate-vibid:352300570734": 244,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 32,
-      "Хинштейн Александр Евсеевич": 60,
-      "Против всех": 17
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 32,
+      "gas:candidate-vibid:352300570734": 60,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 28,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 27,
-      "Хинштейн Александр Евсеевич": 117,
-      "Против всех": 13
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 28,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 27,
+      "gas:candidate-vibid:352300570734": 117,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 22,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 10,
-      "Житухин Эдуард Александрович": 29,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 47,
-      "Хинштейн Александр Евсеевич": 52,
-      "Против всех": 13
+      "gas:candidate-vibid:352300570677": 22,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 10,
+      "gas:candidate-vibid:1001000121877": 29,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 47,
+      "gas:candidate-vibid:352300570734": 52,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 22,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 43,
-      "Хинштейн Александр Евсеевич": 62,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 22,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 43,
+      "gas:candidate-vibid:352300570734": 62,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 6,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 94,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 133,
-      "Хинштейн Александр Евсеевич": 361,
-      "Против всех": 71
+      "gas:candidate-vibid:352300570677": 6,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 94,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 133,
+      "gas:candidate-vibid:352300570734": 361,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 6,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 66,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 30,
-      "Хинштейн Александр Евсеевич": 132,
-      "Против всех": 50
+      "gas:candidate-vibid:352300570677": 6,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 66,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 30,
+      "gas:candidate-vibid:352300570734": 132,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 82,
-      "Хинштейн Александр Евсеевич": 80,
-      "Против всех": 7
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 82,
+      "gas:candidate-vibid:352300570734": 80,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 18,
-      "Житухин Эдуард Александрович": 19,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 35,
-      "Хинштейн Александр Евсеевич": 98,
-      "Против всех": 14
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 18,
+      "gas:candidate-vibid:1001000121877": 19,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 35,
+      "gas:candidate-vibid:352300570734": 98,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 41,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 57,
-      "Хинштейн Александр Евсеевич": 145,
-      "Против всех": 31
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 41,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 57,
+      "gas:candidate-vibid:352300570734": 145,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 6,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 25,
-      "Хинштейн Александр Евсеевич": 129,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 6,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 25,
+      "gas:candidate-vibid:352300570734": 129,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 13,
-      "Хинштейн Александр Евсеевич": 22,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 13,
+      "gas:candidate-vibid:352300570734": 22,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 24,
-      "Хинштейн Александр Евсеевич": 31,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 24,
+      "gas:candidate-vibid:352300570734": 31,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570484&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 24,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 29,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 94,
-      "Хинштейн Александр Евсеевич": 100,
-      "Против всех": 19
+      "gas:candidate-vibid:352300570677": 24,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 29,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 94,
+      "gas:candidate-vibid:352300570734": 100,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 38,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 20,
-      "Кирин Александр Николаевич": 14,
-      "Костерин Николай Николаевич": 88,
-      "Хинштейн Александр Евсеевич": 147,
-      "Против всех": 28
+      "gas:candidate-vibid:352300570677": 38,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 20,
+      "gas:candidate-vibid:352300570366": 14,
+      "gas:candidate-vibid:1001000217939": 88,
+      "gas:candidate-vibid:352300570734": 147,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 56,
-      "Евдокимов Александр Филиппович": 15,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 44,
-      "Кирин Александр Николаевич": 30,
-      "Костерин Николай Николаевич": 136,
-      "Хинштейн Александр Евсеевич": 213,
-      "Против всех": 35
+      "gas:candidate-vibid:352300570677": 56,
+      "gas:candidate-vibid:1001000338520": 15,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 44,
+      "gas:candidate-vibid:352300570366": 30,
+      "gas:candidate-vibid:1001000217939": 136,
+      "gas:candidate-vibid:352300570734": 213,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 53,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 24,
-      "Кирин Александр Николаевич": 35,
-      "Костерин Николай Николаевич": 101,
-      "Хинштейн Александр Евсеевич": 179,
-      "Против всех": 29
+      "gas:candidate-vibid:352300570677": 53,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 24,
+      "gas:candidate-vibid:352300570366": 35,
+      "gas:candidate-vibid:1001000217939": 101,
+      "gas:candidate-vibid:352300570734": 179,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 63,
-      "Евдокимов Александр Филиппович": 19,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 30,
-      "Кирин Александр Николаевич": 22,
-      "Костерин Николай Николаевич": 148,
-      "Хинштейн Александр Евсеевич": 184,
-      "Против всех": 36
+      "gas:candidate-vibid:352300570677": 63,
+      "gas:candidate-vibid:1001000338520": 19,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 30,
+      "gas:candidate-vibid:352300570366": 22,
+      "gas:candidate-vibid:1001000217939": 148,
+      "gas:candidate-vibid:352300570734": 184,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 73,
-      "Евдокимов Александр Филиппович": 21,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 26,
-      "Кирин Александр Николаевич": 48,
-      "Костерин Николай Николаевич": 168,
-      "Хинштейн Александр Евсеевич": 143,
-      "Против всех": 44
+      "gas:candidate-vibid:352300570677": 73,
+      "gas:candidate-vibid:1001000338520": 21,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 26,
+      "gas:candidate-vibid:352300570366": 48,
+      "gas:candidate-vibid:1001000217939": 168,
+      "gas:candidate-vibid:352300570734": 143,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 86,
-      "Евдокимов Александр Филиппович": 13,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 37,
-      "Кирин Александр Николаевич": 33,
-      "Костерин Николай Николаевич": 221,
-      "Хинштейн Александр Евсеевич": 348,
-      "Против всех": 65
+      "gas:candidate-vibid:352300570677": 86,
+      "gas:candidate-vibid:1001000338520": 13,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 37,
+      "gas:candidate-vibid:352300570366": 33,
+      "gas:candidate-vibid:1001000217939": 221,
+      "gas:candidate-vibid:352300570734": 348,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 47,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 10,
-      "Житухин Эдуард Александрович": 30,
-      "Кирин Александр Николаевич": 30,
-      "Костерин Николай Николаевич": 206,
-      "Хинштейн Александр Евсеевич": 247,
-      "Против всех": 60
+      "gas:candidate-vibid:352300570677": 47,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 10,
+      "gas:candidate-vibid:1001000121877": 30,
+      "gas:candidate-vibid:352300570366": 30,
+      "gas:candidate-vibid:1001000217939": 206,
+      "gas:candidate-vibid:352300570734": 247,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 31,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 19,
-      "Костерин Николай Николаевич": 110,
-      "Хинштейн Александр Евсеевич": 119,
-      "Против всех": 25
+      "gas:candidate-vibid:352300570677": 31,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 19,
+      "gas:candidate-vibid:1001000217939": 110,
+      "gas:candidate-vibid:352300570734": 119,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 26,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 9,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 54,
-      "Хинштейн Александр Евсеевич": 90,
-      "Против всех": 15
+      "gas:candidate-vibid:352300570677": 26,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 9,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 54,
+      "gas:candidate-vibid:352300570734": 90,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 32,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 35,
-      "Кирин Александр Николаевич": 17,
-      "Костерин Николай Николаевич": 106,
-      "Хинштейн Александр Евсеевич": 132,
-      "Против всех": 21
+      "gas:candidate-vibid:352300570677": 32,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 35,
+      "gas:candidate-vibid:352300570366": 17,
+      "gas:candidate-vibid:1001000217939": 106,
+      "gas:candidate-vibid:352300570734": 132,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 78,
-      "Евдокимов Александр Филиппович": 8,
-      "Емельянов Валерий Иванович": 13,
-      "Житухин Эдуард Александрович": 35,
-      "Кирин Александр Николаевич": 53,
-      "Костерин Николай Николаевич": 237,
-      "Хинштейн Александр Евсеевич": 218,
-      "Против всех": 41
+      "gas:candidate-vibid:352300570677": 78,
+      "gas:candidate-vibid:1001000338520": 8,
+      "gas:candidate-vibid:1001000136087": 13,
+      "gas:candidate-vibid:1001000121877": 35,
+      "gas:candidate-vibid:352300570366": 53,
+      "gas:candidate-vibid:1001000217939": 237,
+      "gas:candidate-vibid:352300570734": 218,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 58,
-      "Евдокимов Александр Филиппович": 14,
-      "Емельянов Валерий Иванович": 28,
-      "Житухин Эдуард Александрович": 19,
-      "Кирин Александр Николаевич": 29,
-      "Костерин Николай Николаевич": 117,
-      "Хинштейн Александр Евсеевич": 237,
-      "Против всех": 54
+      "gas:candidate-vibid:352300570677": 58,
+      "gas:candidate-vibid:1001000338520": 14,
+      "gas:candidate-vibid:1001000136087": 28,
+      "gas:candidate-vibid:1001000121877": 19,
+      "gas:candidate-vibid:352300570366": 29,
+      "gas:candidate-vibid:1001000217939": 117,
+      "gas:candidate-vibid:352300570734": 237,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 19,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 49,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 58,
-      "Хинштейн Александр Евсеевич": 120,
-      "Против всех": 12
+      "gas:candidate-vibid:352300570677": 19,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 49,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 58,
+      "gas:candidate-vibid:352300570734": 120,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 61,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 18,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 178,
-      "Хинштейн Александр Евсеевич": 127,
-      "Против всех": 19
+      "gas:candidate-vibid:352300570677": 61,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 18,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 178,
+      "gas:candidate-vibid:352300570734": 127,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 15,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 14,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 162,
-      "Хинштейн Александр Евсеевич": 64,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 15,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 14,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 162,
+      "gas:candidate-vibid:352300570734": 64,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 0,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 63,
-      "Хинштейн Александр Евсеевич": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 0,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 63,
+      "gas:candidate-vibid:352300570734": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 12,
-      "Костерин Николай Николаевич": 55,
-      "Хинштейн Александр Евсеевич": 66,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 12,
+      "gas:candidate-vibid:1001000217939": 55,
+      "gas:candidate-vibid:352300570734": 66,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 15,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 10,
-      "Кирин Александр Николаевич": 7,
-      "Костерин Николай Николаевич": 129,
-      "Хинштейн Александр Евсеевич": 139,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 15,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 10,
+      "gas:candidate-vibid:352300570366": 7,
+      "gas:candidate-vibid:1001000217939": 129,
+      "gas:candidate-vibid:352300570734": 139,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 14,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 94,
-      "Хинштейн Александр Евсеевич": 58,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 14,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 94,
+      "gas:candidate-vibid:352300570734": 58,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 8,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 177,
-      "Хинштейн Александр Евсеевич": 42,
-      "Против всех": 15
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 8,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 177,
+      "gas:candidate-vibid:352300570734": 42,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 5,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 58,
-      "Хинштейн Александр Евсеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 5,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 58,
+      "gas:candidate-vibid:352300570734": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 44,
-      "Хинштейн Александр Евсеевич": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 44,
+      "gas:candidate-vibid:352300570734": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 9,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 305,
-      "Хинштейн Александр Евсеевич": 79,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 9,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 305,
+      "gas:candidate-vibid:352300570734": 79,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 89,
-      "Хинштейн Александр Евсеевич": 123,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 89,
+      "gas:candidate-vibid:352300570734": 123,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 23,
-      "Евдокимов Александр Филиппович": 9,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 11,
-      "Кирин Александр Николаевич": 21,
-      "Костерин Николай Николаевич": 68,
-      "Хинштейн Александр Евсеевич": 163,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 23,
+      "gas:candidate-vibid:1001000338520": 9,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 11,
+      "gas:candidate-vibid:352300570366": 21,
+      "gas:candidate-vibid:1001000217939": 68,
+      "gas:candidate-vibid:352300570734": 163,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 10,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 136,
-      "Хинштейн Александр Евсеевич": 63,
-      "Против всех": 14
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 10,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 136,
+      "gas:candidate-vibid:352300570734": 63,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 14,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 61,
-      "Хинштейн Александр Евсеевич": 60,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 14,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 61,
+      "gas:candidate-vibid:352300570734": 60,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 13,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 51,
-      "Хинштейн Александр Евсеевич": 112,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 13,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 51,
+      "gas:candidate-vibid:352300570734": 112,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 9,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 150,
-      "Хинштейн Александр Евсеевич": 57,
-      "Против всех": 13
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 9,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 150,
+      "gas:candidate-vibid:352300570734": 57,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 13,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 71,
-      "Хинштейн Александр Евсеевич": 154,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 13,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 71,
+      "gas:candidate-vibid:352300570734": 154,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 7,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 6,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 173,
-      "Хинштейн Александр Евсеевич": 60,
-      "Против всех": 10
+      "gas:candidate-vibid:352300570677": 7,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 6,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 173,
+      "gas:candidate-vibid:352300570734": 60,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 12,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 24,
-      "Хинштейн Александр Евсеевич": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:352300570677": 12,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 24,
+      "gas:candidate-vibid:352300570734": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 6,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 10,
-      "Костерин Николай Николаевич": 23,
-      "Хинштейн Александр Евсеевич": 33,
-      "Против всех": 1
+      "gas:candidate-vibid:352300570677": 6,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 10,
+      "gas:candidate-vibid:1001000217939": 23,
+      "gas:candidate-vibid:352300570734": 33,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 30,
-      "Евдокимов Александр Филиппович": 9,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 144,
-      "Хинштейн Александр Евсеевич": 153,
-      "Против всех": 13
+      "gas:candidate-vibid:352300570677": 30,
+      "gas:candidate-vibid:1001000338520": 9,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 144,
+      "gas:candidate-vibid:352300570734": 153,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 18,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 8,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 83,
-      "Хинштейн Александр Евсеевич": 47,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 18,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 8,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 83,
+      "gas:candidate-vibid:352300570734": 47,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 36,
-      "Евдокимов Александр Филиппович": 31,
-      "Емельянов Валерий Иванович": 16,
-      "Житухин Эдуард Александрович": 24,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 174,
-      "Хинштейн Александр Евсеевич": 242,
-      "Против всех": 31
+      "gas:candidate-vibid:352300570677": 36,
+      "gas:candidate-vibid:1001000338520": 31,
+      "gas:candidate-vibid:1001000136087": 16,
+      "gas:candidate-vibid:1001000121877": 24,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 174,
+      "gas:candidate-vibid:352300570734": 242,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 36,
-      "Евдокимов Александр Филиппович": 23,
-      "Емельянов Валерий Иванович": 13,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 73,
-      "Хинштейн Александр Евсеевич": 215,
-      "Против всех": 28
+      "gas:candidate-vibid:352300570677": 36,
+      "gas:candidate-vibid:1001000338520": 23,
+      "gas:candidate-vibid:1001000136087": 13,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 73,
+      "gas:candidate-vibid:352300570734": 215,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570485&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 48,
-      "Евдокимов Александр Филиппович": 9,
-      "Емельянов Валерий Иванович": 16,
-      "Житухин Эдуард Александрович": 63,
-      "Кирин Александр Николаевич": 19,
-      "Костерин Николай Николаевич": 24,
-      "Хинштейн Александр Евсеевич": 151,
-      "Против всех": 30
+      "gas:candidate-vibid:352300570677": 48,
+      "gas:candidate-vibid:1001000338520": 9,
+      "gas:candidate-vibid:1001000136087": 16,
+      "gas:candidate-vibid:1001000121877": 63,
+      "gas:candidate-vibid:352300570366": 19,
+      "gas:candidate-vibid:1001000217939": 24,
+      "gas:candidate-vibid:352300570734": 151,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 110,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 125,
-      "Кирин Александр Николаевич": 38,
-      "Костерин Николай Николаевич": 63,
-      "Хинштейн Александр Евсеевич": 247,
-      "Против всех": 52
+      "gas:candidate-vibid:352300570677": 110,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 125,
+      "gas:candidate-vibid:352300570366": 38,
+      "gas:candidate-vibid:1001000217939": 63,
+      "gas:candidate-vibid:352300570734": 247,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 115,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 33,
-      "Житухин Эдуард Александрович": 157,
-      "Кирин Александр Николаевич": 57,
-      "Костерин Николай Николаевич": 89,
-      "Хинштейн Александр Евсеевич": 467,
-      "Против всех": 78
+      "gas:candidate-vibid:352300570677": 115,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 33,
+      "gas:candidate-vibid:1001000121877": 157,
+      "gas:candidate-vibid:352300570366": 57,
+      "gas:candidate-vibid:1001000217939": 89,
+      "gas:candidate-vibid:352300570734": 467,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 56,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 51,
-      "Кирин Александр Николаевич": 19,
-      "Костерин Николай Николаевич": 15,
-      "Хинштейн Александр Евсеевич": 136,
-      "Против всех": 29
+      "gas:candidate-vibid:352300570677": 56,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 51,
+      "gas:candidate-vibid:352300570366": 19,
+      "gas:candidate-vibid:1001000217939": 15,
+      "gas:candidate-vibid:352300570734": 136,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 157,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 46,
-      "Житухин Эдуард Александрович": 240,
-      "Кирин Александр Николаевич": 71,
-      "Костерин Николай Николаевич": 74,
-      "Хинштейн Александр Евсеевич": 612,
-      "Против всех": 161
+      "gas:candidate-vibid:352300570677": 157,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 46,
+      "gas:candidate-vibid:1001000121877": 240,
+      "gas:candidate-vibid:352300570366": 71,
+      "gas:candidate-vibid:1001000217939": 74,
+      "gas:candidate-vibid:352300570734": 612,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 149,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 60,
-      "Житухин Эдуард Александрович": 237,
-      "Кирин Александр Николаевич": 87,
-      "Костерин Николай Николаевич": 77,
-      "Хинштейн Александр Евсеевич": 635,
-      "Против всех": 164
+      "gas:candidate-vibid:352300570677": 149,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 60,
+      "gas:candidate-vibid:1001000121877": 237,
+      "gas:candidate-vibid:352300570366": 87,
+      "gas:candidate-vibid:1001000217939": 77,
+      "gas:candidate-vibid:352300570734": 635,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 29,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 27,
-      "Житухин Эдуард Александрович": 89,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 51,
-      "Хинштейн Александр Евсеевич": 139,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 29,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 27,
+      "gas:candidate-vibid:1001000121877": 89,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 51,
+      "gas:candidate-vibid:352300570734": 139,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 50,
-      "Евдокимов Александр Филиппович": 16,
-      "Емельянов Валерий Иванович": 58,
-      "Житухин Эдуард Александрович": 22,
-      "Кирин Александр Николаевич": 30,
-      "Костерин Николай Николаевич": 89,
-      "Хинштейн Александр Евсеевич": 52,
-      "Против всех": 46
+      "gas:candidate-vibid:352300570677": 50,
+      "gas:candidate-vibid:1001000338520": 16,
+      "gas:candidate-vibid:1001000136087": 58,
+      "gas:candidate-vibid:1001000121877": 22,
+      "gas:candidate-vibid:352300570366": 30,
+      "gas:candidate-vibid:1001000217939": 89,
+      "gas:candidate-vibid:352300570734": 52,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 9,
-      "Евдокимов Александр Филиппович": 15,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 32,
-      "Кирин Александр Николаевич": 7,
-      "Костерин Николай Николаевич": 128,
-      "Хинштейн Александр Евсеевич": 60,
-      "Против всех": 15
+      "gas:candidate-vibid:352300570677": 9,
+      "gas:candidate-vibid:1001000338520": 15,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 32,
+      "gas:candidate-vibid:352300570366": 7,
+      "gas:candidate-vibid:1001000217939": 128,
+      "gas:candidate-vibid:352300570734": 60,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 6,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 27,
-      "Кирин Александр Николаевич": 63,
-      "Костерин Николай Николаевич": 74,
-      "Хинштейн Александр Евсеевич": 89,
-      "Против всех": 14
+      "gas:candidate-vibid:352300570677": 6,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 27,
+      "gas:candidate-vibid:352300570366": 63,
+      "gas:candidate-vibid:1001000217939": 74,
+      "gas:candidate-vibid:352300570734": 89,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 48,
-      "Евдокимов Александр Филиппович": 11,
-      "Емельянов Валерий Иванович": 20,
-      "Житухин Эдуард Александрович": 15,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 129,
-      "Хинштейн Александр Евсеевич": 98,
-      "Против всех": 23
+      "gas:candidate-vibid:352300570677": 48,
+      "gas:candidate-vibid:1001000338520": 11,
+      "gas:candidate-vibid:1001000136087": 20,
+      "gas:candidate-vibid:1001000121877": 15,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 129,
+      "gas:candidate-vibid:352300570734": 98,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 14,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 33,
-      "Хинштейн Александр Евсеевич": 38,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 14,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 33,
+      "gas:candidate-vibid:352300570734": 38,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 73,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 15,
-      "Житухин Эдуард Александрович": 68,
-      "Кирин Александр Николаевич": 21,
-      "Костерин Николай Николаевич": 70,
-      "Хинштейн Александр Евсеевич": 230,
-      "Против всех": 61
+      "gas:candidate-vibid:352300570677": 73,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 15,
+      "gas:candidate-vibid:1001000121877": 68,
+      "gas:candidate-vibid:352300570366": 21,
+      "gas:candidate-vibid:1001000217939": 70,
+      "gas:candidate-vibid:352300570734": 230,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 21,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 14,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 81,
-      "Хинштейн Александр Евсеевич": 36,
-      "Против всех": 23
+      "gas:candidate-vibid:352300570677": 21,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 14,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 81,
+      "gas:candidate-vibid:352300570734": 36,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 13,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 6,
-      "Кирин Александр Николаевич": 10,
-      "Костерин Николай Николаевич": 25,
-      "Хинштейн Александр Евсеевич": 85,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 13,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 6,
+      "gas:candidate-vibid:352300570366": 10,
+      "gas:candidate-vibid:1001000217939": 25,
+      "gas:candidate-vibid:352300570734": 85,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 12,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 20,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 40,
-      "Хинштейн Александр Евсеевич": 93,
-      "Против всех": 14
+      "gas:candidate-vibid:352300570677": 12,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 20,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 40,
+      "gas:candidate-vibid:352300570734": 93,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 35,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 42,
-      "Житухин Эдуард Александрович": 89,
-      "Кирин Александр Николаевич": 165,
-      "Костерин Николай Николаевич": 80,
-      "Хинштейн Александр Евсеевич": 221,
-      "Против всех": 50
+      "gas:candidate-vibid:352300570677": 35,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 42,
+      "gas:candidate-vibid:1001000121877": 89,
+      "gas:candidate-vibid:352300570366": 165,
+      "gas:candidate-vibid:1001000217939": 80,
+      "gas:candidate-vibid:352300570734": 221,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 14,
-      "Кирин Александр Николаевич": 12,
-      "Костерин Николай Николаевич": 45,
-      "Хинштейн Александр Евсеевич": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 14,
+      "gas:candidate-vibid:352300570366": 12,
+      "gas:candidate-vibid:1001000217939": 45,
+      "gas:candidate-vibid:352300570734": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 18,
-      "Евдокимов Александр Филиппович": 5,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 58,
-      "Хинштейн Александр Евсеевич": 95,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 18,
+      "gas:candidate-vibid:1001000338520": 5,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 58,
+      "gas:candidate-vibid:352300570734": 95,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 32,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 11,
-      "Костерин Николай Николаевич": 61,
-      "Хинштейн Александр Евсеевич": 41,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 32,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 11,
+      "gas:candidate-vibid:1001000217939": 61,
+      "gas:candidate-vibid:352300570734": 41,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570486&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 15,
-      "Евдокимов Александр Филиппович": 68,
-      "Емельянов Валерий Иванович": 28,
-      "Житухин Эдуард Александрович": 53,
-      "Кирин Александр Николаевич": 71,
-      "Костерин Николай Николаевич": 149,
-      "Хинштейн Александр Евсеевич": 517,
-      "Против всех": 111
+      "gas:candidate-vibid:352300570677": 15,
+      "gas:candidate-vibid:1001000338520": 68,
+      "gas:candidate-vibid:1001000136087": 28,
+      "gas:candidate-vibid:1001000121877": 53,
+      "gas:candidate-vibid:352300570366": 71,
+      "gas:candidate-vibid:1001000217939": 149,
+      "gas:candidate-vibid:352300570734": 517,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 15,
-      "Евдокимов Александр Филиппович": 94,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 83,
-      "Кирин Александр Николаевич": 61,
-      "Костерин Николай Николаевич": 182,
-      "Хинштейн Александр Евсеевич": 509,
-      "Против всех": 111
+      "gas:candidate-vibid:352300570677": 15,
+      "gas:candidate-vibid:1001000338520": 94,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 83,
+      "gas:candidate-vibid:352300570366": 61,
+      "gas:candidate-vibid:1001000217939": 182,
+      "gas:candidate-vibid:352300570734": 509,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 7,
-      "Евдокимов Александр Филиппович": 41,
-      "Емельянов Валерий Иванович": 21,
-      "Житухин Эдуард Александрович": 27,
-      "Кирин Александр Николаевич": 45,
-      "Костерин Николай Николаевич": 92,
-      "Хинштейн Александр Евсеевич": 354,
-      "Против всех": 62
+      "gas:candidate-vibid:352300570677": 7,
+      "gas:candidate-vibid:1001000338520": 41,
+      "gas:candidate-vibid:1001000136087": 21,
+      "gas:candidate-vibid:1001000121877": 27,
+      "gas:candidate-vibid:352300570366": 45,
+      "gas:candidate-vibid:1001000217939": 92,
+      "gas:candidate-vibid:352300570734": 354,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 37,
-      "Кирин Александр Николаевич": 17,
-      "Костерин Николай Николаевич": 50,
-      "Хинштейн Александр Евсеевич": 280,
-      "Против всех": 18
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 37,
+      "gas:candidate-vibid:352300570366": 17,
+      "gas:candidate-vibid:1001000217939": 50,
+      "gas:candidate-vibid:352300570734": 280,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 20,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 68,
-      "Хинштейн Александр Евсеевич": 138,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 20,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 68,
+      "gas:candidate-vibid:352300570734": 138,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 11,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 7,
-      "Хинштейн Александр Евсеевич": 41,
-      "Против всех": 6
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 11,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 7,
+      "gas:candidate-vibid:352300570734": 41,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 10,
-      "Хинштейн Александр Евсеевич": 106,
-      "Против всех": 2
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 10,
+      "gas:candidate-vibid:352300570734": 106,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 7,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 16,
-      "Хинштейн Александр Евсеевич": 177,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 7,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 16,
+      "gas:candidate-vibid:352300570734": 177,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 7,
-      "Костерин Николай Николаевич": 2,
-      "Хинштейн Александр Евсеевич": 66,
-      "Против всех": 1
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 7,
+      "gas:candidate-vibid:1001000217939": 2,
+      "gas:candidate-vibid:352300570734": 66,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 7,
-      "Кирин Александр Николаевич": 12,
-      "Костерин Николай Николаевич": 40,
-      "Хинштейн Александр Евсеевич": 237,
-      "Против всех": 14
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 7,
+      "gas:candidate-vibid:352300570366": 12,
+      "gas:candidate-vibid:1001000217939": 40,
+      "gas:candidate-vibid:352300570734": 237,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 11,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 15,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 49,
-      "Хинштейн Александр Евсеевич": 106,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 11,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 15,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 49,
+      "gas:candidate-vibid:352300570734": 106,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 8,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 29,
-      "Хинштейн Александр Евсеевич": 59,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 8,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 29,
+      "gas:candidate-vibid:352300570734": 59,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 0,
-      "Житухин Эдуард Александрович": 6,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 10,
-      "Хинштейн Александр Евсеевич": 53,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 0,
+      "gas:candidate-vibid:1001000121877": 6,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 10,
+      "gas:candidate-vibid:352300570734": 53,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 16,
-      "Емельянов Валерий Иванович": 11,
-      "Житухин Эдуард Александрович": 15,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 78,
-      "Хинштейн Александр Евсеевич": 231,
-      "Против всех": 34
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 16,
+      "gas:candidate-vibid:1001000136087": 11,
+      "gas:candidate-vibid:1001000121877": 15,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 78,
+      "gas:candidate-vibid:352300570734": 231,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 9,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 12,
-      "Кирин Александр Николаевич": 17,
-      "Костерин Николай Николаевич": 41,
-      "Хинштейн Александр Евсеевич": 184,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 9,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 12,
+      "gas:candidate-vibid:352300570366": 17,
+      "gas:candidate-vibid:1001000217939": 41,
+      "gas:candidate-vibid:352300570734": 184,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 15,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 9,
-      "Хинштейн Александр Евсеевич": 111,
-      "Против всех": 15
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 15,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 9,
+      "gas:candidate-vibid:352300570734": 111,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 11,
-      "Евдокимов Александр Филиппович": 9,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 51,
-      "Кирин Александр Николаевич": 14,
-      "Костерин Николай Николаевич": 62,
-      "Хинштейн Александр Евсеевич": 155,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 11,
+      "gas:candidate-vibid:1001000338520": 9,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 51,
+      "gas:candidate-vibid:352300570366": 14,
+      "gas:candidate-vibid:1001000217939": 62,
+      "gas:candidate-vibid:352300570734": 155,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 18,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 30,
-      "Хинштейн Александр Евсеевич": 84,
-      "Против всех": 6
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 18,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 30,
+      "gas:candidate-vibid:352300570734": 84,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 22,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 31,
-      "Хинштейн Александр Евсеевич": 118,
-      "Против всех": 8
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 22,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 31,
+      "gas:candidate-vibid:352300570734": 118,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 16,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 2,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 17,
-      "Хинштейн Александр Евсеевич": 82,
-      "Против всех": 17
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 16,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 2,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 17,
+      "gas:candidate-vibid:352300570734": 82,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 0,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 6,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 7,
-      "Хинштейн Александр Евсеевич": 42,
-      "Против всех": 3
+      "gas:candidate-vibid:352300570677": 0,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 6,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 7,
+      "gas:candidate-vibid:352300570734": 42,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570487&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 87,
-      "Евдокимов Александр Филиппович": 23,
-      "Емельянов Валерий Иванович": 90,
-      "Житухин Эдуард Александрович": 122,
-      "Кирин Александр Николаевич": 49,
-      "Костерин Николай Николаевич": 194,
-      "Хинштейн Александр Евсеевич": 342,
-      "Против всех": 146
+      "gas:candidate-vibid:352300570677": 87,
+      "gas:candidate-vibid:1001000338520": 23,
+      "gas:candidate-vibid:1001000136087": 90,
+      "gas:candidate-vibid:1001000121877": 122,
+      "gas:candidate-vibid:352300570366": 49,
+      "gas:candidate-vibid:1001000217939": 194,
+      "gas:candidate-vibid:352300570734": 342,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 142,
-      "Евдокимов Александр Филиппович": 20,
-      "Емельянов Валерий Иванович": 62,
-      "Житухин Эдуард Александрович": 106,
-      "Кирин Александр Николаевич": 66,
-      "Костерин Николай Николаевич": 228,
-      "Хинштейн Александр Евсеевич": 426,
-      "Против всех": 155
+      "gas:candidate-vibid:352300570677": 142,
+      "gas:candidate-vibid:1001000338520": 20,
+      "gas:candidate-vibid:1001000136087": 62,
+      "gas:candidate-vibid:1001000121877": 106,
+      "gas:candidate-vibid:352300570366": 66,
+      "gas:candidate-vibid:1001000217939": 228,
+      "gas:candidate-vibid:352300570734": 426,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 93,
-      "Евдокимов Александр Филиппович": 15,
-      "Емельянов Валерий Иванович": 66,
-      "Житухин Эдуард Александрович": 148,
-      "Кирин Александр Николаевич": 37,
-      "Костерин Николай Николаевич": 146,
-      "Хинштейн Александр Евсеевич": 383,
-      "Против всех": 120
+      "gas:candidate-vibid:352300570677": 93,
+      "gas:candidate-vibid:1001000338520": 15,
+      "gas:candidate-vibid:1001000136087": 66,
+      "gas:candidate-vibid:1001000121877": 148,
+      "gas:candidate-vibid:352300570366": 37,
+      "gas:candidate-vibid:1001000217939": 146,
+      "gas:candidate-vibid:352300570734": 383,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 111,
-      "Евдокимов Александр Филиппович": 13,
-      "Емельянов Валерий Иванович": 61,
-      "Житухин Эдуард Александрович": 117,
-      "Кирин Александр Николаевич": 25,
-      "Костерин Николай Николаевич": 146,
-      "Хинштейн Александр Евсеевич": 435,
-      "Против всех": 149
+      "gas:candidate-vibid:352300570677": 111,
+      "gas:candidate-vibid:1001000338520": 13,
+      "gas:candidate-vibid:1001000136087": 61,
+      "gas:candidate-vibid:1001000121877": 117,
+      "gas:candidate-vibid:352300570366": 25,
+      "gas:candidate-vibid:1001000217939": 146,
+      "gas:candidate-vibid:352300570734": 435,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 100,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 93,
-      "Житухин Эдуард Александрович": 143,
-      "Кирин Александр Николаевич": 41,
-      "Костерин Николай Николаевич": 141,
-      "Хинштейн Александр Евсеевич": 365,
-      "Против всех": 124
+      "gas:candidate-vibid:352300570677": 100,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 93,
+      "gas:candidate-vibid:1001000121877": 143,
+      "gas:candidate-vibid:352300570366": 41,
+      "gas:candidate-vibid:1001000217939": 141,
+      "gas:candidate-vibid:352300570734": 365,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 40,
-      "Евдокимов Александр Филиппович": 12,
-      "Емельянов Валерий Иванович": 36,
-      "Житухин Эдуард Александрович": 52,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 107,
-      "Хинштейн Александр Евсеевич": 170,
-      "Против всех": 56
+      "gas:candidate-vibid:352300570677": 40,
+      "gas:candidate-vibid:1001000338520": 12,
+      "gas:candidate-vibid:1001000136087": 36,
+      "gas:candidate-vibid:1001000121877": 52,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 107,
+      "gas:candidate-vibid:352300570734": 170,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 51,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 25,
-      "Житухин Эдуард Александрович": 61,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 33,
-      "Хинштейн Александр Евсеевич": 146,
-      "Против всех": 27
+      "gas:candidate-vibid:352300570677": 51,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 25,
+      "gas:candidate-vibid:1001000121877": 61,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 33,
+      "gas:candidate-vibid:352300570734": 146,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 152,
-      "Евдокимов Александр Филиппович": 15,
-      "Емельянов Валерий Иванович": 51,
-      "Житухин Эдуард Александрович": 63,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 106,
-      "Хинштейн Александр Евсеевич": 288,
-      "Против всех": 101
+      "gas:candidate-vibid:352300570677": 152,
+      "gas:candidate-vibid:1001000338520": 15,
+      "gas:candidate-vibid:1001000136087": 51,
+      "gas:candidate-vibid:1001000121877": 63,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 106,
+      "gas:candidate-vibid:352300570734": 288,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 91,
-      "Евдокимов Александр Филиппович": 17,
-      "Емельянов Валерий Иванович": 92,
-      "Житухин Эдуард Александрович": 87,
-      "Кирин Александр Николаевич": 15,
-      "Костерин Николай Николаевич": 179,
-      "Хинштейн Александр Евсеевич": 336,
-      "Против всех": 134
+      "gas:candidate-vibid:352300570677": 91,
+      "gas:candidate-vibid:1001000338520": 17,
+      "gas:candidate-vibid:1001000136087": 92,
+      "gas:candidate-vibid:1001000121877": 87,
+      "gas:candidate-vibid:352300570366": 15,
+      "gas:candidate-vibid:1001000217939": 179,
+      "gas:candidate-vibid:352300570734": 336,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 42,
-      "Евдокимов Александр Филиппович": 22,
-      "Емельянов Валерий Иванович": 34,
-      "Житухин Эдуард Александрович": 67,
-      "Кирин Александр Николаевич": 17,
-      "Костерин Николай Николаевич": 164,
-      "Хинштейн Александр Евсеевич": 214,
-      "Против всех": 60
+      "gas:candidate-vibid:352300570677": 42,
+      "gas:candidate-vibid:1001000338520": 22,
+      "gas:candidate-vibid:1001000136087": 34,
+      "gas:candidate-vibid:1001000121877": 67,
+      "gas:candidate-vibid:352300570366": 17,
+      "gas:candidate-vibid:1001000217939": 164,
+      "gas:candidate-vibid:352300570734": 214,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 41,
-      "Евдокимов Александр Филиппович": 24,
-      "Емельянов Валерий Иванович": 32,
-      "Житухин Эдуард Александрович": 203,
-      "Кирин Александр Николаевич": 20,
-      "Костерин Николай Николаевич": 123,
-      "Хинштейн Александр Евсеевич": 239,
-      "Против всех": 77
+      "gas:candidate-vibid:352300570677": 41,
+      "gas:candidate-vibid:1001000338520": 24,
+      "gas:candidate-vibid:1001000136087": 32,
+      "gas:candidate-vibid:1001000121877": 203,
+      "gas:candidate-vibid:352300570366": 20,
+      "gas:candidate-vibid:1001000217939": 123,
+      "gas:candidate-vibid:352300570734": 239,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 23,
-      "Евдокимов Александр Филиппович": 11,
-      "Емельянов Валерий Иванович": 7,
-      "Житухин Эдуард Александрович": 76,
-      "Кирин Александр Николаевич": 11,
-      "Костерин Николай Николаевич": 85,
-      "Хинштейн Александр Евсеевич": 154,
-      "Против всех": 48
+      "gas:candidate-vibid:352300570677": 23,
+      "gas:candidate-vibid:1001000338520": 11,
+      "gas:candidate-vibid:1001000136087": 7,
+      "gas:candidate-vibid:1001000121877": 76,
+      "gas:candidate-vibid:352300570366": 11,
+      "gas:candidate-vibid:1001000217939": 85,
+      "gas:candidate-vibid:352300570734": 154,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 6,
-      "Емельянов Валерий Иванович": 22,
-      "Житухин Эдуард Александрович": 78,
-      "Кирин Александр Николаевич": 6,
-      "Костерин Николай Николаевич": 72,
-      "Хинштейн Александр Евсеевич": 102,
-      "Против всех": 48
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 6,
+      "gas:candidate-vibid:1001000136087": 22,
+      "gas:candidate-vibid:1001000121877": 78,
+      "gas:candidate-vibid:352300570366": 6,
+      "gas:candidate-vibid:1001000217939": 72,
+      "gas:candidate-vibid:352300570734": 102,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 29,
-      "Евдокимов Александр Филиппович": 22,
-      "Емельянов Валерий Иванович": 48,
-      "Житухин Эдуард Александрович": 308,
-      "Кирин Александр Николаевич": 44,
-      "Костерин Николай Николаевич": 318,
-      "Хинштейн Александр Евсеевич": 261,
-      "Против всех": 99
+      "gas:candidate-vibid:352300570677": 29,
+      "gas:candidate-vibid:1001000338520": 22,
+      "gas:candidate-vibid:1001000136087": 48,
+      "gas:candidate-vibid:1001000121877": 308,
+      "gas:candidate-vibid:352300570366": 44,
+      "gas:candidate-vibid:1001000217939": 318,
+      "gas:candidate-vibid:352300570734": 261,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 13,
-      "Житухин Эдуард Александрович": 98,
-      "Кирин Александр Николаевич": 9,
-      "Костерин Николай Николаевич": 106,
-      "Хинштейн Александр Евсеевич": 103,
-      "Против всех": 39
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 13,
+      "gas:candidate-vibid:1001000121877": 98,
+      "gas:candidate-vibid:352300570366": 9,
+      "gas:candidate-vibid:1001000217939": 106,
+      "gas:candidate-vibid:352300570734": 103,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 20,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 13,
-      "Житухин Эдуард Александрович": 78,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 54,
-      "Хинштейн Александр Евсеевич": 54,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 20,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 13,
+      "gas:candidate-vibid:1001000121877": 78,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 54,
+      "gas:candidate-vibid:352300570734": 54,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 13,
-      "Евдокимов Александр Филиппович": 3,
-      "Емельянов Валерий Иванович": 21,
-      "Житухин Эдуард Александрович": 114,
-      "Кирин Александр Николаевич": 15,
-      "Костерин Николай Николаевич": 76,
-      "Хинштейн Александр Евсеевич": 88,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 13,
+      "gas:candidate-vibid:1001000338520": 3,
+      "gas:candidate-vibid:1001000136087": 21,
+      "gas:candidate-vibid:1001000121877": 114,
+      "gas:candidate-vibid:352300570366": 15,
+      "gas:candidate-vibid:1001000217939": 76,
+      "gas:candidate-vibid:352300570734": 88,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 38,
-      "Хинштейн Александр Евсеевич": 68,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 38,
+      "gas:candidate-vibid:352300570734": 68,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 1,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 5,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 68,
-      "Хинштейн Александр Евсеевич": 41,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 1,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 5,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 68,
+      "gas:candidate-vibid:352300570734": 41,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 13,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 14,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 27,
-      "Хинштейн Александр Евсеевич": 54,
-      "Против всех": 14
+      "gas:candidate-vibid:352300570677": 13,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 14,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 27,
+      "gas:candidate-vibid:352300570734": 54,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 7,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 17,
-      "Хинштейн Александр Евсеевич": 34,
-      "Против всех": 18
+      "gas:candidate-vibid:352300570677": 7,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 17,
+      "gas:candidate-vibid:352300570734": 34,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 10,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 8,
-      "Житухин Эдуард Александрович": 12,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 108,
-      "Хинштейн Александр Евсеевич": 200,
-      "Против всех": 12
+      "gas:candidate-vibid:352300570677": 10,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 8,
+      "gas:candidate-vibid:1001000121877": 12,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 108,
+      "gas:candidate-vibid:352300570734": 200,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 36,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 52,
-      "Костерин Николай Николаевич": 89,
-      "Хинштейн Александр Евсеевич": 80,
-      "Против всех": 25
+      "gas:candidate-vibid:352300570677": 36,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 52,
+      "gas:candidate-vibid:1001000217939": 89,
+      "gas:candidate-vibid:352300570734": 80,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 8,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 9,
-      "Житухин Эдуард Александрович": 24,
-      "Кирин Александр Николаевич": 10,
-      "Костерин Николай Николаевич": 60,
-      "Хинштейн Александр Евсеевич": 143,
-      "Против всех": 20
+      "gas:candidate-vibid:352300570677": 8,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 9,
+      "gas:candidate-vibid:1001000121877": 24,
+      "gas:candidate-vibid:352300570366": 10,
+      "gas:candidate-vibid:1001000217939": 60,
+      "gas:candidate-vibid:352300570734": 143,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 9,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 6,
-      "Житухин Эдуард Александрович": 25,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 89,
-      "Хинштейн Александр Евсеевич": 84,
-      "Против всех": 22
+      "gas:candidate-vibid:352300570677": 9,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 6,
+      "gas:candidate-vibid:1001000121877": 25,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 89,
+      "gas:candidate-vibid:352300570734": 84,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 4,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 4,
-      "Житухин Эдуард Александрович": 10,
-      "Кирин Александр Николаевич": 8,
-      "Костерин Николай Николаевич": 227,
-      "Хинштейн Александр Евсеевич": 91,
-      "Против всех": 17
+      "gas:candidate-vibid:352300570677": 4,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 4,
+      "gas:candidate-vibid:1001000121877": 10,
+      "gas:candidate-vibid:352300570366": 8,
+      "gas:candidate-vibid:1001000217939": 227,
+      "gas:candidate-vibid:352300570734": 91,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 14,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 10,
-      "Кирин Александр Николаевич": 3,
-      "Костерин Николай Николаевич": 43,
-      "Хинштейн Александр Евсеевич": 54,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 14,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 10,
+      "gas:candidate-vibid:352300570366": 3,
+      "gas:candidate-vibid:1001000217939": 43,
+      "gas:candidate-vibid:352300570734": 54,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 30,
-      "Евдокимов Александр Филиппович": 10,
-      "Емельянов Валерий Иванович": 24,
-      "Житухин Эдуард Александрович": 59,
-      "Кирин Александр Николаевич": 22,
-      "Костерин Николай Николаевич": 146,
-      "Хинштейн Александр Евсеевич": 163,
-      "Против всех": 49
+      "gas:candidate-vibid:352300570677": 30,
+      "gas:candidate-vibid:1001000338520": 10,
+      "gas:candidate-vibid:1001000136087": 24,
+      "gas:candidate-vibid:1001000121877": 59,
+      "gas:candidate-vibid:352300570366": 22,
+      "gas:candidate-vibid:1001000217939": 146,
+      "gas:candidate-vibid:352300570734": 163,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 5,
-      "Евдокимов Александр Филиппович": 4,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 3,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 15,
-      "Хинштейн Александр Евсеевич": 68,
-      "Против всех": 11
+      "gas:candidate-vibid:352300570677": 5,
+      "gas:candidate-vibid:1001000338520": 4,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 3,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 15,
+      "gas:candidate-vibid:352300570734": 68,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 2,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 2,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 22,
-      "Хинштейн Александр Евсеевич": 53,
-      "Против всех": 9
+      "gas:candidate-vibid:352300570677": 2,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 2,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 22,
+      "gas:candidate-vibid:352300570734": 53,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 7,
-      "Евдокимов Александр Филиппович": 0,
-      "Емельянов Валерий Иванович": 3,
-      "Житухин Эдуард Александрович": 4,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 49,
-      "Хинштейн Александр Евсеевич": 111,
-      "Против всех": 5
+      "gas:candidate-vibid:352300570677": 7,
+      "gas:candidate-vibid:1001000338520": 0,
+      "gas:candidate-vibid:1001000136087": 3,
+      "gas:candidate-vibid:1001000121877": 4,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 49,
+      "gas:candidate-vibid:352300570734": 111,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 12,
-      "Евдокимов Александр Филиппович": 8,
-      "Емельянов Валерий Иванович": 10,
-      "Житухин Эдуард Александрович": 15,
-      "Кирин Александр Николаевич": 4,
-      "Костерин Николай Николаевич": 114,
-      "Хинштейн Александр Евсеевич": 122,
-      "Против всех": 32
+      "gas:candidate-vibid:352300570677": 12,
+      "gas:candidate-vibid:1001000338520": 8,
+      "gas:candidate-vibid:1001000136087": 10,
+      "gas:candidate-vibid:1001000121877": 15,
+      "gas:candidate-vibid:352300570366": 4,
+      "gas:candidate-vibid:1001000217939": 114,
+      "gas:candidate-vibid:352300570734": 122,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 3,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 1,
-      "Житухин Эдуард Александрович": 13,
-      "Кирин Александр Николаевич": 2,
-      "Костерин Николай Николаевич": 28,
-      "Хинштейн Александр Евсеевич": 74,
-      "Против всех": 4
+      "gas:candidate-vibid:352300570677": 3,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 1,
+      "gas:candidate-vibid:1001000121877": 13,
+      "gas:candidate-vibid:352300570366": 2,
+      "gas:candidate-vibid:1001000217939": 28,
+      "gas:candidate-vibid:352300570734": 74,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 47,
-      "Евдокимов Александр Филиппович": 7,
-      "Емельянов Валерий Иванович": 23,
-      "Житухин Эдуард Александрович": 56,
-      "Кирин Александр Николаевич": 16,
-      "Костерин Николай Николаевич": 177,
-      "Хинштейн Александр Евсеевич": 225,
-      "Против всех": 54
+      "gas:candidate-vibid:352300570677": 47,
+      "gas:candidate-vibid:1001000338520": 7,
+      "gas:candidate-vibid:1001000136087": 23,
+      "gas:candidate-vibid:1001000121877": 56,
+      "gas:candidate-vibid:352300570366": 16,
+      "gas:candidate-vibid:1001000217939": 177,
+      "gas:candidate-vibid:352300570734": 225,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 17,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 5,
-      "Житухин Эдуард Александрович": 1,
-      "Кирин Александр Николаевич": 1,
-      "Костерин Николай Николаевич": 82,
-      "Хинштейн Александр Евсеевич": 33,
-      "Против всех": 13
+      "gas:candidate-vibid:352300570677": 17,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 5,
+      "gas:candidate-vibid:1001000121877": 1,
+      "gas:candidate-vibid:352300570366": 1,
+      "gas:candidate-vibid:1001000217939": 82,
+      "gas:candidate-vibid:352300570734": 33,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 20,
-      "Евдокимов Александр Филиппович": 1,
-      "Емельянов Валерий Иванович": 12,
-      "Житухин Эдуард Александрович": 17,
-      "Кирин Александр Николаевич": 5,
-      "Костерин Николай Николаевич": 55,
-      "Хинштейн Александр Евсеевич": 166,
-      "Против всех": 25
+      "gas:candidate-vibid:352300570677": 20,
+      "gas:candidate-vibid:1001000338520": 1,
+      "gas:candidate-vibid:1001000136087": 12,
+      "gas:candidate-vibid:1001000121877": 17,
+      "gas:candidate-vibid:352300570366": 5,
+      "gas:candidate-vibid:1001000217939": 55,
+      "gas:candidate-vibid:352300570734": 166,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Глуховской Александр Николаевич": 9,
-      "Евдокимов Александр Филиппович": 2,
-      "Емельянов Валерий Иванович": 2,
-      "Житухин Эдуард Александрович": 0,
-      "Кирин Александр Николаевич": 0,
-      "Костерин Николай Николаевич": 20,
-      "Хинштейн Александр Евсеевич": 20,
-      "Против всех": 10
+      "gas:candidate-vibid:352300570677": 9,
+      "gas:candidate-vibid:1001000338520": 2,
+      "gas:candidate-vibid:1001000136087": 2,
+      "gas:candidate-vibid:1001000121877": 0,
+      "gas:candidate-vibid:352300570366": 0,
+      "gas:candidate-vibid:1001000217939": 20,
+      "gas:candidate-vibid:352300570734": 20,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523005016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300570488&region=0&sub_region=0&type=429",
@@ -10701,18 +10701,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 13,
-      "Бирюков Валерий Михайлович": 36,
-      "Герасимов Николай Николаевич": 5,
-      "Грядасов Владимир Владимирович": 3,
-      "Лихачев Алексей Евгеньевич": 66,
-      "Ребяткин Александр Николаевич": 18,
-      "Рябов Николай Федорович": 47,
-      "Судияров Шамиль Равильевич": 12,
-      "Табункин Владимир Александрович": 21,
-      "Хватков Николай Павлович": 1,
-      "Щербаков Юрий Вячеславович": 56,
-      "Против всех": 168
+      "gas:candidate-vibid:352300670396": 13,
+      "gas:candidate-vibid:352300670448": 36,
+      "gas:candidate-vibid:352300670512": 5,
+      "gas:candidate-vibid:352300670521": 3,
+      "gas:candidate-vibid:1001000113955": 66,
+      "gas:candidate-vibid:1001000136086": 18,
+      "gas:candidate-vibid:1001000121876": 47,
+      "gas:candidate-vibid:352300670527": 12,
+      "gas:candidate-vibid:1001000190383": 21,
+      "gas:candidate-vibid:352300670442": 1,
+      "gas:candidate-vibid:352300670381": 56,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -10762,18 +10762,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 67,
-      "Бирюков Валерий Михайлович": 66,
-      "Герасимов Николай Николаевич": 14,
-      "Грядасов Владимир Владимирович": 17,
-      "Лихачев Алексей Евгеньевич": 337,
-      "Ребяткин Александр Николаевич": 22,
-      "Рябов Николай Федорович": 150,
-      "Судияров Шамиль Равильевич": 16,
-      "Табункин Владимир Александрович": 48,
-      "Хватков Николай Павлович": 16,
-      "Щербаков Юрий Вячеславович": 74,
-      "Против всех": 278
+      "gas:candidate-vibid:352300670396": 67,
+      "gas:candidate-vibid:352300670448": 66,
+      "gas:candidate-vibid:352300670512": 14,
+      "gas:candidate-vibid:352300670521": 17,
+      "gas:candidate-vibid:1001000113955": 337,
+      "gas:candidate-vibid:1001000136086": 22,
+      "gas:candidate-vibid:1001000121876": 150,
+      "gas:candidate-vibid:352300670527": 16,
+      "gas:candidate-vibid:1001000190383": 48,
+      "gas:candidate-vibid:352300670442": 16,
+      "gas:candidate-vibid:352300670381": 74,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -10823,18 +10823,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 54,
-      "Бирюков Валерий Михайлович": 64,
-      "Герасимов Николай Николаевич": 20,
-      "Грядасов Владимир Владимирович": 16,
-      "Лихачев Алексей Евгеньевич": 223,
-      "Ребяткин Александр Николаевич": 36,
-      "Рябов Николай Федорович": 177,
-      "Судияров Шамиль Равильевич": 14,
-      "Табункин Владимир Александрович": 101,
-      "Хватков Николай Павлович": 13,
-      "Щербаков Юрий Вячеславович": 83,
-      "Против всех": 282
+      "gas:candidate-vibid:352300670396": 54,
+      "gas:candidate-vibid:352300670448": 64,
+      "gas:candidate-vibid:352300670512": 20,
+      "gas:candidate-vibid:352300670521": 16,
+      "gas:candidate-vibid:1001000113955": 223,
+      "gas:candidate-vibid:1001000136086": 36,
+      "gas:candidate-vibid:1001000121876": 177,
+      "gas:candidate-vibid:352300670527": 14,
+      "gas:candidate-vibid:1001000190383": 101,
+      "gas:candidate-vibid:352300670442": 13,
+      "gas:candidate-vibid:352300670381": 83,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -10884,18 +10884,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 29,
-      "Бирюков Валерий Михайлович": 54,
-      "Герасимов Николай Николаевич": 37,
-      "Грядасов Владимир Владимирович": 9,
-      "Лихачев Алексей Евгеньевич": 673,
-      "Ребяткин Александр Николаевич": 48,
-      "Рябов Николай Федорович": 116,
-      "Судияров Шамиль Равильевич": 28,
-      "Табункин Владимир Александрович": 32,
-      "Хватков Николай Павлович": 14,
-      "Щербаков Юрий Вячеславович": 96,
-      "Против всех": 222
+      "gas:candidate-vibid:352300670396": 29,
+      "gas:candidate-vibid:352300670448": 54,
+      "gas:candidate-vibid:352300670512": 37,
+      "gas:candidate-vibid:352300670521": 9,
+      "gas:candidate-vibid:1001000113955": 673,
+      "gas:candidate-vibid:1001000136086": 48,
+      "gas:candidate-vibid:1001000121876": 116,
+      "gas:candidate-vibid:352300670527": 28,
+      "gas:candidate-vibid:1001000190383": 32,
+      "gas:candidate-vibid:352300670442": 14,
+      "gas:candidate-vibid:352300670381": 96,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -10945,18 +10945,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 28,
-      "Бирюков Валерий Михайлович": 41,
-      "Герасимов Николай Николаевич": 10,
-      "Грядасов Владимир Владимирович": 9,
-      "Лихачев Алексей Евгеньевич": 224,
-      "Ребяткин Александр Николаевич": 22,
-      "Рябов Николай Федорович": 96,
-      "Судияров Шамиль Равильевич": 13,
-      "Табункин Владимир Александрович": 68,
-      "Хватков Николай Павлович": 10,
-      "Щербаков Юрий Вячеславович": 30,
-      "Против всех": 162
+      "gas:candidate-vibid:352300670396": 28,
+      "gas:candidate-vibid:352300670448": 41,
+      "gas:candidate-vibid:352300670512": 10,
+      "gas:candidate-vibid:352300670521": 9,
+      "gas:candidate-vibid:1001000113955": 224,
+      "gas:candidate-vibid:1001000136086": 22,
+      "gas:candidate-vibid:1001000121876": 96,
+      "gas:candidate-vibid:352300670527": 13,
+      "gas:candidate-vibid:1001000190383": 68,
+      "gas:candidate-vibid:352300670442": 10,
+      "gas:candidate-vibid:352300670381": 30,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11006,18 +11006,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 39,
-      "Бирюков Валерий Михайлович": 34,
-      "Герасимов Николай Николаевич": 5,
-      "Грядасов Владимир Владимирович": 7,
-      "Лихачев Алексей Евгеньевич": 272,
-      "Ребяткин Александр Николаевич": 17,
-      "Рябов Николай Федорович": 109,
-      "Судияров Шамиль Равильевич": 7,
-      "Табункин Владимир Александрович": 64,
-      "Хватков Николай Павлович": 4,
-      "Щербаков Юрий Вячеславович": 42,
-      "Против всех": 180
+      "gas:candidate-vibid:352300670396": 39,
+      "gas:candidate-vibid:352300670448": 34,
+      "gas:candidate-vibid:352300670512": 5,
+      "gas:candidate-vibid:352300670521": 7,
+      "gas:candidate-vibid:1001000113955": 272,
+      "gas:candidate-vibid:1001000136086": 17,
+      "gas:candidate-vibid:1001000121876": 109,
+      "gas:candidate-vibid:352300670527": 7,
+      "gas:candidate-vibid:1001000190383": 64,
+      "gas:candidate-vibid:352300670442": 4,
+      "gas:candidate-vibid:352300670381": 42,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11067,18 +11067,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 54,
-      "Бирюков Валерий Михайлович": 30,
-      "Герасимов Николай Николаевич": 14,
-      "Грядасов Владимир Владимирович": 21,
-      "Лихачев Алексей Евгеньевич": 259,
-      "Ребяткин Александр Николаевич": 18,
-      "Рябов Николай Федорович": 136,
-      "Судияров Шамиль Равильевич": 7,
-      "Табункин Владимир Александрович": 120,
-      "Хватков Николай Павлович": 9,
-      "Щербаков Юрий Вячеславович": 37,
-      "Против всех": 180
+      "gas:candidate-vibid:352300670396": 54,
+      "gas:candidate-vibid:352300670448": 30,
+      "gas:candidate-vibid:352300670512": 14,
+      "gas:candidate-vibid:352300670521": 21,
+      "gas:candidate-vibid:1001000113955": 259,
+      "gas:candidate-vibid:1001000136086": 18,
+      "gas:candidate-vibid:1001000121876": 136,
+      "gas:candidate-vibid:352300670527": 7,
+      "gas:candidate-vibid:1001000190383": 120,
+      "gas:candidate-vibid:352300670442": 9,
+      "gas:candidate-vibid:352300670381": 37,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11128,18 +11128,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 29,
-      "Бирюков Валерий Михайлович": 63,
-      "Герасимов Николай Николаевич": 21,
-      "Грядасов Владимир Владимирович": 11,
-      "Лихачев Алексей Евгеньевич": 307,
-      "Ребяткин Александр Николаевич": 28,
-      "Рябов Николай Федорович": 221,
-      "Судияров Шамиль Равильевич": 8,
-      "Табункин Владимир Александрович": 175,
-      "Хватков Николай Павлович": 21,
-      "Щербаков Юрий Вячеславович": 51,
-      "Против всех": 345
+      "gas:candidate-vibid:352300670396": 29,
+      "gas:candidate-vibid:352300670448": 63,
+      "gas:candidate-vibid:352300670512": 21,
+      "gas:candidate-vibid:352300670521": 11,
+      "gas:candidate-vibid:1001000113955": 307,
+      "gas:candidate-vibid:1001000136086": 28,
+      "gas:candidate-vibid:1001000121876": 221,
+      "gas:candidate-vibid:352300670527": 8,
+      "gas:candidate-vibid:1001000190383": 175,
+      "gas:candidate-vibid:352300670442": 21,
+      "gas:candidate-vibid:352300670381": 51,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11189,18 +11189,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 33,
-      "Бирюков Валерий Михайлович": 50,
-      "Герасимов Николай Николаевич": 22,
-      "Грядасов Владимир Владимирович": 18,
-      "Лихачев Алексей Евгеньевич": 348,
-      "Ребяткин Александр Николаевич": 24,
-      "Рябов Николай Федорович": 163,
-      "Судияров Шамиль Равильевич": 15,
-      "Табункин Владимир Александрович": 173,
-      "Хватков Николай Павлович": 23,
-      "Щербаков Юрий Вячеславович": 59,
-      "Против всех": 340
+      "gas:candidate-vibid:352300670396": 33,
+      "gas:candidate-vibid:352300670448": 50,
+      "gas:candidate-vibid:352300670512": 22,
+      "gas:candidate-vibid:352300670521": 18,
+      "gas:candidate-vibid:1001000113955": 348,
+      "gas:candidate-vibid:1001000136086": 24,
+      "gas:candidate-vibid:1001000121876": 163,
+      "gas:candidate-vibid:352300670527": 15,
+      "gas:candidate-vibid:1001000190383": 173,
+      "gas:candidate-vibid:352300670442": 23,
+      "gas:candidate-vibid:352300670381": 59,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11250,18 +11250,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 20,
-      "Бирюков Валерий Михайлович": 35,
-      "Герасимов Николай Николаевич": 8,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 290,
-      "Ребяткин Александр Николаевич": 25,
-      "Рябов Николай Федорович": 127,
-      "Судияров Шамиль Равильевич": 7,
-      "Табункин Владимир Александрович": 125,
-      "Хватков Николай Павлович": 25,
-      "Щербаков Юрий Вячеславович": 42,
-      "Против всех": 179
+      "gas:candidate-vibid:352300670396": 20,
+      "gas:candidate-vibid:352300670448": 35,
+      "gas:candidate-vibid:352300670512": 8,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 290,
+      "gas:candidate-vibid:1001000136086": 25,
+      "gas:candidate-vibid:1001000121876": 127,
+      "gas:candidate-vibid:352300670527": 7,
+      "gas:candidate-vibid:1001000190383": 125,
+      "gas:candidate-vibid:352300670442": 25,
+      "gas:candidate-vibid:352300670381": 42,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11311,18 +11311,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 66,
-      "Бирюков Валерий Михайлович": 33,
-      "Герасимов Николай Николаевич": 22,
-      "Грядасов Владимир Владимирович": 13,
-      "Лихачев Алексей Евгеньевич": 274,
-      "Ребяткин Александр Николаевич": 42,
-      "Рябов Николай Федорович": 197,
-      "Судияров Шамиль Равильевич": 11,
-      "Табункин Владимир Александрович": 187,
-      "Хватков Николай Павлович": 26,
-      "Щербаков Юрий Вячеславович": 72,
-      "Против всех": 256
+      "gas:candidate-vibid:352300670396": 66,
+      "gas:candidate-vibid:352300670448": 33,
+      "gas:candidate-vibid:352300670512": 22,
+      "gas:candidate-vibid:352300670521": 13,
+      "gas:candidate-vibid:1001000113955": 274,
+      "gas:candidate-vibid:1001000136086": 42,
+      "gas:candidate-vibid:1001000121876": 197,
+      "gas:candidate-vibid:352300670527": 11,
+      "gas:candidate-vibid:1001000190383": 187,
+      "gas:candidate-vibid:352300670442": 26,
+      "gas:candidate-vibid:352300670381": 72,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11372,18 +11372,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 127,
-      "Бирюков Валерий Михайлович": 35,
-      "Герасимов Николай Николаевич": 17,
-      "Грядасов Владимир Владимирович": 17,
-      "Лихачев Алексей Евгеньевич": 269,
-      "Ребяткин Александр Николаевич": 37,
-      "Рябов Николай Федорович": 155,
-      "Судияров Шамиль Равильевич": 13,
-      "Табункин Владимир Александрович": 130,
-      "Хватков Николай Павлович": 32,
-      "Щербаков Юрий Вячеславович": 70,
-      "Против всех": 236
+      "gas:candidate-vibid:352300670396": 127,
+      "gas:candidate-vibid:352300670448": 35,
+      "gas:candidate-vibid:352300670512": 17,
+      "gas:candidate-vibid:352300670521": 17,
+      "gas:candidate-vibid:1001000113955": 269,
+      "gas:candidate-vibid:1001000136086": 37,
+      "gas:candidate-vibid:1001000121876": 155,
+      "gas:candidate-vibid:352300670527": 13,
+      "gas:candidate-vibid:1001000190383": 130,
+      "gas:candidate-vibid:352300670442": 32,
+      "gas:candidate-vibid:352300670381": 70,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11433,18 +11433,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 30,
-      "Бирюков Валерий Михайлович": 27,
-      "Герасимов Николай Николаевич": 10,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 215,
-      "Ребяткин Александр Николаевич": 27,
-      "Рябов Николай Федорович": 99,
-      "Судияров Шамиль Равильевич": 11,
-      "Табункин Владимир Александрович": 103,
-      "Хватков Николай Павлович": 12,
-      "Щербаков Юрий Вячеславович": 53,
-      "Против всех": 174
+      "gas:candidate-vibid:352300670396": 30,
+      "gas:candidate-vibid:352300670448": 27,
+      "gas:candidate-vibid:352300670512": 10,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 215,
+      "gas:candidate-vibid:1001000136086": 27,
+      "gas:candidate-vibid:1001000121876": 99,
+      "gas:candidate-vibid:352300670527": 11,
+      "gas:candidate-vibid:1001000190383": 103,
+      "gas:candidate-vibid:352300670442": 12,
+      "gas:candidate-vibid:352300670381": 53,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11494,18 +11494,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 57,
-      "Бирюков Валерий Михайлович": 38,
-      "Герасимов Николай Николаевич": 25,
-      "Грядасов Владимир Владимирович": 13,
-      "Лихачев Алексей Евгеньевич": 252,
-      "Ребяткин Александр Николаевич": 24,
-      "Рябов Николай Федорович": 144,
-      "Судияров Шамиль Равильевич": 14,
-      "Табункин Владимир Александрович": 147,
-      "Хватков Николай Павлович": 10,
-      "Щербаков Юрий Вячеславович": 56,
-      "Против всех": 269
+      "gas:candidate-vibid:352300670396": 57,
+      "gas:candidate-vibid:352300670448": 38,
+      "gas:candidate-vibid:352300670512": 25,
+      "gas:candidate-vibid:352300670521": 13,
+      "gas:candidate-vibid:1001000113955": 252,
+      "gas:candidate-vibid:1001000136086": 24,
+      "gas:candidate-vibid:1001000121876": 144,
+      "gas:candidate-vibid:352300670527": 14,
+      "gas:candidate-vibid:1001000190383": 147,
+      "gas:candidate-vibid:352300670442": 10,
+      "gas:candidate-vibid:352300670381": 56,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11555,18 +11555,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 62,
-      "Бирюков Валерий Михайлович": 37,
-      "Герасимов Николай Николаевич": 18,
-      "Грядасов Владимир Владимирович": 3,
-      "Лихачев Алексей Евгеньевич": 202,
-      "Ребяткин Александр Николаевич": 29,
-      "Рябов Николай Федорович": 110,
-      "Судияров Шамиль Равильевич": 12,
-      "Табункин Владимир Александрович": 65,
-      "Хватков Николай Павлович": 8,
-      "Щербаков Юрий Вячеславович": 46,
-      "Против всех": 168
+      "gas:candidate-vibid:352300670396": 62,
+      "gas:candidate-vibid:352300670448": 37,
+      "gas:candidate-vibid:352300670512": 18,
+      "gas:candidate-vibid:352300670521": 3,
+      "gas:candidate-vibid:1001000113955": 202,
+      "gas:candidate-vibid:1001000136086": 29,
+      "gas:candidate-vibid:1001000121876": 110,
+      "gas:candidate-vibid:352300670527": 12,
+      "gas:candidate-vibid:1001000190383": 65,
+      "gas:candidate-vibid:352300670442": 8,
+      "gas:candidate-vibid:352300670381": 46,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11616,18 +11616,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 45,
-      "Бирюков Валерий Михайлович": 40,
-      "Герасимов Николай Николаевич": 34,
-      "Грядасов Владимир Владимирович": 32,
-      "Лихачев Алексей Евгеньевич": 228,
-      "Ребяткин Александр Николаевич": 53,
-      "Рябов Николай Федорович": 126,
-      "Судияров Шамиль Равильевич": 23,
-      "Табункин Владимир Александрович": 78,
-      "Хватков Николай Павлович": 20,
-      "Щербаков Юрий Вячеславович": 82,
-      "Против всех": 287
+      "gas:candidate-vibid:352300670396": 45,
+      "gas:candidate-vibid:352300670448": 40,
+      "gas:candidate-vibid:352300670512": 34,
+      "gas:candidate-vibid:352300670521": 32,
+      "gas:candidate-vibid:1001000113955": 228,
+      "gas:candidate-vibid:1001000136086": 53,
+      "gas:candidate-vibid:1001000121876": 126,
+      "gas:candidate-vibid:352300670527": 23,
+      "gas:candidate-vibid:1001000190383": 78,
+      "gas:candidate-vibid:352300670442": 20,
+      "gas:candidate-vibid:352300670381": 82,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11677,18 +11677,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 7,
-      "Бирюков Валерий Михайлович": 11,
-      "Герасимов Николай Николаевич": 5,
-      "Грядасов Владимир Владимирович": 5,
-      "Лихачев Алексей Евгеньевич": 75,
-      "Ребяткин Александр Николаевич": 7,
-      "Рябов Николай Федорович": 36,
-      "Судияров Шамиль Равильевич": 4,
-      "Табункин Владимир Александрович": 33,
-      "Хватков Николай Павлович": 3,
-      "Щербаков Юрий Вячеславович": 25,
-      "Против всех": 69
+      "gas:candidate-vibid:352300670396": 7,
+      "gas:candidate-vibid:352300670448": 11,
+      "gas:candidate-vibid:352300670512": 5,
+      "gas:candidate-vibid:352300670521": 5,
+      "gas:candidate-vibid:1001000113955": 75,
+      "gas:candidate-vibid:1001000136086": 7,
+      "gas:candidate-vibid:1001000121876": 36,
+      "gas:candidate-vibid:352300670527": 4,
+      "gas:candidate-vibid:1001000190383": 33,
+      "gas:candidate-vibid:352300670442": 3,
+      "gas:candidate-vibid:352300670381": 25,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11738,18 +11738,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 15,
-      "Бирюков Валерий Михайлович": 37,
-      "Герасимов Николай Николаевич": 3,
-      "Грядасов Владимир Владимирович": 9,
-      "Лихачев Алексей Евгеньевич": 176,
-      "Ребяткин Александр Николаевич": 24,
-      "Рябов Николай Федорович": 63,
-      "Судияров Шамиль Равильевич": 11,
-      "Табункин Владимир Александрович": 62,
-      "Хватков Николай Павлович": 14,
-      "Щербаков Юрий Вячеславович": 56,
-      "Против всех": 146
+      "gas:candidate-vibid:352300670396": 15,
+      "gas:candidate-vibid:352300670448": 37,
+      "gas:candidate-vibid:352300670512": 3,
+      "gas:candidate-vibid:352300670521": 9,
+      "gas:candidate-vibid:1001000113955": 176,
+      "gas:candidate-vibid:1001000136086": 24,
+      "gas:candidate-vibid:1001000121876": 63,
+      "gas:candidate-vibid:352300670527": 11,
+      "gas:candidate-vibid:1001000190383": 62,
+      "gas:candidate-vibid:352300670442": 14,
+      "gas:candidate-vibid:352300670381": 56,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11799,18 +11799,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 7,
-      "Бирюков Валерий Михайлович": 28,
-      "Герасимов Николай Николаевич": 9,
-      "Грядасов Владимир Владимирович": 0,
-      "Лихачев Алексей Евгеньевич": 123,
-      "Ребяткин Александр Николаевич": 37,
-      "Рябов Николай Федорович": 52,
-      "Судияров Шамиль Равильевич": 9,
-      "Табункин Владимир Александрович": 44,
-      "Хватков Николай Павлович": 33,
-      "Щербаков Юрий Вячеславович": 45,
-      "Против всех": 115
+      "gas:candidate-vibid:352300670396": 7,
+      "gas:candidate-vibid:352300670448": 28,
+      "gas:candidate-vibid:352300670512": 9,
+      "gas:candidate-vibid:352300670521": 0,
+      "gas:candidate-vibid:1001000113955": 123,
+      "gas:candidate-vibid:1001000136086": 37,
+      "gas:candidate-vibid:1001000121876": 52,
+      "gas:candidate-vibid:352300670527": 9,
+      "gas:candidate-vibid:1001000190383": 44,
+      "gas:candidate-vibid:352300670442": 33,
+      "gas:candidate-vibid:352300670381": 45,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11860,18 +11860,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 3,
-      "Бирюков Валерий Михайлович": 7,
-      "Герасимов Николай Николаевич": 2,
-      "Грядасов Владимир Владимирович": 1,
-      "Лихачев Алексей Евгеньевич": 102,
-      "Ребяткин Александр Николаевич": 8,
-      "Рябов Николай Федорович": 16,
-      "Судияров Шамиль Равильевич": 3,
-      "Табункин Владимир Александрович": 20,
-      "Хватков Николай Павлович": 5,
-      "Щербаков Юрий Вячеславович": 17,
-      "Против всех": 60
+      "gas:candidate-vibid:352300670396": 3,
+      "gas:candidate-vibid:352300670448": 7,
+      "gas:candidate-vibid:352300670512": 2,
+      "gas:candidate-vibid:352300670521": 1,
+      "gas:candidate-vibid:1001000113955": 102,
+      "gas:candidate-vibid:1001000136086": 8,
+      "gas:candidate-vibid:1001000121876": 16,
+      "gas:candidate-vibid:352300670527": 3,
+      "gas:candidate-vibid:1001000190383": 20,
+      "gas:candidate-vibid:352300670442": 5,
+      "gas:candidate-vibid:352300670381": 17,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11921,18 +11921,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 24,
-      "Бирюков Валерий Михайлович": 71,
-      "Герасимов Николай Николаевич": 17,
-      "Грядасов Владимир Владимирович": 16,
-      "Лихачев Алексей Евгеньевич": 241,
-      "Ребяткин Александр Николаевич": 34,
-      "Рябов Николай Федорович": 90,
-      "Судияров Шамиль Равильевич": 22,
-      "Табункин Владимир Александрович": 98,
-      "Хватков Николай Павлович": 24,
-      "Щербаков Юрий Вячеславович": 57,
-      "Против всех": 253
+      "gas:candidate-vibid:352300670396": 24,
+      "gas:candidate-vibid:352300670448": 71,
+      "gas:candidate-vibid:352300670512": 17,
+      "gas:candidate-vibid:352300670521": 16,
+      "gas:candidate-vibid:1001000113955": 241,
+      "gas:candidate-vibid:1001000136086": 34,
+      "gas:candidate-vibid:1001000121876": 90,
+      "gas:candidate-vibid:352300670527": 22,
+      "gas:candidate-vibid:1001000190383": 98,
+      "gas:candidate-vibid:352300670442": 24,
+      "gas:candidate-vibid:352300670381": 57,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -11982,18 +11982,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 29,
-      "Бирюков Валерий Михайлович": 70,
-      "Герасимов Николай Николаевич": 14,
-      "Грядасов Владимир Владимирович": 10,
-      "Лихачев Алексей Евгеньевич": 365,
-      "Ребяткин Александр Николаевич": 54,
-      "Рябов Николай Федорович": 142,
-      "Судияров Шамиль Равильевич": 13,
-      "Табункин Владимир Александрович": 110,
-      "Хватков Николай Павлович": 16,
-      "Щербаков Юрий Вячеславович": 98,
-      "Против всех": 249
+      "gas:candidate-vibid:352300670396": 29,
+      "gas:candidate-vibid:352300670448": 70,
+      "gas:candidate-vibid:352300670512": 14,
+      "gas:candidate-vibid:352300670521": 10,
+      "gas:candidate-vibid:1001000113955": 365,
+      "gas:candidate-vibid:1001000136086": 54,
+      "gas:candidate-vibid:1001000121876": 142,
+      "gas:candidate-vibid:352300670527": 13,
+      "gas:candidate-vibid:1001000190383": 110,
+      "gas:candidate-vibid:352300670442": 16,
+      "gas:candidate-vibid:352300670381": 98,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12043,18 +12043,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 11,
-      "Бирюков Валерий Михайлович": 65,
-      "Герасимов Николай Николаевич": 13,
-      "Грядасов Владимир Владимирович": 12,
-      "Лихачев Алексей Евгеньевич": 200,
-      "Ребяткин Александр Николаевич": 24,
-      "Рябов Николай Федорович": 98,
-      "Судияров Шамиль Равильевич": 7,
-      "Табункин Владимир Александрович": 75,
-      "Хватков Николай Павлович": 10,
-      "Щербаков Юрий Вячеславович": 58,
-      "Против всех": 229
+      "gas:candidate-vibid:352300670396": 11,
+      "gas:candidate-vibid:352300670448": 65,
+      "gas:candidate-vibid:352300670512": 13,
+      "gas:candidate-vibid:352300670521": 12,
+      "gas:candidate-vibid:1001000113955": 200,
+      "gas:candidate-vibid:1001000136086": 24,
+      "gas:candidate-vibid:1001000121876": 98,
+      "gas:candidate-vibid:352300670527": 7,
+      "gas:candidate-vibid:1001000190383": 75,
+      "gas:candidate-vibid:352300670442": 10,
+      "gas:candidate-vibid:352300670381": 58,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12104,18 +12104,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 18,
-      "Бирюков Валерий Михайлович": 39,
-      "Герасимов Николай Николаевич": 18,
-      "Грядасов Владимир Владимирович": 15,
-      "Лихачев Алексей Евгеньевич": 251,
-      "Ребяткин Александр Николаевич": 52,
-      "Рябов Николай Федорович": 171,
-      "Судияров Шамиль Равильевич": 9,
-      "Табункин Владимир Александрович": 123,
-      "Хватков Николай Павлович": 20,
-      "Щербаков Юрий Вячеславович": 101,
-      "Против всех": 265
+      "gas:candidate-vibid:352300670396": 18,
+      "gas:candidate-vibid:352300670448": 39,
+      "gas:candidate-vibid:352300670512": 18,
+      "gas:candidate-vibid:352300670521": 15,
+      "gas:candidate-vibid:1001000113955": 251,
+      "gas:candidate-vibid:1001000136086": 52,
+      "gas:candidate-vibid:1001000121876": 171,
+      "gas:candidate-vibid:352300670527": 9,
+      "gas:candidate-vibid:1001000190383": 123,
+      "gas:candidate-vibid:352300670442": 20,
+      "gas:candidate-vibid:352300670381": 101,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12165,18 +12165,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 4,
-      "Бирюков Валерий Михайлович": 20,
-      "Герасимов Николай Николаевич": 5,
-      "Грядасов Владимир Владимирович": 9,
-      "Лихачев Алексей Евгеньевич": 102,
-      "Ребяткин Александр Николаевич": 11,
-      "Рябов Николай Федорович": 71,
-      "Судияров Шамиль Равильевич": 3,
-      "Табункин Владимир Александрович": 17,
-      "Хватков Николай Павлович": 3,
-      "Щербаков Юрий Вячеславович": 26,
-      "Против всех": 90
+      "gas:candidate-vibid:352300670396": 4,
+      "gas:candidate-vibid:352300670448": 20,
+      "gas:candidate-vibid:352300670512": 5,
+      "gas:candidate-vibid:352300670521": 9,
+      "gas:candidate-vibid:1001000113955": 102,
+      "gas:candidate-vibid:1001000136086": 11,
+      "gas:candidate-vibid:1001000121876": 71,
+      "gas:candidate-vibid:352300670527": 3,
+      "gas:candidate-vibid:1001000190383": 17,
+      "gas:candidate-vibid:352300670442": 3,
+      "gas:candidate-vibid:352300670381": 26,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12226,18 +12226,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 18,
-      "Бирюков Валерий Михайлович": 59,
-      "Герасимов Николай Николаевич": 18,
-      "Грядасов Владимир Владимирович": 26,
-      "Лихачев Алексей Евгеньевич": 353,
-      "Ребяткин Александр Николаевич": 42,
-      "Рябов Николай Федорович": 184,
-      "Судияров Шамиль Равильевич": 22,
-      "Табункин Владимир Александрович": 87,
-      "Хватков Николай Павлович": 9,
-      "Щербаков Юрий Вячеславович": 82,
-      "Против всех": 274
+      "gas:candidate-vibid:352300670396": 18,
+      "gas:candidate-vibid:352300670448": 59,
+      "gas:candidate-vibid:352300670512": 18,
+      "gas:candidate-vibid:352300670521": 26,
+      "gas:candidate-vibid:1001000113955": 353,
+      "gas:candidate-vibid:1001000136086": 42,
+      "gas:candidate-vibid:1001000121876": 184,
+      "gas:candidate-vibid:352300670527": 22,
+      "gas:candidate-vibid:1001000190383": 87,
+      "gas:candidate-vibid:352300670442": 9,
+      "gas:candidate-vibid:352300670381": 82,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12287,18 +12287,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 10,
-      "Бирюков Валерий Михайлович": 49,
-      "Герасимов Николай Николаевич": 19,
-      "Грядасов Владимир Владимирович": 24,
-      "Лихачев Алексей Евгеньевич": 314,
-      "Ребяткин Александр Николаевич": 19,
-      "Рябов Николай Федорович": 157,
-      "Судияров Шамиль Равильевич": 16,
-      "Табункин Владимир Александрович": 77,
-      "Хватков Николай Павлович": 14,
-      "Щербаков Юрий Вячеславович": 58,
-      "Против всех": 227
+      "gas:candidate-vibid:352300670396": 10,
+      "gas:candidate-vibid:352300670448": 49,
+      "gas:candidate-vibid:352300670512": 19,
+      "gas:candidate-vibid:352300670521": 24,
+      "gas:candidate-vibid:1001000113955": 314,
+      "gas:candidate-vibid:1001000136086": 19,
+      "gas:candidate-vibid:1001000121876": 157,
+      "gas:candidate-vibid:352300670527": 16,
+      "gas:candidate-vibid:1001000190383": 77,
+      "gas:candidate-vibid:352300670442": 14,
+      "gas:candidate-vibid:352300670381": 58,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12348,18 +12348,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 20,
-      "Бирюков Валерий Михайлович": 49,
-      "Герасимов Николай Николаевич": 12,
-      "Грядасов Владимир Владимирович": 15,
-      "Лихачев Алексей Евгеньевич": 335,
-      "Ребяткин Александр Николаевич": 33,
-      "Рябов Николай Федорович": 170,
-      "Судияров Шамиль Равильевич": 14,
-      "Табункин Владимир Александрович": 35,
-      "Хватков Николай Павлович": 4,
-      "Щербаков Юрий Вячеславович": 62,
-      "Против всех": 201
+      "gas:candidate-vibid:352300670396": 20,
+      "gas:candidate-vibid:352300670448": 49,
+      "gas:candidate-vibid:352300670512": 12,
+      "gas:candidate-vibid:352300670521": 15,
+      "gas:candidate-vibid:1001000113955": 335,
+      "gas:candidate-vibid:1001000136086": 33,
+      "gas:candidate-vibid:1001000121876": 170,
+      "gas:candidate-vibid:352300670527": 14,
+      "gas:candidate-vibid:1001000190383": 35,
+      "gas:candidate-vibid:352300670442": 4,
+      "gas:candidate-vibid:352300670381": 62,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12409,18 +12409,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 14,
-      "Бирюков Валерий Михайлович": 59,
-      "Герасимов Николай Николаевич": 25,
-      "Грядасов Владимир Владимирович": 13,
-      "Лихачев Алексей Евгеньевич": 323,
-      "Ребяткин Александр Николаевич": 38,
-      "Рябов Николай Федорович": 203,
-      "Судияров Шамиль Равильевич": 14,
-      "Табункин Владимир Александрович": 98,
-      "Хватков Николай Павлович": 17,
-      "Щербаков Юрий Вячеславович": 94,
-      "Против всех": 271
+      "gas:candidate-vibid:352300670396": 14,
+      "gas:candidate-vibid:352300670448": 59,
+      "gas:candidate-vibid:352300670512": 25,
+      "gas:candidate-vibid:352300670521": 13,
+      "gas:candidate-vibid:1001000113955": 323,
+      "gas:candidate-vibid:1001000136086": 38,
+      "gas:candidate-vibid:1001000121876": 203,
+      "gas:candidate-vibid:352300670527": 14,
+      "gas:candidate-vibid:1001000190383": 98,
+      "gas:candidate-vibid:352300670442": 17,
+      "gas:candidate-vibid:352300670381": 94,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12470,18 +12470,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 25,
-      "Бирюков Валерий Михайлович": 78,
-      "Герасимов Николай Николаевич": 15,
-      "Грядасов Владимир Владимирович": 13,
-      "Лихачев Алексей Евгеньевич": 278,
-      "Ребяткин Александр Николаевич": 39,
-      "Рябов Николай Федорович": 194,
-      "Судияров Шамиль Равильевич": 7,
-      "Табункин Владимир Александрович": 48,
-      "Хватков Николай Павлович": 13,
-      "Щербаков Юрий Вячеславович": 90,
-      "Против всех": 263
+      "gas:candidate-vibid:352300670396": 25,
+      "gas:candidate-vibid:352300670448": 78,
+      "gas:candidate-vibid:352300670512": 15,
+      "gas:candidate-vibid:352300670521": 13,
+      "gas:candidate-vibid:1001000113955": 278,
+      "gas:candidate-vibid:1001000136086": 39,
+      "gas:candidate-vibid:1001000121876": 194,
+      "gas:candidate-vibid:352300670527": 7,
+      "gas:candidate-vibid:1001000190383": 48,
+      "gas:candidate-vibid:352300670442": 13,
+      "gas:candidate-vibid:352300670381": 90,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12531,18 +12531,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 9,
-      "Бирюков Валерий Михайлович": 28,
-      "Герасимов Николай Николаевич": 12,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 254,
-      "Ребяткин Александр Николаевич": 28,
-      "Рябов Николай Федорович": 184,
-      "Судияров Шамиль Равильевич": 18,
-      "Табункин Владимир Александрович": 93,
-      "Хватков Николай Павлович": 15,
-      "Щербаков Юрий Вячеславович": 61,
-      "Против всех": 237
+      "gas:candidate-vibid:352300670396": 9,
+      "gas:candidate-vibid:352300670448": 28,
+      "gas:candidate-vibid:352300670512": 12,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 254,
+      "gas:candidate-vibid:1001000136086": 28,
+      "gas:candidate-vibid:1001000121876": 184,
+      "gas:candidate-vibid:352300670527": 18,
+      "gas:candidate-vibid:1001000190383": 93,
+      "gas:candidate-vibid:352300670442": 15,
+      "gas:candidate-vibid:352300670381": 61,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12592,18 +12592,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 12,
-      "Бирюков Валерий Михайлович": 41,
-      "Герасимов Николай Николаевич": 10,
-      "Грядасов Владимир Владимирович": 15,
-      "Лихачев Алексей Евгеньевич": 206,
-      "Ребяткин Александр Николаевич": 28,
-      "Рябов Николай Федорович": 183,
-      "Судияров Шамиль Равильевич": 9,
-      "Табункин Владимир Александрович": 47,
-      "Хватков Николай Павлович": 11,
-      "Щербаков Юрий Вячеславович": 57,
-      "Против всех": 192
+      "gas:candidate-vibid:352300670396": 12,
+      "gas:candidate-vibid:352300670448": 41,
+      "gas:candidate-vibid:352300670512": 10,
+      "gas:candidate-vibid:352300670521": 15,
+      "gas:candidate-vibid:1001000113955": 206,
+      "gas:candidate-vibid:1001000136086": 28,
+      "gas:candidate-vibid:1001000121876": 183,
+      "gas:candidate-vibid:352300670527": 9,
+      "gas:candidate-vibid:1001000190383": 47,
+      "gas:candidate-vibid:352300670442": 11,
+      "gas:candidate-vibid:352300670381": 57,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12653,18 +12653,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 14,
-      "Бирюков Валерий Михайлович": 43,
-      "Герасимов Николай Николаевич": 16,
-      "Грядасов Владимир Владимирович": 11,
-      "Лихачев Алексей Евгеньевич": 271,
-      "Ребяткин Александр Николаевич": 16,
-      "Рябов Николай Федорович": 105,
-      "Судияров Шамиль Равильевич": 9,
-      "Табункин Владимир Александрович": 62,
-      "Хватков Николай Павлович": 8,
-      "Щербаков Юрий Вячеславович": 39,
-      "Против всех": 227
+      "gas:candidate-vibid:352300670396": 14,
+      "gas:candidate-vibid:352300670448": 43,
+      "gas:candidate-vibid:352300670512": 16,
+      "gas:candidate-vibid:352300670521": 11,
+      "gas:candidate-vibid:1001000113955": 271,
+      "gas:candidate-vibid:1001000136086": 16,
+      "gas:candidate-vibid:1001000121876": 105,
+      "gas:candidate-vibid:352300670527": 9,
+      "gas:candidate-vibid:1001000190383": 62,
+      "gas:candidate-vibid:352300670442": 8,
+      "gas:candidate-vibid:352300670381": 39,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12714,18 +12714,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 24,
-      "Бирюков Валерий Михайлович": 44,
-      "Герасимов Николай Николаевич": 3,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 338,
-      "Ребяткин Александр Николаевич": 33,
-      "Рябов Николай Федорович": 109,
-      "Судияров Шамиль Равильевич": 16,
-      "Табункин Владимир Александрович": 67,
-      "Хватков Николай Павлович": 13,
-      "Щербаков Юрий Вячеславович": 50,
-      "Против всех": 263
+      "gas:candidate-vibid:352300670396": 24,
+      "gas:candidate-vibid:352300670448": 44,
+      "gas:candidate-vibid:352300670512": 3,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 338,
+      "gas:candidate-vibid:1001000136086": 33,
+      "gas:candidate-vibid:1001000121876": 109,
+      "gas:candidate-vibid:352300670527": 16,
+      "gas:candidate-vibid:1001000190383": 67,
+      "gas:candidate-vibid:352300670442": 13,
+      "gas:candidate-vibid:352300670381": 50,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12775,18 +12775,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 19,
-      "Бирюков Валерий Михайлович": 65,
-      "Герасимов Николай Николаевич": 13,
-      "Грядасов Владимир Владимирович": 8,
-      "Лихачев Алексей Евгеньевич": 220,
-      "Ребяткин Александр Николаевич": 28,
-      "Рябов Николай Федорович": 137,
-      "Судияров Шамиль Равильевич": 10,
-      "Табункин Владимир Александрович": 81,
-      "Хватков Николай Павлович": 8,
-      "Щербаков Юрий Вячеславович": 98,
-      "Против всех": 286
+      "gas:candidate-vibid:352300670396": 19,
+      "gas:candidate-vibid:352300670448": 65,
+      "gas:candidate-vibid:352300670512": 13,
+      "gas:candidate-vibid:352300670521": 8,
+      "gas:candidate-vibid:1001000113955": 220,
+      "gas:candidate-vibid:1001000136086": 28,
+      "gas:candidate-vibid:1001000121876": 137,
+      "gas:candidate-vibid:352300670527": 10,
+      "gas:candidate-vibid:1001000190383": 81,
+      "gas:candidate-vibid:352300670442": 8,
+      "gas:candidate-vibid:352300670381": 98,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12836,18 +12836,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 26,
-      "Бирюков Валерий Михайлович": 54,
-      "Герасимов Николай Николаевич": 25,
-      "Грядасов Владимир Владимирович": 13,
-      "Лихачев Алексей Евгеньевич": 313,
-      "Ребяткин Александр Николаевич": 42,
-      "Рябов Николай Федорович": 162,
-      "Судияров Шамиль Равильевич": 11,
-      "Табункин Владимир Александрович": 80,
-      "Хватков Николай Павлович": 4,
-      "Щербаков Юрий Вячеславович": 66,
-      "Против всех": 264
+      "gas:candidate-vibid:352300670396": 26,
+      "gas:candidate-vibid:352300670448": 54,
+      "gas:candidate-vibid:352300670512": 25,
+      "gas:candidate-vibid:352300670521": 13,
+      "gas:candidate-vibid:1001000113955": 313,
+      "gas:candidate-vibid:1001000136086": 42,
+      "gas:candidate-vibid:1001000121876": 162,
+      "gas:candidate-vibid:352300670527": 11,
+      "gas:candidate-vibid:1001000190383": 80,
+      "gas:candidate-vibid:352300670442": 4,
+      "gas:candidate-vibid:352300670381": 66,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12897,18 +12897,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 18,
-      "Бирюков Валерий Михайлович": 58,
-      "Герасимов Николай Николаевич": 19,
-      "Грядасов Владимир Владимирович": 10,
-      "Лихачев Алексей Евгеньевич": 345,
-      "Ребяткин Александр Николаевич": 34,
-      "Рябов Николай Федорович": 180,
-      "Судияров Шамиль Равильевич": 23,
-      "Табункин Владимир Александрович": 67,
-      "Хватков Николай Павлович": 6,
-      "Щербаков Юрий Вячеславович": 75,
-      "Против всех": 313
+      "gas:candidate-vibid:352300670396": 18,
+      "gas:candidate-vibid:352300670448": 58,
+      "gas:candidate-vibid:352300670512": 19,
+      "gas:candidate-vibid:352300670521": 10,
+      "gas:candidate-vibid:1001000113955": 345,
+      "gas:candidate-vibid:1001000136086": 34,
+      "gas:candidate-vibid:1001000121876": 180,
+      "gas:candidate-vibid:352300670527": 23,
+      "gas:candidate-vibid:1001000190383": 67,
+      "gas:candidate-vibid:352300670442": 6,
+      "gas:candidate-vibid:352300670381": 75,
+      "special:against-all": 313
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -12958,18 +12958,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 8,
-      "Бирюков Валерий Михайлович": 47,
-      "Герасимов Николай Николаевич": 19,
-      "Грядасов Владимир Владимирович": 15,
-      "Лихачев Алексей Евгеньевич": 269,
-      "Ребяткин Александр Николаевич": 25,
-      "Рябов Николай Федорович": 123,
-      "Судияров Шамиль Равильевич": 16,
-      "Табункин Владимир Александрович": 69,
-      "Хватков Николай Павлович": 3,
-      "Щербаков Юрий Вячеславович": 59,
-      "Против всех": 223
+      "gas:candidate-vibid:352300670396": 8,
+      "gas:candidate-vibid:352300670448": 47,
+      "gas:candidate-vibid:352300670512": 19,
+      "gas:candidate-vibid:352300670521": 15,
+      "gas:candidate-vibid:1001000113955": 269,
+      "gas:candidate-vibid:1001000136086": 25,
+      "gas:candidate-vibid:1001000121876": 123,
+      "gas:candidate-vibid:352300670527": 16,
+      "gas:candidate-vibid:1001000190383": 69,
+      "gas:candidate-vibid:352300670442": 3,
+      "gas:candidate-vibid:352300670381": 59,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -13019,18 +13019,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 1,
-      "Бирюков Валерий Михайлович": 3,
-      "Герасимов Николай Николаевич": 2,
-      "Грядасов Владимир Владимирович": 2,
-      "Лихачев Алексей Евгеньевич": 274,
-      "Ребяткин Александр Николаевич": 8,
-      "Рябов Николай Федорович": 11,
-      "Судияров Шамиль Равильевич": 2,
-      "Табункин Владимир Александрович": 4,
-      "Хватков Николай Павлович": 0,
-      "Щербаков Юрий Вячеславович": 3,
-      "Против всех": 40
+      "gas:candidate-vibid:352300670396": 1,
+      "gas:candidate-vibid:352300670448": 3,
+      "gas:candidate-vibid:352300670512": 2,
+      "gas:candidate-vibid:352300670521": 2,
+      "gas:candidate-vibid:1001000113955": 274,
+      "gas:candidate-vibid:1001000136086": 8,
+      "gas:candidate-vibid:1001000121876": 11,
+      "gas:candidate-vibid:352300670527": 2,
+      "gas:candidate-vibid:1001000190383": 4,
+      "gas:candidate-vibid:352300670442": 0,
+      "gas:candidate-vibid:352300670381": 3,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670345&region=0&sub_region=0&type=429",
@@ -13080,18 +13080,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 3,
-      "Бирюков Валерий Михайлович": 20,
-      "Герасимов Николай Николаевич": 1,
-      "Грядасов Владимир Владимирович": 32,
-      "Лихачев Алексей Евгеньевич": 219,
-      "Ребяткин Александр Николаевич": 12,
-      "Рябов Николай Федорович": 89,
-      "Судияров Шамиль Равильевич": 7,
-      "Табункин Владимир Александрович": 9,
-      "Хватков Николай Павлович": 6,
-      "Щербаков Юрий Вячеславович": 43,
-      "Против всех": 55
+      "gas:candidate-vibid:352300670396": 3,
+      "gas:candidate-vibid:352300670448": 20,
+      "gas:candidate-vibid:352300670512": 1,
+      "gas:candidate-vibid:352300670521": 32,
+      "gas:candidate-vibid:1001000113955": 219,
+      "gas:candidate-vibid:1001000136086": 12,
+      "gas:candidate-vibid:1001000121876": 89,
+      "gas:candidate-vibid:352300670527": 7,
+      "gas:candidate-vibid:1001000190383": 9,
+      "gas:candidate-vibid:352300670442": 6,
+      "gas:candidate-vibid:352300670381": 43,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13141,18 +13141,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 3,
-      "Бирюков Валерий Михайлович": 18,
-      "Герасимов Николай Николаевич": 4,
-      "Грядасов Владимир Владимирович": 28,
-      "Лихачев Алексей Евгеньевич": 115,
-      "Ребяткин Александр Николаевич": 12,
-      "Рябов Николай Федорович": 56,
-      "Судияров Шамиль Равильевич": 1,
-      "Табункин Владимир Александрович": 3,
-      "Хватков Николай Павлович": 4,
-      "Щербаков Юрий Вячеславович": 19,
-      "Против всех": 15
+      "gas:candidate-vibid:352300670396": 3,
+      "gas:candidate-vibid:352300670448": 18,
+      "gas:candidate-vibid:352300670512": 4,
+      "gas:candidate-vibid:352300670521": 28,
+      "gas:candidate-vibid:1001000113955": 115,
+      "gas:candidate-vibid:1001000136086": 12,
+      "gas:candidate-vibid:1001000121876": 56,
+      "gas:candidate-vibid:352300670527": 1,
+      "gas:candidate-vibid:1001000190383": 3,
+      "gas:candidate-vibid:352300670442": 4,
+      "gas:candidate-vibid:352300670381": 19,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13202,18 +13202,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 4,
-      "Бирюков Валерий Михайлович": 9,
-      "Герасимов Николай Николаевич": 12,
-      "Грядасов Владимир Владимирович": 59,
-      "Лихачев Алексей Евгеньевич": 178,
-      "Ребяткин Александр Николаевич": 21,
-      "Рябов Николай Федорович": 59,
-      "Судияров Шамиль Равильевич": 1,
-      "Табункин Владимир Александрович": 4,
-      "Хватков Николай Павлович": 1,
-      "Щербаков Юрий Вячеславович": 35,
-      "Против всех": 55
+      "gas:candidate-vibid:352300670396": 4,
+      "gas:candidate-vibid:352300670448": 9,
+      "gas:candidate-vibid:352300670512": 12,
+      "gas:candidate-vibid:352300670521": 59,
+      "gas:candidate-vibid:1001000113955": 178,
+      "gas:candidate-vibid:1001000136086": 21,
+      "gas:candidate-vibid:1001000121876": 59,
+      "gas:candidate-vibid:352300670527": 1,
+      "gas:candidate-vibid:1001000190383": 4,
+      "gas:candidate-vibid:352300670442": 1,
+      "gas:candidate-vibid:352300670381": 35,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13263,18 +13263,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 2,
-      "Бирюков Валерий Михайлович": 31,
-      "Герасимов Николай Николаевич": 5,
-      "Грядасов Владимир Владимирович": 60,
-      "Лихачев Алексей Евгеньевич": 250,
-      "Ребяткин Александр Николаевич": 15,
-      "Рябов Николай Федорович": 144,
-      "Судияров Шамиль Равильевич": 3,
-      "Табункин Владимир Александрович": 14,
-      "Хватков Николай Павлович": 1,
-      "Щербаков Юрий Вячеславович": 29,
-      "Против всех": 60
+      "gas:candidate-vibid:352300670396": 2,
+      "gas:candidate-vibid:352300670448": 31,
+      "gas:candidate-vibid:352300670512": 5,
+      "gas:candidate-vibid:352300670521": 60,
+      "gas:candidate-vibid:1001000113955": 250,
+      "gas:candidate-vibid:1001000136086": 15,
+      "gas:candidate-vibid:1001000121876": 144,
+      "gas:candidate-vibid:352300670527": 3,
+      "gas:candidate-vibid:1001000190383": 14,
+      "gas:candidate-vibid:352300670442": 1,
+      "gas:candidate-vibid:352300670381": 29,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13324,18 +13324,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 1,
-      "Бирюков Валерий Михайлович": 13,
-      "Герасимов Николай Николаевич": 10,
-      "Грядасов Владимир Владимирович": 53,
-      "Лихачев Алексей Евгеньевич": 141,
-      "Ребяткин Александр Николаевич": 12,
-      "Рябов Николай Федорович": 45,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 1,
-      "Хватков Николай Павлович": 6,
-      "Щербаков Юрий Вячеславович": 26,
-      "Против всех": 33
+      "gas:candidate-vibid:352300670396": 1,
+      "gas:candidate-vibid:352300670448": 13,
+      "gas:candidate-vibid:352300670512": 10,
+      "gas:candidate-vibid:352300670521": 53,
+      "gas:candidate-vibid:1001000113955": 141,
+      "gas:candidate-vibid:1001000136086": 12,
+      "gas:candidate-vibid:1001000121876": 45,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 1,
+      "gas:candidate-vibid:352300670442": 6,
+      "gas:candidate-vibid:352300670381": 26,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13385,18 +13385,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 0,
-      "Бирюков Валерий Михайлович": 19,
-      "Герасимов Николай Николаевич": 1,
-      "Грядасов Владимир Владимирович": 45,
-      "Лихачев Алексей Евгеньевич": 196,
-      "Ребяткин Александр Николаевич": 9,
-      "Рябов Николай Федорович": 60,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 3,
-      "Хватков Николай Павлович": 5,
-      "Щербаков Юрий Вячеславович": 29,
-      "Против всех": 44
+      "gas:candidate-vibid:352300670396": 0,
+      "gas:candidate-vibid:352300670448": 19,
+      "gas:candidate-vibid:352300670512": 1,
+      "gas:candidate-vibid:352300670521": 45,
+      "gas:candidate-vibid:1001000113955": 196,
+      "gas:candidate-vibid:1001000136086": 9,
+      "gas:candidate-vibid:1001000121876": 60,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 3,
+      "gas:candidate-vibid:352300670442": 5,
+      "gas:candidate-vibid:352300670381": 29,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13446,18 +13446,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 2,
-      "Бирюков Валерий Михайлович": 19,
-      "Герасимов Николай Николаевич": 1,
-      "Грядасов Владимир Владимирович": 17,
-      "Лихачев Алексей Евгеньевич": 117,
-      "Ребяткин Александр Николаевич": 8,
-      "Рябов Николай Федорович": 15,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 9,
-      "Хватков Николай Павлович": 18,
-      "Щербаков Юрий Вячеславович": 25,
-      "Против всех": 21
+      "gas:candidate-vibid:352300670396": 2,
+      "gas:candidate-vibid:352300670448": 19,
+      "gas:candidate-vibid:352300670512": 1,
+      "gas:candidate-vibid:352300670521": 17,
+      "gas:candidate-vibid:1001000113955": 117,
+      "gas:candidate-vibid:1001000136086": 8,
+      "gas:candidate-vibid:1001000121876": 15,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 9,
+      "gas:candidate-vibid:352300670442": 18,
+      "gas:candidate-vibid:352300670381": 25,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13507,18 +13507,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 3,
-      "Бирюков Валерий Михайлович": 17,
-      "Герасимов Николай Николаевич": 3,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 334,
-      "Ребяткин Александр Николаевич": 9,
-      "Рябов Николай Федорович": 37,
-      "Судияров Шамиль Равильевич": 3,
-      "Табункин Владимир Александрович": 5,
-      "Хватков Николай Павлович": 9,
-      "Щербаков Юрий Вячеславович": 17,
-      "Против всех": 54
+      "gas:candidate-vibid:352300670396": 3,
+      "gas:candidate-vibid:352300670448": 17,
+      "gas:candidate-vibid:352300670512": 3,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 334,
+      "gas:candidate-vibid:1001000136086": 9,
+      "gas:candidate-vibid:1001000121876": 37,
+      "gas:candidate-vibid:352300670527": 3,
+      "gas:candidate-vibid:1001000190383": 5,
+      "gas:candidate-vibid:352300670442": 9,
+      "gas:candidate-vibid:352300670381": 17,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13568,18 +13568,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 1,
-      "Бирюков Валерий Михайлович": 1,
-      "Герасимов Николай Николаевич": 1,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 18,
-      "Ребяткин Александр Николаевич": 3,
-      "Рябов Николай Федорович": 1,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 1,
-      "Хватков Николай Павлович": 0,
-      "Щербаков Юрий Вячеславович": 16,
-      "Против всех": 7
+      "gas:candidate-vibid:352300670396": 1,
+      "gas:candidate-vibid:352300670448": 1,
+      "gas:candidate-vibid:352300670512": 1,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 18,
+      "gas:candidate-vibid:1001000136086": 3,
+      "gas:candidate-vibid:1001000121876": 1,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 1,
+      "gas:candidate-vibid:352300670442": 0,
+      "gas:candidate-vibid:352300670381": 16,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13629,18 +13629,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 2,
-      "Бирюков Валерий Михайлович": 5,
-      "Герасимов Николай Николаевич": 2,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 54,
-      "Ребяткин Александр Николаевич": 1,
-      "Рябов Николай Федорович": 1,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 0,
-      "Хватков Николай Павлович": 0,
-      "Щербаков Юрий Вячеславович": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:352300670396": 2,
+      "gas:candidate-vibid:352300670448": 5,
+      "gas:candidate-vibid:352300670512": 2,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 54,
+      "gas:candidate-vibid:1001000136086": 1,
+      "gas:candidate-vibid:1001000121876": 1,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 0,
+      "gas:candidate-vibid:352300670442": 0,
+      "gas:candidate-vibid:352300670381": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13690,18 +13690,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 2,
-      "Бирюков Валерий Михайлович": 14,
-      "Герасимов Николай Николаевич": 2,
-      "Грядасов Владимир Владимирович": 18,
-      "Лихачев Алексей Евгеньевич": 144,
-      "Ребяткин Александр Николаевич": 5,
-      "Рябов Николай Федорович": 63,
-      "Судияров Шамиль Равильевич": 1,
-      "Табункин Владимир Александрович": 5,
-      "Хватков Николай Павлович": 2,
-      "Щербаков Юрий Вячеславович": 24,
-      "Против всех": 27
+      "gas:candidate-vibid:352300670396": 2,
+      "gas:candidate-vibid:352300670448": 14,
+      "gas:candidate-vibid:352300670512": 2,
+      "gas:candidate-vibid:352300670521": 18,
+      "gas:candidate-vibid:1001000113955": 144,
+      "gas:candidate-vibid:1001000136086": 5,
+      "gas:candidate-vibid:1001000121876": 63,
+      "gas:candidate-vibid:352300670527": 1,
+      "gas:candidate-vibid:1001000190383": 5,
+      "gas:candidate-vibid:352300670442": 2,
+      "gas:candidate-vibid:352300670381": 24,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13751,18 +13751,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 0,
-      "Бирюков Валерий Михайлович": 1,
-      "Герасимов Николай Николаевич": 0,
-      "Грядасов Владимир Владимирович": 3,
-      "Лихачев Алексей Евгеньевич": 81,
-      "Ребяткин Александр Николаевич": 3,
-      "Рябов Николай Федорович": 20,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 3,
-      "Хватков Николай Павлович": 2,
-      "Щербаков Юрий Вячеславович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:352300670396": 0,
+      "gas:candidate-vibid:352300670448": 1,
+      "gas:candidate-vibid:352300670512": 0,
+      "gas:candidate-vibid:352300670521": 3,
+      "gas:candidate-vibid:1001000113955": 81,
+      "gas:candidate-vibid:1001000136086": 3,
+      "gas:candidate-vibid:1001000121876": 20,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 3,
+      "gas:candidate-vibid:352300670442": 2,
+      "gas:candidate-vibid:352300670381": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13812,18 +13812,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 3,
-      "Бирюков Валерий Михайлович": 17,
-      "Герасимов Николай Николаевич": 2,
-      "Грядасов Владимир Владимирович": 5,
-      "Лихачев Алексей Евгеньевич": 71,
-      "Ребяткин Александр Николаевич": 3,
-      "Рябов Николай Федорович": 36,
-      "Судияров Шамиль Равильевич": 3,
-      "Табункин Владимир Александрович": 5,
-      "Хватков Николай Павлович": 1,
-      "Щербаков Юрий Вячеславович": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:352300670396": 3,
+      "gas:candidate-vibid:352300670448": 17,
+      "gas:candidate-vibid:352300670512": 2,
+      "gas:candidate-vibid:352300670521": 5,
+      "gas:candidate-vibid:1001000113955": 71,
+      "gas:candidate-vibid:1001000136086": 3,
+      "gas:candidate-vibid:1001000121876": 36,
+      "gas:candidate-vibid:352300670527": 3,
+      "gas:candidate-vibid:1001000190383": 5,
+      "gas:candidate-vibid:352300670442": 1,
+      "gas:candidate-vibid:352300670381": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13873,18 +13873,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 3,
-      "Бирюков Валерий Михайлович": 2,
-      "Герасимов Николай Николаевич": 6,
-      "Грядасов Владимир Владимирович": 17,
-      "Лихачев Алексей Евгеньевич": 239,
-      "Ребяткин Александр Николаевич": 10,
-      "Рябов Николай Федорович": 38,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 5,
-      "Хватков Николай Павлович": 4,
-      "Щербаков Юрий Вячеславович": 15,
-      "Против всех": 27
+      "gas:candidate-vibid:352300670396": 3,
+      "gas:candidate-vibid:352300670448": 2,
+      "gas:candidate-vibid:352300670512": 6,
+      "gas:candidate-vibid:352300670521": 17,
+      "gas:candidate-vibid:1001000113955": 239,
+      "gas:candidate-vibid:1001000136086": 10,
+      "gas:candidate-vibid:1001000121876": 38,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 5,
+      "gas:candidate-vibid:352300670442": 4,
+      "gas:candidate-vibid:352300670381": 15,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13934,18 +13934,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 2,
-      "Бирюков Валерий Михайлович": 13,
-      "Герасимов Николай Николаевич": 6,
-      "Грядасов Владимир Владимирович": 11,
-      "Лихачев Алексей Евгеньевич": 119,
-      "Ребяткин Александр Николаевич": 1,
-      "Рябов Николай Федорович": 6,
-      "Судияров Шамиль Равильевич": 2,
-      "Табункин Владимир Александрович": 6,
-      "Хватков Николай Павлович": 2,
-      "Щербаков Юрий Вячеславович": 11,
-      "Против всех": 10
+      "gas:candidate-vibid:352300670396": 2,
+      "gas:candidate-vibid:352300670448": 13,
+      "gas:candidate-vibid:352300670512": 6,
+      "gas:candidate-vibid:352300670521": 11,
+      "gas:candidate-vibid:1001000113955": 119,
+      "gas:candidate-vibid:1001000136086": 1,
+      "gas:candidate-vibid:1001000121876": 6,
+      "gas:candidate-vibid:352300670527": 2,
+      "gas:candidate-vibid:1001000190383": 6,
+      "gas:candidate-vibid:352300670442": 2,
+      "gas:candidate-vibid:352300670381": 11,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -13995,18 +13995,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 0,
-      "Бирюков Валерий Михайлович": 1,
-      "Герасимов Николай Николаевич": 1,
-      "Грядасов Владимир Владимирович": 4,
-      "Лихачев Алексей Евгеньевич": 72,
-      "Ребяткин Александр Николаевич": 1,
-      "Рябов Николай Федорович": 3,
-      "Судияров Шамиль Равильевич": 0,
-      "Табункин Владимир Александрович": 0,
-      "Хватков Николай Павлович": 0,
-      "Щербаков Юрий Вячеславович": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:352300670396": 0,
+      "gas:candidate-vibid:352300670448": 1,
+      "gas:candidate-vibid:352300670512": 1,
+      "gas:candidate-vibid:352300670521": 4,
+      "gas:candidate-vibid:1001000113955": 72,
+      "gas:candidate-vibid:1001000136086": 1,
+      "gas:candidate-vibid:1001000121876": 3,
+      "gas:candidate-vibid:352300670527": 0,
+      "gas:candidate-vibid:1001000190383": 0,
+      "gas:candidate-vibid:352300670442": 0,
+      "gas:candidate-vibid:352300670381": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -14056,18 +14056,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 9,
-      "Бирюков Валерий Михайлович": 28,
-      "Герасимов Николай Николаевич": 3,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 214,
-      "Ребяткин Александр Николаевич": 14,
-      "Рябов Николай Федорович": 57,
-      "Судияров Шамиль Равильевич": 2,
-      "Табункин Владимир Александрович": 9,
-      "Хватков Николай Павлович": 12,
-      "Щербаков Юрий Вячеславович": 22,
-      "Против всех": 46
+      "gas:candidate-vibid:352300670396": 9,
+      "gas:candidate-vibid:352300670448": 28,
+      "gas:candidate-vibid:352300670512": 3,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 214,
+      "gas:candidate-vibid:1001000136086": 14,
+      "gas:candidate-vibid:1001000121876": 57,
+      "gas:candidate-vibid:352300670527": 2,
+      "gas:candidate-vibid:1001000190383": 9,
+      "gas:candidate-vibid:352300670442": 12,
+      "gas:candidate-vibid:352300670381": 22,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670346&region=0&sub_region=0&type=429",
@@ -14117,18 +14117,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 5,
-      "Бирюков Валерий Михайлович": 41,
-      "Герасимов Николай Николаевич": 12,
-      "Грядасов Владимир Владимирович": 15,
-      "Лихачев Алексей Евгеньевич": 350,
-      "Ребяткин Александр Николаевич": 27,
-      "Рябов Николай Федорович": 90,
-      "Судияров Шамиль Равильевич": 10,
-      "Табункин Владимир Александрович": 44,
-      "Хватков Николай Павлович": 197,
-      "Щербаков Юрий Вячеславович": 44,
-      "Против всех": 157
+      "gas:candidate-vibid:352300670396": 5,
+      "gas:candidate-vibid:352300670448": 41,
+      "gas:candidate-vibid:352300670512": 12,
+      "gas:candidate-vibid:352300670521": 15,
+      "gas:candidate-vibid:1001000113955": 350,
+      "gas:candidate-vibid:1001000136086": 27,
+      "gas:candidate-vibid:1001000121876": 90,
+      "gas:candidate-vibid:352300670527": 10,
+      "gas:candidate-vibid:1001000190383": 44,
+      "gas:candidate-vibid:352300670442": 197,
+      "gas:candidate-vibid:352300670381": 44,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",
@@ -14178,18 +14178,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 5,
-      "Бирюков Валерий Михайлович": 24,
-      "Герасимов Николай Николаевич": 6,
-      "Грядасов Владимир Владимирович": 14,
-      "Лихачев Алексей Евгеньевич": 346,
-      "Ребяткин Александр Николаевич": 24,
-      "Рябов Николай Федорович": 101,
-      "Судияров Шамиль Равильевич": 10,
-      "Табункин Владимир Александрович": 43,
-      "Хватков Николай Павлович": 210,
-      "Щербаков Юрий Вячеславович": 42,
-      "Против всех": 165
+      "gas:candidate-vibid:352300670396": 5,
+      "gas:candidate-vibid:352300670448": 24,
+      "gas:candidate-vibid:352300670512": 6,
+      "gas:candidate-vibid:352300670521": 14,
+      "gas:candidate-vibid:1001000113955": 346,
+      "gas:candidate-vibid:1001000136086": 24,
+      "gas:candidate-vibid:1001000121876": 101,
+      "gas:candidate-vibid:352300670527": 10,
+      "gas:candidate-vibid:1001000190383": 43,
+      "gas:candidate-vibid:352300670442": 210,
+      "gas:candidate-vibid:352300670381": 42,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",
@@ -14239,18 +14239,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 2,
-      "Бирюков Валерий Михайлович": 16,
-      "Герасимов Николай Николаевич": 13,
-      "Грядасов Владимир Владимирович": 11,
-      "Лихачев Алексей Евгеньевич": 293,
-      "Ребяткин Александр Николаевич": 30,
-      "Рябов Николай Федорович": 74,
-      "Судияров Шамиль Равильевич": 12,
-      "Табункин Владимир Александрович": 46,
-      "Хватков Николай Павлович": 196,
-      "Щербаков Юрий Вячеславович": 31,
-      "Против всех": 156
+      "gas:candidate-vibid:352300670396": 2,
+      "gas:candidate-vibid:352300670448": 16,
+      "gas:candidate-vibid:352300670512": 13,
+      "gas:candidate-vibid:352300670521": 11,
+      "gas:candidate-vibid:1001000113955": 293,
+      "gas:candidate-vibid:1001000136086": 30,
+      "gas:candidate-vibid:1001000121876": 74,
+      "gas:candidate-vibid:352300670527": 12,
+      "gas:candidate-vibid:1001000190383": 46,
+      "gas:candidate-vibid:352300670442": 196,
+      "gas:candidate-vibid:352300670381": 31,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",
@@ -14300,18 +14300,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 6,
-      "Бирюков Валерий Михайлович": 7,
-      "Герасимов Николай Николаевич": 7,
-      "Грядасов Владимир Владимирович": 9,
-      "Лихачев Алексей Евгеньевич": 347,
-      "Ребяткин Александр Николаевич": 16,
-      "Рябов Николай Федорович": 80,
-      "Судияров Шамиль Равильевич": 4,
-      "Табункин Владимир Александрович": 19,
-      "Хватков Николай Павлович": 138,
-      "Щербаков Юрий Вячеславович": 51,
-      "Против всех": 100
+      "gas:candidate-vibid:352300670396": 6,
+      "gas:candidate-vibid:352300670448": 7,
+      "gas:candidate-vibid:352300670512": 7,
+      "gas:candidate-vibid:352300670521": 9,
+      "gas:candidate-vibid:1001000113955": 347,
+      "gas:candidate-vibid:1001000136086": 16,
+      "gas:candidate-vibid:1001000121876": 80,
+      "gas:candidate-vibid:352300670527": 4,
+      "gas:candidate-vibid:1001000190383": 19,
+      "gas:candidate-vibid:352300670442": 138,
+      "gas:candidate-vibid:352300670381": 51,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",
@@ -14361,18 +14361,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 7,
-      "Бирюков Валерий Михайлович": 14,
-      "Герасимов Николай Николаевич": 5,
-      "Грядасов Владимир Владимирович": 10,
-      "Лихачев Алексей Евгеньевич": 308,
-      "Ребяткин Александр Николаевич": 24,
-      "Рябов Николай Федорович": 97,
-      "Судияров Шамиль Равильевич": 9,
-      "Табункин Владимир Александрович": 15,
-      "Хватков Николай Павлович": 112,
-      "Щербаков Юрий Вячеславович": 32,
-      "Против всех": 90
+      "gas:candidate-vibid:352300670396": 7,
+      "gas:candidate-vibid:352300670448": 14,
+      "gas:candidate-vibid:352300670512": 5,
+      "gas:candidate-vibid:352300670521": 10,
+      "gas:candidate-vibid:1001000113955": 308,
+      "gas:candidate-vibid:1001000136086": 24,
+      "gas:candidate-vibid:1001000121876": 97,
+      "gas:candidate-vibid:352300670527": 9,
+      "gas:candidate-vibid:1001000190383": 15,
+      "gas:candidate-vibid:352300670442": 112,
+      "gas:candidate-vibid:352300670381": 32,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",
@@ -14422,18 +14422,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 5,
-      "Бирюков Валерий Михайлович": 13,
-      "Герасимов Николай Николаевич": 8,
-      "Грядасов Владимир Владимирович": 10,
-      "Лихачев Алексей Евгеньевич": 342,
-      "Ребяткин Александр Николаевич": 10,
-      "Рябов Николай Федорович": 85,
-      "Судияров Шамиль Равильевич": 8,
-      "Табункин Владимир Александрович": 15,
-      "Хватков Николай Павлович": 129,
-      "Щербаков Юрий Вячеславович": 30,
-      "Против всех": 98
+      "gas:candidate-vibid:352300670396": 5,
+      "gas:candidate-vibid:352300670448": 13,
+      "gas:candidate-vibid:352300670512": 8,
+      "gas:candidate-vibid:352300670521": 10,
+      "gas:candidate-vibid:1001000113955": 342,
+      "gas:candidate-vibid:1001000136086": 10,
+      "gas:candidate-vibid:1001000121876": 85,
+      "gas:candidate-vibid:352300670527": 8,
+      "gas:candidate-vibid:1001000190383": 15,
+      "gas:candidate-vibid:352300670442": 129,
+      "gas:candidate-vibid:352300670381": 30,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",
@@ -14483,18 +14483,18 @@ export const duma_2003_uik_428_region_52_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Аксиньин Вячеслав Борисович": 4,
-      "Бирюков Валерий Михайлович": 12,
-      "Герасимов Николай Николаевич": 3,
-      "Грядасов Владимир Владимирович": 8,
-      "Лихачев Алексей Евгеньевич": 330,
-      "Ребяткин Александр Николаевич": 13,
-      "Рябов Николай Федорович": 95,
-      "Судияров Шамиль Равильевич": 4,
-      "Табункин Владимир Александрович": 5,
-      "Хватков Николай Павлович": 92,
-      "Щербаков Юрий Вячеславович": 27,
-      "Против всех": 82
+      "gas:candidate-vibid:352300670396": 4,
+      "gas:candidate-vibid:352300670448": 12,
+      "gas:candidate-vibid:352300670512": 3,
+      "gas:candidate-vibid:352300670521": 8,
+      "gas:candidate-vibid:1001000113955": 330,
+      "gas:candidate-vibid:1001000136086": 13,
+      "gas:candidate-vibid:1001000121876": 95,
+      "gas:candidate-vibid:352300670527": 4,
+      "gas:candidate-vibid:1001000190383": 5,
+      "gas:candidate-vibid:352300670442": 92,
+      "gas:candidate-vibid:352300670381": 27,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=523006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=352300670347&region=0&sub_region=0&type=429",

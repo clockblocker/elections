@@ -43,11 +43,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 292,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 55,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 37
+      "gas:candidate-vibid:2422000977091": 292,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 55,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -98,11 +98,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 366,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 36,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 101
+      "gas:candidate-vibid:2422000977091": 366,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 36,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -153,11 +153,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 449,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 127
+      "gas:candidate-vibid:2422000977091": 449,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -208,11 +208,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 426,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 35,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 141
+      "gas:candidate-vibid:2422000977091": 426,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 35,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -263,11 +263,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 424,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 37,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 160
+      "gas:candidate-vibid:2422000977091": 424,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 37,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -318,11 +318,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 599,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 47,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 168
+      "gas:candidate-vibid:2422000977091": 599,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 47,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -373,11 +373,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 386,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 34,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 101
+      "gas:candidate-vibid:2422000977091": 386,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 34,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -428,11 +428,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 679,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 65,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 221
+      "gas:candidate-vibid:2422000977091": 679,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 65,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -483,11 +483,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 542,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 26,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 173
+      "gas:candidate-vibid:2422000977091": 542,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 26,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -538,11 +538,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 597,
-      "Антонов Георгий Антонович": 0,
-      "Клейстер Роман Юрьевич": 57,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 152
+      "gas:candidate-vibid:2422000977091": 597,
+      "gas:candidate-vibid:2422000976122": 0,
+      "gas:candidate-vibid:2422000974731": 57,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -593,11 +593,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 384,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 38,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 100
+      "gas:candidate-vibid:2422000977091": 384,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 38,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -648,11 +648,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 656,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 55,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 182
+      "gas:candidate-vibid:2422000977091": 656,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 55,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -703,11 +703,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 529,
-      "Антонов Георгий Антонович": 7,
-      "Клейстер Роман Юрьевич": 41,
-      "Потапов Петр Николаевич": 5,
-      "Рябинюк Людмила Владимировна": 148
+      "gas:candidate-vibid:2422000977091": 529,
+      "gas:candidate-vibid:2422000976122": 7,
+      "gas:candidate-vibid:2422000974731": 41,
+      "gas:candidate-vibid:2422000976387": 5,
+      "gas:candidate-vibid:2422000976565": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -758,11 +758,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 364,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 31,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 101
+      "gas:candidate-vibid:2422000977091": 364,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 31,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -813,11 +813,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 525,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 43,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 175
+      "gas:candidate-vibid:2422000977091": 525,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 43,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -868,11 +868,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 535,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 46,
-      "Потапов Петр Николаевич": 142,
-      "Рябинюк Людмила Владимировна": 4
+      "gas:candidate-vibid:2422000977091": 535,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 46,
+      "gas:candidate-vibid:2422000976387": 142,
+      "gas:candidate-vibid:2422000976565": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -923,11 +923,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 731,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 64,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 183
+      "gas:candidate-vibid:2422000977091": 731,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 64,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -978,11 +978,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 511,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 45,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 137
+      "gas:candidate-vibid:2422000977091": 511,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 45,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1033,11 +1033,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 860,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 73,
-      "Потапов Петр Николаевич": 3,
-      "Рябинюк Людмила Владимировна": 243
+      "gas:candidate-vibid:2422000977091": 860,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 73,
+      "gas:candidate-vibid:2422000976387": 3,
+      "gas:candidate-vibid:2422000976565": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1088,11 +1088,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 879,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 72,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 260
+      "gas:candidate-vibid:2422000977091": 879,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 72,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1143,11 +1143,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 383,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 32,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 103
+      "gas:candidate-vibid:2422000977091": 383,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 32,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1198,11 +1198,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 164,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 12,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 44
+      "gas:candidate-vibid:2422000977091": 164,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 12,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1253,11 +1253,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 868,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 82,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 223
+      "gas:candidate-vibid:2422000977091": 868,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 82,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1308,11 +1308,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 845,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 71,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 269
+      "gas:candidate-vibid:2422000977091": 845,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 71,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1363,11 +1363,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 768,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 73,
-      "Потапов Петр Николаевич": 4,
-      "Рябинюк Людмила Владимировна": 211
+      "gas:candidate-vibid:2422000977091": 768,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 73,
+      "gas:candidate-vibid:2422000976387": 4,
+      "gas:candidate-vibid:2422000976565": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1418,11 +1418,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 901,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 79,
-      "Потапов Петр Николаевич": 6,
-      "Рябинюк Людмила Владимировна": 261
+      "gas:candidate-vibid:2422000977091": 901,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 79,
+      "gas:candidate-vibid:2422000976387": 6,
+      "gas:candidate-vibid:2422000976565": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1473,11 +1473,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 846,
-      "Антонов Георгий Антонович": 2,
-      "Клейстер Роман Юрьевич": 70,
-      "Потапов Петр Николаевич": 9,
-      "Рябинюк Людмила Владимировна": 234
+      "gas:candidate-vibid:2422000977091": 846,
+      "gas:candidate-vibid:2422000976122": 2,
+      "gas:candidate-vibid:2422000974731": 70,
+      "gas:candidate-vibid:2422000976387": 9,
+      "gas:candidate-vibid:2422000976565": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1528,11 +1528,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 1046,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 88,
-      "Потапов Петр Николаевич": 1,
-      "Рябинюк Людмила Владимировна": 252
+      "gas:candidate-vibid:2422000977091": 1046,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 88,
+      "gas:candidate-vibid:2422000976387": 1,
+      "gas:candidate-vibid:2422000976565": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1583,11 +1583,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 970,
-      "Антонов Георгий Антонович": 3,
-      "Клейстер Роман Юрьевич": 85,
-      "Потапов Петр Николаевич": 8,
-      "Рябинюк Людмила Владимировна": 260
+      "gas:candidate-vibid:2422000977091": 970,
+      "gas:candidate-vibid:2422000976122": 3,
+      "gas:candidate-vibid:2422000974731": 85,
+      "gas:candidate-vibid:2422000976387": 8,
+      "gas:candidate-vibid:2422000976565": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1638,11 +1638,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 584,
-      "Антонов Георгий Антонович": 34,
-      "Клейстер Роман Юрьевич": 157,
-      "Потапов Петр Николаевич": 22,
-      "Рябинюк Людмила Владимировна": 209
+      "gas:candidate-vibid:2422000977091": 584,
+      "gas:candidate-vibid:2422000976122": 34,
+      "gas:candidate-vibid:2422000974731": 157,
+      "gas:candidate-vibid:2422000976387": 22,
+      "gas:candidate-vibid:2422000976565": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1693,11 +1693,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 685,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 58,
-      "Потапов Петр Николаевич": 7,
-      "Рябинюк Людмила Владимировна": 188
+      "gas:candidate-vibid:2422000977091": 685,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 58,
+      "gas:candidate-vibid:2422000976387": 7,
+      "gas:candidate-vibid:2422000976565": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1748,11 +1748,11 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеева Татьяна Олеговна": 770,
-      "Антонов Георгий Антонович": 1,
-      "Клейстер Роман Юрьевич": 45,
-      "Потапов Петр Николаевич": 2,
-      "Рябинюк Людмила Владимировна": 231
+      "gas:candidate-vibid:2422000977091": 770,
+      "gas:candidate-vibid:2422000976122": 1,
+      "gas:candidate-vibid:2422000974731": 45,
+      "gas:candidate-vibid:2422000976387": 2,
+      "gas:candidate-vibid:2422000976565": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000132&tvd=2422000909148&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909148&type=464",
@@ -1803,12 +1803,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 14,
-      "Ильин Виталий Валерьевич": 28,
-      "Исламов Дмитрий Викторович": 785,
-      "Карпов Владимир Ильич": 32,
-      "Паршуков Максим Викторович": 98,
-      "Рыжак Николай Иванович": 72
+      "gas:candidate-vibid:2422000976498": 14,
+      "gas:candidate-vibid:2422000977747": 28,
+      "gas:candidate-vibid:2422000977059": 785,
+      "gas:candidate-vibid:24220001034700": 32,
+      "gas:candidate-vibid:2422000974783": 98,
+      "gas:candidate-vibid:2422000976525": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -1859,12 +1859,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 18,
-      "Ильин Виталий Валерьевич": 14,
-      "Исламов Дмитрий Викторович": 430,
-      "Карпов Владимир Ильич": 15,
-      "Паршуков Максим Викторович": 50,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 18,
+      "gas:candidate-vibid:2422000977747": 14,
+      "gas:candidate-vibid:2422000977059": 430,
+      "gas:candidate-vibid:24220001034700": 15,
+      "gas:candidate-vibid:2422000974783": 50,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -1915,12 +1915,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 84,
-      "Карпов Владимир Ильич": 7,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 84,
+      "gas:candidate-vibid:24220001034700": 7,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -1971,12 +1971,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 408,
-      "Карпов Владимир Ильич": 3,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 408,
+      "gas:candidate-vibid:24220001034700": 3,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2027,12 +2027,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 7,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 107,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 6,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 7,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 107,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 6,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2083,12 +2083,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 15,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 246,
-      "Карпов Владимир Ильич": 13,
-      "Паршуков Максим Викторович": 19,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 15,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 246,
+      "gas:candidate-vibid:24220001034700": 13,
+      "gas:candidate-vibid:2422000974783": 19,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2139,12 +2139,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 27,
-      "Ильин Виталий Валерьевич": 18,
-      "Исламов Дмитрий Викторович": 611,
-      "Карпов Владимир Ильич": 69,
-      "Паршуков Максим Викторович": 78,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 27,
+      "gas:candidate-vibid:2422000977747": 18,
+      "gas:candidate-vibid:2422000977059": 611,
+      "gas:candidate-vibid:24220001034700": 69,
+      "gas:candidate-vibid:2422000974783": 78,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2195,12 +2195,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 8,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 257,
-      "Карпов Владимир Ильич": 9,
-      "Паршуков Максим Викторович": 16,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 8,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 257,
+      "gas:candidate-vibid:24220001034700": 9,
+      "gas:candidate-vibid:2422000974783": 16,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2251,12 +2251,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 99,
-      "Карпов Владимир Ильич": 7,
-      "Паршуков Максим Викторович": 8,
-      "Рыжак Николай Иванович": 4
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 99,
+      "gas:candidate-vibid:24220001034700": 7,
+      "gas:candidate-vibid:2422000974783": 8,
+      "gas:candidate-vibid:2422000976525": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2307,12 +2307,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 38,
-      "Ильин Виталий Валерьевич": 19,
-      "Исламов Дмитрий Викторович": 594,
-      "Карпов Владимир Ильич": 43,
-      "Паршуков Максим Викторович": 53,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 38,
+      "gas:candidate-vibid:2422000977747": 19,
+      "gas:candidate-vibid:2422000977059": 594,
+      "gas:candidate-vibid:24220001034700": 43,
+      "gas:candidate-vibid:2422000974783": 53,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2363,12 +2363,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 31,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 363,
-      "Карпов Владимир Ильич": 11,
-      "Паршуков Максим Викторович": 37,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 31,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 363,
+      "gas:candidate-vibid:24220001034700": 11,
+      "gas:candidate-vibid:2422000974783": 37,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2419,12 +2419,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 119,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 10,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 119,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 10,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2475,12 +2475,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 18,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 302,
-      "Карпов Владимир Ильич": 15,
-      "Паршуков Максим Викторович": 43,
-      "Рыжак Николай Иванович": 10
+      "gas:candidate-vibid:2422000976498": 18,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 302,
+      "gas:candidate-vibid:24220001034700": 15,
+      "gas:candidate-vibid:2422000974783": 43,
+      "gas:candidate-vibid:2422000976525": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2531,12 +2531,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 5,
-      "Исламов Дмитрий Викторович": 112,
-      "Карпов Владимир Ильич": 9,
-      "Паршуков Максим Викторович": 8,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 5,
+      "gas:candidate-vibid:2422000977059": 112,
+      "gas:candidate-vibid:24220001034700": 9,
+      "gas:candidate-vibid:2422000974783": 8,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2587,12 +2587,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 49,
-      "Ильин Виталий Валерьевич": 15,
-      "Исламов Дмитрий Викторович": 589,
-      "Карпов Владимир Ильич": 31,
-      "Паршуков Максим Викторович": 70,
-      "Рыжак Николай Иванович": 12
+      "gas:candidate-vibid:2422000976498": 49,
+      "gas:candidate-vibid:2422000977747": 15,
+      "gas:candidate-vibid:2422000977059": 589,
+      "gas:candidate-vibid:24220001034700": 31,
+      "gas:candidate-vibid:2422000974783": 70,
+      "gas:candidate-vibid:2422000976525": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2643,12 +2643,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 127,
-      "Карпов Владимир Ильич": 14,
-      "Паршуков Максим Викторович": 14,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 127,
+      "gas:candidate-vibid:24220001034700": 14,
+      "gas:candidate-vibid:2422000974783": 14,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2699,12 +2699,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 59,
-      "Ильин Виталий Валерьевич": 31,
-      "Исламов Дмитрий Викторович": 865,
-      "Карпов Владимир Ильич": 74,
-      "Паршуков Максим Викторович": 77,
-      "Рыжак Николай Иванович": 33
+      "gas:candidate-vibid:2422000976498": 59,
+      "gas:candidate-vibid:2422000977747": 31,
+      "gas:candidate-vibid:2422000977059": 865,
+      "gas:candidate-vibid:24220001034700": 74,
+      "gas:candidate-vibid:2422000974783": 77,
+      "gas:candidate-vibid:2422000976525": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2755,12 +2755,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 11,
-      "Исламов Дмитрий Викторович": 418,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 81,
-      "Рыжак Николай Иванович": 22
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 11,
+      "gas:candidate-vibid:2422000977059": 418,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 81,
+      "gas:candidate-vibid:2422000976525": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2811,12 +2811,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 48,
-      "Ильин Виталий Валерьевич": 14,
-      "Исламов Дмитрий Викторович": 612,
-      "Карпов Владимир Ильич": 48,
-      "Паршуков Максим Викторович": 46,
-      "Рыжак Николай Иванович": 21
+      "gas:candidate-vibid:2422000976498": 48,
+      "gas:candidate-vibid:2422000977747": 14,
+      "gas:candidate-vibid:2422000977059": 612,
+      "gas:candidate-vibid:24220001034700": 48,
+      "gas:candidate-vibid:2422000974783": 46,
+      "gas:candidate-vibid:2422000976525": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2867,12 +2867,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 16,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 279,
-      "Карпов Владимир Ильич": 34,
-      "Паршуков Максим Викторович": 34,
-      "Рыжак Николай Иванович": 3
+      "gas:candidate-vibid:2422000976498": 16,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 279,
+      "gas:candidate-vibid:24220001034700": 34,
+      "gas:candidate-vibid:2422000974783": 34,
+      "gas:candidate-vibid:2422000976525": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2923,12 +2923,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 8,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 154,
-      "Карпов Владимир Ильич": 12,
-      "Паршуков Максим Викторович": 6,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 8,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 154,
+      "gas:candidate-vibid:24220001034700": 12,
+      "gas:candidate-vibid:2422000974783": 6,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -2979,12 +2979,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 31,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 442,
-      "Карпов Владимир Ильич": 36,
-      "Паршуков Максим Викторович": 60,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 31,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 442,
+      "gas:candidate-vibid:24220001034700": 36,
+      "gas:candidate-vibid:2422000974783": 60,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3035,12 +3035,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 7,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 393,
-      "Карпов Владимир Ильич": 10,
-      "Паршуков Максим Викторович": 16,
-      "Рыжак Николай Иванович": 4
+      "gas:candidate-vibid:2422000976498": 7,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 393,
+      "gas:candidate-vibid:24220001034700": 10,
+      "gas:candidate-vibid:2422000974783": 16,
+      "gas:candidate-vibid:2422000976525": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3091,12 +3091,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 12,
-      "Ильин Виталий Валерьевич": 11,
-      "Исламов Дмитрий Викторович": 172,
-      "Карпов Владимир Ильич": 14,
-      "Паршуков Максим Викторович": 14,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 12,
+      "gas:candidate-vibid:2422000977747": 11,
+      "gas:candidate-vibid:2422000977059": 172,
+      "gas:candidate-vibid:24220001034700": 14,
+      "gas:candidate-vibid:2422000974783": 14,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3147,12 +3147,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 13,
-      "Ильин Виталий Валерьевич": 12,
-      "Исламов Дмитрий Викторович": 312,
-      "Карпов Владимир Ильич": 34,
-      "Паршуков Максим Викторович": 32,
-      "Рыжак Николай Иванович": 6
+      "gas:candidate-vibid:2422000976498": 13,
+      "gas:candidate-vibid:2422000977747": 12,
+      "gas:candidate-vibid:2422000977059": 312,
+      "gas:candidate-vibid:24220001034700": 34,
+      "gas:candidate-vibid:2422000974783": 32,
+      "gas:candidate-vibid:2422000976525": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3203,12 +3203,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 61,
-      "Ильин Виталий Валерьевич": 13,
-      "Исламов Дмитрий Викторович": 878,
-      "Карпов Владимир Ильич": 29,
-      "Паршуков Максим Викторович": 93,
-      "Рыжак Николай Иванович": 23
+      "gas:candidate-vibid:2422000976498": 61,
+      "gas:candidate-vibid:2422000977747": 13,
+      "gas:candidate-vibid:2422000977059": 878,
+      "gas:candidate-vibid:24220001034700": 29,
+      "gas:candidate-vibid:2422000974783": 93,
+      "gas:candidate-vibid:2422000976525": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3259,12 +3259,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 14,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 192,
-      "Карпов Владимир Ильич": 7,
-      "Паршуков Максим Викторович": 23,
-      "Рыжак Николай Иванович": 3
+      "gas:candidate-vibid:2422000976498": 14,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 192,
+      "gas:candidate-vibid:24220001034700": 7,
+      "gas:candidate-vibid:2422000974783": 23,
+      "gas:candidate-vibid:2422000976525": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3315,12 +3315,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 246,
-      "Карпов Владимир Ильич": 21,
-      "Паршуков Максим Викторович": 30,
-      "Рыжак Николай Иванович": 9
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 246,
+      "gas:candidate-vibid:24220001034700": 21,
+      "gas:candidate-vibid:2422000974783": 30,
+      "gas:candidate-vibid:2422000976525": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3371,12 +3371,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 164,
-      "Карпов Владимир Ильич": 12,
-      "Паршуков Максим Викторович": 26,
-      "Рыжак Николай Иванович": 6
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 164,
+      "gas:candidate-vibid:24220001034700": 12,
+      "gas:candidate-vibid:2422000974783": 26,
+      "gas:candidate-vibid:2422000976525": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3427,12 +3427,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 30,
-      "Ильин Виталий Валерьевич": 31,
-      "Исламов Дмитрий Викторович": 813,
-      "Карпов Владимир Ильич": 41,
-      "Паршуков Максим Викторович": 145,
-      "Рыжак Николай Иванович": 30
+      "gas:candidate-vibid:2422000976498": 30,
+      "gas:candidate-vibid:2422000977747": 31,
+      "gas:candidate-vibid:2422000977059": 813,
+      "gas:candidate-vibid:24220001034700": 41,
+      "gas:candidate-vibid:2422000974783": 145,
+      "gas:candidate-vibid:2422000976525": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3483,12 +3483,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 12,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 149,
-      "Карпов Владимир Ильич": 9,
-      "Паршуков Максим Викторович": 19,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 12,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 149,
+      "gas:candidate-vibid:24220001034700": 9,
+      "gas:candidate-vibid:2422000974783": 19,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3539,12 +3539,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 220,
-      "Карпов Владимир Ильич": 20,
-      "Паршуков Максим Викторович": 20,
-      "Рыжак Николай Иванович": 16
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 220,
+      "gas:candidate-vibid:24220001034700": 20,
+      "gas:candidate-vibid:2422000974783": 20,
+      "gas:candidate-vibid:2422000976525": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3595,12 +3595,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 664,
-      "Карпов Владимир Ильич": 51,
-      "Паршуков Максим Викторович": 82,
-      "Рыжак Николай Иванович": 80
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 664,
+      "gas:candidate-vibid:24220001034700": 51,
+      "gas:candidate-vibid:2422000974783": 82,
+      "gas:candidate-vibid:2422000976525": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3651,12 +3651,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 21,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 327,
-      "Карпов Владимир Ильич": 25,
-      "Паршуков Максим Викторович": 35,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 21,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 327,
+      "gas:candidate-vibid:24220001034700": 25,
+      "gas:candidate-vibid:2422000974783": 35,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3707,12 +3707,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 6,
-      "Исламов Дмитрий Викторович": 293,
-      "Карпов Владимир Ильич": 16,
-      "Паршуков Максим Викторович": 32,
-      "Рыжак Николай Иванович": 6
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 6,
+      "gas:candidate-vibid:2422000977059": 293,
+      "gas:candidate-vibid:24220001034700": 16,
+      "gas:candidate-vibid:2422000974783": 32,
+      "gas:candidate-vibid:2422000976525": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3763,12 +3763,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 29,
-      "Ильин Виталий Валерьевич": 18,
-      "Исламов Дмитрий Викторович": 556,
-      "Карпов Владимир Ильич": 41,
-      "Паршуков Максим Викторович": 53,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 29,
+      "gas:candidate-vibid:2422000977747": 18,
+      "gas:candidate-vibid:2422000977059": 556,
+      "gas:candidate-vibid:24220001034700": 41,
+      "gas:candidate-vibid:2422000974783": 53,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3819,12 +3819,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 667,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 12,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 667,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 12,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3875,12 +3875,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 35,
-      "Ильин Виталий Валерьевич": 14,
-      "Исламов Дмитрий Викторович": 810,
-      "Карпов Владимир Ильич": 33,
-      "Паршуков Максим Викторович": 16,
-      "Рыжак Николай Иванович": 19
+      "gas:candidate-vibid:2422000976498": 35,
+      "gas:candidate-vibid:2422000977747": 14,
+      "gas:candidate-vibid:2422000977059": 810,
+      "gas:candidate-vibid:24220001034700": 33,
+      "gas:candidate-vibid:2422000974783": 16,
+      "gas:candidate-vibid:2422000976525": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3931,12 +3931,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 60,
-      "Ильин Виталий Валерьевич": 25,
-      "Исламов Дмитрий Викторович": 955,
-      "Карпов Владимир Ильич": 43,
-      "Паршуков Максим Викторович": 119,
-      "Рыжак Николай Иванович": 16
+      "gas:candidate-vibid:2422000976498": 60,
+      "gas:candidate-vibid:2422000977747": 25,
+      "gas:candidate-vibid:2422000977059": 955,
+      "gas:candidate-vibid:24220001034700": 43,
+      "gas:candidate-vibid:2422000974783": 119,
+      "gas:candidate-vibid:2422000976525": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -3987,12 +3987,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 86,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 10,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 86,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 10,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -4043,12 +4043,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 19,
-      "Ильин Виталий Валерьевич": 27,
-      "Исламов Дмитрий Викторович": 899,
-      "Карпов Владимир Ильич": 136,
-      "Паршуков Максим Викторович": 25,
-      "Рыжак Николай Иванович": 44
+      "gas:candidate-vibid:2422000976498": 19,
+      "gas:candidate-vibid:2422000977747": 27,
+      "gas:candidate-vibid:2422000977059": 899,
+      "gas:candidate-vibid:24220001034700": 136,
+      "gas:candidate-vibid:2422000974783": 25,
+      "gas:candidate-vibid:2422000976525": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -4099,12 +4099,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 54,
-      "Карпов Владимир Ильич": 3,
-      "Паршуков Максим Викторович": 1,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 54,
+      "gas:candidate-vibid:24220001034700": 3,
+      "gas:candidate-vibid:2422000974783": 1,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909149&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909149&type=464",
@@ -4155,12 +4155,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 96,
-      "Ильин Виталий Валерьевич": 46,
-      "Исламов Дмитрий Викторович": 1575,
-      "Карпов Владимир Ильич": 81,
-      "Паршуков Максим Викторович": 157,
-      "Рыжак Николай Иванович": 45
+      "gas:candidate-vibid:2422000976498": 96,
+      "gas:candidate-vibid:2422000977747": 46,
+      "gas:candidate-vibid:2422000977059": 1575,
+      "gas:candidate-vibid:24220001034700": 81,
+      "gas:candidate-vibid:2422000974783": 157,
+      "gas:candidate-vibid:2422000976525": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4211,12 +4211,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 1855,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 4,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 1855,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 4,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4267,12 +4267,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 1613,
-      "Карпов Владимир Ильич": 5,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 1613,
+      "gas:candidate-vibid:24220001034700": 5,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4323,12 +4323,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 67,
-      "Ильин Виталий Валерьевич": 41,
-      "Исламов Дмитрий Викторович": 1622,
-      "Карпов Владимир Ильич": 74,
-      "Паршуков Максим Викторович": 197,
-      "Рыжак Николай Иванович": 46
+      "gas:candidate-vibid:2422000976498": 67,
+      "gas:candidate-vibid:2422000977747": 41,
+      "gas:candidate-vibid:2422000977059": 1622,
+      "gas:candidate-vibid:24220001034700": 74,
+      "gas:candidate-vibid:2422000974783": 197,
+      "gas:candidate-vibid:2422000976525": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4379,12 +4379,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 91,
-      "Ильин Виталий Валерьевич": 69,
-      "Исламов Дмитрий Викторович": 1732,
-      "Карпов Владимир Ильич": 112,
-      "Паршуков Максим Викторович": 143,
-      "Рыжак Николай Иванович": 47
+      "gas:candidate-vibid:2422000976498": 91,
+      "gas:candidate-vibid:2422000977747": 69,
+      "gas:candidate-vibid:2422000977059": 1732,
+      "gas:candidate-vibid:24220001034700": 112,
+      "gas:candidate-vibid:2422000974783": 143,
+      "gas:candidate-vibid:2422000976525": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4435,12 +4435,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 620,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 1,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 620,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 1,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4491,12 +4491,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 48,
-      "Ильин Виталий Валерьевич": 52,
-      "Исламов Дмитрий Викторович": 1344,
-      "Карпов Владимир Ильич": 92,
-      "Паршуков Максим Викторович": 209,
-      "Рыжак Николай Иванович": 45
+      "gas:candidate-vibid:2422000976498": 48,
+      "gas:candidate-vibid:2422000977747": 52,
+      "gas:candidate-vibid:2422000977059": 1344,
+      "gas:candidate-vibid:24220001034700": 92,
+      "gas:candidate-vibid:2422000974783": 209,
+      "gas:candidate-vibid:2422000976525": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4547,12 +4547,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 114,
-      "Ильин Виталий Валерьевич": 56,
-      "Исламов Дмитрий Викторович": 1597,
-      "Карпов Владимир Ильич": 115,
-      "Паршуков Максим Викторович": 173,
-      "Рыжак Николай Иванович": 71
+      "gas:candidate-vibid:2422000976498": 114,
+      "gas:candidate-vibid:2422000977747": 56,
+      "gas:candidate-vibid:2422000977059": 1597,
+      "gas:candidate-vibid:24220001034700": 115,
+      "gas:candidate-vibid:2422000974783": 173,
+      "gas:candidate-vibid:2422000976525": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4603,12 +4603,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 60,
-      "Ильин Виталий Валерьевич": 33,
-      "Исламов Дмитрий Викторович": 1605,
-      "Карпов Владимир Ильич": 128,
-      "Паршуков Максим Викторович": 232,
-      "Рыжак Николай Иванович": 59
+      "gas:candidate-vibid:2422000976498": 60,
+      "gas:candidate-vibid:2422000977747": 33,
+      "gas:candidate-vibid:2422000977059": 1605,
+      "gas:candidate-vibid:24220001034700": 128,
+      "gas:candidate-vibid:2422000974783": 232,
+      "gas:candidate-vibid:2422000976525": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4659,12 +4659,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 33,
-      "Ильин Виталий Валерьевич": 30,
-      "Исламов Дмитрий Викторович": 1009,
-      "Карпов Владимир Ильич": 81,
-      "Паршуков Максим Викторович": 85,
-      "Рыжак Николай Иванович": 33
+      "gas:candidate-vibid:2422000976498": 33,
+      "gas:candidate-vibid:2422000977747": 30,
+      "gas:candidate-vibid:2422000977059": 1009,
+      "gas:candidate-vibid:24220001034700": 81,
+      "gas:candidate-vibid:2422000974783": 85,
+      "gas:candidate-vibid:2422000976525": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4715,12 +4715,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 993,
-      "Карпов Владимир Ильич": 3,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 993,
+      "gas:candidate-vibid:24220001034700": 3,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4771,12 +4771,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 1924,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 13,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 1924,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 13,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4827,12 +4827,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 56,
-      "Ильин Виталий Валерьевич": 23,
-      "Исламов Дмитрий Викторович": 1629,
-      "Карпов Владимир Ильич": 86,
-      "Паршуков Максим Викторович": 132,
-      "Рыжак Николай Иванович": 36
+      "gas:candidate-vibid:2422000976498": 56,
+      "gas:candidate-vibid:2422000977747": 23,
+      "gas:candidate-vibid:2422000977059": 1629,
+      "gas:candidate-vibid:24220001034700": 86,
+      "gas:candidate-vibid:2422000974783": 132,
+      "gas:candidate-vibid:2422000976525": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4883,12 +4883,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 46,
-      "Ильин Виталий Валерьевич": 21,
-      "Исламов Дмитрий Викторович": 1269,
-      "Карпов Владимир Ильич": 79,
-      "Паршуков Максим Викторович": 72,
-      "Рыжак Николай Иванович": 23
+      "gas:candidate-vibid:2422000976498": 46,
+      "gas:candidate-vibid:2422000977747": 21,
+      "gas:candidate-vibid:2422000977059": 1269,
+      "gas:candidate-vibid:24220001034700": 79,
+      "gas:candidate-vibid:2422000974783": 72,
+      "gas:candidate-vibid:2422000976525": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4939,12 +4939,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 586,
-      "Карпов Владимир Ильич": 5,
-      "Паршуков Максим Викторович": 1,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 586,
+      "gas:candidate-vibid:24220001034700": 5,
+      "gas:candidate-vibid:2422000974783": 1,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -4995,12 +4995,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 1449,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 1449,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5051,12 +5051,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 55,
-      "Ильин Виталий Валерьевич": 20,
-      "Исламов Дмитрий Викторович": 1267,
-      "Карпов Владимир Ильич": 63,
-      "Паршуков Максим Викторович": 157,
-      "Рыжак Николай Иванович": 61
+      "gas:candidate-vibid:2422000976498": 55,
+      "gas:candidate-vibid:2422000977747": 20,
+      "gas:candidate-vibid:2422000977059": 1267,
+      "gas:candidate-vibid:24220001034700": 63,
+      "gas:candidate-vibid:2422000974783": 157,
+      "gas:candidate-vibid:2422000976525": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5107,12 +5107,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 140,
-      "Ильин Виталий Валерьевич": 74,
-      "Исламов Дмитрий Викторович": 1746,
-      "Карпов Владимир Ильич": 158,
-      "Паршуков Максим Викторович": 220,
-      "Рыжак Николай Иванович": 68
+      "gas:candidate-vibid:2422000976498": 140,
+      "gas:candidate-vibid:2422000977747": 74,
+      "gas:candidate-vibid:2422000977059": 1746,
+      "gas:candidate-vibid:24220001034700": 158,
+      "gas:candidate-vibid:2422000974783": 220,
+      "gas:candidate-vibid:2422000976525": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5163,12 +5163,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 68,
-      "Ильин Виталий Валерьевич": 39,
-      "Исламов Дмитрий Викторович": 1610,
-      "Карпов Владимир Ильич": 64,
-      "Паршуков Максим Викторович": 151,
-      "Рыжак Николай Иванович": 28
+      "gas:candidate-vibid:2422000976498": 68,
+      "gas:candidate-vibid:2422000977747": 39,
+      "gas:candidate-vibid:2422000977059": 1610,
+      "gas:candidate-vibid:24220001034700": 64,
+      "gas:candidate-vibid:2422000974783": 151,
+      "gas:candidate-vibid:2422000976525": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5219,12 +5219,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 1748,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 9,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 1748,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 9,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5275,12 +5275,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 102,
-      "Ильин Виталий Валерьевич": 43,
-      "Исламов Дмитрий Викторович": 1963,
-      "Карпов Владимир Ильич": 114,
-      "Паршуков Максим Викторович": 167,
-      "Рыжак Николай Иванович": 63
+      "gas:candidate-vibid:2422000976498": 102,
+      "gas:candidate-vibid:2422000977747": 43,
+      "gas:candidate-vibid:2422000977059": 1963,
+      "gas:candidate-vibid:24220001034700": 114,
+      "gas:candidate-vibid:2422000974783": 167,
+      "gas:candidate-vibid:2422000976525": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5331,12 +5331,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 109,
-      "Ильин Виталий Валерьевич": 46,
-      "Исламов Дмитрий Викторович": 1955,
-      "Карпов Владимир Ильич": 123,
-      "Паршуков Максим Викторович": 179,
-      "Рыжак Николай Иванович": 41
+      "gas:candidate-vibid:2422000976498": 109,
+      "gas:candidate-vibid:2422000977747": 46,
+      "gas:candidate-vibid:2422000977059": 1955,
+      "gas:candidate-vibid:24220001034700": 123,
+      "gas:candidate-vibid:2422000974783": 179,
+      "gas:candidate-vibid:2422000976525": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5387,12 +5387,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 65,
-      "Ильин Виталий Валерьевич": 38,
-      "Исламов Дмитрий Викторович": 1165,
-      "Карпов Владимир Ильич": 77,
-      "Паршуков Максим Викторович": 137,
-      "Рыжак Николай Иванович": 35
+      "gas:candidate-vibid:2422000976498": 65,
+      "gas:candidate-vibid:2422000977747": 38,
+      "gas:candidate-vibid:2422000977059": 1165,
+      "gas:candidate-vibid:24220001034700": 77,
+      "gas:candidate-vibid:2422000974783": 137,
+      "gas:candidate-vibid:2422000976525": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5443,12 +5443,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 1,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 795,
-      "Карпов Владимир Ильич": 2,
-      "Паршуков Максим Викторович": 7,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 1,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 795,
+      "gas:candidate-vibid:24220001034700": 2,
+      "gas:candidate-vibid:2422000974783": 7,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5499,12 +5499,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 108,
-      "Ильин Виталий Валерьевич": 30,
-      "Исламов Дмитрий Викторович": 1380,
-      "Карпов Владимир Ильич": 76,
-      "Паршуков Максим Викторович": 121,
-      "Рыжак Николай Иванович": 38
+      "gas:candidate-vibid:2422000976498": 108,
+      "gas:candidate-vibid:2422000977747": 30,
+      "gas:candidate-vibid:2422000977059": 1380,
+      "gas:candidate-vibid:24220001034700": 76,
+      "gas:candidate-vibid:2422000974783": 121,
+      "gas:candidate-vibid:2422000976525": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5555,12 +5555,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 92,
-      "Ильин Виталий Валерьевич": 58,
-      "Исламов Дмитрий Викторович": 1716,
-      "Карпов Владимир Ильич": 139,
-      "Паршуков Максим Викторович": 144,
-      "Рыжак Николай Иванович": 64
+      "gas:candidate-vibid:2422000976498": 92,
+      "gas:candidate-vibid:2422000977747": 58,
+      "gas:candidate-vibid:2422000977059": 1716,
+      "gas:candidate-vibid:24220001034700": 139,
+      "gas:candidate-vibid:2422000974783": 144,
+      "gas:candidate-vibid:2422000976525": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5611,12 +5611,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 37,
-      "Ильин Виталий Валерьевич": 16,
-      "Исламов Дмитрий Викторович": 984,
-      "Карпов Владимир Ильич": 62,
-      "Паршуков Максим Викторович": 62,
-      "Рыжак Николай Иванович": 22
+      "gas:candidate-vibid:2422000976498": 37,
+      "gas:candidate-vibid:2422000977747": 16,
+      "gas:candidate-vibid:2422000977059": 984,
+      "gas:candidate-vibid:24220001034700": 62,
+      "gas:candidate-vibid:2422000974783": 62,
+      "gas:candidate-vibid:2422000976525": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5667,12 +5667,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 51,
-      "Ильин Виталий Валерьевич": 38,
-      "Исламов Дмитрий Викторович": 1331,
-      "Карпов Владимир Ильич": 66,
-      "Паршуков Максим Викторович": 107,
-      "Рыжак Николай Иванович": 27
+      "gas:candidate-vibid:2422000976498": 51,
+      "gas:candidate-vibid:2422000977747": 38,
+      "gas:candidate-vibid:2422000977059": 1331,
+      "gas:candidate-vibid:24220001034700": 66,
+      "gas:candidate-vibid:2422000974783": 107,
+      "gas:candidate-vibid:2422000976525": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5723,12 +5723,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 957,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 957,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5779,12 +5779,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 164,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 164,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5835,12 +5835,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 34,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 34,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5891,12 +5891,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 267,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 267,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -5947,12 +5947,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 125,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 125,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -6003,12 +6003,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 75,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 75,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -6059,12 +6059,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 210,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 210,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909150&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909150&type=464",
@@ -6115,12 +6115,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 98,
-      "Ильин Виталий Валерьевич": 69,
-      "Исламов Дмитрий Викторович": 1387,
-      "Карпов Владимир Ильич": 110,
-      "Паршуков Максим Викторович": 151,
-      "Рыжак Николай Иванович": 50
+      "gas:candidate-vibid:2422000976498": 98,
+      "gas:candidate-vibid:2422000977747": 69,
+      "gas:candidate-vibid:2422000977059": 1387,
+      "gas:candidate-vibid:24220001034700": 110,
+      "gas:candidate-vibid:2422000974783": 151,
+      "gas:candidate-vibid:2422000976525": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6171,12 +6171,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 110,
-      "Ильин Виталий Валерьевич": 46,
-      "Исламов Дмитрий Викторович": 1815,
-      "Карпов Владимир Ильич": 82,
-      "Паршуков Максим Викторович": 200,
-      "Рыжак Николай Иванович": 47
+      "gas:candidate-vibid:2422000976498": 110,
+      "gas:candidate-vibid:2422000977747": 46,
+      "gas:candidate-vibid:2422000977059": 1815,
+      "gas:candidate-vibid:24220001034700": 82,
+      "gas:candidate-vibid:2422000974783": 200,
+      "gas:candidate-vibid:2422000976525": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6227,12 +6227,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 67,
-      "Ильин Виталий Валерьевич": 25,
-      "Исламов Дмитрий Викторович": 806,
-      "Карпов Владимир Ильич": 66,
-      "Паршуков Максим Викторович": 80,
-      "Рыжак Николай Иванович": 34
+      "gas:candidate-vibid:2422000976498": 67,
+      "gas:candidate-vibid:2422000977747": 25,
+      "gas:candidate-vibid:2422000977059": 806,
+      "gas:candidate-vibid:24220001034700": 66,
+      "gas:candidate-vibid:2422000974783": 80,
+      "gas:candidate-vibid:2422000976525": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6283,12 +6283,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 161,
-      "Ильин Виталий Валерьевич": 93,
-      "Исламов Дмитрий Викторович": 1777,
-      "Карпов Владимир Ильич": 139,
-      "Паршуков Максим Викторович": 170,
-      "Рыжак Николай Иванович": 72
+      "gas:candidate-vibid:2422000976498": 161,
+      "gas:candidate-vibid:2422000977747": 93,
+      "gas:candidate-vibid:2422000977059": 1777,
+      "gas:candidate-vibid:24220001034700": 139,
+      "gas:candidate-vibid:2422000974783": 170,
+      "gas:candidate-vibid:2422000976525": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6339,12 +6339,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 124,
-      "Ильин Виталий Валерьевич": 96,
-      "Исламов Дмитрий Викторович": 1486,
-      "Карпов Владимир Ильич": 160,
-      "Паршуков Максим Викторович": 313,
-      "Рыжак Николай Иванович": 94
+      "gas:candidate-vibid:2422000976498": 124,
+      "gas:candidate-vibid:2422000977747": 96,
+      "gas:candidate-vibid:2422000977059": 1486,
+      "gas:candidate-vibid:24220001034700": 160,
+      "gas:candidate-vibid:2422000974783": 313,
+      "gas:candidate-vibid:2422000976525": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6395,12 +6395,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 87,
-      "Ильин Виталий Валерьевич": 60,
-      "Исламов Дмитрий Викторович": 1210,
-      "Карпов Владимир Ильич": 94,
-      "Паршуков Максим Викторович": 124,
-      "Рыжак Николай Иванович": 64
+      "gas:candidate-vibid:2422000976498": 87,
+      "gas:candidate-vibid:2422000977747": 60,
+      "gas:candidate-vibid:2422000977059": 1210,
+      "gas:candidate-vibid:24220001034700": 94,
+      "gas:candidate-vibid:2422000974783": 124,
+      "gas:candidate-vibid:2422000976525": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6451,12 +6451,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 70,
-      "Ильин Виталий Валерьевич": 57,
-      "Исламов Дмитрий Викторович": 1366,
-      "Карпов Владимир Ильич": 93,
-      "Паршуков Максим Викторович": 170,
-      "Рыжак Николай Иванович": 56
+      "gas:candidate-vibid:2422000976498": 70,
+      "gas:candidate-vibid:2422000977747": 57,
+      "gas:candidate-vibid:2422000977059": 1366,
+      "gas:candidate-vibid:24220001034700": 93,
+      "gas:candidate-vibid:2422000974783": 170,
+      "gas:candidate-vibid:2422000976525": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6507,12 +6507,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 79,
-      "Ильин Виталий Валерьевич": 38,
-      "Исламов Дмитрий Викторович": 1458,
-      "Карпов Владимир Ильич": 103,
-      "Паршуков Максим Викторович": 173,
-      "Рыжак Николай Иванович": 70
+      "gas:candidate-vibid:2422000976498": 79,
+      "gas:candidate-vibid:2422000977747": 38,
+      "gas:candidate-vibid:2422000977059": 1458,
+      "gas:candidate-vibid:24220001034700": 103,
+      "gas:candidate-vibid:2422000974783": 173,
+      "gas:candidate-vibid:2422000976525": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6563,12 +6563,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 110,
-      "Ильин Виталий Валерьевич": 82,
-      "Исламов Дмитрий Викторович": 1735,
-      "Карпов Владимир Ильич": 133,
-      "Паршуков Максим Викторович": 203,
-      "Рыжак Николай Иванович": 89
+      "gas:candidate-vibid:2422000976498": 110,
+      "gas:candidate-vibid:2422000977747": 82,
+      "gas:candidate-vibid:2422000977059": 1735,
+      "gas:candidate-vibid:24220001034700": 133,
+      "gas:candidate-vibid:2422000974783": 203,
+      "gas:candidate-vibid:2422000976525": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6619,12 +6619,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 132,
-      "Ильин Виталий Валерьевич": 84,
-      "Исламов Дмитрий Викторович": 1092,
-      "Карпов Владимир Ильич": 105,
-      "Паршуков Максим Викторович": 138,
-      "Рыжак Николай Иванович": 62
+      "gas:candidate-vibid:2422000976498": 132,
+      "gas:candidate-vibid:2422000977747": 84,
+      "gas:candidate-vibid:2422000977059": 1092,
+      "gas:candidate-vibid:24220001034700": 105,
+      "gas:candidate-vibid:2422000974783": 138,
+      "gas:candidate-vibid:2422000976525": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6675,12 +6675,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 102,
-      "Ильин Виталий Валерьевич": 51,
-      "Исламов Дмитрий Викторович": 1510,
-      "Карпов Владимир Ильич": 102,
-      "Паршуков Максим Викторович": 146,
-      "Рыжак Николай Иванович": 63
+      "gas:candidate-vibid:2422000976498": 102,
+      "gas:candidate-vibid:2422000977747": 51,
+      "gas:candidate-vibid:2422000977059": 1510,
+      "gas:candidate-vibid:24220001034700": 102,
+      "gas:candidate-vibid:2422000974783": 146,
+      "gas:candidate-vibid:2422000976525": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6731,12 +6731,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 92,
-      "Ильин Виталий Валерьевич": 62,
-      "Исламов Дмитрий Викторович": 1482,
-      "Карпов Владимир Ильич": 152,
-      "Паршуков Максим Викторович": 156,
-      "Рыжак Николай Иванович": 71
+      "gas:candidate-vibid:2422000976498": 92,
+      "gas:candidate-vibid:2422000977747": 62,
+      "gas:candidate-vibid:2422000977059": 1482,
+      "gas:candidate-vibid:24220001034700": 152,
+      "gas:candidate-vibid:2422000974783": 156,
+      "gas:candidate-vibid:2422000976525": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6787,12 +6787,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 57,
-      "Ильин Виталий Валерьевич": 49,
-      "Исламов Дмитрий Викторович": 1573,
-      "Карпов Владимир Ильич": 71,
-      "Паршуков Максим Викторович": 106,
-      "Рыжак Николай Иванович": 51
+      "gas:candidate-vibid:2422000976498": 57,
+      "gas:candidate-vibid:2422000977747": 49,
+      "gas:candidate-vibid:2422000977059": 1573,
+      "gas:candidate-vibid:24220001034700": 71,
+      "gas:candidate-vibid:2422000974783": 106,
+      "gas:candidate-vibid:2422000976525": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6843,12 +6843,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 87,
-      "Ильин Виталий Валерьевич": 51,
-      "Исламов Дмитрий Викторович": 1762,
-      "Карпов Владимир Ильич": 123,
-      "Паршуков Максим Викторович": 191,
-      "Рыжак Николай Иванович": 95
+      "gas:candidate-vibid:2422000976498": 87,
+      "gas:candidate-vibid:2422000977747": 51,
+      "gas:candidate-vibid:2422000977059": 1762,
+      "gas:candidate-vibid:24220001034700": 123,
+      "gas:candidate-vibid:2422000974783": 191,
+      "gas:candidate-vibid:2422000976525": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6899,12 +6899,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 109,
-      "Ильин Виталий Валерьевич": 58,
-      "Исламов Дмитрий Викторович": 1206,
-      "Карпов Владимир Ильич": 93,
-      "Паршуков Максим Викторович": 159,
-      "Рыжак Николай Иванович": 64
+      "gas:candidate-vibid:2422000976498": 109,
+      "gas:candidate-vibid:2422000977747": 58,
+      "gas:candidate-vibid:2422000977059": 1206,
+      "gas:candidate-vibid:24220001034700": 93,
+      "gas:candidate-vibid:2422000974783": 159,
+      "gas:candidate-vibid:2422000976525": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -6955,12 +6955,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 69,
-      "Ильин Виталий Валерьевич": 67,
-      "Исламов Дмитрий Викторович": 1447,
-      "Карпов Владимир Ильич": 121,
-      "Паршуков Максим Викторович": 176,
-      "Рыжак Николай Иванович": 171
+      "gas:candidate-vibid:2422000976498": 69,
+      "gas:candidate-vibid:2422000977747": 67,
+      "gas:candidate-vibid:2422000977059": 1447,
+      "gas:candidate-vibid:24220001034700": 121,
+      "gas:candidate-vibid:2422000974783": 176,
+      "gas:candidate-vibid:2422000976525": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7011,12 +7011,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 89,
-      "Ильин Виталий Валерьевич": 61,
-      "Исламов Дмитрий Викторович": 1340,
-      "Карпов Владимир Ильич": 130,
-      "Паршуков Максим Викторович": 170,
-      "Рыжак Николай Иванович": 95
+      "gas:candidate-vibid:2422000976498": 89,
+      "gas:candidate-vibid:2422000977747": 61,
+      "gas:candidate-vibid:2422000977059": 1340,
+      "gas:candidate-vibid:24220001034700": 130,
+      "gas:candidate-vibid:2422000974783": 170,
+      "gas:candidate-vibid:2422000976525": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7067,12 +7067,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 6,
-      "Исламов Дмитрий Викторович": 2111,
-      "Карпов Владимир Ильич": 23,
-      "Паршуков Максим Викторович": 18,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 6,
+      "gas:candidate-vibid:2422000977059": 2111,
+      "gas:candidate-vibid:24220001034700": 23,
+      "gas:candidate-vibid:2422000974783": 18,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7123,12 +7123,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 67,
-      "Ильин Виталий Валерьевич": 37,
-      "Исламов Дмитрий Викторович": 1380,
-      "Карпов Владимир Ильич": 79,
-      "Паршуков Максим Викторович": 161,
-      "Рыжак Николай Иванович": 70
+      "gas:candidate-vibid:2422000976498": 67,
+      "gas:candidate-vibid:2422000977747": 37,
+      "gas:candidate-vibid:2422000977059": 1380,
+      "gas:candidate-vibid:24220001034700": 79,
+      "gas:candidate-vibid:2422000974783": 161,
+      "gas:candidate-vibid:2422000976525": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7179,12 +7179,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 96,
-      "Ильин Виталий Валерьевич": 43,
-      "Исламов Дмитрий Викторович": 1652,
-      "Карпов Владимир Ильич": 109,
-      "Паршуков Максим Викторович": 158,
-      "Рыжак Николай Иванович": 66
+      "gas:candidate-vibid:2422000976498": 96,
+      "gas:candidate-vibid:2422000977747": 43,
+      "gas:candidate-vibid:2422000977059": 1652,
+      "gas:candidate-vibid:24220001034700": 109,
+      "gas:candidate-vibid:2422000974783": 158,
+      "gas:candidate-vibid:2422000976525": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7235,12 +7235,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 99,
-      "Ильин Виталий Валерьевич": 58,
-      "Исламов Дмитрий Викторович": 1285,
-      "Карпов Владимир Ильич": 100,
-      "Паршуков Максим Викторович": 178,
-      "Рыжак Николай Иванович": 71
+      "gas:candidate-vibid:2422000976498": 99,
+      "gas:candidate-vibid:2422000977747": 58,
+      "gas:candidate-vibid:2422000977059": 1285,
+      "gas:candidate-vibid:24220001034700": 100,
+      "gas:candidate-vibid:2422000974783": 178,
+      "gas:candidate-vibid:2422000976525": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7291,12 +7291,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 91,
-      "Ильин Виталий Валерьевич": 54,
-      "Исламов Дмитрий Викторович": 1474,
-      "Карпов Владимир Ильич": 100,
-      "Паршуков Максим Викторович": 128,
-      "Рыжак Николай Иванович": 59
+      "gas:candidate-vibid:2422000976498": 91,
+      "gas:candidate-vibid:2422000977747": 54,
+      "gas:candidate-vibid:2422000977059": 1474,
+      "gas:candidate-vibid:24220001034700": 100,
+      "gas:candidate-vibid:2422000974783": 128,
+      "gas:candidate-vibid:2422000976525": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7347,12 +7347,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 87,
-      "Ильин Виталий Валерьевич": 51,
-      "Исламов Дмитрий Викторович": 1471,
-      "Карпов Владимир Ильич": 110,
-      "Паршуков Максим Викторович": 179,
-      "Рыжак Николай Иванович": 70
+      "gas:candidate-vibid:2422000976498": 87,
+      "gas:candidate-vibid:2422000977747": 51,
+      "gas:candidate-vibid:2422000977059": 1471,
+      "gas:candidate-vibid:24220001034700": 110,
+      "gas:candidate-vibid:2422000974783": 179,
+      "gas:candidate-vibid:2422000976525": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7403,12 +7403,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 116,
-      "Ильин Виталий Валерьевич": 80,
-      "Исламов Дмитрий Викторович": 1363,
-      "Карпов Владимир Ильич": 134,
-      "Паршуков Максим Викторович": 176,
-      "Рыжак Николай Иванович": 79
+      "gas:candidate-vibid:2422000976498": 116,
+      "gas:candidate-vibid:2422000977747": 80,
+      "gas:candidate-vibid:2422000977059": 1363,
+      "gas:candidate-vibid:24220001034700": 134,
+      "gas:candidate-vibid:2422000974783": 176,
+      "gas:candidate-vibid:2422000976525": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7459,12 +7459,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 67,
-      "Ильин Виталий Валерьевич": 40,
-      "Исламов Дмитрий Викторович": 1083,
-      "Карпов Владимир Ильич": 70,
-      "Паршуков Максим Викторович": 107,
-      "Рыжак Николай Иванович": 33
+      "gas:candidate-vibid:2422000976498": 67,
+      "gas:candidate-vibid:2422000977747": 40,
+      "gas:candidate-vibid:2422000977059": 1083,
+      "gas:candidate-vibid:24220001034700": 70,
+      "gas:candidate-vibid:2422000974783": 107,
+      "gas:candidate-vibid:2422000976525": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909151&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909151&type=464",
@@ -7515,12 +7515,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 57,
-      "Ильин Виталий Валерьевич": 27,
-      "Исламов Дмитрий Викторович": 1427,
-      "Карпов Владимир Ильич": 121,
-      "Паршуков Максим Викторович": 117,
-      "Рыжак Николай Иванович": 33
+      "gas:candidate-vibid:2422000976498": 57,
+      "gas:candidate-vibid:2422000977747": 27,
+      "gas:candidate-vibid:2422000977059": 1427,
+      "gas:candidate-vibid:24220001034700": 121,
+      "gas:candidate-vibid:2422000974783": 117,
+      "gas:candidate-vibid:2422000976525": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7571,12 +7571,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 79,
-      "Ильин Виталий Валерьевич": 48,
-      "Исламов Дмитрий Викторович": 1456,
-      "Карпов Владимир Ильич": 94,
-      "Паршуков Максим Викторович": 122,
-      "Рыжак Николай Иванович": 42
+      "gas:candidate-vibid:2422000976498": 79,
+      "gas:candidate-vibid:2422000977747": 48,
+      "gas:candidate-vibid:2422000977059": 1456,
+      "gas:candidate-vibid:24220001034700": 94,
+      "gas:candidate-vibid:2422000974783": 122,
+      "gas:candidate-vibid:2422000976525": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7627,12 +7627,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 482,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 482,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7683,12 +7683,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 88,
-      "Ильин Виталий Валерьевич": 42,
-      "Исламов Дмитрий Викторович": 2065,
-      "Карпов Владимир Ильич": 78,
-      "Паршуков Максим Викторович": 148,
-      "Рыжак Николай Иванович": 21
+      "gas:candidate-vibid:2422000976498": 88,
+      "gas:candidate-vibid:2422000977747": 42,
+      "gas:candidate-vibid:2422000977059": 2065,
+      "gas:candidate-vibid:24220001034700": 78,
+      "gas:candidate-vibid:2422000974783": 148,
+      "gas:candidate-vibid:2422000976525": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7739,12 +7739,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 82,
-      "Ильин Виталий Валерьевич": 28,
-      "Исламов Дмитрий Викторович": 2062,
-      "Карпов Владимир Ильич": 100,
-      "Паршуков Максим Викторович": 159,
-      "Рыжак Николай Иванович": 45
+      "gas:candidate-vibid:2422000976498": 82,
+      "gas:candidate-vibid:2422000977747": 28,
+      "gas:candidate-vibid:2422000977059": 2062,
+      "gas:candidate-vibid:24220001034700": 100,
+      "gas:candidate-vibid:2422000974783": 159,
+      "gas:candidate-vibid:2422000976525": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7795,12 +7795,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 64,
-      "Ильин Виталий Валерьевич": 37,
-      "Исламов Дмитрий Викторович": 1567,
-      "Карпов Владимир Ильич": 87,
-      "Паршуков Максим Викторович": 100,
-      "Рыжак Николай Иванович": 39
+      "gas:candidate-vibid:2422000976498": 64,
+      "gas:candidate-vibid:2422000977747": 37,
+      "gas:candidate-vibid:2422000977059": 1567,
+      "gas:candidate-vibid:24220001034700": 87,
+      "gas:candidate-vibid:2422000974783": 100,
+      "gas:candidate-vibid:2422000976525": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7851,12 +7851,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 78,
-      "Ильин Виталий Валерьевич": 29,
-      "Исламов Дмитрий Викторович": 1696,
-      "Карпов Владимир Ильич": 97,
-      "Паршуков Максим Викторович": 154,
-      "Рыжак Николай Иванович": 34
+      "gas:candidate-vibid:2422000976498": 78,
+      "gas:candidate-vibid:2422000977747": 29,
+      "gas:candidate-vibid:2422000977059": 1696,
+      "gas:candidate-vibid:24220001034700": 97,
+      "gas:candidate-vibid:2422000974783": 154,
+      "gas:candidate-vibid:2422000976525": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7907,12 +7907,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 101,
-      "Ильин Виталий Валерьевич": 55,
-      "Исламов Дмитрий Викторович": 1980,
-      "Карпов Владимир Ильич": 104,
-      "Паршуков Максим Викторович": 195,
-      "Рыжак Николай Иванович": 46
+      "gas:candidate-vibid:2422000976498": 101,
+      "gas:candidate-vibid:2422000977747": 55,
+      "gas:candidate-vibid:2422000977059": 1980,
+      "gas:candidate-vibid:24220001034700": 104,
+      "gas:candidate-vibid:2422000974783": 195,
+      "gas:candidate-vibid:2422000976525": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -7963,12 +7963,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 36,
-      "Ильин Виталий Валерьевич": 16,
-      "Исламов Дмитрий Викторович": 1162,
-      "Карпов Владимир Ильич": 41,
-      "Паршуков Максим Викторович": 90,
-      "Рыжак Николай Иванович": 19
+      "gas:candidate-vibid:2422000976498": 36,
+      "gas:candidate-vibid:2422000977747": 16,
+      "gas:candidate-vibid:2422000977059": 1162,
+      "gas:candidate-vibid:24220001034700": 41,
+      "gas:candidate-vibid:2422000974783": 90,
+      "gas:candidate-vibid:2422000976525": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8019,12 +8019,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 1220,
-      "Карпов Владимир Ильич": 10,
-      "Паршуков Максим Викторович": 12,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 1220,
+      "gas:candidate-vibid:24220001034700": 10,
+      "gas:candidate-vibid:2422000974783": 12,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8075,12 +8075,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 58,
-      "Ильин Виталий Валерьевич": 48,
-      "Исламов Дмитрий Викторович": 1797,
-      "Карпов Владимир Ильич": 111,
-      "Паршуков Максим Викторович": 141,
-      "Рыжак Николай Иванович": 30
+      "gas:candidate-vibid:2422000976498": 58,
+      "gas:candidate-vibid:2422000977747": 48,
+      "gas:candidate-vibid:2422000977059": 1797,
+      "gas:candidate-vibid:24220001034700": 111,
+      "gas:candidate-vibid:2422000974783": 141,
+      "gas:candidate-vibid:2422000976525": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8131,12 +8131,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 75,
-      "Ильин Виталий Валерьевич": 39,
-      "Исламов Дмитрий Викторович": 1603,
-      "Карпов Владимир Ильич": 66,
-      "Паршуков Максим Викторович": 166,
-      "Рыжак Николай Иванович": 48
+      "gas:candidate-vibid:2422000976498": 75,
+      "gas:candidate-vibid:2422000977747": 39,
+      "gas:candidate-vibid:2422000977059": 1603,
+      "gas:candidate-vibid:24220001034700": 66,
+      "gas:candidate-vibid:2422000974783": 166,
+      "gas:candidate-vibid:2422000976525": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8187,12 +8187,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 54,
-      "Ильин Виталий Валерьевич": 32,
-      "Исламов Дмитрий Викторович": 2015,
-      "Карпов Владимир Ильич": 87,
-      "Паршуков Максим Викторович": 175,
-      "Рыжак Николай Иванович": 34
+      "gas:candidate-vibid:2422000976498": 54,
+      "gas:candidate-vibid:2422000977747": 32,
+      "gas:candidate-vibid:2422000977059": 2015,
+      "gas:candidate-vibid:24220001034700": 87,
+      "gas:candidate-vibid:2422000974783": 175,
+      "gas:candidate-vibid:2422000976525": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8243,12 +8243,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 651,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 3,
-      "Рыжак Николай Иванович": 3
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 651,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 3,
+      "gas:candidate-vibid:2422000976525": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8299,12 +8299,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 66,
-      "Ильин Виталий Валерьевич": 33,
-      "Исламов Дмитрий Викторович": 923,
-      "Карпов Владимир Ильич": 66,
-      "Паршуков Максим Викторович": 82,
-      "Рыжак Николай Иванович": 23
+      "gas:candidate-vibid:2422000976498": 66,
+      "gas:candidate-vibid:2422000977747": 33,
+      "gas:candidate-vibid:2422000977059": 923,
+      "gas:candidate-vibid:24220001034700": 66,
+      "gas:candidate-vibid:2422000974783": 82,
+      "gas:candidate-vibid:2422000976525": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8355,12 +8355,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 85,
-      "Ильин Виталий Валерьевич": 50,
-      "Исламов Дмитрий Викторович": 1850,
-      "Карпов Владимир Ильич": 132,
-      "Паршуков Максим Викторович": 204,
-      "Рыжак Николай Иванович": 56
+      "gas:candidate-vibid:2422000976498": 85,
+      "gas:candidate-vibid:2422000977747": 50,
+      "gas:candidate-vibid:2422000977059": 1850,
+      "gas:candidate-vibid:24220001034700": 132,
+      "gas:candidate-vibid:2422000974783": 204,
+      "gas:candidate-vibid:2422000976525": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8411,12 +8411,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 95,
-      "Ильин Виталий Валерьевич": 42,
-      "Исламов Дмитрий Викторович": 1622,
-      "Карпов Владимир Ильич": 112,
-      "Паршуков Максим Викторович": 153,
-      "Рыжак Николай Иванович": 33
+      "gas:candidate-vibid:2422000976498": 95,
+      "gas:candidate-vibid:2422000977747": 42,
+      "gas:candidate-vibid:2422000977059": 1622,
+      "gas:candidate-vibid:24220001034700": 112,
+      "gas:candidate-vibid:2422000974783": 153,
+      "gas:candidate-vibid:2422000976525": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8467,12 +8467,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 86,
-      "Ильин Виталий Валерьевич": 58,
-      "Исламов Дмитрий Викторович": 1183,
-      "Карпов Владимир Ильич": 116,
-      "Паршуков Максим Викторович": 142,
-      "Рыжак Николай Иванович": 34
+      "gas:candidate-vibid:2422000976498": 86,
+      "gas:candidate-vibid:2422000977747": 58,
+      "gas:candidate-vibid:2422000977059": 1183,
+      "gas:candidate-vibid:24220001034700": 116,
+      "gas:candidate-vibid:2422000974783": 142,
+      "gas:candidate-vibid:2422000976525": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8523,12 +8523,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 52,
-      "Ильин Виталий Валерьевич": 26,
-      "Исламов Дмитрий Викторович": 1207,
-      "Карпов Владимир Ильич": 48,
-      "Паршуков Максим Викторович": 98,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 52,
+      "gas:candidate-vibid:2422000977747": 26,
+      "gas:candidate-vibid:2422000977059": 1207,
+      "gas:candidate-vibid:24220001034700": 48,
+      "gas:candidate-vibid:2422000974783": 98,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8579,12 +8579,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 61,
-      "Ильин Виталий Валерьевич": 36,
-      "Исламов Дмитрий Викторович": 1135,
-      "Карпов Владимир Ильич": 129,
-      "Паршуков Максим Викторович": 121,
-      "Рыжак Николай Иванович": 28
+      "gas:candidate-vibid:2422000976498": 61,
+      "gas:candidate-vibid:2422000977747": 36,
+      "gas:candidate-vibid:2422000977059": 1135,
+      "gas:candidate-vibid:24220001034700": 129,
+      "gas:candidate-vibid:2422000974783": 121,
+      "gas:candidate-vibid:2422000976525": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8635,12 +8635,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 1356,
-      "Карпов Владимир Ильич": 12,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 1356,
+      "gas:candidate-vibid:24220001034700": 12,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8691,12 +8691,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 52,
-      "Ильин Виталий Валерьевич": 31,
-      "Исламов Дмитрий Викторович": 1145,
-      "Карпов Владимир Ильич": 55,
-      "Паршуков Максим Викторович": 89,
-      "Рыжак Николай Иванович": 9
+      "gas:candidate-vibid:2422000976498": 52,
+      "gas:candidate-vibid:2422000977747": 31,
+      "gas:candidate-vibid:2422000977059": 1145,
+      "gas:candidate-vibid:24220001034700": 55,
+      "gas:candidate-vibid:2422000974783": 89,
+      "gas:candidate-vibid:2422000976525": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8747,12 +8747,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 480,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 12,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 480,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 12,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8803,12 +8803,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 55,
-      "Ильин Виталий Валерьевич": 36,
-      "Исламов Дмитрий Викторович": 1665,
-      "Карпов Владимир Ильич": 101,
-      "Паршуков Максим Викторович": 160,
-      "Рыжак Николай Иванович": 29
+      "gas:candidate-vibid:2422000976498": 55,
+      "gas:candidate-vibid:2422000977747": 36,
+      "gas:candidate-vibid:2422000977059": 1665,
+      "gas:candidate-vibid:24220001034700": 101,
+      "gas:candidate-vibid:2422000974783": 160,
+      "gas:candidate-vibid:2422000976525": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8859,12 +8859,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 1131,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 1131,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8915,12 +8915,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 701,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 701,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -8971,12 +8971,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 475,
-      "Карпов Владимир Ильич": 2,
-      "Паршуков Максим Викторович": 1,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 475,
+      "gas:candidate-vibid:24220001034700": 2,
+      "gas:candidate-vibid:2422000974783": 1,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9027,12 +9027,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 89,
-      "Ильин Виталий Валерьевич": 73,
-      "Исламов Дмитрий Викторович": 1304,
-      "Карпов Владимир Ильич": 87,
-      "Паршуков Максим Викторович": 220,
-      "Рыжак Николай Иванович": 45
+      "gas:candidate-vibid:2422000976498": 89,
+      "gas:candidate-vibid:2422000977747": 73,
+      "gas:candidate-vibid:2422000977059": 1304,
+      "gas:candidate-vibid:24220001034700": 87,
+      "gas:candidate-vibid:2422000974783": 220,
+      "gas:candidate-vibid:2422000976525": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9083,12 +9083,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 933,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 4,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 933,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 4,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9139,12 +9139,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 873,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 873,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9195,12 +9195,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 36,
-      "Ильин Виталий Валерьевич": 21,
-      "Исламов Дмитрий Викторович": 1040,
-      "Карпов Владимир Ильич": 50,
-      "Паршуков Максим Викторович": 133,
-      "Рыжак Николай Иванович": 22
+      "gas:candidate-vibid:2422000976498": 36,
+      "gas:candidate-vibid:2422000977747": 21,
+      "gas:candidate-vibid:2422000977059": 1040,
+      "gas:candidate-vibid:24220001034700": 50,
+      "gas:candidate-vibid:2422000974783": 133,
+      "gas:candidate-vibid:2422000976525": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9251,12 +9251,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 58,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 58,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9307,12 +9307,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 100,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 100,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9363,12 +9363,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 43,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 43,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9419,12 +9419,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 113,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 0,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 113,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 0,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909152&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909152&type=464",
@@ -9475,12 +9475,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 13,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 449,
-      "Карпов Владимир Ильич": 31,
-      "Паршуков Максим Викторович": 28,
-      "Рыжак Николай Иванович": 13
+      "gas:candidate-vibid:2422000976498": 13,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 449,
+      "gas:candidate-vibid:24220001034700": 31,
+      "gas:candidate-vibid:2422000974783": 28,
+      "gas:candidate-vibid:2422000976525": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9531,12 +9531,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 182,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 5,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 182,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 5,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9587,12 +9587,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 5,
-      "Исламов Дмитрий Викторович": 474,
-      "Карпов Владимир Ильич": 33,
-      "Паршуков Максим Викторович": 31,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 5,
+      "gas:candidate-vibid:2422000977059": 474,
+      "gas:candidate-vibid:24220001034700": 33,
+      "gas:candidate-vibid:2422000974783": 31,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9643,12 +9643,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 10,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 24,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 11,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 10,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 24,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 11,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9699,12 +9699,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 252,
-      "Карпов Владимир Ильич": 13,
-      "Паршуков Максим Викторович": 10,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 252,
+      "gas:candidate-vibid:24220001034700": 13,
+      "gas:candidate-vibid:2422000974783": 10,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9755,12 +9755,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 12,
-      "Исламов Дмитрий Викторович": 243,
-      "Карпов Владимир Ильич": 22,
-      "Паршуков Максим Викторович": 74,
-      "Рыжак Николай Иванович": 10
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 12,
+      "gas:candidate-vibid:2422000977059": 243,
+      "gas:candidate-vibid:24220001034700": 22,
+      "gas:candidate-vibid:2422000974783": 74,
+      "gas:candidate-vibid:2422000976525": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9811,12 +9811,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 17,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 240,
-      "Карпов Владимир Ильич": 14,
-      "Паршуков Максим Викторович": 34,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 17,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 240,
+      "gas:candidate-vibid:24220001034700": 14,
+      "gas:candidate-vibid:2422000974783": 34,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9867,12 +9867,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 1,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 308,
-      "Карпов Владимир Ильич": 16,
-      "Паршуков Максим Викторович": 37,
-      "Рыжак Николай Иванович": 12
+      "gas:candidate-vibid:2422000976498": 1,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 308,
+      "gas:candidate-vibid:24220001034700": 16,
+      "gas:candidate-vibid:2422000974783": 37,
+      "gas:candidate-vibid:2422000976525": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9923,12 +9923,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 390,
-      "Карпов Владимир Ильич": 45,
-      "Паршуков Максим Викторович": 28,
-      "Рыжак Николай Иванович": 18
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 390,
+      "gas:candidate-vibid:24220001034700": 45,
+      "gas:candidate-vibid:2422000974783": 28,
+      "gas:candidate-vibid:2422000976525": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -9979,12 +9979,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 189,
-      "Карпов Владимир Ильич": 38,
-      "Паршуков Максим Викторович": 38,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 189,
+      "gas:candidate-vibid:24220001034700": 38,
+      "gas:candidate-vibid:2422000974783": 38,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10035,12 +10035,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 9,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 489,
-      "Карпов Владимир Ильич": 5,
-      "Паршуков Максим Викторович": 3,
-      "Рыжак Николай Иванович": 6
+      "gas:candidate-vibid:2422000976498": 9,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 489,
+      "gas:candidate-vibid:24220001034700": 5,
+      "gas:candidate-vibid:2422000974783": 3,
+      "gas:candidate-vibid:2422000976525": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10091,12 +10091,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 9,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 318,
-      "Карпов Владимир Ильич": 1,
-      "Паршуков Максим Викторович": 9,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 9,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 318,
+      "gas:candidate-vibid:24220001034700": 1,
+      "gas:candidate-vibid:2422000974783": 9,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10147,12 +10147,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 442,
-      "Карпов Владимир Ильич": 24,
-      "Паршуков Максим Викторович": 41,
-      "Рыжак Николай Иванович": 16
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 442,
+      "gas:candidate-vibid:24220001034700": 24,
+      "gas:candidate-vibid:2422000974783": 41,
+      "gas:candidate-vibid:2422000976525": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10203,12 +10203,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 53,
-      "Ильин Виталий Валерьевич": 55,
-      "Исламов Дмитрий Викторович": 294,
-      "Карпов Владимир Ильич": 30,
-      "Паршуков Максим Викторович": 50,
-      "Рыжак Николай Иванович": 56
+      "gas:candidate-vibid:2422000976498": 53,
+      "gas:candidate-vibid:2422000977747": 55,
+      "gas:candidate-vibid:2422000977059": 294,
+      "gas:candidate-vibid:24220001034700": 30,
+      "gas:candidate-vibid:2422000974783": 50,
+      "gas:candidate-vibid:2422000976525": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10259,12 +10259,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 58,
-      "Ильин Виталий Валерьевич": 24,
-      "Исламов Дмитрий Викторович": 282,
-      "Карпов Владимир Ильич": 19,
-      "Паршуков Максим Викторович": 70,
-      "Рыжак Николай Иванович": 10
+      "gas:candidate-vibid:2422000976498": 58,
+      "gas:candidate-vibid:2422000977747": 24,
+      "gas:candidate-vibid:2422000977059": 282,
+      "gas:candidate-vibid:24220001034700": 19,
+      "gas:candidate-vibid:2422000974783": 70,
+      "gas:candidate-vibid:2422000976525": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10315,12 +10315,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 55,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 144,
-      "Карпов Владимир Ильич": 21,
-      "Паршуков Максим Викторович": 50,
-      "Рыжак Николай Иванович": 9
+      "gas:candidate-vibid:2422000976498": 55,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 144,
+      "gas:candidate-vibid:24220001034700": 21,
+      "gas:candidate-vibid:2422000974783": 50,
+      "gas:candidate-vibid:2422000976525": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10371,12 +10371,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 19,
-      "Ильин Виталий Валерьевич": 5,
-      "Исламов Дмитрий Викторович": 312,
-      "Карпов Владимир Ильич": 8,
-      "Паршуков Максим Викторович": 1,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 19,
+      "gas:candidate-vibid:2422000977747": 5,
+      "gas:candidate-vibid:2422000977059": 312,
+      "gas:candidate-vibid:24220001034700": 8,
+      "gas:candidate-vibid:2422000974783": 1,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10427,12 +10427,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 12,
-      "Ильин Виталий Валерьевич": 6,
-      "Исламов Дмитрий Викторович": 82,
-      "Карпов Владимир Ильич": 8,
-      "Паршуков Максим Викторович": 29,
-      "Рыжак Николай Иванович": 3
+      "gas:candidate-vibid:2422000976498": 12,
+      "gas:candidate-vibid:2422000977747": 6,
+      "gas:candidate-vibid:2422000977059": 82,
+      "gas:candidate-vibid:24220001034700": 8,
+      "gas:candidate-vibid:2422000974783": 29,
+      "gas:candidate-vibid:2422000976525": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10483,12 +10483,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 26,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 215,
-      "Карпов Владимир Ильич": 16,
-      "Паршуков Максим Викторович": 41,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 26,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 215,
+      "gas:candidate-vibid:24220001034700": 16,
+      "gas:candidate-vibid:2422000974783": 41,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10539,12 +10539,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 17,
-      "Ильин Виталий Валерьевич": 6,
-      "Исламов Дмитрий Викторович": 252,
-      "Карпов Владимир Ильич": 10,
-      "Паршуков Максим Викторович": 22,
-      "Рыжак Николай Иванович": 4
+      "gas:candidate-vibid:2422000976498": 17,
+      "gas:candidate-vibid:2422000977747": 6,
+      "gas:candidate-vibid:2422000977059": 252,
+      "gas:candidate-vibid:24220001034700": 10,
+      "gas:candidate-vibid:2422000974783": 22,
+      "gas:candidate-vibid:2422000976525": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10595,12 +10595,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 21,
-      "Ильин Виталий Валерьевич": 11,
-      "Исламов Дмитрий Викторович": 295,
-      "Карпов Владимир Ильич": 0,
-      "Паршуков Максим Викторович": 35,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 21,
+      "gas:candidate-vibid:2422000977747": 11,
+      "gas:candidate-vibid:2422000977059": 295,
+      "gas:candidate-vibid:24220001034700": 0,
+      "gas:candidate-vibid:2422000974783": 35,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10651,12 +10651,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 16,
-      "Ильин Виталий Валерьевич": 6,
-      "Исламов Дмитрий Викторович": 143,
-      "Карпов Владимир Ильич": 8,
-      "Паршуков Максим Викторович": 11,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 16,
+      "gas:candidate-vibid:2422000977747": 6,
+      "gas:candidate-vibid:2422000977059": 143,
+      "gas:candidate-vibid:24220001034700": 8,
+      "gas:candidate-vibid:2422000974783": 11,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10707,12 +10707,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 39,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 175,
-      "Карпов Владимир Ильич": 14,
-      "Паршуков Максим Викторович": 40,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 39,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 175,
+      "gas:candidate-vibid:24220001034700": 14,
+      "gas:candidate-vibid:2422000974783": 40,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10763,12 +10763,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 1378,
-      "Карпов Владимир Ильич": 23,
-      "Паршуков Максим Викторович": 29,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 1378,
+      "gas:candidate-vibid:24220001034700": 23,
+      "gas:candidate-vibid:2422000974783": 29,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10819,12 +10819,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 8,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 1613,
-      "Карпов Владимир Ильич": 7,
-      "Паршуков Максим Викторович": 58,
-      "Рыжак Николай Иванович": 10
+      "gas:candidate-vibid:2422000976498": 8,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 1613,
+      "gas:candidate-vibid:24220001034700": 7,
+      "gas:candidate-vibid:2422000974783": 58,
+      "gas:candidate-vibid:2422000976525": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10875,12 +10875,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 92,
-      "Ильин Виталий Валерьевич": 29,
-      "Исламов Дмитрий Викторович": 439,
-      "Карпов Владимир Ильич": 37,
-      "Паршуков Максим Викторович": 176,
-      "Рыжак Николай Иванович": 34
+      "gas:candidate-vibid:2422000976498": 92,
+      "gas:candidate-vibid:2422000977747": 29,
+      "gas:candidate-vibid:2422000977059": 439,
+      "gas:candidate-vibid:24220001034700": 37,
+      "gas:candidate-vibid:2422000974783": 176,
+      "gas:candidate-vibid:2422000976525": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10931,12 +10931,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 17,
-      "Ильин Виталий Валерьевич": 17,
-      "Исламов Дмитрий Викторович": 183,
-      "Карпов Владимир Ильич": 32,
-      "Паршуков Максим Викторович": 22,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 17,
+      "gas:candidate-vibid:2422000977747": 17,
+      "gas:candidate-vibid:2422000977059": 183,
+      "gas:candidate-vibid:24220001034700": 32,
+      "gas:candidate-vibid:2422000974783": 22,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -10987,12 +10987,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 83,
-      "Карпов Владимир Ильич": 7,
-      "Паршуков Максим Викторович": 17,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 83,
+      "gas:candidate-vibid:24220001034700": 7,
+      "gas:candidate-vibid:2422000974783": 17,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11043,12 +11043,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 13,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 129,
-      "Карпов Владимир Ильич": 22,
-      "Паршуков Максим Викторович": 14,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 13,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 129,
+      "gas:candidate-vibid:24220001034700": 22,
+      "gas:candidate-vibid:2422000974783": 14,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11099,12 +11099,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 9,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 71,
-      "Карпов Владимир Ильич": 2,
-      "Паршуков Максим Викторович": 6,
-      "Рыжак Николай Иванович": 3
+      "gas:candidate-vibid:2422000976498": 9,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 71,
+      "gas:candidate-vibid:24220001034700": 2,
+      "gas:candidate-vibid:2422000974783": 6,
+      "gas:candidate-vibid:2422000976525": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11155,12 +11155,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 7,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 443,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 16,
-      "Рыжак Николай Иванович": 3
+      "gas:candidate-vibid:2422000976498": 7,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 443,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 16,
+      "gas:candidate-vibid:2422000976525": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11211,12 +11211,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 1,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 72,
-      "Карпов Владимир Ильич": 3,
-      "Паршуков Максим Викторович": 2,
-      "Рыжак Николай Иванович": 1
+      "gas:candidate-vibid:2422000976498": 1,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 72,
+      "gas:candidate-vibid:24220001034700": 3,
+      "gas:candidate-vibid:2422000974783": 2,
+      "gas:candidate-vibid:2422000976525": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11267,12 +11267,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 57,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 8,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 57,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 8,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11323,12 +11323,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 196,
-      "Карпов Владимир Ильич": 5,
-      "Паршуков Максим Викторович": 10,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 196,
+      "gas:candidate-vibid:24220001034700": 5,
+      "gas:candidate-vibid:2422000974783": 10,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11379,12 +11379,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 82,
-      "Карпов Владимир Ильич": 7,
-      "Паршуков Максим Викторович": 8,
-      "Рыжак Николай Иванович": 0
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 82,
+      "gas:candidate-vibid:24220001034700": 7,
+      "gas:candidate-vibid:2422000974783": 8,
+      "gas:candidate-vibid:2422000976525": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11435,12 +11435,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 31,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 3,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 31,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 3,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11491,12 +11491,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 19,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 90,
-      "Карпов Владимир Ильич": 5,
-      "Паршуков Максим Викторович": 17,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 19,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 90,
+      "gas:candidate-vibid:24220001034700": 5,
+      "gas:candidate-vibid:2422000974783": 17,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11547,12 +11547,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 242,
-      "Карпов Владимир Ильич": 4,
-      "Паршуков Максим Викторович": 10,
-      "Рыжак Николай Иванович": 4
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 242,
+      "gas:candidate-vibid:24220001034700": 4,
+      "gas:candidate-vibid:2422000974783": 10,
+      "gas:candidate-vibid:2422000976525": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11603,12 +11603,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 11,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 345,
-      "Карпов Владимир Ильич": 67,
-      "Паршуков Максим Викторович": 51,
-      "Рыжак Николай Иванович": 17
+      "gas:candidate-vibid:2422000976498": 11,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 345,
+      "gas:candidate-vibid:24220001034700": 67,
+      "gas:candidate-vibid:2422000974783": 51,
+      "gas:candidate-vibid:2422000976525": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11659,12 +11659,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 231,
-      "Карпов Владимир Ильич": 16,
-      "Паршуков Максим Викторович": 24,
-      "Рыжак Николай Иванович": 2
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 231,
+      "gas:candidate-vibid:24220001034700": 16,
+      "gas:candidate-vibid:2422000974783": 24,
+      "gas:candidate-vibid:2422000976525": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11715,12 +11715,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 7,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 492,
-      "Карпов Владимир Ильич": 12,
-      "Паршуков Максим Викторович": 38,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 7,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 492,
+      "gas:candidate-vibid:24220001034700": 12,
+      "gas:candidate-vibid:2422000974783": 38,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11771,12 +11771,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 24,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 458,
-      "Карпов Владимир Ильич": 8,
-      "Паршуков Максим Викторович": 41,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 24,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 458,
+      "gas:candidate-vibid:24220001034700": 8,
+      "gas:candidate-vibid:2422000974783": 41,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11827,12 +11827,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 11,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 257,
-      "Карпов Владимир Ильич": 53,
-      "Паршуков Максим Викторович": 34,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 11,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 257,
+      "gas:candidate-vibid:24220001034700": 53,
+      "gas:candidate-vibid:2422000974783": 34,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11883,12 +11883,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 8,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 85,
-      "Карпов Владимир Ильич": 15,
-      "Паршуков Максим Викторович": 8,
-      "Рыжак Николай Иванович": 5
+      "gas:candidate-vibid:2422000976498": 8,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 85,
+      "gas:candidate-vibid:24220001034700": 15,
+      "gas:candidate-vibid:2422000974783": 8,
+      "gas:candidate-vibid:2422000976525": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11939,12 +11939,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 11,
-      "Ильин Виталий Валерьевич": 8,
-      "Исламов Дмитрий Викторович": 401,
-      "Карпов Владимир Ильич": 54,
-      "Паршуков Максим Викторович": 33,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 11,
+      "gas:candidate-vibid:2422000977747": 8,
+      "gas:candidate-vibid:2422000977059": 401,
+      "gas:candidate-vibid:24220001034700": 54,
+      "gas:candidate-vibid:2422000974783": 33,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -11995,12 +11995,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 14,
-      "Ильин Виталий Валерьевич": 5,
-      "Исламов Дмитрий Викторович": 203,
-      "Карпов Владимир Ильич": 9,
-      "Паршуков Максим Викторович": 4,
-      "Рыжак Николай Иванович": 8
+      "gas:candidate-vibid:2422000976498": 14,
+      "gas:candidate-vibid:2422000977747": 5,
+      "gas:candidate-vibid:2422000977059": 203,
+      "gas:candidate-vibid:24220001034700": 9,
+      "gas:candidate-vibid:2422000974783": 4,
+      "gas:candidate-vibid:2422000976525": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12051,12 +12051,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 29,
-      "Ильин Виталий Валерьевич": 16,
-      "Исламов Дмитрий Викторович": 257,
-      "Карпов Владимир Ильич": 46,
-      "Паршуков Максим Викторович": 135,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 29,
+      "gas:candidate-vibid:2422000977747": 16,
+      "gas:candidate-vibid:2422000977059": 257,
+      "gas:candidate-vibid:24220001034700": 46,
+      "gas:candidate-vibid:2422000974783": 135,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12107,12 +12107,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 29,
-      "Ильин Виталий Валерьевич": 14,
-      "Исламов Дмитрий Викторович": 202,
-      "Карпов Владимир Ильич": 17,
-      "Паршуков Максим Викторович": 21,
-      "Рыжак Николай Иванович": 10
+      "gas:candidate-vibid:2422000976498": 29,
+      "gas:candidate-vibid:2422000977747": 14,
+      "gas:candidate-vibid:2422000977059": 202,
+      "gas:candidate-vibid:24220001034700": 17,
+      "gas:candidate-vibid:2422000974783": 21,
+      "gas:candidate-vibid:2422000976525": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12163,12 +12163,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 494,
-      "Карпов Владимир Ильич": 13,
-      "Паршуков Максим Викторович": 6,
-      "Рыжак Николай Иванович": 11
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 494,
+      "gas:candidate-vibid:24220001034700": 13,
+      "gas:candidate-vibid:2422000974783": 6,
+      "gas:candidate-vibid:2422000976525": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12219,12 +12219,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 465,
-      "Карпов Владимир Ильич": 80,
-      "Паршуков Максим Викторович": 45,
-      "Рыжак Николай Иванович": 20
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 465,
+      "gas:candidate-vibid:24220001034700": 80,
+      "gas:candidate-vibid:2422000974783": 45,
+      "gas:candidate-vibid:2422000976525": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12275,12 +12275,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 63,
-      "Ильин Виталий Валерьевич": 21,
-      "Исламов Дмитрий Викторович": 336,
-      "Карпов Владимир Ильич": 25,
-      "Паршуков Максим Викторович": 138,
-      "Рыжак Николай Иванович": 23
+      "gas:candidate-vibid:2422000976498": 63,
+      "gas:candidate-vibid:2422000977747": 21,
+      "gas:candidate-vibid:2422000977059": 336,
+      "gas:candidate-vibid:24220001034700": 25,
+      "gas:candidate-vibid:2422000974783": 138,
+      "gas:candidate-vibid:2422000976525": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12331,12 +12331,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 67,
-      "Карпов Владимир Ильич": 13,
-      "Паршуков Максим Викторович": 17,
-      "Рыжак Николай Иванович": 4
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 67,
+      "gas:candidate-vibid:24220001034700": 13,
+      "gas:candidate-vibid:2422000974783": 17,
+      "gas:candidate-vibid:2422000976525": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12387,12 +12387,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 12,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 52,
-      "Карпов Владимир Ильич": 6,
-      "Паршуков Максим Викторович": 25,
-      "Рыжак Николай Иванович": 7
+      "gas:candidate-vibid:2422000976498": 12,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 52,
+      "gas:candidate-vibid:24220001034700": 6,
+      "gas:candidate-vibid:2422000974783": 25,
+      "gas:candidate-vibid:2422000976525": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12443,12 +12443,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 4,
-      "Исламов Дмитрий Викторович": 168,
-      "Карпов Владимир Ильич": 36,
-      "Паршуков Максим Викторович": 30,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 4,
+      "gas:candidate-vibid:2422000977059": 168,
+      "gas:candidate-vibid:24220001034700": 36,
+      "gas:candidate-vibid:2422000974783": 30,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12499,12 +12499,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 0,
-      "Ильин Виталий Валерьевич": 0,
-      "Исламов Дмитрий Викторович": 164,
-      "Карпов Владимир Ильич": 27,
-      "Паршуков Максим Викторович": 26,
-      "Рыжак Николай Иванович": 15
+      "gas:candidate-vibid:2422000976498": 0,
+      "gas:candidate-vibid:2422000977747": 0,
+      "gas:candidate-vibid:2422000977059": 164,
+      "gas:candidate-vibid:24220001034700": 27,
+      "gas:candidate-vibid:2422000974783": 26,
+      "gas:candidate-vibid:2422000976525": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909153&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909153&type=464",
@@ -12555,12 +12555,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 2,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 82,
-      "Карпов Владимир Ильич": 13,
-      "Паршуков Максим Викторович": 12,
-      "Рыжак Николай Иванович": 6
+      "gas:candidate-vibid:2422000976498": 2,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 82,
+      "gas:candidate-vibid:24220001034700": 13,
+      "gas:candidate-vibid:2422000974783": 12,
+      "gas:candidate-vibid:2422000976525": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12611,12 +12611,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 6,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 159,
-      "Карпов Владимир Ильич": 33,
-      "Паршуков Максим Викторович": 24,
-      "Рыжак Николай Иванович": 13
+      "gas:candidate-vibid:2422000976498": 6,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 159,
+      "gas:candidate-vibid:24220001034700": 33,
+      "gas:candidate-vibid:2422000974783": 24,
+      "gas:candidate-vibid:2422000976525": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12667,12 +12667,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 13,
-      "Исламов Дмитрий Викторович": 977,
-      "Карпов Владимир Ильич": 126,
-      "Паршуков Максим Викторович": 125,
-      "Рыжак Николай Иванович": 59
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 13,
+      "gas:candidate-vibid:2422000977059": 977,
+      "gas:candidate-vibid:24220001034700": 126,
+      "gas:candidate-vibid:2422000974783": 125,
+      "gas:candidate-vibid:2422000976525": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12723,12 +12723,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 19,
-      "Ильин Виталий Валерьевич": 15,
-      "Исламов Дмитрий Викторович": 1121,
-      "Карпов Владимир Ильич": 162,
-      "Паршуков Максим Викторович": 151,
-      "Рыжак Николай Иванович": 71
+      "gas:candidate-vibid:2422000976498": 19,
+      "gas:candidate-vibid:2422000977747": 15,
+      "gas:candidate-vibid:2422000977059": 1121,
+      "gas:candidate-vibid:24220001034700": 162,
+      "gas:candidate-vibid:2422000974783": 151,
+      "gas:candidate-vibid:2422000976525": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12779,12 +12779,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 10,
-      "Ильин Виталий Валерьевич": 16,
-      "Исламов Дмитрий Викторович": 1197,
-      "Карпов Владимир Ильич": 184,
-      "Паршуков Максим Викторович": 160,
-      "Рыжак Николай Иванович": 75
+      "gas:candidate-vibid:2422000976498": 10,
+      "gas:candidate-vibid:2422000977747": 16,
+      "gas:candidate-vibid:2422000977059": 1197,
+      "gas:candidate-vibid:24220001034700": 184,
+      "gas:candidate-vibid:2422000974783": 160,
+      "gas:candidate-vibid:2422000976525": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12835,12 +12835,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 15,
-      "Ильин Виталий Валерьевич": 17,
-      "Исламов Дмитрий Викторович": 1288,
-      "Карпов Владимир Ильич": 194,
-      "Паршуков Максим Викторович": 170,
-      "Рыжак Николай Иванович": 56
+      "gas:candidate-vibid:2422000976498": 15,
+      "gas:candidate-vibid:2422000977747": 17,
+      "gas:candidate-vibid:2422000977059": 1288,
+      "gas:candidate-vibid:24220001034700": 194,
+      "gas:candidate-vibid:2422000974783": 170,
+      "gas:candidate-vibid:2422000976525": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12891,12 +12891,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 17,
-      "Исламов Дмитрий Викторович": 1281,
-      "Карпов Владимир Ильич": 192,
-      "Паршуков Максим Викторович": 145,
-      "Рыжак Николай Иванович": 78
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 17,
+      "gas:candidate-vibid:2422000977059": 1281,
+      "gas:candidate-vibid:24220001034700": 192,
+      "gas:candidate-vibid:2422000974783": 145,
+      "gas:candidate-vibid:2422000976525": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -12947,12 +12947,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 17,
-      "Ильин Виталий Валерьевич": 13,
-      "Исламов Дмитрий Викторович": 1050,
-      "Карпов Владимир Ильич": 162,
-      "Паршуков Максим Викторович": 142,
-      "Рыжак Николай Иванович": 66
+      "gas:candidate-vibid:2422000976498": 17,
+      "gas:candidate-vibid:2422000977747": 13,
+      "gas:candidate-vibid:2422000977059": 1050,
+      "gas:candidate-vibid:24220001034700": 162,
+      "gas:candidate-vibid:2422000974783": 142,
+      "gas:candidate-vibid:2422000976525": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13003,12 +13003,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 21,
-      "Ильин Виталий Валерьевич": 16,
-      "Исламов Дмитрий Викторович": 1154,
-      "Карпов Владимир Ильич": 177,
-      "Паршуков Максим Викторович": 157,
-      "Рыжак Николай Иванович": 74
+      "gas:candidate-vibid:2422000976498": 21,
+      "gas:candidate-vibid:2422000977747": 16,
+      "gas:candidate-vibid:2422000977059": 1154,
+      "gas:candidate-vibid:24220001034700": 177,
+      "gas:candidate-vibid:2422000974783": 157,
+      "gas:candidate-vibid:2422000976525": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13059,12 +13059,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 11,
-      "Ильин Виталий Валерьевич": 15,
-      "Исламов Дмитрий Викторович": 1135,
-      "Карпов Владимир Ильич": 171,
-      "Паршуков Максим Викторович": 130,
-      "Рыжак Николай Иванович": 70
+      "gas:candidate-vibid:2422000976498": 11,
+      "gas:candidate-vibid:2422000977747": 15,
+      "gas:candidate-vibid:2422000977059": 1135,
+      "gas:candidate-vibid:24220001034700": 171,
+      "gas:candidate-vibid:2422000974783": 130,
+      "gas:candidate-vibid:2422000976525": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13115,12 +13115,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 11,
-      "Ильин Виталий Валерьевич": 17,
-      "Исламов Дмитрий Викторович": 1278,
-      "Карпов Владимир Ильич": 164,
-      "Паршуков Максим Викторович": 159,
-      "Рыжак Николай Иванович": 79
+      "gas:candidate-vibid:2422000976498": 11,
+      "gas:candidate-vibid:2422000977747": 17,
+      "gas:candidate-vibid:2422000977059": 1278,
+      "gas:candidate-vibid:24220001034700": 164,
+      "gas:candidate-vibid:2422000974783": 159,
+      "gas:candidate-vibid:2422000976525": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13171,12 +13171,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 7,
-      "Ильин Виталий Валерьевич": 3,
-      "Исламов Дмитрий Викторович": 253,
-      "Карпов Владимир Ильич": 40,
-      "Паршуков Максим Викторович": 35,
-      "Рыжак Николай Иванович": 16
+      "gas:candidate-vibid:2422000976498": 7,
+      "gas:candidate-vibid:2422000977747": 3,
+      "gas:candidate-vibid:2422000977059": 253,
+      "gas:candidate-vibid:24220001034700": 40,
+      "gas:candidate-vibid:2422000974783": 35,
+      "gas:candidate-vibid:2422000976525": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13227,12 +13227,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 16,
-      "Ильин Виталий Валерьевич": 9,
-      "Исламов Дмитрий Викторович": 682,
-      "Карпов Владимир Ильич": 106,
-      "Паршуков Максим Викторович": 92,
-      "Рыжак Николай Иванович": 43
+      "gas:candidate-vibid:2422000976498": 16,
+      "gas:candidate-vibid:2422000977747": 9,
+      "gas:candidate-vibid:2422000977059": 682,
+      "gas:candidate-vibid:24220001034700": 106,
+      "gas:candidate-vibid:2422000974783": 92,
+      "gas:candidate-vibid:2422000976525": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13283,12 +13283,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 14,
-      "Ильин Виталий Валерьевич": 15,
-      "Исламов Дмитрий Викторович": 1108,
-      "Карпов Владимир Ильич": 170,
-      "Паршуков Максим Викторович": 149,
-      "Рыжак Николай Иванович": 65
+      "gas:candidate-vibid:2422000976498": 14,
+      "gas:candidate-vibid:2422000977747": 15,
+      "gas:candidate-vibid:2422000977059": 1108,
+      "gas:candidate-vibid:24220001034700": 170,
+      "gas:candidate-vibid:2422000974783": 149,
+      "gas:candidate-vibid:2422000976525": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13339,12 +13339,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 13,
-      "Ильин Виталий Валерьевич": 14,
-      "Исламов Дмитрий Викторович": 1103,
-      "Карпов Владимир Ильич": 161,
-      "Паршуков Максим Викторович": 142,
-      "Рыжак Николай Иванович": 50
+      "gas:candidate-vibid:2422000976498": 13,
+      "gas:candidate-vibid:2422000977747": 14,
+      "gas:candidate-vibid:2422000977059": 1103,
+      "gas:candidate-vibid:24220001034700": 161,
+      "gas:candidate-vibid:2422000974783": 142,
+      "gas:candidate-vibid:2422000976525": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13395,12 +13395,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 13,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 874,
-      "Карпов Владимир Ильич": 134,
-      "Паршуков Максим Викторович": 113,
-      "Рыжак Николай Иванович": 54
+      "gas:candidate-vibid:2422000976498": 13,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 874,
+      "gas:candidate-vibid:24220001034700": 134,
+      "gas:candidate-vibid:2422000974783": 113,
+      "gas:candidate-vibid:2422000976525": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13451,12 +13451,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 3,
-      "Ильин Виталий Валерьевич": 7,
-      "Исламов Дмитрий Викторович": 543,
-      "Карпов Владимир Ильич": 79,
-      "Паршуков Максим Викторович": 69,
-      "Рыжак Николай Иванович": 29
+      "gas:candidate-vibid:2422000976498": 3,
+      "gas:candidate-vibid:2422000977747": 7,
+      "gas:candidate-vibid:2422000977059": 543,
+      "gas:candidate-vibid:24220001034700": 79,
+      "gas:candidate-vibid:2422000974783": 69,
+      "gas:candidate-vibid:2422000976525": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13507,12 +13507,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 5,
-      "Ильин Виталий Валерьевич": 2,
-      "Исламов Дмитрий Викторович": 186,
-      "Карпов Владимир Ильич": 28,
-      "Паршуков Максим Викторович": 22,
-      "Рыжак Николай Иванович": 10
+      "gas:candidate-vibid:2422000976498": 5,
+      "gas:candidate-vibid:2422000977747": 2,
+      "gas:candidate-vibid:2422000977059": 186,
+      "gas:candidate-vibid:24220001034700": 28,
+      "gas:candidate-vibid:2422000974783": 22,
+      "gas:candidate-vibid:2422000976525": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13563,12 +13563,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 23,
-      "Ильин Виталий Валерьевич": 12,
-      "Исламов Дмитрий Викторович": 906,
-      "Карпов Владимир Ильич": 137,
-      "Паршуков Максим Викторович": 111,
-      "Рыжак Николай Иванович": 56
+      "gas:candidate-vibid:2422000976498": 23,
+      "gas:candidate-vibid:2422000977747": 12,
+      "gas:candidate-vibid:2422000977059": 906,
+      "gas:candidate-vibid:24220001034700": 137,
+      "gas:candidate-vibid:2422000974783": 111,
+      "gas:candidate-vibid:2422000976525": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13619,12 +13619,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 16,
-      "Ильин Виталий Валерьевич": 16,
-      "Исламов Дмитрий Викторович": 1189,
-      "Карпов Владимир Ильич": 181,
-      "Паршуков Максим Викторович": 160,
-      "Рыжак Николай Иванович": 74
+      "gas:candidate-vibid:2422000976498": 16,
+      "gas:candidate-vibid:2422000977747": 16,
+      "gas:candidate-vibid:2422000977059": 1189,
+      "gas:candidate-vibid:24220001034700": 181,
+      "gas:candidate-vibid:2422000974783": 160,
+      "gas:candidate-vibid:2422000976525": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13675,12 +13675,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 11,
-      "Ильин Виталий Валерьевич": 12,
-      "Исламов Дмитрий Викторович": 924,
-      "Карпов Владимир Ильич": 125,
-      "Паршуков Максим Викторович": 122,
-      "Рыжак Николай Иванович": 55
+      "gas:candidate-vibid:2422000976498": 11,
+      "gas:candidate-vibid:2422000977747": 12,
+      "gas:candidate-vibid:2422000977059": 924,
+      "gas:candidate-vibid:24220001034700": 125,
+      "gas:candidate-vibid:2422000974783": 122,
+      "gas:candidate-vibid:2422000976525": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13731,12 +13731,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 4,
-      "Ильин Виталий Валерьевич": 14,
-      "Исламов Дмитрий Викторович": 1070,
-      "Карпов Владимир Ильич": 150,
-      "Паршуков Максим Викторович": 136,
-      "Рыжак Николай Иванович": 61
+      "gas:candidate-vibid:2422000976498": 4,
+      "gas:candidate-vibid:2422000977747": 14,
+      "gas:candidate-vibid:2422000977059": 1070,
+      "gas:candidate-vibid:24220001034700": 150,
+      "gas:candidate-vibid:2422000974783": 136,
+      "gas:candidate-vibid:2422000976525": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13787,12 +13787,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 12,
-      "Ильин Виталий Валерьевич": 13,
-      "Исламов Дмитрий Викторович": 1155,
-      "Карпов Владимир Ильич": 51,
-      "Паршуков Максим Викторович": 64,
-      "Рыжак Николай Иванович": 62
+      "gas:candidate-vibid:2422000976498": 12,
+      "gas:candidate-vibid:2422000977747": 13,
+      "gas:candidate-vibid:2422000977059": 1155,
+      "gas:candidate-vibid:24220001034700": 51,
+      "gas:candidate-vibid:2422000974783": 64,
+      "gas:candidate-vibid:2422000976525": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13843,12 +13843,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 9,
-      "Ильин Виталий Валерьевич": 10,
-      "Исламов Дмитрий Викторович": 766,
-      "Карпов Владимир Ильич": 103,
-      "Паршуков Максим Викторович": 101,
-      "Рыжак Николай Иванович": 47
+      "gas:candidate-vibid:2422000976498": 9,
+      "gas:candidate-vibid:2422000977747": 10,
+      "gas:candidate-vibid:2422000977059": 766,
+      "gas:candidate-vibid:24220001034700": 103,
+      "gas:candidate-vibid:2422000974783": 101,
+      "gas:candidate-vibid:2422000976525": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13899,12 +13899,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 17,
-      "Ильин Виталий Валерьевич": 13,
-      "Исламов Дмитрий Викторович": 976,
-      "Карпов Владимир Ильич": 148,
-      "Паршуков Максим Викторович": 112,
-      "Рыжак Николай Иванович": 61
+      "gas:candidate-vibid:2422000976498": 17,
+      "gas:candidate-vibid:2422000977747": 13,
+      "gas:candidate-vibid:2422000977059": 976,
+      "gas:candidate-vibid:24220001034700": 148,
+      "gas:candidate-vibid:2422000974783": 112,
+      "gas:candidate-vibid:2422000976525": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909154&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909154&type=464",
@@ -13955,12 +13955,12 @@ export const duma_2016_uik_463_region_42_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бондарева Ольга Александровна": 1,
-      "Ильин Виталий Валерьевич": 1,
-      "Исламов Дмитрий Викторович": 537,
-      "Карпов Владимир Ильич": 81,
-      "Паршуков Максим Викторович": 79,
-      "Рыжак Николай Иванович": 42
+      "gas:candidate-vibid:2422000976498": 1,
+      "gas:candidate-vibid:2422000977747": 1,
+      "gas:candidate-vibid:2422000977059": 537,
+      "gas:candidate-vibid:24220001034700": 81,
+      "gas:candidate-vibid:2422000974783": 79,
+      "gas:candidate-vibid:2422000976525": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000133&tvd=2422000909155&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909155&type=464",

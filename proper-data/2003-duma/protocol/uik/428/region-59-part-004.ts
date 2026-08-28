@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 57,
-      "Касимов Михаил Борисович": 31,
-      "Левитан Сергей Владимирович": 96,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 151,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 311,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 302,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000131405": 57,
+      "gas:candidate-vibid:1001000112243": 31,
+      "gas:candidate-vibid:359300467646": 96,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 151,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 311,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 302,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 23,
-      "Касимов Михаил Борисович": 15,
-      "Левитан Сергей Владимирович": 15,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 21,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 139,
-      "Холоимов Анатолий Анатольевич": 18,
-      "Чернов Алексей Анатольевич": 201,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000131405": 23,
+      "gas:candidate-vibid:1001000112243": 15,
+      "gas:candidate-vibid:359300467646": 15,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 21,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 139,
+      "gas:candidate-vibid:1001000136102": 18,
+      "gas:candidate-vibid:1001000113967": 201,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 5,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 11,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 21,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 48,
-      "Холоимов Анатолий Анатольевич": 4,
-      "Чернов Алексей Анатольевич": 76,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131405": 5,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 11,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 21,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 48,
+      "gas:candidate-vibid:1001000136102": 4,
+      "gas:candidate-vibid:1001000113967": 76,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 63,
-      "Касимов Михаил Борисович": 54,
-      "Левитан Сергей Владимирович": 93,
-      "Лежнев Константин Михайлович": 15,
-      "Мальцева Анастасия Анатольевна": 59,
-      "Отмахов Станислав Борисович": 8,
-      "Похмелкин Виктор Валерьевич": 426,
-      "Холоимов Анатолий Анатольевич": 44,
-      "Чернов Алексей Анатольевич": 190,
-      "Чумаченко Дмитрий Валерьевич": 15,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000131405": 63,
+      "gas:candidate-vibid:1001000112243": 54,
+      "gas:candidate-vibid:359300467646": 93,
+      "gas:candidate-vibid:359300467151": 15,
+      "gas:candidate-vibid:359300467265": 59,
+      "gas:candidate-vibid:359300467270": 8,
+      "gas:candidate-vibid:1001000118561": 426,
+      "gas:candidate-vibid:1001000136102": 44,
+      "gas:candidate-vibid:1001000113967": 190,
+      "gas:candidate-vibid:359300467742": 15,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 67,
-      "Касимов Михаил Борисович": 46,
-      "Левитан Сергей Владимирович": 42,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 56,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 290,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 185,
-      "Чумаченко Дмитрий Валерьевич": 17,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000131405": 67,
+      "gas:candidate-vibid:1001000112243": 46,
+      "gas:candidate-vibid:359300467646": 42,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 56,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 290,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 185,
+      "gas:candidate-vibid:359300467742": 17,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 82,
-      "Касимов Михаил Борисович": 54,
-      "Левитан Сергей Владимирович": 70,
-      "Лежнев Константин Михайлович": 8,
-      "Мальцева Анастасия Анатольевна": 97,
-      "Отмахов Станислав Борисович": 6,
-      "Похмелкин Виктор Валерьевич": 399,
-      "Холоимов Анатолий Анатольевич": 42,
-      "Чернов Алексей Анатольевич": 314,
-      "Чумаченко Дмитрий Валерьевич": 24,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000131405": 82,
+      "gas:candidate-vibid:1001000112243": 54,
+      "gas:candidate-vibid:359300467646": 70,
+      "gas:candidate-vibid:359300467151": 8,
+      "gas:candidate-vibid:359300467265": 97,
+      "gas:candidate-vibid:359300467270": 6,
+      "gas:candidate-vibid:1001000118561": 399,
+      "gas:candidate-vibid:1001000136102": 42,
+      "gas:candidate-vibid:1001000113967": 314,
+      "gas:candidate-vibid:359300467742": 24,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 86,
-      "Касимов Михаил Борисович": 53,
-      "Левитан Сергей Владимирович": 78,
-      "Лежнев Константин Михайлович": 14,
-      "Мальцева Анастасия Анатольевна": 115,
-      "Отмахов Станислав Борисович": 12,
-      "Похмелкин Виктор Валерьевич": 351,
-      "Холоимов Анатолий Анатольевич": 39,
-      "Чернов Алексей Анатольевич": 305,
-      "Чумаченко Дмитрий Валерьевич": 19,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000131405": 86,
+      "gas:candidate-vibid:1001000112243": 53,
+      "gas:candidate-vibid:359300467646": 78,
+      "gas:candidate-vibid:359300467151": 14,
+      "gas:candidate-vibid:359300467265": 115,
+      "gas:candidate-vibid:359300467270": 12,
+      "gas:candidate-vibid:1001000118561": 351,
+      "gas:candidate-vibid:1001000136102": 39,
+      "gas:candidate-vibid:1001000113967": 305,
+      "gas:candidate-vibid:359300467742": 19,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 26,
-      "Касимов Михаил Борисович": 6,
-      "Левитан Сергей Владимирович": 8,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 25,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 64,
-      "Холоимов Анатолий Анатольевич": 6,
-      "Чернов Алексей Анатольевич": 76,
-      "Чумаченко Дмитрий Валерьевич": 0,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131405": 26,
+      "gas:candidate-vibid:1001000112243": 6,
+      "gas:candidate-vibid:359300467646": 8,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 25,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 64,
+      "gas:candidate-vibid:1001000136102": 6,
+      "gas:candidate-vibid:1001000113967": 76,
+      "gas:candidate-vibid:359300467742": 0,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 14,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 6,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 29,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 58,
-      "Холоимов Анатолий Анатольевич": 8,
-      "Чернов Алексей Анатольевич": 62,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131405": 14,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 6,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 29,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 58,
+      "gas:candidate-vibid:1001000136102": 8,
+      "gas:candidate-vibid:1001000113967": 62,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 29,
-      "Касимов Михаил Борисович": 23,
-      "Левитан Сергей Владимирович": 17,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 36,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 121,
-      "Холоимов Анатолий Анатольевич": 9,
-      "Чернов Алексей Анатольевич": 192,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000131405": 29,
+      "gas:candidate-vibid:1001000112243": 23,
+      "gas:candidate-vibid:359300467646": 17,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 36,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 121,
+      "gas:candidate-vibid:1001000136102": 9,
+      "gas:candidate-vibid:1001000113967": 192,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 6,
-      "Касимов Михаил Борисович": 21,
-      "Левитан Сергей Владимирович": 10,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 17,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 71,
-      "Холоимов Анатолий Анатольевич": 5,
-      "Чернов Алексей Анатольевич": 10,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131405": 6,
+      "gas:candidate-vibid:1001000112243": 21,
+      "gas:candidate-vibid:359300467646": 10,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 17,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 71,
+      "gas:candidate-vibid:1001000136102": 5,
+      "gas:candidate-vibid:1001000113967": 10,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 9,
-      "Касимов Михаил Борисович": 1,
-      "Левитан Сергей Владимирович": 13,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 11,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 77,
-      "Холоимов Анатолий Анатольевич": 8,
-      "Чернов Алексей Анатольевич": 23,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131405": 9,
+      "gas:candidate-vibid:1001000112243": 1,
+      "gas:candidate-vibid:359300467646": 13,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 11,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 77,
+      "gas:candidate-vibid:1001000136102": 8,
+      "gas:candidate-vibid:1001000113967": 23,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 7,
-      "Касимов Михаил Борисович": 0,
-      "Левитан Сергей Владимирович": 7,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 58,
-      "Холоимов Анатолий Анатольевич": 0,
-      "Чернов Алексей Анатольевич": 15,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131405": 7,
+      "gas:candidate-vibid:1001000112243": 0,
+      "gas:candidate-vibid:359300467646": 7,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 58,
+      "gas:candidate-vibid:1001000136102": 0,
+      "gas:candidate-vibid:1001000113967": 15,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 25,
-      "Касимов Михаил Борисович": 14,
-      "Левитан Сергей Владимирович": 25,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 43,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 162,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 201,
-      "Чумаченко Дмитрий Валерьевич": 12,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000131405": 25,
+      "gas:candidate-vibid:1001000112243": 14,
+      "gas:candidate-vibid:359300467646": 25,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 43,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 162,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 201,
+      "gas:candidate-vibid:359300467742": 12,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 24,
-      "Касимов Михаил Борисович": 11,
-      "Левитан Сергей Владимирович": 44,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 118,
-      "Отмахов Станислав Борисович": 4,
-      "Похмелкин Виктор Валерьевич": 204,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 163,
-      "Чумаченко Дмитрий Валерьевич": 12,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000131405": 24,
+      "gas:candidate-vibid:1001000112243": 11,
+      "gas:candidate-vibid:359300467646": 44,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 118,
+      "gas:candidate-vibid:359300467270": 4,
+      "gas:candidate-vibid:1001000118561": 204,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 163,
+      "gas:candidate-vibid:359300467742": 12,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 2,
-      "Касимов Михаил Борисович": 8,
-      "Левитан Сергей Владимирович": 1,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 5,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 32,
-      "Холоимов Анатолий Анатольевич": 3,
-      "Чернов Алексей Анатольевич": 8,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131405": 2,
+      "gas:candidate-vibid:1001000112243": 8,
+      "gas:candidate-vibid:359300467646": 1,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 5,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 32,
+      "gas:candidate-vibid:1001000136102": 3,
+      "gas:candidate-vibid:1001000113967": 8,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 16,
-      "Касимов Михаил Борисович": 4,
-      "Левитан Сергей Владимирович": 10,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 21,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 45,
-      "Холоимов Анатолий Анатольевич": 10,
-      "Чернов Алексей Анатольевич": 67,
-      "Чумаченко Дмитрий Валерьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131405": 16,
+      "gas:candidate-vibid:1001000112243": 4,
+      "gas:candidate-vibid:359300467646": 10,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 21,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 45,
+      "gas:candidate-vibid:1001000136102": 10,
+      "gas:candidate-vibid:1001000113967": 67,
+      "gas:candidate-vibid:359300467742": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 43,
-      "Касимов Михаил Борисович": 29,
-      "Левитан Сергей Владимирович": 76,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 90,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 178,
-      "Холоимов Анатолий Анатольевич": 27,
-      "Чернов Алексей Анатольевич": 331,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000131405": 43,
+      "gas:candidate-vibid:1001000112243": 29,
+      "gas:candidate-vibid:359300467646": 76,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 90,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 178,
+      "gas:candidate-vibid:1001000136102": 27,
+      "gas:candidate-vibid:1001000113967": 331,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072755&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 215,
-      "Касимов Михаил Борисович": 23,
-      "Левитан Сергей Владимирович": 64,
-      "Лежнев Константин Михайлович": 10,
-      "Мальцева Анастасия Анатольевна": 98,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 341,
-      "Холоимов Анатолий Анатольевич": 28,
-      "Чернов Алексей Анатольевич": 140,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000131405": 215,
+      "gas:candidate-vibid:1001000112243": 23,
+      "gas:candidate-vibid:359300467646": 64,
+      "gas:candidate-vibid:359300467151": 10,
+      "gas:candidate-vibid:359300467265": 98,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 341,
+      "gas:candidate-vibid:1001000136102": 28,
+      "gas:candidate-vibid:1001000113967": 140,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 157,
-      "Касимов Михаил Борисович": 16,
-      "Левитан Сергей Владимирович": 41,
-      "Лежнев Константин Михайлович": 5,
-      "Мальцева Анастасия Анатольевна": 71,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 159,
-      "Холоимов Анатолий Анатольевич": 15,
-      "Чернов Алексей Анатольевич": 91,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000131405": 157,
+      "gas:candidate-vibid:1001000112243": 16,
+      "gas:candidate-vibid:359300467646": 41,
+      "gas:candidate-vibid:359300467151": 5,
+      "gas:candidate-vibid:359300467265": 71,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 159,
+      "gas:candidate-vibid:1001000136102": 15,
+      "gas:candidate-vibid:1001000113967": 91,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 217,
-      "Касимов Михаил Борисович": 23,
-      "Левитан Сергей Владимирович": 72,
-      "Лежнев Константин Михайлович": 11,
-      "Мальцева Анастасия Анатольевна": 74,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 293,
-      "Холоимов Анатолий Анатольевич": 20,
-      "Чернов Алексей Анатольевич": 165,
-      "Чумаченко Дмитрий Валерьевич": 13,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000131405": 217,
+      "gas:candidate-vibid:1001000112243": 23,
+      "gas:candidate-vibid:359300467646": 72,
+      "gas:candidate-vibid:359300467151": 11,
+      "gas:candidate-vibid:359300467265": 74,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 293,
+      "gas:candidate-vibid:1001000136102": 20,
+      "gas:candidate-vibid:1001000113967": 165,
+      "gas:candidate-vibid:359300467742": 13,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 86,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 21,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 6,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 108,
-      "Холоимов Анатолий Анатольевич": 8,
-      "Чернов Алексей Анатольевич": 29,
-      "Чумаченко Дмитрий Валерьевич": 0,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131405": 86,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 21,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 6,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 108,
+      "gas:candidate-vibid:1001000136102": 8,
+      "gas:candidate-vibid:1001000113967": 29,
+      "gas:candidate-vibid:359300467742": 0,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 73,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 19,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 11,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 83,
-      "Холоимов Анатолий Анатольевич": 13,
-      "Чернов Алексей Анатольевич": 31,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131405": 73,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 19,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 11,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 83,
+      "gas:candidate-vibid:1001000136102": 13,
+      "gas:candidate-vibid:1001000113967": 31,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 104,
-      "Касимов Михаил Борисович": 1,
-      "Левитан Сергей Владимирович": 24,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 7,
-      "Похмелкин Виктор Валерьевич": 100,
-      "Холоимов Анатолий Анатольевич": 7,
-      "Чернов Алексей Анатольевич": 11,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131405": 104,
+      "gas:candidate-vibid:1001000112243": 1,
+      "gas:candidate-vibid:359300467646": 24,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 7,
+      "gas:candidate-vibid:1001000118561": 100,
+      "gas:candidate-vibid:1001000136102": 7,
+      "gas:candidate-vibid:1001000113967": 11,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 142,
-      "Касимов Михаил Борисович": 7,
-      "Левитан Сергей Владимирович": 57,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 16,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 91,
-      "Холоимов Анатолий Анатольевич": 16,
-      "Чернов Алексей Анатольевич": 49,
-      "Чумаченко Дмитрий Валерьевич": 3,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000131405": 142,
+      "gas:candidate-vibid:1001000112243": 7,
+      "gas:candidate-vibid:359300467646": 57,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 16,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 91,
+      "gas:candidate-vibid:1001000136102": 16,
+      "gas:candidate-vibid:1001000113967": 49,
+      "gas:candidate-vibid:359300467742": 3,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 41,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 12,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 104,
-      "Холоимов Анатолий Анатольевич": 1,
-      "Чернов Алексей Анатольевич": 15,
-      "Чумаченко Дмитрий Валерьевич": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131405": 41,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 12,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 104,
+      "gas:candidate-vibid:1001000136102": 1,
+      "gas:candidate-vibid:1001000113967": 15,
+      "gas:candidate-vibid:359300467742": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 15,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 9,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 5,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 104,
-      "Холоимов Анатолий Анатольевич": 6,
-      "Чернов Алексей Анатольевич": 9,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131405": 15,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 9,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 5,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 104,
+      "gas:candidate-vibid:1001000136102": 6,
+      "gas:candidate-vibid:1001000113967": 9,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 13,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 10,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 8,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 77,
-      "Холоимов Анатолий Анатольевич": 2,
-      "Чернов Алексей Анатольевич": 4,
-      "Чумаченко Дмитрий Валерьевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131405": 13,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 10,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 8,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 77,
+      "gas:candidate-vibid:1001000136102": 2,
+      "gas:candidate-vibid:1001000113967": 4,
+      "gas:candidate-vibid:359300467742": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 60,
-      "Касимов Михаил Борисович": 9,
-      "Левитан Сергей Владимирович": 34,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 17,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 132,
-      "Холоимов Анатолий Анатольевич": 14,
-      "Чернов Алексей Анатольевич": 37,
-      "Чумаченко Дмитрий Валерьевич": 8,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000131405": 60,
+      "gas:candidate-vibid:1001000112243": 9,
+      "gas:candidate-vibid:359300467646": 34,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 17,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 132,
+      "gas:candidate-vibid:1001000136102": 14,
+      "gas:candidate-vibid:1001000113967": 37,
+      "gas:candidate-vibid:359300467742": 8,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 54,
-      "Касимов Михаил Борисович": 0,
-      "Левитан Сергей Владимирович": 24,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 5,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 99,
-      "Холоимов Анатолий Анатольевич": 8,
-      "Чернов Алексей Анатольевич": 23,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131405": 54,
+      "gas:candidate-vibid:1001000112243": 0,
+      "gas:candidate-vibid:359300467646": 24,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 5,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 99,
+      "gas:candidate-vibid:1001000136102": 8,
+      "gas:candidate-vibid:1001000113967": 23,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 59,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 17,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 4,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 188,
-      "Холоимов Анатолий Анатольевич": 9,
-      "Чернов Алексей Анатольевич": 42,
-      "Чумаченко Дмитрий Валерьевич": 5,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131405": 59,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 17,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 4,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 188,
+      "gas:candidate-vibid:1001000136102": 9,
+      "gas:candidate-vibid:1001000113967": 42,
+      "gas:candidate-vibid:359300467742": 5,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 113,
-      "Касимов Михаил Борисович": 1,
-      "Левитан Сергей Владимирович": 21,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 138,
-      "Холоимов Анатолий Анатольевич": 5,
-      "Чернов Алексей Анатольевич": 21,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131405": 113,
+      "gas:candidate-vibid:1001000112243": 1,
+      "gas:candidate-vibid:359300467646": 21,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 138,
+      "gas:candidate-vibid:1001000136102": 5,
+      "gas:candidate-vibid:1001000113967": 21,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 123,
-      "Касимов Михаил Борисович": 11,
-      "Левитан Сергей Владимирович": 79,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 54,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 327,
-      "Холоимов Анатолий Анатольевич": 17,
-      "Чернов Алексей Анатольевич": 92,
-      "Чумаченко Дмитрий Валерьевич": 3,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000131405": 123,
+      "gas:candidate-vibid:1001000112243": 11,
+      "gas:candidate-vibid:359300467646": 79,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 54,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 327,
+      "gas:candidate-vibid:1001000136102": 17,
+      "gas:candidate-vibid:1001000113967": 92,
+      "gas:candidate-vibid:359300467742": 3,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 67,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 42,
-      "Лежнев Константин Михайлович": 3,
-      "Мальцева Анастасия Анатольевна": 9,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 43,
-      "Холоимов Анатолий Анатольевич": 6,
-      "Чернов Алексей Анатольевич": 9,
-      "Чумаченко Дмитрий Валерьевич": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131405": 67,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 42,
+      "gas:candidate-vibid:359300467151": 3,
+      "gas:candidate-vibid:359300467265": 9,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 43,
+      "gas:candidate-vibid:1001000136102": 6,
+      "gas:candidate-vibid:1001000113967": 9,
+      "gas:candidate-vibid:359300467742": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 44,
-      "Касимов Михаил Борисович": 0,
-      "Левитан Сергей Владимирович": 12,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 14,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 85,
-      "Холоимов Анатолий Анатольевич": 4,
-      "Чернов Алексей Анатольевич": 15,
-      "Чумаченко Дмитрий Валерьевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131405": 44,
+      "gas:candidate-vibid:1001000112243": 0,
+      "gas:candidate-vibid:359300467646": 12,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 14,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 85,
+      "gas:candidate-vibid:1001000136102": 4,
+      "gas:candidate-vibid:1001000113967": 15,
+      "gas:candidate-vibid:359300467742": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 44,
-      "Касимов Михаил Борисович": 1,
-      "Левитан Сергей Владимирович": 15,
-      "Лежнев Константин Михайлович": 2,
-      "Мальцева Анастасия Анатольевна": 13,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 86,
-      "Холоимов Анатолий Анатольевич": 5,
-      "Чернов Алексей Анатольевич": 8,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131405": 44,
+      "gas:candidate-vibid:1001000112243": 1,
+      "gas:candidate-vibid:359300467646": 15,
+      "gas:candidate-vibid:359300467151": 2,
+      "gas:candidate-vibid:359300467265": 13,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 86,
+      "gas:candidate-vibid:1001000136102": 5,
+      "gas:candidate-vibid:1001000113967": 8,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 87,
-      "Касимов Михаил Борисович": 3,
-      "Левитан Сергей Владимирович": 40,
-      "Лежнев Константин Михайлович": 4,
-      "Мальцева Анастасия Анатольевна": 14,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 143,
-      "Холоимов Анатолий Анатольевич": 10,
-      "Чернов Алексей Анатольевич": 28,
-      "Чумаченко Дмитрий Валерьевич": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131405": 87,
+      "gas:candidate-vibid:1001000112243": 3,
+      "gas:candidate-vibid:359300467646": 40,
+      "gas:candidate-vibid:359300467151": 4,
+      "gas:candidate-vibid:359300467265": 14,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 143,
+      "gas:candidate-vibid:1001000136102": 10,
+      "gas:candidate-vibid:1001000113967": 28,
+      "gas:candidate-vibid:359300467742": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 30,
-      "Касимов Михаил Борисович": 2,
-      "Левитан Сергей Владимирович": 10,
-      "Лежнев Константин Михайлович": 0,
-      "Мальцева Анастасия Анатольевна": 3,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 41,
-      "Холоимов Анатолий Анатольевич": 0,
-      "Чернов Алексей Анатольевич": 11,
-      "Чумаченко Дмитрий Валерьевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131405": 30,
+      "gas:candidate-vibid:1001000112243": 2,
+      "gas:candidate-vibid:359300467646": 10,
+      "gas:candidate-vibid:359300467151": 0,
+      "gas:candidate-vibid:359300467265": 3,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 41,
+      "gas:candidate-vibid:1001000136102": 0,
+      "gas:candidate-vibid:1001000113967": 11,
+      "gas:candidate-vibid:359300467742": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 18,
-      "Касимов Михаил Борисович": 1,
-      "Левитан Сергей Владимирович": 8,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 15,
-      "Отмахов Станислав Борисович": 0,
-      "Похмелкин Виктор Валерьевич": 46,
-      "Холоимов Анатолий Анатольевич": 11,
-      "Чернов Алексей Анатольевич": 12,
-      "Чумаченко Дмитрий Валерьевич": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131405": 18,
+      "gas:candidate-vibid:1001000112243": 1,
+      "gas:candidate-vibid:359300467646": 8,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 15,
+      "gas:candidate-vibid:359300467270": 0,
+      "gas:candidate-vibid:1001000118561": 46,
+      "gas:candidate-vibid:1001000136102": 11,
+      "gas:candidate-vibid:1001000113967": 12,
+      "gas:candidate-vibid:359300467742": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 211,
-      "Касимов Михаил Борисович": 15,
-      "Левитан Сергей Владимирович": 151,
-      "Лежнев Константин Михайлович": 12,
-      "Мальцева Анастасия Анатольевна": 64,
-      "Отмахов Станислав Борисович": 3,
-      "Похмелкин Виктор Валерьевич": 225,
-      "Холоимов Анатолий Анатольевич": 35,
-      "Чернов Алексей Анатольевич": 109,
-      "Чумаченко Дмитрий Валерьевич": 16,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000131405": 211,
+      "gas:candidate-vibid:1001000112243": 15,
+      "gas:candidate-vibid:359300467646": 151,
+      "gas:candidate-vibid:359300467151": 12,
+      "gas:candidate-vibid:359300467265": 64,
+      "gas:candidate-vibid:359300467270": 3,
+      "gas:candidate-vibid:1001000118561": 225,
+      "gas:candidate-vibid:1001000136102": 35,
+      "gas:candidate-vibid:1001000113967": 109,
+      "gas:candidate-vibid:359300467742": 16,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 206,
-      "Касимов Михаил Борисович": 10,
-      "Левитан Сергей Владимирович": 143,
-      "Лежнев Константин Михайлович": 6,
-      "Мальцева Анастасия Анатольевна": 63,
-      "Отмахов Станислав Борисович": 2,
-      "Похмелкин Виктор Валерьевич": 246,
-      "Холоимов Анатолий Анатольевич": 34,
-      "Чернов Алексей Анатольевич": 125,
-      "Чумаченко Дмитрий Валерьевич": 9,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000131405": 206,
+      "gas:candidate-vibid:1001000112243": 10,
+      "gas:candidate-vibid:359300467646": 143,
+      "gas:candidate-vibid:359300467151": 6,
+      "gas:candidate-vibid:359300467265": 63,
+      "gas:candidate-vibid:359300467270": 2,
+      "gas:candidate-vibid:1001000118561": 246,
+      "gas:candidate-vibid:1001000136102": 34,
+      "gas:candidate-vibid:1001000113967": 125,
+      "gas:candidate-vibid:359300467742": 9,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Боровик Олег Александрович": 31,
-      "Касимов Михаил Борисович": 0,
-      "Левитан Сергей Владимирович": 9,
-      "Лежнев Константин Михайлович": 1,
-      "Мальцева Анастасия Анатольевна": 14,
-      "Отмахов Станислав Борисович": 1,
-      "Похмелкин Виктор Валерьевич": 102,
-      "Холоимов Анатолий Анатольевич": 4,
-      "Чернов Алексей Анатольевич": 65,
-      "Чумаченко Дмитрий Валерьевич": 2,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131405": 31,
+      "gas:candidate-vibid:1001000112243": 0,
+      "gas:candidate-vibid:359300467646": 9,
+      "gas:candidate-vibid:359300467151": 1,
+      "gas:candidate-vibid:359300467265": 14,
+      "gas:candidate-vibid:359300467270": 1,
+      "gas:candidate-vibid:1001000118561": 102,
+      "gas:candidate-vibid:1001000136102": 4,
+      "gas:candidate-vibid:1001000113967": 65,
+      "gas:candidate-vibid:359300467742": 2,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=592000027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=259200072756&region=0&sub_region=0&type=429",
@@ -2562,14 +2562,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 25,
-      "Медведев Юрий Германович": 92,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 226,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 25,
+      "gas:candidate-vibid:1001000225971": 92,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 226,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2619,14 +2619,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 7,
-      "Медведев Юрий Германович": 72,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 6,
-      "Шестаков Владимир Зарипзянович": 286,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 7,
+      "gas:candidate-vibid:1001000225971": 72,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 6,
+      "gas:candidate-vibid:359300266864": 286,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2676,14 +2676,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 72,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 144,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 72,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 144,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2733,14 +2733,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 18,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 38,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 18,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 38,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2790,14 +2790,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 26,
-      "Журавлев Александр Григорьевич": 10,
-      "Лыков Анатолий Николаевич": 54,
-      "Медведев Юрий Германович": 634,
-      "Савченков Владимир Александрович": 37,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 645,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000328294": 26,
+      "gas:candidate-vibid:1001000136100": 10,
+      "gas:candidate-vibid:1001000121891": 54,
+      "gas:candidate-vibid:1001000225971": 634,
+      "gas:candidate-vibid:1001000220832": 37,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 645,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2847,14 +2847,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 18,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 39,
-      "Медведев Юрий Германович": 439,
-      "Савченков Владимир Александрович": 25,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 504,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000328294": 18,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 39,
+      "gas:candidate-vibid:1001000225971": 439,
+      "gas:candidate-vibid:1001000220832": 25,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 504,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2904,14 +2904,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 32,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 28,
-      "Медведев Юрий Германович": 375,
-      "Савченков Владимир Александрович": 20,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 487,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000328294": 32,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 28,
+      "gas:candidate-vibid:1001000225971": 375,
+      "gas:candidate-vibid:1001000220832": 20,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 487,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -2961,14 +2961,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 75,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 131,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 75,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 131,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3018,14 +3018,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 26,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 47,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 26,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 47,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3075,14 +3075,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 65,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 29,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 65,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 29,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3132,14 +3132,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 15,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 29,
-      "Медведев Юрий Германович": 119,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 126,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 15,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 29,
+      "gas:candidate-vibid:1001000225971": 119,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 126,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3189,14 +3189,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 159,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 98,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 159,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 98,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3246,14 +3246,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 70,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 174,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 70,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 174,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3303,14 +3303,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 36,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 52,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 36,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 52,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3360,14 +3360,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 143,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 83,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 143,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 83,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3417,14 +3417,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 25,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 22,
-      "Медведев Юрий Германович": 177,
-      "Савченков Владимир Александрович": 17,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 411,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000328294": 25,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 22,
+      "gas:candidate-vibid:1001000225971": 177,
+      "gas:candidate-vibid:1001000220832": 17,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 411,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3474,14 +3474,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 78,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 81,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 78,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 81,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3531,14 +3531,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 18,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 38,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 18,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 38,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3588,14 +3588,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 19,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 51,
-      "Медведев Юрий Германович": 213,
-      "Савченков Владимир Александрович": 11,
-      "Солодовников Юрий Лукич": 6,
-      "Шестаков Владимир Зарипзянович": 416,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000328294": 19,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 51,
+      "gas:candidate-vibid:1001000225971": 213,
+      "gas:candidate-vibid:1001000220832": 11,
+      "gas:candidate-vibid:359300266742": 6,
+      "gas:candidate-vibid:359300266864": 416,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3645,14 +3645,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 21,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 66,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 21,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 66,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3702,14 +3702,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 58,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 108,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 58,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 108,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3759,14 +3759,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 56,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 96,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 56,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 96,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3816,14 +3816,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 68,
-      "Медведев Юрий Германович": 76,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 159,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 68,
+      "gas:candidate-vibid:1001000225971": 76,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 159,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3873,14 +3873,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 47,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 124,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 47,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 124,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3930,14 +3930,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 9,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 23,
-      "Медведев Юрий Германович": 250,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 293,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 9,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 23,
+      "gas:candidate-vibid:1001000225971": 250,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 293,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -3987,14 +3987,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 181,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 4,
-      "Шестаков Владимир Зарипзянович": 151,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 181,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 4,
+      "gas:candidate-vibid:359300266864": 151,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4044,14 +4044,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 12,
-      "Медведев Юрий Германович": 172,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 134,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 12,
+      "gas:candidate-vibid:1001000225971": 172,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 134,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4101,14 +4101,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 11,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 46,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 55,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 11,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 46,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 55,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4158,14 +4158,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 59,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 192,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 59,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 192,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4215,14 +4215,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 22,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 42,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 22,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 42,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4272,14 +4272,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 30,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 29,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 30,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 29,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4329,14 +4329,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 42,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 53,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 42,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 53,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4386,14 +4386,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 8,
-      "Медведев Юрий Германович": 51,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 50,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 8,
+      "gas:candidate-vibid:1001000225971": 51,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 50,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4443,14 +4443,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 14,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 37,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 14,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 37,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4500,14 +4500,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 172,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 109,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 172,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 109,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4557,14 +4557,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 43,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 37,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 43,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 37,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4614,14 +4614,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 50,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 42,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 50,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 42,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4671,14 +4671,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 18,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 21,
-      "Медведев Юрий Германович": 186,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 419,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000328294": 18,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 21,
+      "gas:candidate-vibid:1001000225971": 186,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 419,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4728,14 +4728,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 102,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 121,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 102,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 121,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4785,14 +4785,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 155,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 118,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 155,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 118,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4842,14 +4842,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 54,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 20,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 54,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 20,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4899,14 +4899,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 11,
-      "Медведев Юрий Германович": 53,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 140,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 11,
+      "gas:candidate-vibid:1001000225971": 53,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 140,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -4956,14 +4956,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 19,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 17,
-      "Медведев Юрий Германович": 105,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 97,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 19,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 17,
+      "gas:candidate-vibid:1001000225971": 105,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 97,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -5013,14 +5013,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 98,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 42,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 98,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 42,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -5070,14 +5070,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 15,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 89,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 67,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 15,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 89,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 67,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -5127,14 +5127,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 36,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 27,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 36,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 27,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266782&region=0&sub_region=0&type=429",
@@ -5184,14 +5184,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 28,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 17,
-      "Медведев Юрий Германович": 433,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 120,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 28,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 17,
+      "gas:candidate-vibid:1001000225971": 433,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 120,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5241,14 +5241,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 10,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 94,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 10,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 94,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5298,14 +5298,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 14,
-      "Журавлев Александр Григорьевич": 18,
-      "Лыков Анатолий Николаевич": 28,
-      "Медведев Юрий Германович": 285,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 194,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000328294": 14,
+      "gas:candidate-vibid:1001000136100": 18,
+      "gas:candidate-vibid:1001000121891": 28,
+      "gas:candidate-vibid:1001000225971": 285,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 194,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5355,14 +5355,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 45,
-      "Журавлев Александр Григорьевич": 24,
-      "Лыков Анатолий Николаевич": 41,
-      "Медведев Юрий Германович": 610,
-      "Савченков Владимир Александрович": 18,
-      "Солодовников Юрий Лукич": 11,
-      "Шестаков Владимир Зарипзянович": 419,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000328294": 45,
+      "gas:candidate-vibid:1001000136100": 24,
+      "gas:candidate-vibid:1001000121891": 41,
+      "gas:candidate-vibid:1001000225971": 610,
+      "gas:candidate-vibid:1001000220832": 18,
+      "gas:candidate-vibid:359300266742": 11,
+      "gas:candidate-vibid:359300266864": 419,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5412,14 +5412,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 32,
-      "Журавлев Александр Григорьевич": 28,
-      "Лыков Анатолий Николаевич": 68,
-      "Медведев Юрий Германович": 546,
-      "Савченков Владимир Александрович": 24,
-      "Солодовников Юрий Лукич": 9,
-      "Шестаков Владимир Зарипзянович": 373,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000328294": 32,
+      "gas:candidate-vibid:1001000136100": 28,
+      "gas:candidate-vibid:1001000121891": 68,
+      "gas:candidate-vibid:1001000225971": 546,
+      "gas:candidate-vibid:1001000220832": 24,
+      "gas:candidate-vibid:359300266742": 9,
+      "gas:candidate-vibid:359300266864": 373,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5469,14 +5469,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 13,
-      "Медведев Юрий Германович": 200,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 38,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 13,
+      "gas:candidate-vibid:1001000225971": 200,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 38,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5526,14 +5526,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 10,
-      "Журавлев Александр Григорьевич": 11,
-      "Лыков Анатолий Николаевич": 8,
-      "Медведев Юрий Германович": 73,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 30,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 10,
+      "gas:candidate-vibid:1001000136100": 11,
+      "gas:candidate-vibid:1001000121891": 8,
+      "gas:candidate-vibid:1001000225971": 73,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 30,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5583,14 +5583,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 99,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 42,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 99,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 42,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5640,14 +5640,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 56,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 15,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 56,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 15,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5697,14 +5697,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 95,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 95,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5754,14 +5754,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 40,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 31,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 40,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 31,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5811,14 +5811,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 9,
-      "Медведев Юрий Германович": 129,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 13,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 9,
+      "gas:candidate-vibid:1001000225971": 129,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 13,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5868,14 +5868,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 32,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 16,
-      "Медведев Юрий Германович": 209,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 83,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000328294": 32,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 16,
+      "gas:candidate-vibid:1001000225971": 209,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 83,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5925,14 +5925,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 22,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 51,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 22,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 51,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -5982,14 +5982,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 48,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 48,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6039,14 +6039,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 53,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 15,
-      "Медведев Юрий Германович": 140,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 71,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000328294": 53,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 15,
+      "gas:candidate-vibid:1001000225971": 140,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 71,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6096,14 +6096,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 54,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 11,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 54,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 11,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6153,14 +6153,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 81,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 10,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 81,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 10,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6210,14 +6210,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 11,
-      "Медведев Юрий Германович": 41,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 39,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 11,
+      "gas:candidate-vibid:1001000225971": 41,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 39,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6267,14 +6267,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 7,
-      "Медведев Юрий Германович": 93,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 31,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 7,
+      "gas:candidate-vibid:1001000225971": 93,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 31,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6324,14 +6324,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 9,
-      "Медведев Юрий Германович": 68,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 23,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 9,
+      "gas:candidate-vibid:1001000225971": 68,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 23,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6381,14 +6381,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 65,
-      "Медведев Юрий Германович": 65,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 37,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 65,
+      "gas:candidate-vibid:1001000225971": 65,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 37,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6438,14 +6438,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 15,
-      "Журавлев Александр Григорьевич": 11,
-      "Лыков Анатолий Николаевич": 9,
-      "Медведев Юрий Германович": 155,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 35,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 15,
+      "gas:candidate-vibid:1001000136100": 11,
+      "gas:candidate-vibid:1001000121891": 9,
+      "gas:candidate-vibid:1001000225971": 155,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 35,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6495,14 +6495,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 11,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 45,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 36,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 11,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 45,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 36,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6552,14 +6552,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 53,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 12,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 53,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 12,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6609,14 +6609,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 32,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 9,
-      "Медведев Юрий Германович": 169,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 53,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 32,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 9,
+      "gas:candidate-vibid:1001000225971": 169,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 53,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6666,14 +6666,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 9,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 129,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 12,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 9,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 129,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 12,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6723,14 +6723,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 78,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 15,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 78,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 15,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6780,14 +6780,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 78,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 21,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 78,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 21,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6837,14 +6837,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 58,
-      "Журавлев Александр Григорьевич": 11,
-      "Лыков Анатолий Николаевич": 29,
-      "Медведев Юрий Германович": 101,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 88,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000328294": 58,
+      "gas:candidate-vibid:1001000136100": 11,
+      "gas:candidate-vibid:1001000121891": 29,
+      "gas:candidate-vibid:1001000225971": 101,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 88,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6894,14 +6894,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 10,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 97,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 55,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000328294": 10,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 97,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 55,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -6951,14 +6951,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 11,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 51,
-      "Медведев Юрий Германович": 53,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 35,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 11,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 51,
+      "gas:candidate-vibid:1001000225971": 53,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 35,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7008,14 +7008,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 109,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 109,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7065,14 +7065,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 20,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 26,
-      "Медведев Юрий Германович": 99,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 47,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000328294": 20,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 26,
+      "gas:candidate-vibid:1001000225971": 99,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 47,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7122,14 +7122,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 15,
-      "Медведев Юрий Германович": 98,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 27,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 15,
+      "gas:candidate-vibid:1001000225971": 98,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 27,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7179,14 +7179,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 31,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 136,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 24,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000328294": 31,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 136,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 24,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7236,14 +7236,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 19,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 59,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000328294": 19,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 59,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7293,14 +7293,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 75,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 75,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7350,14 +7350,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 13,
-      "Медведев Юрий Германович": 141,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 56,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 13,
+      "gas:candidate-vibid:1001000225971": 141,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 56,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7407,14 +7407,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 13,
-      "Лыков Анатолий Николаевич": 13,
-      "Медведев Юрий Германович": 138,
-      "Савченков Владимир Александрович": 7,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 110,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 13,
+      "gas:candidate-vibid:1001000121891": 13,
+      "gas:candidate-vibid:1001000225971": 138,
+      "gas:candidate-vibid:1001000220832": 7,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 110,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266784&region=0&sub_region=0&type=429",
@@ -7464,14 +7464,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 104,
-      "Журавлев Александр Григорьевич": 31,
-      "Лыков Анатолий Николаевич": 63,
-      "Медведев Юрий Германович": 417,
-      "Савченков Владимир Александрович": 23,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 516,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000328294": 104,
+      "gas:candidate-vibid:1001000136100": 31,
+      "gas:candidate-vibid:1001000121891": 63,
+      "gas:candidate-vibid:1001000225971": 417,
+      "gas:candidate-vibid:1001000220832": 23,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 516,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7521,14 +7521,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 99,
-      "Журавлев Александр Григорьевич": 16,
-      "Лыков Анатолий Николаевич": 24,
-      "Медведев Юрий Германович": 145,
-      "Савченков Владимир Александрович": 12,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 201,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000328294": 99,
+      "gas:candidate-vibid:1001000136100": 16,
+      "gas:candidate-vibid:1001000121891": 24,
+      "gas:candidate-vibid:1001000225971": 145,
+      "gas:candidate-vibid:1001000220832": 12,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 201,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7578,14 +7578,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 52,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 120,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 72,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000328294": 52,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 120,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 72,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7635,14 +7635,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 114,
-      "Журавлев Александр Григорьевич": 17,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 115,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 131,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000328294": 114,
+      "gas:candidate-vibid:1001000136100": 17,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 115,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 131,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7692,14 +7692,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 55,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 109,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 20,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 55,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 109,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 20,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7749,14 +7749,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 15,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 103,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 48,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 15,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 103,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 48,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7806,14 +7806,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 22,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 189,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 76,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 22,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 189,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 76,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7863,14 +7863,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 31,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 25,
-      "Медведев Юрий Германович": 158,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 83,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 31,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 25,
+      "gas:candidate-vibid:1001000225971": 158,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 83,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7920,14 +7920,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 29,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 112,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 39,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 29,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 112,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 39,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -7977,14 +7977,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 27,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 18,
-      "Медведев Юрий Германович": 113,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 108,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000328294": 27,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 18,
+      "gas:candidate-vibid:1001000225971": 113,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 108,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8034,14 +8034,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 50,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 117,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 50,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 50,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 117,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 50,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8091,14 +8091,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 13,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 68,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 61,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 13,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 68,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 61,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8148,14 +8148,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 45,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 111,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 175,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 45,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 111,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 175,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8205,14 +8205,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 51,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 13,
-      "Медведев Юрий Германович": 77,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 50,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 51,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 13,
+      "gas:candidate-vibid:1001000225971": 77,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 50,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8262,14 +8262,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 42,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 69,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 30,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 42,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 69,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 30,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8319,14 +8319,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 37,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 12,
-      "Медведев Юрий Германович": 144,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 85,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000328294": 37,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 12,
+      "gas:candidate-vibid:1001000225971": 144,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 85,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8376,14 +8376,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 132,
-      "Журавлев Александр Григорьевич": 18,
-      "Лыков Анатолий Николаевич": 75,
-      "Медведев Юрий Германович": 311,
-      "Савченков Владимир Александрович": 14,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 476,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000328294": 132,
+      "gas:candidate-vibid:1001000136100": 18,
+      "gas:candidate-vibid:1001000121891": 75,
+      "gas:candidate-vibid:1001000225971": 311,
+      "gas:candidate-vibid:1001000220832": 14,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 476,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8433,14 +8433,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 43,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 106,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 68,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000328294": 43,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 106,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 68,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8490,14 +8490,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 84,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 8,
-      "Медведев Юрий Германович": 193,
-      "Савченков Владимир Александрович": 9,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 39,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 84,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 8,
+      "gas:candidate-vibid:1001000225971": 193,
+      "gas:candidate-vibid:1001000220832": 9,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 39,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266786&region=0&sub_region=0&type=429",
@@ -8547,14 +8547,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 16,
-      "Лыков Анатолий Николаевич": 21,
-      "Медведев Юрий Германович": 188,
-      "Савченков Владимир Александрович": 11,
-      "Солодовников Юрий Лукич": 4,
-      "Шестаков Владимир Зарипзянович": 104,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 16,
+      "gas:candidate-vibid:1001000121891": 21,
+      "gas:candidate-vibid:1001000225971": 188,
+      "gas:candidate-vibid:1001000220832": 11,
+      "gas:candidate-vibid:359300266742": 4,
+      "gas:candidate-vibid:359300266864": 104,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8604,14 +8604,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 21,
-      "Журавлев Александр Григорьевич": 20,
-      "Лыков Анатолий Николаевич": 34,
-      "Медведев Юрий Германович": 317,
-      "Савченков Владимир Александрович": 20,
-      "Солодовников Юрий Лукич": 4,
-      "Шестаков Владимир Зарипзянович": 153,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000328294": 21,
+      "gas:candidate-vibid:1001000136100": 20,
+      "gas:candidate-vibid:1001000121891": 34,
+      "gas:candidate-vibid:1001000225971": 317,
+      "gas:candidate-vibid:1001000220832": 20,
+      "gas:candidate-vibid:359300266742": 4,
+      "gas:candidate-vibid:359300266864": 153,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8661,14 +8661,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 20,
-      "Журавлев Александр Григорьевич": 21,
-      "Лыков Анатолий Николаевич": 28,
-      "Медведев Юрий Германович": 301,
-      "Савченков Владимир Александрович": 20,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 111,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000328294": 20,
+      "gas:candidate-vibid:1001000136100": 21,
+      "gas:candidate-vibid:1001000121891": 28,
+      "gas:candidate-vibid:1001000225971": 301,
+      "gas:candidate-vibid:1001000220832": 20,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 111,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8718,14 +8718,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 29,
-      "Журавлев Александр Григорьевич": 25,
-      "Лыков Анатолий Николаевич": 22,
-      "Медведев Юрий Германович": 222,
-      "Савченков Владимир Александрович": 19,
-      "Солодовников Юрий Лукич": 5,
-      "Шестаков Владимир Зарипзянович": 176,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000328294": 29,
+      "gas:candidate-vibid:1001000136100": 25,
+      "gas:candidate-vibid:1001000121891": 22,
+      "gas:candidate-vibid:1001000225971": 222,
+      "gas:candidate-vibid:1001000220832": 19,
+      "gas:candidate-vibid:359300266742": 5,
+      "gas:candidate-vibid:359300266864": 176,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8775,14 +8775,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 24,
-      "Журавлев Александр Григорьевич": 28,
-      "Лыков Анатолий Николаевич": 46,
-      "Медведев Юрий Германович": 419,
-      "Савченков Владимир Александрович": 17,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 167,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000328294": 24,
+      "gas:candidate-vibid:1001000136100": 28,
+      "gas:candidate-vibid:1001000121891": 46,
+      "gas:candidate-vibid:1001000225971": 419,
+      "gas:candidate-vibid:1001000220832": 17,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 167,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8832,14 +8832,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 19,
-      "Журавлев Александр Григорьевич": 26,
-      "Лыков Анатолий Николаевич": 33,
-      "Медведев Юрий Германович": 383,
-      "Савченков Владимир Александрович": 20,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 178,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000328294": 19,
+      "gas:candidate-vibid:1001000136100": 26,
+      "gas:candidate-vibid:1001000121891": 33,
+      "gas:candidate-vibid:1001000225971": 383,
+      "gas:candidate-vibid:1001000220832": 20,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 178,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8889,14 +8889,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 28,
-      "Журавлев Александр Григорьевич": 21,
-      "Лыков Анатолий Николаевич": 54,
-      "Медведев Юрий Германович": 327,
-      "Савченков Владимир Александрович": 23,
-      "Солодовников Юрий Лукич": 5,
-      "Шестаков Владимир Зарипзянович": 185,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000328294": 28,
+      "gas:candidate-vibid:1001000136100": 21,
+      "gas:candidate-vibid:1001000121891": 54,
+      "gas:candidate-vibid:1001000225971": 327,
+      "gas:candidate-vibid:1001000220832": 23,
+      "gas:candidate-vibid:359300266742": 5,
+      "gas:candidate-vibid:359300266864": 185,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -8946,14 +8946,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 24,
-      "Журавлев Александр Григорьевич": 32,
-      "Лыков Анатолий Николаевич": 77,
-      "Медведев Юрий Германович": 579,
-      "Савченков Владимир Александрович": 29,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 340,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000328294": 24,
+      "gas:candidate-vibid:1001000136100": 32,
+      "gas:candidate-vibid:1001000121891": 77,
+      "gas:candidate-vibid:1001000225971": 579,
+      "gas:candidate-vibid:1001000220832": 29,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 340,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9003,14 +9003,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 18,
-      "Журавлев Александр Григорьевич": 17,
-      "Лыков Анатолий Николаевич": 91,
-      "Медведев Юрий Германович": 358,
-      "Савченков Владимир Александрович": 26,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 214,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000328294": 18,
+      "gas:candidate-vibid:1001000136100": 17,
+      "gas:candidate-vibid:1001000121891": 91,
+      "gas:candidate-vibid:1001000225971": 358,
+      "gas:candidate-vibid:1001000220832": 26,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 214,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9060,14 +9060,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 31,
-      "Журавлев Александр Григорьевич": 30,
-      "Лыков Анатолий Николаевич": 52,
-      "Медведев Юрий Германович": 469,
-      "Савченков Владимир Александрович": 21,
-      "Солодовников Юрий Лукич": 4,
-      "Шестаков Владимир Зарипзянович": 229,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000328294": 31,
+      "gas:candidate-vibid:1001000136100": 30,
+      "gas:candidate-vibid:1001000121891": 52,
+      "gas:candidate-vibid:1001000225971": 469,
+      "gas:candidate-vibid:1001000220832": 21,
+      "gas:candidate-vibid:359300266742": 4,
+      "gas:candidate-vibid:359300266864": 229,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9117,14 +9117,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 24,
-      "Журавлев Александр Григорьевич": 28,
-      "Лыков Анатолий Николаевич": 35,
-      "Медведев Юрий Германович": 352,
-      "Савченков Владимир Александрович": 29,
-      "Солодовников Юрий Лукич": 6,
-      "Шестаков Владимир Зарипзянович": 162,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000328294": 24,
+      "gas:candidate-vibid:1001000136100": 28,
+      "gas:candidate-vibid:1001000121891": 35,
+      "gas:candidate-vibid:1001000225971": 352,
+      "gas:candidate-vibid:1001000220832": 29,
+      "gas:candidate-vibid:359300266742": 6,
+      "gas:candidate-vibid:359300266864": 162,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9174,14 +9174,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 32,
-      "Журавлев Александр Григорьевич": 32,
-      "Лыков Анатолий Николаевич": 88,
-      "Медведев Юрий Германович": 510,
-      "Савченков Владимир Александрович": 27,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 270,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000328294": 32,
+      "gas:candidate-vibid:1001000136100": 32,
+      "gas:candidate-vibid:1001000121891": 88,
+      "gas:candidate-vibid:1001000225971": 510,
+      "gas:candidate-vibid:1001000220832": 27,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 270,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9231,14 +9231,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 12,
-      "Медведев Юрий Германович": 121,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 65,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 12,
+      "gas:candidate-vibid:1001000225971": 121,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 65,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9288,14 +9288,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 25,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 24,
-      "Медведев Юрий Германович": 224,
-      "Савченков Владимир Александрович": 15,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 132,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000328294": 25,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 24,
+      "gas:candidate-vibid:1001000225971": 224,
+      "gas:candidate-vibid:1001000220832": 15,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 132,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9345,14 +9345,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 40,
-      "Журавлев Александр Григорьевич": 13,
-      "Лыков Анатолий Николаевич": 64,
-      "Медведев Юрий Германович": 277,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 73,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000328294": 40,
+      "gas:candidate-vibid:1001000136100": 13,
+      "gas:candidate-vibid:1001000121891": 64,
+      "gas:candidate-vibid:1001000225971": 277,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 73,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9402,14 +9402,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 28,
-      "Журавлев Александр Григорьевич": 20,
-      "Лыков Анатолий Николаевич": 23,
-      "Медведев Юрий Германович": 212,
-      "Савченков Владимир Александрович": 17,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 73,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000328294": 28,
+      "gas:candidate-vibid:1001000136100": 20,
+      "gas:candidate-vibid:1001000121891": 23,
+      "gas:candidate-vibid:1001000225971": 212,
+      "gas:candidate-vibid:1001000220832": 17,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 73,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9459,14 +9459,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 37,
-      "Журавлев Александр Григорьевич": 13,
-      "Лыков Анатолий Николаевич": 66,
-      "Медведев Юрий Германович": 256,
-      "Савченков Владимир Александрович": 19,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 128,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000328294": 37,
+      "gas:candidate-vibid:1001000136100": 13,
+      "gas:candidate-vibid:1001000121891": 66,
+      "gas:candidate-vibid:1001000225971": 256,
+      "gas:candidate-vibid:1001000220832": 19,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 128,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9516,14 +9516,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 113,
-      "Савченков Владимир Александрович": 7,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 79,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 113,
+      "gas:candidate-vibid:1001000220832": 7,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 79,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9573,14 +9573,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 33,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 11,
-      "Медведев Юрий Германович": 197,
-      "Савченков Владимир Александрович": 12,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 112,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000328294": 33,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 11,
+      "gas:candidate-vibid:1001000225971": 197,
+      "gas:candidate-vibid:1001000220832": 12,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 112,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9630,14 +9630,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 49,
-      "Журавлев Александр Григорьевич": 24,
-      "Лыков Анатолий Николаевич": 31,
-      "Медведев Юрий Германович": 344,
-      "Савченков Владимир Александрович": 18,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 201,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000328294": 49,
+      "gas:candidate-vibid:1001000136100": 24,
+      "gas:candidate-vibid:1001000121891": 31,
+      "gas:candidate-vibid:1001000225971": 344,
+      "gas:candidate-vibid:1001000220832": 18,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 201,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9687,14 +9687,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 13,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 73,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 22,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 13,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 73,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 22,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9744,14 +9744,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 8,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 149,
-      "Савченков Владимир Александрович": 9,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 88,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 8,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 149,
+      "gas:candidate-vibid:1001000220832": 9,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 88,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9801,14 +9801,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 16,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 13,
-      "Медведев Юрий Германович": 63,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 63,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 16,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 13,
+      "gas:candidate-vibid:1001000225971": 63,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 63,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9858,14 +9858,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 43,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 43,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 43,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 43,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9915,14 +9915,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 92,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 58,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 92,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 58,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -9972,14 +9972,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 16,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 33,
-      "Медведев Юрий Германович": 201,
-      "Савченков Владимир Александрович": 10,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 95,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000328294": 16,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 33,
+      "gas:candidate-vibid:1001000225971": 201,
+      "gas:candidate-vibid:1001000220832": 10,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 95,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10029,14 +10029,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 23,
-      "Журавлев Александр Григорьевич": 16,
-      "Лыков Анатолий Николаевич": 15,
-      "Медведев Юрий Германович": 188,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 125,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000328294": 23,
+      "gas:candidate-vibid:1001000136100": 16,
+      "gas:candidate-vibid:1001000121891": 15,
+      "gas:candidate-vibid:1001000225971": 188,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 125,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10086,14 +10086,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 31,
-      "Журавлев Александр Григорьевич": 13,
-      "Лыков Анатолий Николаевич": 23,
-      "Медведев Юрий Германович": 230,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 89,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000328294": 31,
+      "gas:candidate-vibid:1001000136100": 13,
+      "gas:candidate-vibid:1001000121891": 23,
+      "gas:candidate-vibid:1001000225971": 230,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 89,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10143,14 +10143,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 16,
-      "Журавлев Александр Григорьевич": 15,
-      "Лыков Анатолий Николаевич": 20,
-      "Медведев Юрий Германович": 227,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 228,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000328294": 16,
+      "gas:candidate-vibid:1001000136100": 15,
+      "gas:candidate-vibid:1001000121891": 20,
+      "gas:candidate-vibid:1001000225971": 227,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 228,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10200,14 +10200,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 25,
-      "Журавлев Александр Григорьевич": 15,
-      "Лыков Анатолий Николаевич": 30,
-      "Медведев Юрий Германович": 340,
-      "Савченков Владимир Александрович": 11,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 185,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000328294": 25,
+      "gas:candidate-vibid:1001000136100": 15,
+      "gas:candidate-vibid:1001000121891": 30,
+      "gas:candidate-vibid:1001000225971": 340,
+      "gas:candidate-vibid:1001000220832": 11,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 185,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10257,14 +10257,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 12,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 69,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 31,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 12,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 69,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 31,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10314,14 +10314,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 33,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 7,
-      "Медведев Юрий Германович": 114,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 76,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 33,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 7,
+      "gas:candidate-vibid:1001000225971": 114,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 76,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10371,14 +10371,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 10,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 54,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 40,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 10,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 54,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 40,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10428,14 +10428,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 27,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 67,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 27,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 67,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10485,14 +10485,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 26,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 19,
-      "Медведев Юрий Германович": 155,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 186,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 26,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 19,
+      "gas:candidate-vibid:1001000225971": 155,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 186,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10542,14 +10542,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 37,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 21,
-      "Медведев Юрий Германович": 422,
-      "Савченков Владимир Александрович": 7,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 144,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000328294": 37,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 21,
+      "gas:candidate-vibid:1001000225971": 422,
+      "gas:candidate-vibid:1001000220832": 7,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 144,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10599,14 +10599,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 70,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 22,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 70,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 22,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266788&region=0&sub_region=0&type=429",
@@ -10656,14 +10656,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 16,
-      "Медведев Юрий Германович": 147,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 101,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 16,
+      "gas:candidate-vibid:1001000225971": 147,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 101,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -10713,14 +10713,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 56,
-      "Журавлев Александр Григорьевич": 11,
-      "Лыков Анатолий Николаевич": 17,
-      "Медведев Юрий Германович": 287,
-      "Савченков Владимир Александрович": 9,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 282,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000328294": 56,
+      "gas:candidate-vibid:1001000136100": 11,
+      "gas:candidate-vibid:1001000121891": 17,
+      "gas:candidate-vibid:1001000225971": 287,
+      "gas:candidate-vibid:1001000220832": 9,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 282,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -10770,14 +10770,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 22,
-      "Журавлев Александр Григорьевич": 29,
-      "Лыков Анатолий Николаевич": 147,
-      "Медведев Юрий Германович": 364,
-      "Савченков Владимир Александрович": 24,
-      "Солодовников Юрий Лукич": 5,
-      "Шестаков Владимир Зарипзянович": 296,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000328294": 22,
+      "gas:candidate-vibid:1001000136100": 29,
+      "gas:candidate-vibid:1001000121891": 147,
+      "gas:candidate-vibid:1001000225971": 364,
+      "gas:candidate-vibid:1001000220832": 24,
+      "gas:candidate-vibid:359300266742": 5,
+      "gas:candidate-vibid:359300266864": 296,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -10827,14 +10827,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 84,
-      "Журавлев Александр Григорьевич": 39,
-      "Лыков Анатолий Николаевич": 105,
-      "Медведев Юрий Германович": 330,
-      "Савченков Владимир Александрович": 13,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 389,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000328294": 84,
+      "gas:candidate-vibid:1001000136100": 39,
+      "gas:candidate-vibid:1001000121891": 105,
+      "gas:candidate-vibid:1001000225971": 330,
+      "gas:candidate-vibid:1001000220832": 13,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 389,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -10884,14 +10884,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 25,
-      "Журавлев Александр Григорьевич": 19,
-      "Лыков Анатолий Николаевич": 138,
-      "Медведев Юрий Германович": 355,
-      "Савченков Владимир Александрович": 13,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 316,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000328294": 25,
+      "gas:candidate-vibid:1001000136100": 19,
+      "gas:candidate-vibid:1001000121891": 138,
+      "gas:candidate-vibid:1001000225971": 355,
+      "gas:candidate-vibid:1001000220832": 13,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 316,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -10941,14 +10941,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 16,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 17,
-      "Медведев Юрий Германович": 99,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 60,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 16,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 17,
+      "gas:candidate-vibid:1001000225971": 99,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 60,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -10998,14 +10998,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 14,
-      "Журавлев Александр Григорьевич": 14,
-      "Лыков Анатолий Николаевич": 15,
-      "Медведев Юрий Германович": 124,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 85,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000328294": 14,
+      "gas:candidate-vibid:1001000136100": 14,
+      "gas:candidate-vibid:1001000121891": 15,
+      "gas:candidate-vibid:1001000225971": 124,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 85,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11055,14 +11055,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 55,
-      "Журавлев Александр Григорьевич": 12,
-      "Лыков Анатолий Николаевич": 19,
-      "Медведев Юрий Германович": 181,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 146,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000328294": 55,
+      "gas:candidate-vibid:1001000136100": 12,
+      "gas:candidate-vibid:1001000121891": 19,
+      "gas:candidate-vibid:1001000225971": 181,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 146,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11112,14 +11112,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 15,
-      "Медведев Юрий Германович": 250,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 106,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 15,
+      "gas:candidate-vibid:1001000225971": 250,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 106,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11169,14 +11169,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 46,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 58,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 42,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000328294": 46,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 58,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 42,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11226,14 +11226,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 92,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 59,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 92,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 59,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11283,14 +11283,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 15,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 33,
-      "Медведев Юрий Германович": 104,
-      "Савченков Владимир Александрович": 7,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 78,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 15,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 33,
+      "gas:candidate-vibid:1001000225971": 104,
+      "gas:candidate-vibid:1001000220832": 7,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 78,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11340,14 +11340,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 16,
-      "Медведев Юрий Германович": 236,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 98,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 16,
+      "gas:candidate-vibid:1001000225971": 236,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 98,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266790&region=0&sub_region=0&type=429",
@@ -11397,14 +11397,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 23,
-      "Медведев Юрий Германович": 165,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 6,
-      "Шестаков Владимир Зарипзянович": 200,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 23,
+      "gas:candidate-vibid:1001000225971": 165,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 6,
+      "gas:candidate-vibid:359300266864": 200,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11454,14 +11454,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 12,
-      "Медведев Юрий Германович": 133,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 12,
+      "gas:candidate-vibid:1001000225971": 133,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11511,14 +11511,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 99,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 88,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 99,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 88,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11568,14 +11568,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 3,
-      "Медведев Юрий Германович": 91,
-      "Савченков Владимир Александрович": 10,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 11,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 3,
+      "gas:candidate-vibid:1001000225971": 91,
+      "gas:candidate-vibid:1001000220832": 10,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 11,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11625,14 +11625,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 52,
-      "Медведев Юрий Германович": 265,
-      "Савченков Владимир Александрович": 9,
-      "Солодовников Юрий Лукич": 6,
-      "Шестаков Владимир Зарипзянович": 101,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 52,
+      "gas:candidate-vibid:1001000225971": 265,
+      "gas:candidate-vibid:1001000220832": 9,
+      "gas:candidate-vibid:359300266742": 6,
+      "gas:candidate-vibid:359300266864": 101,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11682,14 +11682,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 19,
-      "Медведев Юрий Германович": 205,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 61,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 19,
+      "gas:candidate-vibid:1001000225971": 205,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 61,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11739,14 +11739,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 56,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 28,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 56,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 28,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11796,14 +11796,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 103,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 64,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 103,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 64,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11853,14 +11853,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 12,
-      "Журавлев Александр Григорьевич": 13,
-      "Лыков Анатолий Николаевич": 20,
-      "Медведев Юрий Германович": 92,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 151,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000328294": 12,
+      "gas:candidate-vibid:1001000136100": 13,
+      "gas:candidate-vibid:1001000121891": 20,
+      "gas:candidate-vibid:1001000225971": 92,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 151,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11910,14 +11910,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 9,
-      "Журавлев Александр Григорьевич": 11,
-      "Лыков Анатолий Николаевич": 15,
-      "Медведев Юрий Германович": 141,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 6,
-      "Шестаков Владимир Зарипзянович": 56,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000328294": 9,
+      "gas:candidate-vibid:1001000136100": 11,
+      "gas:candidate-vibid:1001000121891": 15,
+      "gas:candidate-vibid:1001000225971": 141,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 6,
+      "gas:candidate-vibid:359300266864": 56,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -11967,14 +11967,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 10,
-      "Лыков Анатолий Николаевич": 117,
-      "Медведев Юрий Германович": 73,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 10,
+      "gas:candidate-vibid:1001000121891": 117,
+      "gas:candidate-vibid:1001000225971": 73,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12024,14 +12024,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 80,
-      "Медведев Юрий Германович": 74,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 6,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 80,
+      "gas:candidate-vibid:1001000225971": 74,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 6,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12081,14 +12081,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 78,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 27,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 78,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 27,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12138,14 +12138,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 13,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 189,
-      "Савченков Владимир Александрович": 9,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 57,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000328294": 13,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 189,
+      "gas:candidate-vibid:1001000220832": 9,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 57,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12195,14 +12195,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 4,
-      "Медведев Юрий Германович": 75,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 50,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 4,
+      "gas:candidate-vibid:1001000225971": 75,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 50,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12252,14 +12252,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 49,
-      "Журавлев Александр Григорьевич": 22,
-      "Лыков Анатолий Николаевич": 30,
-      "Медведев Юрий Германович": 279,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 77,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000328294": 49,
+      "gas:candidate-vibid:1001000136100": 22,
+      "gas:candidate-vibid:1001000121891": 30,
+      "gas:candidate-vibid:1001000225971": 279,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 77,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12309,14 +12309,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 14,
-      "Журавлев Александр Григорьевич": 14,
-      "Лыков Анатолий Николаевич": 24,
-      "Медведев Юрий Германович": 265,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 149,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000328294": 14,
+      "gas:candidate-vibid:1001000136100": 14,
+      "gas:candidate-vibid:1001000121891": 24,
+      "gas:candidate-vibid:1001000225971": 265,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 149,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12366,14 +12366,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 11,
-      "Медведев Юрий Германович": 136,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 79,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 11,
+      "gas:candidate-vibid:1001000225971": 136,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 79,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12423,14 +12423,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 60,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 60,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12480,14 +12480,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 66,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 29,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 66,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 29,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12537,14 +12537,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 19,
-      "Лыков Анатолий Николаевич": 63,
-      "Медведев Юрий Германович": 419,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 7,
-      "Шестаков Владимир Зарипзянович": 200,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 19,
+      "gas:candidate-vibid:1001000121891": 63,
+      "gas:candidate-vibid:1001000225971": 419,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 7,
+      "gas:candidate-vibid:359300266864": 200,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12594,14 +12594,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 18,
-      "Лыков Анатолий Николаевич": 44,
-      "Медведев Юрий Германович": 327,
-      "Савченков Владимир Александрович": 10,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 164,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 18,
+      "gas:candidate-vibid:1001000121891": 44,
+      "gas:candidate-vibid:1001000225971": 327,
+      "gas:candidate-vibid:1001000220832": 10,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 164,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12651,14 +12651,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 19,
-      "Лыков Анатолий Николаевич": 64,
-      "Медведев Юрий Германович": 445,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 215,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 19,
+      "gas:candidate-vibid:1001000121891": 64,
+      "gas:candidate-vibid:1001000225971": 445,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 215,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12708,14 +12708,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 54,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 52,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 54,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 52,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266792&region=0&sub_region=0&type=429",
@@ -12765,14 +12765,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 24,
-      "Лыков Анатолий Николаевич": 12,
-      "Медведев Юрий Германович": 73,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 505,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 24,
+      "gas:candidate-vibid:1001000121891": 12,
+      "gas:candidate-vibid:1001000225971": 73,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 505,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -12822,14 +12822,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 9,
-      "Медведев Юрий Германович": 70,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 488,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 9,
+      "gas:candidate-vibid:1001000225971": 70,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 488,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -12879,14 +12879,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 10,
-      "Лыков Анатолий Николаевич": 10,
-      "Медведев Юрий Германович": 89,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 503,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 10,
+      "gas:candidate-vibid:1001000121891": 10,
+      "gas:candidate-vibid:1001000225971": 89,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 503,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -12936,14 +12936,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 103,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 578,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 103,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 578,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -12993,14 +12993,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 7,
-      "Медведев Юрий Германович": 60,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 354,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 7,
+      "gas:candidate-vibid:1001000225971": 60,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 354,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13050,14 +13050,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 22,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 163,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 22,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 163,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13107,14 +13107,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 6,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 17,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 166,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 6,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 17,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 166,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13164,14 +13164,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 19,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 150,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 19,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 150,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13221,14 +13221,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 74,
-      "Савченков Владимир Александрович": 2,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 189,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 74,
+      "gas:candidate-vibid:1001000220832": 2,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 189,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13278,14 +13278,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 9,
-      "Медведев Юрий Германович": 48,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 224,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 9,
+      "gas:candidate-vibid:1001000225971": 48,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 224,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13335,14 +13335,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 84,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 143,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 84,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 143,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13392,14 +13392,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 3,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 35,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 58,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000328294": 3,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 35,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 58,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13449,14 +13449,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 6,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 29,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 217,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000328294": 6,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 29,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 217,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13506,14 +13506,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 1,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 54,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 78,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000328294": 1,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 54,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 78,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13563,14 +13563,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 8,
-      "Журавлев Александр Григорьевич": 5,
-      "Лыков Анатолий Николаевич": 6,
-      "Медведев Юрий Германович": 123,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 5,
-      "Шестаков Владимир Зарипзянович": 188,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000328294": 8,
+      "gas:candidate-vibid:1001000136100": 5,
+      "gas:candidate-vibid:1001000121891": 6,
+      "gas:candidate-vibid:1001000225971": 123,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 5,
+      "gas:candidate-vibid:359300266864": 188,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13620,14 +13620,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 4,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 8,
-      "Медведев Юрий Германович": 78,
-      "Савченков Владимир Александрович": 6,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 175,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000328294": 4,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 8,
+      "gas:candidate-vibid:1001000225971": 78,
+      "gas:candidate-vibid:1001000220832": 6,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 175,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13677,14 +13677,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 7,
-      "Медведев Юрий Германович": 87,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 327,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 7,
+      "gas:candidate-vibid:1001000225971": 87,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 327,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13734,14 +13734,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 42,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 60,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 42,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 60,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13791,14 +13791,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 0,
-      "Журавлев Александр Григорьевич": 0,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 45,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 54,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000328294": 0,
+      "gas:candidate-vibid:1001000136100": 0,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 45,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 54,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13848,14 +13848,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 7,
-      "Медведев Юрий Германович": 155,
-      "Савченков Владимир Александрович": 4,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 534,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 7,
+      "gas:candidate-vibid:1001000225971": 155,
+      "gas:candidate-vibid:1001000220832": 4,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 534,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13905,14 +13905,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 0,
-      "Медведев Юрий Германович": 3,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 136,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 0,
+      "gas:candidate-vibid:1001000225971": 3,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 136,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -13962,14 +13962,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 3,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 25,
-      "Савченков Владимир Александрович": 3,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 188,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 3,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 25,
+      "gas:candidate-vibid:1001000220832": 3,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 188,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14019,14 +14019,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 7,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 38,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 117,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000328294": 7,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 38,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 117,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14076,14 +14076,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 2,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 2,
-      "Медведев Юрий Германович": 147,
-      "Савченков Владимир Александрович": 5,
-      "Солодовников Юрий Лукич": 3,
-      "Шестаков Владимир Зарипзянович": 118,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000328294": 2,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 2,
+      "gas:candidate-vibid:1001000225971": 147,
+      "gas:candidate-vibid:1001000220832": 5,
+      "gas:candidate-vibid:359300266742": 3,
+      "gas:candidate-vibid:359300266864": 118,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14133,14 +14133,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 9,
-      "Лыков Анатолий Николаевич": 13,
-      "Медведев Юрий Германович": 198,
-      "Савченков Владимир Александрович": 16,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 360,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 9,
+      "gas:candidate-vibid:1001000121891": 13,
+      "gas:candidate-vibid:1001000225971": 198,
+      "gas:candidate-vibid:1001000220832": 16,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 360,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14190,14 +14190,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 5,
-      "Журавлев Александр Григорьевич": 1,
-      "Лыков Анатолий Николаевич": 5,
-      "Медведев Юрий Германович": 90,
-      "Савченков Владимир Александрович": 1,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 235,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000328294": 5,
+      "gas:candidate-vibid:1001000136100": 1,
+      "gas:candidate-vibid:1001000121891": 5,
+      "gas:candidate-vibid:1001000225971": 90,
+      "gas:candidate-vibid:1001000220832": 1,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 235,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14247,14 +14247,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 17,
-      "Журавлев Александр Григорьевич": 7,
-      "Лыков Анатолий Николаевич": 14,
-      "Медведев Юрий Германович": 110,
-      "Савченков Владимир Александрович": 7,
-      "Солодовников Юрий Лукич": 2,
-      "Шестаков Владимир Зарипзянович": 310,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000328294": 17,
+      "gas:candidate-vibid:1001000136100": 7,
+      "gas:candidate-vibid:1001000121891": 14,
+      "gas:candidate-vibid:1001000225971": 110,
+      "gas:candidate-vibid:1001000220832": 7,
+      "gas:candidate-vibid:359300266742": 2,
+      "gas:candidate-vibid:359300266864": 310,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14304,14 +14304,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 10,
-      "Журавлев Александр Григорьевич": 2,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 17,
-      "Савченков Владимир Александрович": 0,
-      "Солодовников Юрий Лукич": 1,
-      "Шестаков Владимир Зарипзянович": 58,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000328294": 10,
+      "gas:candidate-vibid:1001000136100": 2,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 17,
+      "gas:candidate-vibid:1001000220832": 0,
+      "gas:candidate-vibid:359300266742": 1,
+      "gas:candidate-vibid:359300266864": 58,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",
@@ -14361,14 +14361,14 @@ export const duma_2003_uik_428_region_59_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Волков Виктор Иванович": 11,
-      "Журавлев Александр Григорьевич": 4,
-      "Лыков Анатолий Николаевич": 1,
-      "Медведев Юрий Германович": 135,
-      "Савченков Владимир Александрович": 8,
-      "Солодовников Юрий Лукич": 0,
-      "Шестаков Владимир Зарипзянович": 243,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000328294": 11,
+      "gas:candidate-vibid:1001000136100": 4,
+      "gas:candidate-vibid:1001000121891": 1,
+      "gas:candidate-vibid:1001000225971": 135,
+      "gas:candidate-vibid:1001000220832": 8,
+      "gas:candidate-vibid:359300266742": 0,
+      "gas:candidate-vibid:359300266864": 243,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=593002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=359300266794&region=0&sub_region=0&type=429",

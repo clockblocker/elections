@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 29,
-      "Михайлов Вадим Анварович": 11,
-      "Сильченко Александр Львович": 72,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 407,
-      "Против всех": 84
+      "gas:candidate-vibid:338300166937": 29,
+      "gas:candidate-vibid:1001000190348": 11,
+      "gas:candidate-vibid:1001000121849": 72,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 407,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 16,
-      "Михайлов Вадим Анварович": 21,
-      "Сильченко Александр Львович": 65,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 451,
-      "Против всех": 71
+      "gas:candidate-vibid:338300166937": 16,
+      "gas:candidate-vibid:1001000190348": 21,
+      "gas:candidate-vibid:1001000121849": 65,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 451,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 12,
-      "Михайлов Вадим Анварович": 22,
-      "Сильченко Александр Львович": 68,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 350,
-      "Против всех": 115
+      "gas:candidate-vibid:338300166937": 12,
+      "gas:candidate-vibid:1001000190348": 22,
+      "gas:candidate-vibid:1001000121849": 68,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 350,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 13,
-      "Михайлов Вадим Анварович": 16,
-      "Сильченко Александр Львович": 66,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 424,
-      "Против всех": 73
+      "gas:candidate-vibid:338300166937": 13,
+      "gas:candidate-vibid:1001000190348": 16,
+      "gas:candidate-vibid:1001000121849": 66,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 424,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 19,
-      "Михайлов Вадим Анварович": 16,
-      "Сильченко Александр Львович": 112,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 513,
-      "Против всех": 75
+      "gas:candidate-vibid:338300166937": 19,
+      "gas:candidate-vibid:1001000190348": 16,
+      "gas:candidate-vibid:1001000121849": 112,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 513,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 30,
-      "Михайлов Вадим Анварович": 28,
-      "Сильченко Александр Львович": 219,
-      "Шаповалов Вячеслав Михайлович": 17,
-      "Шуба Виталий Борисович": 740,
-      "Против всех": 146
+      "gas:candidate-vibid:338300166937": 30,
+      "gas:candidate-vibid:1001000190348": 28,
+      "gas:candidate-vibid:1001000121849": 219,
+      "gas:candidate-vibid:338300166993": 17,
+      "gas:candidate-vibid:1001000225938": 740,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 46,
-      "Михайлов Вадим Анварович": 37,
-      "Сильченко Александр Львович": 127,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 815,
-      "Против всех": 168
+      "gas:candidate-vibid:338300166937": 46,
+      "gas:candidate-vibid:1001000190348": 37,
+      "gas:candidate-vibid:1001000121849": 127,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 815,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 31,
-      "Михайлов Вадим Анварович": 27,
-      "Сильченко Александр Львович": 211,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 888,
-      "Против всех": 194
+      "gas:candidate-vibid:338300166937": 31,
+      "gas:candidate-vibid:1001000190348": 27,
+      "gas:candidate-vibid:1001000121849": 211,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 888,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 47,
-      "Михайлов Вадим Анварович": 10,
-      "Сильченко Александр Львович": 161,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 454,
-      "Против всех": 107
+      "gas:candidate-vibid:338300166937": 47,
+      "gas:candidate-vibid:1001000190348": 10,
+      "gas:candidate-vibid:1001000121849": 161,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 454,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 30,
-      "Михайлов Вадим Анварович": 28,
-      "Сильченко Александр Львович": 203,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 735,
-      "Против всех": 148
+      "gas:candidate-vibid:338300166937": 30,
+      "gas:candidate-vibid:1001000190348": 28,
+      "gas:candidate-vibid:1001000121849": 203,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 735,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 7,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 46,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 279,
-      "Против всех": 46
+      "gas:candidate-vibid:338300166937": 7,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 46,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 279,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 44,
-      "Михайлов Вадим Анварович": 26,
-      "Сильченко Александр Львович": 110,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 673,
-      "Против всех": 127
+      "gas:candidate-vibid:338300166937": 44,
+      "gas:candidate-vibid:1001000190348": 26,
+      "gas:candidate-vibid:1001000121849": 110,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 673,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 10,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 66,
-      "Против всех": 12
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 10,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 66,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 14,
-      "Михайлов Вадим Анварович": 20,
-      "Сильченко Александр Львович": 15,
-      "Шаповалов Вячеслав Михайлович": 19,
-      "Шуба Виталий Борисович": 220,
-      "Против всех": 34
+      "gas:candidate-vibid:338300166937": 14,
+      "gas:candidate-vibid:1001000190348": 20,
+      "gas:candidate-vibid:1001000121849": 15,
+      "gas:candidate-vibid:338300166993": 19,
+      "gas:candidate-vibid:1001000225938": 220,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 8,
-      "Михайлов Вадим Анварович": 11,
-      "Сильченко Александр Львович": 15,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 130,
-      "Против всех": 24
+      "gas:candidate-vibid:338300166937": 8,
+      "gas:candidate-vibid:1001000190348": 11,
+      "gas:candidate-vibid:1001000121849": 15,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 130,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 12,
-      "Сильченко Александр Львович": 10,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 249,
-      "Против всех": 25
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 12,
+      "gas:candidate-vibid:1001000121849": 10,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 249,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 7,
-      "Михайлов Вадим Анварович": 14,
-      "Сильченко Александр Львович": 42,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 326,
-      "Против всех": 43
+      "gas:candidate-vibid:338300166937": 7,
+      "gas:candidate-vibid:1001000190348": 14,
+      "gas:candidate-vibid:1001000121849": 42,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 326,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 11,
-      "Сильченко Александр Львович": 41,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 227,
-      "Против всех": 24
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 11,
+      "gas:candidate-vibid:1001000121849": 41,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 227,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 7,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 78,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 295,
-      "Против всех": 40
+      "gas:candidate-vibid:338300166937": 7,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 78,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 295,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 8,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 32,
-      "Против всех": 5
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 8,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 32,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 34,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 214,
-      "Против всех": 31
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 34,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 214,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 11,
-      "Сильченко Александр Львович": 1,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 16,
-      "Против всех": 5
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 11,
+      "gas:candidate-vibid:1001000121849": 1,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 16,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167388&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 9,
-      "Михайлов Вадим Анварович": 18,
-      "Сильченко Александр Львович": 151,
-      "Шаповалов Вячеслав Михайлович": 23,
-      "Шуба Виталий Борисович": 494,
-      "Против всех": 118
+      "gas:candidate-vibid:338300166937": 9,
+      "gas:candidate-vibid:1001000190348": 18,
+      "gas:candidate-vibid:1001000121849": 151,
+      "gas:candidate-vibid:338300166993": 23,
+      "gas:candidate-vibid:1001000225938": 494,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 17,
-      "Михайлов Вадим Анварович": 18,
-      "Сильченко Александр Львович": 100,
-      "Шаповалов Вячеслав Михайлович": 19,
-      "Шуба Виталий Борисович": 342,
-      "Против всех": 133
+      "gas:candidate-vibid:338300166937": 17,
+      "gas:candidate-vibid:1001000190348": 18,
+      "gas:candidate-vibid:1001000121849": 100,
+      "gas:candidate-vibid:338300166993": 19,
+      "gas:candidate-vibid:1001000225938": 342,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 19,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 83,
-      "Против всех": 12
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 19,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 83,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 11,
-      "Михайлов Вадим Анварович": 14,
-      "Сильченко Александр Львович": 56,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 222,
-      "Против всех": 60
+      "gas:candidate-vibid:338300166937": 11,
+      "gas:candidate-vibid:1001000190348": 14,
+      "gas:candidate-vibid:1001000121849": 56,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 222,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 5,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 99,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 5,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 99,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 42,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 171,
-      "Против всех": 55
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 42,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 171,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 11,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 53,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 11,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 53,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 8,
-      "Михайлов Вадим Анварович": 13,
-      "Сильченко Александр Львович": 38,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 131,
-      "Против всех": 47
+      "gas:candidate-vibid:338300166937": 8,
+      "gas:candidate-vibid:1001000190348": 13,
+      "gas:candidate-vibid:1001000121849": 38,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 131,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 21,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 170,
-      "Против всех": 24
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 21,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 170,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167389&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 17,
-      "Сильченко Александр Львович": 96,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 504,
-      "Против всех": 70
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 17,
+      "gas:candidate-vibid:1001000121849": 96,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 504,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 11,
-      "Сильченко Александр Львович": 45,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 298,
-      "Против всех": 36
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 11,
+      "gas:candidate-vibid:1001000121849": 45,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 298,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 64,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 302,
-      "Против всех": 36
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 64,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 302,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 11,
-      "Михайлов Вадим Анварович": 23,
-      "Сильченко Александр Львович": 146,
-      "Шаповалов Вячеслав Михайлович": 18,
-      "Шуба Виталий Борисович": 702,
-      "Против всех": 106
+      "gas:candidate-vibid:338300166937": 11,
+      "gas:candidate-vibid:1001000190348": 23,
+      "gas:candidate-vibid:1001000121849": 146,
+      "gas:candidate-vibid:338300166993": 18,
+      "gas:candidate-vibid:1001000225938": 702,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 8,
-      "Михайлов Вадим Анварович": 10,
-      "Сильченко Александр Львович": 70,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 397,
-      "Против всех": 84
+      "gas:candidate-vibid:338300166937": 8,
+      "gas:candidate-vibid:1001000190348": 10,
+      "gas:candidate-vibid:1001000121849": 70,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 397,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 29,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 216,
-      "Против всех": 33
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 29,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 216,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 29,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 172,
-      "Против всех": 14
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 29,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 172,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 52,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 343,
-      "Против всех": 62
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 52,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 343,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 69,
-      "Против всех": 1
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 69,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 10,
-      "Михайлов Вадим Анварович": 12,
-      "Сильченко Александр Львович": 77,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 556,
-      "Против всех": 127
+      "gas:candidate-vibid:338300166937": 10,
+      "gas:candidate-vibid:1001000190348": 12,
+      "gas:candidate-vibid:1001000121849": 77,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 556,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 27,
-      "Против всех": 2
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 27,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 85,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 233,
-      "Против всех": 30
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 85,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 233,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 6,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 30,
-      "Против всех": 3
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 6,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 30,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 4,
-      "Сильченко Александр Львович": 7,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 215,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 4,
+      "gas:candidate-vibid:1001000121849": 7,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 215,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 28,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 197,
-      "Против всех": 23
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 28,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 197,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 8,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 90,
-      "Против всех": 5
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 8,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 90,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 10,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 56,
-      "Против всех": 11
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 10,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 56,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 45,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 266,
-      "Против всех": 57
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 45,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 266,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 63,
-      "Против всех": 7
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 63,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 22,
-      "Михайлов Вадим Анварович": 33,
-      "Сильченко Александр Львович": 83,
-      "Шаповалов Вячеслав Михайлович": 19,
-      "Шуба Виталий Борисович": 362,
-      "Против всех": 157
+      "gas:candidate-vibid:338300166937": 22,
+      "gas:candidate-vibid:1001000190348": 33,
+      "gas:candidate-vibid:1001000121849": 83,
+      "gas:candidate-vibid:338300166993": 19,
+      "gas:candidate-vibid:1001000225938": 362,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 7,
-      "Михайлов Вадим Анварович": 19,
-      "Сильченко Александр Львович": 33,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 160,
-      "Против всех": 75
+      "gas:candidate-vibid:338300166937": 7,
+      "gas:candidate-vibid:1001000190348": 19,
+      "gas:candidate-vibid:1001000121849": 33,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 160,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 4,
-      "Сильченко Александр Львович": 3,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 72,
-      "Против всех": 11
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 4,
+      "gas:candidate-vibid:1001000121849": 3,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 72,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 1,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 46,
-      "Против всех": 3
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 1,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 46,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 14,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 155,
-      "Против всех": 9
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 14,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 155,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 5,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 61,
-      "Против всех": 9
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 5,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 61,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 44,
-      "Против всех": 2
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 44,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 5,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 64,
-      "Против всех": 1
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 5,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 64,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 20,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 153,
-      "Против всех": 31
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 20,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 153,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 10,
-      "Сильченко Александр Львович": 47,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 129,
-      "Против всех": 30
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 10,
+      "gas:candidate-vibid:1001000121849": 47,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 129,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 8,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 42,
-      "Против всех": 13
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 8,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 42,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 4,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 31,
-      "Против всех": 5
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 4,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 31,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 1,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 1,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 4,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 36,
-      "Против всех": 9
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 4,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 36,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 0,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 109,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 0,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 109,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 6,
-      "Сильченко Александр Львович": 7,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 120,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 6,
+      "gas:candidate-vibid:1001000121849": 7,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 120,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 0,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 24,
-      "Против всех": 9
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 0,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 24,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167390&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 9,
-      "Михайлов Вадим Анварович": 44,
-      "Сильченко Александр Львович": 3,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:338300166937": 9,
+      "gas:candidate-vibid:1001000190348": 44,
+      "gas:candidate-vibid:1001000121849": 3,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 17,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 38,
-      "Против всех": 14
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 17,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 38,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 16,
-      "Михайлов Вадим Анварович": 21,
-      "Сильченко Александр Львович": 167,
-      "Шаповалов Вячеслав Михайлович": 18,
-      "Шуба Виталий Борисович": 444,
-      "Против всех": 155
+      "gas:candidate-vibid:338300166937": 16,
+      "gas:candidate-vibid:1001000190348": 21,
+      "gas:candidate-vibid:1001000121849": 167,
+      "gas:candidate-vibid:338300166993": 18,
+      "gas:candidate-vibid:1001000225938": 444,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 6,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 15,
-      "Против всех": 7
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 6,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 15,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 5,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 48,
-      "Против всех": 2
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 5,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 48,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 11,
-      "Михайлов Вадим Анварович": 13,
-      "Сильченко Александр Львович": 54,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 156,
-      "Против всех": 44
+      "gas:candidate-vibid:338300166937": 11,
+      "gas:candidate-vibid:1001000190348": 13,
+      "gas:candidate-vibid:1001000121849": 54,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 156,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 50,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 77,
-      "Против всех": 37
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 50,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 77,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 12,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 18,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 116,
-      "Против всех": 58
+      "gas:candidate-vibid:338300166937": 12,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 18,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 116,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 0,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 41,
-      "Против всех": 0
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 0,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 41,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 12,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 67,
-      "Против всех": 15
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 12,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 67,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 21,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 33,
-      "Против всех": 15
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 21,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 33,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167391&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 74,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 152,
-      "Против всех": 15
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 74,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 152,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 17,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 56,
-      "Против всех": 5
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 17,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 56,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 15,
-      "Михайлов Вадим Анварович": 39,
-      "Сильченко Александр Львович": 211,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 282,
-      "Против всех": 85
+      "gas:candidate-vibid:338300166937": 15,
+      "gas:candidate-vibid:1001000190348": 39,
+      "gas:candidate-vibid:1001000121849": 211,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 282,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 17,
-      "Сильченко Александр Львович": 90,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 202,
-      "Против всех": 58
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 17,
+      "gas:candidate-vibid:1001000121849": 90,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 202,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 21,
-      "Михайлов Вадим Анварович": 31,
-      "Сильченко Александр Львович": 196,
-      "Шаповалов Вячеслав Михайлович": 18,
-      "Шуба Виталий Борисович": 347,
-      "Против всех": 120
+      "gas:candidate-vibid:338300166937": 21,
+      "gas:candidate-vibid:1001000190348": 31,
+      "gas:candidate-vibid:1001000121849": 196,
+      "gas:candidate-vibid:338300166993": 18,
+      "gas:candidate-vibid:1001000225938": 347,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 8,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 30,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 107,
-      "Против всех": 5
+      "gas:candidate-vibid:338300166937": 8,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 30,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 107,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 9,
-      "Михайлов Вадим Анварович": 16,
-      "Сильченко Александр Львович": 61,
-      "Шаповалов Вячеслав Михайлович": 20,
-      "Шуба Виталий Борисович": 154,
-      "Против всех": 54
+      "gas:candidate-vibid:338300166937": 9,
+      "gas:candidate-vibid:1001000190348": 16,
+      "gas:candidate-vibid:1001000121849": 61,
+      "gas:candidate-vibid:338300166993": 20,
+      "gas:candidate-vibid:1001000225938": 154,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 21,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 61,
-      "Против всех": 20
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 21,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 61,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 70,
-      "Михайлов Вадим Анварович": 36,
-      "Сильченко Александр Львович": 68,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 579,
-      "Против всех": 101
+      "gas:candidate-vibid:338300166937": 70,
+      "gas:candidate-vibid:1001000190348": 36,
+      "gas:candidate-vibid:1001000121849": 68,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 579,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 19,
-      "Михайлов Вадим Анварович": 14,
-      "Сильченко Александр Львович": 32,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 135,
-      "Против всех": 34
+      "gas:candidate-vibid:338300166937": 19,
+      "gas:candidate-vibid:1001000190348": 14,
+      "gas:candidate-vibid:1001000121849": 32,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 135,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 27,
-      "Михайлов Вадим Анварович": 25,
-      "Сильченко Александр Львович": 59,
-      "Шаповалов Вячеслав Михайлович": 20,
-      "Шуба Виталий Борисович": 319,
-      "Против всех": 82
+      "gas:candidate-vibid:338300166937": 27,
+      "gas:candidate-vibid:1001000190348": 25,
+      "gas:candidate-vibid:1001000121849": 59,
+      "gas:candidate-vibid:338300166993": 20,
+      "gas:candidate-vibid:1001000225938": 319,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 12,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 44,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 294,
-      "Против всех": 73
+      "gas:candidate-vibid:338300166937": 12,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 44,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 294,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 10,
-      "Сильченко Александр Львович": 26,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 108,
-      "Против всех": 27
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 10,
+      "gas:candidate-vibid:1001000121849": 26,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 108,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 4,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 83,
-      "Против всех": 34
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 4,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 83,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 10,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 11,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 57,
-      "Против всех": 13
+      "gas:candidate-vibid:338300166937": 10,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 11,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 57,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 146,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 383,
-      "Против всех": 39
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 146,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 383,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 106,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 320,
-      "Против всех": 32
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 106,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 320,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 96,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 235,
-      "Против всех": 39
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 96,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 235,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 0,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 33,
-      "Против всех": 1
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 0,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 33,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 11,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 39,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 11,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 39,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 9,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 98,
-      "Против всех": 3
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 9,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 98,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 23,
-      "Против всех": 4
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 23,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167392&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 4,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 64,
-      "Против всех": 8
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 4,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 64,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 8,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 104,
-      "Против всех": 19
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 8,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 104,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 6,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 50,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 6,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 50,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 5,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 43,
-      "Против всех": 2
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 5,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 43,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 7,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 85,
-      "Против всех": 24
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 7,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 85,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 79,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 209,
-      "Против всех": 36
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 79,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 209,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 58,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 239,
-      "Против всех": 47
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 58,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 239,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 7,
-      "Михайлов Вадим Анварович": 12,
-      "Сильченко Александр Львович": 39,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 236,
-      "Против всех": 32
+      "gas:candidate-vibid:338300166937": 7,
+      "gas:candidate-vibid:1001000190348": 12,
+      "gas:candidate-vibid:1001000121849": 39,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 236,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 13,
-      "Михайлов Вадим Анварович": 18,
-      "Сильченко Александр Львович": 24,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 274,
-      "Против всех": 53
+      "gas:candidate-vibid:338300166937": 13,
+      "gas:candidate-vibid:1001000190348": 18,
+      "gas:candidate-vibid:1001000121849": 24,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 274,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 1,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 6,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 52,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 1,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 6,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 52,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 0,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 22,
-      "Против всех": 0
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 0,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 22,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 7,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 3,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 77,
-      "Против всех": 22
+      "gas:candidate-vibid:338300166937": 7,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 3,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 77,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 31,
-      "Против всех": 1
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 31,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 12,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 117,
-      "Против всех": 12
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 12,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 117,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 3,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 45,
-      "Против всех": 15
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 3,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 45,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 19,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 133,
-      "Против всех": 21
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 19,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 133,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 20,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 169,
-      "Против всех": 17
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 20,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 169,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 2,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 58,
-      "Против всех": 4
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 2,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 58,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 6,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 15,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 165,
-      "Против всех": 25
+      "gas:candidate-vibid:338300166937": 6,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 15,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 165,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 1,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 1,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 5,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 28,
-      "Против всех": 9
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 5,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 28,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 6,
-      "Сильченко Александр Львович": 16,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 117,
-      "Против всех": 2
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 6,
+      "gas:candidate-vibid:1001000121849": 16,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 117,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 14,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 125,
-      "Против всех": 8
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 14,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 125,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167393&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 15,
-      "Михайлов Вадим Анварович": 12,
-      "Сильченко Александр Львович": 82,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 376,
-      "Против всех": 47
+      "gas:candidate-vibid:338300166937": 15,
+      "gas:candidate-vibid:1001000190348": 12,
+      "gas:candidate-vibid:1001000121849": 82,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 376,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 35,
-      "Михайлов Вадим Анварович": 14,
-      "Сильченко Александр Львович": 72,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 275,
-      "Против всех": 40
+      "gas:candidate-vibid:338300166937": 35,
+      "gas:candidate-vibid:1001000190348": 14,
+      "gas:candidate-vibid:1001000121849": 72,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 275,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 56,
-      "Михайлов Вадим Анварович": 36,
-      "Сильченко Александр Львович": 170,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 552,
-      "Против всех": 111
+      "gas:candidate-vibid:338300166937": 56,
+      "gas:candidate-vibid:1001000190348": 36,
+      "gas:candidate-vibid:1001000121849": 170,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 552,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 106,
-      "Михайлов Вадим Анварович": 33,
-      "Сильченко Александр Львович": 198,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 402,
-      "Против всех": 104
+      "gas:candidate-vibid:338300166937": 106,
+      "gas:candidate-vibid:1001000190348": 33,
+      "gas:candidate-vibid:1001000121849": 198,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 402,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 70,
-      "Михайлов Вадим Анварович": 50,
-      "Сильченко Александр Львович": 258,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 390,
-      "Против всех": 80
+      "gas:candidate-vibid:338300166937": 70,
+      "gas:candidate-vibid:1001000190348": 50,
+      "gas:candidate-vibid:1001000121849": 258,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 390,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 74,
-      "Михайлов Вадим Анварович": 51,
-      "Сильченко Александр Львович": 181,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 505,
-      "Против всех": 119
+      "gas:candidate-vibid:338300166937": 74,
+      "gas:candidate-vibid:1001000190348": 51,
+      "gas:candidate-vibid:1001000121849": 181,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 505,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 45,
-      "Михайлов Вадим Анварович": 54,
-      "Сильченко Александр Львович": 184,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 450,
-      "Против всех": 121
+      "gas:candidate-vibid:338300166937": 45,
+      "gas:candidate-vibid:1001000190348": 54,
+      "gas:candidate-vibid:1001000121849": 184,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 450,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 65,
-      "Михайлов Вадим Анварович": 43,
-      "Сильченко Александр Львович": 200,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 483,
-      "Против всех": 95
+      "gas:candidate-vibid:338300166937": 65,
+      "gas:candidate-vibid:1001000190348": 43,
+      "gas:candidate-vibid:1001000121849": 200,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 483,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 69,
-      "Михайлов Вадим Анварович": 45,
-      "Сильченко Александр Львович": 198,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 458,
-      "Против всех": 98
+      "gas:candidate-vibid:338300166937": 69,
+      "gas:candidate-vibid:1001000190348": 45,
+      "gas:candidate-vibid:1001000121849": 198,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 458,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 60,
-      "Михайлов Вадим Анварович": 18,
-      "Сильченко Александр Львович": 153,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 397,
-      "Против всех": 97
+      "gas:candidate-vibid:338300166937": 60,
+      "gas:candidate-vibid:1001000190348": 18,
+      "gas:candidate-vibid:1001000121849": 153,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 397,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 113,
-      "Михайлов Вадим Анварович": 30,
-      "Сильченко Александр Львович": 189,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 517,
-      "Против всех": 143
+      "gas:candidate-vibid:338300166937": 113,
+      "gas:candidate-vibid:1001000190348": 30,
+      "gas:candidate-vibid:1001000121849": 189,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 517,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 49,
-      "Михайлов Вадим Анварович": 29,
-      "Сильченко Александр Львович": 150,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 348,
-      "Против всех": 84
+      "gas:candidate-vibid:338300166937": 49,
+      "gas:candidate-vibid:1001000190348": 29,
+      "gas:candidate-vibid:1001000121849": 150,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 348,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 79,
-      "Михайлов Вадим Анварович": 31,
-      "Сильченко Александр Львович": 135,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 359,
-      "Против всех": 103
+      "gas:candidate-vibid:338300166937": 79,
+      "gas:candidate-vibid:1001000190348": 31,
+      "gas:candidate-vibid:1001000121849": 135,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 359,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 34,
-      "Михайлов Вадим Анварович": 34,
-      "Сильченко Александр Львович": 139,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 444,
-      "Против всех": 136
+      "gas:candidate-vibid:338300166937": 34,
+      "gas:candidate-vibid:1001000190348": 34,
+      "gas:candidate-vibid:1001000121849": 139,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 444,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 35,
-      "Михайлов Вадим Анварович": 31,
-      "Сильченко Александр Львович": 137,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 363,
-      "Против всех": 61
+      "gas:candidate-vibid:338300166937": 35,
+      "gas:candidate-vibid:1001000190348": 31,
+      "gas:candidate-vibid:1001000121849": 137,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 363,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 23,
-      "Михайлов Вадим Анварович": 28,
-      "Сильченко Александр Львович": 121,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 299,
-      "Против всех": 82
+      "gas:candidate-vibid:338300166937": 23,
+      "gas:candidate-vibid:1001000190348": 28,
+      "gas:candidate-vibid:1001000121849": 121,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 299,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 127,
-      "Михайлов Вадим Анварович": 61,
-      "Сильченко Александр Львович": 354,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 627,
-      "Против всех": 152
+      "gas:candidate-vibid:338300166937": 127,
+      "gas:candidate-vibid:1001000190348": 61,
+      "gas:candidate-vibid:1001000121849": 354,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 627,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 102,
-      "Михайлов Вадим Анварович": 65,
-      "Сильченко Александр Львович": 349,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 782,
-      "Против всех": 205
+      "gas:candidate-vibid:338300166937": 102,
+      "gas:candidate-vibid:1001000190348": 65,
+      "gas:candidate-vibid:1001000121849": 349,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 782,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 69,
-      "Михайлов Вадим Анварович": 75,
-      "Сильченко Александр Львович": 349,
-      "Шаповалов Вячеслав Михайлович": 20,
-      "Шуба Виталий Борисович": 681,
-      "Против всех": 186
+      "gas:candidate-vibid:338300166937": 69,
+      "gas:candidate-vibid:1001000190348": 75,
+      "gas:candidate-vibid:1001000121849": 349,
+      "gas:candidate-vibid:338300166993": 20,
+      "gas:candidate-vibid:1001000225938": 681,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 60,
-      "Михайлов Вадим Анварович": 68,
-      "Сильченко Александр Львович": 230,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 614,
-      "Против всех": 146
+      "gas:candidate-vibid:338300166937": 60,
+      "gas:candidate-vibid:1001000190348": 68,
+      "gas:candidate-vibid:1001000121849": 230,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 614,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 90,
-      "Михайлов Вадим Анварович": 58,
-      "Сильченко Александр Львович": 254,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 572,
-      "Против всех": 144
+      "gas:candidate-vibid:338300166937": 90,
+      "gas:candidate-vibid:1001000190348": 58,
+      "gas:candidate-vibid:1001000121849": 254,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 572,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 48,
-      "Михайлов Вадим Анварович": 57,
-      "Сильченко Александр Львович": 167,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 480,
-      "Против всех": 116
+      "gas:candidate-vibid:338300166937": 48,
+      "gas:candidate-vibid:1001000190348": 57,
+      "gas:candidate-vibid:1001000121849": 167,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 480,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 58,
-      "Михайлов Вадим Анварович": 59,
-      "Сильченко Александр Львович": 178,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 464,
-      "Против всех": 99
+      "gas:candidate-vibid:338300166937": 58,
+      "gas:candidate-vibid:1001000190348": 59,
+      "gas:candidate-vibid:1001000121849": 178,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 464,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 96,
-      "Михайлов Вадим Анварович": 66,
-      "Сильченко Александр Львович": 340,
-      "Шаповалов Вячеслав Михайлович": 17,
-      "Шуба Виталий Борисович": 698,
-      "Против всех": 199
+      "gas:candidate-vibid:338300166937": 96,
+      "gas:candidate-vibid:1001000190348": 66,
+      "gas:candidate-vibid:1001000121849": 340,
+      "gas:candidate-vibid:338300166993": 17,
+      "gas:candidate-vibid:1001000225938": 698,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 75,
-      "Михайлов Вадим Анварович": 86,
-      "Сильченко Александр Львович": 268,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 698,
-      "Против всех": 168
+      "gas:candidate-vibid:338300166937": 75,
+      "gas:candidate-vibid:1001000190348": 86,
+      "gas:candidate-vibid:1001000121849": 268,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 698,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 57,
-      "Михайлов Вадим Анварович": 52,
-      "Сильченко Александр Львович": 182,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 595,
-      "Против всех": 115
+      "gas:candidate-vibid:338300166937": 57,
+      "gas:candidate-vibid:1001000190348": 52,
+      "gas:candidate-vibid:1001000121849": 182,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 595,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 84,
-      "Михайлов Вадим Анварович": 48,
-      "Сильченко Александр Львович": 259,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 641,
-      "Против всех": 140
+      "gas:candidate-vibid:338300166937": 84,
+      "gas:candidate-vibid:1001000190348": 48,
+      "gas:candidate-vibid:1001000121849": 259,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 641,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 145,
-      "Михайлов Вадим Анварович": 36,
-      "Сильченко Александр Львович": 205,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 568,
-      "Против всех": 166
+      "gas:candidate-vibid:338300166937": 145,
+      "gas:candidate-vibid:1001000190348": 36,
+      "gas:candidate-vibid:1001000121849": 205,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 568,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 115,
-      "Михайлов Вадим Анварович": 51,
-      "Сильченко Александр Львович": 227,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 564,
-      "Против всех": 131
+      "gas:candidate-vibid:338300166937": 115,
+      "gas:candidate-vibid:1001000190348": 51,
+      "gas:candidate-vibid:1001000121849": 227,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 564,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 92,
-      "Михайлов Вадим Анварович": 57,
-      "Сильченко Александр Львович": 251,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 661,
-      "Против всех": 166
+      "gas:candidate-vibid:338300166937": 92,
+      "gas:candidate-vibid:1001000190348": 57,
+      "gas:candidate-vibid:1001000121849": 251,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 661,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 147,
-      "Михайлов Вадим Анварович": 62,
-      "Сильченко Александр Львович": 179,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 656,
-      "Против всех": 159
+      "gas:candidate-vibid:338300166937": 147,
+      "gas:candidate-vibid:1001000190348": 62,
+      "gas:candidate-vibid:1001000121849": 179,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 656,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 75,
-      "Михайлов Вадим Анварович": 58,
-      "Сильченко Александр Львович": 191,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 547,
-      "Против всех": 151
+      "gas:candidate-vibid:338300166937": 75,
+      "gas:candidate-vibid:1001000190348": 58,
+      "gas:candidate-vibid:1001000121849": 191,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 547,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 102,
-      "Михайлов Вадим Анварович": 71,
-      "Сильченко Александр Львович": 172,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 555,
-      "Против всех": 169
+      "gas:candidate-vibid:338300166937": 102,
+      "gas:candidate-vibid:1001000190348": 71,
+      "gas:candidate-vibid:1001000121849": 172,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 555,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 110,
-      "Михайлов Вадим Анварович": 93,
-      "Сильченко Александр Львович": 226,
-      "Шаповалов Вячеслав Михайлович": 18,
-      "Шуба Виталий Борисович": 770,
-      "Против всех": 171
+      "gas:candidate-vibid:338300166937": 110,
+      "gas:candidate-vibid:1001000190348": 93,
+      "gas:candidate-vibid:1001000121849": 226,
+      "gas:candidate-vibid:338300166993": 18,
+      "gas:candidate-vibid:1001000225938": 770,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 144,
-      "Михайлов Вадим Анварович": 89,
-      "Сильченко Александр Львович": 247,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 681,
-      "Против всех": 172
+      "gas:candidate-vibid:338300166937": 144,
+      "gas:candidate-vibid:1001000190348": 89,
+      "gas:candidate-vibid:1001000121849": 247,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 681,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 70,
-      "Михайлов Вадим Анварович": 39,
-      "Сильченко Александр Львович": 140,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 406,
-      "Против всех": 80
+      "gas:candidate-vibid:338300166937": 70,
+      "gas:candidate-vibid:1001000190348": 39,
+      "gas:candidate-vibid:1001000121849": 140,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 406,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 110,
-      "Михайлов Вадим Анварович": 56,
-      "Сильченко Александр Львович": 163,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 492,
-      "Против всех": 171
+      "gas:candidate-vibid:338300166937": 110,
+      "gas:candidate-vibid:1001000190348": 56,
+      "gas:candidate-vibid:1001000121849": 163,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 492,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 106,
-      "Михайлов Вадим Анварович": 48,
-      "Сильченко Александр Львович": 294,
-      "Шаповалов Вячеслав Михайлович": 18,
-      "Шуба Виталий Борисович": 694,
-      "Против всех": 144
+      "gas:candidate-vibid:338300166937": 106,
+      "gas:candidate-vibid:1001000190348": 48,
+      "gas:candidate-vibid:1001000121849": 294,
+      "gas:candidate-vibid:338300166993": 18,
+      "gas:candidate-vibid:1001000225938": 694,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 89,
-      "Михайлов Вадим Анварович": 59,
-      "Сильченко Александр Львович": 223,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 646,
-      "Против всех": 160
+      "gas:candidate-vibid:338300166937": 89,
+      "gas:candidate-vibid:1001000190348": 59,
+      "gas:candidate-vibid:1001000121849": 223,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 646,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 118,
-      "Михайлов Вадим Анварович": 61,
-      "Сильченко Александр Львович": 252,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 691,
-      "Против всех": 148
+      "gas:candidate-vibid:338300166937": 118,
+      "gas:candidate-vibid:1001000190348": 61,
+      "gas:candidate-vibid:1001000121849": 252,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 691,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 93,
-      "Михайлов Вадим Анварович": 37,
-      "Сильченко Александр Львович": 242,
-      "Шаповалов Вячеслав Михайлович": 17,
-      "Шуба Виталий Борисович": 600,
-      "Против всех": 111
+      "gas:candidate-vibid:338300166937": 93,
+      "gas:candidate-vibid:1001000190348": 37,
+      "gas:candidate-vibid:1001000121849": 242,
+      "gas:candidate-vibid:338300166993": 17,
+      "gas:candidate-vibid:1001000225938": 600,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 76,
-      "Михайлов Вадим Анварович": 66,
-      "Сильченко Александр Львович": 253,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 491,
-      "Против всех": 136
+      "gas:candidate-vibid:338300166937": 76,
+      "gas:candidate-vibid:1001000190348": 66,
+      "gas:candidate-vibid:1001000121849": 253,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 491,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 60,
-      "Михайлов Вадим Анварович": 61,
-      "Сильченко Александр Львович": 214,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 462,
-      "Против всех": 122
+      "gas:candidate-vibid:338300166937": 60,
+      "gas:candidate-vibid:1001000190348": 61,
+      "gas:candidate-vibid:1001000121849": 214,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 462,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 60,
-      "Михайлов Вадим Анварович": 63,
-      "Сильченко Александр Львович": 213,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 591,
-      "Против всех": 140
+      "gas:candidate-vibid:338300166937": 60,
+      "gas:candidate-vibid:1001000190348": 63,
+      "gas:candidate-vibid:1001000121849": 213,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 591,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 81,
-      "Михайлов Вадим Анварович": 44,
-      "Сильченко Александр Львович": 231,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 534,
-      "Против всех": 134
+      "gas:candidate-vibid:338300166937": 81,
+      "gas:candidate-vibid:1001000190348": 44,
+      "gas:candidate-vibid:1001000121849": 231,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 534,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 100,
-      "Михайлов Вадим Анварович": 48,
-      "Сильченко Александр Львович": 203,
-      "Шаповалов Вячеслав Михайлович": 7,
-      "Шуба Виталий Борисович": 509,
-      "Против всех": 157
+      "gas:candidate-vibid:338300166937": 100,
+      "gas:candidate-vibid:1001000190348": 48,
+      "gas:candidate-vibid:1001000121849": 203,
+      "gas:candidate-vibid:338300166993": 7,
+      "gas:candidate-vibid:1001000225938": 509,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 92,
-      "Михайлов Вадим Анварович": 43,
-      "Сильченко Александр Львович": 251,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 494,
-      "Против всех": 137
+      "gas:candidate-vibid:338300166937": 92,
+      "gas:candidate-vibid:1001000190348": 43,
+      "gas:candidate-vibid:1001000121849": 251,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 494,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 78,
-      "Михайлов Вадим Анварович": 38,
-      "Сильченко Александр Львович": 209,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 523,
-      "Против всех": 158
+      "gas:candidate-vibid:338300166937": 78,
+      "gas:candidate-vibid:1001000190348": 38,
+      "gas:candidate-vibid:1001000121849": 209,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 523,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 73,
-      "Михайлов Вадим Анварович": 63,
-      "Сильченко Александр Львович": 211,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 513,
-      "Против всех": 139
+      "gas:candidate-vibid:338300166937": 73,
+      "gas:candidate-vibid:1001000190348": 63,
+      "gas:candidate-vibid:1001000121849": 211,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 513,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 82,
-      "Михайлов Вадим Анварович": 65,
-      "Сильченко Александр Львович": 172,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 466,
-      "Против всех": 107
+      "gas:candidate-vibid:338300166937": 82,
+      "gas:candidate-vibid:1001000190348": 65,
+      "gas:candidate-vibid:1001000121849": 172,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 466,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 92,
-      "Михайлов Вадим Анварович": 45,
-      "Сильченко Александр Львович": 199,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 534,
-      "Против всех": 118
+      "gas:candidate-vibid:338300166937": 92,
+      "gas:candidate-vibid:1001000190348": 45,
+      "gas:candidate-vibid:1001000121849": 199,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 534,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 52,
-      "Михайлов Вадим Анварович": 21,
-      "Сильченко Александр Львович": 105,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 346,
-      "Против всех": 82
+      "gas:candidate-vibid:338300166937": 52,
+      "gas:candidate-vibid:1001000190348": 21,
+      "gas:candidate-vibid:1001000121849": 105,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 346,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 9,
-      "Михайлов Вадим Анварович": 6,
-      "Сильченко Александр Львович": 33,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 71,
-      "Против всех": 17
+      "gas:candidate-vibid:338300166937": 9,
+      "gas:candidate-vibid:1001000190348": 6,
+      "gas:candidate-vibid:1001000121849": 33,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 71,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 16,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 36,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 95,
-      "Против всех": 27
+      "gas:candidate-vibid:338300166937": 16,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 36,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 95,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 27,
-      "Михайлов Вадим Анварович": 6,
-      "Сильченко Александр Львович": 81,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 309,
-      "Против всех": 28
+      "gas:candidate-vibid:338300166937": 27,
+      "gas:candidate-vibid:1001000190348": 6,
+      "gas:candidate-vibid:1001000121849": 81,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 309,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 12,
-      "Михайлов Вадим Анварович": 20,
-      "Сильченко Александр Львович": 26,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 189,
-      "Против всех": 109
+      "gas:candidate-vibid:338300166937": 12,
+      "gas:candidate-vibid:1001000190348": 20,
+      "gas:candidate-vibid:1001000121849": 26,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 189,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 64,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 96,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 257,
-      "Против всех": 46
+      "gas:candidate-vibid:338300166937": 64,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 96,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 257,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 48,
-      "Михайлов Вадим Анварович": 16,
-      "Сильченко Александр Львович": 161,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 346,
-      "Против всех": 102
+      "gas:candidate-vibid:338300166937": 48,
+      "gas:candidate-vibid:1001000190348": 16,
+      "gas:candidate-vibid:1001000121849": 161,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 346,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 20,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 111,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 343,
-      "Против всех": 77
+      "gas:candidate-vibid:338300166937": 20,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 111,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 343,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 92,
-      "Михайлов Вадим Анварович": 39,
-      "Сильченко Александр Львович": 157,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 353,
-      "Против всех": 74
+      "gas:candidate-vibid:338300166937": 92,
+      "gas:candidate-vibid:1001000190348": 39,
+      "gas:candidate-vibid:1001000121849": 157,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 353,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 68,
-      "Михайлов Вадим Анварович": 29,
-      "Сильченко Александр Львович": 142,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 382,
-      "Против всех": 114
+      "gas:candidate-vibid:338300166937": 68,
+      "gas:candidate-vibid:1001000190348": 29,
+      "gas:candidate-vibid:1001000121849": 142,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 382,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 26,
-      "Михайлов Вадим Анварович": 20,
-      "Сильченко Александр Львович": 105,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 221,
-      "Против всех": 75
+      "gas:candidate-vibid:338300166937": 26,
+      "gas:candidate-vibid:1001000190348": 20,
+      "gas:candidate-vibid:1001000121849": 105,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 221,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 32,
-      "Михайлов Вадим Анварович": 39,
-      "Сильченко Александр Львович": 130,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 252,
-      "Против всех": 64
+      "gas:candidate-vibid:338300166937": 32,
+      "gas:candidate-vibid:1001000190348": 39,
+      "gas:candidate-vibid:1001000121849": 130,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 252,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 90,
-      "Михайлов Вадим Анварович": 37,
-      "Сильченко Александр Львович": 218,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 514,
-      "Против всех": 112
+      "gas:candidate-vibid:338300166937": 90,
+      "gas:candidate-vibid:1001000190348": 37,
+      "gas:candidate-vibid:1001000121849": 218,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 514,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 134,
-      "Михайлов Вадим Анварович": 65,
-      "Сильченко Александр Львович": 257,
-      "Шаповалов Вячеслав Михайлович": 17,
-      "Шуба Виталий Борисович": 462,
-      "Против всех": 176
+      "gas:candidate-vibid:338300166937": 134,
+      "gas:candidate-vibid:1001000190348": 65,
+      "gas:candidate-vibid:1001000121849": 257,
+      "gas:candidate-vibid:338300166993": 17,
+      "gas:candidate-vibid:1001000225938": 462,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 78,
-      "Михайлов Вадим Анварович": 44,
-      "Сильченко Александр Львович": 202,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 361,
-      "Против всех": 148
+      "gas:candidate-vibid:338300166937": 78,
+      "gas:candidate-vibid:1001000190348": 44,
+      "gas:candidate-vibid:1001000121849": 202,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 361,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 91,
-      "Михайлов Вадим Анварович": 50,
-      "Сильченко Александр Львович": 254,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 466,
-      "Против всех": 188
+      "gas:candidate-vibid:338300166937": 91,
+      "gas:candidate-vibid:1001000190348": 50,
+      "gas:candidate-vibid:1001000121849": 254,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 466,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 110,
-      "Михайлов Вадим Анварович": 39,
-      "Сильченко Александр Львович": 207,
-      "Шаповалов Вячеслав Михайлович": 24,
-      "Шуба Виталий Борисович": 564,
-      "Против всех": 178
+      "gas:candidate-vibid:338300166937": 110,
+      "gas:candidate-vibid:1001000190348": 39,
+      "gas:candidate-vibid:1001000121849": 207,
+      "gas:candidate-vibid:338300166993": 24,
+      "gas:candidate-vibid:1001000225938": 564,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 87,
-      "Михайлов Вадим Анварович": 55,
-      "Сильченко Александр Львович": 163,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 507,
-      "Против всех": 159
+      "gas:candidate-vibid:338300166937": 87,
+      "gas:candidate-vibid:1001000190348": 55,
+      "gas:candidate-vibid:1001000121849": 163,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 507,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 98,
-      "Михайлов Вадим Анварович": 41,
-      "Сильченко Александр Львович": 251,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 526,
-      "Против всех": 147
+      "gas:candidate-vibid:338300166937": 98,
+      "gas:candidate-vibid:1001000190348": 41,
+      "gas:candidate-vibid:1001000121849": 251,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 526,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 134,
-      "Михайлов Вадим Анварович": 47,
-      "Сильченко Александр Львович": 333,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 591,
-      "Против всех": 181
+      "gas:candidate-vibid:338300166937": 134,
+      "gas:candidate-vibid:1001000190348": 47,
+      "gas:candidate-vibid:1001000121849": 333,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 591,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 145,
-      "Михайлов Вадим Анварович": 63,
-      "Сильченко Александр Львович": 375,
-      "Шаповалов Вячеслав Михайлович": 24,
-      "Шуба Виталий Борисович": 595,
-      "Против всех": 200
+      "gas:candidate-vibid:338300166937": 145,
+      "gas:candidate-vibid:1001000190348": 63,
+      "gas:candidate-vibid:1001000121849": 375,
+      "gas:candidate-vibid:338300166993": 24,
+      "gas:candidate-vibid:1001000225938": 595,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 117,
-      "Михайлов Вадим Анварович": 48,
-      "Сильченко Александр Львович": 347,
-      "Шаповалов Вячеслав Михайлович": 30,
-      "Шуба Виталий Борисович": 569,
-      "Против всех": 150
+      "gas:candidate-vibid:338300166937": 117,
+      "gas:candidate-vibid:1001000190348": 48,
+      "gas:candidate-vibid:1001000121849": 347,
+      "gas:candidate-vibid:338300166993": 30,
+      "gas:candidate-vibid:1001000225938": 569,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 119,
-      "Михайлов Вадим Анварович": 49,
-      "Сильченко Александр Львович": 213,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 458,
-      "Против всех": 124
+      "gas:candidate-vibid:338300166937": 119,
+      "gas:candidate-vibid:1001000190348": 49,
+      "gas:candidate-vibid:1001000121849": 213,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 458,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 101,
-      "Михайлов Вадим Анварович": 60,
-      "Сильченко Александр Львович": 146,
-      "Шаповалов Вячеслав Михайлович": 17,
-      "Шуба Виталий Борисович": 608,
-      "Против всех": 193
+      "gas:candidate-vibid:338300166937": 101,
+      "gas:candidate-vibid:1001000190348": 60,
+      "gas:candidate-vibid:1001000121849": 146,
+      "gas:candidate-vibid:338300166993": 17,
+      "gas:candidate-vibid:1001000225938": 608,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 43,
-      "Михайлов Вадим Анварович": 69,
-      "Сильченко Александр Львович": 287,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 602,
-      "Против всех": 197
+      "gas:candidate-vibid:338300166937": 43,
+      "gas:candidate-vibid:1001000190348": 69,
+      "gas:candidate-vibid:1001000121849": 287,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 602,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 78,
-      "Михайлов Вадим Анварович": 52,
-      "Сильченко Александр Львович": 307,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 438,
-      "Против всех": 163
+      "gas:candidate-vibid:338300166937": 78,
+      "gas:candidate-vibid:1001000190348": 52,
+      "gas:candidate-vibid:1001000121849": 307,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 438,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 85,
-      "Михайлов Вадим Анварович": 46,
-      "Сильченко Александр Львович": 262,
-      "Шаповалов Вячеслав Михайлович": 12,
-      "Шуба Виталий Борисович": 447,
-      "Против всех": 128
+      "gas:candidate-vibid:338300166937": 85,
+      "gas:candidate-vibid:1001000190348": 46,
+      "gas:candidate-vibid:1001000121849": 262,
+      "gas:candidate-vibid:338300166993": 12,
+      "gas:candidate-vibid:1001000225938": 447,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 117,
-      "Михайлов Вадим Анварович": 51,
-      "Сильченко Александр Львович": 378,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 523,
-      "Против всех": 154
+      "gas:candidate-vibid:338300166937": 117,
+      "gas:candidate-vibid:1001000190348": 51,
+      "gas:candidate-vibid:1001000121849": 378,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 523,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 10,
-      "Сильченко Александр Львович": 15,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 84,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 10,
+      "gas:candidate-vibid:1001000121849": 15,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 84,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 87,
-      "Михайлов Вадим Анварович": 31,
-      "Сильченко Александр Львович": 195,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 368,
-      "Против всех": 122
+      "gas:candidate-vibid:338300166937": 87,
+      "gas:candidate-vibid:1001000190348": 31,
+      "gas:candidate-vibid:1001000121849": 195,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 368,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 72,
-      "Михайлов Вадим Анварович": 29,
-      "Сильченко Александр Львович": 214,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 363,
-      "Против всех": 109
+      "gas:candidate-vibid:338300166937": 72,
+      "gas:candidate-vibid:1001000190348": 29,
+      "gas:candidate-vibid:1001000121849": 214,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 363,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 163,
-      "Михайлов Вадим Анварович": 46,
-      "Сильченко Александр Львович": 331,
-      "Шаповалов Вячеслав Михайлович": 22,
-      "Шуба Виталий Борисович": 501,
-      "Против всех": 154
+      "gas:candidate-vibid:338300166937": 163,
+      "gas:candidate-vibid:1001000190348": 46,
+      "gas:candidate-vibid:1001000121849": 331,
+      "gas:candidate-vibid:338300166993": 22,
+      "gas:candidate-vibid:1001000225938": 501,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 148,
-      "Михайлов Вадим Анварович": 39,
-      "Сильченко Александр Львович": 271,
-      "Шаповалов Вячеслав Михайлович": 19,
-      "Шуба Виталий Борисович": 531,
-      "Против всех": 138
+      "gas:candidate-vibid:338300166937": 148,
+      "gas:candidate-vibid:1001000190348": 39,
+      "gas:candidate-vibid:1001000121849": 271,
+      "gas:candidate-vibid:338300166993": 19,
+      "gas:candidate-vibid:1001000225938": 531,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 136,
-      "Михайлов Вадим Анварович": 47,
-      "Сильченко Александр Львович": 247,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 506,
-      "Против всех": 167
+      "gas:candidate-vibid:338300166937": 136,
+      "gas:candidate-vibid:1001000190348": 47,
+      "gas:candidate-vibid:1001000121849": 247,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 506,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 81,
-      "Михайлов Вадим Анварович": 29,
-      "Сильченко Александр Львович": 204,
-      "Шаповалов Вячеслав Михайлович": 15,
-      "Шуба Виталий Борисович": 343,
-      "Против всех": 93
+      "gas:candidate-vibid:338300166937": 81,
+      "gas:candidate-vibid:1001000190348": 29,
+      "gas:candidate-vibid:1001000121849": 204,
+      "gas:candidate-vibid:338300166993": 15,
+      "gas:candidate-vibid:1001000225938": 343,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 35,
-      "Михайлов Вадим Анварович": 14,
-      "Сильченко Александр Львович": 68,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 158,
-      "Против всех": 25
+      "gas:candidate-vibid:338300166937": 35,
+      "gas:candidate-vibid:1001000190348": 14,
+      "gas:candidate-vibid:1001000121849": 68,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 158,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 120,
-      "Михайлов Вадим Анварович": 41,
-      "Сильченко Александр Львович": 249,
-      "Шаповалов Вячеслав Михайлович": 16,
-      "Шуба Виталий Борисович": 410,
-      "Против всех": 135
+      "gas:candidate-vibid:338300166937": 120,
+      "gas:candidate-vibid:1001000190348": 41,
+      "gas:candidate-vibid:1001000121849": 249,
+      "gas:candidate-vibid:338300166993": 16,
+      "gas:candidate-vibid:1001000225938": 410,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 53,
-      "Михайлов Вадим Анварович": 16,
-      "Сильченко Александр Львович": 114,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 195,
-      "Против всех": 50
+      "gas:candidate-vibid:338300166937": 53,
+      "gas:candidate-vibid:1001000190348": 16,
+      "gas:candidate-vibid:1001000121849": 114,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 195,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 73,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 76,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 116,
-      "Против всех": 49
+      "gas:candidate-vibid:338300166937": 73,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 76,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 116,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 73,
-      "Михайлов Вадим Анварович": 21,
-      "Сильченко Александр Львович": 157,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 210,
-      "Против всех": 81
+      "gas:candidate-vibid:338300166937": 73,
+      "gas:candidate-vibid:1001000190348": 21,
+      "gas:candidate-vibid:1001000121849": 157,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 210,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 47,
-      "Михайлов Вадим Анварович": 17,
-      "Сильченко Александр Львович": 99,
-      "Шаповалов Вячеслав Михайлович": 11,
-      "Шуба Виталий Борисович": 157,
-      "Против всех": 44
+      "gas:candidate-vibid:338300166937": 47,
+      "gas:candidate-vibid:1001000190348": 17,
+      "gas:candidate-vibid:1001000121849": 99,
+      "gas:candidate-vibid:338300166993": 11,
+      "gas:candidate-vibid:1001000225938": 157,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 49,
-      "Михайлов Вадим Анварович": 53,
-      "Сильченко Александр Львович": 299,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 495,
-      "Против всех": 139
+      "gas:candidate-vibid:338300166937": 49,
+      "gas:candidate-vibid:1001000190348": 53,
+      "gas:candidate-vibid:1001000121849": 299,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 495,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 127,
-      "Михайлов Вадим Анварович": 28,
-      "Сильченко Александр Львович": 243,
-      "Шаповалов Вячеслав Михайлович": 13,
-      "Шуба Виталий Борисович": 404,
-      "Против всех": 85
+      "gas:candidate-vibid:338300166937": 127,
+      "gas:candidate-vibid:1001000190348": 28,
+      "gas:candidate-vibid:1001000121849": 243,
+      "gas:candidate-vibid:338300166993": 13,
+      "gas:candidate-vibid:1001000225938": 404,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 65,
-      "Михайлов Вадим Анварович": 48,
-      "Сильченко Александр Львович": 254,
-      "Шаповалов Вячеслав Михайлович": 20,
-      "Шуба Виталий Борисович": 423,
-      "Против всех": 122
+      "gas:candidate-vibid:338300166937": 65,
+      "gas:candidate-vibid:1001000190348": 48,
+      "gas:candidate-vibid:1001000121849": 254,
+      "gas:candidate-vibid:338300166993": 20,
+      "gas:candidate-vibid:1001000225938": 423,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 47,
-      "Михайлов Вадим Анварович": 23,
-      "Сильченко Александр Львович": 135,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 228,
-      "Против всех": 86
+      "gas:candidate-vibid:338300166937": 47,
+      "gas:candidate-vibid:1001000190348": 23,
+      "gas:candidate-vibid:1001000121849": 135,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 228,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 64,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 137,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 319,
-      "Против всех": 62
+      "gas:candidate-vibid:338300166937": 64,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 137,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 319,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167394&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 10,
-      "Михайлов Вадим Анварович": 5,
-      "Сильченко Александр Львович": 94,
-      "Шаповалов Вячеслав Михайлович": 9,
-      "Шуба Виталий Борисович": 198,
-      "Против всех": 43
+      "gas:candidate-vibid:338300166937": 10,
+      "gas:candidate-vibid:1001000190348": 5,
+      "gas:candidate-vibid:1001000121849": 94,
+      "gas:candidate-vibid:338300166993": 9,
+      "gas:candidate-vibid:1001000225938": 198,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 17,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 76,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 65,
-      "Против всех": 7
+      "gas:candidate-vibid:338300166937": 17,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 76,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 65,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 0,
-      "Михайлов Вадим Анварович": 0,
-      "Сильченко Александр Львович": 10,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 34,
-      "Против всех": 0
+      "gas:candidate-vibid:338300166937": 0,
+      "gas:candidate-vibid:1001000190348": 0,
+      "gas:candidate-vibid:1001000121849": 10,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 34,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 12,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 24,
-      "Шаповалов Вячеслав Михайлович": 14,
-      "Шуба Виталий Борисович": 97,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 12,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 24,
+      "gas:candidate-vibid:338300166993": 14,
+      "gas:candidate-vibid:1001000225938": 97,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 14,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 61,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 14,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 61,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 42,
-      "Михайлов Вадим Анварович": 14,
-      "Сильченко Александр Львович": 50,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 209,
-      "Против всех": 26
+      "gas:candidate-vibid:338300166937": 42,
+      "gas:candidate-vibid:1001000190348": 14,
+      "gas:candidate-vibid:1001000121849": 50,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 209,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 101,
-      "Михайлов Вадим Анварович": 20,
-      "Сильченко Александр Львович": 172,
-      "Шаповалов Вячеслав Михайлович": 19,
-      "Шуба Виталий Борисович": 510,
-      "Против всех": 81
+      "gas:candidate-vibid:338300166937": 101,
+      "gas:candidate-vibid:1001000190348": 20,
+      "gas:candidate-vibid:1001000121849": 172,
+      "gas:candidate-vibid:338300166993": 19,
+      "gas:candidate-vibid:1001000225938": 510,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 27,
-      "Шаповалов Вячеслав Михайлович": 2,
-      "Шуба Виталий Борисович": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 27,
+      "gas:candidate-vibid:338300166993": 2,
+      "gas:candidate-vibid:1001000225938": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 2,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 10,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 25,
-      "Против всех": 1
+      "gas:candidate-vibid:338300166937": 2,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 10,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 25,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 17,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 47,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 335,
-      "Против всех": 34
+      "gas:candidate-vibid:338300166937": 17,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 47,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 335,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 28,
-      "Михайлов Вадим Анварович": 21,
-      "Сильченко Александр Львович": 211,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 631,
-      "Против всех": 60
+      "gas:candidate-vibid:338300166937": 28,
+      "gas:candidate-vibid:1001000190348": 21,
+      "gas:candidate-vibid:1001000121849": 211,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 631,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 10,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 16,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 93,
-      "Против всех": 28
+      "gas:candidate-vibid:338300166937": 10,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 16,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 93,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 34,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 68,
-      "Против всех": 6
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 34,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 68,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 14,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 50,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 142,
-      "Против всех": 8
+      "gas:candidate-vibid:338300166937": 14,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 50,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 142,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 23,
-      "Михайлов Вадим Анварович": 11,
-      "Сильченко Александр Львович": 93,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 170,
-      "Против всех": 25
+      "gas:candidate-vibid:338300166937": 23,
+      "gas:candidate-vibid:1001000190348": 11,
+      "gas:candidate-vibid:1001000121849": 93,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 170,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 30,
-      "Михайлов Вадим Анварович": 27,
-      "Сильченко Александр Львович": 233,
-      "Шаповалов Вячеслав Михайлович": 10,
-      "Шуба Виталий Борисович": 452,
-      "Против всех": 99
+      "gas:candidate-vibid:338300166937": 30,
+      "gas:candidate-vibid:1001000190348": 27,
+      "gas:candidate-vibid:1001000121849": 233,
+      "gas:candidate-vibid:338300166993": 10,
+      "gas:candidate-vibid:1001000225938": 452,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 1,
-      "Сильченко Александр Львович": 65,
-      "Шаповалов Вячеслав Михайлович": 1,
-      "Шуба Виталий Борисович": 78,
-      "Против всех": 23
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 1,
+      "gas:candidate-vibid:1001000121849": 65,
+      "gas:candidate-vibid:338300166993": 1,
+      "gas:candidate-vibid:1001000225938": 78,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 16,
-      "Михайлов Вадим Анварович": 8,
-      "Сильченко Александр Львович": 24,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 125,
-      "Против всех": 42
+      "gas:candidate-vibid:338300166937": 16,
+      "gas:candidate-vibid:1001000190348": 8,
+      "gas:candidate-vibid:1001000121849": 24,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 125,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 27,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 64,
-      "Шаповалов Вячеслав Михайлович": 3,
-      "Шуба Виталий Борисович": 115,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 27,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 64,
+      "gas:candidate-vibid:338300166993": 3,
+      "gas:candidate-vibid:1001000225938": 115,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 21,
-      "Михайлов Вадим Анварович": 10,
-      "Сильченко Александр Львович": 196,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 191,
-      "Против всех": 65
+      "gas:candidate-vibid:338300166937": 21,
+      "gas:candidate-vibid:1001000190348": 10,
+      "gas:candidate-vibid:1001000121849": 196,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 191,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 21,
-      "Михайлов Вадим Анварович": 7,
-      "Сильченко Александр Львович": 83,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 50,
-      "Против всех": 21
+      "gas:candidate-vibid:338300166937": 21,
+      "gas:candidate-vibid:1001000190348": 7,
+      "gas:candidate-vibid:1001000121849": 83,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 50,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 58,
-      "Михайлов Вадим Анварович": 12,
-      "Сильченко Александр Львович": 117,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 447,
-      "Против всех": 33
+      "gas:candidate-vibid:338300166937": 58,
+      "gas:candidate-vibid:1001000190348": 12,
+      "gas:candidate-vibid:1001000121849": 117,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 447,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 37,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 42,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 278,
-      "Против всех": 13
+      "gas:candidate-vibid:338300166937": 37,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 42,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 278,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 40,
-      "Михайлов Вадим Анварович": 15,
-      "Сильченко Александр Львович": 87,
-      "Шаповалов Вячеслав Михайлович": 8,
-      "Шуба Виталий Борисович": 209,
-      "Против всех": 18
+      "gas:candidate-vibid:338300166937": 40,
+      "gas:candidate-vibid:1001000190348": 15,
+      "gas:candidate-vibid:1001000121849": 87,
+      "gas:candidate-vibid:338300166993": 8,
+      "gas:candidate-vibid:1001000225938": 209,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 5,
-      "Михайлов Вадим Анварович": 13,
-      "Сильченко Александр Львович": 53,
-      "Шаповалов Вячеслав Михайлович": 6,
-      "Шуба Виталий Борисович": 235,
-      "Против всех": 35
+      "gas:candidate-vibid:338300166937": 5,
+      "gas:candidate-vibid:1001000190348": 13,
+      "gas:candidate-vibid:1001000121849": 53,
+      "gas:candidate-vibid:338300166993": 6,
+      "gas:candidate-vibid:1001000225938": 235,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 10,
-      "Михайлов Вадим Анварович": 9,
-      "Сильченко Александр Львович": 176,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 160,
-      "Против всех": 29
+      "gas:candidate-vibid:338300166937": 10,
+      "gas:candidate-vibid:1001000190348": 9,
+      "gas:candidate-vibid:1001000121849": 176,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 160,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 4,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 61,
-      "Шаповалов Вячеслав Михайлович": 5,
-      "Шуба Виталий Борисович": 121,
-      "Против всех": 12
+      "gas:candidate-vibid:338300166937": 4,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 61,
+      "gas:candidate-vibid:338300166993": 5,
+      "gas:candidate-vibid:1001000225938": 121,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 117,
-      "Михайлов Вадим Анварович": 26,
-      "Сильченко Александр Львович": 121,
-      "Шаповалов Вячеслав Михайлович": 17,
-      "Шуба Виталий Борисович": 380,
-      "Против всех": 85
+      "gas:candidate-vibid:338300166937": 117,
+      "gas:candidate-vibid:1001000190348": 26,
+      "gas:candidate-vibid:1001000121849": 121,
+      "gas:candidate-vibid:338300166993": 17,
+      "gas:candidate-vibid:1001000225938": 380,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 21,
-      "Михайлов Вадим Анварович": 3,
-      "Сильченко Александр Львович": 48,
-      "Шаповалов Вячеслав Михайлович": 0,
-      "Шуба Виталий Борисович": 132,
-      "Против всех": 15
+      "gas:candidate-vibid:338300166937": 21,
+      "gas:candidate-vibid:1001000190348": 3,
+      "gas:candidate-vibid:1001000121849": 48,
+      "gas:candidate-vibid:338300166993": 0,
+      "gas:candidate-vibid:1001000225938": 132,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_38_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Вечирко Александр Александрович": 3,
-      "Михайлов Вадим Анварович": 2,
-      "Сильченко Александр Львович": 26,
-      "Шаповалов Вячеслав Михайлович": 4,
-      "Шуба Виталий Борисович": 163,
-      "Против всех": 16
+      "gas:candidate-vibid:338300166937": 3,
+      "gas:candidate-vibid:1001000190348": 2,
+      "gas:candidate-vibid:1001000121849": 26,
+      "gas:candidate-vibid:338300166993": 4,
+      "gas:candidate-vibid:1001000225938": 163,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=383001015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=338300167395&region=0&sub_region=0&type=429",

@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 99,
-      "Садыков Роберт Гарипович": 333,
-      "Салихов Альберт Ильдусович": 1108,
-      "Смирнов Шамиль Васильевич": 39,
-      "Якушев Александр Сергеевич": 213,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000202281": 99,
+      "gas:candidate-vibid:1001000121800": 333,
+      "gas:candidate-vibid:1001000225905": 1108,
+      "gas:candidate-vibid:1001000113902": 39,
+      "gas:candidate-vibid:316300470936": 213,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 88,
-      "Садыков Роберт Гарипович": 300,
-      "Салихов Альберт Ильдусович": 988,
-      "Смирнов Шамиль Васильевич": 50,
-      "Якушев Александр Сергеевич": 301,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000202281": 88,
+      "gas:candidate-vibid:1001000121800": 300,
+      "gas:candidate-vibid:1001000225905": 988,
+      "gas:candidate-vibid:1001000113902": 50,
+      "gas:candidate-vibid:316300470936": 301,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 97,
-      "Садыков Роберт Гарипович": 296,
-      "Салихов Альберт Ильдусович": 943,
-      "Смирнов Шамиль Васильевич": 35,
-      "Якушев Александр Сергеевич": 202,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000202281": 97,
+      "gas:candidate-vibid:1001000121800": 296,
+      "gas:candidate-vibid:1001000225905": 943,
+      "gas:candidate-vibid:1001000113902": 35,
+      "gas:candidate-vibid:316300470936": 202,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 93,
-      "Садыков Роберт Гарипович": 217,
-      "Салихов Альберт Ильдусович": 944,
-      "Смирнов Шамиль Васильевич": 42,
-      "Якушев Александр Сергеевич": 198,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000202281": 93,
+      "gas:candidate-vibid:1001000121800": 217,
+      "gas:candidate-vibid:1001000225905": 944,
+      "gas:candidate-vibid:1001000113902": 42,
+      "gas:candidate-vibid:316300470936": 198,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 87,
-      "Садыков Роберт Гарипович": 241,
-      "Салихов Альберт Ильдусович": 917,
-      "Смирнов Шамиль Васильевич": 28,
-      "Якушев Александр Сергеевич": 198,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000202281": 87,
+      "gas:candidate-vibid:1001000121800": 241,
+      "gas:candidate-vibid:1001000225905": 917,
+      "gas:candidate-vibid:1001000113902": 28,
+      "gas:candidate-vibid:316300470936": 198,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 94,
-      "Садыков Роберт Гарипович": 296,
-      "Салихов Альберт Ильдусович": 891,
-      "Смирнов Шамиль Васильевич": 38,
-      "Якушев Александр Сергеевич": 195,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000202281": 94,
+      "gas:candidate-vibid:1001000121800": 296,
+      "gas:candidate-vibid:1001000225905": 891,
+      "gas:candidate-vibid:1001000113902": 38,
+      "gas:candidate-vibid:316300470936": 195,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 96,
-      "Садыков Роберт Гарипович": 230,
-      "Салихов Альберт Ильдусович": 1038,
-      "Смирнов Шамиль Васильевич": 41,
-      "Якушев Александр Сергеевич": 176,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000202281": 96,
+      "gas:candidate-vibid:1001000121800": 230,
+      "gas:candidate-vibid:1001000225905": 1038,
+      "gas:candidate-vibid:1001000113902": 41,
+      "gas:candidate-vibid:316300470936": 176,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 118,
-      "Садыков Роберт Гарипович": 289,
-      "Салихов Альберт Ильдусович": 1031,
-      "Смирнов Шамиль Васильевич": 30,
-      "Якушев Александр Сергеевич": 250,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000202281": 118,
+      "gas:candidate-vibid:1001000121800": 289,
+      "gas:candidate-vibid:1001000225905": 1031,
+      "gas:candidate-vibid:1001000113902": 30,
+      "gas:candidate-vibid:316300470936": 250,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 88,
-      "Садыков Роберт Гарипович": 283,
-      "Салихов Альберт Ильдусович": 1116,
-      "Смирнов Шамиль Васильевич": 47,
-      "Якушев Александр Сергеевич": 274,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000202281": 88,
+      "gas:candidate-vibid:1001000121800": 283,
+      "gas:candidate-vibid:1001000225905": 1116,
+      "gas:candidate-vibid:1001000113902": 47,
+      "gas:candidate-vibid:316300470936": 274,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 74,
-      "Садыков Роберт Гарипович": 253,
-      "Салихов Альберт Ильдусович": 1276,
-      "Смирнов Шамиль Васильевич": 42,
-      "Якушев Александр Сергеевич": 147,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000202281": 74,
+      "gas:candidate-vibid:1001000121800": 253,
+      "gas:candidate-vibid:1001000225905": 1276,
+      "gas:candidate-vibid:1001000113902": 42,
+      "gas:candidate-vibid:316300470936": 147,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 98,
-      "Садыков Роберт Гарипович": 253,
-      "Салихов Альберт Ильдусович": 1133,
-      "Смирнов Шамиль Васильевич": 32,
-      "Якушев Александр Сергеевич": 256,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202281": 98,
+      "gas:candidate-vibid:1001000121800": 253,
+      "gas:candidate-vibid:1001000225905": 1133,
+      "gas:candidate-vibid:1001000113902": 32,
+      "gas:candidate-vibid:316300470936": 256,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 92,
-      "Садыков Роберт Гарипович": 296,
-      "Салихов Альберт Ильдусович": 1221,
-      "Смирнов Шамиль Васильевич": 45,
-      "Якушев Александр Сергеевич": 264,
-      "Против всех": 358
+      "gas:candidate-vibid:1001000202281": 92,
+      "gas:candidate-vibid:1001000121800": 296,
+      "gas:candidate-vibid:1001000225905": 1221,
+      "gas:candidate-vibid:1001000113902": 45,
+      "gas:candidate-vibid:316300470936": 264,
+      "special:against-all": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 80,
-      "Садыков Роберт Гарипович": 197,
-      "Салихов Альберт Ильдусович": 982,
-      "Смирнов Шамиль Васильевич": 28,
-      "Якушев Александр Сергеевич": 161,
-      "Против всех": 284
+      "gas:candidate-vibid:1001000202281": 80,
+      "gas:candidate-vibid:1001000121800": 197,
+      "gas:candidate-vibid:1001000225905": 982,
+      "gas:candidate-vibid:1001000113902": 28,
+      "gas:candidate-vibid:316300470936": 161,
+      "special:against-all": 284
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 76,
-      "Садыков Роберт Гарипович": 197,
-      "Салихов Альберт Ильдусович": 864,
-      "Смирнов Шамиль Васильевич": 34,
-      "Якушев Александр Сергеевич": 177,
-      "Против всех": 245
+      "gas:candidate-vibid:1001000202281": 76,
+      "gas:candidate-vibid:1001000121800": 197,
+      "gas:candidate-vibid:1001000225905": 864,
+      "gas:candidate-vibid:1001000113902": 34,
+      "gas:candidate-vibid:316300470936": 177,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 96,
-      "Садыков Роберт Гарипович": 305,
-      "Салихов Альберт Ильдусович": 1195,
-      "Смирнов Шамиль Васильевич": 39,
-      "Якушев Александр Сергеевич": 220,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000202281": 96,
+      "gas:candidate-vibid:1001000121800": 305,
+      "gas:candidate-vibid:1001000225905": 1195,
+      "gas:candidate-vibid:1001000113902": 39,
+      "gas:candidate-vibid:316300470936": 220,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 96,
-      "Садыков Роберт Гарипович": 333,
-      "Салихов Альберт Ильдусович": 1081,
-      "Смирнов Шамиль Васильевич": 42,
-      "Якушев Александр Сергеевич": 270,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000202281": 96,
+      "gas:candidate-vibid:1001000121800": 333,
+      "gas:candidate-vibid:1001000225905": 1081,
+      "gas:candidate-vibid:1001000113902": 42,
+      "gas:candidate-vibid:316300470936": 270,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 94,
-      "Садыков Роберт Гарипович": 274,
-      "Салихов Альберт Ильдусович": 1278,
-      "Смирнов Шамиль Васильевич": 40,
-      "Якушев Александр Сергеевич": 189,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000202281": 94,
+      "gas:candidate-vibid:1001000121800": 274,
+      "gas:candidate-vibid:1001000225905": 1278,
+      "gas:candidate-vibid:1001000113902": 40,
+      "gas:candidate-vibid:316300470936": 189,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 49,
-      "Садыков Роберт Гарипович": 222,
-      "Салихов Альберт Ильдусович": 1066,
-      "Смирнов Шамиль Васильевич": 34,
-      "Якушев Александр Сергеевич": 237,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000202281": 49,
+      "gas:candidate-vibid:1001000121800": 222,
+      "gas:candidate-vibid:1001000225905": 1066,
+      "gas:candidate-vibid:1001000113902": 34,
+      "gas:candidate-vibid:316300470936": 237,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 65,
-      "Садыков Роберт Гарипович": 184,
-      "Салихов Альберт Ильдусович": 658,
-      "Смирнов Шамиль Васильевич": 22,
-      "Якушев Александр Сергеевич": 134,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000202281": 65,
+      "gas:candidate-vibid:1001000121800": 184,
+      "gas:candidate-vibid:1001000225905": 658,
+      "gas:candidate-vibid:1001000113902": 22,
+      "gas:candidate-vibid:316300470936": 134,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 75,
-      "Садыков Роберт Гарипович": 201,
-      "Салихов Альберт Ильдусович": 809,
-      "Смирнов Шамиль Васильевич": 36,
-      "Якушев Александр Сергеевич": 202,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000202281": 75,
+      "gas:candidate-vibid:1001000121800": 201,
+      "gas:candidate-vibid:1001000225905": 809,
+      "gas:candidate-vibid:1001000113902": 36,
+      "gas:candidate-vibid:316300470936": 202,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 79,
-      "Садыков Роберт Гарипович": 240,
-      "Салихов Альберт Ильдусович": 911,
-      "Смирнов Шамиль Васильевич": 36,
-      "Якушев Александр Сергеевич": 209,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000202281": 79,
+      "gas:candidate-vibid:1001000121800": 240,
+      "gas:candidate-vibid:1001000225905": 911,
+      "gas:candidate-vibid:1001000113902": 36,
+      "gas:candidate-vibid:316300470936": 209,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 61,
-      "Садыков Роберт Гарипович": 250,
-      "Салихов Альберт Ильдусович": 836,
-      "Смирнов Шамиль Васильевич": 32,
-      "Якушев Александр Сергеевич": 211,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000202281": 61,
+      "gas:candidate-vibid:1001000121800": 250,
+      "gas:candidate-vibid:1001000225905": 836,
+      "gas:candidate-vibid:1001000113902": 32,
+      "gas:candidate-vibid:316300470936": 211,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 86,
-      "Садыков Роберт Гарипович": 257,
-      "Салихов Альберт Ильдусович": 813,
-      "Смирнов Шамиль Васильевич": 29,
-      "Якушев Александр Сергеевич": 216,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000202281": 86,
+      "gas:candidate-vibid:1001000121800": 257,
+      "gas:candidate-vibid:1001000225905": 813,
+      "gas:candidate-vibid:1001000113902": 29,
+      "gas:candidate-vibid:316300470936": 216,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 74,
-      "Садыков Роберт Гарипович": 222,
-      "Салихов Альберт Ильдусович": 992,
-      "Смирнов Шамиль Васильевич": 37,
-      "Якушев Александр Сергеевич": 213,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000202281": 74,
+      "gas:candidate-vibid:1001000121800": 222,
+      "gas:candidate-vibid:1001000225905": 992,
+      "gas:candidate-vibid:1001000113902": 37,
+      "gas:candidate-vibid:316300470936": 213,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 45,
-      "Садыков Роберт Гарипович": 161,
-      "Салихов Альберт Ильдусович": 1037,
-      "Смирнов Шамиль Васильевич": 27,
-      "Якушев Александр Сергеевич": 144,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000202281": 45,
+      "gas:candidate-vibid:1001000121800": 161,
+      "gas:candidate-vibid:1001000225905": 1037,
+      "gas:candidate-vibid:1001000113902": 27,
+      "gas:candidate-vibid:316300470936": 144,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 56,
-      "Садыков Роберт Гарипович": 161,
-      "Салихов Альберт Ильдусович": 997,
-      "Смирнов Шамиль Васильевич": 29,
-      "Якушев Александр Сергеевич": 211,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000202281": 56,
+      "gas:candidate-vibid:1001000121800": 161,
+      "gas:candidate-vibid:1001000225905": 997,
+      "gas:candidate-vibid:1001000113902": 29,
+      "gas:candidate-vibid:316300470936": 211,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 68,
-      "Садыков Роберт Гарипович": 174,
-      "Салихов Альберт Ильдусович": 853,
-      "Смирнов Шамиль Васильевич": 29,
-      "Якушев Александр Сергеевич": 204,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000202281": 68,
+      "gas:candidate-vibid:1001000121800": 174,
+      "gas:candidate-vibid:1001000225905": 853,
+      "gas:candidate-vibid:1001000113902": 29,
+      "gas:candidate-vibid:316300470936": 204,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 55,
-      "Садыков Роберт Гарипович": 153,
-      "Салихов Альберт Ильдусович": 990,
-      "Смирнов Шамиль Васильевич": 29,
-      "Якушев Александр Сергеевич": 211,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000202281": 55,
+      "gas:candidate-vibid:1001000121800": 153,
+      "gas:candidate-vibid:1001000225905": 990,
+      "gas:candidate-vibid:1001000113902": 29,
+      "gas:candidate-vibid:316300470936": 211,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 21,
-      "Садыков Роберт Гарипович": 101,
-      "Салихов Альберт Ильдусович": 277,
-      "Смирнов Шамиль Васильевич": 11,
-      "Якушев Александр Сергеевич": 22,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000202281": 21,
+      "gas:candidate-vibid:1001000121800": 101,
+      "gas:candidate-vibid:1001000225905": 277,
+      "gas:candidate-vibid:1001000113902": 11,
+      "gas:candidate-vibid:316300470936": 22,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 8,
-      "Салихов Альберт Ильдусович": 432,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 9,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 8,
+      "gas:candidate-vibid:1001000225905": 432,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 9,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 12,
-      "Садыков Роберт Гарипович": 28,
-      "Салихов Альберт Ильдусович": 239,
-      "Смирнов Шамиль Васильевич": 8,
-      "Якушев Александр Сергеевич": 22,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000202281": 12,
+      "gas:candidate-vibid:1001000121800": 28,
+      "gas:candidate-vibid:1001000225905": 239,
+      "gas:candidate-vibid:1001000113902": 8,
+      "gas:candidate-vibid:316300470936": 22,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470834&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 5,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 161,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 5,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 161,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 175,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 175,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 12,
-      "Садыков Роберт Гарипович": 34,
-      "Салихов Альберт Ильдусович": 622,
-      "Смирнов Шамиль Васильевич": 8,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 12,
+      "gas:candidate-vibid:1001000121800": 34,
+      "gas:candidate-vibid:1001000225905": 622,
+      "gas:candidate-vibid:1001000113902": 8,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 217,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 217,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 17,
-      "Салихов Альберт Ильдусович": 281,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 17,
+      "gas:candidate-vibid:1001000225905": 281,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 108,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 108,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 166,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 166,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 328,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 328,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 12,
-      "Салихов Альберт Ильдусович": 206,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 12,
+      "gas:candidate-vibid:1001000225905": 206,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 268,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 268,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 28,
-      "Салихов Альберт Ильдусович": 787,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 28,
+      "gas:candidate-vibid:1001000225905": 787,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 24,
-      "Садыков Роберт Гарипович": 31,
-      "Салихов Альберт Ильдусович": 1205,
-      "Смирнов Шамиль Васильевич": 15,
-      "Якушев Александр Сергеевич": 12,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202281": 24,
+      "gas:candidate-vibid:1001000121800": 31,
+      "gas:candidate-vibid:1001000225905": 1205,
+      "gas:candidate-vibid:1001000113902": 15,
+      "gas:candidate-vibid:316300470936": 12,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 97,
-      "Салихов Альберт Ильдусович": 273,
-      "Смирнов Шамиль Васильевич": 8,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 97,
+      "gas:candidate-vibid:1001000225905": 273,
+      "gas:candidate-vibid:1001000113902": 8,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 728,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 728,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 35,
-      "Садыков Роберт Гарипович": 70,
-      "Салихов Альберт Ильдусович": 928,
-      "Смирнов Шамиль Васильевич": 25,
-      "Якушев Александр Сергеевич": 37,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000202281": 35,
+      "gas:candidate-vibid:1001000121800": 70,
+      "gas:candidate-vibid:1001000225905": 928,
+      "gas:candidate-vibid:1001000113902": 25,
+      "gas:candidate-vibid:316300470936": 37,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 23,
-      "Садыков Роберт Гарипович": 52,
-      "Салихов Альберт Ильдусович": 612,
-      "Смирнов Шамиль Васильевич": 19,
-      "Якушев Александр Сергеевич": 29,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 23,
+      "gas:candidate-vibid:1001000121800": 52,
+      "gas:candidate-vibid:1001000225905": 612,
+      "gas:candidate-vibid:1001000113902": 19,
+      "gas:candidate-vibid:316300470936": 29,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 180,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 180,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 164,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 164,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 11,
-      "Садыков Роберт Гарипович": 30,
-      "Салихов Альберт Ильдусович": 232,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202281": 11,
+      "gas:candidate-vibid:1001000121800": 30,
+      "gas:candidate-vibid:1001000225905": 232,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 382,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 382,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 29,
-      "Садыков Роберт Гарипович": 68,
-      "Салихов Альберт Ильдусович": 352,
-      "Смирнов Шамиль Васильевич": 16,
-      "Якушев Александр Сергеевич": 32,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000202281": 29,
+      "gas:candidate-vibid:1001000121800": 68,
+      "gas:candidate-vibid:1001000225905": 352,
+      "gas:candidate-vibid:1001000113902": 16,
+      "gas:candidate-vibid:316300470936": 32,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 41,
-      "Садыков Роберт Гарипович": 55,
-      "Салихов Альберт Ильдусович": 661,
-      "Смирнов Шамиль Васильевич": 16,
-      "Якушев Александр Сергеевич": 21,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 41,
+      "gas:candidate-vibid:1001000121800": 55,
+      "gas:candidate-vibid:1001000225905": 661,
+      "gas:candidate-vibid:1001000113902": 16,
+      "gas:candidate-vibid:316300470936": 21,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 80,
-      "Садыков Роберт Гарипович": 120,
-      "Салихов Альберт Ильдусович": 691,
-      "Смирнов Шамиль Васильевич": 42,
-      "Якушев Александр Сергеевич": 53,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000202281": 80,
+      "gas:candidate-vibid:1001000121800": 120,
+      "gas:candidate-vibid:1001000225905": 691,
+      "gas:candidate-vibid:1001000113902": 42,
+      "gas:candidate-vibid:316300470936": 53,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 95,
-      "Садыков Роберт Гарипович": 83,
-      "Салихов Альберт Ильдусович": 666,
-      "Смирнов Шамиль Васильевич": 31,
-      "Якушев Александр Сергеевич": 71,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000202281": 95,
+      "gas:candidate-vibid:1001000121800": 83,
+      "gas:candidate-vibid:1001000225905": 666,
+      "gas:candidate-vibid:1001000113902": 31,
+      "gas:candidate-vibid:316300470936": 71,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 43,
-      "Садыков Роберт Гарипович": 89,
-      "Салихов Альберт Ильдусович": 715,
-      "Смирнов Шамиль Васильевич": 25,
-      "Якушев Александр Сергеевич": 32,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000202281": 43,
+      "gas:candidate-vibid:1001000121800": 89,
+      "gas:candidate-vibid:1001000225905": 715,
+      "gas:candidate-vibid:1001000113902": 25,
+      "gas:candidate-vibid:316300470936": 32,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 73,
-      "Садыков Роберт Гарипович": 82,
-      "Салихов Альберт Ильдусович": 636,
-      "Смирнов Шамиль Васильевич": 30,
-      "Якушев Александр Сергеевич": 37,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202281": 73,
+      "gas:candidate-vibid:1001000121800": 82,
+      "gas:candidate-vibid:1001000225905": 636,
+      "gas:candidate-vibid:1001000113902": 30,
+      "gas:candidate-vibid:316300470936": 37,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 44,
-      "Салихов Альберт Ильдусович": 186,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 44,
+      "gas:candidate-vibid:1001000225905": 186,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 192,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 192,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 12,
-      "Садыков Роберт Гарипович": 14,
-      "Салихов Альберт Ильдусович": 497,
-      "Смирнов Шамиль Васильевич": 8,
-      "Якушев Александр Сергеевич": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000202281": 12,
+      "gas:candidate-vibid:1001000121800": 14,
+      "gas:candidate-vibid:1001000225905": 497,
+      "gas:candidate-vibid:1001000113902": 8,
+      "gas:candidate-vibid:316300470936": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 5,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 537,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 5,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 537,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 20,
-      "Салихов Альберт Ильдусович": 323,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 20,
+      "gas:candidate-vibid:1001000225905": 323,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 7,
-      "Садыков Роберт Гарипович": 121,
-      "Салихов Альберт Ильдусович": 1040,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202281": 7,
+      "gas:candidate-vibid:1001000121800": 121,
+      "gas:candidate-vibid:1001000225905": 1040,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 4,
-      "Садыков Роберт Гарипович": 67,
-      "Салихов Альберт Ильдусович": 916,
-      "Смирнов Шамиль Васильевич": 7,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202281": 4,
+      "gas:candidate-vibid:1001000121800": 67,
+      "gas:candidate-vibid:1001000225905": 916,
+      "gas:candidate-vibid:1001000113902": 7,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 11,
-      "Садыков Роберт Гарипович": 18,
-      "Салихов Альберт Ильдусович": 202,
-      "Смирнов Шамиль Васильевич": 3,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000202281": 11,
+      "gas:candidate-vibid:1001000121800": 18,
+      "gas:candidate-vibid:1001000225905": 202,
+      "gas:candidate-vibid:1001000113902": 3,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 387,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 387,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470835&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 451,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 41,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 451,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 41,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 313,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 313,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 281,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 281,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 7,
-      "Садыков Роберт Гарипович": 14,
-      "Салихов Альберт Ильдусович": 150,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202281": 7,
+      "gas:candidate-vibid:1001000121800": 14,
+      "gas:candidate-vibid:1001000225905": 150,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 95,
-      "Смирнов Шамиль Васильевич": 3,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 95,
+      "gas:candidate-vibid:1001000113902": 3,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 166,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 166,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 44,
-      "Салихов Альберт Ильдусович": 561,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 44,
+      "gas:candidate-vibid:1001000225905": 561,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 378,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 378,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 5,
-      "Садыков Роберт Гарипович": 43,
-      "Салихов Альберт Ильдусович": 645,
-      "Смирнов Шамиль Васильевич": 16,
-      "Якушев Александр Сергеевич": 13,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000202281": 5,
+      "gas:candidate-vibid:1001000121800": 43,
+      "gas:candidate-vibid:1001000225905": 645,
+      "gas:candidate-vibid:1001000113902": 16,
+      "gas:candidate-vibid:316300470936": 13,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 9,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 380,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 9,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 380,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 100,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 100,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 11,
-      "Садыков Роберт Гарипович": 15,
-      "Салихов Альберт Ильдусович": 290,
-      "Смирнов Шамиль Васильевич": 3,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202281": 11,
+      "gas:candidate-vibid:1001000121800": 15,
+      "gas:candidate-vibid:1001000225905": 290,
+      "gas:candidate-vibid:1001000113902": 3,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 148,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 148,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 18,
-      "Салихов Альберт Ильдусович": 226,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 18,
+      "gas:candidate-vibid:1001000225905": 226,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 260,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 260,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 270,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 270,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 1,
-      "Салихов Альберт Ильдусович": 376,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 1,
+      "gas:candidate-vibid:1001000225905": 376,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 185,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 185,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 20,
-      "Салихов Альберт Ильдусович": 366,
-      "Смирнов Шамиль Васильевич": 15,
-      "Якушев Александр Сергеевич": 14,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 20,
+      "gas:candidate-vibid:1001000225905": 366,
+      "gas:candidate-vibid:1001000113902": 15,
+      "gas:candidate-vibid:316300470936": 14,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 125,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 125,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 29,
-      "Салихов Альберт Ильдусович": 876,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 29,
+      "gas:candidate-vibid:1001000225905": 876,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 93,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 93,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 15,
-      "Садыков Роберт Гарипович": 85,
-      "Салихов Альберт Ильдусович": 679,
-      "Смирнов Шамиль Васильевич": 9,
-      "Якушев Александр Сергеевич": 9,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000202281": 15,
+      "gas:candidate-vibid:1001000121800": 85,
+      "gas:candidate-vibid:1001000225905": 679,
+      "gas:candidate-vibid:1001000113902": 9,
+      "gas:candidate-vibid:316300470936": 9,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 15,
-      "Салихов Альберт Ильдусович": 318,
-      "Смирнов Шамиль Васильевич": 8,
-      "Якушев Александр Сергеевич": 9,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 15,
+      "gas:candidate-vibid:1001000225905": 318,
+      "gas:candidate-vibid:1001000113902": 8,
+      "gas:candidate-vibid:316300470936": 9,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 10,
-      "Салихов Альберт Ильдусович": 207,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 10,
+      "gas:candidate-vibid:1001000225905": 207,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 36,
-      "Садыков Роберт Гарипович": 32,
-      "Салихов Альберт Ильдусович": 388,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 18,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202281": 36,
+      "gas:candidate-vibid:1001000121800": 32,
+      "gas:candidate-vibid:1001000225905": 388,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 18,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 39,
-      "Салихов Альберт Ильдусович": 545,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 39,
+      "gas:candidate-vibid:1001000225905": 545,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 8,
-      "Салихов Альберт Ильдусович": 406,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 8,
+      "gas:candidate-vibid:1001000225905": 406,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 14,
-      "Салихов Альберт Ильдусович": 540,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 14,
+      "gas:candidate-vibid:1001000225905": 540,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 29,
-      "Садыков Роберт Гарипович": 23,
-      "Салихов Альберт Ильдусович": 278,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202281": 29,
+      "gas:candidate-vibid:1001000121800": 23,
+      "gas:candidate-vibid:1001000225905": 278,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 46,
-      "Садыков Роберт Гарипович": 24,
-      "Салихов Альберт Ильдусович": 607,
-      "Смирнов Шамиль Васильевич": 44,
-      "Якушев Александр Сергеевич": 20,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202281": 46,
+      "gas:candidate-vibid:1001000121800": 24,
+      "gas:candidate-vibid:1001000225905": 607,
+      "gas:candidate-vibid:1001000113902": 44,
+      "gas:candidate-vibid:316300470936": 20,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 65,
-      "Садыков Роберт Гарипович": 113,
-      "Салихов Альберт Ильдусович": 545,
-      "Смирнов Шамиль Васильевич": 26,
-      "Якушев Александр Сергеевич": 44,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000202281": 65,
+      "gas:candidate-vibid:1001000121800": 113,
+      "gas:candidate-vibid:1001000225905": 545,
+      "gas:candidate-vibid:1001000113902": 26,
+      "gas:candidate-vibid:316300470936": 44,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 26,
-      "Садыков Роберт Гарипович": 21,
-      "Салихов Альберт Ильдусович": 630,
-      "Смирнов Шамиль Васильевич": 28,
-      "Якушев Александр Сергеевич": 20,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000202281": 26,
+      "gas:candidate-vibid:1001000121800": 21,
+      "gas:candidate-vibid:1001000225905": 630,
+      "gas:candidate-vibid:1001000113902": 28,
+      "gas:candidate-vibid:316300470936": 20,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 83,
-      "Садыков Роберт Гарипович": 59,
-      "Салихов Альберт Ильдусович": 500,
-      "Смирнов Шамиль Васильевич": 16,
-      "Якушев Александр Сергеевич": 38,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000202281": 83,
+      "gas:candidate-vibid:1001000121800": 59,
+      "gas:candidate-vibid:1001000225905": 500,
+      "gas:candidate-vibid:1001000113902": 16,
+      "gas:candidate-vibid:316300470936": 38,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 68,
-      "Садыков Роберт Гарипович": 71,
-      "Салихов Альберт Ильдусович": 552,
-      "Смирнов Шамиль Васильевич": 11,
-      "Якушев Александр Сергеевич": 32,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000202281": 68,
+      "gas:candidate-vibid:1001000121800": 71,
+      "gas:candidate-vibid:1001000225905": 552,
+      "gas:candidate-vibid:1001000113902": 11,
+      "gas:candidate-vibid:316300470936": 32,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 75,
-      "Садыков Роберт Гарипович": 86,
-      "Салихов Альберт Ильдусович": 506,
-      "Смирнов Шамиль Васильевич": 17,
-      "Якушев Александр Сергеевич": 35,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000202281": 75,
+      "gas:candidate-vibid:1001000121800": 86,
+      "gas:candidate-vibid:1001000225905": 506,
+      "gas:candidate-vibid:1001000113902": 17,
+      "gas:candidate-vibid:316300470936": 35,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 393,
-      "Смирнов Шамиль Васильевич": 11,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 393,
+      "gas:candidate-vibid:1001000113902": 11,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 16,
-      "Садыков Роберт Гарипович": 12,
-      "Салихов Альберт Ильдусович": 235,
-      "Смирнов Шамиль Васильевич": 6,
-      "Якушев Александр Сергеевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 16,
+      "gas:candidate-vibid:1001000121800": 12,
+      "gas:candidate-vibid:1001000225905": 235,
+      "gas:candidate-vibid:1001000113902": 6,
+      "gas:candidate-vibid:316300470936": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 184,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 184,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 7,
-      "Смирнов Шамиль Васильевич": 138,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 7,
+      "gas:candidate-vibid:1001000113902": 138,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 185,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 185,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 149,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 149,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 183,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 183,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 166,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 166,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 322,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 322,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 1,
-      "Смирнов Шамиль Васильевич": 158,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 1,
+      "gas:candidate-vibid:1001000113902": 158,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 350,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 350,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 12,
-      "Салихов Альберт Ильдусович": 404,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 12,
+      "gas:candidate-vibid:1001000225905": 404,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 9,
-      "Салихов Альберт Ильдусович": 414,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 9,
+      "gas:candidate-vibid:1001000225905": 414,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 1,
-      "Салихов Альберт Ильдусович": 548,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 1,
+      "gas:candidate-vibid:1001000225905": 548,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 11,
-      "Садыков Роберт Гарипович": 15,
-      "Салихов Альберт Ильдусович": 477,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202281": 11,
+      "gas:candidate-vibid:1001000121800": 15,
+      "gas:candidate-vibid:1001000225905": 477,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470836&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 29,
-      "Салихов Альберт Ильдусович": 542,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 29,
+      "gas:candidate-vibid:1001000225905": 542,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 20,
-      "Салихов Альберт Ильдусович": 516,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 20,
+      "gas:candidate-vibid:1001000225905": 516,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 11,
-      "Салихов Альберт Ильдусович": 208,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 11,
+      "gas:candidate-vibid:1001000225905": 208,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 8,
-      "Садыков Роберт Гарипович": 30,
-      "Салихов Альберт Ильдусович": 388,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000202281": 8,
+      "gas:candidate-vibid:1001000121800": 30,
+      "gas:candidate-vibid:1001000225905": 388,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 10,
-      "Салихов Альберт Ильдусович": 596,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 10,
+      "gas:candidate-vibid:1001000225905": 596,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 233,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 233,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 9,
-      "Салихов Альберт Ильдусович": 403,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 9,
+      "gas:candidate-vibid:1001000225905": 403,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 12,
-      "Салихов Альберт Ильдусович": 474,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 12,
+      "gas:candidate-vibid:1001000225905": 474,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 42,
-      "Салихов Альберт Ильдусович": 472,
-      "Смирнов Шамиль Васильевич": 7,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 42,
+      "gas:candidate-vibid:1001000225905": 472,
+      "gas:candidate-vibid:1001000113902": 7,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 14,
-      "Салихов Альберт Ильдусович": 309,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 14,
+      "gas:candidate-vibid:1001000225905": 309,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 169,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 169,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 8,
-      "Салихов Альберт Ильдусович": 235,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 8,
+      "gas:candidate-vibid:1001000225905": 235,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 9,
-      "Садыков Роберт Гарипович": 20,
-      "Салихов Альберт Ильдусович": 355,
-      "Смирнов Шамиль Васильевич": 12,
-      "Якушев Александр Сергеевич": 7,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202281": 9,
+      "gas:candidate-vibid:1001000121800": 20,
+      "gas:candidate-vibid:1001000225905": 355,
+      "gas:candidate-vibid:1001000113902": 12,
+      "gas:candidate-vibid:316300470936": 7,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 17,
-      "Салихов Альберт Ильдусович": 375,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 17,
+      "gas:candidate-vibid:1001000225905": 375,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 19,
-      "Салихов Альберт Ильдусович": 222,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 19,
+      "gas:candidate-vibid:1001000225905": 222,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 342,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 342,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 217,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 217,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 18,
-      "Салихов Альберт Ильдусович": 738,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 18,
+      "gas:candidate-vibid:1001000225905": 738,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 8,
-      "Садыков Роберт Гарипович": 37,
-      "Салихов Альберт Ильдусович": 266,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202281": 8,
+      "gas:candidate-vibid:1001000121800": 37,
+      "gas:candidate-vibid:1001000225905": 266,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 31,
-      "Салихов Альберт Ильдусович": 343,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 31,
+      "gas:candidate-vibid:1001000225905": 343,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 122,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 122,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 336,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 336,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 15,
-      "Салихов Альберт Ильдусович": 233,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 15,
+      "gas:candidate-vibid:1001000225905": 233,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 8,
-      "Салихов Альберт Ильдусович": 147,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 8,
+      "gas:candidate-vibid:1001000225905": 147,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 10,
-      "Садыков Роберт Гарипович": 28,
-      "Салихов Альберт Ильдусович": 675,
-      "Смирнов Шамиль Васильевич": 11,
-      "Якушев Александр Сергеевич": 10,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000202281": 10,
+      "gas:candidate-vibid:1001000121800": 28,
+      "gas:candidate-vibid:1001000225905": 675,
+      "gas:candidate-vibid:1001000113902": 11,
+      "gas:candidate-vibid:316300470936": 10,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 88,
-      "Салихов Альберт Ильдусович": 628,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 88,
+      "gas:candidate-vibid:1001000225905": 628,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 11,
-      "Садыков Роберт Гарипович": 65,
-      "Салихов Альберт Ильдусович": 774,
-      "Смирнов Шамиль Васильевич": 10,
-      "Якушев Александр Сергеевич": 17,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202281": 11,
+      "gas:candidate-vibid:1001000121800": 65,
+      "gas:candidate-vibid:1001000225905": 774,
+      "gas:candidate-vibid:1001000113902": 10,
+      "gas:candidate-vibid:316300470936": 17,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 4,
-      "Садыков Роберт Гарипович": 94,
-      "Салихов Альберт Ильдусович": 872,
-      "Смирнов Шамиль Васильевич": 7,
-      "Якушев Александр Сергеевич": 22,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000202281": 4,
+      "gas:candidate-vibid:1001000121800": 94,
+      "gas:candidate-vibid:1001000225905": 872,
+      "gas:candidate-vibid:1001000113902": 7,
+      "gas:candidate-vibid:316300470936": 22,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 8,
-      "Садыков Роберт Гарипович": 17,
-      "Салихов Альберт Ильдусович": 652,
-      "Смирнов Шамиль Васильевич": 10,
-      "Якушев Александр Сергеевич": 26,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000202281": 8,
+      "gas:candidate-vibid:1001000121800": 17,
+      "gas:candidate-vibid:1001000225905": 652,
+      "gas:candidate-vibid:1001000113902": 10,
+      "gas:candidate-vibid:316300470936": 26,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 12,
-      "Салихов Альберт Ильдусович": 406,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 12,
+      "gas:candidate-vibid:1001000225905": 406,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 726,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 726,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 34,
-      "Салихов Альберт Ильдусович": 694,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 34,
+      "gas:candidate-vibid:1001000225905": 694,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 17,
-      "Салихов Альберт Ильдусович": 535,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 17,
+      "gas:candidate-vibid:1001000225905": 535,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 10,
-      "Салихов Альберт Ильдусович": 354,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 10,
+      "gas:candidate-vibid:1001000225905": 354,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 8,
-      "Салихов Альберт Ильдусович": 236,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 8,
+      "gas:candidate-vibid:1001000225905": 236,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 4,
-      "Садыков Роберт Гарипович": 38,
-      "Салихов Альберт Ильдусович": 534,
-      "Смирнов Шамиль Васильевич": 11,
-      "Якушев Александр Сергеевич": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000202281": 4,
+      "gas:candidate-vibid:1001000121800": 38,
+      "gas:candidate-vibid:1001000225905": 534,
+      "gas:candidate-vibid:1001000113902": 11,
+      "gas:candidate-vibid:316300470936": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 12,
-      "Садыков Роберт Гарипович": 56,
-      "Салихов Альберт Ильдусович": 743,
-      "Смирнов Шамиль Васильевич": 14,
-      "Якушев Александр Сергеевич": 12,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000202281": 12,
+      "gas:candidate-vibid:1001000121800": 56,
+      "gas:candidate-vibid:1001000225905": 743,
+      "gas:candidate-vibid:1001000113902": 14,
+      "gas:candidate-vibid:316300470936": 12,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 16,
-      "Садыков Роберт Гарипович": 70,
-      "Салихов Альберт Ильдусович": 785,
-      "Смирнов Шамиль Васильевич": 9,
-      "Якушев Александр Сергеевич": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 16,
+      "gas:candidate-vibid:1001000121800": 70,
+      "gas:candidate-vibid:1001000225905": 785,
+      "gas:candidate-vibid:1001000113902": 9,
+      "gas:candidate-vibid:316300470936": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 10,
-      "Садыков Роберт Гарипович": 83,
-      "Салихов Альберт Ильдусович": 865,
-      "Смирнов Шамиль Васильевич": 15,
-      "Якушев Александр Сергеевич": 16,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000202281": 10,
+      "gas:candidate-vibid:1001000121800": 83,
+      "gas:candidate-vibid:1001000225905": 865,
+      "gas:candidate-vibid:1001000113902": 15,
+      "gas:candidate-vibid:316300470936": 16,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 16,
-      "Садыков Роберт Гарипович": 94,
-      "Салихов Альберт Ильдусович": 750,
-      "Смирнов Шамиль Васильевич": 25,
-      "Якушев Александр Сергеевич": 51,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000202281": 16,
+      "gas:candidate-vibid:1001000121800": 94,
+      "gas:candidate-vibid:1001000225905": 750,
+      "gas:candidate-vibid:1001000113902": 25,
+      "gas:candidate-vibid:316300470936": 51,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 565,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 565,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470837&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 10,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 827,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 10,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 827,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 24,
-      "Садыков Роберт Гарипович": 53,
-      "Салихов Альберт Ильдусович": 333,
-      "Смирнов Шамиль Васильевич": 8,
-      "Якушев Александр Сергеевич": 21,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000202281": 24,
+      "gas:candidate-vibid:1001000121800": 53,
+      "gas:candidate-vibid:1001000225905": 333,
+      "gas:candidate-vibid:1001000113902": 8,
+      "gas:candidate-vibid:316300470936": 21,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 665,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 665,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 1,
-      "Салихов Альберт Ильдусович": 144,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 1,
+      "gas:candidate-vibid:1001000225905": 144,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 512,
-      "Смирнов Шамиль Васильевич": 5,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 512,
+      "gas:candidate-vibid:1001000113902": 5,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 247,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 247,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 171,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 171,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 444,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 444,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 461,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 461,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 350,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 350,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 9,
-      "Салихов Альберт Ильдусович": 398,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 9,
+      "gas:candidate-vibid:1001000225905": 398,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 4,
-      "Салихов Альберт Ильдусович": 286,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 4,
+      "gas:candidate-vibid:1001000225905": 286,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 310,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 310,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 1,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 576,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 1,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 576,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 605,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 605,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 401,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 401,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 21,
-      "Салихов Альберт Ильдусович": 345,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 21,
+      "gas:candidate-vibid:1001000225905": 345,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 376,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 376,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 189,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 189,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 257,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 257,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 11,
-      "Салихов Альберт Ильдусович": 371,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 11,
+      "gas:candidate-vibid:1001000225905": 371,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 306,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 306,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 110,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 110,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 243,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 243,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 7,
-      "Салихов Альберт Ильдусович": 325,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 7,
+      "gas:candidate-vibid:1001000225905": 325,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 6,
-      "Садыков Роберт Гарипович": 1,
-      "Салихов Альберт Ильдусович": 159,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 6,
+      "gas:candidate-vibid:1001000121800": 1,
+      "gas:candidate-vibid:1001000225905": 159,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 6,
-      "Салихов Альберт Ильдусович": 211,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 6,
+      "gas:candidate-vibid:1001000225905": 211,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 2,
-      "Садыков Роберт Гарипович": 2,
-      "Салихов Альберт Ильдусович": 111,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 2,
+      "gas:candidate-vibid:1001000121800": 2,
+      "gas:candidate-vibid:1001000225905": 111,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004031&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470838&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 147,
-      "Садыков Роберт Гарипович": 68,
-      "Салихов Альберт Ильдусович": 255,
-      "Смирнов Шамиль Васильевич": 63,
-      "Якушев Александр Сергеевич": 79,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000202281": 147,
+      "gas:candidate-vibid:1001000121800": 68,
+      "gas:candidate-vibid:1001000225905": 255,
+      "gas:candidate-vibid:1001000113902": 63,
+      "gas:candidate-vibid:316300470936": 79,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 240,
-      "Садыков Роберт Гарипович": 87,
-      "Салихов Альберт Ильдусович": 248,
-      "Смирнов Шамиль Васильевич": 101,
-      "Якушев Александр Сергеевич": 102,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000202281": 240,
+      "gas:candidate-vibid:1001000121800": 87,
+      "gas:candidate-vibid:1001000225905": 248,
+      "gas:candidate-vibid:1001000113902": 101,
+      "gas:candidate-vibid:316300470936": 102,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 122,
-      "Садыков Роберт Гарипович": 70,
-      "Салихов Альберт Ильдусович": 578,
-      "Смирнов Шамиль Васильевич": 60,
-      "Якушев Александр Сергеевич": 108,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000202281": 122,
+      "gas:candidate-vibid:1001000121800": 70,
+      "gas:candidate-vibid:1001000225905": 578,
+      "gas:candidate-vibid:1001000113902": 60,
+      "gas:candidate-vibid:316300470936": 108,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 136,
-      "Садыков Роберт Гарипович": 65,
-      "Салихов Альберт Ильдусович": 203,
-      "Смирнов Шамиль Васильевич": 50,
-      "Якушев Александр Сергеевич": 84,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000202281": 136,
+      "gas:candidate-vibid:1001000121800": 65,
+      "gas:candidate-vibid:1001000225905": 203,
+      "gas:candidate-vibid:1001000113902": 50,
+      "gas:candidate-vibid:316300470936": 84,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 153,
-      "Садыков Роберт Гарипович": 46,
-      "Салихов Альберт Ильдусович": 498,
-      "Смирнов Шамиль Васильевич": 54,
-      "Якушев Александр Сергеевич": 109,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000202281": 153,
+      "gas:candidate-vibid:1001000121800": 46,
+      "gas:candidate-vibid:1001000225905": 498,
+      "gas:candidate-vibid:1001000113902": 54,
+      "gas:candidate-vibid:316300470936": 109,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 77,
-      "Садыков Роберт Гарипович": 29,
-      "Салихов Альберт Ильдусович": 161,
-      "Смирнов Шамиль Васильевич": 34,
-      "Якушев Александр Сергеевич": 40,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000202281": 77,
+      "gas:candidate-vibid:1001000121800": 29,
+      "gas:candidate-vibid:1001000225905": 161,
+      "gas:candidate-vibid:1001000113902": 34,
+      "gas:candidate-vibid:316300470936": 40,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 12,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 28,
-      "Смирнов Шамиль Васильевич": 2,
-      "Якушев Александр Сергеевич": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 12,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 28,
+      "gas:candidate-vibid:1001000113902": 2,
+      "gas:candidate-vibid:316300470936": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 122,
-      "Садыков Роберт Гарипович": 58,
-      "Салихов Альберт Ильдусович": 330,
-      "Смирнов Шамиль Васильевич": 73,
-      "Якушев Александр Сергеевич": 44,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000202281": 122,
+      "gas:candidate-vibid:1001000121800": 58,
+      "gas:candidate-vibid:1001000225905": 330,
+      "gas:candidate-vibid:1001000113902": 73,
+      "gas:candidate-vibid:316300470936": 44,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 142,
-      "Садыков Роберт Гарипович": 58,
-      "Салихов Альберт Ильдусович": 655,
-      "Смирнов Шамиль Васильевич": 67,
-      "Якушев Александр Сергеевич": 48,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000202281": 142,
+      "gas:candidate-vibid:1001000121800": 58,
+      "gas:candidate-vibid:1001000225905": 655,
+      "gas:candidate-vibid:1001000113902": 67,
+      "gas:candidate-vibid:316300470936": 48,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 137,
-      "Садыков Роберт Гарипович": 61,
-      "Салихов Альберт Ильдусович": 323,
-      "Смирнов Шамиль Васильевич": 84,
-      "Якушев Александр Сергеевич": 59,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000202281": 137,
+      "gas:candidate-vibid:1001000121800": 61,
+      "gas:candidate-vibid:1001000225905": 323,
+      "gas:candidate-vibid:1001000113902": 84,
+      "gas:candidate-vibid:316300470936": 59,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 145,
-      "Садыков Роберт Гарипович": 51,
-      "Салихов Альберт Ильдусович": 241,
-      "Смирнов Шамиль Васильевич": 84,
-      "Якушев Александр Сергеевич": 61,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000202281": 145,
+      "gas:candidate-vibid:1001000121800": 51,
+      "gas:candidate-vibid:1001000225905": 241,
+      "gas:candidate-vibid:1001000113902": 84,
+      "gas:candidate-vibid:316300470936": 61,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 138,
-      "Садыков Роберт Гарипович": 41,
-      "Салихов Альберт Ильдусович": 196,
-      "Смирнов Шамиль Васильевич": 81,
-      "Якушев Александр Сергеевич": 71,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202281": 138,
+      "gas:candidate-vibid:1001000121800": 41,
+      "gas:candidate-vibid:1001000225905": 196,
+      "gas:candidate-vibid:1001000113902": 81,
+      "gas:candidate-vibid:316300470936": 71,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 39,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 39,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 92,
-      "Садыков Роберт Гарипович": 40,
-      "Салихов Альберт Ильдусович": 94,
-      "Смирнов Шамиль Васильевич": 46,
-      "Якушев Александр Сергеевич": 41,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000202281": 92,
+      "gas:candidate-vibid:1001000121800": 40,
+      "gas:candidate-vibid:1001000225905": 94,
+      "gas:candidate-vibid:1001000113902": 46,
+      "gas:candidate-vibid:316300470936": 41,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 29,
-      "Садыков Роберт Гарипович": 15,
-      "Салихов Альберт Ильдусович": 72,
-      "Смирнов Шамиль Васильевич": 10,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202281": 29,
+      "gas:candidate-vibid:1001000121800": 15,
+      "gas:candidate-vibid:1001000225905": 72,
+      "gas:candidate-vibid:1001000113902": 10,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 119,
-      "Садыков Роберт Гарипович": 71,
-      "Салихов Альберт Ильдусович": 193,
-      "Смирнов Шамиль Васильевич": 54,
-      "Якушев Александр Сергеевич": 83,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202281": 119,
+      "gas:candidate-vibid:1001000121800": 71,
+      "gas:candidate-vibid:1001000225905": 193,
+      "gas:candidate-vibid:1001000113902": 54,
+      "gas:candidate-vibid:316300470936": 83,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 168,
-      "Садыков Роберт Гарипович": 78,
-      "Салихов Альберт Ильдусович": 386,
-      "Смирнов Шамиль Васильевич": 47,
-      "Якушев Александр Сергеевич": 63,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000202281": 168,
+      "gas:candidate-vibid:1001000121800": 78,
+      "gas:candidate-vibid:1001000225905": 386,
+      "gas:candidate-vibid:1001000113902": 47,
+      "gas:candidate-vibid:316300470936": 63,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 152,
-      "Садыков Роберт Гарипович": 80,
-      "Салихов Альберт Ильдусович": 272,
-      "Смирнов Шамиль Васильевич": 49,
-      "Якушев Александр Сергеевич": 57,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000202281": 152,
+      "gas:candidate-vibid:1001000121800": 80,
+      "gas:candidate-vibid:1001000225905": 272,
+      "gas:candidate-vibid:1001000113902": 49,
+      "gas:candidate-vibid:316300470936": 57,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 139,
-      "Садыков Роберт Гарипович": 87,
-      "Салихов Альберт Ильдусович": 317,
-      "Смирнов Шамиль Васильевич": 58,
-      "Якушев Александр Сергеевич": 44,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202281": 139,
+      "gas:candidate-vibid:1001000121800": 87,
+      "gas:candidate-vibid:1001000225905": 317,
+      "gas:candidate-vibid:1001000113902": 58,
+      "gas:candidate-vibid:316300470936": 44,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 107,
-      "Садыков Роберт Гарипович": 39,
-      "Салихов Альберт Ильдусович": 247,
-      "Смирнов Шамиль Васильевич": 41,
-      "Якушев Александр Сергеевич": 50,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000202281": 107,
+      "gas:candidate-vibid:1001000121800": 39,
+      "gas:candidate-vibid:1001000225905": 247,
+      "gas:candidate-vibid:1001000113902": 41,
+      "gas:candidate-vibid:316300470936": 50,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 55,
-      "Садыков Роберт Гарипович": 68,
-      "Салихов Альберт Ильдусович": 428,
-      "Смирнов Шамиль Васильевич": 44,
-      "Якушев Александр Сергеевич": 62,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202281": 55,
+      "gas:candidate-vibid:1001000121800": 68,
+      "gas:candidate-vibid:1001000225905": 428,
+      "gas:candidate-vibid:1001000113902": 44,
+      "gas:candidate-vibid:316300470936": 62,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 98,
-      "Садыков Роберт Гарипович": 83,
-      "Салихов Альберт Ильдусович": 221,
-      "Смирнов Шамиль Васильевич": 85,
-      "Якушев Александр Сергеевич": 88,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000202281": 98,
+      "gas:candidate-vibid:1001000121800": 83,
+      "gas:candidate-vibid:1001000225905": 221,
+      "gas:candidate-vibid:1001000113902": 85,
+      "gas:candidate-vibid:316300470936": 88,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 131,
-      "Садыков Роберт Гарипович": 79,
-      "Салихов Альберт Ильдусович": 243,
-      "Смирнов Шамиль Васильевич": 45,
-      "Якушев Александр Сергеевич": 68,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000202281": 131,
+      "gas:candidate-vibid:1001000121800": 79,
+      "gas:candidate-vibid:1001000225905": 243,
+      "gas:candidate-vibid:1001000113902": 45,
+      "gas:candidate-vibid:316300470936": 68,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 96,
-      "Садыков Роберт Гарипович": 71,
-      "Салихов Альберт Ильдусович": 312,
-      "Смирнов Шамиль Васильевич": 60,
-      "Якушев Александр Сергеевич": 88,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000202281": 96,
+      "gas:candidate-vibid:1001000121800": 71,
+      "gas:candidate-vibid:1001000225905": 312,
+      "gas:candidate-vibid:1001000113902": 60,
+      "gas:candidate-vibid:316300470936": 88,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 115,
-      "Садыков Роберт Гарипович": 87,
-      "Салихов Альберт Ильдусович": 208,
-      "Смирнов Шамиль Васильевич": 51,
-      "Якушев Александр Сергеевич": 51,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000202281": 115,
+      "gas:candidate-vibid:1001000121800": 87,
+      "gas:candidate-vibid:1001000225905": 208,
+      "gas:candidate-vibid:1001000113902": 51,
+      "gas:candidate-vibid:316300470936": 51,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 149,
-      "Садыков Роберт Гарипович": 66,
-      "Салихов Альберт Ильдусович": 251,
-      "Смирнов Шамиль Васильевич": 48,
-      "Якушев Александр Сергеевич": 61,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000202281": 149,
+      "gas:candidate-vibid:1001000121800": 66,
+      "gas:candidate-vibid:1001000225905": 251,
+      "gas:candidate-vibid:1001000113902": 48,
+      "gas:candidate-vibid:316300470936": 61,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 125,
-      "Садыков Роберт Гарипович": 53,
-      "Салихов Альберт Ильдусович": 383,
-      "Смирнов Шамиль Васильевич": 60,
-      "Якушев Александр Сергеевич": 26,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000202281": 125,
+      "gas:candidate-vibid:1001000121800": 53,
+      "gas:candidate-vibid:1001000225905": 383,
+      "gas:candidate-vibid:1001000113902": 60,
+      "gas:candidate-vibid:316300470936": 26,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 110,
-      "Садыков Роберт Гарипович": 76,
-      "Салихов Альберт Ильдусович": 257,
-      "Смирнов Шамиль Васильевич": 60,
-      "Якушев Александр Сергеевич": 77,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000202281": 110,
+      "gas:candidate-vibid:1001000121800": 76,
+      "gas:candidate-vibid:1001000225905": 257,
+      "gas:candidate-vibid:1001000113902": 60,
+      "gas:candidate-vibid:316300470936": 77,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 116,
-      "Садыков Роберт Гарипович": 37,
-      "Салихов Альберт Ильдусович": 254,
-      "Смирнов Шамиль Васильевич": 54,
-      "Якушев Александр Сергеевич": 41,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000202281": 116,
+      "gas:candidate-vibid:1001000121800": 37,
+      "gas:candidate-vibid:1001000225905": 254,
+      "gas:candidate-vibid:1001000113902": 54,
+      "gas:candidate-vibid:316300470936": 41,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 109,
-      "Садыков Роберт Гарипович": 46,
-      "Салихов Альберт Ильдусович": 202,
-      "Смирнов Шамиль Васильевич": 50,
-      "Якушев Александр Сергеевич": 39,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000202281": 109,
+      "gas:candidate-vibid:1001000121800": 46,
+      "gas:candidate-vibid:1001000225905": 202,
+      "gas:candidate-vibid:1001000113902": 50,
+      "gas:candidate-vibid:316300470936": 39,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 116,
-      "Садыков Роберт Гарипович": 61,
-      "Салихов Альберт Ильдусович": 286,
-      "Смирнов Шамиль Васильевич": 56,
-      "Якушев Александр Сергеевич": 37,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000202281": 116,
+      "gas:candidate-vibid:1001000121800": 61,
+      "gas:candidate-vibid:1001000225905": 286,
+      "gas:candidate-vibid:1001000113902": 56,
+      "gas:candidate-vibid:316300470936": 37,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 109,
-      "Садыков Роберт Гарипович": 56,
-      "Салихов Альберт Ильдусович": 287,
-      "Смирнов Шамиль Васильевич": 48,
-      "Якушев Александр Сергеевич": 51,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202281": 109,
+      "gas:candidate-vibid:1001000121800": 56,
+      "gas:candidate-vibid:1001000225905": 287,
+      "gas:candidate-vibid:1001000113902": 48,
+      "gas:candidate-vibid:316300470936": 51,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 91,
-      "Садыков Роберт Гарипович": 57,
-      "Салихов Альберт Ильдусович": 236,
-      "Смирнов Шамиль Васильевич": 42,
-      "Якушев Александр Сергеевич": 30,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000202281": 91,
+      "gas:candidate-vibid:1001000121800": 57,
+      "gas:candidate-vibid:1001000225905": 236,
+      "gas:candidate-vibid:1001000113902": 42,
+      "gas:candidate-vibid:316300470936": 30,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 148,
-      "Садыков Роберт Гарипович": 117,
-      "Салихов Альберт Ильдусович": 218,
-      "Смирнов Шамиль Васильевич": 80,
-      "Якушев Александр Сергеевич": 46,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000202281": 148,
+      "gas:candidate-vibid:1001000121800": 117,
+      "gas:candidate-vibid:1001000225905": 218,
+      "gas:candidate-vibid:1001000113902": 80,
+      "gas:candidate-vibid:316300470936": 46,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 144,
-      "Садыков Роберт Гарипович": 59,
-      "Салихов Альберт Ильдусович": 204,
-      "Смирнов Шамиль Васильевич": 93,
-      "Якушев Александр Сергеевич": 52,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000202281": 144,
+      "gas:candidate-vibid:1001000121800": 59,
+      "gas:candidate-vibid:1001000225905": 204,
+      "gas:candidate-vibid:1001000113902": 93,
+      "gas:candidate-vibid:316300470936": 52,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 129,
-      "Садыков Роберт Гарипович": 47,
-      "Салихов Альберт Ильдусович": 416,
-      "Смирнов Шамиль Васильевич": 62,
-      "Якушев Александр Сергеевич": 69,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000202281": 129,
+      "gas:candidate-vibid:1001000121800": 47,
+      "gas:candidate-vibid:1001000225905": 416,
+      "gas:candidate-vibid:1001000113902": 62,
+      "gas:candidate-vibid:316300470936": 69,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 147,
-      "Садыков Роберт Гарипович": 62,
-      "Салихов Альберт Ильдусович": 176,
-      "Смирнов Шамиль Васильевич": 92,
-      "Якушев Александр Сергеевич": 95,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000202281": 147,
+      "gas:candidate-vibid:1001000121800": 62,
+      "gas:candidate-vibid:1001000225905": 176,
+      "gas:candidate-vibid:1001000113902": 92,
+      "gas:candidate-vibid:316300470936": 95,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 4,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 6,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 4,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 6,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 172,
-      "Садыков Роберт Гарипович": 84,
-      "Салихов Альберт Ильдусович": 276,
-      "Смирнов Шамиль Васильевич": 88,
-      "Якушев Александр Сергеевич": 111,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000202281": 172,
+      "gas:candidate-vibid:1001000121800": 84,
+      "gas:candidate-vibid:1001000225905": 276,
+      "gas:candidate-vibid:1001000113902": 88,
+      "gas:candidate-vibid:316300470936": 111,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 174,
-      "Садыков Роберт Гарипович": 75,
-      "Салихов Альберт Ильдусович": 178,
-      "Смирнов Шамиль Васильевич": 89,
-      "Якушев Александр Сергеевич": 116,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000202281": 174,
+      "gas:candidate-vibid:1001000121800": 75,
+      "gas:candidate-vibid:1001000225905": 178,
+      "gas:candidate-vibid:1001000113902": 89,
+      "gas:candidate-vibid:316300470936": 116,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 125,
-      "Садыков Роберт Гарипович": 48,
-      "Салихов Альберт Ильдусович": 144,
-      "Смирнов Шамиль Васильевич": 47,
-      "Якушев Александр Сергеевич": 34,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000202281": 125,
+      "gas:candidate-vibid:1001000121800": 48,
+      "gas:candidate-vibid:1001000225905": 144,
+      "gas:candidate-vibid:1001000113902": 47,
+      "gas:candidate-vibid:316300470936": 34,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 120,
-      "Садыков Роберт Гарипович": 71,
-      "Салихов Альберт Ильдусович": 156,
-      "Смирнов Шамиль Васильевич": 72,
-      "Якушев Александр Сергеевич": 101,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000202281": 120,
+      "gas:candidate-vibid:1001000121800": 71,
+      "gas:candidate-vibid:1001000225905": 156,
+      "gas:candidate-vibid:1001000113902": 72,
+      "gas:candidate-vibid:316300470936": 101,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 141,
-      "Садыков Роберт Гарипович": 74,
-      "Салихов Альберт Ильдусович": 142,
-      "Смирнов Шамиль Васильевич": 84,
-      "Якушев Александр Сергеевич": 140,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000202281": 141,
+      "gas:candidate-vibid:1001000121800": 74,
+      "gas:candidate-vibid:1001000225905": 142,
+      "gas:candidate-vibid:1001000113902": 84,
+      "gas:candidate-vibid:316300470936": 140,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 157,
-      "Садыков Роберт Гарипович": 79,
-      "Салихов Альберт Ильдусович": 245,
-      "Смирнов Шамиль Васильевич": 172,
-      "Якушев Александр Сергеевич": 73,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000202281": 157,
+      "gas:candidate-vibid:1001000121800": 79,
+      "gas:candidate-vibid:1001000225905": 245,
+      "gas:candidate-vibid:1001000113902": 172,
+      "gas:candidate-vibid:316300470936": 73,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 167,
-      "Садыков Роберт Гарипович": 60,
-      "Салихов Альберт Ильдусович": 247,
-      "Смирнов Шамиль Васильевич": 126,
-      "Якушев Александр Сергеевич": 113,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000202281": 167,
+      "gas:candidate-vibid:1001000121800": 60,
+      "gas:candidate-vibid:1001000225905": 247,
+      "gas:candidate-vibid:1001000113902": 126,
+      "gas:candidate-vibid:316300470936": 113,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 130,
-      "Садыков Роберт Гарипович": 49,
-      "Салихов Альберт Ильдусович": 206,
-      "Смирнов Шамиль Васильевич": 85,
-      "Якушев Александр Сергеевич": 74,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000202281": 130,
+      "gas:candidate-vibid:1001000121800": 49,
+      "gas:candidate-vibid:1001000225905": 206,
+      "gas:candidate-vibid:1001000113902": 85,
+      "gas:candidate-vibid:316300470936": 74,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 24,
-      "Садыков Роберт Гарипович": 14,
-      "Салихов Альберт Ильдусович": 73,
-      "Смирнов Шамиль Васильевич": 6,
-      "Якушев Александр Сергеевич": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000202281": 24,
+      "gas:candidate-vibid:1001000121800": 14,
+      "gas:candidate-vibid:1001000225905": 73,
+      "gas:candidate-vibid:1001000113902": 6,
+      "gas:candidate-vibid:316300470936": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 119,
-      "Садыков Роберт Гарипович": 18,
-      "Салихов Альберт Ильдусович": 296,
-      "Смирнов Шамиль Васильевич": 78,
-      "Якушев Александр Сергеевич": 45,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000202281": 119,
+      "gas:candidate-vibid:1001000121800": 18,
+      "gas:candidate-vibid:1001000225905": 296,
+      "gas:candidate-vibid:1001000113902": 78,
+      "gas:candidate-vibid:316300470936": 45,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 188,
-      "Садыков Роберт Гарипович": 86,
-      "Салихов Альберт Ильдусович": 159,
-      "Смирнов Шамиль Васильевич": 68,
-      "Якушев Александр Сергеевич": 104,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000202281": 188,
+      "gas:candidate-vibid:1001000121800": 86,
+      "gas:candidate-vibid:1001000225905": 159,
+      "gas:candidate-vibid:1001000113902": 68,
+      "gas:candidate-vibid:316300470936": 104,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 77,
-      "Садыков Роберт Гарипович": 33,
-      "Салихов Альберт Ильдусович": 195,
-      "Смирнов Шамиль Васильевич": 36,
-      "Якушев Александр Сергеевич": 47,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202281": 77,
+      "gas:candidate-vibid:1001000121800": 33,
+      "gas:candidate-vibid:1001000225905": 195,
+      "gas:candidate-vibid:1001000113902": 36,
+      "gas:candidate-vibid:316300470936": 47,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 44,
-      "Садыков Роберт Гарипович": 37,
-      "Салихов Альберт Ильдусович": 169,
-      "Смирнов Шамиль Васильевич": 14,
-      "Якушев Александр Сергеевич": 27,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000202281": 44,
+      "gas:candidate-vibid:1001000121800": 37,
+      "gas:candidate-vibid:1001000225905": 169,
+      "gas:candidate-vibid:1001000113902": 14,
+      "gas:candidate-vibid:316300470936": 27,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470839&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 303,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 303,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 114,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 114,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 8,
-      "Салихов Альберт Ильдусович": 152,
-      "Смирнов Шамиль Васильевич": 3,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 8,
+      "gas:candidate-vibid:1001000225905": 152,
+      "gas:candidate-vibid:1001000113902": 3,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 139,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 139,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 142,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 142,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 7,
-      "Садыков Роберт Гарипович": 16,
-      "Салихов Альберт Ильдусович": 196,
-      "Смирнов Шамиль Васильевич": 4,
-      "Якушев Александр Сергеевич": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000202281": 7,
+      "gas:candidate-vibid:1001000121800": 16,
+      "gas:candidate-vibid:1001000225905": 196,
+      "gas:candidate-vibid:1001000113902": 4,
+      "gas:candidate-vibid:316300470936": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 4,
-      "Садыков Роберт Гарипович": 11,
-      "Салихов Альберт Ильдусович": 124,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000202281": 4,
+      "gas:candidate-vibid:1001000121800": 11,
+      "gas:candidate-vibid:1001000225905": 124,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 3,
-      "Салихов Альберт Ильдусович": 76,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 3,
+      "gas:candidate-vibid:1001000225905": 76,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 3,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 233,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000202281": 3,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 233,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 5,
-      "Салихов Альберт Ильдусович": 250,
-      "Смирнов Шамиль Васильевич": 1,
-      "Якушев Александр Сергеевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 5,
+      "gas:candidate-vibid:1001000225905": 250,
+      "gas:candidate-vibid:1001000113902": 1,
+      "gas:candidate-vibid:316300470936": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 5,
-      "Садыков Роберт Гарипович": 47,
-      "Салихов Альберт Ильдусович": 167,
-      "Смирнов Шамиль Васильевич": 3,
-      "Якушев Александр Сергеевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000202281": 5,
+      "gas:candidate-vibid:1001000121800": 47,
+      "gas:candidate-vibid:1001000225905": 167,
+      "gas:candidate-vibid:1001000113902": 3,
+      "gas:candidate-vibid:316300470936": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 28,
-      "Салихов Альберт Ильдусович": 146,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 28,
+      "gas:candidate-vibid:1001000225905": 146,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_16_part_010 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Петров Юрий Николаевич": 0,
-      "Садыков Роберт Гарипович": 0,
-      "Салихов Альберт Ильдусович": 151,
-      "Смирнов Шамиль Васильевич": 0,
-      "Якушев Александр Сергеевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000202281": 0,
+      "gas:candidate-vibid:1001000121800": 0,
+      "gas:candidate-vibid:1001000225905": 151,
+      "gas:candidate-vibid:1001000113902": 0,
+      "gas:candidate-vibid:316300470936": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163004033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300470840&region=0&sub_region=0&type=429",

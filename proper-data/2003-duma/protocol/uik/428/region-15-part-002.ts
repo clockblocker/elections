@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 144,
-      "Дедегкаев Виктор Хасанбиевич": 14,
-      "Джиоев Марат Рузвельтович": 8,
-      "Дзахов Владимир Васильевич": 34,
-      "Икаев Славик Сафарбиевич": 8,
-      "Каллагаты Эльбрус Петрович": 13,
-      "Огоев Урузмаг Созрыкоевич": 205,
-      "Фадзаев Арсен Сулейманович": 302,
-      "Чехоев Анатолий Георгиевич": 64,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000225901": 144,
+      "gas:candidate-vibid:1001000190285": 14,
+      "gas:candidate-vibid:215200070418": 8,
+      "gas:candidate-vibid:215200070445": 34,
+      "gas:candidate-vibid:1001000136000": 8,
+      "gas:candidate-vibid:1001000220804": 13,
+      "gas:candidate-vibid:215200070424": 205,
+      "gas:candidate-vibid:1001000113900": 302,
+      "gas:candidate-vibid:1001000187986": 64,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 185,
-      "Дедегкаев Виктор Хасанбиевич": 23,
-      "Джиоев Марат Рузвельтович": 16,
-      "Дзахов Владимир Васильевич": 78,
-      "Икаев Славик Сафарбиевич": 21,
-      "Каллагаты Эльбрус Петрович": 11,
-      "Огоев Урузмаг Созрыкоевич": 214,
-      "Фадзаев Арсен Сулейманович": 419,
-      "Чехоев Анатолий Георгиевич": 74,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000225901": 185,
+      "gas:candidate-vibid:1001000190285": 23,
+      "gas:candidate-vibid:215200070418": 16,
+      "gas:candidate-vibid:215200070445": 78,
+      "gas:candidate-vibid:1001000136000": 21,
+      "gas:candidate-vibid:1001000220804": 11,
+      "gas:candidate-vibid:215200070424": 214,
+      "gas:candidate-vibid:1001000113900": 419,
+      "gas:candidate-vibid:1001000187986": 74,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 59,
-      "Дедегкаев Виктор Хасанбиевич": 8,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 14,
-      "Икаев Славик Сафарбиевич": 9,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 88,
-      "Фадзаев Арсен Сулейманович": 74,
-      "Чехоев Анатолий Георгиевич": 26,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000225901": 59,
+      "gas:candidate-vibid:1001000190285": 8,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 14,
+      "gas:candidate-vibid:1001000136000": 9,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 88,
+      "gas:candidate-vibid:1001000113900": 74,
+      "gas:candidate-vibid:1001000187986": 26,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 58,
-      "Дедегкаев Виктор Хасанбиевич": 6,
-      "Джиоев Марат Рузвельтович": 10,
-      "Дзахов Владимир Васильевич": 20,
-      "Икаев Славик Сафарбиевич": 14,
-      "Каллагаты Эльбрус Петрович": 6,
-      "Огоев Урузмаг Созрыкоевич": 183,
-      "Фадзаев Арсен Сулейманович": 151,
-      "Чехоев Анатолий Георгиевич": 42,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225901": 58,
+      "gas:candidate-vibid:1001000190285": 6,
+      "gas:candidate-vibid:215200070418": 10,
+      "gas:candidate-vibid:215200070445": 20,
+      "gas:candidate-vibid:1001000136000": 14,
+      "gas:candidate-vibid:1001000220804": 6,
+      "gas:candidate-vibid:215200070424": 183,
+      "gas:candidate-vibid:1001000113900": 151,
+      "gas:candidate-vibid:1001000187986": 42,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 61,
-      "Дедегкаев Виктор Хасанбиевич": 12,
-      "Джиоев Марат Рузвельтович": 13,
-      "Дзахов Владимир Васильевич": 28,
-      "Икаев Славик Сафарбиевич": 7,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 169,
-      "Фадзаев Арсен Сулейманович": 185,
-      "Чехоев Анатолий Георгиевич": 28,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225901": 61,
+      "gas:candidate-vibid:1001000190285": 12,
+      "gas:candidate-vibid:215200070418": 13,
+      "gas:candidate-vibid:215200070445": 28,
+      "gas:candidate-vibid:1001000136000": 7,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 169,
+      "gas:candidate-vibid:1001000113900": 185,
+      "gas:candidate-vibid:1001000187986": 28,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 129,
-      "Дедегкаев Виктор Хасанбиевич": 10,
-      "Джиоев Марат Рузвельтович": 8,
-      "Дзахов Владимир Васильевич": 40,
-      "Икаев Славик Сафарбиевич": 7,
-      "Каллагаты Эльбрус Петрович": 10,
-      "Огоев Урузмаг Созрыкоевич": 180,
-      "Фадзаев Арсен Сулейманович": 219,
-      "Чехоев Анатолий Георгиевич": 56,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000225901": 129,
+      "gas:candidate-vibid:1001000190285": 10,
+      "gas:candidate-vibid:215200070418": 8,
+      "gas:candidate-vibid:215200070445": 40,
+      "gas:candidate-vibid:1001000136000": 7,
+      "gas:candidate-vibid:1001000220804": 10,
+      "gas:candidate-vibid:215200070424": 180,
+      "gas:candidate-vibid:1001000113900": 219,
+      "gas:candidate-vibid:1001000187986": 56,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 62,
-      "Дедегкаев Виктор Хасанбиевич": 15,
-      "Джиоев Марат Рузвельтович": 9,
-      "Дзахов Владимир Васильевич": 30,
-      "Икаев Славик Сафарбиевич": 9,
-      "Каллагаты Эльбрус Петрович": 6,
-      "Огоев Урузмаг Созрыкоевич": 161,
-      "Фадзаев Арсен Сулейманович": 302,
-      "Чехоев Анатолий Георгиевич": 62,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225901": 62,
+      "gas:candidate-vibid:1001000190285": 15,
+      "gas:candidate-vibid:215200070418": 9,
+      "gas:candidate-vibid:215200070445": 30,
+      "gas:candidate-vibid:1001000136000": 9,
+      "gas:candidate-vibid:1001000220804": 6,
+      "gas:candidate-vibid:215200070424": 161,
+      "gas:candidate-vibid:1001000113900": 302,
+      "gas:candidate-vibid:1001000187986": 62,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 108,
-      "Дедегкаев Виктор Хасанбиевич": 14,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 55,
-      "Икаев Славик Сафарбиевич": 5,
-      "Каллагаты Эльбрус Петрович": 5,
-      "Огоев Урузмаг Созрыкоевич": 217,
-      "Фадзаев Арсен Сулейманович": 314,
-      "Чехоев Анатолий Георгиевич": 51,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000225901": 108,
+      "gas:candidate-vibid:1001000190285": 14,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 55,
+      "gas:candidate-vibid:1001000136000": 5,
+      "gas:candidate-vibid:1001000220804": 5,
+      "gas:candidate-vibid:215200070424": 217,
+      "gas:candidate-vibid:1001000113900": 314,
+      "gas:candidate-vibid:1001000187986": 51,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 19,
-      "Дедегкаев Виктор Хасанбиевич": 6,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 19,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 4,
-      "Огоев Урузмаг Созрыкоевич": 83,
-      "Фадзаев Арсен Сулейманович": 113,
-      "Чехоев Анатолий Георгиевич": 19,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225901": 19,
+      "gas:candidate-vibid:1001000190285": 6,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 19,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 4,
+      "gas:candidate-vibid:215200070424": 83,
+      "gas:candidate-vibid:1001000113900": 113,
+      "gas:candidate-vibid:1001000187986": 19,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 64,
-      "Дедегкаев Виктор Хасанбиевич": 12,
-      "Джиоев Марат Рузвельтович": 6,
-      "Дзахов Владимир Васильевич": 34,
-      "Икаев Славик Сафарбиевич": 3,
-      "Каллагаты Эльбрус Петрович": 9,
-      "Огоев Урузмаг Созрыкоевич": 191,
-      "Фадзаев Арсен Сулейманович": 248,
-      "Чехоев Анатолий Георгиевич": 44,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000225901": 64,
+      "gas:candidate-vibid:1001000190285": 12,
+      "gas:candidate-vibid:215200070418": 6,
+      "gas:candidate-vibid:215200070445": 34,
+      "gas:candidate-vibid:1001000136000": 3,
+      "gas:candidate-vibid:1001000220804": 9,
+      "gas:candidate-vibid:215200070424": 191,
+      "gas:candidate-vibid:1001000113900": 248,
+      "gas:candidate-vibid:1001000187986": 44,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 64,
-      "Дедегкаев Виктор Хасанбиевич": 18,
-      "Джиоев Марат Рузвельтович": 16,
-      "Дзахов Владимир Васильевич": 22,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 429,
-      "Фадзаев Арсен Сулейманович": 534,
-      "Чехоев Анатолий Георгиевич": 71,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225901": 64,
+      "gas:candidate-vibid:1001000190285": 18,
+      "gas:candidate-vibid:215200070418": 16,
+      "gas:candidate-vibid:215200070445": 22,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 429,
+      "gas:candidate-vibid:1001000113900": 534,
+      "gas:candidate-vibid:1001000187986": 71,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 70,
-      "Дедегкаев Виктор Хасанбиевич": 10,
-      "Джиоев Марат Рузвельтович": 10,
-      "Дзахов Владимир Васильевич": 18,
-      "Икаев Славик Сафарбиевич": 6,
-      "Каллагаты Эльбрус Петрович": 11,
-      "Огоев Урузмаг Созрыкоевич": 264,
-      "Фадзаев Арсен Сулейманович": 421,
-      "Чехоев Анатолий Георгиевич": 106,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225901": 70,
+      "gas:candidate-vibid:1001000190285": 10,
+      "gas:candidate-vibid:215200070418": 10,
+      "gas:candidate-vibid:215200070445": 18,
+      "gas:candidate-vibid:1001000136000": 6,
+      "gas:candidate-vibid:1001000220804": 11,
+      "gas:candidate-vibid:215200070424": 264,
+      "gas:candidate-vibid:1001000113900": 421,
+      "gas:candidate-vibid:1001000187986": 106,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 111,
-      "Дедегкаев Виктор Хасанбиевич": 28,
-      "Джиоев Марат Рузвельтович": 12,
-      "Дзахов Владимир Васильевич": 38,
-      "Икаев Славик Сафарбиевич": 13,
-      "Каллагаты Эльбрус Петрович": 9,
-      "Огоев Урузмаг Созрыкоевич": 186,
-      "Фадзаев Арсен Сулейманович": 399,
-      "Чехоев Анатолий Георгиевич": 72,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000225901": 111,
+      "gas:candidate-vibid:1001000190285": 28,
+      "gas:candidate-vibid:215200070418": 12,
+      "gas:candidate-vibid:215200070445": 38,
+      "gas:candidate-vibid:1001000136000": 13,
+      "gas:candidate-vibid:1001000220804": 9,
+      "gas:candidate-vibid:215200070424": 186,
+      "gas:candidate-vibid:1001000113900": 399,
+      "gas:candidate-vibid:1001000187986": 72,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 26,
-      "Дедегкаев Виктор Хасанбиевич": 8,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 12,
-      "Икаев Славик Сафарбиевич": 7,
-      "Каллагаты Эльбрус Петрович": 4,
-      "Огоев Урузмаг Созрыкоевич": 267,
-      "Фадзаев Арсен Сулейманович": 549,
-      "Чехоев Анатолий Георгиевич": 18,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000225901": 26,
+      "gas:candidate-vibid:1001000190285": 8,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 12,
+      "gas:candidate-vibid:1001000136000": 7,
+      "gas:candidate-vibid:1001000220804": 4,
+      "gas:candidate-vibid:215200070424": 267,
+      "gas:candidate-vibid:1001000113900": 549,
+      "gas:candidate-vibid:1001000187986": 18,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 78,
-      "Дедегкаев Виктор Хасанбиевич": 14,
-      "Джиоев Марат Рузвельтович": 33,
-      "Дзахов Владимир Васильевич": 39,
-      "Икаев Славик Сафарбиевич": 63,
-      "Каллагаты Эльбрус Петрович": 20,
-      "Огоев Урузмаг Созрыкоевич": 334,
-      "Фадзаев Арсен Сулейманович": 653,
-      "Чехоев Анатолий Георгиевич": 63,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000225901": 78,
+      "gas:candidate-vibid:1001000190285": 14,
+      "gas:candidate-vibid:215200070418": 33,
+      "gas:candidate-vibid:215200070445": 39,
+      "gas:candidate-vibid:1001000136000": 63,
+      "gas:candidate-vibid:1001000220804": 20,
+      "gas:candidate-vibid:215200070424": 334,
+      "gas:candidate-vibid:1001000113900": 653,
+      "gas:candidate-vibid:1001000187986": 63,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 25,
-      "Дедегкаев Виктор Хасанбиевич": 3,
-      "Джиоев Марат Рузвельтович": 20,
-      "Дзахов Владимир Васильевич": 8,
-      "Икаев Славик Сафарбиевич": 11,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 87,
-      "Фадзаев Арсен Сулейманович": 32,
-      "Чехоев Анатолий Георгиевич": 13,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000225901": 25,
+      "gas:candidate-vibid:1001000190285": 3,
+      "gas:candidate-vibid:215200070418": 20,
+      "gas:candidate-vibid:215200070445": 8,
+      "gas:candidate-vibid:1001000136000": 11,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 87,
+      "gas:candidate-vibid:1001000113900": 32,
+      "gas:candidate-vibid:1001000187986": 13,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070929&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 18,
-      "Дедегкаев Виктор Хасанбиевич": 2,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 8,
-      "Икаев Славик Сафарбиевич": 3,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 424,
-      "Фадзаев Арсен Сулейманович": 305,
-      "Чехоев Анатолий Георгиевич": 24,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225901": 18,
+      "gas:candidate-vibid:1001000190285": 2,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 8,
+      "gas:candidate-vibid:1001000136000": 3,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 424,
+      "gas:candidate-vibid:1001000113900": 305,
+      "gas:candidate-vibid:1001000187986": 24,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 14,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 5,
-      "Дзахов Владимир Васильевич": 13,
-      "Икаев Славик Сафарбиевич": 3,
-      "Каллагаты Эльбрус Петрович": 6,
-      "Огоев Урузмаг Созрыкоевич": 657,
-      "Фадзаев Арсен Сулейманович": 418,
-      "Чехоев Анатолий Георгиевич": 58,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225901": 14,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 5,
+      "gas:candidate-vibid:215200070445": 13,
+      "gas:candidate-vibid:1001000136000": 3,
+      "gas:candidate-vibid:1001000220804": 6,
+      "gas:candidate-vibid:215200070424": 657,
+      "gas:candidate-vibid:1001000113900": 418,
+      "gas:candidate-vibid:1001000187986": 58,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 25,
-      "Дедегкаев Виктор Хасанбиевич": 3,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 10,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 702,
-      "Фадзаев Арсен Сулейманович": 346,
-      "Чехоев Анатолий Георгиевич": 28,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225901": 25,
+      "gas:candidate-vibid:1001000190285": 3,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 10,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 702,
+      "gas:candidate-vibid:1001000113900": 346,
+      "gas:candidate-vibid:1001000187986": 28,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 43,
-      "Дедегкаев Виктор Хасанбиевич": 6,
-      "Джиоев Марат Рузвельтович": 6,
-      "Дзахов Владимир Васильевич": 15,
-      "Икаев Славик Сафарбиевич": 5,
-      "Каллагаты Эльбрус Петрович": 4,
-      "Огоев Урузмаг Созрыкоевич": 518,
-      "Фадзаев Арсен Сулейманович": 254,
-      "Чехоев Анатолий Георгиевич": 26,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000225901": 43,
+      "gas:candidate-vibid:1001000190285": 6,
+      "gas:candidate-vibid:215200070418": 6,
+      "gas:candidate-vibid:215200070445": 15,
+      "gas:candidate-vibid:1001000136000": 5,
+      "gas:candidate-vibid:1001000220804": 4,
+      "gas:candidate-vibid:215200070424": 518,
+      "gas:candidate-vibid:1001000113900": 254,
+      "gas:candidate-vibid:1001000187986": 26,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 37,
-      "Дедегкаев Виктор Хасанбиевич": 4,
-      "Джиоев Марат Рузвельтович": 5,
-      "Дзахов Владимир Васильевич": 13,
-      "Икаев Славик Сафарбиевич": 7,
-      "Каллагаты Эльбрус Петрович": 3,
-      "Огоев Урузмаг Созрыкоевич": 645,
-      "Фадзаев Арсен Сулейманович": 317,
-      "Чехоев Анатолий Георгиевич": 28,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000225901": 37,
+      "gas:candidate-vibid:1001000190285": 4,
+      "gas:candidate-vibid:215200070418": 5,
+      "gas:candidate-vibid:215200070445": 13,
+      "gas:candidate-vibid:1001000136000": 7,
+      "gas:candidate-vibid:1001000220804": 3,
+      "gas:candidate-vibid:215200070424": 645,
+      "gas:candidate-vibid:1001000113900": 317,
+      "gas:candidate-vibid:1001000187986": 28,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 4,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 58,
-      "Фадзаев Арсен Сулейманович": 28,
-      "Чехоев Анатолий Георгиевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225901": 4,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 58,
+      "gas:candidate-vibid:1001000113900": 28,
+      "gas:candidate-vibid:1001000187986": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 22,
-      "Дедегкаев Виктор Хасанбиевич": 3,
-      "Джиоев Марат Рузвельтович": 5,
-      "Дзахов Владимир Васильевич": 3,
-      "Икаев Славик Сафарбиевич": 7,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 230,
-      "Фадзаев Арсен Сулейманович": 261,
-      "Чехоев Анатолий Георгиевич": 17,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225901": 22,
+      "gas:candidate-vibid:1001000190285": 3,
+      "gas:candidate-vibid:215200070418": 5,
+      "gas:candidate-vibid:215200070445": 3,
+      "gas:candidate-vibid:1001000136000": 7,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 230,
+      "gas:candidate-vibid:1001000113900": 261,
+      "gas:candidate-vibid:1001000187986": 17,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 8,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 5,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 3,
-      "Огоев Урузмаг Созрыкоевич": 603,
-      "Фадзаев Арсен Сулейманович": 308,
-      "Чехоев Анатолий Георгиевич": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225901": 8,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 5,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 3,
+      "gas:candidate-vibid:215200070424": 603,
+      "gas:candidate-vibid:1001000113900": 308,
+      "gas:candidate-vibid:1001000187986": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 23,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 5,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 263,
-      "Фадзаев Арсен Сулейманович": 192,
-      "Чехоев Анатолий Георгиевич": 13,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000225901": 23,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 5,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 263,
+      "gas:candidate-vibid:1001000113900": 192,
+      "gas:candidate-vibid:1001000187986": 13,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 10,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 2,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 316,
-      "Фадзаев Арсен Сулейманович": 193,
-      "Чехоев Анатолий Георгиевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225901": 10,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 2,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 316,
+      "gas:candidate-vibid:1001000113900": 193,
+      "gas:candidate-vibid:1001000187986": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 29,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 8,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 397,
-      "Фадзаев Арсен Сулейманович": 144,
-      "Чехоев Анатолий Георгиевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225901": 29,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 8,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 397,
+      "gas:candidate-vibid:1001000113900": 144,
+      "gas:candidate-vibid:1001000187986": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 27,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 7,
-      "Дзахов Владимир Васильевич": 2,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 163,
-      "Фадзаев Арсен Сулейманович": 193,
-      "Чехоев Анатолий Георгиевич": 19,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225901": 27,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 7,
+      "gas:candidate-vibid:215200070445": 2,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 163,
+      "gas:candidate-vibid:1001000113900": 193,
+      "gas:candidate-vibid:1001000187986": 19,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 4,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 157,
-      "Фадзаев Арсен Сулейманович": 82,
-      "Чехоев Анатолий Георгиевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225901": 4,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 157,
+      "gas:candidate-vibid:1001000113900": 82,
+      "gas:candidate-vibid:1001000187986": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 5,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 2,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 139,
-      "Фадзаев Арсен Сулейманович": 38,
-      "Чехоев Анатолий Георгиевич": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 5,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 2,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 139,
+      "gas:candidate-vibid:1001000113900": 38,
+      "gas:candidate-vibid:1001000187986": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070930&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 19,
-      "Фадзаев Арсен Сулейманович": 24,
-      "Чехоев Анатолий Георгиевич": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 19,
+      "gas:candidate-vibid:1001000113900": 24,
+      "gas:candidate-vibid:1001000187986": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 61,
-      "Дедегкаев Виктор Хасанбиевич": 4,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 20,
-      "Икаев Славик Сафарбиевич": 6,
-      "Каллагаты Эльбрус Петрович": 9,
-      "Огоев Урузмаг Созрыкоевич": 251,
-      "Фадзаев Арсен Сулейманович": 386,
-      "Чехоев Анатолий Георгиевич": 57,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225901": 61,
+      "gas:candidate-vibid:1001000190285": 4,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 20,
+      "gas:candidate-vibid:1001000136000": 6,
+      "gas:candidate-vibid:1001000220804": 9,
+      "gas:candidate-vibid:215200070424": 251,
+      "gas:candidate-vibid:1001000113900": 386,
+      "gas:candidate-vibid:1001000187986": 57,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 29,
-      "Дедегкаев Виктор Хасанбиевич": 10,
-      "Джиоев Марат Рузвельтович": 10,
-      "Дзахов Владимир Васильевич": 17,
-      "Икаев Славик Сафарбиевич": 6,
-      "Каллагаты Эльбрус Петрович": 3,
-      "Огоев Урузмаг Созрыкоевич": 100,
-      "Фадзаев Арсен Сулейманович": 251,
-      "Чехоев Анатолий Георгиевич": 54,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225901": 29,
+      "gas:candidate-vibid:1001000190285": 10,
+      "gas:candidate-vibid:215200070418": 10,
+      "gas:candidate-vibid:215200070445": 17,
+      "gas:candidate-vibid:1001000136000": 6,
+      "gas:candidate-vibid:1001000220804": 3,
+      "gas:candidate-vibid:215200070424": 100,
+      "gas:candidate-vibid:1001000113900": 251,
+      "gas:candidate-vibid:1001000187986": 54,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 65,
-      "Дедегкаев Виктор Хасанбиевич": 15,
-      "Джиоев Марат Рузвельтович": 6,
-      "Дзахов Владимир Васильевич": 16,
-      "Икаев Славик Сафарбиевич": 3,
-      "Каллагаты Эльбрус Петрович": 4,
-      "Огоев Урузмаг Созрыкоевич": 450,
-      "Фадзаев Арсен Сулейманович": 418,
-      "Чехоев Анатолий Георгиевич": 29,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225901": 65,
+      "gas:candidate-vibid:1001000190285": 15,
+      "gas:candidate-vibid:215200070418": 6,
+      "gas:candidate-vibid:215200070445": 16,
+      "gas:candidate-vibid:1001000136000": 3,
+      "gas:candidate-vibid:1001000220804": 4,
+      "gas:candidate-vibid:215200070424": 450,
+      "gas:candidate-vibid:1001000113900": 418,
+      "gas:candidate-vibid:1001000187986": 29,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 51,
-      "Дедегкаев Виктор Хасанбиевич": 17,
-      "Джиоев Марат Рузвельтович": 3,
-      "Дзахов Владимир Васильевич": 15,
-      "Икаев Славик Сафарбиевич": 9,
-      "Каллагаты Эльбрус Петрович": 14,
-      "Огоев Урузмаг Созрыкоевич": 303,
-      "Фадзаев Арсен Сулейманович": 343,
-      "Чехоев Анатолий Георгиевич": 33,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225901": 51,
+      "gas:candidate-vibid:1001000190285": 17,
+      "gas:candidate-vibid:215200070418": 3,
+      "gas:candidate-vibid:215200070445": 15,
+      "gas:candidate-vibid:1001000136000": 9,
+      "gas:candidate-vibid:1001000220804": 14,
+      "gas:candidate-vibid:215200070424": 303,
+      "gas:candidate-vibid:1001000113900": 343,
+      "gas:candidate-vibid:1001000187986": 33,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 89,
-      "Дедегкаев Виктор Хасанбиевич": 10,
-      "Джиоев Марат Рузвельтович": 3,
-      "Дзахов Владимир Васильевич": 14,
-      "Икаев Славик Сафарбиевич": 4,
-      "Каллагаты Эльбрус Петрович": 4,
-      "Огоев Урузмаг Созрыкоевич": 283,
-      "Фадзаев Арсен Сулейманович": 288,
-      "Чехоев Анатолий Георгиевич": 45,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225901": 89,
+      "gas:candidate-vibid:1001000190285": 10,
+      "gas:candidate-vibid:215200070418": 3,
+      "gas:candidate-vibid:215200070445": 14,
+      "gas:candidate-vibid:1001000136000": 4,
+      "gas:candidate-vibid:1001000220804": 4,
+      "gas:candidate-vibid:215200070424": 283,
+      "gas:candidate-vibid:1001000113900": 288,
+      "gas:candidate-vibid:1001000187986": 45,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 27,
-      "Дедегкаев Виктор Хасанбиевич": 2,
-      "Джиоев Марат Рузвельтович": 5,
-      "Дзахов Владимир Васильевич": 4,
-      "Икаев Славик Сафарбиевич": 4,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 176,
-      "Фадзаев Арсен Сулейманович": 129,
-      "Чехоев Анатолий Георгиевич": 19,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000225901": 27,
+      "gas:candidate-vibid:1001000190285": 2,
+      "gas:candidate-vibid:215200070418": 5,
+      "gas:candidate-vibid:215200070445": 4,
+      "gas:candidate-vibid:1001000136000": 4,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 176,
+      "gas:candidate-vibid:1001000113900": 129,
+      "gas:candidate-vibid:1001000187986": 19,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 38,
-      "Дедегкаев Виктор Хасанбиевич": 9,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 10,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 268,
-      "Фадзаев Арсен Сулейманович": 278,
-      "Чехоев Анатолий Георгиевич": 22,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225901": 38,
+      "gas:candidate-vibid:1001000190285": 9,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 10,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 268,
+      "gas:candidate-vibid:1001000113900": 278,
+      "gas:candidate-vibid:1001000187986": 22,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 2,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 50,
-      "Фадзаев Арсен Сулейманович": 10,
-      "Чехоев Анатолий Георгиевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225901": 2,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 50,
+      "gas:candidate-vibid:1001000113900": 10,
+      "gas:candidate-vibid:1001000187986": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 7,
-      "Дедегкаев Виктор Хасанбиевич": 3,
-      "Джиоев Марат Рузвельтович": 5,
-      "Дзахов Владимир Васильевич": 7,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 198,
-      "Фадзаев Арсен Сулейманович": 369,
-      "Чехоев Анатолий Георгиевич": 59,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225901": 7,
+      "gas:candidate-vibid:1001000190285": 3,
+      "gas:candidate-vibid:215200070418": 5,
+      "gas:candidate-vibid:215200070445": 7,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 198,
+      "gas:candidate-vibid:1001000113900": 369,
+      "gas:candidate-vibid:1001000187986": 59,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 10,
-      "Дедегкаев Виктор Хасанбиевич": 2,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 9,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 141,
-      "Фадзаев Арсен Сулейманович": 86,
-      "Чехоев Анатолий Георгиевич": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 10,
+      "gas:candidate-vibid:1001000190285": 2,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 9,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 141,
+      "gas:candidate-vibid:1001000113900": 86,
+      "gas:candidate-vibid:1001000187986": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 9,
-      "Дедегкаев Виктор Хасанбиевич": 2,
-      "Джиоев Марат Рузвельтович": 6,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 387,
-      "Фадзаев Арсен Сулейманович": 321,
-      "Чехоев Анатолий Георгиевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225901": 9,
+      "gas:candidate-vibid:1001000190285": 2,
+      "gas:candidate-vibid:215200070418": 6,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 387,
+      "gas:candidate-vibid:1001000113900": 321,
+      "gas:candidate-vibid:1001000187986": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 39,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 71,
-      "Фадзаев Арсен Сулейманович": 97,
-      "Чехоев Анатолий Георгиевич": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000225901": 39,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 71,
+      "gas:candidate-vibid:1001000113900": 97,
+      "gas:candidate-vibid:1001000187986": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 4,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 151,
-      "Фадзаев Арсен Сулейманович": 104,
-      "Чехоев Анатолий Георгиевич": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225901": 4,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 151,
+      "gas:candidate-vibid:1001000113900": 104,
+      "gas:candidate-vibid:1001000187986": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 24,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 7,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 83,
-      "Фадзаев Арсен Сулейманович": 99,
-      "Чехоев Анатолий Георгиевич": 5,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225901": 24,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 7,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 83,
+      "gas:candidate-vibid:1001000113900": 99,
+      "gas:candidate-vibid:1001000187986": 5,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 3,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 35,
-      "Фадзаев Арсен Сулейманович": 105,
-      "Чехоев Анатолий Георгиевич": 9,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225901": 3,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 35,
+      "gas:candidate-vibid:1001000113900": 105,
+      "gas:candidate-vibid:1001000187986": 9,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 22,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 14,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 202,
-      "Фадзаев Арсен Сулейманович": 281,
-      "Чехоев Анатолий Георгиевич": 11,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225901": 22,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 14,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 202,
+      "gas:candidate-vibid:1001000113900": 281,
+      "gas:candidate-vibid:1001000187986": 11,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 4,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 17,
-      "Дзахов Владимир Васильевич": 2,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 4,
-      "Огоев Урузмаг Созрыкоевич": 103,
-      "Фадзаев Арсен Сулейманович": 87,
-      "Чехоев Анатолий Георгиевич": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225901": 4,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 17,
+      "gas:candidate-vibid:215200070445": 2,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 4,
+      "gas:candidate-vibid:215200070424": 103,
+      "gas:candidate-vibid:1001000113900": 87,
+      "gas:candidate-vibid:1001000187986": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 24,
-      "Дедегкаев Виктор Хасанбиевич": 3,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 16,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 3,
-      "Огоев Урузмаг Созрыкоевич": 522,
-      "Фадзаев Арсен Сулейманович": 193,
-      "Чехоев Анатолий Георгиевич": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225901": 24,
+      "gas:candidate-vibid:1001000190285": 3,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 16,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 3,
+      "gas:candidate-vibid:215200070424": 522,
+      "gas:candidate-vibid:1001000113900": 193,
+      "gas:candidate-vibid:1001000187986": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 13,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 3,
-      "Дзахов Владимир Васильевич": 13,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 3,
-      "Огоев Урузмаг Созрыкоевич": 86,
-      "Фадзаев Арсен Сулейманович": 167,
-      "Чехоев Анатолий Георгиевич": 54,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000225901": 13,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 3,
+      "gas:candidate-vibid:215200070445": 13,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 3,
+      "gas:candidate-vibid:215200070424": 86,
+      "gas:candidate-vibid:1001000113900": 167,
+      "gas:candidate-vibid:1001000187986": 54,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 1,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 10,
-      "Фадзаев Арсен Сулейманович": 17,
-      "Чехоев Анатолий Георгиевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 1,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 10,
+      "gas:candidate-vibid:1001000113900": 17,
+      "gas:candidate-vibid:1001000187986": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 29,
-      "Дедегкаев Виктор Хасанбиевич": 1,
-      "Джиоев Марат Рузвельтович": 3,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 5,
-      "Огоев Урузмаг Созрыкоевич": 101,
-      "Фадзаев Арсен Сулейманович": 241,
-      "Чехоев Анатолий Георгиевич": 29,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225901": 29,
+      "gas:candidate-vibid:1001000190285": 1,
+      "gas:candidate-vibid:215200070418": 3,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 5,
+      "gas:candidate-vibid:215200070424": 101,
+      "gas:candidate-vibid:1001000113900": 241,
+      "gas:candidate-vibid:1001000187986": 29,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 12,
-      "Фадзаев Арсен Сулейманович": 24,
-      "Чехоев Анатолий Георгиевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 12,
+      "gas:candidate-vibid:1001000113900": 24,
+      "gas:candidate-vibid:1001000187986": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 4,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 36,
-      "Фадзаев Арсен Сулейманович": 29,
-      "Чехоев Анатолий Георгиевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225901": 4,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 36,
+      "gas:candidate-vibid:1001000113900": 29,
+      "gas:candidate-vibid:1001000187986": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 22,
-      "Фадзаев Арсен Сулейманович": 1,
-      "Чехоев Анатолий Георгиевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 22,
+      "gas:candidate-vibid:1001000113900": 1,
+      "gas:candidate-vibid:1001000187986": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 55,
-      "Дедегкаев Виктор Хасанбиевич": 5,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 10,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 3,
-      "Огоев Урузмаг Созрыкоевич": 145,
-      "Фадзаев Арсен Сулейманович": 229,
-      "Чехоев Анатолий Георгиевич": 18,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225901": 55,
+      "gas:candidate-vibid:1001000190285": 5,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 10,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 3,
+      "gas:candidate-vibid:215200070424": 145,
+      "gas:candidate-vibid:1001000113900": 229,
+      "gas:candidate-vibid:1001000187986": 18,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 29,
-      "Дедегкаев Виктор Хасанбиевич": 2,
-      "Джиоев Марат Рузвельтович": 4,
-      "Дзахов Владимир Васильевич": 6,
-      "Икаев Славик Сафарбиевич": 2,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 94,
-      "Фадзаев Арсен Сулейманович": 206,
-      "Чехоев Анатолий Георгиевич": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225901": 29,
+      "gas:candidate-vibid:1001000190285": 2,
+      "gas:candidate-vibid:215200070418": 4,
+      "gas:candidate-vibid:215200070445": 6,
+      "gas:candidate-vibid:1001000136000": 2,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 94,
+      "gas:candidate-vibid:1001000113900": 206,
+      "gas:candidate-vibid:1001000187986": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 6,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 24,
-      "Фадзаев Арсен Сулейманович": 39,
-      "Чехоев Анатолий Георгиевич": 6,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225901": 6,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 24,
+      "gas:candidate-vibid:1001000113900": 39,
+      "gas:candidate-vibid:1001000187986": 6,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 2,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 23,
-      "Фадзаев Арсен Сулейманович": 27,
-      "Чехоев Анатолий Георгиевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 2,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 23,
+      "gas:candidate-vibid:1001000113900": 27,
+      "gas:candidate-vibid:1001000187986": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 3,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 30,
-      "Фадзаев Арсен Сулейманович": 14,
-      "Чехоев Анатолий Георгиевич": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 3,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 30,
+      "gas:candidate-vibid:1001000113900": 14,
+      "gas:candidate-vibid:1001000187986": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 1,
-      "Дзахов Владимир Васильевич": 1,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 25,
-      "Фадзаев Арсен Сулейманович": 43,
-      "Чехоев Анатолий Георгиевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 1,
+      "gas:candidate-vibid:215200070445": 1,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 25,
+      "gas:candidate-vibid:1001000113900": 43,
+      "gas:candidate-vibid:1001000187986": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 16,
-      "Дедегкаев Виктор Хасанбиевич": 7,
-      "Джиоев Марат Рузвельтович": 9,
-      "Дзахов Владимир Васильевич": 5,
-      "Икаев Славик Сафарбиевич": 5,
-      "Каллагаты Эльбрус Петрович": 2,
-      "Огоев Урузмаг Созрыкоевич": 66,
-      "Фадзаев Арсен Сулейманович": 127,
-      "Чехоев Анатолий Георгиевич": 6,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225901": 16,
+      "gas:candidate-vibid:1001000190285": 7,
+      "gas:candidate-vibid:215200070418": 9,
+      "gas:candidate-vibid:215200070445": 5,
+      "gas:candidate-vibid:1001000136000": 5,
+      "gas:candidate-vibid:1001000220804": 2,
+      "gas:candidate-vibid:215200070424": 66,
+      "gas:candidate-vibid:1001000113900": 127,
+      "gas:candidate-vibid:1001000187986": 6,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 21,
-      "Фадзаев Арсен Сулейманович": 1,
-      "Чехоев Анатолий Георгиевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 21,
+      "gas:candidate-vibid:1001000113900": 1,
+      "gas:candidate-vibid:1001000187986": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 42,
-      "Фадзаев Арсен Сулейманович": 44,
-      "Чехоев Анатолий Георгиевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 42,
+      "gas:candidate-vibid:1001000113900": 44,
+      "gas:candidate-vibid:1001000187986": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 0,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 0,
-      "Каллагаты Эльбрус Петрович": 0,
-      "Огоев Урузмаг Созрыкоевич": 12,
-      "Фадзаев Арсен Сулейманович": 10,
-      "Чехоев Анатолий Георгиевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000225901": 0,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 0,
+      "gas:candidate-vibid:1001000220804": 0,
+      "gas:candidate-vibid:215200070424": 12,
+      "gas:candidate-vibid:1001000113900": 10,
+      "gas:candidate-vibid:1001000187986": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_15_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андиев Сослан Петрович": 1,
-      "Дедегкаев Виктор Хасанбиевич": 0,
-      "Джиоев Марат Рузвельтович": 0,
-      "Дзахов Владимир Васильевич": 0,
-      "Икаев Славик Сафарбиевич": 1,
-      "Каллагаты Эльбрус Петрович": 1,
-      "Огоев Урузмаг Созрыкоевич": 63,
-      "Фадзаев Арсен Сулейманович": 16,
-      "Чехоев Анатолий Георгиевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225901": 1,
+      "gas:candidate-vibid:1001000190285": 0,
+      "gas:candidate-vibid:215200070418": 0,
+      "gas:candidate-vibid:215200070445": 0,
+      "gas:candidate-vibid:1001000136000": 1,
+      "gas:candidate-vibid:1001000220804": 1,
+      "gas:candidate-vibid:215200070424": 63,
+      "gas:candidate-vibid:1001000113900": 16,
+      "gas:candidate-vibid:1001000187986": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=152000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=215200070931&region=0&sub_region=0&type=429",

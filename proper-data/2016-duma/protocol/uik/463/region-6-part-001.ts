@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 39,
-      "Борщев Валерий Васильевич": 22,
-      "Гадиев Ислам Геланиевич": 30,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 55,
-      "Евлоев Борис Борисович": 63,
-      "Мартазанов Абдулмажит Кадирович": 129,
-      "Харсиев Алихан Анатольевич": 868,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 39,
+      "gas:candidate-vibid:2062000284074": 22,
+      "gas:candidate-vibid:2062000284053": 30,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 55,
+      "gas:candidate-vibid:2062000275440": 63,
+      "gas:candidate-vibid:2062000284042": 129,
+      "gas:candidate-vibid:2062000284089": 868,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 38,
-      "Борщев Валерий Васильевич": 26,
-      "Гадиев Ислам Геланиевич": 26,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 49,
-      "Евлоев Борис Борисович": 63,
-      "Мартазанов Абдулмажит Кадирович": 131,
-      "Харсиев Алихан Анатольевич": 948,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 38,
+      "gas:candidate-vibid:2062000284074": 26,
+      "gas:candidate-vibid:2062000284053": 26,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 49,
+      "gas:candidate-vibid:2062000275440": 63,
+      "gas:candidate-vibid:2062000284042": 131,
+      "gas:candidate-vibid:2062000284089": 948,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 63,
-      "Борщев Валерий Васильевич": 27,
-      "Гадиев Ислам Геланиевич": 45,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 67,
-      "Евлоев Борис Борисович": 93,
-      "Мартазанов Абдулмажит Кадирович": 198,
-      "Харсиев Алихан Анатольевич": 1240,
-      "Чемхильгов Казбек Баширович": 28
+      "gas:candidate-vibid:2062000284511": 63,
+      "gas:candidate-vibid:2062000284074": 27,
+      "gas:candidate-vibid:2062000284053": 45,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 67,
+      "gas:candidate-vibid:2062000275440": 93,
+      "gas:candidate-vibid:2062000284042": 198,
+      "gas:candidate-vibid:2062000284089": 1240,
+      "gas:candidate-vibid:2062000284101": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 59,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 55,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 74,
-      "Евлоев Борис Борисович": 124,
-      "Мартазанов Абдулмажит Кадирович": 244,
-      "Харсиев Алихан Анатольевич": 1548,
-      "Чемхильгов Казбек Баширович": 45
+      "gas:candidate-vibid:2062000284511": 59,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 55,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 74,
+      "gas:candidate-vibid:2062000275440": 124,
+      "gas:candidate-vibid:2062000284042": 244,
+      "gas:candidate-vibid:2062000284089": 1548,
+      "gas:candidate-vibid:2062000284101": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 75,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 51,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 84,
-      "Евлоев Борис Борисович": 112,
-      "Мартазанов Абдулмажит Кадирович": 262,
-      "Харсиев Алихан Анатольевич": 1566,
-      "Чемхильгов Казбек Баширович": 46
+      "gas:candidate-vibid:2062000284511": 75,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 51,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 84,
+      "gas:candidate-vibid:2062000275440": 112,
+      "gas:candidate-vibid:2062000284042": 262,
+      "gas:candidate-vibid:2062000284089": 1566,
+      "gas:candidate-vibid:2062000284101": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 62,
-      "Борщев Валерий Васильевич": 43,
-      "Гадиев Ислам Геланиевич": 53,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 94,
-      "Евлоев Борис Борисович": 108,
-      "Мартазанов Абдулмажит Кадирович": 217,
-      "Харсиев Алихан Анатольевич": 1487,
-      "Чемхильгов Казбек Баширович": 36
+      "gas:candidate-vibid:2062000284511": 62,
+      "gas:candidate-vibid:2062000284074": 43,
+      "gas:candidate-vibid:2062000284053": 53,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 94,
+      "gas:candidate-vibid:2062000275440": 108,
+      "gas:candidate-vibid:2062000284042": 217,
+      "gas:candidate-vibid:2062000284089": 1487,
+      "gas:candidate-vibid:2062000284101": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 72,
-      "Борщев Валерий Васильевич": 33,
-      "Гадиев Ислам Геланиевич": 56,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 151,
-      "Евлоев Борис Борисович": 108,
-      "Мартазанов Абдулмажит Кадирович": 234,
-      "Харсиев Алихан Анатольевич": 1490,
-      "Чемхильгов Казбек Баширович": 29
+      "gas:candidate-vibid:2062000284511": 72,
+      "gas:candidate-vibid:2062000284074": 33,
+      "gas:candidate-vibid:2062000284053": 56,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 151,
+      "gas:candidate-vibid:2062000275440": 108,
+      "gas:candidate-vibid:2062000284042": 234,
+      "gas:candidate-vibid:2062000284089": 1490,
+      "gas:candidate-vibid:2062000284101": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 36,
-      "Борщев Валерий Васильевич": 8,
-      "Гадиев Ислам Геланиевич": 16,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 238,
-      "Евлоев Борис Борисович": 41,
-      "Мартазанов Абдулмажит Кадирович": 86,
-      "Харсиев Алихан Анатольевич": 731,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 36,
+      "gas:candidate-vibid:2062000284074": 8,
+      "gas:candidate-vibid:2062000284053": 16,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 238,
+      "gas:candidate-vibid:2062000275440": 41,
+      "gas:candidate-vibid:2062000284042": 86,
+      "gas:candidate-vibid:2062000284089": 731,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 52,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 41,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 55,
-      "Евлоев Борис Борисович": 92,
-      "Мартазанов Абдулмажит Кадирович": 171,
-      "Харсиев Алихан Анатольевич": 1230,
-      "Чемхильгов Казбек Баширович": 35
+      "gas:candidate-vibid:2062000284511": 52,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 41,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 55,
+      "gas:candidate-vibid:2062000275440": 92,
+      "gas:candidate-vibid:2062000284042": 171,
+      "gas:candidate-vibid:2062000284089": 1230,
+      "gas:candidate-vibid:2062000284101": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 63,
-      "Борщев Валерий Васильевич": 36,
-      "Гадиев Ислам Геланиевич": 62,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 76,
-      "Евлоев Борис Борисович": 109,
-      "Мартазанов Абдулмажит Кадирович": 225,
-      "Харсиев Алихан Анатольевич": 1464,
-      "Чемхильгов Казбек Баширович": 31
+      "gas:candidate-vibid:2062000284511": 63,
+      "gas:candidate-vibid:2062000284074": 36,
+      "gas:candidate-vibid:2062000284053": 62,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 76,
+      "gas:candidate-vibid:2062000275440": 109,
+      "gas:candidate-vibid:2062000284042": 225,
+      "gas:candidate-vibid:2062000284089": 1464,
+      "gas:candidate-vibid:2062000284101": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 57,
-      "Борщев Валерий Васильевич": 33,
-      "Гадиев Ислам Геланиевич": 53,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 86,
-      "Евлоев Борис Борисович": 104,
-      "Мартазанов Абдулмажит Кадирович": 226,
-      "Харсиев Алихан Анатольевич": 1425,
-      "Чемхильгов Казбек Баширович": 27
+      "gas:candidate-vibid:2062000284511": 57,
+      "gas:candidate-vibid:2062000284074": 33,
+      "gas:candidate-vibid:2062000284053": 53,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 86,
+      "gas:candidate-vibid:2062000275440": 104,
+      "gas:candidate-vibid:2062000284042": 226,
+      "gas:candidate-vibid:2062000284089": 1425,
+      "gas:candidate-vibid:2062000284101": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 46,
-      "Борщев Валерий Васильевич": 22,
-      "Гадиев Ислам Геланиевич": 46,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 76,
-      "Евлоев Борис Борисович": 80,
-      "Мартазанов Абдулмажит Кадирович": 166,
-      "Харсиев Алихан Анатольевич": 1100,
-      "Чемхильгов Казбек Баширович": 24
+      "gas:candidate-vibid:2062000284511": 46,
+      "gas:candidate-vibid:2062000284074": 22,
+      "gas:candidate-vibid:2062000284053": 46,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 76,
+      "gas:candidate-vibid:2062000275440": 80,
+      "gas:candidate-vibid:2062000284042": 166,
+      "gas:candidate-vibid:2062000284089": 1100,
+      "gas:candidate-vibid:2062000284101": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 73,
-      "Борщев Валерий Васильевич": 37,
-      "Гадиев Ислам Геланиевич": 73,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 94,
-      "Евлоев Борис Борисович": 110,
-      "Мартазанов Абдулмажит Кадирович": 250,
-      "Харсиев Алихан Анатольевич": 1561,
-      "Чемхильгов Казбек Баширович": 45
+      "gas:candidate-vibid:2062000284511": 73,
+      "gas:candidate-vibid:2062000284074": 37,
+      "gas:candidate-vibid:2062000284053": 73,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 94,
+      "gas:candidate-vibid:2062000275440": 110,
+      "gas:candidate-vibid:2062000284042": 250,
+      "gas:candidate-vibid:2062000284089": 1561,
+      "gas:candidate-vibid:2062000284101": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 70,
-      "Борщев Валерий Васильевич": 38,
-      "Гадиев Ислам Геланиевич": 60,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 147,
-      "Евлоев Борис Борисович": 118,
-      "Мартазанов Абдулмажит Кадирович": 254,
-      "Харсиев Алихан Анатольевич": 1652,
-      "Чемхильгов Казбек Баширович": 36
+      "gas:candidate-vibid:2062000284511": 70,
+      "gas:candidate-vibid:2062000284074": 38,
+      "gas:candidate-vibid:2062000284053": 60,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 147,
+      "gas:candidate-vibid:2062000275440": 118,
+      "gas:candidate-vibid:2062000284042": 254,
+      "gas:candidate-vibid:2062000284089": 1652,
+      "gas:candidate-vibid:2062000284101": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 63,
-      "Борщев Валерий Васильевич": 39,
-      "Гадиев Ислам Геланиевич": 55,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 64,
-      "Евлоев Борис Борисович": 114,
-      "Мартазанов Абдулмажит Кадирович": 243,
-      "Харсиев Алихан Анатольевич": 1600,
-      "Чемхильгов Казбек Баширович": 41
+      "gas:candidate-vibid:2062000284511": 63,
+      "gas:candidate-vibid:2062000284074": 39,
+      "gas:candidate-vibid:2062000284053": 55,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 64,
+      "gas:candidate-vibid:2062000275440": 114,
+      "gas:candidate-vibid:2062000284042": 243,
+      "gas:candidate-vibid:2062000284089": 1600,
+      "gas:candidate-vibid:2062000284101": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 72,
-      "Борщев Валерий Васильевич": 48,
-      "Гадиев Ислам Геланиевич": 56,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 83,
-      "Евлоев Борис Борисович": 118,
-      "Мартазанов Абдулмажит Кадирович": 266,
-      "Харсиев Алихан Анатольевич": 1687,
-      "Чемхильгов Казбек Баширович": 35
+      "gas:candidate-vibid:2062000284511": 72,
+      "gas:candidate-vibid:2062000284074": 48,
+      "gas:candidate-vibid:2062000284053": 56,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 83,
+      "gas:candidate-vibid:2062000275440": 118,
+      "gas:candidate-vibid:2062000284042": 266,
+      "gas:candidate-vibid:2062000284089": 1687,
+      "gas:candidate-vibid:2062000284101": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 68,
-      "Борщев Валерий Васильевич": 36,
-      "Гадиев Ислам Геланиевич": 58,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 78,
-      "Евлоев Борис Борисович": 114,
-      "Мартазанов Абдулмажит Кадирович": 241,
-      "Харсиев Алихан Анатольевич": 1564,
-      "Чемхильгов Казбек Баширович": 45
+      "gas:candidate-vibid:2062000284511": 68,
+      "gas:candidate-vibid:2062000284074": 36,
+      "gas:candidate-vibid:2062000284053": 58,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 78,
+      "gas:candidate-vibid:2062000275440": 114,
+      "gas:candidate-vibid:2062000284042": 241,
+      "gas:candidate-vibid:2062000284089": 1564,
+      "gas:candidate-vibid:2062000284101": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 50,
-      "Борщев Валерий Васильевич": 34,
-      "Гадиев Ислам Геланиевич": 42,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 136,
-      "Евлоев Борис Борисович": 95,
-      "Мартазанов Абдулмажит Кадирович": 206,
-      "Харсиев Алихан Анатольевич": 1243,
-      "Чемхильгов Казбек Баширович": 26
+      "gas:candidate-vibid:2062000284511": 50,
+      "gas:candidate-vibid:2062000284074": 34,
+      "gas:candidate-vibid:2062000284053": 42,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 136,
+      "gas:candidate-vibid:2062000275440": 95,
+      "gas:candidate-vibid:2062000284042": 206,
+      "gas:candidate-vibid:2062000284089": 1243,
+      "gas:candidate-vibid:2062000284101": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 64,
-      "Борщев Валерий Васильевич": 34,
-      "Гадиев Ислам Геланиевич": 52,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 79,
-      "Евлоев Борис Борисович": 107,
-      "Мартазанов Абдулмажит Кадирович": 224,
-      "Харсиев Алихан Анатольевич": 1470,
-      "Чемхильгов Казбек Баширович": 33
+      "gas:candidate-vibid:2062000284511": 64,
+      "gas:candidate-vibid:2062000284074": 34,
+      "gas:candidate-vibid:2062000284053": 52,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 79,
+      "gas:candidate-vibid:2062000275440": 107,
+      "gas:candidate-vibid:2062000284042": 224,
+      "gas:candidate-vibid:2062000284089": 1470,
+      "gas:candidate-vibid:2062000284101": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275391&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275391&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 7,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 4,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 5,
-      "Евлоев Борис Борисович": 9,
-      "Мартазанов Абдулмажит Кадирович": 60,
-      "Харсиев Алихан Анатольевич": 399,
-      "Чемхильгов Казбек Баширович": 81
+      "gas:candidate-vibid:2062000284511": 7,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 4,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 5,
+      "gas:candidate-vibid:2062000275440": 9,
+      "gas:candidate-vibid:2062000284042": 60,
+      "gas:candidate-vibid:2062000284089": 399,
+      "gas:candidate-vibid:2062000284101": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 27,
-      "Гадиев Ислам Геланиевич": 41,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 55,
-      "Евлоев Борис Борисович": 100,
-      "Мартазанов Абдулмажит Кадирович": 168,
-      "Харсиев Алихан Анатольевич": 1097,
-      "Чемхильгов Казбек Баширович": 5
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 27,
+      "gas:candidate-vibid:2062000284053": 41,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 55,
+      "gas:candidate-vibid:2062000275440": 100,
+      "gas:candidate-vibid:2062000284042": 168,
+      "gas:candidate-vibid:2062000284089": 1097,
+      "gas:candidate-vibid:2062000284101": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 39,
-      "Борщев Валерий Васильевич": 21,
-      "Гадиев Ислам Геланиевич": 35,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 45,
-      "Евлоев Борис Борисович": 64,
-      "Мартазанов Абдулмажит Кадирович": 136,
-      "Харсиев Алихан Анатольевич": 888,
-      "Чемхильгов Казбек Баширович": 20
+      "gas:candidate-vibid:2062000284511": 39,
+      "gas:candidate-vibid:2062000284074": 21,
+      "gas:candidate-vibid:2062000284053": 35,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 45,
+      "gas:candidate-vibid:2062000275440": 64,
+      "gas:candidate-vibid:2062000284042": 136,
+      "gas:candidate-vibid:2062000284089": 888,
+      "gas:candidate-vibid:2062000284101": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 33,
-      "Борщев Валерий Васильевич": 18,
-      "Гадиев Ислам Геланиевич": 29,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 39,
-      "Евлоев Борис Борисович": 56,
-      "Мартазанов Абдулмажит Кадирович": 114,
-      "Харсиев Алихан Анатольевич": 760,
-      "Чемхильгов Казбек Баширович": 19
+      "gas:candidate-vibid:2062000284511": 33,
+      "gas:candidate-vibid:2062000284074": 18,
+      "gas:candidate-vibid:2062000284053": 29,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 39,
+      "gas:candidate-vibid:2062000275440": 56,
+      "gas:candidate-vibid:2062000284042": 114,
+      "gas:candidate-vibid:2062000284089": 760,
+      "gas:candidate-vibid:2062000284101": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 44,
-      "Борщев Валерий Васильевич": 23,
-      "Гадиев Ислам Геланиевич": 36,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 49,
-      "Евлоев Борис Борисович": 72,
-      "Мартазанов Абдулмажит Кадирович": 148,
-      "Харсиев Алихан Анатольевич": 972,
-      "Чемхильгов Казбек Баширович": 22
+      "gas:candidate-vibid:2062000284511": 44,
+      "gas:candidate-vibid:2062000284074": 23,
+      "gas:candidate-vibid:2062000284053": 36,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 49,
+      "gas:candidate-vibid:2062000275440": 72,
+      "gas:candidate-vibid:2062000284042": 148,
+      "gas:candidate-vibid:2062000284089": 972,
+      "gas:candidate-vibid:2062000284101": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 37,
-      "Борщев Валерий Васильевич": 20,
-      "Гадиев Ислам Геланиевич": 32,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 43,
-      "Евлоев Борис Борисович": 65,
-      "Мартазанов Абдулмажит Кадирович": 126,
-      "Харсиев Алихан Анатольевич": 850,
-      "Чемхильгов Казбек Баширович": 21
+      "gas:candidate-vibid:2062000284511": 37,
+      "gas:candidate-vibid:2062000284074": 20,
+      "gas:candidate-vibid:2062000284053": 32,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 43,
+      "gas:candidate-vibid:2062000275440": 65,
+      "gas:candidate-vibid:2062000284042": 126,
+      "gas:candidate-vibid:2062000284089": 850,
+      "gas:candidate-vibid:2062000284101": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 45,
-      "Борщев Валерий Васильевич": 23,
-      "Гадиев Ислам Геланиевич": 36,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 55,
-      "Евлоев Борис Борисович": 74,
-      "Мартазанов Абдулмажит Кадирович": 156,
-      "Харсиев Алихан Анатольевич": 1020,
-      "Чемхильгов Казбек Баширович": 24
+      "gas:candidate-vibid:2062000284511": 45,
+      "gas:candidate-vibid:2062000284074": 23,
+      "gas:candidate-vibid:2062000284053": 36,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 55,
+      "gas:candidate-vibid:2062000275440": 74,
+      "gas:candidate-vibid:2062000284042": 156,
+      "gas:candidate-vibid:2062000284089": 1020,
+      "gas:candidate-vibid:2062000284101": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 46,
-      "Борщев Валерий Васильевич": 22,
-      "Гадиев Ислам Геланиевич": 40,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 53,
-      "Евлоев Борис Борисович": 86,
-      "Мартазанов Абдулмажит Кадирович": 159,
-      "Харсиев Алихан Анатольевич": 1051,
-      "Чемхильгов Казбек Баширович": 6
+      "gas:candidate-vibid:2062000284511": 46,
+      "gas:candidate-vibid:2062000284074": 22,
+      "gas:candidate-vibid:2062000284053": 40,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 53,
+      "gas:candidate-vibid:2062000275440": 86,
+      "gas:candidate-vibid:2062000284042": 159,
+      "gas:candidate-vibid:2062000284089": 1051,
+      "gas:candidate-vibid:2062000284101": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 11,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 14,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 17,
-      "Евлоев Борис Борисович": 28,
-      "Мартазанов Абдулмажит Кадирович": 142,
-      "Харсиев Алихан Анатольевич": 1094,
-      "Чемхильгов Казбек Баширович": 3
+      "gas:candidate-vibid:2062000284511": 11,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 14,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 17,
+      "gas:candidate-vibid:2062000275440": 28,
+      "gas:candidate-vibid:2062000284042": 142,
+      "gas:candidate-vibid:2062000284089": 1094,
+      "gas:candidate-vibid:2062000284101": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 35,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 29,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 42,
-      "Евлоев Борис Борисович": 60,
-      "Мартазанов Абдулмажит Кадирович": 122,
-      "Харсиев Алихан Анатольевич": 812,
-      "Чемхильгов Казбек Баширович": 41
+      "gas:candidate-vibid:2062000284511": 35,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 29,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 42,
+      "gas:candidate-vibid:2062000275440": 60,
+      "gas:candidate-vibid:2062000284042": 122,
+      "gas:candidate-vibid:2062000284089": 812,
+      "gas:candidate-vibid:2062000284101": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 15,
-      "Борщев Валерий Васильевич": 8,
-      "Гадиев Ислам Геланиевич": 15,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 18,
-      "Евлоев Борис Борисович": 26,
-      "Мартазанов Абдулмажит Кадирович": 55,
-      "Харсиев Алихан Анатольевич": 357,
-      "Чемхильгов Казбек Баширович": 8
+      "gas:candidate-vibid:2062000284511": 15,
+      "gas:candidate-vibid:2062000284074": 8,
+      "gas:candidate-vibid:2062000284053": 15,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 18,
+      "gas:candidate-vibid:2062000275440": 26,
+      "gas:candidate-vibid:2062000284042": 55,
+      "gas:candidate-vibid:2062000284089": 357,
+      "gas:candidate-vibid:2062000284101": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 10,
-      "Борщев Валерий Васильевич": 3,
-      "Гадиев Ислам Геланиевич": 9,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 12,
-      "Евлоев Борис Борисович": 16,
-      "Мартазанов Абдулмажит Кадирович": 36,
-      "Харсиев Алихан Анатольевич": 234,
-      "Чемхильгов Казбек Баширович": 9
+      "gas:candidate-vibid:2062000284511": 10,
+      "gas:candidate-vibid:2062000284074": 3,
+      "gas:candidate-vibid:2062000284053": 9,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 12,
+      "gas:candidate-vibid:2062000275440": 16,
+      "gas:candidate-vibid:2062000284042": 36,
+      "gas:candidate-vibid:2062000284089": 234,
+      "gas:candidate-vibid:2062000284101": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 12,
-      "Борщев Валерий Васильевич": 5,
-      "Гадиев Ислам Геланиевич": 9,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 14,
-      "Евлоев Борис Борисович": 20,
-      "Мартазанов Абдулмажит Кадирович": 42,
-      "Харсиев Алихан Анатольевич": 277,
-      "Чемхильгов Казбек Баширович": 11
+      "gas:candidate-vibid:2062000284511": 12,
+      "gas:candidate-vibid:2062000284074": 5,
+      "gas:candidate-vibid:2062000284053": 9,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 14,
+      "gas:candidate-vibid:2062000275440": 20,
+      "gas:candidate-vibid:2062000284042": 42,
+      "gas:candidate-vibid:2062000284089": 277,
+      "gas:candidate-vibid:2062000284101": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 20,
-      "Борщев Валерий Васильевич": 11,
-      "Гадиев Ислам Геланиевич": 10,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 22,
-      "Евлоев Борис Борисович": 30,
-      "Мартазанов Абдулмажит Кадирович": 70,
-      "Харсиев Алихан Анатольевич": 460,
-      "Чемхильгов Казбек Баширович": 24
+      "gas:candidate-vibid:2062000284511": 20,
+      "gas:candidate-vibid:2062000284074": 11,
+      "gas:candidate-vibid:2062000284053": 10,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 22,
+      "gas:candidate-vibid:2062000275440": 30,
+      "gas:candidate-vibid:2062000284042": 70,
+      "gas:candidate-vibid:2062000284089": 460,
+      "gas:candidate-vibid:2062000284101": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 46,
-      "Борщев Валерий Васильевич": 25,
-      "Гадиев Ислам Геланиевич": 18,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 50,
-      "Евлоев Борис Борисович": 76,
-      "Мартазанов Абдулмажит Кадирович": 163,
-      "Харсиев Алихан Анатольевич": 1057,
-      "Чемхильгов Казбек Баширович": 50
+      "gas:candidate-vibid:2062000284511": 46,
+      "gas:candidate-vibid:2062000284074": 25,
+      "gas:candidate-vibid:2062000284053": 18,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 50,
+      "gas:candidate-vibid:2062000275440": 76,
+      "gas:candidate-vibid:2062000284042": 163,
+      "gas:candidate-vibid:2062000284089": 1057,
+      "gas:candidate-vibid:2062000284101": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 4,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 1,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 32,
-      "Евлоев Борис Борисович": 4,
-      "Мартазанов Абдулмажит Кадирович": 40,
-      "Харсиев Алихан Анатольевич": 308,
-      "Чемхильгов Казбек Баширович": 75
+      "gas:candidate-vibid:2062000284511": 4,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 1,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 32,
+      "gas:candidate-vibid:2062000275440": 4,
+      "gas:candidate-vibid:2062000284042": 40,
+      "gas:candidate-vibid:2062000284089": 308,
+      "gas:candidate-vibid:2062000284101": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 25,
-      "Борщев Валерий Васильевич": 14,
-      "Гадиев Ислам Геланиевич": 18,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 28,
-      "Евлоев Борис Борисович": 42,
-      "Мартазанов Абдулмажит Кадирович": 89,
-      "Харсиев Алихан Анатольевич": 576,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 25,
+      "gas:candidate-vibid:2062000284074": 14,
+      "gas:candidate-vibid:2062000284053": 18,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 28,
+      "gas:candidate-vibid:2062000275440": 42,
+      "gas:candidate-vibid:2062000284042": 89,
+      "gas:candidate-vibid:2062000284089": 576,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 34,
-      "Борщев Валерий Васильевич": 18,
-      "Гадиев Ислам Геланиевич": 24,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 38,
-      "Евлоев Борис Борисович": 57,
-      "Мартазанов Абдулмажит Кадирович": 118,
-      "Харсиев Алихан Анатольевич": 773,
-      "Чемхильгов Казбек Баширович": 25
+      "gas:candidate-vibid:2062000284511": 34,
+      "gas:candidate-vibid:2062000284074": 18,
+      "gas:candidate-vibid:2062000284053": 24,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 38,
+      "gas:candidate-vibid:2062000275440": 57,
+      "gas:candidate-vibid:2062000284042": 118,
+      "gas:candidate-vibid:2062000284089": 773,
+      "gas:candidate-vibid:2062000284101": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 34,
-      "Борщев Валерий Васильевич": 13,
-      "Гадиев Ислам Геланиевич": 30,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 40,
-      "Евлоев Борис Борисович": 60,
-      "Мартазанов Абдулмажит Кадирович": 120,
-      "Харсиев Алихан Анатольевич": 778,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 34,
+      "gas:candidate-vibid:2062000284074": 13,
+      "gas:candidate-vibid:2062000284053": 30,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 40,
+      "gas:candidate-vibid:2062000275440": 60,
+      "gas:candidate-vibid:2062000284042": 120,
+      "gas:candidate-vibid:2062000284089": 778,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 17,
-      "Борщев Валерий Васильевич": 15,
-      "Гадиев Ислам Геланиевич": 23,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 31,
-      "Евлоев Борис Борисович": 45,
-      "Мартазанов Абдулмажит Кадирович": 100,
-      "Харсиев Алихан Анатольевич": 604,
-      "Чемхильгов Казбек Баширович": 51
+      "gas:candidate-vibid:2062000284511": 17,
+      "gas:candidate-vibid:2062000284074": 15,
+      "gas:candidate-vibid:2062000284053": 23,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 31,
+      "gas:candidate-vibid:2062000275440": 45,
+      "gas:candidate-vibid:2062000284042": 100,
+      "gas:candidate-vibid:2062000284089": 604,
+      "gas:candidate-vibid:2062000284101": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 3,
-      "Борщев Валерий Васильевич": 2,
-      "Гадиев Ислам Геланиевич": 3,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 3,
-      "Евлоев Борис Борисович": 5,
-      "Мартазанов Абдулмажит Кадирович": 10,
-      "Харсиев Алихан Анатольевич": 60,
-      "Чемхильгов Казбек Баширович": 3
+      "gas:candidate-vibid:2062000284511": 3,
+      "gas:candidate-vibid:2062000284074": 2,
+      "gas:candidate-vibid:2062000284053": 3,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 3,
+      "gas:candidate-vibid:2062000275440": 5,
+      "gas:candidate-vibid:2062000284042": 10,
+      "gas:candidate-vibid:2062000284089": 60,
+      "gas:candidate-vibid:2062000284101": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275392&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275392&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 42,
-      "Борщев Валерий Васильевич": 22,
-      "Гадиев Ислам Геланиевич": 44,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 49,
-      "Евлоев Борис Борисович": 79,
-      "Мартазанов Абдулмажит Кадирович": 126,
-      "Харсиев Алихан Анатольевич": 942,
-      "Чемхильгов Казбек Баширович": 15
+      "gas:candidate-vibid:2062000284511": 42,
+      "gas:candidate-vibid:2062000284074": 22,
+      "gas:candidate-vibid:2062000284053": 44,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 49,
+      "gas:candidate-vibid:2062000275440": 79,
+      "gas:candidate-vibid:2062000284042": 126,
+      "gas:candidate-vibid:2062000284089": 942,
+      "gas:candidate-vibid:2062000284101": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 29,
-      "Борщев Валерий Васильевич": 17,
-      "Гадиев Ислам Геланиевич": 27,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 35,
-      "Евлоев Борис Борисович": 35,
-      "Мартазанов Абдулмажит Кадирович": 44,
-      "Харсиев Алихан Анатольевич": 664,
-      "Чемхильгов Казбек Баширович": 96
+      "gas:candidate-vibid:2062000284511": 29,
+      "gas:candidate-vibid:2062000284074": 17,
+      "gas:candidate-vibid:2062000284053": 27,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 35,
+      "gas:candidate-vibid:2062000275440": 35,
+      "gas:candidate-vibid:2062000284042": 44,
+      "gas:candidate-vibid:2062000284089": 664,
+      "gas:candidate-vibid:2062000284101": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 69,
-      "Борщев Валерий Васильевич": 20,
-      "Гадиев Ислам Геланиевич": 46,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 59,
-      "Евлоев Борис Борисович": 58,
-      "Мартазанов Абдулмажит Кадирович": 236,
-      "Харсиев Алихан Анатольевич": 1448,
-      "Чемхильгов Казбек Баширович": 27
+      "gas:candidate-vibid:2062000284511": 69,
+      "gas:candidate-vibid:2062000284074": 20,
+      "gas:candidate-vibid:2062000284053": 46,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 59,
+      "gas:candidate-vibid:2062000275440": 58,
+      "gas:candidate-vibid:2062000284042": 236,
+      "gas:candidate-vibid:2062000284089": 1448,
+      "gas:candidate-vibid:2062000284101": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 25,
-      "Борщев Валерий Васильевич": 10,
-      "Гадиев Ислам Геланиевич": 27,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 37,
-      "Евлоев Борис Борисович": 47,
-      "Мартазанов Абдулмажит Кадирович": 129,
-      "Харсиев Алихан Анатольевич": 711,
-      "Чемхильгов Казбек Баширович": 12
+      "gas:candidate-vibid:2062000284511": 25,
+      "gas:candidate-vibid:2062000284074": 10,
+      "gas:candidate-vibid:2062000284053": 27,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 37,
+      "gas:candidate-vibid:2062000275440": 47,
+      "gas:candidate-vibid:2062000284042": 129,
+      "gas:candidate-vibid:2062000284089": 711,
+      "gas:candidate-vibid:2062000284101": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 31,
-      "Борщев Валерий Васильевич": 24,
-      "Гадиев Ислам Геланиевич": 34,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 47,
-      "Евлоев Борис Борисович": 69,
-      "Мартазанов Абдулмажит Кадирович": 118,
-      "Харсиев Алихан Анатольевич": 872,
-      "Чемхильгов Казбек Баширович": 13
+      "gas:candidate-vibid:2062000284511": 31,
+      "gas:candidate-vibid:2062000284074": 24,
+      "gas:candidate-vibid:2062000284053": 34,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 47,
+      "gas:candidate-vibid:2062000275440": 69,
+      "gas:candidate-vibid:2062000284042": 118,
+      "gas:candidate-vibid:2062000284089": 872,
+      "gas:candidate-vibid:2062000284101": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 34,
-      "Борщев Валерий Васильевич": 18,
-      "Гадиев Ислам Геланиевич": 27,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 37,
-      "Евлоев Борис Борисович": 52,
-      "Мартазанов Абдулмажит Кадирович": 102,
-      "Харсиев Алихан Анатольевич": 689,
-      "Чемхильгов Казбек Баширович": 11
+      "gas:candidate-vibid:2062000284511": 34,
+      "gas:candidate-vibid:2062000284074": 18,
+      "gas:candidate-vibid:2062000284053": 27,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 37,
+      "gas:candidate-vibid:2062000275440": 52,
+      "gas:candidate-vibid:2062000284042": 102,
+      "gas:candidate-vibid:2062000284089": 689,
+      "gas:candidate-vibid:2062000284101": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 27,
-      "Борщев Валерий Васильевич": 14,
-      "Гадиев Ислам Геланиевич": 16,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 24,
-      "Евлоев Борис Борисович": 36,
-      "Мартазанов Абдулмажит Кадирович": 110,
-      "Харсиев Алихан Анатольевич": 552,
-      "Чемхильгов Казбек Баширович": 9
+      "gas:candidate-vibid:2062000284511": 27,
+      "gas:candidate-vibid:2062000284074": 14,
+      "gas:candidate-vibid:2062000284053": 16,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 24,
+      "gas:candidate-vibid:2062000275440": 36,
+      "gas:candidate-vibid:2062000284042": 110,
+      "gas:candidate-vibid:2062000284089": 552,
+      "gas:candidate-vibid:2062000284101": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 51,
-      "Борщев Валерий Васильевич": 27,
-      "Гадиев Ислам Геланиевич": 43,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 51,
-      "Евлоев Борис Борисович": 77,
-      "Мартазанов Абдулмажит Кадирович": 213,
-      "Харсиев Алихан Анатольевич": 1316,
-      "Чемхильгов Казбек Баширович": 25
+      "gas:candidate-vibid:2062000284511": 51,
+      "gas:candidate-vibid:2062000284074": 27,
+      "gas:candidate-vibid:2062000284053": 43,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 51,
+      "gas:candidate-vibid:2062000275440": 77,
+      "gas:candidate-vibid:2062000284042": 213,
+      "gas:candidate-vibid:2062000284089": 1316,
+      "gas:candidate-vibid:2062000284101": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 39,
-      "Борщев Валерий Васильевич": 21,
-      "Гадиев Ислам Геланиевич": 24,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 46,
-      "Евлоев Борис Борисович": 63,
-      "Мартазанов Абдулмажит Кадирович": 114,
-      "Харсиев Алихан Анатольевич": 837,
-      "Чемхильгов Казбек Баширович": 12
+      "gas:candidate-vibid:2062000284511": 39,
+      "gas:candidate-vibid:2062000284074": 21,
+      "gas:candidate-vibid:2062000284053": 24,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 46,
+      "gas:candidate-vibid:2062000275440": 63,
+      "gas:candidate-vibid:2062000284042": 114,
+      "gas:candidate-vibid:2062000284089": 837,
+      "gas:candidate-vibid:2062000284101": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 38,
-      "Гусейнов Мухамедали Сардарович": 1,
-      "Дзауров Магамет Хасанович": 53,
-      "Евлоев Борис Борисович": 83,
-      "Мартазанов Абдулмажит Кадирович": 171,
-      "Харсиев Алихан Анатольевич": 1227,
-      "Чемхильгов Казбек Баширович": 23
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 38,
+      "gas:candidate-vibid:2062000284031": 1,
+      "gas:candidate-vibid:2062000284548": 53,
+      "gas:candidate-vibid:2062000275440": 83,
+      "gas:candidate-vibid:2062000284042": 171,
+      "gas:candidate-vibid:2062000284089": 1227,
+      "gas:candidate-vibid:2062000284101": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 17,
-      "Борщев Валерий Васильевич": 16,
-      "Гадиев Ислам Геланиевич": 24,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 25,
-      "Евлоев Борис Борисович": 28,
-      "Мартазанов Абдулмажит Кадирович": 37,
-      "Харсиев Алихан Анатольевич": 190,
-      "Чемхильгов Казбек Баширович": 3
+      "gas:candidate-vibid:2062000284511": 17,
+      "gas:candidate-vibid:2062000284074": 16,
+      "gas:candidate-vibid:2062000284053": 24,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 25,
+      "gas:candidate-vibid:2062000275440": 28,
+      "gas:candidate-vibid:2062000284042": 37,
+      "gas:candidate-vibid:2062000284089": 190,
+      "gas:candidate-vibid:2062000284101": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 27,
-      "Борщев Валерий Васильевич": 21,
-      "Гадиев Ислам Геланиевич": 23,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 28,
-      "Евлоев Борис Борисович": 38,
-      "Мартазанов Абдулмажит Кадирович": 53,
-      "Харсиев Алихан Анатольевич": 441,
-      "Чемхильгов Казбек Баширович": 4
+      "gas:candidate-vibid:2062000284511": 27,
+      "gas:candidate-vibid:2062000284074": 21,
+      "gas:candidate-vibid:2062000284053": 23,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 28,
+      "gas:candidate-vibid:2062000275440": 38,
+      "gas:candidate-vibid:2062000284042": 53,
+      "gas:candidate-vibid:2062000284089": 441,
+      "gas:candidate-vibid:2062000284101": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 49,
-      "Борщев Валерий Васильевич": 19,
-      "Гадиев Ислам Геланиевич": 32,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 54,
-      "Евлоев Борис Борисович": 51,
-      "Мартазанов Абдулмажит Кадирович": 186,
-      "Харсиев Алихан Анатольевич": 1075,
-      "Чемхильгов Казбек Баширович": 46
+      "gas:candidate-vibid:2062000284511": 49,
+      "gas:candidate-vibid:2062000284074": 19,
+      "gas:candidate-vibid:2062000284053": 32,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 54,
+      "gas:candidate-vibid:2062000275440": 51,
+      "gas:candidate-vibid:2062000284042": 186,
+      "gas:candidate-vibid:2062000284089": 1075,
+      "gas:candidate-vibid:2062000284101": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 39,
-      "Борщев Валерий Васильевич": 25,
-      "Гадиев Ислам Геланиевич": 39,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 58,
-      "Евлоев Борис Борисович": 69,
-      "Мартазанов Абдулмажит Кадирович": 134,
-      "Харсиев Алихан Анатольевич": 971,
-      "Чемхильгов Казбек Баширович": 15
+      "gas:candidate-vibid:2062000284511": 39,
+      "gas:candidate-vibid:2062000284074": 25,
+      "gas:candidate-vibid:2062000284053": 39,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 58,
+      "gas:candidate-vibid:2062000275440": 69,
+      "gas:candidate-vibid:2062000284042": 134,
+      "gas:candidate-vibid:2062000284089": 971,
+      "gas:candidate-vibid:2062000284101": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 35,
-      "Борщев Валерий Васильевич": 23,
-      "Гадиев Ислам Геланиевич": 31,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 46,
-      "Евлоев Борис Борисович": 69,
-      "Мартазанов Абдулмажит Кадирович": 156,
-      "Харсиев Алихан Анатольевич": 942,
-      "Чемхильгов Казбек Баширович": 13
+      "gas:candidate-vibid:2062000284511": 35,
+      "gas:candidate-vibid:2062000284074": 23,
+      "gas:candidate-vibid:2062000284053": 31,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 46,
+      "gas:candidate-vibid:2062000275440": 69,
+      "gas:candidate-vibid:2062000284042": 156,
+      "gas:candidate-vibid:2062000284089": 942,
+      "gas:candidate-vibid:2062000284101": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 42,
-      "Борщев Валерий Васильевич": 16,
-      "Гадиев Ислам Геланиевич": 37,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 50,
-      "Евлоев Борис Борисович": 67,
-      "Мартазанов Абдулмажит Кадирович": 149,
-      "Харсиев Алихан Анатольевич": 902,
-      "Чемхильгов Казбек Баширович": 11
+      "gas:candidate-vibid:2062000284511": 42,
+      "gas:candidate-vibid:2062000284074": 16,
+      "gas:candidate-vibid:2062000284053": 37,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 50,
+      "gas:candidate-vibid:2062000275440": 67,
+      "gas:candidate-vibid:2062000284042": 149,
+      "gas:candidate-vibid:2062000284089": 902,
+      "gas:candidate-vibid:2062000284101": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 44,
-      "Борщев Валерий Васильевич": 24,
-      "Гадиев Ислам Геланиевич": 25,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 48,
-      "Евлоев Борис Борисович": 72,
-      "Мартазанов Абдулмажит Кадирович": 139,
-      "Харсиев Алихан Анатольевич": 975,
-      "Чемхильгов Казбек Баширович": 13
+      "gas:candidate-vibid:2062000284511": 44,
+      "gas:candidate-vibid:2062000284074": 24,
+      "gas:candidate-vibid:2062000284053": 25,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 48,
+      "gas:candidate-vibid:2062000275440": 72,
+      "gas:candidate-vibid:2062000284042": 139,
+      "gas:candidate-vibid:2062000284089": 975,
+      "gas:candidate-vibid:2062000284101": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 28,
-      "Борщев Валерий Васильевич": 20,
-      "Гадиев Ислам Геланиевич": 34,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 37,
-      "Евлоев Борис Борисович": 58,
-      "Мартазанов Абдулмажит Кадирович": 39,
-      "Харсиев Алихан Анатольевич": 793,
-      "Чемхильгов Казбек Баширович": 12
+      "gas:candidate-vibid:2062000284511": 28,
+      "gas:candidate-vibid:2062000284074": 20,
+      "gas:candidate-vibid:2062000284053": 34,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 37,
+      "gas:candidate-vibid:2062000275440": 58,
+      "gas:candidate-vibid:2062000284042": 39,
+      "gas:candidate-vibid:2062000284089": 793,
+      "gas:candidate-vibid:2062000284101": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 31,
-      "Борщев Валерий Васильевич": 13,
-      "Гадиев Ислам Геланиевич": 29,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 33,
-      "Евлоев Борис Борисович": 44,
-      "Мартазанов Абдулмажит Кадирович": 126,
-      "Харсиев Алихан Анатольевич": 546,
-      "Чемхильгов Казбек Баширович": 178
+      "gas:candidate-vibid:2062000284511": 31,
+      "gas:candidate-vibid:2062000284074": 13,
+      "gas:candidate-vibid:2062000284053": 29,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 33,
+      "gas:candidate-vibid:2062000275440": 44,
+      "gas:candidate-vibid:2062000284042": 126,
+      "gas:candidate-vibid:2062000284089": 546,
+      "gas:candidate-vibid:2062000284101": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 47,
-      "Борщев Валерий Васильевич": 31,
-      "Гадиев Ислам Геланиевич": 40,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 52,
-      "Евлоев Борис Борисович": 87,
-      "Мартазанов Абдулмажит Кадирович": 181,
-      "Харсиев Алихан Анатольевич": 1161,
-      "Чемхильгов Казбек Баширович": 67
+      "gas:candidate-vibid:2062000284511": 47,
+      "gas:candidate-vibid:2062000284074": 31,
+      "gas:candidate-vibid:2062000284053": 40,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 52,
+      "gas:candidate-vibid:2062000275440": 87,
+      "gas:candidate-vibid:2062000284042": 181,
+      "gas:candidate-vibid:2062000284089": 1161,
+      "gas:candidate-vibid:2062000284101": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 3,
-      "Борщев Валерий Васильевич": 6,
-      "Гадиев Ислам Геланиевич": 14,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 12,
-      "Евлоев Борис Борисович": 11,
-      "Мартазанов Абдулмажит Кадирович": 6,
-      "Харсиев Алихан Анатольевич": 1009,
-      "Чемхильгов Казбек Баширович": 216
+      "gas:candidate-vibid:2062000284511": 3,
+      "gas:candidate-vibid:2062000284074": 6,
+      "gas:candidate-vibid:2062000284053": 14,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 12,
+      "gas:candidate-vibid:2062000275440": 11,
+      "gas:candidate-vibid:2062000284042": 6,
+      "gas:candidate-vibid:2062000284089": 1009,
+      "gas:candidate-vibid:2062000284101": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 1,
-      "Борщев Валерий Васильевич": 1,
-      "Гадиев Ислам Геланиевич": 4,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 1,
-      "Евлоев Борис Борисович": 5,
-      "Мартазанов Абдулмажит Кадирович": 2,
-      "Харсиев Алихан Анатольевич": 639,
-      "Чемхильгов Казбек Баширович": 547
+      "gas:candidate-vibid:2062000284511": 1,
+      "gas:candidate-vibid:2062000284074": 1,
+      "gas:candidate-vibid:2062000284053": 4,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 1,
+      "gas:candidate-vibid:2062000275440": 5,
+      "gas:candidate-vibid:2062000284042": 2,
+      "gas:candidate-vibid:2062000284089": 639,
+      "gas:candidate-vibid:2062000284101": 547
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 15,
-      "Борщев Валерий Васильевич": 10,
-      "Гадиев Ислам Геланиевич": 11,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 17,
-      "Евлоев Борис Борисович": 31,
-      "Мартазанов Абдулмажит Кадирович": 75,
-      "Харсиев Алихан Анатольевич": 424,
-      "Чемхильгов Казбек Баширович": 4
+      "gas:candidate-vibid:2062000284511": 15,
+      "gas:candidate-vibid:2062000284074": 10,
+      "gas:candidate-vibid:2062000284053": 11,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 17,
+      "gas:candidate-vibid:2062000275440": 31,
+      "gas:candidate-vibid:2062000284042": 75,
+      "gas:candidate-vibid:2062000284089": 424,
+      "gas:candidate-vibid:2062000284101": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275393&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275393&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 0,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 12,
-      "Гусейнов Мухамедали Сардарович": 8,
-      "Дзауров Магамет Хасанович": 0,
-      "Евлоев Борис Борисович": 49,
-      "Мартазанов Абдулмажит Кадирович": 34,
-      "Харсиев Алихан Анатольевич": 464,
-      "Чемхильгов Казбек Баширович": 21
+      "gas:candidate-vibid:2062000284511": 0,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 12,
+      "gas:candidate-vibid:2062000284031": 8,
+      "gas:candidate-vibid:2062000284548": 0,
+      "gas:candidate-vibid:2062000275440": 49,
+      "gas:candidate-vibid:2062000284042": 34,
+      "gas:candidate-vibid:2062000284089": 464,
+      "gas:candidate-vibid:2062000284101": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275394&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275394&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 21,
-      "Борщев Валерий Васильевич": 14,
-      "Гадиев Ислам Геланиевич": 19,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 29,
-      "Евлоев Борис Борисович": 39,
-      "Мартазанов Абдулмажит Кадирович": 69,
-      "Харсиев Алихан Анатольевич": 435,
-      "Чемхильгов Казбек Баширович": 5
+      "gas:candidate-vibid:2062000284511": 21,
+      "gas:candidate-vibid:2062000284074": 14,
+      "gas:candidate-vibid:2062000284053": 19,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 29,
+      "gas:candidate-vibid:2062000275440": 39,
+      "gas:candidate-vibid:2062000284042": 69,
+      "gas:candidate-vibid:2062000284089": 435,
+      "gas:candidate-vibid:2062000284101": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275394&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275394&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 6,
-      "Борщев Валерий Васильевич": 1,
-      "Гадиев Ислам Геланиевич": 5,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 7,
-      "Евлоев Борис Борисович": 12,
-      "Мартазанов Абдулмажит Кадирович": 3,
-      "Харсиев Алихан Анатольевич": 185,
-      "Чемхильгов Казбек Баширович": 21
+      "gas:candidate-vibid:2062000284511": 6,
+      "gas:candidate-vibid:2062000284074": 1,
+      "gas:candidate-vibid:2062000284053": 5,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 7,
+      "gas:candidate-vibid:2062000275440": 12,
+      "gas:candidate-vibid:2062000284042": 3,
+      "gas:candidate-vibid:2062000284089": 185,
+      "gas:candidate-vibid:2062000284101": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275394&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275394&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 1,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 0,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 0,
-      "Евлоев Борис Борисович": 1,
-      "Мартазанов Абдулмажит Кадирович": 0,
-      "Харсиев Алихан Анатольевич": 103,
-      "Чемхильгов Казбек Баширович": 0
+      "gas:candidate-vibid:2062000284511": 1,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 0,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 0,
+      "gas:candidate-vibid:2062000275440": 1,
+      "gas:candidate-vibid:2062000284042": 0,
+      "gas:candidate-vibid:2062000284089": 103,
+      "gas:candidate-vibid:2062000284101": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275394&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275394&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 9,
-      "Борщев Валерий Васильевич": 6,
-      "Гадиев Ислам Геланиевич": 8,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 18,
-      "Евлоев Борис Борисович": 16,
-      "Мартазанов Абдулмажит Кадирович": 27,
-      "Харсиев Алихан Анатольевич": 202,
-      "Чемхильгов Казбек Баширович": 3
+      "gas:candidate-vibid:2062000284511": 9,
+      "gas:candidate-vibid:2062000284074": 6,
+      "gas:candidate-vibid:2062000284053": 8,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 18,
+      "gas:candidate-vibid:2062000275440": 16,
+      "gas:candidate-vibid:2062000284042": 27,
+      "gas:candidate-vibid:2062000284089": 202,
+      "gas:candidate-vibid:2062000284101": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275394&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275394&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 16,
-      "Борщев Валерий Васильевич": 31,
-      "Гадиев Ислам Геланиевич": 16,
-      "Гусейнов Мухамедали Сардарович": 30,
-      "Дзауров Магамет Хасанович": 199,
-      "Евлоев Борис Борисович": 21,
-      "Мартазанов Абдулмажит Кадирович": 24,
-      "Харсиев Алихан Анатольевич": 324,
-      "Чемхильгов Казбек Баширович": 2
+      "gas:candidate-vibid:2062000284511": 16,
+      "gas:candidate-vibid:2062000284074": 31,
+      "gas:candidate-vibid:2062000284053": 16,
+      "gas:candidate-vibid:2062000284031": 30,
+      "gas:candidate-vibid:2062000284548": 199,
+      "gas:candidate-vibid:2062000275440": 21,
+      "gas:candidate-vibid:2062000284042": 24,
+      "gas:candidate-vibid:2062000284089": 324,
+      "gas:candidate-vibid:2062000284101": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275394&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275394&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 21,
-      "Борщев Валерий Васильевич": 7,
-      "Гадиев Ислам Геланиевич": 8,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 21,
-      "Евлоев Борис Борисович": 43,
-      "Мартазанов Абдулмажит Кадирович": 78,
-      "Харсиев Алихан Анатольевич": 577,
-      "Чемхильгов Казбек Баширович": 8
+      "gas:candidate-vibid:2062000284511": 21,
+      "gas:candidate-vibid:2062000284074": 7,
+      "gas:candidate-vibid:2062000284053": 8,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 21,
+      "gas:candidate-vibid:2062000275440": 43,
+      "gas:candidate-vibid:2062000284042": 78,
+      "gas:candidate-vibid:2062000284089": 577,
+      "gas:candidate-vibid:2062000284101": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 30,
-      "Борщев Валерий Васильевич": 2,
-      "Гадиев Ислам Геланиевич": 1,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 141,
-      "Евлоев Борис Борисович": 46,
-      "Мартазанов Абдулмажит Кадирович": 90,
-      "Харсиев Алихан Анатольевич": 932,
-      "Чемхильгов Казбек Баширович": 6
+      "gas:candidate-vibid:2062000284511": 30,
+      "gas:candidate-vibid:2062000284074": 2,
+      "gas:candidate-vibid:2062000284053": 1,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 141,
+      "gas:candidate-vibid:2062000275440": 46,
+      "gas:candidate-vibid:2062000284042": 90,
+      "gas:candidate-vibid:2062000284089": 932,
+      "gas:candidate-vibid:2062000284101": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 18,
-      "Борщев Валерий Васильевич": 11,
-      "Гадиев Ислам Геланиевич": 30,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 29,
-      "Евлоев Борис Борисович": 25,
-      "Мартазанов Абдулмажит Кадирович": 133,
-      "Харсиев Алихан Анатольевич": 604,
-      "Чемхильгов Казбек Баширович": 17
+      "gas:candidate-vibid:2062000284511": 18,
+      "gas:candidate-vibid:2062000284074": 11,
+      "gas:candidate-vibid:2062000284053": 30,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 29,
+      "gas:candidate-vibid:2062000275440": 25,
+      "gas:candidate-vibid:2062000284042": 133,
+      "gas:candidate-vibid:2062000284089": 604,
+      "gas:candidate-vibid:2062000284101": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 3,
-      "Борщев Валерий Васильевич": 14,
-      "Гадиев Ислам Геланиевич": 52,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 107,
-      "Евлоев Борис Борисович": 110,
-      "Мартазанов Абдулмажит Кадирович": 229,
-      "Харсиев Алихан Анатольевич": 1317,
-      "Чемхильгов Казбек Баширович": 80
+      "gas:candidate-vibid:2062000284511": 3,
+      "gas:candidate-vibid:2062000284074": 14,
+      "gas:candidate-vibid:2062000284053": 52,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 107,
+      "gas:candidate-vibid:2062000275440": 110,
+      "gas:candidate-vibid:2062000284042": 229,
+      "gas:candidate-vibid:2062000284089": 1317,
+      "gas:candidate-vibid:2062000284101": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 68,
-      "Борщев Валерий Васильевич": 29,
-      "Гадиев Ислам Геланиевич": 27,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 91,
-      "Евлоев Борис Борисович": 115,
-      "Мартазанов Абдулмажит Кадирович": 229,
-      "Харсиев Алихан Анатольевич": 1787,
-      "Чемхильгов Казбек Баширович": 12
+      "gas:candidate-vibid:2062000284511": 68,
+      "gas:candidate-vibid:2062000284074": 29,
+      "gas:candidate-vibid:2062000284053": 27,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 91,
+      "gas:candidate-vibid:2062000275440": 115,
+      "gas:candidate-vibid:2062000284042": 229,
+      "gas:candidate-vibid:2062000284089": 1787,
+      "gas:candidate-vibid:2062000284101": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 21,
-      "Гадиев Ислам Геланиевич": 21,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 54,
-      "Евлоев Борис Борисович": 109,
-      "Мартазанов Абдулмажит Кадирович": 186,
-      "Харсиев Алихан Анатольевич": 1443,
-      "Чемхильгов Казбек Баширович": 86
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 21,
+      "gas:candidate-vibid:2062000284053": 21,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 54,
+      "gas:candidate-vibid:2062000275440": 109,
+      "gas:candidate-vibid:2062000284042": 186,
+      "gas:candidate-vibid:2062000284089": 1443,
+      "gas:candidate-vibid:2062000284101": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 24,
-      "Борщев Валерий Васильевич": 23,
-      "Гадиев Ислам Геланиевич": 30,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 29,
-      "Евлоев Борис Борисович": 62,
-      "Мартазанов Абдулмажит Кадирович": 71,
-      "Харсиев Алихан Анатольевич": 764,
-      "Чемхильгов Казбек Баширович": 27
+      "gas:candidate-vibid:2062000284511": 24,
+      "gas:candidate-vibid:2062000284074": 23,
+      "gas:candidate-vibid:2062000284053": 30,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 29,
+      "gas:candidate-vibid:2062000275440": 62,
+      "gas:candidate-vibid:2062000284042": 71,
+      "gas:candidate-vibid:2062000284089": 764,
+      "gas:candidate-vibid:2062000284101": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 52,
-      "Борщев Валерий Васильевич": 17,
-      "Гадиев Ислам Геланиевич": 26,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 67,
-      "Евлоев Борис Борисович": 141,
-      "Мартазанов Абдулмажит Кадирович": 236,
-      "Харсиев Алихан Анатольевич": 1569,
-      "Чемхильгов Казбек Баширович": 19
+      "gas:candidate-vibid:2062000284511": 52,
+      "gas:candidate-vibid:2062000284074": 17,
+      "gas:candidate-vibid:2062000284053": 26,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 67,
+      "gas:candidate-vibid:2062000275440": 141,
+      "gas:candidate-vibid:2062000284042": 236,
+      "gas:candidate-vibid:2062000284089": 1569,
+      "gas:candidate-vibid:2062000284101": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275395&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275395&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 23,
-      "Борщев Валерий Васильевич": 14,
-      "Гадиев Ислам Геланиевич": 25,
-      "Гусейнов Мухамедали Сардарович": 12,
-      "Дзауров Магамет Хасанович": 19,
-      "Евлоев Борис Борисович": 108,
-      "Мартазанов Абдулмажит Кадирович": 39,
-      "Харсиев Алихан Анатольевич": 1227,
-      "Чемхильгов Казбек Баширович": 138
+      "gas:candidate-vibid:2062000284511": 23,
+      "gas:candidate-vibid:2062000284074": 14,
+      "gas:candidate-vibid:2062000284053": 25,
+      "gas:candidate-vibid:2062000284031": 12,
+      "gas:candidate-vibid:2062000284548": 19,
+      "gas:candidate-vibid:2062000275440": 108,
+      "gas:candidate-vibid:2062000284042": 39,
+      "gas:candidate-vibid:2062000284089": 1227,
+      "gas:candidate-vibid:2062000284101": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 80,
-      "Борщев Валерий Васильевич": 12,
-      "Гадиев Ислам Геланиевич": 37,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 52,
-      "Евлоев Борис Борисович": 75,
-      "Мартазанов Абдулмажит Кадирович": 148,
-      "Харсиев Алихан Анатольевич": 1035,
-      "Чемхильгов Казбек Баширович": 13
+      "gas:candidate-vibid:2062000284511": 80,
+      "gas:candidate-vibid:2062000284074": 12,
+      "gas:candidate-vibid:2062000284053": 37,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 52,
+      "gas:candidate-vibid:2062000275440": 75,
+      "gas:candidate-vibid:2062000284042": 148,
+      "gas:candidate-vibid:2062000284089": 1035,
+      "gas:candidate-vibid:2062000284101": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 67,
-      "Борщев Валерий Васильевич": 38,
-      "Гадиев Ислам Геланиевич": 58,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 70,
-      "Евлоев Борис Борисович": 111,
-      "Мартазанов Абдулмажит Кадирович": 230,
-      "Харсиев Алихан Анатольевич": 1668,
-      "Чемхильгов Казбек Баширович": 38
+      "gas:candidate-vibid:2062000284511": 67,
+      "gas:candidate-vibid:2062000284074": 38,
+      "gas:candidate-vibid:2062000284053": 58,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 70,
+      "gas:candidate-vibid:2062000275440": 111,
+      "gas:candidate-vibid:2062000284042": 230,
+      "gas:candidate-vibid:2062000284089": 1668,
+      "gas:candidate-vibid:2062000284101": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 36,
-      "Борщев Валерий Васильевич": 21,
-      "Гадиев Ислам Геланиевич": 30,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 41,
-      "Евлоев Борис Борисович": 64,
-      "Мартазанов Абдулмажит Кадирович": 139,
-      "Харсиев Алихан Анатольевич": 938,
-      "Чемхильгов Казбек Баширович": 21
+      "gas:candidate-vibid:2062000284511": 36,
+      "gas:candidate-vibid:2062000284074": 21,
+      "gas:candidate-vibid:2062000284053": 30,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 41,
+      "gas:candidate-vibid:2062000275440": 64,
+      "gas:candidate-vibid:2062000284042": 139,
+      "gas:candidate-vibid:2062000284089": 938,
+      "gas:candidate-vibid:2062000284101": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 38,
-      "Борщев Валерий Васильевич": 9,
-      "Гадиев Ислам Геланиевич": 32,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 45,
-      "Евлоев Борис Борисович": 65,
-      "Мартазанов Абдулмажит Кадирович": 136,
-      "Харсиев Алихан Анатольевич": 915,
-      "Чемхильгов Казбек Баширович": 10
+      "gas:candidate-vibid:2062000284511": 38,
+      "gas:candidate-vibid:2062000284074": 9,
+      "gas:candidate-vibid:2062000284053": 32,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 45,
+      "gas:candidate-vibid:2062000275440": 65,
+      "gas:candidate-vibid:2062000284042": 136,
+      "gas:candidate-vibid:2062000284089": 915,
+      "gas:candidate-vibid:2062000284101": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 70,
-      "Борщев Валерий Васильевич": 38,
-      "Гадиев Ислам Геланиевич": 58,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 81,
-      "Евлоев Борис Борисович": 113,
-      "Мартазанов Абдулмажит Кадирович": 244,
-      "Харсиев Алихан Анатольевич": 1618,
-      "Чемхильгов Казбек Баширович": 38
+      "gas:candidate-vibid:2062000284511": 70,
+      "gas:candidate-vibid:2062000284074": 38,
+      "gas:candidate-vibid:2062000284053": 58,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 81,
+      "gas:candidate-vibid:2062000275440": 113,
+      "gas:candidate-vibid:2062000284042": 244,
+      "gas:candidate-vibid:2062000284089": 1618,
+      "gas:candidate-vibid:2062000284101": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 46,
-      "Борщев Валерий Васильевич": 11,
-      "Гадиев Ислам Геланиевич": 32,
-      "Гусейнов Мухамедали Сардарович": 23,
-      "Дзауров Магамет Хасанович": 60,
-      "Евлоев Борис Борисович": 41,
-      "Мартазанов Абдулмажит Кадирович": 52,
-      "Харсиев Алихан Анатольевич": 1086,
-      "Чемхильгов Казбек Баширович": 102
+      "gas:candidate-vibid:2062000284511": 46,
+      "gas:candidate-vibid:2062000284074": 11,
+      "gas:candidate-vibid:2062000284053": 32,
+      "gas:candidate-vibid:2062000284031": 23,
+      "gas:candidate-vibid:2062000284548": 60,
+      "gas:candidate-vibid:2062000275440": 41,
+      "gas:candidate-vibid:2062000284042": 52,
+      "gas:candidate-vibid:2062000284089": 1086,
+      "gas:candidate-vibid:2062000284101": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 31,
-      "Борщев Валерий Васильевич": 15,
-      "Гадиев Ислам Геланиевич": 29,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 39,
-      "Евлоев Борис Борисович": 62,
-      "Мартазанов Абдулмажит Кадирович": 130,
-      "Харсиев Алихан Анатольевич": 875,
-      "Чемхильгов Казбек Баширович": 15
+      "gas:candidate-vibid:2062000284511": 31,
+      "gas:candidate-vibid:2062000284074": 15,
+      "gas:candidate-vibid:2062000284053": 29,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 39,
+      "gas:candidate-vibid:2062000275440": 62,
+      "gas:candidate-vibid:2062000284042": 130,
+      "gas:candidate-vibid:2062000284089": 875,
+      "gas:candidate-vibid:2062000284101": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 20,
-      "Борщев Валерий Васильевич": 22,
-      "Гадиев Ислам Геланиевич": 35,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 95,
-      "Евлоев Борис Борисович": 8,
-      "Мартазанов Абдулмажит Кадирович": 155,
-      "Харсиев Алихан Анатольевич": 1363,
-      "Чемхильгов Казбек Баширович": 57
+      "gas:candidate-vibid:2062000284511": 20,
+      "gas:candidate-vibid:2062000284074": 22,
+      "gas:candidate-vibid:2062000284053": 35,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 95,
+      "gas:candidate-vibid:2062000275440": 8,
+      "gas:candidate-vibid:2062000284042": 155,
+      "gas:candidate-vibid:2062000284089": 1363,
+      "gas:candidate-vibid:2062000284101": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 56,
-      "Борщев Валерий Васильевич": 31,
-      "Гадиев Ислам Геланиевич": 47,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 65,
-      "Евлоев Борис Борисович": 94,
-      "Мартазанов Абдулмажит Кадирович": 197,
-      "Харсиев Алихан Анатольевич": 1292,
-      "Чемхильгов Казбек Баширович": 31
+      "gas:candidate-vibid:2062000284511": 56,
+      "gas:candidate-vibid:2062000284074": 31,
+      "gas:candidate-vibid:2062000284053": 47,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 65,
+      "gas:candidate-vibid:2062000275440": 94,
+      "gas:candidate-vibid:2062000284042": 197,
+      "gas:candidate-vibid:2062000284089": 1292,
+      "gas:candidate-vibid:2062000284101": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 63,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 52,
-      "Гусейнов Мухамедали Сардарович": 2,
-      "Дзауров Магамет Хасанович": 74,
-      "Евлоев Борис Борисович": 105,
-      "Мартазанов Абдулмажит Кадирович": 221,
-      "Харсиев Алихан Анатольевич": 1443,
-      "Чемхильгов Казбек Баширович": 35
+      "gas:candidate-vibid:2062000284511": 63,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 52,
+      "gas:candidate-vibid:2062000284031": 2,
+      "gas:candidate-vibid:2062000284548": 74,
+      "gas:candidate-vibid:2062000275440": 105,
+      "gas:candidate-vibid:2062000284042": 221,
+      "gas:candidate-vibid:2062000284089": 1443,
+      "gas:candidate-vibid:2062000284101": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 30,
-      "Борщев Валерий Васильевич": 16,
-      "Гадиев Ислам Геланиевич": 26,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 36,
-      "Евлоев Борис Борисович": 51,
-      "Мартазанов Абдулмажит Кадирович": 110,
-      "Харсиев Алихан Анатольевич": 763,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 30,
+      "gas:candidate-vibid:2062000284074": 16,
+      "gas:candidate-vibid:2062000284053": 26,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 36,
+      "gas:candidate-vibid:2062000275440": 51,
+      "gas:candidate-vibid:2062000284042": 110,
+      "gas:candidate-vibid:2062000284089": 763,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 55,
-      "Борщев Валерий Васильевич": 30,
-      "Гадиев Ислам Геланиевич": 45,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 54,
-      "Евлоев Борис Борисович": 83,
-      "Мартазанов Абдулмажит Кадирович": 183,
-      "Харсиев Алихан Анатольевич": 1311,
-      "Чемхильгов Казбек Баширович": 30
+      "gas:candidate-vibid:2062000284511": 55,
+      "gas:candidate-vibid:2062000284074": 30,
+      "gas:candidate-vibid:2062000284053": 45,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 54,
+      "gas:candidate-vibid:2062000275440": 83,
+      "gas:candidate-vibid:2062000284042": 183,
+      "gas:candidate-vibid:2062000284089": 1311,
+      "gas:candidate-vibid:2062000284101": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 56,
-      "Борщев Валерий Васильевич": 20,
-      "Гадиев Ислам Геланиевич": 37,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 51,
-      "Евлоев Борис Борисович": 81,
-      "Мартазанов Абдулмажит Кадирович": 148,
-      "Харсиев Алихан Анатольевич": 1178,
-      "Чемхильгов Казбек Баширович": 43
+      "gas:candidate-vibid:2062000284511": 56,
+      "gas:candidate-vibid:2062000284074": 20,
+      "gas:candidate-vibid:2062000284053": 37,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 51,
+      "gas:candidate-vibid:2062000275440": 81,
+      "gas:candidate-vibid:2062000284042": 148,
+      "gas:candidate-vibid:2062000284089": 1178,
+      "gas:candidate-vibid:2062000284101": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 30,
-      "Борщев Валерий Васильевич": 5,
-      "Гадиев Ислам Геланиевич": 39,
-      "Гусейнов Мухамедали Сардарович": 3,
-      "Дзауров Магамет Хасанович": 32,
-      "Евлоев Борис Борисович": 100,
-      "Мартазанов Абдулмажит Кадирович": 108,
-      "Харсиев Алихан Анатольевич": 1596,
-      "Чемхильгов Казбек Баширович": 216
+      "gas:candidate-vibid:2062000284511": 30,
+      "gas:candidate-vibid:2062000284074": 5,
+      "gas:candidate-vibid:2062000284053": 39,
+      "gas:candidate-vibid:2062000284031": 3,
+      "gas:candidate-vibid:2062000284548": 32,
+      "gas:candidate-vibid:2062000275440": 100,
+      "gas:candidate-vibid:2062000284042": 108,
+      "gas:candidate-vibid:2062000284089": 1596,
+      "gas:candidate-vibid:2062000284101": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 0,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 0,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 0,
-      "Евлоев Борис Борисович": 5,
-      "Мартазанов Абдулмажит Кадирович": 50,
-      "Харсиев Алихан Анатольевич": 1169,
-      "Чемхильгов Казбек Баширович": 309
+      "gas:candidate-vibid:2062000284511": 0,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 0,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 0,
+      "gas:candidate-vibid:2062000275440": 5,
+      "gas:candidate-vibid:2062000284042": 50,
+      "gas:candidate-vibid:2062000284089": 1169,
+      "gas:candidate-vibid:2062000284101": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 26,
-      "Борщев Валерий Васильевич": 5,
-      "Гадиев Ислам Геланиевич": 9,
-      "Гусейнов Мухамедали Сардарович": 10,
-      "Дзауров Магамет Хасанович": 11,
-      "Евлоев Борис Борисович": 57,
-      "Мартазанов Абдулмажит Кадирович": 91,
-      "Харсиев Алихан Анатольевич": 832,
-      "Чемхильгов Казбек Баширович": 220
+      "gas:candidate-vibid:2062000284511": 26,
+      "gas:candidate-vibid:2062000284074": 5,
+      "gas:candidate-vibid:2062000284053": 9,
+      "gas:candidate-vibid:2062000284031": 10,
+      "gas:candidate-vibid:2062000284548": 11,
+      "gas:candidate-vibid:2062000275440": 57,
+      "gas:candidate-vibid:2062000284042": 91,
+      "gas:candidate-vibid:2062000284089": 832,
+      "gas:candidate-vibid:2062000284101": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 20,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 3,
-      "Гусейнов Мухамедали Сардарович": 2,
-      "Дзауров Магамет Хасанович": 5,
-      "Евлоев Борис Борисович": 18,
-      "Мартазанов Абдулмажит Кадирович": 16,
-      "Харсиев Алихан Анатольевич": 422,
-      "Чемхильгов Казбек Баширович": 45
+      "gas:candidate-vibid:2062000284511": 20,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 3,
+      "gas:candidate-vibid:2062000284031": 2,
+      "gas:candidate-vibid:2062000284548": 5,
+      "gas:candidate-vibid:2062000275440": 18,
+      "gas:candidate-vibid:2062000284042": 16,
+      "gas:candidate-vibid:2062000284089": 422,
+      "gas:candidate-vibid:2062000284101": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 28,
-      "Борщев Валерий Васильевич": 15,
-      "Гадиев Ислам Геланиевич": 23,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 32,
-      "Евлоев Борис Борисович": 47,
-      "Мартазанов Абдулмажит Кадирович": 90,
-      "Харсиев Алихан Анатольевич": 652,
-      "Чемхильгов Казбек Баширович": 15
+      "gas:candidate-vibid:2062000284511": 28,
+      "gas:candidate-vibid:2062000284074": 15,
+      "gas:candidate-vibid:2062000284053": 23,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 32,
+      "gas:candidate-vibid:2062000275440": 47,
+      "gas:candidate-vibid:2062000284042": 90,
+      "gas:candidate-vibid:2062000284089": 652,
+      "gas:candidate-vibid:2062000284101": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 21,
-      "Борщев Валерий Васильевич": 11,
-      "Гадиев Ислам Геланиевич": 17,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 24,
-      "Евлоев Борис Борисович": 34,
-      "Мартазанов Абдулмажит Кадирович": 72,
-      "Харсиев Алихан Анатольевич": 471,
-      "Чемхильгов Казбек Баширович": 11
+      "gas:candidate-vibid:2062000284511": 21,
+      "gas:candidate-vibid:2062000284074": 11,
+      "gas:candidate-vibid:2062000284053": 17,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 24,
+      "gas:candidate-vibid:2062000275440": 34,
+      "gas:candidate-vibid:2062000284042": 72,
+      "gas:candidate-vibid:2062000284089": 471,
+      "gas:candidate-vibid:2062000284101": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 15,
-      "Борщев Валерий Васильевич": 9,
-      "Гадиев Ислам Геланиевич": 11,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 18,
-      "Евлоев Борис Борисович": 24,
-      "Мартазанов Абдулмажит Кадирович": 49,
-      "Харсиев Алихан Анатольевич": 370,
-      "Чемхильгов Казбек Баширович": 9
+      "gas:candidate-vibid:2062000284511": 15,
+      "gas:candidate-vibid:2062000284074": 9,
+      "gas:candidate-vibid:2062000284053": 11,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 18,
+      "gas:candidate-vibid:2062000275440": 24,
+      "gas:candidate-vibid:2062000284042": 49,
+      "gas:candidate-vibid:2062000284089": 370,
+      "gas:candidate-vibid:2062000284101": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 2,
-      "Борщев Валерий Васильевич": 0,
-      "Гадиев Ислам Геланиевич": 1,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 0,
-      "Евлоев Борис Борисович": 1,
-      "Мартазанов Абдулмажит Кадирович": 0,
-      "Харсиев Алихан Анатольевич": 113,
-      "Чемхильгов Казбек Баширович": 0
+      "gas:candidate-vibid:2062000284511": 2,
+      "gas:candidate-vibid:2062000284074": 0,
+      "gas:candidate-vibid:2062000284053": 1,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 0,
+      "gas:candidate-vibid:2062000275440": 1,
+      "gas:candidate-vibid:2062000284042": 0,
+      "gas:candidate-vibid:2062000284089": 113,
+      "gas:candidate-vibid:2062000284101": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 5,
-      "Борщев Валерий Васильевич": 3,
-      "Гадиев Ислам Геланиевич": 4,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 6,
-      "Евлоев Борис Борисович": 8,
-      "Мартазанов Абдулмажит Кадирович": 18,
-      "Харсиев Алихан Анатольевич": 120,
-      "Чемхильгов Казбек Баширович": 3
+      "gas:candidate-vibid:2062000284511": 5,
+      "gas:candidate-vibid:2062000284074": 3,
+      "gas:candidate-vibid:2062000284053": 4,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 6,
+      "gas:candidate-vibid:2062000275440": 8,
+      "gas:candidate-vibid:2062000284042": 18,
+      "gas:candidate-vibid:2062000284089": 120,
+      "gas:candidate-vibid:2062000284101": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 8,
-      "Борщев Валерий Васильевич": 6,
-      "Гадиев Ислам Геланиевич": 9,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 9,
-      "Евлоев Борис Борисович": 14,
-      "Мартазанов Абдулмажит Кадирович": 28,
-      "Харсиев Алихан Анатольевич": 179,
-      "Чемхильгов Казбек Баширович": 6
+      "gas:candidate-vibid:2062000284511": 8,
+      "gas:candidate-vibid:2062000284074": 6,
+      "gas:candidate-vibid:2062000284053": 9,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 9,
+      "gas:candidate-vibid:2062000275440": 14,
+      "gas:candidate-vibid:2062000284042": 28,
+      "gas:candidate-vibid:2062000284089": 179,
+      "gas:candidate-vibid:2062000284101": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 33,
-      "Борщев Валерий Васильевич": 10,
-      "Гадиев Ислам Геланиевич": 69,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 26,
-      "Евлоев Борис Борисович": 8,
-      "Мартазанов Абдулмажит Кадирович": 99,
-      "Харсиев Алихан Анатольевич": 311,
-      "Чемхильгов Казбек Баширович": 35
+      "gas:candidate-vibid:2062000284511": 33,
+      "gas:candidate-vibid:2062000284074": 10,
+      "gas:candidate-vibid:2062000284053": 69,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 26,
+      "gas:candidate-vibid:2062000275440": 8,
+      "gas:candidate-vibid:2062000284042": 99,
+      "gas:candidate-vibid:2062000284089": 311,
+      "gas:candidate-vibid:2062000284101": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 13,
-      "Борщев Валерий Васильевич": 10,
-      "Гадиев Ислам Геланиевич": 20,
-      "Гусейнов Мухамедали Сардарович": 13,
-      "Дзауров Магамет Хасанович": 0,
-      "Евлоев Борис Борисович": 4,
-      "Мартазанов Абдулмажит Кадирович": 5,
-      "Харсиев Алихан Анатольевич": 1012,
-      "Чемхильгов Казбек Баширович": 3
+      "gas:candidate-vibid:2062000284511": 13,
+      "gas:candidate-vibid:2062000284074": 10,
+      "gas:candidate-vibid:2062000284053": 20,
+      "gas:candidate-vibid:2062000284031": 13,
+      "gas:candidate-vibid:2062000284548": 0,
+      "gas:candidate-vibid:2062000275440": 4,
+      "gas:candidate-vibid:2062000284042": 5,
+      "gas:candidate-vibid:2062000284089": 1012,
+      "gas:candidate-vibid:2062000284101": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275396&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275396&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 40,
-      "Борщев Валерий Васильевич": 11,
-      "Гадиев Ислам Геланиевич": 15,
-      "Гусейнов Мухамедали Сардарович": 2,
-      "Дзауров Магамет Хасанович": 2,
-      "Евлоев Борис Борисович": 10,
-      "Мартазанов Абдулмажит Кадирович": 8,
-      "Харсиев Алихан Анатольевич": 789,
-      "Чемхильгов Казбек Баширович": 35
+      "gas:candidate-vibid:2062000284511": 40,
+      "gas:candidate-vibid:2062000284074": 11,
+      "gas:candidate-vibid:2062000284053": 15,
+      "gas:candidate-vibid:2062000284031": 2,
+      "gas:candidate-vibid:2062000284548": 2,
+      "gas:candidate-vibid:2062000275440": 10,
+      "gas:candidate-vibid:2062000284042": 8,
+      "gas:candidate-vibid:2062000284089": 789,
+      "gas:candidate-vibid:2062000284101": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275397&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275397&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 16,
-      "Борщев Валерий Васильевич": 3,
-      "Гадиев Ислам Геланиевич": 2,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 31,
-      "Евлоев Борис Борисович": 9,
-      "Мартазанов Абдулмажит Кадирович": 4,
-      "Харсиев Алихан Анатольевич": 109,
-      "Чемхильгов Казбек Баширович": 50
+      "gas:candidate-vibid:2062000284511": 16,
+      "gas:candidate-vibid:2062000284074": 3,
+      "gas:candidate-vibid:2062000284053": 2,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 31,
+      "gas:candidate-vibid:2062000275440": 9,
+      "gas:candidate-vibid:2062000284042": 4,
+      "gas:candidate-vibid:2062000284089": 109,
+      "gas:candidate-vibid:2062000284101": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275397&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275397&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 1,
-      "Борщев Валерий Васильевич": 2,
-      "Гадиев Ислам Геланиевич": 2,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 3,
-      "Евлоев Борис Борисович": 4,
-      "Мартазанов Абдулмажит Кадирович": 6,
-      "Харсиев Алихан Анатольевич": 14,
-      "Чемхильгов Казбек Баширович": 2
+      "gas:candidate-vibid:2062000284511": 1,
+      "gas:candidate-vibid:2062000284074": 2,
+      "gas:candidate-vibid:2062000284053": 2,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 3,
+      "gas:candidate-vibid:2062000275440": 4,
+      "gas:candidate-vibid:2062000284042": 6,
+      "gas:candidate-vibid:2062000284089": 14,
+      "gas:candidate-vibid:2062000284101": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275397&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275397&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 7,
-      "Борщев Валерий Васильевич": 8,
-      "Гадиев Ислам Геланиевич": 10,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 3,
-      "Евлоев Борис Борисович": 2,
-      "Мартазанов Абдулмажит Кадирович": 4,
-      "Харсиев Алихан Анатольевич": 507,
-      "Чемхильгов Казбек Баширович": 2
+      "gas:candidate-vibid:2062000284511": 7,
+      "gas:candidate-vibid:2062000284074": 8,
+      "gas:candidate-vibid:2062000284053": 10,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 3,
+      "gas:candidate-vibid:2062000275440": 2,
+      "gas:candidate-vibid:2062000284042": 4,
+      "gas:candidate-vibid:2062000284089": 507,
+      "gas:candidate-vibid:2062000284101": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275397&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275397&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 36,
-      "Борщев Валерий Васильевич": 24,
-      "Гадиев Ислам Геланиевич": 31,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 43,
-      "Евлоев Борис Борисович": 62,
-      "Мартазанов Абдулмажит Кадирович": 109,
-      "Харсиев Алихан Анатольевич": 868,
-      "Чемхильгов Казбек Баширович": 13
+      "gas:candidate-vibid:2062000284511": 36,
+      "gas:candidate-vibid:2062000284074": 24,
+      "gas:candidate-vibid:2062000284053": 31,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 43,
+      "gas:candidate-vibid:2062000275440": 62,
+      "gas:candidate-vibid:2062000284042": 109,
+      "gas:candidate-vibid:2062000284089": 868,
+      "gas:candidate-vibid:2062000284101": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 32,
-      "Гадиев Ислам Геланиевич": 40,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 56,
-      "Евлоев Борис Борисович": 82,
-      "Мартазанов Абдулмажит Кадирович": 144,
-      "Харсиев Алихан Анатольевич": 1148,
-      "Чемхильгов Казбек Баширович": 17
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 32,
+      "gas:candidate-vibid:2062000284053": 40,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 56,
+      "gas:candidate-vibid:2062000275440": 82,
+      "gas:candidate-vibid:2062000284042": 144,
+      "gas:candidate-vibid:2062000284089": 1148,
+      "gas:candidate-vibid:2062000284101": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 39,
-      "Борщев Валерий Васильевич": 26,
-      "Гадиев Ислам Геланиевич": 32,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 45,
-      "Евлоев Борис Борисович": 65,
-      "Мартазанов Абдулмажит Кадирович": 122,
-      "Харсиев Алихан Анатольевич": 921,
-      "Чемхильгов Казбек Баширович": 11
+      "gas:candidate-vibid:2062000284511": 39,
+      "gas:candidate-vibid:2062000284074": 26,
+      "gas:candidate-vibid:2062000284053": 32,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 45,
+      "gas:candidate-vibid:2062000275440": 65,
+      "gas:candidate-vibid:2062000284042": 122,
+      "gas:candidate-vibid:2062000284089": 921,
+      "gas:candidate-vibid:2062000284101": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 25,
-      "Борщев Валерий Васильевич": 16,
-      "Гадиев Ислам Геланиевич": 21,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 29,
-      "Евлоев Борис Борисович": 42,
-      "Мартазанов Абдулмажит Кадирович": 75,
-      "Харсиев Алихан Анатольевич": 466,
-      "Чемхильгов Казбек Баширович": 9
+      "gas:candidate-vibid:2062000284511": 25,
+      "gas:candidate-vibid:2062000284074": 16,
+      "gas:candidate-vibid:2062000284053": 21,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 29,
+      "gas:candidate-vibid:2062000275440": 42,
+      "gas:candidate-vibid:2062000284042": 75,
+      "gas:candidate-vibid:2062000284089": 466,
+      "gas:candidate-vibid:2062000284101": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 41,
-      "Борщев Валерий Васильевич": 27,
-      "Гадиев Ислам Геланиевич": 34,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 48,
-      "Евлоев Борис Борисович": 69,
-      "Мартазанов Абдулмажит Кадирович": 122,
-      "Харсиев Алихан Анатольевич": 970,
-      "Чемхильгов Казбек Баширович": 15
+      "gas:candidate-vibid:2062000284511": 41,
+      "gas:candidate-vibid:2062000284074": 27,
+      "gas:candidate-vibid:2062000284053": 34,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 48,
+      "gas:candidate-vibid:2062000275440": 69,
+      "gas:candidate-vibid:2062000284042": 122,
+      "gas:candidate-vibid:2062000284089": 970,
+      "gas:candidate-vibid:2062000284101": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 56,
-      "Борщев Валерий Васильевич": 37,
-      "Гадиев Ислам Геланиевич": 47,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 65,
-      "Евлоев Борис Борисович": 95,
-      "Мартазанов Абдулмажит Кадирович": 167,
-      "Харсиев Алихан Анатольевич": 1333,
-      "Чемхильгов Казбек Баширович": 20
+      "gas:candidate-vibid:2062000284511": 56,
+      "gas:candidate-vibid:2062000284074": 37,
+      "gas:candidate-vibid:2062000284053": 47,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 65,
+      "gas:candidate-vibid:2062000275440": 95,
+      "gas:candidate-vibid:2062000284042": 167,
+      "gas:candidate-vibid:2062000284089": 1333,
+      "gas:candidate-vibid:2062000284101": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 32,
-      "Гадиев Ислам Геланиевич": 40,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 55,
-      "Евлоев Борис Борисович": 80,
-      "Мартазанов Абдулмажит Кадирович": 142,
-      "Харсиев Алихан Анатольевич": 1127,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 32,
+      "gas:candidate-vibid:2062000284053": 40,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 55,
+      "gas:candidate-vibid:2062000275440": 80,
+      "gas:candidate-vibid:2062000284042": 142,
+      "gas:candidate-vibid:2062000284089": 1127,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 53,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 47,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 61,
-      "Евлоев Борис Борисович": 88,
-      "Мартазанов Абдулмажит Кадирович": 157,
-      "Харсиев Алихан Анатольевич": 1244,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 53,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 47,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 61,
+      "gas:candidate-vibid:2062000275440": 88,
+      "gas:candidate-vibid:2062000284042": 157,
+      "gas:candidate-vibid:2062000284089": 1244,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 53,
-      "Борщев Валерий Васильевич": 35,
-      "Гадиев Ислам Геланиевич": 44,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 62,
-      "Евлоев Борис Борисович": 89,
-      "Мартазанов Абдулмажит Кадирович": 158,
-      "Харсиев Алихан Анатольевич": 1388,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 53,
+      "gas:candidate-vibid:2062000284074": 35,
+      "gas:candidate-vibid:2062000284053": 44,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 62,
+      "gas:candidate-vibid:2062000275440": 89,
+      "gas:candidate-vibid:2062000284042": 158,
+      "gas:candidate-vibid:2062000284089": 1388,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 51,
-      "Борщев Валерий Васильевич": 33,
-      "Гадиев Ислам Геланиевич": 43,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 59,
-      "Евлоев Борис Борисович": 85,
-      "Мартазанов Абдулмажит Кадирович": 152,
-      "Харсиев Алихан Анатольевич": 1325,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 51,
+      "gas:candidate-vibid:2062000284074": 33,
+      "gas:candidate-vibid:2062000284053": 43,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 59,
+      "gas:candidate-vibid:2062000275440": 85,
+      "gas:candidate-vibid:2062000284042": 152,
+      "gas:candidate-vibid:2062000284089": 1325,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 44,
-      "Борщев Валерий Васильевич": 20,
-      "Гадиев Ислам Геланиевич": 37,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 59,
-      "Евлоев Борис Борисович": 74,
-      "Мартазанов Абдулмажит Кадирович": 130,
-      "Харсиев Алихан Анатольевич": 1032,
-      "Чемхильгов Казбек Баширович": 15
+      "gas:candidate-vibid:2062000284511": 44,
+      "gas:candidate-vibid:2062000284074": 20,
+      "gas:candidate-vibid:2062000284053": 37,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 59,
+      "gas:candidate-vibid:2062000275440": 74,
+      "gas:candidate-vibid:2062000284042": 130,
+      "gas:candidate-vibid:2062000284089": 1032,
+      "gas:candidate-vibid:2062000284101": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 58,
-      "Борщев Валерий Васильевич": 38,
-      "Гадиев Ислам Геланиевич": 48,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 67,
-      "Евлоев Борис Борисович": 97,
-      "Мартазанов Абдулмажит Кадирович": 172,
-      "Харсиев Алихан Анатольевич": 1364,
-      "Чемхильгов Казбек Баширович": 20
+      "gas:candidate-vibid:2062000284511": 58,
+      "gas:candidate-vibid:2062000284074": 38,
+      "gas:candidate-vibid:2062000284053": 48,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 67,
+      "gas:candidate-vibid:2062000275440": 97,
+      "gas:candidate-vibid:2062000284042": 172,
+      "gas:candidate-vibid:2062000284089": 1364,
+      "gas:candidate-vibid:2062000284101": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 59,
-      "Борщев Валерий Васильевич": 39,
-      "Гадиев Ислам Геланиевич": 51,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 69,
-      "Евлоев Борис Борисович": 99,
-      "Мартазанов Абдулмажит Кадирович": 175,
-      "Харсиев Алихан Анатольевич": 1396,
-      "Чемхильгов Казбек Баширович": 20
+      "gas:candidate-vibid:2062000284511": 59,
+      "gas:candidate-vibid:2062000284074": 39,
+      "gas:candidate-vibid:2062000284053": 51,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 69,
+      "gas:candidate-vibid:2062000275440": 99,
+      "gas:candidate-vibid:2062000284042": 175,
+      "gas:candidate-vibid:2062000284089": 1396,
+      "gas:candidate-vibid:2062000284101": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 62,
-      "Борщев Валерий Васильевич": 41,
-      "Гадиев Ислам Геланиевич": 52,
-      "Гусейнов Мухамедали Сардарович": 73,
-      "Дзауров Магамет Хасанович": 105,
-      "Евлоев Борис Борисович": 186,
-      "Мартазанов Абдулмажит Кадирович": 1477,
-      "Харсиев Алихан Анатольевич": 23,
-      "Чемхильгов Казбек Баширович": 0
+      "gas:candidate-vibid:2062000284511": 62,
+      "gas:candidate-vibid:2062000284074": 41,
+      "gas:candidate-vibid:2062000284053": 52,
+      "gas:candidate-vibid:2062000284031": 73,
+      "gas:candidate-vibid:2062000284548": 105,
+      "gas:candidate-vibid:2062000275440": 186,
+      "gas:candidate-vibid:2062000284042": 1477,
+      "gas:candidate-vibid:2062000284089": 23,
+      "gas:candidate-vibid:2062000284101": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 16,
-      "Борщев Валерий Васильевич": 8,
-      "Гадиев Ислам Геланиевич": 103,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 158,
-      "Евлоев Борис Борисович": 93,
-      "Мартазанов Абдулмажит Кадирович": 18,
-      "Харсиев Алихан Анатольевич": 900,
-      "Чемхильгов Казбек Баширович": 17
+      "gas:candidate-vibid:2062000284511": 16,
+      "gas:candidate-vibid:2062000284074": 8,
+      "gas:candidate-vibid:2062000284053": 103,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 158,
+      "gas:candidate-vibid:2062000275440": 93,
+      "gas:candidate-vibid:2062000284042": 18,
+      "gas:candidate-vibid:2062000284089": 900,
+      "gas:candidate-vibid:2062000284101": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 32,
-      "Гадиев Ислам Геланиевич": 40,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 56,
-      "Евлоев Борис Борисович": 81,
-      "Мартазанов Абдулмажит Кадирович": 144,
-      "Харсиев Алихан Анатольевич": 1142,
-      "Чемхильгов Казбек Баширович": 18
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 32,
+      "gas:candidate-vibid:2062000284053": 40,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 56,
+      "gas:candidate-vibid:2062000275440": 81,
+      "gas:candidate-vibid:2062000284042": 144,
+      "gas:candidate-vibid:2062000284089": 1142,
+      "gas:candidate-vibid:2062000284101": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 2,
-      "Борщев Валерий Васильевич": 1,
-      "Гадиев Ислам Геланиевич": 2,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 3,
-      "Евлоев Борис Борисович": 4,
-      "Мартазанов Абдулмажит Кадирович": 7,
-      "Харсиев Алихан Анатольевич": 61,
-      "Чемхильгов Казбек Баширович": 4
+      "gas:candidate-vibid:2062000284511": 2,
+      "gas:candidate-vibid:2062000284074": 1,
+      "gas:candidate-vibid:2062000284053": 2,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 3,
+      "gas:candidate-vibid:2062000275440": 4,
+      "gas:candidate-vibid:2062000284042": 7,
+      "gas:candidate-vibid:2062000284089": 61,
+      "gas:candidate-vibid:2062000284101": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 42,
-      "Борщев Валерий Васильевич": 28,
-      "Гадиев Ислам Геланиевич": 36,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 49,
-      "Евлоев Борис Борисович": 71,
-      "Мартазанов Абдулмажит Кадирович": 127,
-      "Харсиев Алихан Анатольевич": 1005,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 42,
+      "gas:candidate-vibid:2062000284074": 28,
+      "gas:candidate-vibid:2062000284053": 36,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 49,
+      "gas:candidate-vibid:2062000275440": 71,
+      "gas:candidate-vibid:2062000284042": 127,
+      "gas:candidate-vibid:2062000284089": 1005,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 59,
-      "Борщев Валерий Васильевич": 39,
-      "Гадиев Ислам Геланиевич": 49,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 68,
-      "Евлоев Борис Борисович": 99,
-      "Мартазанов Абдулмажит Кадирович": 175,
-      "Харсиев Алихан Анатольевич": 1390,
-      "Чемхильгов Казбек Баширович": 20
+      "gas:candidate-vibid:2062000284511": 59,
+      "gas:candidate-vibid:2062000284074": 39,
+      "gas:candidate-vibid:2062000284053": 49,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 68,
+      "gas:candidate-vibid:2062000275440": 99,
+      "gas:candidate-vibid:2062000284042": 175,
+      "gas:candidate-vibid:2062000284089": 1390,
+      "gas:candidate-vibid:2062000284101": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 64,
-      "Борщев Валерий Васильевич": 42,
-      "Гадиев Ислам Геланиевич": 54,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 74,
-      "Евлоев Борис Борисович": 107,
-      "Мартазанов Абдулмажит Кадирович": 190,
-      "Харсиев Алихан Анатольевич": 1507,
-      "Чемхильгов Казбек Баширович": 22
+      "gas:candidate-vibid:2062000284511": 64,
+      "gas:candidate-vibid:2062000284074": 42,
+      "gas:candidate-vibid:2062000284053": 54,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 74,
+      "gas:candidate-vibid:2062000275440": 107,
+      "gas:candidate-vibid:2062000284042": 190,
+      "gas:candidate-vibid:2062000284089": 1507,
+      "gas:candidate-vibid:2062000284101": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 67,
-      "Борщев Валерий Васильевич": 44,
-      "Гадиев Ислам Геланиевич": 56,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 78,
-      "Евлоев Борис Борисович": 113,
-      "Мартазанов Абдулмажит Кадирович": 200,
-      "Харсиев Алихан Анатольевич": 1591,
-      "Чемхильгов Казбек Баширович": 25
+      "gas:candidate-vibid:2062000284511": 67,
+      "gas:candidate-vibid:2062000284074": 44,
+      "gas:candidate-vibid:2062000284053": 56,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 78,
+      "gas:candidate-vibid:2062000275440": 113,
+      "gas:candidate-vibid:2062000284042": 200,
+      "gas:candidate-vibid:2062000284089": 1591,
+      "gas:candidate-vibid:2062000284101": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 46,
-      "Борщев Валерий Васильевич": 30,
-      "Гадиев Ислам Геланиевич": 38,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 53,
-      "Евлоев Борис Борисович": 77,
-      "Мартазанов Абдулмажит Кадирович": 137,
-      "Харсиев Алихан Анатольевич": 1085,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 46,
+      "gas:candidate-vibid:2062000284074": 30,
+      "gas:candidate-vibid:2062000284053": 38,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 53,
+      "gas:candidate-vibid:2062000275440": 77,
+      "gas:candidate-vibid:2062000284042": 137,
+      "gas:candidate-vibid:2062000284089": 1085,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 41,
-      "Борщев Валерий Васильевич": 27,
-      "Гадиев Ислам Геланиевич": 35,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 48,
-      "Евлоев Борис Борисович": 69,
-      "Мартазанов Абдулмажит Кадирович": 123,
-      "Харсиев Алихан Анатольевич": 974,
-      "Чемхильгов Казбек Баширович": 14
+      "gas:candidate-vibid:2062000284511": 41,
+      "gas:candidate-vibid:2062000284074": 27,
+      "gas:candidate-vibid:2062000284053": 35,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 48,
+      "gas:candidate-vibid:2062000275440": 69,
+      "gas:candidate-vibid:2062000284042": 123,
+      "gas:candidate-vibid:2062000284089": 974,
+      "gas:candidate-vibid:2062000284101": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 56,
-      "Борщев Валерий Васильевич": 37,
-      "Гадиев Ислам Геланиевич": 47,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 65,
-      "Евлоев Борис Борисович": 94,
-      "Мартазанов Абдулмажит Кадирович": 168,
-      "Харсиев Алихан Анатольевич": 1330,
-      "Чемхильгов Казбек Баширович": 95
+      "gas:candidate-vibid:2062000284511": 56,
+      "gas:candidate-vibid:2062000284074": 37,
+      "gas:candidate-vibid:2062000284053": 47,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 65,
+      "gas:candidate-vibid:2062000275440": 94,
+      "gas:candidate-vibid:2062000284042": 168,
+      "gas:candidate-vibid:2062000284089": 1330,
+      "gas:candidate-vibid:2062000284101": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 40,
-      "Борщев Валерий Васильевич": 26,
-      "Гадиев Ислам Геланиевич": 34,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 47,
-      "Евлоев Борис Борисович": 68,
-      "Мартазанов Абдулмажит Кадирович": 120,
-      "Харсиев Алихан Анатольевич": 953,
-      "Чемхильгов Казбек Баширович": 14
+      "gas:candidate-vibid:2062000284511": 40,
+      "gas:candidate-vibid:2062000284074": 26,
+      "gas:candidate-vibid:2062000284053": 34,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 47,
+      "gas:candidate-vibid:2062000275440": 68,
+      "gas:candidate-vibid:2062000284042": 120,
+      "gas:candidate-vibid:2062000284089": 953,
+      "gas:candidate-vibid:2062000284101": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 45,
-      "Борщев Валерий Васильевич": 30,
-      "Гадиев Ислам Геланиевич": 38,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 53,
-      "Евлоев Борис Борисович": 76,
-      "Мартазанов Абдулмажит Кадирович": 16,
-      "Харсиев Алихан Анатольевич": 1073,
-      "Чемхильгов Казбек Баширович": 135
+      "gas:candidate-vibid:2062000284511": 45,
+      "gas:candidate-vibid:2062000284074": 30,
+      "gas:candidate-vibid:2062000284053": 38,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 53,
+      "gas:candidate-vibid:2062000275440": 76,
+      "gas:candidate-vibid:2062000284042": 16,
+      "gas:candidate-vibid:2062000284089": 1073,
+      "gas:candidate-vibid:2062000284101": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 48,
-      "Борщев Валерий Васильевич": 31,
-      "Гадиев Ислам Геланиевич": 80,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 55,
-      "Евлоев Борис Борисович": 110,
-      "Мартазанов Абдулмажит Кадирович": 142,
-      "Харсиев Алихан Анатольевич": 1057,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 48,
+      "gas:candidate-vibid:2062000284074": 31,
+      "gas:candidate-vibid:2062000284053": 80,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 55,
+      "gas:candidate-vibid:2062000275440": 110,
+      "gas:candidate-vibid:2062000284042": 142,
+      "gas:candidate-vibid:2062000284089": 1057,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 46,
-      "Борщев Валерий Васильевич": 30,
-      "Гадиев Ислам Геланиевич": 39,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 54,
-      "Евлоев Борис Борисович": 138,
-      "Мартазанов Абдулмажит Кадирович": 78,
-      "Харсиев Алихан Анатольевич": 1098,
-      "Чемхильгов Казбек Баширович": 16
+      "gas:candidate-vibid:2062000284511": 46,
+      "gas:candidate-vibid:2062000284074": 30,
+      "gas:candidate-vibid:2062000284053": 39,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 54,
+      "gas:candidate-vibid:2062000275440": 138,
+      "gas:candidate-vibid:2062000284042": 78,
+      "gas:candidate-vibid:2062000284089": 1098,
+      "gas:candidate-vibid:2062000284101": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_6_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Богатырев Ильяс Сулейманович": 31,
-      "Борщев Валерий Васильевич": 8,
-      "Гадиев Ислам Геланиевич": 26,
-      "Гусейнов Мухамедали Сардарович": 0,
-      "Дзауров Магамет Хасанович": 36,
-      "Евлоев Борис Борисович": 306,
-      "Мартазанов Абдулмажит Кадирович": 141,
-      "Харсиев Алихан Анатольевич": 439,
-      "Чемхильгов Казбек Баширович": 23
+      "gas:candidate-vibid:2062000284511": 31,
+      "gas:candidate-vibid:2062000284074": 8,
+      "gas:candidate-vibid:2062000284053": 26,
+      "gas:candidate-vibid:2062000284031": 0,
+      "gas:candidate-vibid:2062000284548": 36,
+      "gas:candidate-vibid:2062000275440": 306,
+      "gas:candidate-vibid:2062000284042": 141,
+      "gas:candidate-vibid:2062000284089": 439,
+      "gas:candidate-vibid:2062000284101": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/ingush?action=show&root=1000019&tvd=2062000275398&vrn=100100067795849&region=6&global=&sub_region=6&prver=0&pronetvd=null&vibid=2062000275398&type=464",

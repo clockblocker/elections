@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 37,
-      "Бураков Леонид Васильевич": 11,
-      "Ерёмкин Афанасий Иванович": 19,
-      "Ермаков Евгений Анатольевич": 0,
-      "Зайцев Александр Вячеславович": 5,
-      "Карпов Станислав Артурович": 29,
-      "Максимов Александр Александрович": 129
+      "gas:candidate-vibid:24220001035758": 37,
+      "gas:candidate-vibid:2422000977294": 11,
+      "gas:candidate-vibid:2422000976474": 19,
+      "gas:candidate-vibid:24220001035784": 0,
+      "gas:candidate-vibid:2422000977210": 5,
+      "gas:candidate-vibid:2422000974765": 29,
+      "gas:candidate-vibid:2422000977127": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 3,
-      "Бураков Леонид Васильевич": 35,
-      "Ерёмкин Афанасий Иванович": 0,
-      "Ермаков Евгений Анатольевич": 0,
-      "Зайцев Александр Вячеславович": 10,
-      "Карпов Станислав Артурович": 18,
-      "Максимов Александр Александрович": 243
+      "gas:candidate-vibid:24220001035758": 3,
+      "gas:candidate-vibid:2422000977294": 35,
+      "gas:candidate-vibid:2422000976474": 0,
+      "gas:candidate-vibid:24220001035784": 0,
+      "gas:candidate-vibid:2422000977210": 10,
+      "gas:candidate-vibid:2422000974765": 18,
+      "gas:candidate-vibid:2422000977127": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 4,
-      "Бураков Леонид Васильевич": 4,
-      "Ерёмкин Афанасий Иванович": 3,
-      "Ермаков Евгений Анатольевич": 5,
-      "Зайцев Александр Вячеславович": 1,
-      "Карпов Станислав Артурович": 8,
-      "Максимов Александр Александрович": 75
+      "gas:candidate-vibid:24220001035758": 4,
+      "gas:candidate-vibid:2422000977294": 4,
+      "gas:candidate-vibid:2422000976474": 3,
+      "gas:candidate-vibid:24220001035784": 5,
+      "gas:candidate-vibid:2422000977210": 1,
+      "gas:candidate-vibid:2422000974765": 8,
+      "gas:candidate-vibid:2422000977127": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 4,
-      "Бураков Леонид Васильевич": 20,
-      "Ерёмкин Афанасий Иванович": 3,
-      "Ермаков Евгений Анатольевич": 2,
-      "Зайцев Александр Вячеславович": 4,
-      "Карпов Станислав Артурович": 11,
-      "Максимов Александр Александрович": 140
+      "gas:candidate-vibid:24220001035758": 4,
+      "gas:candidate-vibid:2422000977294": 20,
+      "gas:candidate-vibid:2422000976474": 3,
+      "gas:candidate-vibid:24220001035784": 2,
+      "gas:candidate-vibid:2422000977210": 4,
+      "gas:candidate-vibid:2422000974765": 11,
+      "gas:candidate-vibid:2422000977127": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 19,
-      "Бураков Леонид Васильевич": 10,
-      "Ерёмкин Афанасий Иванович": 8,
-      "Ермаков Евгений Анатольевич": 12,
-      "Зайцев Александр Вячеславович": 8,
-      "Карпов Станислав Артурович": 10,
-      "Максимов Александр Александрович": 265
+      "gas:candidate-vibid:24220001035758": 19,
+      "gas:candidate-vibid:2422000977294": 10,
+      "gas:candidate-vibid:2422000976474": 8,
+      "gas:candidate-vibid:24220001035784": 12,
+      "gas:candidate-vibid:2422000977210": 8,
+      "gas:candidate-vibid:2422000974765": 10,
+      "gas:candidate-vibid:2422000977127": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 13,
-      "Бураков Леонид Васильевич": 4,
-      "Ерёмкин Афанасий Иванович": 7,
-      "Ермаков Евгений Анатольевич": 5,
-      "Зайцев Александр Вячеславович": 4,
-      "Карпов Станислав Артурович": 12,
-      "Максимов Александр Александрович": 94
+      "gas:candidate-vibid:24220001035758": 13,
+      "gas:candidate-vibid:2422000977294": 4,
+      "gas:candidate-vibid:2422000976474": 7,
+      "gas:candidate-vibid:24220001035784": 5,
+      "gas:candidate-vibid:2422000977210": 4,
+      "gas:candidate-vibid:2422000974765": 12,
+      "gas:candidate-vibid:2422000977127": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 5,
-      "Бураков Леонид Васильевич": 61,
-      "Ерёмкин Афанасий Иванович": 0,
-      "Ермаков Евгений Анатольевич": 12,
-      "Зайцев Александр Вячеславович": 8,
-      "Карпов Станислав Артурович": 32,
-      "Максимов Александр Александрович": 419
+      "gas:candidate-vibid:24220001035758": 5,
+      "gas:candidate-vibid:2422000977294": 61,
+      "gas:candidate-vibid:2422000976474": 0,
+      "gas:candidate-vibid:24220001035784": 12,
+      "gas:candidate-vibid:2422000977210": 8,
+      "gas:candidate-vibid:2422000974765": 32,
+      "gas:candidate-vibid:2422000977127": 419
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 89,
-      "Бураков Леонид Васильевич": 52,
-      "Ерёмкин Афанасий Иванович": 46,
-      "Ермаков Евгений Анатольевич": 26,
-      "Зайцев Александр Вячеславович": 37,
-      "Карпов Станислав Артурович": 38,
-      "Максимов Александр Александрович": 694
+      "gas:candidate-vibid:24220001035758": 89,
+      "gas:candidate-vibid:2422000977294": 52,
+      "gas:candidate-vibid:2422000976474": 46,
+      "gas:candidate-vibid:24220001035784": 26,
+      "gas:candidate-vibid:2422000977210": 37,
+      "gas:candidate-vibid:2422000974765": 38,
+      "gas:candidate-vibid:2422000977127": 694
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 32,
-      "Бураков Леонид Васильевич": 10,
-      "Ерёмкин Афанасий Иванович": 22,
-      "Ермаков Евгений Анатольевич": 9,
-      "Зайцев Александр Вячеславович": 9,
-      "Карпов Станислав Артурович": 37,
-      "Максимов Александр Александрович": 228
+      "gas:candidate-vibid:24220001035758": 32,
+      "gas:candidate-vibid:2422000977294": 10,
+      "gas:candidate-vibid:2422000976474": 22,
+      "gas:candidate-vibid:24220001035784": 9,
+      "gas:candidate-vibid:2422000977210": 9,
+      "gas:candidate-vibid:2422000974765": 37,
+      "gas:candidate-vibid:2422000977127": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 37,
-      "Бураков Леонид Васильевич": 17,
-      "Ерёмкин Афанасий Иванович": 8,
-      "Ермаков Евгений Анатольевич": 4,
-      "Зайцев Александр Вячеславович": 13,
-      "Карпов Станислав Артурович": 26,
-      "Максимов Александр Александрович": 160
+      "gas:candidate-vibid:24220001035758": 37,
+      "gas:candidate-vibid:2422000977294": 17,
+      "gas:candidate-vibid:2422000976474": 8,
+      "gas:candidate-vibid:24220001035784": 4,
+      "gas:candidate-vibid:2422000977210": 13,
+      "gas:candidate-vibid:2422000974765": 26,
+      "gas:candidate-vibid:2422000977127": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_42_part_008 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бардокин Ростислав Евгеньевич": 8,
-      "Бураков Леонид Васильевич": 10,
-      "Ерёмкин Афанасий Иванович": 0,
-      "Ермаков Евгений Анатольевич": 23,
-      "Зайцев Александр Вячеславович": 6,
-      "Карпов Станислав Артурович": 19,
-      "Максимов Александр Александрович": 139
+      "gas:candidate-vibid:24220001035758": 8,
+      "gas:candidate-vibid:2422000977294": 10,
+      "gas:candidate-vibid:2422000976474": 0,
+      "gas:candidate-vibid:24220001035784": 23,
+      "gas:candidate-vibid:2422000977210": 6,
+      "gas:candidate-vibid:2422000974765": 19,
+      "gas:candidate-vibid:2422000977127": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kemerovo?action=show&root=1000135&tvd=2422000909183&vrn=100100067795849&region=42&global=&sub_region=42&prver=0&pronetvd=null&vibid=2422000909183&type=464",

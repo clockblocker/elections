@@ -32,10 +32,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 18,
-      "Путин Владимир Владимирович": 532,
-      "Слуцкий Леонид Эдуардович": 21,
-      "Харитонов Николай Михайлович": 36
+      "gas:candidate-vibid:100100340012031": 18,
+      "gas:candidate-vibid:100100339708711": 532,
+      "gas:candidate-vibid:100100340011882": 21,
+      "gas:candidate-vibid:100100340102692": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000001&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494010143279&region=49&sub_region=49&vibid=4494010143279&type=226",
@@ -75,10 +75,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 4,
-      "Путин Владимир Владимирович": 278,
-      "Слуцкий Леонид Эдуардович": 7,
-      "Харитонов Николай Михайлович": 12
+      "gas:candidate-vibid:100100340012031": 4,
+      "gas:candidate-vibid:100100339708711": 278,
+      "gas:candidate-vibid:100100340011882": 7,
+      "gas:candidate-vibid:100100340102692": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000001&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494010143281&region=49&sub_region=49&vibid=4494010143281&type=226",
@@ -118,10 +118,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 4,
-      "Путин Владимир Владимирович": 98,
-      "Слуцкий Леонид Эдуардович": 1,
-      "Харитонов Николай Михайлович": 3
+      "gas:candidate-vibid:100100340012031": 4,
+      "gas:candidate-vibid:100100339708711": 98,
+      "gas:candidate-vibid:100100340011882": 1,
+      "gas:candidate-vibid:100100340102692": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000001&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494010143283&region=49&sub_region=49&vibid=4494010143283&type=226",
@@ -161,10 +161,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 2,
-      "Путин Владимир Владимирович": 145,
-      "Слуцкий Леонид Эдуардович": 4,
-      "Харитонов Николай Михайлович": 11
+      "gas:candidate-vibid:100100340012031": 2,
+      "gas:candidate-vibid:100100339708711": 145,
+      "gas:candidate-vibid:100100340011882": 4,
+      "gas:candidate-vibid:100100340102692": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000001&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494010143285&region=49&sub_region=49&vibid=4494010143285&type=226",
@@ -204,10 +204,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 31,
-      "Путин Владимир Владимирович": 1394,
-      "Слуцкий Леонид Эдуардович": 26,
-      "Харитонов Николай Михайлович": 44
+      "gas:candidate-vibid:100100340012031": 31,
+      "gas:candidate-vibid:100100339708711": 1394,
+      "gas:candidate-vibid:100100340011882": 26,
+      "gas:candidate-vibid:100100340102692": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000002&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494008217925&region=49&sub_region=49&vibid=4494008217925&type=226",
@@ -247,10 +247,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 7,
-      "Путин Владимир Владимирович": 165,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 12
+      "gas:candidate-vibid:100100340012031": 7,
+      "gas:candidate-vibid:100100339708711": 165,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000002&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494008217926&region=49&sub_region=49&vibid=4494008217926&type=226",
@@ -290,10 +290,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 8,
-      "Путин Владимир Владимирович": 800,
-      "Слуцкий Леонид Эдуардович": 16,
-      "Харитонов Николай Михайлович": 13
+      "gas:candidate-vibid:100100340012031": 8,
+      "gas:candidate-vibid:100100339708711": 800,
+      "gas:candidate-vibid:100100340011882": 16,
+      "gas:candidate-vibid:100100340102692": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000002&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494008217927&region=49&sub_region=49&vibid=4494008217927&type=226",
@@ -333,10 +333,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 24,
-      "Путин Владимир Владимирович": 799,
-      "Слуцкий Леонид Эдуардович": 19,
-      "Харитонов Николай Михайлович": 21
+      "gas:candidate-vibid:100100340012031": 24,
+      "gas:candidate-vibid:100100339708711": 799,
+      "gas:candidate-vibid:100100340011882": 19,
+      "gas:candidate-vibid:100100340102692": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000002&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494008217928&region=49&sub_region=49&vibid=4494008217928&type=226",
@@ -376,10 +376,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 43,
-      "Путин Владимир Владимирович": 1510,
-      "Слуцкий Леонид Эдуардович": 47,
-      "Харитонов Николай Михайлович": 45
+      "gas:candidate-vibid:100100340012031": 43,
+      "gas:candidate-vibid:100100339708711": 1510,
+      "gas:candidate-vibid:100100340011882": 47,
+      "gas:candidate-vibid:100100340102692": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000002&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494008217929&region=49&sub_region=49&vibid=4494008217929&type=226",
@@ -419,10 +419,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 3,
-      "Путин Владимир Владимирович": 424,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 3
+      "gas:candidate-vibid:100100340012031": 3,
+      "gas:candidate-vibid:100100339708711": 424,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000002&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494008217930&region=49&sub_region=49&vibid=4494008217930&type=226",
@@ -462,10 +462,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 21,
-      "Путин Владимир Владимирович": 755,
-      "Слуцкий Леонид Эдуардович": 30,
-      "Харитонов Николай Михайлович": 26
+      "gas:candidate-vibid:100100340012031": 21,
+      "gas:candidate-vibid:100100339708711": 755,
+      "gas:candidate-vibid:100100340011882": 30,
+      "gas:candidate-vibid:100100340102692": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000003&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=9509007181939&region=49&sub_region=49&vibid=9509007181939&type=226",
@@ -505,10 +505,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 32,
-      "Путин Владимир Владимирович": 714,
-      "Слуцкий Леонид Эдуардович": 27,
-      "Харитонов Николай Михайлович": 45
+      "gas:candidate-vibid:100100340012031": 32,
+      "gas:candidate-vibid:100100339708711": 714,
+      "gas:candidate-vibid:100100340011882": 27,
+      "gas:candidate-vibid:100100340102692": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000003&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=9509007181940&region=49&sub_region=49&vibid=9509007181940&type=226",
@@ -548,10 +548,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 2529,
-      "Слуцкий Леонид Эдуардович": 112,
-      "Харитонов Николай Михайлович": 185
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 2529,
+      "gas:candidate-vibid:100100340011882": 112,
+      "gas:candidate-vibid:100100340102692": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000003&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=9509007181941&region=49&sub_region=49&vibid=9509007181941&type=226",
@@ -591,10 +591,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 1593,
-      "Слуцкий Леонид Эдуардович": 26,
-      "Харитонов Николай Михайлович": 28
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 1593,
+      "gas:candidate-vibid:100100340011882": 26,
+      "gas:candidate-vibid:100100340102692": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000003&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=9509007181942&region=49&sub_region=49&vibid=9509007181942&type=226",
@@ -634,10 +634,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 46,
-      "Путин Владимир Владимирович": 1161,
-      "Слуцкий Леонид Эдуардович": 35,
-      "Харитонов Николай Михайлович": 37
+      "gas:candidate-vibid:100100340012031": 46,
+      "gas:candidate-vibid:100100339708711": 1161,
+      "gas:candidate-vibid:100100340011882": 35,
+      "gas:candidate-vibid:100100340102692": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000004&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494006176499&region=49&sub_region=49&vibid=4494006176499&type=226",
@@ -677,10 +677,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 41,
-      "Путин Владимир Владимирович": 1212,
-      "Слуцкий Леонид Эдуардович": 41,
-      "Харитонов Николай Михайлович": 43
+      "gas:candidate-vibid:100100340012031": 41,
+      "gas:candidate-vibid:100100339708711": 1212,
+      "gas:candidate-vibid:100100340011882": 41,
+      "gas:candidate-vibid:100100340102692": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000004&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494006176500&region=49&sub_region=49&vibid=4494006176500&type=226",
@@ -720,10 +720,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 17,
-      "Путин Владимир Владимирович": 246,
-      "Слуцкий Леонид Эдуардович": 12,
-      "Харитонов Николай Михайлович": 7
+      "gas:candidate-vibid:100100340012031": 17,
+      "gas:candidate-vibid:100100339708711": 246,
+      "gas:candidate-vibid:100100340011882": 12,
+      "gas:candidate-vibid:100100340102692": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000004&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494006176501&region=49&sub_region=49&vibid=4494006176501&type=226",
@@ -763,10 +763,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 6,
-      "Путин Владимир Владимирович": 407,
-      "Слуцкий Леонид Эдуардович": 24,
-      "Харитонов Николай Михайлович": 56
+      "gas:candidate-vibid:100100340012031": 6,
+      "gas:candidate-vibid:100100339708711": 407,
+      "gas:candidate-vibid:100100340011882": 24,
+      "gas:candidate-vibid:100100340102692": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000004&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494006176502&region=49&sub_region=49&vibid=4494006176502&type=226",
@@ -806,10 +806,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 16,
-      "Путин Владимир Владимирович": 1005,
-      "Слуцкий Леонид Эдуардович": 22,
-      "Харитонов Николай Михайлович": 28
+      "gas:candidate-vibid:100100340012031": 16,
+      "gas:candidate-vibid:100100339708711": 1005,
+      "gas:candidate-vibid:100100340011882": 22,
+      "gas:candidate-vibid:100100340102692": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000004&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494006176503&region=49&sub_region=49&vibid=4494006176503&type=226",
@@ -849,10 +849,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 19,
-      "Путин Владимир Владимирович": 774,
-      "Слуцкий Леонид Эдуардович": 20,
-      "Харитонов Николай Михайлович": 30
+      "gas:candidate-vibid:100100340012031": 19,
+      "gas:candidate-vibid:100100339708711": 774,
+      "gas:candidate-vibid:100100340011882": 20,
+      "gas:candidate-vibid:100100340102692": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000005&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494005171309&region=49&sub_region=49&vibid=4494005171309&type=226",
@@ -892,10 +892,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 17,
-      "Путин Владимир Владимирович": 752,
-      "Слуцкий Леонид Эдуардович": 20,
-      "Харитонов Николай Михайлович": 23
+      "gas:candidate-vibid:100100340012031": 17,
+      "gas:candidate-vibid:100100339708711": 752,
+      "gas:candidate-vibid:100100340011882": 20,
+      "gas:candidate-vibid:100100340102692": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000005&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494005171310&region=49&sub_region=49&vibid=4494005171310&type=226",
@@ -935,10 +935,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 1,
-      "Путин Владимир Владимирович": 80,
-      "Слуцкий Леонид Эдуардович": 1,
-      "Харитонов Николай Михайлович": 4
+      "gas:candidate-vibid:100100340012031": 1,
+      "gas:candidate-vibid:100100339708711": 80,
+      "gas:candidate-vibid:100100340011882": 1,
+      "gas:candidate-vibid:100100340102692": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000005&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494005171311&region=49&sub_region=49&vibid=4494005171311&type=226",
@@ -978,10 +978,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 18,
-      "Путин Владимир Владимирович": 1395,
-      "Слуцкий Леонид Эдуардович": 25,
-      "Харитонов Николай Михайлович": 26
+      "gas:candidate-vibid:100100340012031": 18,
+      "gas:candidate-vibid:100100339708711": 1395,
+      "gas:candidate-vibid:100100340011882": 25,
+      "gas:candidate-vibid:100100340102692": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000006&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494004159977&region=49&sub_region=49&vibid=4494004159977&type=226",
@@ -1021,10 +1021,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 12,
-      "Путин Владимир Владимирович": 630,
-      "Слуцкий Леонид Эдуардович": 15,
-      "Харитонов Николай Михайлович": 9
+      "gas:candidate-vibid:100100340012031": 12,
+      "gas:candidate-vibid:100100339708711": 630,
+      "gas:candidate-vibid:100100340011882": 15,
+      "gas:candidate-vibid:100100340102692": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000006&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494004159978&region=49&sub_region=49&vibid=4494004159978&type=226",
@@ -1064,10 +1064,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 25,
-      "Путин Владимир Владимирович": 625,
-      "Слуцкий Леонид Эдуардович": 21,
-      "Харитонов Николай Михайлович": 29
+      "gas:candidate-vibid:100100340012031": 25,
+      "gas:candidate-vibid:100100339708711": 625,
+      "gas:candidate-vibid:100100340011882": 21,
+      "gas:candidate-vibid:100100340102692": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000006&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494004159979&region=49&sub_region=49&vibid=4494004159979&type=226",
@@ -1107,10 +1107,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 11,
-      "Путин Владимир Владимирович": 1254,
-      "Слуцкий Леонид Эдуардович": 51,
-      "Харитонов Николай Михайлович": 75
+      "gas:candidate-vibid:100100340012031": 11,
+      "gas:candidate-vibid:100100339708711": 1254,
+      "gas:candidate-vibid:100100340011882": 51,
+      "gas:candidate-vibid:100100340102692": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000007&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494003151787&region=49&sub_region=49&vibid=4494003151787&type=226",
@@ -1150,10 +1150,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 6,
-      "Путин Владимир Владимирович": 1014,
-      "Слуцкий Леонид Эдуардович": 55,
-      "Харитонов Николай Михайлович": 74
+      "gas:candidate-vibid:100100340012031": 6,
+      "gas:candidate-vibid:100100339708711": 1014,
+      "gas:candidate-vibid:100100340011882": 55,
+      "gas:candidate-vibid:100100340102692": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000007&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494003151788&region=49&sub_region=49&vibid=4494003151788&type=226",
@@ -1193,10 +1193,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 8,
-      "Путин Владимир Владимирович": 781,
-      "Слуцкий Леонид Эдуардович": 56,
-      "Харитонов Николай Михайлович": 24
+      "gas:candidate-vibid:100100340012031": 8,
+      "gas:candidate-vibid:100100339708711": 781,
+      "gas:candidate-vibid:100100340011882": 56,
+      "gas:candidate-vibid:100100340102692": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000007&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494003151789&region=49&sub_region=49&vibid=4494003151789&type=226",
@@ -1236,10 +1236,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 92,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 3
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 92,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169960&region=49&sub_region=49&vibid=4494002169960&type=226",
@@ -1279,10 +1279,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 46,
-      "Слуцкий Леонид Эдуардович": 0,
-      "Харитонов Николай Михайлович": 0
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 46,
+      "gas:candidate-vibid:100100340011882": 0,
+      "gas:candidate-vibid:100100340102692": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169961&region=49&sub_region=49&vibid=4494002169961&type=226",
@@ -1322,10 +1322,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 13,
-      "Путин Владимир Владимирович": 226,
-      "Слуцкий Леонид Эдуардович": 4,
-      "Харитонов Николай Михайлович": 10
+      "gas:candidate-vibid:100100340012031": 13,
+      "gas:candidate-vibid:100100339708711": 226,
+      "gas:candidate-vibid:100100340011882": 4,
+      "gas:candidate-vibid:100100340102692": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169962&region=49&sub_region=49&vibid=4494002169962&type=226",
@@ -1365,10 +1365,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 6,
-      "Путин Владимир Владимирович": 205,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 6
+      "gas:candidate-vibid:100100340012031": 6,
+      "gas:candidate-vibid:100100339708711": 205,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169963&region=49&sub_region=49&vibid=4494002169963&type=226",
@@ -1408,10 +1408,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 34,
-      "Путин Владимир Владимирович": 597,
-      "Слуцкий Леонид Эдуардович": 37,
-      "Харитонов Николай Михайлович": 38
+      "gas:candidate-vibid:100100340012031": 34,
+      "gas:candidate-vibid:100100339708711": 597,
+      "gas:candidate-vibid:100100340011882": 37,
+      "gas:candidate-vibid:100100340102692": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169964&region=49&sub_region=49&vibid=4494002169964&type=226",
@@ -1451,10 +1451,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 112,
-      "Путин Владимир Владимирович": 1212,
-      "Слуцкий Леонид Эдуардович": 75,
-      "Харитонов Николай Михайлович": 80
+      "gas:candidate-vibid:100100340012031": 112,
+      "gas:candidate-vibid:100100339708711": 1212,
+      "gas:candidate-vibid:100100340011882": 75,
+      "gas:candidate-vibid:100100340102692": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169965&region=49&sub_region=49&vibid=4494002169965&type=226",
@@ -1494,10 +1494,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 31,
-      "Путин Владимир Владимирович": 553,
-      "Слуцкий Леонид Эдуардович": 25,
-      "Харитонов Николай Михайлович": 36
+      "gas:candidate-vibid:100100340012031": 31,
+      "gas:candidate-vibid:100100339708711": 553,
+      "gas:candidate-vibid:100100340011882": 25,
+      "gas:candidate-vibid:100100340102692": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000008&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494002169966&region=49&sub_region=49&vibid=4494002169966&type=226",
@@ -1537,10 +1537,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 105,
-      "Путин Владимир Владимирович": 1316,
-      "Слуцкий Леонид Эдуардович": 59,
-      "Харитонов Николай Михайлович": 84
+      "gas:candidate-vibid:100100340012031": 105,
+      "gas:candidate-vibid:100100339708711": 1316,
+      "gas:candidate-vibid:100100340011882": 59,
+      "gas:candidate-vibid:100100340102692": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927694&region=49&sub_region=49&vibid=44940011927694&type=226",
@@ -1580,10 +1580,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 96,
-      "Путин Владимир Владимирович": 923,
-      "Слуцкий Леонид Эдуардович": 52,
-      "Харитонов Николай Михайлович": 45
+      "gas:candidate-vibid:100100340012031": 96,
+      "gas:candidate-vibid:100100339708711": 923,
+      "gas:candidate-vibid:100100340011882": 52,
+      "gas:candidate-vibid:100100340102692": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927696&region=49&sub_region=49&vibid=44940011927696&type=226",
@@ -1623,10 +1623,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 99,
-      "Путин Владимир Владимирович": 933,
-      "Слуцкий Леонид Эдуардович": 70,
-      "Харитонов Николай Михайлович": 68
+      "gas:candidate-vibid:100100340012031": 99,
+      "gas:candidate-vibid:100100339708711": 933,
+      "gas:candidate-vibid:100100340011882": 70,
+      "gas:candidate-vibid:100100340102692": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927697&region=49&sub_region=49&vibid=44940011927697&type=226",
@@ -1666,10 +1666,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 108,
-      "Путин Владимир Владимирович": 1151,
-      "Слуцкий Леонид Эдуардович": 84,
-      "Харитонов Николай Михайлович": 87
+      "gas:candidate-vibid:100100340012031": 108,
+      "gas:candidate-vibid:100100339708711": 1151,
+      "gas:candidate-vibid:100100340011882": 84,
+      "gas:candidate-vibid:100100340102692": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927698&region=49&sub_region=49&vibid=44940011927698&type=226",
@@ -1709,10 +1709,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 61,
-      "Путин Владимир Владимирович": 759,
-      "Слуцкий Леонид Эдуардович": 36,
-      "Харитонов Николай Михайлович": 39
+      "gas:candidate-vibid:100100340012031": 61,
+      "gas:candidate-vibid:100100339708711": 759,
+      "gas:candidate-vibid:100100340011882": 36,
+      "gas:candidate-vibid:100100340102692": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927699&region=49&sub_region=49&vibid=44940011927699&type=226",
@@ -1752,10 +1752,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 13,
-      "Путин Владимир Владимирович": 232,
-      "Слуцкий Леонид Эдуардович": 11,
-      "Харитонов Николай Михайлович": 13
+      "gas:candidate-vibid:100100340012031": 13,
+      "gas:candidate-vibid:100100339708711": 232,
+      "gas:candidate-vibid:100100340011882": 11,
+      "gas:candidate-vibid:100100340102692": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927700&region=49&sub_region=49&vibid=44940011927700&type=226",
@@ -1795,10 +1795,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 19,
-      "Путин Владимир Владимирович": 313,
-      "Слуцкий Леонид Эдуардович": 13,
-      "Харитонов Николай Михайлович": 17
+      "gas:candidate-vibid:100100340012031": 19,
+      "gas:candidate-vibid:100100339708711": 313,
+      "gas:candidate-vibid:100100340011882": 13,
+      "gas:candidate-vibid:100100340102692": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927701&region=49&sub_region=49&vibid=44940011927701&type=226",
@@ -1838,10 +1838,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 119,
-      "Путин Владимир Владимирович": 1102,
-      "Слуцкий Леонид Эдуардович": 62,
-      "Харитонов Николай Михайлович": 74
+      "gas:candidate-vibid:100100340012031": 119,
+      "gas:candidate-vibid:100100339708711": 1102,
+      "gas:candidate-vibid:100100340011882": 62,
+      "gas:candidate-vibid:100100340102692": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927702&region=49&sub_region=49&vibid=44940011927702&type=226",
@@ -1881,10 +1881,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 94,
-      "Путин Владимир Владимирович": 987,
-      "Слуцкий Леонид Эдуардович": 73,
-      "Харитонов Николай Михайлович": 40
+      "gas:candidate-vibid:100100340012031": 94,
+      "gas:candidate-vibid:100100339708711": 987,
+      "gas:candidate-vibid:100100340011882": 73,
+      "gas:candidate-vibid:100100340102692": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927703&region=49&sub_region=49&vibid=44940011927703&type=226",
@@ -1924,10 +1924,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 104,
-      "Путин Владимир Владимирович": 1062,
-      "Слуцкий Леонид Эдуардович": 64,
-      "Харитонов Николай Михайлович": 49
+      "gas:candidate-vibid:100100340012031": 104,
+      "gas:candidate-vibid:100100339708711": 1062,
+      "gas:candidate-vibid:100100340011882": 64,
+      "gas:candidate-vibid:100100340102692": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927704&region=49&sub_region=49&vibid=44940011927704&type=226",
@@ -1967,10 +1967,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 156,
-      "Путин Владимир Владимирович": 1567,
-      "Слуцкий Леонид Эдуардович": 79,
-      "Харитонов Николай Михайлович": 113
+      "gas:candidate-vibid:100100340012031": 156,
+      "gas:candidate-vibid:100100339708711": 1567,
+      "gas:candidate-vibid:100100340011882": 79,
+      "gas:candidate-vibid:100100340102692": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927705&region=49&sub_region=49&vibid=44940011927705&type=226",
@@ -2010,10 +2010,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 96,
-      "Путин Владимир Владимирович": 966,
-      "Слуцкий Леонид Эдуардович": 51,
-      "Харитонов Николай Михайлович": 46
+      "gas:candidate-vibid:100100340012031": 96,
+      "gas:candidate-vibid:100100339708711": 966,
+      "gas:candidate-vibid:100100340011882": 51,
+      "gas:candidate-vibid:100100340102692": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927706&region=49&sub_region=49&vibid=44940011927706&type=226",
@@ -2053,10 +2053,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 123,
-      "Путин Владимир Владимирович": 1271,
-      "Слуцкий Леонид Эдуардович": 65,
-      "Харитонов Николай Михайлович": 76
+      "gas:candidate-vibid:100100340012031": 123,
+      "gas:candidate-vibid:100100339708711": 1271,
+      "gas:candidate-vibid:100100340011882": 65,
+      "gas:candidate-vibid:100100340102692": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927707&region=49&sub_region=49&vibid=44940011927707&type=226",
@@ -2096,10 +2096,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 84,
-      "Путин Владимир Владимирович": 974,
-      "Слуцкий Леонид Эдуардович": 56,
-      "Харитонов Николай Михайлович": 73
+      "gas:candidate-vibid:100100340012031": 84,
+      "gas:candidate-vibid:100100339708711": 974,
+      "gas:candidate-vibid:100100340011882": 56,
+      "gas:candidate-vibid:100100340102692": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927708&region=49&sub_region=49&vibid=44940011927708&type=226",
@@ -2139,10 +2139,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 65,
-      "Путин Владимир Владимирович": 808,
-      "Слуцкий Леонид Эдуардович": 46,
-      "Харитонов Николай Михайлович": 39
+      "gas:candidate-vibid:100100340012031": 65,
+      "gas:candidate-vibid:100100339708711": 808,
+      "gas:candidate-vibid:100100340011882": 46,
+      "gas:candidate-vibid:100100340102692": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927709&region=49&sub_region=49&vibid=44940011927709&type=226",
@@ -2182,10 +2182,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 125,
-      "Путин Владимир Владимирович": 1344,
-      "Слуцкий Леонид Эдуардович": 71,
-      "Харитонов Николай Михайлович": 73
+      "gas:candidate-vibid:100100340012031": 125,
+      "gas:candidate-vibid:100100339708711": 1344,
+      "gas:candidate-vibid:100100340011882": 71,
+      "gas:candidate-vibid:100100340102692": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927710&region=49&sub_region=49&vibid=44940011927710&type=226",
@@ -2225,10 +2225,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 79,
-      "Путин Владимир Владимирович": 798,
-      "Слуцкий Леонид Эдуардович": 58,
-      "Харитонов Николай Михайлович": 47
+      "gas:candidate-vibid:100100340012031": 79,
+      "gas:candidate-vibid:100100339708711": 798,
+      "gas:candidate-vibid:100100340011882": 58,
+      "gas:candidate-vibid:100100340102692": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927711&region=49&sub_region=49&vibid=44940011927711&type=226",
@@ -2268,10 +2268,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 90,
-      "Путин Владимир Владимирович": 902,
-      "Слуцкий Леонид Эдуардович": 48,
-      "Харитонов Николай Михайлович": 50
+      "gas:candidate-vibid:100100340012031": 90,
+      "gas:candidate-vibid:100100339708711": 902,
+      "gas:candidate-vibid:100100340011882": 48,
+      "gas:candidate-vibid:100100340102692": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927712&region=49&sub_region=49&vibid=44940011927712&type=226",
@@ -2311,10 +2311,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 79,
-      "Путин Владимир Владимирович": 1111,
-      "Слуцкий Леонид Эдуардович": 65,
-      "Харитонов Николай Михайлович": 60
+      "gas:candidate-vibid:100100340012031": 79,
+      "gas:candidate-vibid:100100339708711": 1111,
+      "gas:candidate-vibid:100100340011882": 65,
+      "gas:candidate-vibid:100100340102692": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927713&region=49&sub_region=49&vibid=44940011927713&type=226",
@@ -2354,10 +2354,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 91,
-      "Путин Владимир Владимирович": 1099,
-      "Слуцкий Леонид Эдуардович": 58,
-      "Харитонов Николай Михайлович": 97
+      "gas:candidate-vibid:100100340012031": 91,
+      "gas:candidate-vibid:100100339708711": 1099,
+      "gas:candidate-vibid:100100340011882": 58,
+      "gas:candidate-vibid:100100340102692": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927714&region=49&sub_region=49&vibid=44940011927714&type=226",
@@ -2397,10 +2397,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 65,
-      "Путин Владимир Владимирович": 672,
-      "Слуцкий Леонид Эдуардович": 48,
-      "Харитонов Николай Михайлович": 50
+      "gas:candidate-vibid:100100340012031": 65,
+      "gas:candidate-vibid:100100339708711": 672,
+      "gas:candidate-vibid:100100340011882": 48,
+      "gas:candidate-vibid:100100340102692": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927715&region=49&sub_region=49&vibid=44940011927715&type=226",
@@ -2440,10 +2440,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 52,
-      "Путин Владимир Владимирович": 632,
-      "Слуцкий Леонид Эдуардович": 33,
-      "Харитонов Николай Михайлович": 37
+      "gas:candidate-vibid:100100340012031": 52,
+      "gas:candidate-vibid:100100339708711": 632,
+      "gas:candidate-vibid:100100340011882": 33,
+      "gas:candidate-vibid:100100340102692": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927716&region=49&sub_region=49&vibid=44940011927716&type=226",
@@ -2483,10 +2483,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 43,
-      "Путин Владимир Владимирович": 665,
-      "Слуцкий Леонид Эдуардович": 28,
-      "Харитонов Николай Михайлович": 36
+      "gas:candidate-vibid:100100340012031": 43,
+      "gas:candidate-vibid:100100339708711": 665,
+      "gas:candidate-vibid:100100340011882": 28,
+      "gas:candidate-vibid:100100340102692": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927717&region=49&sub_region=49&vibid=44940011927717&type=226",
@@ -2526,10 +2526,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 60,
-      "Путин Владимир Владимирович": 941,
-      "Слуцкий Леонид Эдуардович": 43,
-      "Харитонов Николай Михайлович": 56
+      "gas:candidate-vibid:100100340012031": 60,
+      "gas:candidate-vibid:100100339708711": 941,
+      "gas:candidate-vibid:100100340011882": 43,
+      "gas:candidate-vibid:100100340102692": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927718&region=49&sub_region=49&vibid=44940011927718&type=226",
@@ -2569,10 +2569,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 65,
-      "Путин Владимир Владимирович": 1033,
-      "Слуцкий Леонид Эдуардович": 58,
-      "Харитонов Николай Михайлович": 48
+      "gas:candidate-vibid:100100340012031": 65,
+      "gas:candidate-vibid:100100339708711": 1033,
+      "gas:candidate-vibid:100100340011882": 58,
+      "gas:candidate-vibid:100100340102692": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927719&region=49&sub_region=49&vibid=44940011927719&type=226",
@@ -2612,10 +2612,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 13,
-      "Путин Владимир Владимирович": 224,
-      "Слуцкий Леонид Эдуардович": 10,
-      "Харитонов Николай Михайлович": 11
+      "gas:candidate-vibid:100100340012031": 13,
+      "gas:candidate-vibid:100100339708711": 224,
+      "gas:candidate-vibid:100100340011882": 10,
+      "gas:candidate-vibid:100100340102692": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927720&region=49&sub_region=49&vibid=44940011927720&type=226",
@@ -2655,10 +2655,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 53,
-      "Путин Владимир Владимирович": 915,
-      "Слуцкий Леонид Эдуардович": 50,
-      "Харитонов Николай Михайлович": 65
+      "gas:candidate-vibid:100100340012031": 53,
+      "gas:candidate-vibid:100100339708711": 915,
+      "gas:candidate-vibid:100100340011882": 50,
+      "gas:candidate-vibid:100100340102692": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927721&region=49&sub_region=49&vibid=44940011927721&type=226",
@@ -2698,10 +2698,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 45,
-      "Путин Владимир Владимирович": 559,
-      "Слуцкий Леонид Эдуардович": 27,
-      "Харитонов Николай Михайлович": 50
+      "gas:candidate-vibid:100100340012031": 45,
+      "gas:candidate-vibid:100100339708711": 559,
+      "gas:candidate-vibid:100100340011882": 27,
+      "gas:candidate-vibid:100100340102692": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927722&region=49&sub_region=49&vibid=44940011927722&type=226",
@@ -2741,10 +2741,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 110,
-      "Путин Владимир Владимирович": 1312,
-      "Слуцкий Леонид Эдуардович": 71,
-      "Харитонов Николай Михайлович": 69
+      "gas:candidate-vibid:100100340012031": 110,
+      "gas:candidate-vibid:100100339708711": 1312,
+      "gas:candidate-vibid:100100340011882": 71,
+      "gas:candidate-vibid:100100340102692": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927723&region=49&sub_region=49&vibid=44940011927723&type=226",
@@ -2784,10 +2784,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 57,
-      "Путин Владимир Владимирович": 935,
-      "Слуцкий Леонид Эдуардович": 40,
-      "Харитонов Николай Михайлович": 53
+      "gas:candidate-vibid:100100340012031": 57,
+      "gas:candidate-vibid:100100339708711": 935,
+      "gas:candidate-vibid:100100340011882": 40,
+      "gas:candidate-vibid:100100340102692": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927724&region=49&sub_region=49&vibid=44940011927724&type=226",
@@ -2827,10 +2827,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 36,
-      "Путин Владимир Владимирович": 479,
-      "Слуцкий Леонид Эдуардович": 23,
-      "Харитонов Николай Михайлович": 32
+      "gas:candidate-vibid:100100340012031": 36,
+      "gas:candidate-vibid:100100339708711": 479,
+      "gas:candidate-vibid:100100340011882": 23,
+      "gas:candidate-vibid:100100340102692": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927725&region=49&sub_region=49&vibid=44940011927725&type=226",
@@ -2870,10 +2870,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 12,
-      "Путин Владимир Владимирович": 315,
-      "Слуцкий Леонид Эдуардович": 26,
-      "Харитонов Николай Михайлович": 15
+      "gas:candidate-vibid:100100340012031": 12,
+      "gas:candidate-vibid:100100339708711": 315,
+      "gas:candidate-vibid:100100340011882": 26,
+      "gas:candidate-vibid:100100340102692": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927726&region=49&sub_region=49&vibid=44940011927726&type=226",
@@ -2913,10 +2913,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 13,
-      "Путин Владимир Владимирович": 428,
-      "Слуцкий Леонид Эдуардович": 12,
-      "Харитонов Николай Михайлович": 38
+      "gas:candidate-vibid:100100340012031": 13,
+      "gas:candidate-vibid:100100339708711": 428,
+      "gas:candidate-vibid:100100340011882": 12,
+      "gas:candidate-vibid:100100340102692": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927727&region=49&sub_region=49&vibid=44940011927727&type=226",
@@ -2956,10 +2956,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 7,
-      "Путин Владимир Владимирович": 167,
-      "Слуцкий Леонид Эдуардович": 12,
-      "Харитонов Николай Михайлович": 16
+      "gas:candidate-vibid:100100340012031": 7,
+      "gas:candidate-vibid:100100339708711": 167,
+      "gas:candidate-vibid:100100340011882": 12,
+      "gas:candidate-vibid:100100340102692": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927728&region=49&sub_region=49&vibid=44940011927728&type=226",
@@ -2999,10 +2999,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 23,
-      "Путин Владимир Владимирович": 462,
-      "Слуцкий Леонид Эдуардович": 28,
-      "Харитонов Николай Михайлович": 22
+      "gas:candidate-vibid:100100340012031": 23,
+      "gas:candidate-vibid:100100339708711": 462,
+      "gas:candidate-vibid:100100340011882": 28,
+      "gas:candidate-vibid:100100340102692": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927729&region=49&sub_region=49&vibid=44940011927729&type=226",
@@ -3042,10 +3042,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 39,
-      "Путин Владимир Владимирович": 648,
-      "Слуцкий Леонид Эдуардович": 23,
-      "Харитонов Николай Михайлович": 34
+      "gas:candidate-vibid:100100340012031": 39,
+      "gas:candidate-vibid:100100339708711": 648,
+      "gas:candidate-vibid:100100340011882": 23,
+      "gas:candidate-vibid:100100340102692": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927730&region=49&sub_region=49&vibid=44940011927730&type=226",
@@ -3085,10 +3085,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 53,
-      "Путин Владимир Владимирович": 757,
-      "Слуцкий Леонид Эдуардович": 44,
-      "Харитонов Николай Михайлович": 58
+      "gas:candidate-vibid:100100340012031": 53,
+      "gas:candidate-vibid:100100339708711": 757,
+      "gas:candidate-vibid:100100340011882": 44,
+      "gas:candidate-vibid:100100340102692": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927731&region=49&sub_region=49&vibid=44940011927731&type=226",
@@ -3128,10 +3128,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 2,
-      "Путин Владимир Владимирович": 162,
-      "Слуцкий Леонид Эдуардович": 5,
-      "Харитонов Николай Михайлович": 3
+      "gas:candidate-vibid:100100340012031": 2,
+      "gas:candidate-vibid:100100339708711": 162,
+      "gas:candidate-vibid:100100340011882": 5,
+      "gas:candidate-vibid:100100340102692": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927732&region=49&sub_region=49&vibid=44940011927732&type=226",
@@ -3171,10 +3171,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 35,
-      "Путин Владимир Владимирович": 611,
-      "Слуцкий Леонид Эдуардович": 37,
-      "Харитонов Николай Михайлович": 37
+      "gas:candidate-vibid:100100340012031": 35,
+      "gas:candidate-vibid:100100339708711": 611,
+      "gas:candidate-vibid:100100340011882": 37,
+      "gas:candidate-vibid:100100340102692": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927733&region=49&sub_region=49&vibid=44940011927733&type=226",
@@ -3214,10 +3214,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 48,
-      "Путин Владимир Владимирович": 502,
-      "Слуцкий Леонид Эдуардович": 27,
-      "Харитонов Николай Михайлович": 29
+      "gas:candidate-vibid:100100340012031": 48,
+      "gas:candidate-vibid:100100339708711": 502,
+      "gas:candidate-vibid:100100340011882": 27,
+      "gas:candidate-vibid:100100340102692": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927734&region=49&sub_region=49&vibid=44940011927734&type=226",
@@ -3257,10 +3257,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 48,
-      "Путин Владимир Владимирович": 589,
-      "Слуцкий Леонид Эдуардович": 33,
-      "Харитонов Николай Михайлович": 25
+      "gas:candidate-vibid:100100340012031": 48,
+      "gas:candidate-vibid:100100339708711": 589,
+      "gas:candidate-vibid:100100340011882": 33,
+      "gas:candidate-vibid:100100340102692": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927735&region=49&sub_region=49&vibid=44940011927735&type=226",
@@ -3300,10 +3300,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 43,
-      "Путин Владимир Владимирович": 573,
-      "Слуцкий Леонид Эдуардович": 31,
-      "Харитонов Николай Михайлович": 37
+      "gas:candidate-vibid:100100340012031": 43,
+      "gas:candidate-vibid:100100339708711": 573,
+      "gas:candidate-vibid:100100340011882": 31,
+      "gas:candidate-vibid:100100340102692": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927736&region=49&sub_region=49&vibid=44940011927736&type=226",
@@ -3343,10 +3343,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 75,
-      "Путин Владимир Владимирович": 709,
-      "Слуцкий Леонид Эдуардович": 48,
-      "Харитонов Николай Михайлович": 34
+      "gas:candidate-vibid:100100340012031": 75,
+      "gas:candidate-vibid:100100339708711": 709,
+      "gas:candidate-vibid:100100340011882": 48,
+      "gas:candidate-vibid:100100340102692": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011927737&region=49&sub_region=49&vibid=44940011927737&type=226",
@@ -3386,10 +3386,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 11,
-      "Путин Владимир Владимирович": 354,
-      "Слуцкий Леонид Эдуардович": 13,
-      "Харитонов Николай Михайлович": 14
+      "gas:candidate-vibid:100100340012031": 11,
+      "gas:candidate-vibid:100100339708711": 354,
+      "gas:candidate-vibid:100100340011882": 13,
+      "gas:candidate-vibid:100100340102692": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960134&region=49&sub_region=49&vibid=44940011960134&type=226",
@@ -3429,10 +3429,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 13,
-      "Путин Владимир Владимирович": 71,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 4
+      "gas:candidate-vibid:100100340012031": 13,
+      "gas:candidate-vibid:100100339708711": 71,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960137&region=49&sub_region=49&vibid=44940011960137&type=226",
@@ -3472,10 +3472,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 3,
-      "Путин Владимир Владимирович": 85,
-      "Слуцкий Леонид Эдуардович": 4,
-      "Харитонов Николай Михайлович": 6
+      "gas:candidate-vibid:100100340012031": 3,
+      "gas:candidate-vibid:100100339708711": 85,
+      "gas:candidate-vibid:100100340011882": 4,
+      "gas:candidate-vibid:100100340102692": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960146&region=49&sub_region=49&vibid=44940011960146&type=226",
@@ -3515,10 +3515,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 2,
-      "Путин Владимир Владимирович": 57,
-      "Слуцкий Леонид Эдуардович": 2,
-      "Харитонов Николай Михайлович": 1
+      "gas:candidate-vibid:100100340012031": 2,
+      "gas:candidate-vibid:100100339708711": 57,
+      "gas:candidate-vibid:100100340011882": 2,
+      "gas:candidate-vibid:100100340102692": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960147&region=49&sub_region=49&vibid=44940011960147&type=226",
@@ -3558,10 +3558,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 1,
-      "Путин Владимир Владимирович": 22,
-      "Слуцкий Леонид Эдуардович": 0,
-      "Харитонов Николай Михайлович": 0
+      "gas:candidate-vibid:100100340012031": 1,
+      "gas:candidate-vibid:100100339708711": 22,
+      "gas:candidate-vibid:100100340011882": 0,
+      "gas:candidate-vibid:100100340102692": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960148&region=49&sub_region=49&vibid=44940011960148&type=226",
@@ -3601,10 +3601,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 19,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 1
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 19,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960149&region=49&sub_region=49&vibid=44940011960149&type=226",
@@ -3644,10 +3644,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 1,
-      "Путин Владимир Владимирович": 26,
-      "Слуцкий Леонид Эдуардович": 1,
-      "Харитонов Николай Михайлович": 2
+      "gas:candidate-vibid:100100340012031": 1,
+      "gas:candidate-vibid:100100339708711": 26,
+      "gas:candidate-vibid:100100340011882": 1,
+      "gas:candidate-vibid:100100340102692": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960150&region=49&sub_region=49&vibid=44940011960150&type=226",
@@ -3687,10 +3687,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 19,
-      "Слуцкий Леонид Эдуардович": 2,
-      "Харитонов Николай Михайлович": 2
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 19,
+      "gas:candidate-vibid:100100340011882": 2,
+      "gas:candidate-vibid:100100340102692": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960151&region=49&sub_region=49&vibid=44940011960151&type=226",
@@ -3730,10 +3730,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 2,
-      "Путин Владимир Владимирович": 19,
-      "Слуцкий Леонид Эдуардович": 1,
-      "Харитонов Николай Михайлович": 1
+      "gas:candidate-vibid:100100340012031": 2,
+      "gas:candidate-vibid:100100339708711": 19,
+      "gas:candidate-vibid:100100340011882": 1,
+      "gas:candidate-vibid:100100340102692": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960152&region=49&sub_region=49&vibid=44940011960152&type=226",
@@ -3773,10 +3773,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 0,
-      "Путин Владимир Владимирович": 19,
-      "Слуцкий Леонид Эдуардович": 0,
-      "Харитонов Николай Михайлович": 0
+      "gas:candidate-vibid:100100340012031": 0,
+      "gas:candidate-vibid:100100339708711": 19,
+      "gas:candidate-vibid:100100340011882": 0,
+      "gas:candidate-vibid:100100340102692": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960153&region=49&sub_region=49&vibid=44940011960153&type=226",
@@ -3816,10 +3816,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 1,
-      "Путин Владимир Владимирович": 20,
-      "Слуцкий Леонид Эдуардович": 0,
-      "Харитонов Николай Михайлович": 2
+      "gas:candidate-vibid:100100340012031": 1,
+      "gas:candidate-vibid:100100339708711": 20,
+      "gas:candidate-vibid:100100340011882": 0,
+      "gas:candidate-vibid:100100340102692": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960154&region=49&sub_region=49&vibid=44940011960154&type=226",
@@ -3859,10 +3859,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 3,
-      "Путин Владимир Владимирович": 41,
-      "Слуцкий Леонид Эдуардович": 5,
-      "Харитонов Николай Михайлович": 7
+      "gas:candidate-vibid:100100340012031": 3,
+      "gas:candidate-vibid:100100339708711": 41,
+      "gas:candidate-vibid:100100340011882": 5,
+      "gas:candidate-vibid:100100340102692": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960155&region=49&sub_region=49&vibid=44940011960155&type=226",
@@ -3902,10 +3902,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 1,
-      "Путин Владимир Владимирович": 19,
-      "Слуцкий Леонид Эдуардович": 3,
-      "Харитонов Николай Михайлович": 1
+      "gas:candidate-vibid:100100340012031": 1,
+      "gas:candidate-vibid:100100339708711": 19,
+      "gas:candidate-vibid:100100340011882": 3,
+      "gas:candidate-vibid:100100340102692": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960156&region=49&sub_region=49&vibid=44940011960156&type=226",
@@ -3945,10 +3945,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 3,
-      "Путин Владимир Владимирович": 34,
-      "Слуцкий Леонид Эдуардович": 2,
-      "Харитонов Николай Михайлович": 1
+      "gas:candidate-vibid:100100340012031": 3,
+      "gas:candidate-vibid:100100339708711": 34,
+      "gas:candidate-vibid:100100340011882": 2,
+      "gas:candidate-vibid:100100340102692": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000009&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=44940011960158&region=49&sub_region=49&vibid=44940011960158&type=226",
@@ -3988,10 +3988,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 1,
-      "Путин Владимир Владимирович": 95,
-      "Слуцкий Леонид Эдуардович": 0,
-      "Харитонов Николай Михайлович": 1
+      "gas:candidate-vibid:100100340012031": 1,
+      "gas:candidate-vibid:100100339708711": 95,
+      "gas:candidate-vibid:100100340011882": 0,
+      "gas:candidate-vibid:100100340102692": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000010&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494009191616&region=49&sub_region=49&vibid=4494009191616&type=226",
@@ -4031,10 +4031,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 30,
-      "Путин Владимир Владимирович": 987,
-      "Слуцкий Леонид Эдуардович": 29,
-      "Харитонов Николай Михайлович": 38
+      "gas:candidate-vibid:100100340012031": 30,
+      "gas:candidate-vibid:100100339708711": 987,
+      "gas:candidate-vibid:100100340011882": 29,
+      "gas:candidate-vibid:100100340102692": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000010&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494009191617&region=49&sub_region=49&vibid=4494009191617&type=226",
@@ -4074,10 +4074,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 35,
-      "Путин Владимир Владимирович": 1281,
-      "Слуцкий Леонид Эдуардович": 29,
-      "Харитонов Николай Михайлович": 35
+      "gas:candidate-vibid:100100340012031": 35,
+      "gas:candidate-vibid:100100339708711": 1281,
+      "gas:candidate-vibid:100100340011882": 29,
+      "gas:candidate-vibid:100100340102692": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000010&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494009191618&region=49&sub_region=49&vibid=4494009191618&type=226",
@@ -4117,10 +4117,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 13,
-      "Путин Владимир Владимирович": 394,
-      "Слуцкий Леонид Эдуардович": 19,
-      "Харитонов Николай Михайлович": 11
+      "gas:candidate-vibid:100100340012031": 13,
+      "gas:candidate-vibid:100100339708711": 394,
+      "gas:candidate-vibid:100100340011882": 19,
+      "gas:candidate-vibid:100100340102692": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000010&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494009191619&region=49&sub_region=49&vibid=4494009191619&type=226",
@@ -4160,10 +4160,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 50,
-      "Путин Владимир Владимирович": 1043,
-      "Слуцкий Леонид Эдуардович": 56,
-      "Харитонов Николай Михайлович": 41
+      "gas:candidate-vibid:100100340012031": 50,
+      "gas:candidate-vibid:100100339708711": 1043,
+      "gas:candidate-vibid:100100340011882": 56,
+      "gas:candidate-vibid:100100340102692": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000010&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494009191620&region=49&sub_region=49&vibid=4494009191620&type=226",
@@ -4203,10 +4203,10 @@ export const president_2024_uik_226_region_49_part_001 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Даванков Владислав Андреевич": 14,
-      "Путин Владимир Владимирович": 518,
-      "Слуцкий Леонид Эдуардович": 13,
-      "Харитонов Николай Михайлович": 19
+      "gas:candidate-vibid:100100340012031": 14,
+      "gas:candidate-vibid:100100339708711": 518,
+      "gas:candidate-vibid:100100340011882": 13,
+      "gas:candidate-vibid:100100340102692": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=492000010&vrn=100100339410030&global=true&prver=0&pronetvd=null&tvd=4494009191621&region=49&sub_region=49&vibid=4494009191621&type=226",

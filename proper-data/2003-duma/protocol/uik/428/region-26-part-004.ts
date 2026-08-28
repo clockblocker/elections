@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 45,
-      "Воронин Павел Юрьевич": 163,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 41,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121825": 45,
+      "gas:candidate-vibid:326300370808": 163,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 41,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 4,
-      "Воронин Павел Юрьевич": 29,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 18,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121825": 4,
+      "gas:candidate-vibid:326300370808": 29,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 18,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 9,
-      "Воронин Павел Юрьевич": 62,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 61,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 9,
+      "gas:candidate-vibid:326300370808": 62,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 61,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 8,
-      "Воронин Павел Юрьевич": 65,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 24,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121825": 8,
+      "gas:candidate-vibid:326300370808": 65,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 24,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 55,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 42,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 55,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 42,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 19,
-      "Воронин Павел Юрьевич": 41,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 65,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 19,
+      "gas:candidate-vibid:326300370808": 41,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 65,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 71,
-      "Воронин Павел Юрьевич": 535,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 344,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 35,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121825": 71,
+      "gas:candidate-vibid:326300370808": 535,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 344,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 35,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 49,
-      "Воронин Павел Юрьевич": 287,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 221,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 30,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121825": 49,
+      "gas:candidate-vibid:326300370808": 287,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 221,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 30,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 10,
-      "Воронин Павел Юрьевич": 52,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 17,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121825": 10,
+      "gas:candidate-vibid:326300370808": 52,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 17,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 30,
-      "Воронин Павел Юрьевич": 258,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 104,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121825": 30,
+      "gas:candidate-vibid:326300370808": 258,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 104,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 182,
-      "Воронин Павел Юрьевич": 553,
-      "Зубенко Виталий Григорьевич": 20,
-      "Куликов Анатолий Сергеевич": 279,
-      "Хлынов Михаил Иванович": 53,
-      "Хука Валерий Владимирович": 39,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121825": 182,
+      "gas:candidate-vibid:326300370808": 553,
+      "gas:candidate-vibid:1001000112199": 20,
+      "gas:candidate-vibid:1001000225923": 279,
+      "gas:candidate-vibid:1001000136030": 53,
+      "gas:candidate-vibid:1001000217909": 39,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 51,
-      "Воронин Павел Юрьевич": 211,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 40,
-      "Хлынов Михаил Иванович": 8,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121825": 51,
+      "gas:candidate-vibid:326300370808": 211,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 40,
+      "gas:candidate-vibid:1001000136030": 8,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 36,
-      "Воронин Павел Юрьевич": 173,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 160,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121825": 36,
+      "gas:candidate-vibid:326300370808": 173,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 160,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 44,
-      "Воронин Павел Юрьевич": 87,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 72,
-      "Хлынов Михаил Иванович": 20,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 44,
+      "gas:candidate-vibid:326300370808": 87,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 72,
+      "gas:candidate-vibid:1001000136030": 20,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 27,
-      "Воронин Павел Юрьевич": 34,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 33,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121825": 27,
+      "gas:candidate-vibid:326300370808": 34,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 33,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 13,
-      "Воронин Павел Юрьевич": 29,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 72,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121825": 13,
+      "gas:candidate-vibid:326300370808": 29,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 72,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 51,
-      "Воронин Павел Юрьевич": 224,
-      "Зубенко Виталий Григорьевич": 19,
-      "Куликов Анатолий Сергеевич": 256,
-      "Хлынов Михаил Иванович": 18,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121825": 51,
+      "gas:candidate-vibid:326300370808": 224,
+      "gas:candidate-vibid:1001000112199": 19,
+      "gas:candidate-vibid:1001000225923": 256,
+      "gas:candidate-vibid:1001000136030": 18,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 135,
-      "Воронин Павел Юрьевич": 505,
-      "Зубенко Виталий Григорьевич": 69,
-      "Куликов Анатолий Сергеевич": 478,
-      "Хлынов Михаил Иванович": 57,
-      "Хука Валерий Владимирович": 31,
-      "Шарков Виктор Федорович": 20,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121825": 135,
+      "gas:candidate-vibid:326300370808": 505,
+      "gas:candidate-vibid:1001000112199": 69,
+      "gas:candidate-vibid:1001000225923": 478,
+      "gas:candidate-vibid:1001000136030": 57,
+      "gas:candidate-vibid:1001000217909": 31,
+      "gas:candidate-vibid:1001000250444": 20,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 138,
-      "Воронин Павел Юрьевич": 373,
-      "Зубенко Виталий Григорьевич": 63,
-      "Куликов Анатолий Сергеевич": 276,
-      "Хлынов Михаил Иванович": 43,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121825": 138,
+      "gas:candidate-vibid:326300370808": 373,
+      "gas:candidate-vibid:1001000112199": 63,
+      "gas:candidate-vibid:1001000225923": 276,
+      "gas:candidate-vibid:1001000136030": 43,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 232,
-      "Воронин Павел Юрьевич": 502,
-      "Зубенко Виталий Григорьевич": 55,
-      "Куликов Анатолий Сергеевич": 260,
-      "Хлынов Михаил Иванович": 69,
-      "Хука Валерий Владимирович": 39,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121825": 232,
+      "gas:candidate-vibid:326300370808": 502,
+      "gas:candidate-vibid:1001000112199": 55,
+      "gas:candidate-vibid:1001000225923": 260,
+      "gas:candidate-vibid:1001000136030": 69,
+      "gas:candidate-vibid:1001000217909": 39,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 57,
-      "Воронин Павел Юрьевич": 192,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 94,
-      "Хлынов Михаил Иванович": 20,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121825": 57,
+      "gas:candidate-vibid:326300370808": 192,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 94,
+      "gas:candidate-vibid:1001000136030": 20,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 196,
-      "Воронин Павел Юрьевич": 349,
-      "Зубенко Виталий Григорьевич": 62,
-      "Куликов Анатолий Сергеевич": 294,
-      "Хлынов Михаил Иванович": 51,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121825": 196,
+      "gas:candidate-vibid:326300370808": 349,
+      "gas:candidate-vibid:1001000112199": 62,
+      "gas:candidate-vibid:1001000225923": 294,
+      "gas:candidate-vibid:1001000136030": 51,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 81,
-      "Воронин Павел Юрьевич": 398,
-      "Зубенко Виталий Григорьевич": 63,
-      "Куликов Анатолий Сергеевич": 298,
-      "Хлынов Михаил Иванович": 32,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000121825": 81,
+      "gas:candidate-vibid:326300370808": 398,
+      "gas:candidate-vibid:1001000112199": 63,
+      "gas:candidate-vibid:1001000225923": 298,
+      "gas:candidate-vibid:1001000136030": 32,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 130,
-      "Воронин Павел Юрьевич": 435,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 243,
-      "Хлынов Михаил Иванович": 44,
-      "Хука Валерий Владимирович": 67,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121825": 130,
+      "gas:candidate-vibid:326300370808": 435,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 243,
+      "gas:candidate-vibid:1001000136030": 44,
+      "gas:candidate-vibid:1001000217909": 67,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 40,
-      "Воронин Павел Юрьевич": 228,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 203,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121825": 40,
+      "gas:candidate-vibid:326300370808": 228,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 203,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 85,
-      "Воронин Павел Юрьевич": 376,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 134,
-      "Хлынов Михаил Иванович": 27,
-      "Хука Валерий Владимирович": 52,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121825": 85,
+      "gas:candidate-vibid:326300370808": 376,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 134,
+      "gas:candidate-vibid:1001000136030": 27,
+      "gas:candidate-vibid:1001000217909": 52,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 151,
-      "Воронин Павел Юрьевич": 324,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 234,
-      "Хлынов Михаил Иванович": 45,
-      "Хука Валерий Владимирович": 27,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121825": 151,
+      "gas:candidate-vibid:326300370808": 324,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 234,
+      "gas:candidate-vibid:1001000136030": 45,
+      "gas:candidate-vibid:1001000217909": 27,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 84,
-      "Воронин Павел Юрьевич": 213,
-      "Зубенко Виталий Григорьевич": 55,
-      "Куликов Анатолий Сергеевич": 213,
-      "Хлынов Михаил Иванович": 34,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121825": 84,
+      "gas:candidate-vibid:326300370808": 213,
+      "gas:candidate-vibid:1001000112199": 55,
+      "gas:candidate-vibid:1001000225923": 213,
+      "gas:candidate-vibid:1001000136030": 34,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 105,
-      "Воронин Павел Юрьевич": 267,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 219,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 40,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121825": 105,
+      "gas:candidate-vibid:326300370808": 267,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 219,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 40,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 232,
-      "Воронин Павел Юрьевич": 547,
-      "Зубенко Виталий Григорьевич": 60,
-      "Куликов Анатолий Сергеевич": 383,
-      "Хлынов Михаил Иванович": 93,
-      "Хука Валерий Владимирович": 37,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121825": 232,
+      "gas:candidate-vibid:326300370808": 547,
+      "gas:candidate-vibid:1001000112199": 60,
+      "gas:candidate-vibid:1001000225923": 383,
+      "gas:candidate-vibid:1001000136030": 93,
+      "gas:candidate-vibid:1001000217909": 37,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 102,
-      "Воронин Павел Юрьевич": 228,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 129,
-      "Хлынов Михаил Иванович": 22,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121825": 102,
+      "gas:candidate-vibid:326300370808": 228,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 129,
+      "gas:candidate-vibid:1001000136030": 22,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 122,
-      "Воронин Павел Юрьевич": 304,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 106,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 33,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121825": 122,
+      "gas:candidate-vibid:326300370808": 304,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 106,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 33,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 74,
-      "Воронин Павел Юрьевич": 148,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 221,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121825": 74,
+      "gas:candidate-vibid:326300370808": 148,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 221,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 119,
-      "Воронин Павел Юрьевич": 290,
-      "Зубенко Виталий Григорьевич": 22,
-      "Куликов Анатолий Сергеевич": 192,
-      "Хлынов Михаил Иванович": 72,
-      "Хука Валерий Владимирович": 610,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121825": 119,
+      "gas:candidate-vibid:326300370808": 290,
+      "gas:candidate-vibid:1001000112199": 22,
+      "gas:candidate-vibid:1001000225923": 192,
+      "gas:candidate-vibid:1001000136030": 72,
+      "gas:candidate-vibid:1001000217909": 610,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 82,
-      "Воронин Павел Юрьевич": 214,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 459,
-      "Хлынов Михаил Иванович": 65,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 26,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121825": 82,
+      "gas:candidate-vibid:326300370808": 214,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 459,
+      "gas:candidate-vibid:1001000136030": 65,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 26,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 18,
-      "Воронин Павел Юрьевич": 23,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 132,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 18,
+      "gas:candidate-vibid:326300370808": 23,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 132,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370417&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 121,
-      "Воронин Павел Юрьевич": 249,
-      "Зубенко Виталий Григорьевич": 36,
-      "Куликов Анатолий Сергеевич": 306,
-      "Хлынов Михаил Иванович": 91,
-      "Хука Валерий Владимирович": 35,
-      "Шарков Виктор Федорович": 16,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121825": 121,
+      "gas:candidate-vibid:326300370808": 249,
+      "gas:candidate-vibid:1001000112199": 36,
+      "gas:candidate-vibid:1001000225923": 306,
+      "gas:candidate-vibid:1001000136030": 91,
+      "gas:candidate-vibid:1001000217909": 35,
+      "gas:candidate-vibid:1001000250444": 16,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 120,
-      "Воронин Павел Юрьевич": 403,
-      "Зубенко Виталий Григорьевич": 24,
-      "Куликов Анатолий Сергеевич": 356,
-      "Хлынов Михаил Иванович": 91,
-      "Хука Валерий Владимирович": 32,
-      "Шарков Виктор Федорович": 43,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121825": 120,
+      "gas:candidate-vibid:326300370808": 403,
+      "gas:candidate-vibid:1001000112199": 24,
+      "gas:candidate-vibid:1001000225923": 356,
+      "gas:candidate-vibid:1001000136030": 91,
+      "gas:candidate-vibid:1001000217909": 32,
+      "gas:candidate-vibid:1001000250444": 43,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 168,
-      "Воронин Павел Юрьевич": 324,
-      "Зубенко Виталий Григорьевич": 43,
-      "Куликов Анатолий Сергеевич": 386,
-      "Хлынов Михаил Иванович": 47,
-      "Хука Валерий Владимирович": 42,
-      "Шарков Виктор Федорович": 25,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121825": 168,
+      "gas:candidate-vibid:326300370808": 324,
+      "gas:candidate-vibid:1001000112199": 43,
+      "gas:candidate-vibid:1001000225923": 386,
+      "gas:candidate-vibid:1001000136030": 47,
+      "gas:candidate-vibid:1001000217909": 42,
+      "gas:candidate-vibid:1001000250444": 25,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 158,
-      "Воронин Павел Юрьевич": 339,
-      "Зубенко Виталий Григорьевич": 36,
-      "Куликов Анатолий Сергеевич": 392,
-      "Хлынов Михаил Иванович": 64,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121825": 158,
+      "gas:candidate-vibid:326300370808": 339,
+      "gas:candidate-vibid:1001000112199": 36,
+      "gas:candidate-vibid:1001000225923": 392,
+      "gas:candidate-vibid:1001000136030": 64,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 194,
-      "Воронин Павел Юрьевич": 405,
-      "Зубенко Виталий Григорьевич": 40,
-      "Куликов Анатолий Сергеевич": 349,
-      "Хлынов Михаил Иванович": 51,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 23,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121825": 194,
+      "gas:candidate-vibid:326300370808": 405,
+      "gas:candidate-vibid:1001000112199": 40,
+      "gas:candidate-vibid:1001000225923": 349,
+      "gas:candidate-vibid:1001000136030": 51,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 23,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 116,
-      "Воронин Павел Юрьевич": 368,
-      "Зубенко Виталий Григорьевич": 63,
-      "Куликов Анатолий Сергеевич": 424,
-      "Хлынов Михаил Иванович": 65,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 27,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121825": 116,
+      "gas:candidate-vibid:326300370808": 368,
+      "gas:candidate-vibid:1001000112199": 63,
+      "gas:candidate-vibid:1001000225923": 424,
+      "gas:candidate-vibid:1001000136030": 65,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 27,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 178,
-      "Воронин Павел Юрьевич": 427,
-      "Зубенко Виталий Григорьевич": 39,
-      "Куликов Анатолий Сергеевич": 324,
-      "Хлынов Михаил Иванович": 65,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 33,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121825": 178,
+      "gas:candidate-vibid:326300370808": 427,
+      "gas:candidate-vibid:1001000112199": 39,
+      "gas:candidate-vibid:1001000225923": 324,
+      "gas:candidate-vibid:1001000136030": 65,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 33,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 191,
-      "Воронин Павел Юрьевич": 467,
-      "Зубенко Виталий Григорьевич": 70,
-      "Куликов Анатолий Сергеевич": 330,
-      "Хлынов Михаил Иванович": 61,
-      "Хука Валерий Владимирович": 26,
-      "Шарков Виктор Федорович": 23,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000121825": 191,
+      "gas:candidate-vibid:326300370808": 467,
+      "gas:candidate-vibid:1001000112199": 70,
+      "gas:candidate-vibid:1001000225923": 330,
+      "gas:candidate-vibid:1001000136030": 61,
+      "gas:candidate-vibid:1001000217909": 26,
+      "gas:candidate-vibid:1001000250444": 23,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 143,
-      "Воронин Павел Юрьевич": 421,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 235,
-      "Хлынов Михаил Иванович": 52,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 30,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121825": 143,
+      "gas:candidate-vibid:326300370808": 421,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 235,
+      "gas:candidate-vibid:1001000136030": 52,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 30,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 10,
-      "Воронин Павел Юрьевич": 2,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 47,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121825": 10,
+      "gas:candidate-vibid:326300370808": 2,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 47,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 190,
-      "Воронин Павел Юрьевич": 219,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 141,
-      "Хлынов Михаил Иванович": 21,
-      "Хука Валерий Владимирович": 46,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121825": 190,
+      "gas:candidate-vibid:326300370808": 219,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 141,
+      "gas:candidate-vibid:1001000136030": 21,
+      "gas:candidate-vibid:1001000217909": 46,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 1,
-      "Воронин Павел Юрьевич": 52,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 43,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 21,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121825": 1,
+      "gas:candidate-vibid:326300370808": 52,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 43,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 21,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 19,
-      "Воронин Павел Юрьевич": 66,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 50,
-      "Хлынов Михаил Иванович": 8,
-      "Хука Валерий Владимирович": 31,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121825": 19,
+      "gas:candidate-vibid:326300370808": 66,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 50,
+      "gas:candidate-vibid:1001000136030": 8,
+      "gas:candidate-vibid:1001000217909": 31,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 240,
-      "Воронин Павел Юрьевич": 255,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 277,
-      "Хлынов Михаил Иванович": 27,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121825": 240,
+      "gas:candidate-vibid:326300370808": 255,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 277,
+      "gas:candidate-vibid:1001000136030": 27,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 126,
-      "Воронин Павел Юрьевич": 143,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 68,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121825": 126,
+      "gas:candidate-vibid:326300370808": 143,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 68,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 308,
-      "Воронин Павел Юрьевич": 130,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 285,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 47,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121825": 308,
+      "gas:candidate-vibid:326300370808": 130,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 285,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 47,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 56,
-      "Воронин Павел Юрьевич": 230,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 223,
-      "Хлынов Михаил Иванович": 16,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121825": 56,
+      "gas:candidate-vibid:326300370808": 230,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 223,
+      "gas:candidate-vibid:1001000136030": 16,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 12,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 55,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 12,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 55,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 76,
-      "Воронин Павел Юрьевич": 128,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 160,
-      "Хлынов Михаил Иванович": 24,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121825": 76,
+      "gas:candidate-vibid:326300370808": 128,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 160,
+      "gas:candidate-vibid:1001000136030": 24,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 4,
-      "Воронин Павел Юрьевич": 37,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 38,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121825": 4,
+      "gas:candidate-vibid:326300370808": 37,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 38,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 22,
-      "Воронин Павел Юрьевич": 78,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 101,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121825": 22,
+      "gas:candidate-vibid:326300370808": 78,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 101,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 92,
-      "Воронин Павел Юрьевич": 189,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 119,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 59,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121825": 92,
+      "gas:candidate-vibid:326300370808": 189,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 119,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 59,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 29,
-      "Воронин Павел Юрьевич": 81,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 107,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121825": 29,
+      "gas:candidate-vibid:326300370808": 81,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 107,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 32,
-      "Воронин Павел Юрьевич": 71,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 109,
-      "Хлынов Михаил Иванович": 8,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 32,
+      "gas:candidate-vibid:326300370808": 71,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 109,
+      "gas:candidate-vibid:1001000136030": 8,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 125,
-      "Воронин Павел Юрьевич": 167,
-      "Зубенко Виталий Григорьевич": 37,
-      "Куликов Анатолий Сергеевич": 585,
-      "Хлынов Михаил Иванович": 43,
-      "Хука Валерий Владимирович": 55,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121825": 125,
+      "gas:candidate-vibid:326300370808": 167,
+      "gas:candidate-vibid:1001000112199": 37,
+      "gas:candidate-vibid:1001000225923": 585,
+      "gas:candidate-vibid:1001000136030": 43,
+      "gas:candidate-vibid:1001000217909": 55,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 42,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 57,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 42,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 57,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 103,
-      "Воронин Павел Юрьевич": 208,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 308,
-      "Хлынов Михаил Иванович": 26,
-      "Хука Валерий Владимирович": 31,
-      "Шарков Виктор Федорович": 16,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121825": 103,
+      "gas:candidate-vibid:326300370808": 208,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 308,
+      "gas:candidate-vibid:1001000136030": 26,
+      "gas:candidate-vibid:1001000217909": 31,
+      "gas:candidate-vibid:1001000250444": 16,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 4,
-      "Воронин Павел Юрьевич": 41,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 56,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121825": 4,
+      "gas:candidate-vibid:326300370808": 41,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 56,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 17,
-      "Воронин Павел Юрьевич": 17,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 74,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 17,
+      "gas:candidate-vibid:326300370808": 17,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 74,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 12,
-      "Воронин Павел Юрьевич": 13,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 58,
-      "Хлынов Михаил Иванович": 8,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121825": 12,
+      "gas:candidate-vibid:326300370808": 13,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 58,
+      "gas:candidate-vibid:1001000136030": 8,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 32,
-      "Воронин Павел Юрьевич": 36,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 166,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121825": 32,
+      "gas:candidate-vibid:326300370808": 36,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 166,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 49,
-      "Воронин Павел Юрьевич": 127,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 106,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121825": 49,
+      "gas:candidate-vibid:326300370808": 127,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 106,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 112,
-      "Воронин Павел Юрьевич": 243,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 139,
-      "Хлынов Михаил Иванович": 25,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121825": 112,
+      "gas:candidate-vibid:326300370808": 243,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 139,
+      "gas:candidate-vibid:1001000136030": 25,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 23,
-      "Воронин Павел Юрьевич": 46,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 179,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 23,
+      "gas:candidate-vibid:326300370808": 46,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 179,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 26,
-      "Воронин Павел Юрьевич": 49,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 44,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 26,
+      "gas:candidate-vibid:326300370808": 49,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 44,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 44,
-      "Воронин Павел Юрьевич": 71,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 177,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 20,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121825": 44,
+      "gas:candidate-vibid:326300370808": 71,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 177,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 20,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 10,
-      "Воронин Павел Юрьевич": 61,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 36,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121825": 10,
+      "gas:candidate-vibid:326300370808": 61,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 36,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 14,
-      "Воронин Павел Юрьевич": 19,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 24,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121825": 14,
+      "gas:candidate-vibid:326300370808": 19,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 24,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 1,
-      "Воронин Павел Юрьевич": 9,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 59,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121825": 1,
+      "gas:candidate-vibid:326300370808": 9,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 59,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 211,
-      "Воронин Павел Юрьевич": 455,
-      "Зубенко Виталий Григорьевич": 28,
-      "Куликов Анатолий Сергеевич": 292,
-      "Хлынов Михаил Иванович": 56,
-      "Хука Валерий Владимирович": 30,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121825": 211,
+      "gas:candidate-vibid:326300370808": 455,
+      "gas:candidate-vibid:1001000112199": 28,
+      "gas:candidate-vibid:1001000225923": 292,
+      "gas:candidate-vibid:1001000136030": 56,
+      "gas:candidate-vibid:1001000217909": 30,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 42,
-      "Воронин Павел Юрьевич": 76,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 504,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 14,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121825": 42,
+      "gas:candidate-vibid:326300370808": 76,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 504,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 14,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 165,
-      "Воронин Павел Юрьевич": 162,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 403,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 134,
-      "Шарков Виктор Федорович": 19,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121825": 165,
+      "gas:candidate-vibid:326300370808": 162,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 403,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 134,
+      "gas:candidate-vibid:1001000250444": 19,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 249,
-      "Воронин Павел Юрьевич": 257,
-      "Зубенко Виталий Григорьевич": 18,
-      "Куликов Анатолий Сергеевич": 397,
-      "Хлынов Михаил Иванович": 36,
-      "Хука Валерий Владимирович": 55,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121825": 249,
+      "gas:candidate-vibid:326300370808": 257,
+      "gas:candidate-vibid:1001000112199": 18,
+      "gas:candidate-vibid:1001000225923": 397,
+      "gas:candidate-vibid:1001000136030": 36,
+      "gas:candidate-vibid:1001000217909": 55,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 35,
-      "Воронин Павел Юрьевич": 37,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 9,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121825": 35,
+      "gas:candidate-vibid:326300370808": 37,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 9,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370418&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 168,
-      "Воронин Павел Юрьевич": 283,
-      "Зубенко Виталий Григорьевич": 27,
-      "Куликов Анатолий Сергеевич": 244,
-      "Хлынов Михаил Иванович": 56,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 21,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121825": 168,
+      "gas:candidate-vibid:326300370808": 283,
+      "gas:candidate-vibid:1001000112199": 27,
+      "gas:candidate-vibid:1001000225923": 244,
+      "gas:candidate-vibid:1001000136030": 56,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 21,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 62,
-      "Воронин Павел Юрьевич": 130,
-      "Зубенко Виталий Григорьевич": 20,
-      "Куликов Анатолий Сергеевич": 164,
-      "Хлынов Михаил Иванович": 38,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121825": 62,
+      "gas:candidate-vibid:326300370808": 130,
+      "gas:candidate-vibid:1001000112199": 20,
+      "gas:candidate-vibid:1001000225923": 164,
+      "gas:candidate-vibid:1001000136030": 38,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 95,
-      "Воронин Павел Юрьевич": 406,
-      "Зубенко Виталий Григорьевич": 31,
-      "Куликов Анатолий Сергеевич": 290,
-      "Хлынов Михаил Иванович": 63,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000121825": 95,
+      "gas:candidate-vibid:326300370808": 406,
+      "gas:candidate-vibid:1001000112199": 31,
+      "gas:candidate-vibid:1001000225923": 290,
+      "gas:candidate-vibid:1001000136030": 63,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 135,
-      "Воронин Павел Юрьевич": 324,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 196,
-      "Хлынов Михаил Иванович": 72,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 19,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121825": 135,
+      "gas:candidate-vibid:326300370808": 324,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 196,
+      "gas:candidate-vibid:1001000136030": 72,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 19,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 121,
-      "Воронин Павел Юрьевич": 242,
-      "Зубенко Виталий Григорьевич": 22,
-      "Куликов Анатолий Сергеевич": 230,
-      "Хлынов Михаил Иванович": 62,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121825": 121,
+      "gas:candidate-vibid:326300370808": 242,
+      "gas:candidate-vibid:1001000112199": 22,
+      "gas:candidate-vibid:1001000225923": 230,
+      "gas:candidate-vibid:1001000136030": 62,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 95,
-      "Воронин Павел Юрьевич": 213,
-      "Зубенко Виталий Григорьевич": 29,
-      "Куликов Анатолий Сергеевич": 264,
-      "Хлынов Михаил Иванович": 55,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121825": 95,
+      "gas:candidate-vibid:326300370808": 213,
+      "gas:candidate-vibid:1001000112199": 29,
+      "gas:candidate-vibid:1001000225923": 264,
+      "gas:candidate-vibid:1001000136030": 55,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 111,
-      "Воронин Павел Юрьевич": 488,
-      "Зубенко Виталий Григорьевич": 46,
-      "Куликов Анатолий Сергеевич": 284,
-      "Хлынов Михаил Иванович": 83,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000121825": 111,
+      "gas:candidate-vibid:326300370808": 488,
+      "gas:candidate-vibid:1001000112199": 46,
+      "gas:candidate-vibid:1001000225923": 284,
+      "gas:candidate-vibid:1001000136030": 83,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 58,
-      "Воронин Павел Юрьевич": 159,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 90,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121825": 58,
+      "gas:candidate-vibid:326300370808": 159,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 90,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 162,
-      "Воронин Павел Юрьевич": 386,
-      "Зубенко Виталий Григорьевич": 41,
-      "Куликов Анатолий Сергеевич": 243,
-      "Хлынов Михаил Иванович": 82,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121825": 162,
+      "gas:candidate-vibid:326300370808": 386,
+      "gas:candidate-vibid:1001000112199": 41,
+      "gas:candidate-vibid:1001000225923": 243,
+      "gas:candidate-vibid:1001000136030": 82,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 100,
-      "Воронин Павел Юрьевич": 315,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 172,
-      "Хлынов Михаил Иванович": 76,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000121825": 100,
+      "gas:candidate-vibid:326300370808": 315,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 172,
+      "gas:candidate-vibid:1001000136030": 76,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 133,
-      "Воронин Павел Юрьевич": 445,
-      "Зубенко Виталий Григорьевич": 32,
-      "Куликов Анатолий Сергеевич": 231,
-      "Хлынов Михаил Иванович": 70,
-      "Хука Валерий Владимирович": 36,
-      "Шарков Виктор Федорович": 25,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121825": 133,
+      "gas:candidate-vibid:326300370808": 445,
+      "gas:candidate-vibid:1001000112199": 32,
+      "gas:candidate-vibid:1001000225923": 231,
+      "gas:candidate-vibid:1001000136030": 70,
+      "gas:candidate-vibid:1001000217909": 36,
+      "gas:candidate-vibid:1001000250444": 25,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 47,
-      "Воронин Павел Юрьевич": 200,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 130,
-      "Хлынов Михаил Иванович": 42,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121825": 47,
+      "gas:candidate-vibid:326300370808": 200,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 130,
+      "gas:candidate-vibid:1001000136030": 42,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 43,
-      "Воронин Павел Юрьевич": 178,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 174,
-      "Хлынов Михаил Иванович": 50,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121825": 43,
+      "gas:candidate-vibid:326300370808": 178,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 174,
+      "gas:candidate-vibid:1001000136030": 50,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 106,
-      "Воронин Павел Юрьевич": 325,
-      "Зубенко Виталий Григорьевич": 30,
-      "Куликов Анатолий Сергеевич": 237,
-      "Хлынов Михаил Иванович": 79,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121825": 106,
+      "gas:candidate-vibid:326300370808": 325,
+      "gas:candidate-vibid:1001000112199": 30,
+      "gas:candidate-vibid:1001000225923": 237,
+      "gas:candidate-vibid:1001000136030": 79,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 89,
-      "Воронин Павел Юрьевич": 195,
-      "Зубенко Виталий Григорьевич": 24,
-      "Куликов Анатолий Сергеевич": 242,
-      "Хлынов Михаил Иванович": 58,
-      "Хука Валерий Владимирович": 26,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121825": 89,
+      "gas:candidate-vibid:326300370808": 195,
+      "gas:candidate-vibid:1001000112199": 24,
+      "gas:candidate-vibid:1001000225923": 242,
+      "gas:candidate-vibid:1001000136030": 58,
+      "gas:candidate-vibid:1001000217909": 26,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 88,
-      "Воронин Павел Юрьевич": 208,
-      "Зубенко Виталий Григорьевич": 48,
-      "Куликов Анатолий Сергеевич": 250,
-      "Хлынов Михаил Иванович": 84,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000121825": 88,
+      "gas:candidate-vibid:326300370808": 208,
+      "gas:candidate-vibid:1001000112199": 48,
+      "gas:candidate-vibid:1001000225923": 250,
+      "gas:candidate-vibid:1001000136030": 84,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 183,
-      "Воронин Павел Юрьевич": 317,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 284,
-      "Хлынов Михаил Иванович": 76,
-      "Хука Валерий Владимирович": 20,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121825": 183,
+      "gas:candidate-vibid:326300370808": 317,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 284,
+      "gas:candidate-vibid:1001000136030": 76,
+      "gas:candidate-vibid:1001000217909": 20,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 68,
-      "Воронин Павел Юрьевич": 179,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 175,
-      "Хлынов Михаил Иванович": 52,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121825": 68,
+      "gas:candidate-vibid:326300370808": 179,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 175,
+      "gas:candidate-vibid:1001000136030": 52,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 82,
-      "Воронин Павел Юрьевич": 225,
-      "Зубенко Виталий Григорьевич": 30,
-      "Куликов Анатолий Сергеевич": 425,
-      "Хлынов Михаил Иванович": 67,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 28,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121825": 82,
+      "gas:candidate-vibid:326300370808": 225,
+      "gas:candidate-vibid:1001000112199": 30,
+      "gas:candidate-vibid:1001000225923": 425,
+      "gas:candidate-vibid:1001000136030": 67,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 28,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 67,
-      "Воронин Павел Юрьевич": 143,
-      "Зубенко Виталий Григорьевич": 30,
-      "Куликов Анатолий Сергеевич": 432,
-      "Хлынов Михаил Иванович": 53,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121825": 67,
+      "gas:candidate-vibid:326300370808": 143,
+      "gas:candidate-vibid:1001000112199": 30,
+      "gas:candidate-vibid:1001000225923": 432,
+      "gas:candidate-vibid:1001000136030": 53,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 80,
-      "Воронин Павел Юрьевич": 246,
-      "Зубенко Виталий Григорьевич": 54,
-      "Куликов Анатолий Сергеевич": 445,
-      "Хлынов Михаил Иванович": 60,
-      "Хука Валерий Владимирович": 20,
-      "Шарков Виктор Федорович": 30,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121825": 80,
+      "gas:candidate-vibid:326300370808": 246,
+      "gas:candidate-vibid:1001000112199": 54,
+      "gas:candidate-vibid:1001000225923": 445,
+      "gas:candidate-vibid:1001000136030": 60,
+      "gas:candidate-vibid:1001000217909": 20,
+      "gas:candidate-vibid:1001000250444": 30,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 43,
-      "Воронин Павел Юрьевич": 217,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 253,
-      "Хлынов Михаил Иванович": 50,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 24,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121825": 43,
+      "gas:candidate-vibid:326300370808": 217,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 253,
+      "gas:candidate-vibid:1001000136030": 50,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 24,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 67,
-      "Воронин Павел Юрьевич": 157,
-      "Зубенко Виталий Григорьевич": 34,
-      "Куликов Анатолий Сергеевич": 389,
-      "Хлынов Михаил Иванович": 63,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121825": 67,
+      "gas:candidate-vibid:326300370808": 157,
+      "gas:candidate-vibid:1001000112199": 34,
+      "gas:candidate-vibid:1001000225923": 389,
+      "gas:candidate-vibid:1001000136030": 63,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 97,
-      "Воронин Павел Юрьевич": 232,
-      "Зубенко Виталий Григорьевич": 34,
-      "Куликов Анатолий Сергеевич": 352,
-      "Хлынов Михаил Иванович": 38,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 23,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000121825": 97,
+      "gas:candidate-vibid:326300370808": 232,
+      "gas:candidate-vibid:1001000112199": 34,
+      "gas:candidate-vibid:1001000225923": 352,
+      "gas:candidate-vibid:1001000136030": 38,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 23,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 89,
-      "Воронин Павел Юрьевич": 357,
-      "Зубенко Виталий Григорьевич": 51,
-      "Куликов Анатолий Сергеевич": 612,
-      "Хлынов Михаил Иванович": 71,
-      "Хука Валерий Владимирович": 44,
-      "Шарков Виктор Федорович": 42,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000121825": 89,
+      "gas:candidate-vibid:326300370808": 357,
+      "gas:candidate-vibid:1001000112199": 51,
+      "gas:candidate-vibid:1001000225923": 612,
+      "gas:candidate-vibid:1001000136030": 71,
+      "gas:candidate-vibid:1001000217909": 44,
+      "gas:candidate-vibid:1001000250444": 42,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 53,
-      "Воронин Павел Юрьевич": 283,
-      "Зубенко Виталий Григорьевич": 50,
-      "Куликов Анатолий Сергеевич": 541,
-      "Хлынов Михаил Иванович": 83,
-      "Хука Валерий Владимирович": 26,
-      "Шарков Виктор Федорович": 30,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000121825": 53,
+      "gas:candidate-vibid:326300370808": 283,
+      "gas:candidate-vibid:1001000112199": 50,
+      "gas:candidate-vibid:1001000225923": 541,
+      "gas:candidate-vibid:1001000136030": 83,
+      "gas:candidate-vibid:1001000217909": 26,
+      "gas:candidate-vibid:1001000250444": 30,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 48,
-      "Воронин Павел Юрьевич": 169,
-      "Зубенко Виталий Григорьевич": 32,
-      "Куликов Анатолий Сергеевич": 274,
-      "Хлынов Михаил Иванович": 39,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 19,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121825": 48,
+      "gas:candidate-vibid:326300370808": 169,
+      "gas:candidate-vibid:1001000112199": 32,
+      "gas:candidate-vibid:1001000225923": 274,
+      "gas:candidate-vibid:1001000136030": 39,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 19,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 28,
-      "Воронин Павел Юрьевич": 168,
-      "Зубенко Виталий Григорьевич": 11,
-      "Куликов Анатолий Сергеевич": 174,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121825": 28,
+      "gas:candidate-vibid:326300370808": 168,
+      "gas:candidate-vibid:1001000112199": 11,
+      "gas:candidate-vibid:1001000225923": 174,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 29,
-      "Воронин Павел Юрьевич": 86,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 128,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121825": 29,
+      "gas:candidate-vibid:326300370808": 86,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 128,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 92,
-      "Воронин Павел Юрьевич": 523,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 288,
-      "Хлынов Михаил Иванович": 50,
-      "Хука Валерий Владимирович": 34,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121825": 92,
+      "gas:candidate-vibid:326300370808": 523,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 288,
+      "gas:candidate-vibid:1001000136030": 50,
+      "gas:candidate-vibid:1001000217909": 34,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 80,
-      "Воронин Павел Юрьевич": 384,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 554,
-      "Хлынов Михаил Иванович": 47,
-      "Хука Валерий Владимирович": 36,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121825": 80,
+      "gas:candidate-vibid:326300370808": 384,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 554,
+      "gas:candidate-vibid:1001000136030": 47,
+      "gas:candidate-vibid:1001000217909": 36,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 20,
-      "Воронин Павел Юрьевич": 75,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 188,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121825": 20,
+      "gas:candidate-vibid:326300370808": 75,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 188,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 50,
-      "Воронин Павел Юрьевич": 281,
-      "Зубенко Виталий Григорьевич": 29,
-      "Куликов Анатолий Сергеевич": 177,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121825": 50,
+      "gas:candidate-vibid:326300370808": 281,
+      "gas:candidate-vibid:1001000112199": 29,
+      "gas:candidate-vibid:1001000225923": 177,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 55,
-      "Воронин Павел Юрьевич": 401,
-      "Зубенко Виталий Григорьевич": 15,
-      "Куликов Анатолий Сергеевич": 301,
-      "Хлынов Михаил Иванович": 51,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121825": 55,
+      "gas:candidate-vibid:326300370808": 401,
+      "gas:candidate-vibid:1001000112199": 15,
+      "gas:candidate-vibid:1001000225923": 301,
+      "gas:candidate-vibid:1001000136030": 51,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 17,
-      "Воронин Павел Юрьевич": 80,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 62,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121825": 17,
+      "gas:candidate-vibid:326300370808": 80,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 62,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 33,
-      "Воронин Павел Юрьевич": 128,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 169,
-      "Хлынов Михаил Иванович": 12,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121825": 33,
+      "gas:candidate-vibid:326300370808": 128,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 169,
+      "gas:candidate-vibid:1001000136030": 12,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 115,
-      "Воронин Павел Юрьевич": 292,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 377,
-      "Хлынов Михаил Иванович": 43,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 16,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121825": 115,
+      "gas:candidate-vibid:326300370808": 292,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 377,
+      "gas:candidate-vibid:1001000136030": 43,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 16,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 25,
-      "Воронин Павел Юрьевич": 125,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 199,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121825": 25,
+      "gas:candidate-vibid:326300370808": 125,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 199,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 72,
-      "Воронин Павел Юрьевич": 293,
-      "Зубенко Виталий Григорьевич": 26,
-      "Куликов Анатолий Сергеевич": 269,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121825": 72,
+      "gas:candidate-vibid:326300370808": 293,
+      "gas:candidate-vibid:1001000112199": 26,
+      "gas:candidate-vibid:1001000225923": 269,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 29,
-      "Воронин Павел Юрьевич": 94,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 83,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121825": 29,
+      "gas:candidate-vibid:326300370808": 94,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 83,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 93,
-      "Воронин Павел Юрьевич": 248,
-      "Зубенко Виталий Григорьевич": 18,
-      "Куликов Анатолий Сергеевич": 257,
-      "Хлынов Михаил Иванович": 46,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121825": 93,
+      "gas:candidate-vibid:326300370808": 248,
+      "gas:candidate-vibid:1001000112199": 18,
+      "gas:candidate-vibid:1001000225923": 257,
+      "gas:candidate-vibid:1001000136030": 46,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 24,
-      "Воронин Павел Юрьевич": 132,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 110,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121825": 24,
+      "gas:candidate-vibid:326300370808": 132,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 110,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 106,
-      "Воронин Павел Юрьевич": 378,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 316,
-      "Хлынов Михаил Иванович": 60,
-      "Хука Валерий Владимирович": 48,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121825": 106,
+      "gas:candidate-vibid:326300370808": 378,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 316,
+      "gas:candidate-vibid:1001000136030": 60,
+      "gas:candidate-vibid:1001000217909": 48,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 8,
-      "Воронин Павел Юрьевич": 45,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 50,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121825": 8,
+      "gas:candidate-vibid:326300370808": 45,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 50,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 40,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 32,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 40,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 32,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 40,
-      "Воронин Павел Юрьевич": 218,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 178,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121825": 40,
+      "gas:candidate-vibid:326300370808": 218,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 178,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 22,
-      "Воронин Павел Юрьевич": 157,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 198,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121825": 22,
+      "gas:candidate-vibid:326300370808": 157,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 198,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 44,
-      "Воронин Павел Юрьевич": 182,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 393,
-      "Хлынов Михаил Иванович": 32,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121825": 44,
+      "gas:candidate-vibid:326300370808": 182,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 393,
+      "gas:candidate-vibid:1001000136030": 32,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 70,
-      "Воронин Павел Юрьевич": 276,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 233,
-      "Хлынов Михаил Иванович": 28,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 20,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121825": 70,
+      "gas:candidate-vibid:326300370808": 276,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 233,
+      "gas:candidate-vibid:1001000136030": 28,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 20,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 72,
-      "Воронин Павел Юрьевич": 295,
-      "Зубенко Виталий Григорьевич": 31,
-      "Куликов Анатолий Сергеевич": 174,
-      "Хлынов Михаил Иванович": 62,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121825": 72,
+      "gas:candidate-vibid:326300370808": 295,
+      "gas:candidate-vibid:1001000112199": 31,
+      "gas:candidate-vibid:1001000225923": 174,
+      "gas:candidate-vibid:1001000136030": 62,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 86,
-      "Воронин Павел Юрьевич": 388,
-      "Зубенко Виталий Григорьевич": 15,
-      "Куликов Анатолий Сергеевич": 219,
-      "Хлынов Михаил Иванович": 42,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121825": 86,
+      "gas:candidate-vibid:326300370808": 388,
+      "gas:candidate-vibid:1001000112199": 15,
+      "gas:candidate-vibid:1001000225923": 219,
+      "gas:candidate-vibid:1001000136030": 42,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 11,
-      "Воронин Павел Юрьевич": 115,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 35,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 11,
+      "gas:candidate-vibid:326300370808": 115,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 35,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 15,
-      "Воронин Павел Юрьевич": 54,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 115,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121825": 15,
+      "gas:candidate-vibid:326300370808": 54,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 115,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 9,
-      "Воронин Павел Юрьевич": 117,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 118,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121825": 9,
+      "gas:candidate-vibid:326300370808": 117,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 118,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370419&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 85,
-      "Воронин Павел Юрьевич": 377,
-      "Зубенко Виталий Григорьевич": 41,
-      "Куликов Анатолий Сергеевич": 609,
-      "Хлынов Михаил Иванович": 59,
-      "Хука Валерий Владимирович": 33,
-      "Шарков Виктор Федорович": 27,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000121825": 85,
+      "gas:candidate-vibid:326300370808": 377,
+      "gas:candidate-vibid:1001000112199": 41,
+      "gas:candidate-vibid:1001000225923": 609,
+      "gas:candidate-vibid:1001000136030": 59,
+      "gas:candidate-vibid:1001000217909": 33,
+      "gas:candidate-vibid:1001000250444": 27,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 124,
-      "Воронин Павел Юрьевич": 361,
-      "Зубенко Виталий Григорьевич": 47,
-      "Куликов Анатолий Сергеевич": 560,
-      "Хлынов Михаил Иванович": 58,
-      "Хука Валерий Владимирович": 39,
-      "Шарков Виктор Федорович": 33,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000121825": 124,
+      "gas:candidate-vibid:326300370808": 361,
+      "gas:candidate-vibid:1001000112199": 47,
+      "gas:candidate-vibid:1001000225923": 560,
+      "gas:candidate-vibid:1001000136030": 58,
+      "gas:candidate-vibid:1001000217909": 39,
+      "gas:candidate-vibid:1001000250444": 33,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 76,
-      "Воронин Павел Юрьевич": 264,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 274,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 20,
-      "Шарков Виктор Федорович": 24,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121825": 76,
+      "gas:candidate-vibid:326300370808": 264,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 274,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 20,
+      "gas:candidate-vibid:1001000250444": 24,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 1,
-      "Воронин Павел Юрьевич": 7,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 5,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121825": 1,
+      "gas:candidate-vibid:326300370808": 7,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 5,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 34,
-      "Воронин Павел Юрьевич": 28,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 12,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121825": 34,
+      "gas:candidate-vibid:326300370808": 28,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 12,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 56,
-      "Воронин Павел Юрьевич": 604,
-      "Зубенко Виталий Григорьевич": 31,
-      "Куликов Анатолий Сергеевич": 184,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 37,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121825": 56,
+      "gas:candidate-vibid:326300370808": 604,
+      "gas:candidate-vibid:1001000112199": 31,
+      "gas:candidate-vibid:1001000225923": 184,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 37,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 70,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 31,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 70,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 31,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 263,
-      "Воронин Павел Юрьевич": 271,
-      "Зубенко Виталий Григорьевич": 35,
-      "Куликов Анатолий Сергеевич": 310,
-      "Хлынов Михаил Иванович": 40,
-      "Хука Валерий Владимирович": 35,
-      "Шарков Виктор Федорович": 26,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121825": 263,
+      "gas:candidate-vibid:326300370808": 271,
+      "gas:candidate-vibid:1001000112199": 35,
+      "gas:candidate-vibid:1001000225923": 310,
+      "gas:candidate-vibid:1001000136030": 40,
+      "gas:candidate-vibid:1001000217909": 35,
+      "gas:candidate-vibid:1001000250444": 26,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 109,
-      "Воронин Павел Юрьевич": 186,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 226,
-      "Хлынов Михаил Иванович": 33,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121825": 109,
+      "gas:candidate-vibid:326300370808": 186,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 226,
+      "gas:candidate-vibid:1001000136030": 33,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 98,
-      "Воронин Павел Юрьевич": 299,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 303,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121825": 98,
+      "gas:candidate-vibid:326300370808": 299,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 303,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 99,
-      "Воронин Павел Юрьевич": 60,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 54,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121825": 99,
+      "gas:candidate-vibid:326300370808": 60,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 54,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 159,
-      "Воронин Павел Юрьевич": 516,
-      "Зубенко Виталий Григорьевич": 35,
-      "Куликов Анатолий Сергеевич": 228,
-      "Хлынов Михаил Иванович": 61,
-      "Хука Валерий Владимирович": 68,
-      "Шарков Виктор Федорович": 48,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000121825": 159,
+      "gas:candidate-vibid:326300370808": 516,
+      "gas:candidate-vibid:1001000112199": 35,
+      "gas:candidate-vibid:1001000225923": 228,
+      "gas:candidate-vibid:1001000136030": 61,
+      "gas:candidate-vibid:1001000217909": 68,
+      "gas:candidate-vibid:1001000250444": 48,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 32,
-      "Воронин Павел Юрьевич": 93,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 53,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121825": 32,
+      "gas:candidate-vibid:326300370808": 93,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 53,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 21,
-      "Воронин Павел Юрьевич": 116,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 49,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121825": 21,
+      "gas:candidate-vibid:326300370808": 116,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 49,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 238,
-      "Воронин Павел Юрьевич": 281,
-      "Зубенко Виталий Григорьевич": 32,
-      "Куликов Анатолий Сергеевич": 308,
-      "Хлынов Михаил Иванович": 54,
-      "Хука Валерий Владимирович": 27,
-      "Шарков Виктор Федорович": 21,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121825": 238,
+      "gas:candidate-vibid:326300370808": 281,
+      "gas:candidate-vibid:1001000112199": 32,
+      "gas:candidate-vibid:1001000225923": 308,
+      "gas:candidate-vibid:1001000136030": 54,
+      "gas:candidate-vibid:1001000217909": 27,
+      "gas:candidate-vibid:1001000250444": 21,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 35,
-      "Воронин Павел Юрьевич": 106,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 81,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121825": 35,
+      "gas:candidate-vibid:326300370808": 106,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 81,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 35,
-      "Воронин Павел Юрьевич": 55,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 87,
-      "Хлынов Михаил Иванович": 16,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121825": 35,
+      "gas:candidate-vibid:326300370808": 55,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 87,
+      "gas:candidate-vibid:1001000136030": 16,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 14,
-      "Воронин Павел Юрьевич": 39,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 18,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 14,
+      "gas:candidate-vibid:326300370808": 39,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 18,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 44,
-      "Воронин Павел Юрьевич": 233,
-      "Зубенко Виталий Григорьевич": 20,
-      "Куликов Анатолий Сергеевич": 289,
-      "Хлынов Михаил Иванович": 20,
-      "Хука Валерий Владимирович": 43,
-      "Шарков Виктор Федорович": 21,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121825": 44,
+      "gas:candidate-vibid:326300370808": 233,
+      "gas:candidate-vibid:1001000112199": 20,
+      "gas:candidate-vibid:1001000225923": 289,
+      "gas:candidate-vibid:1001000136030": 20,
+      "gas:candidate-vibid:1001000217909": 43,
+      "gas:candidate-vibid:1001000250444": 21,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370420&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 54,
-      "Воронин Павел Юрьевич": 276,
-      "Зубенко Виталий Григорьевич": 20,
-      "Куликов Анатолий Сергеевич": 171,
-      "Хлынов Михаил Иванович": 38,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121825": 54,
+      "gas:candidate-vibid:326300370808": 276,
+      "gas:candidate-vibid:1001000112199": 20,
+      "gas:candidate-vibid:1001000225923": 171,
+      "gas:candidate-vibid:1001000136030": 38,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 172,
-      "Воронин Павел Юрьевич": 508,
-      "Зубенко Виталий Григорьевич": 36,
-      "Куликов Анатолий Сергеевич": 275,
-      "Хлынов Михаил Иванович": 76,
-      "Хука Валерий Владимирович": 40,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121825": 172,
+      "gas:candidate-vibid:326300370808": 508,
+      "gas:candidate-vibid:1001000112199": 36,
+      "gas:candidate-vibid:1001000225923": 275,
+      "gas:candidate-vibid:1001000136030": 76,
+      "gas:candidate-vibid:1001000217909": 40,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 136,
-      "Воронин Павел Юрьевич": 507,
-      "Зубенко Виталий Григорьевич": 41,
-      "Куликов Анатолий Сергеевич": 252,
-      "Хлынов Михаил Иванович": 82,
-      "Хука Валерий Владимирович": 21,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121825": 136,
+      "gas:candidate-vibid:326300370808": 507,
+      "gas:candidate-vibid:1001000112199": 41,
+      "gas:candidate-vibid:1001000225923": 252,
+      "gas:candidate-vibid:1001000136030": 82,
+      "gas:candidate-vibid:1001000217909": 21,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 133,
-      "Воронин Павел Юрьевич": 615,
-      "Зубенко Виталий Григорьевич": 36,
-      "Куликов Анатолий Сергеевич": 292,
-      "Хлынов Михаил Иванович": 86,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121825": 133,
+      "gas:candidate-vibid:326300370808": 615,
+      "gas:candidate-vibid:1001000112199": 36,
+      "gas:candidate-vibid:1001000225923": 292,
+      "gas:candidate-vibid:1001000136030": 86,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 98,
-      "Воронин Павел Юрьевич": 522,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 280,
-      "Хлынов Михаил Иванович": 94,
-      "Хука Валерий Владимирович": 44,
-      "Шарков Виктор Федорович": 19,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121825": 98,
+      "gas:candidate-vibid:326300370808": 522,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 280,
+      "gas:candidate-vibid:1001000136030": 94,
+      "gas:candidate-vibid:1001000217909": 44,
+      "gas:candidate-vibid:1001000250444": 19,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 74,
-      "Воронин Павел Юрьевич": 338,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 302,
-      "Хлынов Михаил Иванович": 66,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121825": 74,
+      "gas:candidate-vibid:326300370808": 338,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 302,
+      "gas:candidate-vibid:1001000136030": 66,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 119,
-      "Воронин Павел Юрьевич": 493,
-      "Зубенко Виталий Григорьевич": 20,
-      "Куликов Анатолий Сергеевич": 317,
-      "Хлынов Михаил Иванович": 86,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121825": 119,
+      "gas:candidate-vibid:326300370808": 493,
+      "gas:candidate-vibid:1001000112199": 20,
+      "gas:candidate-vibid:1001000225923": 317,
+      "gas:candidate-vibid:1001000136030": 86,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 68,
-      "Воронин Павел Юрьевич": 193,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 186,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121825": 68,
+      "gas:candidate-vibid:326300370808": 193,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 186,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 136,
-      "Воронин Павел Юрьевич": 531,
-      "Зубенко Виталий Григорьевич": 37,
-      "Куликов Анатолий Сергеевич": 255,
-      "Хлынов Михаил Иванович": 81,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 25,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121825": 136,
+      "gas:candidate-vibid:326300370808": 531,
+      "gas:candidate-vibid:1001000112199": 37,
+      "gas:candidate-vibid:1001000225923": 255,
+      "gas:candidate-vibid:1001000136030": 81,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 25,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 77,
-      "Воронин Павел Юрьевич": 529,
-      "Зубенко Виталий Григорьевич": 28,
-      "Куликов Анатолий Сергеевич": 284,
-      "Хлынов Михаил Иванович": 75,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121825": 77,
+      "gas:candidate-vibid:326300370808": 529,
+      "gas:candidate-vibid:1001000112199": 28,
+      "gas:candidate-vibid:1001000225923": 284,
+      "gas:candidate-vibid:1001000136030": 75,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 220,
-      "Воронин Павел Юрьевич": 354,
-      "Зубенко Виталий Григорьевич": 22,
-      "Куликов Анатолий Сергеевич": 209,
-      "Хлынов Михаил Иванович": 70,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 18,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121825": 220,
+      "gas:candidate-vibid:326300370808": 354,
+      "gas:candidate-vibid:1001000112199": 22,
+      "gas:candidate-vibid:1001000225923": 209,
+      "gas:candidate-vibid:1001000136030": 70,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 18,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 69,
-      "Воронин Павел Юрьевич": 220,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 85,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121825": 69,
+      "gas:candidate-vibid:326300370808": 220,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 85,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 37,
-      "Воронин Павел Юрьевич": 280,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 159,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 14,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121825": 37,
+      "gas:candidate-vibid:326300370808": 280,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 159,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 14,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 15,
-      "Воронин Павел Юрьевич": 150,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 131,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121825": 15,
+      "gas:candidate-vibid:326300370808": 150,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 131,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 108,
-      "Воронин Павел Юрьевич": 568,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 199,
-      "Хлынов Михаил Иванович": 32,
-      "Хука Валерий Владимирович": 73,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121825": 108,
+      "gas:candidate-vibid:326300370808": 568,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 199,
+      "gas:candidate-vibid:1001000136030": 32,
+      "gas:candidate-vibid:1001000217909": 73,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 152,
-      "Воронин Павел Юрьевич": 374,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 329,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 42,
-      "Шарков Виктор Федорович": 26,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121825": 152,
+      "gas:candidate-vibid:326300370808": 374,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 329,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 42,
+      "gas:candidate-vibid:1001000250444": 26,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 172,
-      "Воронин Павел Юрьевич": 80,
-      "Зубенко Виталий Григорьевич": 10,
-      "Куликов Анатолий Сергеевич": 190,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121825": 172,
+      "gas:candidate-vibid:326300370808": 80,
+      "gas:candidate-vibid:1001000112199": 10,
+      "gas:candidate-vibid:1001000225923": 190,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 21,
-      "Воронин Павел Юрьевич": 202,
-      "Зубенко Виталий Григорьевич": 10,
-      "Куликов Анатолий Сергеевич": 369,
-      "Хлынов Михаил Иванович": 20,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121825": 21,
+      "gas:candidate-vibid:326300370808": 202,
+      "gas:candidate-vibid:1001000112199": 10,
+      "gas:candidate-vibid:1001000225923": 369,
+      "gas:candidate-vibid:1001000136030": 20,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 22,
-      "Воронин Павел Юрьевич": 151,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 215,
-      "Хлынов Михаил Иванович": 20,
-      "Хука Валерий Владимирович": 43,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121825": 22,
+      "gas:candidate-vibid:326300370808": 151,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 215,
+      "gas:candidate-vibid:1001000136030": 20,
+      "gas:candidate-vibid:1001000217909": 43,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 73,
-      "Воронин Павел Юрьевич": 362,
-      "Зубенко Виталий Григорьевич": 11,
-      "Куликов Анатолий Сергеевич": 142,
-      "Хлынов Михаил Иванович": 21,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121825": 73,
+      "gas:candidate-vibid:326300370808": 362,
+      "gas:candidate-vibid:1001000112199": 11,
+      "gas:candidate-vibid:1001000225923": 142,
+      "gas:candidate-vibid:1001000136030": 21,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 69,
-      "Воронин Павел Юрьевич": 404,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 109,
-      "Хлынов Михаил Иванович": 22,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121825": 69,
+      "gas:candidate-vibid:326300370808": 404,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 109,
+      "gas:candidate-vibid:1001000136030": 22,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 45,
-      "Воронин Павел Юрьевич": 354,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 39,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121825": 45,
+      "gas:candidate-vibid:326300370808": 354,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 39,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 60,
-      "Воронин Павел Юрьевич": 440,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 183,
-      "Хлынов Михаил Иванович": 34,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121825": 60,
+      "gas:candidate-vibid:326300370808": 440,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 183,
+      "gas:candidate-vibid:1001000136030": 34,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 93,
-      "Воронин Павел Юрьевич": 361,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 137,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121825": 93,
+      "gas:candidate-vibid:326300370808": 361,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 137,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 42,
-      "Воронин Павел Юрьевич": 209,
-      "Зубенко Виталий Григорьевич": 20,
-      "Куликов Анатолий Сергеевич": 112,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 37,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121825": 42,
+      "gas:candidate-vibid:326300370808": 209,
+      "gas:candidate-vibid:1001000112199": 20,
+      "gas:candidate-vibid:1001000225923": 112,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 37,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 61,
-      "Воронин Павел Юрьевич": 57,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 161,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121825": 61,
+      "gas:candidate-vibid:326300370808": 57,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 161,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370421&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 208,
-      "Воронин Павел Юрьевич": 619,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 344,
-      "Хлынов Михаил Иванович": 90,
-      "Хука Валерий Владимирович": 77,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121825": 208,
+      "gas:candidate-vibid:326300370808": 619,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 344,
+      "gas:candidate-vibid:1001000136030": 90,
+      "gas:candidate-vibid:1001000217909": 77,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 154,
-      "Воронин Павел Юрьевич": 626,
-      "Зубенко Виталий Григорьевич": 28,
-      "Куликов Анатолий Сергеевич": 427,
-      "Хлынов Михаил Иванович": 53,
-      "Хука Валерий Владимирович": 47,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121825": 154,
+      "gas:candidate-vibid:326300370808": 626,
+      "gas:candidate-vibid:1001000112199": 28,
+      "gas:candidate-vibid:1001000225923": 427,
+      "gas:candidate-vibid:1001000136030": 53,
+      "gas:candidate-vibid:1001000217909": 47,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 110,
-      "Воронин Павел Юрьевич": 716,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 368,
-      "Хлынов Михаил Иванович": 50,
-      "Хука Валерий Владимирович": 83,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121825": 110,
+      "gas:candidate-vibid:326300370808": 716,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 368,
+      "gas:candidate-vibid:1001000136030": 50,
+      "gas:candidate-vibid:1001000217909": 83,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 131,
-      "Воронин Павел Юрьевич": 739,
-      "Зубенко Виталий Григорьевич": 22,
-      "Куликов Анатолий Сергеевич": 179,
-      "Хлынов Михаил Иванович": 59,
-      "Хука Валерий Владимирович": 82,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121825": 131,
+      "gas:candidate-vibid:326300370808": 739,
+      "gas:candidate-vibid:1001000112199": 22,
+      "gas:candidate-vibid:1001000225923": 179,
+      "gas:candidate-vibid:1001000136030": 59,
+      "gas:candidate-vibid:1001000217909": 82,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 3,
-      "Воронин Павел Юрьевич": 54,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 112,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 14,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121825": 3,
+      "gas:candidate-vibid:326300370808": 54,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 112,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 14,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 22,
-      "Воронин Павел Юрьевич": 176,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 111,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 52,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121825": 22,
+      "gas:candidate-vibid:326300370808": 176,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 111,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 52,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 27,
-      "Воронин Павел Юрьевич": 283,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 134,
-      "Хлынов Михаил Иванович": 29,
-      "Хука Валерий Владимирович": 58,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121825": 27,
+      "gas:candidate-vibid:326300370808": 283,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 134,
+      "gas:candidate-vibid:1001000136030": 29,
+      "gas:candidate-vibid:1001000217909": 58,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 41,
-      "Воронин Павел Юрьевич": 598,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 123,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 63,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121825": 41,
+      "gas:candidate-vibid:326300370808": 598,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 123,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 63,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 51,
-      "Воронин Павел Юрьевич": 161,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 114,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 36,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121825": 51,
+      "gas:candidate-vibid:326300370808": 161,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 114,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 36,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 52,
-      "Воронин Павел Юрьевич": 212,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 107,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121825": 52,
+      "gas:candidate-vibid:326300370808": 212,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 107,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 52,
-      "Воронин Павел Юрьевич": 522,
-      "Зубенко Виталий Григорьевич": 11,
-      "Куликов Анатолий Сергеевич": 153,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121825": 52,
+      "gas:candidate-vibid:326300370808": 522,
+      "gas:candidate-vibid:1001000112199": 11,
+      "gas:candidate-vibid:1001000225923": 153,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 18,
-      "Воронин Павел Юрьевич": 279,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 59,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 39,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121825": 18,
+      "gas:candidate-vibid:326300370808": 279,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 59,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 39,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370422&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 189,
-      "Воронин Павел Юрьевич": 386,
-      "Зубенко Виталий Григорьевич": 28,
-      "Куликов Анатолий Сергеевич": 444,
-      "Хлынов Михаил Иванович": 46,
-      "Хука Валерий Владимирович": 30,
-      "Шарков Виктор Федорович": 25,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121825": 189,
+      "gas:candidate-vibid:326300370808": 386,
+      "gas:candidate-vibid:1001000112199": 28,
+      "gas:candidate-vibid:1001000225923": 444,
+      "gas:candidate-vibid:1001000136030": 46,
+      "gas:candidate-vibid:1001000217909": 30,
+      "gas:candidate-vibid:1001000250444": 25,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 135,
-      "Воронин Павел Юрьевич": 367,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 380,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 31,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000121825": 135,
+      "gas:candidate-vibid:326300370808": 367,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 380,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 31,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 88,
-      "Воронин Павел Юрьевич": 197,
-      "Зубенко Виталий Григорьевич": 22,
-      "Куликов Анатолий Сергеевич": 316,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 38,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121825": 88,
+      "gas:candidate-vibid:326300370808": 197,
+      "gas:candidate-vibid:1001000112199": 22,
+      "gas:candidate-vibid:1001000225923": 316,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 38,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 132,
-      "Воронин Павел Юрьевич": 279,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 254,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 37,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121825": 132,
+      "gas:candidate-vibid:326300370808": 279,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 254,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 37,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 162,
-      "Воронин Павел Юрьевич": 312,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 237,
-      "Хлынов Михаил Иванович": 24,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121825": 162,
+      "gas:candidate-vibid:326300370808": 312,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 237,
+      "gas:candidate-vibid:1001000136030": 24,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 92,
-      "Воронин Павел Юрьевич": 407,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 243,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000121825": 92,
+      "gas:candidate-vibid:326300370808": 407,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 243,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 23,
-      "Воронин Павел Юрьевич": 152,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 119,
-      "Хлынов Михаил Иванович": 21,
-      "Хука Валерий Владимирович": 20,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121825": 23,
+      "gas:candidate-vibid:326300370808": 152,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 119,
+      "gas:candidate-vibid:1001000136030": 21,
+      "gas:candidate-vibid:1001000217909": 20,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 94,
-      "Воронин Павел Юрьевич": 385,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 348,
-      "Хлынов Михаил Иванович": 47,
-      "Хука Валерий Владимирович": 85,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121825": 94,
+      "gas:candidate-vibid:326300370808": 385,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 348,
+      "gas:candidate-vibid:1001000136030": 47,
+      "gas:candidate-vibid:1001000217909": 85,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 68,
-      "Воронин Павел Юрьевич": 277,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 399,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 134,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121825": 68,
+      "gas:candidate-vibid:326300370808": 277,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 399,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 134,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 29,
-      "Воронин Павел Юрьевич": 175,
-      "Зубенко Виталий Григорьевич": 11,
-      "Куликов Анатолий Сергеевич": 280,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 53,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121825": 29,
+      "gas:candidate-vibid:326300370808": 175,
+      "gas:candidate-vibid:1001000112199": 11,
+      "gas:candidate-vibid:1001000225923": 280,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 53,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 77,
-      "Воронин Павел Юрьевич": 286,
-      "Зубенко Виталий Григорьевич": 27,
-      "Куликов Анатолий Сергеевич": 374,
-      "Хлынов Михаил Иванович": 12,
-      "Хука Валерий Владимирович": 33,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121825": 77,
+      "gas:candidate-vibid:326300370808": 286,
+      "gas:candidate-vibid:1001000112199": 27,
+      "gas:candidate-vibid:1001000225923": 374,
+      "gas:candidate-vibid:1001000136030": 12,
+      "gas:candidate-vibid:1001000217909": 33,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 299,
-      "Воронин Павел Юрьевич": 247,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 268,
-      "Хлынов Михаил Иванович": 11,
-      "Хука Валерий Владимирович": 76,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121825": 299,
+      "gas:candidate-vibid:326300370808": 247,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 268,
+      "gas:candidate-vibid:1001000136030": 11,
+      "gas:candidate-vibid:1001000217909": 76,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 74,
-      "Воронин Павел Юрьевич": 192,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 367,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 40,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121825": 74,
+      "gas:candidate-vibid:326300370808": 192,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 367,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 40,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 50,
-      "Воронин Павел Юрьевич": 110,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 127,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121825": 50,
+      "gas:candidate-vibid:326300370808": 110,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 127,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 8,
-      "Воронин Павел Юрьевич": 34,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 73,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121825": 8,
+      "gas:candidate-vibid:326300370808": 34,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 73,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 12,
-      "Воронин Павел Юрьевич": 36,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 77,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121825": 12,
+      "gas:candidate-vibid:326300370808": 36,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 77,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 61,
-      "Воронин Павел Юрьевич": 188,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 499,
-      "Хлынов Михаил Иванович": 11,
-      "Хука Валерий Владимирович": 40,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121825": 61,
+      "gas:candidate-vibid:326300370808": 188,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 499,
+      "gas:candidate-vibid:1001000136030": 11,
+      "gas:candidate-vibid:1001000217909": 40,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 226,
-      "Воронин Павел Юрьевич": 323,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 218,
-      "Хлынов Михаил Иванович": 39,
-      "Хука Валерий Владимирович": 105,
-      "Шарков Виктор Федорович": 29,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121825": 226,
+      "gas:candidate-vibid:326300370808": 323,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 218,
+      "gas:candidate-vibid:1001000136030": 39,
+      "gas:candidate-vibid:1001000217909": 105,
+      "gas:candidate-vibid:1001000250444": 29,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370423&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 168,
-      "Воронин Павел Юрьевич": 278,
-      "Зубенко Виталий Григорьевич": 38,
-      "Куликов Анатолий Сергеевич": 437,
-      "Хлынов Михаил Иванович": 101,
-      "Хука Валерий Владимирович": 32,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121825": 168,
+      "gas:candidate-vibid:326300370808": 278,
+      "gas:candidate-vibid:1001000112199": 38,
+      "gas:candidate-vibid:1001000225923": 437,
+      "gas:candidate-vibid:1001000136030": 101,
+      "gas:candidate-vibid:1001000217909": 32,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 154,
-      "Воронин Павел Юрьевич": 223,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 286,
-      "Хлынов Михаил Иванович": 72,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121825": 154,
+      "gas:candidate-vibid:326300370808": 223,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 286,
+      "gas:candidate-vibid:1001000136030": 72,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 152,
-      "Воронин Павел Юрьевич": 177,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 289,
-      "Хлынов Михаил Иванович": 81,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 20,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121825": 152,
+      "gas:candidate-vibid:326300370808": 177,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 289,
+      "gas:candidate-vibid:1001000136030": 81,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 20,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 101,
-      "Воронин Павел Юрьевич": 118,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 137,
-      "Хлынов Михаил Иванович": 54,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121825": 101,
+      "gas:candidate-vibid:326300370808": 118,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 137,
+      "gas:candidate-vibid:1001000136030": 54,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 51,
-      "Воронин Павел Юрьевич": 67,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 123,
-      "Хлынов Михаил Иванович": 19,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121825": 51,
+      "gas:candidate-vibid:326300370808": 67,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 123,
+      "gas:candidate-vibid:1001000136030": 19,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 87,
-      "Воронин Павел Юрьевич": 278,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 306,
-      "Хлынов Михаил Иванович": 29,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121825": 87,
+      "gas:candidate-vibid:326300370808": 278,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 306,
+      "gas:candidate-vibid:1001000136030": 29,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 13,
-      "Воронин Павел Юрьевич": 71,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 60,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121825": 13,
+      "gas:candidate-vibid:326300370808": 71,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 60,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 36,
-      "Воронин Павел Юрьевич": 70,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 104,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121825": 36,
+      "gas:candidate-vibid:326300370808": 70,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 104,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 62,
-      "Воронин Павел Юрьевич": 74,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 191,
-      "Хлынов Михаил Иванович": 11,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121825": 62,
+      "gas:candidate-vibid:326300370808": 74,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 191,
+      "gas:candidate-vibid:1001000136030": 11,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 64,
-      "Воронин Павел Юрьевич": 135,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 183,
-      "Хлынов Михаил Иванович": 27,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121825": 64,
+      "gas:candidate-vibid:326300370808": 135,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 183,
+      "gas:candidate-vibid:1001000136030": 27,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 17,
-      "Воронин Павел Юрьевич": 42,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 55,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121825": 17,
+      "gas:candidate-vibid:326300370808": 42,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 55,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 200,
-      "Воронин Павел Юрьевич": 144,
-      "Зубенко Виталий Григорьевич": 10,
-      "Куликов Анатолий Сергеевич": 146,
-      "Хлынов Михаил Иванович": 21,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121825": 200,
+      "gas:candidate-vibid:326300370808": 144,
+      "gas:candidate-vibid:1001000112199": 10,
+      "gas:candidate-vibid:1001000225923": 146,
+      "gas:candidate-vibid:1001000136030": 21,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 38,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 5,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 38,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 5,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 48,
-      "Воронин Павел Юрьевич": 43,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 29,
-      "Хлынов Михаил Иванович": 8,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 48,
+      "gas:candidate-vibid:326300370808": 43,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 29,
+      "gas:candidate-vibid:1001000136030": 8,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 30,
-      "Воронин Павел Юрьевич": 134,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 100,
-      "Хлынов Михаил Иванович": 12,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121825": 30,
+      "gas:candidate-vibid:326300370808": 134,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 100,
+      "gas:candidate-vibid:1001000136030": 12,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 59,
-      "Воронин Павел Юрьевич": 240,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 173,
-      "Хлынов Михаил Иванович": 22,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121825": 59,
+      "gas:candidate-vibid:326300370808": 240,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 173,
+      "gas:candidate-vibid:1001000136030": 22,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 22,
-      "Воронин Павел Юрьевич": 23,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 122,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121825": 22,
+      "gas:candidate-vibid:326300370808": 23,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 122,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 38,
-      "Воронин Павел Юрьевич": 27,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 54,
-      "Хлынов Михаил Иванович": 11,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 38,
+      "gas:candidate-vibid:326300370808": 27,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 54,
+      "gas:candidate-vibid:1001000136030": 11,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 55,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 21,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 55,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 21,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 0,
-      "Воронин Павел Юрьевич": 34,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 48,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 61,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121825": 0,
+      "gas:candidate-vibid:326300370808": 34,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 48,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 61,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 3,
-      "Воронин Павел Юрьевич": 46,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 16,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121825": 3,
+      "gas:candidate-vibid:326300370808": 46,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 16,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 49,
-      "Воронин Павел Юрьевич": 209,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 173,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 34,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121825": 49,
+      "gas:candidate-vibid:326300370808": 209,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 173,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 34,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 126,
-      "Воронин Павел Юрьевич": 183,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 139,
-      "Хлынов Михаил Иванович": 26,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121825": 126,
+      "gas:candidate-vibid:326300370808": 183,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 139,
+      "gas:candidate-vibid:1001000136030": 26,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 36,
-      "Воронин Павел Юрьевич": 328,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 260,
-      "Хлынов Михаил Иванович": 27,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121825": 36,
+      "gas:candidate-vibid:326300370808": 328,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 260,
+      "gas:candidate-vibid:1001000136030": 27,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 64,
-      "Воронин Павел Юрьевич": 182,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 198,
-      "Хлынов Михаил Иванович": 25,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121825": 64,
+      "gas:candidate-vibid:326300370808": 182,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 198,
+      "gas:candidate-vibid:1001000136030": 25,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 69,
-      "Воронин Павел Юрьевич": 173,
-      "Зубенко Виталий Григорьевич": 10,
-      "Куликов Анатолий Сергеевич": 200,
-      "Хлынов Михаил Иванович": 37,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121825": 69,
+      "gas:candidate-vibid:326300370808": 173,
+      "gas:candidate-vibid:1001000112199": 10,
+      "gas:candidate-vibid:1001000225923": 200,
+      "gas:candidate-vibid:1001000136030": 37,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 56,
-      "Воронин Павел Юрьевич": 99,
-      "Зубенко Виталий Григорьевич": 30,
-      "Куликов Анатолий Сергеевич": 249,
-      "Хлынов Михаил Иванович": 43,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121825": 56,
+      "gas:candidate-vibid:326300370808": 99,
+      "gas:candidate-vibid:1001000112199": 30,
+      "gas:candidate-vibid:1001000225923": 249,
+      "gas:candidate-vibid:1001000136030": 43,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 1,
-      "Воронин Павел Юрьевич": 7,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 28,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121825": 1,
+      "gas:candidate-vibid:326300370808": 7,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 28,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370424&region=0&sub_region=0&type=429",
@@ -13551,22 +13551,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 172,
-      "Бунятов Вячеслав Эдуардович": 14,
-      "Дьяконов Борис Борисович": 14,
-      "Ивер Василий Михайлович": 103,
-      "Козлов Александр Геннадьевич": 5,
-      "Красуля Василий Александрович": 14,
-      "Кузьмин Александр Сергеевич": 143,
-      "Кузьмин Михаил Владимирович": 210,
-      "Луценко Игорь Иванович": 8,
-      "Мун Сергей Олегович": 4,
-      "Паньков Юрий Иванович": 9,
-      "Семенченко Анатолий Федорович": 162,
-      "Траспов Александр Михайлович": 20,
-      "Трембачева Татьяна Викторовна": 5,
-      "Харитонов Сергей Алексеевич": 13,
-      "Против всех": 124
+      "gas:candidate-vibid:326300470860": 172,
+      "gas:candidate-vibid:326300470590": 14,
+      "gas:candidate-vibid:1001000112200": 14,
+      "gas:candidate-vibid:1001000121826": 103,
+      "gas:candidate-vibid:326300470799": 5,
+      "gas:candidate-vibid:1001000118555": 14,
+      "gas:candidate-vibid:326300470759": 143,
+      "gas:candidate-vibid:326300470804": 210,
+      "gas:candidate-vibid:326300470990": 8,
+      "gas:candidate-vibid:326300470792": 4,
+      "gas:candidate-vibid:1001000217910": 9,
+      "gas:candidate-vibid:326300470486": 162,
+      "gas:candidate-vibid:1001000136031": 20,
+      "special:official-result-label:57": 5,
+      "gas:candidate-vibid:326300470742": 13,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -13616,22 +13616,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 156,
-      "Бунятов Вячеслав Эдуардович": 54,
-      "Дьяконов Борис Борисович": 30,
-      "Ивер Василий Михайлович": 181,
-      "Козлов Александр Геннадьевич": 15,
-      "Красуля Василий Александрович": 15,
-      "Кузьмин Александр Сергеевич": 183,
-      "Кузьмин Михаил Владимирович": 164,
-      "Луценко Игорь Иванович": 10,
-      "Мун Сергей Олегович": 6,
-      "Паньков Юрий Иванович": 15,
-      "Семенченко Анатолий Федорович": 179,
-      "Траспов Александр Михайлович": 46,
-      "Трембачева Татьяна Викторовна": 8,
-      "Харитонов Сергей Алексеевич": 23,
-      "Против всех": 171
+      "gas:candidate-vibid:326300470860": 156,
+      "gas:candidate-vibid:326300470590": 54,
+      "gas:candidate-vibid:1001000112200": 30,
+      "gas:candidate-vibid:1001000121826": 181,
+      "gas:candidate-vibid:326300470799": 15,
+      "gas:candidate-vibid:1001000118555": 15,
+      "gas:candidate-vibid:326300470759": 183,
+      "gas:candidate-vibid:326300470804": 164,
+      "gas:candidate-vibid:326300470990": 10,
+      "gas:candidate-vibid:326300470792": 6,
+      "gas:candidate-vibid:1001000217910": 15,
+      "gas:candidate-vibid:326300470486": 179,
+      "gas:candidate-vibid:1001000136031": 46,
+      "special:official-result-label:57": 8,
+      "gas:candidate-vibid:326300470742": 23,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -13681,22 +13681,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 77,
-      "Бунятов Вячеслав Эдуардович": 19,
-      "Дьяконов Борис Борисович": 22,
-      "Ивер Василий Михайлович": 68,
-      "Козлов Александр Геннадьевич": 23,
-      "Красуля Василий Александрович": 10,
-      "Кузьмин Александр Сергеевич": 437,
-      "Кузьмин Михаил Владимирович": 138,
-      "Луценко Игорь Иванович": 13,
-      "Мун Сергей Олегович": 9,
-      "Паньков Юрий Иванович": 4,
-      "Семенченко Анатолий Федорович": 133,
-      "Траспов Александр Михайлович": 24,
-      "Трембачева Татьяна Викторовна": 48,
-      "Харитонов Сергей Алексеевич": 16,
-      "Против всех": 213
+      "gas:candidate-vibid:326300470860": 77,
+      "gas:candidate-vibid:326300470590": 19,
+      "gas:candidate-vibid:1001000112200": 22,
+      "gas:candidate-vibid:1001000121826": 68,
+      "gas:candidate-vibid:326300470799": 23,
+      "gas:candidate-vibid:1001000118555": 10,
+      "gas:candidate-vibid:326300470759": 437,
+      "gas:candidate-vibid:326300470804": 138,
+      "gas:candidate-vibid:326300470990": 13,
+      "gas:candidate-vibid:326300470792": 9,
+      "gas:candidate-vibid:1001000217910": 4,
+      "gas:candidate-vibid:326300470486": 133,
+      "gas:candidate-vibid:1001000136031": 24,
+      "special:official-result-label:57": 48,
+      "gas:candidate-vibid:326300470742": 16,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -13746,22 +13746,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 73,
-      "Бунятов Вячеслав Эдуардович": 11,
-      "Дьяконов Борис Борисович": 12,
-      "Ивер Василий Михайлович": 53,
-      "Козлов Александр Геннадьевич": 2,
-      "Красуля Василий Александрович": 5,
-      "Кузьмин Александр Сергеевич": 94,
-      "Кузьмин Михаил Владимирович": 117,
-      "Луценко Игорь Иванович": 9,
-      "Мун Сергей Олегович": 2,
-      "Паньков Юрий Иванович": 11,
-      "Семенченко Анатолий Федорович": 88,
-      "Траспов Александр Михайлович": 16,
-      "Трембачева Татьяна Викторовна": 10,
-      "Харитонов Сергей Алексеевич": 6,
-      "Против всех": 92
+      "gas:candidate-vibid:326300470860": 73,
+      "gas:candidate-vibid:326300470590": 11,
+      "gas:candidate-vibid:1001000112200": 12,
+      "gas:candidate-vibid:1001000121826": 53,
+      "gas:candidate-vibid:326300470799": 2,
+      "gas:candidate-vibid:1001000118555": 5,
+      "gas:candidate-vibid:326300470759": 94,
+      "gas:candidate-vibid:326300470804": 117,
+      "gas:candidate-vibid:326300470990": 9,
+      "gas:candidate-vibid:326300470792": 2,
+      "gas:candidate-vibid:1001000217910": 11,
+      "gas:candidate-vibid:326300470486": 88,
+      "gas:candidate-vibid:1001000136031": 16,
+      "special:official-result-label:57": 10,
+      "gas:candidate-vibid:326300470742": 6,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -13811,22 +13811,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 79,
-      "Бунятов Вячеслав Эдуардович": 13,
-      "Дьяконов Борис Борисович": 14,
-      "Ивер Василий Михайлович": 85,
-      "Козлов Александр Геннадьевич": 5,
-      "Красуля Василий Александрович": 3,
-      "Кузьмин Александр Сергеевич": 110,
-      "Кузьмин Михаил Владимирович": 163,
-      "Луценко Игорь Иванович": 2,
-      "Мун Сергей Олегович": 2,
-      "Паньков Юрий Иванович": 5,
-      "Семенченко Анатолий Федорович": 101,
-      "Траспов Александр Михайлович": 12,
-      "Трембачева Татьяна Викторовна": 10,
-      "Харитонов Сергей Алексеевич": 5,
-      "Против всех": 63
+      "gas:candidate-vibid:326300470860": 79,
+      "gas:candidate-vibid:326300470590": 13,
+      "gas:candidate-vibid:1001000112200": 14,
+      "gas:candidate-vibid:1001000121826": 85,
+      "gas:candidate-vibid:326300470799": 5,
+      "gas:candidate-vibid:1001000118555": 3,
+      "gas:candidate-vibid:326300470759": 110,
+      "gas:candidate-vibid:326300470804": 163,
+      "gas:candidate-vibid:326300470990": 2,
+      "gas:candidate-vibid:326300470792": 2,
+      "gas:candidate-vibid:1001000217910": 5,
+      "gas:candidate-vibid:326300470486": 101,
+      "gas:candidate-vibid:1001000136031": 12,
+      "special:official-result-label:57": 10,
+      "gas:candidate-vibid:326300470742": 5,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -13876,22 +13876,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 62,
-      "Бунятов Вячеслав Эдуардович": 8,
-      "Дьяконов Борис Борисович": 13,
-      "Ивер Василий Михайлович": 32,
-      "Козлов Александр Геннадьевич": 22,
-      "Красуля Василий Александрович": 8,
-      "Кузьмин Александр Сергеевич": 84,
-      "Кузьмин Михаил Владимирович": 137,
-      "Луценко Игорь Иванович": 7,
-      "Мун Сергей Олегович": 11,
-      "Паньков Юрий Иванович": 10,
-      "Семенченко Анатолий Федорович": 145,
-      "Траспов Александр Михайлович": 18,
-      "Трембачева Татьяна Викторовна": 19,
-      "Харитонов Сергей Алексеевич": 8,
-      "Против всех": 265
+      "gas:candidate-vibid:326300470860": 62,
+      "gas:candidate-vibid:326300470590": 8,
+      "gas:candidate-vibid:1001000112200": 13,
+      "gas:candidate-vibid:1001000121826": 32,
+      "gas:candidate-vibid:326300470799": 22,
+      "gas:candidate-vibid:1001000118555": 8,
+      "gas:candidate-vibid:326300470759": 84,
+      "gas:candidate-vibid:326300470804": 137,
+      "gas:candidate-vibid:326300470990": 7,
+      "gas:candidate-vibid:326300470792": 11,
+      "gas:candidate-vibid:1001000217910": 10,
+      "gas:candidate-vibid:326300470486": 145,
+      "gas:candidate-vibid:1001000136031": 18,
+      "special:official-result-label:57": 19,
+      "gas:candidate-vibid:326300470742": 8,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -13941,22 +13941,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 26,
-      "Бунятов Вячеслав Эдуардович": 3,
-      "Дьяконов Борис Борисович": 8,
-      "Ивер Василий Михайлович": 12,
-      "Козлов Александр Геннадьевич": 1,
-      "Красуля Василий Александрович": 3,
-      "Кузьмин Александр Сергеевич": 26,
-      "Кузьмин Михаил Владимирович": 49,
-      "Луценко Игорь Иванович": 1,
-      "Мун Сергей Олегович": 1,
-      "Паньков Юрий Иванович": 2,
-      "Семенченко Анатолий Федорович": 42,
-      "Траспов Александр Михайлович": 7,
-      "Трембачева Татьяна Викторовна": 4,
-      "Харитонов Сергей Алексеевич": 5,
-      "Против всех": 32
+      "gas:candidate-vibid:326300470860": 26,
+      "gas:candidate-vibid:326300470590": 3,
+      "gas:candidate-vibid:1001000112200": 8,
+      "gas:candidate-vibid:1001000121826": 12,
+      "gas:candidate-vibid:326300470799": 1,
+      "gas:candidate-vibid:1001000118555": 3,
+      "gas:candidate-vibid:326300470759": 26,
+      "gas:candidate-vibid:326300470804": 49,
+      "gas:candidate-vibid:326300470990": 1,
+      "gas:candidate-vibid:326300470792": 1,
+      "gas:candidate-vibid:1001000217910": 2,
+      "gas:candidate-vibid:326300470486": 42,
+      "gas:candidate-vibid:1001000136031": 7,
+      "special:official-result-label:57": 4,
+      "gas:candidate-vibid:326300470742": 5,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -14006,22 +14006,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 83,
-      "Бунятов Вячеслав Эдуардович": 21,
-      "Дьяконов Борис Борисович": 13,
-      "Ивер Василий Михайлович": 38,
-      "Козлов Александр Геннадьевич": 0,
-      "Красуля Василий Александрович": 4,
-      "Кузьмин Александр Сергеевич": 91,
-      "Кузьмин Михаил Владимирович": 138,
-      "Луценко Игорь Иванович": 2,
-      "Мун Сергей Олегович": 1,
-      "Паньков Юрий Иванович": 2,
-      "Семенченко Анатолий Федорович": 60,
-      "Траспов Александр Михайлович": 9,
-      "Трембачева Татьяна Викторовна": 6,
-      "Харитонов Сергей Алексеевич": 3,
-      "Против всех": 55
+      "gas:candidate-vibid:326300470860": 83,
+      "gas:candidate-vibid:326300470590": 21,
+      "gas:candidate-vibid:1001000112200": 13,
+      "gas:candidate-vibid:1001000121826": 38,
+      "gas:candidate-vibid:326300470799": 0,
+      "gas:candidate-vibid:1001000118555": 4,
+      "gas:candidate-vibid:326300470759": 91,
+      "gas:candidate-vibid:326300470804": 138,
+      "gas:candidate-vibid:326300470990": 2,
+      "gas:candidate-vibid:326300470792": 1,
+      "gas:candidate-vibid:1001000217910": 2,
+      "gas:candidate-vibid:326300470486": 60,
+      "gas:candidate-vibid:1001000136031": 9,
+      "special:official-result-label:57": 6,
+      "gas:candidate-vibid:326300470742": 3,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -14071,22 +14071,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 68,
-      "Бунятов Вячеслав Эдуардович": 8,
-      "Дьяконов Борис Борисович": 6,
-      "Ивер Василий Михайлович": 59,
-      "Козлов Александр Геннадьевич": 14,
-      "Красуля Василий Александрович": 6,
-      "Кузьмин Александр Сергеевич": 76,
-      "Кузьмин Михаил Владимирович": 174,
-      "Луценко Игорь Иванович": 6,
-      "Мун Сергей Олегович": 0,
-      "Паньков Юрий Иванович": 13,
-      "Семенченко Анатолий Федорович": 98,
-      "Траспов Александр Михайлович": 15,
-      "Трембачева Татьяна Викторовна": 7,
-      "Харитонов Сергей Алексеевич": 10,
-      "Против всех": 84
+      "gas:candidate-vibid:326300470860": 68,
+      "gas:candidate-vibid:326300470590": 8,
+      "gas:candidate-vibid:1001000112200": 6,
+      "gas:candidate-vibid:1001000121826": 59,
+      "gas:candidate-vibid:326300470799": 14,
+      "gas:candidate-vibid:1001000118555": 6,
+      "gas:candidate-vibid:326300470759": 76,
+      "gas:candidate-vibid:326300470804": 174,
+      "gas:candidate-vibid:326300470990": 6,
+      "gas:candidate-vibid:326300470792": 0,
+      "gas:candidate-vibid:1001000217910": 13,
+      "gas:candidate-vibid:326300470486": 98,
+      "gas:candidate-vibid:1001000136031": 15,
+      "special:official-result-label:57": 7,
+      "gas:candidate-vibid:326300470742": 10,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -14136,22 +14136,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 139,
-      "Бунятов Вячеслав Эдуардович": 21,
-      "Дьяконов Борис Борисович": 23,
-      "Ивер Василий Михайлович": 100,
-      "Козлов Александр Геннадьевич": 13,
-      "Красуля Василий Александрович": 8,
-      "Кузьмин Александр Сергеевич": 92,
-      "Кузьмин Михаил Владимирович": 212,
-      "Луценко Игорь Иванович": 4,
-      "Мун Сергей Олегович": 5,
-      "Паньков Юрий Иванович": 8,
-      "Семенченко Анатолий Федорович": 150,
-      "Траспов Александр Михайлович": 27,
-      "Трембачева Татьяна Викторовна": 8,
-      "Харитонов Сергей Алексеевич": 22,
-      "Против всех": 134
+      "gas:candidate-vibid:326300470860": 139,
+      "gas:candidate-vibid:326300470590": 21,
+      "gas:candidate-vibid:1001000112200": 23,
+      "gas:candidate-vibid:1001000121826": 100,
+      "gas:candidate-vibid:326300470799": 13,
+      "gas:candidate-vibid:1001000118555": 8,
+      "gas:candidate-vibid:326300470759": 92,
+      "gas:candidate-vibid:326300470804": 212,
+      "gas:candidate-vibid:326300470990": 4,
+      "gas:candidate-vibid:326300470792": 5,
+      "gas:candidate-vibid:1001000217910": 8,
+      "gas:candidate-vibid:326300470486": 150,
+      "gas:candidate-vibid:1001000136031": 27,
+      "special:official-result-label:57": 8,
+      "gas:candidate-vibid:326300470742": 22,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -14201,22 +14201,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 124,
-      "Бунятов Вячеслав Эдуардович": 18,
-      "Дьяконов Борис Борисович": 18,
-      "Ивер Василий Михайлович": 80,
-      "Козлов Александр Геннадьевич": 4,
-      "Красуля Василий Александрович": 6,
-      "Кузьмин Александр Сергеевич": 172,
-      "Кузьмин Михаил Владимирович": 219,
-      "Луценко Игорь Иванович": 3,
-      "Мун Сергей Олегович": 4,
-      "Паньков Юрий Иванович": 6,
-      "Семенченко Анатолий Федорович": 127,
-      "Траспов Александр Михайлович": 31,
-      "Трембачева Татьяна Викторовна": 11,
-      "Харитонов Сергей Алексеевич": 12,
-      "Против всех": 173
+      "gas:candidate-vibid:326300470860": 124,
+      "gas:candidate-vibid:326300470590": 18,
+      "gas:candidate-vibid:1001000112200": 18,
+      "gas:candidate-vibid:1001000121826": 80,
+      "gas:candidate-vibid:326300470799": 4,
+      "gas:candidate-vibid:1001000118555": 6,
+      "gas:candidate-vibid:326300470759": 172,
+      "gas:candidate-vibid:326300470804": 219,
+      "gas:candidate-vibid:326300470990": 3,
+      "gas:candidate-vibid:326300470792": 4,
+      "gas:candidate-vibid:1001000217910": 6,
+      "gas:candidate-vibid:326300470486": 127,
+      "gas:candidate-vibid:1001000136031": 31,
+      "special:official-result-label:57": 11,
+      "gas:candidate-vibid:326300470742": 12,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -14266,22 +14266,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 90,
-      "Бунятов Вячеслав Эдуардович": 8,
-      "Дьяконов Борис Борисович": 10,
-      "Ивер Василий Михайлович": 54,
-      "Козлов Александр Геннадьевич": 11,
-      "Красуля Василий Александрович": 7,
-      "Кузьмин Александр Сергеевич": 196,
-      "Кузьмин Михаил Владимирович": 112,
-      "Луценко Игорь Иванович": 0,
-      "Мун Сергей Олегович": 0,
-      "Паньков Юрий Иванович": 5,
-      "Семенченко Анатолий Федорович": 88,
-      "Траспов Александр Михайлович": 17,
-      "Трембачева Татьяна Викторовна": 7,
-      "Харитонов Сергей Алексеевич": 16,
-      "Против всех": 84
+      "gas:candidate-vibid:326300470860": 90,
+      "gas:candidate-vibid:326300470590": 8,
+      "gas:candidate-vibid:1001000112200": 10,
+      "gas:candidate-vibid:1001000121826": 54,
+      "gas:candidate-vibid:326300470799": 11,
+      "gas:candidate-vibid:1001000118555": 7,
+      "gas:candidate-vibid:326300470759": 196,
+      "gas:candidate-vibid:326300470804": 112,
+      "gas:candidate-vibid:326300470990": 0,
+      "gas:candidate-vibid:326300470792": 0,
+      "gas:candidate-vibid:1001000217910": 5,
+      "gas:candidate-vibid:326300470486": 88,
+      "gas:candidate-vibid:1001000136031": 17,
+      "special:official-result-label:57": 7,
+      "gas:candidate-vibid:326300470742": 16,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",
@@ -14331,22 +14331,22 @@ export const duma_2003_uik_428_region_26_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Брыкалов Владимир Иванович": 193,
-      "Бунятов Вячеслав Эдуардович": 20,
-      "Дьяконов Борис Борисович": 21,
-      "Ивер Василий Михайлович": 109,
-      "Козлов Александр Геннадьевич": 19,
-      "Красуля Василий Александрович": 2,
-      "Кузьмин Александр Сергеевич": 259,
-      "Кузьмин Михаил Владимирович": 203,
-      "Луценко Игорь Иванович": 8,
-      "Мун Сергей Олегович": 5,
-      "Паньков Юрий Иванович": 19,
-      "Семенченко Анатолий Федорович": 178,
-      "Траспов Александр Михайлович": 35,
-      "Трембачева Татьяна Викторовна": 19,
-      "Харитонов Сергей Алексеевич": 27,
-      "Против всех": 106
+      "gas:candidate-vibid:326300470860": 193,
+      "gas:candidate-vibid:326300470590": 20,
+      "gas:candidate-vibid:1001000112200": 21,
+      "gas:candidate-vibid:1001000121826": 109,
+      "gas:candidate-vibid:326300470799": 19,
+      "gas:candidate-vibid:1001000118555": 2,
+      "gas:candidate-vibid:326300470759": 259,
+      "gas:candidate-vibid:326300470804": 203,
+      "gas:candidate-vibid:326300470990": 8,
+      "gas:candidate-vibid:326300470792": 5,
+      "gas:candidate-vibid:1001000217910": 19,
+      "gas:candidate-vibid:326300470486": 178,
+      "gas:candidate-vibid:1001000136031": 35,
+      "special:official-result-label:57": 19,
+      "gas:candidate-vibid:326300470742": 27,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300470443&region=0&sub_region=0&type=429",

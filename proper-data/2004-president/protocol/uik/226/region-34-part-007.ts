@@ -37,13 +37,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 23,
-      "Малышкин Олег Александрович": 11,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 468,
-      "Хакамада Ирина Муцуовна": 6,
-      "Харитонов Николай Михайлович": 151,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000894540": 23,
+      "gas:candidate-vibid:1001000893101": 11,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 468,
+      "gas:candidate-vibid:1001000894545": 6,
+      "gas:candidate-vibid:1001000894173": 151,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -88,13 +88,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 2,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 55,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 2,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 55,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -139,13 +139,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 86,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 16,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 86,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 16,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -190,13 +190,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 9,
-      "Малышкин Олег Александрович": 4,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 163,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 45,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 9,
+      "gas:candidate-vibid:1001000893101": 4,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 163,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 45,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -241,13 +241,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 60,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 29,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 60,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 29,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -292,13 +292,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 124,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 56,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 124,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 56,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -343,13 +343,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 71,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 27,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 71,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 27,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -394,13 +394,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 78,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 15,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 78,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 15,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -445,13 +445,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 17,
-      "Малышкин Олег Александрович": 18,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 241,
-      "Хакамада Ирина Муцуовна": 9,
-      "Харитонов Николай Михайлович": 72,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000894540": 17,
+      "gas:candidate-vibid:1001000893101": 18,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 241,
+      "gas:candidate-vibid:1001000894545": 9,
+      "gas:candidate-vibid:1001000894173": 72,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -496,13 +496,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 280,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 85,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 280,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 85,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -547,13 +547,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 118,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 29,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 118,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 29,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -598,13 +598,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 14,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 191,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 84,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 14,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 191,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 84,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -649,13 +649,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 141,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 67,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 141,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 67,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -700,13 +700,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 30,
-      "Малышкин Олег Александрович": 22,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 464,
-      "Хакамада Ирина Муцуовна": 14,
-      "Харитонов Николай Михайлович": 99,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000894540": 30,
+      "gas:candidate-vibid:1001000893101": 22,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 464,
+      "gas:candidate-vibid:1001000894545": 14,
+      "gas:candidate-vibid:1001000894173": 99,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -751,13 +751,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 9,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 88,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 48,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 9,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 88,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 48,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -802,13 +802,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 9,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 214,
-      "Хакамада Ирина Муцуовна": 6,
-      "Харитонов Николай Михайлович": 96,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 9,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 214,
+      "gas:candidate-vibid:1001000894545": 6,
+      "gas:candidate-vibid:1001000894173": 96,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -853,13 +853,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 206,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 112,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 206,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 112,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -904,13 +904,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 1,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 39,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 31,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 1,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 39,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 31,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -955,13 +955,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 243,
-      "Хакамада Ирина Муцуовна": 7,
-      "Харитонов Николай Михайлович": 84,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 243,
+      "gas:candidate-vibid:1001000894545": 7,
+      "gas:candidate-vibid:1001000894173": 84,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1006,13 +1006,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 1,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 66,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 1,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 66,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 34,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1057,13 +1057,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 3,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 117,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 75,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 3,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 117,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 75,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1108,13 +1108,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 0,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 35,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 0,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 35,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1159,13 +1159,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 11,
-      "Малышкин Олег Александрович": 9,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 297,
-      "Хакамада Ирина Муцуовна": 13,
-      "Харитонов Николай Михайлович": 221,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000894540": 11,
+      "gas:candidate-vibid:1001000893101": 9,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 297,
+      "gas:candidate-vibid:1001000894545": 13,
+      "gas:candidate-vibid:1001000894173": 221,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1210,13 +1210,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 0,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 39,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 0,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 39,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1261,13 +1261,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 33,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 28,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 33,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 28,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1312,13 +1312,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 54,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 54,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1363,13 +1363,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 10,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 300,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 123,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 10,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 300,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 123,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1414,13 +1414,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 62,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 62,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1465,13 +1465,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 17,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 121,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 134,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000894540": 17,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 121,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 134,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1516,13 +1516,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 128,
-      "Хакамада Ирина Муцуовна": 6,
-      "Харитонов Николай Михайлович": 82,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 128,
+      "gas:candidate-vibid:1001000894545": 6,
+      "gas:candidate-vibid:1001000894173": 82,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1567,13 +1567,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 16,
-      "Малышкин Олег Александрович": 24,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 484,
-      "Хакамада Ирина Муцуовна": 22,
-      "Харитонов Николай Михайлович": 264,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000894540": 16,
+      "gas:candidate-vibid:1001000893101": 24,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 484,
+      "gas:candidate-vibid:1001000894545": 22,
+      "gas:candidate-vibid:1001000894173": 264,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1618,13 +1618,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 129,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 66,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 129,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 66,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1669,13 +1669,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 154,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 89,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 154,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 89,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084809&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084809&type=227",
@@ -1720,13 +1720,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 48,
-      "Малышкин Олег Александрович": 16,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 785,
-      "Хакамада Ирина Муцуовна": 41,
-      "Харитонов Николай Михайлович": 313,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000894540": 48,
+      "gas:candidate-vibid:1001000893101": 16,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 785,
+      "gas:candidate-vibid:1001000894545": 41,
+      "gas:candidate-vibid:1001000894173": 313,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -1771,13 +1771,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 56,
-      "Малышкин Олег Александрович": 27,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 880,
-      "Хакамада Ирина Муцуовна": 41,
-      "Харитонов Николай Михайлович": 362,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000894540": 56,
+      "gas:candidate-vibid:1001000893101": 27,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 880,
+      "gas:candidate-vibid:1001000894545": 41,
+      "gas:candidate-vibid:1001000894173": 362,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -1822,13 +1822,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 63,
-      "Малышкин Олег Александрович": 14,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 805,
-      "Хакамада Ирина Муцуовна": 42,
-      "Харитонов Николай Михайлович": 363,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000894540": 63,
+      "gas:candidate-vibid:1001000893101": 14,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 805,
+      "gas:candidate-vibid:1001000894545": 42,
+      "gas:candidate-vibid:1001000894173": 363,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -1873,13 +1873,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 37,
-      "Малышкин Олег Александрович": 13,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 677,
-      "Хакамада Ирина Муцуовна": 34,
-      "Харитонов Николай Михайлович": 173,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000894540": 37,
+      "gas:candidate-vibid:1001000893101": 13,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 677,
+      "gas:candidate-vibid:1001000894545": 34,
+      "gas:candidate-vibid:1001000894173": 173,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -1924,13 +1924,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 85,
-      "Малышкин Олег Александрович": 23,
-      "Миронов Сергей Михайлович": 13,
-      "Путин Владимир Владимирович": 1012,
-      "Хакамада Ирина Муцуовна": 77,
-      "Харитонов Николай Михайлович": 243,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000894540": 85,
+      "gas:candidate-vibid:1001000893101": 23,
+      "gas:candidate-vibid:1001000904321": 13,
+      "gas:candidate-vibid:1001000883213": 1012,
+      "gas:candidate-vibid:1001000894545": 77,
+      "gas:candidate-vibid:1001000894173": 243,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -1975,13 +1975,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 122,
-      "Малышкин Олег Александрович": 30,
-      "Миронов Сергей Михайлович": 8,
-      "Путин Владимир Владимирович": 1004,
-      "Хакамада Ирина Муцуовна": 55,
-      "Харитонов Николай Михайлович": 326,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000894540": 122,
+      "gas:candidate-vibid:1001000893101": 30,
+      "gas:candidate-vibid:1001000904321": 8,
+      "gas:candidate-vibid:1001000883213": 1004,
+      "gas:candidate-vibid:1001000894545": 55,
+      "gas:candidate-vibid:1001000894173": 326,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2026,13 +2026,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 57,
-      "Малышкин Олег Александрович": 38,
-      "Миронов Сергей Михайлович": 10,
-      "Путин Владимир Владимирович": 999,
-      "Хакамада Ирина Муцуовна": 59,
-      "Харитонов Николай Михайлович": 254,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000894540": 57,
+      "gas:candidate-vibid:1001000893101": 38,
+      "gas:candidate-vibid:1001000904321": 10,
+      "gas:candidate-vibid:1001000883213": 999,
+      "gas:candidate-vibid:1001000894545": 59,
+      "gas:candidate-vibid:1001000894173": 254,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2077,13 +2077,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 66,
-      "Малышкин Олег Александрович": 24,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 1001,
-      "Хакамада Ирина Муцуовна": 53,
-      "Харитонов Николай Михайлович": 245,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000894540": 66,
+      "gas:candidate-vibid:1001000893101": 24,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 1001,
+      "gas:candidate-vibid:1001000894545": 53,
+      "gas:candidate-vibid:1001000894173": 245,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2128,13 +2128,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 64,
-      "Малышкин Олег Александрович": 29,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 855,
-      "Хакамада Ирина Муцуовна": 55,
-      "Харитонов Николай Михайлович": 257,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000894540": 64,
+      "gas:candidate-vibid:1001000893101": 29,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 855,
+      "gas:candidate-vibid:1001000894545": 55,
+      "gas:candidate-vibid:1001000894173": 257,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2179,13 +2179,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 60,
-      "Малышкин Олег Александрович": 27,
-      "Миронов Сергей Михайлович": 8,
-      "Путин Владимир Владимирович": 990,
-      "Хакамада Ирина Муцуовна": 62,
-      "Харитонов Николай Михайлович": 232,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000894540": 60,
+      "gas:candidate-vibid:1001000893101": 27,
+      "gas:candidate-vibid:1001000904321": 8,
+      "gas:candidate-vibid:1001000883213": 990,
+      "gas:candidate-vibid:1001000894545": 62,
+      "gas:candidate-vibid:1001000894173": 232,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2230,13 +2230,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 48,
-      "Малышкин Олег Александрович": 29,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 834,
-      "Хакамада Ирина Муцуовна": 39,
-      "Харитонов Николай Михайлович": 322,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000894540": 48,
+      "gas:candidate-vibid:1001000893101": 29,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 834,
+      "gas:candidate-vibid:1001000894545": 39,
+      "gas:candidate-vibid:1001000894173": 322,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2281,13 +2281,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 70,
-      "Малышкин Олег Александрович": 21,
-      "Миронов Сергей Михайлович": 8,
-      "Путин Владимир Владимирович": 958,
-      "Хакамада Ирина Муцуовна": 68,
-      "Харитонов Николай Михайлович": 292,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000894540": 70,
+      "gas:candidate-vibid:1001000893101": 21,
+      "gas:candidate-vibid:1001000904321": 8,
+      "gas:candidate-vibid:1001000883213": 958,
+      "gas:candidate-vibid:1001000894545": 68,
+      "gas:candidate-vibid:1001000894173": 292,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2332,13 +2332,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 73,
-      "Малышкин Олег Александрович": 22,
-      "Миронов Сергей Михайлович": 13,
-      "Путин Владимир Владимирович": 992,
-      "Хакамада Ирина Муцуовна": 62,
-      "Харитонов Николай Михайлович": 352,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000894540": 73,
+      "gas:candidate-vibid:1001000893101": 22,
+      "gas:candidate-vibid:1001000904321": 13,
+      "gas:candidate-vibid:1001000883213": 992,
+      "gas:candidate-vibid:1001000894545": 62,
+      "gas:candidate-vibid:1001000894173": 352,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2383,13 +2383,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 65,
-      "Малышкин Олег Александрович": 17,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 831,
-      "Хакамада Ирина Муцуовна": 49,
-      "Харитонов Николай Михайлович": 338,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000894540": 65,
+      "gas:candidate-vibid:1001000893101": 17,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 831,
+      "gas:candidate-vibid:1001000894545": 49,
+      "gas:candidate-vibid:1001000894173": 338,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2434,13 +2434,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 69,
-      "Малышкин Олег Александрович": 23,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 898,
-      "Хакамада Ирина Муцуовна": 52,
-      "Харитонов Николай Михайлович": 337,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000894540": 69,
+      "gas:candidate-vibid:1001000893101": 23,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 898,
+      "gas:candidate-vibid:1001000894545": 52,
+      "gas:candidate-vibid:1001000894173": 337,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2485,13 +2485,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 48,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 11,
-      "Путин Владимир Владимирович": 786,
-      "Хакамада Ирина Муцуовна": 37,
-      "Харитонов Николай Михайлович": 282,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000894540": 48,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 11,
+      "gas:candidate-vibid:1001000883213": 786,
+      "gas:candidate-vibid:1001000894545": 37,
+      "gas:candidate-vibid:1001000894173": 282,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2536,13 +2536,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 45,
-      "Малышкин Олег Александрович": 22,
-      "Миронов Сергей Михайлович": 10,
-      "Путин Владимир Владимирович": 721,
-      "Хакамада Ирина Муцуовна": 30,
-      "Харитонов Николай Михайлович": 216,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000894540": 45,
+      "gas:candidate-vibid:1001000893101": 22,
+      "gas:candidate-vibid:1001000904321": 10,
+      "gas:candidate-vibid:1001000883213": 721,
+      "gas:candidate-vibid:1001000894545": 30,
+      "gas:candidate-vibid:1001000894173": 216,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2587,13 +2587,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 43,
-      "Малышкин Олег Александрович": 25,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 879,
-      "Хакамада Ирина Муцуовна": 48,
-      "Харитонов Николай Михайлович": 286,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000894540": 43,
+      "gas:candidate-vibid:1001000893101": 25,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 879,
+      "gas:candidate-vibid:1001000894545": 48,
+      "gas:candidate-vibid:1001000894173": 286,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2638,13 +2638,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 51,
-      "Малышкин Олег Александрович": 24,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 704,
-      "Хакамада Ирина Муцуовна": 23,
-      "Харитонов Николай Михайлович": 196,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000894540": 51,
+      "gas:candidate-vibid:1001000893101": 24,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 704,
+      "gas:candidate-vibid:1001000894545": 23,
+      "gas:candidate-vibid:1001000894173": 196,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2689,13 +2689,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 37,
-      "Малышкин Олег Александрович": 20,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 780,
-      "Хакамада Ирина Муцуовна": 41,
-      "Харитонов Николай Михайлович": 250,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000894540": 37,
+      "gas:candidate-vibid:1001000893101": 20,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 780,
+      "gas:candidate-vibid:1001000894545": 41,
+      "gas:candidate-vibid:1001000894173": 250,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2740,13 +2740,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 62,
-      "Малышкин Олег Александрович": 23,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 914,
-      "Хакамада Ирина Муцуовна": 33,
-      "Харитонов Николай Михайлович": 291,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000894540": 62,
+      "gas:candidate-vibid:1001000893101": 23,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 914,
+      "gas:candidate-vibid:1001000894545": 33,
+      "gas:candidate-vibid:1001000894173": 291,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2791,13 +2791,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 57,
-      "Малышкин Олег Александрович": 20,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 848,
-      "Хакамада Ирина Муцуовна": 34,
-      "Харитонов Николай Михайлович": 306,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000894540": 57,
+      "gas:candidate-vibid:1001000893101": 20,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 848,
+      "gas:candidate-vibid:1001000894545": 34,
+      "gas:candidate-vibid:1001000894173": 306,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2842,13 +2842,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 50,
-      "Малышкин Олег Александрович": 18,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 560,
-      "Хакамада Ирина Муцуовна": 39,
-      "Харитонов Николай Михайлович": 241,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000894540": 50,
+      "gas:candidate-vibid:1001000893101": 18,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 560,
+      "gas:candidate-vibid:1001000894545": 39,
+      "gas:candidate-vibid:1001000894173": 241,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2893,13 +2893,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 38,
-      "Малышкин Олег Александрович": 17,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 665,
-      "Хакамада Ирина Муцуовна": 39,
-      "Харитонов Николай Михайлович": 278,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000894540": 38,
+      "gas:candidate-vibid:1001000893101": 17,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 665,
+      "gas:candidate-vibid:1001000894545": 39,
+      "gas:candidate-vibid:1001000894173": 278,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2944,13 +2944,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 43,
-      "Малышкин Олег Александрович": 13,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 709,
-      "Хакамада Ирина Муцуовна": 29,
-      "Харитонов Николай Михайлович": 196,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000894540": 43,
+      "gas:candidate-vibid:1001000893101": 13,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 709,
+      "gas:candidate-vibid:1001000894545": 29,
+      "gas:candidate-vibid:1001000894173": 196,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -2995,13 +2995,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 62,
-      "Малышкин Олег Александрович": 22,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 801,
-      "Хакамада Ирина Муцуовна": 38,
-      "Харитонов Николай Михайлович": 320,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000894540": 62,
+      "gas:candidate-vibid:1001000893101": 22,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 801,
+      "gas:candidate-vibid:1001000894545": 38,
+      "gas:candidate-vibid:1001000894173": 320,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3046,13 +3046,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 42,
-      "Малышкин Олег Александрович": 40,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 1354,
-      "Хакамада Ирина Муцуовна": 55,
-      "Харитонов Николай Михайлович": 184,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000894540": 42,
+      "gas:candidate-vibid:1001000893101": 40,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 1354,
+      "gas:candidate-vibid:1001000894545": 55,
+      "gas:candidate-vibid:1001000894173": 184,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3097,13 +3097,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 51,
-      "Малышкин Олег Александрович": 22,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 774,
-      "Хакамада Ирина Муцуовна": 34,
-      "Харитонов Николай Михайлович": 261,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000894540": 51,
+      "gas:candidate-vibid:1001000893101": 22,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 774,
+      "gas:candidate-vibid:1001000894545": 34,
+      "gas:candidate-vibid:1001000894173": 261,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3148,13 +3148,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 68,
-      "Малышкин Олег Александрович": 25,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 912,
-      "Хакамада Ирина Муцуовна": 66,
-      "Харитонов Николай Михайлович": 339,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000894540": 68,
+      "gas:candidate-vibid:1001000893101": 25,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 912,
+      "gas:candidate-vibid:1001000894545": 66,
+      "gas:candidate-vibid:1001000894173": 339,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3199,13 +3199,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 83,
-      "Малышкин Олег Александрович": 34,
-      "Миронов Сергей Михайлович": 11,
-      "Путин Владимир Владимирович": 899,
-      "Хакамада Ирина Муцуовна": 53,
-      "Харитонов Николай Михайлович": 377,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000894540": 83,
+      "gas:candidate-vibid:1001000893101": 34,
+      "gas:candidate-vibid:1001000904321": 11,
+      "gas:candidate-vibid:1001000883213": 899,
+      "gas:candidate-vibid:1001000894545": 53,
+      "gas:candidate-vibid:1001000894173": 377,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3250,13 +3250,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 73,
-      "Малышкин Олег Александрович": 26,
-      "Миронов Сергей Михайлович": 11,
-      "Путин Владимир Владимирович": 709,
-      "Хакамада Ирина Муцуовна": 38,
-      "Харитонов Николай Михайлович": 234,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000894540": 73,
+      "gas:candidate-vibid:1001000893101": 26,
+      "gas:candidate-vibid:1001000904321": 11,
+      "gas:candidate-vibid:1001000883213": 709,
+      "gas:candidate-vibid:1001000894545": 38,
+      "gas:candidate-vibid:1001000894173": 234,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3301,13 +3301,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 41,
-      "Малышкин Олег Александрович": 11,
-      "Миронов Сергей Михайлович": 8,
-      "Путин Владимир Владимирович": 621,
-      "Хакамада Ирина Муцуовна": 37,
-      "Харитонов Николай Михайлович": 214,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000894540": 41,
+      "gas:candidate-vibid:1001000893101": 11,
+      "gas:candidate-vibid:1001000904321": 8,
+      "gas:candidate-vibid:1001000883213": 621,
+      "gas:candidate-vibid:1001000894545": 37,
+      "gas:candidate-vibid:1001000894173": 214,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3352,13 +3352,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 69,
-      "Малышкин Олег Александрович": 26,
-      "Миронов Сергей Михайлович": 11,
-      "Путин Владимир Владимирович": 939,
-      "Хакамада Ирина Муцуовна": 64,
-      "Харитонов Николай Михайлович": 333,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000894540": 69,
+      "gas:candidate-vibid:1001000893101": 26,
+      "gas:candidate-vibid:1001000904321": 11,
+      "gas:candidate-vibid:1001000883213": 939,
+      "gas:candidate-vibid:1001000894545": 64,
+      "gas:candidate-vibid:1001000894173": 333,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3403,13 +3403,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 71,
-      "Малышкин Олег Александрович": 20,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 999,
-      "Хакамада Ирина Муцуовна": 65,
-      "Харитонов Николай Михайлович": 218,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000894540": 71,
+      "gas:candidate-vibid:1001000893101": 20,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 999,
+      "gas:candidate-vibid:1001000894545": 65,
+      "gas:candidate-vibid:1001000894173": 218,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3454,13 +3454,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 25,
-      "Малышкин Олег Александрович": 45,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 1150,
-      "Хакамада Ирина Муцуовна": 33,
-      "Харитонов Николай Михайлович": 72,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000894540": 25,
+      "gas:candidate-vibid:1001000893101": 45,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 1150,
+      "gas:candidate-vibid:1001000894545": 33,
+      "gas:candidate-vibid:1001000894173": 72,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3505,13 +3505,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 72,
-      "Малышкин Олег Александрович": 18,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 987,
-      "Хакамада Ирина Муцуовна": 78,
-      "Харитонов Николай Михайлович": 250,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000894540": 72,
+      "gas:candidate-vibid:1001000893101": 18,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 987,
+      "gas:candidate-vibid:1001000894545": 78,
+      "gas:candidate-vibid:1001000894173": 250,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3556,13 +3556,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 58,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 906,
-      "Хакамада Ирина Муцуовна": 52,
-      "Харитонов Николай Михайлович": 355,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000894540": 58,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 906,
+      "gas:candidate-vibid:1001000894545": 52,
+      "gas:candidate-vibid:1001000894173": 355,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3607,13 +3607,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 63,
-      "Малышкин Олег Александрович": 27,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 901,
-      "Хакамада Ирина Муцуовна": 65,
-      "Харитонов Николай Михайлович": 389,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000894540": 63,
+      "gas:candidate-vibid:1001000893101": 27,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 901,
+      "gas:candidate-vibid:1001000894545": 65,
+      "gas:candidate-vibid:1001000894173": 389,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3658,13 +3658,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 46,
-      "Малышкин Олег Александрович": 16,
-      "Миронов Сергей Михайлович": 8,
-      "Путин Владимир Владимирович": 732,
-      "Хакамада Ирина Муцуовна": 31,
-      "Харитонов Николай Михайлович": 258,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000894540": 46,
+      "gas:candidate-vibid:1001000893101": 16,
+      "gas:candidate-vibid:1001000904321": 8,
+      "gas:candidate-vibid:1001000883213": 732,
+      "gas:candidate-vibid:1001000894545": 31,
+      "gas:candidate-vibid:1001000894173": 258,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3709,13 +3709,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 60,
-      "Малышкин Олег Александрович": 5,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 884,
-      "Хакамада Ирина Муцуовна": 55,
-      "Харитонов Николай Михайлович": 475,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000894540": 60,
+      "gas:candidate-vibid:1001000893101": 5,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 884,
+      "gas:candidate-vibid:1001000894545": 55,
+      "gas:candidate-vibid:1001000894173": 475,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084810&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084810&type=227",
@@ -3760,13 +3760,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 288,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 75,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 288,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 75,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -3811,13 +3811,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 22,
-      "Малышкин Олег Александрович": 11,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 312,
-      "Хакамада Ирина Муцуовна": 10,
-      "Харитонов Николай Михайлович": 182,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000894540": 22,
+      "gas:candidate-vibid:1001000893101": 11,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 312,
+      "gas:candidate-vibid:1001000894545": 10,
+      "gas:candidate-vibid:1001000894173": 182,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -3862,13 +3862,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 14,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 162,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 123,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000894540": 14,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 162,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 123,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -3913,13 +3913,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 8,
-      "Малышкин Олег Александрович": 11,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 198,
-      "Хакамада Ирина Муцуовна": 9,
-      "Харитонов Николай Михайлович": 71,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000894540": 8,
+      "gas:candidate-vibid:1001000893101": 11,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 198,
+      "gas:candidate-vibid:1001000894545": 9,
+      "gas:candidate-vibid:1001000894173": 71,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -3964,13 +3964,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 10,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 138,
-      "Хакамада Ирина Муцуовна": 7,
-      "Харитонов Николай Михайлович": 73,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 10,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 138,
+      "gas:candidate-vibid:1001000894545": 7,
+      "gas:candidate-vibid:1001000894173": 73,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4015,13 +4015,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 125,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 32,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 5,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 125,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 32,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4066,13 +4066,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 18,
-      "Малышкин Олег Александрович": 4,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 285,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 82,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 18,
+      "gas:candidate-vibid:1001000893101": 4,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 285,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 82,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4117,13 +4117,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 3,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 63,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 14,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 3,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 63,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 14,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4168,13 +4168,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 53,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 31,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 53,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 31,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4219,13 +4219,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 346,
-      "Хакамада Ирина Муцуовна": 11,
-      "Харитонов Николай Михайлович": 71,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 346,
+      "gas:candidate-vibid:1001000894545": 11,
+      "gas:candidate-vibid:1001000894173": 71,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4270,13 +4270,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 65,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 16,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 65,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 16,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4321,13 +4321,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 9,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 323,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 47,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000894540": 9,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 323,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 47,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4372,13 +4372,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 18,
-      "Малышкин Олег Александрович": 18,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 486,
-      "Хакамада Ирина Муцуовна": 22,
-      "Харитонов Николай Михайлович": 173,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000894540": 18,
+      "gas:candidate-vibid:1001000893101": 18,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 486,
+      "gas:candidate-vibid:1001000894545": 22,
+      "gas:candidate-vibid:1001000894173": 173,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4423,13 +4423,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 23,
-      "Малышкин Олег Александрович": 12,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 526,
-      "Хакамада Ирина Муцуовна": 12,
-      "Харитонов Николай Михайлович": 159,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000894540": 23,
+      "gas:candidate-vibid:1001000893101": 12,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 526,
+      "gas:candidate-vibid:1001000894545": 12,
+      "gas:candidate-vibid:1001000894173": 159,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4474,13 +4474,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 11,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 207,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 95,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 11,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 207,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 95,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4525,13 +4525,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 24,
-      "Малышкин Олег Александрович": 39,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 452,
-      "Хакамада Ирина Муцуовна": 20,
-      "Харитонов Николай Михайлович": 141,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000894540": 24,
+      "gas:candidate-vibid:1001000893101": 39,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 452,
+      "gas:candidate-vibid:1001000894545": 20,
+      "gas:candidate-vibid:1001000894173": 141,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4576,13 +4576,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 14,
-      "Малышкин Олег Александрович": 24,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 341,
-      "Хакамада Ирина Муцуовна": 17,
-      "Харитонов Николай Михайлович": 184,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000894540": 14,
+      "gas:candidate-vibid:1001000893101": 24,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 341,
+      "gas:candidate-vibid:1001000894545": 17,
+      "gas:candidate-vibid:1001000894173": 184,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4627,13 +4627,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 44,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 44,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 34,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4678,13 +4678,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 2,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 94,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 32,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 2,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 94,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 32,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4729,13 +4729,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 1,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 98,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 38,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 1,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 98,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 38,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4780,13 +4780,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 21,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 380,
-      "Хакамада Ирина Муцуовна": 6,
-      "Харитонов Николай Михайлович": 257,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 21,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 380,
+      "gas:candidate-vibid:1001000894545": 6,
+      "gas:candidate-vibid:1001000894173": 257,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4831,13 +4831,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 263,
-      "Хакамада Ирина Муцуовна": 10,
-      "Харитонов Николай Михайлович": 131,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 263,
+      "gas:candidate-vibid:1001000894545": 10,
+      "gas:candidate-vibid:1001000894173": 131,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4882,13 +4882,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 16,
-      "Малышкин Олег Александрович": 19,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 570,
-      "Хакамада Ирина Муцуовна": 21,
-      "Харитонов Николай Михайлович": 185,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000894540": 16,
+      "gas:candidate-vibid:1001000893101": 19,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 570,
+      "gas:candidate-vibid:1001000894545": 21,
+      "gas:candidate-vibid:1001000894173": 185,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084811&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084811&type=227",
@@ -4933,13 +4933,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 44,
-      "Малышкин Олег Александрович": 29,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 476,
-      "Хакамада Ирина Муцуовна": 12,
-      "Харитонов Николай Михайлович": 246,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000894540": 44,
+      "gas:candidate-vibid:1001000893101": 29,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 476,
+      "gas:candidate-vibid:1001000894545": 12,
+      "gas:candidate-vibid:1001000894173": 246,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -4984,13 +4984,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 37,
-      "Малышкин Олег Александрович": 34,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 461,
-      "Хакамада Ирина Муцуовна": 16,
-      "Харитонов Николай Михайлович": 205,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000894540": 37,
+      "gas:candidate-vibid:1001000893101": 34,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 461,
+      "gas:candidate-vibid:1001000894545": 16,
+      "gas:candidate-vibid:1001000894173": 205,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5035,13 +5035,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 20,
-      "Малышкин Олег Александрович": 43,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 453,
-      "Хакамада Ирина Муцуовна": 15,
-      "Харитонов Николай Михайлович": 175,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000894540": 20,
+      "gas:candidate-vibid:1001000893101": 43,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 453,
+      "gas:candidate-vibid:1001000894545": 15,
+      "gas:candidate-vibid:1001000894173": 175,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5086,13 +5086,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 4,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 51,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 46,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 4,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 51,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 46,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5137,13 +5137,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 8,
-      "Малышкин Олег Александрович": 21,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 194,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 95,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 8,
+      "gas:candidate-vibid:1001000893101": 21,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 194,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 95,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5188,13 +5188,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 12,
-      "Малышкин Олег Александрович": 21,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 301,
-      "Хакамада Ирина Муцуовна": 9,
-      "Харитонов Николай Михайлович": 113,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000894540": 12,
+      "gas:candidate-vibid:1001000893101": 21,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 301,
+      "gas:candidate-vibid:1001000894545": 9,
+      "gas:candidate-vibid:1001000894173": 113,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5239,13 +5239,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 275,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 115,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 275,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 115,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5290,13 +5290,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 67,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 24,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 5,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 67,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 24,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5341,13 +5341,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 92,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 27,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 92,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 27,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5392,13 +5392,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 13,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 163,
-      "Хакамада Ирина Муцуовна": 7,
-      "Харитонов Николай Михайлович": 83,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 13,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 163,
+      "gas:candidate-vibid:1001000894545": 7,
+      "gas:candidate-vibid:1001000894173": 83,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5443,13 +5443,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 19,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 172,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 105,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 19,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 172,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 105,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5494,13 +5494,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 28,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 202,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 168,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 28,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 202,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 168,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5545,13 +5545,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 58,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 47,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 58,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 47,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5596,13 +5596,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 12,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 272,
-      "Хакамада Ирина Муцуовна": 9,
-      "Харитонов Николай Михайлович": 157,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000894540": 12,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 272,
+      "gas:candidate-vibid:1001000894545": 9,
+      "gas:candidate-vibid:1001000894173": 157,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5647,13 +5647,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 130,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 14,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 130,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 14,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5698,13 +5698,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 11,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 78,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 22,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 11,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 78,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 22,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5749,13 +5749,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 18,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 151,
-      "Хакамада Ирина Муцуовна": 7,
-      "Харитонов Николай Михайлович": 107,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 18,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 151,
+      "gas:candidate-vibid:1001000894545": 7,
+      "gas:candidate-vibid:1001000894173": 107,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5800,13 +5800,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 3,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 69,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 38,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 3,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 69,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 38,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5851,13 +5851,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 27,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 303,
-      "Хакамада Ирина Муцуовна": 12,
-      "Харитонов Николай Михайлович": 248,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 27,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 303,
+      "gas:candidate-vibid:1001000894545": 12,
+      "gas:candidate-vibid:1001000894173": 248,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5902,13 +5902,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 105,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 52,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 105,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 52,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -5953,13 +5953,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 9,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 49,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 44,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 9,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 49,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 44,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6004,13 +6004,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 10,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 303,
-      "Хакамада Ирина Муцуовна": 16,
-      "Харитонов Николай Михайлович": 265,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000894540": 10,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 303,
+      "gas:candidate-vibid:1001000894545": 16,
+      "gas:candidate-vibid:1001000894173": 265,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6055,13 +6055,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 12,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 179,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 29,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 12,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 179,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 29,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6106,13 +6106,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 9,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 137,
-      "Хакамада Ирина Муцуовна": 11,
-      "Харитонов Николай Михайлович": 150,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 9,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 137,
+      "gas:candidate-vibid:1001000894545": 11,
+      "gas:candidate-vibid:1001000894173": 150,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6157,13 +6157,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 106,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 109,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 106,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 109,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6208,13 +6208,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 2,
-      "Малышкин Олег Александрович": 3,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 138,
-      "Хакамада Ирина Муцуовна": 6,
-      "Харитонов Николай Михайлович": 77,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 2,
+      "gas:candidate-vibid:1001000893101": 3,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 138,
+      "gas:candidate-vibid:1001000894545": 6,
+      "gas:candidate-vibid:1001000894173": 77,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6259,13 +6259,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 41,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 40,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 41,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 40,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084812&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084812&type=227",
@@ -6310,13 +6310,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 12,
-      "Малышкин Олег Александрович": 14,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 537,
-      "Хакамада Ирина Муцуовна": 14,
-      "Харитонов Николай Михайлович": 165,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000894540": 12,
+      "gas:candidate-vibid:1001000893101": 14,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 537,
+      "gas:candidate-vibid:1001000894545": 14,
+      "gas:candidate-vibid:1001000894173": 165,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6361,13 +6361,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 2,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 144,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 49,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 2,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 144,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 49,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6412,13 +6412,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 13,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 233,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 69,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 13,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 233,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 69,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6463,13 +6463,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 1,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 71,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 1,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 71,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6514,13 +6514,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 12,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 252,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 89,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 12,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 252,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 89,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6565,13 +6565,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 14,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 276,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 52,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 14,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 276,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 52,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6616,13 +6616,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 43,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 15,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 43,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 15,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6667,13 +6667,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 2,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 183,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 131,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 2,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 183,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 131,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6718,13 +6718,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 77,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 52,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 77,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 52,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6769,13 +6769,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 16,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 141,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 77,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 16,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 141,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 77,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6820,13 +6820,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 72,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 11,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 72,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 11,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6871,13 +6871,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 19,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 296,
-      "Хакамада Ирина Муцуовна": 7,
-      "Харитонов Николай Михайлович": 66,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 19,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 296,
+      "gas:candidate-vibid:1001000894545": 7,
+      "gas:candidate-vibid:1001000894173": 66,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6922,13 +6922,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 11,
-      "Малышкин Олег Александрович": 20,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 361,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 97,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 11,
+      "gas:candidate-vibid:1001000893101": 20,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 361,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 97,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -6973,13 +6973,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 1,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 43,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 25,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 1,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 43,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 25,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7024,13 +7024,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 91,
-      "Хакамада Ирина Муцуовна": 1,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 91,
+      "gas:candidate-vibid:1001000894545": 1,
+      "gas:candidate-vibid:1001000894173": 34,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7075,13 +7075,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 14,
-      "Малышкин Олег Александрович": 9,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 314,
-      "Хакамада Ирина Муцуовна": 14,
-      "Харитонов Николай Михайлович": 96,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000894540": 14,
+      "gas:candidate-vibid:1001000893101": 9,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 314,
+      "gas:candidate-vibid:1001000894545": 14,
+      "gas:candidate-vibid:1001000894173": 96,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7126,13 +7126,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 0,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 70,
-      "Хакамада Ирина Муцуовна": 14,
-      "Харитонов Николай Михайлович": 19,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 0,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 70,
+      "gas:candidate-vibid:1001000894545": 14,
+      "gas:candidate-vibid:1001000894173": 19,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7177,13 +7177,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 0,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 83,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 0,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 83,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7228,13 +7228,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 12,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 164,
-      "Хакамада Ирина Муцуовна": 13,
-      "Харитонов Николай Михайлович": 34,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 12,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 164,
+      "gas:candidate-vibid:1001000894545": 13,
+      "gas:candidate-vibid:1001000894173": 34,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7279,13 +7279,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 2,
-      "Малышкин Олег Александрович": 16,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 50,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 25,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000894540": 2,
+      "gas:candidate-vibid:1001000893101": 16,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 50,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 25,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7330,13 +7330,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 236,
-      "Хакамада Ирина Муцуовна": 3,
-      "Харитонов Николай Михайлович": 51,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 236,
+      "gas:candidate-vibid:1001000894545": 3,
+      "gas:candidate-vibid:1001000894173": 51,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7381,13 +7381,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 70,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 5,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 70,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7432,13 +7432,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 3,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 32,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 3,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 32,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7483,13 +7483,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 6,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 49,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 37,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 6,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 49,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 37,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7534,13 +7534,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 17,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 241,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 72,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 17,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 241,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 72,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7585,13 +7585,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 0,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 60,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 0,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 60,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7636,13 +7636,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 9,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 129,
-      "Хакамада Ирина Муцуовна": 0,
-      "Харитонов Николай Михайлович": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 9,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 129,
+      "gas:candidate-vibid:1001000894545": 0,
+      "gas:candidate-vibid:1001000894173": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7687,13 +7687,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 5,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 138,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 56,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000894540": 5,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 138,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 56,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7738,13 +7738,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 34,
-      "Малышкин Олег Александрович": 36,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 688,
-      "Хакамада Ирина Муцуовна": 15,
-      "Харитонов Николай Михайлович": 302,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000894540": 34,
+      "gas:candidate-vibid:1001000893101": 36,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 688,
+      "gas:candidate-vibid:1001000894545": 15,
+      "gas:candidate-vibid:1001000894173": 302,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7789,13 +7789,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 52,
-      "Малышкин Олег Александрович": 27,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 665,
-      "Хакамада Ирина Муцуовна": 20,
-      "Харитонов Николай Михайлович": 245,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000894540": 52,
+      "gas:candidate-vibid:1001000893101": 27,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 665,
+      "gas:candidate-vibid:1001000894545": 20,
+      "gas:candidate-vibid:1001000894173": 245,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7840,13 +7840,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 49,
-      "Малышкин Олег Александрович": 35,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 658,
-      "Хакамада Ирина Муцуовна": 34,
-      "Харитонов Николай Михайлович": 220,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000894540": 49,
+      "gas:candidate-vibid:1001000893101": 35,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 658,
+      "gas:candidate-vibid:1001000894545": 34,
+      "gas:candidate-vibid:1001000894173": 220,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7891,13 +7891,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 29,
-      "Малышкин Олег Александрович": 36,
-      "Миронов Сергей Михайлович": 5,
-      "Путин Владимир Владимирович": 646,
-      "Хакамада Ирина Муцуовна": 23,
-      "Харитонов Николай Михайлович": 274,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000894540": 29,
+      "gas:candidate-vibid:1001000893101": 36,
+      "gas:candidate-vibid:1001000904321": 5,
+      "gas:candidate-vibid:1001000883213": 646,
+      "gas:candidate-vibid:1001000894545": 23,
+      "gas:candidate-vibid:1001000894173": 274,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7942,13 +7942,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 21,
-      "Малышкин Олег Александрович": 30,
-      "Миронов Сергей Михайлович": 10,
-      "Путин Владимир Владимирович": 618,
-      "Хакамада Ирина Муцуовна": 24,
-      "Харитонов Николай Михайлович": 213,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000894540": 21,
+      "gas:candidate-vibid:1001000893101": 30,
+      "gas:candidate-vibid:1001000904321": 10,
+      "gas:candidate-vibid:1001000883213": 618,
+      "gas:candidate-vibid:1001000894545": 24,
+      "gas:candidate-vibid:1001000894173": 213,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -7993,13 +7993,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 37,
-      "Малышкин Олег Александрович": 24,
-      "Миронов Сергей Михайлович": 2,
-      "Путин Владимир Владимирович": 600,
-      "Хакамада Ирина Муцуовна": 18,
-      "Харитонов Николай Михайлович": 330,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000894540": 37,
+      "gas:candidate-vibid:1001000893101": 24,
+      "gas:candidate-vibid:1001000904321": 2,
+      "gas:candidate-vibid:1001000883213": 600,
+      "gas:candidate-vibid:1001000894545": 18,
+      "gas:candidate-vibid:1001000894173": 330,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8044,13 +8044,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 44,
-      "Малышкин Олег Александрович": 26,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 778,
-      "Хакамада Ирина Муцуовна": 30,
-      "Харитонов Николай Михайлович": 192,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000894540": 44,
+      "gas:candidate-vibid:1001000893101": 26,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 778,
+      "gas:candidate-vibid:1001000894545": 30,
+      "gas:candidate-vibid:1001000894173": 192,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8095,13 +8095,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 49,
-      "Малышкин Олег Александрович": 28,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 590,
-      "Хакамада Ирина Муцуовна": 23,
-      "Харитонов Николай Михайлович": 200,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000894540": 49,
+      "gas:candidate-vibid:1001000893101": 28,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 590,
+      "gas:candidate-vibid:1001000894545": 23,
+      "gas:candidate-vibid:1001000894173": 200,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8146,13 +8146,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 38,
-      "Малышкин Олег Александрович": 26,
-      "Миронов Сергей Михайлович": 10,
-      "Путин Владимир Владимирович": 689,
-      "Хакамада Ирина Муцуовна": 20,
-      "Харитонов Николай Михайлович": 270,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000894540": 38,
+      "gas:candidate-vibid:1001000893101": 26,
+      "gas:candidate-vibid:1001000904321": 10,
+      "gas:candidate-vibid:1001000883213": 689,
+      "gas:candidate-vibid:1001000894545": 20,
+      "gas:candidate-vibid:1001000894173": 270,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8197,13 +8197,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 4,
-      "Малышкин Олег Александрович": 5,
-      "Миронов Сергей Михайлович": 1,
-      "Путин Владимир Владимирович": 95,
-      "Хакамада Ирина Муцуовна": 4,
-      "Харитонов Николай Михайлович": 38,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000894540": 4,
+      "gas:candidate-vibid:1001000893101": 5,
+      "gas:candidate-vibid:1001000904321": 1,
+      "gas:candidate-vibid:1001000883213": 95,
+      "gas:candidate-vibid:1001000894545": 4,
+      "gas:candidate-vibid:1001000894173": 38,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8248,13 +8248,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 14,
-      "Малышкин Олег Александрович": 7,
-      "Миронов Сергей Михайлович": 8,
-      "Путин Владимир Владимирович": 303,
-      "Хакамада Ирина Муцуовна": 8,
-      "Харитонов Николай Михайлович": 146,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000894540": 14,
+      "gas:candidate-vibid:1001000893101": 7,
+      "gas:candidate-vibid:1001000904321": 8,
+      "gas:candidate-vibid:1001000883213": 303,
+      "gas:candidate-vibid:1001000894545": 8,
+      "gas:candidate-vibid:1001000894173": 146,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8299,13 +8299,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 1,
-      "Малышкин Олег Александрович": 2,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 73,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000894540": 1,
+      "gas:candidate-vibid:1001000893101": 2,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 73,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8350,13 +8350,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 0,
-      "Малышкин Олег Александрович": 5,
-      "Миронов Сергей Михайлович": 0,
-      "Путин Владимир Владимирович": 61,
-      "Хакамада Ирина Муцуовна": 2,
-      "Харитонов Николай Михайлович": 37,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000894540": 0,
+      "gas:candidate-vibid:1001000893101": 5,
+      "gas:candidate-vibid:1001000904321": 0,
+      "gas:candidate-vibid:1001000883213": 61,
+      "gas:candidate-vibid:1001000894545": 2,
+      "gas:candidate-vibid:1001000894173": 37,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084813&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084813&type=227",
@@ -8401,13 +8401,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 61,
-      "Малышкин Олег Александрович": 17,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 568,
-      "Хакамада Ирина Муцуовна": 25,
-      "Харитонов Николай Михайлович": 378,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000894540": 61,
+      "gas:candidate-vibid:1001000893101": 17,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 568,
+      "gas:candidate-vibid:1001000894545": 25,
+      "gas:candidate-vibid:1001000894173": 378,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8452,13 +8452,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 41,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 260,
-      "Хакамада Ирина Муцуовна": 12,
-      "Харитонов Николай Михайлович": 197,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000894540": 41,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 260,
+      "gas:candidate-vibid:1001000894545": 12,
+      "gas:candidate-vibid:1001000894173": 197,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8503,13 +8503,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 30,
-      "Малышкин Олег Александрович": 14,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 366,
-      "Хакамада Ирина Муцуовна": 12,
-      "Харитонов Николай Михайлович": 209,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000894540": 30,
+      "gas:candidate-vibid:1001000893101": 14,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 366,
+      "gas:candidate-vibid:1001000894545": 12,
+      "gas:candidate-vibid:1001000894173": 209,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8554,13 +8554,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 35,
-      "Малышкин Олег Александрович": 11,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 450,
-      "Хакамада Ирина Муцуовна": 25,
-      "Харитонов Николай Михайлович": 339,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000894540": 35,
+      "gas:candidate-vibid:1001000893101": 11,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 450,
+      "gas:candidate-vibid:1001000894545": 25,
+      "gas:candidate-vibid:1001000894173": 339,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8605,13 +8605,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 28,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 307,
-      "Хакамада Ирина Муцуовна": 24,
-      "Харитонов Николай Михайлович": 206,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000894540": 28,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 307,
+      "gas:candidate-vibid:1001000894545": 24,
+      "gas:candidate-vibid:1001000894173": 206,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8656,13 +8656,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 40,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 475,
-      "Хакамада Ирина Муцуовна": 21,
-      "Харитонов Николай Михайлович": 341,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000894540": 40,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 475,
+      "gas:candidate-vibid:1001000894545": 21,
+      "gas:candidate-vibid:1001000894173": 341,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8707,13 +8707,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 46,
-      "Малышкин Олег Александрович": 17,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 418,
-      "Хакамада Ирина Муцуовна": 23,
-      "Харитонов Николай Михайлович": 283,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000894540": 46,
+      "gas:candidate-vibid:1001000893101": 17,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 418,
+      "gas:candidate-vibid:1001000894545": 23,
+      "gas:candidate-vibid:1001000894173": 283,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8758,13 +8758,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 31,
-      "Малышкин Олег Александрович": 17,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 428,
-      "Хакамада Ирина Муцуовна": 27,
-      "Харитонов Николай Михайлович": 255,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000894540": 31,
+      "gas:candidate-vibid:1001000893101": 17,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 428,
+      "gas:candidate-vibid:1001000894545": 27,
+      "gas:candidate-vibid:1001000894173": 255,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8809,13 +8809,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 58,
-      "Малышкин Олег Александрович": 20,
-      "Миронов Сергей Михайлович": 13,
-      "Путин Владимир Владимирович": 556,
-      "Хакамада Ирина Муцуовна": 22,
-      "Харитонов Николай Михайлович": 363,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000894540": 58,
+      "gas:candidate-vibid:1001000893101": 20,
+      "gas:candidate-vibid:1001000904321": 13,
+      "gas:candidate-vibid:1001000883213": 556,
+      "gas:candidate-vibid:1001000894545": 22,
+      "gas:candidate-vibid:1001000894173": 363,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8860,13 +8860,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 7,
-      "Малышкин Олег Александрович": 4,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 217,
-      "Хакамада Ирина Муцуовна": 7,
-      "Харитонов Николай Михайлович": 166,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000894540": 7,
+      "gas:candidate-vibid:1001000893101": 4,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 217,
+      "gas:candidate-vibid:1001000894545": 7,
+      "gas:candidate-vibid:1001000894173": 166,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8911,13 +8911,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 22,
-      "Малышкин Олег Александрович": 23,
-      "Миронов Сергей Михайлович": 4,
-      "Путин Владимир Владимирович": 458,
-      "Хакамада Ирина Муцуовна": 22,
-      "Харитонов Николай Михайлович": 258,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000894540": 22,
+      "gas:candidate-vibid:1001000893101": 23,
+      "gas:candidate-vibid:1001000904321": 4,
+      "gas:candidate-vibid:1001000883213": 458,
+      "gas:candidate-vibid:1001000894545": 22,
+      "gas:candidate-vibid:1001000894173": 258,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -8962,13 +8962,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 11,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 364,
-      "Хакамада Ирина Муцуовна": 9,
-      "Харитонов Николай Михайлович": 321,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000894540": 11,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 364,
+      "gas:candidate-vibid:1001000894545": 9,
+      "gas:candidate-vibid:1001000894173": 321,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9013,13 +9013,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 29,
-      "Малышкин Олег Александрович": 13,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 452,
-      "Хакамада Ирина Муцуовна": 17,
-      "Харитонов Николай Михайлович": 266,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000894540": 29,
+      "gas:candidate-vibid:1001000893101": 13,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 452,
+      "gas:candidate-vibid:1001000894545": 17,
+      "gas:candidate-vibid:1001000894173": 266,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9064,13 +9064,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 6,
-      "Малышкин Олег Александрович": 8,
-      "Миронов Сергей Михайлович": 3,
-      "Путин Владимир Владимирович": 94,
-      "Хакамада Ирина Муцуовна": 5,
-      "Харитонов Николай Михайлович": 105,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000894540": 6,
+      "gas:candidate-vibid:1001000893101": 8,
+      "gas:candidate-vibid:1001000904321": 3,
+      "gas:candidate-vibid:1001000883213": 94,
+      "gas:candidate-vibid:1001000894545": 5,
+      "gas:candidate-vibid:1001000894173": 105,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9115,13 +9115,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 47,
-      "Малышкин Олег Александрович": 18,
-      "Миронов Сергей Михайлович": 9,
-      "Путин Владимир Владимирович": 415,
-      "Хакамада Ирина Муцуовна": 26,
-      "Харитонов Николай Михайлович": 247,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000894540": 47,
+      "gas:candidate-vibid:1001000893101": 18,
+      "gas:candidate-vibid:1001000904321": 9,
+      "gas:candidate-vibid:1001000883213": 415,
+      "gas:candidate-vibid:1001000894545": 26,
+      "gas:candidate-vibid:1001000894173": 247,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9166,13 +9166,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 70,
-      "Малышкин Олег Александрович": 30,
-      "Миронов Сергей Михайлович": 10,
-      "Путин Владимир Владимирович": 622,
-      "Хакамада Ирина Муцуовна": 34,
-      "Харитонов Николай Михайлович": 370,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000894540": 70,
+      "gas:candidate-vibid:1001000893101": 30,
+      "gas:candidate-vibid:1001000904321": 10,
+      "gas:candidate-vibid:1001000883213": 622,
+      "gas:candidate-vibid:1001000894545": 34,
+      "gas:candidate-vibid:1001000894173": 370,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9217,13 +9217,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 40,
-      "Малышкин Олег Александрович": 15,
-      "Миронов Сергей Михайлович": 7,
-      "Путин Владимир Владимирович": 496,
-      "Хакамада Ирина Муцуовна": 22,
-      "Харитонов Николай Михайлович": 317,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000894540": 40,
+      "gas:candidate-vibid:1001000893101": 15,
+      "gas:candidate-vibid:1001000904321": 7,
+      "gas:candidate-vibid:1001000883213": 496,
+      "gas:candidate-vibid:1001000894545": 22,
+      "gas:candidate-vibid:1001000894173": 317,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9268,13 +9268,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 58,
-      "Малышкин Олег Александрович": 13,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 460,
-      "Хакамада Ирина Муцуовна": 13,
-      "Харитонов Николай Михайлович": 370,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000894540": 58,
+      "gas:candidate-vibid:1001000893101": 13,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 460,
+      "gas:candidate-vibid:1001000894545": 13,
+      "gas:candidate-vibid:1001000894173": 370,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",
@@ -9319,13 +9319,13 @@ export const president_2004_uik_226_region_34_part_007 = [
       "Число не учтенных при получении избирательных бюллетеней": 0
     },
     "votes": {
-      "Глазьев Сергей Юрьевич": 26,
-      "Малышкин Олег Александрович": 10,
-      "Миронов Сергей Михайлович": 6,
-      "Путин Владимир Владимирович": 286,
-      "Хакамада Ирина Муцуовна": 17,
-      "Харитонов Николай Михайлович": 221,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000894540": 26,
+      "gas:candidate-vibid:1001000893101": 10,
+      "gas:candidate-vibid:1001000904321": 6,
+      "gas:candidate-vibid:1001000883213": 286,
+      "gas:candidate-vibid:1001000894545": 17,
+      "gas:candidate-vibid:1001000894173": 221,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/volgograd?action=show&root=1000078&tvd=234200084814&vrn=1001000882950&region=34&global=&sub_region=34&prver=0&pronetvd=null&vibid=234200084814&type=227",

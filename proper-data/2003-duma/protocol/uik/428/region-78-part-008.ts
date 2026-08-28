@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 21,
-      "Дмитриева Оксана Генриховна": 455,
-      "Евдокимова Наталия Леонидовна": 65,
-      "Ерофеев Андрей Николаевич": 31,
-      "Костерев Анатолий Евгеньевич": 59,
-      "Сергеев Олег Елизарович": 236,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195181": 21,
+      "gas:candidate-vibid:1001000121297": 455,
+      "gas:candidate-vibid:1001000112287": 65,
+      "gas:candidate-vibid:1001000136167": 31,
+      "gas:candidate-vibid:1001000190470": 59,
+      "gas:candidate-vibid:1001000226020": 236,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 21,
-      "Дмитриева Оксана Генриховна": 445,
-      "Евдокимова Наталия Леонидовна": 60,
-      "Ерофеев Андрей Николаевич": 20,
-      "Костерев Анатолий Евгеньевич": 38,
-      "Сергеев Олег Елизарович": 210,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195181": 21,
+      "gas:candidate-vibid:1001000121297": 445,
+      "gas:candidate-vibid:1001000112287": 60,
+      "gas:candidate-vibid:1001000136167": 20,
+      "gas:candidate-vibid:1001000190470": 38,
+      "gas:candidate-vibid:1001000226020": 210,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 16,
-      "Дмитриева Оксана Генриховна": 546,
-      "Евдокимова Наталия Леонидовна": 82,
-      "Ерофеев Андрей Николаевич": 17,
-      "Костерев Анатолий Евгеньевич": 22,
-      "Сергеев Олег Елизарович": 200,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195181": 16,
+      "gas:candidate-vibid:1001000121297": 546,
+      "gas:candidate-vibid:1001000112287": 82,
+      "gas:candidate-vibid:1001000136167": 17,
+      "gas:candidate-vibid:1001000190470": 22,
+      "gas:candidate-vibid:1001000226020": 200,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 19,
-      "Дмитриева Оксана Генриховна": 416,
-      "Евдокимова Наталия Леонидовна": 90,
-      "Ерофеев Андрей Николаевич": 22,
-      "Костерев Анатолий Евгеньевич": 38,
-      "Сергеев Олег Елизарович": 219,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000195181": 19,
+      "gas:candidate-vibid:1001000121297": 416,
+      "gas:candidate-vibid:1001000112287": 90,
+      "gas:candidate-vibid:1001000136167": 22,
+      "gas:candidate-vibid:1001000190470": 38,
+      "gas:candidate-vibid:1001000226020": 219,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 28,
-      "Дмитриева Оксана Генриховна": 489,
-      "Евдокимова Наталия Леонидовна": 66,
-      "Ерофеев Андрей Николаевич": 23,
-      "Костерев Анатолий Евгеньевич": 38,
-      "Сергеев Олег Елизарович": 282,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000195181": 28,
+      "gas:candidate-vibid:1001000121297": 489,
+      "gas:candidate-vibid:1001000112287": 66,
+      "gas:candidate-vibid:1001000136167": 23,
+      "gas:candidate-vibid:1001000190470": 38,
+      "gas:candidate-vibid:1001000226020": 282,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 24,
-      "Дмитриева Оксана Генриховна": 442,
-      "Евдокимова Наталия Леонидовна": 78,
-      "Ерофеев Андрей Николаевич": 41,
-      "Костерев Анатолий Евгеньевич": 30,
-      "Сергеев Олег Елизарович": 191,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000195181": 24,
+      "gas:candidate-vibid:1001000121297": 442,
+      "gas:candidate-vibid:1001000112287": 78,
+      "gas:candidate-vibid:1001000136167": 41,
+      "gas:candidate-vibid:1001000190470": 30,
+      "gas:candidate-vibid:1001000226020": 191,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 31,
-      "Дмитриева Оксана Генриховна": 467,
-      "Евдокимова Наталия Леонидовна": 72,
-      "Ерофеев Андрей Николаевич": 21,
-      "Костерев Анатолий Евгеньевич": 38,
-      "Сергеев Олег Елизарович": 230,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000195181": 31,
+      "gas:candidate-vibid:1001000121297": 467,
+      "gas:candidate-vibid:1001000112287": 72,
+      "gas:candidate-vibid:1001000136167": 21,
+      "gas:candidate-vibid:1001000190470": 38,
+      "gas:candidate-vibid:1001000226020": 230,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 18,
-      "Дмитриева Оксана Генриховна": 417,
-      "Евдокимова Наталия Леонидовна": 46,
-      "Ерофеев Андрей Николаевич": 41,
-      "Костерев Анатолий Евгеньевич": 42,
-      "Сергеев Олег Елизарович": 233,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000195181": 18,
+      "gas:candidate-vibid:1001000121297": 417,
+      "gas:candidate-vibid:1001000112287": 46,
+      "gas:candidate-vibid:1001000136167": 41,
+      "gas:candidate-vibid:1001000190470": 42,
+      "gas:candidate-vibid:1001000226020": 233,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 25,
-      "Дмитриева Оксана Генриховна": 506,
-      "Евдокимова Наталия Леонидовна": 63,
-      "Ерофеев Андрей Николаевич": 25,
-      "Костерев Анатолий Евгеньевич": 39,
-      "Сергеев Олег Елизарович": 181,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000195181": 25,
+      "gas:candidate-vibid:1001000121297": 506,
+      "gas:candidate-vibid:1001000112287": 63,
+      "gas:candidate-vibid:1001000136167": 25,
+      "gas:candidate-vibid:1001000190470": 39,
+      "gas:candidate-vibid:1001000226020": 181,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 25,
-      "Дмитриева Оксана Генриховна": 443,
-      "Евдокимова Наталия Леонидовна": 67,
-      "Ерофеев Андрей Николаевич": 33,
-      "Костерев Анатолий Евгеньевич": 35,
-      "Сергеев Олег Елизарович": 259,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000195181": 25,
+      "gas:candidate-vibid:1001000121297": 443,
+      "gas:candidate-vibid:1001000112287": 67,
+      "gas:candidate-vibid:1001000136167": 33,
+      "gas:candidate-vibid:1001000190470": 35,
+      "gas:candidate-vibid:1001000226020": 259,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 39,
-      "Дмитриева Оксана Генриховна": 537,
-      "Евдокимова Наталия Леонидовна": 61,
-      "Ерофеев Андрей Николаевич": 20,
-      "Костерев Анатолий Евгеньевич": 45,
-      "Сергеев Олег Елизарович": 239,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000195181": 39,
+      "gas:candidate-vibid:1001000121297": 537,
+      "gas:candidate-vibid:1001000112287": 61,
+      "gas:candidate-vibid:1001000136167": 20,
+      "gas:candidate-vibid:1001000190470": 45,
+      "gas:candidate-vibid:1001000226020": 239,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 21,
-      "Дмитриева Оксана Генриховна": 426,
-      "Евдокимова Наталия Леонидовна": 63,
-      "Ерофеев Андрей Николаевич": 36,
-      "Костерев Анатолий Евгеньевич": 36,
-      "Сергеев Олег Елизарович": 260,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000195181": 21,
+      "gas:candidate-vibid:1001000121297": 426,
+      "gas:candidate-vibid:1001000112287": 63,
+      "gas:candidate-vibid:1001000136167": 36,
+      "gas:candidate-vibid:1001000190470": 36,
+      "gas:candidate-vibid:1001000226020": 260,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 21,
-      "Дмитриева Оксана Генриховна": 436,
-      "Евдокимова Наталия Леонидовна": 55,
-      "Ерофеев Андрей Николаевич": 27,
-      "Костерев Анатолий Евгеньевич": 40,
-      "Сергеев Олег Елизарович": 225,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195181": 21,
+      "gas:candidate-vibid:1001000121297": 436,
+      "gas:candidate-vibid:1001000112287": 55,
+      "gas:candidate-vibid:1001000136167": 27,
+      "gas:candidate-vibid:1001000190470": 40,
+      "gas:candidate-vibid:1001000226020": 225,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 22,
-      "Дмитриева Оксана Генриховна": 509,
-      "Евдокимова Наталия Леонидовна": 83,
-      "Ерофеев Андрей Николаевич": 21,
-      "Костерев Анатолий Евгеньевич": 28,
-      "Сергеев Олег Елизарович": 264,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195181": 22,
+      "gas:candidate-vibid:1001000121297": 509,
+      "gas:candidate-vibid:1001000112287": 83,
+      "gas:candidate-vibid:1001000136167": 21,
+      "gas:candidate-vibid:1001000190470": 28,
+      "gas:candidate-vibid:1001000226020": 264,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 20,
-      "Дмитриева Оксана Генриховна": 477,
-      "Евдокимова Наталия Леонидовна": 74,
-      "Ерофеев Андрей Николаевич": 24,
-      "Костерев Анатолий Евгеньевич": 38,
-      "Сергеев Олег Елизарович": 266,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000195181": 20,
+      "gas:candidate-vibid:1001000121297": 477,
+      "gas:candidate-vibid:1001000112287": 74,
+      "gas:candidate-vibid:1001000136167": 24,
+      "gas:candidate-vibid:1001000190470": 38,
+      "gas:candidate-vibid:1001000226020": 266,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 22,
-      "Дмитриева Оксана Генриховна": 508,
-      "Евдокимова Наталия Леонидовна": 78,
-      "Ерофеев Андрей Николаевич": 46,
-      "Костерев Анатолий Евгеньевич": 35,
-      "Сергеев Олег Елизарович": 210,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000195181": 22,
+      "gas:candidate-vibid:1001000121297": 508,
+      "gas:candidate-vibid:1001000112287": 78,
+      "gas:candidate-vibid:1001000136167": 46,
+      "gas:candidate-vibid:1001000190470": 35,
+      "gas:candidate-vibid:1001000226020": 210,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 0,
-      "Дмитриева Оксана Генриховна": 6,
-      "Евдокимова Наталия Леонидовна": 0,
-      "Ерофеев Андрей Николаевич": 2,
-      "Костерев Анатолий Евгеньевич": 0,
-      "Сергеев Олег Елизарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195181": 0,
+      "gas:candidate-vibid:1001000121297": 6,
+      "gas:candidate-vibid:1001000112287": 0,
+      "gas:candidate-vibid:1001000136167": 2,
+      "gas:candidate-vibid:1001000190470": 0,
+      "gas:candidate-vibid:1001000226020": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_78_part_008 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Анохин Андрей Юрьевич": 1,
-      "Дмитриева Оксана Генриховна": 1,
-      "Евдокимова Наталия Леонидовна": 0,
-      "Ерофеев Андрей Николаевич": 0,
-      "Костерев Анатолий Евгеньевич": 0,
-      "Сергеев Олег Елизарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195181": 1,
+      "gas:candidate-vibid:1001000121297": 1,
+      "gas:candidate-vibid:1001000112287": 0,
+      "gas:candidate-vibid:1001000136167": 0,
+      "gas:candidate-vibid:1001000190470": 0,
+      "gas:candidate-vibid:1001000226020": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=783008003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=378300870571&region=0&sub_region=0&type=429",

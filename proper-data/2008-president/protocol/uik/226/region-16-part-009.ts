@@ -39,10 +39,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 224
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -89,10 +89,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 344
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -139,10 +139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 730
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 730
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -189,10 +189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 99
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -239,10 +239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 290
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -289,10 +289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 99,
-      "Медведев Дмитрий Анатольевич": 832
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 99,
+      "gas:candidate-vibid:100100022248789": 832
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -339,10 +339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 158,
-      "Медведев Дмитрий Анатольевич": 1037
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 158,
+      "gas:candidate-vibid:100100022248789": 1037
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -389,10 +389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 655
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 655
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -439,10 +439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 240
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -489,10 +489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 587
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 587
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -539,10 +539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 107
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -589,10 +589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 346
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -639,10 +639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 447
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -689,10 +689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 273
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -739,10 +739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 468
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -789,10 +789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 111
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -839,10 +839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 212
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -889,10 +889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 1334
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 1334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -939,10 +939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 726
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 726
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -989,10 +989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 1173
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 1173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193709&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193709&type=227",
@@ -1039,10 +1039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 162,
-      "Медведев Дмитрий Анатольевич": 812
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 162,
+      "gas:candidate-vibid:100100022248789": 812
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1089,10 +1089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 212,
-      "Медведев Дмитрий Анатольевич": 1070
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 212,
+      "gas:candidate-vibid:100100022248789": 1070
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1139,10 +1139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 175,
-      "Медведев Дмитрий Анатольевич": 910
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 53,
+      "gas:candidate-vibid:100100022247121": 175,
+      "gas:candidate-vibid:100100022248789": 910
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1189,10 +1189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 129,
-      "Медведев Дмитрий Анатольевич": 772
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 129,
+      "gas:candidate-vibid:100100022248789": 772
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1239,10 +1239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 126,
-      "Медведев Дмитрий Анатольевич": 644
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 126,
+      "gas:candidate-vibid:100100022248789": 644
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1289,10 +1289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 151,
-      "Медведев Дмитрий Анатольевич": 802
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 151,
+      "gas:candidate-vibid:100100022248789": 802
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1339,10 +1339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 281
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1389,10 +1389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 158,
-      "Медведев Дмитрий Анатольевич": 747
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 81,
+      "gas:candidate-vibid:100100022247121": 158,
+      "gas:candidate-vibid:100100022248789": 747
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1439,10 +1439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 169,
-      "Медведев Дмитрий Анатольевич": 870
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 169,
+      "gas:candidate-vibid:100100022248789": 870
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1489,10 +1489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 160,
-      "Медведев Дмитрий Анатольевич": 659
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 160,
+      "gas:candidate-vibid:100100022248789": 659
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1539,10 +1539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 309,
-      "Медведев Дмитрий Анатольевич": 991
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 309,
+      "gas:candidate-vibid:100100022248789": 991
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1589,10 +1589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 95
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1639,10 +1639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 518
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 518
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1689,10 +1689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 251,
-      "Медведев Дмитрий Анатольевич": 1312
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 251,
+      "gas:candidate-vibid:100100022248789": 1312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1739,10 +1739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 115,
-      "Медведев Дмитрий Анатольевич": 602
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 40,
+      "gas:candidate-vibid:100100022247121": 115,
+      "gas:candidate-vibid:100100022248789": 602
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1789,10 +1789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 74,
-      "Зюганов Геннадий Андреевич": 136,
-      "Медведев Дмитрий Анатольевич": 1070
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 74,
+      "gas:candidate-vibid:100100022247121": 136,
+      "gas:candidate-vibid:100100022248789": 1070
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1839,10 +1839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 186,
-      "Медведев Дмитрий Анатольевич": 865
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 53,
+      "gas:candidate-vibid:100100022247121": 186,
+      "gas:candidate-vibid:100100022248789": 865
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1889,10 +1889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 205,
-      "Медведев Дмитрий Анатольевич": 827
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 205,
+      "gas:candidate-vibid:100100022248789": 827
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1939,10 +1939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 26,
-      "Жириновский Владимир Вольфович": 109,
-      "Зюганов Геннадий Андреевич": 155,
-      "Медведев Дмитрий Анатольевич": 1351
+      "gas:candidate-vibid:100100022245504": 26,
+      "gas:candidate-vibid:100100022247031": 109,
+      "gas:candidate-vibid:100100022247121": 155,
+      "gas:candidate-vibid:100100022248789": 1351
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -1989,10 +1989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 8,
-      "Медведев Дмитрий Анатольевич": 152
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 8,
+      "gas:candidate-vibid:100100022248789": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2039,10 +2039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 94,
-      "Медведев Дмитрий Анатольевич": 697
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 94,
+      "gas:candidate-vibid:100100022248789": 697
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2089,10 +2089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 244,
-      "Медведев Дмитрий Анатольевич": 920
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 244,
+      "gas:candidate-vibid:100100022248789": 920
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2139,10 +2139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 36,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 251,
-      "Медведев Дмитрий Анатольевич": 1672
+      "gas:candidate-vibid:100100022245504": 36,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 251,
+      "gas:candidate-vibid:100100022248789": 1672
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2189,10 +2189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 48,
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 270,
-      "Медведев Дмитрий Анатольевич": 1450
+      "gas:candidate-vibid:100100022245504": 48,
+      "gas:candidate-vibid:100100022247031": 122,
+      "gas:candidate-vibid:100100022247121": 270,
+      "gas:candidate-vibid:100100022248789": 1450
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2239,10 +2239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 36,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 256,
-      "Медведев Дмитрий Анатольевич": 1625
+      "gas:candidate-vibid:100100022245504": 36,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 256,
+      "gas:candidate-vibid:100100022248789": 1625
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2289,10 +2289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 26,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 366,
-      "Медведев Дмитрий Анатольевич": 1590
+      "gas:candidate-vibid:100100022245504": 26,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 366,
+      "gas:candidate-vibid:100100022248789": 1590
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2339,10 +2339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 73,
-      "Зюганов Геннадий Андреевич": 89,
-      "Медведев Дмитрий Анатольевич": 833
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 73,
+      "gas:candidate-vibid:100100022247121": 89,
+      "gas:candidate-vibid:100100022248789": 833
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2389,10 +2389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 197,
-      "Медведев Дмитрий Анатольевич": 916
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 82,
+      "gas:candidate-vibid:100100022247121": 197,
+      "gas:candidate-vibid:100100022248789": 916
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2439,10 +2439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 143,
-      "Зюганов Геннадий Андреевич": 242,
-      "Медведев Дмитрий Анатольевич": 1476
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 143,
+      "gas:candidate-vibid:100100022247121": 242,
+      "gas:candidate-vibid:100100022248789": 1476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2489,10 +2489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 145,
-      "Медведев Дмитрий Анатольевич": 963
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 69,
+      "gas:candidate-vibid:100100022247121": 145,
+      "gas:candidate-vibid:100100022248789": 963
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2539,10 +2539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 132,
-      "Медведев Дмитрий Анатольевич": 690
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 132,
+      "gas:candidate-vibid:100100022248789": 690
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2589,10 +2589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 289,
-      "Медведев Дмитрий Анатольевич": 1505
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 101,
+      "gas:candidate-vibid:100100022247121": 289,
+      "gas:candidate-vibid:100100022248789": 1505
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2639,10 +2639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 380,
-      "Медведев Дмитрий Анатольевич": 1357
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 380,
+      "gas:candidate-vibid:100100022248789": 1357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2689,10 +2689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 191
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2739,10 +2739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 410,
-      "Медведев Дмитрий Анатольевич": 1090
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 410,
+      "gas:candidate-vibid:100100022248789": 1090
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2789,10 +2789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 224,
-      "Медведев Дмитрий Анатольевич": 1274
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 82,
+      "gas:candidate-vibid:100100022247121": 224,
+      "gas:candidate-vibid:100100022248789": 1274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2839,10 +2839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 339
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2889,10 +2889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 23
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193710&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193710&type=227",
@@ -2939,10 +2939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 360
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 360
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -2989,10 +2989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 371
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3039,10 +3039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 340
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3089,10 +3089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 445
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 445
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3139,10 +3139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 53,
-      "Медведев Дмитрий Анатольевич": 506
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 53,
+      "gas:candidate-vibid:100100022248789": 506
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3189,10 +3189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 111,
-      "Медведев Дмитрий Анатольевич": 613
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 58,
+      "gas:candidate-vibid:100100022247121": 111,
+      "gas:candidate-vibid:100100022248789": 613
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3239,10 +3239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 209
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3289,10 +3289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 558
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3339,10 +3339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 612
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 612
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3389,10 +3389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 296
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3439,10 +3439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 362
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 43,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3489,10 +3489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 117
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3539,10 +3539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 837
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 837
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3589,10 +3589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 81
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3639,10 +3639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 392
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3689,10 +3689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 548
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 548
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3739,10 +3739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 122
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3789,10 +3789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 152
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3839,10 +3839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 183
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3889,10 +3889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 158
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3939,10 +3939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 85
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -3989,10 +3989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 349
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4039,10 +4039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 67
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4089,10 +4089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 104
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4139,10 +4139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 258
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4189,10 +4189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 201
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4239,10 +4239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 14,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 340
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 14,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4289,10 +4289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 235
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4339,10 +4339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 212
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4389,10 +4389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 526
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4439,10 +4439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 319
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4489,10 +4489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 79
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4539,10 +4539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 110
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4589,10 +4589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 213
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4639,10 +4639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 136
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4689,10 +4689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 53
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4739,10 +4739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 348
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4789,10 +4789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 127
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4839,10 +4839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 249
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4889,10 +4889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 215
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193711&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193711&type=227",
@@ -4939,10 +4939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 856
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 856
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -4989,10 +4989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 69,
-      "Медведев Дмитрий Анатольевич": 1234
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 44,
+      "gas:candidate-vibid:100100022247121": 69,
+      "gas:candidate-vibid:100100022248789": 1234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5039,10 +5039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 36,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 1255
+      "gas:candidate-vibid:100100022245504": 36,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 1255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5089,10 +5089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 37,
-      "Медведев Дмитрий Анатольевич": 794
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 37,
+      "gas:candidate-vibid:100100022248789": 794
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5139,10 +5139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 359
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5189,10 +5189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 471
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 471
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5239,10 +5239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 304
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5289,10 +5289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 45,
-      "Медведев Дмитрий Анатольевич": 781
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 45,
+      "gas:candidate-vibid:100100022248789": 781
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5339,10 +5339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 484
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 484
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5389,10 +5389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 39,
-      "Медведев Дмитрий Анатольевич": 813
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 39,
+      "gas:candidate-vibid:100100022248789": 813
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5439,10 +5439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 495
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5489,10 +5489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 81,
-      "Медведев Дмитрий Анатольевич": 837
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 81,
+      "gas:candidate-vibid:100100022248789": 837
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5539,10 +5539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 743
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 743
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5589,10 +5589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 671
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 671
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5639,10 +5639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 327
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5689,10 +5689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 456
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 456
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5739,10 +5739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 198
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5789,10 +5789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 79,
-      "Медведев Дмитрий Анатольевич": 1222
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 79,
+      "gas:candidate-vibid:100100022248789": 1222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5839,10 +5839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 662
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 662
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5889,10 +5889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 677
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 677
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5939,10 +5939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 615
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 615
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -5989,10 +5989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 374
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6039,10 +6039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 411
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6089,10 +6089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 700
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 700
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6139,10 +6139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 339
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6189,10 +6189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 208
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6239,10 +6239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 43,
-      "Медведев Дмитрий Анатольевич": 1549
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 43,
+      "gas:candidate-vibid:100100022248789": 1549
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6289,10 +6289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 447
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6339,10 +6339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 756
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 756
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6389,10 +6389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 148
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6439,10 +6439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 876
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 876
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6489,10 +6489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 97,
-      "Медведев Дмитрий Анатольевич": 1188
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 67,
+      "gas:candidate-vibid:100100022247121": 97,
+      "gas:candidate-vibid:100100022248789": 1188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6539,10 +6539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 116,
-      "Медведев Дмитрий Анатольевич": 1195
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 116,
+      "gas:candidate-vibid:100100022248789": 1195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193712&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193712&type=227",
@@ -6589,10 +6589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 964
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 964
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6639,10 +6639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 825
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 825
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6689,10 +6689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 36,
-      "Медведев Дмитрий Анатольевич": 833
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 36,
+      "gas:candidate-vibid:100100022248789": 833
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6739,10 +6739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 1004
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 1004
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6789,10 +6789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 754
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 754
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6839,10 +6839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 656
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 656
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6889,10 +6889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 58,
-      "Медведев Дмитрий Анатольевич": 1487
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 58,
+      "gas:candidate-vibid:100100022248789": 1487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6939,10 +6939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 45,
-      "Медведев Дмитрий Анатольевич": 1333
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 45,
+      "gas:candidate-vibid:100100022248789": 1333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -6989,10 +6989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 1349
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 1349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -7039,10 +7039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 1164
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 1164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -7089,10 +7089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 74,
-      "Медведев Дмитрий Анатольевич": 1214
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 74,
+      "gas:candidate-vibid:100100022248789": 1214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -7139,10 +7139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 126,
-      "Медведев Дмитрий Анатольевич": 761
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 126,
+      "gas:candidate-vibid:100100022248789": 761
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -7189,10 +7189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 27,
-      "Зюганов Геннадий Андреевич": 73,
-      "Медведев Дмитрий Анатольевич": 649
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 27,
+      "gas:candidate-vibid:100100022247121": 73,
+      "gas:candidate-vibid:100100022248789": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193713&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193713&type=227",
@@ -7239,10 +7239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 273,
-      "Медведев Дмитрий Анатольевич": 1368
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 145,
+      "gas:candidate-vibid:100100022247121": 273,
+      "gas:candidate-vibid:100100022248789": 1368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7289,10 +7289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 131,
-      "Зюганов Геннадий Андреевич": 186,
-      "Медведев Дмитрий Анатольевич": 1046
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 131,
+      "gas:candidate-vibid:100100022247121": 186,
+      "gas:candidate-vibid:100100022248789": 1046
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7339,10 +7339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 297,
-      "Медведев Дмитрий Анатольевич": 1246
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 76,
+      "gas:candidate-vibid:100100022247121": 297,
+      "gas:candidate-vibid:100100022248789": 1246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7389,10 +7389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 284,
-      "Медведев Дмитрий Анатольевич": 987
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 284,
+      "gas:candidate-vibid:100100022248789": 987
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7439,10 +7439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 135,
-      "Медведев Дмитрий Анатольевич": 665
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 49,
+      "gas:candidate-vibid:100100022247121": 135,
+      "gas:candidate-vibid:100100022248789": 665
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7489,10 +7489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 119,
-      "Медведев Дмитрий Анатольевич": 660
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 46,
+      "gas:candidate-vibid:100100022247121": 119,
+      "gas:candidate-vibid:100100022248789": 660
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7539,10 +7539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 116,
-      "Медведев Дмитрий Анатольевич": 653
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 116,
+      "gas:candidate-vibid:100100022248789": 653
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7589,10 +7589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 120,
-      "Медведев Дмитрий Анатольевич": 649
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 120,
+      "gas:candidate-vibid:100100022248789": 649
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7639,10 +7639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 163,
-      "Медведев Дмитрий Анатольевич": 699
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 163,
+      "gas:candidate-vibid:100100022248789": 699
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7689,10 +7689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 69,
-      "Зюганов Геннадий Андреевич": 164,
-      "Медведев Дмитрий Анатольевич": 729
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 69,
+      "gas:candidate-vibid:100100022247121": 164,
+      "gas:candidate-vibid:100100022248789": 729
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7739,10 +7739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 143,
-      "Медведев Дмитрий Анатольевич": 688
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 57,
+      "gas:candidate-vibid:100100022247121": 143,
+      "gas:candidate-vibid:100100022248789": 688
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7789,10 +7789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 83,
-      "Зюганов Геннадий Андреевич": 159,
-      "Медведев Дмитрий Анатольевич": 786
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 83,
+      "gas:candidate-vibid:100100022247121": 159,
+      "gas:candidate-vibid:100100022248789": 786
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7839,10 +7839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 230,
-      "Медведев Дмитрий Анатольевич": 982
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 230,
+      "gas:candidate-vibid:100100022248789": 982
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7889,10 +7889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 77,
-      "Зюганов Геннадий Андреевич": 224,
-      "Медведев Дмитрий Анатольевич": 1466
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 77,
+      "gas:candidate-vibid:100100022247121": 224,
+      "gas:candidate-vibid:100100022248789": 1466
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7939,10 +7939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 155,
-      "Медведев Дмитрий Анатольевич": 866
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 84,
+      "gas:candidate-vibid:100100022247121": 155,
+      "gas:candidate-vibid:100100022248789": 866
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -7989,10 +7989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 161,
-      "Медведев Дмитрий Анатольевич": 837
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 58,
+      "gas:candidate-vibid:100100022247121": 161,
+      "gas:candidate-vibid:100100022248789": 837
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8039,10 +8039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 71,
-      "Зюганов Геннадий Андреевич": 168,
-      "Медведев Дмитрий Анатольевич": 828
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 71,
+      "gas:candidate-vibid:100100022247121": 168,
+      "gas:candidate-vibid:100100022248789": 828
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8089,10 +8089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 186,
-      "Медведев Дмитрий Анатольевич": 947
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 186,
+      "gas:candidate-vibid:100100022248789": 947
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8139,10 +8139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 19,
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 249,
-      "Медведев Дмитрий Анатольевич": 1033
+      "gas:candidate-vibid:100100022245504": 19,
+      "gas:candidate-vibid:100100022247031": 101,
+      "gas:candidate-vibid:100100022247121": 249,
+      "gas:candidate-vibid:100100022248789": 1033
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8189,10 +8189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 164,
-      "Медведев Дмитрий Анатольевич": 746
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 164,
+      "gas:candidate-vibid:100100022248789": 746
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8239,10 +8239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 221,
-      "Медведев Дмитрий Анатольевич": 743
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 221,
+      "gas:candidate-vibid:100100022248789": 743
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8289,10 +8289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 122,
-      "Медведев Дмитрий Анатольевич": 937
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 122,
+      "gas:candidate-vibid:100100022248789": 937
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8339,10 +8339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 221,
-      "Медведев Дмитрий Анатольевич": 751
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 221,
+      "gas:candidate-vibid:100100022248789": 751
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8389,10 +8389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 25,
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 124,
-      "Медведев Дмитрий Анатольевич": 762
+      "gas:candidate-vibid:100100022245504": 25,
+      "gas:candidate-vibid:100100022247031": 56,
+      "gas:candidate-vibid:100100022247121": 124,
+      "gas:candidate-vibid:100100022248789": 762
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8439,10 +8439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 110,
-      "Медведев Дмитрий Анатольевич": 716
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 70,
+      "gas:candidate-vibid:100100022247121": 110,
+      "gas:candidate-vibid:100100022248789": 716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8489,10 +8489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 123,
-      "Медведев Дмитрий Анатольевич": 698
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 123,
+      "gas:candidate-vibid:100100022248789": 698
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8539,10 +8539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 39,
-      "Зюганов Геннадий Андреевич": 128,
-      "Медведев Дмитрий Анатольевич": 716
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 39,
+      "gas:candidate-vibid:100100022247121": 128,
+      "gas:candidate-vibid:100100022248789": 716
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8589,10 +8589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 26,
-      "Жириновский Владимир Вольфович": 78,
-      "Зюганов Геннадий Андреевич": 169,
-      "Медведев Дмитрий Анатольевич": 726
+      "gas:candidate-vibid:100100022245504": 26,
+      "gas:candidate-vibid:100100022247031": 78,
+      "gas:candidate-vibid:100100022247121": 169,
+      "gas:candidate-vibid:100100022248789": 726
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8639,10 +8639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 176,
-      "Медведев Дмитрий Анатольевич": 681
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 66,
+      "gas:candidate-vibid:100100022247121": 176,
+      "gas:candidate-vibid:100100022248789": 681
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8689,10 +8689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 58,
-      "Зюганов Геннадий Андреевич": 283,
-      "Медведев Дмитрий Анатольевич": 1417
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 58,
+      "gas:candidate-vibid:100100022247121": 283,
+      "gas:candidate-vibid:100100022248789": 1417
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8739,10 +8739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 199,
-      "Медведев Дмитрий Анатольевич": 767
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 199,
+      "gas:candidate-vibid:100100022248789": 767
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8789,10 +8789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 89,
-      "Медведев Дмитрий Анатольевич": 980
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 89,
+      "gas:candidate-vibid:100100022248789": 980
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8839,10 +8839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 138,
-      "Медведев Дмитрий Анатольевич": 556
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 138,
+      "gas:candidate-vibid:100100022248789": 556
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8889,10 +8889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 175,
-      "Медведев Дмитрий Анатольевич": 687
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 175,
+      "gas:candidate-vibid:100100022248789": 687
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8939,10 +8939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 16,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 96,
-      "Медведев Дмитрий Анатольевич": 626
+      "gas:candidate-vibid:100100022245504": 16,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 96,
+      "gas:candidate-vibid:100100022248789": 626
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -8989,10 +8989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 129,
-      "Медведев Дмитрий Анатольевич": 964
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 129,
+      "gas:candidate-vibid:100100022248789": 964
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9039,10 +9039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 195,
-      "Медведев Дмитрий Анатольевич": 1058
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 105,
+      "gas:candidate-vibid:100100022247121": 195,
+      "gas:candidate-vibid:100100022248789": 1058
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9089,10 +9089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 25,
-      "Жириновский Владимир Вольфович": 97,
-      "Зюганов Геннадий Андреевич": 216,
-      "Медведев Дмитрий Анатольевич": 1135
+      "gas:candidate-vibid:100100022245504": 25,
+      "gas:candidate-vibid:100100022247031": 97,
+      "gas:candidate-vibid:100100022247121": 216,
+      "gas:candidate-vibid:100100022248789": 1135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9139,10 +9139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 36,
-      "Жириновский Владимир Вольфович": 146,
-      "Зюганов Геннадий Андреевич": 275,
-      "Медведев Дмитрий Анатольевич": 1511
+      "gas:candidate-vibid:100100022245504": 36,
+      "gas:candidate-vibid:100100022247031": 146,
+      "gas:candidate-vibid:100100022247121": 275,
+      "gas:candidate-vibid:100100022248789": 1511
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9189,10 +9189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 198,
-      "Медведев Дмитрий Анатольевич": 898
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 57,
+      "gas:candidate-vibid:100100022247121": 198,
+      "gas:candidate-vibid:100100022248789": 898
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9239,10 +9239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 285,
-      "Медведев Дмитрий Анатольевич": 1212
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 285,
+      "gas:candidate-vibid:100100022248789": 1212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9289,10 +9289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 153,
-      "Медведев Дмитрий Анатольевич": 670
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 86,
+      "gas:candidate-vibid:100100022247121": 153,
+      "gas:candidate-vibid:100100022248789": 670
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9339,10 +9339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 49,
-      "Зюганов Геннадий Андреевич": 132,
-      "Медведев Дмитрий Анатольевич": 617
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 49,
+      "gas:candidate-vibid:100100022247121": 132,
+      "gas:candidate-vibid:100100022248789": 617
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9389,10 +9389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 175,
-      "Медведев Дмитрий Анатольевич": 804
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 175,
+      "gas:candidate-vibid:100100022248789": 804
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9439,10 +9439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 99,
-      "Медведев Дмитрий Анатольевич": 1163
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 51,
+      "gas:candidate-vibid:100100022247121": 99,
+      "gas:candidate-vibid:100100022248789": 1163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9489,10 +9489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 102,
-      "Зюганов Геннадий Андреевич": 191,
-      "Медведев Дмитрий Анатольевич": 1353
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 102,
+      "gas:candidate-vibid:100100022247121": 191,
+      "gas:candidate-vibid:100100022248789": 1353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9539,10 +9539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 872
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 872
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9589,10 +9589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 36,
-      "Зюганов Геннадий Андреевич": 121,
-      "Медведев Дмитрий Анатольевич": 1191
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 36,
+      "gas:candidate-vibid:100100022247121": 121,
+      "gas:candidate-vibid:100100022248789": 1191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9639,10 +9639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 174,
-      "Медведев Дмитрий Анатольевич": 978
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 51,
+      "gas:candidate-vibid:100100022247121": 174,
+      "gas:candidate-vibid:100100022248789": 978
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9689,10 +9689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 155,
-      "Медведев Дмитрий Анатольевич": 729
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 155,
+      "gas:candidate-vibid:100100022248789": 729
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9739,10 +9739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 41,
-      "Зюганов Геннадий Андреевич": 115,
-      "Медведев Дмитрий Анатольевич": 589
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 41,
+      "gas:candidate-vibid:100100022247121": 115,
+      "gas:candidate-vibid:100100022248789": 589
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9789,10 +9789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 200
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9839,10 +9839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 441
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 441
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193714&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193714&type=227",
@@ -9889,10 +9889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 943
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 943
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -9939,10 +9939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 844
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 844
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -9989,10 +9989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 846
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 846
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10039,10 +10039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 950
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 950
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10089,10 +10089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 38,
-      "Медведев Дмитрий Анатольевич": 1004
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 38,
+      "gas:candidate-vibid:100100022248789": 1004
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10139,10 +10139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 801
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 801
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10189,10 +10189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 605
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 605
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10239,10 +10239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 741
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 741
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10289,10 +10289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 886
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 886
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10339,10 +10339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 939
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 939
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10389,10 +10389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 910
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 910
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10439,10 +10439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 846
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 846
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10489,10 +10489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 840
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 840
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10539,10 +10539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 993
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 993
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10589,10 +10589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 704
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 704
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10639,10 +10639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 9,
-      "Медведев Дмитрий Анатольевич": 870
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 9,
+      "gas:candidate-vibid:100100022248789": 870
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10689,10 +10689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 0,
-      "Медведев Дмитрий Анатольевич": 179
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 0,
+      "gas:candidate-vibid:100100022248789": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10739,10 +10739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 710
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 710
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10789,10 +10789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 816
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 816
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10839,10 +10839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 533
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 533
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10889,10 +10889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 350
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10939,10 +10939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 397
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -10989,10 +10989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 326
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11039,10 +11039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 526
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 526
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11089,10 +11089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 415
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 415
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11139,10 +11139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 160
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11189,10 +11189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 497
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 497
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11239,10 +11239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 426
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 426
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11289,10 +11289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 600
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 600
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11339,10 +11339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 206
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11389,10 +11389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 665
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 665
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11439,10 +11439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 581
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 581
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11489,10 +11489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 249
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11539,10 +11539,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 574
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 574
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11589,10 +11589,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 171
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11639,10 +11639,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 443
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 443
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11689,10 +11689,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 675
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 675
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11739,10 +11739,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 872
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 872
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11789,10 +11789,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 463
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 463
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11839,10 +11839,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 213
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11889,10 +11889,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 454
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 454
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11939,10 +11939,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 329
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -11989,10 +11989,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 335
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12039,10 +12039,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 177
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12089,10 +12089,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 305
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12139,10 +12139,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 303
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12189,10 +12189,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 317
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12239,10 +12239,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 1055
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 1055
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12289,10 +12289,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 819
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 819
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12339,10 +12339,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 194
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12389,10 +12389,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 358
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 358
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12439,10 +12439,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 1,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 193
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 1,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",
@@ -12489,10 +12489,10 @@ export const president_2008_uik_226_region_16_part_009 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 367
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tatarstan?action=show&root=1000036&tvd=2162000193715&vrn=100100022176412&region=16&global=&sub_region=16&prver=0&pronetvd=null&vibid=2162000193715&type=227",

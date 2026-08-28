@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 269,
-      "Гребенюк Владимир Дмитриевич": 426,
-      "Подколзин Юрий Николаевич": 21,
-      "Шарова Эльвира Александровна": 57,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121898": 269,
+      "gas:candidate-vibid:1001000225975": 426,
+      "gas:candidate-vibid:1001000195129": 21,
+      "gas:candidate-vibid:361300670547": 57,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 188,
-      "Гребенюк Владимир Дмитриевич": 468,
-      "Подколзин Юрий Николаевич": 38,
-      "Шарова Эльвира Александровна": 53,
-      "Шахов Роман Николаевич": 57,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121898": 188,
+      "gas:candidate-vibid:1001000225975": 468,
+      "gas:candidate-vibid:1001000195129": 38,
+      "gas:candidate-vibid:361300670547": 53,
+      "gas:candidate-vibid:1001000136109": 57,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 367,
-      "Гребенюк Владимир Дмитриевич": 499,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 76,
-      "Шахов Роман Николаевич": 67,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121898": 367,
+      "gas:candidate-vibid:1001000225975": 499,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 76,
+      "gas:candidate-vibid:1001000136109": 67,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 133,
-      "Гребенюк Владимир Дмитриевич": 288,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 55,
-      "Шахов Роман Николаевич": 46,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121898": 133,
+      "gas:candidate-vibid:1001000225975": 288,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 55,
+      "gas:candidate-vibid:1001000136109": 46,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 18,
-      "Гребенюк Владимир Дмитриевич": 90,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 35,
-      "Шахов Роман Николаевич": 26,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121898": 18,
+      "gas:candidate-vibid:1001000225975": 90,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 35,
+      "gas:candidate-vibid:1001000136109": 26,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 12,
-      "Гребенюк Владимир Дмитриевич": 65,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 1,
-      "Шахов Роман Николаевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121898": 12,
+      "gas:candidate-vibid:1001000225975": 65,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 1,
+      "gas:candidate-vibid:1001000136109": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 301,
-      "Гребенюк Владимир Дмитриевич": 513,
-      "Подколзин Юрий Николаевич": 22,
-      "Шарова Эльвира Александровна": 62,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121898": 301,
+      "gas:candidate-vibid:1001000225975": 513,
+      "gas:candidate-vibid:1001000195129": 22,
+      "gas:candidate-vibid:361300670547": 62,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 184,
-      "Гребенюк Владимир Дмитриевич": 444,
-      "Подколзин Юрий Николаевич": 47,
-      "Шарова Эльвира Александровна": 80,
-      "Шахов Роман Николаевич": 58,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121898": 184,
+      "gas:candidate-vibid:1001000225975": 444,
+      "gas:candidate-vibid:1001000195129": 47,
+      "gas:candidate-vibid:361300670547": 80,
+      "gas:candidate-vibid:1001000136109": 58,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 46,
-      "Гребенюк Владимир Дмитриевич": 262,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 23,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121898": 46,
+      "gas:candidate-vibid:1001000225975": 262,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 23,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 83,
-      "Гребенюк Владимир Дмитриевич": 301,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 44,
-      "Шахов Роман Николаевич": 29,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121898": 83,
+      "gas:candidate-vibid:1001000225975": 301,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 44,
+      "gas:candidate-vibid:1001000136109": 29,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 16,
-      "Гребенюк Владимир Дмитриевич": 54,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 8,
-      "Шахов Роман Николаевич": 9,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121898": 16,
+      "gas:candidate-vibid:1001000225975": 54,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 8,
+      "gas:candidate-vibid:1001000136109": 9,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 18,
-      "Гребенюк Владимир Дмитриевич": 84,
-      "Подколзин Юрий Николаевич": 1,
-      "Шарова Эльвира Александровна": 6,
-      "Шахов Роман Николаевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121898": 18,
+      "gas:candidate-vibid:1001000225975": 84,
+      "gas:candidate-vibid:1001000195129": 1,
+      "gas:candidate-vibid:361300670547": 6,
+      "gas:candidate-vibid:1001000136109": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 21,
-      "Гребенюк Владимир Дмитриевич": 174,
-      "Подколзин Юрий Николаевич": 4,
-      "Шарова Эльвира Александровна": 5,
-      "Шахов Роман Николаевич": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121898": 21,
+      "gas:candidate-vibid:1001000225975": 174,
+      "gas:candidate-vibid:1001000195129": 4,
+      "gas:candidate-vibid:361300670547": 5,
+      "gas:candidate-vibid:1001000136109": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 68,
-      "Гребенюк Владимир Дмитриевич": 386,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 24,
-      "Шахов Роман Николаевич": 16,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121898": 68,
+      "gas:candidate-vibid:1001000225975": 386,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 24,
+      "gas:candidate-vibid:1001000136109": 16,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 1,
-      "Гребенюк Владимир Дмитриевич": 53,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121898": 1,
+      "gas:candidate-vibid:1001000225975": 53,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 30,
-      "Гребенюк Владимир Дмитриевич": 252,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 18,
-      "Шахов Роман Николаевич": 14,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121898": 30,
+      "gas:candidate-vibid:1001000225975": 252,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 18,
+      "gas:candidate-vibid:1001000136109": 14,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 7,
-      "Гребенюк Владимир Дмитриевич": 109,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 4,
-      "Шахов Роман Николаевич": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121898": 7,
+      "gas:candidate-vibid:1001000225975": 109,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 4,
+      "gas:candidate-vibid:1001000136109": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 38,
-      "Гребенюк Владимир Дмитриевич": 31,
-      "Подколзин Юрий Николаевич": 10,
-      "Шарова Эльвира Александровна": 12,
-      "Шахов Роман Николаевич": 16,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121898": 38,
+      "gas:candidate-vibid:1001000225975": 31,
+      "gas:candidate-vibid:1001000195129": 10,
+      "gas:candidate-vibid:361300670547": 12,
+      "gas:candidate-vibid:1001000136109": 16,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 12,
-      "Гребенюк Владимир Дмитриевич": 45,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 17,
-      "Шахов Роман Николаевич": 12,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121898": 12,
+      "gas:candidate-vibid:1001000225975": 45,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 17,
+      "gas:candidate-vibid:1001000136109": 12,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 18,
-      "Гребенюк Владимир Дмитриевич": 90,
-      "Подколзин Юрий Николаевич": 4,
-      "Шарова Эльвира Александровна": 2,
-      "Шахов Роман Николаевич": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121898": 18,
+      "gas:candidate-vibid:1001000225975": 90,
+      "gas:candidate-vibid:1001000195129": 4,
+      "gas:candidate-vibid:361300670547": 2,
+      "gas:candidate-vibid:1001000136109": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670396&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 200,
-      "Гребенюк Владимир Дмитриевич": 515,
-      "Подколзин Юрий Николаевич": 25,
-      "Шарова Эльвира Александровна": 32,
-      "Шахов Роман Николаевич": 30,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000121898": 200,
+      "gas:candidate-vibid:1001000225975": 515,
+      "gas:candidate-vibid:1001000195129": 25,
+      "gas:candidate-vibid:361300670547": 32,
+      "gas:candidate-vibid:1001000136109": 30,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 100,
-      "Гребенюк Владимир Дмитриевич": 393,
-      "Подколзин Юрий Николаевич": 12,
-      "Шарова Эльвира Александровна": 21,
-      "Шахов Роман Николаевич": 23,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121898": 100,
+      "gas:candidate-vibid:1001000225975": 393,
+      "gas:candidate-vibid:1001000195129": 12,
+      "gas:candidate-vibid:361300670547": 21,
+      "gas:candidate-vibid:1001000136109": 23,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 47,
-      "Гребенюк Владимир Дмитриевич": 222,
-      "Подколзин Юрий Николаевич": 4,
-      "Шарова Эльвира Александровна": 14,
-      "Шахов Роман Николаевич": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121898": 47,
+      "gas:candidate-vibid:1001000225975": 222,
+      "gas:candidate-vibid:1001000195129": 4,
+      "gas:candidate-vibid:361300670547": 14,
+      "gas:candidate-vibid:1001000136109": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 82,
-      "Гребенюк Владимир Дмитриевич": 268,
-      "Подколзин Юрий Николаевич": 6,
-      "Шарова Эльвира Александровна": 15,
-      "Шахов Роман Николаевич": 17,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121898": 82,
+      "gas:candidate-vibid:1001000225975": 268,
+      "gas:candidate-vibid:1001000195129": 6,
+      "gas:candidate-vibid:361300670547": 15,
+      "gas:candidate-vibid:1001000136109": 17,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 11,
-      "Гребенюк Владимир Дмитриевич": 85,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121898": 11,
+      "gas:candidate-vibid:1001000225975": 85,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 40,
-      "Гребенюк Владимир Дмитриевич": 194,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 2,
-      "Шахов Роман Николаевич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121898": 40,
+      "gas:candidate-vibid:1001000225975": 194,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 2,
+      "gas:candidate-vibid:1001000136109": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 8,
-      "Гребенюк Владимир Дмитриевич": 57,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 2,
-      "Шахов Роман Николаевич": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121898": 8,
+      "gas:candidate-vibid:1001000225975": 57,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 2,
+      "gas:candidate-vibid:1001000136109": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 17,
-      "Гребенюк Владимир Дмитриевич": 249,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 9,
-      "Шахов Роман Николаевич": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121898": 17,
+      "gas:candidate-vibid:1001000225975": 249,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 9,
+      "gas:candidate-vibid:1001000136109": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 76,
-      "Гребенюк Владимир Дмитриевич": 656,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 18,
-      "Шахов Роман Николаевич": 27,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121898": 76,
+      "gas:candidate-vibid:1001000225975": 656,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 18,
+      "gas:candidate-vibid:1001000136109": 27,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 21,
-      "Гребенюк Владимир Дмитриевич": 333,
-      "Подколзин Юрий Николаевич": 4,
-      "Шарова Эльвира Александровна": 6,
-      "Шахов Роман Николаевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121898": 21,
+      "gas:candidate-vibid:1001000225975": 333,
+      "gas:candidate-vibid:1001000195129": 4,
+      "gas:candidate-vibid:361300670547": 6,
+      "gas:candidate-vibid:1001000136109": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 31,
-      "Гребенюк Владимир Дмитриевич": 262,
-      "Подколзин Юрий Николаевич": 14,
-      "Шарова Эльвира Александровна": 15,
-      "Шахов Роман Николаевич": 23,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121898": 31,
+      "gas:candidate-vibid:1001000225975": 262,
+      "gas:candidate-vibid:1001000195129": 14,
+      "gas:candidate-vibid:361300670547": 15,
+      "gas:candidate-vibid:1001000136109": 23,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 8,
-      "Гребенюк Владимир Дмитриевич": 120,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 7,
-      "Шахов Роман Николаевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121898": 8,
+      "gas:candidate-vibid:1001000225975": 120,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 7,
+      "gas:candidate-vibid:1001000136109": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 168,
-      "Гребенюк Владимир Дмитриевич": 794,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 42,
-      "Шахов Роман Николаевич": 32,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121898": 168,
+      "gas:candidate-vibid:1001000225975": 794,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 42,
+      "gas:candidate-vibid:1001000136109": 32,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 28,
-      "Гребенюк Владимир Дмитриевич": 156,
-      "Подколзин Юрий Николаевич": 6,
-      "Шарова Эльвира Александровна": 17,
-      "Шахов Роман Николаевич": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121898": 28,
+      "gas:candidate-vibid:1001000225975": 156,
+      "gas:candidate-vibid:1001000195129": 6,
+      "gas:candidate-vibid:361300670547": 17,
+      "gas:candidate-vibid:1001000136109": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 26,
-      "Гребенюк Владимир Дмитриевич": 264,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 2,
-      "Шахов Роман Николаевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121898": 26,
+      "gas:candidate-vibid:1001000225975": 264,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 2,
+      "gas:candidate-vibid:1001000136109": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 25,
-      "Гребенюк Владимир Дмитриевич": 212,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 4,
-      "Шахов Роман Николаевич": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121898": 25,
+      "gas:candidate-vibid:1001000225975": 212,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 4,
+      "gas:candidate-vibid:1001000136109": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 28,
-      "Гребенюк Владимир Дмитриевич": 242,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 9,
-      "Шахов Роман Николаевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121898": 28,
+      "gas:candidate-vibid:1001000225975": 242,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 9,
+      "gas:candidate-vibid:1001000136109": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 48,
-      "Гребенюк Владимир Дмитриевич": 412,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 17,
-      "Шахов Роман Николаевич": 29,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121898": 48,
+      "gas:candidate-vibid:1001000225975": 412,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 17,
+      "gas:candidate-vibid:1001000136109": 29,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 35,
-      "Гребенюк Владимир Дмитриевич": 355,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 23,
-      "Шахов Роман Николаевич": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121898": 35,
+      "gas:candidate-vibid:1001000225975": 355,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 23,
+      "gas:candidate-vibid:1001000136109": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 62,
-      "Гребенюк Владимир Дмитриевич": 430,
-      "Подколзин Юрий Николаевич": 10,
-      "Шарова Эльвира Александровна": 32,
-      "Шахов Роман Николаевич": 28,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121898": 62,
+      "gas:candidate-vibid:1001000225975": 430,
+      "gas:candidate-vibid:1001000195129": 10,
+      "gas:candidate-vibid:361300670547": 32,
+      "gas:candidate-vibid:1001000136109": 28,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 31,
-      "Гребенюк Владимир Дмитриевич": 374,
-      "Подколзин Юрий Николаевич": 4,
-      "Шарова Эльвира Александровна": 26,
-      "Шахов Роман Николаевич": 21,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121898": 31,
+      "gas:candidate-vibid:1001000225975": 374,
+      "gas:candidate-vibid:1001000195129": 4,
+      "gas:candidate-vibid:361300670547": 26,
+      "gas:candidate-vibid:1001000136109": 21,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 154,
-      "Гребенюк Владимир Дмитриевич": 448,
-      "Подколзин Юрий Николаевич": 19,
-      "Шарова Эльвира Александровна": 43,
-      "Шахов Роман Николаевич": 34,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121898": 154,
+      "gas:candidate-vibid:1001000225975": 448,
+      "gas:candidate-vibid:1001000195129": 19,
+      "gas:candidate-vibid:361300670547": 43,
+      "gas:candidate-vibid:1001000136109": 34,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 97,
-      "Гребенюк Владимир Дмитриевич": 385,
-      "Подколзин Юрий Николаевич": 17,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 26,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121898": 97,
+      "gas:candidate-vibid:1001000225975": 385,
+      "gas:candidate-vibid:1001000195129": 17,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 26,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 102,
-      "Гребенюк Владимир Дмитриевич": 515,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 30,
-      "Шахов Роман Николаевич": 36,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121898": 102,
+      "gas:candidate-vibid:1001000225975": 515,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 30,
+      "gas:candidate-vibid:1001000136109": 36,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 71,
-      "Гребенюк Владимир Дмитриевич": 328,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 24,
-      "Шахов Роман Николаевич": 22,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121898": 71,
+      "gas:candidate-vibid:1001000225975": 328,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 24,
+      "gas:candidate-vibid:1001000136109": 22,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 7,
-      "Гребенюк Владимир Дмитриевич": 73,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 10,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121898": 7,
+      "gas:candidate-vibid:1001000225975": 73,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 10,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 66,
-      "Гребенюк Владимир Дмитриевич": 543,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 17,
-      "Шахов Роман Николаевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121898": 66,
+      "gas:candidate-vibid:1001000225975": 543,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 17,
+      "gas:candidate-vibid:1001000136109": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 33,
-      "Гребенюк Владимир Дмитриевич": 464,
-      "Подколзин Юрий Николаевич": 1,
-      "Шарова Эльвира Александровна": 12,
-      "Шахов Роман Николаевич": 9,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121898": 33,
+      "gas:candidate-vibid:1001000225975": 464,
+      "gas:candidate-vibid:1001000195129": 1,
+      "gas:candidate-vibid:361300670547": 12,
+      "gas:candidate-vibid:1001000136109": 9,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 128,
-      "Гребенюк Владимир Дмитриевич": 919,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 25,
-      "Шахов Роман Николаевич": 25,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121898": 128,
+      "gas:candidate-vibid:1001000225975": 919,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 25,
+      "gas:candidate-vibid:1001000136109": 25,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 71,
-      "Гребенюк Владимир Дмитриевич": 593,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 14,
-      "Шахов Роман Николаевич": 15,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121898": 71,
+      "gas:candidate-vibid:1001000225975": 593,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 14,
+      "gas:candidate-vibid:1001000136109": 15,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 68,
-      "Гребенюк Владимир Дмитриевич": 573,
-      "Подколзин Юрий Николаевич": 15,
-      "Шарова Эльвира Александровна": 22,
-      "Шахов Роман Николаевич": 27,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121898": 68,
+      "gas:candidate-vibid:1001000225975": 573,
+      "gas:candidate-vibid:1001000195129": 15,
+      "gas:candidate-vibid:361300670547": 22,
+      "gas:candidate-vibid:1001000136109": 27,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 6,
-      "Гребенюк Владимир Дмитриевич": 99,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 3,
-      "Шахов Роман Николаевич": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121898": 6,
+      "gas:candidate-vibid:1001000225975": 99,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 3,
+      "gas:candidate-vibid:1001000136109": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 9,
-      "Гребенюк Владимир Дмитриевич": 96,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 3,
-      "Шахов Роман Николаевич": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121898": 9,
+      "gas:candidate-vibid:1001000225975": 96,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 3,
+      "gas:candidate-vibid:1001000136109": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 11,
-      "Гребенюк Владимир Дмитриевич": 187,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 18,
-      "Шахов Роман Николаевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121898": 11,
+      "gas:candidate-vibid:1001000225975": 187,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 18,
+      "gas:candidate-vibid:1001000136109": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 206,
-      "Гребенюк Владимир Дмитриевич": 755,
-      "Подколзин Юрий Николаевич": 89,
-      "Шарова Эльвира Александровна": 130,
-      "Шахов Роман Николаевич": 102,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000121898": 206,
+      "gas:candidate-vibid:1001000225975": 755,
+      "gas:candidate-vibid:1001000195129": 89,
+      "gas:candidate-vibid:361300670547": 130,
+      "gas:candidate-vibid:1001000136109": 102,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 153,
-      "Гребенюк Владимир Дмитриевич": 842,
-      "Подколзин Юрий Николаевич": 43,
-      "Шарова Эльвира Александровна": 129,
-      "Шахов Роман Николаевич": 69,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000121898": 153,
+      "gas:candidate-vibid:1001000225975": 842,
+      "gas:candidate-vibid:1001000195129": 43,
+      "gas:candidate-vibid:361300670547": 129,
+      "gas:candidate-vibid:1001000136109": 69,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 169,
-      "Гребенюк Владимир Дмитриевич": 637,
-      "Подколзин Юрий Николаевич": 19,
-      "Шарова Эльвира Александровна": 63,
-      "Шахов Роман Николаевич": 66,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121898": 169,
+      "gas:candidate-vibid:1001000225975": 637,
+      "gas:candidate-vibid:1001000195129": 19,
+      "gas:candidate-vibid:361300670547": 63,
+      "gas:candidate-vibid:1001000136109": 66,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 82,
-      "Гребенюк Владимир Дмитриевич": 361,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 60,
-      "Шахов Роман Николаевич": 38,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121898": 82,
+      "gas:candidate-vibid:1001000225975": 361,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 60,
+      "gas:candidate-vibid:1001000136109": 38,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 26,
-      "Гребенюк Владимир Дмитриевич": 237,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 13,
-      "Шахов Роман Николаевич": 11,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121898": 26,
+      "gas:candidate-vibid:1001000225975": 237,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 13,
+      "gas:candidate-vibid:1001000136109": 11,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 128,
-      "Гребенюк Владимир Дмитриевич": 692,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 53,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000121898": 128,
+      "gas:candidate-vibid:1001000225975": 692,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 53,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 137,
-      "Гребенюк Владимир Дмитриевич": 707,
-      "Подколзин Юрий Николаевич": 14,
-      "Шарова Эльвира Александровна": 55,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000121898": 137,
+      "gas:candidate-vibid:1001000225975": 707,
+      "gas:candidate-vibid:1001000195129": 14,
+      "gas:candidate-vibid:361300670547": 55,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 45,
-      "Гребенюк Владимир Дмитриевич": 361,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 25,
-      "Шахов Роман Николаевич": 27,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121898": 45,
+      "gas:candidate-vibid:1001000225975": 361,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 25,
+      "gas:candidate-vibid:1001000136109": 27,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 7,
-      "Гребенюк Владимир Дмитриевич": 223,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 7,
-      "Шахов Роман Николаевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121898": 7,
+      "gas:candidate-vibid:1001000225975": 223,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 7,
+      "gas:candidate-vibid:1001000136109": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 2,
-      "Гребенюк Владимир Дмитриевич": 78,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 2,
-      "Шахов Роман Николаевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121898": 2,
+      "gas:candidate-vibid:1001000225975": 78,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 2,
+      "gas:candidate-vibid:1001000136109": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 139,
-      "Гребенюк Владимир Дмитриевич": 731,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 50,
-      "Шахов Роман Николаевич": 13,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121898": 139,
+      "gas:candidate-vibid:1001000225975": 731,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 50,
+      "gas:candidate-vibid:1001000136109": 13,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 46,
-      "Гребенюк Владимир Дмитриевич": 232,
-      "Подколзин Юрий Николаевич": 1,
-      "Шарова Эльвира Александровна": 11,
-      "Шахов Роман Николаевич": 15,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121898": 46,
+      "gas:candidate-vibid:1001000225975": 232,
+      "gas:candidate-vibid:1001000195129": 1,
+      "gas:candidate-vibid:361300670547": 11,
+      "gas:candidate-vibid:1001000136109": 15,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 139,
-      "Гребенюк Владимир Дмитриевич": 296,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 28,
-      "Шахов Роман Николаевич": 27,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121898": 139,
+      "gas:candidate-vibid:1001000225975": 296,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 28,
+      "gas:candidate-vibid:1001000136109": 27,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 35,
-      "Гребенюк Владимир Дмитриевич": 206,
-      "Подколзин Юрий Николаевич": 3,
-      "Шарова Эльвира Александровна": 10,
-      "Шахов Роман Николаевич": 13,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121898": 35,
+      "gas:candidate-vibid:1001000225975": 206,
+      "gas:candidate-vibid:1001000195129": 3,
+      "gas:candidate-vibid:361300670547": 10,
+      "gas:candidate-vibid:1001000136109": 13,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 21,
-      "Гребенюк Владимир Дмитриевич": 237,
-      "Подколзин Юрий Николаевич": 4,
-      "Шарова Эльвира Александровна": 6,
-      "Шахов Роман Николаевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121898": 21,
+      "gas:candidate-vibid:1001000225975": 237,
+      "gas:candidate-vibid:1001000195129": 4,
+      "gas:candidate-vibid:361300670547": 6,
+      "gas:candidate-vibid:1001000136109": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 45,
-      "Гребенюк Владимир Дмитриевич": 244,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 15,
-      "Шахов Роман Николаевич": 23,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121898": 45,
+      "gas:candidate-vibid:1001000225975": 244,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 15,
+      "gas:candidate-vibid:1001000136109": 23,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 73,
-      "Гребенюк Владимир Дмитриевич": 391,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 18,
-      "Шахов Роман Николаевич": 10,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121898": 73,
+      "gas:candidate-vibid:1001000225975": 391,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 18,
+      "gas:candidate-vibid:1001000136109": 10,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 12,
-      "Гребенюк Владимир Дмитриевич": 172,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 6,
-      "Шахов Роман Николаевич": 6,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121898": 12,
+      "gas:candidate-vibid:1001000225975": 172,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 6,
+      "gas:candidate-vibid:1001000136109": 6,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 35,
-      "Гребенюк Владимир Дмитриевич": 575,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 12,
-      "Шахов Роман Николаевич": 15,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121898": 35,
+      "gas:candidate-vibid:1001000225975": 575,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 12,
+      "gas:candidate-vibid:1001000136109": 15,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 130,
-      "Гребенюк Владимир Дмитриевич": 601,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 35,
-      "Шахов Роман Николаевич": 28,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121898": 130,
+      "gas:candidate-vibid:1001000225975": 601,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 35,
+      "gas:candidate-vibid:1001000136109": 28,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 36,
-      "Гребенюк Владимир Дмитриевич": 596,
-      "Подколзин Юрий Николаевич": 6,
-      "Шарова Эльвира Александровна": 16,
-      "Шахов Роман Николаевич": 15,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121898": 36,
+      "gas:candidate-vibid:1001000225975": 596,
+      "gas:candidate-vibid:1001000195129": 6,
+      "gas:candidate-vibid:361300670547": 16,
+      "gas:candidate-vibid:1001000136109": 15,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 115,
-      "Гребенюк Владимир Дмитриевич": 525,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 20,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121898": 115,
+      "gas:candidate-vibid:1001000225975": 525,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 20,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 17,
-      "Гребенюк Владимир Дмитриевич": 128,
-      "Подколзин Юрий Николаевич": 1,
-      "Шарова Эльвира Александровна": 4,
-      "Шахов Роман Николаевич": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121898": 17,
+      "gas:candidate-vibid:1001000225975": 128,
+      "gas:candidate-vibid:1001000195129": 1,
+      "gas:candidate-vibid:361300670547": 4,
+      "gas:candidate-vibid:1001000136109": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 5,
-      "Гребенюк Владимир Дмитриевич": 123,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 1,
-      "Шахов Роман Николаевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121898": 5,
+      "gas:candidate-vibid:1001000225975": 123,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 1,
+      "gas:candidate-vibid:1001000136109": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 59,
-      "Гребенюк Владимир Дмитриевич": 850,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 14,
-      "Шахов Роман Николаевич": 14,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121898": 59,
+      "gas:candidate-vibid:1001000225975": 850,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 14,
+      "gas:candidate-vibid:1001000136109": 14,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 17,
-      "Гребенюк Владимир Дмитриевич": 731,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 24,
-      "Шахов Роман Николаевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121898": 17,
+      "gas:candidate-vibid:1001000225975": 731,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 24,
+      "gas:candidate-vibid:1001000136109": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 91,
-      "Гребенюк Владимир Дмитриевич": 781,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 13,
-      "Шахов Роман Николаевич": 14,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121898": 91,
+      "gas:candidate-vibid:1001000225975": 781,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 13,
+      "gas:candidate-vibid:1001000136109": 14,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 94,
-      "Гребенюк Владимир Дмитриевич": 622,
-      "Подколзин Юрий Николаевич": 110,
-      "Шарова Эльвира Александровна": 136,
-      "Шахов Роман Николаевич": 36,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121898": 94,
+      "gas:candidate-vibid:1001000225975": 622,
+      "gas:candidate-vibid:1001000195129": 110,
+      "gas:candidate-vibid:361300670547": 136,
+      "gas:candidate-vibid:1001000136109": 36,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 164,
-      "Гребенюк Владимир Дмитриевич": 611,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 55,
-      "Шахов Роман Николаевич": 63,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121898": 164,
+      "gas:candidate-vibid:1001000225975": 611,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 55,
+      "gas:candidate-vibid:1001000136109": 63,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 67,
-      "Гребенюк Владимир Дмитриевич": 701,
-      "Подколзин Юрий Николаевич": 10,
-      "Шарова Эльвира Александровна": 48,
-      "Шахов Роман Николаевич": 10,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121898": 67,
+      "gas:candidate-vibid:1001000225975": 701,
+      "gas:candidate-vibid:1001000195129": 10,
+      "gas:candidate-vibid:361300670547": 48,
+      "gas:candidate-vibid:1001000136109": 10,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 245,
-      "Гребенюк Владимир Дмитриевич": 715,
-      "Подколзин Юрий Николаевич": 15,
-      "Шарова Эльвира Александровна": 59,
-      "Шахов Роман Николаевич": 45,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121898": 245,
+      "gas:candidate-vibid:1001000225975": 715,
+      "gas:candidate-vibid:1001000195129": 15,
+      "gas:candidate-vibid:361300670547": 59,
+      "gas:candidate-vibid:1001000136109": 45,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 80,
-      "Гребенюк Владимир Дмитриевич": 402,
-      "Подколзин Юрий Николаевич": 19,
-      "Шарова Эльвира Александровна": 22,
-      "Шахов Роман Николаевич": 31,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121898": 80,
+      "gas:candidate-vibid:1001000225975": 402,
+      "gas:candidate-vibid:1001000195129": 19,
+      "gas:candidate-vibid:361300670547": 22,
+      "gas:candidate-vibid:1001000136109": 31,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 32,
-      "Гребенюк Владимир Дмитриевич": 321,
-      "Подколзин Юрий Николаевич": 23,
-      "Шарова Эльвира Александровна": 33,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121898": 32,
+      "gas:candidate-vibid:1001000225975": 321,
+      "gas:candidate-vibid:1001000195129": 23,
+      "gas:candidate-vibid:361300670547": 33,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 83,
-      "Гребенюк Владимир Дмитриевич": 379,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 52,
-      "Шахов Роман Николаевич": 19,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121898": 83,
+      "gas:candidate-vibid:1001000225975": 379,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 52,
+      "gas:candidate-vibid:1001000136109": 19,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 286,
-      "Гребенюк Владимир Дмитриевич": 704,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 32,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121898": 286,
+      "gas:candidate-vibid:1001000225975": 704,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 32,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 5,
-      "Гребенюк Владимир Дмитриевич": 178,
-      "Подколзин Юрий Николаевич": 2,
-      "Шарова Эльвира Александровна": 3,
-      "Шахов Роман Николаевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121898": 5,
+      "gas:candidate-vibid:1001000225975": 178,
+      "gas:candidate-vibid:1001000195129": 2,
+      "gas:candidate-vibid:361300670547": 3,
+      "gas:candidate-vibid:1001000136109": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 27,
-      "Гребенюк Владимир Дмитриевич": 134,
-      "Подколзин Юрий Николаевич": 1,
-      "Шарова Эльвира Александровна": 7,
-      "Шахов Роман Николаевич": 10,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121898": 27,
+      "gas:candidate-vibid:1001000225975": 134,
+      "gas:candidate-vibid:1001000195129": 1,
+      "gas:candidate-vibid:361300670547": 7,
+      "gas:candidate-vibid:1001000136109": 10,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 6,
-      "Гребенюк Владимир Дмитриевич": 114,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121898": 6,
+      "gas:candidate-vibid:1001000225975": 114,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 22,
-      "Гребенюк Владимир Дмитриевич": 135,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 9,
-      "Шахов Роман Николаевич": 11,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121898": 22,
+      "gas:candidate-vibid:1001000225975": 135,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 9,
+      "gas:candidate-vibid:1001000136109": 11,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 3,
-      "Гребенюк Владимир Дмитриевич": 103,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 8,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121898": 3,
+      "gas:candidate-vibid:1001000225975": 103,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 8,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 13,
-      "Гребенюк Владимир Дмитриевич": 186,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121898": 13,
+      "gas:candidate-vibid:1001000225975": 186,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 2,
-      "Гребенюк Владимир Дмитриевич": 148,
-      "Подколзин Юрий Николаевич": 1,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121898": 2,
+      "gas:candidate-vibid:1001000225975": 148,
+      "gas:candidate-vibid:1001000195129": 1,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 4,
-      "Гребенюк Владимир Дмитриевич": 117,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 2,
-      "Шахов Роман Николаевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121898": 4,
+      "gas:candidate-vibid:1001000225975": 117,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 2,
+      "gas:candidate-vibid:1001000136109": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 31,
-      "Гребенюк Владимир Дмитриевич": 177,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 0,
-      "Шахов Роман Николаевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121898": 31,
+      "gas:candidate-vibid:1001000225975": 177,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 0,
+      "gas:candidate-vibid:1001000136109": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 161,
-      "Гребенюк Владимир Дмитриевич": 1188,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 90,
-      "Шахов Роман Николаевич": 64,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000121898": 161,
+      "gas:candidate-vibid:1001000225975": 1188,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 90,
+      "gas:candidate-vibid:1001000136109": 64,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 97,
-      "Гребенюк Владимир Дмитриевич": 517,
-      "Подколзин Юрий Николаевич": 12,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 55,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121898": 97,
+      "gas:candidate-vibid:1001000225975": 517,
+      "gas:candidate-vibid:1001000195129": 12,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 55,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670397&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 180,
-      "Гребенюк Владимир Дмитриевич": 432,
-      "Подколзин Юрий Николаевич": 14,
-      "Шарова Эльвира Александровна": 64,
-      "Шахов Роман Николаевич": 46,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121898": 180,
+      "gas:candidate-vibid:1001000225975": 432,
+      "gas:candidate-vibid:1001000195129": 14,
+      "gas:candidate-vibid:361300670547": 64,
+      "gas:candidate-vibid:1001000136109": 46,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 152,
-      "Гребенюк Владимир Дмитриевич": 399,
-      "Подколзин Юрий Николаевич": 10,
-      "Шарова Эльвира Александровна": 37,
-      "Шахов Роман Николаевич": 25,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121898": 152,
+      "gas:candidate-vibid:1001000225975": 399,
+      "gas:candidate-vibid:1001000195129": 10,
+      "gas:candidate-vibid:361300670547": 37,
+      "gas:candidate-vibid:1001000136109": 25,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 144,
-      "Гребенюк Владимир Дмитриевич": 364,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 62,
-      "Шахов Роман Николаевич": 53,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000121898": 144,
+      "gas:candidate-vibid:1001000225975": 364,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 62,
+      "gas:candidate-vibid:1001000136109": 53,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 102,
-      "Гребенюк Владимир Дмитриевич": 248,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 25,
-      "Шахов Роман Николаевич": 16,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121898": 102,
+      "gas:candidate-vibid:1001000225975": 248,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 25,
+      "gas:candidate-vibid:1001000136109": 16,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 302,
-      "Гребенюк Владимир Дмитриевич": 677,
-      "Подколзин Юрий Николаевич": 23,
-      "Шарова Эльвира Александровна": 60,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000121898": 302,
+      "gas:candidate-vibid:1001000225975": 677,
+      "gas:candidate-vibid:1001000195129": 23,
+      "gas:candidate-vibid:361300670547": 60,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 323,
-      "Гребенюк Владимир Дмитриевич": 729,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 92,
-      "Шахов Роман Николаевич": 81,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000121898": 323,
+      "gas:candidate-vibid:1001000225975": 729,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 92,
+      "gas:candidate-vibid:1001000136109": 81,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 84,
-      "Гребенюк Владимир Дмитриевич": 261,
-      "Подколзин Юрий Николаевич": 7,
-      "Шарова Эльвира Александровна": 32,
-      "Шахов Роман Николаевич": 41,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121898": 84,
+      "gas:candidate-vibid:1001000225975": 261,
+      "gas:candidate-vibid:1001000195129": 7,
+      "gas:candidate-vibid:361300670547": 32,
+      "gas:candidate-vibid:1001000136109": 41,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 160,
-      "Гребенюк Владимир Дмитриевич": 421,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 54,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121898": 160,
+      "gas:candidate-vibid:1001000225975": 421,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 54,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 11,
-      "Гребенюк Владимир Дмитриевич": 55,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 10,
-      "Шахов Роман Николаевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121898": 11,
+      "gas:candidate-vibid:1001000225975": 55,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 10,
+      "gas:candidate-vibid:1001000136109": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 206,
-      "Гребенюк Владимир Дмитриевич": 483,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 57,
-      "Шахов Роман Николаевич": 39,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121898": 206,
+      "gas:candidate-vibid:1001000225975": 483,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 57,
+      "gas:candidate-vibid:1001000136109": 39,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 316,
-      "Гребенюк Владимир Дмитриевич": 689,
-      "Подколзин Юрий Николаевич": 29,
-      "Шарова Эльвира Александровна": 76,
-      "Шахов Роман Николаевич": 64,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000121898": 316,
+      "gas:candidate-vibid:1001000225975": 689,
+      "gas:candidate-vibid:1001000195129": 29,
+      "gas:candidate-vibid:361300670547": 76,
+      "gas:candidate-vibid:1001000136109": 64,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 164,
-      "Гребенюк Владимир Дмитриевич": 466,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 70,
-      "Шахов Роман Николаевич": 49,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000121898": 164,
+      "gas:candidate-vibid:1001000225975": 466,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 70,
+      "gas:candidate-vibid:1001000136109": 49,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 145,
-      "Гребенюк Владимир Дмитриевич": 473,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 31,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000121898": 145,
+      "gas:candidate-vibid:1001000225975": 473,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 31,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 142,
-      "Гребенюк Владимир Дмитриевич": 366,
-      "Подколзин Юрий Николаевич": 6,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 37,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121898": 142,
+      "gas:candidate-vibid:1001000225975": 366,
+      "gas:candidate-vibid:1001000195129": 6,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 37,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 201,
-      "Гребенюк Владимир Дмитриевич": 435,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 62,
-      "Шахов Роман Николаевич": 21,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121898": 201,
+      "gas:candidate-vibid:1001000225975": 435,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 62,
+      "gas:candidate-vibid:1001000136109": 21,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 204,
-      "Гребенюк Владимир Дмитриевич": 483,
-      "Подколзин Юрий Николаевич": 17,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 46,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121898": 204,
+      "gas:candidate-vibid:1001000225975": 483,
+      "gas:candidate-vibid:1001000195129": 17,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 46,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 221,
-      "Гребенюк Владимир Дмитриевич": 545,
-      "Подколзин Юрий Николаевич": 14,
-      "Шарова Эльвира Александровна": 41,
-      "Шахов Роман Николаевич": 50,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121898": 221,
+      "gas:candidate-vibid:1001000225975": 545,
+      "gas:candidate-vibid:1001000195129": 14,
+      "gas:candidate-vibid:361300670547": 41,
+      "gas:candidate-vibid:1001000136109": 50,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 115,
-      "Гребенюк Владимир Дмитриевич": 276,
-      "Подколзин Юрий Николаевич": 14,
-      "Шарова Эльвира Александровна": 28,
-      "Шахов Роман Николаевич": 23,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121898": 115,
+      "gas:candidate-vibid:1001000225975": 276,
+      "gas:candidate-vibid:1001000195129": 14,
+      "gas:candidate-vibid:361300670547": 28,
+      "gas:candidate-vibid:1001000136109": 23,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 244,
-      "Гребенюк Владимир Дмитриевич": 562,
-      "Подколзин Юрий Николаевич": 12,
-      "Шарова Эльвира Александровна": 74,
-      "Шахов Роман Николаевич": 56,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000121898": 244,
+      "gas:candidate-vibid:1001000225975": 562,
+      "gas:candidate-vibid:1001000195129": 12,
+      "gas:candidate-vibid:361300670547": 74,
+      "gas:candidate-vibid:1001000136109": 56,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 239,
-      "Гребенюк Владимир Дмитриевич": 578,
-      "Подколзин Юрий Николаевич": 24,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000121898": 239,
+      "gas:candidate-vibid:1001000225975": 578,
+      "gas:candidate-vibid:1001000195129": 24,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 187,
-      "Гребенюк Владимир Дмитриевич": 444,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 58,
-      "Шахов Роман Николаевич": 43,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121898": 187,
+      "gas:candidate-vibid:1001000225975": 444,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 58,
+      "gas:candidate-vibid:1001000136109": 43,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 229,
-      "Гребенюк Владимир Дмитриевич": 546,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 50,
-      "Шахов Роман Николаевич": 29,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000121898": 229,
+      "gas:candidate-vibid:1001000225975": 546,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 50,
+      "gas:candidate-vibid:1001000136109": 29,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 222,
-      "Гребенюк Владимир Дмитриевич": 607,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 90,
-      "Шахов Роман Николаевич": 54,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121898": 222,
+      "gas:candidate-vibid:1001000225975": 607,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 90,
+      "gas:candidate-vibid:1001000136109": 54,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 189,
-      "Гребенюк Владимир Дмитриевич": 462,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 37,
-      "Шахов Роман Николаевич": 56,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000121898": 189,
+      "gas:candidate-vibid:1001000225975": 462,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 37,
+      "gas:candidate-vibid:1001000136109": 56,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 274,
-      "Гребенюк Владимир Дмитриевич": 805,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 83,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000121898": 274,
+      "gas:candidate-vibid:1001000225975": 805,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 83,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 162,
-      "Гребенюк Владимир Дмитриевич": 378,
-      "Подколзин Юрий Николаевич": 24,
-      "Шарова Эльвира Александровна": 41,
-      "Шахов Роман Николаевич": 30,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121898": 162,
+      "gas:candidate-vibid:1001000225975": 378,
+      "gas:candidate-vibid:1001000195129": 24,
+      "gas:candidate-vibid:361300670547": 41,
+      "gas:candidate-vibid:1001000136109": 30,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 194,
-      "Гребенюк Владимир Дмитриевич": 378,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 50,
-      "Шахов Роман Николаевич": 59,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121898": 194,
+      "gas:candidate-vibid:1001000225975": 378,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 50,
+      "gas:candidate-vibid:1001000136109": 59,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 139,
-      "Гребенюк Владимир Дмитриевич": 298,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 42,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121898": 139,
+      "gas:candidate-vibid:1001000225975": 298,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 42,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 175,
-      "Гребенюк Владимир Дмитриевич": 544,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 71,
-      "Шахов Роман Николаевич": 49,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121898": 175,
+      "gas:candidate-vibid:1001000225975": 544,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 71,
+      "gas:candidate-vibid:1001000136109": 49,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 113,
-      "Гребенюк Владимир Дмитриевич": 353,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 35,
-      "Шахов Роман Николаевич": 38,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121898": 113,
+      "gas:candidate-vibid:1001000225975": 353,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 35,
+      "gas:candidate-vibid:1001000136109": 38,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 14,
-      "Гребенюк Владимир Дмитриевич": 47,
-      "Подколзин Юрий Николаевич": 0,
-      "Шарова Эльвира Александровна": 11,
-      "Шахов Роман Николаевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121898": 14,
+      "gas:candidate-vibid:1001000225975": 47,
+      "gas:candidate-vibid:1001000195129": 0,
+      "gas:candidate-vibid:361300670547": 11,
+      "gas:candidate-vibid:1001000136109": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 87,
-      "Гребенюк Владимир Дмитриевич": 151,
-      "Подколзин Юрий Николаевич": 5,
-      "Шарова Эльвира Александровна": 15,
-      "Шахов Роман Николаевич": 11,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121898": 87,
+      "gas:candidate-vibid:1001000225975": 151,
+      "gas:candidate-vibid:1001000195129": 5,
+      "gas:candidate-vibid:361300670547": 15,
+      "gas:candidate-vibid:1001000136109": 11,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 48,
-      "Гребенюк Владимир Дмитриевич": 224,
-      "Подколзин Юрий Николаевич": 8,
-      "Шарова Эльвира Александровна": 29,
-      "Шахов Роман Николаевич": 22,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121898": 48,
+      "gas:candidate-vibid:1001000225975": 224,
+      "gas:candidate-vibid:1001000195129": 8,
+      "gas:candidate-vibid:361300670547": 29,
+      "gas:candidate-vibid:1001000136109": 22,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 160,
-      "Гребенюк Владимир Дмитриевич": 382,
-      "Подколзин Юрий Николаевич": 11,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 34,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121898": 160,
+      "gas:candidate-vibid:1001000225975": 382,
+      "gas:candidate-vibid:1001000195129": 11,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 34,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 137,
-      "Гребенюк Владимир Дмитриевич": 336,
-      "Подколзин Юрий Николаевич": 14,
-      "Шарова Эльвира Александровна": 33,
-      "Шахов Роман Николаевич": 23,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121898": 137,
+      "gas:candidate-vibid:1001000225975": 336,
+      "gas:candidate-vibid:1001000195129": 14,
+      "gas:candidate-vibid:361300670547": 33,
+      "gas:candidate-vibid:1001000136109": 23,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 133,
-      "Гребенюк Владимир Дмитриевич": 400,
-      "Подколзин Юрий Николаевич": 6,
-      "Шарова Эльвира Александровна": 42,
-      "Шахов Роман Николаевич": 33,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121898": 133,
+      "gas:candidate-vibid:1001000225975": 400,
+      "gas:candidate-vibid:1001000195129": 6,
+      "gas:candidate-vibid:361300670547": 42,
+      "gas:candidate-vibid:1001000136109": 33,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670398&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 265,
-      "Гребенюк Владимир Дмитриевич": 381,
-      "Подколзин Юрий Николаевич": 40,
-      "Шарова Эльвира Александровна": 50,
-      "Шахов Роман Николаевич": 56,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121898": 265,
+      "gas:candidate-vibid:1001000225975": 381,
+      "gas:candidate-vibid:1001000195129": 40,
+      "gas:candidate-vibid:361300670547": 50,
+      "gas:candidate-vibid:1001000136109": 56,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 131,
-      "Гребенюк Владимир Дмитриевич": 390,
-      "Подколзин Юрий Николаевич": 27,
-      "Шарова Эльвира Александровна": 55,
-      "Шахов Роман Николаевич": 69,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000121898": 131,
+      "gas:candidate-vibid:1001000225975": 390,
+      "gas:candidate-vibid:1001000195129": 27,
+      "gas:candidate-vibid:361300670547": 55,
+      "gas:candidate-vibid:1001000136109": 69,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 194,
-      "Гребенюк Владимир Дмитриевич": 415,
-      "Подколзин Юрий Николаевич": 32,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 58,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000121898": 194,
+      "gas:candidate-vibid:1001000225975": 415,
+      "gas:candidate-vibid:1001000195129": 32,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 58,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 135,
-      "Гребенюк Владимир Дмитриевич": 420,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 74,
-      "Шахов Роман Николаевич": 67,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000121898": 135,
+      "gas:candidate-vibid:1001000225975": 420,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 74,
+      "gas:candidate-vibid:1001000136109": 67,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 121,
-      "Гребенюк Владимир Дмитриевич": 299,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 27,
-      "Шахов Роман Николаевич": 32,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121898": 121,
+      "gas:candidate-vibid:1001000225975": 299,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 27,
+      "gas:candidate-vibid:1001000136109": 32,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 138,
-      "Гребенюк Владимир Дмитриевич": 350,
-      "Подколзин Юрий Николаевич": 24,
-      "Шарова Эльвира Александровна": 44,
-      "Шахов Роман Николаевич": 64,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121898": 138,
+      "gas:candidate-vibid:1001000225975": 350,
+      "gas:candidate-vibid:1001000195129": 24,
+      "gas:candidate-vibid:361300670547": 44,
+      "gas:candidate-vibid:1001000136109": 64,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 173,
-      "Гребенюк Владимир Дмитриевич": 444,
-      "Подколзин Юрий Николаевич": 36,
-      "Шарова Эльвира Александровна": 63,
-      "Шахов Роман Николаевич": 86,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000121898": 173,
+      "gas:candidate-vibid:1001000225975": 444,
+      "gas:candidate-vibid:1001000195129": 36,
+      "gas:candidate-vibid:361300670547": 63,
+      "gas:candidate-vibid:1001000136109": 86,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 306,
-      "Гребенюк Владимир Дмитриевич": 395,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 60,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000121898": 306,
+      "gas:candidate-vibid:1001000225975": 395,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 60,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 233,
-      "Гребенюк Владимир Дмитриевич": 438,
-      "Подколзин Юрий Николаевич": 23,
-      "Шарова Эльвира Александровна": 48,
-      "Шахов Роман Николаевич": 57,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000121898": 233,
+      "gas:candidate-vibid:1001000225975": 438,
+      "gas:candidate-vibid:1001000195129": 23,
+      "gas:candidate-vibid:361300670547": 48,
+      "gas:candidate-vibid:1001000136109": 57,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 188,
-      "Гребенюк Владимир Дмитриевич": 398,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 22,
-      "Шахов Роман Николаевич": 49,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121898": 188,
+      "gas:candidate-vibid:1001000225975": 398,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 22,
+      "gas:candidate-vibid:1001000136109": 49,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 200,
-      "Гребенюк Владимир Дмитриевич": 329,
-      "Подколзин Юрий Николаевич": 18,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 50,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000121898": 200,
+      "gas:candidate-vibid:1001000225975": 329,
+      "gas:candidate-vibid:1001000195129": 18,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 50,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 245,
-      "Гребенюк Владимир Дмитриевич": 388,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121898": 245,
+      "gas:candidate-vibid:1001000225975": 388,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 238,
-      "Гребенюк Владимир Дмитриевич": 445,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121898": 238,
+      "gas:candidate-vibid:1001000225975": 445,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 199,
-      "Гребенюк Владимир Дмитриевич": 377,
-      "Подколзин Юрий Николаевич": 19,
-      "Шарова Эльвира Александровна": 28,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121898": 199,
+      "gas:candidate-vibid:1001000225975": 377,
+      "gas:candidate-vibid:1001000195129": 19,
+      "gas:candidate-vibid:361300670547": 28,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 207,
-      "Гребенюк Владимир Дмитриевич": 375,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 37,
-      "Шахов Роман Николаевич": 67,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000121898": 207,
+      "gas:candidate-vibid:1001000225975": 375,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 37,
+      "gas:candidate-vibid:1001000136109": 67,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 216,
-      "Гребенюк Владимир Дмитриевич": 368,
-      "Подколзин Юрий Николаевич": 34,
-      "Шарова Эльвира Александровна": 44,
-      "Шахов Роман Николаевич": 54,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121898": 216,
+      "gas:candidate-vibid:1001000225975": 368,
+      "gas:candidate-vibid:1001000195129": 34,
+      "gas:candidate-vibid:361300670547": 44,
+      "gas:candidate-vibid:1001000136109": 54,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 285,
-      "Гребенюк Владимир Дмитриевич": 419,
-      "Подколзин Юрий Николаевич": 43,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121898": 285,
+      "gas:candidate-vibid:1001000225975": 419,
+      "gas:candidate-vibid:1001000195129": 43,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 257,
-      "Гребенюк Владимир Дмитриевич": 426,
-      "Подколзин Юрий Николаевич": 41,
-      "Шарова Эльвира Александровна": 49,
-      "Шахов Роман Николаевич": 86,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121898": 257,
+      "gas:candidate-vibid:1001000225975": 426,
+      "gas:candidate-vibid:1001000195129": 41,
+      "gas:candidate-vibid:361300670547": 49,
+      "gas:candidate-vibid:1001000136109": 86,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 205,
-      "Гребенюк Владимир Дмитриевич": 416,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 55,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121898": 205,
+      "gas:candidate-vibid:1001000225975": 416,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 55,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 278,
-      "Гребенюк Владимир Дмитриевич": 353,
-      "Подколзин Юрий Николаевич": 66,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 69,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121898": 278,
+      "gas:candidate-vibid:1001000225975": 353,
+      "gas:candidate-vibid:1001000195129": 66,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 69,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 250,
-      "Гребенюк Владимир Дмитриевич": 434,
-      "Подколзин Юрий Николаевич": 52,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 78,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000121898": 250,
+      "gas:candidate-vibid:1001000225975": 434,
+      "gas:candidate-vibid:1001000195129": 52,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 78,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 304,
-      "Гребенюк Владимир Дмитриевич": 482,
-      "Подколзин Юрий Николаевич": 74,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 75,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000121898": 304,
+      "gas:candidate-vibid:1001000225975": 482,
+      "gas:candidate-vibid:1001000195129": 74,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 75,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 225,
-      "Гребенюк Владимир Дмитриевич": 470,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 70,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000121898": 225,
+      "gas:candidate-vibid:1001000225975": 470,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 70,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 160,
-      "Гребенюк Владимир Дмитриевич": 278,
-      "Подколзин Юрий Николаевич": 25,
-      "Шарова Эльвира Александровна": 36,
-      "Шахов Роман Николаевич": 62,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121898": 160,
+      "gas:candidate-vibid:1001000225975": 278,
+      "gas:candidate-vibid:1001000195129": 25,
+      "gas:candidate-vibid:361300670547": 36,
+      "gas:candidate-vibid:1001000136109": 62,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 265,
-      "Гребенюк Владимир Дмитриевич": 450,
-      "Подколзин Юрий Николаевич": 57,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 52,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000121898": 265,
+      "gas:candidate-vibid:1001000225975": 450,
+      "gas:candidate-vibid:1001000195129": 57,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 52,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 197,
-      "Гребенюк Владимир Дмитриевич": 265,
-      "Подколзин Юрий Николаевич": 60,
-      "Шарова Эльвира Александровна": 26,
-      "Шахов Роман Николаевич": 53,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000121898": 197,
+      "gas:candidate-vibid:1001000225975": 265,
+      "gas:candidate-vibid:1001000195129": 60,
+      "gas:candidate-vibid:361300670547": 26,
+      "gas:candidate-vibid:1001000136109": 53,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 235,
-      "Гребенюк Владимир Дмитриевич": 319,
-      "Подколзин Юрий Николаевич": 47,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000121898": 235,
+      "gas:candidate-vibid:1001000225975": 319,
+      "gas:candidate-vibid:1001000195129": 47,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 244,
-      "Гребенюк Владимир Дмитриевич": 332,
-      "Подколзин Юрий Николаевич": 28,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121898": 244,
+      "gas:candidate-vibid:1001000225975": 332,
+      "gas:candidate-vibid:1001000195129": 28,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 156,
-      "Гребенюк Владимир Дмитриевич": 336,
-      "Подколзин Юрий Николаевич": 24,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 49,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121898": 156,
+      "gas:candidate-vibid:1001000225975": 336,
+      "gas:candidate-vibid:1001000195129": 24,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 49,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 229,
-      "Гребенюк Владимир Дмитриевич": 433,
-      "Подколзин Юрий Николаевич": 25,
-      "Шарова Эльвира Александровна": 39,
-      "Шахов Роман Николаевич": 45,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000121898": 229,
+      "gas:candidate-vibid:1001000225975": 433,
+      "gas:candidate-vibid:1001000195129": 25,
+      "gas:candidate-vibid:361300670547": 39,
+      "gas:candidate-vibid:1001000136109": 45,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 209,
-      "Гребенюк Владимир Дмитриевич": 387,
-      "Подколзин Юрий Николаевич": 29,
-      "Шарова Эльвира Александровна": 30,
-      "Шахов Роман Николаевич": 50,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121898": 209,
+      "gas:candidate-vibid:1001000225975": 387,
+      "gas:candidate-vibid:1001000195129": 29,
+      "gas:candidate-vibid:361300670547": 30,
+      "gas:candidate-vibid:1001000136109": 50,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 238,
-      "Гребенюк Владимир Дмитриевич": 361,
-      "Подколзин Юрий Николаевич": 27,
-      "Шарова Эльвира Александровна": 26,
-      "Шахов Роман Николаевич": 53,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000121898": 238,
+      "gas:candidate-vibid:1001000225975": 361,
+      "gas:candidate-vibid:1001000195129": 27,
+      "gas:candidate-vibid:361300670547": 26,
+      "gas:candidate-vibid:1001000136109": 53,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 234,
-      "Гребенюк Владимир Дмитриевич": 417,
-      "Подколзин Юрий Николаевич": 28,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 63,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000121898": 234,
+      "gas:candidate-vibid:1001000225975": 417,
+      "gas:candidate-vibid:1001000195129": 28,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 63,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 247,
-      "Гребенюк Владимир Дмитриевич": 347,
-      "Подколзин Юрий Николаевич": 49,
-      "Шарова Эльвира Александровна": 43,
-      "Шахов Роман Николаевич": 60,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000121898": 247,
+      "gas:candidate-vibid:1001000225975": 347,
+      "gas:candidate-vibid:1001000195129": 49,
+      "gas:candidate-vibid:361300670547": 43,
+      "gas:candidate-vibid:1001000136109": 60,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 169,
-      "Гребенюк Владимир Дмитриевич": 307,
-      "Подколзин Юрий Николаевич": 32,
-      "Шарова Эльвира Александровна": 39,
-      "Шахов Роман Николаевич": 43,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121898": 169,
+      "gas:candidate-vibid:1001000225975": 307,
+      "gas:candidate-vibid:1001000195129": 32,
+      "gas:candidate-vibid:361300670547": 39,
+      "gas:candidate-vibid:1001000136109": 43,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 239,
-      "Гребенюк Владимир Дмитриевич": 340,
-      "Подколзин Юрий Николаевич": 22,
-      "Шарова Эльвира Александровна": 41,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121898": 239,
+      "gas:candidate-vibid:1001000225975": 340,
+      "gas:candidate-vibid:1001000195129": 22,
+      "gas:candidate-vibid:361300670547": 41,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 169,
-      "Гребенюк Владимир Дмитриевич": 284,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 25,
-      "Шахов Роман Николаевич": 39,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121898": 169,
+      "gas:candidate-vibid:1001000225975": 284,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 25,
+      "gas:candidate-vibid:1001000136109": 39,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 143,
-      "Гребенюк Владимир Дмитриевич": 211,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 27,
-      "Шахов Роман Николаевич": 30,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121898": 143,
+      "gas:candidate-vibid:1001000225975": 211,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 27,
+      "gas:candidate-vibid:1001000136109": 30,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 202,
-      "Гребенюк Владимир Дмитриевич": 337,
-      "Подколзин Юрий Николаевич": 27,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 48,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121898": 202,
+      "gas:candidate-vibid:1001000225975": 337,
+      "gas:candidate-vibid:1001000195129": 27,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 48,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 268,
-      "Гребенюк Владимир Дмитриевич": 349,
-      "Подколзин Юрий Николаевич": 25,
-      "Шарова Эльвира Александровна": 50,
-      "Шахов Роман Николаевич": 75,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121898": 268,
+      "gas:candidate-vibid:1001000225975": 349,
+      "gas:candidate-vibid:1001000195129": 25,
+      "gas:candidate-vibid:361300670547": 50,
+      "gas:candidate-vibid:1001000136109": 75,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 379,
-      "Гребенюк Владимир Дмитриевич": 448,
-      "Подколзин Юрий Николаевич": 52,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 67,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121898": 379,
+      "gas:candidate-vibid:1001000225975": 448,
+      "gas:candidate-vibid:1001000195129": 52,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 67,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 203,
-      "Гребенюк Владимир Дмитриевич": 357,
-      "Подколзин Юрий Николаевич": 34,
-      "Шарова Эльвира Александровна": 56,
-      "Шахов Роман Николаевич": 63,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000121898": 203,
+      "gas:candidate-vibid:1001000225975": 357,
+      "gas:candidate-vibid:1001000195129": 34,
+      "gas:candidate-vibid:361300670547": 56,
+      "gas:candidate-vibid:1001000136109": 63,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 235,
-      "Гребенюк Владимир Дмитриевич": 389,
-      "Подколзин Юрий Николаевич": 40,
-      "Шарова Эльвира Александровна": 72,
-      "Шахов Роман Николаевич": 60,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000121898": 235,
+      "gas:candidate-vibid:1001000225975": 389,
+      "gas:candidate-vibid:1001000195129": 40,
+      "gas:candidate-vibid:361300670547": 72,
+      "gas:candidate-vibid:1001000136109": 60,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 177,
-      "Гребенюк Владимир Дмитриевич": 223,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 48,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121898": 177,
+      "gas:candidate-vibid:1001000225975": 223,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 48,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 251,
-      "Гребенюк Владимир Дмитриевич": 338,
-      "Подколзин Юрий Николаевич": 33,
-      "Шарова Эльвира Александровна": 48,
-      "Шахов Роман Николаевич": 60,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000121898": 251,
+      "gas:candidate-vibid:1001000225975": 338,
+      "gas:candidate-vibid:1001000195129": 33,
+      "gas:candidate-vibid:361300670547": 48,
+      "gas:candidate-vibid:1001000136109": 60,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 245,
-      "Гребенюк Владимир Дмитриевич": 290,
-      "Подколзин Юрий Николаевич": 28,
-      "Шарова Эльвира Александровна": 60,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121898": 245,
+      "gas:candidate-vibid:1001000225975": 290,
+      "gas:candidate-vibid:1001000195129": 28,
+      "gas:candidate-vibid:361300670547": 60,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 257,
-      "Гребенюк Владимир Дмитриевич": 399,
-      "Подколзин Юрий Николаевич": 38,
-      "Шарова Эльвира Александровна": 42,
-      "Шахов Роман Николаевич": 65,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000121898": 257,
+      "gas:candidate-vibid:1001000225975": 399,
+      "gas:candidate-vibid:1001000195129": 38,
+      "gas:candidate-vibid:361300670547": 42,
+      "gas:candidate-vibid:1001000136109": 65,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 208,
-      "Гребенюк Владимир Дмитриевич": 290,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000121898": 208,
+      "gas:candidate-vibid:1001000225975": 290,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 134,
-      "Гребенюк Владимир Дмитриевич": 255,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 28,
-      "Шахов Роман Николаевич": 40,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000121898": 134,
+      "gas:candidate-vibid:1001000225975": 255,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 28,
+      "gas:candidate-vibid:1001000136109": 40,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 282,
-      "Гребенюк Владимир Дмитриевич": 392,
-      "Подколзин Юрий Николаевич": 33,
-      "Шарова Эльвира Александровна": 53,
-      "Шахов Роман Николаевич": 71,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121898": 282,
+      "gas:candidate-vibid:1001000225975": 392,
+      "gas:candidate-vibid:1001000195129": 33,
+      "gas:candidate-vibid:361300670547": 53,
+      "gas:candidate-vibid:1001000136109": 71,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 327,
-      "Гребенюк Владимир Дмитриевич": 437,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 59,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000121898": 327,
+      "gas:candidate-vibid:1001000225975": 437,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 59,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 212,
-      "Гребенюк Владимир Дмитриевич": 349,
-      "Подколзин Юрий Николаевич": 29,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 50,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000121898": 212,
+      "gas:candidate-vibid:1001000225975": 349,
+      "gas:candidate-vibid:1001000195129": 29,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 50,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 267,
-      "Гребенюк Владимир Дмитриевич": 368,
-      "Подколзин Юрий Николаевич": 32,
-      "Шарова Эльвира Александровна": 42,
-      "Шахов Роман Николаевич": 71,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121898": 267,
+      "gas:candidate-vibid:1001000225975": 368,
+      "gas:candidate-vibid:1001000195129": 32,
+      "gas:candidate-vibid:361300670547": 42,
+      "gas:candidate-vibid:1001000136109": 71,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 319,
-      "Гребенюк Владимир Дмитриевич": 424,
-      "Подколзин Юрий Николаевич": 35,
-      "Шарова Эльвира Александровна": 49,
-      "Шахов Роман Николаевич": 66,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000121898": 319,
+      "gas:candidate-vibid:1001000225975": 424,
+      "gas:candidate-vibid:1001000195129": 35,
+      "gas:candidate-vibid:361300670547": 49,
+      "gas:candidate-vibid:1001000136109": 66,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 386,
-      "Гребенюк Владимир Дмитриевич": 478,
-      "Подколзин Юрий Николаевич": 59,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 78,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000121898": 386,
+      "gas:candidate-vibid:1001000225975": 478,
+      "gas:candidate-vibid:1001000195129": 59,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 78,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 314,
-      "Гребенюк Владимир Дмитриевич": 344,
-      "Подколзин Юрий Николаевич": 41,
-      "Шарова Эльвира Александровна": 50,
-      "Шахов Роман Николаевич": 55,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000121898": 314,
+      "gas:candidate-vibid:1001000225975": 344,
+      "gas:candidate-vibid:1001000195129": 41,
+      "gas:candidate-vibid:361300670547": 50,
+      "gas:candidate-vibid:1001000136109": 55,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 234,
-      "Гребенюк Владимир Дмитриевич": 324,
-      "Подколзин Юрий Николаевич": 22,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121898": 234,
+      "gas:candidate-vibid:1001000225975": 324,
+      "gas:candidate-vibid:1001000195129": 22,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 276,
-      "Гребенюк Владимир Дмитриевич": 385,
-      "Подколзин Юрий Николаевич": 36,
-      "Шарова Эльвира Александровна": 41,
-      "Шахов Роман Николаевич": 79,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000121898": 276,
+      "gas:candidate-vibid:1001000225975": 385,
+      "gas:candidate-vibid:1001000195129": 36,
+      "gas:candidate-vibid:361300670547": 41,
+      "gas:candidate-vibid:1001000136109": 79,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 226,
-      "Гребенюк Владимир Дмитриевич": 248,
-      "Подколзин Юрий Николаевич": 19,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 54,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121898": 226,
+      "gas:candidate-vibid:1001000225975": 248,
+      "gas:candidate-vibid:1001000195129": 19,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 54,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 189,
-      "Гребенюк Владимир Дмитриевич": 240,
-      "Подколзин Юрий Николаевич": 6,
-      "Шарова Эльвира Александровна": 33,
-      "Шахов Роман Николаевич": 36,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121898": 189,
+      "gas:candidate-vibid:1001000225975": 240,
+      "gas:candidate-vibid:1001000195129": 6,
+      "gas:candidate-vibid:361300670547": 33,
+      "gas:candidate-vibid:1001000136109": 36,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 169,
-      "Гребенюк Владимир Дмитриевич": 298,
-      "Подколзин Юрий Николаевич": 22,
-      "Шарова Эльвира Александровна": 35,
-      "Шахов Роман Николаевич": 41,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121898": 169,
+      "gas:candidate-vibid:1001000225975": 298,
+      "gas:candidate-vibid:1001000195129": 22,
+      "gas:candidate-vibid:361300670547": 35,
+      "gas:candidate-vibid:1001000136109": 41,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 260,
-      "Гребенюк Владимир Дмитриевич": 404,
-      "Подколзин Юрий Николаевич": 44,
-      "Шарова Эльвира Александровна": 71,
-      "Шахов Роман Николаевич": 42,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000121898": 260,
+      "gas:candidate-vibid:1001000225975": 404,
+      "gas:candidate-vibid:1001000195129": 44,
+      "gas:candidate-vibid:361300670547": 71,
+      "gas:candidate-vibid:1001000136109": 42,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 289,
-      "Гребенюк Владимир Дмитриевич": 346,
-      "Подколзин Юрий Николаевич": 39,
-      "Шарова Эльвира Александровна": 43,
-      "Шахов Роман Николаевич": 52,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000121898": 289,
+      "gas:candidate-vibid:1001000225975": 346,
+      "gas:candidate-vibid:1001000195129": 39,
+      "gas:candidate-vibid:361300670547": 43,
+      "gas:candidate-vibid:1001000136109": 52,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 344,
-      "Гребенюк Владимир Дмитриевич": 370,
-      "Подколзин Юрий Николаевич": 32,
-      "Шарова Эльвира Александровна": 68,
-      "Шахов Роман Николаевич": 79,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121898": 344,
+      "gas:candidate-vibid:1001000225975": 370,
+      "gas:candidate-vibid:1001000195129": 32,
+      "gas:candidate-vibid:361300670547": 68,
+      "gas:candidate-vibid:1001000136109": 79,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 314,
-      "Гребенюк Владимир Дмитриевич": 423,
-      "Подколзин Юрий Николаевич": 18,
-      "Шарова Эльвира Александровна": 63,
-      "Шахов Роман Николаевич": 90,
-      "Против всех": 228
+      "gas:candidate-vibid:1001000121898": 314,
+      "gas:candidate-vibid:1001000225975": 423,
+      "gas:candidate-vibid:1001000195129": 18,
+      "gas:candidate-vibid:361300670547": 63,
+      "gas:candidate-vibid:1001000136109": 90,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 181,
-      "Гребенюк Владимир Дмитриевич": 263,
-      "Подколзин Юрий Николаевич": 10,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 75,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000121898": 181,
+      "gas:candidate-vibid:1001000225975": 263,
+      "gas:candidate-vibid:1001000195129": 10,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 75,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 232,
-      "Гребенюк Владимир Дмитриевич": 337,
-      "Подколзин Юрий Николаевич": 23,
-      "Шарова Эльвира Александровна": 43,
-      "Шахов Роман Николаевич": 57,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121898": 232,
+      "gas:candidate-vibid:1001000225975": 337,
+      "gas:candidate-vibid:1001000195129": 23,
+      "gas:candidate-vibid:361300670547": 43,
+      "gas:candidate-vibid:1001000136109": 57,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 331,
-      "Гребенюк Владимир Дмитриевич": 426,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 48,
-      "Шахов Роман Николаевич": 51,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000121898": 331,
+      "gas:candidate-vibid:1001000225975": 426,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 48,
+      "gas:candidate-vibid:1001000136109": 51,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 422,
-      "Гребенюк Владимир Дмитриевич": 500,
-      "Подколзин Юрий Николаевич": 34,
-      "Шарова Эльвира Александровна": 56,
-      "Шахов Роман Николаевич": 64,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000121898": 422,
+      "gas:candidate-vibid:1001000225975": 500,
+      "gas:candidate-vibid:1001000195129": 34,
+      "gas:candidate-vibid:361300670547": 56,
+      "gas:candidate-vibid:1001000136109": 64,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 155,
-      "Гребенюк Владимир Дмитриевич": 204,
-      "Подколзин Юрий Николаевич": 12,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 39,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121898": 155,
+      "gas:candidate-vibid:1001000225975": 204,
+      "gas:candidate-vibid:1001000195129": 12,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 39,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 322,
-      "Гребенюк Владимир Дмитриевич": 512,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 55,
-      "Шахов Роман Николаевич": 80,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000121898": 322,
+      "gas:candidate-vibid:1001000225975": 512,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 55,
+      "gas:candidate-vibid:1001000136109": 80,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 344,
-      "Гребенюк Владимир Дмитриевич": 363,
-      "Подколзин Юрий Николаевич": 29,
-      "Шарова Эльвира Александровна": 57,
-      "Шахов Роман Николаевич": 90,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000121898": 344,
+      "gas:candidate-vibid:1001000225975": 363,
+      "gas:candidate-vibid:1001000195129": 29,
+      "gas:candidate-vibid:361300670547": 57,
+      "gas:candidate-vibid:1001000136109": 90,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 207,
-      "Гребенюк Владимир Дмитриевич": 367,
-      "Подколзин Юрий Николаевич": 22,
-      "Шарова Эльвира Александровна": 52,
-      "Шахов Роман Николаевич": 75,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121898": 207,
+      "gas:candidate-vibid:1001000225975": 367,
+      "gas:candidate-vibid:1001000195129": 22,
+      "gas:candidate-vibid:361300670547": 52,
+      "gas:candidate-vibid:1001000136109": 75,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 180,
-      "Гребенюк Владимир Дмитриевич": 319,
-      "Подколзин Юрий Николаевич": 24,
-      "Шарова Эльвира Александровна": 25,
-      "Шахов Роман Николаевич": 43,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000121898": 180,
+      "gas:candidate-vibid:1001000225975": 319,
+      "gas:candidate-vibid:1001000195129": 24,
+      "gas:candidate-vibid:361300670547": 25,
+      "gas:candidate-vibid:1001000136109": 43,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 154,
-      "Гребенюк Владимир Дмитриевич": 358,
-      "Подколзин Юрий Николаевич": 22,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121898": 154,
+      "gas:candidate-vibid:1001000225975": 358,
+      "gas:candidate-vibid:1001000195129": 22,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 213,
-      "Гребенюк Владимир Дмитриевич": 453,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 41,
-      "Шахов Роман Николаевич": 52,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121898": 213,
+      "gas:candidate-vibid:1001000225975": 453,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 41,
+      "gas:candidate-vibid:1001000136109": 52,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 174,
-      "Гребенюк Владимир Дмитриевич": 289,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 26,
-      "Шахов Роман Николаевич": 58,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121898": 174,
+      "gas:candidate-vibid:1001000225975": 289,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 26,
+      "gas:candidate-vibid:1001000136109": 58,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 248,
-      "Гребенюк Владимир Дмитриевич": 339,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 61,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000121898": 248,
+      "gas:candidate-vibid:1001000225975": 339,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 61,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 296,
-      "Гребенюк Владимир Дмитриевич": 308,
-      "Подколзин Юрий Николаевич": 18,
-      "Шарова Эльвира Александровна": 33,
-      "Шахов Роман Николаевич": 55,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121898": 296,
+      "gas:candidate-vibid:1001000225975": 308,
+      "gas:candidate-vibid:1001000195129": 18,
+      "gas:candidate-vibid:361300670547": 33,
+      "gas:candidate-vibid:1001000136109": 55,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 217,
-      "Гребенюк Владимир Дмитриевич": 381,
-      "Подколзин Юрий Николаевич": 29,
-      "Шарова Эльвира Александровна": 44,
-      "Шахов Роман Николаевич": 30,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121898": 217,
+      "gas:candidate-vibid:1001000225975": 381,
+      "gas:candidate-vibid:1001000195129": 29,
+      "gas:candidate-vibid:361300670547": 44,
+      "gas:candidate-vibid:1001000136109": 30,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 175,
-      "Гребенюк Владимир Дмитриевич": 320,
-      "Подколзин Юрий Николаевич": 24,
-      "Шарова Эльвира Александровна": 40,
-      "Шахов Роман Николаевич": 45,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121898": 175,
+      "gas:candidate-vibid:1001000225975": 320,
+      "gas:candidate-vibid:1001000195129": 24,
+      "gas:candidate-vibid:361300670547": 40,
+      "gas:candidate-vibid:1001000136109": 45,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 160,
-      "Гребенюк Владимир Дмитриевич": 334,
-      "Подколзин Юрий Николаевич": 13,
-      "Шарова Эльвира Александровна": 31,
-      "Шахов Роман Николаевич": 43,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000121898": 160,
+      "gas:candidate-vibid:1001000225975": 334,
+      "gas:candidate-vibid:1001000195129": 13,
+      "gas:candidate-vibid:361300670547": 31,
+      "gas:candidate-vibid:1001000136109": 43,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 145,
-      "Гребенюк Владимир Дмитриевич": 266,
-      "Подколзин Юрий Николаевич": 9,
-      "Шарова Эльвира Александровна": 22,
-      "Шахов Роман Николаевич": 37,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000121898": 145,
+      "gas:candidate-vibid:1001000225975": 266,
+      "gas:candidate-vibid:1001000195129": 9,
+      "gas:candidate-vibid:361300670547": 22,
+      "gas:candidate-vibid:1001000136109": 37,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 279,
-      "Гребенюк Владимир Дмитриевич": 391,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 42,
-      "Шахов Роман Николаевич": 71,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121898": 279,
+      "gas:candidate-vibid:1001000225975": 391,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 42,
+      "gas:candidate-vibid:1001000136109": 71,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 305,
-      "Гребенюк Владимир Дмитриевич": 404,
-      "Подколзин Юрий Николаевич": 52,
-      "Шарова Эльвира Александровна": 57,
-      "Шахов Роман Николаевич": 41,
-      "Против всех": 178
+      "gas:candidate-vibid:1001000121898": 305,
+      "gas:candidate-vibid:1001000225975": 404,
+      "gas:candidate-vibid:1001000195129": 52,
+      "gas:candidate-vibid:361300670547": 57,
+      "gas:candidate-vibid:1001000136109": 41,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 215,
-      "Гребенюк Владимир Дмитриевич": 269,
-      "Подколзин Юрий Николаевич": 21,
-      "Шарова Эльвира Александровна": 58,
-      "Шахов Роман Николаевич": 41,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000121898": 215,
+      "gas:candidate-vibid:1001000225975": 269,
+      "gas:candidate-vibid:1001000195129": 21,
+      "gas:candidate-vibid:361300670547": 58,
+      "gas:candidate-vibid:1001000136109": 41,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 222,
-      "Гребенюк Владимир Дмитриевич": 357,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 28,
-      "Шахов Роман Николаевич": 68,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121898": 222,
+      "gas:candidate-vibid:1001000225975": 357,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 28,
+      "gas:candidate-vibid:1001000136109": 68,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 223,
-      "Гребенюк Владимир Дмитриевич": 298,
-      "Подколзин Юрий Николаевич": 39,
-      "Шарова Эльвира Александровна": 39,
-      "Шахов Роман Николаевич": 40,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121898": 223,
+      "gas:candidate-vibid:1001000225975": 298,
+      "gas:candidate-vibid:1001000195129": 39,
+      "gas:candidate-vibid:361300670547": 39,
+      "gas:candidate-vibid:1001000136109": 40,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 162,
-      "Гребенюк Владимир Дмитриевич": 237,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 39,
-      "Шахов Роман Николаевич": 65,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000121898": 162,
+      "gas:candidate-vibid:1001000225975": 237,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 39,
+      "gas:candidate-vibid:1001000136109": 65,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 230,
-      "Гребенюк Владимир Дмитриевич": 349,
-      "Подколзин Юрий Николаевич": 42,
-      "Шарова Эльвира Александровна": 47,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121898": 230,
+      "gas:candidate-vibid:1001000225975": 349,
+      "gas:candidate-vibid:1001000195129": 42,
+      "gas:candidate-vibid:361300670547": 47,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 291,
-      "Гребенюк Владимир Дмитриевич": 364,
-      "Подколзин Юрий Николаевич": 34,
-      "Шарова Эльвира Александровна": 46,
-      "Шахов Роман Николаевич": 81,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000121898": 291,
+      "gas:candidate-vibid:1001000225975": 364,
+      "gas:candidate-vibid:1001000195129": 34,
+      "gas:candidate-vibid:361300670547": 46,
+      "gas:candidate-vibid:1001000136109": 81,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 216,
-      "Гребенюк Владимир Дмитриевич": 390,
-      "Подколзин Юрий Николаевич": 27,
-      "Шарова Эльвира Александровна": 53,
-      "Шахов Роман Николаевич": 60,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000121898": 216,
+      "gas:candidate-vibid:1001000225975": 390,
+      "gas:candidate-vibid:1001000195129": 27,
+      "gas:candidate-vibid:361300670547": 53,
+      "gas:candidate-vibid:1001000136109": 60,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 236,
-      "Гребенюк Владимир Дмитриевич": 304,
-      "Подколзин Юрий Николаевич": 17,
-      "Шарова Эльвира Александровна": 43,
-      "Шахов Роман Николаевич": 74,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000121898": 236,
+      "gas:candidate-vibid:1001000225975": 304,
+      "gas:candidate-vibid:1001000195129": 17,
+      "gas:candidate-vibid:361300670547": 43,
+      "gas:candidate-vibid:1001000136109": 74,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 131,
-      "Гребенюк Владимир Дмитриевич": 235,
-      "Подколзин Юрий Николаевич": 18,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 34,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121898": 131,
+      "gas:candidate-vibid:1001000225975": 235,
+      "gas:candidate-vibid:1001000195129": 18,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 34,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 210,
-      "Гребенюк Владимир Дмитриевич": 306,
-      "Подколзин Юрий Николаевич": 21,
-      "Шарова Эльвира Александровна": 38,
-      "Шахов Роман Николаевич": 74,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121898": 210,
+      "gas:candidate-vibid:1001000225975": 306,
+      "gas:candidate-vibid:1001000195129": 21,
+      "gas:candidate-vibid:361300670547": 38,
+      "gas:candidate-vibid:1001000136109": 74,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 212,
-      "Гребенюк Владимир Дмитриевич": 326,
-      "Подколзин Юрий Николаевич": 21,
-      "Шарова Эльвира Александровна": 34,
-      "Шахов Роман Николаевич": 45,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121898": 212,
+      "gas:candidate-vibid:1001000225975": 326,
+      "gas:candidate-vibid:1001000195129": 21,
+      "gas:candidate-vibid:361300670547": 34,
+      "gas:candidate-vibid:1001000136109": 45,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 319,
-      "Гребенюк Владимир Дмитриевич": 599,
-      "Подколзин Юрий Николаевич": 31,
-      "Шарова Эльвира Александровна": 66,
-      "Шахов Роман Николаевич": 81,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000121898": 319,
+      "gas:candidate-vibid:1001000225975": 599,
+      "gas:candidate-vibid:1001000195129": 31,
+      "gas:candidate-vibid:361300670547": 66,
+      "gas:candidate-vibid:1001000136109": 81,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 293,
-      "Гребенюк Владимир Дмитриевич": 433,
-      "Подколзин Юрий Николаевич": 30,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 46,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121898": 293,
+      "gas:candidate-vibid:1001000225975": 433,
+      "gas:candidate-vibid:1001000195129": 30,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 46,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 316,
-      "Гребенюк Владимир Дмитриевич": 413,
-      "Подколзин Юрий Николаевич": 36,
-      "Шарова Эльвира Александровна": 69,
-      "Шахов Роман Николаевич": 72,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000121898": 316,
+      "gas:candidate-vibid:1001000225975": 413,
+      "gas:candidate-vibid:1001000195129": 36,
+      "gas:candidate-vibid:361300670547": 69,
+      "gas:candidate-vibid:1001000136109": 72,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 143,
-      "Гребенюк Владимир Дмитриевич": 224,
-      "Подколзин Юрий Николаевич": 10,
-      "Шарова Эльвира Александровна": 37,
-      "Шахов Роман Николаевич": 45,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121898": 143,
+      "gas:candidate-vibid:1001000225975": 224,
+      "gas:candidate-vibid:1001000195129": 10,
+      "gas:candidate-vibid:361300670547": 37,
+      "gas:candidate-vibid:1001000136109": 45,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 166,
-      "Гребенюк Владимир Дмитриевич": 317,
-      "Подколзин Юрий Николаевич": 12,
-      "Шарова Эльвира Александровна": 32,
-      "Шахов Роман Николаевич": 44,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121898": 166,
+      "gas:candidate-vibid:1001000225975": 317,
+      "gas:candidate-vibid:1001000195129": 12,
+      "gas:candidate-vibid:361300670547": 32,
+      "gas:candidate-vibid:1001000136109": 44,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 177,
-      "Гребенюк Владимир Дмитриевич": 310,
-      "Подколзин Юрий Николаевич": 20,
-      "Шарова Эльвира Александровна": 43,
-      "Шахов Роман Николаевич": 57,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000121898": 177,
+      "gas:candidate-vibid:1001000225975": 310,
+      "gas:candidate-vibid:1001000195129": 20,
+      "gas:candidate-vibid:361300670547": 43,
+      "gas:candidate-vibid:1001000136109": 57,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 153,
-      "Гребенюк Владимир Дмитриевич": 285,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 26,
-      "Шахов Роман Николаевич": 48,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121898": 153,
+      "gas:candidate-vibid:1001000225975": 285,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 26,
+      "gas:candidate-vibid:1001000136109": 48,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 239,
-      "Гребенюк Владимир Дмитриевич": 383,
-      "Подколзин Юрий Николаевич": 25,
-      "Шарова Эльвира Александровна": 48,
-      "Шахов Роман Николаевич": 46,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121898": 239,
+      "gas:candidate-vibid:1001000225975": 383,
+      "gas:candidate-vibid:1001000195129": 25,
+      "gas:candidate-vibid:361300670547": 48,
+      "gas:candidate-vibid:1001000136109": 46,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 258,
-      "Гребенюк Владимир Дмитриевич": 297,
-      "Подколзин Юрий Николаевич": 33,
-      "Шарова Эльвира Александровна": 57,
-      "Шахов Роман Николаевич": 53,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121898": 258,
+      "gas:candidate-vibid:1001000225975": 297,
+      "gas:candidate-vibid:1001000195129": 33,
+      "gas:candidate-vibid:361300670547": 57,
+      "gas:candidate-vibid:1001000136109": 53,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 195,
-      "Гребенюк Владимир Дмитриевич": 380,
-      "Подколзин Юрий Николаевич": 35,
-      "Шарова Эльвира Александровна": 30,
-      "Шахов Роман Николаевич": 71,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000121898": 195,
+      "gas:candidate-vibid:1001000225975": 380,
+      "gas:candidate-vibid:1001000195129": 35,
+      "gas:candidate-vibid:361300670547": 30,
+      "gas:candidate-vibid:1001000136109": 71,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 219,
-      "Гребенюк Владимир Дмитриевич": 317,
-      "Подколзин Юрий Николаевич": 49,
-      "Шарова Эльвира Александровна": 26,
-      "Шахов Роман Николаевич": 47,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000121898": 219,
+      "gas:candidate-vibid:1001000225975": 317,
+      "gas:candidate-vibid:1001000195129": 49,
+      "gas:candidate-vibid:361300670547": 26,
+      "gas:candidate-vibid:1001000136109": 47,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 308,
-      "Гребенюк Владимир Дмитриевич": 352,
-      "Подколзин Юрий Николаевич": 44,
-      "Шарова Эльвира Александровна": 61,
-      "Шахов Роман Николаевич": 54,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000121898": 308,
+      "gas:candidate-vibid:1001000225975": 352,
+      "gas:candidate-vibid:1001000195129": 44,
+      "gas:candidate-vibid:361300670547": 61,
+      "gas:candidate-vibid:1001000136109": 54,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 217,
-      "Гребенюк Владимир Дмитриевич": 267,
-      "Подколзин Юрий Николаевич": 28,
-      "Шарова Эльвира Александровна": 45,
-      "Шахов Роман Николаевич": 54,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121898": 217,
+      "gas:candidate-vibid:1001000225975": 267,
+      "gas:candidate-vibid:1001000195129": 28,
+      "gas:candidate-vibid:361300670547": 45,
+      "gas:candidate-vibid:1001000136109": 54,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 131,
-      "Гребенюк Владимир Дмитриевич": 183,
-      "Подколзин Юрий Николаевич": 16,
-      "Шарова Эльвира Александровна": 19,
-      "Шахов Роман Николаевич": 32,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121898": 131,
+      "gas:candidate-vibid:1001000225975": 183,
+      "gas:candidate-vibid:1001000195129": 16,
+      "gas:candidate-vibid:361300670547": 19,
+      "gas:candidate-vibid:1001000136109": 32,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 268,
-      "Гребенюк Владимир Дмитриевич": 345,
-      "Подколзин Юрий Николаевич": 26,
-      "Шарова Эльвира Александровна": 57,
-      "Шахов Роман Николаевич": 60,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000121898": 268,
+      "gas:candidate-vibid:1001000225975": 345,
+      "gas:candidate-vibid:1001000195129": 26,
+      "gas:candidate-vibid:361300670547": 57,
+      "gas:candidate-vibid:1001000136109": 60,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 339,
-      "Гребенюк Владимир Дмитриевич": 390,
-      "Подколзин Юрий Николаевич": 51,
-      "Шарова Эльвира Александровна": 65,
-      "Шахов Роман Николаевич": 63,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000121898": 339,
+      "gas:candidate-vibid:1001000225975": 390,
+      "gas:candidate-vibid:1001000195129": 51,
+      "gas:candidate-vibid:361300670547": 65,
+      "gas:candidate-vibid:1001000136109": 63,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 313,
-      "Гребенюк Владимир Дмитриевич": 388,
-      "Подколзин Юрий Николаевич": 51,
-      "Шарова Эльвира Александровна": 48,
-      "Шахов Роман Николаевич": 71,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000121898": 313,
+      "gas:candidate-vibid:1001000225975": 388,
+      "gas:candidate-vibid:1001000195129": 51,
+      "gas:candidate-vibid:361300670547": 48,
+      "gas:candidate-vibid:1001000136109": 71,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_61_part_009 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Булгаков Виктор Григорьевич": 157,
-      "Гребенюк Владимир Дмитриевич": 201,
-      "Подколзин Юрий Николаевич": 23,
-      "Шарова Эльвира Александровна": 28,
-      "Шахов Роман Николаевич": 41,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121898": 157,
+      "gas:candidate-vibid:1001000225975": 201,
+      "gas:candidate-vibid:1001000195129": 23,
+      "gas:candidate-vibid:361300670547": 28,
+      "gas:candidate-vibid:1001000136109": 41,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=613006006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=361300670437&region=0&sub_region=0&type=429",

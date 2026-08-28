@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 12,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 44,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 36,
-      "Свечников Петр Григорьевич": 12,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:374300166964": 12,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 44,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 36,
+      "gas:candidate-vibid:1001000121926": 12,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167353&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 31,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 22,
-      "Линев Александр Иванович": 94,
-      "Макеев Александр Викторович": 14,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 67,
-      "Свечников Петр Григорьевич": 10,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 73
+      "gas:candidate-vibid:374300166964": 31,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 22,
+      "gas:candidate-vibid:1001000136139": 94,
+      "gas:candidate-vibid:1001000190431": 14,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 67,
+      "gas:candidate-vibid:1001000121926": 10,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167353&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 25,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 92,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 15,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 134,
-      "Свечников Петр Григорьевич": 51,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:374300166964": 25,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 92,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 15,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 134,
+      "gas:candidate-vibid:1001000121926": 51,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 21,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 43,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 25,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 119,
-      "Свечников Петр Григорьевич": 20,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:374300166964": 21,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 43,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 25,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 119,
+      "gas:candidate-vibid:1001000121926": 20,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 25,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 82,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 15,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 108,
-      "Свечников Петр Григорьевич": 21,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:374300166964": 25,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 82,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 15,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 108,
+      "gas:candidate-vibid:1001000121926": 21,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 10,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 5,
-      "Линев Александр Иванович": 0,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 23,
-      "Свечников Петр Григорьевич": 5,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:374300166964": 10,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 5,
+      "gas:candidate-vibid:1001000136139": 0,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 23,
+      "gas:candidate-vibid:1001000121926": 5,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 60,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 164,
-      "Линев Александр Иванович": 23,
-      "Макеев Александр Викторович": 54,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 269,
-      "Свечников Петр Григорьевич": 78,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 59
+      "gas:candidate-vibid:374300166964": 60,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 164,
+      "gas:candidate-vibid:1001000136139": 23,
+      "gas:candidate-vibid:1001000190431": 54,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 269,
+      "gas:candidate-vibid:1001000121926": 78,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 125,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 181,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 61,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 266,
-      "Свечников Петр Григорьевич": 123,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 91
+      "gas:candidate-vibid:374300166964": 125,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 181,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 61,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 266,
+      "gas:candidate-vibid:1001000121926": 123,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 157,
-      "Вавилов Иван Егорович": 16,
-      "Кузнецов Александр Владимирович": 243,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 150,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 365,
-      "Свечников Петр Григорьевич": 195,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 112
+      "gas:candidate-vibid:374300166964": 157,
+      "gas:candidate-vibid:1001000217963": 16,
+      "gas:candidate-vibid:1001000112269": 243,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 150,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 365,
+      "gas:candidate-vibid:1001000121926": 195,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 153,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 179,
-      "Линев Александр Иванович": 21,
-      "Макеев Александр Викторович": 132,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 396,
-      "Свечников Петр Григорьевич": 170,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 93
+      "gas:candidate-vibid:374300166964": 153,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 179,
+      "gas:candidate-vibid:1001000136139": 21,
+      "gas:candidate-vibid:1001000190431": 132,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 396,
+      "gas:candidate-vibid:1001000121926": 170,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 162,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 160,
-      "Линев Александр Иванович": 15,
-      "Макеев Александр Викторович": 83,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 335,
-      "Свечников Петр Григорьевич": 166,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 104
+      "gas:candidate-vibid:374300166964": 162,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 160,
+      "gas:candidate-vibid:1001000136139": 15,
+      "gas:candidate-vibid:1001000190431": 83,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 335,
+      "gas:candidate-vibid:1001000121926": 166,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 122,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 224,
-      "Линев Александр Иванович": 12,
-      "Макеев Александр Викторович": 64,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 232,
-      "Свечников Петр Григорьевич": 142,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 75
+      "gas:candidate-vibid:374300166964": 122,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 224,
+      "gas:candidate-vibid:1001000136139": 12,
+      "gas:candidate-vibid:1001000190431": 64,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 232,
+      "gas:candidate-vibid:1001000121926": 142,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 133,
-      "Вавилов Иван Егорович": 11,
-      "Кузнецов Александр Владимирович": 182,
-      "Линев Александр Иванович": 18,
-      "Макеев Александр Викторович": 92,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 286,
-      "Свечников Петр Григорьевич": 158,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 94
+      "gas:candidate-vibid:374300166964": 133,
+      "gas:candidate-vibid:1001000217963": 11,
+      "gas:candidate-vibid:1001000112269": 182,
+      "gas:candidate-vibid:1001000136139": 18,
+      "gas:candidate-vibid:1001000190431": 92,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 286,
+      "gas:candidate-vibid:1001000121926": 158,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 136,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 238,
-      "Линев Александр Иванович": 17,
-      "Макеев Александр Викторович": 143,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 343,
-      "Свечников Петр Григорьевич": 160,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 110
+      "gas:candidate-vibid:374300166964": 136,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 238,
+      "gas:candidate-vibid:1001000136139": 17,
+      "gas:candidate-vibid:1001000190431": 143,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 343,
+      "gas:candidate-vibid:1001000121926": 160,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 115,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 187,
-      "Линев Александр Иванович": 19,
-      "Макеев Александр Викторович": 72,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 224,
-      "Свечников Петр Григорьевич": 100,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 88
+      "gas:candidate-vibid:374300166964": 115,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 187,
+      "gas:candidate-vibid:1001000136139": 19,
+      "gas:candidate-vibid:1001000190431": 72,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 224,
+      "gas:candidate-vibid:1001000121926": 100,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 123,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 185,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 113,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 313,
-      "Свечников Петр Григорьевич": 131,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 87
+      "gas:candidate-vibid:374300166964": 123,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 185,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 113,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 313,
+      "gas:candidate-vibid:1001000121926": 131,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 128,
-      "Вавилов Иван Егорович": 16,
-      "Кузнецов Александр Владимирович": 127,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 116,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 324,
-      "Свечников Петр Григорьевич": 150,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 73
+      "gas:candidate-vibid:374300166964": 128,
+      "gas:candidate-vibid:1001000217963": 16,
+      "gas:candidate-vibid:1001000112269": 127,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 116,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 324,
+      "gas:candidate-vibid:1001000121926": 150,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 129,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 166,
-      "Линев Александр Иванович": 13,
-      "Макеев Александр Викторович": 85,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 286,
-      "Свечников Петр Григорьевич": 138,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 68
+      "gas:candidate-vibid:374300166964": 129,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 166,
+      "gas:candidate-vibid:1001000136139": 13,
+      "gas:candidate-vibid:1001000190431": 85,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 286,
+      "gas:candidate-vibid:1001000121926": 138,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 191,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 171,
-      "Линев Александр Иванович": 8,
-      "Макеев Александр Викторович": 100,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 352,
-      "Свечников Петр Григорьевич": 142,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 101
+      "gas:candidate-vibid:374300166964": 191,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 171,
+      "gas:candidate-vibid:1001000136139": 8,
+      "gas:candidate-vibid:1001000190431": 100,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 352,
+      "gas:candidate-vibid:1001000121926": 142,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 176,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 248,
-      "Линев Александр Иванович": 27,
-      "Макеев Александр Викторович": 89,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 412,
-      "Свечников Петр Григорьевич": 170,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 124
+      "gas:candidate-vibid:374300166964": 176,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 248,
+      "gas:candidate-vibid:1001000136139": 27,
+      "gas:candidate-vibid:1001000190431": 89,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 412,
+      "gas:candidate-vibid:1001000121926": 170,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 189,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 265,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 97,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 441,
-      "Свечников Петр Григорьевич": 183,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 149
+      "gas:candidate-vibid:374300166964": 189,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 265,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 97,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 441,
+      "gas:candidate-vibid:1001000121926": 183,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 165,
-      "Вавилов Иван Егорович": 14,
-      "Кузнецов Александр Владимирович": 253,
-      "Линев Александр Иванович": 13,
-      "Макеев Александр Викторович": 125,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 440,
-      "Свечников Петр Григорьевич": 170,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 134
+      "gas:candidate-vibid:374300166964": 165,
+      "gas:candidate-vibid:1001000217963": 14,
+      "gas:candidate-vibid:1001000112269": 253,
+      "gas:candidate-vibid:1001000136139": 13,
+      "gas:candidate-vibid:1001000190431": 125,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 440,
+      "gas:candidate-vibid:1001000121926": 170,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 172,
-      "Вавилов Иван Егорович": 15,
-      "Кузнецов Александр Владимирович": 301,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 181,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 415,
-      "Свечников Петр Григорьевич": 212,
-      "Скворцов Константин Васильевич": 10,
-      "Против всех": 133
+      "gas:candidate-vibid:374300166964": 172,
+      "gas:candidate-vibid:1001000217963": 15,
+      "gas:candidate-vibid:1001000112269": 301,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 181,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 415,
+      "gas:candidate-vibid:1001000121926": 212,
+      "gas:candidate-vibid:1001000202343": 10,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 164,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 232,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 98,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 437,
-      "Свечников Петр Григорьевич": 132,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 148
+      "gas:candidate-vibid:374300166964": 164,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 232,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 98,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 437,
+      "gas:candidate-vibid:1001000121926": 132,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 192,
-      "Вавилов Иван Егорович": 14,
-      "Кузнецов Александр Владимирович": 285,
-      "Линев Александр Иванович": 23,
-      "Макеев Александр Викторович": 138,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 475,
-      "Свечников Петр Григорьевич": 213,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 135
+      "gas:candidate-vibid:374300166964": 192,
+      "gas:candidate-vibid:1001000217963": 14,
+      "gas:candidate-vibid:1001000112269": 285,
+      "gas:candidate-vibid:1001000136139": 23,
+      "gas:candidate-vibid:1001000190431": 138,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 475,
+      "gas:candidate-vibid:1001000121926": 213,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 151,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 154,
-      "Линев Александр Иванович": 18,
-      "Макеев Александр Викторович": 40,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 505,
-      "Свечников Петр Григорьевич": 149,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 115
+      "gas:candidate-vibid:374300166964": 151,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 154,
+      "gas:candidate-vibid:1001000136139": 18,
+      "gas:candidate-vibid:1001000190431": 40,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 505,
+      "gas:candidate-vibid:1001000121926": 149,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 163,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 215,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 27,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 432,
-      "Свечников Петр Григорьевич": 131,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 73
+      "gas:candidate-vibid:374300166964": 163,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 215,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 27,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 432,
+      "gas:candidate-vibid:1001000121926": 131,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 103,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 128,
-      "Линев Александр Иванович": 15,
-      "Макеев Александр Викторович": 24,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 285,
-      "Свечников Петр Григорьевич": 102,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 68
+      "gas:candidate-vibid:374300166964": 103,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 128,
+      "gas:candidate-vibid:1001000136139": 15,
+      "gas:candidate-vibid:1001000190431": 24,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 285,
+      "gas:candidate-vibid:1001000121926": 102,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 80,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 138,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 45,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 295,
-      "Свечников Петр Григорьевич": 126,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:374300166964": 80,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 138,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 45,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 295,
+      "gas:candidate-vibid:1001000121926": 126,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 66,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 161,
-      "Линев Александр Иванович": 13,
-      "Макеев Александр Викторович": 27,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 408,
-      "Свечников Петр Григорьевич": 111,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:374300166964": 66,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 161,
+      "gas:candidate-vibid:1001000136139": 13,
+      "gas:candidate-vibid:1001000190431": 27,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 408,
+      "gas:candidate-vibid:1001000121926": 111,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 99,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 145,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 23,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 575,
-      "Свечников Петр Григорьевич": 173,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 84
+      "gas:candidate-vibid:374300166964": 99,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 145,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 23,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 575,
+      "gas:candidate-vibid:1001000121926": 173,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 107,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 192,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 31,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 569,
-      "Свечников Петр Григорьевич": 130,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 68
+      "gas:candidate-vibid:374300166964": 107,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 192,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 31,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 569,
+      "gas:candidate-vibid:1001000121926": 130,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 49,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 82,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 14,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 272,
-      "Свечников Петр Григорьевич": 59,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 34
+      "gas:candidate-vibid:374300166964": 49,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 82,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 14,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 272,
+      "gas:candidate-vibid:1001000121926": 59,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 112,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 175,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 42,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 500,
-      "Свечников Петр Григорьевич": 124,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 89
+      "gas:candidate-vibid:374300166964": 112,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 175,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 42,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 500,
+      "gas:candidate-vibid:1001000121926": 124,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 84,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 115,
-      "Линев Александр Иванович": 21,
-      "Макеев Александр Викторович": 24,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 465,
-      "Свечников Петр Григорьевич": 88,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 84
+      "gas:candidate-vibid:374300166964": 84,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 115,
+      "gas:candidate-vibid:1001000136139": 21,
+      "gas:candidate-vibid:1001000190431": 24,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 465,
+      "gas:candidate-vibid:1001000121926": 88,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 64,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 143,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 29,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 296,
-      "Свечников Петр Григорьевич": 111,
-      "Скворцов Константин Васильевич": 6,
-      "Против всех": 45
+      "gas:candidate-vibid:374300166964": 64,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 143,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 29,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 296,
+      "gas:candidate-vibid:1001000121926": 111,
+      "gas:candidate-vibid:1001000202343": 6,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 48,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 97,
-      "Линев Александр Иванович": 8,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 263,
-      "Свечников Петр Григорьевич": 91,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 51
+      "gas:candidate-vibid:374300166964": 48,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 97,
+      "gas:candidate-vibid:1001000136139": 8,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 263,
+      "gas:candidate-vibid:1001000121926": 91,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 112,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 202,
-      "Линев Александр Иванович": 18,
-      "Макеев Александр Викторович": 54,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 575,
-      "Свечников Петр Григорьевич": 158,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 96
+      "gas:candidate-vibid:374300166964": 112,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 202,
+      "gas:candidate-vibid:1001000136139": 18,
+      "gas:candidate-vibid:1001000190431": 54,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 575,
+      "gas:candidate-vibid:1001000121926": 158,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 72,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 129,
-      "Линев Александр Иванович": 6,
-      "Макеев Александр Викторович": 50,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 294,
-      "Свечников Петр Григорьевич": 96,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 64
+      "gas:candidate-vibid:374300166964": 72,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 129,
+      "gas:candidate-vibid:1001000136139": 6,
+      "gas:candidate-vibid:1001000190431": 50,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 294,
+      "gas:candidate-vibid:1001000121926": 96,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 31,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 91,
-      "Линев Александр Иванович": 6,
-      "Макеев Александр Викторович": 15,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 294,
-      "Свечников Петр Григорьевич": 53,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 50
+      "gas:candidate-vibid:374300166964": 31,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 91,
+      "gas:candidate-vibid:1001000136139": 6,
+      "gas:candidate-vibid:1001000190431": 15,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 294,
+      "gas:candidate-vibid:1001000121926": 53,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 66,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 159,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 19,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 327,
-      "Свечников Петр Григорьевич": 120,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 57
+      "gas:candidate-vibid:374300166964": 66,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 159,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 19,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 327,
+      "gas:candidate-vibid:1001000121926": 120,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 54,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 128,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 26,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 283,
-      "Свечников Петр Григорьевич": 93,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 46
+      "gas:candidate-vibid:374300166964": 54,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 128,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 26,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 283,
+      "gas:candidate-vibid:1001000121926": 93,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 120,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 166,
-      "Линев Александр Иванович": 15,
-      "Макеев Александр Викторович": 47,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 511,
-      "Свечников Петр Григорьевич": 156,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 89
+      "gas:candidate-vibid:374300166964": 120,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 166,
+      "gas:candidate-vibid:1001000136139": 15,
+      "gas:candidate-vibid:1001000190431": 47,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 511,
+      "gas:candidate-vibid:1001000121926": 156,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 84,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 169,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 25,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 345,
-      "Свечников Петр Григорьевич": 102,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 58
+      "gas:candidate-vibid:374300166964": 84,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 169,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 25,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 345,
+      "gas:candidate-vibid:1001000121926": 102,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 77,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 88,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 19,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 423,
-      "Свечников Петр Григорьевич": 92,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 52
+      "gas:candidate-vibid:374300166964": 77,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 88,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 19,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 423,
+      "gas:candidate-vibid:1001000121926": 92,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 60,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 121,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 29,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 370,
-      "Свечников Петр Григорьевич": 90,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 68
+      "gas:candidate-vibid:374300166964": 60,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 121,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 29,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 370,
+      "gas:candidate-vibid:1001000121926": 90,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 81,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 121,
-      "Линев Александр Иванович": 6,
-      "Макеев Александр Викторович": 25,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 365,
-      "Свечников Петр Григорьевич": 123,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 50
+      "gas:candidate-vibid:374300166964": 81,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 121,
+      "gas:candidate-vibid:1001000136139": 6,
+      "gas:candidate-vibid:1001000190431": 25,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 365,
+      "gas:candidate-vibid:1001000121926": 123,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 105,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 151,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 38,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 421,
-      "Свечников Петр Григорьевич": 154,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 84
+      "gas:candidate-vibid:374300166964": 105,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 151,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 38,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 421,
+      "gas:candidate-vibid:1001000121926": 154,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 166,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 214,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 27,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 660,
-      "Свечников Петр Григорьевич": 134,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 115
+      "gas:candidate-vibid:374300166964": 166,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 214,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 27,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 660,
+      "gas:candidate-vibid:1001000121926": 134,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 90,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 146,
-      "Линев Александр Иванович": 12,
-      "Макеев Александр Викторович": 36,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 469,
-      "Свечников Петр Григорьевич": 87,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 75
+      "gas:candidate-vibid:374300166964": 90,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 146,
+      "gas:candidate-vibid:1001000136139": 12,
+      "gas:candidate-vibid:1001000190431": 36,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 469,
+      "gas:candidate-vibid:1001000121926": 87,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 111,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 142,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 56,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 525,
-      "Свечников Петр Григорьевич": 174,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 97
+      "gas:candidate-vibid:374300166964": 111,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 142,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 56,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 525,
+      "gas:candidate-vibid:1001000121926": 174,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 156,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 138,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 23,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 531,
-      "Свечников Петр Григорьевич": 132,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 136
+      "gas:candidate-vibid:374300166964": 156,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 138,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 23,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 531,
+      "gas:candidate-vibid:1001000121926": 132,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 88,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 110,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 24,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 416,
-      "Свечников Петр Григорьевич": 87,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 84
+      "gas:candidate-vibid:374300166964": 88,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 110,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 24,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 416,
+      "gas:candidate-vibid:1001000121926": 87,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 76,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 111,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 27,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 427,
-      "Свечников Петр Григорьевич": 113,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 105
+      "gas:candidate-vibid:374300166964": 76,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 111,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 27,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 427,
+      "gas:candidate-vibid:1001000121926": 113,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 75,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 109,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 31,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 396,
-      "Свечников Петр Григорьевич": 105,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 88
+      "gas:candidate-vibid:374300166964": 75,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 109,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 31,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 396,
+      "gas:candidate-vibid:1001000121926": 105,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 143,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 159,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 41,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 507,
-      "Свечников Петр Григорьевич": 115,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 82
+      "gas:candidate-vibid:374300166964": 143,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 159,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 41,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 507,
+      "gas:candidate-vibid:1001000121926": 115,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 65,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 82,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 30,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 248,
-      "Свечников Петр Григорьевич": 90,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 66
+      "gas:candidate-vibid:374300166964": 65,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 82,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 30,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 248,
+      "gas:candidate-vibid:1001000121926": 90,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 19,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 53,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 19,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 188,
-      "Свечников Петр Григорьевич": 30,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:374300166964": 19,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 53,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 19,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 188,
+      "gas:candidate-vibid:1001000121926": 30,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 75,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 112,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 19,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 314,
-      "Свечников Петр Григорьевич": 99,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 65
+      "gas:candidate-vibid:374300166964": 75,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 112,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 19,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 314,
+      "gas:candidate-vibid:1001000121926": 99,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 132,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 254,
-      "Линев Александр Иванович": 13,
-      "Макеев Александр Викторович": 34,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 363,
-      "Свечников Петр Григорьевич": 184,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 95
+      "gas:candidate-vibid:374300166964": 132,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 254,
+      "gas:candidate-vibid:1001000136139": 13,
+      "gas:candidate-vibid:1001000190431": 34,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 363,
+      "gas:candidate-vibid:1001000121926": 184,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 118,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 227,
-      "Линев Александр Иванович": 21,
-      "Макеев Александр Викторович": 28,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 457,
-      "Свечников Петр Григорьевич": 195,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 96
+      "gas:candidate-vibid:374300166964": 118,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 227,
+      "gas:candidate-vibid:1001000136139": 21,
+      "gas:candidate-vibid:1001000190431": 28,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 457,
+      "gas:candidate-vibid:1001000121926": 195,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 54,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 80,
-      "Линев Александр Иванович": 8,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 177,
-      "Свечников Петр Григорьевич": 47,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:374300166964": 54,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 80,
+      "gas:candidate-vibid:1001000136139": 8,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 177,
+      "gas:candidate-vibid:1001000121926": 47,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 80,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 286,
-      "Линев Александр Иванович": 23,
-      "Макеев Александр Викторович": 31,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 413,
-      "Свечников Петр Григорьевич": 254,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 90
+      "gas:candidate-vibid:374300166964": 80,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 286,
+      "gas:candidate-vibid:1001000136139": 23,
+      "gas:candidate-vibid:1001000190431": 31,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 413,
+      "gas:candidate-vibid:1001000121926": 254,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 32,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 76,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 158,
-      "Свечников Петр Григорьевич": 69,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:374300166964": 32,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 76,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 158,
+      "gas:candidate-vibid:1001000121926": 69,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 69,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 176,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 19,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 341,
-      "Свечников Петр Григорьевич": 102,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 65
+      "gas:candidate-vibid:374300166964": 69,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 176,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 19,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 341,
+      "gas:candidate-vibid:1001000121926": 102,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 21,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 77,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 23,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 196,
-      "Свечников Петр Григорьевич": 81,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 44
+      "gas:candidate-vibid:374300166964": 21,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 77,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 23,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 196,
+      "gas:candidate-vibid:1001000121926": 81,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 40,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 120,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 15,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 346,
-      "Свечников Петр Григорьевич": 144,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 58
+      "gas:candidate-vibid:374300166964": 40,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 120,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 15,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 346,
+      "gas:candidate-vibid:1001000121926": 144,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 17,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 59,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 118,
-      "Свечников Петр Григорьевич": 40,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:374300166964": 17,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 59,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 118,
+      "gas:candidate-vibid:1001000121926": 40,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 17,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 55,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 11,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 106,
-      "Свечников Петр Григорьевич": 22,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:374300166964": 17,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 55,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 11,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 106,
+      "gas:candidate-vibid:1001000121926": 22,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 24,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 85,
-      "Линев Александр Иванович": 12,
-      "Макеев Александр Викторович": 18,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 278,
-      "Свечников Петр Григорьевич": 87,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 39
+      "gas:candidate-vibid:374300166964": 24,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 85,
+      "gas:candidate-vibid:1001000136139": 12,
+      "gas:candidate-vibid:1001000190431": 18,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 278,
+      "gas:candidate-vibid:1001000121926": 87,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 33,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 105,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 27,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 295,
-      "Свечников Петр Григорьевич": 136,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 56
+      "gas:candidate-vibid:374300166964": 33,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 105,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 27,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 295,
+      "gas:candidate-vibid:1001000121926": 136,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 42,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 90,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 248,
-      "Свечников Петр Григорьевич": 83,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:374300166964": 42,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 90,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 248,
+      "gas:candidate-vibid:1001000121926": 83,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 26,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 105,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 221,
-      "Свечников Петр Григорьевич": 78,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:374300166964": 26,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 105,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 221,
+      "gas:candidate-vibid:1001000121926": 78,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 24,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 127,
-      "Линев Александр Иванович": 18,
-      "Макеев Александр Викторович": 16,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 223,
-      "Свечников Петр Григорьевич": 83,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:374300166964": 24,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 127,
+      "gas:candidate-vibid:1001000136139": 18,
+      "gas:candidate-vibid:1001000190431": 16,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 223,
+      "gas:candidate-vibid:1001000121926": 83,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 34,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 104,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 17,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 223,
-      "Свечников Петр Григорьевич": 48,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 47
+      "gas:candidate-vibid:374300166964": 34,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 104,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 17,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 223,
+      "gas:candidate-vibid:1001000121926": 48,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 20,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 60,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 216,
-      "Свечников Петр Григорьевич": 61,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:374300166964": 20,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 60,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 216,
+      "gas:candidate-vibid:1001000121926": 61,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 41,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 168,
-      "Линев Александр Иванович": 13,
-      "Макеев Александр Викторович": 15,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 254,
-      "Свечников Петр Григорьевич": 69,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 50
+      "gas:candidate-vibid:374300166964": 41,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 168,
+      "gas:candidate-vibid:1001000136139": 13,
+      "gas:candidate-vibid:1001000190431": 15,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 254,
+      "gas:candidate-vibid:1001000121926": 69,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 40,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 89,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 186,
-      "Свечников Петр Григорьевич": 17,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:374300166964": 40,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 89,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 186,
+      "gas:candidate-vibid:1001000121926": 17,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 29,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 54,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 134,
-      "Свечников Петр Григорьевич": 17,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:374300166964": 29,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 54,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 134,
+      "gas:candidate-vibid:1001000121926": 17,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 26,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 94,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 38,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 221,
-      "Свечников Петр Григорьевич": 75,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:374300166964": 26,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 94,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 38,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 221,
+      "gas:candidate-vibid:1001000121926": 75,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 37,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 94,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 25,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 209,
-      "Свечников Петр Григорьевич": 68,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:374300166964": 37,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 94,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 25,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 209,
+      "gas:candidate-vibid:1001000121926": 68,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 83,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 19,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 108,
-      "Свечников Петр Григорьевич": 39,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 83,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 19,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 108,
+      "gas:candidate-vibid:1001000121926": 39,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 10,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 29,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 109,
-      "Свечников Петр Григорьевич": 16,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:374300166964": 10,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 29,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 109,
+      "gas:candidate-vibid:1001000121926": 16,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 1,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 9,
-      "Линев Александр Иванович": 0,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 34,
-      "Свечников Петр Григорьевич": 8,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:374300166964": 1,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 9,
+      "gas:candidate-vibid:1001000136139": 0,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 34,
+      "gas:candidate-vibid:1001000121926": 8,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 94,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 35,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 96,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 261,
-      "Свечников Петр Григорьевич": 20,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 100
+      "gas:candidate-vibid:374300166964": 94,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 35,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 96,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 261,
+      "gas:candidate-vibid:1001000121926": 20,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 36,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 117,
-      "Линев Александр Иванович": 17,
-      "Макеев Александр Викторович": 21,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 399,
-      "Свечников Петр Григорьевич": 92,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 41
+      "gas:candidate-vibid:374300166964": 36,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 117,
+      "gas:candidate-vibid:1001000136139": 17,
+      "gas:candidate-vibid:1001000190431": 21,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 399,
+      "gas:candidate-vibid:1001000121926": 92,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167355&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 23,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 34,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 90,
-      "Свечников Петр Григорьевич": 35,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:374300166964": 23,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 34,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 90,
+      "gas:candidate-vibid:1001000121926": 35,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 31,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 52,
-      "Свечников Петр Григорьевич": 27,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 31,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 52,
+      "gas:candidate-vibid:1001000121926": 27,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 28,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 32,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 68,
-      "Свечников Петр Григорьевич": 14,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:374300166964": 28,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 32,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 68,
+      "gas:candidate-vibid:1001000121926": 14,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 20,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 15,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 59,
-      "Свечников Петр Григорьевич": 13,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 20,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 15,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 59,
+      "gas:candidate-vibid:1001000121926": 13,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 23,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 38,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 52,
-      "Свечников Петр Григорьевич": 37,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 23,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 38,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 52,
+      "gas:candidate-vibid:1001000121926": 37,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 254,
-      "Вавилов Иван Егорович": 77,
-      "Кузнецов Александр Владимирович": 158,
-      "Линев Александр Иванович": 197,
-      "Макеев Александр Викторович": 70,
-      "Моссаковский Сергей Юрьевич": 21,
-      "Панов Валерий Викторович": 452,
-      "Свечников Петр Григорьевич": 96,
-      "Скворцов Константин Васильевич": 43,
-      "Против всех": 496
+      "gas:candidate-vibid:374300166964": 254,
+      "gas:candidate-vibid:1001000217963": 77,
+      "gas:candidate-vibid:1001000112269": 158,
+      "gas:candidate-vibid:1001000136139": 197,
+      "gas:candidate-vibid:1001000190431": 70,
+      "gas:candidate-vibid:374300166793": 21,
+      "gas:candidate-vibid:374300166886": 452,
+      "gas:candidate-vibid:1001000121926": 96,
+      "gas:candidate-vibid:1001000202343": 43,
+      "special:against-all": 496
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 40,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 54,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 91,
-      "Свечников Петр Григорьевич": 49,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:374300166964": 40,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 54,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 91,
+      "gas:candidate-vibid:1001000121926": 49,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 235,
-      "Вавилов Иван Егорович": 20,
-      "Кузнецов Александр Владимирович": 197,
-      "Линев Александр Иванович": 47,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 204,
-      "Свечников Петр Григорьевич": 120,
-      "Скворцов Константин Васильевич": 8,
-      "Против всех": 138
+      "gas:candidate-vibid:374300166964": 235,
+      "gas:candidate-vibid:1001000217963": 20,
+      "gas:candidate-vibid:1001000112269": 197,
+      "gas:candidate-vibid:1001000136139": 47,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 204,
+      "gas:candidate-vibid:1001000121926": 120,
+      "gas:candidate-vibid:1001000202343": 8,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 138,
-      "Вавилов Иван Егорович": 16,
-      "Кузнецов Александр Владимирович": 135,
-      "Линев Александр Иванович": 27,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 8,
-      "Панов Валерий Викторович": 185,
-      "Свечников Петр Григорьевич": 128,
-      "Скворцов Константин Васильевич": 6,
-      "Против всех": 118
+      "gas:candidate-vibid:374300166964": 138,
+      "gas:candidate-vibid:1001000217963": 16,
+      "gas:candidate-vibid:1001000112269": 135,
+      "gas:candidate-vibid:1001000136139": 27,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 8,
+      "gas:candidate-vibid:374300166886": 185,
+      "gas:candidate-vibid:1001000121926": 128,
+      "gas:candidate-vibid:1001000202343": 6,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 97,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 140,
-      "Линев Александр Иванович": 19,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 126,
-      "Свечников Петр Григорьевич": 73,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 68
+      "gas:candidate-vibid:374300166964": 97,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 140,
+      "gas:candidate-vibid:1001000136139": 19,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 126,
+      "gas:candidate-vibid:1001000121926": 73,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 100,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 164,
-      "Линев Александр Иванович": 27,
-      "Макеев Александр Викторович": 11,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 156,
-      "Свечников Петр Григорьевич": 87,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 85
+      "gas:candidate-vibid:374300166964": 100,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 164,
+      "gas:candidate-vibid:1001000136139": 27,
+      "gas:candidate-vibid:1001000190431": 11,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 156,
+      "gas:candidate-vibid:1001000121926": 87,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 69,
-      "Вавилов Иван Егорович": 15,
-      "Кузнецов Александр Владимирович": 91,
-      "Линев Александр Иванович": 19,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 76,
-      "Свечников Петр Григорьевич": 48,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 37
+      "gas:candidate-vibid:374300166964": 69,
+      "gas:candidate-vibid:1001000217963": 15,
+      "gas:candidate-vibid:1001000112269": 91,
+      "gas:candidate-vibid:1001000136139": 19,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 76,
+      "gas:candidate-vibid:1001000121926": 48,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 143,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 182,
-      "Линев Александр Иванович": 33,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 214,
-      "Свечников Петр Григорьевич": 125,
-      "Скворцов Константин Васильевич": 6,
-      "Против всех": 84
+      "gas:candidate-vibid:374300166964": 143,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 182,
+      "gas:candidate-vibid:1001000136139": 33,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 214,
+      "gas:candidate-vibid:1001000121926": 125,
+      "gas:candidate-vibid:1001000202343": 6,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 134,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 184,
-      "Линев Александр Иванович": 32,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 197,
-      "Свечников Петр Григорьевич": 132,
-      "Скворцов Константин Васильевич": 6,
-      "Против всех": 115
+      "gas:candidate-vibid:374300166964": 134,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 184,
+      "gas:candidate-vibid:1001000136139": 32,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 197,
+      "gas:candidate-vibid:1001000121926": 132,
+      "gas:candidate-vibid:1001000202343": 6,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 127,
-      "Вавилов Иван Егорович": 15,
-      "Кузнецов Александр Владимирович": 138,
-      "Линев Александр Иванович": 27,
-      "Макеев Александр Викторович": 11,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 186,
-      "Свечников Петр Григорьевич": 140,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 97
+      "gas:candidate-vibid:374300166964": 127,
+      "gas:candidate-vibid:1001000217963": 15,
+      "gas:candidate-vibid:1001000112269": 138,
+      "gas:candidate-vibid:1001000136139": 27,
+      "gas:candidate-vibid:1001000190431": 11,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 186,
+      "gas:candidate-vibid:1001000121926": 140,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 152,
-      "Вавилов Иван Егорович": 15,
-      "Кузнецов Александр Владимирович": 113,
-      "Линев Александр Иванович": 38,
-      "Макеев Александр Викторович": 11,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 198,
-      "Свечников Петр Григорьевич": 91,
-      "Скворцов Константин Васильевич": 6,
-      "Против всех": 127
+      "gas:candidate-vibid:374300166964": 152,
+      "gas:candidate-vibid:1001000217963": 15,
+      "gas:candidate-vibid:1001000112269": 113,
+      "gas:candidate-vibid:1001000136139": 38,
+      "gas:candidate-vibid:1001000190431": 11,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 198,
+      "gas:candidate-vibid:1001000121926": 91,
+      "gas:candidate-vibid:1001000202343": 6,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 163,
-      "Вавилов Иван Егорович": 15,
-      "Кузнецов Александр Владимирович": 129,
-      "Линев Александр Иванович": 34,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 134,
-      "Свечников Петр Григорьевич": 82,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 95
+      "gas:candidate-vibid:374300166964": 163,
+      "gas:candidate-vibid:1001000217963": 15,
+      "gas:candidate-vibid:1001000112269": 129,
+      "gas:candidate-vibid:1001000136139": 34,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 134,
+      "gas:candidate-vibid:1001000121926": 82,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 143,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 113,
-      "Линев Александр Иванович": 23,
-      "Макеев Александр Викторович": 14,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 192,
-      "Свечников Петр Григорьевич": 146,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 110
+      "gas:candidate-vibid:374300166964": 143,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 113,
+      "gas:candidate-vibid:1001000136139": 23,
+      "gas:candidate-vibid:1001000190431": 14,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 192,
+      "gas:candidate-vibid:1001000121926": 146,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 113,
-      "Вавилов Иван Егорович": 16,
-      "Кузнецов Александр Владимирович": 176,
-      "Линев Александр Иванович": 21,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 139,
-      "Свечников Петр Григорьевич": 139,
-      "Скворцов Константин Васильевич": 11,
-      "Против всех": 68
+      "gas:candidate-vibid:374300166964": 113,
+      "gas:candidate-vibid:1001000217963": 16,
+      "gas:candidate-vibid:1001000112269": 176,
+      "gas:candidate-vibid:1001000136139": 21,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 139,
+      "gas:candidate-vibid:1001000121926": 139,
+      "gas:candidate-vibid:1001000202343": 11,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 165,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 188,
-      "Линев Александр Иванович": 35,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 8,
-      "Панов Валерий Викторович": 192,
-      "Свечников Петр Григорьевич": 117,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 113
+      "gas:candidate-vibid:374300166964": 165,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 188,
+      "gas:candidate-vibid:1001000136139": 35,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 8,
+      "gas:candidate-vibid:374300166886": 192,
+      "gas:candidate-vibid:1001000121926": 117,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 172,
-      "Вавилов Иван Егорович": 11,
-      "Кузнецов Александр Владимирович": 152,
-      "Линев Александр Иванович": 28,
-      "Макеев Александр Викторович": 14,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 188,
-      "Свечников Петр Григорьевич": 132,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 100
+      "gas:candidate-vibid:374300166964": 172,
+      "gas:candidate-vibid:1001000217963": 11,
+      "gas:candidate-vibid:1001000112269": 152,
+      "gas:candidate-vibid:1001000136139": 28,
+      "gas:candidate-vibid:1001000190431": 14,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 188,
+      "gas:candidate-vibid:1001000121926": 132,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 153,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 141,
-      "Линев Александр Иванович": 26,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 170,
-      "Свечников Петр Григорьевич": 112,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 106
+      "gas:candidate-vibid:374300166964": 153,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 141,
+      "gas:candidate-vibid:1001000136139": 26,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 170,
+      "gas:candidate-vibid:1001000121926": 112,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 75,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 95,
-      "Линев Александр Иванович": 21,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 96,
-      "Свечников Петр Григорьевич": 66,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:374300166964": 75,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 95,
+      "gas:candidate-vibid:1001000136139": 21,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 96,
+      "gas:candidate-vibid:1001000121926": 66,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 74,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 161,
-      "Линев Александр Иванович": 25,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 143,
-      "Свечников Петр Григорьевич": 83,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 66
+      "gas:candidate-vibid:374300166964": 74,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 161,
+      "gas:candidate-vibid:1001000136139": 25,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 143,
+      "gas:candidate-vibid:1001000121926": 83,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 180,
-      "Вавилов Иван Егорович": 31,
-      "Кузнецов Александр Владимирович": 168,
-      "Линев Александр Иванович": 79,
-      "Макеев Александр Викторович": 29,
-      "Моссаковский Сергей Юрьевич": 7,
-      "Панов Валерий Викторович": 511,
-      "Свечников Петр Григорьевич": 99,
-      "Скворцов Константин Васильевич": 11,
-      "Против всех": 225
+      "gas:candidate-vibid:374300166964": 180,
+      "gas:candidate-vibid:1001000217963": 31,
+      "gas:candidate-vibid:1001000112269": 168,
+      "gas:candidate-vibid:1001000136139": 79,
+      "gas:candidate-vibid:1001000190431": 29,
+      "gas:candidate-vibid:374300166793": 7,
+      "gas:candidate-vibid:374300166886": 511,
+      "gas:candidate-vibid:1001000121926": 99,
+      "gas:candidate-vibid:1001000202343": 11,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 186,
-      "Вавилов Иван Егорович": 46,
-      "Кузнецов Александр Владимирович": 130,
-      "Линев Александр Иванович": 165,
-      "Макеев Александр Викторович": 77,
-      "Моссаковский Сергей Юрьевич": 20,
-      "Панов Валерий Викторович": 721,
-      "Свечников Петр Григорьевич": 59,
-      "Скворцов Константин Васильевич": 43,
-      "Против всех": 470
+      "gas:candidate-vibid:374300166964": 186,
+      "gas:candidate-vibid:1001000217963": 46,
+      "gas:candidate-vibid:1001000112269": 130,
+      "gas:candidate-vibid:1001000136139": 165,
+      "gas:candidate-vibid:1001000190431": 77,
+      "gas:candidate-vibid:374300166793": 20,
+      "gas:candidate-vibid:374300166886": 721,
+      "gas:candidate-vibid:1001000121926": 59,
+      "gas:candidate-vibid:1001000202343": 43,
+      "special:against-all": 470
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 180,
-      "Вавилов Иван Егорович": 40,
-      "Кузнецов Александр Владимирович": 159,
-      "Линев Александр Иванович": 109,
-      "Макеев Александр Викторович": 20,
-      "Моссаковский Сергей Юрьевич": 7,
-      "Панов Валерий Викторович": 543,
-      "Свечников Петр Григорьевич": 91,
-      "Скворцов Константин Васильевич": 11,
-      "Против всех": 279
+      "gas:candidate-vibid:374300166964": 180,
+      "gas:candidate-vibid:1001000217963": 40,
+      "gas:candidate-vibid:1001000112269": 159,
+      "gas:candidate-vibid:1001000136139": 109,
+      "gas:candidate-vibid:1001000190431": 20,
+      "gas:candidate-vibid:374300166793": 7,
+      "gas:candidate-vibid:374300166886": 543,
+      "gas:candidate-vibid:1001000121926": 91,
+      "gas:candidate-vibid:1001000202343": 11,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 30,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 63,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 181,
-      "Свечников Петр Григорьевич": 42,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 36
+      "gas:candidate-vibid:374300166964": 30,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 63,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 181,
+      "gas:candidate-vibid:1001000121926": 42,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167360&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 54,
-      "Вавилов Иван Егорович": 26,
-      "Кузнецов Александр Владимирович": 29,
-      "Линев Александр Иванович": 24,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 148,
-      "Свечников Петр Григорьевич": 64,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:374300166964": 54,
+      "gas:candidate-vibid:1001000217963": 26,
+      "gas:candidate-vibid:1001000112269": 29,
+      "gas:candidate-vibid:1001000136139": 24,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 148,
+      "gas:candidate-vibid:1001000121926": 64,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 9,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 7,
-      "Линев Александр Иванович": 0,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 33,
-      "Свечников Петр Григорьевич": 23,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:374300166964": 9,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 7,
+      "gas:candidate-vibid:1001000136139": 0,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 33,
+      "gas:candidate-vibid:1001000121926": 23,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 27,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 21,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 68,
-      "Свечников Петр Григорьевич": 22,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:374300166964": 27,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 21,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 68,
+      "gas:candidate-vibid:1001000121926": 22,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 41,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 8,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 74,
-      "Свечников Петр Григорьевич": 14,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:374300166964": 41,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 8,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 74,
+      "gas:candidate-vibid:1001000121926": 14,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 6,
-      "Кузнецов Александр Владимирович": 8,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 49,
-      "Свечников Петр Григорьевич": 29,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 6,
+      "gas:candidate-vibid:1001000112269": 8,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 49,
+      "gas:candidate-vibid:1001000121926": 29,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 124,
-      "Вавилов Иван Егорович": 17,
-      "Кузнецов Александр Владимирович": 34,
-      "Линев Александр Иванович": 18,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 194,
-      "Свечников Петр Григорьевич": 244,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 56
+      "gas:candidate-vibid:374300166964": 124,
+      "gas:candidate-vibid:1001000217963": 17,
+      "gas:candidate-vibid:1001000112269": 34,
+      "gas:candidate-vibid:1001000136139": 18,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 194,
+      "gas:candidate-vibid:1001000121926": 244,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 52,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 147,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 161,
-      "Свечников Петр Григорьевич": 58,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 73
+      "gas:candidate-vibid:374300166964": 52,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 147,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 161,
+      "gas:candidate-vibid:1001000121926": 58,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 36,
-      "Вавилов Иван Егорович": 11,
-      "Кузнецов Александр Владимирович": 4,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 58,
-      "Свечников Петр Григорьевич": 62,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:374300166964": 36,
+      "gas:candidate-vibid:1001000217963": 11,
+      "gas:candidate-vibid:1001000112269": 4,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 58,
+      "gas:candidate-vibid:1001000121926": 62,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 20,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 20,
-      "Линев Александр Иванович": 24,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 42,
-      "Свечников Петр Григорьевич": 16,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:374300166964": 20,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 20,
+      "gas:candidate-vibid:1001000136139": 24,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 42,
+      "gas:candidate-vibid:1001000121926": 16,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 9,
-      "Линев Александр Иванович": 0,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 22,
-      "Свечников Петр Григорьевич": 14,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 9,
+      "gas:candidate-vibid:1001000136139": 0,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 22,
+      "gas:candidate-vibid:1001000121926": 14,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 13,
-      "Вавилов Иван Егорович": 15,
-      "Кузнецов Александр Владимирович": 12,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 36,
-      "Свечников Петр Григорьевич": 21,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:374300166964": 13,
+      "gas:candidate-vibid:1001000217963": 15,
+      "gas:candidate-vibid:1001000112269": 12,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 36,
+      "gas:candidate-vibid:1001000121926": 21,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 57,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 14,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 174,
-      "Свечников Петр Григорьевич": 48,
-      "Скворцов Константин Васильевич": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:374300166964": 57,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 14,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 174,
+      "gas:candidate-vibid:1001000121926": 48,
+      "gas:candidate-vibid:1001000202343": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 25,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 3,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 74,
-      "Свечников Петр Григорьевич": 13,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:374300166964": 25,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 3,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 74,
+      "gas:candidate-vibid:1001000121926": 13,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 11,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 1,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 34,
-      "Свечников Петр Григорьевич": 0,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:374300166964": 11,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 1,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 34,
+      "gas:candidate-vibid:1001000121926": 0,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 34,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 26,
-      "Линев Александр Иванович": 17,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 64,
-      "Свечников Петр Григорьевич": 24,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:374300166964": 34,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 26,
+      "gas:candidate-vibid:1001000136139": 17,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 64,
+      "gas:candidate-vibid:1001000121926": 24,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 3,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 16,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 41,
-      "Свечников Петр Григорьевич": 4,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:374300166964": 3,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 16,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 41,
+      "gas:candidate-vibid:1001000121926": 4,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 92,
-      "Вавилов Иван Егорович": 30,
-      "Кузнецов Александр Владимирович": 106,
-      "Линев Александр Иванович": 19,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 210,
-      "Свечников Петр Григорьевич": 152,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 76
+      "gas:candidate-vibid:374300166964": 92,
+      "gas:candidate-vibid:1001000217963": 30,
+      "gas:candidate-vibid:1001000112269": 106,
+      "gas:candidate-vibid:1001000136139": 19,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 210,
+      "gas:candidate-vibid:1001000121926": 152,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 110,
-      "Вавилов Иван Егорович": 29,
-      "Кузнецов Александр Владимирович": 99,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 200,
-      "Свечников Петр Григорьевич": 91,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 62
+      "gas:candidate-vibid:374300166964": 110,
+      "gas:candidate-vibid:1001000217963": 29,
+      "gas:candidate-vibid:1001000112269": 99,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 200,
+      "gas:candidate-vibid:1001000121926": 91,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 27,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 13,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 26,
-      "Свечников Петр Григорьевич": 21,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:374300166964": 27,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 13,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 26,
+      "gas:candidate-vibid:1001000121926": 21,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 17,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 14,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 48,
-      "Свечников Петр Григорьевич": 5,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:374300166964": 17,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 14,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 48,
+      "gas:candidate-vibid:1001000121926": 5,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 41,
-      "Вавилов Иван Егорович": 24,
-      "Кузнецов Александр Владимирович": 58,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 59,
-      "Свечников Петр Григорьевич": 51,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 24
+      "gas:candidate-vibid:374300166964": 41,
+      "gas:candidate-vibid:1001000217963": 24,
+      "gas:candidate-vibid:1001000112269": 58,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 59,
+      "gas:candidate-vibid:1001000121926": 51,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 62,
-      "Вавилов Иван Егорович": 22,
-      "Кузнецов Александр Владимирович": 15,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 75,
-      "Свечников Петр Григорьевич": 31,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 45
+      "gas:candidate-vibid:374300166964": 62,
+      "gas:candidate-vibid:1001000217963": 22,
+      "gas:candidate-vibid:1001000112269": 15,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 75,
+      "gas:candidate-vibid:1001000121926": 31,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 83,
-      "Вавилов Иван Егорович": 25,
-      "Кузнецов Александр Владимирович": 70,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 117,
-      "Свечников Петр Григорьевич": 59,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 60
+      "gas:candidate-vibid:374300166964": 83,
+      "gas:candidate-vibid:1001000217963": 25,
+      "gas:candidate-vibid:1001000112269": 70,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 117,
+      "gas:candidate-vibid:1001000121926": 59,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 11,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 5,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 65,
-      "Свечников Петр Григорьевич": 3,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:374300166964": 11,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 5,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 65,
+      "gas:candidate-vibid:1001000121926": 3,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 26,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 2,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 126,
-      "Свечников Петр Григорьевич": 22,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 35
+      "gas:candidate-vibid:374300166964": 26,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 2,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 126,
+      "gas:candidate-vibid:1001000121926": 22,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 75,
-      "Вавилов Иван Егорович": 22,
-      "Кузнецов Александр Владимирович": 102,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 123,
-      "Свечников Петр Григорьевич": 46,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 49
+      "gas:candidate-vibid:374300166964": 75,
+      "gas:candidate-vibid:1001000217963": 22,
+      "gas:candidate-vibid:1001000112269": 102,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 123,
+      "gas:candidate-vibid:1001000121926": 46,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 32,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 21,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 72,
-      "Свечников Петр Григорьевич": 25,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 24
+      "gas:candidate-vibid:374300166964": 32,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 21,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 72,
+      "gas:candidate-vibid:1001000121926": 25,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 127,
-      "Вавилов Иван Егорович": 33,
-      "Кузнецов Александр Владимирович": 49,
-      "Линев Александр Иванович": 24,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 233,
-      "Свечников Петр Григорьевич": 90,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 57
+      "gas:candidate-vibid:374300166964": 127,
+      "gas:candidate-vibid:1001000217963": 33,
+      "gas:candidate-vibid:1001000112269": 49,
+      "gas:candidate-vibid:1001000136139": 24,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 233,
+      "gas:candidate-vibid:1001000121926": 90,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 53,
-      "Вавилов Иван Егорович": 18,
-      "Кузнецов Александр Владимирович": 30,
-      "Линев Александр Иванович": 28,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 224,
-      "Свечников Петр Григорьевич": 81,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:374300166964": 53,
+      "gas:candidate-vibid:1001000217963": 18,
+      "gas:candidate-vibid:1001000112269": 30,
+      "gas:candidate-vibid:1001000136139": 28,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 224,
+      "gas:candidate-vibid:1001000121926": 81,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 9,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 3,
-      "Линев Александр Иванович": 6,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 116,
-      "Свечников Петр Григорьевич": 4,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:374300166964": 9,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 3,
+      "gas:candidate-vibid:1001000136139": 6,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 116,
+      "gas:candidate-vibid:1001000121926": 4,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 43,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 6,
-      "Линев Александр Иванович": 12,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 111,
-      "Свечников Петр Григорьевич": 29,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 43
+      "gas:candidate-vibid:374300166964": 43,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 6,
+      "gas:candidate-vibid:1001000136139": 12,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 111,
+      "gas:candidate-vibid:1001000121926": 29,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 83,
-      "Вавилов Иван Егорович": 29,
-      "Кузнецов Александр Владимирович": 63,
-      "Линев Александр Иванович": 25,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 149,
-      "Свечников Петр Григорьевич": 122,
-      "Скворцов Константин Васильевич": 9,
-      "Против всех": 57
+      "gas:candidate-vibid:374300166964": 83,
+      "gas:candidate-vibid:1001000217963": 29,
+      "gas:candidate-vibid:1001000112269": 63,
+      "gas:candidate-vibid:1001000136139": 25,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 149,
+      "gas:candidate-vibid:1001000121926": 122,
+      "gas:candidate-vibid:1001000202343": 9,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 27,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 7,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 58,
-      "Свечников Петр Григорьевич": 14,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:374300166964": 27,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 7,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 58,
+      "gas:candidate-vibid:1001000121926": 14,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 17,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 4,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 65,
-      "Свечников Петр Григорьевич": 16,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:374300166964": 17,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 4,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 65,
+      "gas:candidate-vibid:1001000121926": 16,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 6,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 2,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 58,
-      "Свечников Петр Григорьевич": 1,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:374300166964": 6,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 2,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 58,
+      "gas:candidate-vibid:1001000121926": 1,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 12,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 64,
-      "Свечников Петр Григорьевич": 18,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 12,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 64,
+      "gas:candidate-vibid:1001000121926": 18,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 91,
-      "Вавилов Иван Егорович": 19,
-      "Кузнецов Александр Владимирович": 41,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 221,
-      "Свечников Петр Григорьевич": 85,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 52
+      "gas:candidate-vibid:374300166964": 91,
+      "gas:candidate-vibid:1001000217963": 19,
+      "gas:candidate-vibid:1001000112269": 41,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 221,
+      "gas:candidate-vibid:1001000121926": 85,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 11,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 31,
-      "Свечников Петр Григорьевич": 5,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 11,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 31,
+      "gas:candidate-vibid:1001000121926": 5,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 21,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 8,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 66,
-      "Свечников Петр Григорьевич": 7,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:374300166964": 21,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 8,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 66,
+      "gas:candidate-vibid:1001000121926": 7,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 13,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 9,
-      "Линев Александр Иванович": 0,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 29,
-      "Свечников Петр Григорьевич": 12,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:374300166964": 13,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 9,
+      "gas:candidate-vibid:1001000136139": 0,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 29,
+      "gas:candidate-vibid:1001000121926": 12,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 12,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 2,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 93,
-      "Свечников Петр Григорьевич": 7,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:374300166964": 12,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 2,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 93,
+      "gas:candidate-vibid:1001000121926": 7,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 54,
-      "Вавилов Иван Егорович": 21,
-      "Кузнецов Александр Владимирович": 17,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 103,
-      "Свечников Петр Григорьевич": 29,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 42
+      "gas:candidate-vibid:374300166964": 54,
+      "gas:candidate-vibid:1001000217963": 21,
+      "gas:candidate-vibid:1001000112269": 17,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 103,
+      "gas:candidate-vibid:1001000121926": 29,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 45,
-      "Вавилов Иван Егорович": 25,
-      "Кузнецов Александр Владимирович": 25,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 221,
-      "Свечников Петр Григорьевич": 59,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:374300166964": 45,
+      "gas:candidate-vibid:1001000217963": 25,
+      "gas:candidate-vibid:1001000112269": 25,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 221,
+      "gas:candidate-vibid:1001000121926": 59,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 0,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 9,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 58,
-      "Свечников Петр Григорьевич": 11,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:374300166964": 0,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 9,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 58,
+      "gas:candidate-vibid:1001000121926": 11,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 27,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 7,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 40,
-      "Свечников Петр Григорьевич": 15,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:374300166964": 27,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 7,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 40,
+      "gas:candidate-vibid:1001000121926": 15,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 2,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 6,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 57,
-      "Свечников Петр Григорьевич": 7,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:374300166964": 2,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 6,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 57,
+      "gas:candidate-vibid:1001000121926": 7,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 2,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 5,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 30,
-      "Свечников Петр Григорьевич": 16,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 2,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 5,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 30,
+      "gas:candidate-vibid:1001000121926": 16,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 78,
-      "Вавилов Иван Егорович": 24,
-      "Кузнецов Александр Владимирович": 31,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 251,
-      "Свечников Петр Григорьевич": 117,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 45
+      "gas:candidate-vibid:374300166964": 78,
+      "gas:candidate-vibid:1001000217963": 24,
+      "gas:candidate-vibid:1001000112269": 31,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 251,
+      "gas:candidate-vibid:1001000121926": 117,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 1,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 0,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 47,
-      "Свечников Петр Григорьевич": 4,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:374300166964": 1,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 0,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 47,
+      "gas:candidate-vibid:1001000121926": 4,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 9,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 25,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 34,
-      "Свечников Петр Григорьевич": 22,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:374300166964": 9,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 25,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 34,
+      "gas:candidate-vibid:1001000121926": 22,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 7,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 49,
-      "Свечников Петр Григорьевич": 40,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 7,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 49,
+      "gas:candidate-vibid:1001000121926": 40,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 7,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 14,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 98,
-      "Свечников Петр Григорьевич": 46,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:374300166964": 7,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 14,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 98,
+      "gas:candidate-vibid:1001000121926": 46,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 9,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 5,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 103,
-      "Свечников Петр Григорьевич": 3,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 9,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 5,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 103,
+      "gas:candidate-vibid:1001000121926": 3,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 7,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 19,
-      "Свечников Петр Григорьевич": 6,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 7,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 19,
+      "gas:candidate-vibid:1001000121926": 6,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 28,
-      "Вавилов Иван Егорович": 24,
-      "Кузнецов Александр Владимирович": 9,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 147,
-      "Свечников Петр Григорьевич": 38,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:374300166964": 28,
+      "gas:candidate-vibid:1001000217963": 24,
+      "gas:candidate-vibid:1001000112269": 9,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 147,
+      "gas:candidate-vibid:1001000121926": 38,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 6,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 2,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 36,
-      "Свечников Петр Григорьевич": 9,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 6,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 2,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 36,
+      "gas:candidate-vibid:1001000121926": 9,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 8,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 80,
-      "Свечников Петр Григорьевич": 11,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 8,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 80,
+      "gas:candidate-vibid:1001000121926": 11,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 25,
-      "Вавилов Иван Егорович": 69,
-      "Кузнецов Александр Владимирович": 42,
-      "Линев Александр Иванович": 12,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 195,
-      "Свечников Петр Григорьевич": 73,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:374300166964": 25,
+      "gas:candidate-vibid:1001000217963": 69,
+      "gas:candidate-vibid:1001000112269": 42,
+      "gas:candidate-vibid:1001000136139": 12,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 195,
+      "gas:candidate-vibid:1001000121926": 73,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 16,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 5,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 76,
-      "Свечников Петр Григорьевич": 15,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 16,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 5,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 76,
+      "gas:candidate-vibid:1001000121926": 15,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 21,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 25,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 34,
-      "Свечников Петр Григорьевич": 33,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:374300166964": 21,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 25,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 34,
+      "gas:candidate-vibid:1001000121926": 33,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167361&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 45,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 84,
-      "Линев Александр Иванович": 21,
-      "Макеев Александр Викторович": 50,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 181,
-      "Свечников Петр Григорьевич": 31,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 67
+      "gas:candidate-vibid:374300166964": 45,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 84,
+      "gas:candidate-vibid:1001000136139": 21,
+      "gas:candidate-vibid:1001000190431": 50,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 181,
+      "gas:candidate-vibid:1001000121926": 31,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 53,
-      "Вавилов Иван Егорович": 17,
-      "Кузнецов Александр Владимирович": 40,
-      "Линев Александр Иванович": 46,
-      "Макеев Александр Викторович": 28,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 166,
-      "Свечников Петр Григорьевич": 24,
-      "Скворцов Константин Васильевич": 9,
-      "Против всех": 102
+      "gas:candidate-vibid:374300166964": 53,
+      "gas:candidate-vibid:1001000217963": 17,
+      "gas:candidate-vibid:1001000112269": 40,
+      "gas:candidate-vibid:1001000136139": 46,
+      "gas:candidate-vibid:1001000190431": 28,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 166,
+      "gas:candidate-vibid:1001000121926": 24,
+      "gas:candidate-vibid:1001000202343": 9,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 16,
-      "Линев Александр Иванович": 19,
-      "Макеев Александр Викторович": 8,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 64,
-      "Свечников Петр Григорьевич": 14,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 16,
+      "gas:candidate-vibid:1001000136139": 19,
+      "gas:candidate-vibid:1001000190431": 8,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 64,
+      "gas:candidate-vibid:1001000121926": 14,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 23,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 21,
-      "Линев Александр Иванович": 9,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 67,
-      "Свечников Петр Григорьевич": 15,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 38
+      "gas:candidate-vibid:374300166964": 23,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 21,
+      "gas:candidate-vibid:1001000136139": 9,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 67,
+      "gas:candidate-vibid:1001000121926": 15,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 114,
-      "Вавилов Иван Егорович": 29,
-      "Кузнецов Александр Владимирович": 100,
-      "Линев Александр Иванович": 41,
-      "Макеев Александр Викторович": 8,
-      "Моссаковский Сергей Юрьевич": 7,
-      "Панов Валерий Викторович": 194,
-      "Свечников Петр Григорьевич": 270,
-      "Скворцов Константин Васильевич": 10,
-      "Против всех": 66
+      "gas:candidate-vibid:374300166964": 114,
+      "gas:candidate-vibid:1001000217963": 29,
+      "gas:candidate-vibid:1001000112269": 100,
+      "gas:candidate-vibid:1001000136139": 41,
+      "gas:candidate-vibid:1001000190431": 8,
+      "gas:candidate-vibid:374300166793": 7,
+      "gas:candidate-vibid:374300166886": 194,
+      "gas:candidate-vibid:1001000121926": 270,
+      "gas:candidate-vibid:1001000202343": 10,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 22,
-      "Вавилов Иван Егорович": 23,
-      "Кузнецов Александр Владимирович": 77,
-      "Линев Александр Иванович": 12,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 66,
-      "Свечников Петр Григорьевич": 94,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:374300166964": 22,
+      "gas:candidate-vibid:1001000217963": 23,
+      "gas:candidate-vibid:1001000112269": 77,
+      "gas:candidate-vibid:1001000136139": 12,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 66,
+      "gas:candidate-vibid:1001000121926": 94,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 2,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 5,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 31,
-      "Свечников Петр Григорьевич": 5,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:374300166964": 2,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 5,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 31,
+      "gas:candidate-vibid:1001000121926": 5,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 29,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 48,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 71,
-      "Свечников Петр Григорьевич": 42,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:374300166964": 29,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 48,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 71,
+      "gas:candidate-vibid:1001000121926": 42,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 78,
-      "Вавилов Иван Егорович": 17,
-      "Кузнецов Александр Владимирович": 80,
-      "Линев Александр Иванович": 18,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 429,
-      "Свечников Петр Григорьевич": 230,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 45
+      "gas:candidate-vibid:374300166964": 78,
+      "gas:candidate-vibid:1001000217963": 17,
+      "gas:candidate-vibid:1001000112269": 80,
+      "gas:candidate-vibid:1001000136139": 18,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 429,
+      "gas:candidate-vibid:1001000121926": 230,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 4,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 9,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 66,
-      "Свечников Петр Григорьевич": 9,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 4,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 9,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 66,
+      "gas:candidate-vibid:1001000121926": 9,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 1,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 34,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 49,
-      "Свечников Петр Григорьевич": 12,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:374300166964": 1,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 34,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 49,
+      "gas:candidate-vibid:1001000121926": 12,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 10,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 47,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 37,
-      "Свечников Петр Григорьевич": 46,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:374300166964": 10,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 47,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 37,
+      "gas:candidate-vibid:1001000121926": 46,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 4,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 23,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 85,
-      "Свечников Петр Григорьевич": 16,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:374300166964": 4,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 23,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 85,
+      "gas:candidate-vibid:1001000121926": 16,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 10,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 21,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 68,
-      "Свечников Петр Григорьевич": 36,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:374300166964": 10,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 21,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 68,
+      "gas:candidate-vibid:1001000121926": 36,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 5,
-      "Вавилов Иван Егорович": 0,
-      "Кузнецов Александр Владимирович": 24,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 57,
-      "Свечников Петр Григорьевич": 18,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:374300166964": 5,
+      "gas:candidate-vibid:1001000217963": 0,
+      "gas:candidate-vibid:1001000112269": 24,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 57,
+      "gas:candidate-vibid:1001000121926": 18,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 8,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 11,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 53,
-      "Свечников Петр Григорьевич": 21,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:374300166964": 8,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 11,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 53,
+      "gas:candidate-vibid:1001000121926": 21,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 36,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 51,
-      "Линев Александр Иванович": 7,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 114,
-      "Свечников Петр Григорьевич": 19,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:374300166964": 36,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 51,
+      "gas:candidate-vibid:1001000136139": 7,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 114,
+      "gas:candidate-vibid:1001000121926": 19,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 6,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 24,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 29,
-      "Свечников Петр Григорьевич": 5,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 6,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 24,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 29,
+      "gas:candidate-vibid:1001000121926": 5,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 3,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 8,
-      "Линев Александр Иванович": 3,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 77,
-      "Свечников Петр Григорьевич": 8,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:374300166964": 3,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 8,
+      "gas:candidate-vibid:1001000136139": 3,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 77,
+      "gas:candidate-vibid:1001000121926": 8,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 38,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 54,
-      "Линев Александр Иванович": 16,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 96,
-      "Свечников Петр Григорьевич": 53,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:374300166964": 38,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 54,
+      "gas:candidate-vibid:1001000136139": 16,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 96,
+      "gas:candidate-vibid:1001000121926": 53,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 14,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 22,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 26,
-      "Свечников Петр Григорьевич": 2,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:374300166964": 14,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 22,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 26,
+      "gas:candidate-vibid:1001000121926": 2,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 4,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 24,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 33,
-      "Свечников Петр Григорьевич": 3,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:374300166964": 4,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 24,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 33,
+      "gas:candidate-vibid:1001000121926": 3,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 58,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 74,
-      "Свечников Петр Григорьевич": 47,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 58,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 74,
+      "gas:candidate-vibid:1001000121926": 47,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 222,
-      "Вавилов Иван Егорович": 51,
-      "Кузнецов Александр Владимирович": 122,
-      "Линев Александр Иванович": 57,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 369,
-      "Свечников Петр Григорьевич": 316,
-      "Скворцов Константин Васильевич": 13,
-      "Против всех": 167
+      "gas:candidate-vibid:374300166964": 222,
+      "gas:candidate-vibid:1001000217963": 51,
+      "gas:candidate-vibid:1001000112269": 122,
+      "gas:candidate-vibid:1001000136139": 57,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 369,
+      "gas:candidate-vibid:1001000121926": 316,
+      "gas:candidate-vibid:1001000202343": 13,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 18,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 47,
-      "Линев Александр Иванович": 15,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 32,
-      "Свечников Петр Григорьевич": 23,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:374300166964": 18,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 47,
+      "gas:candidate-vibid:1001000136139": 15,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 32,
+      "gas:candidate-vibid:1001000121926": 23,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 26,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 25,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 56,
-      "Свечников Петр Григорьевич": 44,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:374300166964": 26,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 25,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 56,
+      "gas:candidate-vibid:1001000121926": 44,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 7,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 7,
-      "Линев Александр Иванович": 2,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 41,
-      "Свечников Петр Григорьевич": 11,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:374300166964": 7,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 7,
+      "gas:candidate-vibid:1001000136139": 2,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 41,
+      "gas:candidate-vibid:1001000121926": 11,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 80,
-      "Вавилов Иван Егорович": 21,
-      "Кузнецов Александр Владимирович": 150,
-      "Линев Александр Иванович": 33,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 7,
-      "Панов Валерий Викторович": 366,
-      "Свечников Петр Григорьевич": 234,
-      "Скворцов Константин Васильевич": 11,
-      "Против всех": 96
+      "gas:candidate-vibid:374300166964": 80,
+      "gas:candidate-vibid:1001000217963": 21,
+      "gas:candidate-vibid:1001000112269": 150,
+      "gas:candidate-vibid:1001000136139": 33,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 7,
+      "gas:candidate-vibid:374300166886": 366,
+      "gas:candidate-vibid:1001000121926": 234,
+      "gas:candidate-vibid:1001000202343": 11,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 11,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 20,
-      "Линев Александр Иванович": 0,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 46,
-      "Свечников Петр Григорьевич": 11,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 11,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 20,
+      "gas:candidate-vibid:1001000136139": 0,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 46,
+      "gas:candidate-vibid:1001000121926": 11,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 32,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 56,
-      "Линев Александр Иванович": 11,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 59,
-      "Свечников Петр Григорьевич": 47,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:374300166964": 32,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 56,
+      "gas:candidate-vibid:1001000136139": 11,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 59,
+      "gas:candidate-vibid:1001000121926": 47,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 21,
-      "Линев Александр Иванович": 8,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 63,
-      "Свечников Петр Григорьевич": 16,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 21,
+      "gas:candidate-vibid:1001000136139": 8,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 63,
+      "gas:candidate-vibid:1001000121926": 16,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 17,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 36,
-      "Линев Александр Иванович": 6,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 43,
-      "Свечников Петр Григорьевич": 24,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:374300166964": 17,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 36,
+      "gas:candidate-vibid:1001000136139": 6,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 43,
+      "gas:candidate-vibid:1001000121926": 24,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 13,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 32,
-      "Линев Александр Иванович": 6,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 41,
-      "Свечников Петр Григорьевич": 22,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:374300166964": 13,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 32,
+      "gas:candidate-vibid:1001000136139": 6,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 41,
+      "gas:candidate-vibid:1001000121926": 22,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 8,
-      "Вавилов Иван Егорович": 4,
-      "Кузнецов Александр Владимирович": 30,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 57,
-      "Свечников Петр Григорьевич": 12,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:374300166964": 8,
+      "gas:candidate-vibid:1001000217963": 4,
+      "gas:candidate-vibid:1001000112269": 30,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 57,
+      "gas:candidate-vibid:1001000121926": 12,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 9,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 16,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 47,
-      "Свечников Петр Григорьевич": 12,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:374300166964": 9,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 16,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 47,
+      "gas:candidate-vibid:1001000121926": 12,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 40,
-      "Вавилов Иван Егорович": 11,
-      "Кузнецов Александр Владимирович": 140,
-      "Линев Александр Иванович": 19,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 191,
-      "Свечников Петр Григорьевич": 137,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:374300166964": 40,
+      "gas:candidate-vibid:1001000217963": 11,
+      "gas:candidate-vibid:1001000112269": 140,
+      "gas:candidate-vibid:1001000136139": 19,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 191,
+      "gas:candidate-vibid:1001000121926": 137,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 15,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 24,
-      "Линев Александр Иванович": 5,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 24,
-      "Свечников Петр Григорьевич": 30,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:374300166964": 15,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 24,
+      "gas:candidate-vibid:1001000136139": 5,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 24,
+      "gas:candidate-vibid:1001000121926": 30,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 3,
-      "Вавилов Иван Егорович": 3,
-      "Кузнецов Александр Владимирович": 35,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 3,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 43,
-      "Свечников Петр Григорьевич": 7,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:374300166964": 3,
+      "gas:candidate-vibid:1001000217963": 3,
+      "gas:candidate-vibid:1001000112269": 35,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 3,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 43,
+      "gas:candidate-vibid:1001000121926": 7,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 17,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 19,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 97,
-      "Свечников Петр Григорьевич": 46,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:374300166964": 17,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 19,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 97,
+      "gas:candidate-vibid:1001000121926": 46,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 28,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 32,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 2,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 99,
-      "Свечников Петр Григорьевич": 51,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 35
+      "gas:candidate-vibid:374300166964": 28,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 32,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 2,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 99,
+      "gas:candidate-vibid:1001000121926": 51,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 9,
-      "Вавилов Иван Егорович": 2,
-      "Кузнецов Александр Владимирович": 28,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 85,
-      "Свечников Петр Григорьевич": 14,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 47
+      "gas:candidate-vibid:374300166964": 9,
+      "gas:candidate-vibid:1001000217963": 2,
+      "gas:candidate-vibid:1001000112269": 28,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 85,
+      "gas:candidate-vibid:1001000121926": 14,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 2,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 22,
-      "Линев Александр Иванович": 1,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 27,
-      "Свечников Петр Григорьевич": 4,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:374300166964": 2,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 22,
+      "gas:candidate-vibid:1001000136139": 1,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 27,
+      "gas:candidate-vibid:1001000121926": 4,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167362&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 232,
-      "Вавилов Иван Егорович": 19,
-      "Кузнецов Александр Владимирович": 155,
-      "Линев Александр Иванович": 34,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 225,
-      "Свечников Петр Григорьевич": 109,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 119
+      "gas:candidate-vibid:374300166964": 232,
+      "gas:candidate-vibid:1001000217963": 19,
+      "gas:candidate-vibid:1001000112269": 155,
+      "gas:candidate-vibid:1001000136139": 34,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 225,
+      "gas:candidate-vibid:1001000121926": 109,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 109,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 100,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 124,
-      "Свечников Петр Григорьевич": 51,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 54
+      "gas:candidate-vibid:374300166964": 109,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 100,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 124,
+      "gas:candidate-vibid:1001000121926": 51,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 137,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 97,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 4,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 188,
-      "Свечников Петр Григорьевич": 53,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 83
+      "gas:candidate-vibid:374300166964": 137,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 97,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 4,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 188,
+      "gas:candidate-vibid:1001000121926": 53,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 240,
-      "Вавилов Иван Егорович": 11,
-      "Кузнецов Александр Владимирович": 146,
-      "Линев Александр Иванович": 32,
-      "Макеев Александр Викторович": 16,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 160,
-      "Свечников Петр Григорьевич": 135,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 108
+      "gas:candidate-vibid:374300166964": 240,
+      "gas:candidate-vibid:1001000217963": 11,
+      "gas:candidate-vibid:1001000112269": 146,
+      "gas:candidate-vibid:1001000136139": 32,
+      "gas:candidate-vibid:1001000190431": 16,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 160,
+      "gas:candidate-vibid:1001000121926": 135,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 354,
-      "Вавилов Иван Егорович": 17,
-      "Кузнецов Александр Владимирович": 237,
-      "Линев Александр Иванович": 41,
-      "Макеев Александр Викторович": 17,
-      "Моссаковский Сергей Юрьевич": 7,
-      "Панов Валерий Викторович": 303,
-      "Свечников Петр Григорьевич": 246,
-      "Скворцов Константин Васильевич": 8,
-      "Против всех": 136
+      "gas:candidate-vibid:374300166964": 354,
+      "gas:candidate-vibid:1001000217963": 17,
+      "gas:candidate-vibid:1001000112269": 237,
+      "gas:candidate-vibid:1001000136139": 41,
+      "gas:candidate-vibid:1001000190431": 17,
+      "gas:candidate-vibid:374300166793": 7,
+      "gas:candidate-vibid:374300166886": 303,
+      "gas:candidate-vibid:1001000121926": 246,
+      "gas:candidate-vibid:1001000202343": 8,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 356,
-      "Вавилов Иван Егорович": 32,
-      "Кузнецов Александр Владимирович": 231,
-      "Линев Александр Иванович": 56,
-      "Макеев Александр Викторович": 15,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 311,
-      "Свечников Петр Григорьевич": 254,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 142
+      "gas:candidate-vibid:374300166964": 356,
+      "gas:candidate-vibid:1001000217963": 32,
+      "gas:candidate-vibid:1001000112269": 231,
+      "gas:candidate-vibid:1001000136139": 56,
+      "gas:candidate-vibid:1001000190431": 15,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 311,
+      "gas:candidate-vibid:1001000121926": 254,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 135,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 123,
-      "Линев Александр Иванович": 35,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 142,
-      "Свечников Петр Григорьевич": 100,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 85
+      "gas:candidate-vibid:374300166964": 135,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 123,
+      "gas:candidate-vibid:1001000136139": 35,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 142,
+      "gas:candidate-vibid:1001000121926": 100,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 81,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 107,
-      "Линев Александр Иванович": 33,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 4,
-      "Панов Валерий Викторович": 84,
-      "Свечников Петр Григорьевич": 84,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 43
+      "gas:candidate-vibid:374300166964": 81,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 107,
+      "gas:candidate-vibid:1001000136139": 33,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 4,
+      "gas:candidate-vibid:374300166886": 84,
+      "gas:candidate-vibid:1001000121926": 84,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 106,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 118,
-      "Линев Александр Иванович": 22,
-      "Макеев Александр Викторович": 11,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 104,
-      "Свечников Петр Григорьевич": 67,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 70
+      "gas:candidate-vibid:374300166964": 106,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 118,
+      "gas:candidate-vibid:1001000136139": 22,
+      "gas:candidate-vibid:1001000190431": 11,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 104,
+      "gas:candidate-vibid:1001000121926": 67,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 234,
-      "Вавилов Иван Егорович": 22,
-      "Кузнецов Александр Владимирович": 181,
-      "Линев Александр Иванович": 42,
-      "Макеев Александр Викторович": 37,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 220,
-      "Свечников Петр Григорьевич": 182,
-      "Скворцов Константин Васильевич": 9,
-      "Против всех": 135
+      "gas:candidate-vibid:374300166964": 234,
+      "gas:candidate-vibid:1001000217963": 22,
+      "gas:candidate-vibid:1001000112269": 181,
+      "gas:candidate-vibid:1001000136139": 42,
+      "gas:candidate-vibid:1001000190431": 37,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 220,
+      "gas:candidate-vibid:1001000121926": 182,
+      "gas:candidate-vibid:1001000202343": 9,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 21,
-      "Вавилов Иван Егорович": 1,
-      "Кузнецов Александр Владимирович": 35,
-      "Линев Александр Иванович": 4,
-      "Макеев Александр Викторович": 0,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 17,
-      "Свечников Петр Григорьевич": 3,
-      "Скворцов Константин Васильевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:374300166964": 21,
+      "gas:candidate-vibid:1001000217963": 1,
+      "gas:candidate-vibid:1001000112269": 35,
+      "gas:candidate-vibid:1001000136139": 4,
+      "gas:candidate-vibid:1001000190431": 0,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 17,
+      "gas:candidate-vibid:1001000121926": 3,
+      "gas:candidate-vibid:1001000202343": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 154,
-      "Вавилов Иван Егорович": 14,
-      "Кузнецов Александр Владимирович": 119,
-      "Линев Александр Иванович": 33,
-      "Макеев Александр Викторович": 7,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 244,
-      "Свечников Петр Григорьевич": 151,
-      "Скворцов Константин Васильевич": 8,
-      "Против всех": 94
+      "gas:candidate-vibid:374300166964": 154,
+      "gas:candidate-vibid:1001000217963": 14,
+      "gas:candidate-vibid:1001000112269": 119,
+      "gas:candidate-vibid:1001000136139": 33,
+      "gas:candidate-vibid:1001000190431": 7,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 244,
+      "gas:candidate-vibid:1001000121926": 151,
+      "gas:candidate-vibid:1001000202343": 8,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 318,
-      "Вавилов Иван Егорович": 33,
-      "Кузнецов Александр Владимирович": 286,
-      "Линев Александр Иванович": 50,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 274,
-      "Свечников Петр Григорьевич": 207,
-      "Скворцов Константин Васильевич": 10,
-      "Против всех": 176
+      "gas:candidate-vibid:374300166964": 318,
+      "gas:candidate-vibid:1001000217963": 33,
+      "gas:candidate-vibid:1001000112269": 286,
+      "gas:candidate-vibid:1001000136139": 50,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 274,
+      "gas:candidate-vibid:1001000121926": 207,
+      "gas:candidate-vibid:1001000202343": 10,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 153,
-      "Вавилов Иван Егорович": 19,
-      "Кузнецов Александр Владимирович": 127,
-      "Линев Александр Иванович": 35,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 155,
-      "Свечников Петр Григорьевич": 99,
-      "Скворцов Константин Васильевич": 5,
-      "Против всех": 74
+      "gas:candidate-vibid:374300166964": 153,
+      "gas:candidate-vibid:1001000217963": 19,
+      "gas:candidate-vibid:1001000112269": 127,
+      "gas:candidate-vibid:1001000136139": 35,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 155,
+      "gas:candidate-vibid:1001000121926": 99,
+      "gas:candidate-vibid:1001000202343": 5,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 127,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 115,
-      "Линев Александр Иванович": 14,
-      "Макеев Александр Викторович": 8,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 100,
-      "Свечников Петр Григорьевич": 55,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 62
+      "gas:candidate-vibid:374300166964": 127,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 115,
+      "gas:candidate-vibid:1001000136139": 14,
+      "gas:candidate-vibid:1001000190431": 8,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 100,
+      "gas:candidate-vibid:1001000121926": 55,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 330,
-      "Вавилов Иван Егорович": 26,
-      "Кузнецов Александр Владимирович": 288,
-      "Линев Александр Иванович": 60,
-      "Макеев Александр Викторович": 11,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 300,
-      "Свечников Петр Григорьевич": 164,
-      "Скворцов Константин Васильевич": 12,
-      "Против всех": 154
+      "gas:candidate-vibid:374300166964": 330,
+      "gas:candidate-vibid:1001000217963": 26,
+      "gas:candidate-vibid:1001000112269": 288,
+      "gas:candidate-vibid:1001000136139": 60,
+      "gas:candidate-vibid:1001000190431": 11,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 300,
+      "gas:candidate-vibid:1001000121926": 164,
+      "gas:candidate-vibid:1001000202343": 12,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 227,
-      "Вавилов Иван Егорович": 19,
-      "Кузнецов Александр Владимирович": 283,
-      "Линев Александр Иванович": 58,
-      "Макеев Александр Викторович": 14,
-      "Моссаковский Сергей Юрьевич": 5,
-      "Панов Валерий Викторович": 254,
-      "Свечников Петр Григорьевич": 181,
-      "Скворцов Константин Васильевич": 9,
-      "Против всех": 149
+      "gas:candidate-vibid:374300166964": 227,
+      "gas:candidate-vibid:1001000217963": 19,
+      "gas:candidate-vibid:1001000112269": 283,
+      "gas:candidate-vibid:1001000136139": 58,
+      "gas:candidate-vibid:1001000190431": 14,
+      "gas:candidate-vibid:374300166793": 5,
+      "gas:candidate-vibid:374300166886": 254,
+      "gas:candidate-vibid:1001000121926": 181,
+      "gas:candidate-vibid:1001000202343": 9,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 101,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 119,
-      "Линев Александр Иванович": 47,
-      "Макеев Александр Викторович": 8,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 122,
-      "Свечников Петр Григорьевич": 43,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 69
+      "gas:candidate-vibid:374300166964": 101,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 119,
+      "gas:candidate-vibid:1001000136139": 47,
+      "gas:candidate-vibid:1001000190431": 8,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 122,
+      "gas:candidate-vibid:1001000121926": 43,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 113,
-      "Вавилов Иван Егорович": 14,
-      "Кузнецов Александр Владимирович": 149,
-      "Линев Александр Иванович": 30,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 119,
-      "Свечников Петр Григорьевич": 104,
-      "Скворцов Константин Васильевич": 10,
-      "Против всех": 65
+      "gas:candidate-vibid:374300166964": 113,
+      "gas:candidate-vibid:1001000217963": 14,
+      "gas:candidate-vibid:1001000112269": 149,
+      "gas:candidate-vibid:1001000136139": 30,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 119,
+      "gas:candidate-vibid:1001000121926": 104,
+      "gas:candidate-vibid:1001000202343": 10,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 278,
-      "Вавилов Иван Егорович": 13,
-      "Кузнецов Александр Владимирович": 256,
-      "Линев Александр Иванович": 64,
-      "Макеев Александр Викторович": 25,
-      "Моссаковский Сергей Юрьевич": 10,
-      "Панов Валерий Викторович": 251,
-      "Свечников Петр Григорьевич": 147,
-      "Скворцов Константин Васильевич": 6,
-      "Против всех": 124
+      "gas:candidate-vibid:374300166964": 278,
+      "gas:candidate-vibid:1001000217963": 13,
+      "gas:candidate-vibid:1001000112269": 256,
+      "gas:candidate-vibid:1001000136139": 64,
+      "gas:candidate-vibid:1001000190431": 25,
+      "gas:candidate-vibid:374300166793": 10,
+      "gas:candidate-vibid:374300166886": 251,
+      "gas:candidate-vibid:1001000121926": 147,
+      "gas:candidate-vibid:1001000202343": 6,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 146,
-      "Вавилов Иван Егорович": 18,
-      "Кузнецов Александр Владимирович": 94,
-      "Линев Александр Иванович": 54,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 159,
-      "Свечников Петр Григорьевич": 119,
-      "Скворцов Константин Васильевич": 11,
-      "Против всех": 91
+      "gas:candidate-vibid:374300166964": 146,
+      "gas:candidate-vibid:1001000217963": 18,
+      "gas:candidate-vibid:1001000112269": 94,
+      "gas:candidate-vibid:1001000136139": 54,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 159,
+      "gas:candidate-vibid:1001000121926": 119,
+      "gas:candidate-vibid:1001000202343": 11,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 90,
-      "Вавилов Иван Егорович": 14,
-      "Кузнецов Александр Владимирович": 70,
-      "Линев Александр Иванович": 24,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 0,
-      "Панов Валерий Викторович": 127,
-      "Свечников Петр Григорьевич": 75,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 63
+      "gas:candidate-vibid:374300166964": 90,
+      "gas:candidate-vibid:1001000217963": 14,
+      "gas:candidate-vibid:1001000112269": 70,
+      "gas:candidate-vibid:1001000136139": 24,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 0,
+      "gas:candidate-vibid:374300166886": 127,
+      "gas:candidate-vibid:1001000121926": 75,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 152,
-      "Вавилов Иван Егорович": 9,
-      "Кузнецов Александр Владимирович": 85,
-      "Линев Александр Иванович": 39,
-      "Макеев Александр Викторович": 18,
-      "Моссаковский Сергей Юрьевич": 7,
-      "Панов Валерий Викторович": 219,
-      "Свечников Петр Григорьевич": 78,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 74
+      "gas:candidate-vibid:374300166964": 152,
+      "gas:candidate-vibid:1001000217963": 9,
+      "gas:candidate-vibid:1001000112269": 85,
+      "gas:candidate-vibid:1001000136139": 39,
+      "gas:candidate-vibid:1001000190431": 18,
+      "gas:candidate-vibid:374300166793": 7,
+      "gas:candidate-vibid:374300166886": 219,
+      "gas:candidate-vibid:1001000121926": 78,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 105,
-      "Вавилов Иван Егорович": 5,
-      "Кузнецов Александр Владимирович": 120,
-      "Линев Александр Иванович": 28,
-      "Макеев Александр Викторович": 6,
-      "Моссаковский Сергей Юрьевич": 2,
-      "Панов Валерий Викторович": 186,
-      "Свечников Петр Григорьевич": 107,
-      "Скворцов Константин Васильевич": 1,
-      "Против всех": 54
+      "gas:candidate-vibid:374300166964": 105,
+      "gas:candidate-vibid:1001000217963": 5,
+      "gas:candidate-vibid:1001000112269": 120,
+      "gas:candidate-vibid:1001000136139": 28,
+      "gas:candidate-vibid:1001000190431": 6,
+      "gas:candidate-vibid:374300166793": 2,
+      "gas:candidate-vibid:374300166886": 186,
+      "gas:candidate-vibid:1001000121926": 107,
+      "gas:candidate-vibid:1001000202343": 1,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 194,
-      "Вавилов Иван Егорович": 17,
-      "Кузнецов Александр Владимирович": 108,
-      "Линев Александр Иванович": 59,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 222,
-      "Свечников Петр Григорьевич": 71,
-      "Скворцов Константин Васильевич": 7,
-      "Против всех": 132
+      "gas:candidate-vibid:374300166964": 194,
+      "gas:candidate-vibid:1001000217963": 17,
+      "gas:candidate-vibid:1001000112269": 108,
+      "gas:candidate-vibid:1001000136139": 59,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 222,
+      "gas:candidate-vibid:1001000121926": 71,
+      "gas:candidate-vibid:1001000202343": 7,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 117,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 59,
-      "Линев Александр Иванович": 32,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 207,
-      "Свечников Петр Григорьевич": 55,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:374300166964": 117,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 59,
+      "gas:candidate-vibid:1001000136139": 32,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 207,
+      "gas:candidate-vibid:1001000121926": 55,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 192,
-      "Вавилов Иван Егорович": 12,
-      "Кузнецов Александр Владимирович": 113,
-      "Линев Александр Иванович": 32,
-      "Макеев Александр Викторович": 9,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 391,
-      "Свечников Петр Григорьевич": 133,
-      "Скворцов Константин Васильевич": 10,
-      "Против всех": 93
+      "gas:candidate-vibid:374300166964": 192,
+      "gas:candidate-vibid:1001000217963": 12,
+      "gas:candidate-vibid:1001000112269": 113,
+      "gas:candidate-vibid:1001000136139": 32,
+      "gas:candidate-vibid:1001000190431": 9,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 391,
+      "gas:candidate-vibid:1001000121926": 133,
+      "gas:candidate-vibid:1001000202343": 10,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 224,
-      "Вавилов Иван Егорович": 22,
-      "Кузнецов Александр Владимирович": 168,
-      "Линев Александр Иванович": 71,
-      "Макеев Александр Викторович": 14,
-      "Моссаковский Сергей Юрьевич": 8,
-      "Панов Валерий Викторович": 284,
-      "Свечников Петр Григорьевич": 155,
-      "Скворцов Константин Васильевич": 16,
-      "Против всех": 138
+      "gas:candidate-vibid:374300166964": 224,
+      "gas:candidate-vibid:1001000217963": 22,
+      "gas:candidate-vibid:1001000112269": 168,
+      "gas:candidate-vibid:1001000136139": 71,
+      "gas:candidate-vibid:1001000190431": 14,
+      "gas:candidate-vibid:374300166793": 8,
+      "gas:candidate-vibid:374300166886": 284,
+      "gas:candidate-vibid:1001000121926": 155,
+      "gas:candidate-vibid:1001000202343": 16,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 143,
-      "Вавилов Иван Егорович": 7,
-      "Кузнецов Александр Владимирович": 72,
-      "Линев Александр Иванович": 29,
-      "Макеев Александр Викторович": 12,
-      "Моссаковский Сергей Юрьевич": 8,
-      "Панов Валерий Викторович": 187,
-      "Свечников Петр Григорьевич": 91,
-      "Скворцов Константин Васильевич": 9,
-      "Против всех": 56
+      "gas:candidate-vibid:374300166964": 143,
+      "gas:candidate-vibid:1001000217963": 7,
+      "gas:candidate-vibid:1001000112269": 72,
+      "gas:candidate-vibid:1001000136139": 29,
+      "gas:candidate-vibid:1001000190431": 12,
+      "gas:candidate-vibid:374300166793": 8,
+      "gas:candidate-vibid:374300166886": 187,
+      "gas:candidate-vibid:1001000121926": 91,
+      "gas:candidate-vibid:1001000202343": 9,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 54,
-      "Вавилов Иван Егорович": 8,
-      "Кузнецов Александр Владимирович": 38,
-      "Линев Александр Иванович": 20,
-      "Макеев Александр Викторович": 1,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 178,
-      "Свечников Петр Григорьевич": 29,
-      "Скворцов Константин Васильевич": 2,
-      "Против всех": 38
+      "gas:candidate-vibid:374300166964": 54,
+      "gas:candidate-vibid:1001000217963": 8,
+      "gas:candidate-vibid:1001000112269": 38,
+      "gas:candidate-vibid:1001000136139": 20,
+      "gas:candidate-vibid:1001000190431": 1,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 178,
+      "gas:candidate-vibid:1001000121926": 29,
+      "gas:candidate-vibid:1001000202343": 2,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 107,
-      "Вавилов Иван Егорович": 10,
-      "Кузнецов Александр Владимирович": 33,
-      "Линев Александр Иванович": 10,
-      "Макеев Александр Викторович": 5,
-      "Моссаковский Сергей Юрьевич": 1,
-      "Панов Валерий Викторович": 133,
-      "Свечников Петр Григорьевич": 46,
-      "Скворцов Константин Васильевич": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:374300166964": 107,
+      "gas:candidate-vibid:1001000217963": 10,
+      "gas:candidate-vibid:1001000112269": 33,
+      "gas:candidate-vibid:1001000136139": 10,
+      "gas:candidate-vibid:1001000190431": 5,
+      "gas:candidate-vibid:374300166793": 1,
+      "gas:candidate-vibid:374300166886": 133,
+      "gas:candidate-vibid:1001000121926": 46,
+      "gas:candidate-vibid:1001000202343": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 440,
-      "Вавилов Иван Егорович": 39,
-      "Кузнецов Александр Владимирович": 234,
-      "Линев Александр Иванович": 54,
-      "Макеев Александр Викторович": 13,
-      "Моссаковский Сергей Юрьевич": 6,
-      "Панов Валерий Викторович": 273,
-      "Свечников Петр Григорьевич": 216,
-      "Скворцов Константин Васильевич": 11,
-      "Против всех": 157
+      "gas:candidate-vibid:374300166964": 440,
+      "gas:candidate-vibid:1001000217963": 39,
+      "gas:candidate-vibid:1001000112269": 234,
+      "gas:candidate-vibid:1001000136139": 54,
+      "gas:candidate-vibid:1001000190431": 13,
+      "gas:candidate-vibid:374300166793": 6,
+      "gas:candidate-vibid:374300166886": 273,
+      "gas:candidate-vibid:1001000121926": 216,
+      "gas:candidate-vibid:1001000202343": 11,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 468,
-      "Вавилов Иван Егорович": 40,
-      "Кузнецов Александр Владимирович": 195,
-      "Линев Александр Иванович": 61,
-      "Макеев Александр Викторович": 21,
-      "Моссаковский Сергей Юрьевич": 8,
-      "Панов Валерий Викторович": 231,
-      "Свечников Петр Григорьевич": 194,
-      "Скворцов Константин Васильевич": 15,
-      "Против всех": 193
+      "gas:candidate-vibid:374300166964": 468,
+      "gas:candidate-vibid:1001000217963": 40,
+      "gas:candidate-vibid:1001000112269": 195,
+      "gas:candidate-vibid:1001000136139": 61,
+      "gas:candidate-vibid:1001000190431": 21,
+      "gas:candidate-vibid:374300166793": 8,
+      "gas:candidate-vibid:374300166886": 231,
+      "gas:candidate-vibid:1001000121926": 194,
+      "gas:candidate-vibid:1001000202343": 15,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_74_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белоусова Евгения Валентиновна": 208,
-      "Вавилов Иван Егорович": 18,
-      "Кузнецов Александр Владимирович": 72,
-      "Линев Александр Иванович": 33,
-      "Макеев Александр Викторович": 10,
-      "Моссаковский Сергей Юрьевич": 3,
-      "Панов Валерий Викторович": 89,
-      "Свечников Петр Григорьевич": 74,
-      "Скворцов Константин Васильевич": 4,
-      "Против всех": 98
+      "gas:candidate-vibid:374300166964": 208,
+      "gas:candidate-vibid:1001000217963": 18,
+      "gas:candidate-vibid:1001000112269": 72,
+      "gas:candidate-vibid:1001000136139": 33,
+      "gas:candidate-vibid:1001000190431": 10,
+      "gas:candidate-vibid:374300166793": 3,
+      "gas:candidate-vibid:374300166886": 89,
+      "gas:candidate-vibid:1001000121926": 74,
+      "gas:candidate-vibid:1001000202343": 4,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=743001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=374300167476&region=0&sub_region=0&type=429",

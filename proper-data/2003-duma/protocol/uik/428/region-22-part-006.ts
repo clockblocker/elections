@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 126,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 64,
-      "Серов Сергей Николаевич": 279,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000225912": 126,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 64,
+      "gas:candidate-vibid:1001000217901": 279,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466656&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 19,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 3,
-      "Серов Сергей Николаевич": 34,
-      "Торопкин Юрий Георгиевич": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225912": 19,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 3,
+      "gas:candidate-vibid:1001000217901": 34,
+      "gas:candidate-vibid:1001000136013": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466656&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 58,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 35,
-      "Серов Сергей Николаевич": 77,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000225912": 58,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 35,
+      "gas:candidate-vibid:1001000217901": 77,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466656&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 89,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 21,
-      "Серов Сергей Николаевич": 95,
-      "Торопкин Юрий Георгиевич": 16,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225912": 89,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 21,
+      "gas:candidate-vibid:1001000217901": 95,
+      "gas:candidate-vibid:1001000136013": 16,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004026&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466656&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 142,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 31,
-      "Серов Сергей Николаевич": 135,
-      "Торопкин Юрий Георгиевич": 91,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000225912": 142,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 31,
+      "gas:candidate-vibid:1001000217901": 135,
+      "gas:candidate-vibid:1001000136013": 91,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 56,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 15,
-      "Серов Сергей Николаевич": 87,
-      "Торопкин Юрий Георгиевич": 37,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225912": 56,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 15,
+      "gas:candidate-vibid:1001000217901": 87,
+      "gas:candidate-vibid:1001000136013": 37,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 15,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 1,
-      "Сарычев Алексей Николаевич": 2,
-      "Серов Сергей Николаевич": 23,
-      "Торопкин Юрий Георгиевич": 22,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225912": 15,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 1,
+      "gas:candidate-vibid:322300466761": 2,
+      "gas:candidate-vibid:1001000217901": 23,
+      "gas:candidate-vibid:1001000136013": 22,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 194,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 41,
-      "Серов Сергей Николаевич": 186,
-      "Торопкин Юрий Георгиевич": 195,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000225912": 194,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 41,
+      "gas:candidate-vibid:1001000217901": 186,
+      "gas:candidate-vibid:1001000136013": 195,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 115,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 31,
-      "Серов Сергей Николаевич": 26,
-      "Торопкин Юрий Георгиевич": 41,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225912": 115,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 31,
+      "gas:candidate-vibid:1001000217901": 26,
+      "gas:candidate-vibid:1001000136013": 41,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 208,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 39,
-      "Сарычев Алексей Николаевич": 17,
-      "Серов Сергей Николаевич": 124,
-      "Торопкин Юрий Георгиевич": 146,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000225912": 208,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 39,
+      "gas:candidate-vibid:322300466761": 17,
+      "gas:candidate-vibid:1001000217901": 124,
+      "gas:candidate-vibid:1001000136013": 146,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 64,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 13,
-      "Серов Сергей Николаевич": 16,
-      "Торопкин Юрий Георгиевич": 22,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000225912": 64,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 13,
+      "gas:candidate-vibid:1001000217901": 16,
+      "gas:candidate-vibid:1001000136013": 22,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 82,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 11,
-      "Серов Сергей Николаевич": 95,
-      "Торопкин Юрий Георгиевич": 113,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000225912": 82,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 11,
+      "gas:candidate-vibid:1001000217901": 95,
+      "gas:candidate-vibid:1001000136013": 113,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 143,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 18,
-      "Сарычев Алексей Николаевич": 21,
-      "Серов Сергей Николаевич": 158,
-      "Торопкин Юрий Георгиевич": 77,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000225912": 143,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 18,
+      "gas:candidate-vibid:322300466761": 21,
+      "gas:candidate-vibid:1001000217901": 158,
+      "gas:candidate-vibid:1001000136013": 77,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 54,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 6,
-      "Серов Сергей Николаевич": 10,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000225912": 54,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 6,
+      "gas:candidate-vibid:1001000217901": 10,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 10,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 11,
-      "Серов Сергей Николаевич": 24,
-      "Торопкин Юрий Георгиевич": 44,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000225912": 10,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 11,
+      "gas:candidate-vibid:1001000217901": 24,
+      "gas:candidate-vibid:1001000136013": 44,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 272,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 19,
-      "Сарычев Алексей Николаевич": 17,
-      "Серов Сергей Николаевич": 196,
-      "Торопкин Юрий Георгиевич": 564,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225912": 272,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 19,
+      "gas:candidate-vibid:322300466761": 17,
+      "gas:candidate-vibid:1001000217901": 196,
+      "gas:candidate-vibid:1001000136013": 564,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 289,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 7,
-      "Сарычев Алексей Николаевич": 21,
-      "Серов Сергей Николаевич": 164,
-      "Торопкин Юрий Георгиевич": 556,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000225912": 289,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 7,
+      "gas:candidate-vibid:322300466761": 21,
+      "gas:candidate-vibid:1001000217901": 164,
+      "gas:candidate-vibid:1001000136013": 556,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 54,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 16,
-      "Торопкин Юрий Георгиевич": 44,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000225912": 54,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 16,
+      "gas:candidate-vibid:1001000136013": 44,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 46,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 2,
-      "Серов Сергей Николаевич": 54,
-      "Торопкин Юрий Георгиевич": 357,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 46,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 2,
+      "gas:candidate-vibid:1001000217901": 54,
+      "gas:candidate-vibid:1001000136013": 357,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 31,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 20,
-      "Торопкин Юрий Георгиевич": 103,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000225912": 31,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 20,
+      "gas:candidate-vibid:1001000136013": 103,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 10,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 3,
-      "Серов Сергей Николаевич": 15,
-      "Торопкин Юрий Георгиевич": 26,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000225912": 10,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 3,
+      "gas:candidate-vibid:1001000217901": 15,
+      "gas:candidate-vibid:1001000136013": 26,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 63,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 3,
-      "Серов Сергей Николаевич": 124,
-      "Торопкин Юрий Георгиевич": 47,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000225912": 63,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 3,
+      "gas:candidate-vibid:1001000217901": 124,
+      "gas:candidate-vibid:1001000136013": 47,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 74,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 8,
-      "Серов Сергей Николаевич": 44,
-      "Торопкин Юрий Георгиевич": 92,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 74,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 8,
+      "gas:candidate-vibid:1001000217901": 44,
+      "gas:candidate-vibid:1001000136013": 92,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 103,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 14,
-      "Сарычев Алексей Николаевич": 22,
-      "Серов Сергей Николаевич": 83,
-      "Торопкин Юрий Георгиевич": 96,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225912": 103,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 14,
+      "gas:candidate-vibid:322300466761": 22,
+      "gas:candidate-vibid:1001000217901": 83,
+      "gas:candidate-vibid:1001000136013": 96,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 36,
-      "Колотов Владимир Павлович": 11,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 6,
-      "Сарычев Алексей Николаевич": 35,
-      "Серов Сергей Николаевич": 62,
-      "Торопкин Юрий Георгиевич": 23,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000225912": 36,
+      "gas:candidate-vibid:1001000113907": 11,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 6,
+      "gas:candidate-vibid:322300466761": 35,
+      "gas:candidate-vibid:1001000217901": 62,
+      "gas:candidate-vibid:1001000136013": 23,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 201,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 24,
-      "Сарычев Алексей Николаевич": 2,
-      "Серов Сергей Николаевич": 56,
-      "Торопкин Юрий Георгиевич": 126,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000225912": 201,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 24,
+      "gas:candidate-vibid:322300466761": 2,
+      "gas:candidate-vibid:1001000217901": 56,
+      "gas:candidate-vibid:1001000136013": 126,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004027&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466657&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 526,
-      "Колотов Владимир Павлович": 25,
-      "Лабазников Сергей Борисович": 34,
-      "Поддубная Анна Филипповна": 53,
-      "Сарычев Алексей Николаевич": 431,
-      "Серов Сергей Николаевич": 507,
-      "Торопкин Юрий Георгиевич": 56,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000225912": 526,
+      "gas:candidate-vibid:1001000113907": 25,
+      "gas:candidate-vibid:1001000193907": 34,
+      "gas:candidate-vibid:1001000195042": 53,
+      "gas:candidate-vibid:322300466761": 431,
+      "gas:candidate-vibid:1001000217901": 507,
+      "gas:candidate-vibid:1001000136013": 56,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 215,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 39,
-      "Сарычев Алексей Николаевич": 221,
-      "Серов Сергей Николаевич": 248,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000225912": 215,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 39,
+      "gas:candidate-vibid:322300466761": 221,
+      "gas:candidate-vibid:1001000217901": 248,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 78,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 8,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 75,
-      "Серов Сергей Николаевич": 62,
-      "Торопкин Юрий Георгиевич": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000225912": 78,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 8,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 75,
+      "gas:candidate-vibid:1001000217901": 62,
+      "gas:candidate-vibid:1001000136013": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 242,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 7,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 65,
-      "Серов Сергей Николаевич": 270,
-      "Торопкин Юрий Георгиевич": 13,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000225912": 242,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 7,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 65,
+      "gas:candidate-vibid:1001000217901": 270,
+      "gas:candidate-vibid:1001000136013": 13,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 395,
-      "Колотов Владимир Павлович": 12,
-      "Лабазников Сергей Борисович": 18,
-      "Поддубная Анна Филипповна": 41,
-      "Сарычев Алексей Николаевич": 140,
-      "Серов Сергей Николаевич": 178,
-      "Торопкин Юрий Георгиевич": 35,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000225912": 395,
+      "gas:candidate-vibid:1001000113907": 12,
+      "gas:candidate-vibid:1001000193907": 18,
+      "gas:candidate-vibid:1001000195042": 41,
+      "gas:candidate-vibid:322300466761": 140,
+      "gas:candidate-vibid:1001000217901": 178,
+      "gas:candidate-vibid:1001000136013": 35,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 64,
-      "Колотов Владимир Павлович": 4,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 62,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225912": 64,
+      "gas:candidate-vibid:1001000113907": 4,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 62,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 113,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 15,
-      "Серов Сергей Николаевич": 45,
-      "Торопкин Юрий Георгиевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225912": 113,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 15,
+      "gas:candidate-vibid:1001000217901": 45,
+      "gas:candidate-vibid:1001000136013": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 170,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 43,
-      "Серов Сергей Николаевич": 104,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 170,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 43,
+      "gas:candidate-vibid:1001000217901": 104,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 87,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 23,
-      "Серов Сергей Николаевич": 66,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000225912": 87,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 23,
+      "gas:candidate-vibid:1001000217901": 66,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 174,
-      "Колотов Владимир Павлович": 16,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 23,
-      "Сарычев Алексей Николаевич": 138,
-      "Серов Сергей Николаевич": 238,
-      "Торопкин Юрий Георгиевич": 25,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000225912": 174,
+      "gas:candidate-vibid:1001000113907": 16,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 23,
+      "gas:candidate-vibid:322300466761": 138,
+      "gas:candidate-vibid:1001000217901": 238,
+      "gas:candidate-vibid:1001000136013": 25,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 203,
-      "Колотов Владимир Павлович": 22,
-      "Лабазников Сергей Борисович": 9,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 144,
-      "Торопкин Юрий Георгиевич": 29,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225912": 203,
+      "gas:candidate-vibid:1001000113907": 22,
+      "gas:candidate-vibid:1001000193907": 9,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 144,
+      "gas:candidate-vibid:1001000136013": 29,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 29,
-      "Колотов Владимир Павлович": 3,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 12,
-      "Серов Сергей Николаевич": 16,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225912": 29,
+      "gas:candidate-vibid:1001000113907": 3,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 12,
+      "gas:candidate-vibid:1001000217901": 16,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 77,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 1,
-      "Поддубная Анна Филипповна": 2,
-      "Сарычев Алексей Николаевич": 22,
-      "Серов Сергей Николаевич": 70,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225912": 77,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 1,
+      "gas:candidate-vibid:1001000195042": 2,
+      "gas:candidate-vibid:322300466761": 22,
+      "gas:candidate-vibid:1001000217901": 70,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 133,
-      "Колотов Владимир Павлович": 8,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 77,
-      "Серов Сергей Николаевич": 297,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225912": 133,
+      "gas:candidate-vibid:1001000113907": 8,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 77,
+      "gas:candidate-vibid:1001000217901": 297,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 81,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 19,
-      "Серов Сергей Николаевич": 122,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225912": 81,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 19,
+      "gas:candidate-vibid:1001000217901": 122,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 35,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 3,
-      "Сарычев Алексей Николаевич": 15,
-      "Серов Сергей Николаевич": 42,
-      "Торопкин Юрий Георгиевич": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000225912": 35,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 3,
+      "gas:candidate-vibid:322300466761": 15,
+      "gas:candidate-vibid:1001000217901": 42,
+      "gas:candidate-vibid:1001000136013": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 159,
-      "Колотов Владимир Павлович": 23,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 32,
-      "Сарычев Алексей Николаевич": 51,
-      "Серов Сергей Николаевич": 213,
-      "Торопкин Юрий Георгиевич": 17,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225912": 159,
+      "gas:candidate-vibid:1001000113907": 23,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 32,
+      "gas:candidate-vibid:322300466761": 51,
+      "gas:candidate-vibid:1001000217901": 213,
+      "gas:candidate-vibid:1001000136013": 17,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 61,
-      "Колотов Владимир Павлович": 1,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 20,
-      "Серов Сергей Николаевич": 71,
-      "Торопкин Юрий Георгиевич": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000225912": 61,
+      "gas:candidate-vibid:1001000113907": 1,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 20,
+      "gas:candidate-vibid:1001000217901": 71,
+      "gas:candidate-vibid:1001000136013": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 179,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 12,
-      "Сарычев Алексей Николаевич": 18,
-      "Серов Сергей Николаевич": 84,
-      "Торопкин Юрий Георгиевич": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000225912": 179,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 12,
+      "gas:candidate-vibid:322300466761": 18,
+      "gas:candidate-vibid:1001000217901": 84,
+      "gas:candidate-vibid:1001000136013": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 38,
-      "Колотов Владимир Павлович": 2,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 9,
-      "Сарычев Алексей Николаевич": 9,
-      "Серов Сергей Николаевич": 37,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000225912": 38,
+      "gas:candidate-vibid:1001000113907": 2,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 9,
+      "gas:candidate-vibid:322300466761": 9,
+      "gas:candidate-vibid:1001000217901": 37,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 320,
-      "Колотов Владимир Павлович": 28,
-      "Лабазников Сергей Борисович": 17,
-      "Поддубная Анна Филипповна": 55,
-      "Сарычев Алексей Николаевич": 165,
-      "Серов Сергей Николаевич": 344,
-      "Торопкин Юрий Георгиевич": 24,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000225912": 320,
+      "gas:candidate-vibid:1001000113907": 28,
+      "gas:candidate-vibid:1001000193907": 17,
+      "gas:candidate-vibid:1001000195042": 55,
+      "gas:candidate-vibid:322300466761": 165,
+      "gas:candidate-vibid:1001000217901": 344,
+      "gas:candidate-vibid:1001000136013": 24,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004028&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466658&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 244,
-      "Колотов Владимир Павлович": 22,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 31,
-      "Сарычев Алексей Николаевич": 124,
-      "Серов Сергей Николаевич": 333,
-      "Торопкин Юрий Георгиевич": 44,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000225912": 244,
+      "gas:candidate-vibid:1001000113907": 22,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 31,
+      "gas:candidate-vibid:322300466761": 124,
+      "gas:candidate-vibid:1001000217901": 333,
+      "gas:candidate-vibid:1001000136013": 44,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 406,
-      "Колотов Владимир Павлович": 36,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 33,
-      "Сарычев Алексей Николаевич": 122,
-      "Серов Сергей Николаевич": 369,
-      "Торопкин Юрий Георгиевич": 49,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000225912": 406,
+      "gas:candidate-vibid:1001000113907": 36,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 33,
+      "gas:candidate-vibid:322300466761": 122,
+      "gas:candidate-vibid:1001000217901": 369,
+      "gas:candidate-vibid:1001000136013": 49,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 154,
-      "Колотов Владимир Павлович": 24,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 35,
-      "Сарычев Алексей Николаевич": 58,
-      "Серов Сергей Николаевич": 135,
-      "Торопкин Юрий Георгиевич": 65,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000225912": 154,
+      "gas:candidate-vibid:1001000113907": 24,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 35,
+      "gas:candidate-vibid:322300466761": 58,
+      "gas:candidate-vibid:1001000217901": 135,
+      "gas:candidate-vibid:1001000136013": 65,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 138,
-      "Колотов Владимир Павлович": 7,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 34,
-      "Серов Сергей Николаевич": 46,
-      "Торопкин Юрий Георгиевич": 18,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225912": 138,
+      "gas:candidate-vibid:1001000113907": 7,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 34,
+      "gas:candidate-vibid:1001000217901": 46,
+      "gas:candidate-vibid:1001000136013": 18,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 286,
-      "Колотов Владимир Павлович": 14,
-      "Лабазников Сергей Борисович": 4,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 123,
-      "Серов Сергей Николаевич": 163,
-      "Торопкин Юрий Георгиевич": 21,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000225912": 286,
+      "gas:candidate-vibid:1001000113907": 14,
+      "gas:candidate-vibid:1001000193907": 4,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 123,
+      "gas:candidate-vibid:1001000217901": 163,
+      "gas:candidate-vibid:1001000136013": 21,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 116,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 23,
-      "Серов Сергей Николаевич": 108,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000225912": 116,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 23,
+      "gas:candidate-vibid:1001000217901": 108,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 165,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 10,
-      "Поддубная Анна Филипповна": 30,
-      "Сарычев Алексей Николаевич": 40,
-      "Серов Сергей Николаевич": 338,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000225912": 165,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 10,
+      "gas:candidate-vibid:1001000195042": 30,
+      "gas:candidate-vibid:322300466761": 40,
+      "gas:candidate-vibid:1001000217901": 338,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 70,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 37,
-      "Серов Сергей Николаевич": 53,
-      "Торопкин Юрий Георгиевич": 14,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000225912": 70,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 37,
+      "gas:candidate-vibid:1001000217901": 53,
+      "gas:candidate-vibid:1001000136013": 14,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 152,
-      "Колотов Владимир Павлович": 6,
-      "Лабазников Сергей Борисович": 5,
-      "Поддубная Анна Филипповна": 10,
-      "Сарычев Алексей Николаевич": 90,
-      "Серов Сергей Николаевич": 69,
-      "Торопкин Юрий Георгиевич": 11,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000225912": 152,
+      "gas:candidate-vibid:1001000113907": 6,
+      "gas:candidate-vibid:1001000193907": 5,
+      "gas:candidate-vibid:1001000195042": 10,
+      "gas:candidate-vibid:322300466761": 90,
+      "gas:candidate-vibid:1001000217901": 69,
+      "gas:candidate-vibid:1001000136013": 11,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 140,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 13,
-      "Сарычев Алексей Николаевич": 50,
-      "Серов Сергей Николаевич": 122,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000225912": 140,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 13,
+      "gas:candidate-vibid:322300466761": 50,
+      "gas:candidate-vibid:1001000217901": 122,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 58,
-      "Колотов Владимир Павлович": 5,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 8,
-      "Сарычев Алексей Николаевич": 53,
-      "Серов Сергей Николаевич": 110,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000225912": 58,
+      "gas:candidate-vibid:1001000113907": 5,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 8,
+      "gas:candidate-vibid:322300466761": 53,
+      "gas:candidate-vibid:1001000217901": 110,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 123,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 17,
-      "Сарычев Алексей Николаевич": 56,
-      "Серов Сергей Николаевич": 63,
-      "Торопкин Юрий Георгиевич": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000225912": 123,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 17,
+      "gas:candidate-vibid:322300466761": 56,
+      "gas:candidate-vibid:1001000217901": 63,
+      "gas:candidate-vibid:1001000136013": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 139,
-      "Колотов Владимир Павлович": 10,
-      "Лабазников Сергей Борисович": 6,
-      "Поддубная Анна Филипповна": 27,
-      "Сарычев Алексей Николаевич": 28,
-      "Серов Сергей Николаевич": 297,
-      "Торопкин Юрий Георгиевич": 18,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000225912": 139,
+      "gas:candidate-vibid:1001000113907": 10,
+      "gas:candidate-vibid:1001000193907": 6,
+      "gas:candidate-vibid:1001000195042": 27,
+      "gas:candidate-vibid:322300466761": 28,
+      "gas:candidate-vibid:1001000217901": 297,
+      "gas:candidate-vibid:1001000136013": 18,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 151,
-      "Колотов Владимир Павлович": 15,
-      "Лабазников Сергей Борисович": 3,
-      "Поддубная Анна Филипповна": 16,
-      "Сарычев Алексей Николаевич": 49,
-      "Серов Сергей Николаевич": 328,
-      "Торопкин Юрий Георгиевич": 16,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000225912": 151,
+      "gas:candidate-vibid:1001000113907": 15,
+      "gas:candidate-vibid:1001000193907": 3,
+      "gas:candidate-vibid:1001000195042": 16,
+      "gas:candidate-vibid:322300466761": 49,
+      "gas:candidate-vibid:1001000217901": 328,
+      "gas:candidate-vibid:1001000136013": 16,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 22,
-      "Колотов Владимир Павлович": 0,
-      "Лабазников Сергей Борисович": 0,
-      "Поддубная Анна Филипповна": 5,
-      "Сарычев Алексей Николаевич": 38,
-      "Серов Сергей Николаевич": 99,
-      "Торопкин Юрий Георгиевич": 8,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000225912": 22,
+      "gas:candidate-vibid:1001000113907": 0,
+      "gas:candidate-vibid:1001000193907": 0,
+      "gas:candidate-vibid:1001000195042": 5,
+      "gas:candidate-vibid:322300466761": 38,
+      "gas:candidate-vibid:1001000217901": 99,
+      "gas:candidate-vibid:1001000136013": 8,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 55,
-      "Колотов Владимир Павлович": 9,
-      "Лабазников Сергей Борисович": 2,
-      "Поддубная Анна Филипповна": 4,
-      "Сарычев Алексей Николаевич": 33,
-      "Серов Сергей Николаевич": 62,
-      "Торопкин Юрий Георгиевич": 9,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000225912": 55,
+      "gas:candidate-vibid:1001000113907": 9,
+      "gas:candidate-vibid:1001000193907": 2,
+      "gas:candidate-vibid:1001000195042": 4,
+      "gas:candidate-vibid:322300466761": 33,
+      "gas:candidate-vibid:1001000217901": 62,
+      "gas:candidate-vibid:1001000136013": 9,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004029&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466659&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 628,
-      "Колотов Владимир Павлович": 19,
-      "Лабазников Сергей Борисович": 15,
-      "Поддубная Анна Филипповна": 149,
-      "Сарычев Алексей Николаевич": 240,
-      "Серов Сергей Николаевич": 252,
-      "Торопкин Юрий Георгиевич": 76,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000225912": 628,
+      "gas:candidate-vibid:1001000113907": 19,
+      "gas:candidate-vibid:1001000193907": 15,
+      "gas:candidate-vibid:1001000195042": 149,
+      "gas:candidate-vibid:322300466761": 240,
+      "gas:candidate-vibid:1001000217901": 252,
+      "gas:candidate-vibid:1001000136013": 76,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466660&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 534,
-      "Колотов Владимир Павлович": 18,
-      "Лабазников Сергей Борисович": 15,
-      "Поддубная Анна Филипповна": 76,
-      "Сарычев Алексей Николаевич": 189,
-      "Серов Сергей Николаевич": 417,
-      "Торопкин Юрий Георгиевич": 83,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000225912": 534,
+      "gas:candidate-vibid:1001000113907": 18,
+      "gas:candidate-vibid:1001000193907": 15,
+      "gas:candidate-vibid:1001000195042": 76,
+      "gas:candidate-vibid:322300466761": 189,
+      "gas:candidate-vibid:1001000217901": 417,
+      "gas:candidate-vibid:1001000136013": 83,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466660&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 479,
-      "Колотов Владимир Павлович": 34,
-      "Лабазников Сергей Борисович": 16,
-      "Поддубная Анна Филипповна": 94,
-      "Сарычев Алексей Николаевич": 207,
-      "Серов Сергей Николаевич": 203,
-      "Торопкин Юрий Георгиевич": 74,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000225912": 479,
+      "gas:candidate-vibid:1001000113907": 34,
+      "gas:candidate-vibid:1001000193907": 16,
+      "gas:candidate-vibid:1001000195042": 94,
+      "gas:candidate-vibid:322300466761": 207,
+      "gas:candidate-vibid:1001000217901": 203,
+      "gas:candidate-vibid:1001000136013": 74,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466660&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 707,
-      "Колотов Владимир Павлович": 37,
-      "Лабазников Сергей Борисович": 28,
-      "Поддубная Анна Филипповна": 88,
-      "Сарычев Алексей Николаевич": 240,
-      "Серов Сергей Николаевич": 261,
-      "Торопкин Юрий Георгиевич": 87,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000225912": 707,
+      "gas:candidate-vibid:1001000113907": 37,
+      "gas:candidate-vibid:1001000193907": 28,
+      "gas:candidate-vibid:1001000195042": 88,
+      "gas:candidate-vibid:322300466761": 240,
+      "gas:candidate-vibid:1001000217901": 261,
+      "gas:candidate-vibid:1001000136013": 87,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466660&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 546,
-      "Колотов Владимир Павлович": 27,
-      "Лабазников Сергей Борисович": 18,
-      "Поддубная Анна Филипповна": 113,
-      "Сарычев Алексей Николаевич": 195,
-      "Серов Сергей Николаевич": 195,
-      "Торопкин Юрий Георгиевич": 78,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000225912": 546,
+      "gas:candidate-vibid:1001000113907": 27,
+      "gas:candidate-vibid:1001000193907": 18,
+      "gas:candidate-vibid:1001000195042": 113,
+      "gas:candidate-vibid:322300466761": 195,
+      "gas:candidate-vibid:1001000217901": 195,
+      "gas:candidate-vibid:1001000136013": 78,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466660&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Кнорр Андрей Филиппович": 743,
-      "Колотов Владимир Павлович": 37,
-      "Лабазников Сергей Борисович": 21,
-      "Поддубная Анна Филипповна": 147,
-      "Сарычев Алексей Николаевич": 315,
-      "Серов Сергей Николаевич": 299,
-      "Торопкин Юрий Георгиевич": 87,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000225912": 743,
+      "gas:candidate-vibid:1001000113907": 37,
+      "gas:candidate-vibid:1001000193907": 21,
+      "gas:candidate-vibid:1001000195042": 147,
+      "gas:candidate-vibid:322300466761": 315,
+      "gas:candidate-vibid:1001000217901": 299,
+      "gas:candidate-vibid:1001000136013": 87,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223004030&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=322300466660&region=0&sub_region=0&type=429",
@@ -3975,13 +3975,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 222,
-      "Заполев Михаил Михайлович": 55,
-      "Левин Игорь Викторович": 25,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 15,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131383": 222,
+      "gas:candidate-vibid:1001000121808": 55,
+      "gas:candidate-vibid:1001000113906": 25,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 15,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4031,13 +4031,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 118,
-      "Заполев Михаил Михайлович": 37,
-      "Левин Игорь Викторович": 4,
-      "Никулин Владимир Иванович": 4,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 118,
+      "gas:candidate-vibid:1001000121808": 37,
+      "gas:candidate-vibid:1001000113906": 4,
+      "gas:candidate-vibid:1001000187990": 4,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4087,13 +4087,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 17,
-      "Заполев Михаил Михайлович": 5,
-      "Левин Игорь Викторович": 11,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131383": 17,
+      "gas:candidate-vibid:1001000121808": 5,
+      "gas:candidate-vibid:1001000113906": 11,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4143,13 +4143,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 93,
-      "Заполев Михаил Михайлович": 4,
-      "Левин Игорь Викторович": 7,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 14,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 93,
+      "gas:candidate-vibid:1001000121808": 4,
+      "gas:candidate-vibid:1001000113906": 7,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 14,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4199,13 +4199,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 75,
-      "Заполев Михаил Михайлович": 13,
-      "Левин Игорь Викторович": 21,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 11,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131383": 75,
+      "gas:candidate-vibid:1001000121808": 13,
+      "gas:candidate-vibid:1001000113906": 21,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 11,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4255,13 +4255,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 141,
-      "Заполев Михаил Михайлович": 34,
-      "Левин Игорь Викторович": 23,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 22,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 141,
+      "gas:candidate-vibid:1001000121808": 34,
+      "gas:candidate-vibid:1001000113906": 23,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 22,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4311,13 +4311,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 110,
-      "Заполев Михаил Михайлович": 106,
-      "Левин Игорь Викторович": 48,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131383": 110,
+      "gas:candidate-vibid:1001000121808": 106,
+      "gas:candidate-vibid:1001000113906": 48,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4367,13 +4367,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 112,
-      "Заполев Михаил Михайлович": 62,
-      "Левин Игорь Викторович": 17,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 14,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000131383": 112,
+      "gas:candidate-vibid:1001000121808": 62,
+      "gas:candidate-vibid:1001000113906": 17,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 14,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4423,13 +4423,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 68,
-      "Заполев Михаил Михайлович": 8,
-      "Левин Игорь Викторович": 4,
-      "Никулин Владимир Иванович": 4,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131383": 68,
+      "gas:candidate-vibid:1001000121808": 8,
+      "gas:candidate-vibid:1001000113906": 4,
+      "gas:candidate-vibid:1001000187990": 4,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4479,13 +4479,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 366,
-      "Заполев Михаил Михайлович": 92,
-      "Левин Игорь Викторович": 42,
-      "Никулин Владимир Иванович": 42,
-      "Струкчинский Владимир Зигмонтович": 17,
-      "Чащин Борис Александрович": 47,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131383": 366,
+      "gas:candidate-vibid:1001000121808": 92,
+      "gas:candidate-vibid:1001000113906": 42,
+      "gas:candidate-vibid:1001000187990": 42,
+      "gas:candidate-vibid:1001000112185": 17,
+      "gas:candidate-vibid:1001000136010": 47,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4535,13 +4535,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 69,
-      "Заполев Михаил Михайлович": 3,
-      "Левин Игорь Викторович": 2,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 13,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131383": 69,
+      "gas:candidate-vibid:1001000121808": 3,
+      "gas:candidate-vibid:1001000113906": 2,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 13,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4591,13 +4591,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 162,
-      "Заполев Михаил Михайлович": 29,
-      "Левин Игорь Викторович": 23,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131383": 162,
+      "gas:candidate-vibid:1001000121808": 29,
+      "gas:candidate-vibid:1001000113906": 23,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4647,13 +4647,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 327,
-      "Заполев Михаил Михайлович": 86,
-      "Левин Игорь Викторович": 31,
-      "Никулин Владимир Иванович": 29,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 28,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000131383": 327,
+      "gas:candidate-vibid:1001000121808": 86,
+      "gas:candidate-vibid:1001000113906": 31,
+      "gas:candidate-vibid:1001000187990": 29,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 28,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4703,13 +4703,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 102,
-      "Заполев Михаил Михайлович": 27,
-      "Левин Игорь Викторович": 30,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131383": 102,
+      "gas:candidate-vibid:1001000121808": 27,
+      "gas:candidate-vibid:1001000113906": 30,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4759,13 +4759,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 66,
-      "Заполев Михаил Михайлович": 15,
-      "Левин Игорь Викторович": 6,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131383": 66,
+      "gas:candidate-vibid:1001000121808": 15,
+      "gas:candidate-vibid:1001000113906": 6,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4815,13 +4815,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 102,
-      "Заполев Михаил Михайлович": 23,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 4,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 19,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131383": 102,
+      "gas:candidate-vibid:1001000121808": 23,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 4,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 19,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4871,13 +4871,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 190,
-      "Заполев Михаил Михайлович": 38,
-      "Левин Игорь Викторович": 23,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 26,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000131383": 190,
+      "gas:candidate-vibid:1001000121808": 38,
+      "gas:candidate-vibid:1001000113906": 23,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 26,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4927,13 +4927,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 178,
-      "Заполев Михаил Михайлович": 45,
-      "Левин Игорь Викторович": 41,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 27,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 178,
+      "gas:candidate-vibid:1001000121808": 45,
+      "gas:candidate-vibid:1001000113906": 41,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 27,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -4983,13 +4983,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 49,
-      "Заполев Михаил Михайлович": 9,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 7,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131383": 49,
+      "gas:candidate-vibid:1001000121808": 9,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 7,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5039,13 +5039,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 117,
-      "Заполев Михаил Михайлович": 69,
-      "Левин Игорь Викторович": 142,
-      "Никулин Владимир Иванович": 17,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 20,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000131383": 117,
+      "gas:candidate-vibid:1001000121808": 69,
+      "gas:candidate-vibid:1001000113906": 142,
+      "gas:candidate-vibid:1001000187990": 17,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 20,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5095,13 +5095,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 248,
-      "Заполев Михаил Михайлович": 79,
-      "Левин Игорь Викторович": 45,
-      "Никулин Владимир Иванович": 22,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 26,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000131383": 248,
+      "gas:candidate-vibid:1001000121808": 79,
+      "gas:candidate-vibid:1001000113906": 45,
+      "gas:candidate-vibid:1001000187990": 22,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 26,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5151,13 +5151,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 229,
-      "Заполев Михаил Михайлович": 38,
-      "Левин Игорь Викторович": 42,
-      "Никулин Владимир Иванович": 14,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 21,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000131383": 229,
+      "gas:candidate-vibid:1001000121808": 38,
+      "gas:candidate-vibid:1001000113906": 42,
+      "gas:candidate-vibid:1001000187990": 14,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 21,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5207,13 +5207,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 52,
-      "Заполев Михаил Михайлович": 4,
-      "Левин Игорь Викторович": 2,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131383": 52,
+      "gas:candidate-vibid:1001000121808": 4,
+      "gas:candidate-vibid:1001000113906": 2,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5263,13 +5263,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 66,
-      "Заполев Михаил Михайлович": 5,
-      "Левин Игорь Викторович": 14,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131383": 66,
+      "gas:candidate-vibid:1001000121808": 5,
+      "gas:candidate-vibid:1001000113906": 14,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5319,13 +5319,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 54,
-      "Заполев Михаил Михайлович": 23,
-      "Левин Игорь Викторович": 18,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131383": 54,
+      "gas:candidate-vibid:1001000121808": 23,
+      "gas:candidate-vibid:1001000113906": 18,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5375,13 +5375,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 58,
-      "Заполев Михаил Михайлович": 7,
-      "Левин Игорь Викторович": 19,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131383": 58,
+      "gas:candidate-vibid:1001000121808": 7,
+      "gas:candidate-vibid:1001000113906": 19,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5431,13 +5431,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 183,
-      "Заполев Михаил Михайлович": 43,
-      "Левин Игорь Викторович": 20,
-      "Никулин Владимир Иванович": 24,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 32,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131383": 183,
+      "gas:candidate-vibid:1001000121808": 43,
+      "gas:candidate-vibid:1001000113906": 20,
+      "gas:candidate-vibid:1001000187990": 24,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 32,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5487,13 +5487,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 292,
-      "Заполев Михаил Михайлович": 7,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 8,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131383": 292,
+      "gas:candidate-vibid:1001000121808": 7,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 8,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5543,13 +5543,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 248,
-      "Заполев Михаил Михайлович": 69,
-      "Левин Игорь Викторович": 48,
-      "Никулин Владимир Иванович": 32,
-      "Струкчинский Владимир Зигмонтович": 13,
-      "Чащин Борис Александрович": 17,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131383": 248,
+      "gas:candidate-vibid:1001000121808": 69,
+      "gas:candidate-vibid:1001000113906": 48,
+      "gas:candidate-vibid:1001000187990": 32,
+      "gas:candidate-vibid:1001000112185": 13,
+      "gas:candidate-vibid:1001000136010": 17,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5599,13 +5599,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 39,
-      "Заполев Михаил Михайлович": 6,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 4,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 10,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 39,
+      "gas:candidate-vibid:1001000121808": 6,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 4,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 10,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5655,13 +5655,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 248,
-      "Заполев Михаил Михайлович": 69,
-      "Левин Игорь Викторович": 25,
-      "Никулин Владимир Иванович": 10,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 18,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131383": 248,
+      "gas:candidate-vibid:1001000121808": 69,
+      "gas:candidate-vibid:1001000113906": 25,
+      "gas:candidate-vibid:1001000187990": 10,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 18,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5711,13 +5711,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 239,
-      "Заполев Михаил Михайлович": 55,
-      "Левин Игорь Викторович": 16,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131383": 239,
+      "gas:candidate-vibid:1001000121808": 55,
+      "gas:candidate-vibid:1001000113906": 16,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5767,13 +5767,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 169,
-      "Заполев Михаил Михайлович": 27,
-      "Левин Игорь Викторович": 22,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 26,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131383": 169,
+      "gas:candidate-vibid:1001000121808": 27,
+      "gas:candidate-vibid:1001000113906": 22,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 26,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5823,13 +5823,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 191,
-      "Заполев Михаил Михайлович": 38,
-      "Левин Игорь Викторович": 32,
-      "Никулин Владимир Иванович": 8,
-      "Струкчинский Владимир Зигмонтович": 10,
-      "Чащин Борис Александрович": 9,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 191,
+      "gas:candidate-vibid:1001000121808": 38,
+      "gas:candidate-vibid:1001000113906": 32,
+      "gas:candidate-vibid:1001000187990": 8,
+      "gas:candidate-vibid:1001000112185": 10,
+      "gas:candidate-vibid:1001000136010": 9,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5879,13 +5879,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 179,
-      "Заполев Михаил Михайлович": 110,
-      "Левин Игорь Викторович": 18,
-      "Никулин Владимир Иванович": 10,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 23,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131383": 179,
+      "gas:candidate-vibid:1001000121808": 110,
+      "gas:candidate-vibid:1001000113906": 18,
+      "gas:candidate-vibid:1001000187990": 10,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 23,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5935,13 +5935,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 158,
-      "Заполев Михаил Михайлович": 102,
-      "Левин Игорь Викторович": 20,
-      "Никулин Владимир Иванович": 15,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 21,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131383": 158,
+      "gas:candidate-vibid:1001000121808": 102,
+      "gas:candidate-vibid:1001000113906": 20,
+      "gas:candidate-vibid:1001000187990": 15,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 21,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -5991,13 +5991,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 178,
-      "Заполев Михаил Михайлович": 22,
-      "Левин Игорь Викторович": 57,
-      "Никулин Владимир Иванович": 10,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 16,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131383": 178,
+      "gas:candidate-vibid:1001000121808": 22,
+      "gas:candidate-vibid:1001000113906": 57,
+      "gas:candidate-vibid:1001000187990": 10,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 16,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366753&region=0&sub_region=0&type=429",
@@ -6047,13 +6047,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 374,
-      "Заполев Михаил Михайлович": 133,
-      "Левин Игорь Викторович": 50,
-      "Никулин Владимир Иванович": 39,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 39,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000131383": 374,
+      "gas:candidate-vibid:1001000121808": 133,
+      "gas:candidate-vibid:1001000113906": 50,
+      "gas:candidate-vibid:1001000187990": 39,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 39,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6103,13 +6103,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 188,
-      "Заполев Михаил Михайлович": 49,
-      "Левин Игорь Викторович": 39,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 16,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131383": 188,
+      "gas:candidate-vibid:1001000121808": 49,
+      "gas:candidate-vibid:1001000113906": 39,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 16,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6159,13 +6159,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 284,
-      "Заполев Михаил Михайлович": 153,
-      "Левин Игорь Викторович": 56,
-      "Никулин Владимир Иванович": 27,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 41,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000131383": 284,
+      "gas:candidate-vibid:1001000121808": 153,
+      "gas:candidate-vibid:1001000113906": 56,
+      "gas:candidate-vibid:1001000187990": 27,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 41,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6215,13 +6215,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 299,
-      "Заполев Михаил Михайлович": 139,
-      "Левин Игорь Викторович": 41,
-      "Никулин Владимир Иванович": 19,
-      "Струкчинский Владимир Зигмонтович": 10,
-      "Чащин Борис Александрович": 46,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 299,
+      "gas:candidate-vibid:1001000121808": 139,
+      "gas:candidate-vibid:1001000113906": 41,
+      "gas:candidate-vibid:1001000187990": 19,
+      "gas:candidate-vibid:1001000112185": 10,
+      "gas:candidate-vibid:1001000136010": 46,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6271,13 +6271,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 373,
-      "Заполев Михаил Михайлович": 144,
-      "Левин Игорь Викторович": 64,
-      "Никулин Владимир Иванович": 32,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 54,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000131383": 373,
+      "gas:candidate-vibid:1001000121808": 144,
+      "gas:candidate-vibid:1001000113906": 64,
+      "gas:candidate-vibid:1001000187990": 32,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 54,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6327,13 +6327,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 371,
-      "Заполев Михаил Михайлович": 155,
-      "Левин Игорь Викторович": 64,
-      "Никулин Владимир Иванович": 43,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 51,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000131383": 371,
+      "gas:candidate-vibid:1001000121808": 155,
+      "gas:candidate-vibid:1001000113906": 64,
+      "gas:candidate-vibid:1001000187990": 43,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 51,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6383,13 +6383,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 377,
-      "Заполев Михаил Михайлович": 169,
-      "Левин Игорь Викторович": 88,
-      "Никулин Владимир Иванович": 29,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 29,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000131383": 377,
+      "gas:candidate-vibid:1001000121808": 169,
+      "gas:candidate-vibid:1001000113906": 88,
+      "gas:candidate-vibid:1001000187990": 29,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 29,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6439,13 +6439,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 416,
-      "Заполев Михаил Михайлович": 181,
-      "Левин Игорь Викторович": 60,
-      "Никулин Владимир Иванович": 38,
-      "Струкчинский Владимир Зигмонтович": 7,
-      "Чащин Борис Александрович": 45,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000131383": 416,
+      "gas:candidate-vibid:1001000121808": 181,
+      "gas:candidate-vibid:1001000113906": 60,
+      "gas:candidate-vibid:1001000187990": 38,
+      "gas:candidate-vibid:1001000112185": 7,
+      "gas:candidate-vibid:1001000136010": 45,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6495,13 +6495,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 488,
-      "Заполев Михаил Михайлович": 260,
-      "Левин Игорь Викторович": 117,
-      "Никулин Владимир Иванович": 47,
-      "Струкчинский Владимир Зигмонтович": 17,
-      "Чащин Борис Александрович": 43,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000131383": 488,
+      "gas:candidate-vibid:1001000121808": 260,
+      "gas:candidate-vibid:1001000113906": 117,
+      "gas:candidate-vibid:1001000187990": 47,
+      "gas:candidate-vibid:1001000112185": 17,
+      "gas:candidate-vibid:1001000136010": 43,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6551,13 +6551,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 325,
-      "Заполев Михаил Михайлович": 216,
-      "Левин Игорь Викторович": 94,
-      "Никулин Владимир Иванович": 23,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 50,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000131383": 325,
+      "gas:candidate-vibid:1001000121808": 216,
+      "gas:candidate-vibid:1001000113906": 94,
+      "gas:candidate-vibid:1001000187990": 23,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 50,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6607,13 +6607,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 661,
-      "Заполев Михаил Михайлович": 365,
-      "Левин Игорь Викторович": 87,
-      "Никулин Владимир Иванович": 49,
-      "Струкчинский Владимир Зигмонтович": 15,
-      "Чащин Борис Александрович": 55,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000131383": 661,
+      "gas:candidate-vibid:1001000121808": 365,
+      "gas:candidate-vibid:1001000113906": 87,
+      "gas:candidate-vibid:1001000187990": 49,
+      "gas:candidate-vibid:1001000112185": 15,
+      "gas:candidate-vibid:1001000136010": 55,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6663,13 +6663,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 203,
-      "Заполев Михаил Михайлович": 87,
-      "Левин Игорь Викторович": 24,
-      "Никулин Владимир Иванович": 17,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 21,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131383": 203,
+      "gas:candidate-vibid:1001000121808": 87,
+      "gas:candidate-vibid:1001000113906": 24,
+      "gas:candidate-vibid:1001000187990": 17,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 21,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6719,13 +6719,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 77,
-      "Заполев Михаил Михайлович": 31,
-      "Левин Игорь Викторович": 10,
-      "Никулин Владимир Иванович": 4,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131383": 77,
+      "gas:candidate-vibid:1001000121808": 31,
+      "gas:candidate-vibid:1001000113906": 10,
+      "gas:candidate-vibid:1001000187990": 4,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6775,13 +6775,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 485,
-      "Заполев Михаил Михайлович": 190,
-      "Левин Игорь Викторович": 138,
-      "Никулин Владимир Иванович": 73,
-      "Струкчинский Владимир Зигмонтович": 24,
-      "Чащин Борис Александрович": 104,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000131383": 485,
+      "gas:candidate-vibid:1001000121808": 190,
+      "gas:candidate-vibid:1001000113906": 138,
+      "gas:candidate-vibid:1001000187990": 73,
+      "gas:candidate-vibid:1001000112185": 24,
+      "gas:candidate-vibid:1001000136010": 104,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6831,13 +6831,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 267,
-      "Заполев Михаил Михайлович": 105,
-      "Левин Игорь Викторович": 87,
-      "Никулин Владимир Иванович": 60,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 87,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000131383": 267,
+      "gas:candidate-vibid:1001000121808": 105,
+      "gas:candidate-vibid:1001000113906": 87,
+      "gas:candidate-vibid:1001000187990": 60,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 87,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366754&region=0&sub_region=0&type=429",
@@ -6887,13 +6887,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 434,
-      "Заполев Михаил Михайлович": 103,
-      "Левин Игорь Викторович": 32,
-      "Никулин Владимир Иванович": 37,
-      "Струкчинский Владимир Зигмонтович": 53,
-      "Чащин Борис Александрович": 39,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000131383": 434,
+      "gas:candidate-vibid:1001000121808": 103,
+      "gas:candidate-vibid:1001000113906": 32,
+      "gas:candidate-vibid:1001000187990": 37,
+      "gas:candidate-vibid:1001000112185": 53,
+      "gas:candidate-vibid:1001000136010": 39,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -6943,13 +6943,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 324,
-      "Заполев Михаил Михайлович": 114,
-      "Левин Игорь Викторович": 43,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 37,
-      "Чащин Борис Александрович": 40,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000131383": 324,
+      "gas:candidate-vibid:1001000121808": 114,
+      "gas:candidate-vibid:1001000113906": 43,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 37,
+      "gas:candidate-vibid:1001000136010": 40,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -6999,13 +6999,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 469,
-      "Заполев Михаил Михайлович": 208,
-      "Левин Игорь Викторович": 31,
-      "Никулин Владимир Иванович": 35,
-      "Струкчинский Владимир Зигмонтович": 32,
-      "Чащин Борис Александрович": 41,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000131383": 469,
+      "gas:candidate-vibid:1001000121808": 208,
+      "gas:candidate-vibid:1001000113906": 31,
+      "gas:candidate-vibid:1001000187990": 35,
+      "gas:candidate-vibid:1001000112185": 32,
+      "gas:candidate-vibid:1001000136010": 41,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7055,13 +7055,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 376,
-      "Заполев Михаил Михайлович": 115,
-      "Левин Игорь Викторович": 33,
-      "Никулин Владимир Иванович": 39,
-      "Струкчинский Владимир Зигмонтович": 36,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000131383": 376,
+      "gas:candidate-vibid:1001000121808": 115,
+      "gas:candidate-vibid:1001000113906": 33,
+      "gas:candidate-vibid:1001000187990": 39,
+      "gas:candidate-vibid:1001000112185": 36,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7111,13 +7111,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 261,
-      "Заполев Михаил Михайлович": 102,
-      "Левин Игорь Викторович": 35,
-      "Никулин Владимир Иванович": 26,
-      "Струкчинский Владимир Зигмонтович": 20,
-      "Чащин Борис Александрович": 38,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000131383": 261,
+      "gas:candidate-vibid:1001000121808": 102,
+      "gas:candidate-vibid:1001000113906": 35,
+      "gas:candidate-vibid:1001000187990": 26,
+      "gas:candidate-vibid:1001000112185": 20,
+      "gas:candidate-vibid:1001000136010": 38,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7167,13 +7167,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 476,
-      "Заполев Михаил Михайлович": 114,
-      "Левин Игорь Викторович": 36,
-      "Никулин Владимир Иванович": 27,
-      "Струкчинский Владимир Зигмонтович": 43,
-      "Чащин Борис Александрович": 61,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000131383": 476,
+      "gas:candidate-vibid:1001000121808": 114,
+      "gas:candidate-vibid:1001000113906": 36,
+      "gas:candidate-vibid:1001000187990": 27,
+      "gas:candidate-vibid:1001000112185": 43,
+      "gas:candidate-vibid:1001000136010": 61,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7223,13 +7223,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 304,
-      "Заполев Михаил Михайлович": 95,
-      "Левин Игорь Викторович": 22,
-      "Никулин Владимир Иванович": 35,
-      "Струкчинский Владимир Зигмонтович": 24,
-      "Чащин Борис Александрович": 31,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 304,
+      "gas:candidate-vibid:1001000121808": 95,
+      "gas:candidate-vibid:1001000113906": 22,
+      "gas:candidate-vibid:1001000187990": 35,
+      "gas:candidate-vibid:1001000112185": 24,
+      "gas:candidate-vibid:1001000136010": 31,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7279,13 +7279,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 243,
-      "Заполев Михаил Михайлович": 56,
-      "Левин Игорь Викторович": 22,
-      "Никулин Владимир Иванович": 39,
-      "Струкчинский Владимир Зигмонтович": 23,
-      "Чащин Борис Александрович": 43,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 243,
+      "gas:candidate-vibid:1001000121808": 56,
+      "gas:candidate-vibid:1001000113906": 22,
+      "gas:candidate-vibid:1001000187990": 39,
+      "gas:candidate-vibid:1001000112185": 23,
+      "gas:candidate-vibid:1001000136010": 43,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7335,13 +7335,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 1,
-      "Заполев Михаил Михайлович": 0,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 1,
+      "gas:candidate-vibid:1001000121808": 0,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7391,13 +7391,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 1,
-      "Заполев Михаил Михайлович": 0,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 1,
+      "gas:candidate-vibid:1001000121808": 0,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7447,13 +7447,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 5,
-      "Заполев Михаил Михайлович": 1,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131383": 5,
+      "gas:candidate-vibid:1001000121808": 1,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7503,13 +7503,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 5,
-      "Заполев Михаил Михайлович": 1,
-      "Левин Игорь Викторович": 1,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 5,
+      "gas:candidate-vibid:1001000121808": 1,
+      "gas:candidate-vibid:1001000113906": 1,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7559,13 +7559,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 1,
-      "Заполев Михаил Михайлович": 5,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 1,
+      "gas:candidate-vibid:1001000121808": 5,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7615,13 +7615,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 3,
-      "Заполев Михаил Михайлович": 0,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 3,
+      "gas:candidate-vibid:1001000121808": 0,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7671,13 +7671,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 5,
-      "Заполев Михаил Михайлович": 1,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 5,
+      "gas:candidate-vibid:1001000121808": 1,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366755&region=0&sub_region=0&type=429",
@@ -7727,13 +7727,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 373,
-      "Заполев Михаил Михайлович": 163,
-      "Левин Игорь Викторович": 19,
-      "Никулин Владимир Иванович": 33,
-      "Струкчинский Владимир Зигмонтович": 13,
-      "Чащин Борис Александрович": 42,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131383": 373,
+      "gas:candidate-vibid:1001000121808": 163,
+      "gas:candidate-vibid:1001000113906": 19,
+      "gas:candidate-vibid:1001000187990": 33,
+      "gas:candidate-vibid:1001000112185": 13,
+      "gas:candidate-vibid:1001000136010": 42,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -7783,13 +7783,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 520,
-      "Заполев Михаил Михайлович": 280,
-      "Левин Игорь Викторович": 20,
-      "Никулин Владимир Иванович": 17,
-      "Струкчинский Владимир Зигмонтович": 7,
-      "Чащин Борис Александрович": 21,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 520,
+      "gas:candidate-vibid:1001000121808": 280,
+      "gas:candidate-vibid:1001000113906": 20,
+      "gas:candidate-vibid:1001000187990": 17,
+      "gas:candidate-vibid:1001000112185": 7,
+      "gas:candidate-vibid:1001000136010": 21,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -7839,13 +7839,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 487,
-      "Заполев Михаил Михайлович": 249,
-      "Левин Игорь Викторович": 18,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 15,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131383": 487,
+      "gas:candidate-vibid:1001000121808": 249,
+      "gas:candidate-vibid:1001000113906": 18,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 15,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -7895,13 +7895,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 396,
-      "Заполев Михаил Михайлович": 233,
-      "Левин Игорь Викторович": 11,
-      "Никулин Владимир Иванович": 16,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 17,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131383": 396,
+      "gas:candidate-vibid:1001000121808": 233,
+      "gas:candidate-vibid:1001000113906": 11,
+      "gas:candidate-vibid:1001000187990": 16,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 17,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -7951,13 +7951,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 200,
-      "Заполев Михаил Михайлович": 233,
-      "Левин Игорь Викторович": 21,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131383": 200,
+      "gas:candidate-vibid:1001000121808": 233,
+      "gas:candidate-vibid:1001000113906": 21,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -8007,13 +8007,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 292,
-      "Заполев Михаил Михайлович": 85,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 7,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131383": 292,
+      "gas:candidate-vibid:1001000121808": 85,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 7,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -8063,13 +8063,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 409,
-      "Заполев Михаил Михайлович": 201,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 20,
-      "Струкчинский Владимир Зигмонтович": 10,
-      "Чащин Борис Александрович": 16,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131383": 409,
+      "gas:candidate-vibid:1001000121808": 201,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 20,
+      "gas:candidate-vibid:1001000112185": 10,
+      "gas:candidate-vibid:1001000136010": 16,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -8119,13 +8119,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 349,
-      "Заполев Михаил Михайлович": 309,
-      "Левин Игорь Викторович": 18,
-      "Никулин Владимир Иванович": 14,
-      "Струкчинский Владимир Зигмонтович": 22,
-      "Чащин Борис Александрович": 27,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131383": 349,
+      "gas:candidate-vibid:1001000121808": 309,
+      "gas:candidate-vibid:1001000113906": 18,
+      "gas:candidate-vibid:1001000187990": 14,
+      "gas:candidate-vibid:1001000112185": 22,
+      "gas:candidate-vibid:1001000136010": 27,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -8175,13 +8175,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 508,
-      "Заполев Михаил Михайлович": 75,
-      "Левин Игорь Викторович": 17,
-      "Никулин Владимир Иванович": 9,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 22,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131383": 508,
+      "gas:candidate-vibid:1001000121808": 75,
+      "gas:candidate-vibid:1001000113906": 17,
+      "gas:candidate-vibid:1001000187990": 9,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 22,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -8231,13 +8231,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 118,
-      "Заполев Михаил Михайлович": 56,
-      "Левин Игорь Викторович": 6,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131383": 118,
+      "gas:candidate-vibid:1001000121808": 56,
+      "gas:candidate-vibid:1001000113906": 6,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366756&region=0&sub_region=0&type=429",
@@ -8287,13 +8287,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 158,
-      "Заполев Михаил Михайлович": 83,
-      "Левин Игорь Викторович": 4,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131383": 158,
+      "gas:candidate-vibid:1001000121808": 83,
+      "gas:candidate-vibid:1001000113906": 4,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8343,13 +8343,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 139,
-      "Заполев Михаил Михайлович": 21,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131383": 139,
+      "gas:candidate-vibid:1001000121808": 21,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8399,13 +8399,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 312,
-      "Заполев Михаил Михайлович": 103,
-      "Левин Игорь Викторович": 32,
-      "Никулин Владимир Иванович": 9,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 18,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131383": 312,
+      "gas:candidate-vibid:1001000121808": 103,
+      "gas:candidate-vibid:1001000113906": 32,
+      "gas:candidate-vibid:1001000187990": 9,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 18,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8455,13 +8455,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 279,
-      "Заполев Михаил Михайлович": 66,
-      "Левин Игорь Викторович": 12,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131383": 279,
+      "gas:candidate-vibid:1001000121808": 66,
+      "gas:candidate-vibid:1001000113906": 12,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8511,13 +8511,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 232,
-      "Заполев Михаил Михайлович": 231,
-      "Левин Игорь Викторович": 31,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 31,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131383": 232,
+      "gas:candidate-vibid:1001000121808": 231,
+      "gas:candidate-vibid:1001000113906": 31,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 31,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8567,13 +8567,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 198,
-      "Заполев Михаил Михайлович": 46,
-      "Левин Игорь Викторович": 15,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131383": 198,
+      "gas:candidate-vibid:1001000121808": 46,
+      "gas:candidate-vibid:1001000113906": 15,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8623,13 +8623,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 613,
-      "Заполев Михаил Михайлович": 232,
-      "Левин Игорь Викторович": 41,
-      "Никулин Владимир Иванович": 35,
-      "Струкчинский Владимир Зигмонтович": 12,
-      "Чащин Борис Александрович": 28,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000131383": 613,
+      "gas:candidate-vibid:1001000121808": 232,
+      "gas:candidate-vibid:1001000113906": 41,
+      "gas:candidate-vibid:1001000187990": 35,
+      "gas:candidate-vibid:1001000112185": 12,
+      "gas:candidate-vibid:1001000136010": 28,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8679,13 +8679,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 940,
-      "Заполев Михаил Михайлович": 342,
-      "Левин Игорь Викторович": 57,
-      "Никулин Владимир Иванович": 52,
-      "Струкчинский Владимир Зигмонтович": 10,
-      "Чащин Борис Александрович": 62,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000131383": 940,
+      "gas:candidate-vibid:1001000121808": 342,
+      "gas:candidate-vibid:1001000113906": 57,
+      "gas:candidate-vibid:1001000187990": 52,
+      "gas:candidate-vibid:1001000112185": 10,
+      "gas:candidate-vibid:1001000136010": 62,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8735,13 +8735,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 275,
-      "Заполев Михаил Михайлович": 139,
-      "Левин Игорь Викторович": 26,
-      "Никулин Владимир Иванович": 34,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 11,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131383": 275,
+      "gas:candidate-vibid:1001000121808": 139,
+      "gas:candidate-vibid:1001000113906": 26,
+      "gas:candidate-vibid:1001000187990": 34,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 11,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8791,13 +8791,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 181,
-      "Заполев Михаил Михайлович": 32,
-      "Левин Игорь Викторович": 7,
-      "Никулин Владимир Иванович": 10,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131383": 181,
+      "gas:candidate-vibid:1001000121808": 32,
+      "gas:candidate-vibid:1001000113906": 7,
+      "gas:candidate-vibid:1001000187990": 10,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8847,13 +8847,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 524,
-      "Заполев Михаил Михайлович": 174,
-      "Левин Игорь Викторович": 58,
-      "Никулин Владимир Иванович": 30,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 25,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131383": 524,
+      "gas:candidate-vibid:1001000121808": 174,
+      "gas:candidate-vibid:1001000113906": 58,
+      "gas:candidate-vibid:1001000187990": 30,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 25,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8903,13 +8903,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 381,
-      "Заполев Михаил Михайлович": 94,
-      "Левин Игорь Викторович": 30,
-      "Никулин Владимир Иванович": 17,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 37,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 381,
+      "gas:candidate-vibid:1001000121808": 94,
+      "gas:candidate-vibid:1001000113906": 30,
+      "gas:candidate-vibid:1001000187990": 17,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 37,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366757&region=0&sub_region=0&type=429",
@@ -8959,13 +8959,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 611,
-      "Заполев Михаил Михайлович": 115,
-      "Левин Игорь Викторович": 113,
-      "Никулин Владимир Иванович": 49,
-      "Струкчинский Владимир Зигмонтович": 23,
-      "Чащин Борис Александрович": 61,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000131383": 611,
+      "gas:candidate-vibid:1001000121808": 115,
+      "gas:candidate-vibid:1001000113906": 113,
+      "gas:candidate-vibid:1001000187990": 49,
+      "gas:candidate-vibid:1001000112185": 23,
+      "gas:candidate-vibid:1001000136010": 61,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9015,13 +9015,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 84,
-      "Заполев Михаил Михайлович": 35,
-      "Левин Игорь Викторович": 30,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 7,
-      "Чащин Борис Александрович": 23,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131383": 84,
+      "gas:candidate-vibid:1001000121808": 35,
+      "gas:candidate-vibid:1001000113906": 30,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 7,
+      "gas:candidate-vibid:1001000136010": 23,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9071,13 +9071,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 300,
-      "Заполев Михаил Михайлович": 125,
-      "Левин Игорь Викторович": 53,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 12,
-      "Чащин Борис Александрович": 41,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000131383": 300,
+      "gas:candidate-vibid:1001000121808": 125,
+      "gas:candidate-vibid:1001000113906": 53,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 12,
+      "gas:candidate-vibid:1001000136010": 41,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9127,13 +9127,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 78,
-      "Заполев Михаил Михайлович": 13,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131383": 78,
+      "gas:candidate-vibid:1001000121808": 13,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9183,13 +9183,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 41,
-      "Заполев Михаил Михайлович": 20,
-      "Левин Игорь Викторович": 12,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131383": 41,
+      "gas:candidate-vibid:1001000121808": 20,
+      "gas:candidate-vibid:1001000113906": 12,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9239,13 +9239,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 80,
-      "Заполев Михаил Михайлович": 41,
-      "Левин Игорь Викторович": 7,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 6,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131383": 80,
+      "gas:candidate-vibid:1001000121808": 41,
+      "gas:candidate-vibid:1001000113906": 7,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 6,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9295,13 +9295,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 253,
-      "Заполев Михаил Михайлович": 118,
-      "Левин Игорь Викторович": 40,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 24,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131383": 253,
+      "gas:candidate-vibid:1001000121808": 118,
+      "gas:candidate-vibid:1001000113906": 40,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 24,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9351,13 +9351,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 23,
-      "Заполев Михаил Михайлович": 63,
-      "Левин Игорь Викторович": 4,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131383": 23,
+      "gas:candidate-vibid:1001000121808": 63,
+      "gas:candidate-vibid:1001000113906": 4,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9407,13 +9407,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 129,
-      "Заполев Михаил Михайлович": 7,
-      "Левин Игорь Викторович": 12,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 11,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131383": 129,
+      "gas:candidate-vibid:1001000121808": 7,
+      "gas:candidate-vibid:1001000113906": 12,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 11,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9463,13 +9463,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 117,
-      "Заполев Михаил Михайлович": 65,
-      "Левин Игорь Викторович": 21,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131383": 117,
+      "gas:candidate-vibid:1001000121808": 65,
+      "gas:candidate-vibid:1001000113906": 21,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9519,13 +9519,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 56,
-      "Заполев Михаил Михайлович": 4,
-      "Левин Игорь Викторович": 1,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131383": 56,
+      "gas:candidate-vibid:1001000121808": 4,
+      "gas:candidate-vibid:1001000113906": 1,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9575,13 +9575,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 290,
-      "Заполев Михаил Михайлович": 126,
-      "Левин Игорь Викторович": 54,
-      "Никулин Владимир Иванович": 20,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 38,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000131383": 290,
+      "gas:candidate-vibid:1001000121808": 126,
+      "gas:candidate-vibid:1001000113906": 54,
+      "gas:candidate-vibid:1001000187990": 20,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 38,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9631,13 +9631,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 57,
-      "Заполев Михаил Михайлович": 29,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131383": 57,
+      "gas:candidate-vibid:1001000121808": 29,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9687,13 +9687,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 46,
-      "Заполев Михаил Михайлович": 43,
-      "Левин Игорь Викторович": 5,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131383": 46,
+      "gas:candidate-vibid:1001000121808": 43,
+      "gas:candidate-vibid:1001000113906": 5,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9743,13 +9743,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 300,
-      "Заполев Михаил Михайлович": 98,
-      "Левин Игорь Викторович": 78,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 10,
-      "Чащин Борис Александрович": 44,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000131383": 300,
+      "gas:candidate-vibid:1001000121808": 98,
+      "gas:candidate-vibid:1001000113906": 78,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 10,
+      "gas:candidate-vibid:1001000136010": 44,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9799,13 +9799,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 23,
-      "Заполев Михаил Михайлович": 1,
-      "Левин Игорь Викторович": 19,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131383": 23,
+      "gas:candidate-vibid:1001000121808": 1,
+      "gas:candidate-vibid:1001000113906": 19,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9855,13 +9855,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 264,
-      "Заполев Михаил Михайлович": 57,
-      "Левин Игорь Викторович": 103,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 40,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 264,
+      "gas:candidate-vibid:1001000121808": 57,
+      "gas:candidate-vibid:1001000113906": 103,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 40,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9911,13 +9911,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 195,
-      "Заполев Михаил Михайлович": 100,
-      "Левин Игорь Викторович": 25,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000131383": 195,
+      "gas:candidate-vibid:1001000121808": 100,
+      "gas:candidate-vibid:1001000113906": 25,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -9967,13 +9967,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 133,
-      "Заполев Михаил Михайлович": 32,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 10,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 16,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131383": 133,
+      "gas:candidate-vibid:1001000121808": 32,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 10,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 16,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366758&region=0&sub_region=0&type=429",
@@ -10023,13 +10023,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 383,
-      "Заполев Михаил Михайлович": 113,
-      "Левин Игорь Викторович": 56,
-      "Никулин Владимир Иванович": 24,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 27,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000131383": 383,
+      "gas:candidate-vibid:1001000121808": 113,
+      "gas:candidate-vibid:1001000113906": 56,
+      "gas:candidate-vibid:1001000187990": 24,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 27,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10079,13 +10079,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 331,
-      "Заполев Михаил Михайлович": 100,
-      "Левин Игорь Викторович": 49,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 24,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 331,
+      "gas:candidate-vibid:1001000121808": 100,
+      "gas:candidate-vibid:1001000113906": 49,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 24,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10135,13 +10135,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 316,
-      "Заполев Михаил Михайлович": 68,
-      "Левин Игорь Викторович": 60,
-      "Никулин Владимир Иванович": 17,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 34,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131383": 316,
+      "gas:candidate-vibid:1001000121808": 68,
+      "gas:candidate-vibid:1001000113906": 60,
+      "gas:candidate-vibid:1001000187990": 17,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 34,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10191,13 +10191,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 382,
-      "Заполев Михаил Михайлович": 120,
-      "Левин Игорь Викторович": 76,
-      "Никулин Владимир Иванович": 19,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 24,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131383": 382,
+      "gas:candidate-vibid:1001000121808": 120,
+      "gas:candidate-vibid:1001000113906": 76,
+      "gas:candidate-vibid:1001000187990": 19,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 24,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10247,13 +10247,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 411,
-      "Заполев Михаил Михайлович": 114,
-      "Левин Игорь Викторович": 72,
-      "Никулин Владимир Иванович": 27,
-      "Струкчинский Владимир Зигмонтович": 13,
-      "Чащин Борис Александрович": 31,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000131383": 411,
+      "gas:candidate-vibid:1001000121808": 114,
+      "gas:candidate-vibid:1001000113906": 72,
+      "gas:candidate-vibid:1001000187990": 27,
+      "gas:candidate-vibid:1001000112185": 13,
+      "gas:candidate-vibid:1001000136010": 31,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10303,13 +10303,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 354,
-      "Заполев Михаил Михайлович": 83,
-      "Левин Игорь Викторович": 87,
-      "Никулин Владимир Иванович": 22,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000131383": 354,
+      "gas:candidate-vibid:1001000121808": 83,
+      "gas:candidate-vibid:1001000113906": 87,
+      "gas:candidate-vibid:1001000187990": 22,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10359,13 +10359,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 305,
-      "Заполев Михаил Михайлович": 96,
-      "Левин Игорь Викторович": 45,
-      "Никулин Владимир Иванович": 8,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 37,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000131383": 305,
+      "gas:candidate-vibid:1001000121808": 96,
+      "gas:candidate-vibid:1001000113906": 45,
+      "gas:candidate-vibid:1001000187990": 8,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 37,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10415,13 +10415,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 385,
-      "Заполев Михаил Михайлович": 91,
-      "Левин Игорь Викторович": 71,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 21,
-      "Чащин Борис Александрович": 28,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000131383": 385,
+      "gas:candidate-vibid:1001000121808": 91,
+      "gas:candidate-vibid:1001000113906": 71,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 21,
+      "gas:candidate-vibid:1001000136010": 28,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10471,13 +10471,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 116,
-      "Заполев Михаил Михайлович": 5,
-      "Левин Игорь Викторович": 5,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 17,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131383": 116,
+      "gas:candidate-vibid:1001000121808": 5,
+      "gas:candidate-vibid:1001000113906": 5,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 17,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366759&region=0&sub_region=0&type=429",
@@ -10527,13 +10527,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 672,
-      "Заполев Михаил Михайлович": 170,
-      "Левин Игорь Викторович": 37,
-      "Никулин Владимир Иванович": 32,
-      "Струкчинский Владимир Зигмонтович": 25,
-      "Чащин Борис Александрович": 65,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000131383": 672,
+      "gas:candidate-vibid:1001000121808": 170,
+      "gas:candidate-vibid:1001000113906": 37,
+      "gas:candidate-vibid:1001000187990": 32,
+      "gas:candidate-vibid:1001000112185": 25,
+      "gas:candidate-vibid:1001000136010": 65,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10583,13 +10583,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 839,
-      "Заполев Михаил Михайлович": 298,
-      "Левин Игорь Викторович": 45,
-      "Никулин Владимир Иванович": 55,
-      "Струкчинский Владимир Зигмонтович": 59,
-      "Чащин Борис Александрович": 212,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000131383": 839,
+      "gas:candidate-vibid:1001000121808": 298,
+      "gas:candidate-vibid:1001000113906": 45,
+      "gas:candidate-vibid:1001000187990": 55,
+      "gas:candidate-vibid:1001000112185": 59,
+      "gas:candidate-vibid:1001000136010": 212,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10639,13 +10639,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 115,
-      "Заполев Михаил Михайлович": 10,
-      "Левин Игорь Викторович": 6,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 22,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131383": 115,
+      "gas:candidate-vibid:1001000121808": 10,
+      "gas:candidate-vibid:1001000113906": 6,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 22,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10695,13 +10695,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 47,
-      "Заполев Михаил Михайлович": 35,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 27,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131383": 47,
+      "gas:candidate-vibid:1001000121808": 35,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 27,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10751,13 +10751,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 455,
-      "Заполев Михаил Михайлович": 115,
-      "Левин Игорь Викторович": 19,
-      "Никулин Владимир Иванович": 30,
-      "Струкчинский Владимир Зигмонтович": 21,
-      "Чащин Борис Александрович": 61,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131383": 455,
+      "gas:candidate-vibid:1001000121808": 115,
+      "gas:candidate-vibid:1001000113906": 19,
+      "gas:candidate-vibid:1001000187990": 30,
+      "gas:candidate-vibid:1001000112185": 21,
+      "gas:candidate-vibid:1001000136010": 61,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10807,13 +10807,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 373,
-      "Заполев Михаил Михайлович": 99,
-      "Левин Игорь Викторович": 27,
-      "Никулин Владимир Иванович": 39,
-      "Струкчинский Владимир Зигмонтович": 28,
-      "Чащин Борис Александрович": 68,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000131383": 373,
+      "gas:candidate-vibid:1001000121808": 99,
+      "gas:candidate-vibid:1001000113906": 27,
+      "gas:candidate-vibid:1001000187990": 39,
+      "gas:candidate-vibid:1001000112185": 28,
+      "gas:candidate-vibid:1001000136010": 68,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10863,13 +10863,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 302,
-      "Заполев Михаил Михайлович": 61,
-      "Левин Игорь Викторович": 30,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 32,
-      "Чащин Борис Александрович": 47,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000131383": 302,
+      "gas:candidate-vibid:1001000121808": 61,
+      "gas:candidate-vibid:1001000113906": 30,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 32,
+      "gas:candidate-vibid:1001000136010": 47,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10919,13 +10919,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 379,
-      "Заполев Михаил Михайлович": 241,
-      "Левин Игорь Викторович": 29,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 17,
-      "Чащин Борис Александрович": 78,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000131383": 379,
+      "gas:candidate-vibid:1001000121808": 241,
+      "gas:candidate-vibid:1001000113906": 29,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 17,
+      "gas:candidate-vibid:1001000136010": 78,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -10975,13 +10975,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 114,
-      "Заполев Михаил Михайлович": 43,
-      "Левин Игорь Викторович": 6,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 4,
-      "Чащин Борис Александрович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131383": 114,
+      "gas:candidate-vibid:1001000121808": 43,
+      "gas:candidate-vibid:1001000113906": 6,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 4,
+      "gas:candidate-vibid:1001000136010": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -11031,13 +11031,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 146,
-      "Заполев Михаил Михайлович": 13,
-      "Левин Игорь Викторович": 10,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131383": 146,
+      "gas:candidate-vibid:1001000121808": 13,
+      "gas:candidate-vibid:1001000113906": 10,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -11087,13 +11087,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 786,
-      "Заполев Михаил Михайлович": 194,
-      "Левин Игорь Викторович": 49,
-      "Никулин Владимир Иванович": 34,
-      "Струкчинский Владимир Зигмонтович": 48,
-      "Чащин Борис Александрович": 107,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000131383": 786,
+      "gas:candidate-vibid:1001000121808": 194,
+      "gas:candidate-vibid:1001000113906": 49,
+      "gas:candidate-vibid:1001000187990": 34,
+      "gas:candidate-vibid:1001000112185": 48,
+      "gas:candidate-vibid:1001000136010": 107,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -11143,13 +11143,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 475,
-      "Заполев Михаил Михайлович": 111,
-      "Левин Игорь Викторович": 38,
-      "Никулин Владимир Иванович": 38,
-      "Струкчинский Владимир Зигмонтович": 25,
-      "Чащин Борис Александрович": 57,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000131383": 475,
+      "gas:candidate-vibid:1001000121808": 111,
+      "gas:candidate-vibid:1001000113906": 38,
+      "gas:candidate-vibid:1001000187990": 38,
+      "gas:candidate-vibid:1001000112185": 25,
+      "gas:candidate-vibid:1001000136010": 57,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -11199,13 +11199,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 199,
-      "Заполев Михаил Михайлович": 162,
-      "Левин Игорь Викторович": 31,
-      "Никулин Владимир Иванович": 18,
-      "Струкчинский Владимир Зигмонтович": 12,
-      "Чащин Борис Александрович": 38,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 199,
+      "gas:candidate-vibid:1001000121808": 162,
+      "gas:candidate-vibid:1001000113906": 31,
+      "gas:candidate-vibid:1001000187990": 18,
+      "gas:candidate-vibid:1001000112185": 12,
+      "gas:candidate-vibid:1001000136010": 38,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366760&region=0&sub_region=0&type=429",
@@ -11255,13 +11255,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 265,
-      "Заполев Михаил Михайлович": 47,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 14,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 18,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131383": 265,
+      "gas:candidate-vibid:1001000121808": 47,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 14,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 18,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11311,13 +11311,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 1095,
-      "Заполев Михаил Михайлович": 270,
-      "Левин Игорь Викторович": 48,
-      "Никулин Владимир Иванович": 48,
-      "Струкчинский Владимир Зигмонтович": 19,
-      "Чащин Борис Александрович": 83,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000131383": 1095,
+      "gas:candidate-vibid:1001000121808": 270,
+      "gas:candidate-vibid:1001000113906": 48,
+      "gas:candidate-vibid:1001000187990": 48,
+      "gas:candidate-vibid:1001000112185": 19,
+      "gas:candidate-vibid:1001000136010": 83,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11367,13 +11367,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 226,
-      "Заполев Михаил Михайлович": 48,
-      "Левин Игорь Викторович": 10,
-      "Никулин Владимир Иванович": 8,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 25,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131383": 226,
+      "gas:candidate-vibid:1001000121808": 48,
+      "gas:candidate-vibid:1001000113906": 10,
+      "gas:candidate-vibid:1001000187990": 8,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 25,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11423,13 +11423,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 92,
-      "Заполев Михаил Михайлович": 43,
-      "Левин Игорь Викторович": 3,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131383": 92,
+      "gas:candidate-vibid:1001000121808": 43,
+      "gas:candidate-vibid:1001000113906": 3,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11479,13 +11479,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 516,
-      "Заполев Михаил Михайлович": 185,
-      "Левин Игорь Викторович": 24,
-      "Никулин Владимир Иванович": 30,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 53,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131383": 516,
+      "gas:candidate-vibid:1001000121808": 185,
+      "gas:candidate-vibid:1001000113906": 24,
+      "gas:candidate-vibid:1001000187990": 30,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 53,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11535,13 +11535,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 279,
-      "Заполев Михаил Михайлович": 131,
-      "Левин Игорь Викторович": 11,
-      "Никулин Владимир Иванович": 21,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 26,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131383": 279,
+      "gas:candidate-vibid:1001000121808": 131,
+      "gas:candidate-vibid:1001000113906": 11,
+      "gas:candidate-vibid:1001000187990": 21,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 26,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11591,13 +11591,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 379,
-      "Заполев Михаил Михайлович": 82,
-      "Левин Игорь Викторович": 15,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 7,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131383": 379,
+      "gas:candidate-vibid:1001000121808": 82,
+      "gas:candidate-vibid:1001000113906": 15,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 7,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11647,13 +11647,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 236,
-      "Заполев Михаил Михайлович": 37,
-      "Левин Игорь Викторович": 13,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 21,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131383": 236,
+      "gas:candidate-vibid:1001000121808": 37,
+      "gas:candidate-vibid:1001000113906": 13,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 21,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11703,13 +11703,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 209,
-      "Заполев Михаил Михайлович": 104,
-      "Левин Игорь Викторович": 17,
-      "Никулин Владимир Иванович": 11,
-      "Струкчинский Владимир Зигмонтович": 13,
-      "Чащин Борис Александрович": 26,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000131383": 209,
+      "gas:candidate-vibid:1001000121808": 104,
+      "gas:candidate-vibid:1001000113906": 17,
+      "gas:candidate-vibid:1001000187990": 11,
+      "gas:candidate-vibid:1001000112185": 13,
+      "gas:candidate-vibid:1001000136010": 26,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11759,13 +11759,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 269,
-      "Заполев Михаил Михайлович": 87,
-      "Левин Игорь Викторович": 28,
-      "Никулин Владимир Иванович": 18,
-      "Струкчинский Владимир Зигмонтович": 14,
-      "Чащин Борис Александрович": 41,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131383": 269,
+      "gas:candidate-vibid:1001000121808": 87,
+      "gas:candidate-vibid:1001000113906": 28,
+      "gas:candidate-vibid:1001000187990": 18,
+      "gas:candidate-vibid:1001000112185": 14,
+      "gas:candidate-vibid:1001000136010": 41,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11815,13 +11815,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 110,
-      "Заполев Михаил Михайлович": 25,
-      "Левин Игорь Викторович": 18,
-      "Никулин Владимир Иванович": 8,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131383": 110,
+      "gas:candidate-vibid:1001000121808": 25,
+      "gas:candidate-vibid:1001000113906": 18,
+      "gas:candidate-vibid:1001000187990": 8,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11871,13 +11871,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 95,
-      "Заполев Михаил Михайлович": 21,
-      "Левин Игорь Викторович": 4,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 6,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131383": 95,
+      "gas:candidate-vibid:1001000121808": 21,
+      "gas:candidate-vibid:1001000113906": 4,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 6,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11927,13 +11927,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 282,
-      "Заполев Михаил Михайлович": 95,
-      "Левин Игорь Викторович": 32,
-      "Никулин Владимир Иванович": 19,
-      "Струкчинский Владимир Зигмонтович": 11,
-      "Чащин Борис Александрович": 40,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000131383": 282,
+      "gas:candidate-vibid:1001000121808": 95,
+      "gas:candidate-vibid:1001000113906": 32,
+      "gas:candidate-vibid:1001000187990": 19,
+      "gas:candidate-vibid:1001000112185": 11,
+      "gas:candidate-vibid:1001000136010": 40,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -11983,13 +11983,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 79,
-      "Заполев Михаил Михайлович": 48,
-      "Левин Игорь Викторович": 5,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 79,
+      "gas:candidate-vibid:1001000121808": 48,
+      "gas:candidate-vibid:1001000113906": 5,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12039,13 +12039,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 46,
-      "Заполев Михаил Михайлович": 7,
-      "Левин Игорь Викторович": 6,
-      "Никулин Владимир Иванович": 5,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131383": 46,
+      "gas:candidate-vibid:1001000121808": 7,
+      "gas:candidate-vibid:1001000113906": 6,
+      "gas:candidate-vibid:1001000187990": 5,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12095,13 +12095,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 275,
-      "Заполев Михаил Михайлович": 86,
-      "Левин Игорь Викторович": 17,
-      "Никулин Владимир Иванович": 39,
-      "Струкчинский Владимир Зигмонтович": 6,
-      "Чащин Борис Александрович": 27,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131383": 275,
+      "gas:candidate-vibid:1001000121808": 86,
+      "gas:candidate-vibid:1001000113906": 17,
+      "gas:candidate-vibid:1001000187990": 39,
+      "gas:candidate-vibid:1001000112185": 6,
+      "gas:candidate-vibid:1001000136010": 27,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12151,13 +12151,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 126,
-      "Заполев Михаил Михайлович": 13,
-      "Левин Игорь Викторович": 2,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 126,
+      "gas:candidate-vibid:1001000121808": 13,
+      "gas:candidate-vibid:1001000113906": 2,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12207,13 +12207,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 120,
-      "Заполев Михаил Михайлович": 136,
-      "Левин Игорь Викторович": 2,
-      "Никулин Владимир Иванович": 14,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 18,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131383": 120,
+      "gas:candidate-vibid:1001000121808": 136,
+      "gas:candidate-vibid:1001000113906": 2,
+      "gas:candidate-vibid:1001000187990": 14,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 18,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12263,13 +12263,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 49,
-      "Заполев Михаил Михайлович": 30,
-      "Левин Игорь Викторович": 0,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131383": 49,
+      "gas:candidate-vibid:1001000121808": 30,
+      "gas:candidate-vibid:1001000113906": 0,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12319,13 +12319,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 122,
-      "Заполев Михаил Михайлович": 42,
-      "Левин Игорь Викторович": 5,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131383": 122,
+      "gas:candidate-vibid:1001000121808": 42,
+      "gas:candidate-vibid:1001000113906": 5,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12375,13 +12375,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 200,
-      "Заполев Михаил Михайлович": 85,
-      "Левин Игорь Викторович": 12,
-      "Никулин Владимир Иванович": 19,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 13,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131383": 200,
+      "gas:candidate-vibid:1001000121808": 85,
+      "gas:candidate-vibid:1001000113906": 12,
+      "gas:candidate-vibid:1001000187990": 19,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 13,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12431,13 +12431,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 114,
-      "Заполев Михаил Михайлович": 39,
-      "Левин Игорь Викторович": 12,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 10,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131383": 114,
+      "gas:candidate-vibid:1001000121808": 39,
+      "gas:candidate-vibid:1001000113906": 12,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 10,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12487,13 +12487,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 108,
-      "Заполев Михаил Михайлович": 106,
-      "Левин Игорь Викторович": 3,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000131383": 108,
+      "gas:candidate-vibid:1001000121808": 106,
+      "gas:candidate-vibid:1001000113906": 3,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12543,13 +12543,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 36,
-      "Заполев Михаил Михайлович": 42,
-      "Левин Игорь Викторович": 1,
-      "Никулин Владимир Иванович": 0,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 36,
+      "gas:candidate-vibid:1001000121808": 42,
+      "gas:candidate-vibid:1001000113906": 1,
+      "gas:candidate-vibid:1001000187990": 0,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12599,13 +12599,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 101,
-      "Заполев Михаил Михайлович": 62,
-      "Левин Игорь Викторович": 6,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131383": 101,
+      "gas:candidate-vibid:1001000121808": 62,
+      "gas:candidate-vibid:1001000113906": 6,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12655,13 +12655,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 45,
-      "Заполев Михаил Михайлович": 8,
-      "Левин Игорь Викторович": 2,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131383": 45,
+      "gas:candidate-vibid:1001000121808": 8,
+      "gas:candidate-vibid:1001000113906": 2,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12711,13 +12711,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 249,
-      "Заполев Михаил Михайлович": 56,
-      "Левин Игорь Викторович": 11,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 9,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131383": 249,
+      "gas:candidate-vibid:1001000121808": 56,
+      "gas:candidate-vibid:1001000113906": 11,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 9,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366761&region=0&sub_region=0&type=429",
@@ -12767,13 +12767,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 609,
-      "Заполев Михаил Михайлович": 161,
-      "Левин Игорь Викторович": 77,
-      "Никулин Владимир Иванович": 30,
-      "Струкчинский Владимир Зигмонтович": 13,
-      "Чащин Борис Александрович": 56,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000131383": 609,
+      "gas:candidate-vibid:1001000121808": 161,
+      "gas:candidate-vibid:1001000113906": 77,
+      "gas:candidate-vibid:1001000187990": 30,
+      "gas:candidate-vibid:1001000112185": 13,
+      "gas:candidate-vibid:1001000136010": 56,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -12823,13 +12823,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 523,
-      "Заполев Михаил Михайлович": 146,
-      "Левин Игорь Викторович": 68,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 13,
-      "Чащин Борис Александрович": 54,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000131383": 523,
+      "gas:candidate-vibid:1001000121808": 146,
+      "gas:candidate-vibid:1001000113906": 68,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 13,
+      "gas:candidate-vibid:1001000136010": 54,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -12879,13 +12879,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 565,
-      "Заполев Михаил Михайлович": 130,
-      "Левин Игорь Викторович": 64,
-      "Никулин Владимир Иванович": 22,
-      "Струкчинский Владимир Зигмонтович": 8,
-      "Чащин Борис Александрович": 54,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000131383": 565,
+      "gas:candidate-vibid:1001000121808": 130,
+      "gas:candidate-vibid:1001000113906": 64,
+      "gas:candidate-vibid:1001000187990": 22,
+      "gas:candidate-vibid:1001000112185": 8,
+      "gas:candidate-vibid:1001000136010": 54,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -12935,13 +12935,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 291,
-      "Заполев Михаил Михайлович": 33,
-      "Левин Игорь Викторович": 15,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 14,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131383": 291,
+      "gas:candidate-vibid:1001000121808": 33,
+      "gas:candidate-vibid:1001000113906": 15,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 14,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -12991,13 +12991,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 262,
-      "Заполев Михаил Михайлович": 66,
-      "Левин Игорь Викторович": 27,
-      "Никулин Владимир Иванович": 13,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 13,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000131383": 262,
+      "gas:candidate-vibid:1001000121808": 66,
+      "gas:candidate-vibid:1001000113906": 27,
+      "gas:candidate-vibid:1001000187990": 13,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 13,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13047,13 +13047,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 156,
-      "Заполев Михаил Михайлович": 39,
-      "Левин Игорь Викторович": 8,
-      "Никулин Владимир Иванович": 6,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000131383": 156,
+      "gas:candidate-vibid:1001000121808": 39,
+      "gas:candidate-vibid:1001000113906": 8,
+      "gas:candidate-vibid:1001000187990": 6,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13103,13 +13103,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 534,
-      "Заполев Михаил Михайлович": 106,
-      "Левин Игорь Викторович": 28,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 36,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000131383": 534,
+      "gas:candidate-vibid:1001000121808": 106,
+      "gas:candidate-vibid:1001000113906": 28,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 36,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13159,13 +13159,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 148,
-      "Заполев Михаил Михайлович": 17,
-      "Левин Игорь Викторович": 14,
-      "Никулин Владимир Иванович": 3,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 14,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131383": 148,
+      "gas:candidate-vibid:1001000121808": 17,
+      "gas:candidate-vibid:1001000113906": 14,
+      "gas:candidate-vibid:1001000187990": 3,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 14,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13215,13 +13215,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 405,
-      "Заполев Михаил Михайлович": 146,
-      "Левин Игорь Викторович": 40,
-      "Никулин Владимир Иванович": 21,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 33,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131383": 405,
+      "gas:candidate-vibid:1001000121808": 146,
+      "gas:candidate-vibid:1001000113906": 40,
+      "gas:candidate-vibid:1001000187990": 21,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 33,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13271,13 +13271,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 663,
-      "Заполев Михаил Михайлович": 203,
-      "Левин Игорь Викторович": 54,
-      "Никулин Владимир Иванович": 32,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 35,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 663,
+      "gas:candidate-vibid:1001000121808": 203,
+      "gas:candidate-vibid:1001000113906": 54,
+      "gas:candidate-vibid:1001000187990": 32,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 35,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13327,13 +13327,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 292,
-      "Заполев Михаил Михайлович": 176,
-      "Левин Игорь Викторович": 9,
-      "Никулин Владимир Иванович": 9,
-      "Струкчинский Владимир Зигмонтович": 12,
-      "Чащин Борис Александрович": 18,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131383": 292,
+      "gas:candidate-vibid:1001000121808": 176,
+      "gas:candidate-vibid:1001000113906": 9,
+      "gas:candidate-vibid:1001000187990": 9,
+      "gas:candidate-vibid:1001000112185": 12,
+      "gas:candidate-vibid:1001000136010": 18,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13383,13 +13383,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 297,
-      "Заполев Михаил Михайлович": 85,
-      "Левин Игорь Викторович": 31,
-      "Никулин Владимир Иванович": 22,
-      "Струкчинский Владимир Зигмонтович": 15,
-      "Чащин Борис Александрович": 43,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131383": 297,
+      "gas:candidate-vibid:1001000121808": 85,
+      "gas:candidate-vibid:1001000113906": 31,
+      "gas:candidate-vibid:1001000187990": 22,
+      "gas:candidate-vibid:1001000112185": 15,
+      "gas:candidate-vibid:1001000136010": 43,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13439,13 +13439,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 353,
-      "Заполев Михаил Михайлович": 150,
-      "Левин Игорь Викторович": 40,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 10,
-      "Чащин Борис Александрович": 46,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131383": 353,
+      "gas:candidate-vibid:1001000121808": 150,
+      "gas:candidate-vibid:1001000113906": 40,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 10,
+      "gas:candidate-vibid:1001000136010": 46,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13495,13 +13495,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 239,
-      "Заполев Михаил Михайлович": 168,
-      "Левин Игорь Викторович": 62,
-      "Никулин Владимир Иванович": 21,
-      "Струкчинский Владимир Зигмонтович": 2,
-      "Чащин Борис Александрович": 23,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000131383": 239,
+      "gas:candidate-vibid:1001000121808": 168,
+      "gas:candidate-vibid:1001000113906": 62,
+      "gas:candidate-vibid:1001000187990": 21,
+      "gas:candidate-vibid:1001000112185": 2,
+      "gas:candidate-vibid:1001000136010": 23,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13551,13 +13551,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 507,
-      "Заполев Михаил Михайлович": 250,
-      "Левин Игорь Викторович": 58,
-      "Никулин Владимир Иванович": 22,
-      "Струкчинский Владимир Зигмонтович": 20,
-      "Чащин Борис Александрович": 65,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000131383": 507,
+      "gas:candidate-vibid:1001000121808": 250,
+      "gas:candidate-vibid:1001000113906": 58,
+      "gas:candidate-vibid:1001000187990": 22,
+      "gas:candidate-vibid:1001000112185": 20,
+      "gas:candidate-vibid:1001000136010": 65,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13607,13 +13607,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 328,
-      "Заполев Михаил Михайлович": 62,
-      "Левин Игорь Викторович": 46,
-      "Никулин Владимир Иванович": 14,
-      "Струкчинский Владимир Зигмонтович": 5,
-      "Чащин Борис Александрович": 46,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000131383": 328,
+      "gas:candidate-vibid:1001000121808": 62,
+      "gas:candidate-vibid:1001000113906": 46,
+      "gas:candidate-vibid:1001000187990": 14,
+      "gas:candidate-vibid:1001000112185": 5,
+      "gas:candidate-vibid:1001000136010": 46,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13663,13 +13663,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 198,
-      "Заполев Михаил Михайлович": 63,
-      "Левин Игорь Викторович": 25,
-      "Никулин Владимир Иванович": 12,
-      "Струкчинский Владимир Зигмонтович": 1,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131383": 198,
+      "gas:candidate-vibid:1001000121808": 63,
+      "gas:candidate-vibid:1001000113906": 25,
+      "gas:candidate-vibid:1001000187990": 12,
+      "gas:candidate-vibid:1001000112185": 1,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13719,13 +13719,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 216,
-      "Заполев Михаил Михайлович": 104,
-      "Левин Игорь Викторович": 46,
-      "Никулин Владимир Иванович": 37,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 21,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131383": 216,
+      "gas:candidate-vibid:1001000121808": 104,
+      "gas:candidate-vibid:1001000113906": 46,
+      "gas:candidate-vibid:1001000187990": 37,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 21,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13775,13 +13775,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 61,
-      "Заполев Михаил Михайлович": 16,
-      "Левин Игорь Викторович": 7,
-      "Никулин Владимир Иванович": 7,
-      "Струкчинский Владимир Зигмонтович": 3,
-      "Чащин Борис Александрович": 9,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000131383": 61,
+      "gas:candidate-vibid:1001000121808": 16,
+      "gas:candidate-vibid:1001000113906": 7,
+      "gas:candidate-vibid:1001000187990": 7,
+      "gas:candidate-vibid:1001000112185": 3,
+      "gas:candidate-vibid:1001000136010": 9,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366762&region=0&sub_region=0&type=429",
@@ -13831,13 +13831,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 19,
-      "Заполев Михаил Михайлович": 23,
-      "Левин Игорь Викторович": 2,
-      "Никулин Владимир Иванович": 4,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131383": 19,
+      "gas:candidate-vibid:1001000121808": 23,
+      "gas:candidate-vibid:1001000113906": 2,
+      "gas:candidate-vibid:1001000187990": 4,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366763&region=0&sub_region=0&type=429",
@@ -13887,13 +13887,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 82,
-      "Заполев Михаил Михайлович": 22,
-      "Левин Игорь Викторович": 5,
-      "Никулин Владимир Иванович": 1,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131383": 82,
+      "gas:candidate-vibid:1001000121808": 22,
+      "gas:candidate-vibid:1001000113906": 5,
+      "gas:candidate-vibid:1001000187990": 1,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366763&region=0&sub_region=0&type=429",
@@ -13943,13 +13943,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 464,
-      "Заполев Михаил Михайлович": 35,
-      "Левин Игорь Викторович": 36,
-      "Никулин Владимир Иванович": 25,
-      "Струкчинский Владимир Зигмонтович": 9,
-      "Чащин Борис Александрович": 37,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131383": 464,
+      "gas:candidate-vibid:1001000121808": 35,
+      "gas:candidate-vibid:1001000113906": 36,
+      "gas:candidate-vibid:1001000187990": 25,
+      "gas:candidate-vibid:1001000112185": 9,
+      "gas:candidate-vibid:1001000136010": 37,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366763&region=0&sub_region=0&type=429",
@@ -13999,13 +13999,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 52,
-      "Заполев Михаил Михайлович": 4,
-      "Левин Игорь Викторович": 11,
-      "Никулин Владимир Иванович": 2,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131383": 52,
+      "gas:candidate-vibid:1001000121808": 4,
+      "gas:candidate-vibid:1001000113906": 11,
+      "gas:candidate-vibid:1001000187990": 2,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366763&region=0&sub_region=0&type=429",
@@ -14055,13 +14055,13 @@ export const duma_2003_uik_428_region_22_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Герасименко Николай Федорович": 44,
-      "Заполев Михаил Михайлович": 57,
-      "Левин Игорь Викторович": 54,
-      "Никулин Владимир Иванович": 10,
-      "Струкчинский Владимир Зигмонтович": 0,
-      "Чащин Борис Александрович": 12,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131383": 44,
+      "gas:candidate-vibid:1001000121808": 57,
+      "gas:candidate-vibid:1001000113906": 54,
+      "gas:candidate-vibid:1001000187990": 10,
+      "gas:candidate-vibid:1001000112185": 0,
+      "gas:candidate-vibid:1001000136010": 12,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=223003011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=422400366763&region=0&sub_region=0&type=429",

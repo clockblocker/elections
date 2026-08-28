@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 22,
-      "Григорьев Валерий Юрьевич": 30,
-      "Кучеров Николай Михайлович": 22,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 11,
-      "Силецкий Андрей Романович": 68,
-      "Шиманов Александр Алексеевич": 149,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000131399": 22,
+      "gas:candidate-vibid:1001000136070": 30,
+      "gas:candidate-vibid:347300170586": 22,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 11,
+      "gas:candidate-vibid:347300170542": 68,
+      "gas:candidate-vibid:1001000225949": 149,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 6,
-      "Григорьев Валерий Юрьевич": 9,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 2,
-      "Силецкий Андрей Романович": 26,
-      "Шиманов Александр Алексеевич": 58,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131399": 6,
+      "gas:candidate-vibid:1001000136070": 9,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 2,
+      "gas:candidate-vibid:347300170542": 26,
+      "gas:candidate-vibid:1001000225949": 58,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 141,
-      "Григорьев Валерий Юрьевич": 68,
-      "Кучеров Николай Михайлович": 72,
-      "Лупеко Александр Афанасьевич": 31,
-      "Матвеев Олег Валентинович": 68,
-      "Силецкий Андрей Романович": 75,
-      "Шиманов Александр Алексеевич": 547,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000131399": 141,
+      "gas:candidate-vibid:1001000136070": 68,
+      "gas:candidate-vibid:347300170586": 72,
+      "gas:candidate-vibid:1001000290473": 31,
+      "gas:candidate-vibid:1001000112222": 68,
+      "gas:candidate-vibid:347300170542": 75,
+      "gas:candidate-vibid:1001000225949": 547,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 10,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 2,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 17,
-      "Шиманов Александр Алексеевич": 70,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131399": 10,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 2,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 17,
+      "gas:candidate-vibid:1001000225949": 70,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 6,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 8,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 0,
-      "Силецкий Андрей Романович": 13,
-      "Шиманов Александр Алексеевич": 36,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131399": 6,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 8,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 0,
+      "gas:candidate-vibid:347300170542": 13,
+      "gas:candidate-vibid:1001000225949": 36,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 5,
-      "Григорьев Валерий Юрьевич": 8,
-      "Кучеров Николай Михайлович": 6,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 19,
-      "Шиманов Александр Алексеевич": 41,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131399": 5,
+      "gas:candidate-vibid:1001000136070": 8,
+      "gas:candidate-vibid:347300170586": 6,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 19,
+      "gas:candidate-vibid:1001000225949": 41,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 6,
-      "Григорьев Валерий Юрьевич": 9,
-      "Кучеров Николай Михайлович": 10,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 6,
-      "Силецкий Андрей Романович": 33,
-      "Шиманов Александр Алексеевич": 100,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131399": 6,
+      "gas:candidate-vibid:1001000136070": 9,
+      "gas:candidate-vibid:347300170586": 10,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 6,
+      "gas:candidate-vibid:347300170542": 33,
+      "gas:candidate-vibid:1001000225949": 100,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 58,
-      "Григорьев Валерий Юрьевич": 67,
-      "Кучеров Николай Михайлович": 64,
-      "Лупеко Александр Афанасьевич": 25,
-      "Матвеев Олег Валентинович": 29,
-      "Силецкий Андрей Романович": 117,
-      "Шиманов Александр Алексеевич": 431,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000131399": 58,
+      "gas:candidate-vibid:1001000136070": 67,
+      "gas:candidate-vibid:347300170586": 64,
+      "gas:candidate-vibid:1001000290473": 25,
+      "gas:candidate-vibid:1001000112222": 29,
+      "gas:candidate-vibid:347300170542": 117,
+      "gas:candidate-vibid:1001000225949": 431,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 27,
-      "Григорьев Валерий Юрьевич": 51,
-      "Кучеров Николай Михайлович": 27,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 19,
-      "Силецкий Андрей Романович": 276,
-      "Шиманов Александр Алексеевич": 106,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000131399": 27,
+      "gas:candidate-vibid:1001000136070": 51,
+      "gas:candidate-vibid:347300170586": 27,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 19,
+      "gas:candidate-vibid:347300170542": 276,
+      "gas:candidate-vibid:1001000225949": 106,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171060&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 67,
-      "Григорьев Валерий Юрьевич": 57,
-      "Кучеров Николай Михайлович": 70,
-      "Лупеко Александр Афанасьевич": 51,
-      "Матвеев Олег Валентинович": 72,
-      "Силецкий Андрей Романович": 287,
-      "Шиманов Александр Алексеевич": 273,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000131399": 67,
+      "gas:candidate-vibid:1001000136070": 57,
+      "gas:candidate-vibid:347300170586": 70,
+      "gas:candidate-vibid:1001000290473": 51,
+      "gas:candidate-vibid:1001000112222": 72,
+      "gas:candidate-vibid:347300170542": 287,
+      "gas:candidate-vibid:1001000225949": 273,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171061&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 70,
-      "Григорьев Валерий Юрьевич": 51,
-      "Кучеров Николай Михайлович": 56,
-      "Лупеко Александр Афанасьевич": 39,
-      "Матвеев Олег Валентинович": 65,
-      "Силецкий Андрей Романович": 268,
-      "Шиманов Александр Алексеевич": 233,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000131399": 70,
+      "gas:candidate-vibid:1001000136070": 51,
+      "gas:candidate-vibid:347300170586": 56,
+      "gas:candidate-vibid:1001000290473": 39,
+      "gas:candidate-vibid:1001000112222": 65,
+      "gas:candidate-vibid:347300170542": 268,
+      "gas:candidate-vibid:1001000225949": 233,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171061&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 46,
-      "Григорьев Валерий Юрьевич": 77,
-      "Кучеров Николай Михайлович": 54,
-      "Лупеко Александр Афанасьевич": 32,
-      "Матвеев Олег Валентинович": 30,
-      "Силецкий Андрей Романович": 238,
-      "Шиманов Александр Алексеевич": 195,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000131399": 46,
+      "gas:candidate-vibid:1001000136070": 77,
+      "gas:candidate-vibid:347300170586": 54,
+      "gas:candidate-vibid:1001000290473": 32,
+      "gas:candidate-vibid:1001000112222": 30,
+      "gas:candidate-vibid:347300170542": 238,
+      "gas:candidate-vibid:1001000225949": 195,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171061&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 36,
-      "Григорьев Валерий Юрьевич": 71,
-      "Кучеров Николай Михайлович": 53,
-      "Лупеко Александр Афанасьевич": 34,
-      "Матвеев Олег Валентинович": 42,
-      "Силецкий Андрей Романович": 180,
-      "Шиманов Александр Алексеевич": 207,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000131399": 36,
+      "gas:candidate-vibid:1001000136070": 71,
+      "gas:candidate-vibid:347300170586": 53,
+      "gas:candidate-vibid:1001000290473": 34,
+      "gas:candidate-vibid:1001000112222": 42,
+      "gas:candidate-vibid:347300170542": 180,
+      "gas:candidate-vibid:1001000225949": 207,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171061&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 46,
-      "Григорьев Валерий Юрьевич": 66,
-      "Кучеров Николай Михайлович": 67,
-      "Лупеко Александр Афанасьевич": 44,
-      "Матвеев Олег Валентинович": 31,
-      "Силецкий Андрей Романович": 258,
-      "Шиманов Александр Алексеевич": 179,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000131399": 46,
+      "gas:candidate-vibid:1001000136070": 66,
+      "gas:candidate-vibid:347300170586": 67,
+      "gas:candidate-vibid:1001000290473": 44,
+      "gas:candidate-vibid:1001000112222": 31,
+      "gas:candidate-vibid:347300170542": 258,
+      "gas:candidate-vibid:1001000225949": 179,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171061&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 43,
-      "Григорьев Валерий Юрьевич": 37,
-      "Кучеров Николай Михайлович": 61,
-      "Лупеко Александр Афанасьевич": 15,
-      "Матвеев Олег Валентинович": 33,
-      "Силецкий Андрей Романович": 144,
-      "Шиманов Александр Алексеевич": 155,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000131399": 43,
+      "gas:candidate-vibid:1001000136070": 37,
+      "gas:candidate-vibid:347300170586": 61,
+      "gas:candidate-vibid:1001000290473": 15,
+      "gas:candidate-vibid:1001000112222": 33,
+      "gas:candidate-vibid:347300170542": 144,
+      "gas:candidate-vibid:1001000225949": 155,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171061&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 71,
-      "Григорьев Валерий Юрьевич": 26,
-      "Кучеров Николай Михайлович": 22,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 13,
-      "Силецкий Андрей Романович": 92,
-      "Шиманов Александр Алексеевич": 139,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000131399": 71,
+      "gas:candidate-vibid:1001000136070": 26,
+      "gas:candidate-vibid:347300170586": 22,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 13,
+      "gas:candidate-vibid:347300170542": 92,
+      "gas:candidate-vibid:1001000225949": 139,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171062&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 151,
-      "Григорьев Валерий Юрьевич": 46,
-      "Кучеров Николай Михайлович": 39,
-      "Лупеко Александр Афанасьевич": 11,
-      "Матвеев Олег Валентинович": 26,
-      "Силецкий Андрей Романович": 135,
-      "Шиманов Александр Алексеевич": 283,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000131399": 151,
+      "gas:candidate-vibid:1001000136070": 46,
+      "gas:candidate-vibid:347300170586": 39,
+      "gas:candidate-vibid:1001000290473": 11,
+      "gas:candidate-vibid:1001000112222": 26,
+      "gas:candidate-vibid:347300170542": 135,
+      "gas:candidate-vibid:1001000225949": 283,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171062&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 207,
-      "Григорьев Валерий Юрьевич": 35,
-      "Кучеров Николай Михайлович": 36,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 174,
-      "Шиманов Александр Алексеевич": 185,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000131399": 207,
+      "gas:candidate-vibid:1001000136070": 35,
+      "gas:candidate-vibid:347300170586": 36,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 174,
+      "gas:candidate-vibid:1001000225949": 185,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171062&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 225,
-      "Григорьев Валерий Юрьевич": 47,
-      "Кучеров Николай Михайлович": 46,
-      "Лупеко Александр Афанасьевич": 13,
-      "Матвеев Олег Валентинович": 38,
-      "Силецкий Андрей Романович": 164,
-      "Шиманов Александр Алексеевич": 228,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000131399": 225,
+      "gas:candidate-vibid:1001000136070": 47,
+      "gas:candidate-vibid:347300170586": 46,
+      "gas:candidate-vibid:1001000290473": 13,
+      "gas:candidate-vibid:1001000112222": 38,
+      "gas:candidate-vibid:347300170542": 164,
+      "gas:candidate-vibid:1001000225949": 228,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171062&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 129,
-      "Григорьев Валерий Юрьевич": 44,
-      "Кучеров Николай Михайлович": 21,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 128,
-      "Шиманов Александр Алексеевич": 196,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000131399": 129,
+      "gas:candidate-vibid:1001000136070": 44,
+      "gas:candidate-vibid:347300170586": 21,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 128,
+      "gas:candidate-vibid:1001000225949": 196,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171062&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 32,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 12,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 56,
-      "Шиманов Александр Алексеевич": 116,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131399": 32,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 12,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 56,
+      "gas:candidate-vibid:1001000225949": 116,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 42,
-      "Григорьев Валерий Юрьевич": 18,
-      "Кучеров Николай Михайлович": 7,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 29,
-      "Силецкий Андрей Романович": 57,
-      "Шиманов Александр Алексеевич": 76,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000131399": 42,
+      "gas:candidate-vibid:1001000136070": 18,
+      "gas:candidate-vibid:347300170586": 7,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 29,
+      "gas:candidate-vibid:347300170542": 57,
+      "gas:candidate-vibid:1001000225949": 76,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 14,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 9,
-      "Силецкий Андрей Романович": 33,
-      "Шиманов Александр Алексеевич": 110,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000131399": 14,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 9,
+      "gas:candidate-vibid:347300170542": 33,
+      "gas:candidate-vibid:1001000225949": 110,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 91,
-      "Григорьев Валерий Юрьевич": 64,
-      "Кучеров Николай Михайлович": 86,
-      "Лупеко Александр Афанасьевич": 26,
-      "Матвеев Олег Валентинович": 52,
-      "Силецкий Андрей Романович": 119,
-      "Шиманов Александр Алексеевич": 296,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000131399": 91,
+      "gas:candidate-vibid:1001000136070": 64,
+      "gas:candidate-vibid:347300170586": 86,
+      "gas:candidate-vibid:1001000290473": 26,
+      "gas:candidate-vibid:1001000112222": 52,
+      "gas:candidate-vibid:347300170542": 119,
+      "gas:candidate-vibid:1001000225949": 296,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 55,
-      "Григорьев Валерий Юрьевич": 40,
-      "Кучеров Николай Михайлович": 35,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 115,
-      "Шиманов Александр Алексеевич": 118,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131399": 55,
+      "gas:candidate-vibid:1001000136070": 40,
+      "gas:candidate-vibid:347300170586": 35,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 115,
+      "gas:candidate-vibid:1001000225949": 118,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 29,
-      "Григорьев Валерий Юрьевич": 25,
-      "Кучеров Николай Михайлович": 21,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 8,
-      "Силецкий Андрей Романович": 61,
-      "Шиманов Александр Алексеевич": 67,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000131399": 29,
+      "gas:candidate-vibid:1001000136070": 25,
+      "gas:candidate-vibid:347300170586": 21,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 8,
+      "gas:candidate-vibid:347300170542": 61,
+      "gas:candidate-vibid:1001000225949": 67,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 27,
-      "Григорьев Валерий Юрьевич": 17,
-      "Кучеров Николай Михайлович": 17,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 13,
-      "Силецкий Андрей Романович": 42,
-      "Шиманов Александр Алексеевич": 74,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131399": 27,
+      "gas:candidate-vibid:1001000136070": 17,
+      "gas:candidate-vibid:347300170586": 17,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 13,
+      "gas:candidate-vibid:347300170542": 42,
+      "gas:candidate-vibid:1001000225949": 74,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 28,
-      "Григорьев Валерий Юрьевич": 27,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 9,
-      "Матвеев Олег Валентинович": 19,
-      "Силецкий Андрей Романович": 62,
-      "Шиманов Александр Алексеевич": 93,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000131399": 28,
+      "gas:candidate-vibid:1001000136070": 27,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 9,
+      "gas:candidate-vibid:1001000112222": 19,
+      "gas:candidate-vibid:347300170542": 62,
+      "gas:candidate-vibid:1001000225949": 93,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 21,
-      "Григорьев Валерий Юрьевич": 15,
-      "Кучеров Николай Михайлович": 14,
-      "Лупеко Александр Афанасьевич": 7,
-      "Матвеев Олег Валентинович": 12,
-      "Силецкий Андрей Романович": 62,
-      "Шиманов Александр Алексеевич": 64,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131399": 21,
+      "gas:candidate-vibid:1001000136070": 15,
+      "gas:candidate-vibid:347300170586": 14,
+      "gas:candidate-vibid:1001000290473": 7,
+      "gas:candidate-vibid:1001000112222": 12,
+      "gas:candidate-vibid:347300170542": 62,
+      "gas:candidate-vibid:1001000225949": 64,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 41,
-      "Григорьев Валерий Юрьевич": 57,
-      "Кучеров Николай Михайлович": 56,
-      "Лупеко Александр Афанасьевич": 18,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 158,
-      "Шиманов Александр Алексеевич": 222,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000131399": 41,
+      "gas:candidate-vibid:1001000136070": 57,
+      "gas:candidate-vibid:347300170586": 56,
+      "gas:candidate-vibid:1001000290473": 18,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 158,
+      "gas:candidate-vibid:1001000225949": 222,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 30,
-      "Григорьев Валерий Юрьевич": 49,
-      "Кучеров Николай Михайлович": 59,
-      "Лупеко Александр Афанасьевич": 10,
-      "Матвеев Олег Валентинович": 20,
-      "Силецкий Андрей Романович": 110,
-      "Шиманов Александр Алексеевич": 156,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000131399": 30,
+      "gas:candidate-vibid:1001000136070": 49,
+      "gas:candidate-vibid:347300170586": 59,
+      "gas:candidate-vibid:1001000290473": 10,
+      "gas:candidate-vibid:1001000112222": 20,
+      "gas:candidate-vibid:347300170542": 110,
+      "gas:candidate-vibid:1001000225949": 156,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 22,
-      "Григорьев Валерий Юрьевич": 14,
-      "Кучеров Николай Михайлович": 28,
-      "Лупеко Александр Афанасьевич": 8,
-      "Матвеев Олег Валентинович": 23,
-      "Силецкий Андрей Романович": 28,
-      "Шиманов Александр Алексеевич": 84,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000131399": 22,
+      "gas:candidate-vibid:1001000136070": 14,
+      "gas:candidate-vibid:347300170586": 28,
+      "gas:candidate-vibid:1001000290473": 8,
+      "gas:candidate-vibid:1001000112222": 23,
+      "gas:candidate-vibid:347300170542": 28,
+      "gas:candidate-vibid:1001000225949": 84,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 67,
-      "Григорьев Валерий Юрьевич": 67,
-      "Кучеров Николай Михайлович": 76,
-      "Лупеко Александр Афанасьевич": 19,
-      "Матвеев Олег Валентинович": 37,
-      "Силецкий Андрей Романович": 145,
-      "Шиманов Александр Алексеевич": 184,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000131399": 67,
+      "gas:candidate-vibid:1001000136070": 67,
+      "gas:candidate-vibid:347300170586": 76,
+      "gas:candidate-vibid:1001000290473": 19,
+      "gas:candidate-vibid:1001000112222": 37,
+      "gas:candidate-vibid:347300170542": 145,
+      "gas:candidate-vibid:1001000225949": 184,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 108,
-      "Григорьев Валерий Юрьевич": 116,
-      "Кучеров Николай Михайлович": 47,
-      "Лупеко Александр Афанасьевич": 37,
-      "Матвеев Олег Валентинович": 36,
-      "Силецкий Андрей Романович": 149,
-      "Шиманов Александр Алексеевич": 225,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000131399": 108,
+      "gas:candidate-vibid:1001000136070": 116,
+      "gas:candidate-vibid:347300170586": 47,
+      "gas:candidate-vibid:1001000290473": 37,
+      "gas:candidate-vibid:1001000112222": 36,
+      "gas:candidate-vibid:347300170542": 149,
+      "gas:candidate-vibid:1001000225949": 225,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 11,
-      "Григорьев Валерий Юрьевич": 24,
-      "Кучеров Николай Михайлович": 11,
-      "Лупеко Александр Афанасьевич": 2,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 103,
-      "Шиманов Александр Алексеевич": 17,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000131399": 11,
+      "gas:candidate-vibid:1001000136070": 24,
+      "gas:candidate-vibid:347300170586": 11,
+      "gas:candidate-vibid:1001000290473": 2,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 103,
+      "gas:candidate-vibid:1001000225949": 17,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 71,
-      "Григорьев Валерий Юрьевич": 26,
-      "Кучеров Николай Михайлович": 22,
-      "Лупеко Александр Афанасьевич": 14,
-      "Матвеев Олег Валентинович": 35,
-      "Силецкий Андрей Романович": 118,
-      "Шиманов Александр Алексеевич": 85,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000131399": 71,
+      "gas:candidate-vibid:1001000136070": 26,
+      "gas:candidate-vibid:347300170586": 22,
+      "gas:candidate-vibid:1001000290473": 14,
+      "gas:candidate-vibid:1001000112222": 35,
+      "gas:candidate-vibid:347300170542": 118,
+      "gas:candidate-vibid:1001000225949": 85,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 52,
-      "Григорьев Валерий Юрьевич": 30,
-      "Кучеров Николай Михайлович": 31,
-      "Лупеко Александр Афанасьевич": 6,
-      "Матвеев Олег Валентинович": 33,
-      "Силецкий Андрей Романович": 110,
-      "Шиманов Александр Алексеевич": 88,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000131399": 52,
+      "gas:candidate-vibid:1001000136070": 30,
+      "gas:candidate-vibid:347300170586": 31,
+      "gas:candidate-vibid:1001000290473": 6,
+      "gas:candidate-vibid:1001000112222": 33,
+      "gas:candidate-vibid:347300170542": 110,
+      "gas:candidate-vibid:1001000225949": 88,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 67,
-      "Григорьев Валерий Юрьевич": 47,
-      "Кучеров Николай Михайлович": 33,
-      "Лупеко Александр Афанасьевич": 16,
-      "Матвеев Олег Валентинович": 25,
-      "Силецкий Андрей Романович": 115,
-      "Шиманов Александр Алексеевич": 134,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000131399": 67,
+      "gas:candidate-vibid:1001000136070": 47,
+      "gas:candidate-vibid:347300170586": 33,
+      "gas:candidate-vibid:1001000290473": 16,
+      "gas:candidate-vibid:1001000112222": 25,
+      "gas:candidate-vibid:347300170542": 115,
+      "gas:candidate-vibid:1001000225949": 134,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 12,
-      "Григорьев Валерий Юрьевич": 12,
-      "Кучеров Николай Михайлович": 6,
-      "Лупеко Александр Афанасьевич": 1,
-      "Матвеев Олег Валентинович": 5,
-      "Силецкий Андрей Романович": 53,
-      "Шиманов Александр Алексеевич": 61,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131399": 12,
+      "gas:candidate-vibid:1001000136070": 12,
+      "gas:candidate-vibid:347300170586": 6,
+      "gas:candidate-vibid:1001000290473": 1,
+      "gas:candidate-vibid:1001000112222": 5,
+      "gas:candidate-vibid:347300170542": 53,
+      "gas:candidate-vibid:1001000225949": 61,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 73,
-      "Григорьев Валерий Юрьевич": 47,
-      "Кучеров Николай Михайлович": 46,
-      "Лупеко Александр Афанасьевич": 32,
-      "Матвеев Олег Валентинович": 47,
-      "Силецкий Андрей Романович": 159,
-      "Шиманов Александр Алексеевич": 278,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000131399": 73,
+      "gas:candidate-vibid:1001000136070": 47,
+      "gas:candidate-vibid:347300170586": 46,
+      "gas:candidate-vibid:1001000290473": 32,
+      "gas:candidate-vibid:1001000112222": 47,
+      "gas:candidate-vibid:347300170542": 159,
+      "gas:candidate-vibid:1001000225949": 278,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 72,
-      "Григорьев Валерий Юрьевич": 67,
-      "Кучеров Николай Михайлович": 35,
-      "Лупеко Александр Афанасьевич": 30,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 60,
-      "Шиманов Александр Алексеевич": 291,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000131399": 72,
+      "gas:candidate-vibid:1001000136070": 67,
+      "gas:candidate-vibid:347300170586": 35,
+      "gas:candidate-vibid:1001000290473": 30,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 60,
+      "gas:candidate-vibid:1001000225949": 291,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 48,
-      "Григорьев Валерий Юрьевич": 38,
-      "Кучеров Николай Михайлович": 40,
-      "Лупеко Александр Афанасьевич": 18,
-      "Матвеев Олег Валентинович": 24,
-      "Силецкий Андрей Романович": 111,
-      "Шиманов Александр Алексеевич": 220,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000131399": 48,
+      "gas:candidate-vibid:1001000136070": 38,
+      "gas:candidate-vibid:347300170586": 40,
+      "gas:candidate-vibid:1001000290473": 18,
+      "gas:candidate-vibid:1001000112222": 24,
+      "gas:candidate-vibid:347300170542": 111,
+      "gas:candidate-vibid:1001000225949": 220,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 12,
-      "Григорьев Валерий Юрьевич": 11,
-      "Кучеров Николай Михайлович": 1,
-      "Лупеко Александр Афанасьевич": 4,
-      "Матвеев Олег Валентинович": 10,
-      "Силецкий Андрей Романович": 31,
-      "Шиманов Александр Алексеевич": 155,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131399": 12,
+      "gas:candidate-vibid:1001000136070": 11,
+      "gas:candidate-vibid:347300170586": 1,
+      "gas:candidate-vibid:1001000290473": 4,
+      "gas:candidate-vibid:1001000112222": 10,
+      "gas:candidate-vibid:347300170542": 31,
+      "gas:candidate-vibid:1001000225949": 155,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 3,
-      "Григорьев Валерий Юрьевич": 10,
-      "Кучеров Николай Михайлович": 7,
-      "Лупеко Александр Афанасьевич": 3,
-      "Матвеев Олег Валентинович": 4,
-      "Силецкий Андрей Романович": 33,
-      "Шиманов Александр Алексеевич": 17,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000131399": 3,
+      "gas:candidate-vibid:1001000136070": 10,
+      "gas:candidate-vibid:347300170586": 7,
+      "gas:candidate-vibid:1001000290473": 3,
+      "gas:candidate-vibid:1001000112222": 4,
+      "gas:candidate-vibid:347300170542": 33,
+      "gas:candidate-vibid:1001000225949": 17,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Водопьянов Михаил Павлович": 16,
-      "Григорьев Валерий Юрьевич": 25,
-      "Кучеров Николай Михайлович": 4,
-      "Лупеко Александр Афанасьевич": 5,
-      "Матвеев Олег Валентинович": 7,
-      "Силецкий Андрей Романович": 21,
-      "Шиманов Александр Алексеевич": 39,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000131399": 16,
+      "gas:candidate-vibid:1001000136070": 25,
+      "gas:candidate-vibid:347300170586": 4,
+      "gas:candidate-vibid:1001000290473": 5,
+      "gas:candidate-vibid:1001000112222": 7,
+      "gas:candidate-vibid:347300170542": 21,
+      "gas:candidate-vibid:1001000225949": 39,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300171063&region=0&sub_region=0&type=429",
@@ -2607,18 +2607,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 66,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 24,
-      "Беляев Юрий Александрович": 45,
-      "Богданов Борис Сергеевич": 51,
-      "Ворогушин Виктор Анатольевич": 53,
-      "Грачев Сергей Юрьевич": 42,
-      "Динес Игорь Юрьевич": 154,
-      "Павлов Сергей Юрьевич": 167,
-      "Степанов Роман Викторович": 30,
-      "Южилин Виталий Александрович": 158,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000136072": 66,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 24,
+      "gas:candidate-vibid:347300370465": 45,
+      "gas:candidate-vibid:347300370508": 51,
+      "gas:candidate-vibid:1001000121860": 53,
+      "gas:candidate-vibid:1001000112224": 42,
+      "gas:candidate-vibid:1001000339480": 154,
+      "gas:candidate-vibid:347300370617": 167,
+      "gas:candidate-vibid:1001000195090": 30,
+      "gas:candidate-vibid:1001000188007": 158,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -2668,18 +2668,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 46,
-      "Антоненко Евгений Николаевич": 33,
-      "Аргунов Александр Юрьевич": 17,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 29,
-      "Ворогушин Виктор Анатольевич": 170,
-      "Грачев Сергей Юрьевич": 113,
-      "Динес Игорь Юрьевич": 351,
-      "Павлов Сергей Юрьевич": 38,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 380,
-      "Против всех": 378
+      "gas:candidate-vibid:1001000136072": 46,
+      "gas:candidate-vibid:347300370485": 33,
+      "gas:candidate-vibid:1001000202315": 17,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 29,
+      "gas:candidate-vibid:1001000121860": 170,
+      "gas:candidate-vibid:1001000112224": 113,
+      "gas:candidate-vibid:1001000339480": 351,
+      "gas:candidate-vibid:347300370617": 38,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 380,
+      "special:against-all": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -2729,18 +2729,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 52,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 10,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 21,
-      "Ворогушин Виктор Анатольевич": 191,
-      "Грачев Сергей Юрьевич": 113,
-      "Динес Игорь Юрьевич": 332,
-      "Павлов Сергей Юрьевич": 26,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 493,
-      "Против всех": 386
+      "gas:candidate-vibid:1001000136072": 52,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 10,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 21,
+      "gas:candidate-vibid:1001000121860": 191,
+      "gas:candidate-vibid:1001000112224": 113,
+      "gas:candidate-vibid:1001000339480": 332,
+      "gas:candidate-vibid:347300370617": 26,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 493,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -2790,18 +2790,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 56,
-      "Антоненко Евгений Николаевич": 20,
-      "Аргунов Александр Юрьевич": 23,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 23,
-      "Ворогушин Виктор Анатольевич": 153,
-      "Грачев Сергей Юрьевич": 109,
-      "Динес Игорь Юрьевич": 318,
-      "Павлов Сергей Юрьевич": 31,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 448,
-      "Против всех": 382
+      "gas:candidate-vibid:1001000136072": 56,
+      "gas:candidate-vibid:347300370485": 20,
+      "gas:candidate-vibid:1001000202315": 23,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 23,
+      "gas:candidate-vibid:1001000121860": 153,
+      "gas:candidate-vibid:1001000112224": 109,
+      "gas:candidate-vibid:1001000339480": 318,
+      "gas:candidate-vibid:347300370617": 31,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 448,
+      "special:against-all": 382
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -2851,18 +2851,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 43,
-      "Антоненко Евгений Николаевич": 20,
-      "Аргунов Александр Юрьевич": 14,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 93,
-      "Ворогушин Виктор Анатольевич": 103,
-      "Грачев Сергей Юрьевич": 78,
-      "Динес Игорь Юрьевич": 254,
-      "Павлов Сергей Юрьевич": 35,
-      "Степанов Роман Викторович": 21,
-      "Южилин Виталий Александрович": 192,
-      "Против всех": 418
+      "gas:candidate-vibid:1001000136072": 43,
+      "gas:candidate-vibid:347300370485": 20,
+      "gas:candidate-vibid:1001000202315": 14,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 93,
+      "gas:candidate-vibid:1001000121860": 103,
+      "gas:candidate-vibid:1001000112224": 78,
+      "gas:candidate-vibid:1001000339480": 254,
+      "gas:candidate-vibid:347300370617": 35,
+      "gas:candidate-vibid:1001000195090": 21,
+      "gas:candidate-vibid:1001000188007": 192,
+      "special:against-all": 418
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -2912,18 +2912,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 55,
-      "Антоненко Евгений Николаевич": 16,
-      "Аргунов Александр Юрьевич": 22,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 23,
-      "Ворогушин Виктор Анатольевич": 153,
-      "Грачев Сергей Юрьевич": 124,
-      "Динес Игорь Юрьевич": 325,
-      "Павлов Сергей Юрьевич": 38,
-      "Степанов Роман Викторович": 23,
-      "Южилин Виталий Александрович": 441,
-      "Против всех": 480
+      "gas:candidate-vibid:1001000136072": 55,
+      "gas:candidate-vibid:347300370485": 16,
+      "gas:candidate-vibid:1001000202315": 22,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 23,
+      "gas:candidate-vibid:1001000121860": 153,
+      "gas:candidate-vibid:1001000112224": 124,
+      "gas:candidate-vibid:1001000339480": 325,
+      "gas:candidate-vibid:347300370617": 38,
+      "gas:candidate-vibid:1001000195090": 23,
+      "gas:candidate-vibid:1001000188007": 441,
+      "special:against-all": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -2973,18 +2973,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 52,
-      "Антоненко Евгений Николаевич": 26,
-      "Аргунов Александр Юрьевич": 26,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 17,
-      "Ворогушин Виктор Анатольевич": 141,
-      "Грачев Сергей Юрьевич": 160,
-      "Динес Игорь Юрьевич": 321,
-      "Павлов Сергей Юрьевич": 34,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 472,
-      "Против всех": 505
+      "gas:candidate-vibid:1001000136072": 52,
+      "gas:candidate-vibid:347300370485": 26,
+      "gas:candidate-vibid:1001000202315": 26,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 17,
+      "gas:candidate-vibid:1001000121860": 141,
+      "gas:candidate-vibid:1001000112224": 160,
+      "gas:candidate-vibid:1001000339480": 321,
+      "gas:candidate-vibid:347300370617": 34,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 472,
+      "special:against-all": 505
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3034,18 +3034,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 51,
-      "Антоненко Евгений Николаевич": 27,
-      "Аргунов Александр Юрьевич": 20,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 35,
-      "Ворогушин Виктор Анатольевич": 175,
-      "Грачев Сергей Юрьевич": 149,
-      "Динес Игорь Юрьевич": 387,
-      "Павлов Сергей Юрьевич": 22,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 433,
-      "Против всех": 425
+      "gas:candidate-vibid:1001000136072": 51,
+      "gas:candidate-vibid:347300370485": 27,
+      "gas:candidate-vibid:1001000202315": 20,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 35,
+      "gas:candidate-vibid:1001000121860": 175,
+      "gas:candidate-vibid:1001000112224": 149,
+      "gas:candidate-vibid:1001000339480": 387,
+      "gas:candidate-vibid:347300370617": 22,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 433,
+      "special:against-all": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3095,18 +3095,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 54,
-      "Антоненко Евгений Николаевич": 35,
-      "Аргунов Александр Юрьевич": 28,
-      "Беляев Юрий Александрович": 13,
-      "Богданов Борис Сергеевич": 38,
-      "Ворогушин Виктор Анатольевич": 157,
-      "Грачев Сергей Юрьевич": 89,
-      "Динес Игорь Юрьевич": 341,
-      "Павлов Сергей Юрьевич": 66,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 344,
-      "Против всех": 406
+      "gas:candidate-vibid:1001000136072": 54,
+      "gas:candidate-vibid:347300370485": 35,
+      "gas:candidate-vibid:1001000202315": 28,
+      "gas:candidate-vibid:347300370465": 13,
+      "gas:candidate-vibid:347300370508": 38,
+      "gas:candidate-vibid:1001000121860": 157,
+      "gas:candidate-vibid:1001000112224": 89,
+      "gas:candidate-vibid:1001000339480": 341,
+      "gas:candidate-vibid:347300370617": 66,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 344,
+      "special:against-all": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3156,18 +3156,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 54,
-      "Антоненко Евгений Николаевич": 19,
-      "Аргунов Александр Юрьевич": 19,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 17,
-      "Ворогушин Виктор Анатольевич": 113,
-      "Грачев Сергей Юрьевич": 100,
-      "Динес Игорь Юрьевич": 313,
-      "Павлов Сергей Юрьевич": 54,
-      "Степанов Роман Викторович": 14,
-      "Южилин Виталий Александрович": 394,
-      "Против всех": 464
+      "gas:candidate-vibid:1001000136072": 54,
+      "gas:candidate-vibid:347300370485": 19,
+      "gas:candidate-vibid:1001000202315": 19,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 17,
+      "gas:candidate-vibid:1001000121860": 113,
+      "gas:candidate-vibid:1001000112224": 100,
+      "gas:candidate-vibid:1001000339480": 313,
+      "gas:candidate-vibid:347300370617": 54,
+      "gas:candidate-vibid:1001000195090": 14,
+      "gas:candidate-vibid:1001000188007": 394,
+      "special:against-all": 464
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3217,18 +3217,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 28,
-      "Антоненко Евгений Николаевич": 19,
-      "Аргунов Александр Юрьевич": 16,
-      "Беляев Юрий Александрович": 26,
-      "Богданов Борис Сергеевич": 17,
-      "Ворогушин Виктор Анатольевич": 99,
-      "Грачев Сергей Юрьевич": 115,
-      "Динес Игорь Юрьевич": 258,
-      "Павлов Сергей Юрьевич": 37,
-      "Степанов Роман Викторович": 21,
-      "Южилин Виталий Александрович": 342,
-      "Против всех": 525
+      "gas:candidate-vibid:1001000136072": 28,
+      "gas:candidate-vibid:347300370485": 19,
+      "gas:candidate-vibid:1001000202315": 16,
+      "gas:candidate-vibid:347300370465": 26,
+      "gas:candidate-vibid:347300370508": 17,
+      "gas:candidate-vibid:1001000121860": 99,
+      "gas:candidate-vibid:1001000112224": 115,
+      "gas:candidate-vibid:1001000339480": 258,
+      "gas:candidate-vibid:347300370617": 37,
+      "gas:candidate-vibid:1001000195090": 21,
+      "gas:candidate-vibid:1001000188007": 342,
+      "special:against-all": 525
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3278,18 +3278,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 42,
-      "Антоненко Евгений Николаевич": 14,
-      "Аргунов Александр Юрьевич": 18,
-      "Беляев Юрий Александрович": 27,
-      "Богданов Борис Сергеевич": 25,
-      "Ворогушин Виктор Анатольевич": 121,
-      "Грачев Сергей Юрьевич": 132,
-      "Динес Игорь Юрьевич": 365,
-      "Павлов Сергей Юрьевич": 37,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 331,
-      "Против всех": 467
+      "gas:candidate-vibid:1001000136072": 42,
+      "gas:candidate-vibid:347300370485": 14,
+      "gas:candidate-vibid:1001000202315": 18,
+      "gas:candidate-vibid:347300370465": 27,
+      "gas:candidate-vibid:347300370508": 25,
+      "gas:candidate-vibid:1001000121860": 121,
+      "gas:candidate-vibid:1001000112224": 132,
+      "gas:candidate-vibid:1001000339480": 365,
+      "gas:candidate-vibid:347300370617": 37,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 331,
+      "special:against-all": 467
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3339,18 +3339,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 34,
-      "Антоненко Евгений Николаевич": 24,
-      "Аргунов Александр Юрьевич": 23,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 31,
-      "Ворогушин Виктор Анатольевич": 157,
-      "Грачев Сергей Юрьевич": 140,
-      "Динес Игорь Юрьевич": 383,
-      "Павлов Сергей Юрьевич": 34,
-      "Степанов Роман Викторович": 13,
-      "Южилин Виталий Александрович": 381,
-      "Против всех": 542
+      "gas:candidate-vibid:1001000136072": 34,
+      "gas:candidate-vibid:347300370485": 24,
+      "gas:candidate-vibid:1001000202315": 23,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 31,
+      "gas:candidate-vibid:1001000121860": 157,
+      "gas:candidate-vibid:1001000112224": 140,
+      "gas:candidate-vibid:1001000339480": 383,
+      "gas:candidate-vibid:347300370617": 34,
+      "gas:candidate-vibid:1001000195090": 13,
+      "gas:candidate-vibid:1001000188007": 381,
+      "special:against-all": 542
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3400,18 +3400,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 44,
-      "Антоненко Евгений Николаевич": 24,
-      "Аргунов Александр Юрьевич": 23,
-      "Беляев Юрий Александрович": 26,
-      "Богданов Борис Сергеевич": 20,
-      "Ворогушин Виктор Анатольевич": 94,
-      "Грачев Сергей Юрьевич": 102,
-      "Динес Игорь Юрьевич": 248,
-      "Павлов Сергей Юрьевич": 60,
-      "Степанов Роман Викторович": 21,
-      "Южилин Виталий Александрович": 292,
-      "Против всех": 471
+      "gas:candidate-vibid:1001000136072": 44,
+      "gas:candidate-vibid:347300370485": 24,
+      "gas:candidate-vibid:1001000202315": 23,
+      "gas:candidate-vibid:347300370465": 26,
+      "gas:candidate-vibid:347300370508": 20,
+      "gas:candidate-vibid:1001000121860": 94,
+      "gas:candidate-vibid:1001000112224": 102,
+      "gas:candidate-vibid:1001000339480": 248,
+      "gas:candidate-vibid:347300370617": 60,
+      "gas:candidate-vibid:1001000195090": 21,
+      "gas:candidate-vibid:1001000188007": 292,
+      "special:against-all": 471
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3461,18 +3461,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 45,
-      "Антоненко Евгений Николаевич": 21,
-      "Аргунов Александр Юрьевич": 19,
-      "Беляев Юрий Александрович": 27,
-      "Богданов Борис Сергеевич": 14,
-      "Ворогушин Виктор Анатольевич": 119,
-      "Грачев Сергей Юрьевич": 102,
-      "Динес Игорь Юрьевич": 285,
-      "Павлов Сергей Юрьевич": 37,
-      "Степанов Роман Викторович": 12,
-      "Южилин Виталий Александрович": 295,
-      "Против всех": 410
+      "gas:candidate-vibid:1001000136072": 45,
+      "gas:candidate-vibid:347300370485": 21,
+      "gas:candidate-vibid:1001000202315": 19,
+      "gas:candidate-vibid:347300370465": 27,
+      "gas:candidate-vibid:347300370508": 14,
+      "gas:candidate-vibid:1001000121860": 119,
+      "gas:candidate-vibid:1001000112224": 102,
+      "gas:candidate-vibid:1001000339480": 285,
+      "gas:candidate-vibid:347300370617": 37,
+      "gas:candidate-vibid:1001000195090": 12,
+      "gas:candidate-vibid:1001000188007": 295,
+      "special:against-all": 410
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3522,18 +3522,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 69,
-      "Антоненко Евгений Николаевич": 24,
-      "Аргунов Александр Юрьевич": 25,
-      "Беляев Юрий Александрович": 17,
-      "Богданов Борис Сергеевич": 42,
-      "Ворогушин Виктор Анатольевич": 125,
-      "Грачев Сергей Юрьевич": 145,
-      "Динес Игорь Юрьевич": 346,
-      "Павлов Сергей Юрьевич": 47,
-      "Степанов Роман Викторович": 13,
-      "Южилин Виталий Александрович": 455,
-      "Против всех": 493
+      "gas:candidate-vibid:1001000136072": 69,
+      "gas:candidate-vibid:347300370485": 24,
+      "gas:candidate-vibid:1001000202315": 25,
+      "gas:candidate-vibid:347300370465": 17,
+      "gas:candidate-vibid:347300370508": 42,
+      "gas:candidate-vibid:1001000121860": 125,
+      "gas:candidate-vibid:1001000112224": 145,
+      "gas:candidate-vibid:1001000339480": 346,
+      "gas:candidate-vibid:347300370617": 47,
+      "gas:candidate-vibid:1001000195090": 13,
+      "gas:candidate-vibid:1001000188007": 455,
+      "special:against-all": 493
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3583,18 +3583,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 99,
-      "Антоненко Евгений Николаевич": 14,
-      "Аргунов Александр Юрьевич": 23,
-      "Беляев Юрий Александрович": 29,
-      "Богданов Борис Сергеевич": 118,
-      "Ворогушин Виктор Анатольевич": 117,
-      "Грачев Сергей Юрьевич": 109,
-      "Динес Игорь Юрьевич": 294,
-      "Павлов Сергей Юрьевич": 27,
-      "Степанов Роман Викторович": 32,
-      "Южилин Виталий Александрович": 302,
-      "Против всех": 592
+      "gas:candidate-vibid:1001000136072": 99,
+      "gas:candidate-vibid:347300370485": 14,
+      "gas:candidate-vibid:1001000202315": 23,
+      "gas:candidate-vibid:347300370465": 29,
+      "gas:candidate-vibid:347300370508": 118,
+      "gas:candidate-vibid:1001000121860": 117,
+      "gas:candidate-vibid:1001000112224": 109,
+      "gas:candidate-vibid:1001000339480": 294,
+      "gas:candidate-vibid:347300370617": 27,
+      "gas:candidate-vibid:1001000195090": 32,
+      "gas:candidate-vibid:1001000188007": 302,
+      "special:against-all": 592
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3644,18 +3644,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 63,
-      "Антоненко Евгений Николаевич": 25,
-      "Аргунов Александр Юрьевич": 17,
-      "Беляев Юрий Александрович": 17,
-      "Богданов Борис Сергеевич": 64,
-      "Ворогушин Виктор Анатольевич": 109,
-      "Грачев Сергей Юрьевич": 99,
-      "Динес Игорь Юрьевич": 255,
-      "Павлов Сергей Юрьевич": 47,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 303,
-      "Против всех": 515
+      "gas:candidate-vibid:1001000136072": 63,
+      "gas:candidate-vibid:347300370485": 25,
+      "gas:candidate-vibid:1001000202315": 17,
+      "gas:candidate-vibid:347300370465": 17,
+      "gas:candidate-vibid:347300370508": 64,
+      "gas:candidate-vibid:1001000121860": 109,
+      "gas:candidate-vibid:1001000112224": 99,
+      "gas:candidate-vibid:1001000339480": 255,
+      "gas:candidate-vibid:347300370617": 47,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 303,
+      "special:against-all": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3705,18 +3705,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 56,
-      "Антоненко Евгений Николаевич": 25,
-      "Аргунов Александр Юрьевич": 24,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 43,
-      "Ворогушин Виктор Анатольевич": 123,
-      "Грачев Сергей Юрьевич": 156,
-      "Динес Игорь Юрьевич": 365,
-      "Павлов Сергей Юрьевич": 39,
-      "Степанов Роман Викторович": 26,
-      "Южилин Виталий Александрович": 306,
-      "Против всех": 535
+      "gas:candidate-vibid:1001000136072": 56,
+      "gas:candidate-vibid:347300370485": 25,
+      "gas:candidate-vibid:1001000202315": 24,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 43,
+      "gas:candidate-vibid:1001000121860": 123,
+      "gas:candidate-vibid:1001000112224": 156,
+      "gas:candidate-vibid:1001000339480": 365,
+      "gas:candidate-vibid:347300370617": 39,
+      "gas:candidate-vibid:1001000195090": 26,
+      "gas:candidate-vibid:1001000188007": 306,
+      "special:against-all": 535
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3766,18 +3766,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 11,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 11,
-      "Ворогушин Виктор Анатольевич": 13,
-      "Грачев Сергей Юрьевич": 42,
-      "Динес Игорь Юрьевич": 2,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 35,
-      "Южилин Виталий Александрович": 1,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136072": 11,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 11,
+      "gas:candidate-vibid:1001000121860": 13,
+      "gas:candidate-vibid:1001000112224": 42,
+      "gas:candidate-vibid:1001000339480": 2,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 35,
+      "gas:candidate-vibid:1001000188007": 1,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370452&region=0&sub_region=0&type=429",
@@ -3827,18 +3827,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 45,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 15,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 66,
-      "Грачев Сергей Юрьевич": 64,
-      "Динес Игорь Юрьевич": 168,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 8,
-      "Южилин Виталий Александрович": 345,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136072": 45,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 15,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 66,
+      "gas:candidate-vibid:1001000112224": 64,
+      "gas:candidate-vibid:1001000339480": 168,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 8,
+      "gas:candidate-vibid:1001000188007": 345,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -3888,18 +3888,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 42,
-      "Антоненко Евгений Николаевич": 17,
-      "Аргунов Александр Юрьевич": 19,
-      "Беляев Юрий Александрович": 16,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 87,
-      "Грачев Сергей Юрьевич": 80,
-      "Динес Игорь Юрьевич": 182,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 573,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136072": 42,
+      "gas:candidate-vibid:347300370485": 17,
+      "gas:candidate-vibid:1001000202315": 19,
+      "gas:candidate-vibid:347300370465": 16,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 87,
+      "gas:candidate-vibid:1001000112224": 80,
+      "gas:candidate-vibid:1001000339480": 182,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 573,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -3949,18 +3949,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 16,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 12,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 57,
-      "Грачев Сергей Юрьевич": 39,
-      "Динес Игорь Юрьевич": 144,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 296,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000136072": 16,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 12,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 57,
+      "gas:candidate-vibid:1001000112224": 39,
+      "gas:candidate-vibid:1001000339480": 144,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 296,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4010,18 +4010,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 8,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 61,
-      "Грачев Сергей Юрьевич": 33,
-      "Динес Игорь Юрьевич": 114,
-      "Павлов Сергей Юрьевич": 15,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 239,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 8,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 61,
+      "gas:candidate-vibid:1001000112224": 33,
+      "gas:candidate-vibid:1001000339480": 114,
+      "gas:candidate-vibid:347300370617": 15,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 239,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4071,18 +4071,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 33,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 13,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 14,
-      "Ворогушин Виктор Анатольевич": 49,
-      "Грачев Сергей Юрьевич": 40,
-      "Динес Игорь Юрьевич": 143,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 352,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136072": 33,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 13,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 14,
+      "gas:candidate-vibid:1001000121860": 49,
+      "gas:candidate-vibid:1001000112224": 40,
+      "gas:candidate-vibid:1001000339480": 143,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 352,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4132,18 +4132,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 66,
-      "Антоненко Евгений Николаевич": 14,
-      "Аргунов Александр Юрьевич": 19,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 25,
-      "Ворогушин Виктор Анатольевич": 140,
-      "Грачев Сергей Юрьевич": 104,
-      "Динес Игорь Юрьевич": 160,
-      "Павлов Сергей Юрьевич": 41,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 472,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000136072": 66,
+      "gas:candidate-vibid:347300370485": 14,
+      "gas:candidate-vibid:1001000202315": 19,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 25,
+      "gas:candidate-vibid:1001000121860": 140,
+      "gas:candidate-vibid:1001000112224": 104,
+      "gas:candidate-vibid:1001000339480": 160,
+      "gas:candidate-vibid:347300370617": 41,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 472,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4193,18 +4193,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 51,
-      "Антоненко Евгений Николаевич": 8,
-      "Аргунов Александр Юрьевич": 20,
-      "Беляев Юрий Александрович": 22,
-      "Богданов Борис Сергеевич": 23,
-      "Ворогушин Виктор Анатольевич": 104,
-      "Грачев Сергей Юрьевич": 72,
-      "Динес Игорь Юрьевич": 222,
-      "Павлов Сергей Юрьевич": 19,
-      "Степанов Роман Викторович": 12,
-      "Южилин Виталий Александрович": 560,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000136072": 51,
+      "gas:candidate-vibid:347300370485": 8,
+      "gas:candidate-vibid:1001000202315": 20,
+      "gas:candidate-vibid:347300370465": 22,
+      "gas:candidate-vibid:347300370508": 23,
+      "gas:candidate-vibid:1001000121860": 104,
+      "gas:candidate-vibid:1001000112224": 72,
+      "gas:candidate-vibid:1001000339480": 222,
+      "gas:candidate-vibid:347300370617": 19,
+      "gas:candidate-vibid:1001000195090": 12,
+      "gas:candidate-vibid:1001000188007": 560,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4254,18 +4254,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 34,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 11,
-      "Беляев Юрий Александрович": 23,
-      "Богданов Борис Сергеевич": 16,
-      "Ворогушин Виктор Анатольевич": 104,
-      "Грачев Сергей Юрьевич": 117,
-      "Динес Игорь Юрьевич": 239,
-      "Павлов Сергей Юрьевич": 9,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 501,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136072": 34,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 11,
+      "gas:candidate-vibid:347300370465": 23,
+      "gas:candidate-vibid:347300370508": 16,
+      "gas:candidate-vibid:1001000121860": 104,
+      "gas:candidate-vibid:1001000112224": 117,
+      "gas:candidate-vibid:1001000339480": 239,
+      "gas:candidate-vibid:347300370617": 9,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 501,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4315,18 +4315,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 55,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 13,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 19,
-      "Ворогушин Виктор Анатольевич": 71,
-      "Грачев Сергей Юрьевич": 77,
-      "Динес Игорь Юрьевич": 236,
-      "Павлов Сергей Юрьевич": 9,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 412,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136072": 55,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 13,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 19,
+      "gas:candidate-vibid:1001000121860": 71,
+      "gas:candidate-vibid:1001000112224": 77,
+      "gas:candidate-vibid:1001000339480": 236,
+      "gas:candidate-vibid:347300370617": 9,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 412,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4376,18 +4376,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 42,
-      "Антоненко Евгений Николаевич": 10,
-      "Аргунов Александр Юрьевич": 14,
-      "Беляев Юрий Александрович": 23,
-      "Богданов Борис Сергеевич": 19,
-      "Ворогушин Виктор Анатольевич": 78,
-      "Грачев Сергей Юрьевич": 97,
-      "Динес Игорь Юрьевич": 218,
-      "Павлов Сергей Юрьевич": 22,
-      "Степанов Роман Викторович": 13,
-      "Южилин Виталий Александрович": 419,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000136072": 42,
+      "gas:candidate-vibid:347300370485": 10,
+      "gas:candidate-vibid:1001000202315": 14,
+      "gas:candidate-vibid:347300370465": 23,
+      "gas:candidate-vibid:347300370508": 19,
+      "gas:candidate-vibid:1001000121860": 78,
+      "gas:candidate-vibid:1001000112224": 97,
+      "gas:candidate-vibid:1001000339480": 218,
+      "gas:candidate-vibid:347300370617": 22,
+      "gas:candidate-vibid:1001000195090": 13,
+      "gas:candidate-vibid:1001000188007": 419,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4437,18 +4437,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 29,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 52,
-      "Грачев Сергей Юрьевич": 49,
-      "Динес Игорь Юрьевич": 125,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 11,
-      "Южилин Виталий Александрович": 282,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136072": 29,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 52,
+      "gas:candidate-vibid:1001000112224": 49,
+      "gas:candidate-vibid:1001000339480": 125,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 11,
+      "gas:candidate-vibid:1001000188007": 282,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4498,18 +4498,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 14,
-      "Ворогушин Виктор Анатольевич": 44,
-      "Грачев Сергей Юрьевич": 43,
-      "Динес Игорь Юрьевич": 141,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 289,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 14,
+      "gas:candidate-vibid:1001000121860": 44,
+      "gas:candidate-vibid:1001000112224": 43,
+      "gas:candidate-vibid:1001000339480": 141,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 289,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4559,18 +4559,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 56,
-      "Антоненко Евгений Николаевич": 11,
-      "Аргунов Александр Юрьевич": 12,
-      "Беляев Юрий Александрович": 23,
-      "Богданов Борис Сергеевич": 20,
-      "Ворогушин Виктор Анатольевич": 88,
-      "Грачев Сергей Юрьевич": 56,
-      "Динес Игорь Юрьевич": 199,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 495,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000136072": 56,
+      "gas:candidate-vibid:347300370485": 11,
+      "gas:candidate-vibid:1001000202315": 12,
+      "gas:candidate-vibid:347300370465": 23,
+      "gas:candidate-vibid:347300370508": 20,
+      "gas:candidate-vibid:1001000121860": 88,
+      "gas:candidate-vibid:1001000112224": 56,
+      "gas:candidate-vibid:1001000339480": 199,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 495,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4620,18 +4620,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 25,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 17,
-      "Богданов Борис Сергеевич": 11,
-      "Ворогушин Виктор Анатольевич": 52,
-      "Грачев Сергей Юрьевич": 61,
-      "Динес Игорь Юрьевич": 125,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 357,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000136072": 25,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 17,
+      "gas:candidate-vibid:347300370508": 11,
+      "gas:candidate-vibid:1001000121860": 52,
+      "gas:candidate-vibid:1001000112224": 61,
+      "gas:candidate-vibid:1001000339480": 125,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 357,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4681,18 +4681,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 30,
-      "Антоненко Евгений Николаевич": 15,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 48,
-      "Грачев Сергей Юрьевич": 47,
-      "Динес Игорь Юрьевич": 119,
-      "Павлов Сергей Юрьевич": 18,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 266,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000136072": 30,
+      "gas:candidate-vibid:347300370485": 15,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 48,
+      "gas:candidate-vibid:1001000112224": 47,
+      "gas:candidate-vibid:1001000339480": 119,
+      "gas:candidate-vibid:347300370617": 18,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 266,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4742,18 +4742,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 54,
-      "Грачев Сергей Юрьевич": 35,
-      "Динес Игорь Юрьевич": 130,
-      "Павлов Сергей Юрьевич": 15,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 273,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 54,
+      "gas:candidate-vibid:1001000112224": 35,
+      "gas:candidate-vibid:1001000339480": 130,
+      "gas:candidate-vibid:347300370617": 15,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 273,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4803,18 +4803,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 49,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 10,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 69,
-      "Ворогушин Виктор Анатольевич": 77,
-      "Грачев Сергей Юрьевич": 13,
-      "Динес Игорь Юрьевич": 201,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 285,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000136072": 49,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 10,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 69,
+      "gas:candidate-vibid:1001000121860": 77,
+      "gas:candidate-vibid:1001000112224": 13,
+      "gas:candidate-vibid:1001000339480": 201,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 285,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4864,18 +4864,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 43,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 66,
-      "Грачев Сергей Юрьевич": 77,
-      "Динес Игорь Юрьевич": 182,
-      "Павлов Сергей Юрьевич": 26,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 342,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136072": 43,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 66,
+      "gas:candidate-vibid:1001000112224": 77,
+      "gas:candidate-vibid:1001000339480": 182,
+      "gas:candidate-vibid:347300370617": 26,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 342,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4925,18 +4925,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 11,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 25,
-      "Ворогушин Виктор Анатольевич": 55,
-      "Грачев Сергей Юрьевич": 67,
-      "Динес Игорь Юрьевич": 112,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 13,
-      "Южилин Виталий Александрович": 281,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 11,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 25,
+      "gas:candidate-vibid:1001000121860": 55,
+      "gas:candidate-vibid:1001000112224": 67,
+      "gas:candidate-vibid:1001000339480": 112,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 13,
+      "gas:candidate-vibid:1001000188007": 281,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -4986,18 +4986,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 26,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 12,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 35,
-      "Ворогушин Виктор Анатольевич": 57,
-      "Грачев Сергей Юрьевич": 64,
-      "Динес Игорь Юрьевич": 160,
-      "Павлов Сергей Юрьевич": 22,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 251,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136072": 26,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 12,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 35,
+      "gas:candidate-vibid:1001000121860": 57,
+      "gas:candidate-vibid:1001000112224": 64,
+      "gas:candidate-vibid:1001000339480": 160,
+      "gas:candidate-vibid:347300370617": 22,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 251,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5047,18 +5047,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 13,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 35,
-      "Грачев Сергей Юрьевич": 22,
-      "Динес Игорь Юрьевич": 87,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 214,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000136072": 13,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 35,
+      "gas:candidate-vibid:1001000112224": 22,
+      "gas:candidate-vibid:1001000339480": 87,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 214,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5108,18 +5108,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 5,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 12,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 48,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 222,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136072": 5,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 12,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 48,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 222,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5169,18 +5169,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 11,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 18,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 76,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 347,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136072": 11,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 18,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 76,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 347,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5230,18 +5230,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 20,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 13,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 35,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 54,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000136072": 20,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 13,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 35,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 54,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5291,18 +5291,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 18,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 12,
-      "Грачев Сергей Юрьевич": 12,
-      "Динес Игорь Юрьевич": 162,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 266,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136072": 18,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 12,
+      "gas:candidate-vibid:1001000112224": 12,
+      "gas:candidate-vibid:1001000339480": 162,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 266,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5352,18 +5352,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 2,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 11,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 1,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 53,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 41,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136072": 2,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 11,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 1,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 53,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 41,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5413,18 +5413,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 2,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 0,
-      "Ворогушин Виктор Анатольевич": 4,
-      "Грачев Сергей Юрьевич": 2,
-      "Динес Игорь Юрьевич": 14,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 1,
-      "Южилин Виталий Александрович": 47,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136072": 2,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 0,
+      "gas:candidate-vibid:1001000121860": 4,
+      "gas:candidate-vibid:1001000112224": 2,
+      "gas:candidate-vibid:1001000339480": 14,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 1,
+      "gas:candidate-vibid:1001000188007": 47,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5474,18 +5474,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 20,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 42,
-      "Грачев Сергей Юрьевич": 17,
-      "Динес Игорь Юрьевич": 154,
-      "Павлов Сергей Юрьевич": 9,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 385,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 20,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 42,
+      "gas:candidate-vibid:1001000112224": 17,
+      "gas:candidate-vibid:1001000339480": 154,
+      "gas:candidate-vibid:347300370617": 9,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 385,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5535,18 +5535,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 3,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 0,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 4,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 9,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 47,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136072": 3,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 0,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 4,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 9,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 47,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5596,18 +5596,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 1,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 0,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 4,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 10,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 87,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136072": 1,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 0,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 4,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 10,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 87,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5657,18 +5657,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 7,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 6,
-      "Грачев Сергей Юрьевич": 2,
-      "Динес Игорь Юрьевич": 50,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 43,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136072": 7,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 6,
+      "gas:candidate-vibid:1001000112224": 2,
+      "gas:candidate-vibid:1001000339480": 50,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 43,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5718,18 +5718,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 12,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 3,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 24,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 59,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136072": 12,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 3,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 24,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 59,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5779,18 +5779,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 7,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 7,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 24,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 1,
-      "Южилин Виталий Александрович": 91,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136072": 7,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 7,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 24,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 1,
+      "gas:candidate-vibid:1001000188007": 91,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5840,18 +5840,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 20,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 25,
-      "Богданов Борис Сергеевич": 19,
-      "Ворогушин Виктор Анатольевич": 26,
-      "Грачев Сергей Юрьевич": 19,
-      "Динес Игорь Юрьевич": 99,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 253,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000136072": 20,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 25,
+      "gas:candidate-vibid:347300370508": 19,
+      "gas:candidate-vibid:1001000121860": 26,
+      "gas:candidate-vibid:1001000112224": 19,
+      "gas:candidate-vibid:1001000339480": 99,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 253,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5901,18 +5901,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 28,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 27,
-      "Ворогушин Виктор Анатольевич": 11,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 115,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 181,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136072": 28,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 27,
+      "gas:candidate-vibid:1001000121860": 11,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 115,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 181,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -5962,18 +5962,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 11,
-      "Ворогушин Виктор Анатольевич": 22,
-      "Грачев Сергей Юрьевич": 14,
-      "Динес Игорь Юрьевич": 112,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 294,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 11,
+      "gas:candidate-vibid:1001000121860": 22,
+      "gas:candidate-vibid:1001000112224": 14,
+      "gas:candidate-vibid:1001000339480": 112,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 294,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6023,18 +6023,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 23,
-      "Антоненко Евгений Николаевич": 8,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 20,
-      "Грачев Сергей Юрьевич": 10,
-      "Динес Игорь Юрьевич": 93,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 361,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136072": 23,
+      "gas:candidate-vibid:347300370485": 8,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 20,
+      "gas:candidate-vibid:1001000112224": 10,
+      "gas:candidate-vibid:1001000339480": 93,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 361,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6084,18 +6084,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 5,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 7,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 90,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 156,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136072": 5,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 7,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 90,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 156,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6145,18 +6145,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 27,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 8,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 52,
-      "Ворогушин Виктор Анатольевич": 26,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 130,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 11,
-      "Южилин Виталий Александрович": 332,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136072": 27,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 8,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 52,
+      "gas:candidate-vibid:1001000121860": 26,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 130,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 11,
+      "gas:candidate-vibid:1001000188007": 332,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6206,18 +6206,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 5,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 36,
-      "Ворогушин Виктор Анатольевич": 13,
-      "Грачев Сергей Юрьевич": 9,
-      "Динес Игорь Юрьевич": 71,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 137,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136072": 5,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 36,
+      "gas:candidate-vibid:1001000121860": 13,
+      "gas:candidate-vibid:1001000112224": 9,
+      "gas:candidate-vibid:1001000339480": 71,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 137,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6267,18 +6267,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 1,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 11,
-      "Ворогушин Виктор Анатольевич": 1,
-      "Грачев Сергей Юрьевич": 2,
-      "Динес Игорь Юрьевич": 45,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 1,
-      "Южилин Виталий Александрович": 74,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136072": 1,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 11,
+      "gas:candidate-vibid:1001000121860": 1,
+      "gas:candidate-vibid:1001000112224": 2,
+      "gas:candidate-vibid:1001000339480": 45,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 1,
+      "gas:candidate-vibid:1001000188007": 74,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6328,18 +6328,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 13,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 4,
-      "Грачев Сергей Юрьевич": 9,
-      "Динес Игорь Юрьевич": 94,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 294,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000136072": 13,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 4,
+      "gas:candidate-vibid:1001000112224": 9,
+      "gas:candidate-vibid:1001000339480": 94,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 294,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6389,18 +6389,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 8,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 3,
-      "Грачев Сергей Юрьевич": 1,
-      "Динес Игорь Юрьевич": 9,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 15,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136072": 8,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 3,
+      "gas:candidate-vibid:1001000112224": 1,
+      "gas:candidate-vibid:1001000339480": 9,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 15,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370454&region=0&sub_region=0&type=429",
@@ -6450,18 +6450,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 54,
-      "Антоненко Евгений Николаевич": 15,
-      "Аргунов Александр Юрьевич": 18,
-      "Беляев Юрий Александрович": 33,
-      "Богданов Борис Сергеевич": 39,
-      "Ворогушин Виктор Анатольевич": 60,
-      "Грачев Сергей Юрьевич": 42,
-      "Динес Игорь Юрьевич": 171,
-      "Павлов Сергей Юрьевич": 20,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 104,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000136072": 54,
+      "gas:candidate-vibid:347300370485": 15,
+      "gas:candidate-vibid:1001000202315": 18,
+      "gas:candidate-vibid:347300370465": 33,
+      "gas:candidate-vibid:347300370508": 39,
+      "gas:candidate-vibid:1001000121860": 60,
+      "gas:candidate-vibid:1001000112224": 42,
+      "gas:candidate-vibid:1001000339480": 171,
+      "gas:candidate-vibid:347300370617": 20,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 104,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6511,18 +6511,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 32,
-      "Антоненко Евгений Николаевич": 14,
-      "Аргунов Александр Юрьевич": 19,
-      "Беляев Юрий Александрович": 22,
-      "Богданов Борис Сергеевич": 21,
-      "Ворогушин Виктор Анатольевич": 72,
-      "Грачев Сергей Юрьевич": 31,
-      "Динес Игорь Юрьевич": 116,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 19,
-      "Южилин Виталий Александрович": 102,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136072": 32,
+      "gas:candidate-vibid:347300370485": 14,
+      "gas:candidate-vibid:1001000202315": 19,
+      "gas:candidate-vibid:347300370465": 22,
+      "gas:candidate-vibid:347300370508": 21,
+      "gas:candidate-vibid:1001000121860": 72,
+      "gas:candidate-vibid:1001000112224": 31,
+      "gas:candidate-vibid:1001000339480": 116,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 19,
+      "gas:candidate-vibid:1001000188007": 102,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6572,18 +6572,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 18,
-      "Аргунов Александр Юрьевич": 15,
-      "Беляев Юрий Александрович": 22,
-      "Богданов Борис Сергеевич": 23,
-      "Ворогушин Виктор Анатольевич": 100,
-      "Грачев Сергей Юрьевич": 42,
-      "Динес Игорь Юрьевич": 198,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 11,
-      "Южилин Виталий Александрович": 137,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 18,
+      "gas:candidate-vibid:1001000202315": 15,
+      "gas:candidate-vibid:347300370465": 22,
+      "gas:candidate-vibid:347300370508": 23,
+      "gas:candidate-vibid:1001000121860": 100,
+      "gas:candidate-vibid:1001000112224": 42,
+      "gas:candidate-vibid:1001000339480": 198,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 11,
+      "gas:candidate-vibid:1001000188007": 137,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6633,18 +6633,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 179,
-      "Антоненко Евгений Николаевич": 24,
-      "Аргунов Александр Юрьевич": 55,
-      "Беляев Юрий Александрович": 76,
-      "Богданов Борис Сергеевич": 63,
-      "Ворогушин Виктор Анатольевич": 98,
-      "Грачев Сергей Юрьевич": 57,
-      "Динес Игорь Юрьевич": 550,
-      "Павлов Сергей Юрьевич": 24,
-      "Степанов Роман Викторович": 39,
-      "Южилин Виталий Александрович": 117,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000136072": 179,
+      "gas:candidate-vibid:347300370485": 24,
+      "gas:candidate-vibid:1001000202315": 55,
+      "gas:candidate-vibid:347300370465": 76,
+      "gas:candidate-vibid:347300370508": 63,
+      "gas:candidate-vibid:1001000121860": 98,
+      "gas:candidate-vibid:1001000112224": 57,
+      "gas:candidate-vibid:1001000339480": 550,
+      "gas:candidate-vibid:347300370617": 24,
+      "gas:candidate-vibid:1001000195090": 39,
+      "gas:candidate-vibid:1001000188007": 117,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6694,18 +6694,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 12,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 14,
-      "Ворогушин Виктор Анатольевич": 2,
-      "Грачев Сергей Юрьевич": 9,
-      "Динес Игорь Юрьевич": 23,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 8,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136072": 12,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 14,
+      "gas:candidate-vibid:1001000121860": 2,
+      "gas:candidate-vibid:1001000112224": 9,
+      "gas:candidate-vibid:1001000339480": 23,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 8,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6755,18 +6755,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 17,
-      "Беляев Юрий Александрович": 22,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 40,
-      "Грачев Сергей Юрьевич": 27,
-      "Динес Игорь Юрьевич": 98,
-      "Павлов Сергей Юрьевич": 27,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 438,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 17,
+      "gas:candidate-vibid:347300370465": 22,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 40,
+      "gas:candidate-vibid:1001000112224": 27,
+      "gas:candidate-vibid:1001000339480": 98,
+      "gas:candidate-vibid:347300370617": 27,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 438,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6816,18 +6816,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 14,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 3,
-      "Ворогушин Виктор Анатольевич": 9,
-      "Грачев Сергей Юрьевич": 11,
-      "Динес Игорь Юрьевич": 21,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 85,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136072": 14,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 3,
+      "gas:candidate-vibid:1001000121860": 9,
+      "gas:candidate-vibid:1001000112224": 11,
+      "gas:candidate-vibid:1001000339480": 21,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 85,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6877,18 +6877,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 16,
-      "Аргунов Александр Юрьевич": 22,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 27,
-      "Ворогушин Виктор Анатольевич": 104,
-      "Грачев Сергей Юрьевич": 59,
-      "Динес Игорь Юрьевич": 201,
-      "Павлов Сергей Юрьевич": 28,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 180,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 16,
+      "gas:candidate-vibid:1001000202315": 22,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 27,
+      "gas:candidate-vibid:1001000121860": 104,
+      "gas:candidate-vibid:1001000112224": 59,
+      "gas:candidate-vibid:1001000339480": 201,
+      "gas:candidate-vibid:347300370617": 28,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 180,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6938,18 +6938,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 14,
-      "Антоненко Евгений Николаевич": 20,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 42,
-      "Грачев Сергей Юрьевич": 29,
-      "Динес Игорь Юрьевич": 60,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 179,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136072": 14,
+      "gas:candidate-vibid:347300370485": 20,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 42,
+      "gas:candidate-vibid:1001000112224": 29,
+      "gas:candidate-vibid:1001000339480": 60,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 179,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -6999,18 +6999,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 49,
-      "Антоненко Евгений Николаевич": 15,
-      "Аргунов Александр Юрьевич": 26,
-      "Беляев Юрий Александрович": 28,
-      "Богданов Борис Сергеевич": 34,
-      "Ворогушин Виктор Анатольевич": 73,
-      "Грачев Сергей Юрьевич": 43,
-      "Динес Игорь Юрьевич": 100,
-      "Павлов Сергей Юрьевич": 25,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 214,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000136072": 49,
+      "gas:candidate-vibid:347300370485": 15,
+      "gas:candidate-vibid:1001000202315": 26,
+      "gas:candidate-vibid:347300370465": 28,
+      "gas:candidate-vibid:347300370508": 34,
+      "gas:candidate-vibid:1001000121860": 73,
+      "gas:candidate-vibid:1001000112224": 43,
+      "gas:candidate-vibid:1001000339480": 100,
+      "gas:candidate-vibid:347300370617": 25,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 214,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7060,18 +7060,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 24,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 18,
-      "Богданов Борис Сергеевич": 17,
-      "Ворогушин Виктор Анатольевич": 35,
-      "Грачев Сергей Юрьевич": 26,
-      "Динес Игорь Юрьевич": 81,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 201,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136072": 24,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 18,
+      "gas:candidate-vibid:347300370508": 17,
+      "gas:candidate-vibid:1001000121860": 35,
+      "gas:candidate-vibid:1001000112224": 26,
+      "gas:candidate-vibid:1001000339480": 81,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 201,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7121,18 +7121,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 8,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 6,
-      "Грачев Сергей Юрьевич": 12,
-      "Динес Игорь Юрьевич": 21,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 18,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136072": 8,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 6,
+      "gas:candidate-vibid:1001000112224": 12,
+      "gas:candidate-vibid:1001000339480": 21,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 18,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7182,18 +7182,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 11,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 16,
-      "Ворогушин Виктор Анатольевич": 5,
-      "Грачев Сергей Юрьевич": 9,
-      "Динес Игорь Юрьевич": 24,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 11,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000136072": 11,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 16,
+      "gas:candidate-vibid:1001000121860": 5,
+      "gas:candidate-vibid:1001000112224": 9,
+      "gas:candidate-vibid:1001000339480": 24,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 11,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7243,18 +7243,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 57,
-      "Антоненко Евгений Николаевич": 11,
-      "Аргунов Александр Юрьевич": 38,
-      "Беляев Юрий Александрович": 39,
-      "Богданов Борис Сергеевич": 37,
-      "Ворогушин Виктор Анатольевич": 90,
-      "Грачев Сергей Юрьевич": 81,
-      "Динес Игорь Юрьевич": 222,
-      "Павлов Сергей Юрьевич": 43,
-      "Степанов Роман Викторович": 13,
-      "Южилин Виталий Александрович": 335,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000136072": 57,
+      "gas:candidate-vibid:347300370485": 11,
+      "gas:candidate-vibid:1001000202315": 38,
+      "gas:candidate-vibid:347300370465": 39,
+      "gas:candidate-vibid:347300370508": 37,
+      "gas:candidate-vibid:1001000121860": 90,
+      "gas:candidate-vibid:1001000112224": 81,
+      "gas:candidate-vibid:1001000339480": 222,
+      "gas:candidate-vibid:347300370617": 43,
+      "gas:candidate-vibid:1001000195090": 13,
+      "gas:candidate-vibid:1001000188007": 335,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7304,18 +7304,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 16,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 18,
-      "Беляев Юрий Александрович": 22,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 15,
-      "Грачев Сергей Юрьевич": 15,
-      "Динес Игорь Юрьевич": 41,
-      "Павлов Сергей Юрьевич": 20,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 137,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000136072": 16,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 18,
+      "gas:candidate-vibid:347300370465": 22,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 15,
+      "gas:candidate-vibid:1001000112224": 15,
+      "gas:candidate-vibid:1001000339480": 41,
+      "gas:candidate-vibid:347300370617": 20,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 137,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7365,18 +7365,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 26,
-      "Антоненко Евгений Николаевич": 8,
-      "Аргунов Александр Юрьевич": 12,
-      "Беляев Юрий Александрович": 13,
-      "Богданов Борис Сергеевич": 28,
-      "Ворогушин Виктор Анатольевич": 23,
-      "Грачев Сергей Юрьевич": 17,
-      "Динес Игорь Юрьевич": 45,
-      "Павлов Сергей Юрьевич": 16,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 45,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136072": 26,
+      "gas:candidate-vibid:347300370485": 8,
+      "gas:candidate-vibid:1001000202315": 12,
+      "gas:candidate-vibid:347300370465": 13,
+      "gas:candidate-vibid:347300370508": 28,
+      "gas:candidate-vibid:1001000121860": 23,
+      "gas:candidate-vibid:1001000112224": 17,
+      "gas:candidate-vibid:1001000339480": 45,
+      "gas:candidate-vibid:347300370617": 16,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 45,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7426,18 +7426,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 36,
-      "Антоненко Евгений Николаевич": 19,
-      "Аргунов Александр Юрьевич": 13,
-      "Беляев Юрий Александрович": 20,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 73,
-      "Грачев Сергей Юрьевич": 39,
-      "Динес Игорь Юрьевич": 180,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 17,
-      "Южилин Виталий Александрович": 430,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000136072": 36,
+      "gas:candidate-vibid:347300370485": 19,
+      "gas:candidate-vibid:1001000202315": 13,
+      "gas:candidate-vibid:347300370465": 20,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 73,
+      "gas:candidate-vibid:1001000112224": 39,
+      "gas:candidate-vibid:1001000339480": 180,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 17,
+      "gas:candidate-vibid:1001000188007": 430,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7487,18 +7487,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 18,
-      "Антоненко Евгений Николаевич": 8,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 20,
-      "Ворогушин Виктор Анатольевич": 7,
-      "Грачев Сергей Юрьевич": 11,
-      "Динес Игорь Юрьевич": 35,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 11,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136072": 18,
+      "gas:candidate-vibid:347300370485": 8,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 20,
+      "gas:candidate-vibid:1001000121860": 7,
+      "gas:candidate-vibid:1001000112224": 11,
+      "gas:candidate-vibid:1001000339480": 35,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 11,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7548,18 +7548,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 38,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 29,
-      "Беляев Юрий Александрович": 29,
-      "Богданов Борис Сергеевич": 19,
-      "Ворогушин Виктор Анатольевич": 23,
-      "Грачев Сергей Юрьевич": 56,
-      "Динес Игорь Юрьевич": 111,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 19,
-      "Южилин Виталий Александрович": 253,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136072": 38,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 29,
+      "gas:candidate-vibid:347300370465": 29,
+      "gas:candidate-vibid:347300370508": 19,
+      "gas:candidate-vibid:1001000121860": 23,
+      "gas:candidate-vibid:1001000112224": 56,
+      "gas:candidate-vibid:1001000339480": 111,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 19,
+      "gas:candidate-vibid:1001000188007": 253,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7609,18 +7609,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 37,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 13,
-      "Беляев Юрий Александрович": 28,
-      "Богданов Борис Сергеевич": 14,
-      "Ворогушин Виктор Анатольевич": 47,
-      "Грачев Сергей Юрьевич": 50,
-      "Динес Игорь Юрьевич": 117,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 303,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000136072": 37,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 13,
+      "gas:candidate-vibid:347300370465": 28,
+      "gas:candidate-vibid:347300370508": 14,
+      "gas:candidate-vibid:1001000121860": 47,
+      "gas:candidate-vibid:1001000112224": 50,
+      "gas:candidate-vibid:1001000339480": 117,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 303,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7670,18 +7670,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 34,
-      "Антоненко Евгений Николаевич": 15,
-      "Аргунов Александр Юрьевич": 14,
-      "Беляев Юрий Александрович": 36,
-      "Богданов Борис Сергеевич": 21,
-      "Ворогушин Виктор Анатольевич": 42,
-      "Грачев Сергей Юрьевич": 51,
-      "Динес Игорь Юрьевич": 131,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 239,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136072": 34,
+      "gas:candidate-vibid:347300370485": 15,
+      "gas:candidate-vibid:1001000202315": 14,
+      "gas:candidate-vibid:347300370465": 36,
+      "gas:candidate-vibid:347300370508": 21,
+      "gas:candidate-vibid:1001000121860": 42,
+      "gas:candidate-vibid:1001000112224": 51,
+      "gas:candidate-vibid:1001000339480": 131,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 239,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7731,18 +7731,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 15,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 24,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 23,
-      "Грачев Сергей Юрьевич": 30,
-      "Динес Игорь Юрьевич": 83,
-      "Павлов Сергей Юрьевич": 9,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 272,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000136072": 15,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 24,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 23,
+      "gas:candidate-vibid:1001000112224": 30,
+      "gas:candidate-vibid:1001000339480": 83,
+      "gas:candidate-vibid:347300370617": 9,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 272,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7792,18 +7792,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 49,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 18,
-      "Беляев Юрий Александрович": 28,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 74,
-      "Грачев Сергей Юрьевич": 36,
-      "Динес Игорь Юрьевич": 129,
-      "Павлов Сергей Юрьевич": 36,
-      "Степанов Роман Викторович": 19,
-      "Южилин Виталий Александрович": 396,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000136072": 49,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 18,
+      "gas:candidate-vibid:347300370465": 28,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 74,
+      "gas:candidate-vibid:1001000112224": 36,
+      "gas:candidate-vibid:1001000339480": 129,
+      "gas:candidate-vibid:347300370617": 36,
+      "gas:candidate-vibid:1001000195090": 19,
+      "gas:candidate-vibid:1001000188007": 396,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7853,18 +7853,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 8,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 11,
-      "Беляев Юрий Александрович": 13,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 54,
-      "Грачев Сергей Юрьевич": 20,
-      "Динес Игорь Юрьевич": 58,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 237,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000136072": 8,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 11,
+      "gas:candidate-vibid:347300370465": 13,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 54,
+      "gas:candidate-vibid:1001000112224": 20,
+      "gas:candidate-vibid:1001000339480": 58,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 237,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7914,18 +7914,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 14,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 36,
-      "Грачев Сергей Юрьевич": 20,
-      "Динес Игорь Юрьевич": 103,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 301,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136072": 14,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 36,
+      "gas:candidate-vibid:1001000112224": 20,
+      "gas:candidate-vibid:1001000339480": 103,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 301,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -7975,18 +7975,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 29,
-      "Антоненко Евгений Николаевич": 16,
-      "Аргунов Александр Юрьевич": 10,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 58,
-      "Грачев Сергей Юрьевич": 26,
-      "Динес Игорь Юрьевич": 75,
-      "Павлов Сергей Юрьевич": 9,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 221,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136072": 29,
+      "gas:candidate-vibid:347300370485": 16,
+      "gas:candidate-vibid:1001000202315": 10,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 58,
+      "gas:candidate-vibid:1001000112224": 26,
+      "gas:candidate-vibid:1001000339480": 75,
+      "gas:candidate-vibid:347300370617": 9,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 221,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8036,18 +8036,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 13,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 36,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 38,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 65,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000136072": 13,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 36,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 38,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 65,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8097,18 +8097,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 2,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 8,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 4,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136072": 2,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 8,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 4,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8158,18 +8158,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 55,
-      "Антоненко Евгений Николаевич": 14,
-      "Аргунов Александр Юрьевич": 12,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 40,
-      "Грачев Сергей Юрьевич": 29,
-      "Динес Игорь Юрьевич": 195,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 22,
-      "Южилин Виталий Александрович": 327,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000136072": 55,
+      "gas:candidate-vibid:347300370485": 14,
+      "gas:candidate-vibid:1001000202315": 12,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 40,
+      "gas:candidate-vibid:1001000112224": 29,
+      "gas:candidate-vibid:1001000339480": 195,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 22,
+      "gas:candidate-vibid:1001000188007": 327,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8219,18 +8219,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 6,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 19,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 29,
-      "Грачев Сергей Юрьевич": 27,
-      "Динес Игорь Юрьевич": 33,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 202,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136072": 6,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 19,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 29,
+      "gas:candidate-vibid:1001000112224": 27,
+      "gas:candidate-vibid:1001000339480": 33,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 202,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8280,18 +8280,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 24,
-      "Антоненко Евгений Николаевич": 12,
-      "Аргунов Александр Юрьевич": 18,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 59,
-      "Грачев Сергей Юрьевич": 49,
-      "Динес Игорь Юрьевич": 126,
-      "Павлов Сергей Юрьевич": 24,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 233,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000136072": 24,
+      "gas:candidate-vibid:347300370485": 12,
+      "gas:candidate-vibid:1001000202315": 18,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 59,
+      "gas:candidate-vibid:1001000112224": 49,
+      "gas:candidate-vibid:1001000339480": 126,
+      "gas:candidate-vibid:347300370617": 24,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 233,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8341,18 +8341,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 20,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 49,
-      "Грачев Сергей Юрьевич": 47,
-      "Динес Игорь Юрьевич": 132,
-      "Павлов Сергей Юрьевич": 18,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 227,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 20,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 49,
+      "gas:candidate-vibid:1001000112224": 47,
+      "gas:candidate-vibid:1001000339480": 132,
+      "gas:candidate-vibid:347300370617": 18,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 227,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8402,18 +8402,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 36,
-      "Антоненко Евгений Николаевич": 13,
-      "Аргунов Александр Юрьевич": 21,
-      "Беляев Юрий Александрович": 28,
-      "Богданов Борис Сергеевич": 16,
-      "Ворогушин Виктор Анатольевич": 52,
-      "Грачев Сергей Юрьевич": 67,
-      "Динес Игорь Юрьевич": 116,
-      "Павлов Сергей Юрьевич": 33,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 449,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000136072": 36,
+      "gas:candidate-vibid:347300370485": 13,
+      "gas:candidate-vibid:1001000202315": 21,
+      "gas:candidate-vibid:347300370465": 28,
+      "gas:candidate-vibid:347300370508": 16,
+      "gas:candidate-vibid:1001000121860": 52,
+      "gas:candidate-vibid:1001000112224": 67,
+      "gas:candidate-vibid:1001000339480": 116,
+      "gas:candidate-vibid:347300370617": 33,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 449,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8463,18 +8463,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 17,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 26,
-      "Грачев Сергей Юрьевич": 13,
-      "Динес Игорь Юрьевич": 26,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 370,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136072": 17,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 26,
+      "gas:candidate-vibid:1001000112224": 13,
+      "gas:candidate-vibid:1001000339480": 26,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 370,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8524,18 +8524,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 6,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 0,
-      "Ворогушин Виктор Анатольевич": 10,
-      "Грачев Сергей Юрьевич": 2,
-      "Динес Игорь Юрьевич": 45,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136072": 6,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 0,
+      "gas:candidate-vibid:1001000121860": 10,
+      "gas:candidate-vibid:1001000112224": 2,
+      "gas:candidate-vibid:1001000339480": 45,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8585,18 +8585,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 7,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 14,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 49,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 1,
-      "Южилин Виталий Александрович": 22,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000136072": 7,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 14,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 49,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 1,
+      "gas:candidate-vibid:1001000188007": 22,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8646,18 +8646,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 2,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 6,
-      "Грачев Сергей Юрьевич": 2,
-      "Динес Игорь Юрьевич": 5,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 16,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136072": 2,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 6,
+      "gas:candidate-vibid:1001000112224": 2,
+      "gas:candidate-vibid:1001000339480": 5,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 16,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8707,18 +8707,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 42,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 18,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 3,
-      "Грачев Сергей Юрьевич": 13,
-      "Динес Игорь Юрьевич": 18,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 4,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136072": 42,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 18,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 3,
+      "gas:candidate-vibid:1001000112224": 13,
+      "gas:candidate-vibid:1001000339480": 18,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 4,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370455&region=0&sub_region=0&type=429",
@@ -8768,18 +8768,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 43,
-      "Антоненко Евгений Николаевич": 8,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 49,
-      "Грачев Сергей Юрьевич": 31,
-      "Динес Игорь Юрьевич": 169,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 275,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000136072": 43,
+      "gas:candidate-vibid:347300370485": 8,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 49,
+      "gas:candidate-vibid:1001000112224": 31,
+      "gas:candidate-vibid:1001000339480": 169,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 275,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -8829,18 +8829,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 26,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 11,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 20,
-      "Ворогушин Виктор Анатольевич": 67,
-      "Грачев Сергей Юрьевич": 40,
-      "Динес Игорь Юрьевич": 131,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 205,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000136072": 26,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 11,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 20,
+      "gas:candidate-vibid:1001000121860": 67,
+      "gas:candidate-vibid:1001000112224": 40,
+      "gas:candidate-vibid:1001000339480": 131,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 205,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -8890,18 +8890,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 17,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 29,
-      "Грачев Сергей Юрьевич": 16,
-      "Динес Игорь Юрьевич": 95,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 127,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136072": 17,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 29,
+      "gas:candidate-vibid:1001000112224": 16,
+      "gas:candidate-vibid:1001000339480": 95,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 127,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -8951,18 +8951,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 5,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 37,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 66,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 81,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136072": 5,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 37,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 66,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 81,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9012,18 +9012,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 3,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 11,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 34,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 32,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136072": 3,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 11,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 34,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 32,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9073,18 +9073,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 9,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 3,
-      "Ворогушин Виктор Анатольевич": 13,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 78,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 14,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136072": 9,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 3,
+      "gas:candidate-vibid:1001000121860": 13,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 78,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 14,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9134,18 +9134,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 36,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 4,
-      "Ворогушин Виктор Анатольевич": 32,
-      "Грачев Сергей Юрьевич": 29,
-      "Динес Игорь Юрьевич": 154,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 195,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136072": 36,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 4,
+      "gas:candidate-vibid:1001000121860": 32,
+      "gas:candidate-vibid:1001000112224": 29,
+      "gas:candidate-vibid:1001000339480": 154,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 195,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9195,18 +9195,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 27,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 17,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 9,
-      "Ворогушин Виктор Анатольевич": 43,
-      "Грачев Сергей Юрьевич": 27,
-      "Динес Игорь Юрьевич": 118,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 8,
-      "Южилин Виталий Александрович": 253,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000136072": 27,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 17,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 9,
+      "gas:candidate-vibid:1001000121860": 43,
+      "gas:candidate-vibid:1001000112224": 27,
+      "gas:candidate-vibid:1001000339480": 118,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 8,
+      "gas:candidate-vibid:1001000188007": 253,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9256,18 +9256,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 17,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 36,
-      "Грачев Сергей Юрьевич": 31,
-      "Динес Игорь Юрьевич": 128,
-      "Павлов Сергей Юрьевич": 19,
-      "Степанов Роман Викторович": 14,
-      "Южилин Виталий Александрович": 231,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000136072": 17,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 36,
+      "gas:candidate-vibid:1001000112224": 31,
+      "gas:candidate-vibid:1001000339480": 128,
+      "gas:candidate-vibid:347300370617": 19,
+      "gas:candidate-vibid:1001000195090": 14,
+      "gas:candidate-vibid:1001000188007": 231,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9317,18 +9317,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 16,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 8,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 56,
-      "Грачев Сергей Юрьевич": 38,
-      "Динес Игорь Юрьевич": 111,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 8,
-      "Южилин Виталий Александрович": 208,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000136072": 16,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 8,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 56,
+      "gas:candidate-vibid:1001000112224": 38,
+      "gas:candidate-vibid:1001000339480": 111,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 8,
+      "gas:candidate-vibid:1001000188007": 208,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9378,18 +9378,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 24,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 15,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 16,
-      "Ворогушин Виктор Анатольевич": 81,
-      "Грачев Сергей Юрьевич": 40,
-      "Динес Игорь Юрьевич": 142,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 11,
-      "Южилин Виталий Александрович": 247,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136072": 24,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 15,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 16,
+      "gas:candidate-vibid:1001000121860": 81,
+      "gas:candidate-vibid:1001000112224": 40,
+      "gas:candidate-vibid:1001000339480": 142,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 11,
+      "gas:candidate-vibid:1001000188007": 247,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9439,18 +9439,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 4,
-      "Ворогушин Виктор Анатольевич": 98,
-      "Грачев Сергей Юрьевич": 33,
-      "Динес Игорь Юрьевич": 109,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 281,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 4,
+      "gas:candidate-vibid:1001000121860": 98,
+      "gas:candidate-vibid:1001000112224": 33,
+      "gas:candidate-vibid:1001000339480": 109,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 281,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9500,18 +9500,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 24,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 99,
-      "Грачев Сергей Юрьевич": 35,
-      "Динес Игорь Юрьевич": 132,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 226,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136072": 24,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 99,
+      "gas:candidate-vibid:1001000112224": 35,
+      "gas:candidate-vibid:1001000339480": 132,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 226,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9561,18 +9561,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 30,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 90,
-      "Грачев Сергей Юрьевич": 22,
-      "Динес Игорь Юрьевич": 129,
-      "Павлов Сергей Юрьевич": 20,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 240,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000136072": 30,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 90,
+      "gas:candidate-vibid:1001000112224": 22,
+      "gas:candidate-vibid:1001000339480": 129,
+      "gas:candidate-vibid:347300370617": 20,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 240,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9622,18 +9622,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 29,
-      "Антоненко Евгений Николаевич": 14,
-      "Аргунов Александр Юрьевич": 8,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 100,
-      "Грачев Сергей Юрьевич": 23,
-      "Динес Игорь Юрьевич": 143,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 11,
-      "Южилин Виталий Александрович": 255,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136072": 29,
+      "gas:candidate-vibid:347300370485": 14,
+      "gas:candidate-vibid:1001000202315": 8,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 100,
+      "gas:candidate-vibid:1001000112224": 23,
+      "gas:candidate-vibid:1001000339480": 143,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 11,
+      "gas:candidate-vibid:1001000188007": 255,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9683,18 +9683,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 34,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 99,
-      "Грачев Сергей Юрьевич": 30,
-      "Динес Игорь Юрьевич": 142,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 244,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136072": 34,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 99,
+      "gas:candidate-vibid:1001000112224": 30,
+      "gas:candidate-vibid:1001000339480": 142,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 244,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9744,18 +9744,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 15,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 13,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 105,
-      "Грачев Сергей Юрьевич": 38,
-      "Динес Игорь Юрьевич": 135,
-      "Павлов Сергей Юрьевич": 15,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 300,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136072": 15,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 13,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 105,
+      "gas:candidate-vibid:1001000112224": 38,
+      "gas:candidate-vibid:1001000339480": 135,
+      "gas:candidate-vibid:347300370617": 15,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 300,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9805,18 +9805,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 31,
-      "Антоненко Евгений Николаевич": 8,
-      "Аргунов Александр Юрьевич": 10,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 81,
-      "Грачев Сергей Юрьевич": 46,
-      "Динес Игорь Юрьевич": 187,
-      "Павлов Сергей Юрьевич": 19,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 242,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000136072": 31,
+      "gas:candidate-vibid:347300370485": 8,
+      "gas:candidate-vibid:1001000202315": 10,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 81,
+      "gas:candidate-vibid:1001000112224": 46,
+      "gas:candidate-vibid:1001000339480": 187,
+      "gas:candidate-vibid:347300370617": 19,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 242,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9866,18 +9866,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 32,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 111,
-      "Грачев Сергей Юрьевич": 36,
-      "Динес Игорь Юрьевич": 116,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 221,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000136072": 32,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 111,
+      "gas:candidate-vibid:1001000112224": 36,
+      "gas:candidate-vibid:1001000339480": 116,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 221,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9927,18 +9927,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 12,
-      "Аргунов Александр Юрьевич": 8,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 81,
-      "Грачев Сергей Юрьевич": 33,
-      "Динес Игорь Юрьевич": 110,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 213,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 12,
+      "gas:candidate-vibid:1001000202315": 8,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 81,
+      "gas:candidate-vibid:1001000112224": 33,
+      "gas:candidate-vibid:1001000339480": 110,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 213,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -9988,18 +9988,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 24,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 4,
-      "Ворогушин Виктор Анатольевич": 66,
-      "Грачев Сергей Юрьевич": 32,
-      "Динес Игорь Юрьевич": 170,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 152,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136072": 24,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 4,
+      "gas:candidate-vibid:1001000121860": 66,
+      "gas:candidate-vibid:1001000112224": 32,
+      "gas:candidate-vibid:1001000339480": 170,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 152,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10049,18 +10049,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 48,
-      "Антоненко Евгений Николаевич": 10,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 139,
-      "Ворогушин Виктор Анатольевич": 110,
-      "Грачев Сергей Юрьевич": 40,
-      "Динес Игорь Юрьевич": 209,
-      "Павлов Сергей Юрьевич": 16,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 349,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000136072": 48,
+      "gas:candidate-vibid:347300370485": 10,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 139,
+      "gas:candidate-vibid:1001000121860": 110,
+      "gas:candidate-vibid:1001000112224": 40,
+      "gas:candidate-vibid:1001000339480": 209,
+      "gas:candidate-vibid:347300370617": 16,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 349,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10110,18 +10110,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 30,
-      "Антоненко Евгений Николаевич": 10,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 51,
-      "Грачев Сергей Юрьевич": 40,
-      "Динес Игорь Юрьевич": 138,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 8,
-      "Южилин Виталий Александрович": 204,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136072": 30,
+      "gas:candidate-vibid:347300370485": 10,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 51,
+      "gas:candidate-vibid:1001000112224": 40,
+      "gas:candidate-vibid:1001000339480": 138,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 8,
+      "gas:candidate-vibid:1001000188007": 204,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10171,18 +10171,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 79,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 14,
-      "Беляев Юрий Александрович": 13,
-      "Богданов Борис Сергеевич": 25,
-      "Ворогушин Виктор Анатольевич": 69,
-      "Грачев Сергей Юрьевич": 43,
-      "Динес Игорь Юрьевич": 179,
-      "Павлов Сергей Юрьевич": 14,
-      "Степанов Роман Викторович": 21,
-      "Южилин Виталий Александрович": 487,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136072": 79,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 14,
+      "gas:candidate-vibid:347300370465": 13,
+      "gas:candidate-vibid:347300370508": 25,
+      "gas:candidate-vibid:1001000121860": 69,
+      "gas:candidate-vibid:1001000112224": 43,
+      "gas:candidate-vibid:1001000339480": 179,
+      "gas:candidate-vibid:347300370617": 14,
+      "gas:candidate-vibid:1001000195090": 21,
+      "gas:candidate-vibid:1001000188007": 487,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10232,18 +10232,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 5,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 4,
-      "Ворогушин Виктор Анатольевич": 47,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 67,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 2,
-      "Южилин Виталий Александрович": 175,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136072": 5,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 4,
+      "gas:candidate-vibid:1001000121860": 47,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 67,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 2,
+      "gas:candidate-vibid:1001000188007": 175,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10293,18 +10293,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 26,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 30,
-      "Ворогушин Виктор Анатольевич": 16,
-      "Грачев Сергей Юрьевич": 14,
-      "Динес Игорь Юрьевич": 108,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 130,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000136072": 26,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 30,
+      "gas:candidate-vibid:1001000121860": 16,
+      "gas:candidate-vibid:1001000112224": 14,
+      "gas:candidate-vibid:1001000339480": 108,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 130,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10354,18 +10354,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 15,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 73,
-      "Грачев Сергей Юрьевич": 11,
-      "Динес Игорь Юрьевич": 155,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 224,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136072": 15,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 73,
+      "gas:candidate-vibid:1001000112224": 11,
+      "gas:candidate-vibid:1001000339480": 155,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 224,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10415,18 +10415,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 14,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 3,
-      "Ворогушин Виктор Анатольевич": 9,
-      "Грачев Сергей Юрьевич": 12,
-      "Динес Игорь Юрьевич": 144,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 25,
-      "Южилин Виталий Александрович": 303,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136072": 14,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 3,
+      "gas:candidate-vibid:1001000121860": 9,
+      "gas:candidate-vibid:1001000112224": 12,
+      "gas:candidate-vibid:1001000339480": 144,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 25,
+      "gas:candidate-vibid:1001000188007": 303,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10476,18 +10476,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 20,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 20,
-      "Грачев Сергей Юрьевич": 34,
-      "Динес Игорь Юрьевич": 110,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 413,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136072": 20,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 20,
+      "gas:candidate-vibid:1001000112224": 34,
+      "gas:candidate-vibid:1001000339480": 110,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 413,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10537,18 +10537,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 51,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 8,
-      "Богданов Борис Сергеевич": 17,
-      "Ворогушин Виктор Анатольевич": 76,
-      "Грачев Сергей Юрьевич": 55,
-      "Динес Игорь Юрьевич": 238,
-      "Павлов Сергей Юрьевич": 23,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 439,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000136072": 51,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 8,
+      "gas:candidate-vibid:347300370508": 17,
+      "gas:candidate-vibid:1001000121860": 76,
+      "gas:candidate-vibid:1001000112224": 55,
+      "gas:candidate-vibid:1001000339480": 238,
+      "gas:candidate-vibid:347300370617": 23,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 439,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10598,18 +10598,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 9,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 3,
-      "Ворогушин Виктор Анатольевич": 7,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 41,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 71,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136072": 9,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 3,
+      "gas:candidate-vibid:1001000121860": 7,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 41,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 71,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10659,18 +10659,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 1,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 0,
-      "Ворогушин Виктор Анатольевич": 4,
-      "Грачев Сергей Юрьевич": 1,
-      "Динес Игорь Юрьевич": 20,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 48,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136072": 1,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 0,
+      "gas:candidate-vibid:1001000121860": 4,
+      "gas:candidate-vibid:1001000112224": 1,
+      "gas:candidate-vibid:1001000339480": 20,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 48,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10720,18 +10720,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 7,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 16,
-      "Богданов Борис Сергеевич": 7,
-      "Ворогушин Виктор Анатольевич": 23,
-      "Грачев Сергей Юрьевич": 1,
-      "Динес Игорь Юрьевич": 59,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 139,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000136072": 7,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 16,
+      "gas:candidate-vibid:347300370508": 7,
+      "gas:candidate-vibid:1001000121860": 23,
+      "gas:candidate-vibid:1001000112224": 1,
+      "gas:candidate-vibid:1001000339480": 59,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 139,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10781,18 +10781,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 0,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 7,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 18,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 131,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136072": 0,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 7,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 18,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 131,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10842,18 +10842,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 13,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 7,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 66,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 194,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136072": 13,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 7,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 66,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 194,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10903,18 +10903,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 11,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 0,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 25,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 69,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 107,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136072": 11,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 0,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 25,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 69,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 107,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -10964,18 +10964,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 19,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 23,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 109,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 132,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000136072": 19,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 23,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 109,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 132,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11025,18 +11025,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 3,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 9,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 5,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 15,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 48,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136072": 3,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 9,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 5,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 15,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 48,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11086,18 +11086,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 20,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 15,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 66,
-      "Павлов Сергей Юрьевич": 20,
-      "Степанов Роман Викторович": 13,
-      "Южилин Виталий Александрович": 114,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136072": 20,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 15,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 66,
+      "gas:candidate-vibid:347300370617": 20,
+      "gas:candidate-vibid:1001000195090": 13,
+      "gas:candidate-vibid:1001000188007": 114,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11147,18 +11147,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 7,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 0,
-      "Ворогушин Виктор Анатольевич": 18,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 70,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 103,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136072": 7,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 0,
+      "gas:candidate-vibid:1001000121860": 18,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 70,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 103,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11208,18 +11208,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 23,
-      "Антоненко Евгений Николаевич": 16,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 15,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 64,
-      "Грачев Сергей Юрьевич": 17,
-      "Динес Игорь Юрьевич": 147,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 522,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136072": 23,
+      "gas:candidate-vibid:347300370485": 16,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 15,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 64,
+      "gas:candidate-vibid:1001000112224": 17,
+      "gas:candidate-vibid:1001000339480": 147,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 522,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11269,18 +11269,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 8,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 13,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 56,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 205,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136072": 8,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 13,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 56,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 205,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11330,18 +11330,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 18,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 8,
-      "Беляев Юрий Александрович": 16,
-      "Богданов Борис Сергеевич": 4,
-      "Ворогушин Виктор Анатольевич": 84,
-      "Грачев Сергей Юрьевич": 10,
-      "Динес Игорь Юрьевич": 201,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 196,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136072": 18,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 8,
+      "gas:candidate-vibid:347300370465": 16,
+      "gas:candidate-vibid:347300370508": 4,
+      "gas:candidate-vibid:1001000121860": 84,
+      "gas:candidate-vibid:1001000112224": 10,
+      "gas:candidate-vibid:1001000339480": 201,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 196,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11391,18 +11391,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 20,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 0,
-      "Ворогушин Виктор Анатольевич": 26,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 120,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 135,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136072": 20,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 0,
+      "gas:candidate-vibid:1001000121860": 26,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 120,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 135,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11452,18 +11452,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 16,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 35,
-      "Грачев Сергей Юрьевич": 6,
-      "Динес Игорь Юрьевич": 128,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 8,
-      "Южилин Виталий Александрович": 244,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136072": 16,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 35,
+      "gas:candidate-vibid:1001000112224": 6,
+      "gas:candidate-vibid:1001000339480": 128,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 8,
+      "gas:candidate-vibid:1001000188007": 244,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11513,18 +11513,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 13,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 71,
-      "Грачев Сергей Юрьевич": 4,
-      "Динес Игорь Юрьевич": 76,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 17,
-      "Южилин Виталий Александрович": 106,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136072": 13,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 71,
+      "gas:candidate-vibid:1001000112224": 4,
+      "gas:candidate-vibid:1001000339480": 76,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 17,
+      "gas:candidate-vibid:1001000188007": 106,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11574,18 +11574,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 12,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 48,
-      "Грачев Сергей Юрьевич": 19,
-      "Динес Игорь Юрьевич": 112,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 322,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136072": 12,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 48,
+      "gas:candidate-vibid:1001000112224": 19,
+      "gas:candidate-vibid:1001000339480": 112,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 322,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11635,18 +11635,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 23,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 57,
-      "Грачев Сергей Юрьевич": 13,
-      "Динес Игорь Юрьевич": 73,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 17,
-      "Южилин Виталий Александрович": 356,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136072": 23,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 57,
+      "gas:candidate-vibid:1001000112224": 13,
+      "gas:candidate-vibid:1001000339480": 73,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 17,
+      "gas:candidate-vibid:1001000188007": 356,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11696,18 +11696,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 24,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 9,
-      "Ворогушин Виктор Анатольевич": 102,
-      "Грачев Сергей Юрьевич": 29,
-      "Динес Игорь Юрьевич": 161,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 411,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136072": 24,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 9,
+      "gas:candidate-vibid:1001000121860": 102,
+      "gas:candidate-vibid:1001000112224": 29,
+      "gas:candidate-vibid:1001000339480": 161,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 411,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11757,18 +11757,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 7,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 14,
-      "Грачев Сергей Юрьевич": 7,
-      "Динес Игорь Юрьевич": 99,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 209,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000136072": 7,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 14,
+      "gas:candidate-vibid:1001000112224": 7,
+      "gas:candidate-vibid:1001000339480": 99,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 209,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11818,18 +11818,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 14,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 1,
-      "Ворогушин Виктор Анатольевич": 25,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 99,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 214,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136072": 14,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 1,
+      "gas:candidate-vibid:1001000121860": 25,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 99,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 214,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11879,18 +11879,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 33,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 3,
-      "Ворогушин Виктор Анатольевич": 40,
-      "Грачев Сергей Юрьевич": 10,
-      "Динес Игорь Юрьевич": 114,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 12,
-      "Южилин Виталий Александрович": 164,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136072": 33,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 3,
+      "gas:candidate-vibid:1001000121860": 40,
+      "gas:candidate-vibid:1001000112224": 10,
+      "gas:candidate-vibid:1001000339480": 114,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 12,
+      "gas:candidate-vibid:1001000188007": 164,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -11940,18 +11940,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 3,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 4,
-      "Ворогушин Виктор Анатольевич": 19,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 68,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 3,
-      "Южилин Виталий Александрович": 100,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136072": 3,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 4,
+      "gas:candidate-vibid:1001000121860": 19,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 68,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 3,
+      "gas:candidate-vibid:1001000188007": 100,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -12001,18 +12001,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 28,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 31,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 142,
-      "Грачев Сергей Юрьевич": 31,
-      "Динес Игорь Юрьевич": 182,
-      "Павлов Сергей Юрьевич": 9,
-      "Степанов Роман Викторович": 23,
-      "Южилин Виталий Александрович": 394,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000136072": 28,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 31,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 142,
+      "gas:candidate-vibid:1001000112224": 31,
+      "gas:candidate-vibid:1001000339480": 182,
+      "gas:candidate-vibid:347300370617": 9,
+      "gas:candidate-vibid:1001000195090": 23,
+      "gas:candidate-vibid:1001000188007": 394,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -12062,18 +12062,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 38,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 13,
-      "Беляев Юрий Александрович": 28,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 55,
-      "Грачев Сергей Юрьевич": 26,
-      "Динес Игорь Юрьевич": 119,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 24,
-      "Южилин Виталий Александрович": 130,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136072": 38,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 13,
+      "gas:candidate-vibid:347300370465": 28,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 55,
+      "gas:candidate-vibid:1001000112224": 26,
+      "gas:candidate-vibid:1001000339480": 119,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 24,
+      "gas:candidate-vibid:1001000188007": 130,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -12123,18 +12123,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 15,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 3,
-      "Ворогушин Виктор Анатольевич": 68,
-      "Грачев Сергей Юрьевич": 10,
-      "Динес Игорь Юрьевич": 86,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 310,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136072": 15,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 3,
+      "gas:candidate-vibid:1001000121860": 68,
+      "gas:candidate-vibid:1001000112224": 10,
+      "gas:candidate-vibid:1001000339480": 86,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 310,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -12184,18 +12184,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 33,
-      "Антоненко Евгений Николаевич": 9,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 71,
-      "Грачев Сергей Юрьевич": 21,
-      "Динес Игорь Юрьевич": 138,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 340,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000136072": 33,
+      "gas:candidate-vibid:347300370485": 9,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 71,
+      "gas:candidate-vibid:1001000112224": 21,
+      "gas:candidate-vibid:1001000339480": 138,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 340,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370456&region=0&sub_region=0&type=429",
@@ -12245,18 +12245,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 49,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 11,
-      "Беляев Юрий Александрович": 12,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 82,
-      "Грачев Сергей Юрьевич": 18,
-      "Динес Игорь Юрьевич": 172,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 26,
-      "Южилин Виталий Александрович": 233,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136072": 49,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 11,
+      "gas:candidate-vibid:347300370465": 12,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 82,
+      "gas:candidate-vibid:1001000112224": 18,
+      "gas:candidate-vibid:1001000339480": 172,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 26,
+      "gas:candidate-vibid:1001000188007": 233,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12306,18 +12306,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 46,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 26,
-      "Ворогушин Виктор Анатольевич": 64,
-      "Грачев Сергей Юрьевич": 11,
-      "Динес Игорь Юрьевич": 181,
-      "Павлов Сергей Юрьевич": 26,
-      "Степанов Роман Викторович": 26,
-      "Южилин Виталий Александрович": 344,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000136072": 46,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 26,
+      "gas:candidate-vibid:1001000121860": 64,
+      "gas:candidate-vibid:1001000112224": 11,
+      "gas:candidate-vibid:1001000339480": 181,
+      "gas:candidate-vibid:347300370617": 26,
+      "gas:candidate-vibid:1001000195090": 26,
+      "gas:candidate-vibid:1001000188007": 344,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12367,18 +12367,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 44,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 99,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 179,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 243,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136072": 44,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 99,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 179,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 243,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12428,18 +12428,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 56,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 17,
-      "Ворогушин Виктор Анатольевич": 81,
-      "Грачев Сергей Юрьевич": 10,
-      "Динес Игорь Юрьевич": 154,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 24,
-      "Южилин Виталий Александрович": 279,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136072": 56,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 17,
+      "gas:candidate-vibid:1001000121860": 81,
+      "gas:candidate-vibid:1001000112224": 10,
+      "gas:candidate-vibid:1001000339480": 154,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 24,
+      "gas:candidate-vibid:1001000188007": 279,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12489,18 +12489,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 49,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 11,
-      "Ворогушин Виктор Анатольевич": 50,
-      "Грачев Сергей Юрьевич": 7,
-      "Динес Игорь Юрьевич": 135,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 34,
-      "Южилин Виталий Александрович": 259,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000136072": 49,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 11,
+      "gas:candidate-vibid:1001000121860": 50,
+      "gas:candidate-vibid:1001000112224": 7,
+      "gas:candidate-vibid:1001000339480": 135,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 34,
+      "gas:candidate-vibid:1001000188007": 259,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12550,18 +12550,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 40,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 25,
-      "Ворогушин Виктор Анатольевич": 100,
-      "Грачев Сергей Юрьевич": 7,
-      "Динес Игорь Юрьевич": 119,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 17,
-      "Южилин Виталий Александрович": 204,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000136072": 40,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 25,
+      "gas:candidate-vibid:1001000121860": 100,
+      "gas:candidate-vibid:1001000112224": 7,
+      "gas:candidate-vibid:1001000339480": 119,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 17,
+      "gas:candidate-vibid:1001000188007": 204,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12611,18 +12611,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 61,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 79,
-      "Грачев Сергей Юрьевич": 14,
-      "Динес Игорь Юрьевич": 178,
-      "Павлов Сергей Юрьевич": 19,
-      "Степанов Роман Викторович": 33,
-      "Южилин Виталий Александрович": 256,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136072": 61,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 79,
+      "gas:candidate-vibid:1001000112224": 14,
+      "gas:candidate-vibid:1001000339480": 178,
+      "gas:candidate-vibid:347300370617": 19,
+      "gas:candidate-vibid:1001000195090": 33,
+      "gas:candidate-vibid:1001000188007": 256,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12672,18 +12672,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 34,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 46,
-      "Грачев Сергей Юрьевич": 15,
-      "Динес Игорь Юрьевич": 120,
-      "Павлов Сергей Юрьевич": 20,
-      "Степанов Роман Викторович": 25,
-      "Южилин Виталий Александрович": 236,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136072": 34,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 46,
+      "gas:candidate-vibid:1001000112224": 15,
+      "gas:candidate-vibid:1001000339480": 120,
+      "gas:candidate-vibid:347300370617": 20,
+      "gas:candidate-vibid:1001000195090": 25,
+      "gas:candidate-vibid:1001000188007": 236,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12733,18 +12733,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 29,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 16,
-      "Ворогушин Виктор Анатольевич": 73,
-      "Грачев Сергей Юрьевич": 12,
-      "Динес Игорь Юрьевич": 129,
-      "Павлов Сергей Юрьевич": 15,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 260,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000136072": 29,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 16,
+      "gas:candidate-vibid:1001000121860": 73,
+      "gas:candidate-vibid:1001000112224": 12,
+      "gas:candidate-vibid:1001000339480": 129,
+      "gas:candidate-vibid:347300370617": 15,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 260,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12794,18 +12794,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 53,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 48,
-      "Грачев Сергей Юрьевич": 20,
-      "Динес Игорь Юрьевич": 133,
-      "Павлов Сергей Юрьевич": 24,
-      "Степанов Роман Викторович": 25,
-      "Южилин Виталий Александрович": 240,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136072": 53,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 48,
+      "gas:candidate-vibid:1001000112224": 20,
+      "gas:candidate-vibid:1001000339480": 133,
+      "gas:candidate-vibid:347300370617": 24,
+      "gas:candidate-vibid:1001000195090": 25,
+      "gas:candidate-vibid:1001000188007": 240,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12855,18 +12855,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 59,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 14,
-      "Богданов Борис Сергеевич": 12,
-      "Ворогушин Виктор Анатольевич": 54,
-      "Грачев Сергей Юрьевич": 11,
-      "Динес Игорь Юрьевич": 144,
-      "Павлов Сергей Юрьевич": 10,
-      "Степанов Роман Викторович": 16,
-      "Южилин Виталий Александрович": 242,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136072": 59,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 14,
+      "gas:candidate-vibid:347300370508": 12,
+      "gas:candidate-vibid:1001000121860": 54,
+      "gas:candidate-vibid:1001000112224": 11,
+      "gas:candidate-vibid:1001000339480": 144,
+      "gas:candidate-vibid:347300370617": 10,
+      "gas:candidate-vibid:1001000195090": 16,
+      "gas:candidate-vibid:1001000188007": 242,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12916,18 +12916,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 44,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 101,
-      "Грачев Сергей Юрьевич": 17,
-      "Динес Игорь Юрьевич": 123,
-      "Павлов Сергей Юрьевич": 12,
-      "Степанов Роман Викторович": 30,
-      "Южилин Виталий Александрович": 246,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000136072": 44,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 101,
+      "gas:candidate-vibid:1001000112224": 17,
+      "gas:candidate-vibid:1001000339480": 123,
+      "gas:candidate-vibid:347300370617": 12,
+      "gas:candidate-vibid:1001000195090": 30,
+      "gas:candidate-vibid:1001000188007": 246,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -12977,18 +12977,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 48,
-      "Антоненко Евгений Николаевич": 7,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 11,
-      "Богданов Борис Сергеевич": 24,
-      "Ворогушин Виктор Анатольевич": 72,
-      "Грачев Сергей Юрьевич": 23,
-      "Динес Игорь Юрьевич": 200,
-      "Павлов Сергей Юрьевич": 13,
-      "Степанов Роман Викторович": 25,
-      "Южилин Виталий Александрович": 310,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000136072": 48,
+      "gas:candidate-vibid:347300370485": 7,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 11,
+      "gas:candidate-vibid:347300370508": 24,
+      "gas:candidate-vibid:1001000121860": 72,
+      "gas:candidate-vibid:1001000112224": 23,
+      "gas:candidate-vibid:1001000339480": 200,
+      "gas:candidate-vibid:347300370617": 13,
+      "gas:candidate-vibid:1001000195090": 25,
+      "gas:candidate-vibid:1001000188007": 310,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13038,18 +13038,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 45,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 20,
-      "Ворогушин Виктор Анатольевич": 65,
-      "Грачев Сергей Юрьевич": 12,
-      "Динес Игорь Юрьевич": 172,
-      "Павлов Сергей Юрьевич": 11,
-      "Степанов Роман Викторович": 24,
-      "Южилин Виталий Александрович": 216,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136072": 45,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 20,
+      "gas:candidate-vibid:1001000121860": 65,
+      "gas:candidate-vibid:1001000112224": 12,
+      "gas:candidate-vibid:1001000339480": 172,
+      "gas:candidate-vibid:347300370617": 11,
+      "gas:candidate-vibid:1001000195090": 24,
+      "gas:candidate-vibid:1001000188007": 216,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13099,18 +13099,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 44,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 5,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 13,
-      "Ворогушин Виктор Анатольевич": 64,
-      "Грачев Сергей Юрьевич": 15,
-      "Динес Игорь Юрьевич": 123,
-      "Павлов Сергей Юрьевич": 8,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 240,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000136072": 44,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 5,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 13,
+      "gas:candidate-vibid:1001000121860": 64,
+      "gas:candidate-vibid:1001000112224": 15,
+      "gas:candidate-vibid:1001000339480": 123,
+      "gas:candidate-vibid:347300370617": 8,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 240,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13160,18 +13160,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 51,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 18,
-      "Ворогушин Виктор Анатольевич": 45,
-      "Грачев Сергей Юрьевич": 14,
-      "Динес Игорь Юрьевич": 116,
-      "Павлов Сергей Юрьевич": 17,
-      "Степанов Роман Викторович": 21,
-      "Южилин Виталий Александрович": 244,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000136072": 51,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 18,
+      "gas:candidate-vibid:1001000121860": 45,
+      "gas:candidate-vibid:1001000112224": 14,
+      "gas:candidate-vibid:1001000339480": 116,
+      "gas:candidate-vibid:347300370617": 17,
+      "gas:candidate-vibid:1001000195090": 21,
+      "gas:candidate-vibid:1001000188007": 244,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13221,18 +13221,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 4,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 2,
-      "Ворогушин Виктор Анатольевич": 4,
-      "Грачев Сергей Юрьевич": 0,
-      "Динес Игорь Юрьевич": 6,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 16,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136072": 4,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 2,
+      "gas:candidate-vibid:1001000121860": 4,
+      "gas:candidate-vibid:1001000112224": 0,
+      "gas:candidate-vibid:1001000339480": 6,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 16,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13282,18 +13282,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 58,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 19,
-      "Ворогушин Виктор Анатольевич": 57,
-      "Грачев Сергей Юрьевич": 9,
-      "Динес Игорь Юрьевич": 140,
-      "Павлов Сергей Юрьевич": 6,
-      "Степанов Роман Викторович": 24,
-      "Южилин Виталий Александрович": 346,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000136072": 58,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 19,
+      "gas:candidate-vibid:1001000121860": 57,
+      "gas:candidate-vibid:1001000112224": 9,
+      "gas:candidate-vibid:1001000339480": 140,
+      "gas:candidate-vibid:347300370617": 6,
+      "gas:candidate-vibid:1001000195090": 24,
+      "gas:candidate-vibid:1001000188007": 346,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13343,18 +13343,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 54,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 6,
-      "Беляев Юрий Александрович": 7,
-      "Богданов Борис Сергеевич": 24,
-      "Ворогушин Виктор Анатольевич": 58,
-      "Грачев Сергей Юрьевич": 7,
-      "Динес Игорь Юрьевич": 170,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 299,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136072": 54,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 6,
+      "gas:candidate-vibid:347300370465": 7,
+      "gas:candidate-vibid:347300370508": 24,
+      "gas:candidate-vibid:1001000121860": 58,
+      "gas:candidate-vibid:1001000112224": 7,
+      "gas:candidate-vibid:1001000339480": 170,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 299,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13404,18 +13404,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 26,
-      "Антоненко Евгений Николаевич": 5,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 4,
-      "Богданов Борис Сергеевич": 19,
-      "Ворогушин Виктор Анатольевич": 62,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 118,
-      "Павлов Сергей Юрьевич": 7,
-      "Степанов Роман Викторович": 20,
-      "Южилин Виталий Александрович": 236,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136072": 26,
+      "gas:candidate-vibid:347300370485": 5,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 4,
+      "gas:candidate-vibid:347300370508": 19,
+      "gas:candidate-vibid:1001000121860": 62,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 118,
+      "gas:candidate-vibid:347300370617": 7,
+      "gas:candidate-vibid:1001000195090": 20,
+      "gas:candidate-vibid:1001000188007": 236,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13465,18 +13465,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 40,
-      "Антоненко Евгений Николаевич": 4,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 29,
-      "Ворогушин Виктор Анатольевич": 74,
-      "Грачев Сергей Юрьевич": 12,
-      "Динес Игорь Юрьевич": 125,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 18,
-      "Южилин Виталий Александрович": 361,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000136072": 40,
+      "gas:candidate-vibid:347300370485": 4,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 29,
+      "gas:candidate-vibid:1001000121860": 74,
+      "gas:candidate-vibid:1001000112224": 12,
+      "gas:candidate-vibid:1001000339480": 125,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 18,
+      "gas:candidate-vibid:1001000188007": 361,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13526,18 +13526,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 35,
-      "Антоненко Евгений Николаевич": 3,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 9,
-      "Богданов Борис Сергеевич": 11,
-      "Ворогушин Виктор Анатольевич": 94,
-      "Грачев Сергей Юрьевич": 27,
-      "Динес Игорь Юрьевич": 96,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 15,
-      "Южилин Виталий Александрович": 278,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136072": 35,
+      "gas:candidate-vibid:347300370485": 3,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 9,
+      "gas:candidate-vibid:347300370508": 11,
+      "gas:candidate-vibid:1001000121860": 94,
+      "gas:candidate-vibid:1001000112224": 27,
+      "gas:candidate-vibid:1001000339480": 96,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 15,
+      "gas:candidate-vibid:1001000188007": 278,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13587,18 +13587,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 29,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 9,
-      "Грачев Сергей Юрьевич": 7,
-      "Динес Игорь Юрьевич": 93,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 168,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000136072": 29,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 9,
+      "gas:candidate-vibid:1001000112224": 7,
+      "gas:candidate-vibid:1001000339480": 93,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 168,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13648,18 +13648,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 2,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 0,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 0,
-      "Грачев Сергей Юрьевич": 0,
-      "Динес Игорь Юрьевич": 25,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 0,
-      "Южилин Виталий Александрович": 39,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136072": 2,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 0,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 0,
+      "gas:candidate-vibid:1001000112224": 0,
+      "gas:candidate-vibid:1001000339480": 25,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 0,
+      "gas:candidate-vibid:1001000188007": 39,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13709,18 +13709,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 30,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 6,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 140,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 5,
-      "Южилин Виталий Александрович": 193,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136072": 30,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 6,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 140,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 5,
+      "gas:candidate-vibid:1001000188007": 193,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13770,18 +13770,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 15,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 4,
-      "Беляев Юрий Александрович": 5,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 17,
-      "Грачев Сергей Юрьевич": 8,
-      "Динес Игорь Юрьевич": 178,
-      "Павлов Сергей Юрьевич": 4,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 172,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000136072": 15,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 4,
+      "gas:candidate-vibid:347300370465": 5,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 17,
+      "gas:candidate-vibid:1001000112224": 8,
+      "gas:candidate-vibid:1001000339480": 178,
+      "gas:candidate-vibid:347300370617": 4,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 172,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13831,18 +13831,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 13,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 2,
-      "Богданов Борис Сергеевич": 5,
-      "Ворогушин Виктор Анатольевич": 14,
-      "Грачев Сергей Юрьевич": 1,
-      "Динес Игорь Юрьевич": 182,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 4,
-      "Южилин Виталий Александрович": 139,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136072": 13,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 2,
+      "gas:candidate-vibid:347300370508": 5,
+      "gas:candidate-vibid:1001000121860": 14,
+      "gas:candidate-vibid:1001000112224": 1,
+      "gas:candidate-vibid:1001000339480": 182,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 4,
+      "gas:candidate-vibid:1001000188007": 139,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13892,18 +13892,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 5,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 1,
-      "Богданов Борис Сергеевич": 0,
-      "Ворогушин Виктор Анатольевич": 0,
-      "Грачев Сергей Юрьевич": 0,
-      "Динес Игорь Юрьевич": 73,
-      "Павлов Сергей Юрьевич": 0,
-      "Степанов Роман Викторович": 1,
-      "Южилин Виталий Александрович": 45,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136072": 5,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 1,
+      "gas:candidate-vibid:347300370508": 0,
+      "gas:candidate-vibid:1001000121860": 0,
+      "gas:candidate-vibid:1001000112224": 0,
+      "gas:candidate-vibid:1001000339480": 73,
+      "gas:candidate-vibid:347300370617": 0,
+      "gas:candidate-vibid:1001000195090": 1,
+      "gas:candidate-vibid:1001000188007": 45,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -13953,18 +13953,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 21,
-      "Антоненко Евгений Николаевич": 2,
-      "Аргунов Александр Юрьевич": 7,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 23,
-      "Ворогушин Виктор Анатольевич": 45,
-      "Грачев Сергей Юрьевич": 9,
-      "Динес Игорь Юрьевич": 214,
-      "Павлов Сергей Юрьевич": 5,
-      "Степанов Роман Викторович": 7,
-      "Южилин Виталий Александрович": 374,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136072": 21,
+      "gas:candidate-vibid:347300370485": 2,
+      "gas:candidate-vibid:1001000202315": 7,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 23,
+      "gas:candidate-vibid:1001000121860": 45,
+      "gas:candidate-vibid:1001000112224": 9,
+      "gas:candidate-vibid:1001000339480": 214,
+      "gas:candidate-vibid:347300370617": 5,
+      "gas:candidate-vibid:1001000195090": 7,
+      "gas:candidate-vibid:1001000188007": 374,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -14014,18 +14014,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 48,
-      "Антоненко Евгений Николаевич": 6,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 10,
-      "Ворогушин Виктор Анатольевич": 58,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 170,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 25,
-      "Южилин Виталий Александрович": 266,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000136072": 48,
+      "gas:candidate-vibid:347300370485": 6,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 10,
+      "gas:candidate-vibid:1001000121860": 58,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 170,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 25,
+      "gas:candidate-vibid:1001000188007": 266,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -14075,18 +14075,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 19,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 3,
-      "Беляев Юрий Александрович": 6,
-      "Богданов Борис Сергеевич": 6,
-      "Ворогушин Виктор Анатольевич": 30,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 93,
-      "Павлов Сергей Юрьевич": 3,
-      "Степанов Роман Викторович": 10,
-      "Южилин Виталий Александрович": 100,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136072": 19,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 3,
+      "gas:candidate-vibid:347300370465": 6,
+      "gas:candidate-vibid:347300370508": 6,
+      "gas:candidate-vibid:1001000121860": 30,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 93,
+      "gas:candidate-vibid:347300370617": 3,
+      "gas:candidate-vibid:1001000195090": 10,
+      "gas:candidate-vibid:1001000188007": 100,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -14136,18 +14136,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 15,
-      "Антоненко Евгений Николаевич": 1,
-      "Аргунов Александр Юрьевич": 2,
-      "Беляев Юрий Александрович": 3,
-      "Богданов Борис Сергеевич": 8,
-      "Ворогушин Виктор Анатольевич": 10,
-      "Грачев Сергей Юрьевич": 3,
-      "Динес Игорь Юрьевич": 37,
-      "Павлов Сергей Юрьевич": 2,
-      "Степанов Роман Викторович": 9,
-      "Южилин Виталий Александрович": 120,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136072": 15,
+      "gas:candidate-vibid:347300370485": 1,
+      "gas:candidate-vibid:1001000202315": 2,
+      "gas:candidate-vibid:347300370465": 3,
+      "gas:candidate-vibid:347300370508": 8,
+      "gas:candidate-vibid:1001000121860": 10,
+      "gas:candidate-vibid:1001000112224": 3,
+      "gas:candidate-vibid:1001000339480": 37,
+      "gas:candidate-vibid:347300370617": 2,
+      "gas:candidate-vibid:1001000195090": 9,
+      "gas:candidate-vibid:1001000188007": 120,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",
@@ -14197,18 +14197,18 @@ export const duma_2003_uik_428_region_47_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Азиатсков Всеволод Васильевич": 19,
-      "Антоненко Евгений Николаевич": 0,
-      "Аргунов Александр Юрьевич": 1,
-      "Беляев Юрий Александрович": 10,
-      "Богданов Борис Сергеевич": 15,
-      "Ворогушин Виктор Анатольевич": 26,
-      "Грачев Сергей Юрьевич": 5,
-      "Динес Игорь Юрьевич": 136,
-      "Павлов Сергей Юрьевич": 1,
-      "Степанов Роман Викторович": 6,
-      "Южилин Виталий Александрович": 157,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136072": 19,
+      "gas:candidate-vibid:347300370485": 0,
+      "gas:candidate-vibid:1001000202315": 1,
+      "gas:candidate-vibid:347300370465": 10,
+      "gas:candidate-vibid:347300370508": 15,
+      "gas:candidate-vibid:1001000121860": 26,
+      "gas:candidate-vibid:1001000112224": 5,
+      "gas:candidate-vibid:1001000339480": 136,
+      "gas:candidate-vibid:347300370617": 1,
+      "gas:candidate-vibid:1001000195090": 6,
+      "gas:candidate-vibid:1001000188007": 157,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=473003009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=347300370457&region=0&sub_region=0&type=429",

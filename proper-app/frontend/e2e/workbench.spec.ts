@@ -1,24 +1,29 @@
 import { expect, test } from "@playwright/test";
 
-test("loads the physical field, filters a region, and opens a protocol", async ({ page }) => {
+test("loads the protocol-cloud screen, filters its display, and opens a scored protocol", async ({ page }) => {
   await page.goto("/");
-  await expect(page.getByRole("heading", { name: /physical precinct field/i })).toBeVisible();
-  await expect(page.getByText("96,284 physical UIKs")).toBeVisible();
+
+  await expect(page.getByRole("heading", { name: /turnout × result field/i })).toBeVisible();
+  await expect(page.getByText("96,284 plotted / 96,307 protocols")).toBeVisible();
   await expect(page.getByText("DEG outside model")).toBeVisible();
+  await expect(page.getByRole("heading", { name: "Distance from the election core" })).toBeVisible();
+  await expect(page.getByText("P_sus grades each complete UIK protocol", { exact: false })).toBeVisible();
+  await expect(page.getByLabel("Core protocol fraction")).toHaveValue("0.5");
+  await expect(page.getByLabel("P_sus review threshold")).toHaveValue("0.999");
 
-  await page.getByLabel("Analysis geography").selectOption("77");
-  await expect(page.getByText("3,658 physical UIKs")).toBeVisible();
+  await page.getByLabel("Display geography").selectOption("77");
+  await expect(page.getByText("3,658 plotted / 3,660 protocols")).toBeVisible();
+  await expect(page.getByText("scores fixed to the all-UIK model", { exact: false })).toBeVisible();
 
-  const response = await page.request.get("/api/elections/2021-duma/points?option=5&region=77");
-  const payload = await response.json() as { points: Array<{ turnout: number; result: number }> };
-  const target = payload.points.find((point) => point.turnout > 55 && point.turnout < 85 && point.result > 40 && point.result < 85)!;
-  const canvas = page.getByRole("img");
-  const box = await canvas.boundingBox();
-  expect(box).not.toBeNull();
-  await canvas.click({ position: {
-    x: 54 + target.turnout / 100 * (box!.width - 72),
-    y: 20 + (100 - target.result) / 100 * (box!.height - 66)
-  } });
+  await expect(page.getByRole("heading", { name: "Protocol review queue" })).toBeVisible();
+  await page.locator(".review-items button").first().click();
   await expect(page.getByText("Pinned physical precinct")).toBeVisible();
+  const scoreCard = page.locator(".clt-card");
+  await expect(scoreCard.getByText("P_sus grade")).toBeVisible();
+  await expect(scoreCard.locator(".score-line strong")).toHaveText(/^P[0-3]$/);
+  await expect(scoreCard.getByText("Actual", { exact: true })).toBeVisible();
+  await expect(scoreCard.getByText("Expected", { exact: true })).toBeVisible();
+  await expect(scoreCard.getByText("95% predictive interval")).toBeVisible();
+  await expect(scoreCard.getByText("probability of fraud", { exact: false })).toBeVisible();
   await expect(page.getByRole("link", { name: /official source/i })).toBeVisible();
 });

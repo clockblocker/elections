@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 157,
-      "Багишвили Евгений Нодариевич": 41,
-      "Козадеров Сергей Яковлевич": 25,
-      "Петров Николай Алексеевич": 21,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 178,
-      "Телелейко Леонид Федорович": 27,
-      "Тетерин Василий Николаевич": 276,
-      "Хорошилов Николай Михайлович": 157,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000335445": 157,
+      "special:official-result-label:39": 41,
+      "gas:candidate-vibid:1001000217902": 25,
+      "gas:candidate-vibid:1001000195043": 21,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 178,
+      "gas:candidate-vibid:1001000112189": 27,
+      "gas:candidate-vibid:1001000338627": 276,
+      "gas:candidate-vibid:323300870763": 157,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 156,
-      "Багишвили Евгений Нодариевич": 32,
-      "Козадеров Сергей Яковлевич": 28,
-      "Петров Николай Алексеевич": 36,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 241,
-      "Телелейко Леонид Федорович": 35,
-      "Тетерин Василий Николаевич": 151,
-      "Хорошилов Николай Михайлович": 136,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000335445": 156,
+      "special:official-result-label:39": 32,
+      "gas:candidate-vibid:1001000217902": 28,
+      "gas:candidate-vibid:1001000195043": 36,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 241,
+      "gas:candidate-vibid:1001000112189": 35,
+      "gas:candidate-vibid:1001000338627": 151,
+      "gas:candidate-vibid:323300870763": 136,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 134,
-      "Багишвили Евгений Нодариевич": 31,
-      "Козадеров Сергей Яковлевич": 40,
-      "Петров Николай Алексеевич": 20,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 125,
-      "Телелейко Леонид Федорович": 33,
-      "Тетерин Василий Николаевич": 162,
-      "Хорошилов Николай Михайлович": 169,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000335445": 134,
+      "special:official-result-label:39": 31,
+      "gas:candidate-vibid:1001000217902": 40,
+      "gas:candidate-vibid:1001000195043": 20,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 125,
+      "gas:candidate-vibid:1001000112189": 33,
+      "gas:candidate-vibid:1001000338627": 162,
+      "gas:candidate-vibid:323300870763": 169,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 101,
-      "Багишвили Евгений Нодариевич": 32,
-      "Козадеров Сергей Яковлевич": 32,
-      "Петров Николай Алексеевич": 28,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 339,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 154,
-      "Хорошилов Николай Михайлович": 87,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000335445": 101,
+      "special:official-result-label:39": 32,
+      "gas:candidate-vibid:1001000217902": 32,
+      "gas:candidate-vibid:1001000195043": 28,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 339,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 154,
+      "gas:candidate-vibid:323300870763": 87,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 116,
-      "Багишвили Евгений Нодариевич": 43,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 18,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 402,
-      "Телелейко Леонид Федорович": 37,
-      "Тетерин Василий Николаевич": 186,
-      "Хорошилов Николай Михайлович": 183,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000335445": 116,
+      "special:official-result-label:39": 43,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 18,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 402,
+      "gas:candidate-vibid:1001000112189": 37,
+      "gas:candidate-vibid:1001000338627": 186,
+      "gas:candidate-vibid:323300870763": 183,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 141,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 24,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 113,
-      "Телелейко Леонид Федорович": 35,
-      "Тетерин Василий Николаевич": 156,
-      "Хорошилов Николай Михайлович": 118,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000335445": 141,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 24,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 113,
+      "gas:candidate-vibid:1001000112189": 35,
+      "gas:candidate-vibid:1001000338627": 156,
+      "gas:candidate-vibid:323300870763": 118,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 263,
-      "Багишвили Евгений Нодариевич": 56,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 31,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 101,
-      "Телелейко Леонид Федорович": 33,
-      "Тетерин Василий Николаевич": 149,
-      "Хорошилов Николай Михайлович": 137,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000335445": 263,
+      "special:official-result-label:39": 56,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 31,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 101,
+      "gas:candidate-vibid:1001000112189": 33,
+      "gas:candidate-vibid:1001000338627": 149,
+      "gas:candidate-vibid:323300870763": 137,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 50,
-      "Багишвили Евгений Нодариевич": 16,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 17,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 92,
-      "Телелейко Леонид Федорович": 11,
-      "Тетерин Василий Николаевич": 78,
-      "Хорошилов Николай Михайлович": 114,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000335445": 50,
+      "special:official-result-label:39": 16,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 17,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 92,
+      "gas:candidate-vibid:1001000112189": 11,
+      "gas:candidate-vibid:1001000338627": 78,
+      "gas:candidate-vibid:323300870763": 114,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 113,
-      "Багишвили Евгений Нодариевич": 35,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 45,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 154,
-      "Телелейко Леонид Федорович": 35,
-      "Тетерин Василий Николаевич": 124,
-      "Хорошилов Николай Михайлович": 100,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000335445": 113,
+      "special:official-result-label:39": 35,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 45,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 154,
+      "gas:candidate-vibid:1001000112189": 35,
+      "gas:candidate-vibid:1001000338627": 124,
+      "gas:candidate-vibid:323300870763": 100,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 153,
-      "Багишвили Евгений Нодариевич": 33,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 28,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 115,
-      "Телелейко Леонид Федорович": 24,
-      "Тетерин Василий Николаевич": 140,
-      "Хорошилов Николай Михайлович": 79,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000335445": 153,
+      "special:official-result-label:39": 33,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 28,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 115,
+      "gas:candidate-vibid:1001000112189": 24,
+      "gas:candidate-vibid:1001000338627": 140,
+      "gas:candidate-vibid:323300870763": 79,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 149,
-      "Багишвили Евгений Нодариевич": 43,
-      "Козадеров Сергей Яковлевич": 40,
-      "Петров Николай Алексеевич": 21,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 194,
-      "Телелейко Леонид Федорович": 30,
-      "Тетерин Василий Николаевич": 161,
-      "Хорошилов Николай Михайлович": 78,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000335445": 149,
+      "special:official-result-label:39": 43,
+      "gas:candidate-vibid:1001000217902": 40,
+      "gas:candidate-vibid:1001000195043": 21,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 194,
+      "gas:candidate-vibid:1001000112189": 30,
+      "gas:candidate-vibid:1001000338627": 161,
+      "gas:candidate-vibid:323300870763": 78,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 22,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 81,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 30,
-      "Хорошилов Николай Михайлович": 29,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000335445": 22,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 81,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 30,
+      "gas:candidate-vibid:323300870763": 29,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 161,
-      "Багишвили Евгений Нодариевич": 62,
-      "Козадеров Сергей Яковлевич": 29,
-      "Петров Николай Алексеевич": 43,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 140,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 166,
-      "Хорошилов Николай Михайлович": 115,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000335445": 161,
+      "special:official-result-label:39": 62,
+      "gas:candidate-vibid:1001000217902": 29,
+      "gas:candidate-vibid:1001000195043": 43,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 140,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 166,
+      "gas:candidate-vibid:323300870763": 115,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 68,
-      "Багишвили Евгений Нодариевич": 4,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 39,
-      "Телелейко Леонид Федорович": 5,
-      "Тетерин Василий Николаевич": 35,
-      "Хорошилов Николай Михайлович": 37,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000335445": 68,
+      "special:official-result-label:39": 4,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 39,
+      "gas:candidate-vibid:1001000112189": 5,
+      "gas:candidate-vibid:1001000338627": 35,
+      "gas:candidate-vibid:323300870763": 37,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 131,
-      "Багишвили Евгений Нодариевич": 46,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 27,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 125,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 81,
-      "Хорошилов Николай Михайлович": 56,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000335445": 131,
+      "special:official-result-label:39": 46,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 27,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 125,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 81,
+      "gas:candidate-vibid:323300870763": 56,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 103,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 29,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 129,
-      "Телелейко Леонид Федорович": 21,
-      "Тетерин Василий Николаевич": 190,
-      "Хорошилов Николай Михайлович": 70,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000335445": 103,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 29,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 129,
+      "gas:candidate-vibid:1001000112189": 21,
+      "gas:candidate-vibid:1001000338627": 190,
+      "gas:candidate-vibid:323300870763": 70,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 58,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 32,
-      "Телелейко Леонид Федорович": 3,
-      "Тетерин Василий Николаевич": 24,
-      "Хорошилов Николай Михайлович": 11,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000335445": 58,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 32,
+      "gas:candidate-vibid:1001000112189": 3,
+      "gas:candidate-vibid:1001000338627": 24,
+      "gas:candidate-vibid:323300870763": 11,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 34,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 11,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 32,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 33,
-      "Хорошилов Николай Михайлович": 17,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000335445": 34,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 11,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 32,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 33,
+      "gas:candidate-vibid:323300870763": 17,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 33,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 28,
-      "Телелейко Леонид Федорович": 3,
-      "Тетерин Василий Николаевич": 26,
-      "Хорошилов Николай Михайлович": 12,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000335445": 33,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 28,
+      "gas:candidate-vibid:1001000112189": 3,
+      "gas:candidate-vibid:1001000338627": 26,
+      "gas:candidate-vibid:323300870763": 12,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 16,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 85,
-      "Телелейко Леонид Федорович": 11,
-      "Тетерин Василий Николаевич": 37,
-      "Хорошилов Николай Михайлович": 29,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 16,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 85,
+      "gas:candidate-vibid:1001000112189": 11,
+      "gas:candidate-vibid:1001000338627": 37,
+      "gas:candidate-vibid:323300870763": 29,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 130,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 115,
-      "Телелейко Леонид Федорович": 14,
-      "Тетерин Василий Николаевич": 56,
-      "Хорошилов Николай Михайлович": 76,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000335445": 130,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 115,
+      "gas:candidate-vibid:1001000112189": 14,
+      "gas:candidate-vibid:1001000338627": 56,
+      "gas:candidate-vibid:323300870763": 76,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 79,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 147,
-      "Телелейко Леонид Федорович": 16,
-      "Тетерин Василий Николаевич": 102,
-      "Хорошилов Николай Михайлович": 52,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000335445": 79,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 147,
+      "gas:candidate-vibid:1001000112189": 16,
+      "gas:candidate-vibid:1001000338627": 102,
+      "gas:candidate-vibid:323300870763": 52,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 43,
-      "Багишвили Евгений Нодариевич": 36,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 91,
-      "Телелейко Леонид Федорович": 11,
-      "Тетерин Василий Николаевич": 44,
-      "Хорошилов Николай Михайлович": 47,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000335445": 43,
+      "special:official-result-label:39": 36,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 91,
+      "gas:candidate-vibid:1001000112189": 11,
+      "gas:candidate-vibid:1001000338627": 44,
+      "gas:candidate-vibid:323300870763": 47,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 48,
-      "Багишвили Евгений Нодариевич": 0,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 13,
-      "Телелейко Леонид Федорович": 0,
-      "Тетерин Василий Николаевич": 7,
-      "Хорошилов Николай Михайлович": 11,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000335445": 48,
+      "special:official-result-label:39": 0,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 13,
+      "gas:candidate-vibid:1001000112189": 0,
+      "gas:candidate-vibid:1001000338627": 7,
+      "gas:candidate-vibid:323300870763": 11,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 13,
-      "Телелейко Леонид Федорович": 2,
-      "Тетерин Василий Николаевич": 21,
-      "Хорошилов Николай Михайлович": 10,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 13,
+      "gas:candidate-vibid:1001000112189": 2,
+      "gas:candidate-vibid:1001000338627": 21,
+      "gas:candidate-vibid:323300870763": 10,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 120,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 20,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 121,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 62,
-      "Хорошилов Николай Михайлович": 62,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000335445": 120,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 20,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 121,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 62,
+      "gas:candidate-vibid:323300870763": 62,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 125,
-      "Багишвили Евгений Нодариевич": 38,
-      "Козадеров Сергей Яковлевич": 34,
-      "Петров Николай Алексеевич": 27,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 131,
-      "Телелейко Леонид Федорович": 18,
-      "Тетерин Василий Николаевич": 166,
-      "Хорошилов Николай Михайлович": 105,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000335445": 125,
+      "special:official-result-label:39": 38,
+      "gas:candidate-vibid:1001000217902": 34,
+      "gas:candidate-vibid:1001000195043": 27,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 131,
+      "gas:candidate-vibid:1001000112189": 18,
+      "gas:candidate-vibid:1001000338627": 166,
+      "gas:candidate-vibid:323300870763": 105,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 117,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 27,
-      "Петров Николай Алексеевич": 13,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 134,
-      "Телелейко Леонид Федорович": 14,
-      "Тетерин Василий Николаевич": 95,
-      "Хорошилов Николай Михайлович": 67,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000335445": 117,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 27,
+      "gas:candidate-vibid:1001000195043": 13,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 134,
+      "gas:candidate-vibid:1001000112189": 14,
+      "gas:candidate-vibid:1001000338627": 95,
+      "gas:candidate-vibid:323300870763": 67,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 37,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 38,
-      "Телелейко Леонид Федорович": 1,
-      "Тетерин Василий Николаевич": 22,
-      "Хорошилов Николай Михайлович": 16,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000335445": 37,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 38,
+      "gas:candidate-vibid:1001000112189": 1,
+      "gas:candidate-vibid:1001000338627": 22,
+      "gas:candidate-vibid:323300870763": 16,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 2,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 64,
-      "Телелейко Леонид Федорович": 2,
-      "Тетерин Василий Николаевич": 28,
-      "Хорошилов Николай Михайлович": 9,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 2,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 64,
+      "gas:candidate-vibid:1001000112189": 2,
+      "gas:candidate-vibid:1001000338627": 28,
+      "gas:candidate-vibid:323300870763": 9,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 165,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 149,
-      "Телелейко Леонид Федорович": 7,
-      "Тетерин Василий Николаевич": 69,
-      "Хорошилов Николай Михайлович": 23,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000335445": 165,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 149,
+      "gas:candidate-vibid:1001000112189": 7,
+      "gas:candidate-vibid:1001000338627": 69,
+      "gas:candidate-vibid:323300870763": 23,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 67,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 1,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 30,
-      "Телелейко Леонид Федорович": 1,
-      "Тетерин Василий Николаевич": 24,
-      "Хорошилов Николай Михайлович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000335445": 67,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 1,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 30,
+      "gas:candidate-vibid:1001000112189": 1,
+      "gas:candidate-vibid:1001000338627": 24,
+      "gas:candidate-vibid:323300870763": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 140,
-      "Багишвили Евгений Нодариевич": 12,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 24,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 38,
-      "Хорошилов Николай Михайлович": 11,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000335445": 140,
+      "special:official-result-label:39": 12,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 24,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 38,
+      "gas:candidate-vibid:323300870763": 11,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 7,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 11,
-      "Телелейко Леонид Федорович": 3,
-      "Тетерин Василий Николаевич": 15,
-      "Хорошилов Николай Михайлович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000335445": 7,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 11,
+      "gas:candidate-vibid:1001000112189": 3,
+      "gas:candidate-vibid:1001000338627": 15,
+      "gas:candidate-vibid:323300870763": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 169,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 50,
-      "Петров Николай Алексеевич": 41,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 137,
-      "Телелейко Леонид Федорович": 20,
-      "Тетерин Василий Николаевич": 132,
-      "Хорошилов Николай Михайлович": 91,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000335445": 169,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 50,
+      "gas:candidate-vibid:1001000195043": 41,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 137,
+      "gas:candidate-vibid:1001000112189": 20,
+      "gas:candidate-vibid:1001000338627": 132,
+      "gas:candidate-vibid:323300870763": 91,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 123,
-      "Багишвили Евгений Нодариевич": 46,
-      "Козадеров Сергей Яковлевич": 36,
-      "Петров Николай Алексеевич": 33,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 141,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 111,
-      "Хорошилов Николай Михайлович": 111,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000335445": 123,
+      "special:official-result-label:39": 46,
+      "gas:candidate-vibid:1001000217902": 36,
+      "gas:candidate-vibid:1001000195043": 33,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 141,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 111,
+      "gas:candidate-vibid:323300870763": 111,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 90,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 44,
-      "Телелейко Леонид Федорович": 3,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000335445": 90,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 44,
+      "gas:candidate-vibid:1001000112189": 3,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 41,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 11,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 30,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 27,
-      "Хорошилов Николай Михайлович": 17,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000335445": 41,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 11,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 30,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 27,
+      "gas:candidate-vibid:323300870763": 17,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 185,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 22,
-      "Полесский Виталий Валерьевич": 19,
-      "Севастьянов Виталий Иванович": 87,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 78,
-      "Хорошилов Николай Михайлович": 61,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000335445": 185,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 22,
+      "gas:candidate-vibid:323300871078": 19,
+      "gas:candidate-vibid:1001000121811": 87,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 78,
+      "gas:candidate-vibid:323300870763": 61,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 23,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 40,
-      "Телелейко Леонид Федорович": 4,
-      "Тетерин Василий Николаевич": 34,
-      "Хорошилов Николай Михайлович": 9,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000335445": 23,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 40,
+      "gas:candidate-vibid:1001000112189": 4,
+      "gas:candidate-vibid:1001000338627": 34,
+      "gas:candidate-vibid:323300870763": 9,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 21,
-      "Багишвили Евгений Нодариевич": 1,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 45,
-      "Телелейко Леонид Федорович": 2,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000335445": 21,
+      "special:official-result-label:39": 1,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 45,
+      "gas:candidate-vibid:1001000112189": 2,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 68,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 27,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 138,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 143,
-      "Хорошилов Николай Михайлович": 83,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000335445": 68,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 27,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 138,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 143,
+      "gas:candidate-vibid:323300870763": 83,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 74,
-      "Багишвили Евгений Нодариевич": 36,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 22,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 133,
-      "Телелейко Леонид Федорович": 9,
-      "Тетерин Василий Николаевич": 112,
-      "Хорошилов Николай Михайлович": 78,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000335445": 74,
+      "special:official-result-label:39": 36,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 22,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 133,
+      "gas:candidate-vibid:1001000112189": 9,
+      "gas:candidate-vibid:1001000338627": 112,
+      "gas:candidate-vibid:323300870763": 78,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 129,
-      "Багишвили Евгений Нодариевич": 1,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 17,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 23,
-      "Телелейко Леонид Федорович": 7,
-      "Тетерин Василий Николаевич": 22,
-      "Хорошилов Николай Михайлович": 28,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000335445": 129,
+      "special:official-result-label:39": 1,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 17,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 23,
+      "gas:candidate-vibid:1001000112189": 7,
+      "gas:candidate-vibid:1001000338627": 22,
+      "gas:candidate-vibid:323300870763": 28,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 51,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 12,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 18,
-      "Телелейко Леонид Федорович": 10,
-      "Тетерин Василий Николаевич": 11,
-      "Хорошилов Николай Михайлович": 21,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000335445": 51,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 12,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 18,
+      "gas:candidate-vibid:1001000112189": 10,
+      "gas:candidate-vibid:1001000338627": 11,
+      "gas:candidate-vibid:323300870763": 21,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 100,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 48,
-      "Телелейко Леонид Федорович": 10,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 55,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000335445": 100,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 48,
+      "gas:candidate-vibid:1001000112189": 10,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 55,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 65,
-      "Багишвили Евгений Нодариевич": 37,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 27,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 59,
-      "Телелейко Леонид Федорович": 13,
-      "Тетерин Василий Николаевич": 62,
-      "Хорошилов Николай Михайлович": 27,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000335445": 65,
+      "special:official-result-label:39": 37,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 27,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 59,
+      "gas:candidate-vibid:1001000112189": 13,
+      "gas:candidate-vibid:1001000338627": 62,
+      "gas:candidate-vibid:323300870763": 27,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 215,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 32,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 92,
-      "Телелейко Леонид Федорович": 7,
-      "Тетерин Василий Николаевич": 105,
-      "Хорошилов Николай Михайлович": 130,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000335445": 215,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 32,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 92,
+      "gas:candidate-vibid:1001000112189": 7,
+      "gas:candidate-vibid:1001000338627": 105,
+      "gas:candidate-vibid:323300870763": 130,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 24,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 8,
-      "Телелейко Леонид Федорович": 5,
-      "Тетерин Василий Николаевич": 18,
-      "Хорошилов Николай Михайлович": 22,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000335445": 24,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 8,
+      "gas:candidate-vibid:1001000112189": 5,
+      "gas:candidate-vibid:1001000338627": 18,
+      "gas:candidate-vibid:323300870763": 22,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 18,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 2,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 29,
-      "Телелейко Леонид Федорович": 0,
-      "Тетерин Василий Николаевич": 9,
-      "Хорошилов Николай Михайлович": 39,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000335445": 18,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 2,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 29,
+      "gas:candidate-vibid:1001000112189": 0,
+      "gas:candidate-vibid:1001000338627": 9,
+      "gas:candidate-vibid:323300870763": 39,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 106,
-      "Багишвили Евгений Нодариевич": 87,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 21,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 114,
-      "Телелейко Леонид Федорович": 22,
-      "Тетерин Василий Николаевич": 174,
-      "Хорошилов Николай Михайлович": 133,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000335445": 106,
+      "special:official-result-label:39": 87,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 21,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 114,
+      "gas:candidate-vibid:1001000112189": 22,
+      "gas:candidate-vibid:1001000338627": 174,
+      "gas:candidate-vibid:323300870763": 133,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 47,
-      "Багишвили Евгений Нодариевич": 38,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 15,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 54,
-      "Телелейко Леонид Федорович": 16,
-      "Тетерин Василий Николаевич": 83,
-      "Хорошилов Николай Михайлович": 157,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000335445": 47,
+      "special:official-result-label:39": 38,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 15,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 54,
+      "gas:candidate-vibid:1001000112189": 16,
+      "gas:candidate-vibid:1001000338627": 83,
+      "gas:candidate-vibid:323300870763": 157,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 31,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 12,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 34,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 34,
-      "Хорошилов Николай Михайлович": 39,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000335445": 31,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 12,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 34,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 34,
+      "gas:candidate-vibid:323300870763": 39,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -3169,13 +3169,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 48,
-      "Лазовский Александр Александрович": 64,
-      "Литвинов Николай Петрович": 382,
-      "Мозжегоров Андрей Александрович": 41,
-      "Пашуто Владимир Ростиславович": 367,
-      "Приходченко Александр Дмитриевич": 24,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113908": 48,
+      "gas:candidate-vibid:1001000136015": 64,
+      "gas:candidate-vibid:1001000225913": 382,
+      "gas:candidate-vibid:1001000250437": 41,
+      "gas:candidate-vibid:1001000121812": 367,
+      "gas:candidate-vibid:1001000195044": 24,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3225,13 +3225,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 47,
-      "Лазовский Александр Александрович": 93,
-      "Литвинов Николай Петрович": 609,
-      "Мозжегоров Андрей Александрович": 73,
-      "Пашуто Владимир Ростиславович": 505,
-      "Приходченко Александр Дмитриевич": 21,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000113908": 47,
+      "gas:candidate-vibid:1001000136015": 93,
+      "gas:candidate-vibid:1001000225913": 609,
+      "gas:candidate-vibid:1001000250437": 73,
+      "gas:candidate-vibid:1001000121812": 505,
+      "gas:candidate-vibid:1001000195044": 21,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3281,13 +3281,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 59,
-      "Лазовский Александр Александрович": 102,
-      "Литвинов Николай Петрович": 678,
-      "Мозжегоров Андрей Александрович": 59,
-      "Пашуто Владимир Ростиславович": 402,
-      "Приходченко Александр Дмитриевич": 18,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000113908": 59,
+      "gas:candidate-vibid:1001000136015": 102,
+      "gas:candidate-vibid:1001000225913": 678,
+      "gas:candidate-vibid:1001000250437": 59,
+      "gas:candidate-vibid:1001000121812": 402,
+      "gas:candidate-vibid:1001000195044": 18,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3337,13 +3337,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 38,
-      "Лазовский Александр Александрович": 72,
-      "Литвинов Николай Петрович": 525,
-      "Мозжегоров Андрей Александрович": 40,
-      "Пашуто Владимир Ростиславович": 448,
-      "Приходченко Александр Дмитриевич": 17,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000113908": 38,
+      "gas:candidate-vibid:1001000136015": 72,
+      "gas:candidate-vibid:1001000225913": 525,
+      "gas:candidate-vibid:1001000250437": 40,
+      "gas:candidate-vibid:1001000121812": 448,
+      "gas:candidate-vibid:1001000195044": 17,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3393,13 +3393,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 20,
-      "Лазовский Александр Александрович": 38,
-      "Литвинов Николай Петрович": 521,
-      "Мозжегоров Андрей Александрович": 25,
-      "Пашуто Владимир Ростиславович": 213,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000113908": 20,
+      "gas:candidate-vibid:1001000136015": 38,
+      "gas:candidate-vibid:1001000225913": 521,
+      "gas:candidate-vibid:1001000250437": 25,
+      "gas:candidate-vibid:1001000121812": 213,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3449,13 +3449,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 173,
-      "Мозжегоров Андрей Александрович": 6,
-      "Пашуто Владимир Ростиславович": 12,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 173,
+      "gas:candidate-vibid:1001000250437": 6,
+      "gas:candidate-vibid:1001000121812": 12,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3505,13 +3505,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 94,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 7,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 94,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 7,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3561,13 +3561,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 32,
-      "Литвинов Николай Петрович": 221,
-      "Мозжегоров Андрей Александрович": 19,
-      "Пашуто Владимир Ростиславович": 139,
-      "Приходченко Александр Дмитриевич": 12,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 32,
+      "gas:candidate-vibid:1001000225913": 221,
+      "gas:candidate-vibid:1001000250437": 19,
+      "gas:candidate-vibid:1001000121812": 139,
+      "gas:candidate-vibid:1001000195044": 12,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3617,13 +3617,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 33,
-      "Лазовский Александр Александрович": 64,
-      "Литвинов Николай Петрович": 462,
-      "Мозжегоров Андрей Александрович": 88,
-      "Пашуто Владимир Ростиславович": 295,
-      "Приходченко Александр Дмитриевич": 15,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113908": 33,
+      "gas:candidate-vibid:1001000136015": 64,
+      "gas:candidate-vibid:1001000225913": 462,
+      "gas:candidate-vibid:1001000250437": 88,
+      "gas:candidate-vibid:1001000121812": 295,
+      "gas:candidate-vibid:1001000195044": 15,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3673,13 +3673,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 42,
-      "Лазовский Александр Александрович": 67,
-      "Литвинов Николай Петрович": 634,
-      "Мозжегоров Андрей Александрович": 53,
-      "Пашуто Владимир Ростиславович": 282,
-      "Приходченко Александр Дмитриевич": 20,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000113908": 42,
+      "gas:candidate-vibid:1001000136015": 67,
+      "gas:candidate-vibid:1001000225913": 634,
+      "gas:candidate-vibid:1001000250437": 53,
+      "gas:candidate-vibid:1001000121812": 282,
+      "gas:candidate-vibid:1001000195044": 20,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3729,13 +3729,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 14,
-      "Литвинов Николай Петрович": 210,
-      "Мозжегоров Андрей Александрович": 19,
-      "Пашуто Владимир Ростиславович": 92,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 14,
+      "gas:candidate-vibid:1001000225913": 210,
+      "gas:candidate-vibid:1001000250437": 19,
+      "gas:candidate-vibid:1001000121812": 92,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3785,13 +3785,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 25,
-      "Лазовский Александр Александрович": 48,
-      "Литвинов Николай Петрович": 454,
-      "Мозжегоров Андрей Александрович": 32,
-      "Пашуто Владимир Ростиславович": 106,
-      "Приходченко Александр Дмитриевич": 6,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000113908": 25,
+      "gas:candidate-vibid:1001000136015": 48,
+      "gas:candidate-vibid:1001000225913": 454,
+      "gas:candidate-vibid:1001000250437": 32,
+      "gas:candidate-vibid:1001000121812": 106,
+      "gas:candidate-vibid:1001000195044": 6,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3841,13 +3841,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 1,
-      "Литвинов Николай Петрович": 58,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 31,
-      "Приходченко Александр Дмитриевич": 5,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 1,
+      "gas:candidate-vibid:1001000225913": 58,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 31,
+      "gas:candidate-vibid:1001000195044": 5,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3897,13 +3897,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 1,
-      "Литвинов Николай Петрович": 233,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 18,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 1,
+      "gas:candidate-vibid:1001000225913": 233,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 18,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -3953,13 +3953,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 12,
-      "Лазовский Александр Александрович": 19,
-      "Литвинов Николай Петрович": 362,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 97,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113908": 12,
+      "gas:candidate-vibid:1001000136015": 19,
+      "gas:candidate-vibid:1001000225913": 362,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 97,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4009,13 +4009,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 4,
-      "Литвинов Николай Петрович": 83,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 4,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 4,
+      "gas:candidate-vibid:1001000225913": 83,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 4,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4065,13 +4065,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 5,
-      "Лазовский Александр Александрович": 8,
-      "Литвинов Николай Петрович": 95,
-      "Мозжегоров Андрей Александрович": 9,
-      "Пашуто Владимир Ростиславович": 25,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113908": 5,
+      "gas:candidate-vibid:1001000136015": 8,
+      "gas:candidate-vibid:1001000225913": 95,
+      "gas:candidate-vibid:1001000250437": 9,
+      "gas:candidate-vibid:1001000121812": 25,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4121,13 +4121,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 9,
-      "Лазовский Александр Александрович": 13,
-      "Литвинов Николай Петрович": 109,
-      "Мозжегоров Андрей Александрович": 11,
-      "Пашуто Владимир Ростиславович": 29,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113908": 9,
+      "gas:candidate-vibid:1001000136015": 13,
+      "gas:candidate-vibid:1001000225913": 109,
+      "gas:candidate-vibid:1001000250437": 11,
+      "gas:candidate-vibid:1001000121812": 29,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4177,13 +4177,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 11,
-      "Лазовский Александр Александрович": 20,
-      "Литвинов Николай Петрович": 393,
-      "Мозжегоров Андрей Александрович": 31,
-      "Пашуто Владимир Ростиславович": 113,
-      "Приходченко Александр Дмитриевич": 5,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113908": 11,
+      "gas:candidate-vibid:1001000136015": 20,
+      "gas:candidate-vibid:1001000225913": 393,
+      "gas:candidate-vibid:1001000250437": 31,
+      "gas:candidate-vibid:1001000121812": 113,
+      "gas:candidate-vibid:1001000195044": 5,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4233,13 +4233,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 0,
-      "Литвинов Николай Петрович": 85,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 0,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 0,
+      "gas:candidate-vibid:1001000225913": 85,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 0,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4289,13 +4289,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 25,
-      "Лазовский Александр Александрович": 45,
-      "Литвинов Николай Петрович": 484,
-      "Мозжегоров Андрей Александрович": 33,
-      "Пашуто Владимир Ростиславович": 149,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113908": 25,
+      "gas:candidate-vibid:1001000136015": 45,
+      "gas:candidate-vibid:1001000225913": 484,
+      "gas:candidate-vibid:1001000250437": 33,
+      "gas:candidate-vibid:1001000121812": 149,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4345,13 +4345,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 806,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 76,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 806,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 76,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4401,13 +4401,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 24,
-      "Литвинов Николай Петрович": 353,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 113,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 24,
+      "gas:candidate-vibid:1001000225913": 353,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 113,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4457,13 +4457,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 29,
-      "Литвинов Николай Петрович": 247,
-      "Мозжегоров Андрей Александрович": 6,
-      "Пашуто Владимир Ростиславович": 47,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 29,
+      "gas:candidate-vibid:1001000225913": 247,
+      "gas:candidate-vibid:1001000250437": 6,
+      "gas:candidate-vibid:1001000121812": 47,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4513,13 +4513,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 43,
-      "Лазовский Александр Александрович": 46,
-      "Литвинов Николай Петрович": 515,
-      "Мозжегоров Андрей Александрович": 218,
-      "Пашуто Владимир Ростиславович": 288,
-      "Приходченко Александр Дмитриевич": 18,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000113908": 43,
+      "gas:candidate-vibid:1001000136015": 46,
+      "gas:candidate-vibid:1001000225913": 515,
+      "gas:candidate-vibid:1001000250437": 218,
+      "gas:candidate-vibid:1001000121812": 288,
+      "gas:candidate-vibid:1001000195044": 18,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4569,13 +4569,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 29,
-      "Лазовский Александр Александрович": 61,
-      "Литвинов Николай Петрович": 510,
-      "Мозжегоров Андрей Александрович": 88,
-      "Пашуто Владимир Ростиславович": 255,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000113908": 29,
+      "gas:candidate-vibid:1001000136015": 61,
+      "gas:candidate-vibid:1001000225913": 510,
+      "gas:candidate-vibid:1001000250437": 88,
+      "gas:candidate-vibid:1001000121812": 255,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4625,13 +4625,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 8,
-      "Лазовский Александр Александрович": 8,
-      "Литвинов Николай Петрович": 290,
-      "Мозжегоров Андрей Александрович": 14,
-      "Пашуто Владимир Ростиславович": 86,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113908": 8,
+      "gas:candidate-vibid:1001000136015": 8,
+      "gas:candidate-vibid:1001000225913": 290,
+      "gas:candidate-vibid:1001000250437": 14,
+      "gas:candidate-vibid:1001000121812": 86,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070371&region=0&sub_region=0&type=429",
@@ -4681,13 +4681,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 20,
-      "Лазовский Александр Александрович": 30,
-      "Литвинов Николай Петрович": 385,
-      "Мозжегоров Андрей Александрович": 16,
-      "Пашуто Владимир Ростиславович": 180,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000113908": 20,
+      "gas:candidate-vibid:1001000136015": 30,
+      "gas:candidate-vibid:1001000225913": 385,
+      "gas:candidate-vibid:1001000250437": 16,
+      "gas:candidate-vibid:1001000121812": 180,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -4737,13 +4737,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 31,
-      "Лазовский Александр Александрович": 50,
-      "Литвинов Николай Петрович": 539,
-      "Мозжегоров Андрей Александрович": 67,
-      "Пашуто Владимир Ростиславович": 344,
-      "Приходченко Александр Дмитриевич": 25,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000113908": 31,
+      "gas:candidate-vibid:1001000136015": 50,
+      "gas:candidate-vibid:1001000225913": 539,
+      "gas:candidate-vibid:1001000250437": 67,
+      "gas:candidate-vibid:1001000121812": 344,
+      "gas:candidate-vibid:1001000195044": 25,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -4793,13 +4793,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 33,
-      "Лазовский Александр Александрович": 64,
-      "Литвинов Николай Петрович": 491,
-      "Мозжегоров Андрей Александрович": 40,
-      "Пашуто Владимир Ростиславович": 362,
-      "Приходченко Александр Дмитриевич": 12,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000113908": 33,
+      "gas:candidate-vibid:1001000136015": 64,
+      "gas:candidate-vibid:1001000225913": 491,
+      "gas:candidate-vibid:1001000250437": 40,
+      "gas:candidate-vibid:1001000121812": 362,
+      "gas:candidate-vibid:1001000195044": 12,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -4849,13 +4849,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 30,
-      "Лазовский Александр Александрович": 46,
-      "Литвинов Николай Петрович": 460,
-      "Мозжегоров Андрей Александрович": 46,
-      "Пашуто Владимир Ростиславович": 389,
-      "Приходченко Александр Дмитриевич": 23,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113908": 30,
+      "gas:candidate-vibid:1001000136015": 46,
+      "gas:candidate-vibid:1001000225913": 460,
+      "gas:candidate-vibid:1001000250437": 46,
+      "gas:candidate-vibid:1001000121812": 389,
+      "gas:candidate-vibid:1001000195044": 23,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -4905,13 +4905,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 24,
-      "Лазовский Александр Александрович": 56,
-      "Литвинов Николай Петрович": 445,
-      "Мозжегоров Андрей Александрович": 55,
-      "Пашуто Владимир Ростиславович": 332,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000113908": 24,
+      "gas:candidate-vibid:1001000136015": 56,
+      "gas:candidate-vibid:1001000225913": 445,
+      "gas:candidate-vibid:1001000250437": 55,
+      "gas:candidate-vibid:1001000121812": 332,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -4961,13 +4961,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 25,
-      "Лазовский Александр Александрович": 64,
-      "Литвинов Николай Петрович": 499,
-      "Мозжегоров Андрей Александрович": 68,
-      "Пашуто Владимир Ростиславович": 394,
-      "Приходченко Александр Дмитриевич": 32,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000113908": 25,
+      "gas:candidate-vibid:1001000136015": 64,
+      "gas:candidate-vibid:1001000225913": 499,
+      "gas:candidate-vibid:1001000250437": 68,
+      "gas:candidate-vibid:1001000121812": 394,
+      "gas:candidate-vibid:1001000195044": 32,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5017,13 +5017,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 28,
-      "Лазовский Александр Александрович": 34,
-      "Литвинов Николай Петрович": 401,
-      "Мозжегоров Андрей Александрович": 41,
-      "Пашуто Владимир Ростиславович": 242,
-      "Приходченко Александр Дмитриевич": 20,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000113908": 28,
+      "gas:candidate-vibid:1001000136015": 34,
+      "gas:candidate-vibid:1001000225913": 401,
+      "gas:candidate-vibid:1001000250437": 41,
+      "gas:candidate-vibid:1001000121812": 242,
+      "gas:candidate-vibid:1001000195044": 20,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5073,13 +5073,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 30,
-      "Лазовский Александр Александрович": 37,
-      "Литвинов Николай Петрович": 320,
-      "Мозжегоров Андрей Александрович": 69,
-      "Пашуто Владимир Ростиславович": 196,
-      "Приходченко Александр Дмитриевич": 15,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113908": 30,
+      "gas:candidate-vibid:1001000136015": 37,
+      "gas:candidate-vibid:1001000225913": 320,
+      "gas:candidate-vibid:1001000250437": 69,
+      "gas:candidate-vibid:1001000121812": 196,
+      "gas:candidate-vibid:1001000195044": 15,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5129,13 +5129,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 27,
-      "Лазовский Александр Александрович": 32,
-      "Литвинов Николай Петрович": 222,
-      "Мозжегоров Андрей Александрович": 52,
-      "Пашуто Владимир Ростиславович": 160,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000113908": 27,
+      "gas:candidate-vibid:1001000136015": 32,
+      "gas:candidate-vibid:1001000225913": 222,
+      "gas:candidate-vibid:1001000250437": 52,
+      "gas:candidate-vibid:1001000121812": 160,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5185,13 +5185,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 3,
-      "Литвинов Николай Петрович": 61,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 18,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 3,
+      "gas:candidate-vibid:1001000225913": 61,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 18,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5241,13 +5241,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 5,
-      "Лазовский Александр Александрович": 24,
-      "Литвинов Николай Петрович": 106,
-      "Мозжегоров Андрей Александрович": 21,
-      "Пашуто Владимир Ростиславович": 89,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113908": 5,
+      "gas:candidate-vibid:1001000136015": 24,
+      "gas:candidate-vibid:1001000225913": 106,
+      "gas:candidate-vibid:1001000250437": 21,
+      "gas:candidate-vibid:1001000121812": 89,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5297,13 +5297,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 0,
-      "Литвинов Николай Петрович": 20,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 8,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 0,
+      "gas:candidate-vibid:1001000225913": 20,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 8,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5353,13 +5353,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 0,
-      "Литвинов Николай Петрович": 15,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 0,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 0,
+      "gas:candidate-vibid:1001000225913": 15,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 0,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5409,13 +5409,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 30,
-      "Лазовский Александр Александрович": 42,
-      "Литвинов Николай Петрович": 324,
-      "Мозжегоров Андрей Александрович": 32,
-      "Пашуто Владимир Ростиславович": 260,
-      "Приходченко Александр Дмитриевич": 29,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000113908": 30,
+      "gas:candidate-vibid:1001000136015": 42,
+      "gas:candidate-vibid:1001000225913": 324,
+      "gas:candidate-vibid:1001000250437": 32,
+      "gas:candidate-vibid:1001000121812": 260,
+      "gas:candidate-vibid:1001000195044": 29,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5465,13 +5465,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 17,
-      "Лазовский Александр Александрович": 39,
-      "Литвинов Николай Петрович": 413,
-      "Мозжегоров Андрей Александрович": 35,
-      "Пашуто Владимир Ростиславович": 214,
-      "Приходченко Александр Дмитриевич": 21,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000113908": 17,
+      "gas:candidate-vibid:1001000136015": 39,
+      "gas:candidate-vibid:1001000225913": 413,
+      "gas:candidate-vibid:1001000250437": 35,
+      "gas:candidate-vibid:1001000121812": 214,
+      "gas:candidate-vibid:1001000195044": 21,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5521,13 +5521,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 24,
-      "Лазовский Александр Александрович": 45,
-      "Литвинов Николай Петрович": 330,
-      "Мозжегоров Андрей Александрович": 59,
-      "Пашуто Владимир Ростиславович": 206,
-      "Приходченко Александр Дмитриевич": 21,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000113908": 24,
+      "gas:candidate-vibid:1001000136015": 45,
+      "gas:candidate-vibid:1001000225913": 330,
+      "gas:candidate-vibid:1001000250437": 59,
+      "gas:candidate-vibid:1001000121812": 206,
+      "gas:candidate-vibid:1001000195044": 21,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5577,13 +5577,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 12,
-      "Литвинов Николай Петрович": 72,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 44,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 12,
+      "gas:candidate-vibid:1001000225913": 72,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 44,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5633,13 +5633,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 10,
-      "Лазовский Александр Александрович": 15,
-      "Литвинов Николай Петрович": 115,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 110,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113908": 10,
+      "gas:candidate-vibid:1001000136015": 15,
+      "gas:candidate-vibid:1001000225913": 115,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 110,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5689,13 +5689,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 2,
-      "Литвинов Николай Петрович": 40,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 21,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 2,
+      "gas:candidate-vibid:1001000225913": 40,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 21,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5745,13 +5745,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 20,
-      "Литвинов Николай Петрович": 108,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 61,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 20,
+      "gas:candidate-vibid:1001000225913": 108,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 61,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5801,13 +5801,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 28,
-      "Литвинов Николай Петрович": 393,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 113,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 28,
+      "gas:candidate-vibid:1001000225913": 393,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 113,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5857,13 +5857,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 21,
-      "Литвинов Николай Петрович": 104,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 121,
-      "Приходченко Александр Дмитриевич": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 21,
+      "gas:candidate-vibid:1001000225913": 104,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 121,
+      "gas:candidate-vibid:1001000195044": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5913,13 +5913,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 14,
-      "Лазовский Александр Александрович": 35,
-      "Литвинов Николай Петрович": 399,
-      "Мозжегоров Андрей Александрович": 18,
-      "Пашуто Владимир Ростиславович": 272,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000113908": 14,
+      "gas:candidate-vibid:1001000136015": 35,
+      "gas:candidate-vibid:1001000225913": 399,
+      "gas:candidate-vibid:1001000250437": 18,
+      "gas:candidate-vibid:1001000121812": 272,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -5969,13 +5969,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 18,
-      "Литвинов Николай Петрович": 171,
-      "Мозжегоров Андрей Александрович": 6,
-      "Пашуто Владимир Ростиславович": 171,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 18,
+      "gas:candidate-vibid:1001000225913": 171,
+      "gas:candidate-vibid:1001000250437": 6,
+      "gas:candidate-vibid:1001000121812": 171,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6025,13 +6025,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 34,
-      "Литвинов Николай Петрович": 90,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 25,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 34,
+      "gas:candidate-vibid:1001000225913": 90,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 25,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6081,13 +6081,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 5,
-      "Литвинов Николай Петрович": 97,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 11,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 5,
+      "gas:candidate-vibid:1001000225913": 97,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 11,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6137,13 +6137,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 23,
-      "Лазовский Александр Александрович": 76,
-      "Литвинов Николай Петрович": 408,
-      "Мозжегоров Андрей Александрович": 9,
-      "Пашуто Владимир Ростиславович": 222,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000113908": 23,
+      "gas:candidate-vibid:1001000136015": 76,
+      "gas:candidate-vibid:1001000225913": 408,
+      "gas:candidate-vibid:1001000250437": 9,
+      "gas:candidate-vibid:1001000121812": 222,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6193,13 +6193,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 10,
-      "Лазовский Александр Александрович": 35,
-      "Литвинов Николай Петрович": 340,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 188,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000113908": 10,
+      "gas:candidate-vibid:1001000136015": 35,
+      "gas:candidate-vibid:1001000225913": 340,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 188,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6249,13 +6249,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 3,
-      "Литвинов Николай Петрович": 90,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 86,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 3,
+      "gas:candidate-vibid:1001000225913": 90,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 86,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6305,13 +6305,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 12,
-      "Лазовский Александр Александрович": 36,
-      "Литвинов Николай Петрович": 188,
-      "Мозжегоров Андрей Александрович": 11,
-      "Пашуто Владимир Ростиславович": 68,
-      "Приходченко Александр Дмитриевич": 11,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113908": 12,
+      "gas:candidate-vibid:1001000136015": 36,
+      "gas:candidate-vibid:1001000225913": 188,
+      "gas:candidate-vibid:1001000250437": 11,
+      "gas:candidate-vibid:1001000121812": 68,
+      "gas:candidate-vibid:1001000195044": 11,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6361,13 +6361,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 31,
-      "Литвинов Николай Петрович": 200,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 142,
-      "Приходченко Александр Дмитриевич": 6,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 31,
+      "gas:candidate-vibid:1001000225913": 200,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 142,
+      "gas:candidate-vibid:1001000195044": 6,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6417,13 +6417,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 22,
-      "Лазовский Александр Александрович": 41,
-      "Литвинов Николай Петрович": 322,
-      "Мозжегоров Андрей Александрович": 21,
-      "Пашуто Владимир Ростиславович": 233,
-      "Приходченко Александр Дмитриевич": 21,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000113908": 22,
+      "gas:candidate-vibid:1001000136015": 41,
+      "gas:candidate-vibid:1001000225913": 322,
+      "gas:candidate-vibid:1001000250437": 21,
+      "gas:candidate-vibid:1001000121812": 233,
+      "gas:candidate-vibid:1001000195044": 21,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6473,13 +6473,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 22,
-      "Лазовский Александр Александрович": 43,
-      "Литвинов Николай Петрович": 388,
-      "Мозжегоров Андрей Александрович": 16,
-      "Пашуто Владимир Ростиславович": 196,
-      "Приходченко Александр Дмитриевич": 20,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000113908": 22,
+      "gas:candidate-vibid:1001000136015": 43,
+      "gas:candidate-vibid:1001000225913": 388,
+      "gas:candidate-vibid:1001000250437": 16,
+      "gas:candidate-vibid:1001000121812": 196,
+      "gas:candidate-vibid:1001000195044": 20,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6529,13 +6529,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 24,
-      "Мозжегоров Андрей Александрович": 3,
-      "Пашуто Владимир Ростиславович": 11,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 24,
+      "gas:candidate-vibid:1001000250437": 3,
+      "gas:candidate-vibid:1001000121812": 11,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6585,13 +6585,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 5,
-      "Литвинов Николай Петрович": 81,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 18,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 5,
+      "gas:candidate-vibid:1001000225913": 81,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 18,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6641,13 +6641,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 12,
-      "Литвинов Николай Петрович": 126,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 10,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 12,
+      "gas:candidate-vibid:1001000225913": 126,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 10,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6697,13 +6697,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 17,
-      "Литвинов Николай Петрович": 203,
-      "Мозжегоров Андрей Александрович": 8,
-      "Пашуто Владимир Ростиславович": 99,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 17,
+      "gas:candidate-vibid:1001000225913": 203,
+      "gas:candidate-vibid:1001000250437": 8,
+      "gas:candidate-vibid:1001000121812": 99,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6753,13 +6753,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 24,
-      "Лазовский Александр Александрович": 48,
-      "Литвинов Николай Петрович": 595,
-      "Мозжегоров Андрей Александрович": 16,
-      "Пашуто Владимир Ростиславович": 229,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113908": 24,
+      "gas:candidate-vibid:1001000136015": 48,
+      "gas:candidate-vibid:1001000225913": 595,
+      "gas:candidate-vibid:1001000250437": 16,
+      "gas:candidate-vibid:1001000121812": 229,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6809,13 +6809,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 14,
-      "Лазовский Александр Александрович": 34,
-      "Литвинов Николай Петрович": 431,
-      "Мозжегоров Андрей Александрович": 9,
-      "Пашуто Владимир Ростиславович": 170,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113908": 14,
+      "gas:candidate-vibid:1001000136015": 34,
+      "gas:candidate-vibid:1001000225913": 431,
+      "gas:candidate-vibid:1001000250437": 9,
+      "gas:candidate-vibid:1001000121812": 170,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6865,13 +6865,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 7,
-      "Лазовский Александр Александрович": 4,
-      "Литвинов Николай Петрович": 54,
-      "Мозжегоров Андрей Александрович": 3,
-      "Пашуто Владимир Ростиславович": 67,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113908": 7,
+      "gas:candidate-vibid:1001000136015": 4,
+      "gas:candidate-vibid:1001000225913": 54,
+      "gas:candidate-vibid:1001000250437": 3,
+      "gas:candidate-vibid:1001000121812": 67,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6921,13 +6921,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 22,
-      "Лазовский Александр Александрович": 37,
-      "Литвинов Николай Петрович": 271,
-      "Мозжегоров Андрей Александрович": 22,
-      "Пашуто Владимир Ростиславович": 214,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000113908": 22,
+      "gas:candidate-vibid:1001000136015": 37,
+      "gas:candidate-vibid:1001000225913": 271,
+      "gas:candidate-vibid:1001000250437": 22,
+      "gas:candidate-vibid:1001000121812": 214,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -6977,13 +6977,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 31,
-      "Лазовский Александр Александрович": 59,
-      "Литвинов Николай Петрович": 430,
-      "Мозжегоров Андрей Александрович": 30,
-      "Пашуто Владимир Ростиславович": 305,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000113908": 31,
+      "gas:candidate-vibid:1001000136015": 59,
+      "gas:candidate-vibid:1001000225913": 430,
+      "gas:candidate-vibid:1001000250437": 30,
+      "gas:candidate-vibid:1001000121812": 305,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7033,13 +7033,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 38,
-      "Литвинов Николай Петрович": 329,
-      "Мозжегоров Андрей Александрович": 14,
-      "Пашуто Владимир Ростиславович": 201,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 38,
+      "gas:candidate-vibid:1001000225913": 329,
+      "gas:candidate-vibid:1001000250437": 14,
+      "gas:candidate-vibid:1001000121812": 201,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7089,13 +7089,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 13,
-      "Литвинов Николай Петрович": 103,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 71,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 13,
+      "gas:candidate-vibid:1001000225913": 103,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 71,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7145,13 +7145,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 11,
-      "Литвинов Николай Петрович": 152,
-      "Мозжегоров Андрей Александрович": 6,
-      "Пашуто Владимир Ростиславович": 28,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 11,
+      "gas:candidate-vibid:1001000225913": 152,
+      "gas:candidate-vibid:1001000250437": 6,
+      "gas:candidate-vibid:1001000121812": 28,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7201,13 +7201,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 13,
-      "Лазовский Александр Александрович": 35,
-      "Литвинов Николай Петрович": 328,
-      "Мозжегоров Андрей Александрович": 12,
-      "Пашуто Владимир Ростиславович": 118,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113908": 13,
+      "gas:candidate-vibid:1001000136015": 35,
+      "gas:candidate-vibid:1001000225913": 328,
+      "gas:candidate-vibid:1001000250437": 12,
+      "gas:candidate-vibid:1001000121812": 118,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7257,13 +7257,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 3,
-      "Литвинов Николай Петрович": 114,
-      "Мозжегоров Андрей Александрович": 12,
-      "Пашуто Владимир Ростиславович": 47,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 3,
+      "gas:candidate-vibid:1001000225913": 114,
+      "gas:candidate-vibid:1001000250437": 12,
+      "gas:candidate-vibid:1001000121812": 47,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7313,13 +7313,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 22,
-      "Лазовский Александр Александрович": 30,
-      "Литвинов Николай Петрович": 427,
-      "Мозжегоров Андрей Александрович": 14,
-      "Пашуто Владимир Ростиславович": 154,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113908": 22,
+      "gas:candidate-vibid:1001000136015": 30,
+      "gas:candidate-vibid:1001000225913": 427,
+      "gas:candidate-vibid:1001000250437": 14,
+      "gas:candidate-vibid:1001000121812": 154,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7369,13 +7369,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 19,
-      "Литвинов Николай Петрович": 184,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 86,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 19,
+      "gas:candidate-vibid:1001000225913": 184,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 86,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7425,13 +7425,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 13,
-      "Литвинов Николай Петрович": 150,
-      "Мозжегоров Андрей Александрович": 8,
-      "Пашуто Владимир Ростиславович": 118,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 13,
+      "gas:candidate-vibid:1001000225913": 150,
+      "gas:candidate-vibid:1001000250437": 8,
+      "gas:candidate-vibid:1001000121812": 118,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7481,13 +7481,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 16,
-      "Литвинов Николай Петрович": 104,
-      "Мозжегоров Андрей Александрович": 5,
-      "Пашуто Владимир Ростиславович": 131,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 16,
+      "gas:candidate-vibid:1001000225913": 104,
+      "gas:candidate-vibid:1001000250437": 5,
+      "gas:candidate-vibid:1001000121812": 131,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7537,13 +7537,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 5,
-      "Литвинов Николай Петрович": 91,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 69,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 5,
+      "gas:candidate-vibid:1001000225913": 91,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 69,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7593,13 +7593,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 5,
-      "Лазовский Александр Александрович": 9,
-      "Литвинов Николай Петрович": 106,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 30,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000113908": 5,
+      "gas:candidate-vibid:1001000136015": 9,
+      "gas:candidate-vibid:1001000225913": 106,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 30,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070372&region=0&sub_region=0&type=429",
@@ -7649,13 +7649,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 11,
-      "Литвинов Николай Петрович": 104,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 24,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 11,
+      "gas:candidate-vibid:1001000225913": 104,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 24,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -7705,13 +7705,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 6,
-      "Литвинов Николай Петрович": 95,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 64,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 6,
+      "gas:candidate-vibid:1001000225913": 95,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 64,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -7761,13 +7761,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 68,
-      "Лазовский Александр Александрович": 95,
-      "Литвинов Николай Петрович": 724,
-      "Мозжегоров Андрей Александрович": 38,
-      "Пашуто Владимир Ростиславович": 342,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000113908": 68,
+      "gas:candidate-vibid:1001000136015": 95,
+      "gas:candidate-vibid:1001000225913": 724,
+      "gas:candidate-vibid:1001000250437": 38,
+      "gas:candidate-vibid:1001000121812": 342,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -7817,13 +7817,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 26,
-      "Лазовский Александр Александрович": 44,
-      "Литвинов Николай Петрович": 670,
-      "Мозжегоров Андрей Александрович": 81,
-      "Пашуто Владимир Ростиславович": 364,
-      "Приходченко Александр Дмитриевич": 16,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000113908": 26,
+      "gas:candidate-vibid:1001000136015": 44,
+      "gas:candidate-vibid:1001000225913": 670,
+      "gas:candidate-vibid:1001000250437": 81,
+      "gas:candidate-vibid:1001000121812": 364,
+      "gas:candidate-vibid:1001000195044": 16,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -7873,13 +7873,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 24,
-      "Лазовский Александр Александрович": 87,
-      "Литвинов Николай Петрович": 601,
-      "Мозжегоров Андрей Александрович": 33,
-      "Пашуто Владимир Ростиславович": 469,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000113908": 24,
+      "gas:candidate-vibid:1001000136015": 87,
+      "gas:candidate-vibid:1001000225913": 601,
+      "gas:candidate-vibid:1001000250437": 33,
+      "gas:candidate-vibid:1001000121812": 469,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -7929,13 +7929,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 9,
-      "Литвинов Николай Петрович": 158,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 47,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 9,
+      "gas:candidate-vibid:1001000225913": 158,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 47,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -7985,13 +7985,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 2,
-      "Литвинов Николай Петрович": 93,
-      "Мозжегоров Андрей Александрович": 3,
-      "Пашуто Владимир Ростиславович": 5,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 2,
+      "gas:candidate-vibid:1001000225913": 93,
+      "gas:candidate-vibid:1001000250437": 3,
+      "gas:candidate-vibid:1001000121812": 5,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8041,13 +8041,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 15,
-      "Лазовский Александр Александрович": 33,
-      "Литвинов Николай Петрович": 485,
-      "Мозжегоров Андрей Александрович": 23,
-      "Пашуто Владимир Ростиславович": 164,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000113908": 15,
+      "gas:candidate-vibid:1001000136015": 33,
+      "gas:candidate-vibid:1001000225913": 485,
+      "gas:candidate-vibid:1001000250437": 23,
+      "gas:candidate-vibid:1001000121812": 164,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8097,13 +8097,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 7,
-      "Лазовский Александр Александрович": 21,
-      "Литвинов Николай Петрович": 261,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 88,
-      "Приходченко Александр Дмитриевич": 5,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000113908": 7,
+      "gas:candidate-vibid:1001000136015": 21,
+      "gas:candidate-vibid:1001000225913": 261,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 88,
+      "gas:candidate-vibid:1001000195044": 5,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8153,13 +8153,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 10,
-      "Литвинов Николай Петрович": 69,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 90,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 10,
+      "gas:candidate-vibid:1001000225913": 69,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 90,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8209,13 +8209,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 9,
-      "Литвинов Николай Петрович": 225,
-      "Мозжегоров Андрей Александрович": 5,
-      "Пашуто Владимир Ростиславович": 38,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 9,
+      "gas:candidate-vibid:1001000225913": 225,
+      "gas:candidate-vibid:1001000250437": 5,
+      "gas:candidate-vibid:1001000121812": 38,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8265,13 +8265,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 7,
-      "Лазовский Александр Александрович": 16,
-      "Литвинов Николай Петрович": 462,
-      "Мозжегоров Андрей Александрович": 5,
-      "Пашуто Владимир Ростиславович": 25,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113908": 7,
+      "gas:candidate-vibid:1001000136015": 16,
+      "gas:candidate-vibid:1001000225913": 462,
+      "gas:candidate-vibid:1001000250437": 5,
+      "gas:candidate-vibid:1001000121812": 25,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8321,13 +8321,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 18,
-      "Литвинов Николай Петрович": 403,
-      "Мозжегоров Андрей Александрович": 9,
-      "Пашуто Владимир Ростиславович": 68,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 18,
+      "gas:candidate-vibid:1001000225913": 403,
+      "gas:candidate-vibid:1001000250437": 9,
+      "gas:candidate-vibid:1001000121812": 68,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8377,13 +8377,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 5,
-      "Лазовский Александр Александрович": 11,
-      "Литвинов Николай Петрович": 154,
-      "Мозжегоров Андрей Александрович": 3,
-      "Пашуто Владимир Ростиславович": 28,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113908": 5,
+      "gas:candidate-vibid:1001000136015": 11,
+      "gas:candidate-vibid:1001000225913": 154,
+      "gas:candidate-vibid:1001000250437": 3,
+      "gas:candidate-vibid:1001000121812": 28,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8433,13 +8433,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 6,
-      "Литвинов Николай Петрович": 338,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 7,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 6,
+      "gas:candidate-vibid:1001000225913": 338,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 7,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8489,13 +8489,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 1,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 100,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 40,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113908": 1,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 100,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 40,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8545,13 +8545,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 47,
-      "Лазовский Александр Александрович": 84,
-      "Литвинов Николай Петрович": 423,
-      "Мозжегоров Андрей Александрович": 49,
-      "Пашуто Владимир Ростиславович": 382,
-      "Приходченко Александр Дмитриевич": 23,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000113908": 47,
+      "gas:candidate-vibid:1001000136015": 84,
+      "gas:candidate-vibid:1001000225913": 423,
+      "gas:candidate-vibid:1001000250437": 49,
+      "gas:candidate-vibid:1001000121812": 382,
+      "gas:candidate-vibid:1001000195044": 23,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8601,13 +8601,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 26,
-      "Лазовский Александр Александрович": 41,
-      "Литвинов Николай Петрович": 237,
-      "Мозжегоров Андрей Александрович": 31,
-      "Пашуто Владимир Ростиславович": 321,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113908": 26,
+      "gas:candidate-vibid:1001000136015": 41,
+      "gas:candidate-vibid:1001000225913": 237,
+      "gas:candidate-vibid:1001000250437": 31,
+      "gas:candidate-vibid:1001000121812": 321,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8657,13 +8657,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 26,
-      "Лазовский Александр Александрович": 47,
-      "Литвинов Николай Петрович": 340,
-      "Мозжегоров Андрей Александрович": 46,
-      "Пашуто Владимир Ростиславович": 354,
-      "Приходченко Александр Дмитриевич": 16,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000113908": 26,
+      "gas:candidate-vibid:1001000136015": 47,
+      "gas:candidate-vibid:1001000225913": 340,
+      "gas:candidate-vibid:1001000250437": 46,
+      "gas:candidate-vibid:1001000121812": 354,
+      "gas:candidate-vibid:1001000195044": 16,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8713,13 +8713,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 8,
-      "Лазовский Александр Александрович": 43,
-      "Литвинов Николай Петрович": 284,
-      "Мозжегоров Андрей Александрович": 60,
-      "Пашуто Владимир Ростиславович": 232,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113908": 8,
+      "gas:candidate-vibid:1001000136015": 43,
+      "gas:candidate-vibid:1001000225913": 284,
+      "gas:candidate-vibid:1001000250437": 60,
+      "gas:candidate-vibid:1001000121812": 232,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8769,13 +8769,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 24,
-      "Лазовский Александр Александрович": 39,
-      "Литвинов Николай Петрович": 292,
-      "Мозжегоров Андрей Александрович": 106,
-      "Пашуто Владимир Ростиславович": 257,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000113908": 24,
+      "gas:candidate-vibid:1001000136015": 39,
+      "gas:candidate-vibid:1001000225913": 292,
+      "gas:candidate-vibid:1001000250437": 106,
+      "gas:candidate-vibid:1001000121812": 257,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8825,13 +8825,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 79,
-      "Литвинов Николай Петрович": 472,
-      "Мозжегоров Андрей Александрович": 59,
-      "Пашуто Владимир Ростиславович": 238,
-      "Приходченко Александр Дмитриевич": 15,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 79,
+      "gas:candidate-vibid:1001000225913": 472,
+      "gas:candidate-vibid:1001000250437": 59,
+      "gas:candidate-vibid:1001000121812": 238,
+      "gas:candidate-vibid:1001000195044": 15,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8881,13 +8881,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 25,
-      "Лазовский Александр Александрович": 59,
-      "Литвинов Николай Петрович": 401,
-      "Мозжегоров Андрей Александрович": 86,
-      "Пашуто Владимир Ростиславович": 263,
-      "Приходченко Александр Дмитриевич": 11,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000113908": 25,
+      "gas:candidate-vibid:1001000136015": 59,
+      "gas:candidate-vibid:1001000225913": 401,
+      "gas:candidate-vibid:1001000250437": 86,
+      "gas:candidate-vibid:1001000121812": 263,
+      "gas:candidate-vibid:1001000195044": 11,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8937,13 +8937,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 16,
-      "Лазовский Александр Александрович": 38,
-      "Литвинов Николай Петрович": 322,
-      "Мозжегоров Андрей Александрович": 22,
-      "Пашуто Владимир Ростиславович": 283,
-      "Приходченко Александр Дмитриевич": 5,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000113908": 16,
+      "gas:candidate-vibid:1001000136015": 38,
+      "gas:candidate-vibid:1001000225913": 322,
+      "gas:candidate-vibid:1001000250437": 22,
+      "gas:candidate-vibid:1001000121812": 283,
+      "gas:candidate-vibid:1001000195044": 5,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -8993,13 +8993,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 22,
-      "Лазовский Александр Александрович": 46,
-      "Литвинов Николай Петрович": 289,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 174,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113908": 22,
+      "gas:candidate-vibid:1001000136015": 46,
+      "gas:candidate-vibid:1001000225913": 289,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 174,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9049,13 +9049,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 14,
-      "Лазовский Александр Александрович": 36,
-      "Литвинов Николай Петрович": 261,
-      "Мозжегоров Андрей Александрович": 59,
-      "Пашуто Владимир Ростиславович": 120,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000113908": 14,
+      "gas:candidate-vibid:1001000136015": 36,
+      "gas:candidate-vibid:1001000225913": 261,
+      "gas:candidate-vibid:1001000250437": 59,
+      "gas:candidate-vibid:1001000121812": 120,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9105,13 +9105,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 17,
-      "Лазовский Александр Александрович": 41,
-      "Литвинов Николай Петрович": 312,
-      "Мозжегоров Андрей Александрович": 49,
-      "Пашуто Владимир Ростиславович": 220,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000113908": 17,
+      "gas:candidate-vibid:1001000136015": 41,
+      "gas:candidate-vibid:1001000225913": 312,
+      "gas:candidate-vibid:1001000250437": 49,
+      "gas:candidate-vibid:1001000121812": 220,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9161,13 +9161,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 34,
-      "Лазовский Александр Александрович": 75,
-      "Литвинов Николай Петрович": 551,
-      "Мозжегоров Андрей Александрович": 99,
-      "Пашуто Владимир Ростиславович": 310,
-      "Приходченко Александр Дмитриевич": 15,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113908": 34,
+      "gas:candidate-vibid:1001000136015": 75,
+      "gas:candidate-vibid:1001000225913": 551,
+      "gas:candidate-vibid:1001000250437": 99,
+      "gas:candidate-vibid:1001000121812": 310,
+      "gas:candidate-vibid:1001000195044": 15,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9217,13 +9217,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 29,
-      "Лазовский Александр Александрович": 64,
-      "Литвинов Николай Петрович": 373,
-      "Мозжегоров Андрей Александрович": 94,
-      "Пашуто Владимир Ростиславович": 242,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000113908": 29,
+      "gas:candidate-vibid:1001000136015": 64,
+      "gas:candidate-vibid:1001000225913": 373,
+      "gas:candidate-vibid:1001000250437": 94,
+      "gas:candidate-vibid:1001000121812": 242,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9273,13 +9273,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 37,
-      "Лазовский Александр Александрович": 54,
-      "Литвинов Николай Петрович": 334,
-      "Мозжегоров Андрей Александрович": 156,
-      "Пашуто Владимир Ростиславович": 216,
-      "Приходченко Александр Дмитриевич": 25,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000113908": 37,
+      "gas:candidate-vibid:1001000136015": 54,
+      "gas:candidate-vibid:1001000225913": 334,
+      "gas:candidate-vibid:1001000250437": 156,
+      "gas:candidate-vibid:1001000121812": 216,
+      "gas:candidate-vibid:1001000195044": 25,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9329,13 +9329,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 39,
-      "Лазовский Александр Александрович": 61,
-      "Литвинов Николай Петрович": 432,
-      "Мозжегоров Андрей Александрович": 139,
-      "Пашуто Владимир Ростиславович": 234,
-      "Приходченко Александр Дмитриевич": 15,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000113908": 39,
+      "gas:candidate-vibid:1001000136015": 61,
+      "gas:candidate-vibid:1001000225913": 432,
+      "gas:candidate-vibid:1001000250437": 139,
+      "gas:candidate-vibid:1001000121812": 234,
+      "gas:candidate-vibid:1001000195044": 15,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9385,13 +9385,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 14,
-      "Лазовский Александр Александрович": 31,
-      "Литвинов Николай Петрович": 200,
-      "Мозжегоров Андрей Александрович": 64,
-      "Пашуто Владимир Ростиславович": 86,
-      "Приходченко Александр Дмитриевич": 12,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113908": 14,
+      "gas:candidate-vibid:1001000136015": 31,
+      "gas:candidate-vibid:1001000225913": 200,
+      "gas:candidate-vibid:1001000250437": 64,
+      "gas:candidate-vibid:1001000121812": 86,
+      "gas:candidate-vibid:1001000195044": 12,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9441,13 +9441,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 13,
-      "Лазовский Александр Александрович": 43,
-      "Литвинов Николай Петрович": 486,
-      "Мозжегоров Андрей Александрович": 29,
-      "Пашуто Владимир Ростиславович": 186,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000113908": 13,
+      "gas:candidate-vibid:1001000136015": 43,
+      "gas:candidate-vibid:1001000225913": 486,
+      "gas:candidate-vibid:1001000250437": 29,
+      "gas:candidate-vibid:1001000121812": 186,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9497,13 +9497,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 8,
-      "Лазовский Александр Александрович": 22,
-      "Литвинов Николай Петрович": 522,
-      "Мозжегоров Андрей Александрович": 14,
-      "Пашуто Владимир Ростиславович": 127,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000113908": 8,
+      "gas:candidate-vibid:1001000136015": 22,
+      "gas:candidate-vibid:1001000225913": 522,
+      "gas:candidate-vibid:1001000250437": 14,
+      "gas:candidate-vibid:1001000121812": 127,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9553,13 +9553,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 142,
-      "Мозжегоров Андрей Александрович": 3,
-      "Пашуто Владимир Ростиславович": 81,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 142,
+      "gas:candidate-vibid:1001000250437": 3,
+      "gas:candidate-vibid:1001000121812": 81,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9609,13 +9609,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 11,
-      "Литвинов Николай Петрович": 112,
-      "Мозжегоров Андрей Александрович": 46,
-      "Пашуто Владимир Ростиславович": 23,
-      "Приходченко Александр Дмитриевич": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 11,
+      "gas:candidate-vibid:1001000225913": 112,
+      "gas:candidate-vibid:1001000250437": 46,
+      "gas:candidate-vibid:1001000121812": 23,
+      "gas:candidate-vibid:1001000195044": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9665,13 +9665,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 31,
-      "Лазовский Александр Александрович": 62,
-      "Литвинов Николай Петрович": 739,
-      "Мозжегоров Андрей Александрович": 63,
-      "Пашуто Владимир Ростиславович": 269,
-      "Приходченко Александр Дмитриевич": 6,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000113908": 31,
+      "gas:candidate-vibid:1001000136015": 62,
+      "gas:candidate-vibid:1001000225913": 739,
+      "gas:candidate-vibid:1001000250437": 63,
+      "gas:candidate-vibid:1001000121812": 269,
+      "gas:candidate-vibid:1001000195044": 6,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9721,13 +9721,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 43,
-      "Лазовский Александр Александрович": 61,
-      "Литвинов Николай Петрович": 480,
-      "Мозжегоров Андрей Александрович": 70,
-      "Пашуто Владимир Ростиславович": 244,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000113908": 43,
+      "gas:candidate-vibid:1001000136015": 61,
+      "gas:candidate-vibid:1001000225913": 480,
+      "gas:candidate-vibid:1001000250437": 70,
+      "gas:candidate-vibid:1001000121812": 244,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9777,13 +9777,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 33,
-      "Лазовский Александр Александрович": 47,
-      "Литвинов Николай Петрович": 549,
-      "Мозжегоров Андрей Александрович": 81,
-      "Пашуто Владимир Ростиславович": 330,
-      "Приходченко Александр Дмитриевич": 17,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000113908": 33,
+      "gas:candidate-vibid:1001000136015": 47,
+      "gas:candidate-vibid:1001000225913": 549,
+      "gas:candidate-vibid:1001000250437": 81,
+      "gas:candidate-vibid:1001000121812": 330,
+      "gas:candidate-vibid:1001000195044": 17,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9833,13 +9833,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 5,
-      "Лазовский Александр Александрович": 9,
-      "Литвинов Николай Петрович": 115,
-      "Мозжегоров Андрей Александрович": 5,
-      "Пашуто Владимир Ростиславович": 75,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113908": 5,
+      "gas:candidate-vibid:1001000136015": 9,
+      "gas:candidate-vibid:1001000225913": 115,
+      "gas:candidate-vibid:1001000250437": 5,
+      "gas:candidate-vibid:1001000121812": 75,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9889,13 +9889,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 6,
-      "Лазовский Александр Александрович": 26,
-      "Литвинов Николай Петрович": 163,
-      "Мозжегоров Андрей Александрович": 16,
-      "Пашуто Владимир Ростиславович": 27,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113908": 6,
+      "gas:candidate-vibid:1001000136015": 26,
+      "gas:candidate-vibid:1001000225913": 163,
+      "gas:candidate-vibid:1001000250437": 16,
+      "gas:candidate-vibid:1001000121812": 27,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -9945,13 +9945,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 5,
-      "Лазовский Александр Александрович": 2,
-      "Литвинов Николай Петрович": 50,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 13,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113908": 5,
+      "gas:candidate-vibid:1001000136015": 2,
+      "gas:candidate-vibid:1001000225913": 50,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 13,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10001,13 +10001,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 12,
-      "Литвинов Николай Петрович": 150,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 9,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 12,
+      "gas:candidate-vibid:1001000225913": 150,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 9,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10057,13 +10057,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 3,
-      "Лазовский Александр Александрович": 9,
-      "Литвинов Николай Петрович": 122,
-      "Мозжегоров Андрей Александрович": 6,
-      "Пашуто Владимир Ростиславович": 25,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113908": 3,
+      "gas:candidate-vibid:1001000136015": 9,
+      "gas:candidate-vibid:1001000225913": 122,
+      "gas:candidate-vibid:1001000250437": 6,
+      "gas:candidate-vibid:1001000121812": 25,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10113,13 +10113,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 14,
-      "Лазовский Александр Александрович": 27,
-      "Литвинов Николай Петрович": 391,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 57,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000113908": 14,
+      "gas:candidate-vibid:1001000136015": 27,
+      "gas:candidate-vibid:1001000225913": 391,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 57,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10169,13 +10169,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 37,
-      "Лазовский Александр Александрович": 120,
-      "Литвинов Николай Петрович": 856,
-      "Мозжегоров Андрей Александрович": 187,
-      "Пашуто Владимир Ростиславович": 207,
-      "Приходченко Александр Дмитриевич": 25,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000113908": 37,
+      "gas:candidate-vibid:1001000136015": 120,
+      "gas:candidate-vibid:1001000225913": 856,
+      "gas:candidate-vibid:1001000250437": 187,
+      "gas:candidate-vibid:1001000121812": 207,
+      "gas:candidate-vibid:1001000195044": 25,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10225,13 +10225,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 12,
-      "Лазовский Александр Александрович": 12,
-      "Литвинов Николай Петрович": 136,
-      "Мозжегоров Андрей Александрович": 24,
-      "Пашуто Владимир Ростиславович": 41,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113908": 12,
+      "gas:candidate-vibid:1001000136015": 12,
+      "gas:candidate-vibid:1001000225913": 136,
+      "gas:candidate-vibid:1001000250437": 24,
+      "gas:candidate-vibid:1001000121812": 41,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10281,13 +10281,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 13,
-      "Лазовский Александр Александрович": 7,
-      "Литвинов Николай Петрович": 222,
-      "Мозжегоров Андрей Александрович": 12,
-      "Пашуто Владимир Ростиславович": 66,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113908": 13,
+      "gas:candidate-vibid:1001000136015": 7,
+      "gas:candidate-vibid:1001000225913": 222,
+      "gas:candidate-vibid:1001000250437": 12,
+      "gas:candidate-vibid:1001000121812": 66,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10337,13 +10337,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 0,
-      "Литвинов Николай Петрович": 45,
-      "Мозжегоров Андрей Александрович": 0,
-      "Пашуто Владимир Ростиславович": 5,
-      "Приходченко Александр Дмитриевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 0,
+      "gas:candidate-vibid:1001000225913": 45,
+      "gas:candidate-vibid:1001000250437": 0,
+      "gas:candidate-vibid:1001000121812": 5,
+      "gas:candidate-vibid:1001000195044": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10393,13 +10393,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 22,
-      "Лазовский Александр Александрович": 33,
-      "Литвинов Николай Петрович": 275,
-      "Мозжегоров Андрей Александрович": 30,
-      "Пашуто Владимир Ростиславович": 172,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113908": 22,
+      "gas:candidate-vibid:1001000136015": 33,
+      "gas:candidate-vibid:1001000225913": 275,
+      "gas:candidate-vibid:1001000250437": 30,
+      "gas:candidate-vibid:1001000121812": 172,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10449,13 +10449,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 33,
-      "Литвинов Николай Петрович": 362,
-      "Мозжегоров Андрей Александрович": 22,
-      "Пашуто Владимир Ростиславович": 240,
-      "Приходченко Александр Дмитриевич": 17,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 33,
+      "gas:candidate-vibid:1001000225913": 362,
+      "gas:candidate-vibid:1001000250437": 22,
+      "gas:candidate-vibid:1001000121812": 240,
+      "gas:candidate-vibid:1001000195044": 17,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10505,13 +10505,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 20,
-      "Лазовский Александр Александрович": 39,
-      "Литвинов Николай Петрович": 336,
-      "Мозжегоров Андрей Александрович": 51,
-      "Пашуто Владимир Ростиславович": 335,
-      "Приходченко Александр Дмитриевич": 25,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000113908": 20,
+      "gas:candidate-vibid:1001000136015": 39,
+      "gas:candidate-vibid:1001000225913": 336,
+      "gas:candidate-vibid:1001000250437": 51,
+      "gas:candidate-vibid:1001000121812": 335,
+      "gas:candidate-vibid:1001000195044": 25,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10561,13 +10561,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 21,
-      "Лазовский Александр Александрович": 66,
-      "Литвинов Николай Петрович": 340,
-      "Мозжегоров Андрей Александрович": 31,
-      "Пашуто Владимир Ростиславович": 293,
-      "Приходченко Александр Дмитриевич": 16,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000113908": 21,
+      "gas:candidate-vibid:1001000136015": 66,
+      "gas:candidate-vibid:1001000225913": 340,
+      "gas:candidate-vibid:1001000250437": 31,
+      "gas:candidate-vibid:1001000121812": 293,
+      "gas:candidate-vibid:1001000195044": 16,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10617,13 +10617,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 17,
-      "Лазовский Александр Александрович": 65,
-      "Литвинов Николай Петрович": 312,
-      "Мозжегоров Андрей Александрович": 35,
-      "Пашуто Владимир Ростиславович": 205,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113908": 17,
+      "gas:candidate-vibid:1001000136015": 65,
+      "gas:candidate-vibid:1001000225913": 312,
+      "gas:candidate-vibid:1001000250437": 35,
+      "gas:candidate-vibid:1001000121812": 205,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10673,13 +10673,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 13,
-      "Лазовский Александр Александрович": 32,
-      "Литвинов Николай Петрович": 435,
-      "Мозжегоров Андрей Александрович": 18,
-      "Пашуто Владимир Ростиславович": 214,
-      "Приходченко Александр Дмитриевич": 11,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000113908": 13,
+      "gas:candidate-vibid:1001000136015": 32,
+      "gas:candidate-vibid:1001000225913": 435,
+      "gas:candidate-vibid:1001000250437": 18,
+      "gas:candidate-vibid:1001000121812": 214,
+      "gas:candidate-vibid:1001000195044": 11,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10729,13 +10729,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 10,
-      "Лазовский Александр Александрович": 38,
-      "Литвинов Николай Петрович": 420,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 125,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000113908": 10,
+      "gas:candidate-vibid:1001000136015": 38,
+      "gas:candidate-vibid:1001000225913": 420,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 125,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10785,13 +10785,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 14,
-      "Литвинов Николай Петрович": 108,
-      "Мозжегоров Андрей Александрович": 2,
-      "Пашуто Владимир Ростиславович": 41,
-      "Приходченко Александр Дмитриевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 14,
+      "gas:candidate-vibid:1001000225913": 108,
+      "gas:candidate-vibid:1001000250437": 2,
+      "gas:candidate-vibid:1001000121812": 41,
+      "gas:candidate-vibid:1001000195044": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10841,13 +10841,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 43,
-      "Лазовский Александр Александрович": 77,
-      "Литвинов Николай Петрович": 595,
-      "Мозжегоров Андрей Александрович": 32,
-      "Пашуто Владимир Ростиславович": 162,
-      "Приходченко Александр Дмитриевич": 29,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000113908": 43,
+      "gas:candidate-vibid:1001000136015": 77,
+      "gas:candidate-vibid:1001000225913": 595,
+      "gas:candidate-vibid:1001000250437": 32,
+      "gas:candidate-vibid:1001000121812": 162,
+      "gas:candidate-vibid:1001000195044": 29,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10897,13 +10897,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 44,
-      "Лазовский Александр Александрович": 75,
-      "Литвинов Николай Петрович": 896,
-      "Мозжегоров Андрей Александрович": 47,
-      "Пашуто Владимир Ростиславович": 251,
-      "Приходченко Александр Дмитриевич": 20,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000113908": 44,
+      "gas:candidate-vibid:1001000136015": 75,
+      "gas:candidate-vibid:1001000225913": 896,
+      "gas:candidate-vibid:1001000250437": 47,
+      "gas:candidate-vibid:1001000121812": 251,
+      "gas:candidate-vibid:1001000195044": 20,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -10953,13 +10953,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 27,
-      "Лазовский Александр Александрович": 28,
-      "Литвинов Николай Петрович": 505,
-      "Мозжегоров Андрей Александрович": 33,
-      "Пашуто Владимир Ростиславович": 165,
-      "Приходченко Александр Дмитриевич": 18,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000113908": 27,
+      "gas:candidate-vibid:1001000136015": 28,
+      "gas:candidate-vibid:1001000225913": 505,
+      "gas:candidate-vibid:1001000250437": 33,
+      "gas:candidate-vibid:1001000121812": 165,
+      "gas:candidate-vibid:1001000195044": 18,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -11009,13 +11009,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 12,
-      "Лазовский Александр Александрович": 31,
-      "Литвинов Николай Петрович": 231,
-      "Мозжегоров Андрей Александрович": 61,
-      "Пашуто Владимир Ростиславович": 97,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000113908": 12,
+      "gas:candidate-vibid:1001000136015": 31,
+      "gas:candidate-vibid:1001000225913": 231,
+      "gas:candidate-vibid:1001000250437": 61,
+      "gas:candidate-vibid:1001000121812": 97,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070373&region=0&sub_region=0&type=429",
@@ -11065,13 +11065,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 29,
-      "Лазовский Александр Александрович": 69,
-      "Литвинов Николай Петрович": 281,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 61,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000113908": 29,
+      "gas:candidate-vibid:1001000136015": 69,
+      "gas:candidate-vibid:1001000225913": 281,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 61,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11121,13 +11121,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 43,
-      "Лазовский Александр Александрович": 71,
-      "Литвинов Николай Петрович": 492,
-      "Мозжегоров Андрей Александрович": 29,
-      "Пашуто Владимир Ростиславович": 181,
-      "Приходченко Александр Дмитриевич": 16,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000113908": 43,
+      "gas:candidate-vibid:1001000136015": 71,
+      "gas:candidate-vibid:1001000225913": 492,
+      "gas:candidate-vibid:1001000250437": 29,
+      "gas:candidate-vibid:1001000121812": 181,
+      "gas:candidate-vibid:1001000195044": 16,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11177,13 +11177,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 35,
-      "Лазовский Александр Александрович": 84,
-      "Литвинов Николай Петрович": 372,
-      "Мозжегоров Андрей Александрович": 29,
-      "Пашуто Владимир Ростиславович": 170,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113908": 35,
+      "gas:candidate-vibid:1001000136015": 84,
+      "gas:candidate-vibid:1001000225913": 372,
+      "gas:candidate-vibid:1001000250437": 29,
+      "gas:candidate-vibid:1001000121812": 170,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11233,13 +11233,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 54,
-      "Лазовский Александр Александрович": 88,
-      "Литвинов Николай Петрович": 487,
-      "Мозжегоров Андрей Александрович": 35,
-      "Пашуто Владимир Ростиславович": 171,
-      "Приходченко Александр Дмитриевич": 37,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000113908": 54,
+      "gas:candidate-vibid:1001000136015": 88,
+      "gas:candidate-vibid:1001000225913": 487,
+      "gas:candidate-vibid:1001000250437": 35,
+      "gas:candidate-vibid:1001000121812": 171,
+      "gas:candidate-vibid:1001000195044": 37,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11289,13 +11289,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 44,
-      "Лазовский Александр Александрович": 73,
-      "Литвинов Николай Петрович": 431,
-      "Мозжегоров Андрей Александрович": 24,
-      "Пашуто Владимир Ростиславович": 145,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000113908": 44,
+      "gas:candidate-vibid:1001000136015": 73,
+      "gas:candidate-vibid:1001000225913": 431,
+      "gas:candidate-vibid:1001000250437": 24,
+      "gas:candidate-vibid:1001000121812": 145,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11345,13 +11345,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 37,
-      "Лазовский Александр Александрович": 57,
-      "Литвинов Николай Петрович": 376,
-      "Мозжегоров Андрей Александрович": 21,
-      "Пашуто Владимир Ростиславович": 144,
-      "Приходченко Александр Дмитриевич": 22,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000113908": 37,
+      "gas:candidate-vibid:1001000136015": 57,
+      "gas:candidate-vibid:1001000225913": 376,
+      "gas:candidate-vibid:1001000250437": 21,
+      "gas:candidate-vibid:1001000121812": 144,
+      "gas:candidate-vibid:1001000195044": 22,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11401,13 +11401,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 33,
-      "Лазовский Александр Александрович": 46,
-      "Литвинов Николай Петрович": 369,
-      "Мозжегоров Андрей Александрович": 18,
-      "Пашуто Владимир Ростиславович": 122,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000113908": 33,
+      "gas:candidate-vibid:1001000136015": 46,
+      "gas:candidate-vibid:1001000225913": 369,
+      "gas:candidate-vibid:1001000250437": 18,
+      "gas:candidate-vibid:1001000121812": 122,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11457,13 +11457,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 26,
-      "Лазовский Александр Александрович": 49,
-      "Литвинов Николай Петрович": 389,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 143,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000113908": 26,
+      "gas:candidate-vibid:1001000136015": 49,
+      "gas:candidate-vibid:1001000225913": 389,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 143,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11513,13 +11513,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 47,
-      "Лазовский Александр Александрович": 72,
-      "Литвинов Николай Петрович": 387,
-      "Мозжегоров Андрей Александрович": 23,
-      "Пашуто Владимир Ростиславович": 97,
-      "Приходченко Александр Дмитриевич": 18,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113908": 47,
+      "gas:candidate-vibid:1001000136015": 72,
+      "gas:candidate-vibid:1001000225913": 387,
+      "gas:candidate-vibid:1001000250437": 23,
+      "gas:candidate-vibid:1001000121812": 97,
+      "gas:candidate-vibid:1001000195044": 18,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11569,13 +11569,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 30,
-      "Лазовский Александр Александрович": 39,
-      "Литвинов Николай Петрович": 291,
-      "Мозжегоров Андрей Александрович": 23,
-      "Пашуто Владимир Ростиславович": 79,
-      "Приходченко Александр Дмитриевич": 12,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113908": 30,
+      "gas:candidate-vibid:1001000136015": 39,
+      "gas:candidate-vibid:1001000225913": 291,
+      "gas:candidate-vibid:1001000250437": 23,
+      "gas:candidate-vibid:1001000121812": 79,
+      "gas:candidate-vibid:1001000195044": 12,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11625,13 +11625,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 38,
-      "Лазовский Александр Александрович": 58,
-      "Литвинов Николай Петрович": 344,
-      "Мозжегоров Андрей Александрович": 18,
-      "Пашуто Владимир Ростиславович": 102,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000113908": 38,
+      "gas:candidate-vibid:1001000136015": 58,
+      "gas:candidate-vibid:1001000225913": 344,
+      "gas:candidate-vibid:1001000250437": 18,
+      "gas:candidate-vibid:1001000121812": 102,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11681,13 +11681,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 7,
-      "Лазовский Александр Александрович": 25,
-      "Литвинов Николай Петрович": 182,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 43,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113908": 7,
+      "gas:candidate-vibid:1001000136015": 25,
+      "gas:candidate-vibid:1001000225913": 182,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 43,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11737,13 +11737,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 40,
-      "Лазовский Александр Александрович": 61,
-      "Литвинов Николай Петрович": 398,
-      "Мозжегоров Андрей Александрович": 32,
-      "Пашуто Владимир Ростиславович": 206,
-      "Приходченко Александр Дмитриевич": 25,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113908": 40,
+      "gas:candidate-vibid:1001000136015": 61,
+      "gas:candidate-vibid:1001000225913": 398,
+      "gas:candidate-vibid:1001000250437": 32,
+      "gas:candidate-vibid:1001000121812": 206,
+      "gas:candidate-vibid:1001000195044": 25,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11793,13 +11793,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 18,
-      "Лазовский Александр Александрович": 21,
-      "Литвинов Николай Петрович": 276,
-      "Мозжегоров Андрей Александрович": 12,
-      "Пашуто Владимир Ростиславович": 86,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113908": 18,
+      "gas:candidate-vibid:1001000136015": 21,
+      "gas:candidate-vibid:1001000225913": 276,
+      "gas:candidate-vibid:1001000250437": 12,
+      "gas:candidate-vibid:1001000121812": 86,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11849,13 +11849,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 16,
-      "Лазовский Александр Александрович": 18,
-      "Литвинов Николай Петрович": 210,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 92,
-      "Приходченко Александр Дмитриевич": 15,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113908": 16,
+      "gas:candidate-vibid:1001000136015": 18,
+      "gas:candidate-vibid:1001000225913": 210,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 92,
+      "gas:candidate-vibid:1001000195044": 15,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11905,13 +11905,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 35,
-      "Лазовский Александр Александрович": 32,
-      "Литвинов Николай Петрович": 310,
-      "Мозжегоров Андрей Александрович": 26,
-      "Пашуто Владимир Ростиславович": 128,
-      "Приходченко Александр Дмитриевич": 11,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113908": 35,
+      "gas:candidate-vibid:1001000136015": 32,
+      "gas:candidate-vibid:1001000225913": 310,
+      "gas:candidate-vibid:1001000250437": 26,
+      "gas:candidate-vibid:1001000121812": 128,
+      "gas:candidate-vibid:1001000195044": 11,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -11961,13 +11961,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 18,
-      "Лазовский Александр Александрович": 25,
-      "Литвинов Николай Петрович": 224,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 218,
-      "Приходченко Александр Дмитриевич": 9,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000113908": 18,
+      "gas:candidate-vibid:1001000136015": 25,
+      "gas:candidate-vibid:1001000225913": 224,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 218,
+      "gas:candidate-vibid:1001000195044": 9,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12017,13 +12017,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 25,
-      "Лазовский Александр Александрович": 41,
-      "Литвинов Николай Петрович": 287,
-      "Мозжегоров Андрей Александрович": 22,
-      "Пашуто Владимир Ростиславович": 140,
-      "Приходченко Александр Дмитриевич": 17,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113908": 25,
+      "gas:candidate-vibid:1001000136015": 41,
+      "gas:candidate-vibid:1001000225913": 287,
+      "gas:candidate-vibid:1001000250437": 22,
+      "gas:candidate-vibid:1001000121812": 140,
+      "gas:candidate-vibid:1001000195044": 17,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12073,13 +12073,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 12,
-      "Лазовский Александр Александрович": 30,
-      "Литвинов Николай Петрович": 227,
-      "Мозжегоров Андрей Александрович": 18,
-      "Пашуто Владимир Ростиславович": 149,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113908": 12,
+      "gas:candidate-vibid:1001000136015": 30,
+      "gas:candidate-vibid:1001000225913": 227,
+      "gas:candidate-vibid:1001000250437": 18,
+      "gas:candidate-vibid:1001000121812": 149,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12129,13 +12129,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 12,
-      "Лазовский Александр Александрович": 24,
-      "Литвинов Николай Петрович": 228,
-      "Мозжегоров Андрей Александрович": 12,
-      "Пашуто Владимир Ростиславович": 55,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113908": 12,
+      "gas:candidate-vibid:1001000136015": 24,
+      "gas:candidate-vibid:1001000225913": 228,
+      "gas:candidate-vibid:1001000250437": 12,
+      "gas:candidate-vibid:1001000121812": 55,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12185,13 +12185,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 28,
-      "Лазовский Александр Александрович": 46,
-      "Литвинов Николай Петрович": 652,
-      "Мозжегоров Андрей Александрович": 23,
-      "Пашуто Владимир Ростиславович": 201,
-      "Приходченко Александр Дмитриевич": 12,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113908": 28,
+      "gas:candidate-vibid:1001000136015": 46,
+      "gas:candidate-vibid:1001000225913": 652,
+      "gas:candidate-vibid:1001000250437": 23,
+      "gas:candidate-vibid:1001000121812": 201,
+      "gas:candidate-vibid:1001000195044": 12,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12241,13 +12241,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 25,
-      "Литвинов Николай Петрович": 359,
-      "Мозжегоров Андрей Александрович": 17,
-      "Пашуто Владимир Ростиславович": 53,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 25,
+      "gas:candidate-vibid:1001000225913": 359,
+      "gas:candidate-vibid:1001000250437": 17,
+      "gas:candidate-vibid:1001000121812": 53,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12297,13 +12297,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 46,
-      "Лазовский Александр Александрович": 103,
-      "Литвинов Николай Петрович": 532,
-      "Мозжегоров Андрей Александрович": 28,
-      "Пашуто Владимир Ростиславович": 332,
-      "Приходченко Александр Дмитриевич": 42,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000113908": 46,
+      "gas:candidate-vibid:1001000136015": 103,
+      "gas:candidate-vibid:1001000225913": 532,
+      "gas:candidate-vibid:1001000250437": 28,
+      "gas:candidate-vibid:1001000121812": 332,
+      "gas:candidate-vibid:1001000195044": 42,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12353,13 +12353,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 59,
-      "Лазовский Александр Александрович": 90,
-      "Литвинов Николай Петрович": 514,
-      "Мозжегоров Андрей Александрович": 43,
-      "Пашуто Владимир Ростиславович": 228,
-      "Приходченко Александр Дмитриевич": 21,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000113908": 59,
+      "gas:candidate-vibid:1001000136015": 90,
+      "gas:candidate-vibid:1001000225913": 514,
+      "gas:candidate-vibid:1001000250437": 43,
+      "gas:candidate-vibid:1001000121812": 228,
+      "gas:candidate-vibid:1001000195044": 21,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12409,13 +12409,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 4,
-      "Лазовский Александр Александрович": 17,
-      "Литвинов Николай Петрович": 154,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 24,
-      "Приходченко Александр Дмитриевич": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113908": 4,
+      "gas:candidate-vibid:1001000136015": 17,
+      "gas:candidate-vibid:1001000225913": 154,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 24,
+      "gas:candidate-vibid:1001000195044": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12465,13 +12465,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 16,
-      "Лазовский Александр Александрович": 17,
-      "Литвинов Николай Петрович": 46,
-      "Мозжегоров Андрей Александрович": 45,
-      "Пашуто Владимир Ростиславович": 29,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113908": 16,
+      "gas:candidate-vibid:1001000136015": 17,
+      "gas:candidate-vibid:1001000225913": 46,
+      "gas:candidate-vibid:1001000250437": 45,
+      "gas:candidate-vibid:1001000121812": 29,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12521,13 +12521,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 34,
-      "Литвинов Николай Петрович": 496,
-      "Мозжегоров Андрей Александрович": 8,
-      "Пашуто Владимир Ростиславович": 102,
-      "Приходченко Александр Дмитриевич": 16,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 34,
+      "gas:candidate-vibid:1001000225913": 496,
+      "gas:candidate-vibid:1001000250437": 8,
+      "gas:candidate-vibid:1001000121812": 102,
+      "gas:candidate-vibid:1001000195044": 16,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12577,13 +12577,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 23,
-      "Лазовский Александр Александрович": 56,
-      "Литвинов Николай Петрович": 293,
-      "Мозжегоров Андрей Александрович": 8,
-      "Пашуто Владимир Ростиславович": 206,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113908": 23,
+      "gas:candidate-vibid:1001000136015": 56,
+      "gas:candidate-vibid:1001000225913": 293,
+      "gas:candidate-vibid:1001000250437": 8,
+      "gas:candidate-vibid:1001000121812": 206,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12633,13 +12633,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 9,
-      "Лазовский Александр Александрович": 16,
-      "Литвинов Николай Петрович": 81,
-      "Мозжегоров Андрей Александрович": 5,
-      "Пашуто Владимир Ростиславович": 39,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113908": 9,
+      "gas:candidate-vibid:1001000136015": 16,
+      "gas:candidate-vibid:1001000225913": 81,
+      "gas:candidate-vibid:1001000250437": 5,
+      "gas:candidate-vibid:1001000121812": 39,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12689,13 +12689,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 19,
-      "Лазовский Александр Александрович": 50,
-      "Литвинов Николай Петрович": 409,
-      "Мозжегоров Андрей Александрович": 12,
-      "Пашуто Владимир Ростиславович": 104,
-      "Приходченко Александр Дмитриевич": 23,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000113908": 19,
+      "gas:candidate-vibid:1001000136015": 50,
+      "gas:candidate-vibid:1001000225913": 409,
+      "gas:candidate-vibid:1001000250437": 12,
+      "gas:candidate-vibid:1001000121812": 104,
+      "gas:candidate-vibid:1001000195044": 23,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12745,13 +12745,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 71,
-      "Лазовский Александр Александрович": 90,
-      "Литвинов Николай Петрович": 593,
-      "Мозжегоров Андрей Александрович": 65,
-      "Пашуто Владимир Ростиславович": 206,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000113908": 71,
+      "gas:candidate-vibid:1001000136015": 90,
+      "gas:candidate-vibid:1001000225913": 593,
+      "gas:candidate-vibid:1001000250437": 65,
+      "gas:candidate-vibid:1001000121812": 206,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12801,13 +12801,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 13,
-      "Лазовский Александр Александрович": 22,
-      "Литвинов Николай Петрович": 138,
-      "Мозжегоров Андрей Александрович": 6,
-      "Пашуто Владимир Ростиславович": 45,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113908": 13,
+      "gas:candidate-vibid:1001000136015": 22,
+      "gas:candidate-vibid:1001000225913": 138,
+      "gas:candidate-vibid:1001000250437": 6,
+      "gas:candidate-vibid:1001000121812": 45,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12857,13 +12857,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 29,
-      "Лазовский Александр Александрович": 41,
-      "Литвинов Николай Петрович": 429,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 196,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113908": 29,
+      "gas:candidate-vibid:1001000136015": 41,
+      "gas:candidate-vibid:1001000225913": 429,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 196,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12913,13 +12913,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 25,
-      "Лазовский Александр Александрович": 28,
-      "Литвинов Николай Петрович": 267,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 81,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113908": 25,
+      "gas:candidate-vibid:1001000136015": 28,
+      "gas:candidate-vibid:1001000225913": 267,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 81,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -12969,13 +12969,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 2,
-      "Лазовский Александр Александрович": 9,
-      "Литвинов Николай Петрович": 62,
-      "Мозжегоров Андрей Александрович": 1,
-      "Пашуто Владимир Ростиславович": 23,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113908": 2,
+      "gas:candidate-vibid:1001000136015": 9,
+      "gas:candidate-vibid:1001000225913": 62,
+      "gas:candidate-vibid:1001000250437": 1,
+      "gas:candidate-vibid:1001000121812": 23,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13025,13 +13025,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 0,
-      "Лазовский Александр Александрович": 5,
-      "Литвинов Николай Петрович": 96,
-      "Мозжегоров Андрей Александрович": 3,
-      "Пашуто Владимир Ростиславович": 27,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113908": 0,
+      "gas:candidate-vibid:1001000136015": 5,
+      "gas:candidate-vibid:1001000225913": 96,
+      "gas:candidate-vibid:1001000250437": 3,
+      "gas:candidate-vibid:1001000121812": 27,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13081,13 +13081,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 35,
-      "Лазовский Александр Александрович": 46,
-      "Литвинов Николай Петрович": 484,
-      "Мозжегоров Андрей Александрович": 15,
-      "Пашуто Владимир Ростиславович": 192,
-      "Приходченко Александр Дмитриевич": 11,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000113908": 35,
+      "gas:candidate-vibid:1001000136015": 46,
+      "gas:candidate-vibid:1001000225913": 484,
+      "gas:candidate-vibid:1001000250437": 15,
+      "gas:candidate-vibid:1001000121812": 192,
+      "gas:candidate-vibid:1001000195044": 11,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13137,13 +13137,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 40,
-      "Лазовский Александр Александрович": 76,
-      "Литвинов Николай Петрович": 765,
-      "Мозжегоров Андрей Александрович": 20,
-      "Пашуто Владимир Ростиславович": 194,
-      "Приходченко Александр Дмитриевич": 20,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000113908": 40,
+      "gas:candidate-vibid:1001000136015": 76,
+      "gas:candidate-vibid:1001000225913": 765,
+      "gas:candidate-vibid:1001000250437": 20,
+      "gas:candidate-vibid:1001000121812": 194,
+      "gas:candidate-vibid:1001000195044": 20,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13193,13 +13193,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 17,
-      "Лазовский Александр Александрович": 48,
-      "Литвинов Николай Петрович": 278,
-      "Мозжегоров Андрей Александрович": 14,
-      "Пашуто Владимир Ростиславович": 134,
-      "Приходченко Александр Дмитриевич": 16,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113908": 17,
+      "gas:candidate-vibid:1001000136015": 48,
+      "gas:candidate-vibid:1001000225913": 278,
+      "gas:candidate-vibid:1001000250437": 14,
+      "gas:candidate-vibid:1001000121812": 134,
+      "gas:candidate-vibid:1001000195044": 16,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13249,13 +13249,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 34,
-      "Лазовский Александр Александрович": 45,
-      "Литвинов Николай Петрович": 439,
-      "Мозжегоров Андрей Александрович": 22,
-      "Пашуто Владимир Ростиславович": 164,
-      "Приходченко Александр Дмитриевич": 24,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000113908": 34,
+      "gas:candidate-vibid:1001000136015": 45,
+      "gas:candidate-vibid:1001000225913": 439,
+      "gas:candidate-vibid:1001000250437": 22,
+      "gas:candidate-vibid:1001000121812": 164,
+      "gas:candidate-vibid:1001000195044": 24,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13305,13 +13305,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 7,
-      "Лазовский Александр Александрович": 26,
-      "Литвинов Николай Петрович": 165,
-      "Мозжегоров Андрей Александрович": 4,
-      "Пашуто Владимир Ростиславович": 71,
-      "Приходченко Александр Дмитриевич": 6,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113908": 7,
+      "gas:candidate-vibid:1001000136015": 26,
+      "gas:candidate-vibid:1001000225913": 165,
+      "gas:candidate-vibid:1001000250437": 4,
+      "gas:candidate-vibid:1001000121812": 71,
+      "gas:candidate-vibid:1001000195044": 6,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070374&region=0&sub_region=0&type=429",
@@ -13361,13 +13361,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 84,
-      "Лазовский Александр Александрович": 49,
-      "Литвинов Николай Петрович": 532,
-      "Мозжегоров Андрей Александрович": 15,
-      "Пашуто Владимир Ростиславович": 263,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000113908": 84,
+      "gas:candidate-vibid:1001000136015": 49,
+      "gas:candidate-vibid:1001000225913": 532,
+      "gas:candidate-vibid:1001000250437": 15,
+      "gas:candidate-vibid:1001000121812": 263,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13417,13 +13417,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 73,
-      "Лазовский Александр Александрович": 78,
-      "Литвинов Николай Петрович": 501,
-      "Мозжегоров Андрей Александрович": 32,
-      "Пашуто Владимир Ростиславович": 182,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113908": 73,
+      "gas:candidate-vibid:1001000136015": 78,
+      "gas:candidate-vibid:1001000225913": 501,
+      "gas:candidate-vibid:1001000250437": 32,
+      "gas:candidate-vibid:1001000121812": 182,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13473,13 +13473,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 97,
-      "Лазовский Александр Александрович": 66,
-      "Литвинов Николай Петрович": 487,
-      "Мозжегоров Андрей Александрович": 26,
-      "Пашуто Владимир Ростиславович": 337,
-      "Приходченко Александр Дмитриевич": 29,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000113908": 97,
+      "gas:candidate-vibid:1001000136015": 66,
+      "gas:candidate-vibid:1001000225913": 487,
+      "gas:candidate-vibid:1001000250437": 26,
+      "gas:candidate-vibid:1001000121812": 337,
+      "gas:candidate-vibid:1001000195044": 29,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13529,13 +13529,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 99,
-      "Лазовский Александр Александрович": 50,
-      "Литвинов Николай Петрович": 314,
-      "Мозжегоров Андрей Александрович": 25,
-      "Пашуто Владимир Ростиславович": 241,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113908": 99,
+      "gas:candidate-vibid:1001000136015": 50,
+      "gas:candidate-vibid:1001000225913": 314,
+      "gas:candidate-vibid:1001000250437": 25,
+      "gas:candidate-vibid:1001000121812": 241,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13585,13 +13585,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 54,
-      "Лазовский Александр Александрович": 34,
-      "Литвинов Николай Петрович": 333,
-      "Мозжегоров Андрей Александрович": 15,
-      "Пашуто Владимир Ростиславович": 278,
-      "Приходченко Александр Дмитриевич": 7,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000113908": 54,
+      "gas:candidate-vibid:1001000136015": 34,
+      "gas:candidate-vibid:1001000225913": 333,
+      "gas:candidate-vibid:1001000250437": 15,
+      "gas:candidate-vibid:1001000121812": 278,
+      "gas:candidate-vibid:1001000195044": 7,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13641,13 +13641,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 55,
-      "Лазовский Александр Александрович": 44,
-      "Литвинов Николай Петрович": 408,
-      "Мозжегоров Андрей Александрович": 20,
-      "Пашуто Владимир Ростиславович": 285,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113908": 55,
+      "gas:candidate-vibid:1001000136015": 44,
+      "gas:candidate-vibid:1001000225913": 408,
+      "gas:candidate-vibid:1001000250437": 20,
+      "gas:candidate-vibid:1001000121812": 285,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13697,13 +13697,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 58,
-      "Лазовский Александр Александрович": 39,
-      "Литвинов Николай Петрович": 379,
-      "Мозжегоров Андрей Александрович": 18,
-      "Пашуто Владимир Ростиславович": 325,
-      "Приходченко Александр Дмитриевич": 8,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000113908": 58,
+      "gas:candidate-vibid:1001000136015": 39,
+      "gas:candidate-vibid:1001000225913": 379,
+      "gas:candidate-vibid:1001000250437": 18,
+      "gas:candidate-vibid:1001000121812": 325,
+      "gas:candidate-vibid:1001000195044": 8,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13753,13 +13753,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 61,
-      "Лазовский Александр Александрович": 29,
-      "Литвинов Николай Петрович": 332,
-      "Мозжегоров Андрей Александрович": 15,
-      "Пашуто Владимир Ростиславович": 272,
-      "Приходченко Александр Дмитриевич": 13,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000113908": 61,
+      "gas:candidate-vibid:1001000136015": 29,
+      "gas:candidate-vibid:1001000225913": 332,
+      "gas:candidate-vibid:1001000250437": 15,
+      "gas:candidate-vibid:1001000121812": 272,
+      "gas:candidate-vibid:1001000195044": 13,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13809,13 +13809,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 56,
-      "Лазовский Александр Александрович": 58,
-      "Литвинов Николай Петрович": 384,
-      "Мозжегоров Андрей Александрович": 10,
-      "Пашуто Владимир Ростиславович": 226,
-      "Приходченко Александр Дмитриевич": 10,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113908": 56,
+      "gas:candidate-vibid:1001000136015": 58,
+      "gas:candidate-vibid:1001000225913": 384,
+      "gas:candidate-vibid:1001000250437": 10,
+      "gas:candidate-vibid:1001000121812": 226,
+      "gas:candidate-vibid:1001000195044": 10,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13865,13 +13865,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 82,
-      "Лазовский Александр Александрович": 43,
-      "Литвинов Николай Петрович": 382,
-      "Мозжегоров Андрей Александрович": 25,
-      "Пашуто Владимир Ростиславович": 261,
-      "Приходченко Александр Дмитриевич": 19,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000113908": 82,
+      "gas:candidate-vibid:1001000136015": 43,
+      "gas:candidate-vibid:1001000225913": 382,
+      "gas:candidate-vibid:1001000250437": 25,
+      "gas:candidate-vibid:1001000121812": 261,
+      "gas:candidate-vibid:1001000195044": 19,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13921,13 +13921,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 48,
-      "Лазовский Александр Александрович": 26,
-      "Литвинов Николай Петрович": 261,
-      "Мозжегоров Андрей Александрович": 15,
-      "Пашуто Владимир Ростиславович": 178,
-      "Приходченко Александр Дмитриевич": 5,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113908": 48,
+      "gas:candidate-vibid:1001000136015": 26,
+      "gas:candidate-vibid:1001000225913": 261,
+      "gas:candidate-vibid:1001000250437": 15,
+      "gas:candidate-vibid:1001000121812": 178,
+      "gas:candidate-vibid:1001000195044": 5,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -13977,13 +13977,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 47,
-      "Лазовский Александр Александрович": 29,
-      "Литвинов Николай Петрович": 365,
-      "Мозжегоров Андрей Александрович": 14,
-      "Пашуто Владимир Ростиславович": 230,
-      "Приходченко Александр Дмитриевич": 11,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113908": 47,
+      "gas:candidate-vibid:1001000136015": 29,
+      "gas:candidate-vibid:1001000225913": 365,
+      "gas:candidate-vibid:1001000250437": 14,
+      "gas:candidate-vibid:1001000121812": 230,
+      "gas:candidate-vibid:1001000195044": 11,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -14033,13 +14033,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 55,
-      "Лазовский Александр Александрович": 34,
-      "Литвинов Николай Петрович": 320,
-      "Мозжегоров Андрей Александрович": 13,
-      "Пашуто Владимир Ростиславович": 199,
-      "Приходченко Александр Дмитриевич": 14,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000113908": 55,
+      "gas:candidate-vibid:1001000136015": 34,
+      "gas:candidate-vibid:1001000225913": 320,
+      "gas:candidate-vibid:1001000250437": 13,
+      "gas:candidate-vibid:1001000121812": 199,
+      "gas:candidate-vibid:1001000195044": 14,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -14089,13 +14089,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 28,
-      "Лазовский Александр Александрович": 16,
-      "Литвинов Николай Петрович": 203,
-      "Мозжегоров Андрей Александрович": 7,
-      "Пашуто Владимир Ростиславович": 101,
-      "Приходченко Александр Дмитриевич": 2,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000113908": 28,
+      "gas:candidate-vibid:1001000136015": 16,
+      "gas:candidate-vibid:1001000225913": 203,
+      "gas:candidate-vibid:1001000250437": 7,
+      "gas:candidate-vibid:1001000121812": 101,
+      "gas:candidate-vibid:1001000195044": 2,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",
@@ -14145,13 +14145,13 @@ export const duma_2003_uik_428_region_23_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Батаев Александр Дмитриевич": 48,
-      "Лазовский Александр Александрович": 22,
-      "Литвинов Николай Петрович": 268,
-      "Мозжегоров Андрей Александрович": 5,
-      "Пашуто Владимир Ростиславович": 143,
-      "Приходченко Александр Дмитриевич": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113908": 48,
+      "gas:candidate-vibid:1001000136015": 22,
+      "gas:candidate-vibid:1001000225913": 268,
+      "gas:candidate-vibid:1001000250437": 5,
+      "gas:candidate-vibid:1001000121812": 143,
+      "gas:candidate-vibid:1001000195044": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070375&region=0&sub_region=0&type=429",

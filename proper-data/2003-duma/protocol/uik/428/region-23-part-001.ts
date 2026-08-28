@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 27,
-      "Багишвили Евгений Нодариевич": 16,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 92,
-      "Телелейко Леонид Федорович": 66,
-      "Тетерин Василий Николаевич": 41,
-      "Хорошилов Николай Михайлович": 173,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000335445": 27,
+      "special:official-result-label:39": 16,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 92,
+      "gas:candidate-vibid:1001000112189": 66,
+      "gas:candidate-vibid:1001000338627": 41,
+      "gas:candidate-vibid:323300870763": 173,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 14,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 81,
-      "Телелейко Леонид Федорович": 68,
-      "Тетерин Василий Николаевич": 27,
-      "Хорошилов Николай Михайлович": 118,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000335445": 14,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 81,
+      "gas:candidate-vibid:1001000112189": 68,
+      "gas:candidate-vibid:1001000338627": 27,
+      "gas:candidate-vibid:323300870763": 118,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 14,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 56,
-      "Телелейко Леонид Федорович": 28,
-      "Тетерин Василий Николаевич": 23,
-      "Хорошилов Николай Михайлович": 71,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000335445": 14,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 56,
+      "gas:candidate-vibid:1001000112189": 28,
+      "gas:candidate-vibid:1001000338627": 23,
+      "gas:candidate-vibid:323300870763": 71,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 22,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 80,
-      "Телелейко Леонид Федорович": 80,
-      "Тетерин Василий Николаевич": 36,
-      "Хорошилов Николай Михайлович": 142,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000335445": 22,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 80,
+      "gas:candidate-vibid:1001000112189": 80,
+      "gas:candidate-vibid:1001000338627": 36,
+      "gas:candidate-vibid:323300870763": 142,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 23,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 144,
-      "Телелейко Леонид Федорович": 83,
-      "Тетерин Василий Николаевич": 56,
-      "Хорошилов Николай Михайлович": 187,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000335445": 23,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 144,
+      "gas:candidate-vibid:1001000112189": 83,
+      "gas:candidate-vibid:1001000338627": 56,
+      "gas:candidate-vibid:323300870763": 187,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 48,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 35,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 115,
-      "Телелейко Леонид Федорович": 90,
-      "Тетерин Василий Николаевич": 69,
-      "Хорошилов Николай Михайлович": 242,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000335445": 48,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 35,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 115,
+      "gas:candidate-vibid:1001000112189": 90,
+      "gas:candidate-vibid:1001000338627": 69,
+      "gas:candidate-vibid:323300870763": 242,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 30,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 82,
-      "Телелейко Леонид Федорович": 77,
-      "Тетерин Василий Николаевич": 34,
-      "Хорошилов Николай Михайлович": 134,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000335445": 30,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 82,
+      "gas:candidate-vibid:1001000112189": 77,
+      "gas:candidate-vibid:1001000338627": 34,
+      "gas:candidate-vibid:323300870763": 134,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 35,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 18,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 149,
-      "Телелейко Леонид Федорович": 98,
-      "Тетерин Василий Николаевич": 59,
-      "Хорошилов Николай Михайлович": 199,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000335445": 35,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 18,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 149,
+      "gas:candidate-vibid:1001000112189": 98,
+      "gas:candidate-vibid:1001000338627": 59,
+      "gas:candidate-vibid:323300870763": 199,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 31,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 19,
-      "Севастьянов Виталий Иванович": 85,
-      "Телелейко Леонид Федорович": 69,
-      "Тетерин Василий Николаевич": 43,
-      "Хорошилов Николай Михайлович": 166,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000335445": 31,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 19,
+      "gas:candidate-vibid:1001000121811": 85,
+      "gas:candidate-vibid:1001000112189": 69,
+      "gas:candidate-vibid:1001000338627": 43,
+      "gas:candidate-vibid:323300870763": 166,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 21,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 66,
-      "Телелейко Леонид Федорович": 92,
-      "Тетерин Василий Николаевич": 12,
-      "Хорошилов Николай Михайлович": 84,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000335445": 21,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 66,
+      "gas:candidate-vibid:1001000112189": 92,
+      "gas:candidate-vibid:1001000338627": 12,
+      "gas:candidate-vibid:323300870763": 84,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 18,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 61,
-      "Телелейко Леонид Федорович": 48,
-      "Тетерин Василий Николаевич": 17,
-      "Хорошилов Николай Михайлович": 64,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000335445": 18,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 61,
+      "gas:candidate-vibid:1001000112189": 48,
+      "gas:candidate-vibid:1001000338627": 17,
+      "gas:candidate-vibid:323300870763": 64,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 13,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 75,
-      "Телелейко Леонид Федорович": 54,
-      "Тетерин Василий Николаевич": 29,
-      "Хорошилов Николай Михайлович": 101,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000335445": 13,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 75,
+      "gas:candidate-vibid:1001000112189": 54,
+      "gas:candidate-vibid:1001000338627": 29,
+      "gas:candidate-vibid:323300870763": 101,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 86,
-      "Телелейко Леонид Федорович": 75,
-      "Тетерин Василий Николаевич": 30,
-      "Хорошилов Николай Михайлович": 125,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 86,
+      "gas:candidate-vibid:1001000112189": 75,
+      "gas:candidate-vibid:1001000338627": 30,
+      "gas:candidate-vibid:323300870763": 125,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 32,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 130,
-      "Телелейко Леонид Федорович": 105,
-      "Тетерин Василий Николаевич": 45,
-      "Хорошилов Николай Михайлович": 155,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000335445": 32,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 130,
+      "gas:candidate-vibid:1001000112189": 105,
+      "gas:candidate-vibid:1001000338627": 45,
+      "gas:candidate-vibid:323300870763": 155,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 42,
-      "Багишвили Евгений Нодариевич": 41,
-      "Козадеров Сергей Яковлевич": 34,
-      "Петров Николай Алексеевич": 17,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 183,
-      "Телелейко Леонид Федорович": 175,
-      "Тетерин Василий Николаевич": 85,
-      "Хорошилов Николай Михайлович": 204,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000335445": 42,
+      "special:official-result-label:39": 41,
+      "gas:candidate-vibid:1001000217902": 34,
+      "gas:candidate-vibid:1001000195043": 17,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 183,
+      "gas:candidate-vibid:1001000112189": 175,
+      "gas:candidate-vibid:1001000338627": 85,
+      "gas:candidate-vibid:323300870763": 204,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 42,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 30,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 131,
-      "Телелейко Леонид Федорович": 122,
-      "Тетерин Василий Николаевич": 67,
-      "Хорошилов Николай Михайлович": 224,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000335445": 42,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 30,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 131,
+      "gas:candidate-vibid:1001000112189": 122,
+      "gas:candidate-vibid:1001000338627": 67,
+      "gas:candidate-vibid:323300870763": 224,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 50,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 27,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 122,
-      "Телелейко Леонид Федорович": 131,
-      "Тетерин Василий Николаевич": 69,
-      "Хорошилов Николай Михайлович": 189,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000335445": 50,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 27,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 122,
+      "gas:candidate-vibid:1001000112189": 131,
+      "gas:candidate-vibid:1001000338627": 69,
+      "gas:candidate-vibid:323300870763": 189,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 45,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 36,
-      "Петров Николай Алексеевич": 15,
-      "Полесский Виталий Валерьевич": 14,
-      "Севастьянов Виталий Иванович": 114,
-      "Телелейко Леонид Федорович": 108,
-      "Тетерин Василий Николаевич": 52,
-      "Хорошилов Николай Михайлович": 147,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000335445": 45,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 36,
+      "gas:candidate-vibid:1001000195043": 15,
+      "gas:candidate-vibid:323300871078": 14,
+      "gas:candidate-vibid:1001000121811": 114,
+      "gas:candidate-vibid:1001000112189": 108,
+      "gas:candidate-vibid:1001000338627": 52,
+      "gas:candidate-vibid:323300870763": 147,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 22,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 85,
-      "Телелейко Леонид Федорович": 63,
-      "Тетерин Василий Николаевич": 38,
-      "Хорошилов Николай Михайлович": 94,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000335445": 22,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 85,
+      "gas:candidate-vibid:1001000112189": 63,
+      "gas:candidate-vibid:1001000338627": 38,
+      "gas:candidate-vibid:323300870763": 94,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 56,
-      "Багишвили Евгений Нодариевич": 42,
-      "Козадеров Сергей Яковлевич": 36,
-      "Петров Николай Алексеевич": 12,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 167,
-      "Телелейко Леонид Федорович": 152,
-      "Тетерин Василий Николаевич": 106,
-      "Хорошилов Николай Михайлович": 266,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000335445": 56,
+      "special:official-result-label:39": 42,
+      "gas:candidate-vibid:1001000217902": 36,
+      "gas:candidate-vibid:1001000195043": 12,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 167,
+      "gas:candidate-vibid:1001000112189": 152,
+      "gas:candidate-vibid:1001000338627": 106,
+      "gas:candidate-vibid:323300870763": 266,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 23,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 125,
-      "Телелейко Леонид Федорович": 95,
-      "Тетерин Василий Николаевич": 68,
-      "Хорошилов Николай Михайлович": 148,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 23,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 125,
+      "gas:candidate-vibid:1001000112189": 95,
+      "gas:candidate-vibid:1001000338627": 68,
+      "gas:candidate-vibid:323300870763": 148,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 66,
-      "Багишвили Евгений Нодариевич": 52,
-      "Козадеров Сергей Яковлевич": 31,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 19,
-      "Севастьянов Виталий Иванович": 121,
-      "Телелейко Леонид Федорович": 104,
-      "Тетерин Василий Николаевич": 64,
-      "Хорошилов Николай Михайлович": 163,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000335445": 66,
+      "special:official-result-label:39": 52,
+      "gas:candidate-vibid:1001000217902": 31,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 19,
+      "gas:candidate-vibid:1001000121811": 121,
+      "gas:candidate-vibid:1001000112189": 104,
+      "gas:candidate-vibid:1001000338627": 64,
+      "gas:candidate-vibid:323300870763": 163,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 57,
-      "Багишвили Евгений Нодариевич": 50,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 138,
-      "Телелейко Леонид Федорович": 94,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 106,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000335445": 57,
+      "special:official-result-label:39": 50,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 138,
+      "gas:candidate-vibid:1001000112189": 94,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 106,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 31,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 64,
-      "Телелейко Леонид Федорович": 76,
-      "Тетерин Василий Николаевич": 25,
-      "Хорошилов Николай Михайлович": 97,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 31,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 64,
+      "gas:candidate-vibid:1001000112189": 76,
+      "gas:candidate-vibid:1001000338627": 25,
+      "gas:candidate-vibid:323300870763": 97,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 58,
-      "Багишвили Евгений Нодариевич": 43,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 93,
-      "Телелейко Леонид Федорович": 85,
-      "Тетерин Василий Николаевич": 58,
-      "Хорошилов Николай Михайлович": 114,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000335445": 58,
+      "special:official-result-label:39": 43,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 93,
+      "gas:candidate-vibid:1001000112189": 85,
+      "gas:candidate-vibid:1001000338627": 58,
+      "gas:candidate-vibid:323300870763": 114,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 67,
-      "Багишвили Евгений Нодариевич": 35,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 153,
-      "Телелейко Леонид Федорович": 111,
-      "Тетерин Василий Николаевич": 103,
-      "Хорошилов Николай Михайлович": 213,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000335445": 67,
+      "special:official-result-label:39": 35,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 153,
+      "gas:candidate-vibid:1001000112189": 111,
+      "gas:candidate-vibid:1001000338627": 103,
+      "gas:candidate-vibid:323300870763": 213,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 51,
-      "Багишвили Евгений Нодариевич": 38,
-      "Козадеров Сергей Яковлевич": 18,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 155,
-      "Телелейко Леонид Федорович": 131,
-      "Тетерин Василий Николаевич": 81,
-      "Хорошилов Николай Михайлович": 228,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000335445": 51,
+      "special:official-result-label:39": 38,
+      "gas:candidate-vibid:1001000217902": 18,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 155,
+      "gas:candidate-vibid:1001000112189": 131,
+      "gas:candidate-vibid:1001000338627": 81,
+      "gas:candidate-vibid:323300870763": 228,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 75,
-      "Багишвили Евгений Нодариевич": 44,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 22,
-      "Севастьянов Виталий Иванович": 158,
-      "Телелейко Леонид Федорович": 123,
-      "Тетерин Василий Николаевич": 51,
-      "Хорошилов Николай Михайлович": 195,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000335445": 75,
+      "special:official-result-label:39": 44,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 22,
+      "gas:candidate-vibid:1001000121811": 158,
+      "gas:candidate-vibid:1001000112189": 123,
+      "gas:candidate-vibid:1001000338627": 51,
+      "gas:candidate-vibid:323300870763": 195,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 59,
-      "Багишвили Евгений Нодариевич": 51,
-      "Козадеров Сергей Яковлевич": 33,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 179,
-      "Телелейко Леонид Федорович": 130,
-      "Тетерин Василий Николаевич": 71,
-      "Хорошилов Николай Михайлович": 229,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000335445": 59,
+      "special:official-result-label:39": 51,
+      "gas:candidate-vibid:1001000217902": 33,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 179,
+      "gas:candidate-vibid:1001000112189": 130,
+      "gas:candidate-vibid:1001000338627": 71,
+      "gas:candidate-vibid:323300870763": 229,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 131,
-      "Телелейко Леонид Федорович": 88,
-      "Тетерин Василий Николаевич": 53,
-      "Хорошилов Николай Михайлович": 133,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 131,
+      "gas:candidate-vibid:1001000112189": 88,
+      "gas:candidate-vibid:1001000338627": 53,
+      "gas:candidate-vibid:323300870763": 133,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 27,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 134,
-      "Телелейко Леонид Федорович": 85,
-      "Тетерин Василий Николаевич": 41,
-      "Хорошилов Николай Михайлович": 144,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000335445": 27,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 134,
+      "gas:candidate-vibid:1001000112189": 85,
+      "gas:candidate-vibid:1001000338627": 41,
+      "gas:candidate-vibid:323300870763": 144,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 12,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 33,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 13,
-      "Хорошилов Николай Михайлович": 126,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000335445": 12,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 33,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 13,
+      "gas:candidate-vibid:323300870763": 126,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 37,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 28,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 117,
-      "Телелейко Леонид Федорович": 84,
-      "Тетерин Василий Николаевич": 51,
-      "Хорошилов Николай Михайлович": 169,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000335445": 37,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 28,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 117,
+      "gas:candidate-vibid:1001000112189": 84,
+      "gas:candidate-vibid:1001000338627": 51,
+      "gas:candidate-vibid:323300870763": 169,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 53,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 30,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 166,
-      "Телелейко Леонид Федорович": 128,
-      "Тетерин Василий Николаевич": 63,
-      "Хорошилов Николай Михайлович": 231,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000335445": 53,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 30,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 166,
+      "gas:candidate-vibid:1001000112189": 128,
+      "gas:candidate-vibid:1001000338627": 63,
+      "gas:candidate-vibid:323300870763": 231,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 23,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 91,
-      "Телелейко Леонид Федорович": 80,
-      "Тетерин Василий Николаевич": 71,
-      "Хорошилов Николай Михайлович": 124,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 23,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 91,
+      "gas:candidate-vibid:1001000112189": 80,
+      "gas:candidate-vibid:1001000338627": 71,
+      "gas:candidate-vibid:323300870763": 124,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 42,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 71,
-      "Телелейко Леонид Федорович": 69,
-      "Тетерин Василий Николаевич": 58,
-      "Хорошилов Николай Михайлович": 109,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000335445": 42,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 71,
+      "gas:candidate-vibid:1001000112189": 69,
+      "gas:candidate-vibid:1001000338627": 58,
+      "gas:candidate-vibid:323300870763": 109,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 47,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 97,
-      "Телелейко Леонид Федорович": 84,
-      "Тетерин Василий Николаевич": 34,
-      "Хорошилов Николай Михайлович": 96,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000335445": 47,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 97,
+      "gas:candidate-vibid:1001000112189": 84,
+      "gas:candidate-vibid:1001000338627": 34,
+      "gas:candidate-vibid:323300870763": 96,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 17,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 80,
-      "Телелейко Леонид Федорович": 53,
-      "Тетерин Василий Николаевич": 30,
-      "Хорошилов Николай Михайлович": 91,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000335445": 17,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 80,
+      "gas:candidate-vibid:1001000112189": 53,
+      "gas:candidate-vibid:1001000338627": 30,
+      "gas:candidate-vibid:323300870763": 91,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 35,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 161,
-      "Телелейко Леонид Федорович": 146,
-      "Тетерин Василий Николаевич": 55,
-      "Хорошилов Николай Михайлович": 209,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 35,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 161,
+      "gas:candidate-vibid:1001000112189": 146,
+      "gas:candidate-vibid:1001000338627": 55,
+      "gas:candidate-vibid:323300870763": 209,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 36,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 77,
-      "Телелейко Леонид Федорович": 51,
-      "Тетерин Василий Николаевич": 35,
-      "Хорошилов Николай Михайлович": 103,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000335445": 36,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 77,
+      "gas:candidate-vibid:1001000112189": 51,
+      "gas:candidate-vibid:1001000338627": 35,
+      "gas:candidate-vibid:323300870763": 103,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 26,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 27,
-      "Севастьянов Виталий Иванович": 123,
-      "Телелейко Леонид Федорович": 108,
-      "Тетерин Василий Николаевич": 55,
-      "Хорошилов Николай Михайлович": 118,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000335445": 26,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 27,
+      "gas:candidate-vibid:1001000121811": 123,
+      "gas:candidate-vibid:1001000112189": 108,
+      "gas:candidate-vibid:1001000338627": 55,
+      "gas:candidate-vibid:323300870763": 118,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 102,
-      "Телелейко Леонид Федорович": 66,
-      "Тетерин Василий Николаевич": 36,
-      "Хорошилов Николай Михайлович": 125,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 102,
+      "gas:candidate-vibid:1001000112189": 66,
+      "gas:candidate-vibid:1001000338627": 36,
+      "gas:candidate-vibid:323300870763": 125,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 30,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 115,
-      "Телелейко Леонид Федорович": 116,
-      "Тетерин Василий Николаевич": 64,
-      "Хорошилов Николай Михайлович": 150,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000335445": 30,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 115,
+      "gas:candidate-vibid:1001000112189": 116,
+      "gas:candidate-vibid:1001000338627": 64,
+      "gas:candidate-vibid:323300870763": 150,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 36,
-      "Багишвили Евгений Нодариевич": 27,
-      "Козадеров Сергей Яковлевич": 18,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 132,
-      "Телелейко Леонид Федорович": 117,
-      "Тетерин Василий Николаевич": 57,
-      "Хорошилов Николай Михайлович": 195,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000335445": 36,
+      "special:official-result-label:39": 27,
+      "gas:candidate-vibid:1001000217902": 18,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 132,
+      "gas:candidate-vibid:1001000112189": 117,
+      "gas:candidate-vibid:1001000338627": 57,
+      "gas:candidate-vibid:323300870763": 195,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 46,
-      "Багишвили Евгений Нодариевич": 36,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 113,
-      "Телелейко Леонид Федорович": 108,
-      "Тетерин Василий Николаевич": 59,
-      "Хорошилов Николай Михайлович": 166,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000335445": 46,
+      "special:official-result-label:39": 36,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 113,
+      "gas:candidate-vibid:1001000112189": 108,
+      "gas:candidate-vibid:1001000338627": 59,
+      "gas:candidate-vibid:323300870763": 166,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 20,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 58,
-      "Телелейко Леонид Федорович": 61,
-      "Тетерин Василий Николаевич": 29,
-      "Хорошилов Николай Михайлович": 80,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000335445": 20,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 58,
+      "gas:candidate-vibid:1001000112189": 61,
+      "gas:candidate-vibid:1001000338627": 29,
+      "gas:candidate-vibid:323300870763": 80,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 85,
-      "Багишвили Евгений Нодариевич": 44,
-      "Козадеров Сергей Яковлевич": 38,
-      "Петров Николай Алексеевич": 23,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 204,
-      "Телелейко Леонид Федорович": 205,
-      "Тетерин Василий Николаевич": 98,
-      "Хорошилов Николай Михайлович": 230,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000335445": 85,
+      "special:official-result-label:39": 44,
+      "gas:candidate-vibid:1001000217902": 38,
+      "gas:candidate-vibid:1001000195043": 23,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 204,
+      "gas:candidate-vibid:1001000112189": 205,
+      "gas:candidate-vibid:1001000338627": 98,
+      "gas:candidate-vibid:323300870763": 230,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 57,
-      "Багишвили Евгений Нодариевич": 36,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 168,
-      "Телелейко Леонид Федорович": 112,
-      "Тетерин Василий Николаевич": 89,
-      "Хорошилов Николай Михайлович": 241,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000335445": 57,
+      "special:official-result-label:39": 36,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 168,
+      "gas:candidate-vibid:1001000112189": 112,
+      "gas:candidate-vibid:1001000338627": 89,
+      "gas:candidate-vibid:323300870763": 241,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 39,
-      "Багишвили Евгений Нодариевич": 45,
-      "Козадеров Сергей Яковлевич": 28,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 186,
-      "Телелейко Леонид Федорович": 154,
-      "Тетерин Василий Николаевич": 90,
-      "Хорошилов Николай Михайлович": 284,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000335445": 39,
+      "special:official-result-label:39": 45,
+      "gas:candidate-vibid:1001000217902": 28,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 186,
+      "gas:candidate-vibid:1001000112189": 154,
+      "gas:candidate-vibid:1001000338627": 90,
+      "gas:candidate-vibid:323300870763": 284,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 96,
-      "Телелейко Леонид Федорович": 83,
-      "Тетерин Василий Николаевич": 40,
-      "Хорошилов Николай Михайлович": 142,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 96,
+      "gas:candidate-vibid:1001000112189": 83,
+      "gas:candidate-vibid:1001000338627": 40,
+      "gas:candidate-vibid:323300870763": 142,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 32,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 28,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 136,
-      "Телелейко Леонид Федорович": 117,
-      "Тетерин Василий Николаевич": 44,
-      "Хорошилов Николай Михайлович": 171,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000335445": 32,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 28,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 136,
+      "gas:candidate-vibid:1001000112189": 117,
+      "gas:candidate-vibid:1001000338627": 44,
+      "gas:candidate-vibid:323300870763": 171,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 36,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 126,
-      "Телелейко Леонид Федорович": 108,
-      "Тетерин Василий Николаевич": 58,
-      "Хорошилов Николай Михайлович": 189,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000335445": 36,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 126,
+      "gas:candidate-vibid:1001000112189": 108,
+      "gas:candidate-vibid:1001000338627": 58,
+      "gas:candidate-vibid:323300870763": 189,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 23,
-      "Багишвили Евгений Нодариевич": 16,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 142,
-      "Телелейко Леонид Федорович": 72,
-      "Тетерин Василий Николаевич": 45,
-      "Хорошилов Николай Михайлович": 161,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000335445": 23,
+      "special:official-result-label:39": 16,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 142,
+      "gas:candidate-vibid:1001000112189": 72,
+      "gas:candidate-vibid:1001000338627": 45,
+      "gas:candidate-vibid:323300870763": 161,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 26,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 33,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 198,
-      "Телелейко Леонид Федорович": 132,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 197,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000335445": 26,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 33,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 198,
+      "gas:candidate-vibid:1001000112189": 132,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 197,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 124,
-      "Телелейко Леонид Федорович": 100,
-      "Тетерин Василий Николаевич": 59,
-      "Хорошилов Николай Михайлович": 180,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 124,
+      "gas:candidate-vibid:1001000112189": 100,
+      "gas:candidate-vibid:1001000338627": 59,
+      "gas:candidate-vibid:323300870763": 180,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 34,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 85,
-      "Телелейко Леонид Федорович": 113,
-      "Тетерин Василий Николаевич": 22,
-      "Хорошилов Николай Михайлович": 105,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000335445": 34,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 85,
+      "gas:candidate-vibid:1001000112189": 113,
+      "gas:candidate-vibid:1001000338627": 22,
+      "gas:candidate-vibid:323300870763": 105,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 30,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 130,
-      "Телелейко Леонид Федорович": 133,
-      "Тетерин Василий Николаевич": 69,
-      "Хорошилов Николай Михайлович": 177,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000335445": 30,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 130,
+      "gas:candidate-vibid:1001000112189": 133,
+      "gas:candidate-vibid:1001000338627": 69,
+      "gas:candidate-vibid:323300870763": 177,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 8,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 90,
-      "Телелейко Леонид Федорович": 63,
-      "Тетерин Василий Николаевич": 43,
-      "Хорошилов Николай Михайлович": 65,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000335445": 8,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 90,
+      "gas:candidate-vibid:1001000112189": 63,
+      "gas:candidate-vibid:1001000338627": 43,
+      "gas:candidate-vibid:323300870763": 65,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 41,
-      "Багишвили Евгений Нодариевич": 33,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 14,
-      "Севастьянов Виталий Иванович": 179,
-      "Телелейко Леонид Федорович": 132,
-      "Тетерин Василий Николаевич": 68,
-      "Хорошилов Николай Михайлович": 186,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000335445": 41,
+      "special:official-result-label:39": 33,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 14,
+      "gas:candidate-vibid:1001000121811": 179,
+      "gas:candidate-vibid:1001000112189": 132,
+      "gas:candidate-vibid:1001000338627": 68,
+      "gas:candidate-vibid:323300870763": 186,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 44,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 162,
-      "Телелейко Леонид Федорович": 163,
-      "Тетерин Василий Николаевич": 58,
-      "Хорошилов Николай Михайлович": 193,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 44,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 162,
+      "gas:candidate-vibid:1001000112189": 163,
+      "gas:candidate-vibid:1001000338627": 58,
+      "gas:candidate-vibid:323300870763": 193,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 34,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 15,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 104,
-      "Телелейко Леонид Федорович": 106,
-      "Тетерин Василий Николаевич": 51,
-      "Хорошилов Николай Михайлович": 127,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000335445": 34,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 15,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 104,
+      "gas:candidate-vibid:1001000112189": 106,
+      "gas:candidate-vibid:1001000338627": 51,
+      "gas:candidate-vibid:323300870763": 127,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 24,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 113,
-      "Телелейко Леонид Федорович": 88,
-      "Тетерин Василий Николаевич": 45,
-      "Хорошилов Николай Михайлович": 116,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000335445": 24,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 113,
+      "gas:candidate-vibid:1001000112189": 88,
+      "gas:candidate-vibid:1001000338627": 45,
+      "gas:candidate-vibid:323300870763": 116,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070365&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 33,
-      "Багишвили Евгений Нодариевич": 35,
-      "Козадеров Сергей Яковлевич": 31,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 131,
-      "Телелейко Леонид Федорович": 31,
-      "Тетерин Василий Николаевич": 31,
-      "Хорошилов Николай Михайлович": 130,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000335445": 33,
+      "special:official-result-label:39": 35,
+      "gas:candidate-vibid:1001000217902": 31,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 131,
+      "gas:candidate-vibid:1001000112189": 31,
+      "gas:candidate-vibid:1001000338627": 31,
+      "gas:candidate-vibid:323300870763": 130,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 11,
-      "Багишвили Евгений Нодариевич": 179,
-      "Козадеров Сергей Яковлевич": 42,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 30,
-      "Телелейко Леонид Федорович": 19,
-      "Тетерин Василий Николаевич": 26,
-      "Хорошилов Николай Михайлович": 73,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000335445": 11,
+      "special:official-result-label:39": 179,
+      "gas:candidate-vibid:1001000217902": 42,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 30,
+      "gas:candidate-vibid:1001000112189": 19,
+      "gas:candidate-vibid:1001000338627": 26,
+      "gas:candidate-vibid:323300870763": 73,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 26,
-      "Багишвили Евгений Нодариевич": 38,
-      "Козадеров Сергей Яковлевич": 38,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 131,
-      "Телелейко Леонид Федорович": 62,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 221,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000335445": 26,
+      "special:official-result-label:39": 38,
+      "gas:candidate-vibid:1001000217902": 38,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 131,
+      "gas:candidate-vibid:1001000112189": 62,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 221,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 60,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 133,
-      "Телелейко Леонид Федорович": 51,
-      "Тетерин Василий Николаевич": 27,
-      "Хорошилов Николай Михайлович": 108,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000335445": 60,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 133,
+      "gas:candidate-vibid:1001000112189": 51,
+      "gas:candidate-vibid:1001000338627": 27,
+      "gas:candidate-vibid:323300870763": 108,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 131,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 67,
-      "Телелейко Леонид Федорович": 42,
-      "Тетерин Василий Николаевич": 28,
-      "Хорошилов Николай Михайлович": 76,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000335445": 131,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 67,
+      "gas:candidate-vibid:1001000112189": 42,
+      "gas:candidate-vibid:1001000338627": 28,
+      "gas:candidate-vibid:323300870763": 76,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 80,
-      "Телелейко Леонид Федорович": 46,
-      "Тетерин Василий Николаевич": 46,
-      "Хорошилов Николай Михайлович": 107,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 80,
+      "gas:candidate-vibid:1001000112189": 46,
+      "gas:candidate-vibid:1001000338627": 46,
+      "gas:candidate-vibid:323300870763": 107,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 7,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 34,
-      "Телелейко Леонид Федорович": 41,
-      "Тетерин Василий Николаевич": 43,
-      "Хорошилов Николай Михайлович": 121,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 7,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 34,
+      "gas:candidate-vibid:1001000112189": 41,
+      "gas:candidate-vibid:1001000338627": 43,
+      "gas:candidate-vibid:323300870763": 121,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 25,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 134,
-      "Телелейко Леонид Федорович": 139,
-      "Тетерин Василий Николаевич": 63,
-      "Хорошилов Николай Михайлович": 190,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 25,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 134,
+      "gas:candidate-vibid:1001000112189": 139,
+      "gas:candidate-vibid:1001000338627": 63,
+      "gas:candidate-vibid:323300870763": 190,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 46,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 12,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 139,
-      "Телелейко Леонид Федорович": 140,
-      "Тетерин Василий Николаевич": 68,
-      "Хорошилов Николай Михайлович": 115,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000335445": 46,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 12,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 139,
+      "gas:candidate-vibid:1001000112189": 140,
+      "gas:candidate-vibid:1001000338627": 68,
+      "gas:candidate-vibid:323300870763": 115,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 31,
-      "Багишвили Евгений Нодариевич": 23,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 138,
-      "Телелейко Леонид Федорович": 105,
-      "Тетерин Василий Николаевич": 80,
-      "Хорошилов Николай Михайлович": 135,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000335445": 31,
+      "special:official-result-label:39": 23,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 138,
+      "gas:candidate-vibid:1001000112189": 105,
+      "gas:candidate-vibid:1001000338627": 80,
+      "gas:candidate-vibid:323300870763": 135,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 57,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 36,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 14,
-      "Севастьянов Виталий Иванович": 217,
-      "Телелейко Леонид Федорович": 91,
-      "Тетерин Василий Николаевич": 67,
-      "Хорошилов Николай Михайлович": 133,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000335445": 57,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 36,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 14,
+      "gas:candidate-vibid:1001000121811": 217,
+      "gas:candidate-vibid:1001000112189": 91,
+      "gas:candidate-vibid:1001000338627": 67,
+      "gas:candidate-vibid:323300870763": 133,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 40,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 87,
-      "Телелейко Леонид Федорович": 37,
-      "Тетерин Василий Николаевич": 32,
-      "Хорошилов Николай Михайлович": 68,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000335445": 40,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 87,
+      "gas:candidate-vibid:1001000112189": 37,
+      "gas:candidate-vibid:1001000338627": 32,
+      "gas:candidate-vibid:323300870763": 68,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 74,
-      "Багишвили Евгений Нодариевич": 32,
-      "Козадеров Сергей Яковлевич": 30,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 18,
-      "Севастьянов Виталий Иванович": 194,
-      "Телелейко Леонид Федорович": 160,
-      "Тетерин Василий Николаевич": 90,
-      "Хорошилов Николай Михайлович": 242,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000335445": 74,
+      "special:official-result-label:39": 32,
+      "gas:candidate-vibid:1001000217902": 30,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 18,
+      "gas:candidate-vibid:1001000121811": 194,
+      "gas:candidate-vibid:1001000112189": 160,
+      "gas:candidate-vibid:1001000338627": 90,
+      "gas:candidate-vibid:323300870763": 242,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 89,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 34,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 29,
-      "Севастьянов Виталий Иванович": 243,
-      "Телелейко Леонид Федорович": 197,
-      "Тетерин Василий Николаевич": 85,
-      "Хорошилов Николай Михайлович": 261,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000335445": 89,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 34,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 29,
+      "gas:candidate-vibid:1001000121811": 243,
+      "gas:candidate-vibid:1001000112189": 197,
+      "gas:candidate-vibid:1001000338627": 85,
+      "gas:candidate-vibid:323300870763": 261,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 57,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 19,
-      "Севастьянов Виталий Иванович": 249,
-      "Телелейко Леонид Федорович": 154,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 247,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000335445": 57,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 19,
+      "gas:candidate-vibid:1001000121811": 249,
+      "gas:candidate-vibid:1001000112189": 154,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 247,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 15,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 80,
-      "Телелейко Леонид Федорович": 49,
-      "Тетерин Василий Николаевич": 41,
-      "Хорошилов Николай Михайлович": 72,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000335445": 15,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 80,
+      "gas:candidate-vibid:1001000112189": 49,
+      "gas:candidate-vibid:1001000338627": 41,
+      "gas:candidate-vibid:323300870763": 72,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 27,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 83,
-      "Телелейко Леонид Федорович": 65,
-      "Тетерин Василий Николаевич": 29,
-      "Хорошилов Николай Михайлович": 73,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000335445": 27,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 83,
+      "gas:candidate-vibid:1001000112189": 65,
+      "gas:candidate-vibid:1001000338627": 29,
+      "gas:candidate-vibid:323300870763": 73,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 30,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 32,
-      "Севастьянов Виталий Иванович": 137,
-      "Телелейко Леонид Федорович": 81,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 140,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000335445": 30,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 32,
+      "gas:candidate-vibid:1001000121811": 137,
+      "gas:candidate-vibid:1001000112189": 81,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 140,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 60,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 22,
-      "Полесский Виталий Валерьевич": 26,
-      "Севастьянов Виталий Иванович": 126,
-      "Телелейко Леонид Федорович": 100,
-      "Тетерин Василий Николаевич": 56,
-      "Хорошилов Николай Михайлович": 191,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000335445": 60,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 22,
+      "gas:candidate-vibid:323300871078": 26,
+      "gas:candidate-vibid:1001000121811": 126,
+      "gas:candidate-vibid:1001000112189": 100,
+      "gas:candidate-vibid:1001000338627": 56,
+      "gas:candidate-vibid:323300870763": 191,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 35,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 59,
-      "Телелейко Леонид Федорович": 38,
-      "Тетерин Василий Николаевич": 41,
-      "Хорошилов Николай Михайлович": 66,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000335445": 35,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 59,
+      "gas:candidate-vibid:1001000112189": 38,
+      "gas:candidate-vibid:1001000338627": 41,
+      "gas:candidate-vibid:323300870763": 66,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 63,
-      "Багишвили Евгений Нодариевич": 43,
-      "Козадеров Сергей Яковлевич": 26,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 22,
-      "Севастьянов Виталий Иванович": 114,
-      "Телелейко Леонид Федорович": 120,
-      "Тетерин Василий Николаевич": 64,
-      "Хорошилов Николай Михайлович": 226,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000335445": 63,
+      "special:official-result-label:39": 43,
+      "gas:candidate-vibid:1001000217902": 26,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 22,
+      "gas:candidate-vibid:1001000121811": 114,
+      "gas:candidate-vibid:1001000112189": 120,
+      "gas:candidate-vibid:1001000338627": 64,
+      "gas:candidate-vibid:323300870763": 226,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 46,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 29,
-      "Севастьянов Виталий Иванович": 56,
-      "Телелейко Леонид Федорович": 48,
-      "Тетерин Василий Николаевич": 29,
-      "Хорошилов Николай Михайлович": 63,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000335445": 46,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 29,
+      "gas:candidate-vibid:1001000121811": 56,
+      "gas:candidate-vibid:1001000112189": 48,
+      "gas:candidate-vibid:1001000338627": 29,
+      "gas:candidate-vibid:323300870763": 63,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 35,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 63,
-      "Телелейко Леонид Федорович": 43,
-      "Тетерин Василий Николаевич": 50,
-      "Хорошилов Николай Михайлович": 62,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000335445": 35,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 63,
+      "gas:candidate-vibid:1001000112189": 43,
+      "gas:candidate-vibid:1001000338627": 50,
+      "gas:candidate-vibid:323300870763": 62,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 75,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 47,
-      "Севастьянов Виталий Иванович": 153,
-      "Телелейко Леонид Федорович": 102,
-      "Тетерин Василий Николаевич": 80,
-      "Хорошилов Николай Михайлович": 183,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000335445": 75,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 47,
+      "gas:candidate-vibid:1001000121811": 153,
+      "gas:candidate-vibid:1001000112189": 102,
+      "gas:candidate-vibid:1001000338627": 80,
+      "gas:candidate-vibid:323300870763": 183,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 45,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 70,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 40,
-      "Хорошилов Николай Михайлович": 41,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000335445": 45,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 70,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 40,
+      "gas:candidate-vibid:323300870763": 41,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 5,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 19,
-      "Телелейко Леонид Федорович": 15,
-      "Тетерин Василий Николаевич": 17,
-      "Хорошилов Николай Михайлович": 19,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000335445": 5,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 19,
+      "gas:candidate-vibid:1001000112189": 15,
+      "gas:candidate-vibid:1001000338627": 17,
+      "gas:candidate-vibid:323300870763": 19,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 75,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 30,
-      "Севастьянов Виталий Иванович": 117,
-      "Телелейко Леонид Федорович": 67,
-      "Тетерин Василий Николаевич": 100,
-      "Хорошилов Николай Михайлович": 138,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000335445": 75,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 30,
+      "gas:candidate-vibid:1001000121811": 117,
+      "gas:candidate-vibid:1001000112189": 67,
+      "gas:candidate-vibid:1001000338627": 100,
+      "gas:candidate-vibid:323300870763": 138,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 123,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 183,
-      "Телелейко Леонид Федорович": 85,
-      "Тетерин Василий Николаевич": 107,
-      "Хорошилов Николай Михайлович": 151,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000335445": 123,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 183,
+      "gas:candidate-vibid:1001000112189": 85,
+      "gas:candidate-vibid:1001000338627": 107,
+      "gas:candidate-vibid:323300870763": 151,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 63,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 27,
-      "Севастьянов Виталий Иванович": 141,
-      "Телелейко Леонид Федорович": 82,
-      "Тетерин Василий Николаевич": 76,
-      "Хорошилов Николай Михайлович": 171,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000335445": 63,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 27,
+      "gas:candidate-vibid:1001000121811": 141,
+      "gas:candidate-vibid:1001000112189": 82,
+      "gas:candidate-vibid:1001000338627": 76,
+      "gas:candidate-vibid:323300870763": 171,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 44,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 2,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 14,
-      "Севастьянов Виталий Иванович": 43,
-      "Телелейко Леонид Федорович": 34,
-      "Тетерин Василий Николаевич": 52,
-      "Хорошилов Николай Михайлович": 44,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000335445": 44,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 2,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 14,
+      "gas:candidate-vibid:1001000121811": 43,
+      "gas:candidate-vibid:1001000112189": 34,
+      "gas:candidate-vibid:1001000338627": 52,
+      "gas:candidate-vibid:323300870763": 44,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 141,
-      "Багишвили Евгений Нодариевич": 55,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 19,
-      "Полесский Виталий Валерьевич": 23,
-      "Севастьянов Виталий Иванович": 228,
-      "Телелейко Леонид Федорович": 99,
-      "Тетерин Василий Николаевич": 97,
-      "Хорошилов Николай Михайлович": 254,
-      "Против всех": 395
+      "gas:candidate-vibid:1001000335445": 141,
+      "special:official-result-label:39": 55,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 19,
+      "gas:candidate-vibid:323300871078": 23,
+      "gas:candidate-vibid:1001000121811": 228,
+      "gas:candidate-vibid:1001000112189": 99,
+      "gas:candidate-vibid:1001000338627": 97,
+      "gas:candidate-vibid:323300870763": 254,
+      "special:against-all": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 93,
-      "Багишвили Евгений Нодариевич": 38,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 25,
-      "Севастьянов Виталий Иванович": 152,
-      "Телелейко Леонид Федорович": 80,
-      "Тетерин Василий Николаевич": 98,
-      "Хорошилов Николай Михайлович": 126,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000335445": 93,
+      "special:official-result-label:39": 38,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 25,
+      "gas:candidate-vibid:1001000121811": 152,
+      "gas:candidate-vibid:1001000112189": 80,
+      "gas:candidate-vibid:1001000338627": 98,
+      "gas:candidate-vibid:323300870763": 126,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 131,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 19,
-      "Полесский Виталий Валерьевич": 44,
-      "Севастьянов Виталий Иванович": 213,
-      "Телелейко Леонид Федорович": 107,
-      "Тетерин Василий Николаевич": 123,
-      "Хорошилов Николай Михайлович": 207,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000335445": 131,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 19,
+      "gas:candidate-vibid:323300871078": 44,
+      "gas:candidate-vibid:1001000121811": 213,
+      "gas:candidate-vibid:1001000112189": 107,
+      "gas:candidate-vibid:1001000338627": 123,
+      "gas:candidate-vibid:323300870763": 207,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 7,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 14,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 11,
-      "Хорошилов Николай Михайлович": 82,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000335445": 7,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 14,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 11,
+      "gas:candidate-vibid:323300870763": 82,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070366&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 21,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 2,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 14,
-      "Телелейко Леонид Федорович": 21,
-      "Тетерин Василий Николаевич": 29,
-      "Хорошилов Николай Михайлович": 24,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000335445": 21,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 2,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 14,
+      "gas:candidate-vibid:1001000112189": 21,
+      "gas:candidate-vibid:1001000338627": 29,
+      "gas:candidate-vibid:323300870763": 24,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 44,
-      "Багишвили Евгений Нодариевич": 1,
-      "Козадеров Сергей Яковлевич": 2,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 18,
-      "Телелейко Леонид Федорович": 7,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 36,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000335445": 44,
+      "special:official-result-label:39": 1,
+      "gas:candidate-vibid:1001000217902": 2,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 18,
+      "gas:candidate-vibid:1001000112189": 7,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 36,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 14,
-      "Багишвили Евгений Нодариевич": 4,
-      "Козадеров Сергей Яковлевич": 1,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 122,
-      "Телелейко Леонид Федорович": 67,
-      "Тетерин Василий Николаевич": 9,
-      "Хорошилов Николай Михайлович": 50,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000335445": 14,
+      "special:official-result-label:39": 4,
+      "gas:candidate-vibid:1001000217902": 1,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 122,
+      "gas:candidate-vibid:1001000112189": 67,
+      "gas:candidate-vibid:1001000338627": 9,
+      "gas:candidate-vibid:323300870763": 50,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 14,
-      "Багишвили Евгений Нодариевич": 1,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 24,
-      "Телелейко Леонид Федорович": 18,
-      "Тетерин Василий Николаевич": 28,
-      "Хорошилов Николай Михайлович": 49,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000335445": 14,
+      "special:official-result-label:39": 1,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 24,
+      "gas:candidate-vibid:1001000112189": 18,
+      "gas:candidate-vibid:1001000338627": 28,
+      "gas:candidate-vibid:323300870763": 49,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 135,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 63,
-      "Телелейко Леонид Федорович": 39,
-      "Тетерин Василий Николаевич": 50,
-      "Хорошилов Николай Михайлович": 90,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000335445": 135,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 63,
+      "gas:candidate-vibid:1001000112189": 39,
+      "gas:candidate-vibid:1001000338627": 50,
+      "gas:candidate-vibid:323300870763": 90,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 34,
-      "Багишвили Евгений Нодариевич": 4,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 39,
-      "Телелейко Леонид Федорович": 30,
-      "Тетерин Василий Николаевич": 31,
-      "Хорошилов Николай Михайлович": 117,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000335445": 34,
+      "special:official-result-label:39": 4,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 39,
+      "gas:candidate-vibid:1001000112189": 30,
+      "gas:candidate-vibid:1001000338627": 31,
+      "gas:candidate-vibid:323300870763": 117,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 40,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 77,
-      "Телелейко Леонид Федорович": 76,
-      "Тетерин Василий Николаевич": 43,
-      "Хорошилов Николай Михайлович": 164,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000335445": 40,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 77,
+      "gas:candidate-vibid:1001000112189": 76,
+      "gas:candidate-vibid:1001000338627": 43,
+      "gas:candidate-vibid:323300870763": 164,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 32,
-      "Багишвили Евгений Нодариевич": 7,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 37,
-      "Телелейко Леонид Федорович": 19,
-      "Тетерин Василий Николаевич": 10,
-      "Хорошилов Николай Михайлович": 46,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000335445": 32,
+      "special:official-result-label:39": 7,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 37,
+      "gas:candidate-vibid:1001000112189": 19,
+      "gas:candidate-vibid:1001000338627": 10,
+      "gas:candidate-vibid:323300870763": 46,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 35,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 98,
-      "Телелейко Леонид Федорович": 88,
-      "Тетерин Василий Николаевич": 28,
-      "Хорошилов Николай Михайлович": 81,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000335445": 35,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 98,
+      "gas:candidate-vibid:1001000112189": 88,
+      "gas:candidate-vibid:1001000338627": 28,
+      "gas:candidate-vibid:323300870763": 81,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 14,
-      "Багишвили Евгений Нодариевич": 1,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 6,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 5,
-      "Хорошилов Николай Михайлович": 30,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000335445": 14,
+      "special:official-result-label:39": 1,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 6,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 5,
+      "gas:candidate-vibid:323300870763": 30,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 59,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 150,
-      "Телелейко Леонид Федорович": 213,
-      "Тетерин Василий Николаевич": 131,
-      "Хорошилов Николай Михайлович": 264,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000335445": 59,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 150,
+      "gas:candidate-vibid:1001000112189": 213,
+      "gas:candidate-vibid:1001000338627": 131,
+      "gas:candidate-vibid:323300870763": 264,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 50,
-      "Телелейко Леонид Федорович": 90,
-      "Тетерин Василий Николаевич": 37,
-      "Хорошилов Николай Михайлович": 78,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 50,
+      "gas:candidate-vibid:1001000112189": 90,
+      "gas:candidate-vibid:1001000338627": 37,
+      "gas:candidate-vibid:323300870763": 78,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 53,
-      "Багишвили Евгений Нодариевич": 12,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 179,
-      "Телелейко Леонид Федорович": 237,
-      "Тетерин Василий Николаевич": 98,
-      "Хорошилов Николай Михайлович": 270,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000335445": 53,
+      "special:official-result-label:39": 12,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 179,
+      "gas:candidate-vibid:1001000112189": 237,
+      "gas:candidate-vibid:1001000338627": 98,
+      "gas:candidate-vibid:323300870763": 270,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 63,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 150,
-      "Телелейко Леонид Федорович": 137,
-      "Тетерин Василий Николаевич": 60,
-      "Хорошилов Николай Михайлович": 178,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000335445": 63,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 150,
+      "gas:candidate-vibid:1001000112189": 137,
+      "gas:candidate-vibid:1001000338627": 60,
+      "gas:candidate-vibid:323300870763": 178,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 52,
-      "Багишвили Евгений Нодариевич": 42,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 156,
-      "Телелейко Леонид Федорович": 198,
-      "Тетерин Василий Николаевич": 105,
-      "Хорошилов Николай Михайлович": 307,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000335445": 52,
+      "special:official-result-label:39": 42,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 156,
+      "gas:candidate-vibid:1001000112189": 198,
+      "gas:candidate-vibid:1001000338627": 105,
+      "gas:candidate-vibid:323300870763": 307,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 73,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 18,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 134,
-      "Телелейко Леонид Федорович": 210,
-      "Тетерин Василий Николаевич": 93,
-      "Хорошилов Николай Михайлович": 364,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000335445": 73,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 18,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 134,
+      "gas:candidate-vibid:1001000112189": 210,
+      "gas:candidate-vibid:1001000338627": 93,
+      "gas:candidate-vibid:323300870763": 364,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 62,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 70,
-      "Телелейко Леонид Федорович": 89,
-      "Тетерин Василий Николаевич": 77,
-      "Хорошилов Николай Михайлович": 173,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000335445": 62,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 70,
+      "gas:candidate-vibid:1001000112189": 89,
+      "gas:candidate-vibid:1001000338627": 77,
+      "gas:candidate-vibid:323300870763": 173,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 47,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 59,
-      "Телелейко Леонид Федорович": 114,
-      "Тетерин Василий Николаевич": 63,
-      "Хорошилов Николай Михайлович": 178,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000335445": 47,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 59,
+      "gas:candidate-vibid:1001000112189": 114,
+      "gas:candidate-vibid:1001000338627": 63,
+      "gas:candidate-vibid:323300870763": 178,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 89,
-      "Багишвили Евгений Нодариевич": 31,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 146,
-      "Телелейко Леонид Федорович": 169,
-      "Тетерин Василий Николаевич": 79,
-      "Хорошилов Николай Михайлович": 254,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000335445": 89,
+      "special:official-result-label:39": 31,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 146,
+      "gas:candidate-vibid:1001000112189": 169,
+      "gas:candidate-vibid:1001000338627": 79,
+      "gas:candidate-vibid:323300870763": 254,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 35,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 53,
-      "Телелейко Леонид Федорович": 73,
-      "Тетерин Василий Николаевич": 34,
-      "Хорошилов Николай Михайлович": 77,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000335445": 35,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 53,
+      "gas:candidate-vibid:1001000112189": 73,
+      "gas:candidate-vibid:1001000338627": 34,
+      "gas:candidate-vibid:323300870763": 77,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 23,
-      "Багишвили Евгений Нодариевич": 7,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 49,
-      "Телелейко Леонид Федорович": 55,
-      "Тетерин Василий Николаевич": 23,
-      "Хорошилов Николай Михайлович": 70,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000335445": 23,
+      "special:official-result-label:39": 7,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 49,
+      "gas:candidate-vibid:1001000112189": 55,
+      "gas:candidate-vibid:1001000338627": 23,
+      "gas:candidate-vibid:323300870763": 70,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 44,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 56,
-      "Телелейко Леонид Федорович": 88,
-      "Тетерин Василий Николаевич": 35,
-      "Хорошилов Николай Михайлович": 120,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000335445": 44,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 56,
+      "gas:candidate-vibid:1001000112189": 88,
+      "gas:candidate-vibid:1001000338627": 35,
+      "gas:candidate-vibid:323300870763": 120,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 19,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 50,
-      "Телелейко Леонид Федорович": 86,
-      "Тетерин Василий Николаевич": 45,
-      "Хорошилов Николай Михайлович": 278,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000335445": 19,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 50,
+      "gas:candidate-vibid:1001000112189": 86,
+      "gas:candidate-vibid:1001000338627": 45,
+      "gas:candidate-vibid:323300870763": 278,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 10,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 78,
-      "Телелейко Леонид Федорович": 54,
-      "Тетерин Василий Николаевич": 34,
-      "Хорошилов Николай Михайлович": 122,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000335445": 10,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 78,
+      "gas:candidate-vibid:1001000112189": 54,
+      "gas:candidate-vibid:1001000338627": 34,
+      "gas:candidate-vibid:323300870763": 122,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 8,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 46,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 11,
-      "Хорошилов Николай Михайлович": 111,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000335445": 8,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 46,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 11,
+      "gas:candidate-vibid:323300870763": 111,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 11,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 91,
-      "Телелейко Леонид Федорович": 42,
-      "Тетерин Василий Николаевич": 24,
-      "Хорошилов Николай Михайлович": 51,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000335445": 11,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 91,
+      "gas:candidate-vibid:1001000112189": 42,
+      "gas:candidate-vibid:1001000338627": 24,
+      "gas:candidate-vibid:323300870763": 51,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 9,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 155,
-      "Телелейко Леонид Федорович": 92,
-      "Тетерин Василий Николаевич": 47,
-      "Хорошилов Николай Михайлович": 224,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000335445": 9,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 155,
+      "gas:candidate-vibid:1001000112189": 92,
+      "gas:candidate-vibid:1001000338627": 47,
+      "gas:candidate-vibid:323300870763": 224,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 14,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 75,
-      "Телелейко Леонид Федорович": 60,
-      "Тетерин Василий Николаевич": 18,
-      "Хорошилов Николай Михайлович": 97,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000335445": 14,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 75,
+      "gas:candidate-vibid:1001000112189": 60,
+      "gas:candidate-vibid:1001000338627": 18,
+      "gas:candidate-vibid:323300870763": 97,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 7,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 75,
-      "Телелейко Леонид Федорович": 56,
-      "Тетерин Василий Николаевич": 27,
-      "Хорошилов Николай Михайлович": 62,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000335445": 7,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 75,
+      "gas:candidate-vibid:1001000112189": 56,
+      "gas:candidate-vibid:1001000338627": 27,
+      "gas:candidate-vibid:323300870763": 62,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 18,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 106,
-      "Телелейко Леонид Федорович": 50,
-      "Тетерин Василий Николаевич": 57,
-      "Хорошилов Николай Михайлович": 70,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000335445": 18,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 106,
+      "gas:candidate-vibid:1001000112189": 50,
+      "gas:candidate-vibid:1001000338627": 57,
+      "gas:candidate-vibid:323300870763": 70,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 11,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 69,
-      "Телелейко Леонид Федорович": 47,
-      "Тетерин Василий Николаевич": 23,
-      "Хорошилов Николай Михайлович": 205,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000335445": 11,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 69,
+      "gas:candidate-vibid:1001000112189": 47,
+      "gas:candidate-vibid:1001000338627": 23,
+      "gas:candidate-vibid:323300870763": 205,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 17,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 151,
-      "Телелейко Леонид Федорович": 53,
-      "Тетерин Василий Николаевич": 47,
-      "Хорошилов Николай Михайлович": 85,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000335445": 17,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 151,
+      "gas:candidate-vibid:1001000112189": 53,
+      "gas:candidate-vibid:1001000338627": 47,
+      "gas:candidate-vibid:323300870763": 85,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 13,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 93,
-      "Телелейко Леонид Федорович": 39,
-      "Тетерин Василий Николаевич": 38,
-      "Хорошилов Николай Михайлович": 99,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000335445": 13,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 93,
+      "gas:candidate-vibid:1001000112189": 39,
+      "gas:candidate-vibid:1001000338627": 38,
+      "gas:candidate-vibid:323300870763": 99,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 6,
-      "Багишвили Евгений Нодариевич": 4,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 39,
-      "Телелейко Леонид Федорович": 15,
-      "Тетерин Василий Николаевич": 94,
-      "Хорошилов Николай Михайлович": 84,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000335445": 6,
+      "special:official-result-label:39": 4,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 39,
+      "gas:candidate-vibid:1001000112189": 15,
+      "gas:candidate-vibid:1001000338627": 94,
+      "gas:candidate-vibid:323300870763": 84,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 83,
-      "Багишвили Евгений Нодариевич": 61,
-      "Козадеров Сергей Яковлевич": 26,
-      "Петров Николай Алексеевич": 38,
-      "Полесский Виталий Валерьевич": 22,
-      "Севастьянов Виталий Иванович": 167,
-      "Телелейко Леонид Федорович": 63,
-      "Тетерин Василий Николаевич": 83,
-      "Хорошилов Николай Михайлович": 339,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000335445": 83,
+      "special:official-result-label:39": 61,
+      "gas:candidate-vibid:1001000217902": 26,
+      "gas:candidate-vibid:1001000195043": 38,
+      "gas:candidate-vibid:323300871078": 22,
+      "gas:candidate-vibid:1001000121811": 167,
+      "gas:candidate-vibid:1001000112189": 63,
+      "gas:candidate-vibid:1001000338627": 83,
+      "gas:candidate-vibid:323300870763": 339,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 31,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 169,
-      "Телелейко Леонид Федорович": 120,
-      "Тетерин Василий Николаевич": 87,
-      "Хорошилов Николай Михайлович": 257,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000335445": 31,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 169,
+      "gas:candidate-vibid:1001000112189": 120,
+      "gas:candidate-vibid:1001000338627": 87,
+      "gas:candidate-vibid:323300870763": 257,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 22,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 95,
-      "Телелейко Леонид Федорович": 64,
-      "Тетерин Василий Николаевич": 48,
-      "Хорошилов Николай Михайлович": 147,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000335445": 22,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 95,
+      "gas:candidate-vibid:1001000112189": 64,
+      "gas:candidate-vibid:1001000338627": 48,
+      "gas:candidate-vibid:323300870763": 147,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 27,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 52,
-      "Телелейко Леонид Федорович": 47,
-      "Тетерин Василий Николаевич": 44,
-      "Хорошилов Николай Михайлович": 100,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000335445": 27,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 52,
+      "gas:candidate-vibid:1001000112189": 47,
+      "gas:candidate-vibid:1001000338627": 44,
+      "gas:candidate-vibid:323300870763": 100,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 35,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 68,
-      "Телелейко Леонид Федорович": 44,
-      "Тетерин Василий Николаевич": 36,
-      "Хорошилов Николай Михайлович": 53,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000335445": 35,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 68,
+      "gas:candidate-vibid:1001000112189": 44,
+      "gas:candidate-vibid:1001000338627": 36,
+      "gas:candidate-vibid:323300870763": 53,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 87,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 40,
-      "Севастьянов Виталий Иванович": 224,
-      "Телелейко Леонид Федорович": 140,
-      "Тетерин Василий Николаевич": 107,
-      "Хорошилов Николай Михайлович": 187,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000335445": 87,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 40,
+      "gas:candidate-vibid:1001000121811": 224,
+      "gas:candidate-vibid:1001000112189": 140,
+      "gas:candidate-vibid:1001000338627": 107,
+      "gas:candidate-vibid:323300870763": 187,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 22,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 74,
-      "Телелейко Леонид Федорович": 44,
-      "Тетерин Василий Николаевич": 42,
-      "Хорошилов Николай Михайлович": 73,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000335445": 22,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 74,
+      "gas:candidate-vibid:1001000112189": 44,
+      "gas:candidate-vibid:1001000338627": 42,
+      "gas:candidate-vibid:323300870763": 73,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 101,
-      "Багишвили Евгений Нодариевич": 29,
-      "Козадеров Сергей Яковлевич": 18,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 179,
-      "Телелейко Леонид Федорович": 128,
-      "Тетерин Василий Николаевич": 106,
-      "Хорошилов Николай Михайлович": 197,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000335445": 101,
+      "special:official-result-label:39": 29,
+      "gas:candidate-vibid:1001000217902": 18,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 179,
+      "gas:candidate-vibid:1001000112189": 128,
+      "gas:candidate-vibid:1001000338627": 106,
+      "gas:candidate-vibid:323300870763": 197,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 67,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 18,
-      "Полесский Виталий Валерьевич": 37,
-      "Севастьянов Виталий Иванович": 169,
-      "Телелейко Леонид Федорович": 136,
-      "Тетерин Василий Николаевич": 93,
-      "Хорошилов Николай Михайлович": 176,
-      "Против всех": 328
+      "gas:candidate-vibid:1001000335445": 67,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 18,
+      "gas:candidate-vibid:323300871078": 37,
+      "gas:candidate-vibid:1001000121811": 169,
+      "gas:candidate-vibid:1001000112189": 136,
+      "gas:candidate-vibid:1001000338627": 93,
+      "gas:candidate-vibid:323300870763": 176,
+      "special:against-all": 328
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 86,
-      "Багишвили Евгений Нодариевич": 33,
-      "Козадеров Сергей Яковлевич": 29,
-      "Петров Николай Алексеевич": 12,
-      "Полесский Виталий Валерьевич": 44,
-      "Севастьянов Виталий Иванович": 163,
-      "Телелейко Леонид Федорович": 146,
-      "Тетерин Василий Николаевич": 105,
-      "Хорошилов Николай Михайлович": 202,
-      "Против всех": 376
+      "gas:candidate-vibid:1001000335445": 86,
+      "special:official-result-label:39": 33,
+      "gas:candidate-vibid:1001000217902": 29,
+      "gas:candidate-vibid:1001000195043": 12,
+      "gas:candidate-vibid:323300871078": 44,
+      "gas:candidate-vibid:1001000121811": 163,
+      "gas:candidate-vibid:1001000112189": 146,
+      "gas:candidate-vibid:1001000338627": 105,
+      "gas:candidate-vibid:323300870763": 202,
+      "special:against-all": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 19,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 36,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 21,
-      "Хорошилов Николай Михайлович": 43,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000335445": 19,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 36,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 21,
+      "gas:candidate-vibid:323300870763": 43,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 47,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 42,
-      "Хорошилов Николай Михайлович": 327,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 47,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 42,
+      "gas:candidate-vibid:323300870763": 327,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 46,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 83,
-      "Телелейко Леонид Федорович": 50,
-      "Тетерин Василий Николаевич": 51,
-      "Хорошилов Николай Михайлович": 412,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000335445": 46,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 83,
+      "gas:candidate-vibid:1001000112189": 50,
+      "gas:candidate-vibid:1001000338627": 51,
+      "gas:candidate-vibid:323300870763": 412,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 10,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 8,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 8,
-      "Хорошилов Николай Михайлович": 83,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000335445": 10,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 8,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 8,
+      "gas:candidate-vibid:323300870763": 83,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 27,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 67,
-      "Телелейко Леонид Федорович": 63,
-      "Тетерин Василий Николаевич": 24,
-      "Хорошилов Николай Михайлович": 76,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 27,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 67,
+      "gas:candidate-vibid:1001000112189": 63,
+      "gas:candidate-vibid:1001000338627": 24,
+      "gas:candidate-vibid:323300870763": 76,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 34,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 28,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 72,
-      "Телелейко Леонид Федорович": 22,
-      "Тетерин Василий Николаевич": 58,
-      "Хорошилов Николай Михайлович": 55,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000335445": 34,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 28,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 72,
+      "gas:candidate-vibid:1001000112189": 22,
+      "gas:candidate-vibid:1001000338627": 58,
+      "gas:candidate-vibid:323300870763": 55,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 20,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 42,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 40,
-      "Телелейко Леонид Федорович": 33,
-      "Тетерин Василий Николаевич": 31,
-      "Хорошилов Николай Михайлович": 77,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000335445": 20,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 42,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 40,
+      "gas:candidate-vibid:1001000112189": 33,
+      "gas:candidate-vibid:1001000338627": 31,
+      "gas:candidate-vibid:323300870763": 77,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070367&region=0&sub_region=0&type=429",
@@ -8715,16 +8715,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 41,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 1,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 0,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 4,
-      "Хорошилов Николай Михайлович": 14,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000335445": 41,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 1,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 0,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 4,
+      "gas:candidate-vibid:323300870763": 14,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -8774,16 +8774,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 0,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 8,
-      "Хорошилов Николай Михайлович": 83,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 0,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 8,
+      "gas:candidate-vibid:323300870763": 83,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -8833,16 +8833,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 8,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 5,
-      "Телелейко Леонид Федорович": 10,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000335445": 8,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 5,
+      "gas:candidate-vibid:1001000112189": 10,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -8892,16 +8892,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 72,
-      "Багишвили Евгений Нодариевич": 37,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 27,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 100,
-      "Телелейко Леонид Федорович": 62,
-      "Тетерин Василий Николаевич": 93,
-      "Хорошилов Николай Михайлович": 123,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000335445": 72,
+      "special:official-result-label:39": 37,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 27,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 100,
+      "gas:candidate-vibid:1001000112189": 62,
+      "gas:candidate-vibid:1001000338627": 93,
+      "gas:candidate-vibid:323300870763": 123,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -8951,16 +8951,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 31,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 11,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 52,
-      "Телелейко Леонид Федорович": 18,
-      "Тетерин Василий Николаевич": 29,
-      "Хорошилов Николай Михайлович": 320,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000335445": 31,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 11,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 52,
+      "gas:candidate-vibid:1001000112189": 18,
+      "gas:candidate-vibid:1001000338627": 29,
+      "gas:candidate-vibid:323300870763": 320,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9010,16 +9010,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 12,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 15,
-      "Телелейко Леонид Федорович": 4,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 135,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000335445": 12,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 15,
+      "gas:candidate-vibid:1001000112189": 4,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 135,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9069,16 +9069,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 49,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 68,
-      "Телелейко Леонид Федорович": 18,
-      "Тетерин Василий Николаевич": 38,
-      "Хорошилов Николай Михайлович": 389,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000335445": 49,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 68,
+      "gas:candidate-vibid:1001000112189": 18,
+      "gas:candidate-vibid:1001000338627": 38,
+      "gas:candidate-vibid:323300870763": 389,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9128,16 +9128,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 132,
-      "Багишвили Евгений Нодариевич": 33,
-      "Козадеров Сергей Яковлевич": 33,
-      "Петров Николай Алексеевич": 22,
-      "Полесский Виталий Валерьевич": 27,
-      "Севастьянов Виталий Иванович": 148,
-      "Телелейко Леонид Федорович": 115,
-      "Тетерин Василий Николаевич": 108,
-      "Хорошилов Николай Михайлович": 124,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000335445": 132,
+      "special:official-result-label:39": 33,
+      "gas:candidate-vibid:1001000217902": 33,
+      "gas:candidate-vibid:1001000195043": 22,
+      "gas:candidate-vibid:323300871078": 27,
+      "gas:candidate-vibid:1001000121811": 148,
+      "gas:candidate-vibid:1001000112189": 115,
+      "gas:candidate-vibid:1001000338627": 108,
+      "gas:candidate-vibid:323300870763": 124,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9187,16 +9187,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 36,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 84,
-      "Телелейко Леонид Федорович": 40,
-      "Тетерин Василий Николаевич": 43,
-      "Хорошилов Николай Михайлович": 89,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000335445": 36,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 84,
+      "gas:candidate-vibid:1001000112189": 40,
+      "gas:candidate-vibid:1001000338627": 43,
+      "gas:candidate-vibid:323300870763": 89,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9246,16 +9246,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 98,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 74,
-      "Телелейко Леонид Федорович": 60,
-      "Тетерин Василий Николаевич": 58,
-      "Хорошилов Николай Михайлович": 112,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000335445": 98,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 74,
+      "gas:candidate-vibid:1001000112189": 60,
+      "gas:candidate-vibid:1001000338627": 58,
+      "gas:candidate-vibid:323300870763": 112,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9305,16 +9305,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 129,
-      "Багишвили Евгений Нодариевич": 37,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 23,
-      "Севастьянов Виталий Иванович": 147,
-      "Телелейко Леонид Федорович": 83,
-      "Тетерин Василий Николаевич": 85,
-      "Хорошилов Николай Михайлович": 144,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000335445": 129,
+      "special:official-result-label:39": 37,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 23,
+      "gas:candidate-vibid:1001000121811": 147,
+      "gas:candidate-vibid:1001000112189": 83,
+      "gas:candidate-vibid:1001000338627": 85,
+      "gas:candidate-vibid:323300870763": 144,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9364,16 +9364,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 70,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 11,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 63,
-      "Телелейко Леонид Федорович": 59,
-      "Тетерин Василий Николаевич": 50,
-      "Хорошилов Николай Михайлович": 160,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000335445": 70,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 11,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 63,
+      "gas:candidate-vibid:1001000112189": 59,
+      "gas:candidate-vibid:1001000338627": 50,
+      "gas:candidate-vibid:323300870763": 160,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9423,16 +9423,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 38,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 25,
-      "Телелейко Леонид Федорович": 17,
-      "Тетерин Василий Николаевич": 19,
-      "Хорошилов Николай Михайлович": 27,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000335445": 38,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 25,
+      "gas:candidate-vibid:1001000112189": 17,
+      "gas:candidate-vibid:1001000338627": 19,
+      "gas:candidate-vibid:323300870763": 27,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9482,16 +9482,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 61,
-      "Багишвили Евгений Нодариевич": 32,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 19,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 93,
-      "Телелейко Леонид Федорович": 89,
-      "Тетерин Василий Николаевич": 112,
-      "Хорошилов Николай Михайлович": 117,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000335445": 61,
+      "special:official-result-label:39": 32,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 19,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 93,
+      "gas:candidate-vibid:1001000112189": 89,
+      "gas:candidate-vibid:1001000338627": 112,
+      "gas:candidate-vibid:323300870763": 117,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9541,16 +9541,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 38,
-      "Телелейко Леонид Федорович": 22,
-      "Тетерин Василий Николаевич": 35,
-      "Хорошилов Николай Михайлович": 41,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 38,
+      "gas:candidate-vibid:1001000112189": 22,
+      "gas:candidate-vibid:1001000338627": 35,
+      "gas:candidate-vibid:323300870763": 41,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9600,16 +9600,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 37,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 63,
-      "Телелейко Леонид Федорович": 29,
-      "Тетерин Василий Николаевич": 79,
-      "Хорошилов Николай Михайлович": 72,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000335445": 37,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 63,
+      "gas:candidate-vibid:1001000112189": 29,
+      "gas:candidate-vibid:1001000338627": 79,
+      "gas:candidate-vibid:323300870763": 72,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9659,16 +9659,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 68,
-      "Багишвили Евгений Нодариевич": 36,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 19,
-      "Севастьянов Виталий Иванович": 155,
-      "Телелейко Леонид Федорович": 121,
-      "Тетерин Василий Николаевич": 65,
-      "Хорошилов Николай Михайлович": 162,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000335445": 68,
+      "special:official-result-label:39": 36,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 19,
+      "gas:candidate-vibid:1001000121811": 155,
+      "gas:candidate-vibid:1001000112189": 121,
+      "gas:candidate-vibid:1001000338627": 65,
+      "gas:candidate-vibid:323300870763": 162,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9718,16 +9718,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 31,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 39,
-      "Телелейко Леонид Федорович": 29,
-      "Тетерин Василий Николаевич": 37,
-      "Хорошилов Николай Михайлович": 81,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000335445": 31,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 39,
+      "gas:candidate-vibid:1001000112189": 29,
+      "gas:candidate-vibid:1001000338627": 37,
+      "gas:candidate-vibid:323300870763": 81,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9777,16 +9777,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 64,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 25,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 27,
-      "Севастьянов Виталий Иванович": 144,
-      "Телелейко Леонид Федорович": 104,
-      "Тетерин Василий Николаевич": 52,
-      "Хорошилов Николай Михайлович": 119,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000335445": 64,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 25,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 27,
+      "gas:candidate-vibid:1001000121811": 144,
+      "gas:candidate-vibid:1001000112189": 104,
+      "gas:candidate-vibid:1001000338627": 52,
+      "gas:candidate-vibid:323300870763": 119,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9836,16 +9836,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 66,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 11,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 25,
-      "Севастьянов Виталий Иванович": 122,
-      "Телелейко Леонид Федорович": 77,
-      "Тетерин Василий Николаевич": 35,
-      "Хорошилов Николай Михайлович": 117,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000335445": 66,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 11,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 25,
+      "gas:candidate-vibid:1001000121811": 122,
+      "gas:candidate-vibid:1001000112189": 77,
+      "gas:candidate-vibid:1001000338627": 35,
+      "gas:candidate-vibid:323300870763": 117,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9895,16 +9895,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 82,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 25,
-      "Севастьянов Виталий Иванович": 207,
-      "Телелейко Леонид Федорович": 109,
-      "Тетерин Василий Николаевич": 78,
-      "Хорошилов Николай Михайлович": 185,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000335445": 82,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 25,
+      "gas:candidate-vibid:1001000121811": 207,
+      "gas:candidate-vibid:1001000112189": 109,
+      "gas:candidate-vibid:1001000338627": 78,
+      "gas:candidate-vibid:323300870763": 185,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -9954,16 +9954,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 18,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 83,
-      "Телелейко Леонид Федорович": 72,
-      "Тетерин Василий Николаевич": 56,
-      "Хорошилов Николай Михайлович": 88,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 18,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 83,
+      "gas:candidate-vibid:1001000112189": 72,
+      "gas:candidate-vibid:1001000338627": 56,
+      "gas:candidate-vibid:323300870763": 88,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10013,16 +10013,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 91,
-      "Багишвили Евгений Нодариевич": 14,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 137,
-      "Телелейко Леонид Федорович": 100,
-      "Тетерин Василий Николаевич": 69,
-      "Хорошилов Николай Михайлович": 123,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000335445": 91,
+      "special:official-result-label:39": 14,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 137,
+      "gas:candidate-vibid:1001000112189": 100,
+      "gas:candidate-vibid:1001000338627": 69,
+      "gas:candidate-vibid:323300870763": 123,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10072,16 +10072,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 121,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 17,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 219,
-      "Телелейко Леонид Федорович": 180,
-      "Тетерин Василий Николаевич": 89,
-      "Хорошилов Николай Михайлович": 241,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000335445": 121,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 17,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 219,
+      "gas:candidate-vibid:1001000112189": 180,
+      "gas:candidate-vibid:1001000338627": 89,
+      "gas:candidate-vibid:323300870763": 241,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10131,16 +10131,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 108,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 22,
-      "Севастьянов Виталий Иванович": 150,
-      "Телелейко Леонид Федорович": 94,
-      "Тетерин Василий Николаевич": 75,
-      "Хорошилов Николай Михайлович": 123,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000335445": 108,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 22,
+      "gas:candidate-vibid:1001000121811": 150,
+      "gas:candidate-vibid:1001000112189": 94,
+      "gas:candidate-vibid:1001000338627": 75,
+      "gas:candidate-vibid:323300870763": 123,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10190,16 +10190,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 44,
-      "Багишвили Евгений Нодариевич": 13,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 63,
-      "Телелейко Леонид Федорович": 51,
-      "Тетерин Василий Николаевич": 33,
-      "Хорошилов Николай Михайлович": 58,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000335445": 44,
+      "special:official-result-label:39": 13,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 63,
+      "gas:candidate-vibid:1001000112189": 51,
+      "gas:candidate-vibid:1001000338627": 33,
+      "gas:candidate-vibid:323300870763": 58,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10249,16 +10249,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 77,
-      "Багишвили Евгений Нодариевич": 12,
-      "Козадеров Сергей Яковлевич": 22,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 23,
-      "Севастьянов Виталий Иванович": 109,
-      "Телелейко Леонид Федорович": 61,
-      "Тетерин Василий Николаевич": 55,
-      "Хорошилов Николай Михайлович": 108,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000335445": 77,
+      "special:official-result-label:39": 12,
+      "gas:candidate-vibid:1001000217902": 22,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 23,
+      "gas:candidate-vibid:1001000121811": 109,
+      "gas:candidate-vibid:1001000112189": 61,
+      "gas:candidate-vibid:1001000338627": 55,
+      "gas:candidate-vibid:323300870763": 108,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10308,16 +10308,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 40,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 73,
-      "Телелейко Леонид Федорович": 35,
-      "Тетерин Василий Николаевич": 45,
-      "Хорошилов Николай Михайлович": 75,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000335445": 40,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 73,
+      "gas:candidate-vibid:1001000112189": 35,
+      "gas:candidate-vibid:1001000338627": 45,
+      "gas:candidate-vibid:323300870763": 75,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10367,16 +10367,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 77,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 15,
-      "Полесский Виталий Валерьевич": 12,
-      "Севастьянов Виталий Иванович": 100,
-      "Телелейко Леонид Федорович": 77,
-      "Тетерин Василий Николаевич": 99,
-      "Хорошилов Николай Михайлович": 101,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000335445": 77,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 15,
+      "gas:candidate-vibid:323300871078": 12,
+      "gas:candidate-vibid:1001000121811": 100,
+      "gas:candidate-vibid:1001000112189": 77,
+      "gas:candidate-vibid:1001000338627": 99,
+      "gas:candidate-vibid:323300870763": 101,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10426,16 +10426,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 20,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 59,
-      "Телелейко Леонид Федорович": 29,
-      "Тетерин Василий Николаевич": 20,
-      "Хорошилов Николай Михайлович": 48,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000335445": 20,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 59,
+      "gas:candidate-vibid:1001000112189": 29,
+      "gas:candidate-vibid:1001000338627": 20,
+      "gas:candidate-vibid:323300870763": 48,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10485,16 +10485,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 76,
-      "Багишвили Евгений Нодариевич": 23,
-      "Козадеров Сергей Яковлевич": 13,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 151,
-      "Телелейко Леонид Федорович": 91,
-      "Тетерин Василий Николаевич": 68,
-      "Хорошилов Николай Михайлович": 117,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000335445": 76,
+      "special:official-result-label:39": 23,
+      "gas:candidate-vibid:1001000217902": 13,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 151,
+      "gas:candidate-vibid:1001000112189": 91,
+      "gas:candidate-vibid:1001000338627": 68,
+      "gas:candidate-vibid:323300870763": 117,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10544,16 +10544,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 84,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 91,
-      "Телелейко Леонид Федорович": 64,
-      "Тетерин Василий Николаевич": 103,
-      "Хорошилов Николай Михайлович": 111,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000335445": 84,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 91,
+      "gas:candidate-vibid:1001000112189": 64,
+      "gas:candidate-vibid:1001000338627": 103,
+      "gas:candidate-vibid:323300870763": 111,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10603,16 +10603,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 81,
-      "Багишвили Евгений Нодариевич": 36,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 23,
-      "Севастьянов Виталий Иванович": 119,
-      "Телелейко Леонид Федорович": 66,
-      "Тетерин Василий Николаевич": 80,
-      "Хорошилов Николай Михайлович": 112,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000335445": 81,
+      "special:official-result-label:39": 36,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 23,
+      "gas:candidate-vibid:1001000121811": 119,
+      "gas:candidate-vibid:1001000112189": 66,
+      "gas:candidate-vibid:1001000338627": 80,
+      "gas:candidate-vibid:323300870763": 112,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10662,16 +10662,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 45,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 73,
-      "Телелейко Леонид Федорович": 56,
-      "Тетерин Василий Николаевич": 60,
-      "Хорошилов Николай Михайлович": 84,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000335445": 45,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 73,
+      "gas:candidate-vibid:1001000112189": 56,
+      "gas:candidate-vibid:1001000338627": 60,
+      "gas:candidate-vibid:323300870763": 84,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10721,16 +10721,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 84,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 106,
-      "Телелейко Леонид Федорович": 72,
-      "Тетерин Василий Николаевич": 96,
-      "Хорошилов Николай Михайлович": 117,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000335445": 84,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 106,
+      "gas:candidate-vibid:1001000112189": 72,
+      "gas:candidate-vibid:1001000338627": 96,
+      "gas:candidate-vibid:323300870763": 117,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10780,16 +10780,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 126,
-      "Багишвили Евгений Нодариевич": 21,
-      "Козадеров Сергей Яковлевич": 32,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 136,
-      "Телелейко Леонид Федорович": 98,
-      "Тетерин Василий Николаевич": 104,
-      "Хорошилов Николай Михайлович": 130,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000335445": 126,
+      "special:official-result-label:39": 21,
+      "gas:candidate-vibid:1001000217902": 32,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 136,
+      "gas:candidate-vibid:1001000112189": 98,
+      "gas:candidate-vibid:1001000338627": 104,
+      "gas:candidate-vibid:323300870763": 130,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10839,16 +10839,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 122,
-      "Багишвили Евгений Нодариевич": 24,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 216,
-      "Телелейко Леонид Федорович": 111,
-      "Тетерин Василий Николаевич": 111,
-      "Хорошилов Николай Михайлович": 224,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000335445": 122,
+      "special:official-result-label:39": 24,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 216,
+      "gas:candidate-vibid:1001000112189": 111,
+      "gas:candidate-vibid:1001000338627": 111,
+      "gas:candidate-vibid:323300870763": 224,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10898,16 +10898,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 17,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 37,
-      "Телелейко Леонид Федорович": 21,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 31,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000335445": 17,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 37,
+      "gas:candidate-vibid:1001000112189": 21,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 31,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -10957,16 +10957,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 9,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 3,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 29,
-      "Телелейко Леонид Федорович": 10,
-      "Тетерин Василий Николаевич": 7,
-      "Хорошилов Николай Михайлович": 16,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000335445": 9,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 3,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 29,
+      "gas:candidate-vibid:1001000112189": 10,
+      "gas:candidate-vibid:1001000338627": 7,
+      "gas:candidate-vibid:323300870763": 16,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11016,16 +11016,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 14,
-      "Севастьянов Виталий Иванович": 75,
-      "Телелейко Леонид Федорович": 48,
-      "Тетерин Василий Николаевич": 52,
-      "Хорошилов Николай Михайлович": 77,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 14,
+      "gas:candidate-vibid:1001000121811": 75,
+      "gas:candidate-vibid:1001000112189": 48,
+      "gas:candidate-vibid:1001000338627": 52,
+      "gas:candidate-vibid:323300870763": 77,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11075,16 +11075,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 13,
-      "Багишвили Евгений Нодариевич": 3,
-      "Козадеров Сергей Яковлевич": 2,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 21,
-      "Телелейко Леонид Федорович": 22,
-      "Тетерин Василий Николаевич": 19,
-      "Хорошилов Николай Михайлович": 19,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000335445": 13,
+      "special:official-result-label:39": 3,
+      "gas:candidate-vibid:1001000217902": 2,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 21,
+      "gas:candidate-vibid:1001000112189": 22,
+      "gas:candidate-vibid:1001000338627": 19,
+      "gas:candidate-vibid:323300870763": 19,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11134,16 +11134,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 19,
-      "Багишвили Евгений Нодариевич": 7,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 34,
-      "Телелейко Леонид Федорович": 13,
-      "Тетерин Василий Николаевич": 85,
-      "Хорошилов Николай Михайлович": 23,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000335445": 19,
+      "special:official-result-label:39": 7,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 34,
+      "gas:candidate-vibid:1001000112189": 13,
+      "gas:candidate-vibid:1001000338627": 85,
+      "gas:candidate-vibid:323300870763": 23,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11193,16 +11193,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 16,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 50,
-      "Телелейко Леонид Федорович": 12,
-      "Тетерин Василий Николаевич": 19,
-      "Хорошилов Николай Михайлович": 32,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000335445": 16,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 50,
+      "gas:candidate-vibid:1001000112189": 12,
+      "gas:candidate-vibid:1001000338627": 19,
+      "gas:candidate-vibid:323300870763": 32,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11252,16 +11252,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 47,
-      "Багишвили Евгений Нодариевич": 11,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 88,
-      "Телелейко Леонид Федорович": 39,
-      "Тетерин Василий Николаевич": 25,
-      "Хорошилов Николай Михайлович": 93,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000335445": 47,
+      "special:official-result-label:39": 11,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 88,
+      "gas:candidate-vibid:1001000112189": 39,
+      "gas:candidate-vibid:1001000338627": 25,
+      "gas:candidate-vibid:323300870763": 93,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11311,16 +11311,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 12,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 29,
-      "Телелейко Леонид Федорович": 12,
-      "Тетерин Василий Николаевич": 22,
-      "Хорошилов Николай Михайлович": 72,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000335445": 12,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 29,
+      "gas:candidate-vibid:1001000112189": 12,
+      "gas:candidate-vibid:1001000338627": 22,
+      "gas:candidate-vibid:323300870763": 72,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11370,16 +11370,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 86,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 15,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 23,
-      "Севастьянов Виталий Иванович": 82,
-      "Телелейко Леонид Федорович": 69,
-      "Тетерин Василий Николаевич": 97,
-      "Хорошилов Николай Михайлович": 179,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000335445": 86,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 15,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 23,
+      "gas:candidate-vibid:1001000121811": 82,
+      "gas:candidate-vibid:1001000112189": 69,
+      "gas:candidate-vibid:1001000338627": 97,
+      "gas:candidate-vibid:323300870763": 179,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11429,16 +11429,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 60,
-      "Багишвили Евгений Нодариевич": 20,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 21,
-      "Севастьянов Виталий Иванович": 116,
-      "Телелейко Леонид Федорович": 46,
-      "Тетерин Василий Николаевич": 83,
-      "Хорошилов Николай Михайлович": 119,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000335445": 60,
+      "special:official-result-label:39": 20,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 21,
+      "gas:candidate-vibid:1001000121811": 116,
+      "gas:candidate-vibid:1001000112189": 46,
+      "gas:candidate-vibid:1001000338627": 83,
+      "gas:candidate-vibid:323300870763": 119,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11488,16 +11488,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 40,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 105,
-      "Телелейко Леонид Федорович": 33,
-      "Тетерин Василий Николаевич": 70,
-      "Хорошилов Николай Михайлович": 88,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000335445": 40,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 105,
+      "gas:candidate-vibid:1001000112189": 33,
+      "gas:candidate-vibid:1001000338627": 70,
+      "gas:candidate-vibid:323300870763": 88,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11547,16 +11547,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 83,
-      "Багишвили Евгений Нодариевич": 17,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 22,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 78,
-      "Телелейко Леонид Федорович": 48,
-      "Тетерин Василий Николаевич": 82,
-      "Хорошилов Николай Михайлович": 152,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000335445": 83,
+      "special:official-result-label:39": 17,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 22,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 78,
+      "gas:candidate-vibid:1001000112189": 48,
+      "gas:candidate-vibid:1001000338627": 82,
+      "gas:candidate-vibid:323300870763": 152,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11606,16 +11606,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 25,
-      "Багишвили Евгений Нодариевич": 16,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 31,
-      "Телелейко Леонид Федорович": 25,
-      "Тетерин Василий Николаевич": 46,
-      "Хорошилов Николай Михайлович": 29,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000335445": 25,
+      "special:official-result-label:39": 16,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 31,
+      "gas:candidate-vibid:1001000112189": 25,
+      "gas:candidate-vibid:1001000338627": 46,
+      "gas:candidate-vibid:323300870763": 29,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11665,16 +11665,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 7,
-      "Багишвили Евгений Нодариевич": 4,
-      "Козадеров Сергей Яковлевич": 1,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 17,
-      "Телелейко Леонид Федорович": 13,
-      "Тетерин Василий Николаевич": 24,
-      "Хорошилов Николай Михайлович": 115,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000335445": 7,
+      "special:official-result-label:39": 4,
+      "gas:candidate-vibid:1001000217902": 1,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 17,
+      "gas:candidate-vibid:1001000112189": 13,
+      "gas:candidate-vibid:1001000338627": 24,
+      "gas:candidate-vibid:323300870763": 115,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11724,16 +11724,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 13,
-      "Телелейко Леонид Федорович": 11,
-      "Тетерин Василий Николаевич": 17,
-      "Хорошилов Николай Михайлович": 25,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 13,
+      "gas:candidate-vibid:1001000112189": 11,
+      "gas:candidate-vibid:1001000338627": 17,
+      "gas:candidate-vibid:323300870763": 25,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11783,16 +11783,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 15,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 9,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 13,
-      "Севастьянов Виталий Иванович": 36,
-      "Телелейко Леонид Федорович": 40,
-      "Тетерин Василий Николаевич": 43,
-      "Хорошилов Николай Михайлович": 34,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000335445": 15,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 9,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 13,
+      "gas:candidate-vibid:1001000121811": 36,
+      "gas:candidate-vibid:1001000112189": 40,
+      "gas:candidate-vibid:1001000338627": 43,
+      "gas:candidate-vibid:323300870763": 34,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11842,16 +11842,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 56,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 52,
-      "Севастьянов Виталий Иванович": 91,
-      "Телелейко Леонид Федорович": 57,
-      "Тетерин Василий Николаевич": 54,
-      "Хорошилов Николай Михайлович": 111,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000335445": 56,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 52,
+      "gas:candidate-vibid:1001000121811": 91,
+      "gas:candidate-vibid:1001000112189": 57,
+      "gas:candidate-vibid:1001000338627": 54,
+      "gas:candidate-vibid:323300870763": 111,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11901,16 +11901,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 8,
-      "Багишвили Евгений Нодариевич": 6,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 10,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 13,
-      "Хорошилов Николай Михайлович": 22,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000335445": 8,
+      "special:official-result-label:39": 6,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 10,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 13,
+      "gas:candidate-vibid:323300870763": 22,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -11960,16 +11960,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 11,
-      "Телелейко Леонид Федорович": 16,
-      "Тетерин Василий Николаевич": 13,
-      "Хорошилов Николай Михайлович": 22,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 11,
+      "gas:candidate-vibid:1001000112189": 16,
+      "gas:candidate-vibid:1001000338627": 13,
+      "gas:candidate-vibid:323300870763": 22,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -12019,16 +12019,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 6,
-      "Багишвили Евгений Нодариевич": 2,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 1,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 16,
-      "Телелейко Леонид Федорович": 7,
-      "Тетерин Василий Николаевич": 12,
-      "Хорошилов Николай Михайлович": 57,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000335445": 6,
+      "special:official-result-label:39": 2,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 1,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 16,
+      "gas:candidate-vibid:1001000112189": 7,
+      "gas:candidate-vibid:1001000338627": 12,
+      "gas:candidate-vibid:323300870763": 57,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -12078,16 +12078,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 93,
-      "Багишвили Евгений Нодариевич": 8,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 24,
-      "Телелейко Леонид Федорович": 12,
-      "Тетерин Василий Николаевич": 85,
-      "Хорошилов Николай Михайлович": 216,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000335445": 93,
+      "special:official-result-label:39": 8,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 24,
+      "gas:candidate-vibid:1001000112189": 12,
+      "gas:candidate-vibid:1001000338627": 85,
+      "gas:candidate-vibid:323300870763": 216,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -12137,16 +12137,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 10,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 3,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 45,
-      "Телелейко Леонид Федорович": 26,
-      "Тетерин Василий Николаевич": 38,
-      "Хорошилов Николай Михайлович": 47,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 10,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 3,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 45,
+      "gas:candidate-vibid:1001000112189": 26,
+      "gas:candidate-vibid:1001000338627": 38,
+      "gas:candidate-vibid:323300870763": 47,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -12196,16 +12196,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 24,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 14,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 67,
-      "Телелейко Леонид Федорович": 29,
-      "Тетерин Василий Николаевич": 57,
-      "Хорошилов Николай Михайлович": 91,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000335445": 24,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 14,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 67,
+      "gas:candidate-vibid:1001000112189": 29,
+      "gas:candidate-vibid:1001000338627": 57,
+      "gas:candidate-vibid:323300870763": 91,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -12255,16 +12255,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 29,
-      "Багишвили Евгений Нодариевич": 5,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 34,
-      "Телелейко Леонид Федорович": 14,
-      "Тетерин Василий Николаевич": 36,
-      "Хорошилов Николай Михайлович": 53,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000335445": 29,
+      "special:official-result-label:39": 5,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 34,
+      "gas:candidate-vibid:1001000112189": 14,
+      "gas:candidate-vibid:1001000338627": 36,
+      "gas:candidate-vibid:323300870763": 53,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070368&region=0&sub_region=0&type=429",
@@ -12314,16 +12314,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 180,
-      "Багишвили Евгений Нодариевич": 55,
-      "Козадеров Сергей Яковлевич": 33,
-      "Петров Николай Алексеевич": 34,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 187,
-      "Телелейко Леонид Федорович": 62,
-      "Тетерин Василий Николаевич": 346,
-      "Хорошилов Николай Михайлович": 113,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000335445": 180,
+      "special:official-result-label:39": 55,
+      "gas:candidate-vibid:1001000217902": 33,
+      "gas:candidate-vibid:1001000195043": 34,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 187,
+      "gas:candidate-vibid:1001000112189": 62,
+      "gas:candidate-vibid:1001000338627": 346,
+      "gas:candidate-vibid:323300870763": 113,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12373,16 +12373,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 56,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 25,
-      "Петров Николай Алексеевич": 8,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 101,
-      "Телелейко Леонид Федорович": 38,
-      "Тетерин Василий Николаевич": 154,
-      "Хорошилов Николай Михайлович": 50,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000335445": 56,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 25,
+      "gas:candidate-vibid:1001000195043": 8,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 101,
+      "gas:candidate-vibid:1001000112189": 38,
+      "gas:candidate-vibid:1001000338627": 154,
+      "gas:candidate-vibid:323300870763": 50,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12432,16 +12432,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 79,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 27,
-      "Петров Николай Алексеевич": 15,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 180,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 205,
-      "Хорошилов Николай Михайлович": 45,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000335445": 79,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 27,
+      "gas:candidate-vibid:1001000195043": 15,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 180,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 205,
+      "gas:candidate-vibid:323300870763": 45,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12491,16 +12491,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 100,
-      "Багишвили Евгений Нодариевич": 41,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 38,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 337,
-      "Телелейко Леонид Федорович": 45,
-      "Тетерин Василий Николаевич": 328,
-      "Хорошилов Николай Михайлович": 97,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000335445": 100,
+      "special:official-result-label:39": 41,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 38,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 337,
+      "gas:candidate-vibid:1001000112189": 45,
+      "gas:candidate-vibid:1001000338627": 328,
+      "gas:candidate-vibid:323300870763": 97,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12550,16 +12550,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 94,
-      "Багишвили Евгений Нодариевич": 31,
-      "Козадеров Сергей Яковлевич": 32,
-      "Петров Николай Алексеевич": 21,
-      "Полесский Виталий Валерьевич": 10,
-      "Севастьянов Виталий Иванович": 239,
-      "Телелейко Леонид Федорович": 32,
-      "Тетерин Василий Николаевич": 161,
-      "Хорошилов Николай Михайлович": 65,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000335445": 94,
+      "special:official-result-label:39": 31,
+      "gas:candidate-vibid:1001000217902": 32,
+      "gas:candidate-vibid:1001000195043": 21,
+      "gas:candidate-vibid:323300871078": 10,
+      "gas:candidate-vibid:1001000121811": 239,
+      "gas:candidate-vibid:1001000112189": 32,
+      "gas:candidate-vibid:1001000338627": 161,
+      "gas:candidate-vibid:323300870763": 65,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12609,16 +12609,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 83,
-      "Багишвили Евгений Нодариевич": 56,
-      "Козадеров Сергей Яковлевич": 21,
-      "Петров Николай Алексеевич": 19,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 311,
-      "Телелейко Леонид Федорович": 38,
-      "Тетерин Василий Николаевич": 318,
-      "Хорошилов Николай Михайлович": 109,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000335445": 83,
+      "special:official-result-label:39": 56,
+      "gas:candidate-vibid:1001000217902": 21,
+      "gas:candidate-vibid:1001000195043": 19,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 311,
+      "gas:candidate-vibid:1001000112189": 38,
+      "gas:candidate-vibid:1001000338627": 318,
+      "gas:candidate-vibid:323300870763": 109,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12668,16 +12668,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 149,
-      "Багишвили Евгений Нодариевич": 50,
-      "Козадеров Сергей Яковлевич": 53,
-      "Петров Николай Алексеевич": 33,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 264,
-      "Телелейко Леонид Федорович": 72,
-      "Тетерин Василий Николаевич": 404,
-      "Хорошилов Николай Михайлович": 140,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000335445": 149,
+      "special:official-result-label:39": 50,
+      "gas:candidate-vibid:1001000217902": 53,
+      "gas:candidate-vibid:1001000195043": 33,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 264,
+      "gas:candidate-vibid:1001000112189": 72,
+      "gas:candidate-vibid:1001000338627": 404,
+      "gas:candidate-vibid:323300870763": 140,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12727,16 +12727,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 111,
-      "Багишвили Евгений Нодариевич": 66,
-      "Козадеров Сергей Яковлевич": 45,
-      "Петров Николай Алексеевич": 19,
-      "Полесский Виталий Валерьевич": 71,
-      "Севастьянов Виталий Иванович": 207,
-      "Телелейко Леонид Федорович": 38,
-      "Тетерин Василий Николаевич": 338,
-      "Хорошилов Николай Михайлович": 102,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000335445": 111,
+      "special:official-result-label:39": 66,
+      "gas:candidate-vibid:1001000217902": 45,
+      "gas:candidate-vibid:1001000195043": 19,
+      "gas:candidate-vibid:323300871078": 71,
+      "gas:candidate-vibid:1001000121811": 207,
+      "gas:candidate-vibid:1001000112189": 38,
+      "gas:candidate-vibid:1001000338627": 338,
+      "gas:candidate-vibid:323300870763": 102,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12786,16 +12786,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 87,
-      "Багишвили Евгений Нодариевич": 55,
-      "Козадеров Сергей Яковлевич": 27,
-      "Петров Николай Алексеевич": 26,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 245,
-      "Телелейко Леонид Федорович": 52,
-      "Тетерин Василий Николаевич": 342,
-      "Хорошилов Николай Михайлович": 100,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000335445": 87,
+      "special:official-result-label:39": 55,
+      "gas:candidate-vibid:1001000217902": 27,
+      "gas:candidate-vibid:1001000195043": 26,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 245,
+      "gas:candidate-vibid:1001000112189": 52,
+      "gas:candidate-vibid:1001000338627": 342,
+      "gas:candidate-vibid:323300870763": 100,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12845,16 +12845,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 117,
-      "Багишвили Евгений Нодариевич": 39,
-      "Козадеров Сергей Яковлевич": 39,
-      "Петров Николай Алексеевич": 25,
-      "Полесский Виталий Валерьевич": 26,
-      "Севастьянов Виталий Иванович": 358,
-      "Телелейко Леонид Федорович": 45,
-      "Тетерин Василий Николаевич": 415,
-      "Хорошилов Николай Михайлович": 139,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000335445": 117,
+      "special:official-result-label:39": 39,
+      "gas:candidate-vibid:1001000217902": 39,
+      "gas:candidate-vibid:1001000195043": 25,
+      "gas:candidate-vibid:323300871078": 26,
+      "gas:candidate-vibid:1001000121811": 358,
+      "gas:candidate-vibid:1001000112189": 45,
+      "gas:candidate-vibid:1001000338627": 415,
+      "gas:candidate-vibid:323300870763": 139,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12904,16 +12904,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 28,
-      "Багишвили Евгений Нодариевич": 19,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 20,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 63,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 78,
-      "Хорошилов Николай Михайлович": 36,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000335445": 28,
+      "special:official-result-label:39": 19,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 20,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 63,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 78,
+      "gas:candidate-vibid:323300870763": 36,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -12963,16 +12963,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 5,
-      "Багишвили Евгений Нодариевич": 2,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 13,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 37,
-      "Хорошилов Николай Михайлович": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000335445": 5,
+      "special:official-result-label:39": 2,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 13,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 37,
+      "gas:candidate-vibid:323300870763": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13022,16 +13022,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 90,
-      "Багишвили Евгений Нодариевич": 7,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 89,
-      "Телелейко Леонид Федорович": 6,
-      "Тетерин Василий Николаевич": 137,
-      "Хорошилов Николай Михайлович": 8,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000335445": 90,
+      "special:official-result-label:39": 7,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 89,
+      "gas:candidate-vibid:1001000112189": 6,
+      "gas:candidate-vibid:1001000338627": 137,
+      "gas:candidate-vibid:323300870763": 8,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13081,16 +13081,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 21,
-      "Багишвили Евгений Нодариевич": 2,
-      "Козадеров Сергей Яковлевич": 5,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 14,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 52,
-      "Хорошилов Николай Михайлович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000335445": 21,
+      "special:official-result-label:39": 2,
+      "gas:candidate-vibid:1001000217902": 5,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 14,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 52,
+      "gas:candidate-vibid:323300870763": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13140,16 +13140,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 21,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 4,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 103,
-      "Телелейко Леонид Федорович": 2,
-      "Тетерин Василий Николаевич": 33,
-      "Хорошилов Николай Михайлович": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000335445": 21,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 4,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 103,
+      "gas:candidate-vibid:1001000112189": 2,
+      "gas:candidate-vibid:1001000338627": 33,
+      "gas:candidate-vibid:323300870763": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13199,16 +13199,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 56,
-      "Багишвили Евгений Нодариевич": 16,
-      "Козадеров Сергей Яковлевич": 10,
-      "Петров Николай Алексеевич": 4,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 121,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 61,
-      "Хорошилов Николай Михайлович": 13,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000335445": 56,
+      "special:official-result-label:39": 16,
+      "gas:candidate-vibid:1001000217902": 10,
+      "gas:candidate-vibid:1001000195043": 4,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 121,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 61,
+      "gas:candidate-vibid:323300870763": 13,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13258,16 +13258,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 73,
-      "Багишвили Евгений Нодариевич": 7,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 2,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 64,
-      "Телелейко Леонид Федорович": 4,
-      "Тетерин Василий Николаевич": 31,
-      "Хорошилов Николай Михайлович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000335445": 73,
+      "special:official-result-label:39": 7,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 2,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 64,
+      "gas:candidate-vibid:1001000112189": 4,
+      "gas:candidate-vibid:1001000338627": 31,
+      "gas:candidate-vibid:323300870763": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13317,16 +13317,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 54,
-      "Багишвили Евгений Нодариевич": 44,
-      "Козадеров Сергей Яковлевич": 23,
-      "Петров Николай Алексеевич": 18,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 189,
-      "Телелейко Леонид Федорович": 39,
-      "Тетерин Василий Николаевич": 184,
-      "Хорошилов Николай Михайлович": 41,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000335445": 54,
+      "special:official-result-label:39": 44,
+      "gas:candidate-vibid:1001000217902": 23,
+      "gas:candidate-vibid:1001000195043": 18,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 189,
+      "gas:candidate-vibid:1001000112189": 39,
+      "gas:candidate-vibid:1001000338627": 184,
+      "gas:candidate-vibid:323300870763": 41,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13376,16 +13376,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 88,
-      "Багишвили Евгений Нодариевич": 22,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 14,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 195,
-      "Телелейко Леонид Федорович": 13,
-      "Тетерин Василий Николаевич": 98,
-      "Хорошилов Николай Михайлович": 28,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000335445": 88,
+      "special:official-result-label:39": 22,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 14,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 195,
+      "gas:candidate-vibid:1001000112189": 13,
+      "gas:candidate-vibid:1001000338627": 98,
+      "gas:candidate-vibid:323300870763": 28,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13435,16 +13435,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 36,
-      "Багишвили Евгений Нодариевич": 49,
-      "Козадеров Сергей Яковлевич": 25,
-      "Петров Николай Алексеевич": 37,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 236,
-      "Телелейко Леонид Федорович": 35,
-      "Тетерин Василий Николаевич": 243,
-      "Хорошилов Николай Михайлович": 38,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000335445": 36,
+      "special:official-result-label:39": 49,
+      "gas:candidate-vibid:1001000217902": 25,
+      "gas:candidate-vibid:1001000195043": 37,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 236,
+      "gas:candidate-vibid:1001000112189": 35,
+      "gas:candidate-vibid:1001000338627": 243,
+      "gas:candidate-vibid:323300870763": 38,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13494,16 +13494,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 19,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 11,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 174,
-      "Телелейко Леонид Федорович": 36,
-      "Тетерин Василий Николаевич": 181,
-      "Хорошилов Николай Михайлович": 56,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000335445": 19,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 11,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 174,
+      "gas:candidate-vibid:1001000112189": 36,
+      "gas:candidate-vibid:1001000338627": 181,
+      "gas:candidate-vibid:323300870763": 56,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13553,16 +13553,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 50,
-      "Багишвили Евгений Нодариевич": 30,
-      "Козадеров Сергей Яковлевич": 34,
-      "Петров Николай Алексеевич": 19,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 328,
-      "Телелейко Леонид Федорович": 29,
-      "Тетерин Василий Николаевич": 225,
-      "Хорошилов Николай Михайлович": 67,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000335445": 50,
+      "special:official-result-label:39": 30,
+      "gas:candidate-vibid:1001000217902": 34,
+      "gas:candidate-vibid:1001000195043": 19,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 328,
+      "gas:candidate-vibid:1001000112189": 29,
+      "gas:candidate-vibid:1001000338627": 225,
+      "gas:candidate-vibid:323300870763": 67,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13612,16 +13612,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 99,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 23,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 158,
-      "Телелейко Леонид Федорович": 18,
-      "Тетерин Василий Николаевич": 117,
-      "Хорошилов Николай Михайлович": 30,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000335445": 99,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 23,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 158,
+      "gas:candidate-vibid:1001000112189": 18,
+      "gas:candidate-vibid:1001000338627": 117,
+      "gas:candidate-vibid:323300870763": 30,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13671,16 +13671,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 126,
-      "Багишвили Евгений Нодариевич": 47,
-      "Козадеров Сергей Яковлевич": 25,
-      "Петров Николай Алексеевич": 18,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 211,
-      "Телелейко Леонид Федорович": 27,
-      "Тетерин Василий Николаевич": 215,
-      "Хорошилов Николай Михайлович": 29,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000335445": 126,
+      "special:official-result-label:39": 47,
+      "gas:candidate-vibid:1001000217902": 25,
+      "gas:candidate-vibid:1001000195043": 18,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 211,
+      "gas:candidate-vibid:1001000112189": 27,
+      "gas:candidate-vibid:1001000338627": 215,
+      "gas:candidate-vibid:323300870763": 29,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13730,16 +13730,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 72,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 17,
-      "Петров Николай Алексеевич": 7,
-      "Полесский Виталий Валерьевич": 7,
-      "Севастьянов Виталий Иванович": 197,
-      "Телелейко Леонид Федорович": 10,
-      "Тетерин Василий Николаевич": 140,
-      "Хорошилов Николай Михайлович": 18,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000335445": 72,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 17,
+      "gas:candidate-vibid:1001000195043": 7,
+      "gas:candidate-vibid:323300871078": 7,
+      "gas:candidate-vibid:1001000121811": 197,
+      "gas:candidate-vibid:1001000112189": 10,
+      "gas:candidate-vibid:1001000338627": 140,
+      "gas:candidate-vibid:323300870763": 18,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13789,16 +13789,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 81,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 4,
-      "Севастьянов Виталий Иванович": 90,
-      "Телелейко Леонид Федорович": 8,
-      "Тетерин Василий Николаевич": 101,
-      "Хорошилов Николай Михайлович": 21,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000335445": 81,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 4,
+      "gas:candidate-vibid:1001000121811": 90,
+      "gas:candidate-vibid:1001000112189": 8,
+      "gas:candidate-vibid:1001000338627": 101,
+      "gas:candidate-vibid:323300870763": 21,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13848,16 +13848,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 38,
-      "Багишвили Евгений Нодариевич": 18,
-      "Козадеров Сергей Яковлевич": 16,
-      "Петров Николай Алексеевич": 15,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 46,
-      "Телелейко Леонид Федорович": 19,
-      "Тетерин Василий Николаевич": 105,
-      "Хорошилов Николай Михайлович": 22,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000335445": 38,
+      "special:official-result-label:39": 18,
+      "gas:candidate-vibid:1001000217902": 16,
+      "gas:candidate-vibid:1001000195043": 15,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 46,
+      "gas:candidate-vibid:1001000112189": 19,
+      "gas:candidate-vibid:1001000338627": 105,
+      "gas:candidate-vibid:323300870763": 22,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13907,16 +13907,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 103,
-      "Багишвили Евгений Нодариевич": 62,
-      "Козадеров Сергей Яковлевич": 35,
-      "Петров Николай Алексеевич": 32,
-      "Полесский Виталий Валерьевич": 15,
-      "Севастьянов Виталий Иванович": 217,
-      "Телелейко Леонид Федорович": 16,
-      "Тетерин Василий Николаевич": 285,
-      "Хорошилов Николай Михайлович": 72,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000335445": 103,
+      "special:official-result-label:39": 62,
+      "gas:candidate-vibid:1001000217902": 35,
+      "gas:candidate-vibid:1001000195043": 32,
+      "gas:candidate-vibid:323300871078": 15,
+      "gas:candidate-vibid:1001000121811": 217,
+      "gas:candidate-vibid:1001000112189": 16,
+      "gas:candidate-vibid:1001000338627": 285,
+      "gas:candidate-vibid:323300870763": 72,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -13966,16 +13966,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 16,
-      "Багишвили Евгений Нодариевич": 4,
-      "Козадеров Сергей Яковлевич": 8,
-      "Петров Николай Алексеевич": 5,
-      "Полесский Виталий Валерьевич": 1,
-      "Севастьянов Виталий Иванович": 38,
-      "Телелейко Леонид Федорович": 1,
-      "Тетерин Василий Николаевич": 16,
-      "Хорошилов Николай Михайлович": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000335445": 16,
+      "special:official-result-label:39": 4,
+      "gas:candidate-vibid:1001000217902": 8,
+      "gas:candidate-vibid:1001000195043": 5,
+      "gas:candidate-vibid:323300871078": 1,
+      "gas:candidate-vibid:1001000121811": 38,
+      "gas:candidate-vibid:1001000112189": 1,
+      "gas:candidate-vibid:1001000338627": 16,
+      "gas:candidate-vibid:323300870763": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -14025,16 +14025,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 15,
-      "Багишвили Евгений Нодариевич": 9,
-      "Козадеров Сергей Яковлевич": 6,
-      "Петров Николай Алексеевич": 9,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 15,
-      "Телелейко Леонид Федорович": 3,
-      "Тетерин Василий Николаевич": 39,
-      "Хорошилов Николай Михайлович": 12,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000335445": 15,
+      "special:official-result-label:39": 9,
+      "gas:candidate-vibid:1001000217902": 6,
+      "gas:candidate-vibid:1001000195043": 9,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 15,
+      "gas:candidate-vibid:1001000112189": 3,
+      "gas:candidate-vibid:1001000338627": 39,
+      "gas:candidate-vibid:323300870763": 12,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -14084,16 +14084,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 18,
-      "Багишвили Евгений Нодариевич": 26,
-      "Козадеров Сергей Яковлевич": 7,
-      "Петров Николай Алексеевич": 6,
-      "Полесский Виталий Валерьевич": 2,
-      "Севастьянов Виталий Иванович": 25,
-      "Телелейко Леонид Федорович": 10,
-      "Тетерин Василий Николаевич": 77,
-      "Хорошилов Николай Михайлович": 35,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000335445": 18,
+      "special:official-result-label:39": 26,
+      "gas:candidate-vibid:1001000217902": 7,
+      "gas:candidate-vibid:1001000195043": 6,
+      "gas:candidate-vibid:323300871078": 2,
+      "gas:candidate-vibid:1001000121811": 25,
+      "gas:candidate-vibid:1001000112189": 10,
+      "gas:candidate-vibid:1001000338627": 77,
+      "gas:candidate-vibid:323300870763": 35,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -14143,16 +14143,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 0,
-      "Багишвили Евгений Нодариевич": 319,
-      "Козадеров Сергей Яковлевич": 0,
-      "Петров Николай Алексеевич": 0,
-      "Полесский Виталий Валерьевич": 0,
-      "Севастьянов Виталий Иванович": 127,
-      "Телелейко Леонид Федорович": 0,
-      "Тетерин Василий Николаевич": 1760,
-      "Хорошилов Николай Михайлович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000335445": 0,
+      "special:official-result-label:39": 319,
+      "gas:candidate-vibid:1001000217902": 0,
+      "gas:candidate-vibid:1001000195043": 0,
+      "gas:candidate-vibid:323300871078": 0,
+      "gas:candidate-vibid:1001000121811": 127,
+      "gas:candidate-vibid:1001000112189": 0,
+      "gas:candidate-vibid:1001000338627": 1760,
+      "gas:candidate-vibid:323300870763": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070369&region=0&sub_region=0&type=429",
@@ -14202,16 +14202,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 142,
-      "Багишвили Евгений Нодариевич": 49,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 33,
-      "Полесский Виталий Валерьевич": 11,
-      "Севастьянов Виталий Иванович": 153,
-      "Телелейко Леонид Федорович": 37,
-      "Тетерин Василий Николаевич": 136,
-      "Хорошилов Николай Михайлович": 113,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000335445": 142,
+      "special:official-result-label:39": 49,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 33,
+      "gas:candidate-vibid:323300871078": 11,
+      "gas:candidate-vibid:1001000121811": 153,
+      "gas:candidate-vibid:1001000112189": 37,
+      "gas:candidate-vibid:1001000338627": 136,
+      "gas:candidate-vibid:323300870763": 113,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14261,16 +14261,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 99,
-      "Багишвили Евгений Нодариевич": 52,
-      "Козадеров Сергей Яковлевич": 24,
-      "Петров Николай Алексеевич": 27,
-      "Полесский Виталий Валерьевич": 16,
-      "Севастьянов Виталий Иванович": 163,
-      "Телелейко Леонид Федорович": 54,
-      "Тетерин Василий Николаевич": 136,
-      "Хорошилов Николай Михайлович": 121,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000335445": 99,
+      "special:official-result-label:39": 52,
+      "gas:candidate-vibid:1001000217902": 24,
+      "gas:candidate-vibid:1001000195043": 27,
+      "gas:candidate-vibid:323300871078": 16,
+      "gas:candidate-vibid:1001000121811": 163,
+      "gas:candidate-vibid:1001000112189": 54,
+      "gas:candidate-vibid:1001000338627": 136,
+      "gas:candidate-vibid:323300870763": 121,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14320,16 +14320,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 109,
-      "Багишвили Евгений Нодариевич": 42,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 26,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 159,
-      "Телелейко Леонид Федорович": 36,
-      "Тетерин Василий Николаевич": 187,
-      "Хорошилов Николай Михайлович": 114,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000335445": 109,
+      "special:official-result-label:39": 42,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 26,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 159,
+      "gas:candidate-vibid:1001000112189": 36,
+      "gas:candidate-vibid:1001000338627": 187,
+      "gas:candidate-vibid:323300870763": 114,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14379,16 +14379,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 124,
-      "Багишвили Евгений Нодариевич": 43,
-      "Козадеров Сергей Яковлевич": 39,
-      "Петров Николай Алексеевич": 22,
-      "Полесский Виталий Валерьевич": 5,
-      "Севастьянов Виталий Иванович": 213,
-      "Телелейко Леонид Федорович": 42,
-      "Тетерин Василий Николаевич": 190,
-      "Хорошилов Николай Михайлович": 134,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000335445": 124,
+      "special:official-result-label:39": 43,
+      "gas:candidate-vibid:1001000217902": 39,
+      "gas:candidate-vibid:1001000195043": 22,
+      "gas:candidate-vibid:323300871078": 5,
+      "gas:candidate-vibid:1001000121811": 213,
+      "gas:candidate-vibid:1001000112189": 42,
+      "gas:candidate-vibid:1001000338627": 190,
+      "gas:candidate-vibid:323300870763": 134,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14438,16 +14438,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 128,
-      "Багишвили Евгений Нодариевич": 25,
-      "Козадеров Сергей Яковлевич": 19,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 6,
-      "Севастьянов Виталий Иванович": 138,
-      "Телелейко Леонид Федорович": 36,
-      "Тетерин Василий Николаевич": 161,
-      "Хорошилов Николай Михайлович": 128,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000335445": 128,
+      "special:official-result-label:39": 25,
+      "gas:candidate-vibid:1001000217902": 19,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 6,
+      "gas:candidate-vibid:1001000121811": 138,
+      "gas:candidate-vibid:1001000112189": 36,
+      "gas:candidate-vibid:1001000338627": 161,
+      "gas:candidate-vibid:323300870763": 128,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14497,16 +14497,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 101,
-      "Багишвили Евгений Нодариевич": 33,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 21,
-      "Полесский Виталий Валерьевич": 17,
-      "Севастьянов Виталий Иванович": 423,
-      "Телелейко Леонид Федорович": 53,
-      "Тетерин Василий Николаевич": 193,
-      "Хорошилов Николай Михайлович": 139,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000335445": 101,
+      "special:official-result-label:39": 33,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 21,
+      "gas:candidate-vibid:323300871078": 17,
+      "gas:candidate-vibid:1001000121811": 423,
+      "gas:candidate-vibid:1001000112189": 53,
+      "gas:candidate-vibid:1001000338627": 193,
+      "gas:candidate-vibid:323300870763": 139,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14556,16 +14556,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 78,
-      "Багишвили Евгений Нодариевич": 15,
-      "Козадеров Сергей Яковлевич": 12,
-      "Петров Николай Алексеевич": 10,
-      "Полесский Виталий Валерьевич": 3,
-      "Севастьянов Виталий Иванович": 87,
-      "Телелейко Леонид Федорович": 26,
-      "Тетерин Василий Николаевич": 115,
-      "Хорошилов Николай Михайлович": 91,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000335445": 78,
+      "special:official-result-label:39": 15,
+      "gas:candidate-vibid:1001000217902": 12,
+      "gas:candidate-vibid:1001000195043": 10,
+      "gas:candidate-vibid:323300871078": 3,
+      "gas:candidate-vibid:1001000121811": 87,
+      "gas:candidate-vibid:1001000112189": 26,
+      "gas:candidate-vibid:1001000338627": 115,
+      "gas:candidate-vibid:323300870763": 91,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14615,16 +14615,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 149,
-      "Багишвили Евгений Нодариевич": 28,
-      "Козадеров Сергей Яковлевич": 20,
-      "Петров Николай Алексеевич": 16,
-      "Полесский Виталий Валерьевич": 8,
-      "Севастьянов Виталий Иванович": 153,
-      "Телелейко Леонид Федорович": 34,
-      "Тетерин Василий Николаевич": 159,
-      "Хорошилов Николай Михайлович": 120,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000335445": 149,
+      "special:official-result-label:39": 28,
+      "gas:candidate-vibid:1001000217902": 20,
+      "gas:candidate-vibid:1001000195043": 16,
+      "gas:candidate-vibid:323300871078": 8,
+      "gas:candidate-vibid:1001000121811": 153,
+      "gas:candidate-vibid:1001000112189": 34,
+      "gas:candidate-vibid:1001000338627": 159,
+      "gas:candidate-vibid:323300870763": 120,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14674,16 +14674,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 116,
-      "Багишвили Евгений Нодариевич": 37,
-      "Козадеров Сергей Яковлевич": 29,
-      "Петров Николай Алексеевич": 25,
-      "Полесский Виталий Валерьевич": 9,
-      "Севастьянов Виталий Иванович": 243,
-      "Телелейко Леонид Федорович": 44,
-      "Тетерин Василий Николаевич": 178,
-      "Хорошилов Николай Михайлович": 169,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000335445": 116,
+      "special:official-result-label:39": 37,
+      "gas:candidate-vibid:1001000217902": 29,
+      "gas:candidate-vibid:1001000195043": 25,
+      "gas:candidate-vibid:323300871078": 9,
+      "gas:candidate-vibid:1001000121811": 243,
+      "gas:candidate-vibid:1001000112189": 44,
+      "gas:candidate-vibid:1001000338627": 178,
+      "gas:candidate-vibid:323300870763": 169,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",
@@ -14733,16 +14733,16 @@ export const duma_2003_uik_428_region_23_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Андреев Алексей Петрович": 142,
-      "Багишвили Евгений Нодариевич": 37,
-      "Козадеров Сергей Яковлевич": 34,
-      "Петров Николай Алексеевич": 17,
-      "Полесский Виталий Валерьевич": 20,
-      "Севастьянов Виталий Иванович": 267,
-      "Телелейко Леонид Федорович": 50,
-      "Тетерин Василий Николаевич": 188,
-      "Хорошилов Николай Михайлович": 174,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000335445": 142,
+      "special:official-result-label:39": 37,
+      "gas:candidate-vibid:1001000217902": 34,
+      "gas:candidate-vibid:1001000195043": 17,
+      "gas:candidate-vibid:323300871078": 20,
+      "gas:candidate-vibid:1001000121811": 267,
+      "gas:candidate-vibid:1001000112189": 50,
+      "gas:candidate-vibid:1001000338627": 188,
+      "gas:candidate-vibid:323300870763": 174,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=232000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=223200070370&region=0&sub_region=0&type=429",

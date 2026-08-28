@@ -43,13 +43,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 5,
-      "Воробьёва Людмила Фёдоровна": 8,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 44,
-      "Морозов Антон Юрьевич": 4,
-      "Чепа Алексей Васильевич": 3
+      "gas:candidate-vibid:26920001038978": 5,
+      "gas:candidate-vibid:26920001031524": 8,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 44,
+      "gas:candidate-vibid:26920001026315": 4,
+      "gas:candidate-vibid:26920001033851": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982899&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982899&type=464",
@@ -100,13 +100,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 59,
-      "Воробьёва Людмила Фёдоровна": 71,
-      "Дешёвкин Вадим Николаевич": 11,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 50,
-      "Морозов Антон Юрьевич": 34,
-      "Чепа Алексей Васильевич": 65
+      "gas:candidate-vibid:26920001038978": 59,
+      "gas:candidate-vibid:26920001031524": 71,
+      "gas:candidate-vibid:26920001041178": 11,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 50,
+      "gas:candidate-vibid:26920001026315": 34,
+      "gas:candidate-vibid:26920001033851": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -157,13 +157,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 60,
-      "Воробьёва Людмила Фёдоровна": 61,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 14,
-      "Максимова Светлана Викторовна": 50,
-      "Морозов Антон Юрьевич": 23,
-      "Чепа Алексей Васильевич": 84
+      "gas:candidate-vibid:26920001038978": 60,
+      "gas:candidate-vibid:26920001031524": 61,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 14,
+      "gas:candidate-vibid:26920001036855": 50,
+      "gas:candidate-vibid:26920001026315": 23,
+      "gas:candidate-vibid:26920001033851": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -214,13 +214,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 144,
-      "Воробьёва Людмила Фёдоровна": 157,
-      "Дешёвкин Вадим Николаевич": 24,
-      "Клейменов Илья Юрьевич": 16,
-      "Максимова Светлана Викторовна": 99,
-      "Морозов Антон Юрьевич": 47,
-      "Чепа Алексей Васильевич": 119
+      "gas:candidate-vibid:26920001038978": 144,
+      "gas:candidate-vibid:26920001031524": 157,
+      "gas:candidate-vibid:26920001041178": 24,
+      "gas:candidate-vibid:26920001031509": 16,
+      "gas:candidate-vibid:26920001036855": 99,
+      "gas:candidate-vibid:26920001026315": 47,
+      "gas:candidate-vibid:26920001033851": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -271,13 +271,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 64,
-      "Воробьёва Людмила Фёдоровна": 62,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 51,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 47
+      "gas:candidate-vibid:26920001038978": 64,
+      "gas:candidate-vibid:26920001031524": 62,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 51,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -328,13 +328,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 161,
-      "Воробьёва Людмила Фёдоровна": 237,
-      "Дешёвкин Вадим Николаевич": 32,
-      "Клейменов Илья Юрьевич": 15,
-      "Максимова Светлана Викторовна": 119,
-      "Морозов Антон Юрьевич": 74,
-      "Чепа Алексей Васильевич": 127
+      "gas:candidate-vibid:26920001038978": 161,
+      "gas:candidate-vibid:26920001031524": 237,
+      "gas:candidate-vibid:26920001041178": 32,
+      "gas:candidate-vibid:26920001031509": 15,
+      "gas:candidate-vibid:26920001036855": 119,
+      "gas:candidate-vibid:26920001026315": 74,
+      "gas:candidate-vibid:26920001033851": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -385,13 +385,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 94,
-      "Воробьёва Людмила Фёдоровна": 133,
-      "Дешёвкин Вадим Николаевич": 21,
-      "Клейменов Илья Юрьевич": 13,
-      "Максимова Светлана Викторовна": 65,
-      "Морозов Антон Юрьевич": 25,
-      "Чепа Алексей Васильевич": 68
+      "gas:candidate-vibid:26920001038978": 94,
+      "gas:candidate-vibid:26920001031524": 133,
+      "gas:candidate-vibid:26920001041178": 21,
+      "gas:candidate-vibid:26920001031509": 13,
+      "gas:candidate-vibid:26920001036855": 65,
+      "gas:candidate-vibid:26920001026315": 25,
+      "gas:candidate-vibid:26920001033851": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -442,13 +442,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 43,
-      "Воробьёва Людмила Фёдоровна": 36,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 31,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 33
+      "gas:candidate-vibid:26920001038978": 43,
+      "gas:candidate-vibid:26920001031524": 36,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 31,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -499,13 +499,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 130,
-      "Воробьёва Людмила Фёдоровна": 179,
-      "Дешёвкин Вадим Николаевич": 27,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 123,
-      "Морозов Антон Юрьевич": 56,
-      "Чепа Алексей Васильевич": 156
+      "gas:candidate-vibid:26920001038978": 130,
+      "gas:candidate-vibid:26920001031524": 179,
+      "gas:candidate-vibid:26920001041178": 27,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 123,
+      "gas:candidate-vibid:26920001026315": 56,
+      "gas:candidate-vibid:26920001033851": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -556,13 +556,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 78,
-      "Воробьёва Людмила Фёдоровна": 90,
-      "Дешёвкин Вадим Николаевич": 12,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 79,
-      "Морозов Антон Юрьевич": 33,
-      "Чепа Алексей Васильевич": 59
+      "gas:candidate-vibid:26920001038978": 78,
+      "gas:candidate-vibid:26920001031524": 90,
+      "gas:candidate-vibid:26920001041178": 12,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 79,
+      "gas:candidate-vibid:26920001026315": 33,
+      "gas:candidate-vibid:26920001033851": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -613,13 +613,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 159,
-      "Воробьёва Людмила Фёдоровна": 186,
-      "Дешёвкин Вадим Николаевич": 19,
-      "Клейменов Илья Юрьевич": 21,
-      "Максимова Светлана Викторовна": 115,
-      "Морозов Антон Юрьевич": 60,
-      "Чепа Алексей Васильевич": 95
+      "gas:candidate-vibid:26920001038978": 159,
+      "gas:candidate-vibid:26920001031524": 186,
+      "gas:candidate-vibid:26920001041178": 19,
+      "gas:candidate-vibid:26920001031509": 21,
+      "gas:candidate-vibid:26920001036855": 115,
+      "gas:candidate-vibid:26920001026315": 60,
+      "gas:candidate-vibid:26920001033851": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -670,13 +670,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 130,
-      "Воробьёва Людмила Фёдоровна": 146,
-      "Дешёвкин Вадим Николаевич": 16,
-      "Клейменов Илья Юрьевич": 36,
-      "Максимова Светлана Викторовна": 130,
-      "Морозов Антон Юрьевич": 51,
-      "Чепа Алексей Васильевич": 129
+      "gas:candidate-vibid:26920001038978": 130,
+      "gas:candidate-vibid:26920001031524": 146,
+      "gas:candidate-vibid:26920001041178": 16,
+      "gas:candidate-vibid:26920001031509": 36,
+      "gas:candidate-vibid:26920001036855": 130,
+      "gas:candidate-vibid:26920001026315": 51,
+      "gas:candidate-vibid:26920001033851": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -727,13 +727,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 98,
-      "Воробьёва Людмила Фёдоровна": 85,
-      "Дешёвкин Вадим Николаевич": 38,
-      "Клейменов Илья Юрьевич": 16,
-      "Максимова Светлана Викторовна": 139,
-      "Морозов Антон Юрьевич": 59,
-      "Чепа Алексей Васильевич": 114
+      "gas:candidate-vibid:26920001038978": 98,
+      "gas:candidate-vibid:26920001031524": 85,
+      "gas:candidate-vibid:26920001041178": 38,
+      "gas:candidate-vibid:26920001031509": 16,
+      "gas:candidate-vibid:26920001036855": 139,
+      "gas:candidate-vibid:26920001026315": 59,
+      "gas:candidate-vibid:26920001033851": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -784,13 +784,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 132,
-      "Воробьёва Людмила Фёдоровна": 213,
-      "Дешёвкин Вадим Николаевич": 24,
-      "Клейменов Илья Юрьевич": 16,
-      "Максимова Светлана Викторовна": 102,
-      "Морозов Антон Юрьевич": 61,
-      "Чепа Алексей Васильевич": 145
+      "gas:candidate-vibid:26920001038978": 132,
+      "gas:candidate-vibid:26920001031524": 213,
+      "gas:candidate-vibid:26920001041178": 24,
+      "gas:candidate-vibid:26920001031509": 16,
+      "gas:candidate-vibid:26920001036855": 102,
+      "gas:candidate-vibid:26920001026315": 61,
+      "gas:candidate-vibid:26920001033851": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -841,13 +841,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 150,
-      "Воробьёва Людмила Фёдоровна": 176,
-      "Дешёвкин Вадим Николаевич": 24,
-      "Клейменов Илья Юрьевич": 18,
-      "Максимова Светлана Викторовна": 103,
-      "Морозов Антон Юрьевич": 57,
-      "Чепа Алексей Васильевич": 171
+      "gas:candidate-vibid:26920001038978": 150,
+      "gas:candidate-vibid:26920001031524": 176,
+      "gas:candidate-vibid:26920001041178": 24,
+      "gas:candidate-vibid:26920001031509": 18,
+      "gas:candidate-vibid:26920001036855": 103,
+      "gas:candidate-vibid:26920001026315": 57,
+      "gas:candidate-vibid:26920001033851": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -898,13 +898,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 27,
-      "Воробьёва Людмила Фёдоровна": 27,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 63,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 27
+      "gas:candidate-vibid:26920001038978": 27,
+      "gas:candidate-vibid:26920001031524": 27,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 63,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -955,13 +955,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 25,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 49,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 25
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 25,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 49,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1012,13 +1012,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 44,
-      "Морозов Антон Юрьевич": 11,
-      "Чепа Алексей Васильевич": 14
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 44,
+      "gas:candidate-vibid:26920001026315": 11,
+      "gas:candidate-vibid:26920001033851": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1069,13 +1069,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 24,
-      "Воробьёва Людмила Фёдоровна": 35,
-      "Дешёвкин Вадим Николаевич": 18,
-      "Клейменов Илья Юрьевич": 14,
-      "Максимова Светлана Викторовна": 70,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 50
+      "gas:candidate-vibid:26920001038978": 24,
+      "gas:candidate-vibid:26920001031524": 35,
+      "gas:candidate-vibid:26920001041178": 18,
+      "gas:candidate-vibid:26920001031509": 14,
+      "gas:candidate-vibid:26920001036855": 70,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1126,13 +1126,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 46,
-      "Воробьёва Людмила Фёдоровна": 25,
-      "Дешёвкин Вадим Николаевич": 10,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 75,
-      "Морозов Антон Юрьевич": 16,
-      "Чепа Алексей Васильевич": 29
+      "gas:candidate-vibid:26920001038978": 46,
+      "gas:candidate-vibid:26920001031524": 25,
+      "gas:candidate-vibid:26920001041178": 10,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 75,
+      "gas:candidate-vibid:26920001026315": 16,
+      "gas:candidate-vibid:26920001033851": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1183,13 +1183,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 15,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 42,
-      "Морозов Антон Юрьевич": 14,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 15,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 42,
+      "gas:candidate-vibid:26920001026315": 14,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1240,13 +1240,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 13,
-      "Воробьёва Людмила Фёдоровна": 46,
-      "Дешёвкин Вадим Николаевич": 25,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 148,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 30
+      "gas:candidate-vibid:26920001038978": 13,
+      "gas:candidate-vibid:26920001031524": 46,
+      "gas:candidate-vibid:26920001041178": 25,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 148,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1297,13 +1297,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 28,
-      "Воробьёва Людмила Фёдоровна": 30,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 9,
-      "Максимова Светлана Викторовна": 97,
-      "Морозов Антон Юрьевич": 25,
-      "Чепа Алексей Васильевич": 34
+      "gas:candidate-vibid:26920001038978": 28,
+      "gas:candidate-vibid:26920001031524": 30,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 9,
+      "gas:candidate-vibid:26920001036855": 97,
+      "gas:candidate-vibid:26920001026315": 25,
+      "gas:candidate-vibid:26920001033851": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1354,13 +1354,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 23,
-      "Воробьёва Людмила Фёдоровна": 23,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 67,
-      "Морозов Антон Юрьевич": 10,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 23,
+      "gas:candidate-vibid:26920001031524": 23,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 67,
+      "gas:candidate-vibid:26920001026315": 10,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1411,13 +1411,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 20,
-      "Воробьёва Людмила Фёдоровна": 24,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 62,
-      "Морозов Антон Юрьевич": 10,
-      "Чепа Алексей Васильевич": 16
+      "gas:candidate-vibid:26920001038978": 20,
+      "gas:candidate-vibid:26920001031524": 24,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 62,
+      "gas:candidate-vibid:26920001026315": 10,
+      "gas:candidate-vibid:26920001033851": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1468,13 +1468,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 19,
-      "Воробьёва Людмила Фёдоровна": 26,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 44,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 12
+      "gas:candidate-vibid:26920001038978": 19,
+      "gas:candidate-vibid:26920001031524": 26,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 44,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1525,13 +1525,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 21,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 7,
-      "Максимова Светлана Викторовна": 83,
-      "Морозов Антон Юрьевич": 9,
-      "Чепа Алексей Васильевич": 35
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 21,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 7,
+      "gas:candidate-vibid:26920001036855": 83,
+      "gas:candidate-vibid:26920001026315": 9,
+      "gas:candidate-vibid:26920001033851": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1582,13 +1582,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 27,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 93,
-      "Морозов Антон Юрьевич": 15,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 27,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 93,
+      "gas:candidate-vibid:26920001026315": 15,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1639,13 +1639,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 6,
-      "Воробьёва Людмила Фёдоровна": 31,
-      "Дешёвкин Вадим Николаевич": 2,
-      "Клейменов Илья Юрьевич": 3,
-      "Максимова Светлана Викторовна": 60,
-      "Морозов Антон Юрьевич": 7,
-      "Чепа Алексей Васильевич": 22
+      "gas:candidate-vibid:26920001038978": 6,
+      "gas:candidate-vibid:26920001031524": 31,
+      "gas:candidate-vibid:26920001041178": 2,
+      "gas:candidate-vibid:26920001031509": 3,
+      "gas:candidate-vibid:26920001036855": 60,
+      "gas:candidate-vibid:26920001026315": 7,
+      "gas:candidate-vibid:26920001033851": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1696,13 +1696,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 18,
-      "Воробьёва Людмила Фёдоровна": 14,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 5,
-      "Максимова Светлана Викторовна": 116,
-      "Морозов Антон Юрьевич": 23,
-      "Чепа Алексей Васильевич": 20
+      "gas:candidate-vibid:26920001038978": 18,
+      "gas:candidate-vibid:26920001031524": 14,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 5,
+      "gas:candidate-vibid:26920001036855": 116,
+      "gas:candidate-vibid:26920001026315": 23,
+      "gas:candidate-vibid:26920001033851": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1753,13 +1753,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 6,
-      "Дешёвкин Вадим Николаевич": 0,
-      "Клейменов Илья Юрьевич": 4,
-      "Максимова Светлана Викторовна": 31,
-      "Морозов Антон Юрьевич": 3,
-      "Чепа Алексей Васильевич": 2
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 6,
+      "gas:candidate-vibid:26920001041178": 0,
+      "gas:candidate-vibid:26920001031509": 4,
+      "gas:candidate-vibid:26920001036855": 31,
+      "gas:candidate-vibid:26920001026315": 3,
+      "gas:candidate-vibid:26920001033851": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1810,13 +1810,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 51,
-      "Воробьёва Людмила Фёдоровна": 35,
-      "Дешёвкин Вадим Николаевич": 9,
-      "Клейменов Илья Юрьевич": 14,
-      "Максимова Светлана Викторовна": 61,
-      "Морозов Антон Юрьевич": 31,
-      "Чепа Алексей Васильевич": 21
+      "gas:candidate-vibid:26920001038978": 51,
+      "gas:candidate-vibid:26920001031524": 35,
+      "gas:candidate-vibid:26920001041178": 9,
+      "gas:candidate-vibid:26920001031509": 14,
+      "gas:candidate-vibid:26920001036855": 61,
+      "gas:candidate-vibid:26920001026315": 31,
+      "gas:candidate-vibid:26920001033851": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1867,13 +1867,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 14,
-      "Воробьёва Людмила Фёдоровна": 21,
-      "Дешёвкин Вадим Николаевич": 5,
-      "Клейменов Илья Юрьевич": 8,
-      "Максимова Светлана Викторовна": 52,
-      "Морозов Антон Юрьевич": 20,
-      "Чепа Алексей Васильевич": 26
+      "gas:candidate-vibid:26920001038978": 14,
+      "gas:candidate-vibid:26920001031524": 21,
+      "gas:candidate-vibid:26920001041178": 5,
+      "gas:candidate-vibid:26920001031509": 8,
+      "gas:candidate-vibid:26920001036855": 52,
+      "gas:candidate-vibid:26920001026315": 20,
+      "gas:candidate-vibid:26920001033851": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1924,13 +1924,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 45,
-      "Воробьёва Людмила Фёдоровна": 26,
-      "Дешёвкин Вадим Николаевич": 8,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 67,
-      "Морозов Антон Юрьевич": 19,
-      "Чепа Алексей Васильевич": 37
+      "gas:candidate-vibid:26920001038978": 45,
+      "gas:candidate-vibid:26920001031524": 26,
+      "gas:candidate-vibid:26920001041178": 8,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 67,
+      "gas:candidate-vibid:26920001026315": 19,
+      "gas:candidate-vibid:26920001033851": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -1981,13 +1981,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 16,
-      "Воробьёва Людмила Фёдоровна": 11,
-      "Дешёвкин Вадим Николаевич": 4,
-      "Клейменов Илья Юрьевич": 10,
-      "Максимова Светлана Викторовна": 28,
-      "Морозов Антон Юрьевич": 5,
-      "Чепа Алексей Васильевич": 17
+      "gas:candidate-vibid:26920001038978": 16,
+      "gas:candidate-vibid:26920001031524": 11,
+      "gas:candidate-vibid:26920001041178": 4,
+      "gas:candidate-vibid:26920001031509": 10,
+      "gas:candidate-vibid:26920001036855": 28,
+      "gas:candidate-vibid:26920001026315": 5,
+      "gas:candidate-vibid:26920001033851": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -2038,13 +2038,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 15,
-      "Воробьёва Людмила Фёдоровна": 17,
-      "Дешёвкин Вадим Николаевич": 6,
-      "Клейменов Илья Юрьевич": 6,
-      "Максимова Светлана Викторовна": 65,
-      "Морозов Антон Юрьевич": 13,
-      "Чепа Алексей Васильевич": 22
+      "gas:candidate-vibid:26920001038978": 15,
+      "gas:candidate-vibid:26920001031524": 17,
+      "gas:candidate-vibid:26920001041178": 6,
+      "gas:candidate-vibid:26920001031509": 6,
+      "gas:candidate-vibid:26920001036855": 65,
+      "gas:candidate-vibid:26920001026315": 13,
+      "gas:candidate-vibid:26920001033851": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -2095,13 +2095,13 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алексеев Игорь Анатольевич": 8,
-      "Воробьёва Людмила Фёдоровна": 7,
-      "Дешёвкин Вадим Николаевич": 1,
-      "Клейменов Илья Юрьевич": 2,
-      "Максимова Светлана Викторовна": 9,
-      "Морозов Антон Юрьевич": 3,
-      "Чепа Алексей Васильевич": 18
+      "gas:candidate-vibid:26920001038978": 8,
+      "gas:candidate-vibid:26920001031524": 7,
+      "gas:candidate-vibid:26920001041178": 1,
+      "gas:candidate-vibid:26920001031509": 2,
+      "gas:candidate-vibid:26920001036855": 9,
+      "gas:candidate-vibid:26920001026315": 3,
+      "gas:candidate-vibid:26920001033851": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000236&tvd=2692000982900&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000982900&type=464",
@@ -2152,15 +2152,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 120,
-      "Белова Марина Викторовна": 64,
-      "Васильев Владимир Абдуалиевич": 359,
-      "Гончаров Артем Сергеевич": 104,
-      "Каноков Тимур Борисович": 72,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 20,
-      "Сорокин Александр Сергеевич": 31,
-      "Шкляр Вадим Владимирович": 12
+      "gas:candidate-vibid:26920001025603": 120,
+      "gas:candidate-vibid:26920001034061": 64,
+      "gas:candidate-vibid:26920001036650": 359,
+      "gas:candidate-vibid:26920001032813": 104,
+      "gas:candidate-vibid:26920001040910": 72,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 20,
+      "gas:candidate-vibid:26920001040821": 31,
+      "gas:candidate-vibid:26920001040853": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2211,15 +2211,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 106,
-      "Белова Марина Викторовна": 50,
-      "Васильев Владимир Абдуалиевич": 340,
-      "Гончаров Артем Сергеевич": 83,
-      "Каноков Тимур Борисович": 82,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 22,
-      "Сорокин Александр Сергеевич": 32,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 106,
+      "gas:candidate-vibid:26920001034061": 50,
+      "gas:candidate-vibid:26920001036650": 340,
+      "gas:candidate-vibid:26920001032813": 83,
+      "gas:candidate-vibid:26920001040910": 82,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 22,
+      "gas:candidate-vibid:26920001040821": 32,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2270,15 +2270,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 23,
-      "Белова Марина Викторовна": 23,
-      "Васильев Владимир Абдуалиевич": 134,
-      "Гончаров Артем Сергеевич": 22,
-      "Каноков Тимур Борисович": 19,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 11,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 23,
+      "gas:candidate-vibid:26920001034061": 23,
+      "gas:candidate-vibid:26920001036650": 134,
+      "gas:candidate-vibid:26920001032813": 22,
+      "gas:candidate-vibid:26920001040910": 19,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 11,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2329,15 +2329,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 16,
-      "Белова Марина Викторовна": 5,
-      "Васильев Владимир Абдуалиевич": 193,
-      "Гончаров Артем Сергеевич": 25,
-      "Каноков Тимур Борисович": 15,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 16,
+      "gas:candidate-vibid:26920001034061": 5,
+      "gas:candidate-vibid:26920001036650": 193,
+      "gas:candidate-vibid:26920001032813": 25,
+      "gas:candidate-vibid:26920001040910": 15,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2388,15 +2388,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 24,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 54,
-      "Гончаров Артем Сергеевич": 19,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 24,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 54,
+      "gas:candidate-vibid:26920001032813": 19,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2447,15 +2447,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 11,
-      "Васильев Владимир Абдуалиевич": 57,
-      "Гончаров Артем Сергеевич": 10,
-      "Каноков Тимур Борисович": 6,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 11,
+      "gas:candidate-vibid:26920001036650": 57,
+      "gas:candidate-vibid:26920001032813": 10,
+      "gas:candidate-vibid:26920001040910": 6,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2506,15 +2506,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 30,
-      "Белова Марина Викторовна": 37,
-      "Васильев Владимир Абдуалиевич": 194,
-      "Гончаров Артем Сергеевич": 42,
-      "Каноков Тимур Борисович": 31,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 21,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 30,
+      "gas:candidate-vibid:26920001034061": 37,
+      "gas:candidate-vibid:26920001036650": 194,
+      "gas:candidate-vibid:26920001032813": 42,
+      "gas:candidate-vibid:26920001040910": 31,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 21,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2565,15 +2565,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 14,
-      "Белова Марина Викторовна": 3,
-      "Васильев Владимир Абдуалиевич": 98,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 18,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 14,
+      "gas:candidate-vibid:26920001034061": 3,
+      "gas:candidate-vibid:26920001036650": 98,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 18,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2624,15 +2624,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 6,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 55,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 14,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 6,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 55,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 14,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2683,15 +2683,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 17,
-      "Белова Марина Викторовна": 2,
-      "Васильев Владимир Абдуалиевич": 38,
-      "Гончаров Артем Сергеевич": 16,
-      "Каноков Тимур Борисович": 2,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 17,
+      "gas:candidate-vibid:26920001034061": 2,
+      "gas:candidate-vibid:26920001036650": 38,
+      "gas:candidate-vibid:26920001032813": 16,
+      "gas:candidate-vibid:26920001040910": 2,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2742,15 +2742,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 4,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 25,
-      "Гончаров Артем Сергеевич": 8,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 11,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 4,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 25,
+      "gas:candidate-vibid:26920001032813": 8,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 11,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2801,15 +2801,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 10,
-      "Белова Марина Викторовна": 22,
-      "Васильев Владимир Абдуалиевич": 65,
-      "Гончаров Артем Сергеевич": 9,
-      "Каноков Тимур Борисович": 15,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 1,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 10,
+      "gas:candidate-vibid:26920001034061": 22,
+      "gas:candidate-vibid:26920001036650": 65,
+      "gas:candidate-vibid:26920001032813": 9,
+      "gas:candidate-vibid:26920001040910": 15,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 1,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2860,15 +2860,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 5,
-      "Белова Марина Викторовна": 1,
-      "Васильев Владимир Абдуалиевич": 39,
-      "Гончаров Артем Сергеевич": 5,
-      "Каноков Тимур Борисович": 2,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 5,
+      "gas:candidate-vibid:26920001034061": 1,
+      "gas:candidate-vibid:26920001036650": 39,
+      "gas:candidate-vibid:26920001032813": 5,
+      "gas:candidate-vibid:26920001040910": 2,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983807&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983807&type=464",
@@ -2919,15 +2919,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 68,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 285,
-      "Гончаров Артем Сергеевич": 61,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 16,
-      "Сорокин Александр Сергеевич": 11,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 68,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 285,
+      "gas:candidate-vibid:26920001032813": 61,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 16,
+      "gas:candidate-vibid:26920001040821": 11,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -2978,15 +2978,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 55,
-      "Белова Марина Викторовна": 14,
-      "Васильев Владимир Абдуалиевич": 297,
-      "Гончаров Артем Сергеевич": 72,
-      "Каноков Тимур Борисович": 54,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 7,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 55,
+      "gas:candidate-vibid:26920001034061": 14,
+      "gas:candidate-vibid:26920001036650": 297,
+      "gas:candidate-vibid:26920001032813": 72,
+      "gas:candidate-vibid:26920001040910": 54,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 7,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3037,15 +3037,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 22,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 112,
-      "Гончаров Артем Сергеевич": 23,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 22,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 112,
+      "gas:candidate-vibid:26920001032813": 23,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3096,15 +3096,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 36,
-      "Белова Марина Викторовна": 9,
-      "Васильев Владимир Абдуалиевич": 149,
-      "Гончаров Артем Сергеевич": 33,
-      "Каноков Тимур Борисович": 27,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 6,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 36,
+      "gas:candidate-vibid:26920001034061": 9,
+      "gas:candidate-vibid:26920001036650": 149,
+      "gas:candidate-vibid:26920001032813": 33,
+      "gas:candidate-vibid:26920001040910": 27,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 6,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3155,15 +3155,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 47,
-      "Белова Марина Викторовна": 13,
-      "Васильев Владимир Абдуалиевич": 250,
-      "Гончаров Артем Сергеевич": 52,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 47,
+      "gas:candidate-vibid:26920001034061": 13,
+      "gas:candidate-vibid:26920001036650": 250,
+      "gas:candidate-vibid:26920001032813": 52,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3214,15 +3214,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 59,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 200,
-      "Гончаров Артем Сергеевич": 34,
-      "Каноков Тимур Борисович": 37,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 7
+      "gas:candidate-vibid:26920001025603": 59,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 200,
+      "gas:candidate-vibid:26920001032813": 34,
+      "gas:candidate-vibid:26920001040910": 37,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3273,15 +3273,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 26,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 59,
-      "Гончаров Артем Сергеевич": 28,
-      "Каноков Тимур Борисович": 12,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 26,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 59,
+      "gas:candidate-vibid:26920001032813": 28,
+      "gas:candidate-vibid:26920001040910": 12,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3332,15 +3332,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 21,
-      "Белова Марина Викторовна": 9,
-      "Васильев Владимир Абдуалиевич": 102,
-      "Гончаров Артем Сергеевич": 14,
-      "Каноков Тимур Борисович": 18,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 7,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 21,
+      "gas:candidate-vibid:26920001034061": 9,
+      "gas:candidate-vibid:26920001036650": 102,
+      "gas:candidate-vibid:26920001032813": 14,
+      "gas:candidate-vibid:26920001040910": 18,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 7,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3391,15 +3391,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 34,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 94,
-      "Гончаров Артем Сергеевич": 19,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 34,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 94,
+      "gas:candidate-vibid:26920001032813": 19,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3450,15 +3450,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 34,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 148,
-      "Гончаров Артем Сергеевич": 36,
-      "Каноков Тимур Борисович": 23,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 10,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 34,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 148,
+      "gas:candidate-vibid:26920001032813": 36,
+      "gas:candidate-vibid:26920001040910": 23,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 10,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3509,15 +3509,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 39,
-      "Белова Марина Викторовна": 13,
-      "Васильев Владимир Абдуалиевич": 170,
-      "Гончаров Артем Сергеевич": 30,
-      "Каноков Тимур Борисович": 22,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 39,
+      "gas:candidate-vibid:26920001034061": 13,
+      "gas:candidate-vibid:26920001036650": 170,
+      "gas:candidate-vibid:26920001032813": 30,
+      "gas:candidate-vibid:26920001040910": 22,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3568,15 +3568,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 72,
-      "Белова Марина Викторовна": 17,
-      "Васильев Владимир Абдуалиевич": 301,
-      "Гончаров Артем Сергеевич": 95,
-      "Каноков Тимур Борисович": 69,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 18,
-      "Сорокин Александр Сергеевич": 19,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 72,
+      "gas:candidate-vibid:26920001034061": 17,
+      "gas:candidate-vibid:26920001036650": 301,
+      "gas:candidate-vibid:26920001032813": 95,
+      "gas:candidate-vibid:26920001040910": 69,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 18,
+      "gas:candidate-vibid:26920001040821": 19,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3627,15 +3627,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 38,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 242,
-      "Гончаров Артем Сергеевич": 27,
-      "Каноков Тимур Борисович": 17,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 38,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 242,
+      "gas:candidate-vibid:26920001032813": 27,
+      "gas:candidate-vibid:26920001040910": 17,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3686,15 +3686,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 18,
-      "Белова Марина Викторовна": 13,
-      "Васильев Владимир Абдуалиевич": 169,
-      "Гончаров Артем Сергеевич": 21,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 18,
+      "gas:candidate-vibid:26920001034061": 13,
+      "gas:candidate-vibid:26920001036650": 169,
+      "gas:candidate-vibid:26920001032813": 21,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3745,15 +3745,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 7,
-      "Белова Марина Викторовна": 11,
-      "Васильев Владимир Абдуалиевич": 66,
-      "Гончаров Артем Сергеевич": 17,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 1,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 7,
+      "gas:candidate-vibid:26920001034061": 11,
+      "gas:candidate-vibid:26920001036650": 66,
+      "gas:candidate-vibid:26920001032813": 17,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 1,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3804,15 +3804,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 31,
-      "Белова Марина Викторовна": 22,
-      "Васильев Владимир Абдуалиевич": 248,
-      "Гончаров Артем Сергеевич": 43,
-      "Каноков Тимур Борисович": 26,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 19,
-      "Сорокин Александр Сергеевич": 10,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 31,
+      "gas:candidate-vibid:26920001034061": 22,
+      "gas:candidate-vibid:26920001036650": 248,
+      "gas:candidate-vibid:26920001032813": 43,
+      "gas:candidate-vibid:26920001040910": 26,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 19,
+      "gas:candidate-vibid:26920001040821": 10,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3863,15 +3863,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 2,
-      "Васильев Владимир Абдуалиевич": 80,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 2,
+      "gas:candidate-vibid:26920001036650": 80,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3922,15 +3922,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 9,
-      "Белова Марина Викторовна": 2,
-      "Васильев Владимир Абдуалиевич": 68,
-      "Гончаров Артем Сергеевич": 9,
-      "Каноков Тимур Борисович": 2,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 5,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 9,
+      "gas:candidate-vibid:26920001034061": 2,
+      "gas:candidate-vibid:26920001036650": 68,
+      "gas:candidate-vibid:26920001032813": 9,
+      "gas:candidate-vibid:26920001040910": 2,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 5,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -3981,15 +3981,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 26,
-      "Белова Марина Викторовна": 9,
-      "Васильев Владимир Абдуалиевич": 77,
-      "Гончаров Артем Сергеевич": 32,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 26,
+      "gas:candidate-vibid:26920001034061": 9,
+      "gas:candidate-vibid:26920001036650": 77,
+      "gas:candidate-vibid:26920001032813": 32,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4040,15 +4040,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 20,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 112,
-      "Гончаров Артем Сергеевич": 20,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 7,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 20,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 112,
+      "gas:candidate-vibid:26920001032813": 20,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 7,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4099,15 +4099,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 18,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 169,
-      "Гончаров Артем Сергеевич": 20,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 18,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 169,
+      "gas:candidate-vibid:26920001032813": 20,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4158,15 +4158,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 8,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 82,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 10,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 8,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 82,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 10,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4217,15 +4217,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 33,
-      "Белова Марина Викторовна": 17,
-      "Васильев Владимир Абдуалиевич": 241,
-      "Гончаров Артем Сергеевич": 34,
-      "Каноков Тимур Борисович": 38,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 6,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 33,
+      "gas:candidate-vibid:26920001034061": 17,
+      "gas:candidate-vibid:26920001036650": 241,
+      "gas:candidate-vibid:26920001032813": 34,
+      "gas:candidate-vibid:26920001040910": 38,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 6,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4276,15 +4276,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 17,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 93,
-      "Гончаров Артем Сергеевич": 24,
-      "Каноков Тимур Борисович": 16,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 17,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 93,
+      "gas:candidate-vibid:26920001032813": 24,
+      "gas:candidate-vibid:26920001040910": 16,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4335,15 +4335,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 11,
-      "Белова Марина Викторовна": 1,
-      "Васильев Владимир Абдуалиевич": 91,
-      "Гончаров Артем Сергеевич": 7,
-      "Каноков Тимур Борисович": 12,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 11,
+      "gas:candidate-vibid:26920001034061": 1,
+      "gas:candidate-vibid:26920001036650": 91,
+      "gas:candidate-vibid:26920001032813": 7,
+      "gas:candidate-vibid:26920001040910": 12,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4394,15 +4394,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 6,
-      "Васильев Владимир Абдуалиевич": 105,
-      "Гончаров Артем Сергеевич": 17,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 6,
+      "gas:candidate-vibid:26920001036650": 105,
+      "gas:candidate-vibid:26920001032813": 17,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4453,15 +4453,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 23,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 163,
-      "Гончаров Артем Сергеевич": 16,
-      "Каноков Тимур Борисович": 14,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 23,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 163,
+      "gas:candidate-vibid:26920001032813": 16,
+      "gas:candidate-vibid:26920001040910": 14,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983808&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983808&type=464",
@@ -4512,15 +4512,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 60,
-      "Белова Марина Викторовна": 56,
-      "Васильев Владимир Абдуалиевич": 282,
-      "Гончаров Артем Сергеевич": 93,
-      "Каноков Тимур Борисович": 65,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 16,
-      "Сорокин Александр Сергеевич": 19,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 60,
+      "gas:candidate-vibid:26920001034061": 56,
+      "gas:candidate-vibid:26920001036650": 282,
+      "gas:candidate-vibid:26920001032813": 93,
+      "gas:candidate-vibid:26920001040910": 65,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 16,
+      "gas:candidate-vibid:26920001040821": 19,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4571,15 +4571,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 76,
-      "Белова Марина Викторовна": 97,
-      "Васильев Владимир Абдуалиевич": 296,
-      "Гончаров Артем Сергеевич": 120,
-      "Каноков Тимур Борисович": 64,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 19,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 76,
+      "gas:candidate-vibid:26920001034061": 97,
+      "gas:candidate-vibid:26920001036650": 296,
+      "gas:candidate-vibid:26920001032813": 120,
+      "gas:candidate-vibid:26920001040910": 64,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 19,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4630,15 +4630,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 90,
-      "Белова Марина Викторовна": 58,
-      "Васильев Владимир Абдуалиевич": 297,
-      "Гончаров Артем Сергеевич": 132,
-      "Каноков Тимур Борисович": 64,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 29,
-      "Сорокин Александр Сергеевич": 15,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 90,
+      "gas:candidate-vibid:26920001034061": 58,
+      "gas:candidate-vibid:26920001036650": 297,
+      "gas:candidate-vibid:26920001032813": 132,
+      "gas:candidate-vibid:26920001040910": 64,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 29,
+      "gas:candidate-vibid:26920001040821": 15,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4689,15 +4689,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 86,
-      "Белова Марина Викторовна": 72,
-      "Васильев Владимир Абдуалиевич": 286,
-      "Гончаров Артем Сергеевич": 107,
-      "Каноков Тимур Борисович": 90,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 32,
-      "Сорокин Александр Сергеевич": 16,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 86,
+      "gas:candidate-vibid:26920001034061": 72,
+      "gas:candidate-vibid:26920001036650": 286,
+      "gas:candidate-vibid:26920001032813": 107,
+      "gas:candidate-vibid:26920001040910": 90,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 32,
+      "gas:candidate-vibid:26920001040821": 16,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4748,15 +4748,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 75,
-      "Белова Марина Викторовна": 84,
-      "Васильев Владимир Абдуалиевич": 290,
-      "Гончаров Артем Сергеевич": 111,
-      "Каноков Тимур Борисович": 66,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 27,
-      "Сорокин Александр Сергеевич": 24,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 75,
+      "gas:candidate-vibid:26920001034061": 84,
+      "gas:candidate-vibid:26920001036650": 290,
+      "gas:candidate-vibid:26920001032813": 111,
+      "gas:candidate-vibid:26920001040910": 66,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 27,
+      "gas:candidate-vibid:26920001040821": 24,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4807,15 +4807,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 177,
-      "Белова Марина Викторовна": 103,
-      "Васильев Владимир Абдуалиевич": 432,
-      "Гончаров Артем Сергеевич": 106,
-      "Каноков Тимур Борисович": 70,
-      "Комарницкий Роман Русланович": 10,
-      "Слитинский Дмитрий Юрьевич": 28,
-      "Сорокин Александр Сергеевич": 22,
-      "Шкляр Вадим Владимирович": 15
+      "gas:candidate-vibid:26920001025603": 177,
+      "gas:candidate-vibid:26920001034061": 103,
+      "gas:candidate-vibid:26920001036650": 432,
+      "gas:candidate-vibid:26920001032813": 106,
+      "gas:candidate-vibid:26920001040910": 70,
+      "gas:candidate-vibid:26920001040874": 10,
+      "gas:candidate-vibid:26920001031491": 28,
+      "gas:candidate-vibid:26920001040821": 22,
+      "gas:candidate-vibid:26920001040853": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4866,15 +4866,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 37,
-      "Белова Марина Викторовна": 48,
-      "Васильев Владимир Абдуалиевич": 185,
-      "Гончаров Артем Сергеевич": 81,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 10,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 37,
+      "gas:candidate-vibid:26920001034061": 48,
+      "gas:candidate-vibid:26920001036650": 185,
+      "gas:candidate-vibid:26920001032813": 81,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 10,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4925,15 +4925,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 72,
-      "Белова Марина Викторовна": 66,
-      "Васильев Владимир Абдуалиевич": 230,
-      "Гончаров Артем Сергеевич": 83,
-      "Каноков Тимур Борисович": 47,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 25,
-      "Шкляр Вадим Владимирович": 7
+      "gas:candidate-vibid:26920001025603": 72,
+      "gas:candidate-vibid:26920001034061": 66,
+      "gas:candidate-vibid:26920001036650": 230,
+      "gas:candidate-vibid:26920001032813": 83,
+      "gas:candidate-vibid:26920001040910": 47,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 25,
+      "gas:candidate-vibid:26920001040853": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -4984,15 +4984,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 51,
-      "Белова Марина Викторовна": 49,
-      "Васильев Владимир Абдуалиевич": 193,
-      "Гончаров Артем Сергеевич": 54,
-      "Каноков Тимур Борисович": 35,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 13,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 51,
+      "gas:candidate-vibid:26920001034061": 49,
+      "gas:candidate-vibid:26920001036650": 193,
+      "gas:candidate-vibid:26920001032813": 54,
+      "gas:candidate-vibid:26920001040910": 35,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 13,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5043,15 +5043,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 86,
-      "Белова Марина Викторовна": 47,
-      "Васильев Владимир Абдуалиевич": 334,
-      "Гончаров Артем Сергеевич": 83,
-      "Каноков Тимур Борисович": 88,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 19,
-      "Сорокин Александр Сергеевич": 18,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 86,
+      "gas:candidate-vibid:26920001034061": 47,
+      "gas:candidate-vibid:26920001036650": 334,
+      "gas:candidate-vibid:26920001032813": 83,
+      "gas:candidate-vibid:26920001040910": 88,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 19,
+      "gas:candidate-vibid:26920001040821": 18,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5102,15 +5102,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 71,
-      "Белова Марина Викторовна": 55,
-      "Васильев Владимир Абдуалиевич": 260,
-      "Гончаров Артем Сергеевич": 84,
-      "Каноков Тимур Борисович": 52,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 16,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 11
+      "gas:candidate-vibid:26920001025603": 71,
+      "gas:candidate-vibid:26920001034061": 55,
+      "gas:candidate-vibid:26920001036650": 260,
+      "gas:candidate-vibid:26920001032813": 84,
+      "gas:candidate-vibid:26920001040910": 52,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 16,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5161,15 +5161,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 65,
-      "Белова Марина Викторовна": 44,
-      "Васильев Владимир Абдуалиевич": 311,
-      "Гончаров Артем Сергеевич": 99,
-      "Каноков Тимур Борисович": 67,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 23,
-      "Сорокин Александр Сергеевич": 17,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 65,
+      "gas:candidate-vibid:26920001034061": 44,
+      "gas:candidate-vibid:26920001036650": 311,
+      "gas:candidate-vibid:26920001032813": 99,
+      "gas:candidate-vibid:26920001040910": 67,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 23,
+      "gas:candidate-vibid:26920001040821": 17,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5220,15 +5220,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 83,
-      "Белова Марина Викторовна": 53,
-      "Васильев Владимир Абдуалиевич": 363,
-      "Гончаров Артем Сергеевич": 115,
-      "Каноков Тимур Борисович": 91,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 13,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 83,
+      "gas:candidate-vibid:26920001034061": 53,
+      "gas:candidate-vibid:26920001036650": 363,
+      "gas:candidate-vibid:26920001032813": 115,
+      "gas:candidate-vibid:26920001040910": 91,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 13,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5279,15 +5279,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 71,
-      "Белова Марина Викторовна": 70,
-      "Васильев Владимир Абдуалиевич": 295,
-      "Гончаров Артем Сергеевич": 85,
-      "Каноков Тимур Борисович": 72,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 18,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 71,
+      "gas:candidate-vibid:26920001034061": 70,
+      "gas:candidate-vibid:26920001036650": 295,
+      "gas:candidate-vibid:26920001032813": 85,
+      "gas:candidate-vibid:26920001040910": 72,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 18,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5338,15 +5338,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 72,
-      "Белова Марина Викторовна": 82,
-      "Васильев Владимир Абдуалиевич": 326,
-      "Гончаров Артем Сергеевич": 88,
-      "Каноков Тимур Борисович": 84,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 12,
-      "Сорокин Александр Сергеевич": 22,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 72,
+      "gas:candidate-vibid:26920001034061": 82,
+      "gas:candidate-vibid:26920001036650": 326,
+      "gas:candidate-vibid:26920001032813": 88,
+      "gas:candidate-vibid:26920001040910": 84,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 12,
+      "gas:candidate-vibid:26920001040821": 22,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5397,15 +5397,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 60,
-      "Белова Марина Викторовна": 36,
-      "Васильев Владимир Абдуалиевич": 230,
-      "Гончаров Артем Сергеевич": 68,
-      "Каноков Тимур Борисович": 62,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 17,
-      "Сорокин Александр Сергеевич": 12,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 60,
+      "gas:candidate-vibid:26920001034061": 36,
+      "gas:candidate-vibid:26920001036650": 230,
+      "gas:candidate-vibid:26920001032813": 68,
+      "gas:candidate-vibid:26920001040910": 62,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 17,
+      "gas:candidate-vibid:26920001040821": 12,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5456,15 +5456,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 71,
-      "Белова Марина Викторовна": 39,
-      "Васильев Владимир Абдуалиевич": 250,
-      "Гончаров Артем Сергеевич": 79,
-      "Каноков Тимур Борисович": 56,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 17,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 71,
+      "gas:candidate-vibid:26920001034061": 39,
+      "gas:candidate-vibid:26920001036650": 250,
+      "gas:candidate-vibid:26920001032813": 79,
+      "gas:candidate-vibid:26920001040910": 56,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 17,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5515,15 +5515,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 56,
-      "Белова Марина Викторовна": 35,
-      "Васильев Владимир Абдуалиевич": 173,
-      "Гончаров Артем Сергеевич": 49,
-      "Каноков Тимур Борисович": 35,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 10,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 56,
+      "gas:candidate-vibid:26920001034061": 35,
+      "gas:candidate-vibid:26920001036650": 173,
+      "gas:candidate-vibid:26920001032813": 49,
+      "gas:candidate-vibid:26920001040910": 35,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 10,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5574,15 +5574,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 55,
-      "Белова Марина Викторовна": 36,
-      "Васильев Владимир Абдуалиевич": 192,
-      "Гончаров Артем Сергеевич": 50,
-      "Каноков Тимур Борисович": 34,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 55,
+      "gas:candidate-vibid:26920001034061": 36,
+      "gas:candidate-vibid:26920001036650": 192,
+      "gas:candidate-vibid:26920001032813": 50,
+      "gas:candidate-vibid:26920001040910": 34,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5633,15 +5633,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 88,
-      "Белова Марина Викторовна": 39,
-      "Васильев Владимир Абдуалиевич": 230,
-      "Гончаров Артем Сергеевич": 67,
-      "Каноков Тимур Борисович": 56,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 19,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 88,
+      "gas:candidate-vibid:26920001034061": 39,
+      "gas:candidate-vibid:26920001036650": 230,
+      "gas:candidate-vibid:26920001032813": 67,
+      "gas:candidate-vibid:26920001040910": 56,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 19,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5692,15 +5692,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 55,
-      "Белова Марина Викторовна": 53,
-      "Васильев Владимир Абдуалиевич": 235,
-      "Гончаров Артем Сергеевич": 71,
-      "Каноков Тимур Борисович": 49,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 11,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 55,
+      "gas:candidate-vibid:26920001034061": 53,
+      "gas:candidate-vibid:26920001036650": 235,
+      "gas:candidate-vibid:26920001032813": 71,
+      "gas:candidate-vibid:26920001040910": 49,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 11,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5751,15 +5751,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 85,
-      "Белова Марина Викторовна": 65,
-      "Васильев Владимир Абдуалиевич": 274,
-      "Гончаров Артем Сергеевич": 92,
-      "Каноков Тимур Борисович": 74,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 16,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 85,
+      "gas:candidate-vibid:26920001034061": 65,
+      "gas:candidate-vibid:26920001036650": 274,
+      "gas:candidate-vibid:26920001032813": 92,
+      "gas:candidate-vibid:26920001040910": 74,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 16,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5810,15 +5810,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 25,
-      "Белова Марина Викторовна": 11,
-      "Васильев Владимир Абдуалиевич": 101,
-      "Гончаров Артем Сергеевич": 25,
-      "Каноков Тимур Борисович": 31,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 25,
+      "gas:candidate-vibid:26920001034061": 11,
+      "gas:candidate-vibid:26920001036650": 101,
+      "gas:candidate-vibid:26920001032813": 25,
+      "gas:candidate-vibid:26920001040910": 31,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5869,15 +5869,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 9,
-      "Белова Марина Викторовна": 10,
-      "Васильев Владимир Абдуалиевич": 40,
-      "Гончаров Артем Сергеевич": 14,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 9,
+      "gas:candidate-vibid:26920001034061": 10,
+      "gas:candidate-vibid:26920001036650": 40,
+      "gas:candidate-vibid:26920001032813": 14,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983809&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983809&type=464",
@@ -5928,15 +5928,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 6,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 52,
-      "Гончаров Артем Сергеевич": 5,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 6,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 52,
+      "gas:candidate-vibid:26920001032813": 5,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -5987,15 +5987,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 2,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 38,
-      "Гончаров Артем Сергеевич": 16,
-      "Каноков Тимур Борисович": 4,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 2,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 38,
+      "gas:candidate-vibid:26920001032813": 16,
+      "gas:candidate-vibid:26920001040910": 4,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6046,15 +6046,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 11,
-      "Белова Марина Викторовна": 14,
-      "Васильев Владимир Абдуалиевич": 137,
-      "Гончаров Артем Сергеевич": 13,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 11,
+      "gas:candidate-vibid:26920001034061": 14,
+      "gas:candidate-vibid:26920001036650": 137,
+      "gas:candidate-vibid:26920001032813": 13,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6105,15 +6105,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 21,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 196,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 21,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 196,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6164,15 +6164,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 7,
-      "Белова Марина Викторовна": 42,
-      "Васильев Владимир Абдуалиевич": 88,
-      "Гончаров Артем Сергеевич": 15,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 1,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 7,
+      "gas:candidate-vibid:26920001034061": 42,
+      "gas:candidate-vibid:26920001036650": 88,
+      "gas:candidate-vibid:26920001032813": 15,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 1,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6223,15 +6223,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 25,
-      "Белова Марина Викторовна": 17,
-      "Васильев Владимир Абдуалиевич": 137,
-      "Гончаров Артем Сергеевич": 27,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 25,
+      "gas:candidate-vibid:26920001034061": 17,
+      "gas:candidate-vibid:26920001036650": 137,
+      "gas:candidate-vibid:26920001032813": 27,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6282,15 +6282,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 22,
-      "Белова Марина Викторовна": 20,
-      "Васильев Владимир Абдуалиевич": 80,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 17,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 22,
+      "gas:candidate-vibid:26920001034061": 20,
+      "gas:candidate-vibid:26920001036650": 80,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 17,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6341,15 +6341,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 40,
-      "Белова Марина Викторовна": 32,
-      "Васильев Владимир Абдуалиевич": 187,
-      "Гончаров Артем Сергеевич": 37,
-      "Каноков Тимур Борисович": 28,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 12,
-      "Сорокин Александр Сергеевич": 7,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 40,
+      "gas:candidate-vibid:26920001034061": 32,
+      "gas:candidate-vibid:26920001036650": 187,
+      "gas:candidate-vibid:26920001032813": 37,
+      "gas:candidate-vibid:26920001040910": 28,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 12,
+      "gas:candidate-vibid:26920001040821": 7,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6400,15 +6400,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 75,
-      "Гончаров Артем Сергеевич": 19,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 75,
+      "gas:candidate-vibid:26920001032813": 19,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6459,15 +6459,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 63,
-      "Белова Марина Викторовна": 25,
-      "Васильев Владимир Абдуалиевич": 379,
-      "Гончаров Артем Сергеевич": 36,
-      "Каноков Тимур Борисович": 49,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 12,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 63,
+      "gas:candidate-vibid:26920001034061": 25,
+      "gas:candidate-vibid:26920001036650": 379,
+      "gas:candidate-vibid:26920001032813": 36,
+      "gas:candidate-vibid:26920001040910": 49,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 12,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6518,15 +6518,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 20,
-      "Белова Марина Викторовна": 34,
-      "Васильев Владимир Абдуалиевич": 166,
-      "Гончаров Артем Сергеевич": 20,
-      "Каноков Тимур Борисович": 22,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 20,
+      "gas:candidate-vibid:26920001034061": 34,
+      "gas:candidate-vibid:26920001036650": 166,
+      "gas:candidate-vibid:26920001032813": 20,
+      "gas:candidate-vibid:26920001040910": 22,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6577,15 +6577,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 10,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 167,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 10,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 10,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 167,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 10,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6636,15 +6636,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 241,
-      "Гончаров Артем Сергеевич": 24,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 241,
+      "gas:candidate-vibid:26920001032813": 24,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6695,15 +6695,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 20,
-      "Белова Марина Викторовна": 6,
-      "Васильев Владимир Абдуалиевич": 207,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 10,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 20,
+      "gas:candidate-vibid:26920001034061": 6,
+      "gas:candidate-vibid:26920001036650": 207,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 10,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6754,15 +6754,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 18,
-      "Белова Марина Викторовна": 18,
-      "Васильев Владимир Абдуалиевич": 153,
-      "Гончаров Артем Сергеевич": 34,
-      "Каноков Тимур Борисович": 25,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 18,
+      "gas:candidate-vibid:26920001034061": 18,
+      "gas:candidate-vibid:26920001036650": 153,
+      "gas:candidate-vibid:26920001032813": 34,
+      "gas:candidate-vibid:26920001040910": 25,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6813,15 +6813,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 31,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 140,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 4,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 31,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 140,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 4,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6872,15 +6872,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 28,
-      "Белова Марина Викторовна": 18,
-      "Васильев Владимир Абдуалиевич": 139,
-      "Гончаров Артем Сергеевич": 14,
-      "Каноков Тимур Борисович": 24,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 28,
+      "gas:candidate-vibid:26920001034061": 18,
+      "gas:candidate-vibid:26920001036650": 139,
+      "gas:candidate-vibid:26920001032813": 14,
+      "gas:candidate-vibid:26920001040910": 24,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6931,15 +6931,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 30,
-      "Белова Марина Викторовна": 21,
-      "Васильев Владимир Абдуалиевич": 284,
-      "Гончаров Артем Сергеевич": 35,
-      "Каноков Тимур Борисович": 23,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 12,
-      "Сорокин Александр Сергеевич": 6,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 30,
+      "gas:candidate-vibid:26920001034061": 21,
+      "gas:candidate-vibid:26920001036650": 284,
+      "gas:candidate-vibid:26920001032813": 35,
+      "gas:candidate-vibid:26920001040910": 23,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 12,
+      "gas:candidate-vibid:26920001040821": 6,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -6990,15 +6990,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 59,
-      "Белова Марина Викторовна": 34,
-      "Васильев Владимир Абдуалиевич": 367,
-      "Гончаров Артем Сергеевич": 43,
-      "Каноков Тимур Борисович": 48,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 10,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 59,
+      "gas:candidate-vibid:26920001034061": 34,
+      "gas:candidate-vibid:26920001036650": 367,
+      "gas:candidate-vibid:26920001032813": 43,
+      "gas:candidate-vibid:26920001040910": 48,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 10,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7049,15 +7049,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 17,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 92,
-      "Гончаров Артем Сергеевич": 24,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 17,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 92,
+      "gas:candidate-vibid:26920001032813": 24,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7108,15 +7108,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 21,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 139,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 21,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 139,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7167,15 +7167,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 140,
-      "Гончаров Артем Сергеевич": 25,
-      "Каноков Тимур Борисович": 14,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 140,
+      "gas:candidate-vibid:26920001032813": 25,
+      "gas:candidate-vibid:26920001040910": 14,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7226,15 +7226,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 10,
-      "Васильев Владимир Абдуалиевич": 66,
-      "Гончаров Артем Сергеевич": 20,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 10,
+      "gas:candidate-vibid:26920001036650": 66,
+      "gas:candidate-vibid:26920001032813": 20,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7285,15 +7285,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 17,
-      "Белова Марина Викторовна": 11,
-      "Васильев Владимир Абдуалиевич": 86,
-      "Гончаров Артем Сергеевич": 35,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 17,
+      "gas:candidate-vibid:26920001034061": 11,
+      "gas:candidate-vibid:26920001036650": 86,
+      "gas:candidate-vibid:26920001032813": 35,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7344,15 +7344,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 10,
-      "Белова Марина Викторовна": 18,
-      "Васильев Владимир Абдуалиевич": 183,
-      "Гончаров Артем Сергеевич": 26,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 10,
+      "gas:candidate-vibid:26920001034061": 18,
+      "gas:candidate-vibid:26920001036650": 183,
+      "gas:candidate-vibid:26920001032813": 26,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7403,15 +7403,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 34,
-      "Белова Марина Викторовна": 64,
-      "Васильев Владимир Абдуалиевич": 124,
-      "Гончаров Артем Сергеевич": 31,
-      "Каноков Тимур Борисович": 14,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 34,
+      "gas:candidate-vibid:26920001034061": 64,
+      "gas:candidate-vibid:26920001036650": 124,
+      "gas:candidate-vibid:26920001032813": 31,
+      "gas:candidate-vibid:26920001040910": 14,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7462,15 +7462,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 11,
-      "Белова Марина Викторовна": 0,
-      "Васильев Владимир Абдуалиевич": 101,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 11,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 14,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 11,
+      "gas:candidate-vibid:26920001034061": 0,
+      "gas:candidate-vibid:26920001036650": 101,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 11,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 14,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7521,15 +7521,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 8,
-      "Белова Марина Викторовна": 5,
-      "Васильев Владимир Абдуалиевич": 92,
-      "Гончаров Артем Сергеевич": 8,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 8,
+      "gas:candidate-vibid:26920001034061": 5,
+      "gas:candidate-vibid:26920001036650": 92,
+      "gas:candidate-vibid:26920001032813": 8,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7580,15 +7580,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 16,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 81,
-      "Гончаров Артем Сергеевич": 27,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 16,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 81,
+      "gas:candidate-vibid:26920001032813": 27,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7639,15 +7639,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 8,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 85,
-      "Гончаров Артем Сергеевич": 21,
-      "Каноков Тимур Борисович": 6,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 5,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 8,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 85,
+      "gas:candidate-vibid:26920001032813": 21,
+      "gas:candidate-vibid:26920001040910": 6,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 5,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983810&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983810&type=464",
@@ -7698,15 +7698,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 97,
-      "Белова Марина Викторовна": 28,
-      "Васильев Владимир Абдуалиевич": 356,
-      "Гончаров Артем Сергеевич": 132,
-      "Каноков Тимур Борисович": 49,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 60,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 97,
+      "gas:candidate-vibid:26920001034061": 28,
+      "gas:candidate-vibid:26920001036650": 356,
+      "gas:candidate-vibid:26920001032813": 132,
+      "gas:candidate-vibid:26920001040910": 49,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 60,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -7757,15 +7757,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 123,
-      "Белова Марина Викторовна": 33,
-      "Васильев Владимир Абдуалиевич": 455,
-      "Гончаров Артем Сергеевич": 131,
-      "Каноков Тимур Борисович": 67,
-      "Комарницкий Роман Русланович": 9,
-      "Слитинский Дмитрий Юрьевич": 18,
-      "Сорокин Александр Сергеевич": 59,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 123,
+      "gas:candidate-vibid:26920001034061": 33,
+      "gas:candidate-vibid:26920001036650": 455,
+      "gas:candidate-vibid:26920001032813": 131,
+      "gas:candidate-vibid:26920001040910": 67,
+      "gas:candidate-vibid:26920001040874": 9,
+      "gas:candidate-vibid:26920001031491": 18,
+      "gas:candidate-vibid:26920001040821": 59,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -7816,15 +7816,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 104,
-      "Белова Марина Викторовна": 13,
-      "Васильев Владимир Абдуалиевич": 282,
-      "Гончаров Артем Сергеевич": 105,
-      "Каноков Тимур Борисович": 44,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 19,
-      "Сорокин Александр Сергеевич": 52,
-      "Шкляр Вадим Владимирович": 7
+      "gas:candidate-vibid:26920001025603": 104,
+      "gas:candidate-vibid:26920001034061": 13,
+      "gas:candidate-vibid:26920001036650": 282,
+      "gas:candidate-vibid:26920001032813": 105,
+      "gas:candidate-vibid:26920001040910": 44,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 19,
+      "gas:candidate-vibid:26920001040821": 52,
+      "gas:candidate-vibid:26920001040853": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -7875,15 +7875,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 119,
-      "Белова Марина Викторовна": 24,
-      "Васильев Владимир Абдуалиевич": 324,
-      "Гончаров Артем Сергеевич": 136,
-      "Каноков Тимур Борисович": 70,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 37,
-      "Сорокин Александр Сергеевич": 39,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 119,
+      "gas:candidate-vibid:26920001034061": 24,
+      "gas:candidate-vibid:26920001036650": 324,
+      "gas:candidate-vibid:26920001032813": 136,
+      "gas:candidate-vibid:26920001040910": 70,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 37,
+      "gas:candidate-vibid:26920001040821": 39,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -7934,15 +7934,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 114,
-      "Белова Марина Викторовна": 20,
-      "Васильев Владимир Абдуалиевич": 382,
-      "Гончаров Артем Сергеевич": 117,
-      "Каноков Тимур Борисович": 50,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 45,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 114,
+      "gas:candidate-vibid:26920001034061": 20,
+      "gas:candidate-vibid:26920001036650": 382,
+      "gas:candidate-vibid:26920001032813": 117,
+      "gas:candidate-vibid:26920001040910": 50,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 45,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -7993,15 +7993,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 139,
-      "Белова Марина Викторовна": 28,
-      "Васильев Владимир Абдуалиевич": 304,
-      "Гончаров Артем Сергеевич": 117,
-      "Каноков Тимур Борисович": 57,
-      "Комарницкий Роман Русланович": 10,
-      "Слитинский Дмитрий Юрьевич": 29,
-      "Сорокин Александр Сергеевич": 41,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 139,
+      "gas:candidate-vibid:26920001034061": 28,
+      "gas:candidate-vibid:26920001036650": 304,
+      "gas:candidate-vibid:26920001032813": 117,
+      "gas:candidate-vibid:26920001040910": 57,
+      "gas:candidate-vibid:26920001040874": 10,
+      "gas:candidate-vibid:26920001031491": 29,
+      "gas:candidate-vibid:26920001040821": 41,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8052,15 +8052,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 155,
-      "Белова Марина Викторовна": 38,
-      "Васильев Владимир Абдуалиевич": 462,
-      "Гончаров Артем Сергеевич": 145,
-      "Каноков Тимур Борисович": 78,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 25,
-      "Сорокин Александр Сергеевич": 46,
-      "Шкляр Вадим Владимирович": 7
+      "gas:candidate-vibid:26920001025603": 155,
+      "gas:candidate-vibid:26920001034061": 38,
+      "gas:candidate-vibid:26920001036650": 462,
+      "gas:candidate-vibid:26920001032813": 145,
+      "gas:candidate-vibid:26920001040910": 78,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 25,
+      "gas:candidate-vibid:26920001040821": 46,
+      "gas:candidate-vibid:26920001040853": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8111,15 +8111,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 101,
-      "Белова Марина Викторовна": 21,
-      "Васильев Владимир Абдуалиевич": 328,
-      "Гончаров Артем Сергеевич": 146,
-      "Каноков Тимур Борисович": 60,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 20,
-      "Сорокин Александр Сергеевич": 40,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 101,
+      "gas:candidate-vibid:26920001034061": 21,
+      "gas:candidate-vibid:26920001036650": 328,
+      "gas:candidate-vibid:26920001032813": 146,
+      "gas:candidate-vibid:26920001040910": 60,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 20,
+      "gas:candidate-vibid:26920001040821": 40,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8170,15 +8170,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 101,
-      "Белова Марина Викторовна": 32,
-      "Васильев Владимир Абдуалиевич": 315,
-      "Гончаров Артем Сергеевич": 119,
-      "Каноков Тимур Борисович": 45,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 39,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 101,
+      "gas:candidate-vibid:26920001034061": 32,
+      "gas:candidate-vibid:26920001036650": 315,
+      "gas:candidate-vibid:26920001032813": 119,
+      "gas:candidate-vibid:26920001040910": 45,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 39,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8229,15 +8229,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 79,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 197,
-      "Гончаров Артем Сергеевич": 53,
-      "Каноков Тимур Борисович": 50,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 18,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 79,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 197,
+      "gas:candidate-vibid:26920001032813": 53,
+      "gas:candidate-vibid:26920001040910": 50,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 18,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8288,15 +8288,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 67,
-      "Белова Марина Викторовна": 24,
-      "Васильев Владимир Абдуалиевич": 296,
-      "Гончаров Артем Сергеевич": 72,
-      "Каноков Тимур Борисович": 44,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 35,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 67,
+      "gas:candidate-vibid:26920001034061": 24,
+      "gas:candidate-vibid:26920001036650": 296,
+      "gas:candidate-vibid:26920001032813": 72,
+      "gas:candidate-vibid:26920001040910": 44,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 35,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8347,15 +8347,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 107,
-      "Белова Марина Викторовна": 30,
-      "Васильев Владимир Абдуалиевич": 312,
-      "Гончаров Артем Сергеевич": 109,
-      "Каноков Тимур Борисович": 56,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 29,
-      "Сорокин Александр Сергеевич": 37,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 107,
+      "gas:candidate-vibid:26920001034061": 30,
+      "gas:candidate-vibid:26920001036650": 312,
+      "gas:candidate-vibid:26920001032813": 109,
+      "gas:candidate-vibid:26920001040910": 56,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 29,
+      "gas:candidate-vibid:26920001040821": 37,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8406,15 +8406,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 103,
-      "Белова Марина Викторовна": 26,
-      "Васильев Владимир Абдуалиевич": 338,
-      "Гончаров Артем Сергеевич": 111,
-      "Каноков Тимур Борисович": 65,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 25,
-      "Сорокин Александр Сергеевич": 31,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 103,
+      "gas:candidate-vibid:26920001034061": 26,
+      "gas:candidate-vibid:26920001036650": 338,
+      "gas:candidate-vibid:26920001032813": 111,
+      "gas:candidate-vibid:26920001040910": 65,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 25,
+      "gas:candidate-vibid:26920001040821": 31,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8465,15 +8465,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 121,
-      "Белова Марина Викторовна": 56,
-      "Васильев Владимир Абдуалиевич": 508,
-      "Гончаров Артем Сергеевич": 131,
-      "Каноков Тимур Борисович": 83,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 33,
-      "Сорокин Александр Сергеевич": 67,
-      "Шкляр Вадим Владимирович": 11
+      "gas:candidate-vibid:26920001025603": 121,
+      "gas:candidate-vibid:26920001034061": 56,
+      "gas:candidate-vibid:26920001036650": 508,
+      "gas:candidate-vibid:26920001032813": 131,
+      "gas:candidate-vibid:26920001040910": 83,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 33,
+      "gas:candidate-vibid:26920001040821": 67,
+      "gas:candidate-vibid:26920001040853": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8524,15 +8524,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 147,
-      "Белова Марина Викторовна": 38,
-      "Васильев Владимир Абдуалиевич": 382,
-      "Гончаров Артем Сергеевич": 121,
-      "Каноков Тимур Борисович": 63,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 24,
-      "Сорокин Александр Сергеевич": 72,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 147,
+      "gas:candidate-vibid:26920001034061": 38,
+      "gas:candidate-vibid:26920001036650": 382,
+      "gas:candidate-vibid:26920001032813": 121,
+      "gas:candidate-vibid:26920001040910": 63,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 24,
+      "gas:candidate-vibid:26920001040821": 72,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8583,15 +8583,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 122,
-      "Белова Марина Викторовна": 30,
-      "Васильев Владимир Абдуалиевич": 373,
-      "Гончаров Артем Сергеевич": 119,
-      "Каноков Тимур Борисович": 69,
-      "Комарницкий Роман Русланович": 9,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 55,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 122,
+      "gas:candidate-vibid:26920001034061": 30,
+      "gas:candidate-vibid:26920001036650": 373,
+      "gas:candidate-vibid:26920001032813": 119,
+      "gas:candidate-vibid:26920001040910": 69,
+      "gas:candidate-vibid:26920001040874": 9,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 55,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8642,15 +8642,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 150,
-      "Белова Марина Викторовна": 32,
-      "Васильев Владимир Абдуалиевич": 441,
-      "Гончаров Артем Сергеевич": 116,
-      "Каноков Тимур Борисович": 64,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 31,
-      "Сорокин Александр Сергеевич": 27,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 150,
+      "gas:candidate-vibid:26920001034061": 32,
+      "gas:candidate-vibid:26920001036650": 441,
+      "gas:candidate-vibid:26920001032813": 116,
+      "gas:candidate-vibid:26920001040910": 64,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 31,
+      "gas:candidate-vibid:26920001040821": 27,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8701,15 +8701,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 113,
-      "Белова Марина Викторовна": 20,
-      "Васильев Владимир Абдуалиевич": 322,
-      "Гончаров Артем Сергеевич": 108,
-      "Каноков Тимур Борисович": 51,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 33,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 113,
+      "gas:candidate-vibid:26920001034061": 20,
+      "gas:candidate-vibid:26920001036650": 322,
+      "gas:candidate-vibid:26920001032813": 108,
+      "gas:candidate-vibid:26920001040910": 51,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 33,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8760,15 +8760,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 120,
-      "Белова Марина Викторовна": 18,
-      "Васильев Владимир Абдуалиевич": 324,
-      "Гончаров Артем Сергеевич": 109,
-      "Каноков Тимур Борисович": 54,
-      "Комарницкий Роман Русланович": 9,
-      "Слитинский Дмитрий Юрьевич": 33,
-      "Сорокин Александр Сергеевич": 51,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 120,
+      "gas:candidate-vibid:26920001034061": 18,
+      "gas:candidate-vibid:26920001036650": 324,
+      "gas:candidate-vibid:26920001032813": 109,
+      "gas:candidate-vibid:26920001040910": 54,
+      "gas:candidate-vibid:26920001040874": 9,
+      "gas:candidate-vibid:26920001031491": 33,
+      "gas:candidate-vibid:26920001040821": 51,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8819,15 +8819,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 77,
-      "Белова Марина Викторовна": 24,
-      "Васильев Владимир Абдуалиевич": 313,
-      "Гончаров Артем Сергеевич": 105,
-      "Каноков Тимур Борисович": 44,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 52,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 77,
+      "gas:candidate-vibid:26920001034061": 24,
+      "gas:candidate-vibid:26920001036650": 313,
+      "gas:candidate-vibid:26920001032813": 105,
+      "gas:candidate-vibid:26920001040910": 44,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 52,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8878,15 +8878,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 153,
-      "Белова Марина Викторовна": 26,
-      "Васильев Владимир Абдуалиевич": 452,
-      "Гончаров Артем Сергеевич": 210,
-      "Каноков Тимур Борисович": 64,
-      "Комарницкий Роман Русланович": 10,
-      "Слитинский Дмитрий Юрьевич": 45,
-      "Сорокин Александр Сергеевич": 46,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 153,
+      "gas:candidate-vibid:26920001034061": 26,
+      "gas:candidate-vibid:26920001036650": 452,
+      "gas:candidate-vibid:26920001032813": 210,
+      "gas:candidate-vibid:26920001040910": 64,
+      "gas:candidate-vibid:26920001040874": 10,
+      "gas:candidate-vibid:26920001031491": 45,
+      "gas:candidate-vibid:26920001040821": 46,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8937,15 +8937,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 116,
-      "Белова Марина Викторовна": 26,
-      "Васильев Владимир Абдуалиевич": 421,
-      "Гончаров Артем Сергеевич": 151,
-      "Каноков Тимур Борисович": 44,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 19,
-      "Сорокин Александр Сергеевич": 51,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 116,
+      "gas:candidate-vibid:26920001034061": 26,
+      "gas:candidate-vibid:26920001036650": 421,
+      "gas:candidate-vibid:26920001032813": 151,
+      "gas:candidate-vibid:26920001040910": 44,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 19,
+      "gas:candidate-vibid:26920001040821": 51,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -8996,15 +8996,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 95,
-      "Белова Марина Викторовна": 25,
-      "Васильев Владимир Абдуалиевич": 372,
-      "Гончаров Артем Сергеевич": 109,
-      "Каноков Тимур Борисович": 41,
-      "Комарницкий Роман Русланович": 11,
-      "Слитинский Дмитрий Юрьевич": 26,
-      "Сорокин Александр Сергеевич": 47,
-      "Шкляр Вадим Владимирович": 11
+      "gas:candidate-vibid:26920001025603": 95,
+      "gas:candidate-vibid:26920001034061": 25,
+      "gas:candidate-vibid:26920001036650": 372,
+      "gas:candidate-vibid:26920001032813": 109,
+      "gas:candidate-vibid:26920001040910": 41,
+      "gas:candidate-vibid:26920001040874": 11,
+      "gas:candidate-vibid:26920001031491": 26,
+      "gas:candidate-vibid:26920001040821": 47,
+      "gas:candidate-vibid:26920001040853": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9055,15 +9055,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 106,
-      "Белова Марина Викторовна": 37,
-      "Васильев Владимир Абдуалиевич": 414,
-      "Гончаров Артем Сергеевич": 146,
-      "Каноков Тимур Борисович": 85,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 65,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 106,
+      "gas:candidate-vibid:26920001034061": 37,
+      "gas:candidate-vibid:26920001036650": 414,
+      "gas:candidate-vibid:26920001032813": 146,
+      "gas:candidate-vibid:26920001040910": 85,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 65,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9114,15 +9114,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 123,
-      "Белова Марина Викторовна": 37,
-      "Васильев Владимир Абдуалиевич": 426,
-      "Гончаров Артем Сергеевич": 167,
-      "Каноков Тимур Борисович": 64,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 24,
-      "Сорокин Александр Сергеевич": 68,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 123,
+      "gas:candidate-vibid:26920001034061": 37,
+      "gas:candidate-vibid:26920001036650": 426,
+      "gas:candidate-vibid:26920001032813": 167,
+      "gas:candidate-vibid:26920001040910": 64,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 24,
+      "gas:candidate-vibid:26920001040821": 68,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9173,15 +9173,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 105,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 307,
-      "Гончаров Артем Сергеевич": 91,
-      "Каноков Тимур Борисович": 45,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 25,
-      "Сорокин Александр Сергеевич": 25,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 105,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 307,
+      "gas:candidate-vibid:26920001032813": 91,
+      "gas:candidate-vibid:26920001040910": 45,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 25,
+      "gas:candidate-vibid:26920001040821": 25,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9232,15 +9232,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 113,
-      "Белова Марина Викторовна": 21,
-      "Васильев Владимир Абдуалиевич": 302,
-      "Гончаров Артем Сергеевич": 57,
-      "Каноков Тимур Борисович": 39,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 29,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 113,
+      "gas:candidate-vibid:26920001034061": 21,
+      "gas:candidate-vibid:26920001036650": 302,
+      "gas:candidate-vibid:26920001032813": 57,
+      "gas:candidate-vibid:26920001040910": 39,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 29,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9291,15 +9291,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 68,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 360,
-      "Гончаров Артем Сергеевич": 51,
-      "Каноков Тимур Борисович": 23,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 18,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 68,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 360,
+      "gas:candidate-vibid:26920001032813": 51,
+      "gas:candidate-vibid:26920001040910": 23,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 18,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9350,15 +9350,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 112,
-      "Белова Марина Викторовна": 33,
-      "Васильев Владимир Абдуалиевич": 367,
-      "Гончаров Артем Сергеевич": 112,
-      "Каноков Тимур Борисович": 83,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 24,
-      "Сорокин Александр Сергеевич": 51,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 112,
+      "gas:candidate-vibid:26920001034061": 33,
+      "gas:candidate-vibid:26920001036650": 367,
+      "gas:candidate-vibid:26920001032813": 112,
+      "gas:candidate-vibid:26920001040910": 83,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 24,
+      "gas:candidate-vibid:26920001040821": 51,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9409,15 +9409,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 116,
-      "Белова Марина Викторовна": 37,
-      "Васильев Владимир Абдуалиевич": 420,
-      "Гончаров Артем Сергеевич": 116,
-      "Каноков Тимур Борисович": 91,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 31,
-      "Сорокин Александр Сергеевич": 44,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 116,
+      "gas:candidate-vibid:26920001034061": 37,
+      "gas:candidate-vibid:26920001036650": 420,
+      "gas:candidate-vibid:26920001032813": 116,
+      "gas:candidate-vibid:26920001040910": 91,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 31,
+      "gas:candidate-vibid:26920001040821": 44,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9468,15 +9468,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 116,
-      "Белова Марина Викторовна": 22,
-      "Васильев Владимир Абдуалиевич": 407,
-      "Гончаров Артем Сергеевич": 102,
-      "Каноков Тимур Борисович": 58,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 18,
-      "Сорокин Александр Сергеевич": 50,
-      "Шкляр Вадим Владимирович": 10
+      "gas:candidate-vibid:26920001025603": 116,
+      "gas:candidate-vibid:26920001034061": 22,
+      "gas:candidate-vibid:26920001036650": 407,
+      "gas:candidate-vibid:26920001032813": 102,
+      "gas:candidate-vibid:26920001040910": 58,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 18,
+      "gas:candidate-vibid:26920001040821": 50,
+      "gas:candidate-vibid:26920001040853": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9527,15 +9527,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 96,
-      "Белова Марина Викторовна": 17,
-      "Васильев Владимир Абдуалиевич": 341,
-      "Гончаров Артем Сергеевич": 91,
-      "Каноков Тимур Борисович": 56,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 12,
-      "Сорокин Александр Сергеевич": 36,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 96,
+      "gas:candidate-vibid:26920001034061": 17,
+      "gas:candidate-vibid:26920001036650": 341,
+      "gas:candidate-vibid:26920001032813": 91,
+      "gas:candidate-vibid:26920001040910": 56,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 12,
+      "gas:candidate-vibid:26920001040821": 36,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9586,15 +9586,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 128,
-      "Белова Марина Викторовна": 39,
-      "Васильев Владимир Абдуалиевич": 544,
-      "Гончаров Артем Сергеевич": 123,
-      "Каноков Тимур Борисович": 74,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 30,
-      "Сорокин Александр Сергеевич": 80,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 128,
+      "gas:candidate-vibid:26920001034061": 39,
+      "gas:candidate-vibid:26920001036650": 544,
+      "gas:candidate-vibid:26920001032813": 123,
+      "gas:candidate-vibid:26920001040910": 74,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 30,
+      "gas:candidate-vibid:26920001040821": 80,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9645,15 +9645,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 85,
-      "Белова Марина Викторовна": 40,
-      "Васильев Владимир Абдуалиевич": 318,
-      "Гончаров Артем Сергеевич": 80,
-      "Каноков Тимур Борисович": 50,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 19,
-      "Сорокин Александр Сергеевич": 44,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 85,
+      "gas:candidate-vibid:26920001034061": 40,
+      "gas:candidate-vibid:26920001036650": 318,
+      "gas:candidate-vibid:26920001032813": 80,
+      "gas:candidate-vibid:26920001040910": 50,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 19,
+      "gas:candidate-vibid:26920001040821": 44,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9704,15 +9704,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 112,
-      "Белова Марина Викторовна": 38,
-      "Васильев Владимир Абдуалиевич": 432,
-      "Гончаров Артем Сергеевич": 101,
-      "Каноков Тимур Борисович": 52,
-      "Комарницкий Роман Русланович": 9,
-      "Слитинский Дмитрий Юрьевич": 21,
-      "Сорокин Александр Сергеевич": 62,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 112,
+      "gas:candidate-vibid:26920001034061": 38,
+      "gas:candidate-vibid:26920001036650": 432,
+      "gas:candidate-vibid:26920001032813": 101,
+      "gas:candidate-vibid:26920001040910": 52,
+      "gas:candidate-vibid:26920001040874": 9,
+      "gas:candidate-vibid:26920001031491": 21,
+      "gas:candidate-vibid:26920001040821": 62,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9763,15 +9763,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 111,
-      "Белова Марина Викторовна": 32,
-      "Васильев Владимир Абдуалиевич": 379,
-      "Гончаров Артем Сергеевич": 151,
-      "Каноков Тимур Борисович": 66,
-      "Комарницкий Роман Русланович": 10,
-      "Слитинский Дмитрий Юрьевич": 24,
-      "Сорокин Александр Сергеевич": 70,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 111,
+      "gas:candidate-vibid:26920001034061": 32,
+      "gas:candidate-vibid:26920001036650": 379,
+      "gas:candidate-vibid:26920001032813": 151,
+      "gas:candidate-vibid:26920001040910": 66,
+      "gas:candidate-vibid:26920001040874": 10,
+      "gas:candidate-vibid:26920001031491": 24,
+      "gas:candidate-vibid:26920001040821": 70,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9822,15 +9822,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 113,
-      "Белова Марина Викторовна": 41,
-      "Васильев Владимир Абдуалиевич": 423,
-      "Гончаров Артем Сергеевич": 154,
-      "Каноков Тимур Борисович": 82,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 29,
-      "Сорокин Александр Сергеевич": 60,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 113,
+      "gas:candidate-vibid:26920001034061": 41,
+      "gas:candidate-vibid:26920001036650": 423,
+      "gas:candidate-vibid:26920001032813": 154,
+      "gas:candidate-vibid:26920001040910": 82,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 29,
+      "gas:candidate-vibid:26920001040821": 60,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9881,15 +9881,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 145,
-      "Белова Марина Викторовна": 46,
-      "Васильев Владимир Абдуалиевич": 534,
-      "Гончаров Артем Сергеевич": 207,
-      "Каноков Тимур Борисович": 92,
-      "Комарницкий Роман Русланович": 22,
-      "Слитинский Дмитрий Юрьевич": 22,
-      "Сорокин Александр Сергеевич": 68,
-      "Шкляр Вадим Владимирович": 29
+      "gas:candidate-vibid:26920001025603": 145,
+      "gas:candidate-vibid:26920001034061": 46,
+      "gas:candidate-vibid:26920001036650": 534,
+      "gas:candidate-vibid:26920001032813": 207,
+      "gas:candidate-vibid:26920001040910": 92,
+      "gas:candidate-vibid:26920001040874": 22,
+      "gas:candidate-vibid:26920001031491": 22,
+      "gas:candidate-vibid:26920001040821": 68,
+      "gas:candidate-vibid:26920001040853": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9940,15 +9940,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 116,
-      "Белова Марина Викторовна": 42,
-      "Васильев Владимир Абдуалиевич": 461,
-      "Гончаров Артем Сергеевич": 130,
-      "Каноков Тимур Борисович": 68,
-      "Комарницкий Роман Русланович": 9,
-      "Слитинский Дмитрий Юрьевич": 28,
-      "Сорокин Александр Сергеевич": 72,
-      "Шкляр Вадим Владимирович": 10
+      "gas:candidate-vibid:26920001025603": 116,
+      "gas:candidate-vibid:26920001034061": 42,
+      "gas:candidate-vibid:26920001036650": 461,
+      "gas:candidate-vibid:26920001032813": 130,
+      "gas:candidate-vibid:26920001040910": 68,
+      "gas:candidate-vibid:26920001040874": 9,
+      "gas:candidate-vibid:26920001031491": 28,
+      "gas:candidate-vibid:26920001040821": 72,
+      "gas:candidate-vibid:26920001040853": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -9999,15 +9999,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 91,
-      "Белова Марина Викторовна": 30,
-      "Васильев Владимир Абдуалиевич": 332,
-      "Гончаров Артем Сергеевич": 130,
-      "Каноков Тимур Борисович": 53,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 20,
-      "Сорокин Александр Сергеевич": 45,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 91,
+      "gas:candidate-vibid:26920001034061": 30,
+      "gas:candidate-vibid:26920001036650": 332,
+      "gas:candidate-vibid:26920001032813": 130,
+      "gas:candidate-vibid:26920001040910": 53,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 20,
+      "gas:candidate-vibid:26920001040821": 45,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10058,15 +10058,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 64,
-      "Белова Марина Викторовна": 14,
-      "Васильев Владимир Абдуалиевич": 276,
-      "Гончаров Артем Сергеевич": 111,
-      "Каноков Тимур Борисович": 37,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 23,
-      "Сорокин Александр Сергеевич": 44,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 64,
+      "gas:candidate-vibid:26920001034061": 14,
+      "gas:candidate-vibid:26920001036650": 276,
+      "gas:candidate-vibid:26920001032813": 111,
+      "gas:candidate-vibid:26920001040910": 37,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 23,
+      "gas:candidate-vibid:26920001040821": 44,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10117,15 +10117,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 97,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 398,
-      "Гончаров Артем Сергеевич": 137,
-      "Каноков Тимур Борисович": 45,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 24,
-      "Сорокин Александр Сергеевич": 54,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 97,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 398,
+      "gas:candidate-vibid:26920001032813": 137,
+      "gas:candidate-vibid:26920001040910": 45,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 24,
+      "gas:candidate-vibid:26920001040821": 54,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10176,15 +10176,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 113,
-      "Белова Марина Викторовна": 39,
-      "Васильев Владимир Абдуалиевич": 541,
-      "Гончаров Артем Сергеевич": 178,
-      "Каноков Тимур Борисович": 85,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 22,
-      "Сорокин Александр Сергеевич": 82,
-      "Шкляр Вадим Владимирович": 11
+      "gas:candidate-vibid:26920001025603": 113,
+      "gas:candidate-vibid:26920001034061": 39,
+      "gas:candidate-vibid:26920001036650": 541,
+      "gas:candidate-vibid:26920001032813": 178,
+      "gas:candidate-vibid:26920001040910": 85,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 22,
+      "gas:candidate-vibid:26920001040821": 82,
+      "gas:candidate-vibid:26920001040853": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10235,15 +10235,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 115,
-      "Белова Марина Викторовна": 38,
-      "Васильев Владимир Абдуалиевич": 385,
-      "Гончаров Артем Сергеевич": 126,
-      "Каноков Тимур Борисович": 70,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 65,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 115,
+      "gas:candidate-vibid:26920001034061": 38,
+      "gas:candidate-vibid:26920001036650": 385,
+      "gas:candidate-vibid:26920001032813": 126,
+      "gas:candidate-vibid:26920001040910": 70,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 65,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10294,15 +10294,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 69,
-      "Белова Марина Викторовна": 40,
-      "Васильев Владимир Абдуалиевич": 262,
-      "Гончаров Артем Сергеевич": 74,
-      "Каноков Тимур Борисович": 45,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 17,
-      "Сорокин Александр Сергеевич": 42,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 69,
+      "gas:candidate-vibid:26920001034061": 40,
+      "gas:candidate-vibid:26920001036650": 262,
+      "gas:candidate-vibid:26920001032813": 74,
+      "gas:candidate-vibid:26920001040910": 45,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 17,
+      "gas:candidate-vibid:26920001040821": 42,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10353,15 +10353,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 87,
-      "Белова Марина Викторовна": 43,
-      "Васильев Владимир Абдуалиевич": 403,
-      "Гончаров Артем Сергеевич": 144,
-      "Каноков Тимур Борисович": 51,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 40,
-      "Сорокин Александр Сергеевич": 63,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 87,
+      "gas:candidate-vibid:26920001034061": 43,
+      "gas:candidate-vibid:26920001036650": 403,
+      "gas:candidate-vibid:26920001032813": 144,
+      "gas:candidate-vibid:26920001040910": 51,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 40,
+      "gas:candidate-vibid:26920001040821": 63,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10412,15 +10412,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 137,
-      "Белова Марина Викторовна": 36,
-      "Васильев Владимир Абдуалиевич": 527,
-      "Гончаров Артем Сергеевич": 167,
-      "Каноков Тимур Борисович": 89,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 26,
-      "Сорокин Александр Сергеевич": 100,
-      "Шкляр Вадим Владимирович": 10
+      "gas:candidate-vibid:26920001025603": 137,
+      "gas:candidate-vibid:26920001034061": 36,
+      "gas:candidate-vibid:26920001036650": 527,
+      "gas:candidate-vibid:26920001032813": 167,
+      "gas:candidate-vibid:26920001040910": 89,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 26,
+      "gas:candidate-vibid:26920001040821": 100,
+      "gas:candidate-vibid:26920001040853": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10471,15 +10471,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 142,
-      "Белова Марина Викторовна": 35,
-      "Васильев Владимир Абдуалиевич": 454,
-      "Гончаров Артем Сергеевич": 99,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 7,
-      "Слитинский Дмитрий Юрьевич": 17,
-      "Сорокин Александр Сергеевич": 48,
-      "Шкляр Вадим Владимирович": 10
+      "gas:candidate-vibid:26920001025603": 142,
+      "gas:candidate-vibid:26920001034061": 35,
+      "gas:candidate-vibid:26920001036650": 454,
+      "gas:candidate-vibid:26920001032813": 99,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 7,
+      "gas:candidate-vibid:26920001031491": 17,
+      "gas:candidate-vibid:26920001040821": 48,
+      "gas:candidate-vibid:26920001040853": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10530,15 +10530,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 88,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 282,
-      "Гончаров Артем Сергеевич": 67,
-      "Каноков Тимур Борисович": 32,
-      "Комарницкий Роман Русланович": 10,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 46,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 88,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 282,
+      "gas:candidate-vibid:26920001032813": 67,
+      "gas:candidate-vibid:26920001040910": 32,
+      "gas:candidate-vibid:26920001040874": 10,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 46,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10589,15 +10589,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 113,
-      "Белова Марина Викторовна": 32,
-      "Васильев Владимир Абдуалиевич": 396,
-      "Гончаров Артем Сергеевич": 103,
-      "Каноков Тимур Борисович": 61,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 26,
-      "Сорокин Александр Сергеевич": 42,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 113,
+      "gas:candidate-vibid:26920001034061": 32,
+      "gas:candidate-vibid:26920001036650": 396,
+      "gas:candidate-vibid:26920001032813": 103,
+      "gas:candidate-vibid:26920001040910": 61,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 26,
+      "gas:candidate-vibid:26920001040821": 42,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10648,15 +10648,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 103,
-      "Белова Марина Викторовна": 28,
-      "Васильев Владимир Абдуалиевич": 365,
-      "Гончаров Артем Сергеевич": 109,
-      "Каноков Тимур Борисович": 65,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 25,
-      "Сорокин Александр Сергеевич": 33,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 103,
+      "gas:candidate-vibid:26920001034061": 28,
+      "gas:candidate-vibid:26920001036650": 365,
+      "gas:candidate-vibid:26920001032813": 109,
+      "gas:candidate-vibid:26920001040910": 65,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 25,
+      "gas:candidate-vibid:26920001040821": 33,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10707,15 +10707,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 111,
-      "Белова Марина Викторовна": 32,
-      "Васильев Владимир Абдуалиевич": 426,
-      "Гончаров Артем Сергеевич": 108,
-      "Каноков Тимур Борисович": 58,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 18,
-      "Сорокин Александр Сергеевич": 41,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 111,
+      "gas:candidate-vibid:26920001034061": 32,
+      "gas:candidate-vibid:26920001036650": 426,
+      "gas:candidate-vibid:26920001032813": 108,
+      "gas:candidate-vibid:26920001040910": 58,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 18,
+      "gas:candidate-vibid:26920001040821": 41,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10766,15 +10766,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 112,
-      "Белова Марина Викторовна": 31,
-      "Васильев Владимир Абдуалиевич": 381,
-      "Гончаров Артем Сергеевич": 92,
-      "Каноков Тимур Борисович": 77,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 22,
-      "Сорокин Александр Сергеевич": 50,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 112,
+      "gas:candidate-vibid:26920001034061": 31,
+      "gas:candidate-vibid:26920001036650": 381,
+      "gas:candidate-vibid:26920001032813": 92,
+      "gas:candidate-vibid:26920001040910": 77,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 22,
+      "gas:candidate-vibid:26920001040821": 50,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10825,15 +10825,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 129,
-      "Белова Марина Викторовна": 42,
-      "Васильев Владимир Абдуалиевич": 446,
-      "Гончаров Артем Сергеевич": 143,
-      "Каноков Тимур Борисович": 55,
-      "Комарницкий Роман Русланович": 9,
-      "Слитинский Дмитрий Юрьевич": 22,
-      "Сорокин Александр Сергеевич": 49,
-      "Шкляр Вадим Владимирович": 9
+      "gas:candidate-vibid:26920001025603": 129,
+      "gas:candidate-vibid:26920001034061": 42,
+      "gas:candidate-vibid:26920001036650": 446,
+      "gas:candidate-vibid:26920001032813": 143,
+      "gas:candidate-vibid:26920001040910": 55,
+      "gas:candidate-vibid:26920001040874": 9,
+      "gas:candidate-vibid:26920001031491": 22,
+      "gas:candidate-vibid:26920001040821": 49,
+      "gas:candidate-vibid:26920001040853": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10884,15 +10884,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 32,
-      "Белова Марина Викторовна": 18,
-      "Васильев Владимир Абдуалиевич": 166,
-      "Гончаров Артем Сергеевич": 40,
-      "Каноков Тимур Борисович": 16,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 5,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 32,
+      "gas:candidate-vibid:26920001034061": 18,
+      "gas:candidate-vibid:26920001036650": 166,
+      "gas:candidate-vibid:26920001032813": 40,
+      "gas:candidate-vibid:26920001040910": 16,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 5,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -10943,15 +10943,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 5,
-      "Белова Марина Викторовна": 2,
-      "Васильев Владимир Абдуалиевич": 69,
-      "Гончаров Артем Сергеевич": 19,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 5,
+      "gas:candidate-vibid:26920001034061": 2,
+      "gas:candidate-vibid:26920001036650": 69,
+      "gas:candidate-vibid:26920001032813": 19,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -11002,15 +11002,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 1,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 17,
-      "Гончаров Артем Сергеевич": 4,
-      "Каноков Тимур Борисович": 3,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 1,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 17,
+      "gas:candidate-vibid:26920001032813": 4,
+      "gas:candidate-vibid:26920001040910": 3,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -11061,15 +11061,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 1,
-      "Белова Марина Викторовна": 5,
-      "Васильев Владимир Абдуалиевич": 13,
-      "Гончаров Артем Сергеевич": 2,
-      "Каноков Тимур Борисович": 4,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 1,
+      "gas:candidate-vibid:26920001034061": 5,
+      "gas:candidate-vibid:26920001036650": 13,
+      "gas:candidate-vibid:26920001032813": 2,
+      "gas:candidate-vibid:26920001040910": 4,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -11120,15 +11120,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 3,
-      "Белова Марина Викторовна": 1,
-      "Васильев Владимир Абдуалиевич": 7,
-      "Гончаров Артем Сергеевич": 0,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 3,
+      "gas:candidate-vibid:26920001034061": 1,
+      "gas:candidate-vibid:26920001036650": 7,
+      "gas:candidate-vibid:26920001032813": 0,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983811&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983811&type=464",
@@ -11179,15 +11179,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 84,
-      "Белова Марина Викторовна": 52,
-      "Васильев Владимир Абдуалиевич": 461,
-      "Гончаров Артем Сергеевич": 92,
-      "Каноков Тимур Борисович": 90,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 17,
-      "Сорокин Александр Сергеевич": 22,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 84,
+      "gas:candidate-vibid:26920001034061": 52,
+      "gas:candidate-vibid:26920001036650": 461,
+      "gas:candidate-vibid:26920001032813": 92,
+      "gas:candidate-vibid:26920001040910": 90,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 17,
+      "gas:candidate-vibid:26920001040821": 22,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11238,15 +11238,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 63,
-      "Белова Марина Викторовна": 29,
-      "Васильев Владимир Абдуалиевич": 385,
-      "Гончаров Артем Сергеевич": 69,
-      "Каноков Тимур Борисович": 77,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 29,
-      "Сорокин Александр Сергеевич": 20,
-      "Шкляр Вадим Владимирович": 12
+      "gas:candidate-vibid:26920001025603": 63,
+      "gas:candidate-vibid:26920001034061": 29,
+      "gas:candidate-vibid:26920001036650": 385,
+      "gas:candidate-vibid:26920001032813": 69,
+      "gas:candidate-vibid:26920001040910": 77,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 29,
+      "gas:candidate-vibid:26920001040821": 20,
+      "gas:candidate-vibid:26920001040853": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11297,15 +11297,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 45,
-      "Белова Марина Викторовна": 21,
-      "Васильев Владимир Абдуалиевич": 361,
-      "Гончаров Артем Сергеевич": 56,
-      "Каноков Тимур Борисович": 51,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 15,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 45,
+      "gas:candidate-vibid:26920001034061": 21,
+      "gas:candidate-vibid:26920001036650": 361,
+      "gas:candidate-vibid:26920001032813": 56,
+      "gas:candidate-vibid:26920001040910": 51,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 15,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11356,15 +11356,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 66,
-      "Белова Марина Викторовна": 28,
-      "Васильев Владимир Абдуалиевич": 392,
-      "Гончаров Артем Сергеевич": 44,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 9,
-      "Сорокин Александр Сергеевич": 16,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 66,
+      "gas:candidate-vibid:26920001034061": 28,
+      "gas:candidate-vibid:26920001036650": 392,
+      "gas:candidate-vibid:26920001032813": 44,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 9,
+      "gas:candidate-vibid:26920001040821": 16,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11415,15 +11415,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 28,
-      "Белова Марина Викторовна": 0,
-      "Васильев Владимир Абдуалиевич": 232,
-      "Гончаров Артем Сергеевич": 18,
-      "Каноков Тимур Борисович": 14,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 28,
+      "gas:candidate-vibid:26920001034061": 0,
+      "gas:candidate-vibid:26920001036650": 232,
+      "gas:candidate-vibid:26920001032813": 18,
+      "gas:candidate-vibid:26920001040910": 14,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11474,15 +11474,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 11,
-      "Белова Марина Викторовна": 6,
-      "Васильев Владимир Абдуалиевич": 174,
-      "Гончаров Артем Сергеевич": 5,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 11,
+      "gas:candidate-vibid:26920001034061": 6,
+      "gas:candidate-vibid:26920001036650": 174,
+      "gas:candidate-vibid:26920001032813": 5,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11533,15 +11533,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 27,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 453,
-      "Гончаров Артем Сергеевич": 15,
-      "Каноков Тимур Борисович": 18,
-      "Комарницкий Роман Русланович": 13,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 5,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 27,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 453,
+      "gas:candidate-vibid:26920001032813": 15,
+      "gas:candidate-vibid:26920001040910": 18,
+      "gas:candidate-vibid:26920001040874": 13,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 5,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11592,15 +11592,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 16,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 220,
-      "Гончаров Артем Сергеевич": 5,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 16,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 220,
+      "gas:candidate-vibid:26920001032813": 5,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11651,15 +11651,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 43,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 726,
-      "Гончаров Артем Сергеевич": 34,
-      "Каноков Тимур Борисович": 28,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 43,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 726,
+      "gas:candidate-vibid:26920001032813": 34,
+      "gas:candidate-vibid:26920001040910": 28,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11710,15 +11710,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 5,
-      "Белова Марина Викторовна": 0,
-      "Васильев Владимир Абдуалиевич": 171,
-      "Гончаров Артем Сергеевич": 0,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 5,
+      "gas:candidate-vibid:26920001034061": 0,
+      "gas:candidate-vibid:26920001036650": 171,
+      "gas:candidate-vibid:26920001032813": 0,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11769,15 +11769,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 8,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 174,
-      "Гончаров Артем Сергеевич": 3,
-      "Каноков Тимур Борисович": 0,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 8,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 174,
+      "gas:candidate-vibid:26920001032813": 3,
+      "gas:candidate-vibid:26920001040910": 0,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11828,15 +11828,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 47,
-      "Белова Марина Викторовна": 41,
-      "Васильев Владимир Абдуалиевич": 686,
-      "Гончаров Артем Сергеевич": 52,
-      "Каноков Тимур Борисович": 44,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 13,
-      "Сорокин Александр Сергеевич": 13,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 47,
+      "gas:candidate-vibid:26920001034061": 41,
+      "gas:candidate-vibid:26920001036650": 686,
+      "gas:candidate-vibid:26920001032813": 52,
+      "gas:candidate-vibid:26920001040910": 44,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 13,
+      "gas:candidate-vibid:26920001040821": 13,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11887,15 +11887,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 19,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 167,
-      "Гончаров Артем Сергеевич": 7,
-      "Каноков Тимур Борисович": 17,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 19,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 167,
+      "gas:candidate-vibid:26920001032813": 7,
+      "gas:candidate-vibid:26920001040910": 17,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -11946,15 +11946,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 61,
-      "Белова Марина Викторовна": 16,
-      "Васильев Владимир Абдуалиевич": 620,
-      "Гончаров Артем Сергеевич": 40,
-      "Каноков Тимур Борисович": 26,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 61,
+      "gas:candidate-vibid:26920001034061": 16,
+      "gas:candidate-vibid:26920001036650": 620,
+      "gas:candidate-vibid:26920001032813": 40,
+      "gas:candidate-vibid:26920001040910": 26,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12005,15 +12005,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 25,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 287,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 16,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 25,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 287,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 16,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12064,15 +12064,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 116,
-      "Гончаров Артем Сергеевич": 17,
-      "Каноков Тимур Борисович": 6,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 9,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 116,
+      "gas:candidate-vibid:26920001032813": 17,
+      "gas:candidate-vibid:26920001040910": 6,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 9,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12123,15 +12123,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 7,
-      "Белова Марина Викторовна": 1,
-      "Васильев Владимир Абдуалиевич": 78,
-      "Гончаров Артем Сергеевич": 4,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 7,
+      "gas:candidate-vibid:26920001034061": 1,
+      "gas:candidate-vibid:26920001036650": 78,
+      "gas:candidate-vibid:26920001032813": 4,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12182,15 +12182,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 2,
-      "Васильев Владимир Абдуалиевич": 168,
-      "Гончаров Артем Сергеевич": 17,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 2,
+      "gas:candidate-vibid:26920001036650": 168,
+      "gas:candidate-vibid:26920001032813": 17,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12241,15 +12241,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 5,
-      "Белова Марина Викторовна": 0,
-      "Васильев Владимир Абдуалиевич": 76,
-      "Гончаров Артем Сергеевич": 5,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 5,
+      "gas:candidate-vibid:26920001034061": 0,
+      "gas:candidate-vibid:26920001036650": 76,
+      "gas:candidate-vibid:26920001032813": 5,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12300,15 +12300,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 21,
-      "Белова Марина Викторовна": 10,
-      "Васильев Владимир Абдуалиевич": 86,
-      "Гончаров Артем Сергеевич": 17,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 1,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 21,
+      "gas:candidate-vibid:26920001034061": 10,
+      "gas:candidate-vibid:26920001036650": 86,
+      "gas:candidate-vibid:26920001032813": 17,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 1,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12359,15 +12359,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 6,
-      "Белова Марина Викторовна": 0,
-      "Васильев Владимир Абдуалиевич": 67,
-      "Гончаров Артем Сергеевич": 3,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 6,
+      "gas:candidate-vibid:26920001034061": 0,
+      "gas:candidate-vibid:26920001036650": 67,
+      "gas:candidate-vibid:26920001032813": 3,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12418,15 +12418,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 10,
-      "Васильев Владимир Абдуалиевич": 235,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 9,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 10,
+      "gas:candidate-vibid:26920001036650": 235,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 9,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12477,15 +12477,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 6,
-      "Васильев Владимир Абдуалиевич": 112,
-      "Гончаров Артем Сергеевич": 14,
-      "Каноков Тимур Борисович": 4,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 6,
+      "gas:candidate-vibid:26920001036650": 112,
+      "gas:candidate-vibid:26920001032813": 14,
+      "gas:candidate-vibid:26920001040910": 4,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12536,15 +12536,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 14,
-      "Белова Марина Викторовна": 1,
-      "Васильев Владимир Абдуалиевич": 214,
-      "Гончаров Артем Сергеевич": 25,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 5,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 14,
+      "gas:candidate-vibid:26920001034061": 1,
+      "gas:candidate-vibid:26920001036650": 214,
+      "gas:candidate-vibid:26920001032813": 25,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 5,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12595,15 +12595,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 31,
-      "Белова Марина Викторовна": 14,
-      "Васильев Владимир Абдуалиевич": 168,
-      "Гончаров Артем Сергеевич": 29,
-      "Каноков Тимур Борисович": 12,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 11,
-      "Шкляр Вадим Владимирович": 8
+      "gas:candidate-vibid:26920001025603": 31,
+      "gas:candidate-vibid:26920001034061": 14,
+      "gas:candidate-vibid:26920001036650": 168,
+      "gas:candidate-vibid:26920001032813": 29,
+      "gas:candidate-vibid:26920001040910": 12,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 11,
+      "gas:candidate-vibid:26920001040853": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12654,15 +12654,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 57,
-      "Белова Марина Викторовна": 26,
-      "Васильев Владимир Абдуалиевич": 292,
-      "Гончаров Артем Сергеевич": 43,
-      "Каноков Тимур Борисович": 23,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 19,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 57,
+      "gas:candidate-vibid:26920001034061": 26,
+      "gas:candidate-vibid:26920001036650": 292,
+      "gas:candidate-vibid:26920001032813": 43,
+      "gas:candidate-vibid:26920001040910": 23,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 19,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12713,15 +12713,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 6,
-      "Белова Марина Викторовна": 2,
-      "Васильев Владимир Абдуалиевич": 72,
-      "Гончаров Артем Сергеевич": 8,
-      "Каноков Тимур Борисович": 3,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 1,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 6,
+      "gas:candidate-vibid:26920001034061": 2,
+      "gas:candidate-vibid:26920001036650": 72,
+      "gas:candidate-vibid:26920001032813": 8,
+      "gas:candidate-vibid:26920001040910": 3,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 1,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12772,15 +12772,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 15,
-      "Белова Марина Викторовна": 13,
-      "Васильев Владимир Абдуалиевич": 159,
-      "Гончаров Артем Сергеевич": 6,
-      "Каноков Тимур Борисович": 10,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 7,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 15,
+      "gas:candidate-vibid:26920001034061": 13,
+      "gas:candidate-vibid:26920001036650": 159,
+      "gas:candidate-vibid:26920001032813": 6,
+      "gas:candidate-vibid:26920001040910": 10,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 7,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12831,15 +12831,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 7,
-      "Белова Марина Викторовна": 1,
-      "Васильев Владимир Абдуалиевич": 87,
-      "Гончаров Артем Сергеевич": 6,
-      "Каноков Тимур Борисович": 2,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 7,
+      "gas:candidate-vibid:26920001034061": 1,
+      "gas:candidate-vibid:26920001036650": 87,
+      "gas:candidate-vibid:26920001032813": 6,
+      "gas:candidate-vibid:26920001040910": 2,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12890,15 +12890,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 57,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 547,
-      "Гончаров Артем Сергеевич": 33,
-      "Каноков Тимур Борисович": 15,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 57,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 547,
+      "gas:candidate-vibid:26920001032813": 33,
+      "gas:candidate-vibid:26920001040910": 15,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983812&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983812&type=464",
@@ -12949,15 +12949,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 60,
-      "Белова Марина Викторовна": 27,
-      "Васильев Владимир Абдуалиевич": 199,
-      "Гончаров Артем Сергеевич": 72,
-      "Каноков Тимур Борисович": 39,
-      "Комарницкий Роман Русланович": 5,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 25,
-      "Шкляр Вадим Владимирович": 6
+      "gas:candidate-vibid:26920001025603": 60,
+      "gas:candidate-vibid:26920001034061": 27,
+      "gas:candidate-vibid:26920001036650": 199,
+      "gas:candidate-vibid:26920001032813": 72,
+      "gas:candidate-vibid:26920001040910": 39,
+      "gas:candidate-vibid:26920001040874": 5,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 25,
+      "gas:candidate-vibid:26920001040853": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13008,15 +13008,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 24,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 145,
-      "Гончаров Артем Сергеевич": 43,
-      "Каноков Тимур Борисович": 23,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 12,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 24,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 145,
+      "gas:candidate-vibid:26920001032813": 43,
+      "gas:candidate-vibid:26920001040910": 23,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 12,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13067,15 +13067,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 65,
-      "Белова Марина Викторовна": 29,
-      "Васильев Владимир Абдуалиевич": 239,
-      "Гончаров Артем Сергеевич": 62,
-      "Каноков Тимур Борисович": 33,
-      "Комарницкий Роман Русланович": 4,
-      "Слитинский Дмитрий Юрьевич": 14,
-      "Сорокин Александр Сергеевич": 18,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 65,
+      "gas:candidate-vibid:26920001034061": 29,
+      "gas:candidate-vibid:26920001036650": 239,
+      "gas:candidate-vibid:26920001032813": 62,
+      "gas:candidate-vibid:26920001040910": 33,
+      "gas:candidate-vibid:26920001040874": 4,
+      "gas:candidate-vibid:26920001031491": 14,
+      "gas:candidate-vibid:26920001040821": 18,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13126,15 +13126,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 68,
-      "Белова Марина Викторовна": 44,
-      "Васильев Владимир Абдуалиевич": 273,
-      "Гончаров Артем Сергеевич": 67,
-      "Каноков Тимур Борисович": 34,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 15,
-      "Сорокин Александр Сергеевич": 21,
-      "Шкляр Вадим Владимирович": 7
+      "gas:candidate-vibid:26920001025603": 68,
+      "gas:candidate-vibid:26920001034061": 44,
+      "gas:candidate-vibid:26920001036650": 273,
+      "gas:candidate-vibid:26920001032813": 67,
+      "gas:candidate-vibid:26920001040910": 34,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 15,
+      "gas:candidate-vibid:26920001040821": 21,
+      "gas:candidate-vibid:26920001040853": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13185,15 +13185,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 20,
-      "Белова Марина Викторовна": 24,
-      "Васильев Владимир Абдуалиевич": 127,
-      "Гончаров Артем Сергеевич": 20,
-      "Каноков Тимур Борисович": 6,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 20,
+      "gas:candidate-vibid:26920001034061": 24,
+      "gas:candidate-vibid:26920001036650": 127,
+      "gas:candidate-vibid:26920001032813": 20,
+      "gas:candidate-vibid:26920001040910": 6,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13244,15 +13244,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 9,
-      "Белова Марина Викторовна": 10,
-      "Васильев Владимир Абдуалиевич": 45,
-      "Гончаров Артем Сергеевич": 8,
-      "Каноков Тимур Борисович": 1,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 9,
+      "gas:candidate-vibid:26920001034061": 10,
+      "gas:candidate-vibid:26920001036650": 45,
+      "gas:candidate-vibid:26920001032813": 8,
+      "gas:candidate-vibid:26920001040910": 1,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13303,15 +13303,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 13,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 110,
-      "Гончаров Артем Сергеевич": 5,
-      "Каноков Тимур Борисович": 4,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 13,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 110,
+      "gas:candidate-vibid:26920001032813": 5,
+      "gas:candidate-vibid:26920001040910": 4,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13362,15 +13362,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 9,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 133,
-      "Гончаров Артем Сергеевич": 7,
-      "Каноков Тимур Борисович": 6,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 0,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 9,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 133,
+      "gas:candidate-vibid:26920001032813": 7,
+      "gas:candidate-vibid:26920001040910": 6,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 0,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13421,15 +13421,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 18,
-      "Белова Марина Викторовна": 8,
-      "Васильев Владимир Абдуалиевич": 161,
-      "Гончаров Артем Сергеевич": 9,
-      "Каноков Тимур Борисович": 13,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 18,
+      "gas:candidate-vibid:26920001034061": 8,
+      "gas:candidate-vibid:26920001036650": 161,
+      "gas:candidate-vibid:26920001032813": 9,
+      "gas:candidate-vibid:26920001040910": 13,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13480,15 +13480,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 92,
-      "Гончаров Артем Сергеевич": 10,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 5
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 92,
+      "gas:candidate-vibid:26920001032813": 10,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13539,15 +13539,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 9,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 53,
-      "Гончаров Артем Сергеевич": 11,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 9,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 53,
+      "gas:candidate-vibid:26920001032813": 11,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13598,15 +13598,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 14,
-      "Белова Марина Викторовна": 9,
-      "Васильев Владимир Абдуалиевич": 139,
-      "Гончаров Артем Сергеевич": 9,
-      "Каноков Тимур Борисович": 7,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 5,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 14,
+      "gas:candidate-vibid:26920001034061": 9,
+      "gas:candidate-vibid:26920001036650": 139,
+      "gas:candidate-vibid:26920001032813": 9,
+      "gas:candidate-vibid:26920001040910": 7,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 5,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13657,15 +13657,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 17,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 117,
-      "Гончаров Артем Сергеевич": 6,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 17,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 117,
+      "gas:candidate-vibid:26920001032813": 6,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13716,15 +13716,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 8,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 70,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 6,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 8,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 70,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 6,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13775,15 +13775,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 23,
-      "Белова Марина Викторовна": 14,
-      "Васильев Владимир Абдуалиевич": 65,
-      "Гончаров Артем Сергеевич": 14,
-      "Каноков Тимур Борисович": 22,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 23,
+      "gas:candidate-vibid:26920001034061": 14,
+      "gas:candidate-vibid:26920001036650": 65,
+      "gas:candidate-vibid:26920001032813": 14,
+      "gas:candidate-vibid:26920001040910": 22,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13834,15 +13834,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 22,
-      "Белова Марина Викторовна": 19,
-      "Васильев Владимир Абдуалиевич": 101,
-      "Гончаров Артем Сергеевич": 30,
-      "Каноков Тимур Борисович": 26,
-      "Комарницкий Роман Русланович": 6,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 22,
+      "gas:candidate-vibid:26920001034061": 19,
+      "gas:candidate-vibid:26920001036650": 101,
+      "gas:candidate-vibid:26920001032813": 30,
+      "gas:candidate-vibid:26920001040910": 26,
+      "gas:candidate-vibid:26920001040874": 6,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13893,15 +13893,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 24,
-      "Белова Марина Викторовна": 9,
-      "Васильев Владимир Абдуалиевич": 116,
-      "Гончаров Артем Сергеевич": 15,
-      "Каноков Тимур Борисович": 10,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 24,
+      "gas:candidate-vibid:26920001034061": 9,
+      "gas:candidate-vibid:26920001036650": 116,
+      "gas:candidate-vibid:26920001032813": 15,
+      "gas:candidate-vibid:26920001040910": 10,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983813&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983813&type=464",
@@ -13952,15 +13952,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 83,
-      "Белова Марина Викторовна": 25,
-      "Васильев Владимир Абдуалиевич": 438,
-      "Гончаров Артем Сергеевич": 100,
-      "Каноков Тимур Борисович": 40,
-      "Комарницкий Роман Русланович": 8,
-      "Слитинский Дмитрий Юрьевич": 25,
-      "Сорокин Александр Сергеевич": 27,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 83,
+      "gas:candidate-vibid:26920001034061": 25,
+      "gas:candidate-vibid:26920001036650": 438,
+      "gas:candidate-vibid:26920001032813": 100,
+      "gas:candidate-vibid:26920001040910": 40,
+      "gas:candidate-vibid:26920001040874": 8,
+      "gas:candidate-vibid:26920001031491": 25,
+      "gas:candidate-vibid:26920001040821": 27,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983814&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983814&type=464",
@@ -14011,15 +14011,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 45,
-      "Белова Марина Викторовна": 21,
-      "Васильев Владимир Абдуалиевич": 248,
-      "Гончаров Артем Сергеевич": 55,
-      "Каноков Тимур Борисович": 21,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 10,
-      "Сорокин Александр Сергеевич": 9,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 45,
+      "gas:candidate-vibid:26920001034061": 21,
+      "gas:candidate-vibid:26920001036650": 248,
+      "gas:candidate-vibid:26920001032813": 55,
+      "gas:candidate-vibid:26920001040910": 21,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 10,
+      "gas:candidate-vibid:26920001040821": 9,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14070,15 +14070,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 38,
-      "Белова Марина Викторовна": 20,
-      "Васильев Владимир Абдуалиевич": 222,
-      "Гончаров Артем Сергеевич": 43,
-      "Каноков Тимур Борисович": 31,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 8,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 38,
+      "gas:candidate-vibid:26920001034061": 20,
+      "gas:candidate-vibid:26920001036650": 222,
+      "gas:candidate-vibid:26920001032813": 43,
+      "gas:candidate-vibid:26920001040910": 31,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 8,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14129,15 +14129,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 23,
-      "Белова Марина Викторовна": 10,
-      "Васильев Владимир Абдуалиевич": 148,
-      "Гончаров Артем Сергеевич": 34,
-      "Каноков Тимур Борисович": 12,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 8,
-      "Шкляр Вадим Владимирович": 3
+      "gas:candidate-vibid:26920001025603": 23,
+      "gas:candidate-vibid:26920001034061": 10,
+      "gas:candidate-vibid:26920001036650": 148,
+      "gas:candidate-vibid:26920001032813": 34,
+      "gas:candidate-vibid:26920001040910": 12,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 8,
+      "gas:candidate-vibid:26920001040853": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14188,15 +14188,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 55,
-      "Белова Марина Викторовна": 21,
-      "Васильев Владимир Абдуалиевич": 322,
-      "Гончаров Артем Сергеевич": 74,
-      "Каноков Тимур Борисович": 35,
-      "Комарницкий Роман Русланович": 3,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 12,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 55,
+      "gas:candidate-vibid:26920001034061": 21,
+      "gas:candidate-vibid:26920001036650": 322,
+      "gas:candidate-vibid:26920001032813": 74,
+      "gas:candidate-vibid:26920001040910": 35,
+      "gas:candidate-vibid:26920001040874": 3,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 12,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14247,15 +14247,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 22,
-      "Белова Марина Викторовна": 17,
-      "Васильев Владимир Абдуалиевич": 136,
-      "Гончаров Артем Сергеевич": 29,
-      "Каноков Тимур Борисович": 32,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 6,
-      "Сорокин Александр Сергеевич": 4,
-      "Шкляр Вадим Владимирович": 2
+      "gas:candidate-vibid:26920001025603": 22,
+      "gas:candidate-vibid:26920001034061": 17,
+      "gas:candidate-vibid:26920001036650": 136,
+      "gas:candidate-vibid:26920001032813": 29,
+      "gas:candidate-vibid:26920001040910": 32,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 6,
+      "gas:candidate-vibid:26920001040821": 4,
+      "gas:candidate-vibid:26920001040853": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14306,15 +14306,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 26,
-      "Белова Марина Викторовна": 30,
-      "Васильев Владимир Абдуалиевич": 122,
-      "Гончаров Артем Сергеевич": 35,
-      "Каноков Тимур Борисович": 19,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 11,
-      "Сорокин Александр Сергеевич": 7,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 26,
+      "gas:candidate-vibid:26920001034061": 30,
+      "gas:candidate-vibid:26920001036650": 122,
+      "gas:candidate-vibid:26920001032813": 35,
+      "gas:candidate-vibid:26920001040910": 19,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 11,
+      "gas:candidate-vibid:26920001040821": 7,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14365,15 +14365,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 30,
-      "Белова Марина Викторовна": 6,
-      "Васильев Владимир Абдуалиевич": 145,
-      "Гончаров Артем Сергеевич": 12,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 2,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 30,
+      "gas:candidate-vibid:26920001034061": 6,
+      "gas:candidate-vibid:26920001036650": 145,
+      "gas:candidate-vibid:26920001032813": 12,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 2,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14424,15 +14424,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 15,
-      "Белова Марина Викторовна": 7,
-      "Васильев Владимир Абдуалиевич": 170,
-      "Гончаров Артем Сергеевич": 13,
-      "Каноков Тимур Борисович": 8,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 4,
-      "Сорокин Александр Сергеевич": 3,
-      "Шкляр Вадим Владимирович": 4
+      "gas:candidate-vibid:26920001025603": 15,
+      "gas:candidate-vibid:26920001034061": 7,
+      "gas:candidate-vibid:26920001036650": 170,
+      "gas:candidate-vibid:26920001032813": 13,
+      "gas:candidate-vibid:26920001040910": 8,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 4,
+      "gas:candidate-vibid:26920001040821": 3,
+      "gas:candidate-vibid:26920001040853": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14483,15 +14483,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 11,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 47,
-      "Гончаров Артем Сергеевич": 6,
-      "Каноков Тимур Борисович": 0,
-      "Комарницкий Роман Русланович": 1,
-      "Слитинский Дмитрий Юрьевич": 0,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 11,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 47,
+      "gas:candidate-vibid:26920001032813": 6,
+      "gas:candidate-vibid:26920001040910": 0,
+      "gas:candidate-vibid:26920001040874": 1,
+      "gas:candidate-vibid:26920001031491": 0,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14542,15 +14542,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 14,
-      "Белова Марина Викторовна": 3,
-      "Васильев Владимир Абдуалиевич": 48,
-      "Гончаров Артем Сергеевич": 1,
-      "Каноков Тимур Борисович": 3,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 7,
-      "Сорокин Александр Сергеевич": 2,
-      "Шкляр Вадим Владимирович": 1
+      "gas:candidate-vibid:26920001025603": 14,
+      "gas:candidate-vibid:26920001034061": 3,
+      "gas:candidate-vibid:26920001036650": 48,
+      "gas:candidate-vibid:26920001032813": 1,
+      "gas:candidate-vibid:26920001040910": 3,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 7,
+      "gas:candidate-vibid:26920001040821": 2,
+      "gas:candidate-vibid:26920001040853": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14601,15 +14601,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 12,
-      "Белова Марина Викторовна": 12,
-      "Васильев Владимир Абдуалиевич": 71,
-      "Гончаров Артем Сергеевич": 9,
-      "Каноков Тимур Борисович": 12,
-      "Комарницкий Роман Русланович": 2,
-      "Слитинский Дмитрий Юрьевич": 3,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 12,
+      "gas:candidate-vibid:26920001034061": 12,
+      "gas:candidate-vibid:26920001036650": 71,
+      "gas:candidate-vibid:26920001032813": 9,
+      "gas:candidate-vibid:26920001040910": 12,
+      "gas:candidate-vibid:26920001040874": 2,
+      "gas:candidate-vibid:26920001031491": 3,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",
@@ -14660,15 +14660,15 @@ export const duma_2016_uik_463_region_69_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Барастов Владимир Станиславович": 9,
-      "Белова Марина Викторовна": 4,
-      "Васильев Владимир Абдуалиевич": 140,
-      "Гончаров Артем Сергеевич": 8,
-      "Каноков Тимур Борисович": 5,
-      "Комарницкий Роман Русланович": 0,
-      "Слитинский Дмитрий Юрьевич": 1,
-      "Сорокин Александр Сергеевич": 1,
-      "Шкляр Вадим Владимирович": 0
+      "gas:candidate-vibid:26920001025603": 9,
+      "gas:candidate-vibid:26920001034061": 4,
+      "gas:candidate-vibid:26920001036650": 140,
+      "gas:candidate-vibid:26920001032813": 8,
+      "gas:candidate-vibid:26920001040910": 5,
+      "gas:candidate-vibid:26920001040874": 0,
+      "gas:candidate-vibid:26920001031491": 1,
+      "gas:candidate-vibid:26920001040821": 1,
+      "gas:candidate-vibid:26920001040853": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/tver?action=show&root=1000237&tvd=2692000983815&vrn=100100067795849&region=69&global=&sub_region=69&prver=0&pronetvd=null&vibid=2692000983815&type=464",

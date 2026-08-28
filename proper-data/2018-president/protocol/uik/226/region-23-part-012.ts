@@ -32,14 +32,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 50,
-      "Жириновский Владимир Вольфович": 51,
-      "Путин Владимир Владимирович": 1195,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 50,
+      "gas:candidate-vibid:100100084907814": 51,
+      "gas:candidate-vibid:100100084986022": 1195,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -79,14 +79,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 118,
-      "Жириновский Владимир Вольфович": 3,
-      "Путин Владимир Владимирович": 1161,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 118,
+      "gas:candidate-vibid:100100084907814": 3,
+      "gas:candidate-vibid:100100084986022": 1161,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -126,14 +126,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 30,
-      "Жириновский Владимир Вольфович": 9,
-      "Путин Владимир Владимирович": 690,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 30,
+      "gas:candidate-vibid:100100084907814": 9,
+      "gas:candidate-vibid:100100084986022": 690,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -173,14 +173,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 8,
-      "Путин Владимир Владимирович": 437,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 8,
+      "gas:candidate-vibid:100100084986022": 437,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -220,14 +220,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 54,
-      "Путин Владимир Владимирович": 1553,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 54,
+      "gas:candidate-vibid:100100084986022": 1553,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -267,14 +267,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 24,
-      "Жириновский Владимир Вольфович": 33,
-      "Путин Владимир Владимирович": 609,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 24,
+      "gas:candidate-vibid:100100084907814": 33,
+      "gas:candidate-vibid:100100084986022": 609,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -314,14 +314,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 22,
-      "Жириновский Владимир Вольфович": 10,
-      "Путин Владимир Владимирович": 468,
-      "Собчак Ксения Анатольевна": 0,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 22,
+      "gas:candidate-vibid:100100084907814": 10,
+      "gas:candidate-vibid:100100084986022": 468,
+      "gas:candidate-vibid:100100084956361": 0,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -361,14 +361,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 43,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 1255,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 43,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 1255,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -408,14 +408,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 7,
-      "Путин Владимир Владимирович": 132,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 7,
+      "gas:candidate-vibid:100100084986022": 132,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182681&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182681&type=227",
@@ -455,14 +455,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 149,
-      "Жириновский Владимир Вольфович": 78,
-      "Путин Владимир Владимирович": 826,
-      "Собчак Ксения Анатольевна": 19,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 28,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 149,
+      "gas:candidate-vibid:100100084907814": 78,
+      "gas:candidate-vibid:100100084986022": 826,
+      "gas:candidate-vibid:100100084956361": 19,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 28,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -502,14 +502,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 104,
-      "Жириновский Владимир Вольфович": 74,
-      "Путин Владимир Владимирович": 1096,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 104,
+      "gas:candidate-vibid:100100084907814": 74,
+      "gas:candidate-vibid:100100084986022": 1096,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -549,14 +549,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 80,
-      "Жириновский Владимир Вольфович": 45,
-      "Путин Владимир Владимирович": 589,
-      "Собчак Ксения Анатольевна": 11,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 80,
+      "gas:candidate-vibid:100100084907814": 45,
+      "gas:candidate-vibid:100100084986022": 589,
+      "gas:candidate-vibid:100100084956361": 11,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -596,14 +596,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 142,
-      "Жириновский Владимир Вольфович": 104,
-      "Путин Владимир Владимирович": 911,
-      "Собчак Ксения Анатольевна": 38,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 33,
-      "Явлинский Григорий Алексеевич": 11
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 142,
+      "gas:candidate-vibid:100100084907814": 104,
+      "gas:candidate-vibid:100100084986022": 911,
+      "gas:candidate-vibid:100100084956361": 38,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 33,
+      "gas:candidate-vibid:100100084937056": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -643,14 +643,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 114,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 539,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 114,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 539,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -690,14 +690,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 128,
-      "Жириновский Владимир Вольфович": 119,
-      "Путин Владимир Владимирович": 1521,
-      "Собчак Ксения Анатольевна": 16,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 24,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 128,
+      "gas:candidate-vibid:100100084907814": 119,
+      "gas:candidate-vibid:100100084986022": 1521,
+      "gas:candidate-vibid:100100084956361": 16,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 24,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -737,14 +737,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 145,
-      "Жириновский Владимир Вольфович": 80,
-      "Путин Владимир Владимирович": 1696,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 26,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 145,
+      "gas:candidate-vibid:100100084907814": 80,
+      "gas:candidate-vibid:100100084986022": 1696,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 26,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -784,14 +784,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 107,
-      "Жириновский Владимир Вольфович": 74,
-      "Путин Владимир Владимирович": 635,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 107,
+      "gas:candidate-vibid:100100084907814": 74,
+      "gas:candidate-vibid:100100084986022": 635,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -831,14 +831,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 207,
-      "Жириновский Владимир Вольфович": 86,
-      "Путин Владимир Владимирович": 1708,
-      "Собчак Ксения Анатольевна": 14,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 207,
+      "gas:candidate-vibid:100100084907814": 86,
+      "gas:candidate-vibid:100100084986022": 1708,
+      "gas:candidate-vibid:100100084956361": 14,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -878,14 +878,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 102,
-      "Жириновский Владимир Вольфович": 75,
-      "Путин Владимир Владимирович": 878,
-      "Собчак Ксения Анатольевна": 18,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 102,
+      "gas:candidate-vibid:100100084907814": 75,
+      "gas:candidate-vibid:100100084986022": 878,
+      "gas:candidate-vibid:100100084956361": 18,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -925,14 +925,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 103,
-      "Жириновский Владимир Вольфович": 90,
-      "Путин Владимир Владимирович": 1126,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 103,
+      "gas:candidate-vibid:100100084907814": 90,
+      "gas:candidate-vibid:100100084986022": 1126,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -972,14 +972,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 122,
-      "Жириновский Владимир Вольфович": 87,
-      "Путин Владимир Владимирович": 783,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 122,
+      "gas:candidate-vibid:100100084907814": 87,
+      "gas:candidate-vibid:100100084986022": 783,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1019,14 +1019,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 216,
-      "Жириновский Владимир Вольфович": 146,
-      "Путин Владимир Владимирович": 1176,
-      "Собчак Ксения Анатольевна": 42,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 216,
+      "gas:candidate-vibid:100100084907814": 146,
+      "gas:candidate-vibid:100100084986022": 1176,
+      "gas:candidate-vibid:100100084956361": 42,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1066,14 +1066,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 170,
-      "Жириновский Владимир Вольфович": 158,
-      "Путин Владимир Владимирович": 2016,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 27,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 170,
+      "gas:candidate-vibid:100100084907814": 158,
+      "gas:candidate-vibid:100100084986022": 2016,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 27,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1113,14 +1113,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 74,
-      "Жириновский Владимир Вольфович": 69,
-      "Путин Владимир Владимирович": 880,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 74,
+      "gas:candidate-vibid:100100084907814": 69,
+      "gas:candidate-vibid:100100084986022": 880,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1160,14 +1160,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 183,
-      "Жириновский Владимир Вольфович": 119,
-      "Путин Владимир Владимирович": 744,
-      "Собчак Ксения Анатольевна": 27,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 183,
+      "gas:candidate-vibid:100100084907814": 119,
+      "gas:candidate-vibid:100100084986022": 744,
+      "gas:candidate-vibid:100100084956361": 27,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1207,14 +1207,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 68,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 1526,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 5
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 68,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 1526,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1254,14 +1254,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 165,
-      "Жириновский Владимир Вольфович": 153,
-      "Путин Владимир Владимирович": 1951,
-      "Собчак Ксения Анатольевна": 21,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 26,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 165,
+      "gas:candidate-vibid:100100084907814": 153,
+      "gas:candidate-vibid:100100084986022": 1951,
+      "gas:candidate-vibid:100100084956361": 21,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 26,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1301,14 +1301,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 130,
-      "Жириновский Владимир Вольфович": 120,
-      "Путин Владимир Владимирович": 1536,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 13
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 130,
+      "gas:candidate-vibid:100100084907814": 120,
+      "gas:candidate-vibid:100100084986022": 1536,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1348,14 +1348,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 90,
-      "Жириновский Владимир Вольфович": 83,
-      "Путин Владимир Владимирович": 1062,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 14,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 90,
+      "gas:candidate-vibid:100100084907814": 83,
+      "gas:candidate-vibid:100100084986022": 1062,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 14,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1395,14 +1395,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 123,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 803,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 123,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 803,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1442,14 +1442,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 104,
-      "Жириновский Владимир Вольфович": 96,
-      "Путин Владимир Владимирович": 1228,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 16,
-      "Явлинский Григорий Алексеевич": 11
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 104,
+      "gas:candidate-vibid:100100084907814": 96,
+      "gas:candidate-vibid:100100084986022": 1228,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 16,
+      "gas:candidate-vibid:100100084937056": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1489,14 +1489,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 103,
-      "Жириновский Владимир Вольфович": 96,
-      "Путин Владимир Владимирович": 1220,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 16,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 103,
+      "gas:candidate-vibid:100100084907814": 96,
+      "gas:candidate-vibid:100100084986022": 1220,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 16,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1536,14 +1536,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 1,
-      "Жириновский Владимир Вольфович": 1,
-      "Путин Владимир Владимирович": 1723,
-      "Собчак Ксения Анатольевна": 1,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 1,
+      "gas:candidate-vibid:100100084907814": 1,
+      "gas:candidate-vibid:100100084986022": 1723,
+      "gas:candidate-vibid:100100084956361": 1,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1583,14 +1583,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 144,
-      "Жириновский Владимир Вольфович": 133,
-      "Путин Владимир Владимирович": 1702,
-      "Собчак Ксения Анатольевна": 18,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 14
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 144,
+      "gas:candidate-vibid:100100084907814": 133,
+      "gas:candidate-vibid:100100084986022": 1702,
+      "gas:candidate-vibid:100100084956361": 18,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1630,14 +1630,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 50,
-      "Жириновский Владимир Вольфович": 15,
-      "Путин Владимир Владимирович": 585,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 50,
+      "gas:candidate-vibid:100100084907814": 15,
+      "gas:candidate-vibid:100100084986022": 585,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1677,14 +1677,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 137,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 765,
-      "Собчак Ксения Анатольевна": 24,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 21,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 137,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 765,
+      "gas:candidate-vibid:100100084956361": 24,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 21,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1724,14 +1724,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 98,
-      "Жириновский Владимир Вольфович": 91,
-      "Путин Владимир Владимирович": 1156,
-      "Собчак Ксения Анатольевна": 13,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 98,
+      "gas:candidate-vibid:100100084907814": 91,
+      "gas:candidate-vibid:100100084986022": 1156,
+      "gas:candidate-vibid:100100084956361": 13,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1771,14 +1771,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 122,
-      "Жириновский Владимир Вольфович": 131,
-      "Путин Владимир Владимирович": 1552,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 21,
-      "Явлинский Григорий Алексеевич": 13
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 122,
+      "gas:candidate-vibid:100100084907814": 131,
+      "gas:candidate-vibid:100100084986022": 1552,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 21,
+      "gas:candidate-vibid:100100084937056": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1818,14 +1818,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 100,
-      "Жириновский Владимир Вольфович": 38,
-      "Путин Владимир Владимирович": 465,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 100,
+      "gas:candidate-vibid:100100084907814": 38,
+      "gas:candidate-vibid:100100084986022": 465,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",
@@ -1865,14 +1865,14 @@ export const president_2018_uik_226_region_23_part_012 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 97,
-      "Жириновский Владимир Вольфович": 90,
-      "Путин Владимир Владимирович": 1144,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 15,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 97,
+      "gas:candidate-vibid:100100084907814": 90,
+      "gas:candidate-vibid:100100084986022": 1144,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 15,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnodar?action=show&root=1000023&tvd=22320002182682&vrn=100100084849062&region=23&global=&sub_region=23&prver=0&pronetvd=null&vibid=22320002182682&type=227",

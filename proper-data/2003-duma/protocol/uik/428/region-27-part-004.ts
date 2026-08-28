@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 39,
-      "Жуков Константин Анатольевич": 17,
-      "Михальцов Вячеслав Геннадьевич": 24,
-      "Разуванов Леонид Михайлович": 44,
-      "Резник Борис Львович": 392,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 23,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 39,
+      "gas:candidate-vibid:1001000190325": 17,
+      "gas:candidate-vibid:1001000217912": 24,
+      "gas:candidate-vibid:1001000136033": 44,
+      "gas:candidate-vibid:327300266723": 392,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 23,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 5,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 56,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 2,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 5,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 56,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 2,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 11,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 150,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 11,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 150,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 39,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 14,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 39,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 14,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 0,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 8,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 31,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 2,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 0,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 8,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 31,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 2,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 28,
-      "Жуков Константин Анатольевич": 69,
-      "Михальцов Вячеслав Геннадьевич": 14,
-      "Разуванов Леонид Михайлович": 30,
-      "Резник Борис Львович": 297,
-      "Сайков Виктор Владимирович": 9,
-      "Титоренко Владимир Федорович": 26,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 28,
+      "gas:candidate-vibid:1001000190325": 69,
+      "gas:candidate-vibid:1001000217912": 14,
+      "gas:candidate-vibid:1001000136033": 30,
+      "gas:candidate-vibid:327300266723": 297,
+      "gas:candidate-vibid:1001000193908": 9,
+      "gas:candidate-vibid:1001000121828": 26,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 15,
-      "Вовк Михаил Федорович": 53,
-      "Жуков Константин Анатольевич": 17,
-      "Михальцов Вячеслав Геннадьевич": 14,
-      "Разуванов Леонид Михайлович": 30,
-      "Резник Борис Львович": 355,
-      "Сайков Виктор Владимирович": 12,
-      "Титоренко Владимир Федорович": 43,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000113919": 15,
+      "gas:candidate-vibid:1001000112202": 53,
+      "gas:candidate-vibid:1001000190325": 17,
+      "gas:candidate-vibid:1001000217912": 14,
+      "gas:candidate-vibid:1001000136033": 30,
+      "gas:candidate-vibid:327300266723": 355,
+      "gas:candidate-vibid:1001000193908": 12,
+      "gas:candidate-vibid:1001000121828": 43,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 41,
-      "Вовк Михаил Федорович": 27,
-      "Жуков Константин Анатольевич": 50,
-      "Михальцов Вячеслав Геннадьевич": 29,
-      "Разуванов Леонид Михайлович": 101,
-      "Резник Борис Львович": 86,
-      "Сайков Виктор Владимирович": 22,
-      "Титоренко Владимир Федорович": 25,
-      "Фирциков Олег Олегович": 21,
-      "Против всех": 367
+      "gas:candidate-vibid:1001000113919": 41,
+      "gas:candidate-vibid:1001000112202": 27,
+      "gas:candidate-vibid:1001000190325": 50,
+      "gas:candidate-vibid:1001000217912": 29,
+      "gas:candidate-vibid:1001000136033": 101,
+      "gas:candidate-vibid:327300266723": 86,
+      "gas:candidate-vibid:1001000193908": 22,
+      "gas:candidate-vibid:1001000121828": 25,
+      "gas:candidate-vibid:327300267014": 21,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 47,
-      "Вовк Михаил Федорович": 41,
-      "Жуков Константин Анатольевич": 66,
-      "Михальцов Вячеслав Геннадьевич": 27,
-      "Разуванов Леонид Михайлович": 78,
-      "Резник Борис Львович": 229,
-      "Сайков Виктор Владимирович": 36,
-      "Титоренко Владимир Федорович": 18,
-      "Фирциков Олег Олегович": 23,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000113919": 47,
+      "gas:candidate-vibid:1001000112202": 41,
+      "gas:candidate-vibid:1001000190325": 66,
+      "gas:candidate-vibid:1001000217912": 27,
+      "gas:candidate-vibid:1001000136033": 78,
+      "gas:candidate-vibid:327300266723": 229,
+      "gas:candidate-vibid:1001000193908": 36,
+      "gas:candidate-vibid:1001000121828": 18,
+      "gas:candidate-vibid:327300267014": 23,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 92,
-      "Вовк Михаил Федорович": 77,
-      "Жуков Константин Анатольевич": 112,
-      "Михальцов Вячеслав Геннадьевич": 37,
-      "Разуванов Леонид Михайлович": 107,
-      "Резник Борис Львович": 436,
-      "Сайков Виктор Владимирович": 42,
-      "Титоренко Владимир Федорович": 60,
-      "Фирциков Олег Олегович": 52,
-      "Против всех": 452
+      "gas:candidate-vibid:1001000113919": 92,
+      "gas:candidate-vibid:1001000112202": 77,
+      "gas:candidate-vibid:1001000190325": 112,
+      "gas:candidate-vibid:1001000217912": 37,
+      "gas:candidate-vibid:1001000136033": 107,
+      "gas:candidate-vibid:327300266723": 436,
+      "gas:candidate-vibid:1001000193908": 42,
+      "gas:candidate-vibid:1001000121828": 60,
+      "gas:candidate-vibid:327300267014": 52,
+      "special:against-all": 452
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266687&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 22,
-      "Вовк Михаил Федорович": 68,
-      "Жуков Константин Анатольевич": 31,
-      "Михальцов Вячеслав Геннадьевич": 21,
-      "Разуванов Леонид Михайлович": 73,
-      "Резник Борис Львович": 802,
-      "Сайков Виктор Владимирович": 12,
-      "Титоренко Владимир Федорович": 129,
-      "Фирциков Олег Олегович": 15,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000113919": 22,
+      "gas:candidate-vibid:1001000112202": 68,
+      "gas:candidate-vibid:1001000190325": 31,
+      "gas:candidate-vibid:1001000217912": 21,
+      "gas:candidate-vibid:1001000136033": 73,
+      "gas:candidate-vibid:327300266723": 802,
+      "gas:candidate-vibid:1001000193908": 12,
+      "gas:candidate-vibid:1001000121828": 129,
+      "gas:candidate-vibid:327300267014": 15,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 23,
-      "Вовк Михаил Федорович": 42,
-      "Жуков Константин Анатольевич": 31,
-      "Михальцов Вячеслав Геннадьевич": 20,
-      "Разуванов Леонид Михайлович": 56,
-      "Резник Борис Львович": 558,
-      "Сайков Виктор Владимирович": 8,
-      "Титоренко Владимир Федорович": 81,
-      "Фирциков Олег Олегович": 8,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000113919": 23,
+      "gas:candidate-vibid:1001000112202": 42,
+      "gas:candidate-vibid:1001000190325": 31,
+      "gas:candidate-vibid:1001000217912": 20,
+      "gas:candidate-vibid:1001000136033": 56,
+      "gas:candidate-vibid:327300266723": 558,
+      "gas:candidate-vibid:1001000193908": 8,
+      "gas:candidate-vibid:1001000121828": 81,
+      "gas:candidate-vibid:327300267014": 8,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 18,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 20,
-      "Резник Борис Львович": 154,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 22,
-      "Фирциков Олег Олегович": 16,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 18,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 20,
+      "gas:candidate-vibid:327300266723": 154,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 22,
+      "gas:candidate-vibid:327300267014": 16,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 8,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 12,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 14,
-      "Резник Борис Львович": 205,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 26,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113919": 8,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 12,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 14,
+      "gas:candidate-vibid:327300266723": 205,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 26,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 54,
-      "Вовк Михаил Федорович": 47,
-      "Жуков Константин Анатольевич": 34,
-      "Михальцов Вячеслав Геннадьевич": 12,
-      "Разуванов Леонид Михайлович": 107,
-      "Резник Борис Львович": 208,
-      "Сайков Виктор Владимирович": 23,
-      "Титоренко Владимир Федорович": 31,
-      "Фирциков Олег Олегович": 20,
-      "Против всех": 249
+      "gas:candidate-vibid:1001000113919": 54,
+      "gas:candidate-vibid:1001000112202": 47,
+      "gas:candidate-vibid:1001000190325": 34,
+      "gas:candidate-vibid:1001000217912": 12,
+      "gas:candidate-vibid:1001000136033": 107,
+      "gas:candidate-vibid:327300266723": 208,
+      "gas:candidate-vibid:1001000193908": 23,
+      "gas:candidate-vibid:1001000121828": 31,
+      "gas:candidate-vibid:327300267014": 20,
+      "special:against-all": 249
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 15,
-      "Вовк Михаил Федорович": 13,
-      "Жуков Константин Анатольевич": 17,
-      "Михальцов Вячеслав Геннадьевич": 9,
-      "Разуванов Леонид Михайлович": 31,
-      "Резник Борис Львович": 172,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 39,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113919": 15,
+      "gas:candidate-vibid:1001000112202": 13,
+      "gas:candidate-vibid:1001000190325": 17,
+      "gas:candidate-vibid:1001000217912": 9,
+      "gas:candidate-vibid:1001000136033": 31,
+      "gas:candidate-vibid:327300266723": 172,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 39,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 31,
-      "Жуков Константин Анатольевич": 14,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 27,
-      "Резник Борис Львович": 272,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 29,
-      "Фирциков Олег Олегович": 13,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 31,
+      "gas:candidate-vibid:1001000190325": 14,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 27,
+      "gas:candidate-vibid:327300266723": 272,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 29,
+      "gas:candidate-vibid:327300267014": 13,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 24,
-      "Жуков Константин Анатольевич": 6,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 61,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 20,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 24,
+      "gas:candidate-vibid:1001000190325": 6,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 61,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 20,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 9,
-      "Вовк Михаил Федорович": 16,
-      "Жуков Константин Анатольевич": 27,
-      "Михальцов Вячеслав Геннадьевич": 38,
-      "Разуванов Леонид Михайлович": 28,
-      "Резник Борис Львович": 197,
-      "Сайков Виктор Владимирович": 8,
-      "Титоренко Владимир Федорович": 36,
-      "Фирциков Олег Олегович": 5,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000113919": 9,
+      "gas:candidate-vibid:1001000112202": 16,
+      "gas:candidate-vibid:1001000190325": 27,
+      "gas:candidate-vibid:1001000217912": 38,
+      "gas:candidate-vibid:1001000136033": 28,
+      "gas:candidate-vibid:327300266723": 197,
+      "gas:candidate-vibid:1001000193908": 8,
+      "gas:candidate-vibid:1001000121828": 36,
+      "gas:candidate-vibid:327300267014": 5,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 9,
-      "Жуков Константин Анатольевич": 5,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 4,
-      "Резник Борис Львович": 17,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 2,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 9,
+      "gas:candidate-vibid:1001000190325": 5,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 4,
+      "gas:candidate-vibid:327300266723": 17,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 2,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 44,
-      "Жуков Константин Анатольевич": 111,
-      "Михальцов Вячеслав Геннадьевич": 10,
-      "Разуванов Леонид Михайлович": 39,
-      "Резник Борис Львович": 311,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 53,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 44,
+      "gas:candidate-vibid:1001000190325": 111,
+      "gas:candidate-vibid:1001000217912": 10,
+      "gas:candidate-vibid:1001000136033": 39,
+      "gas:candidate-vibid:327300266723": 311,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 53,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 15,
-      "Жуков Константин Анатольевич": 23,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 18,
-      "Резник Борис Львович": 141,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 28,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 15,
+      "gas:candidate-vibid:1001000190325": 23,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 18,
+      "gas:candidate-vibid:327300266723": 141,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 28,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 31,
-      "Жуков Константин Анатольевич": 65,
-      "Михальцов Вячеслав Геннадьевич": 8,
-      "Разуванов Леонид Михайлович": 25,
-      "Резник Борис Львович": 267,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 27,
-      "Фирциков Олег Олегович": 9,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 31,
+      "gas:candidate-vibid:1001000190325": 65,
+      "gas:candidate-vibid:1001000217912": 8,
+      "gas:candidate-vibid:1001000136033": 25,
+      "gas:candidate-vibid:327300266723": 267,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 27,
+      "gas:candidate-vibid:327300267014": 9,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 26,
-      "Вовк Михаил Федорович": 100,
-      "Жуков Константин Анатольевич": 164,
-      "Михальцов Вячеслав Геннадьевич": 17,
-      "Разуванов Леонид Михайлович": 62,
-      "Резник Борис Львович": 698,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 86,
-      "Фирциков Олег Олегович": 9,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000113919": 26,
+      "gas:candidate-vibid:1001000112202": 100,
+      "gas:candidate-vibid:1001000190325": 164,
+      "gas:candidate-vibid:1001000217912": 17,
+      "gas:candidate-vibid:1001000136033": 62,
+      "gas:candidate-vibid:327300266723": 698,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 86,
+      "gas:candidate-vibid:327300267014": 9,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 25,
-      "Вовк Михаил Федорович": 72,
-      "Жуков Константин Анатольевич": 77,
-      "Михальцов Вячеслав Геннадьевич": 17,
-      "Разуванов Леонид Михайлович": 79,
-      "Резник Борис Львович": 624,
-      "Сайков Виктор Владимирович": 17,
-      "Титоренко Владимир Федорович": 102,
-      "Фирциков Олег Олегович": 26,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000113919": 25,
+      "gas:candidate-vibid:1001000112202": 72,
+      "gas:candidate-vibid:1001000190325": 77,
+      "gas:candidate-vibid:1001000217912": 17,
+      "gas:candidate-vibid:1001000136033": 79,
+      "gas:candidate-vibid:327300266723": 624,
+      "gas:candidate-vibid:1001000193908": 17,
+      "gas:candidate-vibid:1001000121828": 102,
+      "gas:candidate-vibid:327300267014": 26,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 17,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 17,
-      "Резник Борис Львович": 168,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 15,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 17,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 17,
+      "gas:candidate-vibid:327300266723": 168,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 15,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 26,
-      "Михальцов Вячеслав Геннадьевич": 9,
-      "Разуванов Леонид Михайлович": 13,
-      "Резник Борис Львович": 104,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 6,
-      "Фирциков Олег Олегович": 5,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 26,
+      "gas:candidate-vibid:1001000217912": 9,
+      "gas:candidate-vibid:1001000136033": 13,
+      "gas:candidate-vibid:327300266723": 104,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 6,
+      "gas:candidate-vibid:327300267014": 5,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 5,
-      "Вовк Михаил Федорович": 8,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 94,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 4,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113919": 5,
+      "gas:candidate-vibid:1001000112202": 8,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 94,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 4,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 11,
-      "Вовк Михаил Федорович": 11,
-      "Жуков Константин Анатольевич": 12,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 19,
-      "Резник Борис Львович": 115,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 15,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113919": 11,
+      "gas:candidate-vibid:1001000112202": 11,
+      "gas:candidate-vibid:1001000190325": 12,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 19,
+      "gas:candidate-vibid:327300266723": 115,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 15,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 33,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 2,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 33,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 2,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 9,
-      "Вовк Михаил Федорович": 19,
-      "Жуков Константин Анатольевич": 21,
-      "Михальцов Вячеслав Геннадьевич": 14,
-      "Разуванов Леонид Михайлович": 65,
-      "Резник Борис Львович": 248,
-      "Сайков Виктор Владимирович": 7,
-      "Титоренко Владимир Федорович": 21,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113919": 9,
+      "gas:candidate-vibid:1001000112202": 19,
+      "gas:candidate-vibid:1001000190325": 21,
+      "gas:candidate-vibid:1001000217912": 14,
+      "gas:candidate-vibid:1001000136033": 65,
+      "gas:candidate-vibid:327300266723": 248,
+      "gas:candidate-vibid:1001000193908": 7,
+      "gas:candidate-vibid:1001000121828": 21,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 5,
-      "Вовк Михаил Федорович": 9,
-      "Жуков Константин Анатольевич": 14,
-      "Михальцов Вячеслав Геннадьевич": 8,
-      "Разуванов Леонид Михайлович": 8,
-      "Резник Борис Львович": 135,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 22,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000113919": 5,
+      "gas:candidate-vibid:1001000112202": 9,
+      "gas:candidate-vibid:1001000190325": 14,
+      "gas:candidate-vibid:1001000217912": 8,
+      "gas:candidate-vibid:1001000136033": 8,
+      "gas:candidate-vibid:327300266723": 135,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 22,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 8,
-      "Вовк Михаил Федорович": 24,
-      "Жуков Константин Анатольевич": 12,
-      "Михальцов Вячеслав Геннадьевич": 9,
-      "Разуванов Леонид Михайлович": 11,
-      "Резник Борис Львович": 99,
-      "Сайков Виктор Владимирович": 12,
-      "Титоренко Владимир Федорович": 14,
-      "Фирциков Олег Олегович": 5,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113919": 8,
+      "gas:candidate-vibid:1001000112202": 24,
+      "gas:candidate-vibid:1001000190325": 12,
+      "gas:candidate-vibid:1001000217912": 9,
+      "gas:candidate-vibid:1001000136033": 11,
+      "gas:candidate-vibid:327300266723": 99,
+      "gas:candidate-vibid:1001000193908": 12,
+      "gas:candidate-vibid:1001000121828": 14,
+      "gas:candidate-vibid:327300267014": 5,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 16,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 16,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 7,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 5,
-      "Резник Борис Львович": 136,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 7,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 5,
+      "gas:candidate-vibid:327300266723": 136,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 6,
-      "Резник Борис Львович": 15,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 6,
+      "gas:candidate-vibid:327300266723": 15,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 8,
-      "Жуков Константин Анатольевич": 9,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 13,
-      "Резник Борис Львович": 137,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 6,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 8,
+      "gas:candidate-vibid:1001000190325": 9,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 13,
+      "gas:candidate-vibid:327300266723": 137,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 6,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 7,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 8,
-      "Резник Борис Львович": 86,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 5,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 7,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 8,
+      "gas:candidate-vibid:327300266723": 86,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 5,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 7,
-      "Жуков Константин Анатольевич": 13,
-      "Михальцов Вячеслав Геннадьевич": 5,
-      "Разуванов Леонид Михайлович": 15,
-      "Резник Борис Львович": 276,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 11,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 7,
+      "gas:candidate-vibid:1001000190325": 13,
+      "gas:candidate-vibid:1001000217912": 5,
+      "gas:candidate-vibid:1001000136033": 15,
+      "gas:candidate-vibid:327300266723": 276,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 11,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 50,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 2,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 50,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 2,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 8,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 273,
-      "Сайков Виктор Владимирович": 7,
-      "Титоренко Владимир Федорович": 14,
-      "Фирциков Олег Олегович": 5,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 8,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 273,
+      "gas:candidate-vibid:1001000193908": 7,
+      "gas:candidate-vibid:1001000121828": 14,
+      "gas:candidate-vibid:327300267014": 5,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 0,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 27,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 0,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 0,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 27,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 0,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 33,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 10,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 33,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 10,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 6,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 8,
-      "Резник Борис Львович": 97,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 10,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 6,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 8,
+      "gas:candidate-vibid:327300266723": 97,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 10,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 17,
-      "Резник Борис Львович": 130,
-      "Сайков Виктор Владимирович": 9,
-      "Титоренко Владимир Федорович": 18,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 17,
+      "gas:candidate-vibid:327300266723": 130,
+      "gas:candidate-vibid:1001000193908": 9,
+      "gas:candidate-vibid:1001000121828": 18,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 9,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 15,
-      "Михальцов Вячеслав Геннадьевич": 5,
-      "Разуванов Леонид Михайлович": 14,
-      "Резник Борис Львович": 133,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 12,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113919": 9,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 15,
+      "gas:candidate-vibid:1001000217912": 5,
+      "gas:candidate-vibid:1001000136033": 14,
+      "gas:candidate-vibid:327300266723": 133,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 12,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 2,
-      "Резник Борис Львович": 17,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 3,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 2,
+      "gas:candidate-vibid:327300266723": 17,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 3,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 4,
-      "Резник Борис Львович": 43,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 4,
+      "gas:candidate-vibid:327300266723": 43,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 6,
-      "Резник Борис Львович": 70,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 6,
+      "gas:candidate-vibid:327300266723": 70,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 35,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 35,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 29,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 6,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 29,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 6,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 12,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 16,
-      "Разуванов Леонид Михайлович": 10,
-      "Резник Борис Львович": 53,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 21,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 12,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 16,
+      "gas:candidate-vibid:1001000136033": 10,
+      "gas:candidate-vibid:327300266723": 53,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 21,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 13,
-      "Резник Борис Львович": 80,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 13,
+      "gas:candidate-vibid:327300266723": 80,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 14,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 0,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 66,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113919": 14,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 0,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 66,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 8,
-      "Вовк Михаил Федорович": 29,
-      "Жуков Константин Анатольевич": 11,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 24,
-      "Резник Борис Львович": 135,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 18,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113919": 8,
+      "gas:candidate-vibid:1001000112202": 29,
+      "gas:candidate-vibid:1001000190325": 11,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 24,
+      "gas:candidate-vibid:327300266723": 135,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 18,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 23,
-      "Жуков Константин Анатольевич": 12,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 26,
-      "Резник Борис Львович": 351,
-      "Сайков Виктор Владимирович": 9,
-      "Титоренко Владимир Федорович": 80,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 23,
+      "gas:candidate-vibid:1001000190325": 12,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 26,
+      "gas:candidate-vibid:327300266723": 351,
+      "gas:candidate-vibid:1001000193908": 9,
+      "gas:candidate-vibid:1001000121828": 80,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 0,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 5,
-      "Резник Борис Львович": 43,
-      "Сайков Виктор Владимирович": 17,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 0,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 5,
+      "gas:candidate-vibid:327300266723": 43,
+      "gas:candidate-vibid:1001000193908": 17,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 0,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 0,
-      "Резник Борис Львович": 6,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 0,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 0,
+      "gas:candidate-vibid:327300266723": 6,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 16,
-      "Резник Борис Львович": 148,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 8,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 16,
+      "gas:candidate-vibid:327300266723": 148,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 8,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 15,
-      "Жуков Константин Анатольевич": 19,
-      "Михальцов Вячеслав Геннадьевич": 18,
-      "Разуванов Леонид Михайлович": 20,
-      "Резник Борис Львович": 147,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 12,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 15,
+      "gas:candidate-vibid:1001000190325": 19,
+      "gas:candidate-vibid:1001000217912": 18,
+      "gas:candidate-vibid:1001000136033": 20,
+      "gas:candidate-vibid:327300266723": 147,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 12,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 16,
-      "Вовк Михаил Федорович": 27,
-      "Жуков Константин Анатольевич": 16,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 16,
-      "Резник Борис Львович": 230,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 33,
-      "Фирциков Олег Олегович": 7,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000113919": 16,
+      "gas:candidate-vibid:1001000112202": 27,
+      "gas:candidate-vibid:1001000190325": 16,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 16,
+      "gas:candidate-vibid:327300266723": 230,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 33,
+      "gas:candidate-vibid:327300267014": 7,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 12,
-      "Вовк Михаил Федорович": 4,
-      "Жуков Константин Анатольевич": 11,
-      "Михальцов Вячеслав Геннадьевич": 5,
-      "Разуванов Леонид Михайлович": 12,
-      "Резник Борис Львович": 110,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 8,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113919": 12,
+      "gas:candidate-vibid:1001000112202": 4,
+      "gas:candidate-vibid:1001000190325": 11,
+      "gas:candidate-vibid:1001000217912": 5,
+      "gas:candidate-vibid:1001000136033": 12,
+      "gas:candidate-vibid:327300266723": 110,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 8,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 8,
-      "Жуков Константин Анатольевич": 11,
-      "Михальцов Вячеслав Геннадьевич": 9,
-      "Разуванов Леонид Михайлович": 13,
-      "Резник Борис Львович": 100,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 9,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 8,
+      "gas:candidate-vibid:1001000190325": 11,
+      "gas:candidate-vibid:1001000217912": 9,
+      "gas:candidate-vibid:1001000136033": 13,
+      "gas:candidate-vibid:327300266723": 100,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 9,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 17,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 11,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 29,
-      "Резник Борис Львович": 89,
-      "Сайков Виктор Владимирович": 8,
-      "Титоренко Владимир Федорович": 15,
-      "Фирциков Олег Олегович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000113919": 17,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 11,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 29,
+      "gas:candidate-vibid:327300266723": 89,
+      "gas:candidate-vibid:1001000193908": 8,
+      "gas:candidate-vibid:1001000121828": 15,
+      "gas:candidate-vibid:327300267014": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 16,
-      "Жуков Константин Анатольевич": 25,
-      "Михальцов Вячеслав Геннадьевич": 10,
-      "Разуванов Леонид Михайлович": 16,
-      "Резник Борис Львович": 266,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 23,
-      "Фирциков Олег Олегович": 9,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 16,
+      "gas:candidate-vibid:1001000190325": 25,
+      "gas:candidate-vibid:1001000217912": 10,
+      "gas:candidate-vibid:1001000136033": 16,
+      "gas:candidate-vibid:327300266723": 266,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 23,
+      "gas:candidate-vibid:327300267014": 9,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 20,
-      "Жуков Константин Анатольевич": 19,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 22,
-      "Резник Борис Львович": 268,
-      "Сайков Виктор Владимирович": 7,
-      "Титоренко Владимир Федорович": 24,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 20,
+      "gas:candidate-vibid:1001000190325": 19,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 22,
+      "gas:candidate-vibid:327300266723": 268,
+      "gas:candidate-vibid:1001000193908": 7,
+      "gas:candidate-vibid:1001000121828": 24,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 8,
-      "Вовк Михаил Федорович": 24,
-      "Жуков Константин Анатольевич": 19,
-      "Михальцов Вячеслав Геннадьевич": 13,
-      "Разуванов Леонид Михайлович": 18,
-      "Резник Борис Львович": 359,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 30,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113919": 8,
+      "gas:candidate-vibid:1001000112202": 24,
+      "gas:candidate-vibid:1001000190325": 19,
+      "gas:candidate-vibid:1001000217912": 13,
+      "gas:candidate-vibid:1001000136033": 18,
+      "gas:candidate-vibid:327300266723": 359,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 30,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 6,
-      "Резник Борис Львович": 29,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 6,
+      "gas:candidate-vibid:327300266723": 29,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_27_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 0,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 11,
-      "Резник Борис Львович": 21,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 4,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 0,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 11,
+      "gas:candidate-vibid:327300266723": 21,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 4,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300267421&region=0&sub_region=0&type=429",

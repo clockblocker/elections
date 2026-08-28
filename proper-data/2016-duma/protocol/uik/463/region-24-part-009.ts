@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 78,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 16,
-      "Полежаев Петр Иванович": 18,
-      "Рыкунова Татьяна Евгеньевна": 7,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 78,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 16,
+      "gas:candidate-vibid:22420001400275": 18,
+      "gas:candidate-vibid:22420001387151": 7,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 59,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 8,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 59,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 8,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 14,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 14,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 32,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 10,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 32,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 10,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 69,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 17,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 7
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 69,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 17,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 41,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 41,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 243,
-      "Лановая Ольга Викторовна": 11,
-      "Лымпио Александр Сергеевич": 22,
-      "Натаров Сергей Васильевич": 62,
-      "Полежаев Петр Иванович": 33,
-      "Рыкунова Татьяна Евгеньевна": 45,
-      "Селезнев Андрей Валерьевич": 15
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 243,
+      "gas:candidate-vibid:22420001397838": 11,
+      "gas:candidate-vibid:22420001395036": 22,
+      "gas:candidate-vibid:22420001258144": 62,
+      "gas:candidate-vibid:22420001400275": 33,
+      "gas:candidate-vibid:22420001387151": 45,
+      "gas:candidate-vibid:22420001389166": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 27,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 27,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180076&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180076&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 25,
-      "Карданец Артем Викторович": 19,
-      "Кармазина Раиса Васильевна": 326,
-      "Лановая Ольга Викторовна": 18,
-      "Лымпио Александр Сергеевич": 24,
-      "Натаров Сергей Васильевич": 107,
-      "Полежаев Петр Иванович": 111,
-      "Рыкунова Татьяна Евгеньевна": 27,
-      "Селезнев Андрей Валерьевич": 53
+      "gas:candidate-vibid:22420001399873": 25,
+      "gas:candidate-vibid:22420001400047": 19,
+      "gas:candidate-vibid:22420001400155": 326,
+      "gas:candidate-vibid:22420001397838": 18,
+      "gas:candidate-vibid:22420001395036": 24,
+      "gas:candidate-vibid:22420001258144": 107,
+      "gas:candidate-vibid:22420001400275": 111,
+      "gas:candidate-vibid:22420001387151": 27,
+      "gas:candidate-vibid:22420001389166": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 33,
-      "Карданец Артем Викторович": 17,
-      "Кармазина Раиса Васильевна": 298,
-      "Лановая Ольга Викторовна": 19,
-      "Лымпио Александр Сергеевич": 27,
-      "Натаров Сергей Васильевич": 94,
-      "Полежаев Петр Иванович": 104,
-      "Рыкунова Татьяна Евгеньевна": 27,
-      "Селезнев Андрей Валерьевич": 56
+      "gas:candidate-vibid:22420001399873": 33,
+      "gas:candidate-vibid:22420001400047": 17,
+      "gas:candidate-vibid:22420001400155": 298,
+      "gas:candidate-vibid:22420001397838": 19,
+      "gas:candidate-vibid:22420001395036": 27,
+      "gas:candidate-vibid:22420001258144": 94,
+      "gas:candidate-vibid:22420001400275": 104,
+      "gas:candidate-vibid:22420001387151": 27,
+      "gas:candidate-vibid:22420001389166": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 45,
-      "Карданец Артем Викторович": 19,
-      "Кармазина Раиса Васильевна": 376,
-      "Лановая Ольга Викторовна": 30,
-      "Лымпио Александр Сергеевич": 34,
-      "Натаров Сергей Васильевич": 132,
-      "Полежаев Петр Иванович": 99,
-      "Рыкунова Татьяна Евгеньевна": 49,
-      "Селезнев Андрей Валерьевич": 38
+      "gas:candidate-vibid:22420001399873": 45,
+      "gas:candidate-vibid:22420001400047": 19,
+      "gas:candidate-vibid:22420001400155": 376,
+      "gas:candidate-vibid:22420001397838": 30,
+      "gas:candidate-vibid:22420001395036": 34,
+      "gas:candidate-vibid:22420001258144": 132,
+      "gas:candidate-vibid:22420001400275": 99,
+      "gas:candidate-vibid:22420001387151": 49,
+      "gas:candidate-vibid:22420001389166": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 11,
-      "Карданец Артем Викторович": 16,
-      "Кармазина Раиса Васильевна": 261,
-      "Лановая Ольга Викторовна": 15,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 64,
-      "Полежаев Петр Иванович": 68,
-      "Рыкунова Татьяна Евгеньевна": 22,
-      "Селезнев Андрей Валерьевич": 14
+      "gas:candidate-vibid:22420001399873": 11,
+      "gas:candidate-vibid:22420001400047": 16,
+      "gas:candidate-vibid:22420001400155": 261,
+      "gas:candidate-vibid:22420001397838": 15,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 64,
+      "gas:candidate-vibid:22420001400275": 68,
+      "gas:candidate-vibid:22420001387151": 22,
+      "gas:candidate-vibid:22420001389166": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 57,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 13,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 57,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 13,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 60,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 6,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 60,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 6,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 18,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 131,
-      "Лановая Ольга Викторовна": 11,
-      "Лымпио Александр Сергеевич": 9,
-      "Натаров Сергей Васильевич": 37,
-      "Полежаев Петр Иванович": 36,
-      "Рыкунова Татьяна Евгеньевна": 10,
-      "Селезнев Андрей Валерьевич": 12
+      "gas:candidate-vibid:22420001399873": 18,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 131,
+      "gas:candidate-vibid:22420001397838": 11,
+      "gas:candidate-vibid:22420001395036": 9,
+      "gas:candidate-vibid:22420001258144": 37,
+      "gas:candidate-vibid:22420001400275": 36,
+      "gas:candidate-vibid:22420001387151": 10,
+      "gas:candidate-vibid:22420001389166": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 46,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 12,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 46,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 12,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 118,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 18,
-      "Полежаев Петр Иванович": 22,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 118,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 18,
+      "gas:candidate-vibid:22420001400275": 22,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 67,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 67,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 73,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 20,
-      "Полежаев Петр Иванович": 10,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 6
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 73,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 20,
+      "gas:candidate-vibid:22420001400275": 10,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 35,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 35,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 87,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 22,
-      "Полежаев Петр Иванович": 17,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 87,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 22,
+      "gas:candidate-vibid:22420001400275": 17,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 104,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 19,
-      "Полежаев Петр Иванович": 13,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 104,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 19,
+      "gas:candidate-vibid:22420001400275": 13,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 78,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 24,
-      "Полежаев Петр Иванович": 23,
-      "Рыкунова Татьяна Евгеньевна": 7,
-      "Селезнев Андрей Валерьевич": 23
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 78,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 24,
+      "gas:candidate-vibid:22420001400275": 23,
+      "gas:candidate-vibid:22420001387151": 7,
+      "gas:candidate-vibid:22420001389166": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 90,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 19,
-      "Полежаев Петр Иванович": 13,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 8
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 90,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 19,
+      "gas:candidate-vibid:22420001400275": 13,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 119,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 26,
-      "Полежаев Петр Иванович": 15,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 8
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 119,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 26,
+      "gas:candidate-vibid:22420001400275": 15,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 33,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 8,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 33,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 8,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 35,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 35,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 32,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 10,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 32,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 10,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 18,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 104,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 9,
-      "Натаров Сергей Васильевич": 29,
-      "Полежаев Петр Иванович": 25,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 11
+      "gas:candidate-vibid:22420001399873": 18,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 104,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 9,
+      "gas:candidate-vibid:22420001258144": 29,
+      "gas:candidate-vibid:22420001400275": 25,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 83,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 8,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 83,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 8,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 15,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 15,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 158,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 41,
-      "Полежаев Петр Иванович": 27,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 158,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 41,
+      "gas:candidate-vibid:22420001400275": 27,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 39,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 6,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 39,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 6,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 89,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 24,
-      "Полежаев Петр Иванович": 22,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 89,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 24,
+      "gas:candidate-vibid:22420001400275": 22,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 34,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 17,
-      "Полежаев Петр Иванович": 11,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 34,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 17,
+      "gas:candidate-vibid:22420001400275": 11,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 49,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 13,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 49,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 13,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180077&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180077&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 19,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 19,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 70,
-      "Лановая Ольга Викторовна": 13,
-      "Лымпио Александр Сергеевич": 12,
-      "Натаров Сергей Васильевич": 17,
-      "Полежаев Петр Иванович": 39,
-      "Рыкунова Татьяна Евгеньевна": 11,
-      "Селезнев Андрей Валерьевич": 22
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 70,
+      "gas:candidate-vibid:22420001397838": 13,
+      "gas:candidate-vibid:22420001395036": 12,
+      "gas:candidate-vibid:22420001258144": 17,
+      "gas:candidate-vibid:22420001400275": 39,
+      "gas:candidate-vibid:22420001387151": 11,
+      "gas:candidate-vibid:22420001389166": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 10,
-      "Кармазина Раиса Васильевна": 256,
-      "Лановая Ольга Викторовна": 16,
-      "Лымпио Александр Сергеевич": 32,
-      "Натаров Сергей Васильевич": 63,
-      "Полежаев Петр Иванович": 92,
-      "Рыкунова Татьяна Евгеньевна": 18,
-      "Селезнев Андрей Валерьевич": 39
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 10,
+      "gas:candidate-vibid:22420001400155": 256,
+      "gas:candidate-vibid:22420001397838": 16,
+      "gas:candidate-vibid:22420001395036": 32,
+      "gas:candidate-vibid:22420001258144": 63,
+      "gas:candidate-vibid:22420001400275": 92,
+      "gas:candidate-vibid:22420001387151": 18,
+      "gas:candidate-vibid:22420001389166": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 11,
-      "Кармазина Раиса Васильевна": 116,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 31,
-      "Полежаев Петр Иванович": 37,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 26
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 11,
+      "gas:candidate-vibid:22420001400155": 116,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 31,
+      "gas:candidate-vibid:22420001400275": 37,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 14,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 14,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 66,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 16,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 66,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 16,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 101,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 18,
-      "Натаров Сергей Васильевич": 20,
-      "Полежаев Петр Иванович": 26,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 21
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 101,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 18,
+      "gas:candidate-vibid:22420001258144": 20,
+      "gas:candidate-vibid:22420001400275": 26,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 15,
-      "Кармазина Раиса Васильевна": 297,
-      "Лановая Ольга Викторовна": 12,
-      "Лымпио Александр Сергеевич": 38,
-      "Натаров Сергей Васильевич": 75,
-      "Полежаев Петр Иванович": 80,
-      "Рыкунова Татьяна Евгеньевна": 15,
-      "Селезнев Андрей Валерьевич": 41
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 15,
+      "gas:candidate-vibid:22420001400155": 297,
+      "gas:candidate-vibid:22420001397838": 12,
+      "gas:candidate-vibid:22420001395036": 38,
+      "gas:candidate-vibid:22420001258144": 75,
+      "gas:candidate-vibid:22420001400275": 80,
+      "gas:candidate-vibid:22420001387151": 15,
+      "gas:candidate-vibid:22420001389166": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 22,
-      "Карданец Артем Викторович": 16,
-      "Кармазина Раиса Васильевна": 289,
-      "Лановая Ольга Викторовна": 15,
-      "Лымпио Александр Сергеевич": 21,
-      "Натаров Сергей Васильевич": 72,
-      "Полежаев Петр Иванович": 87,
-      "Рыкунова Татьяна Евгеньевна": 20,
-      "Селезнев Андрей Валерьевич": 45
+      "gas:candidate-vibid:22420001399873": 22,
+      "gas:candidate-vibid:22420001400047": 16,
+      "gas:candidate-vibid:22420001400155": 289,
+      "gas:candidate-vibid:22420001397838": 15,
+      "gas:candidate-vibid:22420001395036": 21,
+      "gas:candidate-vibid:22420001258144": 72,
+      "gas:candidate-vibid:22420001400275": 87,
+      "gas:candidate-vibid:22420001387151": 20,
+      "gas:candidate-vibid:22420001389166": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 24,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 10,
-      "Полежаев Петр Иванович": 18,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 24,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 10,
+      "gas:candidate-vibid:22420001400275": 18,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 15,
-      "Карданец Артем Викторович": 14,
-      "Кармазина Раиса Васильевна": 213,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 33,
-      "Натаров Сергей Васильевич": 103,
-      "Полежаев Петр Иванович": 165,
-      "Рыкунова Татьяна Евгеньевна": 20,
-      "Селезнев Андрей Валерьевич": 60
+      "gas:candidate-vibid:22420001399873": 15,
+      "gas:candidate-vibid:22420001400047": 14,
+      "gas:candidate-vibid:22420001400155": 213,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 33,
+      "gas:candidate-vibid:22420001258144": 103,
+      "gas:candidate-vibid:22420001400275": 165,
+      "gas:candidate-vibid:22420001387151": 20,
+      "gas:candidate-vibid:22420001389166": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 19,
-      "Кармазина Раиса Васильевна": 174,
-      "Лановая Ольга Викторовна": 15,
-      "Лымпио Александр Сергеевич": 31,
-      "Натаров Сергей Васильевич": 60,
-      "Полежаев Петр Иванович": 107,
-      "Рыкунова Татьяна Евгеньевна": 24,
-      "Селезнев Андрей Валерьевич": 33
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 19,
+      "gas:candidate-vibid:22420001400155": 174,
+      "gas:candidate-vibid:22420001397838": 15,
+      "gas:candidate-vibid:22420001395036": 31,
+      "gas:candidate-vibid:22420001258144": 60,
+      "gas:candidate-vibid:22420001400275": 107,
+      "gas:candidate-vibid:22420001387151": 24,
+      "gas:candidate-vibid:22420001389166": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 107,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 19,
-      "Натаров Сергей Васильевич": 59,
-      "Полежаев Петр Иванович": 54,
-      "Рыкунова Татьяна Евгеньевна": 17,
-      "Селезнев Андрей Валерьевич": 23
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 107,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 19,
+      "gas:candidate-vibid:22420001258144": 59,
+      "gas:candidate-vibid:22420001400275": 54,
+      "gas:candidate-vibid:22420001387151": 17,
+      "gas:candidate-vibid:22420001389166": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 10,
-      "Карданец Артем Викторович": 15,
-      "Кармазина Раиса Васильевна": 142,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 31,
-      "Натаров Сергей Васильевич": 88,
-      "Полежаев Петр Иванович": 88,
-      "Рыкунова Татьяна Евгеньевна": 15,
-      "Селезнев Андрей Валерьевич": 40
+      "gas:candidate-vibid:22420001399873": 10,
+      "gas:candidate-vibid:22420001400047": 15,
+      "gas:candidate-vibid:22420001400155": 142,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 31,
+      "gas:candidate-vibid:22420001258144": 88,
+      "gas:candidate-vibid:22420001400275": 88,
+      "gas:candidate-vibid:22420001387151": 15,
+      "gas:candidate-vibid:22420001389166": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 212,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 27,
-      "Натаров Сергей Васильевич": 67,
-      "Полежаев Петр Иванович": 87,
-      "Рыкунова Татьяна Евгеньевна": 19,
-      "Селезнев Андрей Валерьевич": 28
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 212,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 27,
+      "gas:candidate-vibid:22420001258144": 67,
+      "gas:candidate-vibid:22420001400275": 87,
+      "gas:candidate-vibid:22420001387151": 19,
+      "gas:candidate-vibid:22420001389166": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 19,
-      "Карданец Артем Викторович": 19,
-      "Кармазина Раиса Васильевна": 214,
-      "Лановая Ольга Викторовна": 22,
-      "Лымпио Александр Сергеевич": 43,
-      "Натаров Сергей Васильевич": 123,
-      "Полежаев Петр Иванович": 151,
-      "Рыкунова Татьяна Евгеньевна": 34,
-      "Селезнев Андрей Валерьевич": 75
+      "gas:candidate-vibid:22420001399873": 19,
+      "gas:candidate-vibid:22420001400047": 19,
+      "gas:candidate-vibid:22420001400155": 214,
+      "gas:candidate-vibid:22420001397838": 22,
+      "gas:candidate-vibid:22420001395036": 43,
+      "gas:candidate-vibid:22420001258144": 123,
+      "gas:candidate-vibid:22420001400275": 151,
+      "gas:candidate-vibid:22420001387151": 34,
+      "gas:candidate-vibid:22420001389166": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 11,
-      "Карданец Артем Викторович": 25,
-      "Кармазина Раиса Васильевна": 133,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 23,
-      "Натаров Сергей Васильевич": 87,
-      "Полежаев Петр Иванович": 108,
-      "Рыкунова Татьяна Евгеньевна": 16,
-      "Селезнев Андрей Валерьевич": 49
+      "gas:candidate-vibid:22420001399873": 11,
+      "gas:candidate-vibid:22420001400047": 25,
+      "gas:candidate-vibid:22420001400155": 133,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 23,
+      "gas:candidate-vibid:22420001258144": 87,
+      "gas:candidate-vibid:22420001400275": 108,
+      "gas:candidate-vibid:22420001387151": 16,
+      "gas:candidate-vibid:22420001389166": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 17,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 145,
-      "Лановая Ольга Викторовна": 6,
-      "Лымпио Александр Сергеевич": 24,
-      "Натаров Сергей Васильевич": 44,
-      "Полежаев Петр Иванович": 47,
-      "Рыкунова Татьяна Евгеньевна": 8,
-      "Селезнев Андрей Валерьевич": 12
+      "gas:candidate-vibid:22420001399873": 17,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 145,
+      "gas:candidate-vibid:22420001397838": 6,
+      "gas:candidate-vibid:22420001395036": 24,
+      "gas:candidate-vibid:22420001258144": 44,
+      "gas:candidate-vibid:22420001400275": 47,
+      "gas:candidate-vibid:22420001387151": 8,
+      "gas:candidate-vibid:22420001389166": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 20,
-      "Карданец Артем Викторович": 18,
-      "Кармазина Раиса Васильевна": 330,
-      "Лановая Ольга Викторовна": 15,
-      "Лымпио Александр Сергеевич": 28,
-      "Натаров Сергей Васильевич": 79,
-      "Полежаев Петр Иванович": 74,
-      "Рыкунова Татьяна Евгеньевна": 10,
-      "Селезнев Андрей Валерьевич": 30
+      "gas:candidate-vibid:22420001399873": 20,
+      "gas:candidate-vibid:22420001400047": 18,
+      "gas:candidate-vibid:22420001400155": 330,
+      "gas:candidate-vibid:22420001397838": 15,
+      "gas:candidate-vibid:22420001395036": 28,
+      "gas:candidate-vibid:22420001258144": 79,
+      "gas:candidate-vibid:22420001400275": 74,
+      "gas:candidate-vibid:22420001387151": 10,
+      "gas:candidate-vibid:22420001389166": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 10,
-      "Кармазина Раиса Васильевна": 233,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 14,
-      "Натаров Сергей Васильевич": 58,
-      "Полежаев Петр Иванович": 44,
-      "Рыкунова Татьяна Евгеньевна": 10,
-      "Селезнев Андрей Валерьевич": 27
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 10,
+      "gas:candidate-vibid:22420001400155": 233,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 14,
+      "gas:candidate-vibid:22420001258144": 58,
+      "gas:candidate-vibid:22420001400275": 44,
+      "gas:candidate-vibid:22420001387151": 10,
+      "gas:candidate-vibid:22420001389166": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 50,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 15,
-      "Полежаев Петр Иванович": 22,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 21
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 50,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 15,
+      "gas:candidate-vibid:22420001400275": 22,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 31,
-      "Карданец Артем Викторович": 12,
-      "Кармазина Раиса Васильевна": 581,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 13,
-      "Натаров Сергей Васильевич": 128,
-      "Полежаев Петр Иванович": 109,
-      "Рыкунова Татьяна Евгеньевна": 20,
-      "Селезнев Андрей Валерьевич": 47
+      "gas:candidate-vibid:22420001399873": 31,
+      "gas:candidate-vibid:22420001400047": 12,
+      "gas:candidate-vibid:22420001400155": 581,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 13,
+      "gas:candidate-vibid:22420001258144": 128,
+      "gas:candidate-vibid:22420001400275": 109,
+      "gas:candidate-vibid:22420001387151": 20,
+      "gas:candidate-vibid:22420001389166": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 29,
-      "Карданец Артем Викторович": 24,
-      "Кармазина Раиса Васильевна": 206,
-      "Лановая Ольга Викторовна": 22,
-      "Лымпио Александр Сергеевич": 23,
-      "Натаров Сергей Васильевич": 112,
-      "Полежаев Петр Иванович": 126,
-      "Рыкунова Татьяна Евгеньевна": 25,
-      "Селезнев Андрей Валерьевич": 41
+      "gas:candidate-vibid:22420001399873": 29,
+      "gas:candidate-vibid:22420001400047": 24,
+      "gas:candidate-vibid:22420001400155": 206,
+      "gas:candidate-vibid:22420001397838": 22,
+      "gas:candidate-vibid:22420001395036": 23,
+      "gas:candidate-vibid:22420001258144": 112,
+      "gas:candidate-vibid:22420001400275": 126,
+      "gas:candidate-vibid:22420001387151": 25,
+      "gas:candidate-vibid:22420001389166": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 51,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 6,
-      "Полежаев Петр Иванович": 32,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 6
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 51,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 6,
+      "gas:candidate-vibid:22420001400275": 32,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 19,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 138,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 65,
-      "Полежаев Петр Иванович": 29,
-      "Рыкунова Татьяна Евгеньевна": 8,
-      "Селезнев Андрей Валерьевич": 26
+      "gas:candidate-vibid:22420001399873": 19,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 138,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 65,
+      "gas:candidate-vibid:22420001400275": 29,
+      "gas:candidate-vibid:22420001387151": 8,
+      "gas:candidate-vibid:22420001389166": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 33,
-      "Карданец Артем Викторович": 35,
-      "Кармазина Раиса Васильевна": 450,
-      "Лановая Ольга Викторовна": 31,
-      "Лымпио Александр Сергеевич": 56,
-      "Натаров Сергей Васильевич": 152,
-      "Полежаев Петр Иванович": 129,
-      "Рыкунова Татьяна Евгеньевна": 38,
-      "Селезнев Андрей Валерьевич": 76
+      "gas:candidate-vibid:22420001399873": 33,
+      "gas:candidate-vibid:22420001400047": 35,
+      "gas:candidate-vibid:22420001400155": 450,
+      "gas:candidate-vibid:22420001397838": 31,
+      "gas:candidate-vibid:22420001395036": 56,
+      "gas:candidate-vibid:22420001258144": 152,
+      "gas:candidate-vibid:22420001400275": 129,
+      "gas:candidate-vibid:22420001387151": 38,
+      "gas:candidate-vibid:22420001389166": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 25,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 25,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 29,
-      "Карданец Артем Викторович": 17,
-      "Кармазина Раиса Васильевна": 333,
-      "Лановая Ольга Викторовна": 29,
-      "Лымпио Александр Сергеевич": 50,
-      "Натаров Сергей Васильевич": 173,
-      "Полежаев Петр Иванович": 128,
-      "Рыкунова Татьяна Евгеньевна": 28,
-      "Селезнев Андрей Валерьевич": 66
+      "gas:candidate-vibid:22420001399873": 29,
+      "gas:candidate-vibid:22420001400047": 17,
+      "gas:candidate-vibid:22420001400155": 333,
+      "gas:candidate-vibid:22420001397838": 29,
+      "gas:candidate-vibid:22420001395036": 50,
+      "gas:candidate-vibid:22420001258144": 173,
+      "gas:candidate-vibid:22420001400275": 128,
+      "gas:candidate-vibid:22420001387151": 28,
+      "gas:candidate-vibid:22420001389166": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 20,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 230,
-      "Лановая Ольга Викторовна": 14,
-      "Лымпио Александр Сергеевич": 25,
-      "Натаров Сергей Васильевич": 66,
-      "Полежаев Петр Иванович": 123,
-      "Рыкунова Татьяна Евгеньевна": 17,
-      "Селезнев Андрей Валерьевич": 59
+      "gas:candidate-vibid:22420001399873": 20,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 230,
+      "gas:candidate-vibid:22420001397838": 14,
+      "gas:candidate-vibid:22420001395036": 25,
+      "gas:candidate-vibid:22420001258144": 66,
+      "gas:candidate-vibid:22420001400275": 123,
+      "gas:candidate-vibid:22420001387151": 17,
+      "gas:candidate-vibid:22420001389166": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 201,
-      "Лановая Ольга Викторовна": 6,
-      "Лымпио Александр Сергеевич": 11,
-      "Натаров Сергей Васильевич": 22,
-      "Полежаев Петр Иванович": 32,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 15
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 201,
+      "gas:candidate-vibid:22420001397838": 6,
+      "gas:candidate-vibid:22420001395036": 11,
+      "gas:candidate-vibid:22420001258144": 22,
+      "gas:candidate-vibid:22420001400275": 32,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 17,
-      "Карданец Артем Викторович": 16,
-      "Кармазина Раиса Васильевна": 352,
-      "Лановая Ольга Викторовна": 20,
-      "Лымпио Александр Сергеевич": 22,
-      "Натаров Сергей Васильевич": 92,
-      "Полежаев Петр Иванович": 82,
-      "Рыкунова Татьяна Евгеньевна": 15,
-      "Селезнев Андрей Валерьевич": 35
+      "gas:candidate-vibid:22420001399873": 17,
+      "gas:candidate-vibid:22420001400047": 16,
+      "gas:candidate-vibid:22420001400155": 352,
+      "gas:candidate-vibid:22420001397838": 20,
+      "gas:candidate-vibid:22420001395036": 22,
+      "gas:candidate-vibid:22420001258144": 92,
+      "gas:candidate-vibid:22420001400275": 82,
+      "gas:candidate-vibid:22420001387151": 15,
+      "gas:candidate-vibid:22420001389166": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 148,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 10,
-      "Натаров Сергей Васильевич": 34,
-      "Полежаев Петр Иванович": 12,
-      "Рыкунова Татьяна Евгеньевна": 8,
-      "Селезнев Андрей Валерьевич": 7
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 148,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 10,
+      "gas:candidate-vibid:22420001258144": 34,
+      "gas:candidate-vibid:22420001400275": 12,
+      "gas:candidate-vibid:22420001387151": 8,
+      "gas:candidate-vibid:22420001389166": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 13,
-      "Кармазина Раиса Васильевна": 290,
-      "Лановая Ольга Викторовна": 6,
-      "Лымпио Александр Сергеевич": 19,
-      "Натаров Сергей Васильевич": 48,
-      "Полежаев Петр Иванович": 33,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 18
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 13,
+      "gas:candidate-vibid:22420001400155": 290,
+      "gas:candidate-vibid:22420001397838": 6,
+      "gas:candidate-vibid:22420001395036": 19,
+      "gas:candidate-vibid:22420001258144": 48,
+      "gas:candidate-vibid:22420001400275": 33,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 20,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 20,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180078&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180078&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 106,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 12,
-      "Натаров Сергей Васильевич": 32,
-      "Полежаев Петр Иванович": 21,
-      "Рыкунова Татьяна Евгеньевна": 7,
-      "Селезнев Андрей Валерьевич": 12
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 106,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 12,
+      "gas:candidate-vibid:22420001258144": 32,
+      "gas:candidate-vibid:22420001400275": 21,
+      "gas:candidate-vibid:22420001387151": 7,
+      "gas:candidate-vibid:22420001389166": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 111,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 36,
-      "Полежаев Петр Иванович": 30,
-      "Рыкунова Татьяна Евгеньевна": 17,
-      "Селезнев Андрей Валерьевич": 18
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 111,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 36,
+      "gas:candidate-vibid:22420001400275": 30,
+      "gas:candidate-vibid:22420001387151": 17,
+      "gas:candidate-vibid:22420001389166": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 152,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 17,
-      "Натаров Сергей Васильевич": 35,
-      "Полежаев Петр Иванович": 40,
-      "Рыкунова Татьяна Евгеньевна": 18,
-      "Селезнев Андрей Валерьевич": 20
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 152,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 17,
+      "gas:candidate-vibid:22420001258144": 35,
+      "gas:candidate-vibid:22420001400275": 40,
+      "gas:candidate-vibid:22420001387151": 18,
+      "gas:candidate-vibid:22420001389166": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 125,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 14,
-      "Натаров Сергей Васильевич": 43,
-      "Полежаев Петр Иванович": 35,
-      "Рыкунова Татьяна Евгеньевна": 13,
-      "Селезнев Андрей Валерьевич": 31
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 125,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 14,
+      "gas:candidate-vibid:22420001258144": 43,
+      "gas:candidate-vibid:22420001400275": 35,
+      "gas:candidate-vibid:22420001387151": 13,
+      "gas:candidate-vibid:22420001389166": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 10,
-      "Кармазина Раиса Васильевна": 134,
-      "Лановая Ольга Викторовна": 14,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 32,
-      "Полежаев Петр Иванович": 48,
-      "Рыкунова Татьяна Евгеньевна": 22,
-      "Селезнев Андрей Валерьевич": 26
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 10,
+      "gas:candidate-vibid:22420001400155": 134,
+      "gas:candidate-vibid:22420001397838": 14,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 32,
+      "gas:candidate-vibid:22420001400275": 48,
+      "gas:candidate-vibid:22420001387151": 22,
+      "gas:candidate-vibid:22420001389166": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 8,
-      "Кармазина Раиса Васильевна": 168,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 15,
-      "Натаров Сергей Васильевич": 39,
-      "Полежаев Петр Иванович": 61,
-      "Рыкунова Татьяна Евгеньевна": 14,
-      "Селезнев Андрей Валерьевич": 20
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 8,
+      "gas:candidate-vibid:22420001400155": 168,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 15,
+      "gas:candidate-vibid:22420001258144": 39,
+      "gas:candidate-vibid:22420001400275": 61,
+      "gas:candidate-vibid:22420001387151": 14,
+      "gas:candidate-vibid:22420001389166": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 149,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 14,
-      "Натаров Сергей Васильевич": 43,
-      "Полежаев Петр Иванович": 26,
-      "Рыкунова Татьяна Евгеньевна": 18,
-      "Селезнев Андрей Валерьевич": 23
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 149,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 14,
+      "gas:candidate-vibid:22420001258144": 43,
+      "gas:candidate-vibid:22420001400275": 26,
+      "gas:candidate-vibid:22420001387151": 18,
+      "gas:candidate-vibid:22420001389166": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 11,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 167,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 15,
-      "Натаров Сергей Васильевич": 37,
-      "Полежаев Петр Иванович": 51,
-      "Рыкунова Татьяна Евгеньевна": 14,
-      "Селезнев Андрей Валерьевич": 29
+      "gas:candidate-vibid:22420001399873": 11,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 167,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 15,
+      "gas:candidate-vibid:22420001258144": 37,
+      "gas:candidate-vibid:22420001400275": 51,
+      "gas:candidate-vibid:22420001387151": 14,
+      "gas:candidate-vibid:22420001389166": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 18,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 107,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 9,
-      "Натаров Сергей Васильевич": 46,
-      "Полежаев Петр Иванович": 31,
-      "Рыкунова Татьяна Евгеньевна": 10,
-      "Селезнев Андрей Валерьевич": 20
+      "gas:candidate-vibid:22420001399873": 18,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 107,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 9,
+      "gas:candidate-vibid:22420001258144": 46,
+      "gas:candidate-vibid:22420001400275": 31,
+      "gas:candidate-vibid:22420001387151": 10,
+      "gas:candidate-vibid:22420001389166": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 111,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 10,
-      "Натаров Сергей Васильевич": 38,
-      "Полежаев Петр Иванович": 30,
-      "Рыкунова Татьяна Евгеньевна": 13,
-      "Селезнев Андрей Валерьевич": 14
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 111,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 10,
+      "gas:candidate-vibid:22420001258144": 38,
+      "gas:candidate-vibid:22420001400275": 30,
+      "gas:candidate-vibid:22420001387151": 13,
+      "gas:candidate-vibid:22420001389166": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 101,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 22,
-      "Полежаев Петр Иванович": 24,
-      "Рыкунова Татьяна Евгеньевна": 7,
-      "Селезнев Андрей Валерьевич": 20
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 101,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 22,
+      "gas:candidate-vibid:22420001400275": 24,
+      "gas:candidate-vibid:22420001387151": 7,
+      "gas:candidate-vibid:22420001389166": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 23,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 8,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 23,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 8,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 38,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 38,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 187,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 16,
-      "Натаров Сергей Васильевич": 40,
-      "Полежаев Петр Иванович": 55,
-      "Рыкунова Татьяна Евгеньевна": 18,
-      "Селезнев Андрей Валерьевич": 23
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 187,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 16,
+      "gas:candidate-vibid:22420001258144": 40,
+      "gas:candidate-vibid:22420001400275": 55,
+      "gas:candidate-vibid:22420001387151": 18,
+      "gas:candidate-vibid:22420001389166": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 133,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 46,
-      "Полежаев Петр Иванович": 31,
-      "Рыкунова Татьяна Евгеньевна": 11,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 133,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 46,
+      "gas:candidate-vibid:22420001400275": 31,
+      "gas:candidate-vibid:22420001387151": 11,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 134,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 15,
-      "Натаров Сергей Васильевич": 47,
-      "Полежаев Петр Иванович": 50,
-      "Рыкунова Татьяна Евгеньевна": 26,
-      "Селезнев Андрей Валерьевич": 19
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 134,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 15,
+      "gas:candidate-vibid:22420001258144": 47,
+      "gas:candidate-vibid:22420001400275": 50,
+      "gas:candidate-vibid:22420001387151": 26,
+      "gas:candidate-vibid:22420001389166": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 13,
-      "Кармазина Раиса Васильевна": 178,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 21,
-      "Натаров Сергей Васильевич": 33,
-      "Полежаев Петр Иванович": 42,
-      "Рыкунова Татьяна Евгеньевна": 22,
-      "Селезнев Андрей Валерьевич": 22
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 13,
+      "gas:candidate-vibid:22420001400155": 178,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 21,
+      "gas:candidate-vibid:22420001258144": 33,
+      "gas:candidate-vibid:22420001400275": 42,
+      "gas:candidate-vibid:22420001387151": 22,
+      "gas:candidate-vibid:22420001389166": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 11,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 78,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 26,
-      "Полежаев Петр Иванович": 11,
-      "Рыкунова Татьяна Евгеньевна": 13,
-      "Селезнев Андрей Валерьевич": 9
+      "gas:candidate-vibid:22420001399873": 11,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 78,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 26,
+      "gas:candidate-vibid:22420001400275": 11,
+      "gas:candidate-vibid:22420001387151": 13,
+      "gas:candidate-vibid:22420001389166": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 125,
-      "Лановая Ольга Викторовна": 14,
-      "Лымпио Александр Сергеевич": 13,
-      "Натаров Сергей Васильевич": 22,
-      "Полежаев Петр Иванович": 35,
-      "Рыкунова Татьяна Евгеньевна": 10,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 125,
+      "gas:candidate-vibid:22420001397838": 14,
+      "gas:candidate-vibid:22420001395036": 13,
+      "gas:candidate-vibid:22420001258144": 22,
+      "gas:candidate-vibid:22420001400275": 35,
+      "gas:candidate-vibid:22420001387151": 10,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 119,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 9,
-      "Натаров Сергей Васильевич": 31,
-      "Полежаев Петр Иванович": 34,
-      "Рыкунова Татьяна Евгеньевна": 11,
-      "Селезнев Андрей Валерьевич": 17
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 119,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 9,
+      "gas:candidate-vibid:22420001258144": 31,
+      "gas:candidate-vibid:22420001400275": 34,
+      "gas:candidate-vibid:22420001387151": 11,
+      "gas:candidate-vibid:22420001389166": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 124,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 39,
-      "Полежаев Петр Иванович": 11,
-      "Рыкунова Татьяна Евгеньевна": 8,
-      "Селезнев Андрей Валерьевич": 13
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 124,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 39,
+      "gas:candidate-vibid:22420001400275": 11,
+      "gas:candidate-vibid:22420001387151": 8,
+      "gas:candidate-vibid:22420001389166": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 147,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 13,
-      "Натаров Сергей Васильевич": 32,
-      "Полежаев Петр Иванович": 26,
-      "Рыкунова Татьяна Евгеньевна": 14,
-      "Селезнев Андрей Валерьевич": 15
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 147,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 13,
+      "gas:candidate-vibid:22420001258144": 32,
+      "gas:candidate-vibid:22420001400275": 26,
+      "gas:candidate-vibid:22420001387151": 14,
+      "gas:candidate-vibid:22420001389166": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180079&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180079&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 70,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 12,
-      "Полежаев Петр Иванович": 10,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 70,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 12,
+      "gas:candidate-vibid:22420001400275": 10,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 23,
-      "Карданец Артем Викторович": 14,
-      "Кармазина Раиса Васильевна": 252,
-      "Лановая Ольга Викторовна": 17,
-      "Лымпио Александр Сергеевич": 31,
-      "Натаров Сергей Васильевич": 43,
-      "Полежаев Петр Иванович": 36,
-      "Рыкунова Татьяна Евгеньевна": 18,
-      "Селезнев Андрей Валерьевич": 31
+      "gas:candidate-vibid:22420001399873": 23,
+      "gas:candidate-vibid:22420001400047": 14,
+      "gas:candidate-vibid:22420001400155": 252,
+      "gas:candidate-vibid:22420001397838": 17,
+      "gas:candidate-vibid:22420001395036": 31,
+      "gas:candidate-vibid:22420001258144": 43,
+      "gas:candidate-vibid:22420001400275": 36,
+      "gas:candidate-vibid:22420001387151": 18,
+      "gas:candidate-vibid:22420001389166": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 95,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 12,
-      "Полежаев Петр Иванович": 23,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 95,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 12,
+      "gas:candidate-vibid:22420001400275": 23,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 69,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 69,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 39,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 14,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 39,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 14,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 340,
-      "Лановая Ольга Викторовна": 6,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 39,
-      "Полежаев Петр Иванович": 15,
-      "Рыкунова Татьяна Евгеньевна": 9,
-      "Селезнев Андрей Валерьевич": 27
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 340,
+      "gas:candidate-vibid:22420001397838": 6,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 39,
+      "gas:candidate-vibid:22420001400275": 15,
+      "gas:candidate-vibid:22420001387151": 9,
+      "gas:candidate-vibid:22420001389166": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 66,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 10,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 66,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 10,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 131,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 11,
-      "Натаров Сергей Васильевич": 35,
-      "Полежаев Петр Иванович": 22,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 131,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 11,
+      "gas:candidate-vibid:22420001258144": 35,
+      "gas:candidate-vibid:22420001400275": 22,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 52,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 6
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 52,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 35,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 35,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 29,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 11,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 29,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 11,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 11,
-      "Кармазина Раиса Васильевна": 177,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 9,
-      "Натаров Сергей Васильевич": 40,
-      "Полежаев Петр Иванович": 27,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 14
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 11,
+      "gas:candidate-vibid:22420001400155": 177,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 9,
+      "gas:candidate-vibid:22420001258144": 40,
+      "gas:candidate-vibid:22420001400275": 27,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 53,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 15,
-      "Полежаев Петр Иванович": 16,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 8
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 53,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 15,
+      "gas:candidate-vibid:22420001400275": 16,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 14,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 130,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 78,
-      "Полежаев Петр Иванович": 33,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 18
+      "gas:candidate-vibid:22420001399873": 14,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 130,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 78,
+      "gas:candidate-vibid:22420001400275": 33,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 24,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 20,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 24,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 20,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 27,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 27,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 81,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 14,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 81,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 14,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 27,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 27,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 50,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 15,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 8,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 50,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 15,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 8,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 33,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 33,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 138,
-      "Лановая Ольга Викторовна": 16,
-      "Лымпио Александр Сергеевич": 31,
-      "Натаров Сергей Васильевич": 46,
-      "Полежаев Петр Иванович": 36,
-      "Рыкунова Татьяна Евгеньевна": 9,
-      "Селезнев Андрей Валерьевич": 28
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 138,
+      "gas:candidate-vibid:22420001397838": 16,
+      "gas:candidate-vibid:22420001395036": 31,
+      "gas:candidate-vibid:22420001258144": 46,
+      "gas:candidate-vibid:22420001400275": 36,
+      "gas:candidate-vibid:22420001387151": 9,
+      "gas:candidate-vibid:22420001389166": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 35,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 7
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 35,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 25,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 25,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 37,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 37,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180080&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180080&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 11,
-      "Карданец Артем Викторович": 13,
-      "Кармазина Раиса Васильевна": 300,
-      "Лановая Ольга Викторовна": 15,
-      "Лымпио Александр Сергеевич": 26,
-      "Натаров Сергей Васильевич": 79,
-      "Полежаев Петр Иванович": 94,
-      "Рыкунова Татьяна Евгеньевна": 21,
-      "Селезнев Андрей Валерьевич": 34
+      "gas:candidate-vibid:22420001399873": 11,
+      "gas:candidate-vibid:22420001400047": 13,
+      "gas:candidate-vibid:22420001400155": 300,
+      "gas:candidate-vibid:22420001397838": 15,
+      "gas:candidate-vibid:22420001395036": 26,
+      "gas:candidate-vibid:22420001258144": 79,
+      "gas:candidate-vibid:22420001400275": 94,
+      "gas:candidate-vibid:22420001387151": 21,
+      "gas:candidate-vibid:22420001389166": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 194,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 20,
-      "Натаров Сергей Васильевич": 76,
-      "Полежаев Петр Иванович": 39,
-      "Рыкунова Татьяна Евгеньевна": 12,
-      "Селезнев Андрей Валерьевич": 28
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 194,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 20,
+      "gas:candidate-vibid:22420001258144": 76,
+      "gas:candidate-vibid:22420001400275": 39,
+      "gas:candidate-vibid:22420001387151": 12,
+      "gas:candidate-vibid:22420001389166": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 30,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 12,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 30,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 12,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 88,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 15,
-      "Полежаев Петр Иванович": 14,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 11
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 88,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 15,
+      "gas:candidate-vibid:22420001400275": 14,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 20,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 20,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 40,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 40,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 20,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 20,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 47,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 8,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 47,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 8,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 31,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 31,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 15,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 15,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 63,
-      "Лановая Ольга Викторовна": 14,
-      "Лымпио Александр Сергеевич": 10,
-      "Натаров Сергей Васильевич": 40,
-      "Полежаев Петр Иванович": 23,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 11
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 63,
+      "gas:candidate-vibid:22420001397838": 14,
+      "gas:candidate-vibid:22420001395036": 10,
+      "gas:candidate-vibid:22420001258144": 40,
+      "gas:candidate-vibid:22420001400275": 23,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 38,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 12,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 7
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 38,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 12,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 25,
-      "Карданец Артем Викторович": 14,
-      "Кармазина Раиса Васильевна": 213,
-      "Лановая Ольга Викторовна": 32,
-      "Лымпио Александр Сергеевич": 16,
-      "Натаров Сергей Васильевич": 100,
-      "Полежаев Петр Иванович": 70,
-      "Рыкунова Татьяна Евгеньевна": 16,
-      "Селезнев Андрей Валерьевич": 46
+      "gas:candidate-vibid:22420001399873": 25,
+      "gas:candidate-vibid:22420001400047": 14,
+      "gas:candidate-vibid:22420001400155": 213,
+      "gas:candidate-vibid:22420001397838": 32,
+      "gas:candidate-vibid:22420001395036": 16,
+      "gas:candidate-vibid:22420001258144": 100,
+      "gas:candidate-vibid:22420001400275": 70,
+      "gas:candidate-vibid:22420001387151": 16,
+      "gas:candidate-vibid:22420001389166": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 10,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 8,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 10,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 8,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 9,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 6
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 9,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 28,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 28,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 92,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 92,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 12,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 12,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 71,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 10,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 71,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 10,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 37,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 6,
-      "Полежаев Петр Иванович": 12,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 37,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 6,
+      "gas:candidate-vibid:22420001400275": 12,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 75,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 10,
-      "Полежаев Петр Иванович": 13,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 75,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 10,
+      "gas:candidate-vibid:22420001400275": 13,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 13,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 13,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 7,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 13,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 7,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 13,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 42,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 9,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 42,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 9,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 14,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 8,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 14,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 8,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 10,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 10,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180081&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180081&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 36,
-      "Карданец Артем Викторович": 20,
-      "Кармазина Раиса Васильевна": 401,
-      "Лановая Ольга Викторовна": 25,
-      "Лымпио Александр Сергеевич": 131,
-      "Натаров Сергей Васильевич": 95,
-      "Полежаев Петр Иванович": 109,
-      "Рыкунова Татьяна Евгеньевна": 24,
-      "Селезнев Андрей Валерьевич": 73
+      "gas:candidate-vibid:22420001399873": 36,
+      "gas:candidate-vibid:22420001400047": 20,
+      "gas:candidate-vibid:22420001400155": 401,
+      "gas:candidate-vibid:22420001397838": 25,
+      "gas:candidate-vibid:22420001395036": 131,
+      "gas:candidate-vibid:22420001258144": 95,
+      "gas:candidate-vibid:22420001400275": 109,
+      "gas:candidate-vibid:22420001387151": 24,
+      "gas:candidate-vibid:22420001389166": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 29,
-      "Карданец Артем Викторович": 29,
-      "Кармазина Раиса Васильевна": 347,
-      "Лановая Ольга Викторовна": 19,
-      "Лымпио Александр Сергеевич": 116,
-      "Натаров Сергей Васильевич": 102,
-      "Полежаев Петр Иванович": 89,
-      "Рыкунова Татьяна Евгеньевна": 21,
-      "Селезнев Андрей Валерьевич": 43
+      "gas:candidate-vibid:22420001399873": 29,
+      "gas:candidate-vibid:22420001400047": 29,
+      "gas:candidate-vibid:22420001400155": 347,
+      "gas:candidate-vibid:22420001397838": 19,
+      "gas:candidate-vibid:22420001395036": 116,
+      "gas:candidate-vibid:22420001258144": 102,
+      "gas:candidate-vibid:22420001400275": 89,
+      "gas:candidate-vibid:22420001387151": 21,
+      "gas:candidate-vibid:22420001389166": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 9,
-      "Карданец Артем Викторович": 9,
-      "Кармазина Раиса Васильевна": 197,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 82,
-      "Натаров Сергей Васильевич": 52,
-      "Полежаев Петр Иванович": 49,
-      "Рыкунова Татьяна Евгеньевна": 7,
-      "Селезнев Андрей Валерьевич": 25
+      "gas:candidate-vibid:22420001399873": 9,
+      "gas:candidate-vibid:22420001400047": 9,
+      "gas:candidate-vibid:22420001400155": 197,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 82,
+      "gas:candidate-vibid:22420001258144": 52,
+      "gas:candidate-vibid:22420001400275": 49,
+      "gas:candidate-vibid:22420001387151": 7,
+      "gas:candidate-vibid:22420001389166": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 33,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 15,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 11
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 33,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 15,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 28,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 28,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 114,
-      "Лановая Ольга Викторовна": 9,
-      "Лымпио Александр Сергеевич": 10,
-      "Натаров Сергей Васильевич": 25,
-      "Полежаев Петр Иванович": 17,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 19
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 114,
+      "gas:candidate-vibid:22420001397838": 9,
+      "gas:candidate-vibid:22420001395036": 10,
+      "gas:candidate-vibid:22420001258144": 25,
+      "gas:candidate-vibid:22420001400275": 17,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 70,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 70,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 41,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 3
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 41,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 98,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 14,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 98,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 14,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 8,
-      "Карданец Артем Викторович": 10,
-      "Кармазина Раиса Васильевна": 133,
-      "Лановая Ольга Викторовна": 6,
-      "Лымпио Александр Сергеевич": 27,
-      "Натаров Сергей Васильевич": 30,
-      "Полежаев Петр Иванович": 34,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 25
+      "gas:candidate-vibid:22420001399873": 8,
+      "gas:candidate-vibid:22420001400047": 10,
+      "gas:candidate-vibid:22420001400155": 133,
+      "gas:candidate-vibid:22420001397838": 6,
+      "gas:candidate-vibid:22420001395036": 27,
+      "gas:candidate-vibid:22420001258144": 30,
+      "gas:candidate-vibid:22420001400275": 34,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 180,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 18,
-      "Натаров Сергей Васильевич": 43,
-      "Полежаев Петр Иванович": 55,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 28
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 180,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 18,
+      "gas:candidate-vibid:22420001258144": 43,
+      "gas:candidate-vibid:22420001400275": 55,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 45,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 45,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 30,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 30,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 49,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 49,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 26,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 26,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 66,
-      "Лановая Ольга Викторовна": 8,
-      "Лымпио Александр Сергеевич": 16,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 11,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 9
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 66,
+      "gas:candidate-vibid:22420001397838": 8,
+      "gas:candidate-vibid:22420001395036": 16,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 11,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 22,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 22,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 11,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 11,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 12,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 5,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 12,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 5,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 8,
-      "Кармазина Раиса Васильевна": 91,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 27,
-      "Полежаев Петр Иванович": 26,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 15
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 8,
+      "gas:candidate-vibid:22420001400155": 91,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 27,
+      "gas:candidate-vibid:22420001400275": 26,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 60,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 8,
-      "Натаров Сергей Васильевич": 13,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 60,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 8,
+      "gas:candidate-vibid:22420001258144": 13,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 41,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 13,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 7
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 41,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 13,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 43,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 43,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 16,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 16,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 54,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 12,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 54,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 12,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 18,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 6,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 2
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 18,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 6,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 68,
-      "Лановая Ольга Викторовна": 10,
-      "Лымпио Александр Сергеевич": 10,
-      "Натаров Сергей Васильевич": 14,
-      "Полежаев Петр Иванович": 26,
-      "Рыкунова Татьяна Евгеньевна": 6,
-      "Селезнев Андрей Валерьевич": 10
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 68,
+      "gas:candidate-vibid:22420001397838": 10,
+      "gas:candidate-vibid:22420001395036": 10,
+      "gas:candidate-vibid:22420001258144": 14,
+      "gas:candidate-vibid:22420001400275": 26,
+      "gas:candidate-vibid:22420001387151": 6,
+      "gas:candidate-vibid:22420001389166": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 39,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 6
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 39,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 45,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 7,
-      "Натаров Сергей Васильевич": 15,
-      "Полежаев Петр Иванович": 12,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 12
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 45,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 7,
+      "gas:candidate-vibid:22420001258144": 15,
+      "gas:candidate-vibid:22420001400275": 12,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 30,
-      "Лановая Ольга Викторовна": 6,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 13,
-      "Полежаев Петр Иванович": 11,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 6
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 30,
+      "gas:candidate-vibid:22420001397838": 6,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 13,
+      "gas:candidate-vibid:22420001400275": 11,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 12,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 9,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 5,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 12,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 9,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 5,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 24,
-      "Лановая Ольга Викторовна": 3,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 24,
+      "gas:candidate-vibid:22420001397838": 3,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 26,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 6,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 26,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 6,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 9,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 3,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 9,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 3,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 4,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 96,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 13,
-      "Полежаев Петр Иванович": 10,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 11
+      "gas:candidate-vibid:22420001399873": 4,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 96,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 13,
+      "gas:candidate-vibid:22420001400275": 10,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 5,
-      "Кармазина Раиса Васильевна": 89,
-      "Лановая Ольга Викторовна": 4,
-      "Лымпио Александр Сергеевич": 13,
-      "Натаров Сергей Васильевич": 27,
-      "Полежаев Петр Иванович": 16,
-      "Рыкунова Татьяна Евгеньевна": 5,
-      "Селезнев Андрей Валерьевич": 13
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 5,
+      "gas:candidate-vibid:22420001400155": 89,
+      "gas:candidate-vibid:22420001397838": 4,
+      "gas:candidate-vibid:22420001395036": 13,
+      "gas:candidate-vibid:22420001258144": 27,
+      "gas:candidate-vibid:22420001400275": 16,
+      "gas:candidate-vibid:22420001387151": 5,
+      "gas:candidate-vibid:22420001389166": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 5,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 53,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 11,
-      "Полежаев Петр Иванович": 8,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 9
+      "gas:candidate-vibid:22420001399873": 5,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 53,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 11,
+      "gas:candidate-vibid:22420001400275": 8,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 83,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 8,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 8
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 83,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 8,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 3,
-      "Кармазина Раиса Васильевна": 37,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 3,
+      "gas:candidate-vibid:22420001400155": 37,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 13,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 13,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 12,
-      "Карданец Артем Викторович": 6,
-      "Кармазина Раиса Васильевна": 105,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 18,
-      "Натаров Сергей Васильевич": 14,
-      "Полежаев Петр Иванович": 17,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 14
+      "gas:candidate-vibid:22420001399873": 12,
+      "gas:candidate-vibid:22420001400047": 6,
+      "gas:candidate-vibid:22420001400155": 105,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 18,
+      "gas:candidate-vibid:22420001258144": 14,
+      "gas:candidate-vibid:22420001400275": 17,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 6,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 41,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 12,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 10,
-      "Рыкунова Татьяна Евгеньевна": 4,
-      "Селезнев Андрей Валерьевич": 9
+      "gas:candidate-vibid:22420001399873": 6,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 41,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 12,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 10,
+      "gas:candidate-vibid:22420001387151": 4,
+      "gas:candidate-vibid:22420001389166": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 32,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 7,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 32,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 7,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 9,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 3,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 9,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 3,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 29,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 6,
-      "Натаров Сергей Васильевич": 1,
-      "Полежаев Петр Иванович": 4,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 29,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 6,
+      "gas:candidate-vibid:22420001258144": 1,
+      "gas:candidate-vibid:22420001400275": 4,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 36,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 15,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 6,
-      "Рыкунова Татьяна Евгеньевна": 2,
-      "Селезнев Андрей Валерьевич": 8
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 36,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 15,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 6,
+      "gas:candidate-vibid:22420001387151": 2,
+      "gas:candidate-vibid:22420001389166": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 75,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 0,
-      "Натаров Сергей Васильевич": 3,
-      "Полежаев Петр Иванович": 13,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 75,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 0,
+      "gas:candidate-vibid:22420001258144": 3,
+      "gas:candidate-vibid:22420001400275": 13,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 4,
-      "Кармазина Раиса Васильевна": 49,
-      "Лановая Ольга Викторовна": 1,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 11,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 5
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 4,
+      "gas:candidate-vibid:22420001400155": 49,
+      "gas:candidate-vibid:22420001397838": 1,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 11,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 3,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 26,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 0,
-      "Полежаев Петр Иванович": 7,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 4
+      "gas:candidate-vibid:22420001399873": 3,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 26,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 0,
+      "gas:candidate-vibid:22420001400275": 7,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 7,
-      "Карданец Артем Викторович": 7,
-      "Кармазина Раиса Васильевна": 144,
-      "Лановая Ольга Викторовна": 7,
-      "Лымпио Александр Сергеевич": 31,
-      "Натаров Сергей Васильевич": 41,
-      "Полежаев Петр Иванович": 16,
-      "Рыкунова Татьяна Евгеньевна": 14,
-      "Селезнев Андрей Валерьевич": 14
+      "gas:candidate-vibid:22420001399873": 7,
+      "gas:candidate-vibid:22420001400047": 7,
+      "gas:candidate-vibid:22420001400155": 144,
+      "gas:candidate-vibid:22420001397838": 7,
+      "gas:candidate-vibid:22420001395036": 31,
+      "gas:candidate-vibid:22420001258144": 41,
+      "gas:candidate-vibid:22420001400275": 16,
+      "gas:candidate-vibid:22420001387151": 14,
+      "gas:candidate-vibid:22420001389166": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 0,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 17,
-      "Лановая Ольга Викторовна": 0,
-      "Лымпио Александр Сергеевич": 1,
-      "Натаров Сергей Васильевич": 9,
-      "Полежаев Петр Иванович": 1,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 0
+      "gas:candidate-vibid:22420001399873": 0,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 17,
+      "gas:candidate-vibid:22420001397838": 0,
+      "gas:candidate-vibid:22420001395036": 1,
+      "gas:candidate-vibid:22420001258144": 9,
+      "gas:candidate-vibid:22420001400275": 1,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 0,
-      "Кармазина Раиса Васильевна": 14,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 2,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 3,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 0,
+      "gas:candidate-vibid:22420001400155": 14,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 2,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 3,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 2,
-      "Карданец Артем Викторович": 2,
-      "Кармазина Раиса Васильевна": 24,
-      "Лановая Ольга Викторовна": 5,
-      "Лымпио Александр Сергеевич": 4,
-      "Натаров Сергей Васильевич": 4,
-      "Полежаев Петр Иванович": 0,
-      "Рыкунова Татьяна Евгеньевна": 0,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 2,
+      "gas:candidate-vibid:22420001400047": 2,
+      "gas:candidate-vibid:22420001400155": 24,
+      "gas:candidate-vibid:22420001397838": 5,
+      "gas:candidate-vibid:22420001395036": 4,
+      "gas:candidate-vibid:22420001258144": 4,
+      "gas:candidate-vibid:22420001400275": 0,
+      "gas:candidate-vibid:22420001387151": 0,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_24_part_009 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Дьяков Александр Александрович": 1,
-      "Карданец Артем Викторович": 1,
-      "Кармазина Раиса Васильевна": 43,
-      "Лановая Ольга Викторовна": 2,
-      "Лымпио Александр Сергеевич": 5,
-      "Натаров Сергей Васильевич": 2,
-      "Полежаев Петр Иванович": 2,
-      "Рыкунова Татьяна Евгеньевна": 1,
-      "Селезнев Андрей Валерьевич": 1
+      "gas:candidate-vibid:22420001399873": 1,
+      "gas:candidate-vibid:22420001400047": 1,
+      "gas:candidate-vibid:22420001400155": 43,
+      "gas:candidate-vibid:22420001397838": 2,
+      "gas:candidate-vibid:22420001395036": 5,
+      "gas:candidate-vibid:22420001258144": 2,
+      "gas:candidate-vibid:22420001400275": 2,
+      "gas:candidate-vibid:22420001387151": 1,
+      "gas:candidate-vibid:22420001389166": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/krasnoyarsk?action=show&root=1000075&tvd=22420001180082&vrn=100100067795849&region=24&global=&sub_region=24&prver=0&pronetvd=null&vibid=22420001180082&type=464",

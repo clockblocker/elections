@@ -43,15 +43,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 87,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 18,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 24,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 87,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 18,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135272&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135272&type=464",
@@ -102,15 +102,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 108,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 16,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 11,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 108,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 16,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135272&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135272&type=464",
@@ -161,15 +161,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 77,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 166,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 77,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 166,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135272&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135272&type=464",
@@ -220,15 +220,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 59,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 156,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 18,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 32
+      "gas:candidate-vibid:4644006258740": 59,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 156,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 18,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135272&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135272&type=464",
@@ -279,15 +279,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 100,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 27
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 100,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135272&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135272&type=464",
@@ -338,15 +338,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 3,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 42,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 2,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 3,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 42,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 2,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135272&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135272&type=464",
@@ -397,15 +397,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 67,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 203,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 30,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 67,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 203,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 30,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -456,15 +456,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 60,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 191,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 45,
-      "Платошина Галина Геннадьевна": 28,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 60,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 191,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 45,
+      "gas:candidate-vibid:4644006258648": 28,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -515,15 +515,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Гавриличев Юрий Владимирович": 32,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 807,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 85,
-      "Платошина Галина Геннадьевна": 33,
-      "Щербаков Вячеслав Дмитриевич": 13
+      "gas:candidate-vibid:4644006258740": 112,
+      "gas:candidate-vibid:4644006259326": 32,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 807,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 85,
+      "gas:candidate-vibid:4644006258648": 33,
+      "gas:candidate-vibid:4644006278635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -574,15 +574,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 138,
-      "Гавриличев Юрий Владимирович": 26,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 419,
-      "Козляков Илья Романович": 25,
-      "Купец Анна Владимировна": 16,
-      "Мартынова Светлана Александровна": 127,
-      "Платошина Галина Геннадьевна": 50,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 138,
+      "gas:candidate-vibid:4644006259326": 26,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 419,
+      "gas:candidate-vibid:4644006259162": 25,
+      "gas:candidate-vibid:4644006278698": 16,
+      "gas:candidate-vibid:4644006258093": 127,
+      "gas:candidate-vibid:4644006258648": 50,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -633,15 +633,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Гавриличев Юрий Владимирович": 28,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 363,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 14,
-      "Мартынова Светлана Александровна": 78,
-      "Платошина Галина Геннадьевна": 63,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 112,
+      "gas:candidate-vibid:4644006259326": 28,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 363,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 14,
+      "gas:candidate-vibid:4644006258093": 78,
+      "gas:candidate-vibid:4644006258648": 63,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -692,15 +692,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 230,
-      "Гавриличев Юрий Владимирович": 40,
-      "Игнатьев Дмитрий Андреевич": 26,
-      "Исаев Михаил Александрович": 650,
-      "Козляков Илья Романович": 29,
-      "Купец Анна Владимировна": 39,
-      "Мартынова Светлана Александровна": 248,
-      "Платошина Галина Геннадьевна": 85,
-      "Щербаков Вячеслав Дмитриевич": 32
+      "gas:candidate-vibid:4644006258740": 230,
+      "gas:candidate-vibid:4644006259326": 40,
+      "gas:candidate-vibid:4644006259241": 26,
+      "gas:candidate-vibid:4644006259178": 650,
+      "gas:candidate-vibid:4644006259162": 29,
+      "gas:candidate-vibid:4644006278698": 39,
+      "gas:candidate-vibid:4644006258093": 248,
+      "gas:candidate-vibid:4644006258648": 85,
+      "gas:candidate-vibid:4644006278635": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -751,15 +751,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 13,
-      "Исаев Михаил Александрович": 707,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 159,
-      "Платошина Галина Геннадьевна": 22,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 112,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 13,
+      "gas:candidate-vibid:4644006259178": 707,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 159,
+      "gas:candidate-vibid:4644006258648": 22,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -810,15 +810,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 120,
-      "Гавриличев Юрий Владимирович": 47,
-      "Игнатьев Дмитрий Андреевич": 42,
-      "Исаев Михаил Александрович": 315,
-      "Козляков Илья Романович": 19,
-      "Купец Анна Владимировна": 41,
-      "Мартынова Светлана Александровна": 164,
-      "Платошина Галина Геннадьевна": 54,
-      "Щербаков Вячеслав Дмитриевич": 16
+      "gas:candidate-vibid:4644006258740": 120,
+      "gas:candidate-vibid:4644006259326": 47,
+      "gas:candidate-vibid:4644006259241": 42,
+      "gas:candidate-vibid:4644006259178": 315,
+      "gas:candidate-vibid:4644006259162": 19,
+      "gas:candidate-vibid:4644006278698": 41,
+      "gas:candidate-vibid:4644006258093": 164,
+      "gas:candidate-vibid:4644006258648": 54,
+      "gas:candidate-vibid:4644006278635": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -869,15 +869,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 111,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 380,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 69,
-      "Платошина Галина Геннадьевна": 31,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 111,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 380,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 69,
+      "gas:candidate-vibid:4644006258648": 31,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -928,15 +928,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 102,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 270,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 80,
-      "Платошина Галина Геннадьевна": 40,
-      "Щербаков Вячеслав Дмитриевич": 15
+      "gas:candidate-vibid:4644006258740": 102,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 270,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 80,
+      "gas:candidate-vibid:4644006258648": 40,
+      "gas:candidate-vibid:4644006278635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -987,15 +987,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 99,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 39,
-      "Исаев Михаил Александрович": 365,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 15,
-      "Мартынова Светлана Александровна": 90,
-      "Платошина Галина Геннадьевна": 47,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 99,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 39,
+      "gas:candidate-vibid:4644006259178": 365,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 15,
+      "gas:candidate-vibid:4644006258093": 90,
+      "gas:candidate-vibid:4644006258648": 47,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1046,15 +1046,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 147,
-      "Гавриличев Юрий Владимирович": 19,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 674,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 10,
-      "Мартынова Светлана Александровна": 82,
-      "Платошина Галина Геннадьевна": 57,
-      "Щербаков Вячеслав Дмитриевич": 16
+      "gas:candidate-vibid:4644006258740": 147,
+      "gas:candidate-vibid:4644006259326": 19,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 674,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 10,
+      "gas:candidate-vibid:4644006258093": 82,
+      "gas:candidate-vibid:4644006258648": 57,
+      "gas:candidate-vibid:4644006278635": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1105,15 +1105,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 111,
-      "Гавриличев Юрий Владимирович": 29,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 264,
-      "Козляков Илья Романович": 15,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 74,
-      "Платошина Галина Геннадьевна": 48,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 111,
+      "gas:candidate-vibid:4644006259326": 29,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 264,
+      "gas:candidate-vibid:4644006259162": 15,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 74,
+      "gas:candidate-vibid:4644006258648": 48,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1164,15 +1164,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 149,
-      "Гавриличев Юрий Владимирович": 26,
-      "Игнатьев Дмитрий Андреевич": 12,
-      "Исаев Михаил Александрович": 404,
-      "Козляков Илья Романович": 14,
-      "Купец Анна Владимировна": 10,
-      "Мартынова Светлана Александровна": 91,
-      "Платошина Галина Геннадьевна": 56,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 149,
+      "gas:candidate-vibid:4644006259326": 26,
+      "gas:candidate-vibid:4644006259241": 12,
+      "gas:candidate-vibid:4644006259178": 404,
+      "gas:candidate-vibid:4644006259162": 14,
+      "gas:candidate-vibid:4644006278698": 10,
+      "gas:candidate-vibid:4644006258093": 91,
+      "gas:candidate-vibid:4644006258648": 56,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1223,15 +1223,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 39,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 112,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 22,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 39,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 112,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 22,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1282,15 +1282,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 84,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 206,
-      "Козляков Илья Романович": 14,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 39,
-      "Платошина Галина Геннадьевна": 38,
-      "Щербаков Вячеслав Дмитриевич": 13
+      "gas:candidate-vibid:4644006258740": 84,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 206,
+      "gas:candidate-vibid:4644006259162": 14,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 39,
+      "gas:candidate-vibid:4644006258648": 38,
+      "gas:candidate-vibid:4644006278635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1341,15 +1341,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 230,
-      "Гавриличев Юрий Владимирович": 29,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 743,
-      "Козляков Илья Романович": 30,
-      "Купец Анна Владимировна": 35,
-      "Мартынова Светлана Александровна": 144,
-      "Платошина Галина Геннадьевна": 92,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 230,
+      "gas:candidate-vibid:4644006259326": 29,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 743,
+      "gas:candidate-vibid:4644006259162": 30,
+      "gas:candidate-vibid:4644006278698": 35,
+      "gas:candidate-vibid:4644006258093": 144,
+      "gas:candidate-vibid:4644006258648": 92,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1400,15 +1400,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 90,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 266,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 74,
-      "Платошина Галина Геннадьевна": 37,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 90,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 266,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 74,
+      "gas:candidate-vibid:4644006258648": 37,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1459,15 +1459,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 95,
-      "Гавриличев Юрий Владимирович": 24,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 453,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 11,
-      "Мартынова Светлана Александровна": 102,
-      "Платошина Галина Геннадьевна": 58,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 95,
+      "gas:candidate-vibid:4644006259326": 24,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 453,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 11,
+      "gas:candidate-vibid:4644006258093": 102,
+      "gas:candidate-vibid:4644006258648": 58,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1518,15 +1518,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 80,
-      "Гавриличев Юрий Владимирович": 25,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 474,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 10,
-      "Мартынова Светлана Александровна": 67,
-      "Платошина Галина Геннадьевна": 47,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 80,
+      "gas:candidate-vibid:4644006259326": 25,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 474,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 10,
+      "gas:candidate-vibid:4644006258093": 67,
+      "gas:candidate-vibid:4644006258648": 47,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1577,15 +1577,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 45,
-      "Гавриличев Юрий Владимирович": 32,
-      "Игнатьев Дмитрий Андреевич": 20,
-      "Исаев Михаил Александрович": 721,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 20,
-      "Мартынова Светлана Александровна": 89,
-      "Платошина Галина Геннадьевна": 36,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 45,
+      "gas:candidate-vibid:4644006259326": 32,
+      "gas:candidate-vibid:4644006259241": 20,
+      "gas:candidate-vibid:4644006259178": 721,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 20,
+      "gas:candidate-vibid:4644006258093": 89,
+      "gas:candidate-vibid:4644006258648": 36,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1636,15 +1636,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 98,
-      "Гавриличев Юрий Владимирович": 28,
-      "Игнатьев Дмитрий Андреевич": 18,
-      "Исаев Михаил Александрович": 443,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 14,
-      "Мартынова Светлана Александровна": 143,
-      "Платошина Галина Геннадьевна": 95,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 98,
+      "gas:candidate-vibid:4644006259326": 28,
+      "gas:candidate-vibid:4644006259241": 18,
+      "gas:candidate-vibid:4644006259178": 443,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 14,
+      "gas:candidate-vibid:4644006258093": 143,
+      "gas:candidate-vibid:4644006258648": 95,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1695,15 +1695,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 217,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 18,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 21,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 217,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 18,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1754,15 +1754,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 6,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 111,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 6,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 111,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1813,15 +1813,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 87,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 12,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 87,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 12,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1872,15 +1872,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 226,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 25,
-      "Платошина Галина Геннадьевна": 21,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 21,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 226,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 25,
+      "gas:candidate-vibid:4644006258648": 21,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1931,15 +1931,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 114,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 12,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 19,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 114,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 12,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -1990,15 +1990,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 42,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 85,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 41,
-      "Платошина Галина Геннадьевна": 50,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 42,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 85,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 41,
+      "gas:candidate-vibid:4644006258648": 50,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2049,15 +2049,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 146,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 5,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 146,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2108,15 +2108,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 42,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 138,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 24,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 42,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 138,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 24,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2167,15 +2167,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 185,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 12,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 185,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2226,15 +2226,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 33,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 216,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 47,
-      "Платошина Галина Геннадьевна": 17,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 33,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 216,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 47,
+      "gas:candidate-vibid:4644006258648": 17,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2285,15 +2285,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 260,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 36,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 260,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2344,15 +2344,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 48,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 224,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 12,
-      "Платошина Галина Геннадьевна": 13,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 48,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 224,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 12,
+      "gas:candidate-vibid:4644006258648": 13,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2403,15 +2403,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 52,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 157,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 52,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 157,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2462,15 +2462,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 184,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 184,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2521,15 +2521,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 32,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 280,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 20,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 32,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 280,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 20,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2580,15 +2580,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 25,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 163,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 15,
-      "Мартынова Светлана Александровна": 44,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 25,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 163,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 15,
+      "gas:candidate-vibid:4644006258093": 44,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2639,15 +2639,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 119,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 11,
-      "Мартынова Светлана Александровна": 22,
-      "Платошина Галина Геннадьевна": 25,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 15,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 119,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 11,
+      "gas:candidate-vibid:4644006258093": 22,
+      "gas:candidate-vibid:4644006258648": 25,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2698,15 +2698,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 69,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 17,
-      "Исаев Михаил Александрович": 108,
-      "Козляков Илья Романович": 12,
-      "Купец Анна Владимировна": 15,
-      "Мартынова Светлана Александровна": 35,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 69,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 17,
+      "gas:candidate-vibid:4644006259178": 108,
+      "gas:candidate-vibid:4644006259162": 12,
+      "gas:candidate-vibid:4644006278698": 15,
+      "gas:candidate-vibid:4644006258093": 35,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2757,15 +2757,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 288,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 24,
-      "Платошина Галина Геннадьевна": 5,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 288,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 24,
+      "gas:candidate-vibid:4644006258648": 5,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2816,15 +2816,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 32,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 204,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 40,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 32,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 204,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 40,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2875,15 +2875,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 69,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 358,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 10,
-      "Мартынова Светлана Александровна": 49,
-      "Платошина Галина Геннадьевна": 64,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 69,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 358,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 10,
+      "gas:candidate-vibid:4644006258093": 49,
+      "gas:candidate-vibid:4644006258648": 64,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2934,15 +2934,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 16,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 99,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 6,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 16,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 99,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 6,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -2993,15 +2993,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 118,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 14,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 118,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3052,15 +3052,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 218,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 14,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 22,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 218,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 14,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3111,15 +3111,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 145,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 22,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 145,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3170,15 +3170,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 210,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 19,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 22,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 210,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 19,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3229,15 +3229,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 71,
-      "Гавриличев Юрий Владимирович": 17,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 450,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 10,
-      "Мартынова Светлана Александровна": 51,
-      "Платошина Галина Геннадьевна": 19,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 71,
+      "gas:candidate-vibid:4644006259326": 17,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 450,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 10,
+      "gas:candidate-vibid:4644006258093": 51,
+      "gas:candidate-vibid:4644006258648": 19,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3288,15 +3288,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 49,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 256,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 29,
-      "Платошина Галина Геннадьевна": 15,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 49,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 256,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 29,
+      "gas:candidate-vibid:4644006258648": 15,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3347,15 +3347,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 5,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 77,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 8,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 5,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 77,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 8,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3406,15 +3406,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 26,
-      "Игнатьев Дмитрий Андреевич": 16,
-      "Исаев Михаил Александрович": 464,
-      "Козляков Илья Романович": 40,
-      "Купец Анна Владимировна": 27,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 15
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 26,
+      "gas:candidate-vibid:4644006259241": 16,
+      "gas:candidate-vibid:4644006259178": 464,
+      "gas:candidate-vibid:4644006259162": 40,
+      "gas:candidate-vibid:4644006278698": 27,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3465,15 +3465,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 166,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 20,
-      "Платошина Галина Геннадьевна": 23,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 12,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 166,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 20,
+      "gas:candidate-vibid:4644006258648": 23,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3524,15 +3524,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 27,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 96,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 17,
-      "Мартынова Светлана Александровна": 12,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 27,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 96,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 17,
+      "gas:candidate-vibid:4644006258093": 12,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3583,15 +3583,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 0,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 70,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 3,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 0,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 70,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 3,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135273&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135273&type=464",
@@ -3642,15 +3642,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 95,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 288,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 76,
-      "Платошина Галина Геннадьевна": 19,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 95,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 288,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 76,
+      "gas:candidate-vibid:4644006258648": 19,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -3701,15 +3701,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 89,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 235,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 66,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 89,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 235,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 66,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -3760,15 +3760,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 34,
-      "Гавриличев Юрий Владимирович": 10,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 82,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 37,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 34,
+      "gas:candidate-vibid:4644006259326": 10,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 82,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 37,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -3819,15 +3819,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 89,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 349,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 20,
-      "Платошина Галина Геннадьевна": 51,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 89,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 349,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 20,
+      "gas:candidate-vibid:4644006258648": 51,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -3878,15 +3878,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 65,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 274,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 70,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 65,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 274,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 70,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -3937,15 +3937,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 22,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 121,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 53,
-      "Платошина Галина Геннадьевна": 18,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 22,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 121,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 53,
+      "gas:candidate-vibid:4644006258648": 18,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -3996,15 +3996,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 103,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 9,
-      "Платошина Галина Геннадьевна": 5,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 12,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 103,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 9,
+      "gas:candidate-vibid:4644006258648": 5,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4055,15 +4055,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 152,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 13,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 13,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 152,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 13,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4114,15 +4114,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 7,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 81,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 8,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 7,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 81,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 8,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4173,15 +4173,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 208,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 19,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 208,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 19,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4232,15 +4232,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 41,
-      "Гавриличев Юрий Владимирович": 16,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 228,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 16,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 41,
+      "gas:candidate-vibid:4644006259326": 16,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 228,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 16,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4291,15 +4291,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 115,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 19,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 18,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 115,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 19,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4350,15 +4350,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 125,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 14,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 125,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4409,15 +4409,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 100,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 15,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 100,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4468,15 +4468,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 42,
-      "Гавриличев Юрий Владимирович": 10,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 110,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 22,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 42,
+      "gas:candidate-vibid:4644006259326": 10,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 110,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 22,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4527,15 +4527,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 91,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 8,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 91,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 8,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4586,15 +4586,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 29,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 254,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 35,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 29,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 254,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 35,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4645,15 +4645,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 27,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 256,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 41,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 27,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 256,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 41,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4704,15 +4704,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 114,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 5,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 18,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 114,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 5,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4763,15 +4763,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 149,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 12,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 149,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 12,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4822,15 +4822,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 107,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 8,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 107,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 8,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4881,15 +4881,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 182,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 8,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 182,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 8,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4940,15 +4940,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 142,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 13,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 142,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -4999,15 +4999,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 14,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 203,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 14,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 14,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 203,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 14,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135274&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135274&type=464",
@@ -5058,15 +5058,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 261,
-      "Гавриличев Юрий Владимирович": 26,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 441,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 13,
-      "Мартынова Светлана Александровна": 90,
-      "Платошина Галина Геннадьевна": 24,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 261,
+      "gas:candidate-vibid:4644006259326": 26,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 441,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 13,
+      "gas:candidate-vibid:4644006258093": 90,
+      "gas:candidate-vibid:4644006258648": 24,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5117,15 +5117,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 131,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 189,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 68,
-      "Платошина Галина Геннадьевна": 34,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 131,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 189,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 68,
+      "gas:candidate-vibid:4644006258648": 34,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5176,15 +5176,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 247,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 322,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 12,
-      "Мартынова Светлана Александровна": 88,
-      "Платошина Галина Геннадьевна": 26,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 247,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 322,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 12,
+      "gas:candidate-vibid:4644006258093": 88,
+      "gas:candidate-vibid:4644006258648": 26,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5235,15 +5235,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 102,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 497,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 57,
-      "Платошина Галина Геннадьевна": 25,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 102,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 497,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 57,
+      "gas:candidate-vibid:4644006258648": 25,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5294,15 +5294,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 133,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 197,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 46,
-      "Платошина Галина Геннадьевна": 20,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 133,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 197,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 46,
+      "gas:candidate-vibid:4644006258648": 20,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5353,15 +5353,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 47,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 66,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 16,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 47,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 66,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 16,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5412,15 +5412,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 87,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 217,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 11,
-      "Мартынова Светлана Александровна": 48,
-      "Платошина Галина Геннадьевна": 15,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 87,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 217,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 11,
+      "gas:candidate-vibid:4644006258093": 48,
+      "gas:candidate-vibid:4644006258648": 15,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5471,15 +5471,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 101,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 19,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 24,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 101,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 19,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5530,15 +5530,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 67,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 136,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 42,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 67,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 136,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 42,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5589,15 +5589,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 30,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 55,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 7,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 30,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 55,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 7,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5648,15 +5648,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 57,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 107,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 57,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 107,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5707,15 +5707,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 112,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 261,
-      "Козляков Илья Романович": 23,
-      "Купец Анна Владимировна": 22,
-      "Мартынова Светлана Александровна": 7,
-      "Платошина Галина Геннадьевна": 16,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 112,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 261,
+      "gas:candidate-vibid:4644006259162": 23,
+      "gas:candidate-vibid:4644006278698": 22,
+      "gas:candidate-vibid:4644006258093": 7,
+      "gas:candidate-vibid:4644006258648": 16,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5766,15 +5766,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 104,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 51,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 104,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5825,15 +5825,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 88,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 2,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 88,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 2,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5884,15 +5884,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 40,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 74,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 17,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 40,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 74,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 17,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -5943,15 +5943,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 55,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 69,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 16,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 55,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 69,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 16,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6002,15 +6002,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 87,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 18,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 87,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 18,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6061,15 +6061,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 6,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 43,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 17,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 6,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 43,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 17,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6120,15 +6120,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 31,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 114,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 31,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 114,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6179,15 +6179,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 84,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 519,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 41,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 84,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 519,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 41,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6238,15 +6238,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 61,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 2,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 19,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 61,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 2,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6297,15 +6297,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 144,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 18,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 23,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 144,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 18,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6356,15 +6356,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 29,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 139,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 21,
-      "Платошина Галина Геннадьевна": 33,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 29,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 139,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 21,
+      "gas:candidate-vibid:4644006258648": 33,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6415,15 +6415,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 11,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 39,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 4,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 11,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 39,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 4,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6474,15 +6474,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 210,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 70,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 36,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 210,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 70,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6533,15 +6533,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 38,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 113,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 5,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 38,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 113,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 5,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6592,15 +6592,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 144,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 12,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 23,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 144,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 12,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6651,15 +6651,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 9,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 83,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 13,
-      "Платошина Галина Геннадьевна": 4,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 9,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 83,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 13,
+      "gas:candidate-vibid:4644006258648": 4,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135275&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135275&type=464",
@@ -6710,15 +6710,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 85,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 24,
-      "Исаев Михаил Александрович": 556,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 85,
-      "Платошина Галина Геннадьевна": 29,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 85,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 24,
+      "gas:candidate-vibid:4644006259178": 556,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 85,
+      "gas:candidate-vibid:4644006258648": 29,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -6769,15 +6769,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 176,
-      "Гавриличев Юрий Владимирович": 19,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 248,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 135,
-      "Платошина Галина Геннадьевна": 78,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 176,
+      "gas:candidate-vibid:4644006259326": 19,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 248,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 135,
+      "gas:candidate-vibid:4644006258648": 78,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -6828,15 +6828,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 94,
-      "Гавриличев Юрий Владимирович": 30,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 308,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 99,
-      "Платошина Галина Геннадьевна": 38,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 94,
+      "gas:candidate-vibid:4644006259326": 30,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 308,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 99,
+      "gas:candidate-vibid:4644006258648": 38,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -6887,15 +6887,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 91,
-      "Гавриличев Юрий Владимирович": 32,
-      "Игнатьев Дмитрий Андреевич": 23,
-      "Исаев Михаил Александрович": 373,
-      "Козляков Илья Романович": 10,
-      "Купец Анна Владимировна": 24,
-      "Мартынова Светлана Александровна": 66,
-      "Платошина Галина Геннадьевна": 39,
-      "Щербаков Вячеслав Дмитриевич": 29
+      "gas:candidate-vibid:4644006258740": 91,
+      "gas:candidate-vibid:4644006259326": 32,
+      "gas:candidate-vibid:4644006259241": 23,
+      "gas:candidate-vibid:4644006259178": 373,
+      "gas:candidate-vibid:4644006259162": 10,
+      "gas:candidate-vibid:4644006278698": 24,
+      "gas:candidate-vibid:4644006258093": 66,
+      "gas:candidate-vibid:4644006258648": 39,
+      "gas:candidate-vibid:4644006278635": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -6946,15 +6946,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 92,
-      "Гавриличев Юрий Владимирович": 36,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 266,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 70,
-      "Платошина Галина Геннадьевна": 37,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 92,
+      "gas:candidate-vibid:4644006259326": 36,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 266,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 70,
+      "gas:candidate-vibid:4644006258648": 37,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7005,15 +7005,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 92,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 12,
-      "Исаев Михаил Александрович": 526,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 80,
-      "Платошина Галина Геннадьевна": 23,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 92,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 12,
+      "gas:candidate-vibid:4644006259178": 526,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 80,
+      "gas:candidate-vibid:4644006258648": 23,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7064,15 +7064,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 90,
-      "Гавриличев Юрий Владимирович": 27,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 687,
-      "Козляков Илья Романович": 17,
-      "Купец Анна Владимировна": 21,
-      "Мартынова Светлана Александровна": 86,
-      "Платошина Галина Геннадьевна": 30,
-      "Щербаков Вячеслав Дмитриевич": 17
+      "gas:candidate-vibid:4644006258740": 90,
+      "gas:candidate-vibid:4644006259326": 27,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 687,
+      "gas:candidate-vibid:4644006259162": 17,
+      "gas:candidate-vibid:4644006278698": 21,
+      "gas:candidate-vibid:4644006258093": 86,
+      "gas:candidate-vibid:4644006258648": 30,
+      "gas:candidate-vibid:4644006278635": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7123,15 +7123,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 44,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 283,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 55,
-      "Платошина Галина Геннадьевна": 15,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 44,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 283,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 55,
+      "gas:candidate-vibid:4644006258648": 15,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7182,15 +7182,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 99,
-      "Гавриличев Юрий Владимирович": 28,
-      "Игнатьев Дмитрий Андреевич": 13,
-      "Исаев Михаил Александрович": 397,
-      "Козляков Илья Романович": 22,
-      "Купец Анна Владимировна": 18,
-      "Мартынова Светлана Александровна": 88,
-      "Платошина Галина Геннадьевна": 64,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 99,
+      "gas:candidate-vibid:4644006259326": 28,
+      "gas:candidate-vibid:4644006259241": 13,
+      "gas:candidate-vibid:4644006259178": 397,
+      "gas:candidate-vibid:4644006259162": 22,
+      "gas:candidate-vibid:4644006278698": 18,
+      "gas:candidate-vibid:4644006258093": 88,
+      "gas:candidate-vibid:4644006258648": 64,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7241,15 +7241,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 77,
-      "Гавриличев Юрий Владимирович": 34,
-      "Игнатьев Дмитрий Андреевич": 22,
-      "Исаев Михаил Александрович": 343,
-      "Козляков Илья Романович": 25,
-      "Купец Анна Владимировна": 21,
-      "Мартынова Светлана Александровна": 100,
-      "Платошина Галина Геннадьевна": 66,
-      "Щербаков Вячеслав Дмитриевич": 18
+      "gas:candidate-vibid:4644006258740": 77,
+      "gas:candidate-vibid:4644006259326": 34,
+      "gas:candidate-vibid:4644006259241": 22,
+      "gas:candidate-vibid:4644006259178": 343,
+      "gas:candidate-vibid:4644006259162": 25,
+      "gas:candidate-vibid:4644006278698": 21,
+      "gas:candidate-vibid:4644006258093": 100,
+      "gas:candidate-vibid:4644006258648": 66,
+      "gas:candidate-vibid:4644006278635": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7300,15 +7300,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 91,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 294,
-      "Козляков Илья Романович": 13,
-      "Купец Анна Владимировна": 21,
-      "Мартынова Светлана Александровна": 87,
-      "Платошина Галина Геннадьевна": 45,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 91,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 294,
+      "gas:candidate-vibid:4644006259162": 13,
+      "gas:candidate-vibid:4644006278698": 21,
+      "gas:candidate-vibid:4644006258093": 87,
+      "gas:candidate-vibid:4644006258648": 45,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7359,15 +7359,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 53,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 324,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 14,
-      "Мартынова Светлана Александровна": 40,
-      "Платошина Галина Геннадьевна": 28,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 53,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 324,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 14,
+      "gas:candidate-vibid:4644006258093": 40,
+      "gas:candidate-vibid:4644006258648": 28,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7418,15 +7418,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 137,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 17,
-      "Исаев Михаил Александрович": 390,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 110,
-      "Платошина Галина Геннадьевна": 50,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 137,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 17,
+      "gas:candidate-vibid:4644006259178": 390,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 110,
+      "gas:candidate-vibid:4644006258648": 50,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7477,15 +7477,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 69,
-      "Гавриличев Юрий Владимирович": 17,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 559,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 67,
-      "Платошина Галина Геннадьевна": 36,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 69,
+      "gas:candidate-vibid:4644006259326": 17,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 559,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 67,
+      "gas:candidate-vibid:4644006258648": 36,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7536,15 +7536,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 86,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 17,
-      "Исаев Михаил Александрович": 309,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 15,
-      "Мартынова Светлана Александровна": 82,
-      "Платошина Галина Геннадьевна": 42,
-      "Щербаков Вячеслав Дмитриевич": 13
+      "gas:candidate-vibid:4644006258740": 86,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 17,
+      "gas:candidate-vibid:4644006259178": 309,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 15,
+      "gas:candidate-vibid:4644006258093": 82,
+      "gas:candidate-vibid:4644006258648": 42,
+      "gas:candidate-vibid:4644006278635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7595,15 +7595,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 95,
-      "Гавриличев Юрий Владимирович": 33,
-      "Игнатьев Дмитрий Андреевич": 17,
-      "Исаев Михаил Александрович": 363,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 18,
-      "Мартынова Светлана Александровна": 74,
-      "Платошина Галина Геннадьевна": 38,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 95,
+      "gas:candidate-vibid:4644006259326": 33,
+      "gas:candidate-vibid:4644006259241": 17,
+      "gas:candidate-vibid:4644006259178": 363,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 18,
+      "gas:candidate-vibid:4644006258093": 74,
+      "gas:candidate-vibid:4644006258648": 38,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7654,15 +7654,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 71,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 350,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 47,
-      "Платошина Галина Геннадьевна": 37,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 71,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 350,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 47,
+      "gas:candidate-vibid:4644006258648": 37,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7713,15 +7713,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 77,
-      "Гавриличев Юрий Владимирович": 16,
-      "Игнатьев Дмитрий Андреевич": 20,
-      "Исаев Михаил Александрович": 382,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 14,
-      "Мартынова Светлана Александровна": 40,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 77,
+      "gas:candidate-vibid:4644006259326": 16,
+      "gas:candidate-vibid:4644006259241": 20,
+      "gas:candidate-vibid:4644006259178": 382,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 14,
+      "gas:candidate-vibid:4644006258093": 40,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7772,15 +7772,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 121,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 35,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 19,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 121,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 35,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7831,15 +7831,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 25,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 179,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 16,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 25,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 179,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 16,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7890,15 +7890,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 53,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 340,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 50,
-      "Платошина Галина Геннадьевна": 17,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 53,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 340,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 50,
+      "gas:candidate-vibid:4644006258648": 17,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -7949,15 +7949,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 28,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 133,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 7,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 28,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 133,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 7,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8008,15 +8008,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 55,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 115,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 29,
-      "Платошина Галина Геннадьевна": 29,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 55,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 115,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 29,
+      "gas:candidate-vibid:4644006258648": 29,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8067,15 +8067,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 32,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 22,
-      "Исаев Михаил Александрович": 199,
-      "Козляков Илья Романович": 12,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 18,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 32,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 22,
+      "gas:candidate-vibid:4644006259178": 199,
+      "gas:candidate-vibid:4644006259162": 12,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 18,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8126,15 +8126,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 120,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 6,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 36,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 120,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 6,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8185,15 +8185,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 53,
-      "Гавриличев Юрий Владимирович": 24,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 398,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 25,
-      "Платошина Галина Геннадьевна": 23,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 53,
+      "gas:candidate-vibid:4644006259326": 24,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 398,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 25,
+      "gas:candidate-vibid:4644006258648": 23,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8244,15 +8244,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 88,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 18,
-      "Исаев Михаил Александрович": 460,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 24,
-      "Платошина Галина Геннадьевна": 20,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 88,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 18,
+      "gas:candidate-vibid:4644006259178": 460,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 24,
+      "gas:candidate-vibid:4644006258648": 20,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8303,15 +8303,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 66,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 170,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 54,
-      "Платошина Галина Геннадьевна": 52,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 66,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 170,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 54,
+      "gas:candidate-vibid:4644006258648": 52,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8362,15 +8362,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 57,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 94,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 5,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 57,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 94,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 5,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8421,15 +8421,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 21,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 87,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 21,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 21,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 87,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 21,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8480,15 +8480,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 62,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 253,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 62,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 253,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8539,15 +8539,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 25,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 242,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 13,
-      "Платошина Галина Геннадьевна": 24,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 25,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 242,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 13,
+      "gas:candidate-vibid:4644006258648": 24,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8598,15 +8598,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 54,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 363,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 42,
-      "Платошина Галина Геннадьевна": 40,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 54,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 363,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 42,
+      "gas:candidate-vibid:4644006258648": 40,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8657,15 +8657,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 26,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 247,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 9,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 26,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 247,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 9,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8716,15 +8716,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 91,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 302,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 82,
-      "Платошина Галина Геннадьевна": 63,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 91,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 302,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 82,
+      "gas:candidate-vibid:4644006258648": 63,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8775,15 +8775,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 84,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 19,
-      "Исаев Михаил Александрович": 334,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 11,
-      "Мартынова Светлана Александровна": 58,
-      "Платошина Галина Геннадьевна": 21,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 84,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 19,
+      "gas:candidate-vibid:4644006259178": 334,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 11,
+      "gas:candidate-vibid:4644006258093": 58,
+      "gas:candidate-vibid:4644006258648": 21,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8834,15 +8834,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 71,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 332,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 49,
-      "Платошина Галина Геннадьевна": 47,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 71,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 332,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 49,
+      "gas:candidate-vibid:4644006258648": 47,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8893,15 +8893,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 26,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 180,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 37,
-      "Платошина Галина Геннадьевна": 18,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 26,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 180,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 37,
+      "gas:candidate-vibid:4644006258648": 18,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -8952,15 +8952,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 94,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 337,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 24,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 94,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 337,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 24,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9011,15 +9011,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 79,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 385,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 1,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 79,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 385,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 1,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9070,15 +9070,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 92,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 14,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 19,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 92,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 14,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9129,15 +9129,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 97,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 12,
-      "Исаев Михаил Александрович": 184,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 22,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 97,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 12,
+      "gas:candidate-vibid:4644006259178": 184,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 22,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9188,15 +9188,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 204,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 204,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9247,15 +9247,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 128,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 441,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 38,
-      "Платошина Галина Геннадьевна": 32,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 128,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 441,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 38,
+      "gas:candidate-vibid:4644006258648": 32,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9306,15 +9306,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 63,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 15,
-      "Исаев Михаил Александрович": 362,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 11,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 63,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 15,
+      "gas:candidate-vibid:4644006259178": 362,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 11,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9365,15 +9365,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 90,
-      "Гавриличев Юрий Владимирович": 27,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 261,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 78,
-      "Платошина Галина Геннадьевна": 74,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 90,
+      "gas:candidate-vibid:4644006259326": 27,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 261,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 78,
+      "gas:candidate-vibid:4644006258648": 74,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9424,15 +9424,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 79,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 28,
-      "Исаев Михаил Александрович": 212,
-      "Козляков Илья Романович": 22,
-      "Купец Анна Владимировна": 12,
-      "Мартынова Светлана Александровна": 75,
-      "Платошина Галина Геннадьевна": 46,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 79,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 28,
+      "gas:candidate-vibid:4644006259178": 212,
+      "gas:candidate-vibid:4644006259162": 22,
+      "gas:candidate-vibid:4644006278698": 12,
+      "gas:candidate-vibid:4644006258093": 75,
+      "gas:candidate-vibid:4644006258648": 46,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9483,15 +9483,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 6,
-      "Гавриличев Юрий Владимирович": 1,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 107,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 7,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 6,
+      "gas:candidate-vibid:4644006259326": 1,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 107,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 7,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135276&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135276&type=464",
@@ -9542,15 +9542,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 126,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 342,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 86,
-      "Платошина Галина Геннадьевна": 89,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 126,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 342,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 86,
+      "gas:candidate-vibid:4644006258648": 89,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9601,15 +9601,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 131,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 23,
-      "Исаев Михаил Александрович": 311,
-      "Козляков Илья Романович": 24,
-      "Купец Анна Владимировна": 20,
-      "Мартынова Светлана Александровна": 98,
-      "Платошина Галина Геннадьевна": 98,
-      "Щербаков Вячеслав Дмитриевич": 21
+      "gas:candidate-vibid:4644006258740": 131,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 23,
+      "gas:candidate-vibid:4644006259178": 311,
+      "gas:candidate-vibid:4644006259162": 24,
+      "gas:candidate-vibid:4644006278698": 20,
+      "gas:candidate-vibid:4644006258093": 98,
+      "gas:candidate-vibid:4644006258648": 98,
+      "gas:candidate-vibid:4644006278635": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9660,15 +9660,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 128,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 402,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 15,
-      "Мартынова Светлана Александровна": 93,
-      "Платошина Галина Геннадьевна": 91,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 128,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 402,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 15,
+      "gas:candidate-vibid:4644006258093": 93,
+      "gas:candidate-vibid:4644006258648": 91,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9719,15 +9719,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 116,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 312,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 102,
-      "Платошина Галина Геннадьевна": 73,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 116,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 312,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 102,
+      "gas:candidate-vibid:4644006258648": 73,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9778,15 +9778,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 144,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 337,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 13,
-      "Мартынова Светлана Александровна": 96,
-      "Платошина Галина Геннадьевна": 79,
-      "Щербаков Вячеслав Дмитриевич": 13
+      "gas:candidate-vibid:4644006258740": 144,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 337,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 13,
+      "gas:candidate-vibid:4644006258093": 96,
+      "gas:candidate-vibid:4644006258648": 79,
+      "gas:candidate-vibid:4644006278635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9837,15 +9837,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 100,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 356,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 116,
-      "Платошина Галина Геннадьевна": 81,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 100,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 356,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 116,
+      "gas:candidate-vibid:4644006258648": 81,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9896,15 +9896,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 95,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 390,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 42,
-      "Платошина Галина Геннадьевна": 19,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 95,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 390,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 42,
+      "gas:candidate-vibid:4644006258648": 19,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -9955,15 +9955,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 121,
-      "Гавриличев Юрий Владимирович": 22,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 263,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 20,
-      "Мартынова Светлана Александровна": 105,
-      "Платошина Галина Геннадьевна": 101,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 121,
+      "gas:candidate-vibid:4644006259326": 22,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 263,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 20,
+      "gas:candidate-vibid:4644006258093": 105,
+      "gas:candidate-vibid:4644006258648": 101,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10014,15 +10014,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 73,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 338,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 78,
-      "Платошина Галина Геннадьевна": 82,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 73,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 338,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 78,
+      "gas:candidate-vibid:4644006258648": 82,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10073,15 +10073,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 116,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 13,
-      "Исаев Михаил Александрович": 321,
-      "Козляков Илья Романович": 23,
-      "Купец Анна Владимировна": 28,
-      "Мартынова Светлана Александровна": 76,
-      "Платошина Галина Геннадьевна": 33,
-      "Щербаков Вячеслав Дмитриевич": 18
+      "gas:candidate-vibid:4644006258740": 116,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 13,
+      "gas:candidate-vibid:4644006259178": 321,
+      "gas:candidate-vibid:4644006259162": 23,
+      "gas:candidate-vibid:4644006278698": 28,
+      "gas:candidate-vibid:4644006258093": 76,
+      "gas:candidate-vibid:4644006258648": 33,
+      "gas:candidate-vibid:4644006278635": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10132,15 +10132,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 91,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 189,
-      "Козляков Илья Романович": 29,
-      "Купец Анна Владимировна": 20,
-      "Мартынова Светлана Александровна": 75,
-      "Платошина Галина Геннадьевна": 73,
-      "Щербаков Вячеслав Дмитриевич": 11
+      "gas:candidate-vibid:4644006258740": 91,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 189,
+      "gas:candidate-vibid:4644006259162": 29,
+      "gas:candidate-vibid:4644006278698": 20,
+      "gas:candidate-vibid:4644006258093": 75,
+      "gas:candidate-vibid:4644006258648": 73,
+      "gas:candidate-vibid:4644006278635": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10191,15 +10191,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 107,
-      "Гавриличев Юрий Владимирович": 17,
-      "Игнатьев Дмитрий Андреевич": 20,
-      "Исаев Михаил Александрович": 225,
-      "Козляков Илья Романович": 21,
-      "Купец Анна Владимировна": 22,
-      "Мартынова Светлана Александровна": 83,
-      "Платошина Галина Геннадьевна": 77,
-      "Щербаков Вячеслав Дмитриевич": 21
+      "gas:candidate-vibid:4644006258740": 107,
+      "gas:candidate-vibid:4644006259326": 17,
+      "gas:candidate-vibid:4644006259241": 20,
+      "gas:candidate-vibid:4644006259178": 225,
+      "gas:candidate-vibid:4644006259162": 21,
+      "gas:candidate-vibid:4644006278698": 22,
+      "gas:candidate-vibid:4644006258093": 83,
+      "gas:candidate-vibid:4644006258648": 77,
+      "gas:candidate-vibid:4644006278635": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10250,15 +10250,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 140,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 257,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 70,
-      "Платошина Галина Геннадьевна": 36,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 140,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 257,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 70,
+      "gas:candidate-vibid:4644006258648": 36,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10309,15 +10309,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 108,
-      "Гавриличев Юрий Владимирович": 27,
-      "Игнатьев Дмитрий Андреевич": 25,
-      "Исаев Михаил Александрович": 240,
-      "Козляков Илья Романович": 23,
-      "Купец Анна Владимировна": 31,
-      "Мартынова Светлана Александровна": 76,
-      "Платошина Галина Геннадьевна": 76,
-      "Щербаков Вячеслав Дмитриевич": 27
+      "gas:candidate-vibid:4644006258740": 108,
+      "gas:candidate-vibid:4644006259326": 27,
+      "gas:candidate-vibid:4644006259241": 25,
+      "gas:candidate-vibid:4644006259178": 240,
+      "gas:candidate-vibid:4644006259162": 23,
+      "gas:candidate-vibid:4644006278698": 31,
+      "gas:candidate-vibid:4644006258093": 76,
+      "gas:candidate-vibid:4644006258648": 76,
+      "gas:candidate-vibid:4644006278635": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10368,15 +10368,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 101,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 254,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 102,
-      "Платошина Галина Геннадьевна": 71,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 101,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 254,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 102,
+      "gas:candidate-vibid:4644006258648": 71,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10427,15 +10427,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 63,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 217,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 47,
-      "Платошина Галина Геннадьевна": 37,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 63,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 217,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 47,
+      "gas:candidate-vibid:4644006258648": 37,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10486,15 +10486,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 19,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 245,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 19,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 245,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10545,15 +10545,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 58,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 151,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 46,
-      "Платошина Галина Геннадьевна": 43,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 58,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 151,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 46,
+      "gas:candidate-vibid:4644006258648": 43,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10604,15 +10604,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 13,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 64,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 13,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 64,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10663,15 +10663,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 32,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 77,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 27,
-      "Платошина Галина Геннадьевна": 28,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 32,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 77,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 27,
+      "gas:candidate-vibid:4644006258648": 28,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10722,15 +10722,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 52,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 130,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 31,
-      "Платошина Галина Геннадьевна": 31,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 52,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 130,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 31,
+      "gas:candidate-vibid:4644006258648": 31,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10781,15 +10781,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 79,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 13,
-      "Исаев Михаил Александрович": 159,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 43,
-      "Платошина Галина Геннадьевна": 43,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 79,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 13,
+      "gas:candidate-vibid:4644006259178": 159,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 43,
+      "gas:candidate-vibid:4644006258648": 43,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10840,15 +10840,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 39,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 122,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 22,
-      "Платошина Галина Геннадьевна": 29,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 39,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 122,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 22,
+      "gas:candidate-vibid:4644006258648": 29,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10899,15 +10899,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 63,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 159,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 40,
-      "Платошина Галина Геннадьевна": 41,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 63,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 159,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 40,
+      "gas:candidate-vibid:4644006258648": 41,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -10958,15 +10958,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 114,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 287,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 95,
-      "Платошина Галина Геннадьевна": 94,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 114,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 287,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 95,
+      "gas:candidate-vibid:4644006258648": 94,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11017,15 +11017,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 122,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 32,
-      "Платошина Галина Геннадьевна": 30,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 122,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 32,
+      "gas:candidate-vibid:4644006258648": 30,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11076,15 +11076,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 64,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 21,
-      "Исаев Михаил Александрович": 145,
-      "Козляков Илья Романович": 19,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 53,
-      "Платошина Галина Геннадьевна": 51,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 64,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 21,
+      "gas:candidate-vibid:4644006259178": 145,
+      "gas:candidate-vibid:4644006259162": 19,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 53,
+      "gas:candidate-vibid:4644006258648": 51,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11135,15 +11135,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 53,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 17,
-      "Исаев Михаил Александрович": 125,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 39,
-      "Платошина Галина Геннадьевна": 37,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 53,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 17,
+      "gas:candidate-vibid:4644006259178": 125,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 39,
+      "gas:candidate-vibid:4644006258648": 37,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11194,15 +11194,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 82,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 26,
-      "Платошина Галина Геннадьевна": 25,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 36,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 82,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 26,
+      "gas:candidate-vibid:4644006258648": 25,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11253,15 +11253,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 78,
-      "Гавриличев Юрий Владимирович": 10,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 192,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 13,
-      "Мартынова Светлана Александровна": 65,
-      "Платошина Галина Геннадьевна": 55,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 78,
+      "gas:candidate-vibid:4644006259326": 10,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 192,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 13,
+      "gas:candidate-vibid:4644006258093": 65,
+      "gas:candidate-vibid:4644006258648": 55,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11312,15 +11312,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 37,
-      "Гавриличев Юрий Владимирович": 3,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 99,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 31,
-      "Платошина Галина Геннадьевна": 32,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 37,
+      "gas:candidate-vibid:4644006259326": 3,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 99,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 31,
+      "gas:candidate-vibid:4644006258648": 32,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11371,15 +11371,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 47,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 93,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 32,
-      "Платошина Галина Геннадьевна": 14,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 47,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 93,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 32,
+      "gas:candidate-vibid:4644006258648": 14,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11430,15 +11430,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 111,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 31,
-      "Исаев Михаил Александрович": 241,
-      "Козляков Илья Романович": 30,
-      "Купец Анна Владимировна": 12,
-      "Мартынова Светлана Александровна": 85,
-      "Платошина Галина Геннадьевна": 85,
-      "Щербаков Вячеслав Дмитриевич": 23
+      "gas:candidate-vibid:4644006258740": 111,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 31,
+      "gas:candidate-vibid:4644006259178": 241,
+      "gas:candidate-vibid:4644006259162": 30,
+      "gas:candidate-vibid:4644006278698": 12,
+      "gas:candidate-vibid:4644006258093": 85,
+      "gas:candidate-vibid:4644006258648": 85,
+      "gas:candidate-vibid:4644006278635": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11489,15 +11489,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 50,
-      "Гавриличев Юрий Владимирович": 15,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 282,
-      "Козляков Илья Романович": 10,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 38,
-      "Платошина Галина Геннадьевна": 23,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 50,
+      "gas:candidate-vibid:4644006259326": 15,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 282,
+      "gas:candidate-vibid:4644006259162": 10,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 38,
+      "gas:candidate-vibid:4644006258648": 23,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11548,15 +11548,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 81,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 162,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 61,
-      "Платошина Галина Геннадьевна": 24,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 81,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 162,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 61,
+      "gas:candidate-vibid:4644006258648": 24,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11607,15 +11607,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 13,
-      "Исаев Михаил Александрович": 118,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 29,
-      "Платошина Галина Геннадьевна": 15,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 13,
+      "gas:candidate-vibid:4644006259178": 118,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 29,
+      "gas:candidate-vibid:4644006258648": 15,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11666,15 +11666,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 135,
-      "Гавриличев Юрий Владимирович": 33,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 582,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 102,
-      "Платошина Галина Геннадьевна": 90,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 135,
+      "gas:candidate-vibid:4644006259326": 33,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 582,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 102,
+      "gas:candidate-vibid:4644006258648": 90,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11725,15 +11725,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 58,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 156,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 52,
-      "Платошина Галина Геннадьевна": 52,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 58,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 156,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 52,
+      "gas:candidate-vibid:4644006258648": 52,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11784,15 +11784,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 85,
-      "Гавриличев Юрий Владимирович": 28,
-      "Игнатьев Дмитрий Андреевич": 23,
-      "Исаев Михаил Александрович": 188,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 66,
-      "Платошина Галина Геннадьевна": 61,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 85,
+      "gas:candidate-vibid:4644006259326": 28,
+      "gas:candidate-vibid:4644006259241": 23,
+      "gas:candidate-vibid:4644006259178": 188,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 66,
+      "gas:candidate-vibid:4644006258648": 61,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11843,15 +11843,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 234,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 50,
-      "Платошина Галина Геннадьевна": 51,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 74,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 234,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 50,
+      "gas:candidate-vibid:4644006258648": 51,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11902,15 +11902,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 174,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 259,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 68,
-      "Платошина Галина Геннадьевна": 70,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 174,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 259,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 68,
+      "gas:candidate-vibid:4644006258648": 70,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -11961,15 +11961,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 65,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 352,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 87,
-      "Платошина Галина Геннадьевна": 83,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 65,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 352,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 87,
+      "gas:candidate-vibid:4644006258648": 83,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -12020,15 +12020,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 35,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 215,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 49,
-      "Платошина Галина Геннадьевна": 54,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 35,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 215,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 49,
+      "gas:candidate-vibid:4644006258648": 54,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -12079,15 +12079,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 4,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 107,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 3,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 4,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 107,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 3,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135277&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135277&type=464",
@@ -12138,15 +12138,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 119,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 16,
-      "Исаев Михаил Александрович": 363,
-      "Козляков Илья Романович": 10,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 77,
-      "Платошина Галина Геннадьевна": 23,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 119,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 16,
+      "gas:candidate-vibid:4644006259178": 363,
+      "gas:candidate-vibid:4644006259162": 10,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 77,
+      "gas:candidate-vibid:4644006258648": 23,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12197,15 +12197,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 118,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 244,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 63,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 118,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 244,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 63,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12256,15 +12256,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 36,
-      "Гавриличев Юрий Владимирович": 12,
-      "Игнатьев Дмитрий Андреевич": 20,
-      "Исаев Михаил Александрович": 195,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 28,
-      "Платошина Галина Геннадьевна": 9,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 36,
+      "gas:candidate-vibid:4644006259326": 12,
+      "gas:candidate-vibid:4644006259241": 20,
+      "gas:candidate-vibid:4644006259178": 195,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 28,
+      "gas:candidate-vibid:4644006258648": 9,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12315,15 +12315,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 63,
-      "Гавриличев Юрий Владимирович": 10,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 279,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 20,
-      "Платошина Галина Геннадьевна": 11,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 63,
+      "gas:candidate-vibid:4644006259326": 10,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 279,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 20,
+      "gas:candidate-vibid:4644006258648": 11,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12374,15 +12374,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 75,
-      "Гавриличев Юрий Владимирович": 25,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 381,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 75,
+      "gas:candidate-vibid:4644006259326": 25,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 381,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12433,15 +12433,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Гавриличев Юрий Владимирович": 17,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 336,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 65,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 74,
+      "gas:candidate-vibid:4644006259326": 17,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 336,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 65,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12492,15 +12492,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 79,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 476,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 56,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 79,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 476,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 56,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12551,15 +12551,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 651,
-      "Козляков Илья Романович": 16,
-      "Купец Анна Владимировна": 15,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 18,
-      "Щербаков Вячеслав Дмитриевич": 13
+      "gas:candidate-vibid:4644006258740": 20,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 651,
+      "gas:candidate-vibid:4644006259162": 16,
+      "gas:candidate-vibid:4644006278698": 15,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 18,
+      "gas:candidate-vibid:4644006278635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12610,15 +12610,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 181,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 18,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 181,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12669,15 +12669,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 138,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 5,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 138,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 5,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12728,15 +12728,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 142,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 18,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 142,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12787,15 +12787,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 63,
-      "Гавриличев Юрий Владимирович": 36,
-      "Игнатьев Дмитрий Андреевич": 14,
-      "Исаев Михаил Александрович": 210,
-      "Козляков Илья Романович": 11,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 45,
-      "Платошина Галина Геннадьевна": 12,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 63,
+      "gas:candidate-vibid:4644006259326": 36,
+      "gas:candidate-vibid:4644006259241": 14,
+      "gas:candidate-vibid:4644006259178": 210,
+      "gas:candidate-vibid:4644006259162": 11,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 45,
+      "gas:candidate-vibid:4644006258648": 12,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12846,15 +12846,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 121,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 15,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 8,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 121,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 15,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12905,15 +12905,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 12,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 98,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 13,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 12,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 98,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 13,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -12964,15 +12964,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 15,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 302,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 9,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 15,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 302,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 9,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13023,15 +13023,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 20,
-      "Гавриличев Юрий Владимирович": 9,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 356,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 23,
-      "Платошина Галина Геннадьевна": 3,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 20,
+      "gas:candidate-vibid:4644006259326": 9,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 356,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 23,
+      "gas:candidate-vibid:4644006258648": 3,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13082,15 +13082,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 8,
-      "Гавриличев Юрий Владимирович": 2,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 138,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 4,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 8,
+      "gas:candidate-vibid:4644006259326": 2,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 138,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 4,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13141,15 +13141,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 7,
-      "Исаев Михаил Александрович": 320,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 11,
-      "Платошина Галина Геннадьевна": 8,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 7,
+      "gas:candidate-vibid:4644006259178": 320,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 11,
+      "gas:candidate-vibid:4644006258648": 8,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13200,15 +13200,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 31,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 311,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 16,
-      "Платошина Галина Геннадьевна": 5,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 31,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 311,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 16,
+      "gas:candidate-vibid:4644006258648": 5,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13259,15 +13259,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 51,
-      "Гавриличев Юрий Владимирович": 7,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 256,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 38,
-      "Платошина Галина Геннадьевна": 23,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 51,
+      "gas:candidate-vibid:4644006259326": 7,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 256,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 38,
+      "gas:candidate-vibid:4644006258648": 23,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13318,15 +13318,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 23,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 94,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 9,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 23,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 94,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 9,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13377,15 +13377,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 57,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 280,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 1,
-      "Мартынова Светлана Александровна": 22,
-      "Платошина Галина Геннадьевна": 1,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 57,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 280,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 1,
+      "gas:candidate-vibid:4644006258093": 22,
+      "gas:candidate-vibid:4644006258648": 1,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13436,15 +13436,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 8,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 224,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 24,
-      "Платошина Галина Геннадьевна": 2,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 8,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 224,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 24,
+      "gas:candidate-vibid:4644006258648": 2,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13495,15 +13495,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 43,
-      "Гавриличев Юрий Владимирович": 14,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 370,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 24,
-      "Платошина Галина Геннадьевна": 17,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 43,
+      "gas:candidate-vibid:4644006259326": 14,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 370,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 24,
+      "gas:candidate-vibid:4644006258648": 17,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13554,15 +13554,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 24,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 264,
-      "Козляков Илья Романович": 1,
-      "Купец Анна Владимировна": 4,
-      "Мартынова Светлана Александровна": 17,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 2
+      "gas:candidate-vibid:4644006258740": 24,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 264,
+      "gas:candidate-vibid:4644006259162": 1,
+      "gas:candidate-vibid:4644006278698": 4,
+      "gas:candidate-vibid:4644006258093": 17,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13613,15 +13613,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 17,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 181,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 7,
-      "Щербаков Вячеслав Дмитриевич": 1
+      "gas:candidate-vibid:4644006258740": 17,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 181,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 7,
+      "gas:candidate-vibid:4644006278635": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13672,15 +13672,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 18,
-      "Гавриличев Юрий Владимирович": 10,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 216,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 0,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 18,
+      "gas:candidate-vibid:4644006259326": 10,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 216,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 0,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135278&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135278&type=464",
@@ -13731,15 +13731,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 52,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 288,
-      "Козляков Илья Романович": 0,
-      "Купец Анна Владимировна": 0,
-      "Мартынова Светлана Александровна": 100,
-      "Платошина Галина Геннадьевна": 28,
-      "Щербаков Вячеслав Дмитриевич": 0
+      "gas:candidate-vibid:4644006258740": 52,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 288,
+      "gas:candidate-vibid:4644006259162": 0,
+      "gas:candidate-vibid:4644006278698": 0,
+      "gas:candidate-vibid:4644006258093": 100,
+      "gas:candidate-vibid:4644006258648": 28,
+      "gas:candidate-vibid:4644006278635": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -13790,15 +13790,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 80,
-      "Гавриличев Юрий Владимирович": 23,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 468,
-      "Козляков Илья Романович": 15,
-      "Купец Анна Владимировна": 12,
-      "Мартынова Светлана Александровна": 100,
-      "Платошина Галина Геннадьевна": 70,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 80,
+      "gas:candidate-vibid:4644006259326": 23,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 468,
+      "gas:candidate-vibid:4644006259162": 15,
+      "gas:candidate-vibid:4644006278698": 12,
+      "gas:candidate-vibid:4644006258093": 100,
+      "gas:candidate-vibid:4644006258648": 70,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -13849,15 +13849,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 99,
-      "Гавриличев Юрий Владимирович": 11,
-      "Игнатьев Дмитрий Андреевич": 0,
-      "Исаев Михаил Александрович": 280,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 78,
-      "Платошина Галина Геннадьевна": 37,
-      "Щербаков Вячеслав Дмитриевич": 12
+      "gas:candidate-vibid:4644006258740": 99,
+      "gas:candidate-vibid:4644006259326": 11,
+      "gas:candidate-vibid:4644006259241": 0,
+      "gas:candidate-vibid:4644006259178": 280,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 78,
+      "gas:candidate-vibid:4644006258648": 37,
+      "gas:candidate-vibid:4644006278635": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -13908,15 +13908,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 10,
-      "Гавриличев Юрий Владимирович": 4,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 349,
-      "Козляков Илья Романович": 2,
-      "Купец Анна Владимировна": 2,
-      "Мартынова Светлана Александровна": 10,
-      "Платошина Галина Геннадьевна": 6,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 10,
+      "gas:candidate-vibid:4644006259326": 4,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 349,
+      "gas:candidate-vibid:4644006259162": 2,
+      "gas:candidate-vibid:4644006278698": 2,
+      "gas:candidate-vibid:4644006258093": 10,
+      "gas:candidate-vibid:4644006258648": 6,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -13967,15 +13967,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 58,
-      "Гавриличев Юрий Владимирович": 25,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 150,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 55,
-      "Платошина Галина Геннадьевна": 44,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 58,
+      "gas:candidate-vibid:4644006259326": 25,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 150,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 55,
+      "gas:candidate-vibid:4644006258648": 44,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14026,15 +14026,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 92,
-      "Гавриличев Юрий Владимирович": 6,
-      "Игнатьев Дмитрий Андреевич": 5,
-      "Исаев Михаил Александрович": 195,
-      "Козляков Илья Романович": 3,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 30,
-      "Платошина Галина Геннадьевна": 42,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 92,
+      "gas:candidate-vibid:4644006259326": 6,
+      "gas:candidate-vibid:4644006259241": 5,
+      "gas:candidate-vibid:4644006259178": 195,
+      "gas:candidate-vibid:4644006259162": 3,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 30,
+      "gas:candidate-vibid:4644006258648": 42,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14085,15 +14085,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 61,
-      "Гавриличев Юрий Владимирович": 21,
-      "Игнатьев Дмитрий Андреевич": 8,
-      "Исаев Михаил Александрович": 270,
-      "Козляков Илья Романович": 10,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 96,
-      "Платошина Галина Геннадьевна": 64,
-      "Щербаков Вячеслав Дмитриевич": 13
+      "gas:candidate-vibid:4644006258740": 61,
+      "gas:candidate-vibid:4644006259326": 21,
+      "gas:candidate-vibid:4644006259241": 8,
+      "gas:candidate-vibid:4644006259178": 270,
+      "gas:candidate-vibid:4644006259162": 10,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 96,
+      "gas:candidate-vibid:4644006258648": 64,
+      "gas:candidate-vibid:4644006278635": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14144,15 +14144,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 54,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 9,
-      "Исаев Михаил Александрович": 178,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 64,
-      "Платошина Галина Геннадьевна": 61,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 54,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 9,
+      "gas:candidate-vibid:4644006259178": 178,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 64,
+      "gas:candidate-vibid:4644006258648": 61,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14203,15 +14203,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 107,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 584,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 65,
-      "Платошина Галина Геннадьевна": 41,
-      "Щербаков Вячеслав Дмитриевич": 7
+      "gas:candidate-vibid:4644006258740": 107,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 584,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 65,
+      "gas:candidate-vibid:4644006258648": 41,
+      "gas:candidate-vibid:4644006278635": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14262,15 +14262,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 88,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 2,
-      "Исаев Михаил Александрович": 539,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 8,
-      "Мартынова Светлана Александровна": 41,
-      "Платошина Галина Геннадьевна": 64,
-      "Щербаков Вячеслав Дмитриевич": 6
+      "gas:candidate-vibid:4644006258740": 88,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 2,
+      "gas:candidate-vibid:4644006259178": 539,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 8,
+      "gas:candidate-vibid:4644006258093": 41,
+      "gas:candidate-vibid:4644006258648": 64,
+      "gas:candidate-vibid:4644006278635": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14321,15 +14321,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 74,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 3,
-      "Исаев Михаил Александрович": 220,
-      "Козляков Илья Романович": 4,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 40,
-      "Платошина Галина Геннадьевна": 34,
-      "Щербаков Вячеслав Дмитриевич": 10
+      "gas:candidate-vibid:4644006258740": 74,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 3,
+      "gas:candidate-vibid:4644006259178": 220,
+      "gas:candidate-vibid:4644006259162": 4,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 40,
+      "gas:candidate-vibid:4644006258648": 34,
+      "gas:candidate-vibid:4644006278635": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14380,15 +14380,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 67,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 288,
-      "Козляков Илья Романович": 10,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 88,
-      "Платошина Галина Геннадьевна": 57,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 67,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 288,
+      "gas:candidate-vibid:4644006259162": 10,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 88,
+      "gas:candidate-vibid:4644006258648": 57,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14439,15 +14439,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 30,
-      "Гавриличев Юрий Владимирович": 17,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 441,
-      "Козляков Илья Романович": 6,
-      "Купец Анна Владимировна": 5,
-      "Мартынова Светлана Александровна": 38,
-      "Платошина Галина Геннадьевна": 20,
-      "Щербаков Вячеслав Дмитриевич": 5
+      "gas:candidate-vibid:4644006258740": 30,
+      "gas:candidate-vibid:4644006259326": 17,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 441,
+      "gas:candidate-vibid:4644006259162": 6,
+      "gas:candidate-vibid:4644006278698": 5,
+      "gas:candidate-vibid:4644006258093": 38,
+      "gas:candidate-vibid:4644006258648": 20,
+      "gas:candidate-vibid:4644006278635": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14498,15 +14498,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 122,
-      "Гавриличев Юрий Владимирович": 20,
-      "Игнатьев Дмитрий Андреевич": 11,
-      "Исаев Михаил Александрович": 223,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 12,
-      "Мартынова Светлана Александровна": 72,
-      "Платошина Галина Геннадьевна": 71,
-      "Щербаков Вячеслав Дмитриевич": 14
+      "gas:candidate-vibid:4644006258740": 122,
+      "gas:candidate-vibid:4644006259326": 20,
+      "gas:candidate-vibid:4644006259241": 11,
+      "gas:candidate-vibid:4644006259178": 223,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 12,
+      "gas:candidate-vibid:4644006258093": 72,
+      "gas:candidate-vibid:4644006258648": 71,
+      "gas:candidate-vibid:4644006278635": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14557,15 +14557,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 71,
-      "Гавриличев Юрий Владимирович": 5,
-      "Игнатьев Дмитрий Андреевич": 4,
-      "Исаев Михаил Александрович": 802,
-      "Козляков Илья Романович": 7,
-      "Купец Анна Владимировна": 7,
-      "Мартынова Светлана Александровна": 9,
-      "Платошина Галина Геннадьевна": 10,
-      "Щербаков Вячеслав Дмитриевич": 3
+      "gas:candidate-vibid:4644006258740": 71,
+      "gas:candidate-vibid:4644006259326": 5,
+      "gas:candidate-vibid:4644006259241": 4,
+      "gas:candidate-vibid:4644006259178": 802,
+      "gas:candidate-vibid:4644006259162": 7,
+      "gas:candidate-vibid:4644006278698": 7,
+      "gas:candidate-vibid:4644006258093": 9,
+      "gas:candidate-vibid:4644006258648": 10,
+      "gas:candidate-vibid:4644006278635": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14616,15 +14616,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 99,
-      "Гавриличев Юрий Владимирович": 0,
-      "Игнатьев Дмитрий Андреевич": 10,
-      "Исаев Михаил Александрович": 317,
-      "Козляков Илья Романович": 9,
-      "Купец Анна Владимировна": 3,
-      "Мартынова Светлана Александровна": 78,
-      "Платошина Галина Геннадьевна": 92,
-      "Щербаков Вячеслав Дмитриевич": 8
+      "gas:candidate-vibid:4644006258740": 99,
+      "gas:candidate-vibid:4644006259326": 0,
+      "gas:candidate-vibid:4644006259241": 10,
+      "gas:candidate-vibid:4644006259178": 317,
+      "gas:candidate-vibid:4644006259162": 9,
+      "gas:candidate-vibid:4644006278698": 3,
+      "gas:candidate-vibid:4644006258093": 78,
+      "gas:candidate-vibid:4644006258648": 92,
+      "gas:candidate-vibid:4644006278635": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14675,15 +14675,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 94,
-      "Гавриличев Юрий Владимирович": 13,
-      "Игнатьев Дмитрий Андреевич": 6,
-      "Исаев Михаил Александрович": 235,
-      "Козляков Илья Романович": 8,
-      "Купец Анна Владимировна": 9,
-      "Мартынова Светлана Александровна": 51,
-      "Платошина Галина Геннадьевна": 42,
-      "Щербаков Вячеслав Дмитриевич": 9
+      "gas:candidate-vibid:4644006258740": 94,
+      "gas:candidate-vibid:4644006259326": 13,
+      "gas:candidate-vibid:4644006259241": 6,
+      "gas:candidate-vibid:4644006259178": 235,
+      "gas:candidate-vibid:4644006259162": 8,
+      "gas:candidate-vibid:4644006278698": 9,
+      "gas:candidate-vibid:4644006258093": 51,
+      "gas:candidate-vibid:4644006258648": 42,
+      "gas:candidate-vibid:4644006278635": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",
@@ -14734,15 +14734,15 @@ export const duma_2016_uik_463_region_64_part_005 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Алимова Ольга Николаевна": 50,
-      "Гавриличев Юрий Владимирович": 18,
-      "Игнатьев Дмитрий Андреевич": 1,
-      "Исаев Михаил Александрович": 189,
-      "Козляков Илья Романович": 5,
-      "Купец Анна Владимировна": 6,
-      "Мартынова Светлана Александровна": 37,
-      "Платошина Галина Геннадьевна": 17,
-      "Щербаков Вячеслав Дмитриевич": 4
+      "gas:candidate-vibid:4644006258740": 50,
+      "gas:candidate-vibid:4644006259326": 18,
+      "gas:candidate-vibid:4644006259241": 1,
+      "gas:candidate-vibid:4644006259178": 189,
+      "gas:candidate-vibid:4644006259162": 5,
+      "gas:candidate-vibid:4644006278698": 6,
+      "gas:candidate-vibid:4644006258093": 37,
+      "gas:candidate-vibid:4644006258648": 17,
+      "gas:candidate-vibid:4644006278635": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/saratov?action=show&root=1000217&tvd=26420001135279&vrn=100100067795849&region=64&global=&sub_region=64&prver=0&pronetvd=null&vibid=26420001135279&type=464",

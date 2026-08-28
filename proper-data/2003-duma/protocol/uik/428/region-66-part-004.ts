@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 43,
-      "Леонтьев Александр Петрович": 37,
-      "Леонтьев Георгий Карпеевич": 355,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 337,
-      "Цыбакин Юрий Владимирович": 69,
-      "Цыбко Константин Валерьевич": 199,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121910": 43,
+      "gas:candidate-vibid:366300266814": 37,
+      "gas:candidate-vibid:1001000131412": 355,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 337,
+      "gas:candidate-vibid:1001000225987": 69,
+      "gas:candidate-vibid:366300266808": 199,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 51,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 311,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 381,
-      "Цыбакин Юрий Владимирович": 77,
-      "Цыбко Константин Валерьевич": 197,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000121910": 51,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 311,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 381,
+      "gas:candidate-vibid:1001000225987": 77,
+      "gas:candidate-vibid:366300266808": 197,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 57,
-      "Леонтьев Александр Петрович": 35,
-      "Леонтьев Георгий Карпеевич": 347,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 394,
-      "Цыбакин Юрий Владимирович": 60,
-      "Цыбко Константин Валерьевич": 185,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000121910": 57,
+      "gas:candidate-vibid:366300266814": 35,
+      "gas:candidate-vibid:1001000131412": 347,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 394,
+      "gas:candidate-vibid:1001000225987": 60,
+      "gas:candidate-vibid:366300266808": 185,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 34,
-      "Леонтьев Александр Петрович": 17,
-      "Леонтьев Георгий Карпеевич": 164,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 260,
-      "Цыбакин Юрий Владимирович": 39,
-      "Цыбко Константин Валерьевич": 84,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121910": 34,
+      "gas:candidate-vibid:366300266814": 17,
+      "gas:candidate-vibid:1001000131412": 164,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 260,
+      "gas:candidate-vibid:1001000225987": 39,
+      "gas:candidate-vibid:366300266808": 84,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 25,
-      "Леонтьев Александр Петрович": 27,
-      "Леонтьев Георгий Карпеевич": 257,
-      "Мисюра Андрей Анатольевич": 6,
-      "Рявкин Александр Юрьевич": 265,
-      "Цыбакин Юрий Владимирович": 38,
-      "Цыбко Константин Валерьевич": 121,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121910": 25,
+      "gas:candidate-vibid:366300266814": 27,
+      "gas:candidate-vibid:1001000131412": 257,
+      "gas:candidate-vibid:366300266817": 6,
+      "gas:candidate-vibid:366300266811": 265,
+      "gas:candidate-vibid:1001000225987": 38,
+      "gas:candidate-vibid:366300266808": 121,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 54,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 318,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 302,
-      "Цыбакин Юрий Владимирович": 52,
-      "Цыбко Константин Валерьевич": 130,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121910": 54,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 318,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 302,
+      "gas:candidate-vibid:1001000225987": 52,
+      "gas:candidate-vibid:366300266808": 130,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 38,
-      "Леонтьев Александр Петрович": 37,
-      "Леонтьев Георгий Карпеевич": 219,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 264,
-      "Цыбакин Юрий Владимирович": 54,
-      "Цыбко Константин Валерьевич": 154,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000121910": 38,
+      "gas:candidate-vibid:366300266814": 37,
+      "gas:candidate-vibid:1001000131412": 219,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 264,
+      "gas:candidate-vibid:1001000225987": 54,
+      "gas:candidate-vibid:366300266808": 154,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 44,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 337,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 451,
-      "Цыбакин Юрий Владимирович": 65,
-      "Цыбко Константин Валерьевич": 129,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121910": 44,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 337,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 451,
+      "gas:candidate-vibid:1001000225987": 65,
+      "gas:candidate-vibid:366300266808": 129,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 47,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 362,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 330,
-      "Цыбакин Юрий Владимирович": 60,
-      "Цыбко Константин Валерьевич": 160,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000121910": 47,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 362,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 330,
+      "gas:candidate-vibid:1001000225987": 60,
+      "gas:candidate-vibid:366300266808": 160,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 53,
-      "Леонтьев Александр Петрович": 49,
-      "Леонтьев Георгий Карпеевич": 417,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 286,
-      "Цыбакин Юрий Владимирович": 66,
-      "Цыбко Константин Валерьевич": 164,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000121910": 53,
+      "gas:candidate-vibid:366300266814": 49,
+      "gas:candidate-vibid:1001000131412": 417,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 286,
+      "gas:candidate-vibid:1001000225987": 66,
+      "gas:candidate-vibid:366300266808": 164,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 73,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 329,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 224,
-      "Цыбакин Юрий Владимирович": 70,
-      "Цыбко Константин Валерьевич": 232,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000121910": 73,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 329,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 224,
+      "gas:candidate-vibid:1001000225987": 70,
+      "gas:candidate-vibid:366300266808": 232,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 62,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 282,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 292,
-      "Цыбакин Юрий Владимирович": 58,
-      "Цыбко Константин Валерьевич": 130,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121910": 62,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 282,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 292,
+      "gas:candidate-vibid:1001000225987": 58,
+      "gas:candidate-vibid:366300266808": 130,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 52,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 262,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 335,
-      "Цыбакин Юрий Владимирович": 72,
-      "Цыбко Константин Валерьевич": 158,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121910": 52,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 262,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 335,
+      "gas:candidate-vibid:1001000225987": 72,
+      "gas:candidate-vibid:366300266808": 158,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 36,
-      "Леонтьев Александр Петрович": 29,
-      "Леонтьев Георгий Карпеевич": 297,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 354,
-      "Цыбакин Юрий Владимирович": 50,
-      "Цыбко Константин Валерьевич": 182,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000121910": 36,
+      "gas:candidate-vibid:366300266814": 29,
+      "gas:candidate-vibid:1001000131412": 297,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 354,
+      "gas:candidate-vibid:1001000225987": 50,
+      "gas:candidate-vibid:366300266808": 182,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 44,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 261,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 456,
-      "Цыбакин Юрий Владимирович": 74,
-      "Цыбко Константин Валерьевич": 161,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121910": 44,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 261,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 456,
+      "gas:candidate-vibid:1001000225987": 74,
+      "gas:candidate-vibid:366300266808": 161,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 28,
-      "Леонтьев Александр Петрович": 12,
-      "Леонтьев Георгий Карпеевич": 170,
-      "Мисюра Андрей Анатольевич": 7,
-      "Рявкин Александр Юрьевич": 430,
-      "Цыбакин Юрий Владимирович": 49,
-      "Цыбко Константин Валерьевич": 104,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121910": 28,
+      "gas:candidate-vibid:366300266814": 12,
+      "gas:candidate-vibid:1001000131412": 170,
+      "gas:candidate-vibid:366300266817": 7,
+      "gas:candidate-vibid:366300266811": 430,
+      "gas:candidate-vibid:1001000225987": 49,
+      "gas:candidate-vibid:366300266808": 104,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 57,
-      "Леонтьев Александр Петрович": 35,
-      "Леонтьев Георгий Карпеевич": 379,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 236,
-      "Цыбакин Юрий Владимирович": 44,
-      "Цыбко Константин Валерьевич": 224,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121910": 57,
+      "gas:candidate-vibid:366300266814": 35,
+      "gas:candidate-vibid:1001000131412": 379,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 236,
+      "gas:candidate-vibid:1001000225987": 44,
+      "gas:candidate-vibid:366300266808": 224,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 68,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 273,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 227,
-      "Цыбакин Юрий Владимирович": 73,
-      "Цыбко Константин Валерьевич": 190,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121910": 68,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 273,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 227,
+      "gas:candidate-vibid:1001000225987": 73,
+      "gas:candidate-vibid:366300266808": 190,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 34,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 215,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 245,
-      "Цыбакин Юрий Владимирович": 54,
-      "Цыбко Константин Валерьевич": 152,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121910": 34,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 215,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 245,
+      "gas:candidate-vibid:1001000225987": 54,
+      "gas:candidate-vibid:366300266808": 152,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 41,
-      "Леонтьев Александр Петрович": 26,
-      "Леонтьев Георгий Карпеевич": 293,
-      "Мисюра Андрей Анатольевич": 6,
-      "Рявкин Александр Юрьевич": 325,
-      "Цыбакин Юрий Владимирович": 78,
-      "Цыбко Константин Валерьевич": 185,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121910": 41,
+      "gas:candidate-vibid:366300266814": 26,
+      "gas:candidate-vibid:1001000131412": 293,
+      "gas:candidate-vibid:366300266817": 6,
+      "gas:candidate-vibid:366300266811": 325,
+      "gas:candidate-vibid:1001000225987": 78,
+      "gas:candidate-vibid:366300266808": 185,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 35,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 368,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 331,
-      "Цыбакин Юрий Владимирович": 68,
-      "Цыбко Константин Валерьевич": 190,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121910": 35,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 368,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 331,
+      "gas:candidate-vibid:1001000225987": 68,
+      "gas:candidate-vibid:366300266808": 190,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 40,
-      "Леонтьев Александр Петрович": 43,
-      "Леонтьев Георгий Карпеевич": 316,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 354,
-      "Цыбакин Юрий Владимирович": 73,
-      "Цыбко Константин Валерьевич": 195,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000121910": 40,
+      "gas:candidate-vibid:366300266814": 43,
+      "gas:candidate-vibid:1001000131412": 316,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 354,
+      "gas:candidate-vibid:1001000225987": 73,
+      "gas:candidate-vibid:366300266808": 195,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 15,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 107,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 171,
-      "Цыбакин Юрий Владимирович": 27,
-      "Цыбко Константин Валерьевич": 123,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121910": 15,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 107,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 171,
+      "gas:candidate-vibid:1001000225987": 27,
+      "gas:candidate-vibid:366300266808": 123,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 39,
-      "Леонтьев Александр Петрович": 30,
-      "Леонтьев Георгий Карпеевич": 210,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 266,
-      "Цыбакин Юрий Владимирович": 66,
-      "Цыбко Константин Валерьевич": 254,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121910": 39,
+      "gas:candidate-vibid:366300266814": 30,
+      "gas:candidate-vibid:1001000131412": 210,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 266,
+      "gas:candidate-vibid:1001000225987": 66,
+      "gas:candidate-vibid:366300266808": 254,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 34,
-      "Леонтьев Александр Петрович": 20,
-      "Леонтьев Георгий Карпеевич": 214,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 427,
-      "Цыбакин Юрий Владимирович": 40,
-      "Цыбко Константин Валерьевич": 121,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000121910": 34,
+      "gas:candidate-vibid:366300266814": 20,
+      "gas:candidate-vibid:1001000131412": 214,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 427,
+      "gas:candidate-vibid:1001000225987": 40,
+      "gas:candidate-vibid:366300266808": 121,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 18,
-      "Леонтьев Георгий Карпеевич": 152,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 168,
-      "Цыбакин Юрий Владимирович": 18,
-      "Цыбко Константин Валерьевич": 52,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 18,
+      "gas:candidate-vibid:1001000131412": 152,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 168,
+      "gas:candidate-vibid:1001000225987": 18,
+      "gas:candidate-vibid:366300266808": 52,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 166,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 310,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 63,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 166,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 310,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 63,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 16,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 46,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 16,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 46,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 78,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 192,
-      "Цыбакин Юрий Владимирович": 9,
-      "Цыбко Константин Валерьевич": 17,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 78,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 192,
+      "gas:candidate-vibid:1001000225987": 9,
+      "gas:candidate-vibid:366300266808": 17,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 13,
-      "Леонтьев Георгий Карпеевич": 62,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 300,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 29,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 13,
+      "gas:candidate-vibid:1001000131412": 62,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 300,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 29,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266718&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 57,
-      "Леонтьев Александр Петрович": 41,
-      "Леонтьев Георгий Карпеевич": 339,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 408,
-      "Цыбакин Юрий Владимирович": 49,
-      "Цыбко Константин Валерьевич": 100,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121910": 57,
+      "gas:candidate-vibid:366300266814": 41,
+      "gas:candidate-vibid:1001000131412": 339,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 408,
+      "gas:candidate-vibid:1001000225987": 49,
+      "gas:candidate-vibid:366300266808": 100,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 108,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 147,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 32,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 108,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 147,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 32,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 25,
-      "Леонтьев Александр Петрович": 39,
-      "Леонтьев Георгий Карпеевич": 258,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 204,
-      "Цыбакин Юрий Владимирович": 34,
-      "Цыбко Константин Валерьевич": 91,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121910": 25,
+      "gas:candidate-vibid:366300266814": 39,
+      "gas:candidate-vibid:1001000131412": 258,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 204,
+      "gas:candidate-vibid:1001000225987": 34,
+      "gas:candidate-vibid:366300266808": 91,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 28,
-      "Леонтьев Александр Петрович": 28,
-      "Леонтьев Георгий Карпеевич": 208,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 148,
-      "Цыбакин Юрий Владимирович": 31,
-      "Цыбко Константин Валерьевич": 96,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000121910": 28,
+      "gas:candidate-vibid:366300266814": 28,
+      "gas:candidate-vibid:1001000131412": 208,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 148,
+      "gas:candidate-vibid:1001000225987": 31,
+      "gas:candidate-vibid:366300266808": 96,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 20,
-      "Леонтьев Александр Петрович": 28,
-      "Леонтьев Георгий Карпеевич": 219,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 137,
-      "Цыбакин Юрий Владимирович": 37,
-      "Цыбко Константин Валерьевич": 59,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121910": 20,
+      "gas:candidate-vibid:366300266814": 28,
+      "gas:candidate-vibid:1001000131412": 219,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 137,
+      "gas:candidate-vibid:1001000225987": 37,
+      "gas:candidate-vibid:366300266808": 59,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 42,
-      "Леонтьев Александр Петрович": 43,
-      "Леонтьев Георгий Карпеевич": 369,
-      "Мисюра Андрей Анатольевич": 7,
-      "Рявкин Александр Юрьевич": 370,
-      "Цыбакин Юрий Владимирович": 59,
-      "Цыбко Константин Валерьевич": 132,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000121910": 42,
+      "gas:candidate-vibid:366300266814": 43,
+      "gas:candidate-vibid:1001000131412": 369,
+      "gas:candidate-vibid:366300266817": 7,
+      "gas:candidate-vibid:366300266811": 370,
+      "gas:candidate-vibid:1001000225987": 59,
+      "gas:candidate-vibid:366300266808": 132,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 49,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 355,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 267,
-      "Цыбакин Юрий Владимирович": 59,
-      "Цыбко Константин Валерьевич": 141,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000121910": 49,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 355,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 267,
+      "gas:candidate-vibid:1001000225987": 59,
+      "gas:candidate-vibid:366300266808": 141,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 159,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 75,
-      "Цыбакин Юрий Владимирович": 23,
-      "Цыбко Константин Валерьевич": 36,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 159,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 75,
+      "gas:candidate-vibid:1001000225987": 23,
+      "gas:candidate-vibid:366300266808": 36,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 28,
-      "Леонтьев Александр Петрович": 20,
-      "Леонтьев Георгий Карпеевич": 262,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 253,
-      "Цыбакин Юрий Владимирович": 33,
-      "Цыбко Константин Валерьевич": 55,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121910": 28,
+      "gas:candidate-vibid:366300266814": 20,
+      "gas:candidate-vibid:1001000131412": 262,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 253,
+      "gas:candidate-vibid:1001000225987": 33,
+      "gas:candidate-vibid:366300266808": 55,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 18,
-      "Леонтьев Александр Петрович": 17,
-      "Леонтьев Георгий Карпеевич": 180,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 203,
-      "Цыбакин Юрий Владимирович": 25,
-      "Цыбко Константин Валерьевич": 50,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000121910": 18,
+      "gas:candidate-vibid:366300266814": 17,
+      "gas:candidate-vibid:1001000131412": 180,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 203,
+      "gas:candidate-vibid:1001000225987": 25,
+      "gas:candidate-vibid:366300266808": 50,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 44,
-      "Леонтьев Александр Петрович": 25,
-      "Леонтьев Георгий Карпеевич": 195,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 319,
-      "Цыбакин Юрий Владимирович": 34,
-      "Цыбко Константин Валерьевич": 72,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000121910": 44,
+      "gas:candidate-vibid:366300266814": 25,
+      "gas:candidate-vibid:1001000131412": 195,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 319,
+      "gas:candidate-vibid:1001000225987": 34,
+      "gas:candidate-vibid:366300266808": 72,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 49,
-      "Леонтьев Александр Петрович": 36,
-      "Леонтьев Георгий Карпеевич": 415,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 331,
-      "Цыбакин Юрий Владимирович": 54,
-      "Цыбко Константин Валерьевич": 121,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000121910": 49,
+      "gas:candidate-vibid:366300266814": 36,
+      "gas:candidate-vibid:1001000131412": 415,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 331,
+      "gas:candidate-vibid:1001000225987": 54,
+      "gas:candidate-vibid:366300266808": 121,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 40,
-      "Леонтьев Александр Петрович": 26,
-      "Леонтьев Георгий Карпеевич": 236,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 408,
-      "Цыбакин Юрий Владимирович": 32,
-      "Цыбко Константин Валерьевич": 111,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121910": 40,
+      "gas:candidate-vibid:366300266814": 26,
+      "gas:candidate-vibid:1001000131412": 236,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 408,
+      "gas:candidate-vibid:1001000225987": 32,
+      "gas:candidate-vibid:366300266808": 111,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 41,
-      "Леонтьев Александр Петрович": 28,
-      "Леонтьев Георгий Карпеевич": 389,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 278,
-      "Цыбакин Юрий Владимирович": 32,
-      "Цыбко Константин Валерьевич": 119,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121910": 41,
+      "gas:candidate-vibid:366300266814": 28,
+      "gas:candidate-vibid:1001000131412": 389,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 278,
+      "gas:candidate-vibid:1001000225987": 32,
+      "gas:candidate-vibid:366300266808": 119,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 18,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 77,
-      "Цыбакин Юрий Владимирович": 8,
-      "Цыбко Константин Валерьевич": 16,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 18,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 77,
+      "gas:candidate-vibid:1001000225987": 8,
+      "gas:candidate-vibid:366300266808": 16,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 20,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 108,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 304,
-      "Цыбакин Юрий Владимирович": 26,
-      "Цыбко Константин Валерьевич": 49,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121910": 20,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 108,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 304,
+      "gas:candidate-vibid:1001000225987": 26,
+      "gas:candidate-vibid:366300266808": 49,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 15,
-      "Леонтьев Александр Петрович": 18,
-      "Леонтьев Георгий Карпеевич": 84,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 177,
-      "Цыбакин Юрий Владимирович": 14,
-      "Цыбко Константин Валерьевич": 22,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121910": 15,
+      "gas:candidate-vibid:366300266814": 18,
+      "gas:candidate-vibid:1001000131412": 84,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 177,
+      "gas:candidate-vibid:1001000225987": 14,
+      "gas:candidate-vibid:366300266808": 22,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 6,
-      "Леонтьев Георгий Карпеевич": 15,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 79,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 6,
+      "gas:candidate-vibid:1001000131412": 15,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 79,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 31,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 86,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 221,
-      "Цыбакин Юрий Владимирович": 11,
-      "Цыбко Константин Валерьевич": 7,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121910": 31,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 86,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 221,
+      "gas:candidate-vibid:1001000225987": 11,
+      "gas:candidate-vibid:366300266808": 7,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 5,
-      "Леонтьев Георгий Карпеевич": 38,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 52,
-      "Цыбакин Юрий Владимирович": 8,
-      "Цыбко Константин Валерьевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 5,
+      "gas:candidate-vibid:1001000131412": 38,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 52,
+      "gas:candidate-vibid:1001000225987": 8,
+      "gas:candidate-vibid:366300266808": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 32,
-      "Леонтьев Александр Петрович": 19,
-      "Леонтьев Георгий Карпеевич": 148,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 268,
-      "Цыбакин Юрий Владимирович": 22,
-      "Цыбко Константин Валерьевич": 40,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121910": 32,
+      "gas:candidate-vibid:366300266814": 19,
+      "gas:candidate-vibid:1001000131412": 148,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 268,
+      "gas:candidate-vibid:1001000225987": 22,
+      "gas:candidate-vibid:366300266808": 40,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 1,
-      "Леонтьев Георгий Карпеевич": 35,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 60,
-      "Цыбакин Юрий Владимирович": 6,
-      "Цыбко Константин Валерьевич": 31,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 1,
+      "gas:candidate-vibid:1001000131412": 35,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 60,
+      "gas:candidate-vibid:1001000225987": 6,
+      "gas:candidate-vibid:366300266808": 31,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 35,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 68,
-      "Цыбакин Юрий Владимирович": 9,
-      "Цыбко Константин Валерьевич": 20,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 35,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 68,
+      "gas:candidate-vibid:1001000225987": 9,
+      "gas:candidate-vibid:366300266808": 20,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 19,
-      "Леонтьев Александр Петрович": 29,
-      "Леонтьев Георгий Карпеевич": 298,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 266,
-      "Цыбакин Юрий Владимирович": 18,
-      "Цыбко Константин Валерьевич": 37,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121910": 19,
+      "gas:candidate-vibid:366300266814": 29,
+      "gas:candidate-vibid:1001000131412": 298,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 266,
+      "gas:candidate-vibid:1001000225987": 18,
+      "gas:candidate-vibid:366300266808": 37,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 11,
-      "Леонтьев Александр Петрович": 7,
-      "Леонтьев Георгий Карпеевич": 98,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 144,
-      "Цыбакин Юрий Владимирович": 7,
-      "Цыбко Константин Валерьевич": 11,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121910": 11,
+      "gas:candidate-vibid:366300266814": 7,
+      "gas:candidate-vibid:1001000131412": 98,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 144,
+      "gas:candidate-vibid:1001000225987": 7,
+      "gas:candidate-vibid:366300266808": 11,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 10,
-      "Леонтьев Александр Петрович": 21,
-      "Леонтьев Георгий Карпеевич": 145,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 164,
-      "Цыбакин Юрий Владимирович": 20,
-      "Цыбко Константин Валерьевич": 26,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121910": 10,
+      "gas:candidate-vibid:366300266814": 21,
+      "gas:candidate-vibid:1001000131412": 145,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 164,
+      "gas:candidate-vibid:1001000225987": 20,
+      "gas:candidate-vibid:366300266808": 26,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 32,
-      "Леонтьев Александр Петрович": 39,
-      "Леонтьев Георгий Карпеевич": 304,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 236,
-      "Цыбакин Юрий Владимирович": 34,
-      "Цыбко Константин Валерьевич": 93,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121910": 32,
+      "gas:candidate-vibid:366300266814": 39,
+      "gas:candidate-vibid:1001000131412": 304,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 236,
+      "gas:candidate-vibid:1001000225987": 34,
+      "gas:candidate-vibid:366300266808": 93,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 1,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 32,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 64,
-      "Цыбакин Юрий Владимирович": 8,
-      "Цыбко Константин Валерьевич": 14,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121910": 1,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 32,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 64,
+      "gas:candidate-vibid:1001000225987": 8,
+      "gas:candidate-vibid:366300266808": 14,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 18,
-      "Леонтьев Александр Петрович": 19,
-      "Леонтьев Георгий Карпеевич": 169,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 158,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 17,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121910": 18,
+      "gas:candidate-vibid:366300266814": 19,
+      "gas:candidate-vibid:1001000131412": 169,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 158,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 17,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 6,
-      "Леонтьев Георгий Карпеевич": 43,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 72,
-      "Цыбакин Юрий Владимирович": 1,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 6,
+      "gas:candidate-vibid:1001000131412": 43,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 72,
+      "gas:candidate-vibid:1001000225987": 1,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 36,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 120,
-      "Цыбакин Юрий Владимирович": 10,
-      "Цыбко Константин Валерьевич": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 36,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 120,
+      "gas:candidate-vibid:1001000225987": 10,
+      "gas:candidate-vibid:366300266808": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266719&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 67,
-      "Леонтьев Александр Петрович": 21,
-      "Леонтьев Георгий Карпеевич": 208,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 659,
-      "Цыбакин Юрий Владимирович": 120,
-      "Цыбко Константин Валерьевич": 26,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000121910": 67,
+      "gas:candidate-vibid:366300266814": 21,
+      "gas:candidate-vibid:1001000131412": 208,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 659,
+      "gas:candidate-vibid:1001000225987": 120,
+      "gas:candidate-vibid:366300266808": 26,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266720&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 30,
-      "Леонтьев Александр Петрович": 8,
-      "Леонтьев Георгий Карпеевич": 69,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 301,
-      "Цыбакин Юрий Владимирович": 25,
-      "Цыбко Константин Валерьевич": 16,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121910": 30,
+      "gas:candidate-vibid:366300266814": 8,
+      "gas:candidate-vibid:1001000131412": 69,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 301,
+      "gas:candidate-vibid:1001000225987": 25,
+      "gas:candidate-vibid:366300266808": 16,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266720&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 10,
-      "Леонтьев Александр Петрович": 21,
-      "Леонтьев Георгий Карпеевич": 210,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 100,
-      "Цыбакин Юрий Владимирович": 21,
-      "Цыбко Константин Валерьевич": 34,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121910": 10,
+      "gas:candidate-vibid:366300266814": 21,
+      "gas:candidate-vibid:1001000131412": 210,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 100,
+      "gas:candidate-vibid:1001000225987": 21,
+      "gas:candidate-vibid:366300266808": 34,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266721&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 39,
-      "Леонтьев Александр Петрович": 43,
-      "Леонтьев Георгий Карпеевич": 426,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 321,
-      "Цыбакин Юрий Владимирович": 39,
-      "Цыбко Константин Валерьевич": 130,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121910": 39,
+      "gas:candidate-vibid:366300266814": 43,
+      "gas:candidate-vibid:1001000131412": 426,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 321,
+      "gas:candidate-vibid:1001000225987": 39,
+      "gas:candidate-vibid:366300266808": 130,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266721&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 43,
-      "Леонтьев Александр Петрович": 47,
-      "Леонтьев Георгий Карпеевич": 505,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 291,
-      "Цыбакин Юрий Владимирович": 47,
-      "Цыбко Константин Валерьевич": 97,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121910": 43,
+      "gas:candidate-vibid:366300266814": 47,
+      "gas:candidate-vibid:1001000131412": 505,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 291,
+      "gas:candidate-vibid:1001000225987": 47,
+      "gas:candidate-vibid:366300266808": 97,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266721&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 34,
-      "Леонтьев Александр Петрович": 44,
-      "Леонтьев Георгий Карпеевич": 467,
-      "Мисюра Андрей Анатольевич": 6,
-      "Рявкин Александр Юрьевич": 257,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 125,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000121910": 34,
+      "gas:candidate-vibid:366300266814": 44,
+      "gas:candidate-vibid:1001000131412": 467,
+      "gas:candidate-vibid:366300266817": 6,
+      "gas:candidate-vibid:366300266811": 257,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 125,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266721&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 25,
-      "Леонтьев Александр Петрович": 37,
-      "Леонтьев Георгий Карпеевич": 395,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 181,
-      "Цыбакин Юрий Владимирович": 56,
-      "Цыбко Константин Валерьевич": 131,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121910": 25,
+      "gas:candidate-vibid:366300266814": 37,
+      "gas:candidate-vibid:1001000131412": 395,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 181,
+      "gas:candidate-vibid:1001000225987": 56,
+      "gas:candidate-vibid:366300266808": 131,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266721&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 33,
-      "Леонтьев Александр Петрович": 41,
-      "Леонтьев Георгий Карпеевич": 293,
-      "Мисюра Андрей Анатольевич": 7,
-      "Рявкин Александр Юрьевич": 469,
-      "Цыбакин Юрий Владимирович": 50,
-      "Цыбко Константин Валерьевич": 91,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121910": 33,
+      "gas:candidate-vibid:366300266814": 41,
+      "gas:candidate-vibid:1001000131412": 293,
+      "gas:candidate-vibid:366300266817": 7,
+      "gas:candidate-vibid:366300266811": 469,
+      "gas:candidate-vibid:1001000225987": 50,
+      "gas:candidate-vibid:366300266808": 91,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266722&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 43,
-      "Леонтьев Александр Петрович": 35,
-      "Леонтьев Георгий Карпеевич": 275,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 494,
-      "Цыбакин Юрий Владимирович": 71,
-      "Цыбко Константин Валерьевич": 111,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121910": 43,
+      "gas:candidate-vibid:366300266814": 35,
+      "gas:candidate-vibid:1001000131412": 275,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 494,
+      "gas:candidate-vibid:1001000225987": 71,
+      "gas:candidate-vibid:366300266808": 111,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266722&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 43,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 330,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 309,
-      "Цыбакин Юрий Владимирович": 69,
-      "Цыбко Константин Валерьевич": 174,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121910": 43,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 330,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 309,
+      "gas:candidate-vibid:1001000225987": 69,
+      "gas:candidate-vibid:366300266808": 174,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266722&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 33,
-      "Леонтьев Александр Петрович": 34,
-      "Леонтьев Георгий Карпеевич": 268,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 497,
-      "Цыбакин Юрий Владимирович": 69,
-      "Цыбко Константин Валерьевич": 93,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000121910": 33,
+      "gas:candidate-vibid:366300266814": 34,
+      "gas:candidate-vibid:1001000131412": 268,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 497,
+      "gas:candidate-vibid:1001000225987": 69,
+      "gas:candidate-vibid:366300266808": 93,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266722&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 21,
-      "Леонтьев Александр Петрович": 27,
-      "Леонтьев Георгий Карпеевич": 261,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 490,
-      "Цыбакин Юрий Владимирович": 67,
-      "Цыбко Константин Валерьевич": 111,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121910": 21,
+      "gas:candidate-vibid:366300266814": 27,
+      "gas:candidate-vibid:1001000131412": 261,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 490,
+      "gas:candidate-vibid:1001000225987": 67,
+      "gas:candidate-vibid:366300266808": 111,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266722&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 30,
-      "Леонтьев Александр Петрович": 24,
-      "Леонтьев Георгий Карпеевич": 318,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 446,
-      "Цыбакин Юрий Владимирович": 73,
-      "Цыбко Константин Валерьевич": 121,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121910": 30,
+      "gas:candidate-vibid:366300266814": 24,
+      "gas:candidate-vibid:1001000131412": 318,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 446,
+      "gas:candidate-vibid:1001000225987": 73,
+      "gas:candidate-vibid:366300266808": 121,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266722&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 24,
-      "Леонтьев Александр Петрович": 23,
-      "Леонтьев Георгий Карпеевич": 269,
-      "Мисюра Андрей Анатольевич": 6,
-      "Рявкин Александр Юрьевич": 457,
-      "Цыбакин Юрий Владимирович": 60,
-      "Цыбко Константин Валерьевич": 15,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000121910": 24,
+      "gas:candidate-vibid:366300266814": 23,
+      "gas:candidate-vibid:1001000131412": 269,
+      "gas:candidate-vibid:366300266817": 6,
+      "gas:candidate-vibid:366300266811": 457,
+      "gas:candidate-vibid:1001000225987": 60,
+      "gas:candidate-vibid:366300266808": 15,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 36,
-      "Леонтьев Александр Петрович": 27,
-      "Леонтьев Георгий Карпеевич": 207,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 261,
-      "Цыбакин Юрий Владимирович": 30,
-      "Цыбко Константин Валерьевич": 19,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121910": 36,
+      "gas:candidate-vibid:366300266814": 27,
+      "gas:candidate-vibid:1001000131412": 207,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 261,
+      "gas:candidate-vibid:1001000225987": 30,
+      "gas:candidate-vibid:366300266808": 19,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 67,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 163,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 67,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 163,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 79,
-      "Леонтьев Александр Петрович": 16,
-      "Леонтьев Георгий Карпеевич": 140,
-      "Мисюра Андрей Анатольевич": 6,
-      "Рявкин Александр Юрьевич": 529,
-      "Цыбакин Юрий Владимирович": 25,
-      "Цыбко Константин Валерьевич": 12,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121910": 79,
+      "gas:candidate-vibid:366300266814": 16,
+      "gas:candidate-vibid:1001000131412": 140,
+      "gas:candidate-vibid:366300266817": 6,
+      "gas:candidate-vibid:366300266811": 529,
+      "gas:candidate-vibid:1001000225987": 25,
+      "gas:candidate-vibid:366300266808": 12,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 15,
-      "Леонтьев Александр Петрович": 48,
-      "Леонтьев Георгий Карпеевич": 367,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 347,
-      "Цыбакин Юрий Владимирович": 44,
-      "Цыбко Константин Валерьевич": 17,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121910": 15,
+      "gas:candidate-vibid:366300266814": 48,
+      "gas:candidate-vibid:1001000131412": 367,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 347,
+      "gas:candidate-vibid:1001000225987": 44,
+      "gas:candidate-vibid:366300266808": 17,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 83,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 106,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 83,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 106,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 7,
-      "Леонтьев Георгий Карпеевич": 50,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 162,
-      "Цыбакин Юрий Владимирович": 11,
-      "Цыбко Константин Валерьевич": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 7,
+      "gas:candidate-vibid:1001000131412": 50,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 162,
+      "gas:candidate-vibid:1001000225987": 11,
+      "gas:candidate-vibid:366300266808": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 20,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 102,
-      "Цыбакин Юрий Владимирович": 1,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 20,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 102,
+      "gas:candidate-vibid:1001000225987": 1,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 6,
-      "Леонтьев Георгий Карпеевич": 24,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 73,
-      "Цыбакин Юрий Владимирович": 8,
-      "Цыбко Константин Валерьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 6,
+      "gas:candidate-vibid:1001000131412": 24,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 73,
+      "gas:candidate-vibid:1001000225987": 8,
+      "gas:candidate-vibid:366300266808": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 9,
-      "Леонтьев Александр Петрович": 7,
-      "Леонтьев Георгий Карпеевич": 30,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 24,
-      "Цыбакин Юрий Владимирович": 11,
-      "Цыбко Константин Валерьевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 9,
+      "gas:candidate-vibid:366300266814": 7,
+      "gas:candidate-vibid:1001000131412": 30,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 24,
+      "gas:candidate-vibid:1001000225987": 11,
+      "gas:candidate-vibid:366300266808": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 18,
-      "Леонтьев Александр Петрович": 12,
-      "Леонтьев Георгий Карпеевич": 97,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 367,
-      "Цыбакин Юрий Владимирович": 17,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121910": 18,
+      "gas:candidate-vibid:366300266814": 12,
+      "gas:candidate-vibid:1001000131412": 97,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 367,
+      "gas:candidate-vibid:1001000225987": 17,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 9,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 34,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 129,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 9,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 34,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 129,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 65,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 179,
-      "Цыбакин Юрий Владимирович": 6,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 65,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 179,
+      "gas:candidate-vibid:1001000225987": 6,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 46,
-      "Леонтьев Александр Петрович": 26,
-      "Леонтьев Георгий Карпеевич": 101,
-      "Мисюра Андрей Анатольевич": 7,
-      "Рявкин Александр Юрьевич": 418,
-      "Цыбакин Юрий Владимирович": 71,
-      "Цыбко Константин Валерьевич": 13,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000121910": 46,
+      "gas:candidate-vibid:366300266814": 26,
+      "gas:candidate-vibid:1001000131412": 101,
+      "gas:candidate-vibid:366300266817": 7,
+      "gas:candidate-vibid:366300266811": 418,
+      "gas:candidate-vibid:1001000225987": 71,
+      "gas:candidate-vibid:366300266808": 13,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 50,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 63,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 50,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 63,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 0,
-      "Леонтьев Георгий Карпеевич": 15,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 45,
-      "Цыбакин Юрий Владимирович": 17,
-      "Цыбко Константин Валерьевич": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 0,
+      "gas:candidate-vibid:1001000131412": 15,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 45,
+      "gas:candidate-vibid:1001000225987": 17,
+      "gas:candidate-vibid:366300266808": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 10,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 29,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 72,
-      "Цыбакин Юрий Владимирович": 5,
-      "Цыбко Константин Валерьевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121910": 10,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 29,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 72,
+      "gas:candidate-vibid:1001000225987": 5,
+      "gas:candidate-vibid:366300266808": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 0,
-      "Леонтьев Георгий Карпеевич": 23,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 68,
-      "Цыбакин Юрий Владимирович": 11,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 0,
+      "gas:candidate-vibid:1001000131412": 23,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 68,
+      "gas:candidate-vibid:1001000225987": 11,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 1,
-      "Леонтьев Георгий Карпеевич": 15,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 83,
-      "Цыбакин Юрий Владимирович": 2,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 1,
+      "gas:candidate-vibid:1001000131412": 15,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 83,
+      "gas:candidate-vibid:1001000225987": 2,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 24,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 29,
-      "Цыбакин Юрий Владимирович": 13,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 24,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 29,
+      "gas:candidate-vibid:1001000225987": 13,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 27,
-      "Леонтьев Георгий Карпеевич": 120,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 132,
-      "Цыбакин Юрий Владимирович": 36,
-      "Цыбко Константин Валерьевич": 9,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 27,
+      "gas:candidate-vibid:1001000131412": 120,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 132,
+      "gas:candidate-vibid:1001000225987": 36,
+      "gas:candidate-vibid:366300266808": 9,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 77,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 319,
-      "Цыбакин Юрий Владимирович": 45,
-      "Цыбко Константин Валерьевич": 14,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 77,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 319,
+      "gas:candidate-vibid:1001000225987": 45,
+      "gas:candidate-vibid:366300266808": 14,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 13,
-      "Леонтьев Александр Петрович": 10,
-      "Леонтьев Георгий Карпеевич": 46,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 157,
-      "Цыбакин Юрий Владимирович": 46,
-      "Цыбко Константин Валерьевич": 1,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121910": 13,
+      "gas:candidate-vibid:366300266814": 10,
+      "gas:candidate-vibid:1001000131412": 46,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 157,
+      "gas:candidate-vibid:1001000225987": 46,
+      "gas:candidate-vibid:366300266808": 1,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 9,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 33,
-      "Цыбакин Юрий Владимирович": 3,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 9,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 33,
+      "gas:candidate-vibid:1001000225987": 3,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 0,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 15,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 91,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121910": 0,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 15,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 91,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 20,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 65,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 282,
-      "Цыбакин Юрий Владимирович": 40,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121910": 20,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 65,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 282,
+      "gas:candidate-vibid:1001000225987": 40,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 9,
-      "Леонтьев Александр Петрович": 6,
-      "Леонтьев Георгий Карпеевич": 38,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 98,
-      "Цыбакин Юрий Владимирович": 32,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121910": 9,
+      "gas:candidate-vibid:366300266814": 6,
+      "gas:candidate-vibid:1001000131412": 38,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 98,
+      "gas:candidate-vibid:1001000225987": 32,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 8,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 108,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 314,
-      "Цыбакин Юрий Владимирович": 21,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121910": 8,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 108,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 314,
+      "gas:candidate-vibid:1001000225987": 21,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 5,
-      "Леонтьев Георгий Карпеевич": 19,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 84,
-      "Цыбакин Юрий Владимирович": 2,
-      "Цыбко Константин Валерьевич": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 5,
+      "gas:candidate-vibid:1001000131412": 19,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 84,
+      "gas:candidate-vibid:1001000225987": 2,
+      "gas:candidate-vibid:366300266808": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 10,
-      "Леонтьев Георгий Карпеевич": 34,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 151,
-      "Цыбакин Юрий Владимирович": 20,
-      "Цыбко Константин Валерьевич": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 10,
+      "gas:candidate-vibid:1001000131412": 34,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 151,
+      "gas:candidate-vibid:1001000225987": 20,
+      "gas:candidate-vibid:366300266808": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 0,
-      "Леонтьев Александр Петрович": 1,
-      "Леонтьев Георгий Карпеевич": 2,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 28,
-      "Цыбакин Юрий Владимирович": 2,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121910": 0,
+      "gas:candidate-vibid:366300266814": 1,
+      "gas:candidate-vibid:1001000131412": 2,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 28,
+      "gas:candidate-vibid:1001000225987": 2,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 20,
-      "Леонтьев Александр Петрович": 30,
-      "Леонтьев Георгий Карпеевич": 232,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 355,
-      "Цыбакин Юрий Владимирович": 33,
-      "Цыбко Константин Валерьевич": 11,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121910": 20,
+      "gas:candidate-vibid:366300266814": 30,
+      "gas:candidate-vibid:1001000131412": 232,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 355,
+      "gas:candidate-vibid:1001000225987": 33,
+      "gas:candidate-vibid:366300266808": 11,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 1,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 48,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 52,
-      "Цыбакин Юрий Владимирович": 2,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 1,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 48,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 52,
+      "gas:candidate-vibid:1001000225987": 2,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 9,
-      "Леонтьев Александр Петрович": 16,
-      "Леонтьев Георгий Карпеевич": 125,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 402,
-      "Цыбакин Юрий Владимирович": 133,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121910": 9,
+      "gas:candidate-vibid:366300266814": 16,
+      "gas:candidate-vibid:1001000131412": 125,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 402,
+      "gas:candidate-vibid:1001000225987": 133,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 114,
-      "Леонтьев Александр Петрович": 40,
-      "Леонтьев Георгий Карпеевич": 119,
-      "Мисюра Андрей Анатольевич": 26,
-      "Рявкин Александр Юрьевич": 52,
-      "Цыбакин Юрий Владимирович": 317,
-      "Цыбко Константин Валерьевич": 58,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000121910": 114,
+      "gas:candidate-vibid:366300266814": 40,
+      "gas:candidate-vibid:1001000131412": 119,
+      "gas:candidate-vibid:366300266817": 26,
+      "gas:candidate-vibid:366300266811": 52,
+      "gas:candidate-vibid:1001000225987": 317,
+      "gas:candidate-vibid:366300266808": 58,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266723&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 18,
-      "Леонтьев Александр Петрович": 18,
-      "Леонтьев Георгий Карпеевич": 193,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 198,
-      "Цыбакин Юрий Владимирович": 28,
-      "Цыбко Константин Валерьевич": 37,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121910": 18,
+      "gas:candidate-vibid:366300266814": 18,
+      "gas:candidate-vibid:1001000131412": 193,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 198,
+      "gas:candidate-vibid:1001000225987": 28,
+      "gas:candidate-vibid:366300266808": 37,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 31,
-      "Леонтьев Александр Петрович": 43,
-      "Леонтьев Георгий Карпеевич": 280,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 263,
-      "Цыбакин Юрий Владимирович": 58,
-      "Цыбко Константин Валерьевич": 55,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000121910": 31,
+      "gas:candidate-vibid:366300266814": 43,
+      "gas:candidate-vibid:1001000131412": 280,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 263,
+      "gas:candidate-vibid:1001000225987": 58,
+      "gas:candidate-vibid:366300266808": 55,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 12,
-      "Леонтьев Георгий Карпеевич": 73,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 115,
-      "Цыбакин Юрий Владимирович": 7,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 12,
+      "gas:candidate-vibid:1001000131412": 73,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 115,
+      "gas:candidate-vibid:1001000225987": 7,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 19,
-      "Леонтьев Александр Петрович": 47,
-      "Леонтьев Георгий Карпеевич": 414,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 193,
-      "Цыбакин Юрий Владимирович": 33,
-      "Цыбко Константин Валерьевич": 36,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121910": 19,
+      "gas:candidate-vibid:366300266814": 47,
+      "gas:candidate-vibid:1001000131412": 414,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 193,
+      "gas:candidate-vibid:1001000225987": 33,
+      "gas:candidate-vibid:366300266808": 36,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 14,
-      "Леонтьев Георгий Карпеевич": 75,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 88,
-      "Цыбакин Юрий Владимирович": 20,
-      "Цыбко Константин Валерьевич": 13,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 14,
+      "gas:candidate-vibid:1001000131412": 75,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 88,
+      "gas:candidate-vibid:1001000225987": 20,
+      "gas:candidate-vibid:366300266808": 13,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 5,
-      "Леонтьев Георгий Карпеевич": 168,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 11,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 19,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 5,
+      "gas:candidate-vibid:1001000131412": 168,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 11,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 19,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 14,
-      "Леонтьев Александр Петрович": 39,
-      "Леонтьев Георгий Карпеевич": 258,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 49,
-      "Цыбакин Юрий Владимирович": 67,
-      "Цыбко Константин Валерьевич": 13,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121910": 14,
+      "gas:candidate-vibid:366300266814": 39,
+      "gas:candidate-vibid:1001000131412": 258,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 49,
+      "gas:candidate-vibid:1001000225987": 67,
+      "gas:candidate-vibid:366300266808": 13,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 25,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 28,
-      "Цыбакин Юрий Владимирович": 45,
-      "Цыбко Константин Валерьевич": 11,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 25,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 28,
+      "gas:candidate-vibid:1001000225987": 45,
+      "gas:candidate-vibid:366300266808": 11,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 7,
-      "Леонтьев Георгий Карпеевич": 33,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 7,
-      "Цыбакин Юрий Владимирович": 28,
-      "Цыбко Константин Валерьевич": 12,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 7,
+      "gas:candidate-vibid:1001000131412": 33,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 7,
+      "gas:candidate-vibid:1001000225987": 28,
+      "gas:candidate-vibid:366300266808": 12,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 41,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 136,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 41,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 136,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 24,
-      "Леонтьев Георгий Карпеевич": 114,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 262,
-      "Цыбакин Юрий Владимирович": 64,
-      "Цыбко Константин Валерьевич": 27,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 24,
+      "gas:candidate-vibid:1001000131412": 114,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 262,
+      "gas:candidate-vibid:1001000225987": 64,
+      "gas:candidate-vibid:366300266808": 27,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 0,
-      "Леонтьев Александр Петрович": 1,
-      "Леонтьев Георгий Карпеевич": 9,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 77,
-      "Цыбакин Юрий Владимирович": 1,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121910": 0,
+      "gas:candidate-vibid:366300266814": 1,
+      "gas:candidate-vibid:1001000131412": 9,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 77,
+      "gas:candidate-vibid:1001000225987": 1,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 6,
-      "Леонтьев Георгий Карпеевич": 35,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 130,
-      "Цыбакин Юрий Владимирович": 5,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 6,
+      "gas:candidate-vibid:1001000131412": 35,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 130,
+      "gas:candidate-vibid:1001000225987": 5,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 14,
-      "Леонтьев Александр Петрович": 10,
-      "Леонтьев Георгий Карпеевич": 43,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 208,
-      "Цыбакин Юрий Владимирович": 12,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121910": 14,
+      "gas:candidate-vibid:366300266814": 10,
+      "gas:candidate-vibid:1001000131412": 43,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 208,
+      "gas:candidate-vibid:1001000225987": 12,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 17,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 56,
-      "Цыбакин Юрий Владимирович": 2,
-      "Цыбко Константин Валерьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 17,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 56,
+      "gas:candidate-vibid:1001000225987": 2,
+      "gas:candidate-vibid:366300266808": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 10,
-      "Леонтьев Георгий Карпеевич": 29,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 18,
-      "Цыбакин Юрий Владимирович": 12,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 10,
+      "gas:candidate-vibid:1001000131412": 29,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 18,
+      "gas:candidate-vibid:1001000225987": 12,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 26,
-      "Леонтьев Георгий Карпеевич": 285,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 99,
-      "Цыбакин Юрий Владимирович": 14,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 26,
+      "gas:candidate-vibid:1001000131412": 285,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 99,
+      "gas:candidate-vibid:1001000225987": 14,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 44,
-      "Леонтьев Александр Петрович": 63,
-      "Леонтьев Георгий Карпеевич": 365,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 282,
-      "Цыбакин Юрий Владимирович": 32,
-      "Цыбко Константин Валерьевич": 35,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121910": 44,
+      "gas:candidate-vibid:366300266814": 63,
+      "gas:candidate-vibid:1001000131412": 365,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 282,
+      "gas:candidate-vibid:1001000225987": 32,
+      "gas:candidate-vibid:366300266808": 35,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 32,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 69,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 32,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 69,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 47,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 94,
-      "Цыбакин Юрий Владимирович": 16,
-      "Цыбко Константин Валерьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 47,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 94,
+      "gas:candidate-vibid:1001000225987": 16,
+      "gas:candidate-vibid:366300266808": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 21,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 123,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 165,
-      "Цыбакин Юрий Владимирович": 32,
-      "Цыбко Константин Валерьевич": 23,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121910": 21,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 123,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 165,
+      "gas:candidate-vibid:1001000225987": 32,
+      "gas:candidate-vibid:366300266808": 23,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 30,
-      "Леонтьев Георгий Карпеевич": 286,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 286,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 29,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 30,
+      "gas:candidate-vibid:1001000131412": 286,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 286,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 29,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 8,
-      "Леонтьев Георгий Карпеевич": 22,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 109,
-      "Цыбакин Юрий Владимирович": 10,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 8,
+      "gas:candidate-vibid:1001000131412": 22,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 109,
+      "gas:candidate-vibid:1001000225987": 10,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 49,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 231,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 203,
-      "Цыбакин Юрий Владимирович": 59,
-      "Цыбко Константин Валерьевич": 52,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121910": 49,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 231,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 203,
+      "gas:candidate-vibid:1001000225987": 59,
+      "gas:candidate-vibid:366300266808": 52,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 168,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 139,
-      "Цыбакин Юрий Владимирович": 24,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 168,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 139,
+      "gas:candidate-vibid:1001000225987": 24,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 0,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 49,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 47,
-      "Цыбакин Юрий Владимирович": 12,
-      "Цыбко Константин Валерьевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121910": 0,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 49,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 47,
+      "gas:candidate-vibid:1001000225987": 12,
+      "gas:candidate-vibid:366300266808": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 1,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 6,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 74,
-      "Цыбакин Юрий Владимирович": 3,
-      "Цыбко Константин Валерьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121910": 1,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 6,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 74,
+      "gas:candidate-vibid:1001000225987": 3,
+      "gas:candidate-vibid:366300266808": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 10,
-      "Леонтьев Александр Петрович": 13,
-      "Леонтьев Георгий Карпеевич": 60,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 151,
-      "Цыбакин Юрий Владимирович": 14,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121910": 10,
+      "gas:candidate-vibid:366300266814": 13,
+      "gas:candidate-vibid:1001000131412": 60,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 151,
+      "gas:candidate-vibid:1001000225987": 14,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 8,
-      "Леонтьев Александр Петрович": 14,
-      "Леонтьев Георгий Карпеевич": 48,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 380,
-      "Цыбакин Юрий Владимирович": 30,
-      "Цыбко Константин Валерьевич": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121910": 8,
+      "gas:candidate-vibid:366300266814": 14,
+      "gas:candidate-vibid:1001000131412": 48,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 380,
+      "gas:candidate-vibid:1001000225987": 30,
+      "gas:candidate-vibid:366300266808": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 15,
-      "Леонтьев Георгий Карпеевич": 77,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 198,
-      "Цыбакин Юрий Владимирович": 35,
-      "Цыбко Константин Валерьевич": 9,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 15,
+      "gas:candidate-vibid:1001000131412": 77,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 198,
+      "gas:candidate-vibid:1001000225987": 35,
+      "gas:candidate-vibid:366300266808": 9,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 35,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 90,
-      "Цыбакин Юрий Владимирович": 10,
-      "Цыбко Константин Валерьевич": 16,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 35,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 90,
+      "gas:candidate-vibid:1001000225987": 10,
+      "gas:candidate-vibid:366300266808": 16,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 1,
-      "Леонтьев Георгий Карпеевич": 33,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 112,
-      "Цыбакин Юрий Владимирович": 40,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 1,
+      "gas:candidate-vibid:1001000131412": 33,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 112,
+      "gas:candidate-vibid:1001000225987": 40,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266724&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 83,
-      "Леонтьев Александр Петрович": 38,
-      "Леонтьев Георгий Карпеевич": 315,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 241,
-      "Цыбакин Юрий Владимирович": 49,
-      "Цыбко Константин Валерьевич": 58,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000121910": 83,
+      "gas:candidate-vibid:366300266814": 38,
+      "gas:candidate-vibid:1001000131412": 315,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 241,
+      "gas:candidate-vibid:1001000225987": 49,
+      "gas:candidate-vibid:366300266808": 58,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 57,
-      "Леонтьев Александр Петрович": 25,
-      "Леонтьев Георгий Карпеевич": 250,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 392,
-      "Цыбакин Юрий Владимирович": 49,
-      "Цыбко Константин Валерьевич": 95,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121910": 57,
+      "gas:candidate-vibid:366300266814": 25,
+      "gas:candidate-vibid:1001000131412": 250,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 392,
+      "gas:candidate-vibid:1001000225987": 49,
+      "gas:candidate-vibid:366300266808": 95,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 72,
-      "Леонтьев Александр Петрович": 17,
-      "Леонтьев Георгий Карпеевич": 349,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 298,
-      "Цыбакин Юрий Владимирович": 55,
-      "Цыбко Константин Валерьевич": 101,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121910": 72,
+      "gas:candidate-vibid:366300266814": 17,
+      "gas:candidate-vibid:1001000131412": 349,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 298,
+      "gas:candidate-vibid:1001000225987": 55,
+      "gas:candidate-vibid:366300266808": 101,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 73,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 376,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 276,
-      "Цыбакин Юрий Владимирович": 50,
-      "Цыбко Константин Валерьевич": 101,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121910": 73,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 376,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 276,
+      "gas:candidate-vibid:1001000225987": 50,
+      "gas:candidate-vibid:366300266808": 101,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 5,
-      "Леонтьев Георгий Карпеевич": 58,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 96,
-      "Цыбакин Юрий Владимирович": 5,
-      "Цыбко Константин Валерьевич": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 5,
+      "gas:candidate-vibid:1001000131412": 58,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 96,
+      "gas:candidate-vibid:1001000225987": 5,
+      "gas:candidate-vibid:366300266808": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 69,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 325,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 261,
-      "Цыбакин Юрий Владимирович": 58,
-      "Цыбко Константин Валерьевич": 95,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121910": 69,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 325,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 261,
+      "gas:candidate-vibid:1001000225987": 58,
+      "gas:candidate-vibid:366300266808": 95,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 21,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 42,
-      "Цыбакин Юрий Владимирович": 5,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 21,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 42,
+      "gas:candidate-vibid:1001000225987": 5,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 45,
-      "Леонтьев Александр Петрович": 22,
-      "Леонтьев Георгий Карпеевич": 213,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 355,
-      "Цыбакин Юрий Владимирович": 29,
-      "Цыбко Константин Валерьевич": 74,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121910": 45,
+      "gas:candidate-vibid:366300266814": 22,
+      "gas:candidate-vibid:1001000131412": 213,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 355,
+      "gas:candidate-vibid:1001000225987": 29,
+      "gas:candidate-vibid:366300266808": 74,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 47,
-      "Леонтьев Александр Петрович": 25,
-      "Леонтьев Георгий Карпеевич": 213,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 315,
-      "Цыбакин Юрий Владимирович": 47,
-      "Цыбко Константин Валерьевич": 101,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121910": 47,
+      "gas:candidate-vibid:366300266814": 25,
+      "gas:candidate-vibid:1001000131412": 213,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 315,
+      "gas:candidate-vibid:1001000225987": 47,
+      "gas:candidate-vibid:366300266808": 101,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 64,
-      "Леонтьев Александр Петрович": 30,
-      "Леонтьев Георгий Карпеевич": 240,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 369,
-      "Цыбакин Юрий Владимирович": 39,
-      "Цыбко Константин Валерьевич": 91,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121910": 64,
+      "gas:candidate-vibid:366300266814": 30,
+      "gas:candidate-vibid:1001000131412": 240,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 369,
+      "gas:candidate-vibid:1001000225987": 39,
+      "gas:candidate-vibid:366300266808": 91,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 49,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 215,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 323,
-      "Цыбакин Юрий Владимирович": 34,
-      "Цыбко Константин Валерьевич": 94,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121910": 49,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 215,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 323,
+      "gas:candidate-vibid:1001000225987": 34,
+      "gas:candidate-vibid:366300266808": 94,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 17,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 93,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 266,
-      "Цыбакин Юрий Владимирович": 18,
-      "Цыбко Константин Валерьевич": 28,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121910": 17,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 93,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 266,
+      "gas:candidate-vibid:1001000225987": 18,
+      "gas:candidate-vibid:366300266808": 28,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 22,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 97,
-      "Цыбакин Юрий Владимирович": 2,
-      "Цыбко Константин Валерьевич": 10,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 22,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 97,
+      "gas:candidate-vibid:1001000225987": 2,
+      "gas:candidate-vibid:366300266808": 10,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 34,
-      "Леонтьев Александр Петрович": 22,
-      "Леонтьев Георгий Карпеевич": 179,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 191,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 34,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121910": 34,
+      "gas:candidate-vibid:366300266814": 22,
+      "gas:candidate-vibid:1001000131412": 179,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 191,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 34,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 5,
-      "Леонтьев Александр Петрович": 5,
-      "Леонтьев Георгий Карпеевич": 13,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 25,
-      "Цыбакин Юрий Владимирович": 5,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121910": 5,
+      "gas:candidate-vibid:366300266814": 5,
+      "gas:candidate-vibid:1001000131412": 13,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 25,
+      "gas:candidate-vibid:1001000225987": 5,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 31,
-      "Леонтьев Александр Петрович": 10,
-      "Леонтьев Георгий Карпеевич": 196,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 137,
-      "Цыбакин Юрий Владимирович": 6,
-      "Цыбко Константин Валерьевич": 17,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121910": 31,
+      "gas:candidate-vibid:366300266814": 10,
+      "gas:candidate-vibid:1001000131412": 196,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 137,
+      "gas:candidate-vibid:1001000225987": 6,
+      "gas:candidate-vibid:366300266808": 17,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 33,
-      "Леонтьев Александр Петрович": 17,
-      "Леонтьев Георгий Карпеевич": 192,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 91,
-      "Цыбакин Юрий Владимирович": 23,
-      "Цыбко Константин Валерьевич": 25,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121910": 33,
+      "gas:candidate-vibid:366300266814": 17,
+      "gas:candidate-vibid:1001000131412": 192,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 91,
+      "gas:candidate-vibid:1001000225987": 23,
+      "gas:candidate-vibid:366300266808": 25,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 26,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 316,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 115,
-      "Цыбакин Юрий Владимирович": 23,
-      "Цыбко Константин Валерьевич": 28,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121910": 26,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 316,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 115,
+      "gas:candidate-vibid:1001000225987": 23,
+      "gas:candidate-vibid:366300266808": 28,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 23,
-      "Леонтьев Александр Петрович": 19,
-      "Леонтьев Георгий Карпеевич": 210,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 124,
-      "Цыбакин Юрий Владимирович": 14,
-      "Цыбко Константин Валерьевич": 24,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121910": 23,
+      "gas:candidate-vibid:366300266814": 19,
+      "gas:candidate-vibid:1001000131412": 210,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 124,
+      "gas:candidate-vibid:1001000225987": 14,
+      "gas:candidate-vibid:366300266808": 24,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 14,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 45,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 152,
-      "Цыбакин Юрий Владимирович": 15,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121910": 14,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 45,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 152,
+      "gas:candidate-vibid:1001000225987": 15,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 19,
-      "Леонтьев Александр Петрович": 19,
-      "Леонтьев Георгий Карпеевич": 223,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 199,
-      "Цыбакин Юрий Владимирович": 23,
-      "Цыбко Константин Валерьевич": 23,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121910": 19,
+      "gas:candidate-vibid:366300266814": 19,
+      "gas:candidate-vibid:1001000131412": 223,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 199,
+      "gas:candidate-vibid:1001000225987": 23,
+      "gas:candidate-vibid:366300266808": 23,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 33,
-      "Леонтьев Александр Петрович": 56,
-      "Леонтьев Георгий Карпеевич": 474,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 131,
-      "Цыбакин Юрий Владимирович": 35,
-      "Цыбко Константин Валерьевич": 41,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121910": 33,
+      "gas:candidate-vibid:366300266814": 56,
+      "gas:candidate-vibid:1001000131412": 474,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 131,
+      "gas:candidate-vibid:1001000225987": 35,
+      "gas:candidate-vibid:366300266808": 41,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 14,
-      "Леонтьев Александр Петрович": 12,
-      "Леонтьев Георгий Карпеевич": 127,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 218,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 27,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121910": 14,
+      "gas:candidate-vibid:366300266814": 12,
+      "gas:candidate-vibid:1001000131412": 127,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 218,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 27,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 10,
-      "Леонтьев Александр Петрович": 12,
-      "Леонтьев Георгий Карпеевич": 73,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 9,
-      "Цыбакин Юрий Владимирович": 7,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121910": 10,
+      "gas:candidate-vibid:366300266814": 12,
+      "gas:candidate-vibid:1001000131412": 73,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 9,
+      "gas:candidate-vibid:1001000225987": 7,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 20,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 61,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 171,
-      "Цыбакин Юрий Владимирович": 6,
-      "Цыбко Константин Валерьевич": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121910": 20,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 61,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 171,
+      "gas:candidate-vibid:1001000225987": 6,
+      "gas:candidate-vibid:366300266808": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 2,
-      "Леонтьев Александр Петрович": 1,
-      "Леонтьев Георгий Карпеевич": 17,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 49,
-      "Цыбакин Юрий Владимирович": 9,
-      "Цыбко Константин Валерьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121910": 2,
+      "gas:candidate-vibid:366300266814": 1,
+      "gas:candidate-vibid:1001000131412": 17,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 49,
+      "gas:candidate-vibid:1001000225987": 9,
+      "gas:candidate-vibid:366300266808": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 18,
-      "Леонтьев Александр Петрович": 12,
-      "Леонтьев Георгий Карпеевич": 108,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 173,
-      "Цыбакин Юрий Владимирович": 14,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121910": 18,
+      "gas:candidate-vibid:366300266814": 12,
+      "gas:candidate-vibid:1001000131412": 108,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 173,
+      "gas:candidate-vibid:1001000225987": 14,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 39,
-      "Леонтьев Александр Петрович": 8,
-      "Леонтьев Георгий Карпеевич": 88,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 83,
-      "Цыбакин Юрий Владимирович": 8,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121910": 39,
+      "gas:candidate-vibid:366300266814": 8,
+      "gas:candidate-vibid:1001000131412": 88,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 83,
+      "gas:candidate-vibid:1001000225987": 8,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 16,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 39,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 146,
-      "Цыбакин Юрий Владимирович": 22,
-      "Цыбко Константин Валерьевич": 21,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121910": 16,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 39,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 146,
+      "gas:candidate-vibid:1001000225987": 22,
+      "gas:candidate-vibid:366300266808": 21,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 71,
-      "Леонтьев Александр Петрович": 36,
-      "Леонтьев Георгий Карпеевич": 258,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 319,
-      "Цыбакин Юрий Владимирович": 52,
-      "Цыбко Константин Валерьевич": 81,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121910": 71,
+      "gas:candidate-vibid:366300266814": 36,
+      "gas:candidate-vibid:1001000131412": 258,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 319,
+      "gas:candidate-vibid:1001000225987": 52,
+      "gas:candidate-vibid:366300266808": 81,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 84,
-      "Леонтьев Александр Петрович": 22,
-      "Леонтьев Георгий Карпеевич": 273,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 348,
-      "Цыбакин Юрий Владимирович": 80,
-      "Цыбко Константин Валерьевич": 78,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121910": 84,
+      "gas:candidate-vibid:366300266814": 22,
+      "gas:candidate-vibid:1001000131412": 273,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 348,
+      "gas:candidate-vibid:1001000225987": 80,
+      "gas:candidate-vibid:366300266808": 78,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266725&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 18,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 73,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 154,
-      "Цыбакин Юрий Владимирович": 27,
-      "Цыбко Константин Валерьевич": 15,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121910": 18,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 73,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 154,
+      "gas:candidate-vibid:1001000225987": 27,
+      "gas:candidate-vibid:366300266808": 15,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 18,
-      "Леонтьев Георгий Карпеевич": 173,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 246,
-      "Цыбакин Юрий Владимирович": 33,
-      "Цыбко Константин Валерьевич": 26,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 18,
+      "gas:candidate-vibid:1001000131412": 173,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 246,
+      "gas:candidate-vibid:1001000225987": 33,
+      "gas:candidate-vibid:366300266808": 26,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 12,
-      "Леонтьев Александр Петрович": 27,
-      "Леонтьев Георгий Карпеевич": 294,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 124,
-      "Цыбакин Юрий Владимирович": 46,
-      "Цыбко Константин Валерьевич": 47,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121910": 12,
+      "gas:candidate-vibid:366300266814": 27,
+      "gas:candidate-vibid:1001000131412": 294,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 124,
+      "gas:candidate-vibid:1001000225987": 46,
+      "gas:candidate-vibid:366300266808": 47,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 40,
-      "Леонтьев Александр Петрович": 19,
-      "Леонтьев Георгий Карпеевич": 340,
-      "Мисюра Андрей Анатольевич": 6,
-      "Рявкин Александр Юрьевич": 243,
-      "Цыбакин Юрий Владимирович": 98,
-      "Цыбко Константин Валерьевич": 72,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121910": 40,
+      "gas:candidate-vibid:366300266814": 19,
+      "gas:candidate-vibid:1001000131412": 340,
+      "gas:candidate-vibid:366300266817": 6,
+      "gas:candidate-vibid:366300266811": 243,
+      "gas:candidate-vibid:1001000225987": 98,
+      "gas:candidate-vibid:366300266808": 72,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 29,
-      "Леонтьев Александр Петрович": 28,
-      "Леонтьев Георгий Карпеевич": 272,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 303,
-      "Цыбакин Юрий Владимирович": 108,
-      "Цыбко Константин Валерьевич": 112,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121910": 29,
+      "gas:candidate-vibid:366300266814": 28,
+      "gas:candidate-vibid:1001000131412": 272,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 303,
+      "gas:candidate-vibid:1001000225987": 108,
+      "gas:candidate-vibid:366300266808": 112,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 19,
-      "Леонтьев Александр Петрович": 19,
-      "Леонтьев Георгий Карпеевич": 229,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 160,
-      "Цыбакин Юрий Владимирович": 65,
-      "Цыбко Константин Валерьевич": 58,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121910": 19,
+      "gas:candidate-vibid:366300266814": 19,
+      "gas:candidate-vibid:1001000131412": 229,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 160,
+      "gas:candidate-vibid:1001000225987": 65,
+      "gas:candidate-vibid:366300266808": 58,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 41,
-      "Леонтьев Александр Петрович": 25,
-      "Леонтьев Георгий Карпеевич": 255,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 258,
-      "Цыбакин Юрий Владимирович": 88,
-      "Цыбко Константин Валерьевич": 56,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121910": 41,
+      "gas:candidate-vibid:366300266814": 25,
+      "gas:candidate-vibid:1001000131412": 255,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 258,
+      "gas:candidate-vibid:1001000225987": 88,
+      "gas:candidate-vibid:366300266808": 56,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 24,
-      "Леонтьев Александр Петрович": 30,
-      "Леонтьев Георгий Карпеевич": 228,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 194,
-      "Цыбакин Юрий Владимирович": 47,
-      "Цыбко Константин Валерьевич": 55,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000121910": 24,
+      "gas:candidate-vibid:366300266814": 30,
+      "gas:candidate-vibid:1001000131412": 228,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 194,
+      "gas:candidate-vibid:1001000225987": 47,
+      "gas:candidate-vibid:366300266808": 55,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 24,
-      "Леонтьев Александр Петрович": 17,
-      "Леонтьев Георгий Карпеевич": 224,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 234,
-      "Цыбакин Юрий Владимирович": 45,
-      "Цыбко Константин Валерьевич": 38,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121910": 24,
+      "gas:candidate-vibid:366300266814": 17,
+      "gas:candidate-vibid:1001000131412": 224,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 234,
+      "gas:candidate-vibid:1001000225987": 45,
+      "gas:candidate-vibid:366300266808": 38,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 21,
-      "Леонтьев Александр Петрович": 16,
-      "Леонтьев Георгий Карпеевич": 161,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 195,
-      "Цыбакин Юрий Владимирович": 38,
-      "Цыбко Константин Валерьевич": 52,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121910": 21,
+      "gas:candidate-vibid:366300266814": 16,
+      "gas:candidate-vibid:1001000131412": 161,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 195,
+      "gas:candidate-vibid:1001000225987": 38,
+      "gas:candidate-vibid:366300266808": 52,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 16,
-      "Леонтьев Александр Петрович": 21,
-      "Леонтьев Георгий Карпеевич": 156,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 205,
-      "Цыбакин Юрий Владимирович": 33,
-      "Цыбко Константин Валерьевич": 45,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121910": 16,
+      "gas:candidate-vibid:366300266814": 21,
+      "gas:candidate-vibid:1001000131412": 156,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 205,
+      "gas:candidate-vibid:1001000225987": 33,
+      "gas:candidate-vibid:366300266808": 45,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 16,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 244,
-      "Цыбакин Юрий Владимирович": 7,
-      "Цыбко Константин Валерьевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 16,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 244,
+      "gas:candidate-vibid:1001000225987": 7,
+      "gas:candidate-vibid:366300266808": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 13,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 103,
-      "Цыбакин Юрий Владимирович": 4,
-      "Цыбко Константин Валерьевич": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 13,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 103,
+      "gas:candidate-vibid:1001000225987": 4,
+      "gas:candidate-vibid:366300266808": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 55,
-      "Леонтьев Александр Петрович": 29,
-      "Леонтьев Георгий Карпеевич": 242,
-      "Мисюра Андрей Анатольевич": 10,
-      "Рявкин Александр Юрьевич": 335,
-      "Цыбакин Юрий Владимирович": 43,
-      "Цыбко Константин Валерьевич": 19,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121910": 55,
+      "gas:candidate-vibid:366300266814": 29,
+      "gas:candidate-vibid:1001000131412": 242,
+      "gas:candidate-vibid:366300266817": 10,
+      "gas:candidate-vibid:366300266811": 335,
+      "gas:candidate-vibid:1001000225987": 43,
+      "gas:candidate-vibid:366300266808": 19,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 38,
-      "Леонтьев Александр Петрович": 21,
-      "Леонтьев Георгий Карпеевич": 161,
-      "Мисюра Андрей Анатольевич": 10,
-      "Рявкин Александр Юрьевич": 199,
-      "Цыбакин Юрий Владимирович": 39,
-      "Цыбко Константин Валерьевич": 7,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121910": 38,
+      "gas:candidate-vibid:366300266814": 21,
+      "gas:candidate-vibid:1001000131412": 161,
+      "gas:candidate-vibid:366300266817": 10,
+      "gas:candidate-vibid:366300266811": 199,
+      "gas:candidate-vibid:1001000225987": 39,
+      "gas:candidate-vibid:366300266808": 7,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 17,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 86,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 83,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121910": 17,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 86,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 83,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 28,
-      "Леонтьев Александр Петрович": 17,
-      "Леонтьев Георгий Карпеевич": 102,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 183,
-      "Цыбакин Юрий Владимирович": 28,
-      "Цыбко Константин Валерьевич": 23,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121910": 28,
+      "gas:candidate-vibid:366300266814": 17,
+      "gas:candidate-vibid:1001000131412": 102,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 183,
+      "gas:candidate-vibid:1001000225987": 28,
+      "gas:candidate-vibid:366300266808": 23,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 71,
-      "Леонтьев Александр Петрович": 29,
-      "Леонтьев Георгий Карпеевич": 191,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 291,
-      "Цыбакин Юрий Владимирович": 74,
-      "Цыбко Константин Валерьевич": 72,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000121910": 71,
+      "gas:candidate-vibid:366300266814": 29,
+      "gas:candidate-vibid:1001000131412": 191,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 291,
+      "gas:candidate-vibid:1001000225987": 74,
+      "gas:candidate-vibid:366300266808": 72,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 34,
-      "Леонтьев Александр Петрович": 8,
-      "Леонтьев Георгий Карпеевич": 46,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 167,
-      "Цыбакин Юрий Владимирович": 29,
-      "Цыбко Константин Валерьевич": 70,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121910": 34,
+      "gas:candidate-vibid:366300266814": 8,
+      "gas:candidate-vibid:1001000131412": 46,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 167,
+      "gas:candidate-vibid:1001000225987": 29,
+      "gas:candidate-vibid:366300266808": 70,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 22,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 90,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 230,
-      "Цыбакин Юрий Владимирович": 42,
-      "Цыбко Константин Валерьевич": 26,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000121910": 22,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 90,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 230,
+      "gas:candidate-vibid:1001000225987": 42,
+      "gas:candidate-vibid:366300266808": 26,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 74,
-      "Леонтьев Александр Петрович": 45,
-      "Леонтьев Георгий Карпеевич": 351,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 285,
-      "Цыбакин Юрий Владимирович": 54,
-      "Цыбко Константин Валерьевич": 63,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000121910": 74,
+      "gas:candidate-vibid:366300266814": 45,
+      "gas:candidate-vibid:1001000131412": 351,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 285,
+      "gas:candidate-vibid:1001000225987": 54,
+      "gas:candidate-vibid:366300266808": 63,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 54,
-      "Леонтьев Александр Петрович": 32,
-      "Леонтьев Георгий Карпеевич": 206,
-      "Мисюра Андрей Анатольевич": 7,
-      "Рявкин Александр Юрьевич": 286,
-      "Цыбакин Юрий Владимирович": 57,
-      "Цыбко Константин Валерьевич": 66,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000121910": 54,
+      "gas:candidate-vibid:366300266814": 32,
+      "gas:candidate-vibid:1001000131412": 206,
+      "gas:candidate-vibid:366300266817": 7,
+      "gas:candidate-vibid:366300266811": 286,
+      "gas:candidate-vibid:1001000225987": 57,
+      "gas:candidate-vibid:366300266808": 66,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 42,
-      "Леонтьев Александр Петрович": 33,
-      "Леонтьев Георгий Карпеевич": 214,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 174,
-      "Цыбакин Юрий Владимирович": 55,
-      "Цыбко Константин Валерьевич": 40,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121910": 42,
+      "gas:candidate-vibid:366300266814": 33,
+      "gas:candidate-vibid:1001000131412": 214,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 174,
+      "gas:candidate-vibid:1001000225987": 55,
+      "gas:candidate-vibid:366300266808": 40,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 14,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 77,
-      "Цыбакин Юрий Владимирович": 9,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 14,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 77,
+      "gas:candidate-vibid:1001000225987": 9,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 2,
-      "Леонтьев Георгий Карпеевич": 14,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 42,
-      "Цыбакин Юрий Владимирович": 5,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 2,
+      "gas:candidate-vibid:1001000131412": 14,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 42,
+      "gas:candidate-vibid:1001000225987": 5,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 13,
-      "Леонтьев Георгий Карпеевич": 99,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 204,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 40,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 13,
+      "gas:candidate-vibid:1001000131412": 99,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 204,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 40,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 4,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 27,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 43,
-      "Цыбакин Юрий Владимирович": 7,
-      "Цыбко Константин Валерьевич": 10,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000121910": 4,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 27,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 43,
+      "gas:candidate-vibid:1001000225987": 7,
+      "gas:candidate-vibid:366300266808": 10,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 3,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 68,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 90,
-      "Цыбакин Юрий Владимирович": 18,
-      "Цыбко Константин Валерьевич": 27,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121910": 3,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 68,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 90,
+      "gas:candidate-vibid:1001000225987": 18,
+      "gas:candidate-vibid:366300266808": 27,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 66,
-      "Леонтьев Александр Петрович": 30,
-      "Леонтьев Георгий Карпеевич": 175,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 259,
-      "Цыбакин Юрий Владимирович": 35,
-      "Цыбко Константин Валерьевич": 102,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121910": 66,
+      "gas:candidate-vibid:366300266814": 30,
+      "gas:candidate-vibid:1001000131412": 175,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 259,
+      "gas:candidate-vibid:1001000225987": 35,
+      "gas:candidate-vibid:366300266808": 102,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 14,
-      "Леонтьев Александр Петрович": 7,
-      "Леонтьев Георгий Карпеевич": 25,
-      "Мисюра Андрей Анатольевич": 4,
-      "Рявкин Александр Юрьевич": 94,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 25,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121910": 14,
+      "gas:candidate-vibid:366300266814": 7,
+      "gas:candidate-vibid:1001000131412": 25,
+      "gas:candidate-vibid:366300266817": 4,
+      "gas:candidate-vibid:366300266811": 94,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 25,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 28,
-      "Леонтьев Александр Петрович": 31,
-      "Леонтьев Георгий Карпеевич": 159,
-      "Мисюра Андрей Анатольевич": 7,
-      "Рявкин Александр Юрьевич": 122,
-      "Цыбакин Юрий Владимирович": 26,
-      "Цыбко Константин Валерьевич": 36,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121910": 28,
+      "gas:candidate-vibid:366300266814": 31,
+      "gas:candidate-vibid:1001000131412": 159,
+      "gas:candidate-vibid:366300266817": 7,
+      "gas:candidate-vibid:366300266811": 122,
+      "gas:candidate-vibid:1001000225987": 26,
+      "gas:candidate-vibid:366300266808": 36,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 24,
-      "Леонтьев Александр Петрович": 23,
-      "Леонтьев Георгий Карпеевич": 146,
-      "Мисюра Андрей Анатольевич": 5,
-      "Рявкин Александр Юрьевич": 67,
-      "Цыбакин Юрий Владимирович": 37,
-      "Цыбко Константин Валерьевич": 41,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000121910": 24,
+      "gas:candidate-vibid:366300266814": 23,
+      "gas:candidate-vibid:1001000131412": 146,
+      "gas:candidate-vibid:366300266817": 5,
+      "gas:candidate-vibid:366300266811": 67,
+      "gas:candidate-vibid:1001000225987": 37,
+      "gas:candidate-vibid:366300266808": 41,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 19,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 50,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 141,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 29,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121910": 19,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 50,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 141,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 29,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 17,
-      "Леонтьев Александр Петрович": 11,
-      "Леонтьев Георгий Карпеевич": 54,
-      "Мисюра Андрей Анатольевич": 3,
-      "Рявкин Александр Юрьевич": 181,
-      "Цыбакин Юрий Владимирович": 13,
-      "Цыбко Константин Валерьевич": 42,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121910": 17,
+      "gas:candidate-vibid:366300266814": 11,
+      "gas:candidate-vibid:1001000131412": 54,
+      "gas:candidate-vibid:366300266817": 3,
+      "gas:candidate-vibid:366300266811": 181,
+      "gas:candidate-vibid:1001000225987": 13,
+      "gas:candidate-vibid:366300266808": 42,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 17,
-      "Леонтьев Александр Петрович": 3,
-      "Леонтьев Георгий Карпеевич": 13,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 74,
-      "Цыбакин Юрий Владимирович": 19,
-      "Цыбко Константин Валерьевич": 19,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121910": 17,
+      "gas:candidate-vibid:366300266814": 3,
+      "gas:candidate-vibid:1001000131412": 13,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 74,
+      "gas:candidate-vibid:1001000225987": 19,
+      "gas:candidate-vibid:366300266808": 19,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 7,
-      "Леонтьев Александр Петрович": 10,
-      "Леонтьев Георгий Карпеевич": 79,
-      "Мисюра Андрей Анатольевич": 2,
-      "Рявкин Александр Юрьевич": 145,
-      "Цыбакин Юрий Владимирович": 20,
-      "Цыбко Константин Валерьевич": 19,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121910": 7,
+      "gas:candidate-vibid:366300266814": 10,
+      "gas:candidate-vibid:1001000131412": 79,
+      "gas:candidate-vibid:366300266817": 2,
+      "gas:candidate-vibid:366300266811": 145,
+      "gas:candidate-vibid:1001000225987": 20,
+      "gas:candidate-vibid:366300266808": 19,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 52,
-      "Леонтьев Александр Петрович": 34,
-      "Леонтьев Георгий Карпеевич": 251,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 277,
-      "Цыбакин Юрий Владимирович": 38,
-      "Цыбко Константин Валерьевич": 84,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000121910": 52,
+      "gas:candidate-vibid:366300266814": 34,
+      "gas:candidate-vibid:1001000131412": 251,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 277,
+      "gas:candidate-vibid:1001000225987": 38,
+      "gas:candidate-vibid:366300266808": 84,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 6,
-      "Леонтьев Александр Петрович": 4,
-      "Леонтьев Георгий Карпеевич": 25,
-      "Мисюра Андрей Анатольевич": 1,
-      "Рявкин Александр Юрьевич": 77,
-      "Цыбакин Юрий Владимирович": 10,
-      "Цыбко Константин Валерьевич": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121910": 6,
+      "gas:candidate-vibid:366300266814": 4,
+      "gas:candidate-vibid:1001000131412": 25,
+      "gas:candidate-vibid:366300266817": 1,
+      "gas:candidate-vibid:366300266811": 77,
+      "gas:candidate-vibid:1001000225987": 10,
+      "gas:candidate-vibid:366300266808": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Елизарова Людмила Николаевна": 13,
-      "Леонтьев Александр Петрович": 9,
-      "Леонтьев Георгий Карпеевич": 60,
-      "Мисюра Андрей Анатольевич": 0,
-      "Рявкин Александр Юрьевич": 49,
-      "Цыбакин Юрий Владимирович": 14,
-      "Цыбко Константин Валерьевич": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121910": 13,
+      "gas:candidate-vibid:366300266814": 9,
+      "gas:candidate-vibid:1001000131412": 60,
+      "gas:candidate-vibid:366300266817": 0,
+      "gas:candidate-vibid:366300266811": 49,
+      "gas:candidate-vibid:1001000225987": 14,
+      "gas:candidate-vibid:366300266808": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300266726&region=0&sub_region=0&type=429",
@@ -12069,12 +12069,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 138,
-      "Гольцев Евгений Михайлович": 35,
-      "Смоляков Сергей Аркадьевич": 46,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 485,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000113981": 138,
+      "gas:candidate-vibid:1001000136123": 35,
+      "gas:candidate-vibid:366300366843": 46,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 485,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366742&region=0&sub_region=0&type=429",
@@ -12124,12 +12124,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 132,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 57,
-      "Тарасов Александр Леонидович": 19,
-      "Язев Валерий Афонасьевич": 488,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113981": 132,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 57,
+      "gas:candidate-vibid:1001000195143": 19,
+      "gas:candidate-vibid:1001000225988": 488,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366742&region=0&sub_region=0&type=429",
@@ -12179,12 +12179,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 10,
-      "Гольцев Евгений Михайлович": 1,
-      "Смоляков Сергей Аркадьевич": 3,
-      "Тарасов Александр Леонидович": 1,
-      "Язев Валерий Афонасьевич": 115,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113981": 10,
+      "gas:candidate-vibid:1001000136123": 1,
+      "gas:candidate-vibid:366300366843": 3,
+      "gas:candidate-vibid:1001000195143": 1,
+      "gas:candidate-vibid:1001000225988": 115,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366743&region=0&sub_region=0&type=429",
@@ -12234,12 +12234,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 288,
-      "Гольцев Евгений Михайлович": 23,
-      "Смоляков Сергей Аркадьевич": 44,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 995,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000113981": 288,
+      "gas:candidate-vibid:1001000136123": 23,
+      "gas:candidate-vibid:366300366843": 44,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 995,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366743&region=0&sub_region=0&type=429",
@@ -12289,12 +12289,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 298,
-      "Гольцев Евгений Михайлович": 8,
-      "Смоляков Сергей Аркадьевич": 61,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 1169,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113981": 298,
+      "gas:candidate-vibid:1001000136123": 8,
+      "gas:candidate-vibid:366300366843": 61,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 1169,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366743&region=0&sub_region=0&type=429",
@@ -12344,12 +12344,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 309,
-      "Гольцев Евгений Михайлович": 24,
-      "Смоляков Сергей Аркадьевич": 57,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 958,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000113981": 309,
+      "gas:candidate-vibid:1001000136123": 24,
+      "gas:candidate-vibid:366300366843": 57,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 958,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366743&region=0&sub_region=0&type=429",
@@ -12399,12 +12399,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 120,
-      "Гольцев Евгений Михайлович": 5,
-      "Смоляков Сергей Аркадьевич": 36,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 494,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113981": 120,
+      "gas:candidate-vibid:1001000136123": 5,
+      "gas:candidate-vibid:366300366843": 36,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 494,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366743&region=0&sub_region=0&type=429",
@@ -12454,12 +12454,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 111,
-      "Гольцев Евгений Михайлович": 32,
-      "Смоляков Сергей Аркадьевич": 44,
-      "Тарасов Александр Леонидович": 3,
-      "Язев Валерий Афонасьевич": 375,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000113981": 111,
+      "gas:candidate-vibid:1001000136123": 32,
+      "gas:candidate-vibid:366300366843": 44,
+      "gas:candidate-vibid:1001000195143": 3,
+      "gas:candidate-vibid:1001000225988": 375,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366743&region=0&sub_region=0&type=429",
@@ -12509,12 +12509,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 142,
-      "Гольцев Евгений Михайлович": 46,
-      "Смоляков Сергей Аркадьевич": 25,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 629,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000113981": 142,
+      "gas:candidate-vibid:1001000136123": 46,
+      "gas:candidate-vibid:366300366843": 25,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 629,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12564,12 +12564,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 139,
-      "Гольцев Евгений Михайлович": 76,
-      "Смоляков Сергей Аркадьевич": 11,
-      "Тарасов Александр Леонидович": 19,
-      "Язев Валерий Афонасьевич": 604,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000113981": 139,
+      "gas:candidate-vibid:1001000136123": 76,
+      "gas:candidate-vibid:366300366843": 11,
+      "gas:candidate-vibid:1001000195143": 19,
+      "gas:candidate-vibid:1001000225988": 604,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12619,12 +12619,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 152,
-      "Гольцев Евгений Михайлович": 53,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 518,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000113981": 152,
+      "gas:candidate-vibid:1001000136123": 53,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 518,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12674,12 +12674,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 173,
-      "Гольцев Евгений Михайлович": 83,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 439,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000113981": 173,
+      "gas:candidate-vibid:1001000136123": 83,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 439,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12729,12 +12729,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 214,
-      "Гольцев Евгений Михайлович": 91,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 22,
-      "Язев Валерий Афонасьевич": 510,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000113981": 214,
+      "gas:candidate-vibid:1001000136123": 91,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 22,
+      "gas:candidate-vibid:1001000225988": 510,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12784,12 +12784,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 116,
-      "Гольцев Евгений Михайлович": 60,
-      "Смоляков Сергей Аркадьевич": 9,
-      "Тарасов Александр Леонидович": 9,
-      "Язев Валерий Афонасьевич": 678,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113981": 116,
+      "gas:candidate-vibid:1001000136123": 60,
+      "gas:candidate-vibid:366300366843": 9,
+      "gas:candidate-vibid:1001000195143": 9,
+      "gas:candidate-vibid:1001000225988": 678,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12839,12 +12839,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 168,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 481,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000113981": 168,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 481,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12894,12 +12894,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 153,
-      "Гольцев Евгений Михайлович": 59,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 562,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000113981": 153,
+      "gas:candidate-vibid:1001000136123": 59,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 562,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -12949,12 +12949,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 158,
-      "Гольцев Евгений Михайлович": 57,
-      "Смоляков Сергей Аркадьевич": 20,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 587,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000113981": 158,
+      "gas:candidate-vibid:1001000136123": 57,
+      "gas:candidate-vibid:366300366843": 20,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 587,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13004,12 +13004,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 191,
-      "Гольцев Евгений Михайлович": 53,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 571,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113981": 191,
+      "gas:candidate-vibid:1001000136123": 53,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 571,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13059,12 +13059,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 199,
-      "Гольцев Евгений Михайлович": 56,
-      "Смоляков Сергей Аркадьевич": 20,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 543,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113981": 199,
+      "gas:candidate-vibid:1001000136123": 56,
+      "gas:candidate-vibid:366300366843": 20,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 543,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13114,12 +13114,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 187,
-      "Гольцев Евгений Михайлович": 51,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 583,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000113981": 187,
+      "gas:candidate-vibid:1001000136123": 51,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 583,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13169,12 +13169,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 151,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 14,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 589,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000113981": 151,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 14,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 589,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13224,12 +13224,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 197,
-      "Гольцев Евгений Михайлович": 104,
-      "Смоляков Сергей Аркадьевич": 16,
-      "Тарасов Александр Леонидович": 5,
-      "Язев Валерий Афонасьевич": 556,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000113981": 197,
+      "gas:candidate-vibid:1001000136123": 104,
+      "gas:candidate-vibid:366300366843": 16,
+      "gas:candidate-vibid:1001000195143": 5,
+      "gas:candidate-vibid:1001000225988": 556,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13279,12 +13279,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 256,
-      "Гольцев Евгений Михайлович": 74,
-      "Смоляков Сергей Аркадьевич": 25,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 655,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000113981": 256,
+      "gas:candidate-vibid:1001000136123": 74,
+      "gas:candidate-vibid:366300366843": 25,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 655,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13334,12 +13334,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 235,
-      "Гольцев Евгений Михайлович": 72,
-      "Смоляков Сергей Аркадьевич": 21,
-      "Тарасов Александр Леонидович": 6,
-      "Язев Валерий Афонасьевич": 588,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000113981": 235,
+      "gas:candidate-vibid:1001000136123": 72,
+      "gas:candidate-vibid:366300366843": 21,
+      "gas:candidate-vibid:1001000195143": 6,
+      "gas:candidate-vibid:1001000225988": 588,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13389,12 +13389,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 211,
-      "Гольцев Евгений Михайлович": 67,
-      "Смоляков Сергей Аркадьевич": 26,
-      "Тарасов Александр Леонидович": 2,
-      "Язев Валерий Афонасьевич": 708,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000113981": 211,
+      "gas:candidate-vibid:1001000136123": 67,
+      "gas:candidate-vibid:366300366843": 26,
+      "gas:candidate-vibid:1001000195143": 2,
+      "gas:candidate-vibid:1001000225988": 708,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13444,12 +13444,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 153,
-      "Гольцев Евгений Михайлович": 33,
-      "Смоляков Сергей Аркадьевич": 13,
-      "Тарасов Александр Леонидович": 13,
-      "Язев Валерий Афонасьевич": 617,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000113981": 153,
+      "gas:candidate-vibid:1001000136123": 33,
+      "gas:candidate-vibid:366300366843": 13,
+      "gas:candidate-vibid:1001000195143": 13,
+      "gas:candidate-vibid:1001000225988": 617,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13499,12 +13499,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 184,
-      "Гольцев Евгений Михайлович": 54,
-      "Смоляков Сергей Аркадьевич": 18,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 460,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000113981": 184,
+      "gas:candidate-vibid:1001000136123": 54,
+      "gas:candidate-vibid:366300366843": 18,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 460,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13554,12 +13554,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 163,
-      "Гольцев Евгений Михайлович": 48,
-      "Смоляков Сергей Аркадьевич": 30,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 623,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000113981": 163,
+      "gas:candidate-vibid:1001000136123": 48,
+      "gas:candidate-vibid:366300366843": 30,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 623,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13609,12 +13609,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 173,
-      "Гольцев Евгений Михайлович": 50,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 573,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000113981": 173,
+      "gas:candidate-vibid:1001000136123": 50,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 573,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13664,12 +13664,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 200,
-      "Гольцев Евгений Михайлович": 67,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 10,
-      "Язев Валерий Афонасьевич": 704,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000113981": 200,
+      "gas:candidate-vibid:1001000136123": 67,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 10,
+      "gas:candidate-vibid:1001000225988": 704,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13719,12 +13719,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 206,
-      "Гольцев Евгений Михайлович": 40,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 623,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000113981": 206,
+      "gas:candidate-vibid:1001000136123": 40,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 623,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13774,12 +13774,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 202,
-      "Гольцев Евгений Михайлович": 70,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 8,
-      "Язев Валерий Афонасьевич": 723,
-      "Против всех": 198
+      "gas:candidate-vibid:1001000113981": 202,
+      "gas:candidate-vibid:1001000136123": 70,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 8,
+      "gas:candidate-vibid:1001000225988": 723,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13829,12 +13829,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 200,
-      "Гольцев Евгений Михайлович": 51,
-      "Смоляков Сергей Аркадьевич": 23,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 586,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000113981": 200,
+      "gas:candidate-vibid:1001000136123": 51,
+      "gas:candidate-vibid:366300366843": 23,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 586,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13884,12 +13884,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 163,
-      "Гольцев Евгений Михайлович": 57,
-      "Смоляков Сергей Аркадьевич": 15,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 611,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000113981": 163,
+      "gas:candidate-vibid:1001000136123": 57,
+      "gas:candidate-vibid:366300366843": 15,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 611,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13939,12 +13939,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 177,
-      "Гольцев Евгений Михайлович": 66,
-      "Смоляков Сергей Аркадьевич": 24,
-      "Тарасов Александр Леонидович": 7,
-      "Язев Валерий Афонасьевич": 490,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113981": 177,
+      "gas:candidate-vibid:1001000136123": 66,
+      "gas:candidate-vibid:366300366843": 24,
+      "gas:candidate-vibid:1001000195143": 7,
+      "gas:candidate-vibid:1001000225988": 490,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -13994,12 +13994,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 195,
-      "Гольцев Евгений Михайлович": 74,
-      "Смоляков Сергей Аркадьевич": 34,
-      "Тарасов Александр Леонидович": 11,
-      "Язев Валерий Афонасьевич": 690,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000113981": 195,
+      "gas:candidate-vibid:1001000136123": 74,
+      "gas:candidate-vibid:366300366843": 34,
+      "gas:candidate-vibid:1001000195143": 11,
+      "gas:candidate-vibid:1001000225988": 690,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -14049,12 +14049,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 162,
-      "Гольцев Евгений Михайлович": 45,
-      "Смоляков Сергей Аркадьевич": 19,
-      "Тарасов Александр Леонидович": 14,
-      "Язев Валерий Афонасьевич": 613,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000113981": 162,
+      "gas:candidate-vibid:1001000136123": 45,
+      "gas:candidate-vibid:366300366843": 19,
+      "gas:candidate-vibid:1001000195143": 14,
+      "gas:candidate-vibid:1001000225988": 613,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -14104,12 +14104,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 240,
-      "Гольцев Евгений Михайлович": 68,
-      "Смоляков Сергей Аркадьевич": 21,
-      "Тарасов Александр Леонидович": 12,
-      "Язев Валерий Афонасьевич": 601,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000113981": 240,
+      "gas:candidate-vibid:1001000136123": 68,
+      "gas:candidate-vibid:366300366843": 21,
+      "gas:candidate-vibid:1001000195143": 12,
+      "gas:candidate-vibid:1001000225988": 601,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",
@@ -14159,12 +14159,12 @@ export const duma_2003_uik_428_region_66_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багаряков Алексей Владимирович": 186,
-      "Гольцев Евгений Михайлович": 68,
-      "Смоляков Сергей Аркадьевич": 22,
-      "Тарасов Александр Леонидович": 15,
-      "Язев Валерий Афонасьевич": 639,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000113981": 186,
+      "gas:candidate-vibid:1001000136123": 68,
+      "gas:candidate-vibid:366300366843": 22,
+      "gas:candidate-vibid:1001000195143": 15,
+      "gas:candidate-vibid:1001000225988": 639,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=663003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=366300366744&region=0&sub_region=0&type=429",

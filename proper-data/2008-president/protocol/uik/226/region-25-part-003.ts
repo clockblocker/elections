@@ -39,10 +39,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 132,
-      "Медведев Дмитрий Анатольевич": 320
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 137,
+      "gas:candidate-vibid:100100022247121": 132,
+      "gas:candidate-vibid:100100022248789": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -89,10 +89,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 29,
-      "Жириновский Владимир Вольфович": 147,
-      "Зюганов Геннадий Андреевич": 244,
-      "Медведев Дмитрий Анатольевич": 472
+      "gas:candidate-vibid:100100022245504": 29,
+      "gas:candidate-vibid:100100022247031": 147,
+      "gas:candidate-vibid:100100022247121": 244,
+      "gas:candidate-vibid:100100022248789": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -139,10 +139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 123,
-      "Зюганов Геннадий Андреевич": 180,
-      "Медведев Дмитрий Анатольевич": 401
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 123,
+      "gas:candidate-vibid:100100022247121": 180,
+      "gas:candidate-vibid:100100022248789": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -189,10 +189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 60,
-      "Зюганов Геннадий Андреевич": 139,
-      "Медведев Дмитрий Анатольевич": 231
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 60,
+      "gas:candidate-vibid:100100022247121": 139,
+      "gas:candidate-vibid:100100022248789": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -239,10 +239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 18,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 151,
-      "Медведев Дмитрий Анатольевич": 468
+      "gas:candidate-vibid:100100022245504": 18,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 151,
+      "gas:candidate-vibid:100100022248789": 468
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -289,10 +289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 94,
-      "Зюганов Геннадий Андреевич": 182,
-      "Медведев Дмитрий Анатольевич": 420
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 94,
+      "gas:candidate-vibid:100100022247121": 182,
+      "gas:candidate-vibid:100100022248789": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -339,10 +339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 49,
-      "Медведев Дмитрий Анатольевич": 83
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 49,
+      "gas:candidate-vibid:100100022248789": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -389,10 +389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 128
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -439,10 +439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 148,
-      "Зюганов Геннадий Андреевич": 217,
-      "Медведев Дмитрий Анатольевич": 521
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 148,
+      "gas:candidate-vibid:100100022247121": 217,
+      "gas:candidate-vibid:100100022248789": 521
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -489,10 +489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 186,
-      "Медведев Дмитрий Анатольевич": 376
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 79,
+      "gas:candidate-vibid:100100022247121": 186,
+      "gas:candidate-vibid:100100022248789": 376
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -539,10 +539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 56,
-      "Зюганов Геннадий Андреевич": 79,
-      "Медведев Дмитрий Анатольевич": 254
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 56,
+      "gas:candidate-vibid:100100022247121": 79,
+      "gas:candidate-vibid:100100022248789": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -589,10 +589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 90,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 352
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 90,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -639,10 +639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 76
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -689,10 +689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 11,
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 272,
-      "Медведев Дмитрий Анатольевич": 413
+      "gas:candidate-vibid:100100022245504": 11,
+      "gas:candidate-vibid:100100022247031": 105,
+      "gas:candidate-vibid:100100022247121": 272,
+      "gas:candidate-vibid:100100022248789": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -739,10 +739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 169,
-      "Медведев Дмитрий Анатольевич": 228
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 55,
+      "gas:candidate-vibid:100100022247121": 169,
+      "gas:candidate-vibid:100100022248789": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -789,10 +789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 294,
-      "Медведев Дмитрий Анатольевич": 268
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 75,
+      "gas:candidate-vibid:100100022247121": 294,
+      "gas:candidate-vibid:100100022248789": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -839,10 +839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 94
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -889,10 +889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 57
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -939,10 +939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 94
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -989,10 +989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 35
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -1039,10 +1039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 135
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -1089,10 +1089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 15,
-      "Жириновский Владимир Вольфович": 168,
-      "Зюганов Геннадий Андреевич": 138,
-      "Медведев Дмитрий Анатольевич": 522
+      "gas:candidate-vibid:100100022245504": 15,
+      "gas:candidate-vibid:100100022247031": 168,
+      "gas:candidate-vibid:100100022247121": 138,
+      "gas:candidate-vibid:100100022248789": 522
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -1139,10 +1139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 25
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196506&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196506&type=227",
@@ -1189,10 +1189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 330
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1239,10 +1239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 108,
-      "Медведев Дмитрий Анатольевич": 246
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 108,
+      "gas:candidate-vibid:100100022248789": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1289,10 +1289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 89,
-      "Зюганов Геннадий Андреевич": 100,
-      "Медведев Дмитрий Анатольевич": 872
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 89,
+      "gas:candidate-vibid:100100022247121": 100,
+      "gas:candidate-vibid:100100022248789": 872
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1339,10 +1339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 66,
-      "Медведев Дмитрий Анатольевич": 503
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 46,
+      "gas:candidate-vibid:100100022247121": 66,
+      "gas:candidate-vibid:100100022248789": 503
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1389,10 +1389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 77,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 364
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 77,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1439,10 +1439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 15,
-      "Медведев Дмитрий Анатольевич": 92
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 15,
+      "gas:candidate-vibid:100100022248789": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1489,10 +1489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 59,
-      "Медведев Дмитрий Анатольевич": 487
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 81,
+      "gas:candidate-vibid:100100022247121": 59,
+      "gas:candidate-vibid:100100022248789": 487
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1539,10 +1539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 209
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 45,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1589,10 +1589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 168,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 507
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 168,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 507
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1639,10 +1639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 223,
-      "Зюганов Геннадий Андреевич": 83,
-      "Медведев Дмитрий Анатольевич": 568
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 223,
+      "gas:candidate-vibid:100100022247121": 83,
+      "gas:candidate-vibid:100100022248789": 568
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1689,10 +1689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 50,
-      "Зюганов Геннадий Андреевич": 61,
-      "Медведев Дмитрий Анатольевич": 202
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 50,
+      "gas:candidate-vibid:100100022247121": 61,
+      "gas:candidate-vibid:100100022248789": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1739,10 +1739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 95,
-      "Медведев Дмитрий Анатольевич": 913
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 95,
+      "gas:candidate-vibid:100100022248789": 913
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1789,10 +1789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 61,
-      "Медведев Дмитрий Анатольевич": 472
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 61,
+      "gas:candidate-vibid:100100022248789": 472
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1839,10 +1839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 58,
-      "Медведев Дмитрий Анатольевич": 236
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 58,
+      "gas:candidate-vibid:100100022248789": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1889,10 +1889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 57,
-      "Зюганов Геннадий Андреевич": 44,
-      "Медведев Дмитрий Анатольевич": 381
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 57,
+      "gas:candidate-vibid:100100022247121": 44,
+      "gas:candidate-vibid:100100022248789": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1939,10 +1939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 55,
-      "Зюганов Геннадий Андреевич": 60,
-      "Медведев Дмитрий Анатольевич": 922
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 55,
+      "gas:candidate-vibid:100100022247121": 60,
+      "gas:candidate-vibid:100100022248789": 922
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -1989,10 +1989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 59,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 179
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 59,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2039,10 +2039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 29,
-      "Жириновский Владимир Вольфович": 226,
-      "Зюганов Геннадий Андреевич": 235,
-      "Медведев Дмитрий Анатольевич": 693
+      "gas:candidate-vibid:100100022245504": 29,
+      "gas:candidate-vibid:100100022247031": 226,
+      "gas:candidate-vibid:100100022247121": 235,
+      "gas:candidate-vibid:100100022248789": 693
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2089,10 +2089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 162,
-      "Зюганов Геннадий Андреевич": 165,
-      "Медведев Дмитрий Анатольевич": 502
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 162,
+      "gas:candidate-vibid:100100022247121": 165,
+      "gas:candidate-vibid:100100022248789": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2139,10 +2139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 189
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 48,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2189,10 +2189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 114,
-      "Зюганов Геннадий Андреевич": 78,
-      "Медведев Дмитрий Анатольевич": 904
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 114,
+      "gas:candidate-vibid:100100022247121": 78,
+      "gas:candidate-vibid:100100022248789": 904
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2239,10 +2239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 196,
-      "Зюганов Геннадий Андреевич": 131,
-      "Медведев Дмитрий Анатольевич": 988
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 196,
+      "gas:candidate-vibid:100100022247121": 131,
+      "gas:candidate-vibid:100100022248789": 988
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2289,10 +2289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 104,
-      "Зюганов Геннадий Андреевич": 85,
-      "Медведев Дмитрий Анатольевич": 718
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 104,
+      "gas:candidate-vibid:100100022247121": 85,
+      "gas:candidate-vibid:100100022248789": 718
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2339,10 +2339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 183
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 51,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2389,10 +2389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 40,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 153
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 40,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2439,10 +2439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 67,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 198
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 67,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2489,10 +2489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 73,
-      "Медведев Дмитрий Анатольевич": 300
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 103,
+      "gas:candidate-vibid:100100022247121": 73,
+      "gas:candidate-vibid:100100022248789": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2539,10 +2539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 118,
-      "Медведев Дмитрий Анатольевич": 246
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 118,
+      "gas:candidate-vibid:100100022248789": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196507&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196507&type=227",
@@ -2589,10 +2589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 99,
-      "Медведев Дмитрий Анатольевич": 110
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 44,
+      "gas:candidate-vibid:100100022247121": 99,
+      "gas:candidate-vibid:100100022248789": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2639,10 +2639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 90,
-      "Медведев Дмитрий Анатольевич": 236
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 90,
+      "gas:candidate-vibid:100100022248789": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2689,10 +2689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 226,
-      "Медведев Дмитрий Анатольевич": 547
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 226,
+      "gas:candidate-vibid:100100022248789": 547
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2739,10 +2739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 301,
-      "Медведев Дмитрий Анатольевич": 748
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 301,
+      "gas:candidate-vibid:100100022248789": 748
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2789,10 +2789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 153
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2839,10 +2839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 55,
-      "Медведев Дмитрий Анатольевич": 251
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 45,
+      "gas:candidate-vibid:100100022247121": 55,
+      "gas:candidate-vibid:100100022248789": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2889,10 +2889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 63
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2939,10 +2939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 41
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -2989,10 +2989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 98
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3039,10 +3039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 65
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3089,10 +3089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 66
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3139,10 +3139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 30,
-      "Медведев Дмитрий Анатольевич": 154
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 30,
+      "gas:candidate-vibid:100100022248789": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3189,10 +3189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 104,
-      "Медведев Дмитрий Анатольевич": 401
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 104,
+      "gas:candidate-vibid:100100022248789": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3239,10 +3239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 137,
-      "Зюганов Геннадий Андреевич": 112,
-      "Медведев Дмитрий Анатольевич": 294
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 137,
+      "gas:candidate-vibid:100100022247121": 112,
+      "gas:candidate-vibid:100100022248789": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3289,10 +3289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 58
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3339,10 +3339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 131,
-      "Медведев Дмитрий Анатольевич": 516
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 37,
+      "gas:candidate-vibid:100100022247121": 131,
+      "gas:candidate-vibid:100100022248789": 516
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3389,10 +3389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 76,
-      "Медведев Дмитрий Анатольевич": 165
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 76,
+      "gas:candidate-vibid:100100022248789": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196508&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196508&type=227",
@@ -3439,10 +3439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 219
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3489,10 +3489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 65,
-      "Медведев Дмитрий Анатольевич": 186
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 65,
+      "gas:candidate-vibid:100100022248789": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3539,10 +3539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 186
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3589,10 +3589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 292
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3639,10 +3639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 141
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3689,10 +3689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 246
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3739,10 +3739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 156
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3789,10 +3789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 46,
-      "Медведев Дмитрий Анатольевич": 171
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 46,
+      "gas:candidate-vibid:100100022248789": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3839,10 +3839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 56,
-      "Медведев Дмитрий Анатольевич": 181
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 56,
+      "gas:candidate-vibid:100100022248789": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3889,10 +3889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 291
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3939,10 +3939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 186
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -3989,10 +3989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 232
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4039,10 +4039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 182
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 53,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4089,10 +4089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 252
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4139,10 +4139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 356
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 356
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4189,10 +4189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 298
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4239,10 +4239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 275
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4289,10 +4289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 183
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4339,10 +4339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 61,
-      "Медведев Дмитрий Анатольевич": 168
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 61,
+      "gas:candidate-vibid:100100022248789": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4389,10 +4389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 261
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4439,10 +4439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 204
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4489,10 +4489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 35,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 250
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 35,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4539,10 +4539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 41,
-      "Зюганов Геннадий Андреевич": 71,
-      "Медведев Дмитрий Анатольевич": 178
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 41,
+      "gas:candidate-vibid:100100022247121": 71,
+      "gas:candidate-vibid:100100022248789": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4589,10 +4589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 56,
-      "Медведев Дмитрий Анатольевич": 353
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 56,
+      "gas:candidate-vibid:100100022248789": 353
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4639,10 +4639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 25,
-      "Медведев Дмитрий Анатольевич": 198
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 25,
+      "gas:candidate-vibid:100100022248789": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4689,10 +4689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 187
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4739,10 +4739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 40,
-      "Медведев Дмитрий Анатольевич": 105
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 40,
+      "gas:candidate-vibid:100100022248789": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4789,10 +4789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 19,
-      "Медведев Дмитрий Анатольевич": 162
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 19,
+      "gas:candidate-vibid:100100022248789": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4839,10 +4839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 164
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4889,10 +4889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 205
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4939,10 +4939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 32,
-      "Медведев Дмитрий Анатольевич": 234
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 32,
+      "gas:candidate-vibid:100100022248789": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -4989,10 +4989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 7,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 305
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 7,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5039,10 +5039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 140
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5089,10 +5089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 221
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 44,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5139,10 +5139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 10,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 121
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 10,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5189,10 +5189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 156
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5239,10 +5239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 48
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5289,10 +5289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 156
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5339,10 +5339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 215
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5389,10 +5389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 135
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5439,10 +5439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 188
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5489,10 +5489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 25,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 176
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 25,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5539,10 +5539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 205
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5589,10 +5589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 406
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5639,10 +5639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 30,
-      "Зюганов Геннадий Андреевич": 16,
-      "Медведев Дмитрий Анатольевич": 167
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 30,
+      "gas:candidate-vibid:100100022247121": 16,
+      "gas:candidate-vibid:100100022248789": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5689,10 +5689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 241
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5739,10 +5739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 237
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5789,10 +5789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 447
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 447
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5839,10 +5839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 206
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5889,10 +5889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 162
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5939,10 +5939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 225
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -5989,10 +5989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 51,
-      "Зюганов Геннадий Андреевич": 67,
-      "Медведев Дмитрий Анатольевич": 174
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 51,
+      "gas:candidate-vibid:100100022247121": 67,
+      "gas:candidate-vibid:100100022248789": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6039,10 +6039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 218
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6089,10 +6089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 18,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 195
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 18,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6139,10 +6139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 199
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6189,10 +6189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 16,
-      "Зюганов Геннадий Андреевич": 13,
-      "Медведев Дмитрий Анатольевич": 226
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 16,
+      "gas:candidate-vibid:100100022247121": 13,
+      "gas:candidate-vibid:100100022248789": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6239,10 +6239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 32,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 198
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 32,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6289,10 +6289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 188
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6339,10 +6339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 183
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6389,10 +6389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 315
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6439,10 +6439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 24,
-      "Медведев Дмитрий Анатольевич": 263
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 24,
+      "gas:candidate-vibid:100100022248789": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6489,10 +6489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 27,
-      "Медведев Дмитрий Анатольевич": 296
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 27,
+      "gas:candidate-vibid:100100022248789": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6539,10 +6539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 296
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6589,10 +6589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 19,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 268
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 19,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6639,10 +6639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 9,
-      "Зюганов Геннадий Андреевич": 7,
-      "Медведев Дмитрий Анатольевич": 67
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 9,
+      "gas:candidate-vibid:100100022247121": 7,
+      "gas:candidate-vibid:100100022248789": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6689,10 +6689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 8,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 106
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 8,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6739,10 +6739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 301
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6789,10 +6789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 12,
-      "Зюганов Геннадий Андреевич": 17,
-      "Медведев Дмитрий Анатольевич": 125
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 12,
+      "gas:candidate-vibid:100100022247121": 17,
+      "gas:candidate-vibid:100100022248789": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6839,10 +6839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 149
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6889,10 +6889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 3,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 178
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 3,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6939,10 +6939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 297
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -6989,10 +6989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 4,
-      "Зюганов Геннадий Андреевич": 5,
-      "Медведев Дмитрий Анатольевич": 216
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 4,
+      "gas:candidate-vibid:100100022247121": 5,
+      "gas:candidate-vibid:100100022248789": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7039,10 +7039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 2,
-      "Зюганов Геннадий Андреевич": 4,
-      "Медведев Дмитрий Анатольевич": 170
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 2,
+      "gas:candidate-vibid:100100022247121": 4,
+      "gas:candidate-vibid:100100022248789": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7089,10 +7089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 2,
-      "Медведев Дмитрий Анатольевич": 229
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 2,
+      "gas:candidate-vibid:100100022248789": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7139,10 +7139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 10,
-      "Медведев Дмитрий Анатольевич": 130
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 10,
+      "gas:candidate-vibid:100100022248789": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7189,10 +7189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 12,
-      "Медведев Дмитрий Анатольевич": 157
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 12,
+      "gas:candidate-vibid:100100022248789": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7239,10 +7239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 5,
-      "Зюганов Геннадий Андреевич": 6,
-      "Медведев Дмитрий Анатольевич": 165
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 5,
+      "gas:candidate-vibid:100100022247121": 6,
+      "gas:candidate-vibid:100100022248789": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7289,10 +7289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 48,
-      "Зюганов Геннадий Андреевич": 22,
-      "Медведев Дмитрий Анатольевич": 129
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 48,
+      "gas:candidate-vibid:100100022247121": 22,
+      "gas:candidate-vibid:100100022248789": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7339,10 +7339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 54,
-      "Зюганов Геннадий Андреевич": 29,
-      "Медведев Дмитрий Анатольевич": 196
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 54,
+      "gas:candidate-vibid:100100022247121": 29,
+      "gas:candidate-vibid:100100022248789": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7389,10 +7389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 44,
-      "Зюганов Геннадий Андреевич": 20,
-      "Медведев Дмитрий Анатольевич": 170
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 44,
+      "gas:candidate-vibid:100100022247121": 20,
+      "gas:candidate-vibid:100100022248789": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196509&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196509&type=227",
@@ -7439,10 +7439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 180,
-      "Зюганов Геннадий Андреевич": 294,
-      "Медведев Дмитрий Анатольевич": 781
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 180,
+      "gas:candidate-vibid:100100022247121": 294,
+      "gas:candidate-vibid:100100022248789": 781
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7489,10 +7489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 122,
-      "Зюганов Геннадий Андреевич": 223,
-      "Медведев Дмитрий Анатольевич": 570
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 122,
+      "gas:candidate-vibid:100100022247121": 223,
+      "gas:candidate-vibid:100100022248789": 570
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7539,10 +7539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 22,
-      "Жириновский Владимир Вольфович": 198,
-      "Зюганов Геннадий Андреевич": 311,
-      "Медведев Дмитрий Анатольевич": 705
+      "gas:candidate-vibid:100100022245504": 22,
+      "gas:candidate-vibid:100100022247031": 198,
+      "gas:candidate-vibid:100100022247121": 311,
+      "gas:candidate-vibid:100100022248789": 705
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7589,10 +7589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 225
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7639,10 +7639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 33,
-      "Зюганов Геннадий Андреевич": 38,
-      "Медведев Дмитрий Анатольевич": 143
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 33,
+      "gas:candidate-vibid:100100022247121": 38,
+      "gas:candidate-vibid:100100022248789": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7689,10 +7689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 23,
-      "Зюганов Геннадий Андреевич": 35,
-      "Медведев Дмитрий Анатольевич": 141
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 23,
+      "gas:candidate-vibid:100100022247121": 35,
+      "gas:candidate-vibid:100100022248789": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7739,10 +7739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 119,
-      "Зюганов Геннадий Андреевич": 116,
-      "Медведев Дмитрий Анатольевич": 793
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 119,
+      "gas:candidate-vibid:100100022247121": 116,
+      "gas:candidate-vibid:100100022248789": 793
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7789,10 +7789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 22,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 149
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 22,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7839,10 +7839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 3,
-      "Медведев Дмитрий Анатольевич": 60
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 3,
+      "gas:candidate-vibid:100100022248789": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7889,10 +7889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 343
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 343
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7939,10 +7939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 61,
-      "Медведев Дмитрий Анатольевич": 282
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 82,
+      "gas:candidate-vibid:100100022247121": 61,
+      "gas:candidate-vibid:100100022248789": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -7989,10 +7989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 71
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8039,10 +8039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 29,
-      "Зюганов Геннадий Андреевич": 21,
-      "Медведев Дмитрий Анатольевич": 155
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 29,
+      "gas:candidate-vibid:100100022247121": 21,
+      "gas:candidate-vibid:100100022248789": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8089,10 +8089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 21,
-      "Жириновский Владимир Вольфович": 189,
-      "Зюганов Геннадий Андреевич": 284,
-      "Медведев Дмитрий Анатольевич": 734
+      "gas:candidate-vibid:100100022245504": 21,
+      "gas:candidate-vibid:100100022247031": 189,
+      "gas:candidate-vibid:100100022247121": 284,
+      "gas:candidate-vibid:100100022248789": 734
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8139,10 +8139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 222,
-      "Зюганов Геннадий Андреевич": 252,
-      "Медведев Дмитрий Анатольевич": 711
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 222,
+      "gas:candidate-vibid:100100022247121": 252,
+      "gas:candidate-vibid:100100022248789": 711
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8189,10 +8189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 189,
-      "Зюганов Геннадий Андреевич": 244,
-      "Медведев Дмитрий Анатольевич": 597
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 189,
+      "gas:candidate-vibid:100100022247121": 244,
+      "gas:candidate-vibid:100100022248789": 597
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8239,10 +8239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 66,
-      "Медведев Дмитрий Анатольевич": 397
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 84,
+      "gas:candidate-vibid:100100022247121": 66,
+      "gas:candidate-vibid:100100022248789": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8289,10 +8289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 91,
-      "Зюганов Геннадий Андреевич": 47,
-      "Медведев Дмитрий Анатольевич": 359
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 91,
+      "gas:candidate-vibid:100100022247121": 47,
+      "gas:candidate-vibid:100100022248789": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8339,10 +8339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 66,
-      "Медведев Дмитрий Анатольевич": 297
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 66,
+      "gas:candidate-vibid:100100022248789": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8389,10 +8389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 108,
-      "Зюганов Геннадий Андреевич": 56,
-      "Медведев Дмитрий Анатольевич": 401
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 108,
+      "gas:candidate-vibid:100100022247121": 56,
+      "gas:candidate-vibid:100100022248789": 401
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8439,10 +8439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 75
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8489,10 +8489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 101,
-      "Зюганов Геннадий Андреевич": 99,
-      "Медведев Дмитрий Анатольевич": 525
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 101,
+      "gas:candidate-vibid:100100022247121": 99,
+      "gas:candidate-vibid:100100022248789": 525
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8539,10 +8539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 52,
-      "Медведев Дмитрий Анатольевич": 161
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 62,
+      "gas:candidate-vibid:100100022247121": 52,
+      "gas:candidate-vibid:100100022248789": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8589,10 +8589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 48,
-      "Медведев Дмитрий Анатольевич": 183
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 43,
+      "gas:candidate-vibid:100100022247121": 48,
+      "gas:candidate-vibid:100100022248789": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8639,10 +8639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 34,
-      "Зюганов Геннадий Андреевич": 28,
-      "Медведев Дмитрий Анатольевич": 126
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 34,
+      "gas:candidate-vibid:100100022247121": 28,
+      "gas:candidate-vibid:100100022248789": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8689,10 +8689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 252,
-      "Зюганов Геннадий Андреевич": 323,
-      "Медведев Дмитрий Анатольевич": 787
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 252,
+      "gas:candidate-vibid:100100022247121": 323,
+      "gas:candidate-vibid:100100022248789": 787
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8739,10 +8739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 58,
-      "Медведев Дмитрий Анатольевич": 224
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 58,
+      "gas:candidate-vibid:100100022248789": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8789,10 +8789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 13,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 54
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 13,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8839,10 +8839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 18,
-      "Медведев Дмитрий Анатольевич": 57
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 18,
+      "gas:candidate-vibid:100100022248789": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8889,10 +8889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 82
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8939,10 +8939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 63,
-      "Медведев Дмитрий Анатольевич": 253
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 63,
+      "gas:candidate-vibid:100100022248789": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -8989,10 +8989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 118,
-      "Зюганов Геннадий Андреевич": 177,
-      "Медведев Дмитрий Анатольевич": 693
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 118,
+      "gas:candidate-vibid:100100022247121": 177,
+      "gas:candidate-vibid:100100022248789": 693
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -9039,10 +9039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 6,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 10
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 6,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196510&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196510&type=227",
@@ -9089,10 +9089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 20,
-      "Зюганов Геннадий Андреевич": 70,
-      "Медведев Дмитрий Анатольевич": 150
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 20,
+      "gas:candidate-vibid:100100022247121": 70,
+      "gas:candidate-vibid:100100022248789": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9139,10 +9139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 15,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 64
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 15,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9189,10 +9189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 28,
-      "Зюганов Геннадий Андреевич": 64,
-      "Медведев Дмитрий Анатольевич": 107
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 28,
+      "gas:candidate-vibid:100100022247121": 64,
+      "gas:candidate-vibid:100100022248789": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9239,10 +9239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 39,
-      "Медведев Дмитрий Анатольевич": 177
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 45,
+      "gas:candidate-vibid:100100022247121": 39,
+      "gas:candidate-vibid:100100022248789": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9289,10 +9289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 21,
-      "Зюганов Геннадий Андреевич": 11,
-      "Медведев Дмитрий Анатольевич": 141
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 21,
+      "gas:candidate-vibid:100100022247121": 11,
+      "gas:candidate-vibid:100100022248789": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9339,10 +9339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 79,
-      "Зюганов Геннадий Андреевич": 77,
-      "Медведев Дмитрий Анатольевич": 214
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 79,
+      "gas:candidate-vibid:100100022247121": 77,
+      "gas:candidate-vibid:100100022248789": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9389,10 +9389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 76,
-      "Зюганов Геннадий Андреевич": 88,
-      "Медведев Дмитрий Анатольевич": 270
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 76,
+      "gas:candidate-vibid:100100022247121": 88,
+      "gas:candidate-vibid:100100022248789": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9439,10 +9439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 65,
-      "Зюганов Геннадий Андреевич": 56,
-      "Медведев Дмитрий Анатольевич": 258
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 65,
+      "gas:candidate-vibid:100100022247121": 56,
+      "gas:candidate-vibid:100100022248789": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9489,10 +9489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 17,
-      "Жириновский Владимир Вольфович": 129,
-      "Зюганов Геннадий Андреевич": 125,
-      "Медведев Дмитрий Анатольевич": 551
+      "gas:candidate-vibid:100100022245504": 17,
+      "gas:candidate-vibid:100100022247031": 129,
+      "gas:candidate-vibid:100100022247121": 125,
+      "gas:candidate-vibid:100100022248789": 551
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9539,10 +9539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 88,
-      "Медведев Дмитрий Анатольевич": 238
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 88,
+      "gas:candidate-vibid:100100022248789": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9589,10 +9589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 70,
-      "Зюганов Геннадий Андреевич": 91,
-      "Медведев Дмитрий Анатольевич": 274
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 70,
+      "gas:candidate-vibid:100100022247121": 91,
+      "gas:candidate-vibid:100100022248789": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9639,10 +9639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 24,
-      "Зюганов Геннадий Андреевич": 38,
-      "Медведев Дмитрий Анатольевич": 140
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 24,
+      "gas:candidate-vibid:100100022247121": 38,
+      "gas:candidate-vibid:100100022248789": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9689,10 +9689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 26,
-      "Медведев Дмитрий Анатольевич": 62
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 26,
+      "gas:candidate-vibid:100100022248789": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9739,10 +9739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 75,
-      "Медведев Дмитрий Анатольевич": 253
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 68,
+      "gas:candidate-vibid:100100022247121": 75,
+      "gas:candidate-vibid:100100022248789": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9789,10 +9789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 84,
-      "Зюганов Геннадий Андреевич": 100,
-      "Медведев Дмитрий Анатольевич": 233
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 84,
+      "gas:candidate-vibid:100100022247121": 100,
+      "gas:candidate-vibid:100100022248789": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9839,10 +9839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 52,
-      "Зюганов Геннадий Андреевич": 65,
-      "Медведев Дмитрий Анатольевич": 87
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 52,
+      "gas:candidate-vibid:100100022247121": 65,
+      "gas:candidate-vibid:100100022248789": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9889,10 +9889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 148
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9939,10 +9939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 116,
-      "Медведев Дмитрий Анатольевич": 244
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 75,
+      "gas:candidate-vibid:100100022247121": 116,
+      "gas:candidate-vibid:100100022248789": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -9989,10 +9989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 166,
-      "Зюганов Геннадий Андреевич": 154,
-      "Медведев Дмитрий Анатольевич": 402
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 166,
+      "gas:candidate-vibid:100100022247121": 154,
+      "gas:candidate-vibid:100100022248789": 402
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10039,10 +10039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 28,
-      "Жириновский Владимир Вольфович": 190,
-      "Зюганов Геннадий Андреевич": 358,
-      "Медведев Дмитрий Анатольевич": 562
+      "gas:candidate-vibid:100100022245504": 28,
+      "gas:candidate-vibid:100100022247031": 190,
+      "gas:candidate-vibid:100100022247121": 358,
+      "gas:candidate-vibid:100100022248789": 562
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10089,10 +10089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 103,
-      "Зюганов Геннадий Андреевич": 187,
-      "Медведев Дмитрий Анатольевич": 285
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 103,
+      "gas:candidate-vibid:100100022247121": 187,
+      "gas:candidate-vibid:100100022248789": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10139,10 +10139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 181,
-      "Медведев Дмитрий Анатольевич": 342
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 145,
+      "gas:candidate-vibid:100100022247121": 181,
+      "gas:candidate-vibid:100100022248789": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10189,10 +10189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 139,
-      "Зюганов Геннадий Андреевич": 116,
-      "Медведев Дмитрий Анатольевич": 363
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 139,
+      "gas:candidate-vibid:100100022247121": 116,
+      "gas:candidate-vibid:100100022248789": 363
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10239,10 +10239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 96,
-      "Зюганов Геннадий Андреевич": 114,
-      "Медведев Дмитрий Анатольевич": 281
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 96,
+      "gas:candidate-vibid:100100022247121": 114,
+      "gas:candidate-vibid:100100022248789": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10289,10 +10289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 149,
-      "Зюганов Геннадий Андреевич": 151,
-      "Медведев Дмитрий Анатольевич": 436
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 149,
+      "gas:candidate-vibid:100100022247121": 151,
+      "gas:candidate-vibid:100100022248789": 436
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10339,10 +10339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 92,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 154
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 92,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10389,10 +10389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 134,
-      "Зюганов Геннадий Андреевич": 319,
-      "Медведев Дмитрий Анатольевич": 489
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 134,
+      "gas:candidate-vibid:100100022247121": 319,
+      "gas:candidate-vibid:100100022248789": 489
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10439,10 +10439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 53,
-      "Зюганов Геннадий Андреевич": 69,
-      "Медведев Дмитрий Анатольевич": 248
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 53,
+      "gas:candidate-vibid:100100022247121": 69,
+      "gas:candidate-vibid:100100022248789": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10489,10 +10489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 31,
-      "Зюганов Геннадий Андреевич": 44,
-      "Медведев Дмитрий Анатольевич": 96
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 31,
+      "gas:candidate-vibid:100100022247121": 44,
+      "gas:candidate-vibid:100100022248789": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10539,10 +10539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 100,
-      "Зюганов Геннадий Андреевич": 127,
-      "Медведев Дмитрий Анатольевич": 323
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 100,
+      "gas:candidate-vibid:100100022247121": 127,
+      "gas:candidate-vibid:100100022248789": 323
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10589,10 +10589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 37,
-      "Зюганов Геннадий Андреевич": 65,
-      "Медведев Дмитрий Анатольевич": 118
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 37,
+      "gas:candidate-vibid:100100022247121": 65,
+      "gas:candidate-vibid:100100022248789": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10639,10 +10639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 99,
-      "Зюганов Геннадий Андреевич": 133,
-      "Медведев Дмитрий Анатольевич": 247
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 99,
+      "gas:candidate-vibid:100100022247121": 133,
+      "gas:candidate-vibid:100100022248789": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10689,10 +10689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 47,
-      "Зюганов Геннадий Андреевич": 48,
-      "Медведев Дмитрий Анатольевич": 128
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 47,
+      "gas:candidate-vibid:100100022247121": 48,
+      "gas:candidate-vibid:100100022248789": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10739,10 +10739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 38,
-      "Зюганов Геннадий Андреевич": 33,
-      "Медведев Дмитрий Анатольевич": 233
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 38,
+      "gas:candidate-vibid:100100022247121": 33,
+      "gas:candidate-vibid:100100022248789": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10789,10 +10789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 6,
-      "Жириновский Владимир Вольфович": 85,
-      "Зюганов Геннадий Андреевич": 51,
-      "Медведев Дмитрий Анатольевич": 173
+      "gas:candidate-vibid:100100022245504": 6,
+      "gas:candidate-vibid:100100022247031": 85,
+      "gas:candidate-vibid:100100022247121": 51,
+      "gas:candidate-vibid:100100022248789": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10839,10 +10839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 1,
-      "Жириновский Владимир Вольфович": 86,
-      "Зюганов Геннадий Андреевич": 34,
-      "Медведев Дмитрий Анатольевич": 177
+      "gas:candidate-vibid:100100022245504": 1,
+      "gas:candidate-vibid:100100022247031": 86,
+      "gas:candidate-vibid:100100022247121": 34,
+      "gas:candidate-vibid:100100022248789": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10889,10 +10889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 2,
-      "Жириновский Владимир Вольфович": 11,
-      "Зюганов Геннадий Андреевич": 41,
-      "Медведев Дмитрий Анатольевич": 825
+      "gas:candidate-vibid:100100022245504": 2,
+      "gas:candidate-vibid:100100022247031": 11,
+      "gas:candidate-vibid:100100022247121": 41,
+      "gas:candidate-vibid:100100022248789": 825
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10939,10 +10939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 17,
-      "Зюганов Геннадий Андреевич": 23,
-      "Медведев Дмитрий Анатольевич": 71
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 17,
+      "gas:candidate-vibid:100100022247121": 23,
+      "gas:candidate-vibid:100100022248789": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -10989,10 +10989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 73,
-      "Медведев Дмитрий Анатольевич": 177
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 73,
+      "gas:candidate-vibid:100100022248789": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11039,10 +11039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 8,
-      "Жириновский Владимир Вольфович": 87,
-      "Зюганов Геннадий Андреевич": 102,
-      "Медведев Дмитрий Анатольевич": 299
+      "gas:candidate-vibid:100100022245504": 8,
+      "gas:candidate-vibid:100100022247031": 87,
+      "gas:candidate-vibid:100100022247121": 102,
+      "gas:candidate-vibid:100100022248789": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11089,10 +11089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 105,
-      "Зюганов Геннадий Андреевич": 96,
-      "Медведев Дмитрий Анатольевич": 206
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 105,
+      "gas:candidate-vibid:100100022247121": 96,
+      "gas:candidate-vibid:100100022248789": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11139,10 +11139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 43,
-      "Зюганов Геннадий Андреевич": 70,
-      "Медведев Дмитрий Анатольевич": 139
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 43,
+      "gas:candidate-vibid:100100022247121": 70,
+      "gas:candidate-vibid:100100022248789": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11189,10 +11189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 88,
-      "Зюганов Геннадий Андреевич": 131,
-      "Медведев Дмитрий Анатольевич": 231
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 88,
+      "gas:candidate-vibid:100100022247121": 131,
+      "gas:candidate-vibid:100100022248789": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11239,10 +11239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 61,
-      "Зюганов Геннадий Андреевич": 53,
-      "Медведев Дмитрий Анатольевич": 169
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 61,
+      "gas:candidate-vibid:100100022247121": 53,
+      "gas:candidate-vibid:100100022248789": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11289,10 +11289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 5,
-      "Жириновский Владимир Вольфович": 82,
-      "Зюганов Геннадий Андреевич": 209,
-      "Медведев Дмитрий Анатольевич": 265
+      "gas:candidate-vibid:100100022245504": 5,
+      "gas:candidate-vibid:100100022247031": 82,
+      "gas:candidate-vibid:100100022247121": 209,
+      "gas:candidate-vibid:100100022248789": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196511&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196511&type=227",
@@ -11339,10 +11339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 7,
-      "Жириновский Владимир Вольфович": 42,
-      "Зюганов Геннадий Андреевич": 31,
-      "Медведев Дмитрий Анатольевич": 357
+      "gas:candidate-vibid:100100022245504": 7,
+      "gas:candidate-vibid:100100022247031": 42,
+      "gas:candidate-vibid:100100022247121": 31,
+      "gas:candidate-vibid:100100022248789": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11389,10 +11389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 81,
-      "Зюганов Геннадий Андреевич": 161,
-      "Медведев Дмитрий Анатольевич": 480
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 81,
+      "gas:candidate-vibid:100100022247121": 161,
+      "gas:candidate-vibid:100100022248789": 480
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11439,10 +11439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 91,
-      "Зюганов Геннадий Андреевич": 152,
-      "Медведев Дмитрий Анатольевич": 1791
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 91,
+      "gas:candidate-vibid:100100022247121": 152,
+      "gas:candidate-vibid:100100022248789": 1791
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11489,10 +11489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 0,
-      "Жириновский Владимир Вольфович": 0,
-      "Зюганов Геннадий Андреевич": 1,
-      "Медведев Дмитрий Анатольевич": 19
+      "gas:candidate-vibid:100100022245504": 0,
+      "gas:candidate-vibid:100100022247031": 0,
+      "gas:candidate-vibid:100100022247121": 1,
+      "gas:candidate-vibid:100100022248789": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11539,10 +11539,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 145,
-      "Зюганов Геннадий Андреевич": 209,
-      "Медведев Дмитрий Анатольевич": 1755
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 145,
+      "gas:candidate-vibid:100100022247121": 209,
+      "gas:candidate-vibid:100100022248789": 1755
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11589,10 +11589,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 13,
-      "Жириновский Владимир Вольфович": 75,
-      "Зюганов Геннадий Андреевич": 113,
-      "Медведев Дмитрий Анатольевич": 633
+      "gas:candidate-vibid:100100022245504": 13,
+      "gas:candidate-vibid:100100022247031": 75,
+      "gas:candidate-vibid:100100022247121": 113,
+      "gas:candidate-vibid:100100022248789": 633
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11639,10 +11639,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 26,
-      "Зюганов Геннадий Андреевич": 14,
-      "Медведев Дмитрий Анатольевич": 100
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 26,
+      "gas:candidate-vibid:100100022247121": 14,
+      "gas:candidate-vibid:100100022248789": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11689,10 +11689,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 64,
-      "Зюганов Геннадий Андреевич": 64,
-      "Медведев Дмитрий Анатольевич": 185
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 64,
+      "gas:candidate-vibid:100100022247121": 64,
+      "gas:candidate-vibid:100100022248789": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11739,10 +11739,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 28,
-      "Жириновский Владимир Вольфович": 151,
-      "Зюганов Геннадий Андреевич": 157,
-      "Медведев Дмитрий Анатольевич": 651
+      "gas:candidate-vibid:100100022245504": 28,
+      "gas:candidate-vibid:100100022247031": 151,
+      "gas:candidate-vibid:100100022247121": 157,
+      "gas:candidate-vibid:100100022248789": 651
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11789,10 +11789,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 25,
-      "Жириновский Владимир Вольфович": 186,
-      "Зюганов Геннадий Андреевич": 250,
-      "Медведев Дмитрий Анатольевич": 754
+      "gas:candidate-vibid:100100022245504": 25,
+      "gas:candidate-vibid:100100022247031": 186,
+      "gas:candidate-vibid:100100022247121": 250,
+      "gas:candidate-vibid:100100022248789": 754
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11839,10 +11839,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 25,
-      "Жириновский Владимир Вольфович": 62,
-      "Зюганов Геннадий Андреевич": 139,
-      "Медведев Дмитрий Анатольевич": 1421
+      "gas:candidate-vibid:100100022245504": 25,
+      "gas:candidate-vibid:100100022247031": 62,
+      "gas:candidate-vibid:100100022247121": 139,
+      "gas:candidate-vibid:100100022248789": 1421
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11889,10 +11889,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 20,
-      "Жириновский Владимир Вольфович": 68,
-      "Зюганов Геннадий Андреевич": 151,
-      "Медведев Дмитрий Анатольевич": 1162
+      "gas:candidate-vibid:100100022245504": 20,
+      "gas:candidate-vibid:100100022247031": 68,
+      "gas:candidate-vibid:100100022247121": 151,
+      "gas:candidate-vibid:100100022248789": 1162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11939,10 +11939,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 66,
-      "Зюганов Геннадий Андреевич": 75,
-      "Медведев Дмитрий Анатольевич": 956
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 66,
+      "gas:candidate-vibid:100100022247121": 75,
+      "gas:candidate-vibid:100100022248789": 956
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -11989,10 +11989,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 10,
-      "Жириновский Владимир Вольфович": 93,
-      "Зюганов Геннадий Андреевич": 98,
-      "Медведев Дмитрий Анатольевич": 340
+      "gas:candidate-vibid:100100022245504": 10,
+      "gas:candidate-vibid:100100022247031": 93,
+      "gas:candidate-vibid:100100022247121": 98,
+      "gas:candidate-vibid:100100022248789": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12039,10 +12039,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 4,
-      "Жириновский Владимир Вольфович": 45,
-      "Зюганов Геннадий Андреевич": 50,
-      "Медведев Дмитрий Анатольевич": 278
+      "gas:candidate-vibid:100100022245504": 4,
+      "gas:candidate-vibid:100100022247031": 45,
+      "gas:candidate-vibid:100100022247121": 50,
+      "gas:candidate-vibid:100100022248789": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12089,10 +12089,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 3,
-      "Жириновский Владимир Вольфович": 46,
-      "Зюганов Геннадий Андреевич": 42,
-      "Медведев Дмитрий Анатольевич": 207
+      "gas:candidate-vibid:100100022245504": 3,
+      "gas:candidate-vibid:100100022247031": 46,
+      "gas:candidate-vibid:100100022247121": 42,
+      "gas:candidate-vibid:100100022248789": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12139,10 +12139,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 24,
-      "Жириновский Владимир Вольфович": 207,
-      "Зюганов Геннадий Андреевич": 275,
-      "Медведев Дмитрий Анатольевич": 653
+      "gas:candidate-vibid:100100022245504": 24,
+      "gas:candidate-vibid:100100022247031": 207,
+      "gas:candidate-vibid:100100022247121": 275,
+      "gas:candidate-vibid:100100022248789": 653
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12189,10 +12189,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 34,
-      "Жириновский Владимир Вольфович": 201,
-      "Зюганов Геннадий Андреевич": 206,
-      "Медведев Дмитрий Анатольевич": 821
+      "gas:candidate-vibid:100100022245504": 34,
+      "gas:candidate-vibid:100100022247031": 201,
+      "gas:candidate-vibid:100100022247121": 206,
+      "gas:candidate-vibid:100100022248789": 821
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12239,10 +12239,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 23,
-      "Жириновский Владимир Вольфович": 256,
-      "Зюганов Геннадий Андреевич": 233,
-      "Медведев Дмитрий Анатольевич": 1012
+      "gas:candidate-vibid:100100022245504": 23,
+      "gas:candidate-vibid:100100022247031": 256,
+      "gas:candidate-vibid:100100022247121": 233,
+      "gas:candidate-vibid:100100022248789": 1012
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12289,10 +12289,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 14,
-      "Жириновский Владимир Вольфович": 151,
-      "Зюганов Геннадий Андреевич": 156,
-      "Медведев Дмитрий Анатольевич": 629
+      "gas:candidate-vibid:100100022245504": 14,
+      "gas:candidate-vibid:100100022247031": 151,
+      "gas:candidate-vibid:100100022247121": 156,
+      "gas:candidate-vibid:100100022248789": 629
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12339,10 +12339,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 116,
-      "Зюганов Геннадий Андреевич": 134,
-      "Медведев Дмитрий Анатольевич": 329
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 116,
+      "gas:candidate-vibid:100100022247121": 134,
+      "gas:candidate-vibid:100100022248789": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12389,10 +12389,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 44,
-      "Жириновский Владимир Вольфович": 237,
-      "Зюганов Геннадий Андреевич": 296,
-      "Медведев Дмитрий Анатольевич": 1254
+      "gas:candidate-vibid:100100022245504": 44,
+      "gas:candidate-vibid:100100022247031": 237,
+      "gas:candidate-vibid:100100022247121": 296,
+      "gas:candidate-vibid:100100022248789": 1254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12439,10 +12439,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 12,
-      "Жириновский Владимир Вольфович": 169,
-      "Зюганов Геннадий Андреевич": 224,
-      "Медведев Дмитрий Анатольевич": 687
+      "gas:candidate-vibid:100100022245504": 12,
+      "gas:candidate-vibid:100100022247031": 169,
+      "gas:candidate-vibid:100100022247121": 224,
+      "gas:candidate-vibid:100100022248789": 687
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",
@@ -12489,10 +12489,10 @@ export const president_2008_uik_226_region_25_part_003 = [
       "Число открепительных удостоверений, не учтенных при получении": 0
     },
     "votes": {
-      "Богданов Андрей Владимирович": 9,
-      "Жириновский Владимир Вольфович": 100,
-      "Зюганов Геннадий Андреевич": 57,
-      "Медведев Дмитрий Анатольевич": 495
+      "gas:candidate-vibid:100100022245504": 9,
+      "gas:candidate-vibid:100100022247031": 100,
+      "gas:candidate-vibid:100100022247121": 57,
+      "gas:candidate-vibid:100100022248789": 495
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000061&tvd=2252000196512&vrn=100100022176412&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000196512&type=227",

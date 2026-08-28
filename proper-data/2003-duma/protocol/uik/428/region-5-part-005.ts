@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 244,
-      "Омаров Магомед Омарович": 666,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 244,
+      "gas:candidate-vibid:305300370508": 666,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070563&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 103,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 201,
-      "Омаров Магомед Омарович": 569,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 103,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 201,
+      "gas:candidate-vibid:305300370508": 569,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000032&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070563&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 9,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 4,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 496,
-      "Омаров Магомед Омарович": 869,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 9,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 4,
+      "gas:candidate-vibid:305300371205": 496,
+      "gas:candidate-vibid:305300370508": 869,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 14,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 552,
-      "Омаров Магомед Омарович": 688,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190277": 14,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 552,
+      "gas:candidate-vibid:305300370508": 688,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 7,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 107,
-      "Омаров Магомед Омарович": 215,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190277": 7,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 107,
+      "gas:candidate-vibid:305300370508": 215,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 66,
-      "Омаров Магомед Омарович": 24,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 66,
+      "gas:candidate-vibid:305300370508": 24,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 17,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 21,
-      "Омаров Магомед Омарович": 57,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190277": 17,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 21,
+      "gas:candidate-vibid:305300370508": 57,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 57,
-      "Омаров Магомед Омарович": 101,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 57,
+      "gas:candidate-vibid:305300370508": 101,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 16,
-      "Магомедов Абдулкерим Шахбанкадиевич": 90,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 550,
-      "Омаров Магомед Омарович": 1032,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000190277": 16,
+      "gas:candidate-vibid:305300370502": 90,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 550,
+      "gas:candidate-vibid:305300370508": 1032,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 12,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 618,
-      "Омаров Магомед Омарович": 902,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 12,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 618,
+      "gas:candidate-vibid:305300370508": 902,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 28,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 618,
-      "Омаров Магомед Омарович": 937,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 28,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 618,
+      "gas:candidate-vibid:305300370508": 937,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 10,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 363,
-      "Омаров Магомед Омарович": 586,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190277": 10,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 363,
+      "gas:candidate-vibid:305300370508": 586,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 14,
-      "Магомедов Абдулкерим Шахбанкадиевич": 24,
-      "Мурсалов Камалдин Сейфутдинович": 11,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 595,
-      "Омаров Магомед Омарович": 371,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190277": 14,
+      "gas:candidate-vibid:305300370502": 24,
+      "gas:candidate-vibid:305300370662": 11,
+      "gas:candidate-vibid:305300371205": 595,
+      "gas:candidate-vibid:305300370508": 371,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 570,
-      "Омаров Магомед Омарович": 863,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 570,
+      "gas:candidate-vibid:305300370508": 863,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 6,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 377,
-      "Омаров Магомед Омарович": 661,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190277": 6,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 377,
+      "gas:candidate-vibid:305300370508": 661,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 4,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 320,
-      "Омаров Магомед Омарович": 514,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 4,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 320,
+      "gas:candidate-vibid:305300370508": 514,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 13,
-      "Магомедов Абдулкерим Шахбанкадиевич": 17,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 450,
-      "Омаров Магомед Омарович": 916,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 13,
+      "gas:candidate-vibid:305300370502": 17,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 450,
+      "gas:candidate-vibid:305300370508": 916,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 5,
-      "Магомедов Абдулкерим Шахбанкадиевич": 10,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 568,
-      "Омаров Магомед Омарович": 893,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 5,
+      "gas:candidate-vibid:305300370502": 10,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 568,
+      "gas:candidate-vibid:305300370508": 893,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 550,
-      "Омаров Магомед Омарович": 832,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 550,
+      "gas:candidate-vibid:305300370508": 832,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 8,
-      "Магомедов Абдулкерим Шахбанкадиевич": 7,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 607,
-      "Омаров Магомед Омарович": 1042,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190277": 8,
+      "gas:candidate-vibid:305300370502": 7,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 607,
+      "gas:candidate-vibid:305300370508": 1042,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 630,
-      "Омаров Магомед Омарович": 952,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 630,
+      "gas:candidate-vibid:305300370508": 952,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 750,
-      "Омаров Магомед Омарович": 1134,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 750,
+      "gas:candidate-vibid:305300370508": 1134,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 449,
-      "Омаров Магомед Омарович": 640,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 449,
+      "gas:candidate-vibid:305300370508": 640,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 269,
-      "Омаров Магомед Омарович": 124,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 269,
+      "gas:candidate-vibid:305300370508": 124,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 4,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 6,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 356,
-      "Омаров Магомед Омарович": 75,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190277": 4,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 6,
+      "gas:candidate-vibid:305300371205": 356,
+      "gas:candidate-vibid:305300370508": 75,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 111,
-      "Омаров Магомед Омарович": 160,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 111,
+      "gas:candidate-vibid:305300370508": 160,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000033&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070565&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 711,
-      "Омаров Магомед Омарович": 43,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 711,
+      "gas:candidate-vibid:305300370508": 43,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1705,
-      "Омаров Магомед Омарович": 69,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1705,
+      "gas:candidate-vibid:305300370508": 69,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 142,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 142,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 145,
-      "Омаров Магомед Омарович": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 145,
+      "gas:candidate-vibid:305300370508": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 302,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 302,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 308,
-      "Омаров Магомед Омарович": 6,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 308,
+      "gas:candidate-vibid:305300370508": 6,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 96,
-      "Омаров Магомед Омарович": 16,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 96,
+      "gas:candidate-vibid:305300370508": 16,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 173,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 173,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 98,
-      "Омаров Магомед Омарович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 98,
+      "gas:candidate-vibid:305300370508": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 472,
-      "Омаров Магомед Омарович": 30,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 472,
+      "gas:candidate-vibid:305300370508": 30,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 109,
-      "Омаров Магомед Омарович": 21,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 109,
+      "gas:candidate-vibid:305300370508": 21,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 124,
-      "Омаров Магомед Омарович": 44,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 124,
+      "gas:candidate-vibid:305300370508": 44,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 153,
-      "Омаров Магомед Омарович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 153,
+      "gas:candidate-vibid:305300370508": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 206,
-      "Омаров Магомед Омарович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 206,
+      "gas:candidate-vibid:305300370508": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 72,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 72,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 68,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 68,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 105,
-      "Омаров Магомед Омарович": 41,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 105,
+      "gas:candidate-vibid:305300370508": 41,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000034&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070567&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 549,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 549,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 339,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 339,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 6,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 20,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 6,
+      "gas:candidate-vibid:305300371205": 20,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 106,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 106,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 305,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 305,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 43,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 43,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 298,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 298,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 328,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 328,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 5,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 733,
-      "Омаров Магомед Омарович": 27,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 5,
+      "gas:candidate-vibid:305300371205": 733,
+      "gas:candidate-vibid:305300370508": 27,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 7,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 724,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 7,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 724,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 109,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 109,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 111,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 111,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 430,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 430,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 734,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 734,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 532,
-      "Омаров Магомед Омарович": 15,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 532,
+      "gas:candidate-vibid:305300370508": 15,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 296,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 296,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 5,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 64,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 5,
+      "gas:candidate-vibid:305300371205": 64,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 15,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 15,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 591,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 591,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 64,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 64,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 18,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 18,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 41,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 41,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 25,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 25,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 145,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 145,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 156,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 156,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 150,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 150,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 214,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 214,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 101,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 101,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 233,
-      "Омаров Магомед Омарович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 233,
+      "gas:candidate-vibid:305300370508": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 117,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 117,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 34,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 34,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000035&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070569&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 40,
-      "Омаров Магомед Омарович": 144,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 40,
+      "gas:candidate-vibid:305300370508": 144,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 140,
-      "Омаров Магомед Омарович": 45,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 140,
+      "gas:candidate-vibid:305300370508": 45,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 4,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 100,
-      "Омаров Магомед Омарович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 4,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 100,
+      "gas:candidate-vibid:305300370508": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 180,
-      "Омаров Магомед Омарович": 32,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 180,
+      "gas:candidate-vibid:305300370508": 32,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 66,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 66,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 221,
-      "Омаров Магомед Омарович": 21,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 221,
+      "gas:candidate-vibid:305300370508": 21,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 201,
-      "Омаров Магомед Омарович": 27,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 201,
+      "gas:candidate-vibid:305300370508": 27,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 420,
-      "Омаров Магомед Омарович": 45,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 420,
+      "gas:candidate-vibid:305300370508": 45,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 28,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 28,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 78,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 78,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 32,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 32,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 96,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 96,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 59,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 59,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 35,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 35,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 52,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 52,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 149,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 149,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 260,
-      "Омаров Магомед Омарович": 37,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 260,
+      "gas:candidate-vibid:305300370508": 37,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 257,
-      "Омаров Магомед Омарович": 22,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 257,
+      "gas:candidate-vibid:305300370508": 22,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 209,
-      "Омаров Магомед Омарович": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 209,
+      "gas:candidate-vibid:305300370508": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 90,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 90,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 137,
-      "Омаров Магомед Омарович": 23,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 137,
+      "gas:candidate-vibid:305300370508": 23,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 107,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 107,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 63,
-      "Омаров Магомед Омарович": 23,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 63,
+      "gas:candidate-vibid:305300370508": 23,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 108,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 108,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 22,
-      "Омаров Магомед Омарович": 13,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 22,
+      "gas:candidate-vibid:305300370508": 13,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 128,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 128,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 26,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 26,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1001,
-      "Омаров Магомед Омарович": 130,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1001,
+      "gas:candidate-vibid:305300370508": 130,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 80,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 80,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 160,
-      "Омаров Магомед Омарович": 19,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 160,
+      "gas:candidate-vibid:305300370508": 19,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 92,
-      "Омаров Магомед Омарович": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 92,
+      "gas:candidate-vibid:305300370508": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 191,
-      "Омаров Магомед Омарович": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 191,
+      "gas:candidate-vibid:305300370508": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 73,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 73,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 83,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 83,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 66,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 66,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000036&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070571&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 331,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 331,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1202,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1202,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 700,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 700,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 601,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 601,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 8,
-      "Магомедов Абдулкерим Шахбанкадиевич": 7,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 335,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190277": 8,
+      "gas:candidate-vibid:305300370502": 7,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 335,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1348,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1348,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1260,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1260,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1479,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1479,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1550,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1550,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1327,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1327,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 249,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 249,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1394,
-      "Омаров Магомед Омарович": 43,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1394,
+      "gas:candidate-vibid:305300370508": 43,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 2124,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 2124,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1200,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1200,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 39,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 3040,
-      "Омаров Магомед Омарович": 29,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 39,
+      "gas:candidate-vibid:305300371205": 3040,
+      "gas:candidate-vibid:305300370508": 29,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1000,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1000,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 2109,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 2109,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1937,
-      "Омаров Магомед Омарович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1937,
+      "gas:candidate-vibid:305300370508": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 268,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 268,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 360,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 360,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 581,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 581,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 5,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 985,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 5,
+      "gas:candidate-vibid:305300371205": 985,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 300,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 300,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1150,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1150,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1381,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1381,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1258,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1258,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 605,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 605,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 847,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 847,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1900,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1900,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1000,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1000,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 2187,
-      "Омаров Магомед Омарович": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 2187,
+      "gas:candidate-vibid:305300370508": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1106,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1106,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 330,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 330,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000037&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070573&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 652,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 652,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 351,
-      "Омаров Магомед Омарович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 351,
+      "gas:candidate-vibid:305300370508": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 152,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 152,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 180,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 180,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 650,
-      "Омаров Магомед Омарович": 40,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 650,
+      "gas:candidate-vibid:305300370508": 40,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 10,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 239,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 10,
+      "gas:candidate-vibid:305300371205": 239,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 9,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 554,
-      "Омаров Магомед Омарович": 69,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 9,
+      "gas:candidate-vibid:305300371205": 554,
+      "gas:candidate-vibid:305300370508": 69,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 7,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 503,
-      "Омаров Магомед Омарович": 30,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 7,
+      "gas:candidate-vibid:305300371205": 503,
+      "gas:candidate-vibid:305300370508": 30,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 28,
-      "Омаров Магомед Омарович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 28,
+      "gas:candidate-vibid:305300370508": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 116,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 116,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 370,
-      "Омаров Магомед Омарович": 28,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 370,
+      "gas:candidate-vibid:305300370508": 28,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 141,
-      "Омаров Магомед Омарович": 11,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 141,
+      "gas:candidate-vibid:305300370508": 11,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 168,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 168,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 10,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 248,
-      "Омаров Магомед Омарович": 27,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 10,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 248,
+      "gas:candidate-vibid:305300370508": 27,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 271,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 271,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 40,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 40,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 340,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 340,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 344,
-      "Омаров Магомед Омарович": 46,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 344,
+      "gas:candidate-vibid:305300370508": 46,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 194,
-      "Омаров Магомед Омарович": 22,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 194,
+      "gas:candidate-vibid:305300370508": 22,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 91,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 91,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 12,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 192,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190277": 12,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 192,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 60,
-      "Омаров Магомед Омарович": 16,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 60,
+      "gas:candidate-vibid:305300370508": 16,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 371,
-      "Омаров Магомед Омарович": 103,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 371,
+      "gas:candidate-vibid:305300370508": 103,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 544,
-      "Омаров Магомед Омарович": 17,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 544,
+      "gas:candidate-vibid:305300370508": 17,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 159,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 159,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 153,
-      "Омаров Магомед Омарович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 153,
+      "gas:candidate-vibid:305300370508": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 203,
-      "Омаров Магомед Омарович": 25,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 203,
+      "gas:candidate-vibid:305300370508": 25,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 202,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 202,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 156,
-      "Омаров Магомед Омарович": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 156,
+      "gas:candidate-vibid:305300370508": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 137,
-      "Омаров Магомед Омарович": 17,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 137,
+      "gas:candidate-vibid:305300370508": 17,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 64,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 64,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 7,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 164,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190277": 7,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 164,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 20,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 20,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 97,
-      "Омаров Магомед Омарович": 15,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 97,
+      "gas:candidate-vibid:305300370508": 15,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 39,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 39,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 114,
-      "Омаров Магомед Омарович": 33,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 114,
+      "gas:candidate-vibid:305300370508": 33,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 77,
-      "Омаров Магомед Омарович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 77,
+      "gas:candidate-vibid:305300370508": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 240,
-      "Омаров Магомед Омарович": 50,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 240,
+      "gas:candidate-vibid:305300370508": 50,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 79,
-      "Омаров Магомед Омарович": 36,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 79,
+      "gas:candidate-vibid:305300370508": 36,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 20,
-      "Омаров Магомед Омарович": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 20,
+      "gas:candidate-vibid:305300370508": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 85,
-      "Омаров Магомед Омарович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 85,
+      "gas:candidate-vibid:305300370508": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 62,
-      "Омаров Магомед Омарович": 18,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 62,
+      "gas:candidate-vibid:305300370508": 18,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 25,
-      "Омаров Магомед Омарович": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 25,
+      "gas:candidate-vibid:305300370508": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 333,
-      "Омаров Магомед Омарович": 50,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 333,
+      "gas:candidate-vibid:305300370508": 50,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 221,
-      "Омаров Магомед Омарович": 129,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 221,
+      "gas:candidate-vibid:305300370508": 129,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 163,
-      "Омаров Магомед Омарович": 22,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 163,
+      "gas:candidate-vibid:305300370508": 22,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 56,
-      "Омаров Магомед Омарович": 16,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 56,
+      "gas:candidate-vibid:305300370508": 16,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 101,
-      "Омаров Магомед Омарович": 48,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 101,
+      "gas:candidate-vibid:305300370508": 48,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 127,
-      "Омаров Магомед Омарович": 42,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 127,
+      "gas:candidate-vibid:305300370508": 42,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 100,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 100,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 200,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 200,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000038&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070575&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 668,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 668,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 18,
-      "Омаров Магомед Омарович": 566,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 18,
+      "gas:candidate-vibid:305300370508": 566,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 562,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 562,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 546,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 546,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 509,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 509,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 2,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1,
-      "Омаров Магомед Омарович": 472,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 2,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1,
+      "gas:candidate-vibid:305300370508": 472,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 646,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 646,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 175,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 175,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 357,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 357,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 9,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 971,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 9,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 971,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 39,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 745,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 39,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 745,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 304,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 304,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 441,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 441,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 417,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 417,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 442,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 442,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 344,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 344,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 408,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 408,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 340,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 340,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 481,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 481,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 447,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 447,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 3,
-      "Магомедов Абдулкерим Шахбанкадиевич": 4,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 549,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 3,
+      "gas:candidate-vibid:305300370502": 4,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 549,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 401,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 401,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 298,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 298,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 758,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 758,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 4,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 324,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 4,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 324,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 4,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 784,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 4,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 784,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 5,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 10,
-      "Омаров Магомед Омарович": 151,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190277": 5,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 10,
+      "gas:candidate-vibid:305300370508": 151,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 5,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 0,
-      "Омаров Магомед Омарович": 310,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 5,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 0,
+      "gas:candidate-vibid:305300370508": 310,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000039&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070577&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1597,
-      "Омаров Магомед Омарович": 40,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1597,
+      "gas:candidate-vibid:305300370508": 40,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 2211,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 2211,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 2296,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 2296,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1280,
-      "Омаров Магомед Омарович": 20,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1280,
+      "gas:candidate-vibid:305300370508": 20,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 5,
-      "Магомедов Абдулкерим Шахбанкадиевич": 7,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 484,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190277": 5,
+      "gas:candidate-vibid:305300370502": 7,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 484,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 8,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 310,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 8,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 310,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1477,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1477,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 19,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1672,
-      "Омаров Магомед Омарович": 9,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 19,
+      "gas:candidate-vibid:305300371205": 1672,
+      "gas:candidate-vibid:305300370508": 9,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1506,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1506,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 904,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 904,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 5,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1690,
-      "Омаров Магомед Омарович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 5,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 1690,
+      "gas:candidate-vibid:305300370508": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 768,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 768,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1882,
-      "Омаров Магомед Омарович": 57,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1882,
+      "gas:candidate-vibid:305300370508": 57,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 2036,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 2036,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 778,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 778,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1331,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1331,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 1018,
-      "Омаров Магомед Омарович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 1018,
+      "gas:candidate-vibid:305300370508": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 645,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 645,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 124,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 124,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 902,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 902,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 604,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 604,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 593,
-      "Омаров Магомед Омарович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 593,
+      "gas:candidate-vibid:305300370508": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 221,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 221,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 2,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 473,
-      "Омаров Магомед Омарович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 2,
+      "gas:candidate-vibid:305300371205": 473,
+      "gas:candidate-vibid:305300370508": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 2,
-      "Магомедов Абдулкерим Шахбанкадиевич": 3,
-      "Мурсалов Камалдин Сейфутдинович": 3,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 307,
-      "Омаров Магомед Омарович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190277": 2,
+      "gas:candidate-vibid:305300370502": 3,
+      "gas:candidate-vibid:305300370662": 3,
+      "gas:candidate-vibid:305300371205": 307,
+      "gas:candidate-vibid:305300370508": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 1,
-      "Мурсалов Камалдин Сейфутдинович": 1,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 162,
-      "Омаров Магомед Омарович": 8,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 1,
+      "gas:candidate-vibid:305300370662": 1,
+      "gas:candidate-vibid:305300371205": 162,
+      "gas:candidate-vibid:305300370508": 8,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 1,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 67,
-      "Омаров Магомед Омарович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190277": 1,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 67,
+      "gas:candidate-vibid:305300370508": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 107,
-      "Омаров Магомед Омарович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 107,
+      "gas:candidate-vibid:305300370508": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_5_part_005 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Багомаев Абдулмеджид Алиевич": 0,
-      "Магомедов Абдулкерим Шахбанкадиевич": 0,
-      "Мурсалов Камалдин Сейфутдинович": 0,
-      "Нюдюрбегов Асанбуба Нюдюрбегович": 325,
-      "Омаров Магомед Омарович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190277": 0,
+      "gas:candidate-vibid:305300370502": 0,
+      "gas:candidate-vibid:305300370662": 0,
+      "gas:candidate-vibid:305300371205": 325,
+      "gas:candidate-vibid:305300370508": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=52000040&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=205200070579&region=0&sub_region=0&type=429",

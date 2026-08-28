@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 130,
-      "Ильин Петр Григорьевич": 55,
-      "Карахалин Константин Владимирович": 66,
-      "Лесневская Ольга Васильевна": 70,
-      "Локоть Анатолий Евгеньевич": 319,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 106,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000193915": 130,
+      "gas:candidate-vibid:1001000136091": 55,
+      "gas:candidate-vibid:1001000188015": 66,
+      "gas:candidate-vibid:1001000254942": 70,
+      "gas:candidate-vibid:1001000121881": 319,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 106,
+      "special:official-result-label:126": 17,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 155,
-      "Ильин Петр Григорьевич": 56,
-      "Карахалин Константин Владимирович": 110,
-      "Лесневская Ольга Васильевна": 76,
-      "Локоть Анатолий Евгеньевич": 369,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 121,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000193915": 155,
+      "gas:candidate-vibid:1001000136091": 56,
+      "gas:candidate-vibid:1001000188015": 110,
+      "gas:candidate-vibid:1001000254942": 76,
+      "gas:candidate-vibid:1001000121881": 369,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 121,
+      "special:official-result-label:126": 29,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 176,
-      "Ильин Петр Григорьевич": 68,
-      "Карахалин Константин Владимирович": 97,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 356,
-      "Остролуцкий Виктор Семенович": 25,
-      "Фомин Александр Анатольевич": 130,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000193915": 176,
+      "gas:candidate-vibid:1001000136091": 68,
+      "gas:candidate-vibid:1001000188015": 97,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 356,
+      "gas:candidate-vibid:1001000202322": 25,
+      "gas:candidate-vibid:1001000212405": 130,
+      "special:official-result-label:126": 26,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 171,
-      "Ильин Петр Григорьевич": 96,
-      "Карахалин Константин Владимирович": 77,
-      "Лесневская Ольга Васильевна": 95,
-      "Локоть Анатолий Евгеньевич": 431,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 147,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000193915": 171,
+      "gas:candidate-vibid:1001000136091": 96,
+      "gas:candidate-vibid:1001000188015": 77,
+      "gas:candidate-vibid:1001000254942": 95,
+      "gas:candidate-vibid:1001000121881": 431,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 147,
+      "special:official-result-label:126": 25,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 98,
-      "Ильин Петр Григорьевич": 41,
-      "Карахалин Константин Владимирович": 32,
-      "Лесневская Ольга Васильевна": 33,
-      "Локоть Анатолий Евгеньевич": 215,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 67,
-      "Шадт Александр Евгеньевич": 9,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000193915": 98,
+      "gas:candidate-vibid:1001000136091": 41,
+      "gas:candidate-vibid:1001000188015": 32,
+      "gas:candidate-vibid:1001000254942": 33,
+      "gas:candidate-vibid:1001000121881": 215,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 67,
+      "special:official-result-label:126": 9,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 141,
-      "Ильин Петр Григорьевич": 56,
-      "Карахалин Константин Владимирович": 56,
-      "Лесневская Ольга Васильевна": 44,
-      "Локоть Анатолий Евгеньевич": 228,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 89,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000193915": 141,
+      "gas:candidate-vibid:1001000136091": 56,
+      "gas:candidate-vibid:1001000188015": 56,
+      "gas:candidate-vibid:1001000254942": 44,
+      "gas:candidate-vibid:1001000121881": 228,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 89,
+      "special:official-result-label:126": 19,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 205,
-      "Ильин Петр Григорьевич": 88,
-      "Карахалин Константин Владимирович": 106,
-      "Лесневская Ольга Васильевна": 46,
-      "Локоть Анатолий Евгеньевич": 356,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 127,
-      "Шадт Александр Евгеньевич": 20,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000193915": 205,
+      "gas:candidate-vibid:1001000136091": 88,
+      "gas:candidate-vibid:1001000188015": 106,
+      "gas:candidate-vibid:1001000254942": 46,
+      "gas:candidate-vibid:1001000121881": 356,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 127,
+      "special:official-result-label:126": 20,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 181,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 76,
-      "Лесневская Ольга Васильевна": 53,
-      "Локоть Анатолий Евгеньевич": 305,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 90,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000193915": 181,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 76,
+      "gas:candidate-vibid:1001000254942": 53,
+      "gas:candidate-vibid:1001000121881": 305,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 90,
+      "special:official-result-label:126": 17,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 145,
-      "Ильин Петр Григорьевич": 67,
-      "Карахалин Константин Владимирович": 115,
-      "Лесневская Ольга Васильевна": 55,
-      "Локоть Анатолий Евгеньевич": 291,
-      "Остролуцкий Виктор Семенович": 21,
-      "Фомин Александр Анатольевич": 126,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000193915": 145,
+      "gas:candidate-vibid:1001000136091": 67,
+      "gas:candidate-vibid:1001000188015": 115,
+      "gas:candidate-vibid:1001000254942": 55,
+      "gas:candidate-vibid:1001000121881": 291,
+      "gas:candidate-vibid:1001000202322": 21,
+      "gas:candidate-vibid:1001000212405": 126,
+      "special:official-result-label:126": 21,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 112,
-      "Ильин Петр Григорьевич": 50,
-      "Карахалин Константин Владимирович": 86,
-      "Лесневская Ольга Васильевна": 64,
-      "Локоть Анатолий Евгеньевич": 301,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 130,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000193915": 112,
+      "gas:candidate-vibid:1001000136091": 50,
+      "gas:candidate-vibid:1001000188015": 86,
+      "gas:candidate-vibid:1001000254942": 64,
+      "gas:candidate-vibid:1001000121881": 301,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 130,
+      "special:official-result-label:126": 23,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 241,
-      "Ильин Петр Григорьевич": 63,
-      "Карахалин Константин Владимирович": 86,
-      "Лесневская Ольга Васильевна": 71,
-      "Локоть Анатолий Евгеньевич": 270,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 127,
-      "Шадт Александр Евгеньевич": 24,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000193915": 241,
+      "gas:candidate-vibid:1001000136091": 63,
+      "gas:candidate-vibid:1001000188015": 86,
+      "gas:candidate-vibid:1001000254942": 71,
+      "gas:candidate-vibid:1001000121881": 270,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 127,
+      "special:official-result-label:126": 24,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 161,
-      "Ильин Петр Григорьевич": 73,
-      "Карахалин Константин Владимирович": 86,
-      "Лесневская Ольга Васильевна": 60,
-      "Локоть Анатолий Евгеньевич": 296,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 122,
-      "Шадт Александр Евгеньевич": 13,
-      "Против всех": 342
+      "gas:candidate-vibid:1001000193915": 161,
+      "gas:candidate-vibid:1001000136091": 73,
+      "gas:candidate-vibid:1001000188015": 86,
+      "gas:candidate-vibid:1001000254942": 60,
+      "gas:candidate-vibid:1001000121881": 296,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 122,
+      "special:official-result-label:126": 13,
+      "special:against-all": 342
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 174,
-      "Ильин Петр Григорьевич": 72,
-      "Карахалин Константин Владимирович": 76,
-      "Лесневская Ольга Васильевна": 57,
-      "Локоть Анатолий Евгеньевич": 227,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 95,
-      "Шадт Александр Евгеньевич": 16,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000193915": 174,
+      "gas:candidate-vibid:1001000136091": 72,
+      "gas:candidate-vibid:1001000188015": 76,
+      "gas:candidate-vibid:1001000254942": 57,
+      "gas:candidate-vibid:1001000121881": 227,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 95,
+      "special:official-result-label:126": 16,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 162,
-      "Ильин Петр Григорьевич": 32,
-      "Карахалин Константин Владимирович": 80,
-      "Лесневская Ольга Васильевна": 30,
-      "Локоть Анатолий Евгеньевич": 299,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 61,
-      "Шадт Александр Евгеньевич": 12,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000193915": 162,
+      "gas:candidate-vibid:1001000136091": 32,
+      "gas:candidate-vibid:1001000188015": 80,
+      "gas:candidate-vibid:1001000254942": 30,
+      "gas:candidate-vibid:1001000121881": 299,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 61,
+      "special:official-result-label:126": 12,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 7,
-      "Ильин Петр Григорьевич": 2,
-      "Карахалин Константин Владимирович": 1,
-      "Лесневская Ольга Васильевна": 6,
-      "Локоть Анатолий Евгеньевич": 6,
-      "Остролуцкий Виктор Семенович": 1,
-      "Фомин Александр Анатольевич": 10,
-      "Шадт Александр Евгеньевич": 1,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000193915": 7,
+      "gas:candidate-vibid:1001000136091": 2,
+      "gas:candidate-vibid:1001000188015": 1,
+      "gas:candidate-vibid:1001000254942": 6,
+      "gas:candidate-vibid:1001000121881": 6,
+      "gas:candidate-vibid:1001000202322": 1,
+      "gas:candidate-vibid:1001000212405": 10,
+      "special:official-result-label:126": 1,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 194,
-      "Ильин Петр Григорьевич": 83,
-      "Карахалин Константин Владимирович": 71,
-      "Лесневская Ольга Васильевна": 47,
-      "Локоть Анатолий Евгеньевич": 280,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 92,
-      "Шадт Александр Евгеньевич": 12,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000193915": 194,
+      "gas:candidate-vibid:1001000136091": 83,
+      "gas:candidate-vibid:1001000188015": 71,
+      "gas:candidate-vibid:1001000254942": 47,
+      "gas:candidate-vibid:1001000121881": 280,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 92,
+      "special:official-result-label:126": 12,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 125,
-      "Ильин Петр Григорьевич": 61,
-      "Карахалин Константин Владимирович": 64,
-      "Лесневская Ольга Васильевна": 64,
-      "Локоть Анатолий Евгеньевич": 265,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 90,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000193915": 125,
+      "gas:candidate-vibid:1001000136091": 61,
+      "gas:candidate-vibid:1001000188015": 64,
+      "gas:candidate-vibid:1001000254942": 64,
+      "gas:candidate-vibid:1001000121881": 265,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 90,
+      "special:official-result-label:126": 22,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 114,
-      "Ильин Петр Григорьевич": 53,
-      "Карахалин Константин Владимирович": 64,
-      "Лесневская Ольга Васильевна": 56,
-      "Локоть Анатолий Евгеньевич": 346,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 64,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000193915": 114,
+      "gas:candidate-vibid:1001000136091": 53,
+      "gas:candidate-vibid:1001000188015": 64,
+      "gas:candidate-vibid:1001000254942": 56,
+      "gas:candidate-vibid:1001000121881": 346,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 64,
+      "special:official-result-label:126": 14,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 109,
-      "Ильин Петр Григорьевич": 42,
-      "Карахалин Константин Владимирович": 39,
-      "Лесневская Ольга Васильевна": 39,
-      "Локоть Анатолий Евгеньевич": 209,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 60,
-      "Шадт Александр Евгеньевич": 12,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000193915": 109,
+      "gas:candidate-vibid:1001000136091": 42,
+      "gas:candidate-vibid:1001000188015": 39,
+      "gas:candidate-vibid:1001000254942": 39,
+      "gas:candidate-vibid:1001000121881": 209,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 60,
+      "special:official-result-label:126": 12,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 179,
-      "Ильин Петр Григорьевич": 72,
-      "Карахалин Константин Владимирович": 67,
-      "Лесневская Ольга Васильевна": 77,
-      "Локоть Анатолий Евгеньевич": 323,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 78,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000193915": 179,
+      "gas:candidate-vibid:1001000136091": 72,
+      "gas:candidate-vibid:1001000188015": 67,
+      "gas:candidate-vibid:1001000254942": 77,
+      "gas:candidate-vibid:1001000121881": 323,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 78,
+      "special:official-result-label:126": 19,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 184,
-      "Ильин Петр Григорьевич": 77,
-      "Карахалин Константин Владимирович": 79,
-      "Лесневская Ольга Васильевна": 54,
-      "Локоть Анатолий Евгеньевич": 305,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 106,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000193915": 184,
+      "gas:candidate-vibid:1001000136091": 77,
+      "gas:candidate-vibid:1001000188015": 79,
+      "gas:candidate-vibid:1001000254942": 54,
+      "gas:candidate-vibid:1001000121881": 305,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 106,
+      "special:official-result-label:126": 25,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 182,
-      "Ильин Петр Григорьевич": 79,
-      "Карахалин Константин Владимирович": 84,
-      "Лесневская Ольга Васильевна": 73,
-      "Локоть Анатолий Евгеньевич": 259,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 105,
-      "Шадт Александр Евгеньевич": 20,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000193915": 182,
+      "gas:candidate-vibid:1001000136091": 79,
+      "gas:candidate-vibid:1001000188015": 84,
+      "gas:candidate-vibid:1001000254942": 73,
+      "gas:candidate-vibid:1001000121881": 259,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 105,
+      "special:official-result-label:126": 20,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 161,
-      "Ильин Петр Григорьевич": 52,
-      "Карахалин Константин Владимирович": 78,
-      "Лесневская Ольга Васильевна": 51,
-      "Локоть Анатолий Евгеньевич": 329,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 94,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000193915": 161,
+      "gas:candidate-vibid:1001000136091": 52,
+      "gas:candidate-vibid:1001000188015": 78,
+      "gas:candidate-vibid:1001000254942": 51,
+      "gas:candidate-vibid:1001000121881": 329,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 94,
+      "special:official-result-label:126": 18,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 192,
-      "Ильин Петр Григорьевич": 67,
-      "Карахалин Константин Владимирович": 73,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 278,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 109,
-      "Шадт Александр Евгеньевич": 20,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000193915": 192,
+      "gas:candidate-vibid:1001000136091": 67,
+      "gas:candidate-vibid:1001000188015": 73,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 278,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 109,
+      "special:official-result-label:126": 20,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 236,
-      "Ильин Петр Григорьевич": 77,
-      "Карахалин Константин Владимирович": 94,
-      "Лесневская Ольга Васильевна": 54,
-      "Локоть Анатолий Евгеньевич": 287,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 88,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000193915": 236,
+      "gas:candidate-vibid:1001000136091": 77,
+      "gas:candidate-vibid:1001000188015": 94,
+      "gas:candidate-vibid:1001000254942": 54,
+      "gas:candidate-vibid:1001000121881": 287,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 88,
+      "special:official-result-label:126": 26,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 128,
-      "Ильин Петр Григорьевич": 54,
-      "Карахалин Константин Владимирович": 57,
-      "Лесневская Ольга Васильевна": 75,
-      "Локоть Анатолий Евгеньевич": 304,
-      "Остролуцкий Виктор Семенович": 18,
-      "Фомин Александр Анатольевич": 78,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000193915": 128,
+      "gas:candidate-vibid:1001000136091": 54,
+      "gas:candidate-vibid:1001000188015": 57,
+      "gas:candidate-vibid:1001000254942": 75,
+      "gas:candidate-vibid:1001000121881": 304,
+      "gas:candidate-vibid:1001000202322": 18,
+      "gas:candidate-vibid:1001000212405": 78,
+      "special:official-result-label:126": 21,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 125,
-      "Ильин Петр Григорьевич": 78,
-      "Карахалин Константин Владимирович": 80,
-      "Лесневская Ольга Васильевна": 53,
-      "Локоть Анатолий Евгеньевич": 313,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 85,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000193915": 125,
+      "gas:candidate-vibid:1001000136091": 78,
+      "gas:candidate-vibid:1001000188015": 80,
+      "gas:candidate-vibid:1001000254942": 53,
+      "gas:candidate-vibid:1001000121881": 313,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 85,
+      "special:official-result-label:126": 25,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367102&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 108,
-      "Ильин Петр Григорьевич": 54,
-      "Карахалин Константин Владимирович": 86,
-      "Лесневская Ольга Васильевна": 64,
-      "Локоть Анатолий Евгеньевич": 262,
-      "Остролуцкий Виктор Семенович": 5,
-      "Фомин Александр Анатольевич": 131,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000193915": 108,
+      "gas:candidate-vibid:1001000136091": 54,
+      "gas:candidate-vibid:1001000188015": 86,
+      "gas:candidate-vibid:1001000254942": 64,
+      "gas:candidate-vibid:1001000121881": 262,
+      "gas:candidate-vibid:1001000202322": 5,
+      "gas:candidate-vibid:1001000212405": 131,
+      "special:official-result-label:126": 18,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 235,
-      "Ильин Петр Григорьевич": 69,
-      "Карахалин Константин Владимирович": 136,
-      "Лесневская Ольга Васильевна": 103,
-      "Локоть Анатолий Евгеньевич": 379,
-      "Остролуцкий Виктор Семенович": 18,
-      "Фомин Александр Анатольевич": 255,
-      "Шадт Александр Евгеньевич": 35,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000193915": 235,
+      "gas:candidate-vibid:1001000136091": 69,
+      "gas:candidate-vibid:1001000188015": 136,
+      "gas:candidate-vibid:1001000254942": 103,
+      "gas:candidate-vibid:1001000121881": 379,
+      "gas:candidate-vibid:1001000202322": 18,
+      "gas:candidate-vibid:1001000212405": 255,
+      "special:official-result-label:126": 35,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 255,
-      "Ильин Петр Григорьевич": 38,
-      "Карахалин Константин Владимирович": 140,
-      "Лесневская Ольга Васильевна": 58,
-      "Локоть Анатолий Евгеньевич": 474,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 354,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000193915": 255,
+      "gas:candidate-vibid:1001000136091": 38,
+      "gas:candidate-vibid:1001000188015": 140,
+      "gas:candidate-vibid:1001000254942": 58,
+      "gas:candidate-vibid:1001000121881": 474,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 354,
+      "special:official-result-label:126": 31,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 155,
-      "Ильин Петр Григорьевич": 36,
-      "Карахалин Константин Владимирович": 95,
-      "Лесневская Ольга Васильевна": 59,
-      "Локоть Анатолий Евгеньевич": 299,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 258,
-      "Шадт Александр Евгеньевич": 16,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000193915": 155,
+      "gas:candidate-vibid:1001000136091": 36,
+      "gas:candidate-vibid:1001000188015": 95,
+      "gas:candidate-vibid:1001000254942": 59,
+      "gas:candidate-vibid:1001000121881": 299,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 258,
+      "special:official-result-label:126": 16,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 155,
-      "Ильин Петр Григорьевич": 67,
-      "Карахалин Константин Владимирович": 117,
-      "Лесневская Ольга Васильевна": 68,
-      "Локоть Анатолий Евгеньевич": 350,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 220,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000193915": 155,
+      "gas:candidate-vibid:1001000136091": 67,
+      "gas:candidate-vibid:1001000188015": 117,
+      "gas:candidate-vibid:1001000254942": 68,
+      "gas:candidate-vibid:1001000121881": 350,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 220,
+      "special:official-result-label:126": 19,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 217,
-      "Ильин Петр Григорьевич": 43,
-      "Карахалин Константин Владимирович": 149,
-      "Лесневская Ольга Васильевна": 77,
-      "Локоть Анатолий Евгеньевич": 406,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 243,
-      "Шадт Александр Евгеньевич": 38,
-      "Против всех": 380
+      "gas:candidate-vibid:1001000193915": 217,
+      "gas:candidate-vibid:1001000136091": 43,
+      "gas:candidate-vibid:1001000188015": 149,
+      "gas:candidate-vibid:1001000254942": 77,
+      "gas:candidate-vibid:1001000121881": 406,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 243,
+      "special:official-result-label:126": 38,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 167,
-      "Ильин Петр Григорьевич": 36,
-      "Карахалин Константин Владимирович": 115,
-      "Лесневская Ольга Васильевна": 73,
-      "Локоть Анатолий Евгеньевич": 295,
-      "Остролуцкий Виктор Семенович": 20,
-      "Фомин Александр Анатольевич": 177,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000193915": 167,
+      "gas:candidate-vibid:1001000136091": 36,
+      "gas:candidate-vibid:1001000188015": 115,
+      "gas:candidate-vibid:1001000254942": 73,
+      "gas:candidate-vibid:1001000121881": 295,
+      "gas:candidate-vibid:1001000202322": 20,
+      "gas:candidate-vibid:1001000212405": 177,
+      "special:official-result-label:126": 21,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 136,
-      "Ильин Петр Григорьевич": 53,
-      "Карахалин Константин Владимирович": 85,
-      "Лесневская Ольга Васильевна": 50,
-      "Локоть Анатолий Евгеньевич": 265,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 148,
-      "Шадт Александр Евгеньевич": 11,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000193915": 136,
+      "gas:candidate-vibid:1001000136091": 53,
+      "gas:candidate-vibid:1001000188015": 85,
+      "gas:candidate-vibid:1001000254942": 50,
+      "gas:candidate-vibid:1001000121881": 265,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 148,
+      "special:official-result-label:126": 11,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 177,
-      "Ильин Петр Григорьевич": 62,
-      "Карахалин Константин Владимирович": 106,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 349,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 211,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 265
+      "gas:candidate-vibid:1001000193915": 177,
+      "gas:candidate-vibid:1001000136091": 62,
+      "gas:candidate-vibid:1001000188015": 106,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 349,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 211,
+      "special:official-result-label:126": 31,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 256,
-      "Ильин Петр Григорьевич": 73,
-      "Карахалин Константин Владимирович": 180,
-      "Лесневская Ольга Васильевна": 101,
-      "Локоть Анатолий Евгеньевич": 406,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 239,
-      "Шадт Александр Евгеньевич": 37,
-      "Против всех": 339
+      "gas:candidate-vibid:1001000193915": 256,
+      "gas:candidate-vibid:1001000136091": 73,
+      "gas:candidate-vibid:1001000188015": 180,
+      "gas:candidate-vibid:1001000254942": 101,
+      "gas:candidate-vibid:1001000121881": 406,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 239,
+      "special:official-result-label:126": 37,
+      "special:against-all": 339
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 238,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 196,
-      "Лесневская Ольга Васильевна": 121,
-      "Локоть Анатолий Евгеньевич": 427,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 173,
-      "Шадт Александр Евгеньевич": 35,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000193915": 238,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 196,
+      "gas:candidate-vibid:1001000254942": 121,
+      "gas:candidate-vibid:1001000121881": 427,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 173,
+      "special:official-result-label:126": 35,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 179,
-      "Ильин Петр Григорьевич": 52,
-      "Карахалин Константин Владимирович": 140,
-      "Лесневская Ольга Васильевна": 85,
-      "Локоть Анатолий Евгеньевич": 425,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 244,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000193915": 179,
+      "gas:candidate-vibid:1001000136091": 52,
+      "gas:candidate-vibid:1001000188015": 140,
+      "gas:candidate-vibid:1001000254942": 85,
+      "gas:candidate-vibid:1001000121881": 425,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 244,
+      "special:official-result-label:126": 29,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 237,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 108,
-      "Лесневская Ольга Васильевна": 98,
-      "Локоть Анатолий Евгеньевич": 375,
-      "Остролуцкий Виктор Семенович": 21,
-      "Фомин Александр Анатольевич": 191,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 395
+      "gas:candidate-vibid:1001000193915": 237,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 108,
+      "gas:candidate-vibid:1001000254942": 98,
+      "gas:candidate-vibid:1001000121881": 375,
+      "gas:candidate-vibid:1001000202322": 21,
+      "gas:candidate-vibid:1001000212405": 191,
+      "special:official-result-label:126": 29,
+      "special:against-all": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 143,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 85,
-      "Лесневская Ольга Васильевна": 41,
-      "Локоть Анатолий Евгеньевич": 261,
-      "Остролуцкий Виктор Семенович": 5,
-      "Фомин Александр Анатольевич": 115,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000193915": 143,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 85,
+      "gas:candidate-vibid:1001000254942": 41,
+      "gas:candidate-vibid:1001000121881": 261,
+      "gas:candidate-vibid:1001000202322": 5,
+      "gas:candidate-vibid:1001000212405": 115,
+      "special:official-result-label:126": 18,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 191,
-      "Ильин Петр Григорьевич": 75,
-      "Карахалин Константин Владимирович": 127,
-      "Лесневская Ольга Васильевна": 81,
-      "Локоть Анатолий Евгеньевич": 403,
-      "Остролуцкий Виктор Семенович": 23,
-      "Фомин Александр Анатольевич": 206,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 392
+      "gas:candidate-vibid:1001000193915": 191,
+      "gas:candidate-vibid:1001000136091": 75,
+      "gas:candidate-vibid:1001000188015": 127,
+      "gas:candidate-vibid:1001000254942": 81,
+      "gas:candidate-vibid:1001000121881": 403,
+      "gas:candidate-vibid:1001000202322": 23,
+      "gas:candidate-vibid:1001000212405": 206,
+      "special:official-result-label:126": 27,
+      "special:against-all": 392
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 199,
-      "Ильин Петр Григорьевич": 69,
-      "Карахалин Константин Владимирович": 144,
-      "Лесневская Ольга Васильевна": 80,
-      "Локоть Анатолий Евгеньевич": 326,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 274,
-      "Шадт Александр Евгеньевич": 32,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000193915": 199,
+      "gas:candidate-vibid:1001000136091": 69,
+      "gas:candidate-vibid:1001000188015": 144,
+      "gas:candidate-vibid:1001000254942": 80,
+      "gas:candidate-vibid:1001000121881": 326,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 274,
+      "special:official-result-label:126": 32,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 209,
-      "Ильин Петр Григорьевич": 64,
-      "Карахалин Константин Владимирович": 155,
-      "Лесневская Ольга Васильевна": 86,
-      "Локоть Анатолий Евгеньевич": 419,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 218,
-      "Шадт Александр Евгеньевич": 43,
-      "Против всех": 388
+      "gas:candidate-vibid:1001000193915": 209,
+      "gas:candidate-vibid:1001000136091": 64,
+      "gas:candidate-vibid:1001000188015": 155,
+      "gas:candidate-vibid:1001000254942": 86,
+      "gas:candidate-vibid:1001000121881": 419,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 218,
+      "special:official-result-label:126": 43,
+      "special:against-all": 388
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 13
     },
     "votes": {
-      "Игнатов Виктор Александрович": 286,
-      "Ильин Петр Григорьевич": 68,
-      "Карахалин Константин Владимирович": 232,
-      "Лесневская Ольга Васильевна": 87,
-      "Локоть Анатолий Евгеньевич": 390,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 259,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 386
+      "gas:candidate-vibid:1001000193915": 286,
+      "gas:candidate-vibid:1001000136091": 68,
+      "gas:candidate-vibid:1001000188015": 232,
+      "gas:candidate-vibid:1001000254942": 87,
+      "gas:candidate-vibid:1001000121881": 390,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 259,
+      "special:official-result-label:126": 27,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 161,
-      "Ильин Петр Григорьевич": 58,
-      "Карахалин Константин Владимирович": 84,
-      "Лесневская Ольга Васильевна": 113,
-      "Локоть Анатолий Евгеньевич": 302,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 164,
-      "Шадт Александр Евгеньевич": 28,
-      "Против всех": 372
+      "gas:candidate-vibid:1001000193915": 161,
+      "gas:candidate-vibid:1001000136091": 58,
+      "gas:candidate-vibid:1001000188015": 84,
+      "gas:candidate-vibid:1001000254942": 113,
+      "gas:candidate-vibid:1001000121881": 302,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 164,
+      "special:official-result-label:126": 28,
+      "special:against-all": 372
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 153,
-      "Ильин Петр Григорьевич": 96,
-      "Карахалин Константин Владимирович": 73,
-      "Лесневская Ольга Васильевна": 65,
-      "Локоть Анатолий Евгеньевич": 339,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 114,
-      "Шадт Александр Евгеньевич": 15,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000193915": 153,
+      "gas:candidate-vibid:1001000136091": 96,
+      "gas:candidate-vibid:1001000188015": 73,
+      "gas:candidate-vibid:1001000254942": 65,
+      "gas:candidate-vibid:1001000121881": 339,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 114,
+      "special:official-result-label:126": 15,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 187,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 114,
-      "Лесневская Ольга Васильевна": 69,
-      "Локоть Анатолий Евгеньевич": 264,
-      "Остролуцкий Виктор Семенович": 21,
-      "Фомин Александр Анатольевич": 182,
-      "Шадт Александр Евгеньевич": 41,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000193915": 187,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 114,
+      "gas:candidate-vibid:1001000254942": 69,
+      "gas:candidate-vibid:1001000121881": 264,
+      "gas:candidate-vibid:1001000202322": 21,
+      "gas:candidate-vibid:1001000212405": 182,
+      "special:official-result-label:126": 41,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367103&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 185,
-      "Ильин Петр Григорьевич": 74,
-      "Карахалин Константин Владимирович": 100,
-      "Лесневская Ольга Васильевна": 79,
-      "Локоть Анатолий Евгеньевич": 185,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 165,
-      "Шадт Александр Евгеньевич": 33,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000193915": 185,
+      "gas:candidate-vibid:1001000136091": 74,
+      "gas:candidate-vibid:1001000188015": 100,
+      "gas:candidate-vibid:1001000254942": 79,
+      "gas:candidate-vibid:1001000121881": 185,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 165,
+      "special:official-result-label:126": 33,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 204,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 92,
-      "Лесневская Ольга Васильевна": 90,
-      "Локоть Анатолий Евгеньевич": 213,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 159,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000193915": 204,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 92,
+      "gas:candidate-vibid:1001000254942": 90,
+      "gas:candidate-vibid:1001000121881": 213,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 159,
+      "special:official-result-label:126": 26,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 242,
-      "Ильин Петр Григорьевич": 95,
-      "Карахалин Константин Владимирович": 156,
-      "Лесневская Ольга Васильевна": 98,
-      "Локоть Анатолий Евгеньевич": 360,
-      "Остролуцкий Виктор Семенович": 18,
-      "Фомин Александр Анатольевич": 210,
-      "Шадт Александр Евгеньевич": 39,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000193915": 242,
+      "gas:candidate-vibid:1001000136091": 95,
+      "gas:candidate-vibid:1001000188015": 156,
+      "gas:candidate-vibid:1001000254942": 98,
+      "gas:candidate-vibid:1001000121881": 360,
+      "gas:candidate-vibid:1001000202322": 18,
+      "gas:candidate-vibid:1001000212405": 210,
+      "special:official-result-label:126": 39,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 141,
-      "Ильин Петр Григорьевич": 46,
-      "Карахалин Константин Владимирович": 98,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 245,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 153,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000193915": 141,
+      "gas:candidate-vibid:1001000136091": 46,
+      "gas:candidate-vibid:1001000188015": 98,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 245,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 153,
+      "special:official-result-label:126": 23,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 130,
-      "Ильин Петр Григорьевич": 24,
-      "Карахалин Константин Владимирович": 75,
-      "Лесневская Ольга Васильевна": 42,
-      "Локоть Анатолий Евгеньевич": 170,
-      "Остролуцкий Виктор Семенович": 5,
-      "Фомин Александр Анатольевич": 92,
-      "Шадт Александр Евгеньевич": 8,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000193915": 130,
+      "gas:candidate-vibid:1001000136091": 24,
+      "gas:candidate-vibid:1001000188015": 75,
+      "gas:candidate-vibid:1001000254942": 42,
+      "gas:candidate-vibid:1001000121881": 170,
+      "gas:candidate-vibid:1001000202322": 5,
+      "gas:candidate-vibid:1001000212405": 92,
+      "special:official-result-label:126": 8,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 162,
-      "Ильин Петр Григорьевич": 38,
-      "Карахалин Константин Владимирович": 113,
-      "Лесневская Ольга Васильевна": 58,
-      "Локоть Анатолий Евгеньевич": 257,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 135,
-      "Шадт Александр Евгеньевич": 32,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000193915": 162,
+      "gas:candidate-vibid:1001000136091": 38,
+      "gas:candidate-vibid:1001000188015": 113,
+      "gas:candidate-vibid:1001000254942": 58,
+      "gas:candidate-vibid:1001000121881": 257,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 135,
+      "special:official-result-label:126": 32,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 162,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 115,
-      "Лесневская Ольга Васильевна": 68,
-      "Локоть Анатолий Евгеньевич": 263,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 121,
-      "Шадт Александр Евгеньевич": 24,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000193915": 162,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 115,
+      "gas:candidate-vibid:1001000254942": 68,
+      "gas:candidate-vibid:1001000121881": 263,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 121,
+      "special:official-result-label:126": 24,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 180,
-      "Ильин Петр Григорьевич": 57,
-      "Карахалин Константин Владимирович": 81,
-      "Лесневская Ольга Васильевна": 63,
-      "Локоть Анатолий Евгеньевич": 280,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 120,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000193915": 180,
+      "gas:candidate-vibid:1001000136091": 57,
+      "gas:candidate-vibid:1001000188015": 81,
+      "gas:candidate-vibid:1001000254942": 63,
+      "gas:candidate-vibid:1001000121881": 280,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 120,
+      "special:official-result-label:126": 19,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3290,15 +3290,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 224,
-      "Ильин Петр Григорьевич": 71,
-      "Карахалин Константин Владимирович": 137,
-      "Лесневская Ольга Васильевна": 130,
-      "Локоть Анатолий Евгеньевич": 303,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 176,
-      "Шадт Александр Евгеньевич": 34,
-      "Против всех": 397
+      "gas:candidate-vibid:1001000193915": 224,
+      "gas:candidate-vibid:1001000136091": 71,
+      "gas:candidate-vibid:1001000188015": 137,
+      "gas:candidate-vibid:1001000254942": 130,
+      "gas:candidate-vibid:1001000121881": 303,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 176,
+      "special:official-result-label:126": 34,
+      "special:against-all": 397
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3348,15 +3348,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 190,
-      "Ильин Петр Григорьевич": 62,
-      "Карахалин Константин Владимирович": 154,
-      "Лесневская Ольга Васильевна": 79,
-      "Локоть Анатолий Евгеньевич": 304,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 171,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000193915": 190,
+      "gas:candidate-vibid:1001000136091": 62,
+      "gas:candidate-vibid:1001000188015": 154,
+      "gas:candidate-vibid:1001000254942": 79,
+      "gas:candidate-vibid:1001000121881": 304,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 171,
+      "special:official-result-label:126": 25,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3406,15 +3406,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 193,
-      "Ильин Петр Григорьевич": 42,
-      "Карахалин Константин Владимирович": 127,
-      "Лесневская Ольга Васильевна": 76,
-      "Локоть Анатолий Евгеньевич": 255,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 151,
-      "Шадт Александр Евгеньевич": 33,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000193915": 193,
+      "gas:candidate-vibid:1001000136091": 42,
+      "gas:candidate-vibid:1001000188015": 127,
+      "gas:candidate-vibid:1001000254942": 76,
+      "gas:candidate-vibid:1001000121881": 255,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 151,
+      "special:official-result-label:126": 33,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3464,15 +3464,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 123,
-      "Ильин Петр Григорьевич": 30,
-      "Карахалин Константин Владимирович": 90,
-      "Лесневская Ольга Васильевна": 41,
-      "Локоть Анатолий Евгеньевич": 276,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 121,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000193915": 123,
+      "gas:candidate-vibid:1001000136091": 30,
+      "gas:candidate-vibid:1001000188015": 90,
+      "gas:candidate-vibid:1001000254942": 41,
+      "gas:candidate-vibid:1001000121881": 276,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 121,
+      "special:official-result-label:126": 19,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3522,15 +3522,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 224,
-      "Ильин Петр Григорьевич": 64,
-      "Карахалин Константин Владимирович": 151,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 305,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 187,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000193915": 224,
+      "gas:candidate-vibid:1001000136091": 64,
+      "gas:candidate-vibid:1001000188015": 151,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 305,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 187,
+      "special:official-result-label:126": 29,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3580,15 +3580,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 204,
-      "Ильин Петр Григорьевич": 46,
-      "Карахалин Константин Владимирович": 106,
-      "Лесневская Ольга Васильевна": 59,
-      "Локоть Анатолий Евгеньевич": 260,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 123,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000193915": 204,
+      "gas:candidate-vibid:1001000136091": 46,
+      "gas:candidate-vibid:1001000188015": 106,
+      "gas:candidate-vibid:1001000254942": 59,
+      "gas:candidate-vibid:1001000121881": 260,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 123,
+      "special:official-result-label:126": 18,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3638,15 +3638,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 213,
-      "Ильин Петр Григорьевич": 71,
-      "Карахалин Константин Владимирович": 115,
-      "Лесневская Ольга Васильевна": 74,
-      "Локоть Анатолий Евгеньевич": 273,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 154,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000193915": 213,
+      "gas:candidate-vibid:1001000136091": 71,
+      "gas:candidate-vibid:1001000188015": 115,
+      "gas:candidate-vibid:1001000254942": 74,
+      "gas:candidate-vibid:1001000121881": 273,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 154,
+      "special:official-result-label:126": 26,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3696,15 +3696,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 161,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 126,
-      "Лесневская Ольга Васильевна": 69,
-      "Локоть Анатолий Евгеньевич": 269,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 161,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000193915": 161,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 126,
+      "gas:candidate-vibid:1001000254942": 69,
+      "gas:candidate-vibid:1001000121881": 269,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 161,
+      "special:official-result-label:126": 26,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3754,15 +3754,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 201,
-      "Ильин Петр Григорьевич": 75,
-      "Карахалин Константин Владимирович": 139,
-      "Лесневская Ольга Васильевна": 78,
-      "Локоть Анатолий Евгеньевич": 287,
-      "Остролуцкий Виктор Семенович": 20,
-      "Фомин Александр Анатольевич": 142,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 367
+      "gas:candidate-vibid:1001000193915": 201,
+      "gas:candidate-vibid:1001000136091": 75,
+      "gas:candidate-vibid:1001000188015": 139,
+      "gas:candidate-vibid:1001000254942": 78,
+      "gas:candidate-vibid:1001000121881": 287,
+      "gas:candidate-vibid:1001000202322": 20,
+      "gas:candidate-vibid:1001000212405": 142,
+      "special:official-result-label:126": 26,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3812,15 +3812,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 114,
-      "Ильин Петр Григорьевич": 31,
-      "Карахалин Константин Владимирович": 71,
-      "Лесневская Ольга Васильевна": 40,
-      "Локоть Анатолий Евгеньевич": 195,
-      "Остролуцкий Виктор Семенович": 5,
-      "Фомин Александр Анатольевич": 99,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000193915": 114,
+      "gas:candidate-vibid:1001000136091": 31,
+      "gas:candidate-vibid:1001000188015": 71,
+      "gas:candidate-vibid:1001000254942": 40,
+      "gas:candidate-vibid:1001000121881": 195,
+      "gas:candidate-vibid:1001000202322": 5,
+      "gas:candidate-vibid:1001000212405": 99,
+      "special:official-result-label:126": 17,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3870,15 +3870,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 178,
-      "Ильин Петр Григорьевич": 82,
-      "Карахалин Константин Владимирович": 127,
-      "Лесневская Ольга Васильевна": 92,
-      "Локоть Анатолий Евгеньевич": 308,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 116,
-      "Шадт Александр Евгеньевич": 8,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000193915": 178,
+      "gas:candidate-vibid:1001000136091": 82,
+      "gas:candidate-vibid:1001000188015": 127,
+      "gas:candidate-vibid:1001000254942": 92,
+      "gas:candidate-vibid:1001000121881": 308,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 116,
+      "special:official-result-label:126": 8,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3928,15 +3928,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 152,
-      "Ильин Петр Григорьевич": 65,
-      "Карахалин Константин Владимирович": 41,
-      "Лесневская Ольга Васильевна": 41,
-      "Локоть Анатолий Евгеньевич": 173,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 62,
-      "Шадт Александр Евгеньевич": 12,
-      "Против всех": 257
+      "gas:candidate-vibid:1001000193915": 152,
+      "gas:candidate-vibid:1001000136091": 65,
+      "gas:candidate-vibid:1001000188015": 41,
+      "gas:candidate-vibid:1001000254942": 41,
+      "gas:candidate-vibid:1001000121881": 173,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 62,
+      "special:official-result-label:126": 12,
+      "special:against-all": 257
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -3986,15 +3986,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 198,
-      "Ильин Петр Григорьевич": 61,
-      "Карахалин Константин Владимирович": 57,
-      "Лесневская Ольга Васильевна": 78,
-      "Локоть Анатолий Евгеньевич": 257,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 134,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 305
+      "gas:candidate-vibid:1001000193915": 198,
+      "gas:candidate-vibid:1001000136091": 61,
+      "gas:candidate-vibid:1001000188015": 57,
+      "gas:candidate-vibid:1001000254942": 78,
+      "gas:candidate-vibid:1001000121881": 257,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 134,
+      "special:official-result-label:126": 21,
+      "special:against-all": 305
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4044,15 +4044,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 13,
-      "Ильин Петр Григорьевич": 13,
-      "Карахалин Константин Владимирович": 10,
-      "Лесневская Ольга Васильевна": 15,
-      "Локоть Анатолий Евгеньевич": 28,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 11,
-      "Шадт Александр Евгеньевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000193915": 13,
+      "gas:candidate-vibid:1001000136091": 13,
+      "gas:candidate-vibid:1001000188015": 10,
+      "gas:candidate-vibid:1001000254942": 15,
+      "gas:candidate-vibid:1001000121881": 28,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 11,
+      "special:official-result-label:126": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4102,15 +4102,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 24,
-      "Ильин Петр Григорьевич": 12,
-      "Карахалин Константин Владимирович": 2,
-      "Лесневская Ольга Васильевна": 17,
-      "Локоть Анатолий Евгеньевич": 34,
-      "Остролуцкий Виктор Семенович": 1,
-      "Фомин Александр Анатольевич": 7,
-      "Шадт Александр Евгеньевич": 4,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000193915": 24,
+      "gas:candidate-vibid:1001000136091": 12,
+      "gas:candidate-vibid:1001000188015": 2,
+      "gas:candidate-vibid:1001000254942": 17,
+      "gas:candidate-vibid:1001000121881": 34,
+      "gas:candidate-vibid:1001000202322": 1,
+      "gas:candidate-vibid:1001000212405": 7,
+      "special:official-result-label:126": 4,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4160,15 +4160,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 149,
-      "Ильин Петр Григорьевич": 55,
-      "Карахалин Константин Владимирович": 41,
-      "Лесневская Ольга Васильевна": 46,
-      "Локоть Анатолий Евгеньевич": 161,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 56,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000193915": 149,
+      "gas:candidate-vibid:1001000136091": 55,
+      "gas:candidate-vibid:1001000188015": 41,
+      "gas:candidate-vibid:1001000254942": 46,
+      "gas:candidate-vibid:1001000121881": 161,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 56,
+      "special:official-result-label:126": 18,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4218,15 +4218,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 143,
-      "Ильин Петр Григорьевич": 62,
-      "Карахалин Константин Владимирович": 89,
-      "Лесневская Ольга Васильевна": 70,
-      "Локоть Анатолий Евгеньевич": 266,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 139,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000193915": 143,
+      "gas:candidate-vibid:1001000136091": 62,
+      "gas:candidate-vibid:1001000188015": 89,
+      "gas:candidate-vibid:1001000254942": 70,
+      "gas:candidate-vibid:1001000121881": 266,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 139,
+      "special:official-result-label:126": 31,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4276,15 +4276,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 107,
-      "Ильин Петр Григорьевич": 48,
-      "Карахалин Константин Владимирович": 48,
-      "Лесневская Ольга Васильевна": 38,
-      "Локоть Анатолий Евгеньевич": 187,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 77,
-      "Шадт Александр Евгеньевич": 4,
-      "Против всех": 162
+      "gas:candidate-vibid:1001000193915": 107,
+      "gas:candidate-vibid:1001000136091": 48,
+      "gas:candidate-vibid:1001000188015": 48,
+      "gas:candidate-vibid:1001000254942": 38,
+      "gas:candidate-vibid:1001000121881": 187,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 77,
+      "special:official-result-label:126": 4,
+      "special:against-all": 162
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4334,15 +4334,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 185,
-      "Ильин Петр Григорьевич": 85,
-      "Карахалин Константин Владимирович": 97,
-      "Лесневская Ольга Васильевна": 79,
-      "Локоть Анатолий Евгеньевич": 288,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 107,
-      "Шадт Александр Евгеньевич": 35,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000193915": 185,
+      "gas:candidate-vibid:1001000136091": 85,
+      "gas:candidate-vibid:1001000188015": 97,
+      "gas:candidate-vibid:1001000254942": 79,
+      "gas:candidate-vibid:1001000121881": 288,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 107,
+      "special:official-result-label:126": 35,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4392,15 +4392,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 229,
-      "Ильин Петр Григорьевич": 72,
-      "Карахалин Константин Владимирович": 106,
-      "Лесневская Ольга Васильевна": 90,
-      "Локоть Анатолий Евгеньевич": 295,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 151,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000193915": 229,
+      "gas:candidate-vibid:1001000136091": 72,
+      "gas:candidate-vibid:1001000188015": 106,
+      "gas:candidate-vibid:1001000254942": 90,
+      "gas:candidate-vibid:1001000121881": 295,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 151,
+      "special:official-result-label:126": 23,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4450,15 +4450,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 229,
-      "Ильин Петр Григорьевич": 77,
-      "Карахалин Константин Владимирович": 85,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 274,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 79,
-      "Шадт Александр Евгеньевич": 32,
-      "Против всех": 330
+      "gas:candidate-vibid:1001000193915": 229,
+      "gas:candidate-vibid:1001000136091": 77,
+      "gas:candidate-vibid:1001000188015": 85,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 274,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 79,
+      "special:official-result-label:126": 32,
+      "special:against-all": 330
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4508,15 +4508,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 107,
-      "Ильин Петр Григорьевич": 48,
-      "Карахалин Константин Владимирович": 46,
-      "Лесневская Ольга Васильевна": 52,
-      "Локоть Анатолий Евгеньевич": 159,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 66,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000193915": 107,
+      "gas:candidate-vibid:1001000136091": 48,
+      "gas:candidate-vibid:1001000188015": 46,
+      "gas:candidate-vibid:1001000254942": 52,
+      "gas:candidate-vibid:1001000121881": 159,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 66,
+      "special:official-result-label:126": 26,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4566,15 +4566,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 136,
-      "Ильин Петр Григорьевич": 54,
-      "Карахалин Константин Владимирович": 77,
-      "Лесневская Ольга Васильевна": 55,
-      "Локоть Анатолий Евгеньевич": 216,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 79,
-      "Шадт Александр Евгеньевич": 8,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000193915": 136,
+      "gas:candidate-vibid:1001000136091": 54,
+      "gas:candidate-vibid:1001000188015": 77,
+      "gas:candidate-vibid:1001000254942": 55,
+      "gas:candidate-vibid:1001000121881": 216,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 79,
+      "special:official-result-label:126": 8,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4624,15 +4624,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 195,
-      "Ильин Петр Григорьевич": 54,
-      "Карахалин Константин Владимирович": 67,
-      "Лесневская Ольга Васильевна": 70,
-      "Локоть Анатолий Евгеньевич": 291,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 151,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000193915": 195,
+      "gas:candidate-vibid:1001000136091": 54,
+      "gas:candidate-vibid:1001000188015": 67,
+      "gas:candidate-vibid:1001000254942": 70,
+      "gas:candidate-vibid:1001000121881": 291,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 151,
+      "special:official-result-label:126": 25,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4682,15 +4682,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 153,
-      "Ильин Петр Григорьевич": 41,
-      "Карахалин Константин Владимирович": 73,
-      "Лесневская Ольга Васильевна": 71,
-      "Локоть Анатолий Евгеньевич": 322,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 125,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000193915": 153,
+      "gas:candidate-vibid:1001000136091": 41,
+      "gas:candidate-vibid:1001000188015": 73,
+      "gas:candidate-vibid:1001000254942": 71,
+      "gas:candidate-vibid:1001000121881": 322,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 125,
+      "special:official-result-label:126": 17,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4740,15 +4740,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 150,
-      "Ильин Петр Григорьевич": 57,
-      "Карахалин Константин Владимирович": 69,
-      "Лесневская Ольга Васильевна": 46,
-      "Локоть Анатолий Евгеньевич": 280,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 121,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000193915": 150,
+      "gas:candidate-vibid:1001000136091": 57,
+      "gas:candidate-vibid:1001000188015": 69,
+      "gas:candidate-vibid:1001000254942": 46,
+      "gas:candidate-vibid:1001000121881": 280,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 121,
+      "special:official-result-label:126": 21,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4798,15 +4798,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 166,
-      "Ильин Петр Григорьевич": 43,
-      "Карахалин Константин Владимирович": 70,
-      "Лесневская Ольга Васильевна": 54,
-      "Локоть Анатолий Евгеньевич": 284,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 92,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000193915": 166,
+      "gas:candidate-vibid:1001000136091": 43,
+      "gas:candidate-vibid:1001000188015": 70,
+      "gas:candidate-vibid:1001000254942": 54,
+      "gas:candidate-vibid:1001000121881": 284,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 92,
+      "special:official-result-label:126": 22,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4856,15 +4856,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 136,
-      "Ильин Петр Григорьевич": 42,
-      "Карахалин Константин Владимирович": 71,
-      "Лесневская Ольга Васильевна": 48,
-      "Локоть Анатолий Евгеньевич": 273,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 83,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000193915": 136,
+      "gas:candidate-vibid:1001000136091": 42,
+      "gas:candidate-vibid:1001000188015": 71,
+      "gas:candidate-vibid:1001000254942": 48,
+      "gas:candidate-vibid:1001000121881": 273,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 83,
+      "special:official-result-label:126": 17,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4914,15 +4914,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 202,
-      "Ильин Петр Григорьевич": 37,
-      "Карахалин Константин Владимирович": 68,
-      "Лесневская Ольга Васильевна": 51,
-      "Локоть Анатолий Евгеньевич": 202,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 75,
-      "Шадт Александр Евгеньевич": 12,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000193915": 202,
+      "gas:candidate-vibid:1001000136091": 37,
+      "gas:candidate-vibid:1001000188015": 68,
+      "gas:candidate-vibid:1001000254942": 51,
+      "gas:candidate-vibid:1001000121881": 202,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 75,
+      "special:official-result-label:126": 12,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -4972,15 +4972,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 112,
-      "Ильин Петр Григорьевич": 14,
-      "Карахалин Константин Владимирович": 56,
-      "Лесневская Ольга Васильевна": 33,
-      "Локоть Анатолий Евгеньевич": 150,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 100,
-      "Шадт Александр Евгеньевич": 10,
-      "Против всех": 148
+      "gas:candidate-vibid:1001000193915": 112,
+      "gas:candidate-vibid:1001000136091": 14,
+      "gas:candidate-vibid:1001000188015": 56,
+      "gas:candidate-vibid:1001000254942": 33,
+      "gas:candidate-vibid:1001000121881": 150,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 100,
+      "special:official-result-label:126": 10,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5030,15 +5030,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 216,
-      "Ильин Петр Григорьевич": 49,
-      "Карахалин Константин Владимирович": 43,
-      "Лесневская Ольга Васильевна": 37,
-      "Локоть Анатолий Евгеньевич": 62,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 100,
-      "Шадт Александр Евгеньевич": 10,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000193915": 216,
+      "gas:candidate-vibid:1001000136091": 49,
+      "gas:candidate-vibid:1001000188015": 43,
+      "gas:candidate-vibid:1001000254942": 37,
+      "gas:candidate-vibid:1001000121881": 62,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 100,
+      "special:official-result-label:126": 10,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5088,15 +5088,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 214,
-      "Ильин Петр Григорьевич": 60,
-      "Карахалин Константин Владимирович": 39,
-      "Лесневская Ольга Васильевна": 55,
-      "Локоть Анатолий Евгеньевич": 127,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 132,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 425
+      "gas:candidate-vibid:1001000193915": 214,
+      "gas:candidate-vibid:1001000136091": 60,
+      "gas:candidate-vibid:1001000188015": 39,
+      "gas:candidate-vibid:1001000254942": 55,
+      "gas:candidate-vibid:1001000121881": 127,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 132,
+      "special:official-result-label:126": 21,
+      "special:against-all": 425
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5146,15 +5146,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 6,
-      "Ильин Петр Григорьевич": 0,
-      "Карахалин Константин Владимирович": 1,
-      "Лесневская Ольга Васильевна": 2,
-      "Локоть Анатолий Евгеньевич": 13,
-      "Остролуцкий Виктор Семенович": 0,
-      "Фомин Александр Анатольевич": 1,
-      "Шадт Александр Евгеньевич": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000193915": 6,
+      "gas:candidate-vibid:1001000136091": 0,
+      "gas:candidate-vibid:1001000188015": 1,
+      "gas:candidate-vibid:1001000254942": 2,
+      "gas:candidate-vibid:1001000121881": 13,
+      "gas:candidate-vibid:1001000202322": 0,
+      "gas:candidate-vibid:1001000212405": 1,
+      "special:official-result-label:126": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5204,15 +5204,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 119,
-      "Ильин Петр Григорьевич": 38,
-      "Карахалин Константин Владимирович": 35,
-      "Лесневская Ольга Васильевна": 39,
-      "Локоть Анатолий Евгеньевич": 172,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 72,
-      "Шадт Александр Евгеньевич": 15,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000193915": 119,
+      "gas:candidate-vibid:1001000136091": 38,
+      "gas:candidate-vibid:1001000188015": 35,
+      "gas:candidate-vibid:1001000254942": 39,
+      "gas:candidate-vibid:1001000121881": 172,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 72,
+      "special:official-result-label:126": 15,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5262,15 +5262,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 62,
-      "Ильин Петр Григорьевич": 24,
-      "Карахалин Константин Владимирович": 24,
-      "Лесневская Ольга Васильевна": 40,
-      "Локоть Анатолий Евгеньевич": 122,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 34,
-      "Шадт Александр Евгеньевич": 5,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000193915": 62,
+      "gas:candidate-vibid:1001000136091": 24,
+      "gas:candidate-vibid:1001000188015": 24,
+      "gas:candidate-vibid:1001000254942": 40,
+      "gas:candidate-vibid:1001000121881": 122,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 34,
+      "special:official-result-label:126": 5,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5320,15 +5320,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 61,
-      "Ильин Петр Григорьевич": 29,
-      "Карахалин Константин Владимирович": 39,
-      "Лесневская Ольга Васильевна": 47,
-      "Локоть Анатолий Евгеньевич": 158,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 41,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000193915": 61,
+      "gas:candidate-vibid:1001000136091": 29,
+      "gas:candidate-vibid:1001000188015": 39,
+      "gas:candidate-vibid:1001000254942": 47,
+      "gas:candidate-vibid:1001000121881": 158,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 41,
+      "special:official-result-label:126": 14,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5378,15 +5378,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 62,
-      "Ильин Петр Григорьевич": 61,
-      "Карахалин Константин Владимирович": 28,
-      "Лесневская Ольга Васильевна": 50,
-      "Локоть Анатолий Евгеньевич": 114,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 59,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000193915": 62,
+      "gas:candidate-vibid:1001000136091": 61,
+      "gas:candidate-vibid:1001000188015": 28,
+      "gas:candidate-vibid:1001000254942": 50,
+      "gas:candidate-vibid:1001000121881": 114,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 59,
+      "special:official-result-label:126": 21,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5436,15 +5436,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 73,
-      "Ильин Петр Григорьевич": 34,
-      "Карахалин Константин Владимирович": 33,
-      "Лесневская Ольга Васильевна": 22,
-      "Локоть Анатолий Евгеньевич": 106,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 39,
-      "Шадт Александр Евгеньевич": 15,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000193915": 73,
+      "gas:candidate-vibid:1001000136091": 34,
+      "gas:candidate-vibid:1001000188015": 33,
+      "gas:candidate-vibid:1001000254942": 22,
+      "gas:candidate-vibid:1001000121881": 106,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 39,
+      "special:official-result-label:126": 15,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5494,15 +5494,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 96,
-      "Ильин Петр Григорьевич": 42,
-      "Карахалин Константин Владимирович": 59,
-      "Лесневская Ольга Васильевна": 40,
-      "Локоть Анатолий Евгеньевич": 283,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 79,
-      "Шадт Александр Евгеньевич": 13,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000193915": 96,
+      "gas:candidate-vibid:1001000136091": 42,
+      "gas:candidate-vibid:1001000188015": 59,
+      "gas:candidate-vibid:1001000254942": 40,
+      "gas:candidate-vibid:1001000121881": 283,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 79,
+      "special:official-result-label:126": 13,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5552,15 +5552,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 122,
-      "Ильин Петр Григорьевич": 53,
-      "Карахалин Константин Владимирович": 94,
-      "Лесневская Ольга Васильевна": 36,
-      "Локоть Анатолий Евгеньевич": 245,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 83,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000193915": 122,
+      "gas:candidate-vibid:1001000136091": 53,
+      "gas:candidate-vibid:1001000188015": 94,
+      "gas:candidate-vibid:1001000254942": 36,
+      "gas:candidate-vibid:1001000121881": 245,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 83,
+      "special:official-result-label:126": 14,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5610,15 +5610,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 3,
-      "Ильин Петр Григорьевич": 0,
-      "Карахалин Константин Владимирович": 0,
-      "Лесневская Ольга Васильевна": 3,
-      "Локоть Анатолий Евгеньевич": 4,
-      "Остролуцкий Виктор Семенович": 0,
-      "Фомин Александр Анатольевич": 0,
-      "Шадт Александр Евгеньевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000193915": 3,
+      "gas:candidate-vibid:1001000136091": 0,
+      "gas:candidate-vibid:1001000188015": 0,
+      "gas:candidate-vibid:1001000254942": 3,
+      "gas:candidate-vibid:1001000121881": 4,
+      "gas:candidate-vibid:1001000202322": 0,
+      "gas:candidate-vibid:1001000212405": 0,
+      "special:official-result-label:126": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5668,15 +5668,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 202,
-      "Ильин Петр Григорьевич": 58,
-      "Карахалин Константин Владимирович": 74,
-      "Лесневская Ольга Васильевна": 93,
-      "Локоть Анатолий Евгеньевич": 281,
-      "Остролуцкий Виктор Семенович": 26,
-      "Фомин Александр Анатольевич": 175,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 350
+      "gas:candidate-vibid:1001000193915": 202,
+      "gas:candidate-vibid:1001000136091": 58,
+      "gas:candidate-vibid:1001000188015": 74,
+      "gas:candidate-vibid:1001000254942": 93,
+      "gas:candidate-vibid:1001000121881": 281,
+      "gas:candidate-vibid:1001000202322": 26,
+      "gas:candidate-vibid:1001000212405": 175,
+      "special:official-result-label:126": 22,
+      "special:against-all": 350
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5726,15 +5726,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 122,
-      "Ильин Петр Григорьевич": 55,
-      "Карахалин Константин Владимирович": 69,
-      "Лесневская Ольга Васильевна": 46,
-      "Локоть Анатолий Евгеньевич": 121,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 73,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000193915": 122,
+      "gas:candidate-vibid:1001000136091": 55,
+      "gas:candidate-vibid:1001000188015": 69,
+      "gas:candidate-vibid:1001000254942": 46,
+      "gas:candidate-vibid:1001000121881": 121,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 73,
+      "special:official-result-label:126": 27,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5784,15 +5784,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 145,
-      "Ильин Петр Григорьевич": 27,
-      "Карахалин Константин Владимирович": 93,
-      "Лесневская Ольга Васильевна": 59,
-      "Локоть Анатолий Евгеньевич": 247,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 147,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000193915": 145,
+      "gas:candidate-vibid:1001000136091": 27,
+      "gas:candidate-vibid:1001000188015": 93,
+      "gas:candidate-vibid:1001000254942": 59,
+      "gas:candidate-vibid:1001000121881": 247,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 147,
+      "special:official-result-label:126": 31,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5842,15 +5842,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 130,
-      "Ильин Петр Григорьевич": 62,
-      "Карахалин Константин Владимирович": 65,
-      "Лесневская Ольга Васильевна": 66,
-      "Локоть Анатолий Евгеньевич": 195,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 100,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000193915": 130,
+      "gas:candidate-vibid:1001000136091": 62,
+      "gas:candidate-vibid:1001000188015": 65,
+      "gas:candidate-vibid:1001000254942": 66,
+      "gas:candidate-vibid:1001000121881": 195,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 100,
+      "special:official-result-label:126": 18,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5900,15 +5900,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 119,
-      "Ильин Петр Григорьевич": 36,
-      "Карахалин Константин Владимирович": 55,
-      "Лесневская Ольга Васильевна": 47,
-      "Локоть Анатолий Евгеньевич": 157,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 77,
-      "Шадт Александр Евгеньевич": 11,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000193915": 119,
+      "gas:candidate-vibid:1001000136091": 36,
+      "gas:candidate-vibid:1001000188015": 55,
+      "gas:candidate-vibid:1001000254942": 47,
+      "gas:candidate-vibid:1001000121881": 157,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 77,
+      "special:official-result-label:126": 11,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -5958,15 +5958,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 23,
-      "Ильин Петр Григорьевич": 13,
-      "Карахалин Константин Владимирович": 15,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 169,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 8,
-      "Шадт Александр Евгеньевич": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000193915": 23,
+      "gas:candidate-vibid:1001000136091": 13,
+      "gas:candidate-vibid:1001000188015": 15,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 169,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 8,
+      "special:official-result-label:126": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6016,15 +6016,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 151,
-      "Ильин Петр Григорьевич": 69,
-      "Карахалин Константин Владимирович": 57,
-      "Лесневская Ольга Васильевна": 59,
-      "Локоть Анатолий Евгеньевич": 161,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 61,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000193915": 151,
+      "gas:candidate-vibid:1001000136091": 69,
+      "gas:candidate-vibid:1001000188015": 57,
+      "gas:candidate-vibid:1001000254942": 59,
+      "gas:candidate-vibid:1001000121881": 161,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 61,
+      "special:official-result-label:126": 18,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6074,15 +6074,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 109,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 64,
-      "Лесневская Ольга Васильевна": 29,
-      "Локоть Анатолий Евгеньевич": 173,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 93,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000193915": 109,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 64,
+      "gas:candidate-vibid:1001000254942": 29,
+      "gas:candidate-vibid:1001000121881": 173,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 93,
+      "special:official-result-label:126": 17,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6132,15 +6132,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 243,
-      "Ильин Петр Григорьевич": 77,
-      "Карахалин Константин Владимирович": 110,
-      "Лесневская Ольга Васильевна": 90,
-      "Локоть Анатолий Евгеньевич": 235,
-      "Остролуцкий Виктор Семенович": 34,
-      "Фомин Александр Анатольевич": 95,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000193915": 243,
+      "gas:candidate-vibid:1001000136091": 77,
+      "gas:candidate-vibid:1001000188015": 110,
+      "gas:candidate-vibid:1001000254942": 90,
+      "gas:candidate-vibid:1001000121881": 235,
+      "gas:candidate-vibid:1001000202322": 34,
+      "gas:candidate-vibid:1001000212405": 95,
+      "special:official-result-label:126": 17,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6190,15 +6190,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 66,
-      "Ильин Петр Григорьевич": 62,
-      "Карахалин Константин Владимирович": 45,
-      "Лесневская Ольга Васильевна": 48,
-      "Локоть Анатолий Евгеньевич": 133,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 28,
-      "Шадт Александр Евгеньевич": 8,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000193915": 66,
+      "gas:candidate-vibid:1001000136091": 62,
+      "gas:candidate-vibid:1001000188015": 45,
+      "gas:candidate-vibid:1001000254942": 48,
+      "gas:candidate-vibid:1001000121881": 133,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 28,
+      "special:official-result-label:126": 8,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6248,15 +6248,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 183,
-      "Ильин Петр Григорьевич": 76,
-      "Карахалин Константин Владимирович": 81,
-      "Лесневская Ольга Васильевна": 66,
-      "Локоть Анатолий Евгеньевич": 268,
-      "Остролуцкий Виктор Семенович": 42,
-      "Фомин Александр Анатольевич": 115,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 268
+      "gas:candidate-vibid:1001000193915": 183,
+      "gas:candidate-vibid:1001000136091": 76,
+      "gas:candidate-vibid:1001000188015": 81,
+      "gas:candidate-vibid:1001000254942": 66,
+      "gas:candidate-vibid:1001000121881": 268,
+      "gas:candidate-vibid:1001000202322": 42,
+      "gas:candidate-vibid:1001000212405": 115,
+      "special:official-result-label:126": 25,
+      "special:against-all": 268
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6306,15 +6306,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 78,
-      "Ильин Петр Григорьевич": 36,
-      "Карахалин Константин Владимирович": 34,
-      "Лесневская Ольга Васильевна": 62,
-      "Локоть Анатолий Евгеньевич": 149,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 47,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000193915": 78,
+      "gas:candidate-vibid:1001000136091": 36,
+      "gas:candidate-vibid:1001000188015": 34,
+      "gas:candidate-vibid:1001000254942": 62,
+      "gas:candidate-vibid:1001000121881": 149,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 47,
+      "special:official-result-label:126": 22,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6364,15 +6364,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 78,
-      "Ильин Петр Григорьевич": 63,
-      "Карахалин Константин Владимирович": 27,
-      "Лесневская Ольга Васильевна": 44,
-      "Локоть Анатолий Евгеньевич": 169,
-      "Остролуцкий Виктор Семенович": 5,
-      "Фомин Александр Анатольевич": 46,
-      "Шадт Александр Евгеньевич": 10,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000193915": 78,
+      "gas:candidate-vibid:1001000136091": 63,
+      "gas:candidate-vibid:1001000188015": 27,
+      "gas:candidate-vibid:1001000254942": 44,
+      "gas:candidate-vibid:1001000121881": 169,
+      "gas:candidate-vibid:1001000202322": 5,
+      "gas:candidate-vibid:1001000212405": 46,
+      "special:official-result-label:126": 10,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6422,15 +6422,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 107,
-      "Ильин Петр Григорьевич": 25,
-      "Карахалин Константин Владимирович": 33,
-      "Лесневская Ольга Васильевна": 52,
-      "Локоть Анатолий Евгеньевич": 217,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 52,
-      "Шадт Александр Евгеньевич": 6,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000193915": 107,
+      "gas:candidate-vibid:1001000136091": 25,
+      "gas:candidate-vibid:1001000188015": 33,
+      "gas:candidate-vibid:1001000254942": 52,
+      "gas:candidate-vibid:1001000121881": 217,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 52,
+      "special:official-result-label:126": 6,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6480,15 +6480,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 207,
-      "Ильин Петр Григорьевич": 74,
-      "Карахалин Константин Владимирович": 65,
-      "Лесневская Ольга Васильевна": 97,
-      "Локоть Анатолий Евгеньевич": 336,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 96,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000193915": 207,
+      "gas:candidate-vibid:1001000136091": 74,
+      "gas:candidate-vibid:1001000188015": 65,
+      "gas:candidate-vibid:1001000254942": 97,
+      "gas:candidate-vibid:1001000121881": 336,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 96,
+      "special:official-result-label:126": 29,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6538,15 +6538,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 25,
-      "Ильин Петр Григорьевич": 23,
-      "Карахалин Константин Владимирович": 9,
-      "Лесневская Ольга Васильевна": 17,
-      "Локоть Анатолий Евгеньевич": 59,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 23,
-      "Шадт Александр Евгеньевич": 5,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000193915": 25,
+      "gas:candidate-vibid:1001000136091": 23,
+      "gas:candidate-vibid:1001000188015": 9,
+      "gas:candidate-vibid:1001000254942": 17,
+      "gas:candidate-vibid:1001000121881": 59,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 23,
+      "special:official-result-label:126": 5,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6596,15 +6596,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 29,
-      "Ильин Петр Григорьевич": 26,
-      "Карахалин Константин Владимирович": 10,
-      "Лесневская Ольга Васильевна": 18,
-      "Локоть Анатолий Евгеньевич": 35,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 13,
-      "Шадт Александр Евгеньевич": 9,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000193915": 29,
+      "gas:candidate-vibid:1001000136091": 26,
+      "gas:candidate-vibid:1001000188015": 10,
+      "gas:candidate-vibid:1001000254942": 18,
+      "gas:candidate-vibid:1001000121881": 35,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 13,
+      "special:official-result-label:126": 9,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367104&region=0&sub_region=0&type=429",
@@ -6654,15 +6654,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 207,
-      "Ильин Петр Григорьевич": 63,
-      "Карахалин Константин Владимирович": 115,
-      "Лесневская Ольга Васильевна": 102,
-      "Локоть Анатолий Евгеньевич": 281,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 153,
-      "Шадт Александр Евгеньевич": 34,
-      "Против всех": 337
+      "gas:candidate-vibid:1001000193915": 207,
+      "gas:candidate-vibid:1001000136091": 63,
+      "gas:candidate-vibid:1001000188015": 115,
+      "gas:candidate-vibid:1001000254942": 102,
+      "gas:candidate-vibid:1001000121881": 281,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 153,
+      "special:official-result-label:126": 34,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -6712,15 +6712,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 239,
-      "Ильин Петр Григорьевич": 97,
-      "Карахалин Константин Владимирович": 150,
-      "Лесневская Ольга Васильевна": 115,
-      "Локоть Анатолий Евгеньевич": 266,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 126,
-      "Шадт Александр Евгеньевич": 28,
-      "Против всех": 380
+      "gas:candidate-vibid:1001000193915": 239,
+      "gas:candidate-vibid:1001000136091": 97,
+      "gas:candidate-vibid:1001000188015": 150,
+      "gas:candidate-vibid:1001000254942": 115,
+      "gas:candidate-vibid:1001000121881": 266,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 126,
+      "special:official-result-label:126": 28,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -6770,15 +6770,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 244,
-      "Ильин Петр Григорьевич": 53,
-      "Карахалин Константин Владимирович": 143,
-      "Лесневская Ольга Васильевна": 98,
-      "Локоть Анатолий Евгеньевич": 268,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 149,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000193915": 244,
+      "gas:candidate-vibid:1001000136091": 53,
+      "gas:candidate-vibid:1001000188015": 143,
+      "gas:candidate-vibid:1001000254942": 98,
+      "gas:candidate-vibid:1001000121881": 268,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 149,
+      "special:official-result-label:126": 29,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -6828,15 +6828,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 111,
-      "Ильин Петр Григорьевич": 57,
-      "Карахалин Константин Владимирович": 41,
-      "Лесневская Ольга Васильевна": 50,
-      "Локоть Анатолий Евгеньевич": 211,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 62,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000193915": 111,
+      "gas:candidate-vibid:1001000136091": 57,
+      "gas:candidate-vibid:1001000188015": 41,
+      "gas:candidate-vibid:1001000254942": 50,
+      "gas:candidate-vibid:1001000121881": 211,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 62,
+      "special:official-result-label:126": 14,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -6886,15 +6886,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 51,
-      "Ильин Петр Григорьевич": 12,
-      "Карахалин Константин Владимирович": 19,
-      "Лесневская Ольга Васильевна": 27,
-      "Локоть Анатолий Евгеньевич": 75,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 25,
-      "Шадт Александр Евгеньевич": 2,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000193915": 51,
+      "gas:candidate-vibid:1001000136091": 12,
+      "gas:candidate-vibid:1001000188015": 19,
+      "gas:candidate-vibid:1001000254942": 27,
+      "gas:candidate-vibid:1001000121881": 75,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 25,
+      "special:official-result-label:126": 2,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -6944,15 +6944,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 85,
-      "Ильин Петр Григорьевич": 52,
-      "Карахалин Константин Владимирович": 33,
-      "Лесневская Ольга Васильевна": 24,
-      "Локоть Анатолий Евгеньевич": 137,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 42,
-      "Шадт Александр Евгеньевич": 6,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000193915": 85,
+      "gas:candidate-vibid:1001000136091": 52,
+      "gas:candidate-vibid:1001000188015": 33,
+      "gas:candidate-vibid:1001000254942": 24,
+      "gas:candidate-vibid:1001000121881": 137,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 42,
+      "special:official-result-label:126": 6,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7002,15 +7002,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 143,
-      "Ильин Петр Григорьевич": 43,
-      "Карахалин Константин Владимирович": 110,
-      "Лесневская Ольга Васильевна": 69,
-      "Локоть Анатолий Евгеньевич": 267,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 82,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 204
+      "gas:candidate-vibid:1001000193915": 143,
+      "gas:candidate-vibid:1001000136091": 43,
+      "gas:candidate-vibid:1001000188015": 110,
+      "gas:candidate-vibid:1001000254942": 69,
+      "gas:candidate-vibid:1001000121881": 267,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 82,
+      "special:official-result-label:126": 14,
+      "special:against-all": 204
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7060,15 +7060,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 144,
-      "Ильин Петр Григорьевич": 77,
-      "Карахалин Константин Владимирович": 88,
-      "Лесневская Ольга Васильевна": 64,
-      "Локоть Анатолий Евгеньевич": 290,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 117,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000193915": 144,
+      "gas:candidate-vibid:1001000136091": 77,
+      "gas:candidate-vibid:1001000188015": 88,
+      "gas:candidate-vibid:1001000254942": 64,
+      "gas:candidate-vibid:1001000121881": 290,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 117,
+      "special:official-result-label:126": 18,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7118,15 +7118,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 138,
-      "Ильин Петр Григорьевич": 59,
-      "Карахалин Константин Владимирович": 61,
-      "Лесневская Ольга Васильевна": 47,
-      "Локоть Анатолий Евгеньевич": 238,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 82,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000193915": 138,
+      "gas:candidate-vibid:1001000136091": 59,
+      "gas:candidate-vibid:1001000188015": 61,
+      "gas:candidate-vibid:1001000254942": 47,
+      "gas:candidate-vibid:1001000121881": 238,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 82,
+      "special:official-result-label:126": 27,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7176,15 +7176,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 144,
-      "Ильин Петр Григорьевич": 38,
-      "Карахалин Константин Владимирович": 79,
-      "Лесневская Ольга Васильевна": 50,
-      "Локоть Анатолий Евгеньевич": 205,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 80,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000193915": 144,
+      "gas:candidate-vibid:1001000136091": 38,
+      "gas:candidate-vibid:1001000188015": 79,
+      "gas:candidate-vibid:1001000254942": 50,
+      "gas:candidate-vibid:1001000121881": 205,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 80,
+      "special:official-result-label:126": 22,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7234,15 +7234,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 97,
-      "Ильин Петр Григорьевич": 57,
-      "Карахалин Константин Владимирович": 44,
-      "Лесневская Ольга Васильевна": 52,
-      "Локоть Анатолий Евгеньевич": 214,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 68,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000193915": 97,
+      "gas:candidate-vibid:1001000136091": 57,
+      "gas:candidate-vibid:1001000188015": 44,
+      "gas:candidate-vibid:1001000254942": 52,
+      "gas:candidate-vibid:1001000121881": 214,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 68,
+      "special:official-result-label:126": 19,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7292,15 +7292,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 149,
-      "Ильин Петр Григорьевич": 68,
-      "Карахалин Константин Владимирович": 88,
-      "Лесневская Ольга Васильевна": 85,
-      "Локоть Анатолий Евгеньевич": 317,
-      "Остролуцкий Виктор Семенович": 22,
-      "Фомин Александр Анатольевич": 127,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000193915": 149,
+      "gas:candidate-vibid:1001000136091": 68,
+      "gas:candidate-vibid:1001000188015": 88,
+      "gas:candidate-vibid:1001000254942": 85,
+      "gas:candidate-vibid:1001000121881": 317,
+      "gas:candidate-vibid:1001000202322": 22,
+      "gas:candidate-vibid:1001000212405": 127,
+      "special:official-result-label:126": 23,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7350,15 +7350,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 123,
-      "Ильин Петр Григорьевич": 39,
-      "Карахалин Константин Владимирович": 70,
-      "Лесневская Ольга Васильевна": 51,
-      "Локоть Анатолий Евгеньевич": 264,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 108,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000193915": 123,
+      "gas:candidate-vibid:1001000136091": 39,
+      "gas:candidate-vibid:1001000188015": 70,
+      "gas:candidate-vibid:1001000254942": 51,
+      "gas:candidate-vibid:1001000121881": 264,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 108,
+      "special:official-result-label:126": 27,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7408,15 +7408,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 150,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 120,
-      "Лесневская Ольга Васильевна": 75,
-      "Локоть Анатолий Евгеньевич": 300,
-      "Остролуцкий Виктор Семенович": 32,
-      "Фомин Александр Анатольевич": 109,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000193915": 150,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 120,
+      "gas:candidate-vibid:1001000254942": 75,
+      "gas:candidate-vibid:1001000121881": 300,
+      "gas:candidate-vibid:1001000202322": 32,
+      "gas:candidate-vibid:1001000212405": 109,
+      "special:official-result-label:126": 18,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7466,15 +7466,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 105,
-      "Ильин Петр Григорьевич": 34,
-      "Карахалин Константин Владимирович": 79,
-      "Лесневская Ольга Васильевна": 45,
-      "Локоть Анатолий Евгеньевич": 214,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 84,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000193915": 105,
+      "gas:candidate-vibid:1001000136091": 34,
+      "gas:candidate-vibid:1001000188015": 79,
+      "gas:candidate-vibid:1001000254942": 45,
+      "gas:candidate-vibid:1001000121881": 214,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 84,
+      "special:official-result-label:126": 18,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7524,15 +7524,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 104,
-      "Ильин Петр Григорьевич": 34,
-      "Карахалин Константин Владимирович": 90,
-      "Лесневская Ольга Васильевна": 54,
-      "Локоть Анатолий Евгеньевич": 301,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 133,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000193915": 104,
+      "gas:candidate-vibid:1001000136091": 34,
+      "gas:candidate-vibid:1001000188015": 90,
+      "gas:candidate-vibid:1001000254942": 54,
+      "gas:candidate-vibid:1001000121881": 301,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 133,
+      "special:official-result-label:126": 17,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7582,15 +7582,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 109,
-      "Ильин Петр Григорьевич": 23,
-      "Карахалин Константин Владимирович": 60,
-      "Лесневская Ольга Васильевна": 45,
-      "Локоть Анатолий Евгеньевич": 207,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 97,
-      "Шадт Александр Евгеньевич": 13,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000193915": 109,
+      "gas:candidate-vibid:1001000136091": 23,
+      "gas:candidate-vibid:1001000188015": 60,
+      "gas:candidate-vibid:1001000254942": 45,
+      "gas:candidate-vibid:1001000121881": 207,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 97,
+      "special:official-result-label:126": 13,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7640,15 +7640,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 129,
-      "Ильин Петр Григорьевич": 23,
-      "Карахалин Константин Владимирович": 55,
-      "Лесневская Ольга Васильевна": 48,
-      "Локоть Анатолий Евгеньевич": 231,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 128,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000193915": 129,
+      "gas:candidate-vibid:1001000136091": 23,
+      "gas:candidate-vibid:1001000188015": 55,
+      "gas:candidate-vibid:1001000254942": 48,
+      "gas:candidate-vibid:1001000121881": 231,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 128,
+      "special:official-result-label:126": 23,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7698,15 +7698,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 178,
-      "Ильин Петр Григорьевич": 51,
-      "Карахалин Константин Владимирович": 97,
-      "Лесневская Ольга Васильевна": 85,
-      "Локоть Анатолий Евгеньевич": 343,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 134,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 321
+      "gas:candidate-vibid:1001000193915": 178,
+      "gas:candidate-vibid:1001000136091": 51,
+      "gas:candidate-vibid:1001000188015": 97,
+      "gas:candidate-vibid:1001000254942": 85,
+      "gas:candidate-vibid:1001000121881": 343,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 134,
+      "special:official-result-label:126": 25,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7756,15 +7756,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 140,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 97,
-      "Лесневская Ольга Васильевна": 71,
-      "Локоть Анатолий Евгеньевич": 324,
-      "Остролуцкий Виктор Семенович": 14,
-      "Фомин Александр Анатольевич": 172,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000193915": 140,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 97,
+      "gas:candidate-vibid:1001000254942": 71,
+      "gas:candidate-vibid:1001000121881": 324,
+      "gas:candidate-vibid:1001000202322": 14,
+      "gas:candidate-vibid:1001000212405": 172,
+      "special:official-result-label:126": 27,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7814,15 +7814,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 18,
-      "Ильин Петр Григорьевич": 17,
-      "Карахалин Константин Владимирович": 2,
-      "Лесневская Ольга Васильевна": 3,
-      "Локоть Анатолий Евгеньевич": 46,
-      "Остролуцкий Виктор Семенович": 1,
-      "Фомин Александр Анатольевич": 27,
-      "Шадт Александр Евгеньевич": 4,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000193915": 18,
+      "gas:candidate-vibid:1001000136091": 17,
+      "gas:candidate-vibid:1001000188015": 2,
+      "gas:candidate-vibid:1001000254942": 3,
+      "gas:candidate-vibid:1001000121881": 46,
+      "gas:candidate-vibid:1001000202322": 1,
+      "gas:candidate-vibid:1001000212405": 27,
+      "special:official-result-label:126": 4,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7872,15 +7872,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 111,
-      "Ильин Петр Григорьевич": 46,
-      "Карахалин Константин Владимирович": 69,
-      "Лесневская Ольга Васильевна": 45,
-      "Локоть Анатолий Евгеньевич": 276,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 124,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000193915": 111,
+      "gas:candidate-vibid:1001000136091": 46,
+      "gas:candidate-vibid:1001000188015": 69,
+      "gas:candidate-vibid:1001000254942": 45,
+      "gas:candidate-vibid:1001000121881": 276,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 124,
+      "special:official-result-label:126": 14,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7930,15 +7930,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 149,
-      "Ильин Петр Григорьевич": 69,
-      "Карахалин Константин Владимирович": 85,
-      "Лесневская Ольга Васильевна": 79,
-      "Локоть Анатолий Евгеньевич": 250,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 110,
-      "Шадт Александр Евгеньевич": 15,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000193915": 149,
+      "gas:candidate-vibid:1001000136091": 69,
+      "gas:candidate-vibid:1001000188015": 85,
+      "gas:candidate-vibid:1001000254942": 79,
+      "gas:candidate-vibid:1001000121881": 250,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 110,
+      "special:official-result-label:126": 15,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -7988,15 +7988,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 145,
-      "Ильин Петр Григорьевич": 65,
-      "Карахалин Константин Владимирович": 68,
-      "Лесневская Ольга Васильевна": 88,
-      "Локоть Анатолий Евгеньевич": 258,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 98,
-      "Шадт Александр Евгеньевич": 20,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000193915": 145,
+      "gas:candidate-vibid:1001000136091": 65,
+      "gas:candidate-vibid:1001000188015": 68,
+      "gas:candidate-vibid:1001000254942": 88,
+      "gas:candidate-vibid:1001000121881": 258,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 98,
+      "special:official-result-label:126": 20,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8046,15 +8046,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 117,
-      "Ильин Петр Григорьевич": 50,
-      "Карахалин Константин Владимирович": 71,
-      "Лесневская Ольга Васильевна": 50,
-      "Локоть Анатолий Евгеньевич": 305,
-      "Остролуцкий Виктор Семенович": 5,
-      "Фомин Александр Анатольевич": 130,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000193915": 117,
+      "gas:candidate-vibid:1001000136091": 50,
+      "gas:candidate-vibid:1001000188015": 71,
+      "gas:candidate-vibid:1001000254942": 50,
+      "gas:candidate-vibid:1001000121881": 305,
+      "gas:candidate-vibid:1001000202322": 5,
+      "gas:candidate-vibid:1001000212405": 130,
+      "special:official-result-label:126": 17,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8104,15 +8104,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 94,
-      "Ильин Петр Григорьевич": 51,
-      "Карахалин Константин Владимирович": 37,
-      "Лесневская Ольга Васильевна": 44,
-      "Локоть Анатолий Евгеньевич": 200,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 67,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000193915": 94,
+      "gas:candidate-vibid:1001000136091": 51,
+      "gas:candidate-vibid:1001000188015": 37,
+      "gas:candidate-vibid:1001000254942": 44,
+      "gas:candidate-vibid:1001000121881": 200,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 67,
+      "special:official-result-label:126": 18,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8162,15 +8162,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 135,
-      "Ильин Петр Григорьевич": 89,
-      "Карахалин Константин Владимирович": 88,
-      "Лесневская Ольга Васильевна": 72,
-      "Локоть Анатолий Евгеньевич": 307,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 125,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000193915": 135,
+      "gas:candidate-vibid:1001000136091": 89,
+      "gas:candidate-vibid:1001000188015": 88,
+      "gas:candidate-vibid:1001000254942": 72,
+      "gas:candidate-vibid:1001000121881": 307,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 125,
+      "special:official-result-label:126": 21,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8220,15 +8220,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 149,
-      "Ильин Петр Григорьевич": 75,
-      "Карахалин Константин Владимирович": 77,
-      "Лесневская Ольга Васильевна": 92,
-      "Локоть Анатолий Евгеньевич": 339,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 120,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 311
+      "gas:candidate-vibid:1001000193915": 149,
+      "gas:candidate-vibid:1001000136091": 75,
+      "gas:candidate-vibid:1001000188015": 77,
+      "gas:candidate-vibid:1001000254942": 92,
+      "gas:candidate-vibid:1001000121881": 339,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 120,
+      "special:official-result-label:126": 29,
+      "special:against-all": 311
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8278,15 +8278,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 139,
-      "Ильин Петр Григорьевич": 86,
-      "Карахалин Константин Владимирович": 88,
-      "Лесневская Ольга Васильевна": 103,
-      "Локоть Анатолий Евгеньевич": 315,
-      "Остролуцкий Виктор Семенович": 27,
-      "Фомин Александр Анатольевич": 127,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000193915": 139,
+      "gas:candidate-vibid:1001000136091": 86,
+      "gas:candidate-vibid:1001000188015": 88,
+      "gas:candidate-vibid:1001000254942": 103,
+      "gas:candidate-vibid:1001000121881": 315,
+      "gas:candidate-vibid:1001000202322": 27,
+      "gas:candidate-vibid:1001000212405": 127,
+      "special:official-result-label:126": 17,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8336,15 +8336,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 89,
-      "Ильин Петр Григорьевич": 65,
-      "Карахалин Константин Владимирович": 57,
-      "Лесневская Ольга Васильевна": 70,
-      "Локоть Анатолий Евгеньевич": 237,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 61,
-      "Шадт Александр Евгеньевич": 13,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000193915": 89,
+      "gas:candidate-vibid:1001000136091": 65,
+      "gas:candidate-vibid:1001000188015": 57,
+      "gas:candidate-vibid:1001000254942": 70,
+      "gas:candidate-vibid:1001000121881": 237,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 61,
+      "special:official-result-label:126": 13,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8394,15 +8394,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 197,
-      "Ильин Петр Григорьевич": 75,
-      "Карахалин Константин Владимирович": 86,
-      "Лесневская Ольга Васильевна": 88,
-      "Локоть Анатолий Евгеньевич": 304,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 79,
-      "Шадт Александр Евгеньевич": 33,
-      "Против всех": 266
+      "gas:candidate-vibid:1001000193915": 197,
+      "gas:candidate-vibid:1001000136091": 75,
+      "gas:candidate-vibid:1001000188015": 86,
+      "gas:candidate-vibid:1001000254942": 88,
+      "gas:candidate-vibid:1001000121881": 304,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 79,
+      "special:official-result-label:126": 33,
+      "special:against-all": 266
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8452,15 +8452,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 149,
-      "Ильин Петр Григорьевич": 46,
-      "Карахалин Константин Владимирович": 60,
-      "Лесневская Ольга Васильевна": 67,
-      "Локоть Анатолий Евгеньевич": 176,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 53,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000193915": 149,
+      "gas:candidate-vibid:1001000136091": 46,
+      "gas:candidate-vibid:1001000188015": 60,
+      "gas:candidate-vibid:1001000254942": 67,
+      "gas:candidate-vibid:1001000121881": 176,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 53,
+      "special:official-result-label:126": 18,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8510,15 +8510,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 115,
-      "Ильин Петр Григорьевич": 71,
-      "Карахалин Константин Владимирович": 51,
-      "Лесневская Ольга Васильевна": 68,
-      "Локоть Анатолий Евгеньевич": 238,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 69,
-      "Шадт Александр Евгеньевич": 15,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000193915": 115,
+      "gas:candidate-vibid:1001000136091": 71,
+      "gas:candidate-vibid:1001000188015": 51,
+      "gas:candidate-vibid:1001000254942": 68,
+      "gas:candidate-vibid:1001000121881": 238,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 69,
+      "special:official-result-label:126": 15,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8568,15 +8568,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 133,
-      "Ильин Петр Григорьевич": 59,
-      "Карахалин Константин Владимирович": 39,
-      "Лесневская Ольга Васильевна": 60,
-      "Локоть Анатолий Евгеньевич": 233,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 49,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 182
+      "gas:candidate-vibid:1001000193915": 133,
+      "gas:candidate-vibid:1001000136091": 59,
+      "gas:candidate-vibid:1001000188015": 39,
+      "gas:candidate-vibid:1001000254942": 60,
+      "gas:candidate-vibid:1001000121881": 233,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 49,
+      "special:official-result-label:126": 21,
+      "special:against-all": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8626,15 +8626,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 113,
-      "Ильин Петр Григорьевич": 49,
-      "Карахалин Константин Владимирович": 39,
-      "Лесневская Ольга Васильевна": 39,
-      "Локоть Анатолий Евгеньевич": 249,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 63,
-      "Шадт Александр Евгеньевич": 13,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000193915": 113,
+      "gas:candidate-vibid:1001000136091": 49,
+      "gas:candidate-vibid:1001000188015": 39,
+      "gas:candidate-vibid:1001000254942": 39,
+      "gas:candidate-vibid:1001000121881": 249,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 63,
+      "special:official-result-label:126": 13,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8684,15 +8684,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 227,
-      "Ильин Петр Григорьевич": 101,
-      "Карахалин Константин Владимирович": 112,
-      "Лесневская Ольга Васильевна": 103,
-      "Локоть Анатолий Евгеньевич": 418,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 114,
-      "Шадт Александр Евгеньевич": 27,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000193915": 227,
+      "gas:candidate-vibid:1001000136091": 101,
+      "gas:candidate-vibid:1001000188015": 112,
+      "gas:candidate-vibid:1001000254942": 103,
+      "gas:candidate-vibid:1001000121881": 418,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 114,
+      "special:official-result-label:126": 27,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8742,15 +8742,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 210,
-      "Ильин Петр Григорьевич": 62,
-      "Карахалин Константин Владимирович": 80,
-      "Лесневская Ольга Васильевна": 69,
-      "Локоть Анатолий Евгеньевич": 295,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 103,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000193915": 210,
+      "gas:candidate-vibid:1001000136091": 62,
+      "gas:candidate-vibid:1001000188015": 80,
+      "gas:candidate-vibid:1001000254942": 69,
+      "gas:candidate-vibid:1001000121881": 295,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 103,
+      "special:official-result-label:126": 26,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8800,15 +8800,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 154,
-      "Ильин Петр Григорьевич": 64,
-      "Карахалин Константин Владимирович": 53,
-      "Лесневская Ольга Васильевна": 55,
-      "Локоть Анатолий Евгеньевич": 234,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 78,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000193915": 154,
+      "gas:candidate-vibid:1001000136091": 64,
+      "gas:candidate-vibid:1001000188015": 53,
+      "gas:candidate-vibid:1001000254942": 55,
+      "gas:candidate-vibid:1001000121881": 234,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 78,
+      "special:official-result-label:126": 17,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8858,15 +8858,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 244,
-      "Ильин Петр Григорьевич": 93,
-      "Карахалин Константин Владимирович": 107,
-      "Лесневская Ольга Васильевна": 65,
-      "Локоть Анатолий Евгеньевич": 368,
-      "Остролуцкий Виктор Семенович": 24,
-      "Фомин Александр Анатольевич": 77,
-      "Шадт Александр Евгеньевич": 17,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000193915": 244,
+      "gas:candidate-vibid:1001000136091": 93,
+      "gas:candidate-vibid:1001000188015": 107,
+      "gas:candidate-vibid:1001000254942": 65,
+      "gas:candidate-vibid:1001000121881": 368,
+      "gas:candidate-vibid:1001000202322": 24,
+      "gas:candidate-vibid:1001000212405": 77,
+      "special:official-result-label:126": 17,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8916,15 +8916,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 200,
-      "Ильин Петр Григорьевич": 94,
-      "Карахалин Константин Владимирович": 65,
-      "Лесневская Ольга Васильевна": 95,
-      "Локоть Анатолий Евгеньевич": 227,
-      "Остролуцкий Виктор Семенович": 37,
-      "Фомин Александр Анатольевич": 143,
-      "Шадт Александр Евгеньевич": 38,
-      "Против всех": 475
+      "gas:candidate-vibid:1001000193915": 200,
+      "gas:candidate-vibid:1001000136091": 94,
+      "gas:candidate-vibid:1001000188015": 65,
+      "gas:candidate-vibid:1001000254942": 95,
+      "gas:candidate-vibid:1001000121881": 227,
+      "gas:candidate-vibid:1001000202322": 37,
+      "gas:candidate-vibid:1001000212405": 143,
+      "special:official-result-label:126": 38,
+      "special:against-all": 475
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -8974,15 +8974,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 199,
-      "Ильин Петр Григорьевич": 124,
-      "Карахалин Константин Владимирович": 72,
-      "Лесневская Ольга Васильевна": 80,
-      "Локоть Анатолий Евгеньевич": 245,
-      "Остролуцкий Виктор Семенович": 38,
-      "Фомин Александр Анатольевич": 77,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000193915": 199,
+      "gas:candidate-vibid:1001000136091": 124,
+      "gas:candidate-vibid:1001000188015": 72,
+      "gas:candidate-vibid:1001000254942": 80,
+      "gas:candidate-vibid:1001000121881": 245,
+      "gas:candidate-vibid:1001000202322": 38,
+      "gas:candidate-vibid:1001000212405": 77,
+      "special:official-result-label:126": 21,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9032,15 +9032,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 129,
-      "Ильин Петр Григорьевич": 60,
-      "Карахалин Константин Владимирович": 82,
-      "Лесневская Ольга Васильевна": 81,
-      "Локоть Анатолий Евгеньевич": 293,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 79,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000193915": 129,
+      "gas:candidate-vibid:1001000136091": 60,
+      "gas:candidate-vibid:1001000188015": 82,
+      "gas:candidate-vibid:1001000254942": 81,
+      "gas:candidate-vibid:1001000121881": 293,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 79,
+      "special:official-result-label:126": 26,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9090,15 +9090,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 181,
-      "Ильин Петр Григорьевич": 90,
-      "Карахалин Константин Владимирович": 68,
-      "Лесневская Ольга Васильевна": 91,
-      "Локоть Анатолий Евгеньевич": 356,
-      "Остролуцкий Виктор Семенович": 20,
-      "Фомин Александр Анатольевич": 111,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 335
+      "gas:candidate-vibid:1001000193915": 181,
+      "gas:candidate-vibid:1001000136091": 90,
+      "gas:candidate-vibid:1001000188015": 68,
+      "gas:candidate-vibid:1001000254942": 91,
+      "gas:candidate-vibid:1001000121881": 356,
+      "gas:candidate-vibid:1001000202322": 20,
+      "gas:candidate-vibid:1001000212405": 111,
+      "special:official-result-label:126": 29,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9148,15 +9148,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 261,
-      "Ильин Петр Григорьевич": 101,
-      "Карахалин Константин Владимирович": 127,
-      "Лесневская Ольга Васильевна": 99,
-      "Локоть Анатолий Евгеньевич": 353,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 149,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 395
+      "gas:candidate-vibid:1001000193915": 261,
+      "gas:candidate-vibid:1001000136091": 101,
+      "gas:candidate-vibid:1001000188015": 127,
+      "gas:candidate-vibid:1001000254942": 99,
+      "gas:candidate-vibid:1001000121881": 353,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 149,
+      "special:official-result-label:126": 26,
+      "special:against-all": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9206,15 +9206,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 243,
-      "Ильин Петр Григорьевич": 115,
-      "Карахалин Константин Владимирович": 137,
-      "Лесневская Ольга Васильевна": 104,
-      "Локоть Анатолий Евгеньевич": 324,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 140,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 349
+      "gas:candidate-vibid:1001000193915": 243,
+      "gas:candidate-vibid:1001000136091": 115,
+      "gas:candidate-vibid:1001000188015": 137,
+      "gas:candidate-vibid:1001000254942": 104,
+      "gas:candidate-vibid:1001000121881": 324,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 140,
+      "special:official-result-label:126": 31,
+      "special:against-all": 349
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9264,15 +9264,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 228,
-      "Ильин Петр Григорьевич": 118,
-      "Карахалин Константин Владимирович": 120,
-      "Лесневская Ольга Васильевна": 115,
-      "Локоть Анатолий Евгеньевич": 328,
-      "Остролуцкий Виктор Семенович": 29,
-      "Фомин Александр Анатольевич": 130,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 430
+      "gas:candidate-vibid:1001000193915": 228,
+      "gas:candidate-vibid:1001000136091": 118,
+      "gas:candidate-vibid:1001000188015": 120,
+      "gas:candidate-vibid:1001000254942": 115,
+      "gas:candidate-vibid:1001000121881": 328,
+      "gas:candidate-vibid:1001000202322": 29,
+      "gas:candidate-vibid:1001000212405": 130,
+      "special:official-result-label:126": 25,
+      "special:against-all": 430
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9322,15 +9322,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 248,
-      "Ильин Петр Григорьевич": 88,
-      "Карахалин Константин Владимирович": 99,
-      "Лесневская Ольга Васильевна": 99,
-      "Локоть Анатолий Евгеньевич": 275,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 167,
-      "Шадт Александр Евгеньевич": 44,
-      "Против всех": 399
+      "gas:candidate-vibid:1001000193915": 248,
+      "gas:candidate-vibid:1001000136091": 88,
+      "gas:candidate-vibid:1001000188015": 99,
+      "gas:candidate-vibid:1001000254942": 99,
+      "gas:candidate-vibid:1001000121881": 275,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 167,
+      "special:official-result-label:126": 44,
+      "special:against-all": 399
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9380,15 +9380,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 255,
-      "Ильин Петр Григорьевич": 107,
-      "Карахалин Константин Владимирович": 138,
-      "Лесневская Ольга Васильевна": 121,
-      "Локоть Анатолий Евгеньевич": 248,
-      "Остролуцкий Виктор Семенович": 22,
-      "Фомин Александр Анатольевич": 150,
-      "Шадт Александр Евгеньевич": 34,
-      "Против всех": 391
+      "gas:candidate-vibid:1001000193915": 255,
+      "gas:candidate-vibid:1001000136091": 107,
+      "gas:candidate-vibid:1001000188015": 138,
+      "gas:candidate-vibid:1001000254942": 121,
+      "gas:candidate-vibid:1001000121881": 248,
+      "gas:candidate-vibid:1001000202322": 22,
+      "gas:candidate-vibid:1001000212405": 150,
+      "special:official-result-label:126": 34,
+      "special:against-all": 391
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9438,15 +9438,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 263,
-      "Ильин Петр Григорьевич": 99,
-      "Карахалин Константин Владимирович": 108,
-      "Лесневская Ольга Васильевна": 84,
-      "Локоть Анатолий Евгеньевич": 238,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 200,
-      "Шадт Александр Евгеньевич": 40,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000193915": 263,
+      "gas:candidate-vibid:1001000136091": 99,
+      "gas:candidate-vibid:1001000188015": 108,
+      "gas:candidate-vibid:1001000254942": 84,
+      "gas:candidate-vibid:1001000121881": 238,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 200,
+      "special:official-result-label:126": 40,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9496,15 +9496,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 254,
-      "Ильин Петр Григорьевич": 94,
-      "Карахалин Константин Владимирович": 115,
-      "Лесневская Ольга Васильевна": 88,
-      "Локоть Анатолий Евгеньевич": 263,
-      "Остролуцкий Виктор Семенович": 20,
-      "Фомин Александр Анатольевич": 124,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 439
+      "gas:candidate-vibid:1001000193915": 254,
+      "gas:candidate-vibid:1001000136091": 94,
+      "gas:candidate-vibid:1001000188015": 115,
+      "gas:candidate-vibid:1001000254942": 88,
+      "gas:candidate-vibid:1001000121881": 263,
+      "gas:candidate-vibid:1001000202322": 20,
+      "gas:candidate-vibid:1001000212405": 124,
+      "special:official-result-label:126": 31,
+      "special:against-all": 439
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9554,15 +9554,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 253,
-      "Ильин Петр Григорьевич": 75,
-      "Карахалин Константин Владимирович": 126,
-      "Лесневская Ольга Васильевна": 100,
-      "Локоть Анатолий Евгеньевич": 232,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 115,
-      "Шадт Александр Евгеньевич": 35,
-      "Против всех": 414
+      "gas:candidate-vibid:1001000193915": 253,
+      "gas:candidate-vibid:1001000136091": 75,
+      "gas:candidate-vibid:1001000188015": 126,
+      "gas:candidate-vibid:1001000254942": 100,
+      "gas:candidate-vibid:1001000121881": 232,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 115,
+      "special:official-result-label:126": 35,
+      "special:against-all": 414
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9612,15 +9612,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 235,
-      "Ильин Петр Григорьевич": 89,
-      "Карахалин Константин Владимирович": 103,
-      "Лесневская Ольга Васильевна": 113,
-      "Локоть Анатолий Евгеньевич": 282,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 143,
-      "Шадт Александр Евгеньевич": 51,
-      "Против всех": 422
+      "gas:candidate-vibid:1001000193915": 235,
+      "gas:candidate-vibid:1001000136091": 89,
+      "gas:candidate-vibid:1001000188015": 103,
+      "gas:candidate-vibid:1001000254942": 113,
+      "gas:candidate-vibid:1001000121881": 282,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 143,
+      "special:official-result-label:126": 51,
+      "special:against-all": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9670,15 +9670,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 229,
-      "Ильин Петр Григорьевич": 116,
-      "Карахалин Константин Владимирович": 144,
-      "Лесневская Ольга Васильевна": 123,
-      "Локоть Анатолий Евгеньевич": 239,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 178,
-      "Шадт Александр Евгеньевич": 33,
-      "Против всех": 461
+      "gas:candidate-vibid:1001000193915": 229,
+      "gas:candidate-vibid:1001000136091": 116,
+      "gas:candidate-vibid:1001000188015": 144,
+      "gas:candidate-vibid:1001000254942": 123,
+      "gas:candidate-vibid:1001000121881": 239,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 178,
+      "special:official-result-label:126": 33,
+      "special:against-all": 461
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9728,15 +9728,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 243,
-      "Ильин Петр Григорьевич": 91,
-      "Карахалин Константин Владимирович": 112,
-      "Лесневская Ольга Васильевна": 115,
-      "Локоть Анатолий Евгеньевич": 205,
-      "Остролуцкий Виктор Семенович": 17,
-      "Фомин Александр Анатольевич": 137,
-      "Шадт Александр Евгеньевич": 41,
-      "Против всех": 383
+      "gas:candidate-vibid:1001000193915": 243,
+      "gas:candidate-vibid:1001000136091": 91,
+      "gas:candidate-vibid:1001000188015": 112,
+      "gas:candidate-vibid:1001000254942": 115,
+      "gas:candidate-vibid:1001000121881": 205,
+      "gas:candidate-vibid:1001000202322": 17,
+      "gas:candidate-vibid:1001000212405": 137,
+      "special:official-result-label:126": 41,
+      "special:against-all": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9786,15 +9786,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 138,
-      "Ильин Петр Григорьевич": 88,
-      "Карахалин Константин Владимирович": 62,
-      "Лесневская Ольга Васильевна": 52,
-      "Локоть Анатолий Евгеньевич": 475,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 80,
-      "Шадт Александр Евгеньевич": 13,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000193915": 138,
+      "gas:candidate-vibid:1001000136091": 88,
+      "gas:candidate-vibid:1001000188015": 62,
+      "gas:candidate-vibid:1001000254942": 52,
+      "gas:candidate-vibid:1001000121881": 475,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 80,
+      "special:official-result-label:126": 13,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9844,15 +9844,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 181,
-      "Ильин Петр Григорьевич": 87,
-      "Карахалин Константин Владимирович": 62,
-      "Лесневская Ольга Васильевна": 86,
-      "Локоть Анатолий Евгеньевич": 353,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 96,
-      "Шадт Александр Евгеньевич": 24,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000193915": 181,
+      "gas:candidate-vibid:1001000136091": 87,
+      "gas:candidate-vibid:1001000188015": 62,
+      "gas:candidate-vibid:1001000254942": 86,
+      "gas:candidate-vibid:1001000121881": 353,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 96,
+      "special:official-result-label:126": 24,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9902,15 +9902,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 191,
-      "Ильин Петр Григорьевич": 89,
-      "Карахалин Константин Владимирович": 50,
-      "Лесневская Ольга Васильевна": 87,
-      "Локоть Анатолий Евгеньевич": 308,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 65,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000193915": 191,
+      "gas:candidate-vibid:1001000136091": 89,
+      "gas:candidate-vibid:1001000188015": 50,
+      "gas:candidate-vibid:1001000254942": 87,
+      "gas:candidate-vibid:1001000121881": 308,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 65,
+      "special:official-result-label:126": 21,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -9960,15 +9960,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 147,
-      "Ильин Петр Григорьевич": 90,
-      "Карахалин Константин Владимирович": 76,
-      "Лесневская Ольга Васильевна": 49,
-      "Локоть Анатолий Евгеньевич": 353,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 144,
-      "Шадт Александр Евгеньевич": 19,
-      "Против всех": 316
+      "gas:candidate-vibid:1001000193915": 147,
+      "gas:candidate-vibid:1001000136091": 90,
+      "gas:candidate-vibid:1001000188015": 76,
+      "gas:candidate-vibid:1001000254942": 49,
+      "gas:candidate-vibid:1001000121881": 353,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 144,
+      "special:official-result-label:126": 19,
+      "special:against-all": 316
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10018,15 +10018,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 145,
-      "Ильин Петр Григорьевич": 110,
-      "Карахалин Константин Владимирович": 36,
-      "Лесневская Ольга Васильевна": 76,
-      "Локоть Анатолий Евгеньевич": 297,
-      "Остролуцкий Виктор Семенович": 20,
-      "Фомин Александр Анатольевич": 98,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000193915": 145,
+      "gas:candidate-vibid:1001000136091": 110,
+      "gas:candidate-vibid:1001000188015": 36,
+      "gas:candidate-vibid:1001000254942": 76,
+      "gas:candidate-vibid:1001000121881": 297,
+      "gas:candidate-vibid:1001000202322": 20,
+      "gas:candidate-vibid:1001000212405": 98,
+      "special:official-result-label:126": 18,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10076,15 +10076,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 185,
-      "Ильин Петр Григорьевич": 81,
-      "Карахалин Константин Владимирович": 60,
-      "Лесневская Ольга Васильевна": 88,
-      "Локоть Анатолий Евгеньевич": 304,
-      "Остролуцкий Виктор Семенович": 19,
-      "Фомин Александр Анатольевич": 116,
-      "Шадт Александр Евгеньевич": 18,
-      "Против всех": 334
+      "gas:candidate-vibid:1001000193915": 185,
+      "gas:candidate-vibid:1001000136091": 81,
+      "gas:candidate-vibid:1001000188015": 60,
+      "gas:candidate-vibid:1001000254942": 88,
+      "gas:candidate-vibid:1001000121881": 304,
+      "gas:candidate-vibid:1001000202322": 19,
+      "gas:candidate-vibid:1001000212405": 116,
+      "special:official-result-label:126": 18,
+      "special:against-all": 334
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10134,15 +10134,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 361,
-      "Ильин Петр Григорьевич": 186,
-      "Карахалин Константин Владимирович": 82,
-      "Лесневская Ольга Васильевна": 84,
-      "Локоть Анатолий Евгеньевич": 268,
-      "Остролуцкий Виктор Семенович": 29,
-      "Фомин Александр Анатольевич": 124,
-      "Шадт Александр Евгеньевич": 39,
-      "Против всех": 476
+      "gas:candidate-vibid:1001000193915": 361,
+      "gas:candidate-vibid:1001000136091": 186,
+      "gas:candidate-vibid:1001000188015": 82,
+      "gas:candidate-vibid:1001000254942": 84,
+      "gas:candidate-vibid:1001000121881": 268,
+      "gas:candidate-vibid:1001000202322": 29,
+      "gas:candidate-vibid:1001000212405": 124,
+      "special:official-result-label:126": 39,
+      "special:against-all": 476
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10192,15 +10192,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 416,
-      "Ильин Петр Григорьевич": 212,
-      "Карахалин Константин Владимирович": 80,
-      "Лесневская Ольга Васильевна": 70,
-      "Локоть Анатолий Евгеньевич": 206,
-      "Остролуцкий Виктор Семенович": 28,
-      "Фомин Александр Анатольевич": 123,
-      "Шадт Александр Евгеньевич": 105,
-      "Против всех": 478
+      "gas:candidate-vibid:1001000193915": 416,
+      "gas:candidate-vibid:1001000136091": 212,
+      "gas:candidate-vibid:1001000188015": 80,
+      "gas:candidate-vibid:1001000254942": 70,
+      "gas:candidate-vibid:1001000121881": 206,
+      "gas:candidate-vibid:1001000202322": 28,
+      "gas:candidate-vibid:1001000212405": 123,
+      "special:official-result-label:126": 105,
+      "special:against-all": 478
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10250,15 +10250,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 310,
-      "Ильин Петр Григорьевич": 235,
-      "Карахалин Константин Владимирович": 82,
-      "Лесневская Ольга Васильевна": 104,
-      "Локоть Анатолий Евгеньевич": 267,
-      "Остролуцкий Виктор Семенович": 27,
-      "Фомин Александр Анатольевич": 167,
-      "Шадт Александр Евгеньевич": 46,
-      "Против всех": 557
+      "gas:candidate-vibid:1001000193915": 310,
+      "gas:candidate-vibid:1001000136091": 235,
+      "gas:candidate-vibid:1001000188015": 82,
+      "gas:candidate-vibid:1001000254942": 104,
+      "gas:candidate-vibid:1001000121881": 267,
+      "gas:candidate-vibid:1001000202322": 27,
+      "gas:candidate-vibid:1001000212405": 167,
+      "special:official-result-label:126": 46,
+      "special:against-all": 557
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10308,15 +10308,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 335,
-      "Ильин Петр Григорьевич": 205,
-      "Карахалин Константин Владимирович": 54,
-      "Лесневская Ольга Васильевна": 89,
-      "Локоть Анатолий Евгеньевич": 248,
-      "Остролуцкий Виктор Семенович": 29,
-      "Фомин Александр Анатольевич": 135,
-      "Шадт Александр Евгеньевич": 56,
-      "Против всех": 525
+      "gas:candidate-vibid:1001000193915": 335,
+      "gas:candidate-vibid:1001000136091": 205,
+      "gas:candidate-vibid:1001000188015": 54,
+      "gas:candidate-vibid:1001000254942": 89,
+      "gas:candidate-vibid:1001000121881": 248,
+      "gas:candidate-vibid:1001000202322": 29,
+      "gas:candidate-vibid:1001000212405": 135,
+      "special:official-result-label:126": 56,
+      "special:against-all": 525
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367105&region=0&sub_region=0&type=429",
@@ -10366,15 +10366,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 173,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 113,
-      "Лесневская Ольга Васильевна": 58,
-      "Локоть Анатолий Евгеньевич": 216,
-      "Остролуцкий Виктор Семенович": 10,
-      "Фомин Александр Анатольевич": 183,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000193915": 173,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 113,
+      "gas:candidate-vibid:1001000254942": 58,
+      "gas:candidate-vibid:1001000121881": 216,
+      "gas:candidate-vibid:1001000202322": 10,
+      "gas:candidate-vibid:1001000212405": 183,
+      "special:official-result-label:126": 22,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10424,15 +10424,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 159,
-      "Ильин Петр Григорьевич": 45,
-      "Карахалин Константин Владимирович": 151,
-      "Лесневская Ольга Васильевна": 58,
-      "Локоть Анатолий Евгеньевич": 494,
-      "Остролуцкий Виктор Семенович": 9,
-      "Фомин Александр Анатольевич": 237,
-      "Шадт Александр Евгеньевич": 29,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000193915": 159,
+      "gas:candidate-vibid:1001000136091": 45,
+      "gas:candidate-vibid:1001000188015": 151,
+      "gas:candidate-vibid:1001000254942": 58,
+      "gas:candidate-vibid:1001000121881": 494,
+      "gas:candidate-vibid:1001000202322": 9,
+      "gas:candidate-vibid:1001000212405": 237,
+      "special:official-result-label:126": 29,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10482,15 +10482,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 184,
-      "Ильин Петр Григорьевич": 36,
-      "Карахалин Константин Владимирович": 82,
-      "Лесневская Ольга Васильевна": 73,
-      "Локоть Анатолий Евгеньевич": 307,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 126,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000193915": 184,
+      "gas:candidate-vibid:1001000136091": 36,
+      "gas:candidate-vibid:1001000188015": 82,
+      "gas:candidate-vibid:1001000254942": 73,
+      "gas:candidate-vibid:1001000121881": 307,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 126,
+      "special:official-result-label:126": 23,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10540,15 +10540,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 136,
-      "Ильин Петр Григорьевич": 36,
-      "Карахалин Константин Владимирович": 98,
-      "Лесневская Ольга Васильевна": 52,
-      "Локоть Анатолий Евгеньевич": 196,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 147,
-      "Шадт Александр Евгеньевич": 14,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000193915": 136,
+      "gas:candidate-vibid:1001000136091": 36,
+      "gas:candidate-vibid:1001000188015": 98,
+      "gas:candidate-vibid:1001000254942": 52,
+      "gas:candidate-vibid:1001000121881": 196,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 147,
+      "special:official-result-label:126": 14,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10598,15 +10598,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 190,
-      "Ильин Петр Григорьевич": 34,
-      "Карахалин Константин Владимирович": 71,
-      "Лесневская Ольга Васильевна": 46,
-      "Локоть Анатолий Евгеньевич": 19,
-      "Остролуцкий Виктор Семенович": 193,
-      "Фомин Александр Анатольевич": 155,
-      "Шадт Александр Евгеньевич": 20,
-      "Против всех": 310
+      "gas:candidate-vibid:1001000193915": 190,
+      "gas:candidate-vibid:1001000136091": 34,
+      "gas:candidate-vibid:1001000188015": 71,
+      "gas:candidate-vibid:1001000254942": 46,
+      "gas:candidate-vibid:1001000121881": 19,
+      "gas:candidate-vibid:1001000202322": 193,
+      "gas:candidate-vibid:1001000212405": 155,
+      "special:official-result-label:126": 20,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10656,15 +10656,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 238,
-      "Ильин Петр Григорьевич": 68,
-      "Карахалин Константин Владимирович": 99,
-      "Лесневская Ольга Васильевна": 81,
-      "Локоть Анатолий Евгеньевич": 254,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 183,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000193915": 238,
+      "gas:candidate-vibid:1001000136091": 68,
+      "gas:candidate-vibid:1001000188015": 99,
+      "gas:candidate-vibid:1001000254942": 81,
+      "gas:candidate-vibid:1001000121881": 254,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 183,
+      "special:official-result-label:126": 26,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10714,15 +10714,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 238,
-      "Ильин Петр Григорьевич": 47,
-      "Карахалин Константин Владимирович": 119,
-      "Лесневская Ольга Васильевна": 86,
-      "Локоть Анатолий Евгеньевич": 272,
-      "Остролуцкий Виктор Семенович": 13,
-      "Фомин Александр Анатольевич": 265,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000193915": 238,
+      "gas:candidate-vibid:1001000136091": 47,
+      "gas:candidate-vibid:1001000188015": 119,
+      "gas:candidate-vibid:1001000254942": 86,
+      "gas:candidate-vibid:1001000121881": 272,
+      "gas:candidate-vibid:1001000202322": 13,
+      "gas:candidate-vibid:1001000212405": 265,
+      "special:official-result-label:126": 25,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10772,15 +10772,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 160,
-      "Ильин Петр Григорьевич": 48,
-      "Карахалин Константин Владимирович": 98,
-      "Лесневская Ольга Васильевна": 68,
-      "Локоть Анатолий Евгеньевич": 247,
-      "Остролуцкий Виктор Семенович": 6,
-      "Фомин Александр Анатольевич": 186,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000193915": 160,
+      "gas:candidate-vibid:1001000136091": 48,
+      "gas:candidate-vibid:1001000188015": 98,
+      "gas:candidate-vibid:1001000254942": 68,
+      "gas:candidate-vibid:1001000121881": 247,
+      "gas:candidate-vibid:1001000202322": 6,
+      "gas:candidate-vibid:1001000212405": 186,
+      "special:official-result-label:126": 21,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10830,15 +10830,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 182,
-      "Ильин Петр Григорьевич": 33,
-      "Карахалин Константин Владимирович": 109,
-      "Лесневская Ольга Васильевна": 75,
-      "Локоть Анатолий Евгеньевич": 321,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 157,
-      "Шадт Александр Евгеньевич": 20,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000193915": 182,
+      "gas:candidate-vibid:1001000136091": 33,
+      "gas:candidate-vibid:1001000188015": 109,
+      "gas:candidate-vibid:1001000254942": 75,
+      "gas:candidate-vibid:1001000121881": 321,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 157,
+      "special:official-result-label:126": 20,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10888,15 +10888,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 180,
-      "Ильин Петр Григорьевич": 27,
-      "Карахалин Константин Владимирович": 68,
-      "Лесневская Ольга Васильевна": 64,
-      "Локоть Анатолий Евгеньевич": 224,
-      "Остролуцкий Виктор Семенович": 2,
-      "Фомин Александр Анатольевич": 180,
-      "Шадт Александр Евгеньевич": 15,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000193915": 180,
+      "gas:candidate-vibid:1001000136091": 27,
+      "gas:candidate-vibid:1001000188015": 68,
+      "gas:candidate-vibid:1001000254942": 64,
+      "gas:candidate-vibid:1001000121881": 224,
+      "gas:candidate-vibid:1001000202322": 2,
+      "gas:candidate-vibid:1001000212405": 180,
+      "special:official-result-label:126": 15,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -10946,15 +10946,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 133,
-      "Ильин Петр Григорьевич": 63,
-      "Карахалин Константин Владимирович": 91,
-      "Лесневская Ольга Васильевна": 68,
-      "Локоть Анатолий Евгеньевич": 260,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 133,
-      "Шадт Александр Евгеньевич": 22,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000193915": 133,
+      "gas:candidate-vibid:1001000136091": 63,
+      "gas:candidate-vibid:1001000188015": 91,
+      "gas:candidate-vibid:1001000254942": 68,
+      "gas:candidate-vibid:1001000121881": 260,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 133,
+      "special:official-result-label:126": 22,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11004,15 +11004,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 214,
-      "Ильин Петр Григорьевич": 49,
-      "Карахалин Константин Владимирович": 89,
-      "Лесневская Ольга Васильевна": 87,
-      "Локоть Анатолий Евгеньевич": 308,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 186,
-      "Шадт Александр Евгеньевич": 21,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000193915": 214,
+      "gas:candidate-vibid:1001000136091": 49,
+      "gas:candidate-vibid:1001000188015": 89,
+      "gas:candidate-vibid:1001000254942": 87,
+      "gas:candidate-vibid:1001000121881": 308,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 186,
+      "special:official-result-label:126": 21,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11062,15 +11062,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 157,
-      "Ильин Петр Григорьевич": 48,
-      "Карахалин Константин Владимирович": 122,
-      "Лесневская Ольга Васильевна": 73,
-      "Локоть Анатолий Евгеньевич": 390,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 194,
-      "Шадт Александр Евгеньевич": 23,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000193915": 157,
+      "gas:candidate-vibid:1001000136091": 48,
+      "gas:candidate-vibid:1001000188015": 122,
+      "gas:candidate-vibid:1001000254942": 73,
+      "gas:candidate-vibid:1001000121881": 390,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 194,
+      "special:official-result-label:126": 23,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11120,15 +11120,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 175,
-      "Ильин Петр Григорьевич": 59,
-      "Карахалин Константин Владимирович": 136,
-      "Лесневская Ольга Васильевна": 104,
-      "Локоть Анатолий Евгеньевич": 406,
-      "Остролуцкий Виктор Семенович": 15,
-      "Фомин Александр Анатольевич": 249,
-      "Шадт Александр Евгеньевич": 52,
-      "Против всех": 378
+      "gas:candidate-vibid:1001000193915": 175,
+      "gas:candidate-vibid:1001000136091": 59,
+      "gas:candidate-vibid:1001000188015": 136,
+      "gas:candidate-vibid:1001000254942": 104,
+      "gas:candidate-vibid:1001000121881": 406,
+      "gas:candidate-vibid:1001000202322": 15,
+      "gas:candidate-vibid:1001000212405": 249,
+      "special:official-result-label:126": 52,
+      "special:against-all": 378
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11178,15 +11178,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 190,
-      "Ильин Петр Григорьевич": 48,
-      "Карахалин Константин Владимирович": 70,
-      "Лесневская Ольга Васильевна": 52,
-      "Локоть Анатолий Евгеньевич": 195,
-      "Остролуцкий Виктор Семенович": 8,
-      "Фомин Александр Анатольевич": 180,
-      "Шадт Александр Евгеньевич": 24,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000193915": 190,
+      "gas:candidate-vibid:1001000136091": 48,
+      "gas:candidate-vibid:1001000188015": 70,
+      "gas:candidate-vibid:1001000254942": 52,
+      "gas:candidate-vibid:1001000121881": 195,
+      "gas:candidate-vibid:1001000202322": 8,
+      "gas:candidate-vibid:1001000212405": 180,
+      "special:official-result-label:126": 24,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11236,15 +11236,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 199,
-      "Ильин Петр Григорьевич": 65,
-      "Карахалин Константин Владимирович": 116,
-      "Лесневская Ольга Васильевна": 91,
-      "Локоть Анатолий Евгеньевич": 398,
-      "Остролуцкий Виктор Семенович": 26,
-      "Фомин Александр Анатольевич": 195,
-      "Шадт Александр Евгеньевич": 25,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000193915": 199,
+      "gas:candidate-vibid:1001000136091": 65,
+      "gas:candidate-vibid:1001000188015": 116,
+      "gas:candidate-vibid:1001000254942": 91,
+      "gas:candidate-vibid:1001000121881": 398,
+      "gas:candidate-vibid:1001000202322": 26,
+      "gas:candidate-vibid:1001000212405": 195,
+      "special:official-result-label:126": 25,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11294,15 +11294,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 187,
-      "Ильин Петр Григорьевич": 54,
-      "Карахалин Константин Владимирович": 111,
-      "Лесневская Ольга Васильевна": 67,
-      "Локоть Анатолий Евгеньевич": 321,
-      "Остролуцкий Виктор Семенович": 7,
-      "Фомин Александр Анатольевич": 192,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000193915": 187,
+      "gas:candidate-vibid:1001000136091": 54,
+      "gas:candidate-vibid:1001000188015": 111,
+      "gas:candidate-vibid:1001000254942": 67,
+      "gas:candidate-vibid:1001000121881": 321,
+      "gas:candidate-vibid:1001000202322": 7,
+      "gas:candidate-vibid:1001000212405": 192,
+      "special:official-result-label:126": 31,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11352,15 +11352,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 206,
-      "Ильин Петр Григорьевич": 66,
-      "Карахалин Константин Владимирович": 151,
-      "Лесневская Ольга Васильевна": 74,
-      "Локоть Анатолий Евгеньевич": 349,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 201,
-      "Шадт Александр Евгеньевич": 30,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000193915": 206,
+      "gas:candidate-vibid:1001000136091": 66,
+      "gas:candidate-vibid:1001000188015": 151,
+      "gas:candidate-vibid:1001000254942": 74,
+      "gas:candidate-vibid:1001000121881": 349,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 201,
+      "special:official-result-label:126": 30,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11410,15 +11410,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 179,
-      "Ильин Петр Григорьевич": 34,
-      "Карахалин Константин Владимирович": 82,
-      "Лесневская Ольга Васильевна": 43,
-      "Локоть Анатолий Евгеньевич": 160,
-      "Остролуцкий Виктор Семенович": 4,
-      "Фомин Александр Анатольевич": 124,
-      "Шадт Александр Евгеньевич": 26,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000193915": 179,
+      "gas:candidate-vibid:1001000136091": 34,
+      "gas:candidate-vibid:1001000188015": 82,
+      "gas:candidate-vibid:1001000254942": 43,
+      "gas:candidate-vibid:1001000121881": 160,
+      "gas:candidate-vibid:1001000202322": 4,
+      "gas:candidate-vibid:1001000212405": 124,
+      "special:official-result-label:126": 26,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11468,15 +11468,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 195,
-      "Ильин Петр Григорьевич": 79,
-      "Карахалин Константин Владимирович": 164,
-      "Лесневская Ольга Васильевна": 60,
-      "Локоть Анатолий Евгеньевич": 341,
-      "Остролуцкий Виктор Семенович": 23,
-      "Фомин Александр Анатольевич": 184,
-      "Шадт Александр Евгеньевич": 30,
-      "Против всех": 470
+      "gas:candidate-vibid:1001000193915": 195,
+      "gas:candidate-vibid:1001000136091": 79,
+      "gas:candidate-vibid:1001000188015": 164,
+      "gas:candidate-vibid:1001000254942": 60,
+      "gas:candidate-vibid:1001000121881": 341,
+      "gas:candidate-vibid:1001000202322": 23,
+      "gas:candidate-vibid:1001000212405": 184,
+      "special:official-result-label:126": 30,
+      "special:against-all": 470
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11526,15 +11526,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 266,
-      "Ильин Петр Григорьевич": 55,
-      "Карахалин Константин Владимирович": 111,
-      "Лесневская Ольга Васильевна": 81,
-      "Локоть Анатолий Евгеньевич": 384,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 206,
-      "Шадт Александр Евгеньевич": 37,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000193915": 266,
+      "gas:candidate-vibid:1001000136091": 55,
+      "gas:candidate-vibid:1001000188015": 111,
+      "gas:candidate-vibid:1001000254942": 81,
+      "gas:candidate-vibid:1001000121881": 384,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 206,
+      "special:official-result-label:126": 37,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11584,15 +11584,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 94,
-      "Ильин Петр Григорьевич": 44,
-      "Карахалин Константин Владимирович": 42,
-      "Лесневская Ольга Васильевна": 38,
-      "Локоть Анатолий Евгеньевич": 150,
-      "Остролуцкий Виктор Семенович": 11,
-      "Фомин Александр Анатольевич": 86,
-      "Шадт Александр Евгеньевич": 10,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000193915": 94,
+      "gas:candidate-vibid:1001000136091": 44,
+      "gas:candidate-vibid:1001000188015": 42,
+      "gas:candidate-vibid:1001000254942": 38,
+      "gas:candidate-vibid:1001000121881": 150,
+      "gas:candidate-vibid:1001000202322": 11,
+      "gas:candidate-vibid:1001000212405": 86,
+      "special:official-result-label:126": 10,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11642,15 +11642,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 219,
-      "Ильин Петр Григорьевич": 77,
-      "Карахалин Константин Владимирович": 98,
-      "Лесневская Ольга Васильевна": 85,
-      "Локоть Анатолий Евгеньевич": 352,
-      "Остролуцкий Виктор Семенович": 16,
-      "Фомин Александр Анатольевич": 235,
-      "Шадт Александр Евгеньевич": 31,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000193915": 219,
+      "gas:candidate-vibid:1001000136091": 77,
+      "gas:candidate-vibid:1001000188015": 98,
+      "gas:candidate-vibid:1001000254942": 85,
+      "gas:candidate-vibid:1001000121881": 352,
+      "gas:candidate-vibid:1001000202322": 16,
+      "gas:candidate-vibid:1001000212405": 235,
+      "special:official-result-label:126": 31,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11700,15 +11700,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 229,
-      "Ильин Петр Григорьевич": 69,
-      "Карахалин Константин Владимирович": 130,
-      "Лесневская Ольга Васильевна": 116,
-      "Локоть Анатолий Евгеньевич": 393,
-      "Остролуцкий Виктор Семенович": 18,
-      "Фомин Александр Анатольевич": 201,
-      "Шадт Александр Евгеньевич": 28,
-      "Против всех": 437
+      "gas:candidate-vibid:1001000193915": 229,
+      "gas:candidate-vibid:1001000136091": 69,
+      "gas:candidate-vibid:1001000188015": 130,
+      "gas:candidate-vibid:1001000254942": 116,
+      "gas:candidate-vibid:1001000121881": 393,
+      "gas:candidate-vibid:1001000202322": 18,
+      "gas:candidate-vibid:1001000212405": 201,
+      "special:official-result-label:126": 28,
+      "special:against-all": 437
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11758,15 +11758,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 168,
-      "Ильин Петр Григорьевич": 65,
-      "Карахалин Константин Владимирович": 82,
-      "Лесневская Ольга Васильевна": 93,
-      "Локоть Анатолий Евгеньевич": 405,
-      "Остролуцкий Виктор Семенович": 12,
-      "Фомин Александр Анатольевич": 149,
-      "Шадт Александр Евгеньевич": 28,
-      "Против всех": 361
+      "gas:candidate-vibid:1001000193915": 168,
+      "gas:candidate-vibid:1001000136091": 65,
+      "gas:candidate-vibid:1001000188015": 82,
+      "gas:candidate-vibid:1001000254942": 93,
+      "gas:candidate-vibid:1001000121881": 405,
+      "gas:candidate-vibid:1001000202322": 12,
+      "gas:candidate-vibid:1001000212405": 149,
+      "special:official-result-label:126": 28,
+      "special:against-all": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11816,15 +11816,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Игнатов Виктор Александрович": 232,
-      "Ильин Петр Григорьевич": 88,
-      "Карахалин Константин Владимирович": 131,
-      "Лесневская Ольга Васильевна": 111,
-      "Локоть Анатолий Евгеньевич": 359,
-      "Остролуцкий Виктор Семенович": 22,
-      "Фомин Александр Анатольевич": 264,
-      "Шадт Александр Евгеньевич": 44,
-      "Против всех": 422
+      "gas:candidate-vibid:1001000193915": 232,
+      "gas:candidate-vibid:1001000136091": 88,
+      "gas:candidate-vibid:1001000188015": 131,
+      "gas:candidate-vibid:1001000254942": 111,
+      "gas:candidate-vibid:1001000121881": 359,
+      "gas:candidate-vibid:1001000202322": 22,
+      "gas:candidate-vibid:1001000212405": 264,
+      "special:official-result-label:126": 44,
+      "special:against-all": 422
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300367106&region=0&sub_region=0&type=429",
@@ -11874,15 +11874,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 81,
-      "Логинов Евгений Юрьевич": 73,
-      "Новая Татьяна Анатольевна": 104,
-      "Рудницкий Александр Львович": 27,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 23,
-      "Швец Любовь Никитична": 289,
-      "Шимкив Андрей Иванович": 101,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000190389": 81,
+      "gas:candidate-vibid:1001000136092": 73,
+      "gas:candidate-vibid:354300466922": 104,
+      "gas:candidate-vibid:1001000112237": 27,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 23,
+      "gas:candidate-vibid:1001000121882": 289,
+      "gas:candidate-vibid:354300466838": 101,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -11932,15 +11932,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 45,
-      "Логинов Евгений Юрьевич": 44,
-      "Новая Татьяна Анатольевна": 50,
-      "Рудницкий Александр Львович": 19,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 15,
-      "Швец Любовь Никитична": 105,
-      "Шимкив Андрей Иванович": 48,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000190389": 45,
+      "gas:candidate-vibid:1001000136092": 44,
+      "gas:candidate-vibid:354300466922": 50,
+      "gas:candidate-vibid:1001000112237": 19,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 15,
+      "gas:candidate-vibid:1001000121882": 105,
+      "gas:candidate-vibid:354300466838": 48,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -11990,15 +11990,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 23,
-      "Логинов Евгений Юрьевич": 86,
-      "Новая Татьяна Анатольевна": 19,
-      "Рудницкий Александр Львович": 21,
-      "Сиганов Сергей Евгеньевич": 14,
-      "Терновых Егор Николаевич": 11,
-      "Швец Любовь Никитична": 134,
-      "Шимкив Андрей Иванович": 29,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190389": 23,
+      "gas:candidate-vibid:1001000136092": 86,
+      "gas:candidate-vibid:354300466922": 19,
+      "gas:candidate-vibid:1001000112237": 21,
+      "gas:candidate-vibid:1001000195115": 14,
+      "gas:candidate-vibid:1001000212562": 11,
+      "gas:candidate-vibid:1001000121882": 134,
+      "gas:candidate-vibid:354300466838": 29,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12048,15 +12048,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 76,
-      "Логинов Евгений Юрьевич": 115,
-      "Новая Татьяна Анатольевна": 117,
-      "Рудницкий Александр Львович": 48,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 31,
-      "Швец Любовь Никитична": 303,
-      "Шимкив Андрей Иванович": 240,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190389": 76,
+      "gas:candidate-vibid:1001000136092": 115,
+      "gas:candidate-vibid:354300466922": 117,
+      "gas:candidate-vibid:1001000112237": 48,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 31,
+      "gas:candidate-vibid:1001000121882": 303,
+      "gas:candidate-vibid:354300466838": 240,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12106,15 +12106,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 76,
-      "Логинов Евгений Юрьевич": 91,
-      "Новая Татьяна Анатольевна": 191,
-      "Рудницкий Александр Львович": 49,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 31,
-      "Швец Любовь Никитична": 189,
-      "Шимкив Андрей Иванович": 175,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000190389": 76,
+      "gas:candidate-vibid:1001000136092": 91,
+      "gas:candidate-vibid:354300466922": 191,
+      "gas:candidate-vibid:1001000112237": 49,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 31,
+      "gas:candidate-vibid:1001000121882": 189,
+      "gas:candidate-vibid:354300466838": 175,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12164,15 +12164,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 41,
-      "Логинов Евгений Юрьевич": 93,
-      "Новая Татьяна Анатольевна": 44,
-      "Рудницкий Александр Львович": 11,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 206,
-      "Шимкив Андрей Иванович": 283,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190389": 41,
+      "gas:candidate-vibid:1001000136092": 93,
+      "gas:candidate-vibid:354300466922": 44,
+      "gas:candidate-vibid:1001000112237": 11,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 206,
+      "gas:candidate-vibid:354300466838": 283,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12222,15 +12222,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 32,
-      "Логинов Евгений Юрьевич": 91,
-      "Новая Татьяна Анатольевна": 56,
-      "Рудницкий Александр Львович": 17,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 16,
-      "Швец Любовь Никитична": 281,
-      "Шимкив Андрей Иванович": 146,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000190389": 32,
+      "gas:candidate-vibid:1001000136092": 91,
+      "gas:candidate-vibid:354300466922": 56,
+      "gas:candidate-vibid:1001000112237": 17,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 16,
+      "gas:candidate-vibid:1001000121882": 281,
+      "gas:candidate-vibid:354300466838": 146,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12280,15 +12280,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 96,
-      "Логинов Евгений Юрьевич": 101,
-      "Новая Татьяна Анатольевна": 77,
-      "Рудницкий Александр Львович": 23,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 32,
-      "Швец Любовь Никитична": 225,
-      "Шимкив Андрей Иванович": 163,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000190389": 96,
+      "gas:candidate-vibid:1001000136092": 101,
+      "gas:candidate-vibid:354300466922": 77,
+      "gas:candidate-vibid:1001000112237": 23,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 32,
+      "gas:candidate-vibid:1001000121882": 225,
+      "gas:candidate-vibid:354300466838": 163,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12338,15 +12338,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 46,
-      "Логинов Евгений Юрьевич": 85,
-      "Новая Татьяна Анатольевна": 77,
-      "Рудницкий Александр Львович": 20,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 14,
-      "Швец Любовь Никитична": 293,
-      "Шимкив Андрей Иванович": 169,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000190389": 46,
+      "gas:candidate-vibid:1001000136092": 85,
+      "gas:candidate-vibid:354300466922": 77,
+      "gas:candidate-vibid:1001000112237": 20,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 14,
+      "gas:candidate-vibid:1001000121882": 293,
+      "gas:candidate-vibid:354300466838": 169,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12396,15 +12396,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 35,
-      "Логинов Евгений Юрьевич": 59,
-      "Новая Татьяна Анатольевна": 192,
-      "Рудницкий Александр Львович": 56,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 191,
-      "Швец Любовь Никитична": 95,
-      "Шимкив Андрей Иванович": 110,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000190389": 35,
+      "gas:candidate-vibid:1001000136092": 59,
+      "gas:candidate-vibid:354300466922": 192,
+      "gas:candidate-vibid:1001000112237": 56,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 191,
+      "gas:candidate-vibid:1001000121882": 95,
+      "gas:candidate-vibid:354300466838": 110,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12454,15 +12454,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 98,
-      "Логинов Евгений Юрьевич": 106,
-      "Новая Татьяна Анатольевна": 91,
-      "Рудницкий Александр Львович": 38,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 24,
-      "Швец Любовь Никитична": 256,
-      "Шимкив Андрей Иванович": 152,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190389": 98,
+      "gas:candidate-vibid:1001000136092": 106,
+      "gas:candidate-vibid:354300466922": 91,
+      "gas:candidate-vibid:1001000112237": 38,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 24,
+      "gas:candidate-vibid:1001000121882": 256,
+      "gas:candidate-vibid:354300466838": 152,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12512,15 +12512,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 115,
-      "Логинов Евгений Юрьевич": 124,
-      "Новая Татьяна Анатольевна": 118,
-      "Рудницкий Александр Львович": 54,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 18,
-      "Швец Любовь Никитична": 202,
-      "Шимкив Андрей Иванович": 171,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000190389": 115,
+      "gas:candidate-vibid:1001000136092": 124,
+      "gas:candidate-vibid:354300466922": 118,
+      "gas:candidate-vibid:1001000112237": 54,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 18,
+      "gas:candidate-vibid:1001000121882": 202,
+      "gas:candidate-vibid:354300466838": 171,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12570,15 +12570,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 99,
-      "Логинов Евгений Юрьевич": 107,
-      "Новая Татьяна Анатольевна": 117,
-      "Рудницкий Александр Львович": 23,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 32,
-      "Швец Любовь Никитична": 235,
-      "Шимкив Андрей Иванович": 145,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000190389": 99,
+      "gas:candidate-vibid:1001000136092": 107,
+      "gas:candidate-vibid:354300466922": 117,
+      "gas:candidate-vibid:1001000112237": 23,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 32,
+      "gas:candidate-vibid:1001000121882": 235,
+      "gas:candidate-vibid:354300466838": 145,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12628,15 +12628,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 109,
-      "Логинов Евгений Юрьевич": 112,
-      "Новая Татьяна Анатольевна": 116,
-      "Рудницкий Александр Львович": 39,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 19,
-      "Швец Любовь Никитична": 224,
-      "Шимкив Андрей Иванович": 141,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000190389": 109,
+      "gas:candidate-vibid:1001000136092": 112,
+      "gas:candidate-vibid:354300466922": 116,
+      "gas:candidate-vibid:1001000112237": 39,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 19,
+      "gas:candidate-vibid:1001000121882": 224,
+      "gas:candidate-vibid:354300466838": 141,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12686,15 +12686,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 102,
-      "Логинов Евгений Юрьевич": 104,
-      "Новая Татьяна Анатольевна": 84,
-      "Рудницкий Александр Львович": 22,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 265,
-      "Шимкив Андрей Иванович": 223,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000190389": 102,
+      "gas:candidate-vibid:1001000136092": 104,
+      "gas:candidate-vibid:354300466922": 84,
+      "gas:candidate-vibid:1001000112237": 22,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 265,
+      "gas:candidate-vibid:354300466838": 223,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12744,15 +12744,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 105,
-      "Логинов Евгений Юрьевич": 95,
-      "Новая Татьяна Анатольевна": 103,
-      "Рудницкий Александр Львович": 48,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 35,
-      "Швец Любовь Никитична": 246,
-      "Шимкив Андрей Иванович": 194,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000190389": 105,
+      "gas:candidate-vibid:1001000136092": 95,
+      "gas:candidate-vibid:354300466922": 103,
+      "gas:candidate-vibid:1001000112237": 48,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 35,
+      "gas:candidate-vibid:1001000121882": 246,
+      "gas:candidate-vibid:354300466838": 194,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12802,15 +12802,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 82,
-      "Логинов Евгений Юрьевич": 102,
-      "Новая Татьяна Анатольевна": 122,
-      "Рудницкий Александр Львович": 29,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 31,
-      "Швец Любовь Никитична": 357,
-      "Шимкив Андрей Иванович": 161,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190389": 82,
+      "gas:candidate-vibid:1001000136092": 102,
+      "gas:candidate-vibid:354300466922": 122,
+      "gas:candidate-vibid:1001000112237": 29,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 31,
+      "gas:candidate-vibid:1001000121882": 357,
+      "gas:candidate-vibid:354300466838": 161,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12860,15 +12860,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 64,
-      "Логинов Евгений Юрьевич": 113,
-      "Новая Татьяна Анатольевна": 65,
-      "Рудницкий Александр Львович": 30,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 16,
-      "Швец Любовь Никитична": 251,
-      "Шимкив Андрей Иванович": 121,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190389": 64,
+      "gas:candidate-vibid:1001000136092": 113,
+      "gas:candidate-vibid:354300466922": 65,
+      "gas:candidate-vibid:1001000112237": 30,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 16,
+      "gas:candidate-vibid:1001000121882": 251,
+      "gas:candidate-vibid:354300466838": 121,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12918,15 +12918,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 59,
-      "Логинов Евгений Юрьевич": 118,
-      "Новая Татьяна Анатольевна": 101,
-      "Рудницкий Александр Львович": 34,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 25,
-      "Швец Любовь Никитична": 242,
-      "Шимкив Андрей Иванович": 161,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000190389": 59,
+      "gas:candidate-vibid:1001000136092": 118,
+      "gas:candidate-vibid:354300466922": 101,
+      "gas:candidate-vibid:1001000112237": 34,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 25,
+      "gas:candidate-vibid:1001000121882": 242,
+      "gas:candidate-vibid:354300466838": 161,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -12976,15 +12976,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 61,
-      "Логинов Евгений Юрьевич": 151,
-      "Новая Татьяна Анатольевна": 83,
-      "Рудницкий Александр Львович": 23,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 21,
-      "Швец Любовь Никитична": 326,
-      "Шимкив Андрей Иванович": 157,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000190389": 61,
+      "gas:candidate-vibid:1001000136092": 151,
+      "gas:candidate-vibid:354300466922": 83,
+      "gas:candidate-vibid:1001000112237": 23,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 21,
+      "gas:candidate-vibid:1001000121882": 326,
+      "gas:candidate-vibid:354300466838": 157,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13034,15 +13034,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 123,
-      "Логинов Евгений Юрьевич": 110,
-      "Новая Татьяна Анатольевна": 112,
-      "Рудницкий Александр Львович": 29,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 13,
-      "Швец Любовь Никитична": 256,
-      "Шимкив Андрей Иванович": 153,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000190389": 123,
+      "gas:candidate-vibid:1001000136092": 110,
+      "gas:candidate-vibid:354300466922": 112,
+      "gas:candidate-vibid:1001000112237": 29,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 13,
+      "gas:candidate-vibid:1001000121882": 256,
+      "gas:candidate-vibid:354300466838": 153,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13092,15 +13092,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 61,
-      "Логинов Евгений Юрьевич": 207,
-      "Новая Татьяна Анатольевна": 85,
-      "Рудницкий Александр Львович": 25,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 21,
-      "Швец Любовь Никитична": 258,
-      "Шимкив Андрей Иванович": 527,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000190389": 61,
+      "gas:candidate-vibid:1001000136092": 207,
+      "gas:candidate-vibid:354300466922": 85,
+      "gas:candidate-vibid:1001000112237": 25,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 21,
+      "gas:candidate-vibid:1001000121882": 258,
+      "gas:candidate-vibid:354300466838": 527,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13150,15 +13150,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 32,
-      "Логинов Евгений Юрьевич": 94,
-      "Новая Татьяна Анатольевна": 110,
-      "Рудницкий Александр Львович": 19,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 11,
-      "Швец Любовь Никитична": 293,
-      "Шимкив Андрей Иванович": 111,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000190389": 32,
+      "gas:candidate-vibid:1001000136092": 94,
+      "gas:candidate-vibid:354300466922": 110,
+      "gas:candidate-vibid:1001000112237": 19,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 11,
+      "gas:candidate-vibid:1001000121882": 293,
+      "gas:candidate-vibid:354300466838": 111,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13208,15 +13208,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 49,
-      "Логинов Евгений Юрьевич": 95,
-      "Новая Татьяна Анатольевна": 109,
-      "Рудницкий Александр Львович": 25,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 20,
-      "Швец Любовь Никитична": 274,
-      "Шимкив Андрей Иванович": 163,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000190389": 49,
+      "gas:candidate-vibid:1001000136092": 95,
+      "gas:candidate-vibid:354300466922": 109,
+      "gas:candidate-vibid:1001000112237": 25,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 20,
+      "gas:candidate-vibid:1001000121882": 274,
+      "gas:candidate-vibid:354300466838": 163,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13266,15 +13266,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 87,
-      "Логинов Евгений Юрьевич": 118,
-      "Новая Татьяна Анатольевна": 65,
-      "Рудницкий Александр Львович": 33,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 257,
-      "Шимкив Андрей Иванович": 231,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190389": 87,
+      "gas:candidate-vibid:1001000136092": 118,
+      "gas:candidate-vibid:354300466922": 65,
+      "gas:candidate-vibid:1001000112237": 33,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 257,
+      "gas:candidate-vibid:354300466838": 231,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13324,15 +13324,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 33,
-      "Логинов Евгений Юрьевич": 115,
-      "Новая Татьяна Анатольевна": 62,
-      "Рудницкий Александр Львович": 32,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 22,
-      "Швец Любовь Никитична": 216,
-      "Шимкив Андрей Иванович": 168,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190389": 33,
+      "gas:candidate-vibid:1001000136092": 115,
+      "gas:candidate-vibid:354300466922": 62,
+      "gas:candidate-vibid:1001000112237": 32,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 22,
+      "gas:candidate-vibid:1001000121882": 216,
+      "gas:candidate-vibid:354300466838": 168,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13382,15 +13382,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 53,
-      "Логинов Евгений Юрьевич": 212,
-      "Новая Татьяна Анатольевна": 56,
-      "Рудницкий Александр Львович": 23,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 28,
-      "Швец Любовь Никитична": 109,
-      "Шимкив Андрей Иванович": 318,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000190389": 53,
+      "gas:candidate-vibid:1001000136092": 212,
+      "gas:candidate-vibid:354300466922": 56,
+      "gas:candidate-vibid:1001000112237": 23,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 28,
+      "gas:candidate-vibid:1001000121882": 109,
+      "gas:candidate-vibid:354300466838": 318,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13440,15 +13440,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 59,
-      "Логинов Евгений Юрьевич": 104,
-      "Новая Татьяна Анатольевна": 74,
-      "Рудницкий Александр Львович": 22,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 22,
-      "Швец Любовь Никитична": 251,
-      "Шимкив Андрей Иванович": 173,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190389": 59,
+      "gas:candidate-vibid:1001000136092": 104,
+      "gas:candidate-vibid:354300466922": 74,
+      "gas:candidate-vibid:1001000112237": 22,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 22,
+      "gas:candidate-vibid:1001000121882": 251,
+      "gas:candidate-vibid:354300466838": 173,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13498,15 +13498,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 61,
-      "Логинов Евгений Юрьевич": 113,
-      "Новая Татьяна Анатольевна": 92,
-      "Рудницкий Александр Львович": 23,
-      "Сиганов Сергей Евгеньевич": 7,
-      "Терновых Егор Николаевич": 25,
-      "Швец Любовь Никитична": 218,
-      "Шимкив Андрей Иванович": 284,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000190389": 61,
+      "gas:candidate-vibid:1001000136092": 113,
+      "gas:candidate-vibid:354300466922": 92,
+      "gas:candidate-vibid:1001000112237": 23,
+      "gas:candidate-vibid:1001000195115": 7,
+      "gas:candidate-vibid:1001000212562": 25,
+      "gas:candidate-vibid:1001000121882": 218,
+      "gas:candidate-vibid:354300466838": 284,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13556,15 +13556,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 67,
-      "Логинов Евгений Юрьевич": 103,
-      "Новая Татьяна Анатольевна": 99,
-      "Рудницкий Александр Львович": 30,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 31,
-      "Швец Любовь Никитична": 193,
-      "Шимкив Андрей Иванович": 231,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000190389": 67,
+      "gas:candidate-vibid:1001000136092": 103,
+      "gas:candidate-vibid:354300466922": 99,
+      "gas:candidate-vibid:1001000112237": 30,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 31,
+      "gas:candidate-vibid:1001000121882": 193,
+      "gas:candidate-vibid:354300466838": 231,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13614,15 +13614,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 71,
-      "Логинов Евгений Юрьевич": 132,
-      "Новая Татьяна Анатольевна": 105,
-      "Рудницкий Александр Львович": 33,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 13,
-      "Швец Любовь Никитична": 310,
-      "Шимкив Андрей Иванович": 234,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000190389": 71,
+      "gas:candidate-vibid:1001000136092": 132,
+      "gas:candidate-vibid:354300466922": 105,
+      "gas:candidate-vibid:1001000112237": 33,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 13,
+      "gas:candidate-vibid:1001000121882": 310,
+      "gas:candidate-vibid:354300466838": 234,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13672,15 +13672,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 108,
-      "Логинов Евгений Юрьевич": 103,
-      "Новая Татьяна Анатольевна": 111,
-      "Рудницкий Александр Львович": 21,
-      "Сиганов Сергей Евгеньевич": 3,
-      "Терновых Егор Николаевич": 22,
-      "Швец Любовь Никитична": 248,
-      "Шимкив Андрей Иванович": 187,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000190389": 108,
+      "gas:candidate-vibid:1001000136092": 103,
+      "gas:candidate-vibid:354300466922": 111,
+      "gas:candidate-vibid:1001000112237": 21,
+      "gas:candidate-vibid:1001000195115": 3,
+      "gas:candidate-vibid:1001000212562": 22,
+      "gas:candidate-vibid:1001000121882": 248,
+      "gas:candidate-vibid:354300466838": 187,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13730,15 +13730,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 106,
-      "Логинов Евгений Юрьевич": 103,
-      "Новая Татьяна Анатольевна": 113,
-      "Рудницкий Александр Львович": 32,
-      "Сиганов Сергей Евгеньевич": 6,
-      "Терновых Егор Николаевич": 26,
-      "Швец Любовь Никитична": 206,
-      "Шимкив Андрей Иванович": 258,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000190389": 106,
+      "gas:candidate-vibid:1001000136092": 103,
+      "gas:candidate-vibid:354300466922": 113,
+      "gas:candidate-vibid:1001000112237": 32,
+      "gas:candidate-vibid:1001000195115": 6,
+      "gas:candidate-vibid:1001000212562": 26,
+      "gas:candidate-vibid:1001000121882": 206,
+      "gas:candidate-vibid:354300466838": 258,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13788,15 +13788,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 76,
-      "Логинов Евгений Юрьевич": 102,
-      "Новая Татьяна Анатольевна": 74,
-      "Рудницкий Александр Львович": 52,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 27,
-      "Швец Любовь Никитична": 250,
-      "Шимкив Андрей Иванович": 215,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000190389": 76,
+      "gas:candidate-vibid:1001000136092": 102,
+      "gas:candidate-vibid:354300466922": 74,
+      "gas:candidate-vibid:1001000112237": 52,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 27,
+      "gas:candidate-vibid:1001000121882": 250,
+      "gas:candidate-vibid:354300466838": 215,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13846,15 +13846,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 58,
-      "Логинов Евгений Юрьевич": 120,
-      "Новая Татьяна Анатольевна": 115,
-      "Рудницкий Александр Львович": 19,
-      "Сиганов Сергей Евгеньевич": 8,
-      "Терновых Егор Николаевич": 11,
-      "Швец Любовь Никитична": 280,
-      "Шимкив Андрей Иванович": 164,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000190389": 58,
+      "gas:candidate-vibid:1001000136092": 120,
+      "gas:candidate-vibid:354300466922": 115,
+      "gas:candidate-vibid:1001000112237": 19,
+      "gas:candidate-vibid:1001000195115": 8,
+      "gas:candidate-vibid:1001000212562": 11,
+      "gas:candidate-vibid:1001000121882": 280,
+      "gas:candidate-vibid:354300466838": 164,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13904,15 +13904,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 96,
-      "Логинов Евгений Юрьевич": 93,
-      "Новая Татьяна Анатольевна": 112,
-      "Рудницкий Александр Львович": 17,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 287,
-      "Шимкив Андрей Иванович": 233,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000190389": 96,
+      "gas:candidate-vibid:1001000136092": 93,
+      "gas:candidate-vibid:354300466922": 112,
+      "gas:candidate-vibid:1001000112237": 17,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 287,
+      "gas:candidate-vibid:354300466838": 233,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -13962,15 +13962,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 60,
-      "Логинов Евгений Юрьевич": 105,
-      "Новая Татьяна Анатольевна": 132,
-      "Рудницкий Александр Львович": 26,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 21,
-      "Швец Любовь Никитична": 286,
-      "Шимкив Андрей Иванович": 229,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000190389": 60,
+      "gas:candidate-vibid:1001000136092": 105,
+      "gas:candidate-vibid:354300466922": 132,
+      "gas:candidate-vibid:1001000112237": 26,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 21,
+      "gas:candidate-vibid:1001000121882": 286,
+      "gas:candidate-vibid:354300466838": 229,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -14020,15 +14020,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 57,
-      "Логинов Евгений Юрьевич": 100,
-      "Новая Татьяна Анатольевна": 112,
-      "Рудницкий Александр Львович": 26,
-      "Сиганов Сергей Евгеньевич": 4,
-      "Терновых Егор Николаевич": 19,
-      "Швец Любовь Никитична": 319,
-      "Шимкив Андрей Иванович": 189,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000190389": 57,
+      "gas:candidate-vibid:1001000136092": 100,
+      "gas:candidate-vibid:354300466922": 112,
+      "gas:candidate-vibid:1001000112237": 26,
+      "gas:candidate-vibid:1001000195115": 4,
+      "gas:candidate-vibid:1001000212562": 19,
+      "gas:candidate-vibid:1001000121882": 319,
+      "gas:candidate-vibid:354300466838": 189,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -14078,15 +14078,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 51,
-      "Логинов Евгений Юрьевич": 87,
-      "Новая Татьяна Анатольевна": 68,
-      "Рудницкий Александр Львович": 23,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 18,
-      "Швец Любовь Никитична": 324,
-      "Шимкив Андрей Иванович": 161,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000190389": 51,
+      "gas:candidate-vibid:1001000136092": 87,
+      "gas:candidate-vibid:354300466922": 68,
+      "gas:candidate-vibid:1001000112237": 23,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 18,
+      "gas:candidate-vibid:1001000121882": 324,
+      "gas:candidate-vibid:354300466838": 161,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -14136,15 +14136,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 68,
-      "Логинов Евгений Юрьевич": 98,
-      "Новая Татьяна Анатольевна": 75,
-      "Рудницкий Александр Львович": 15,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 12,
-      "Швец Любовь Никитична": 240,
-      "Шимкив Андрей Иванович": 213,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000190389": 68,
+      "gas:candidate-vibid:1001000136092": 98,
+      "gas:candidate-vibid:354300466922": 75,
+      "gas:candidate-vibid:1001000112237": 15,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 12,
+      "gas:candidate-vibid:1001000121882": 240,
+      "gas:candidate-vibid:354300466838": 213,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467265&region=0&sub_region=0&type=429",
@@ -14194,15 +14194,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 8,
-      "Логинов Евгений Юрьевич": 29,
-      "Новая Татьяна Анатольевна": 5,
-      "Рудницкий Александр Львович": 1,
-      "Сиганов Сергей Евгеньевич": 5,
-      "Терновых Егор Николаевич": 8,
-      "Швец Любовь Никитична": 44,
-      "Шимкив Андрей Иванович": 143,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190389": 8,
+      "gas:candidate-vibid:1001000136092": 29,
+      "gas:candidate-vibid:354300466922": 5,
+      "gas:candidate-vibid:1001000112237": 1,
+      "gas:candidate-vibid:1001000195115": 5,
+      "gas:candidate-vibid:1001000212562": 8,
+      "gas:candidate-vibid:1001000121882": 44,
+      "gas:candidate-vibid:354300466838": 143,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -14252,15 +14252,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 4,
-      "Логинов Евгений Юрьевич": 16,
-      "Новая Татьяна Анатольевна": 0,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 37,
-      "Шимкив Андрей Иванович": 149,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190389": 4,
+      "gas:candidate-vibid:1001000136092": 16,
+      "gas:candidate-vibid:354300466922": 0,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 37,
+      "gas:candidate-vibid:354300466838": 149,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -14310,15 +14310,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 2,
-      "Логинов Евгений Юрьевич": 8,
-      "Новая Татьяна Анатольевна": 4,
-      "Рудницкий Александр Львович": 3,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 66,
-      "Шимкив Андрей Иванович": 147,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190389": 2,
+      "gas:candidate-vibid:1001000136092": 8,
+      "gas:candidate-vibid:354300466922": 4,
+      "gas:candidate-vibid:1001000112237": 3,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 66,
+      "gas:candidate-vibid:354300466838": 147,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -14368,15 +14368,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 12,
-      "Логинов Евгений Юрьевич": 46,
-      "Новая Татьяна Анатольевна": 9,
-      "Рудницкий Александр Львович": 4,
-      "Сиганов Сергей Евгеньевич": 2,
-      "Терновых Егор Николаевич": 5,
-      "Швец Любовь Никитична": 63,
-      "Шимкив Андрей Иванович": 254,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000190389": 12,
+      "gas:candidate-vibid:1001000136092": 46,
+      "gas:candidate-vibid:354300466922": 9,
+      "gas:candidate-vibid:1001000112237": 4,
+      "gas:candidate-vibid:1001000195115": 2,
+      "gas:candidate-vibid:1001000212562": 5,
+      "gas:candidate-vibid:1001000121882": 63,
+      "gas:candidate-vibid:354300466838": 254,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -14426,15 +14426,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 0,
-      "Логинов Евгений Юрьевич": 4,
-      "Новая Татьяна Анатольевна": 3,
-      "Рудницкий Александр Львович": 0,
-      "Сиганов Сергей Евгеньевич": 1,
-      "Терновых Егор Николаевич": 0,
-      "Швец Любовь Никитична": 15,
-      "Шимкив Андрей Иванович": 127,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190389": 0,
+      "gas:candidate-vibid:1001000136092": 4,
+      "gas:candidate-vibid:354300466922": 3,
+      "gas:candidate-vibid:1001000112237": 0,
+      "gas:candidate-vibid:1001000195115": 1,
+      "gas:candidate-vibid:1001000212562": 0,
+      "gas:candidate-vibid:1001000121882": 15,
+      "gas:candidate-vibid:354300466838": 127,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",
@@ -14484,15 +14484,15 @@ export const duma_2003_uik_428_region_54_part_006 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Красников Николай Григорьевич": 17,
-      "Логинов Евгений Юрьевич": 28,
-      "Новая Татьяна Анатольевна": 2,
-      "Рудницкий Александр Львович": 2,
-      "Сиганов Сергей Евгеньевич": 0,
-      "Терновых Егор Николаевич": 2,
-      "Швец Любовь Никитична": 83,
-      "Шимкив Андрей Иванович": 182,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190389": 17,
+      "gas:candidate-vibid:1001000136092": 28,
+      "gas:candidate-vibid:354300466922": 2,
+      "gas:candidate-vibid:1001000112237": 2,
+      "gas:candidate-vibid:1001000195115": 0,
+      "gas:candidate-vibid:1001000212562": 2,
+      "gas:candidate-vibid:1001000121882": 83,
+      "gas:candidate-vibid:354300466838": 182,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=543004002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=354300467267&region=0&sub_region=0&type=429",

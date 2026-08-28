@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 27,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Морозов Олег Викторович": 148,
-      "Янборисов Булат Ахатович": 17,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 27,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 10,
+      "gas:candidate-vibid:1001000225904": 148,
+      "gas:candidate-vibid:1001000190294": 17,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370500&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 3,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Морозов Олег Викторович": 247,
-      "Янборисов Булат Ахатович": 59,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 3,
+      "gas:candidate-vibid:1001000121799": 21,
+      "gas:candidate-vibid:1001000225904": 247,
+      "gas:candidate-vibid:1001000190294": 59,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370500&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 10,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 52,
-      "Иванов Леонид Иванович": 5,
-      "Миргалимов Хафиз Гаязович": 107,
-      "Морозов Олег Викторович": 704,
-      "Янборисов Булат Ахатович": 56,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136002": 10,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 52,
+      "gas:candidate-vibid:316300370636": 5,
+      "gas:candidate-vibid:1001000121799": 107,
+      "gas:candidate-vibid:1001000225904": 704,
+      "gas:candidate-vibid:1001000190294": 56,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 88,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 146,
-      "Морозов Олег Викторович": 838,
-      "Янборисов Булат Ахатович": 138,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 88,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 146,
+      "gas:candidate-vibid:1001000225904": 838,
+      "gas:candidate-vibid:1001000190294": 138,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 11,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 87,
-      "Иванов Леонид Иванович": 6,
-      "Миргалимов Хафиз Гаязович": 228,
-      "Морозов Олег Викторович": 800,
-      "Янборисов Булат Ахатович": 176,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000136002": 11,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 87,
+      "gas:candidate-vibid:316300370636": 6,
+      "gas:candidate-vibid:1001000121799": 228,
+      "gas:candidate-vibid:1001000225904": 800,
+      "gas:candidate-vibid:1001000190294": 176,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 65,
-      "Морозов Олег Викторович": 689,
-      "Янборисов Булат Ахатович": 12,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 65,
+      "gas:candidate-vibid:1001000225904": 689,
+      "gas:candidate-vibid:1001000190294": 12,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 9,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 20,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 65,
-      "Морозов Олег Викторович": 494,
-      "Янборисов Булат Ахатович": 46,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000136002": 9,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 20,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 65,
+      "gas:candidate-vibid:1001000225904": 494,
+      "gas:candidate-vibid:1001000190294": 46,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 10,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 12,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 78,
-      "Морозов Олег Викторович": 362,
-      "Янборисов Булат Ахатович": 81,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000136002": 10,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 12,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 78,
+      "gas:candidate-vibid:1001000225904": 362,
+      "gas:candidate-vibid:1001000190294": 81,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Морозов Олег Викторович": 201,
-      "Янборисов Булат Ахатович": 5,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 8,
+      "gas:candidate-vibid:1001000225904": 201,
+      "gas:candidate-vibid:1001000190294": 5,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Морозов Олег Викторович": 228,
-      "Янборисов Булат Ахатович": 73,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 21,
+      "gas:candidate-vibid:1001000225904": 228,
+      "gas:candidate-vibid:1001000190294": 73,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 8,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 6,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 55,
-      "Морозов Олег Викторович": 265,
-      "Янборисов Булат Ахатович": 33,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000136002": 8,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 6,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 55,
+      "gas:candidate-vibid:1001000225904": 265,
+      "gas:candidate-vibid:1001000190294": 33,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 40,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 39,
-      "Морозов Олег Викторович": 172,
-      "Янборисов Булат Ахатович": 32,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 40,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 39,
+      "gas:candidate-vibid:1001000225904": 172,
+      "gas:candidate-vibid:1001000190294": 32,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 93,
-      "Морозов Олег Викторович": 198,
-      "Янборисов Булат Ахатович": 19,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 93,
+      "gas:candidate-vibid:1001000225904": 198,
+      "gas:candidate-vibid:1001000190294": 19,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 4,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 10,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 24,
-      "Морозов Олег Викторович": 44,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136002": 4,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 10,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 24,
+      "gas:candidate-vibid:1001000225904": 44,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Морозов Олег Викторович": 88,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 6,
+      "gas:candidate-vibid:1001000225904": 88,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 26,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Морозов Олег Викторович": 242,
-      "Янборисов Булат Ахатович": 29,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 26,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 13,
+      "gas:candidate-vibid:1001000225904": 242,
+      "gas:candidate-vibid:1001000190294": 29,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 3,
-      "Миргалимов Хафиз Гаязович": 24,
-      "Морозов Олег Викторович": 129,
-      "Янборисов Булат Ахатович": 28,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 3,
+      "gas:candidate-vibid:1001000121799": 24,
+      "gas:candidate-vibid:1001000225904": 129,
+      "gas:candidate-vibid:1001000190294": 28,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 165,
-      "Янборисов Булат Ахатович": 11,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 165,
+      "gas:candidate-vibid:1001000190294": 11,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 9,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 49,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 66,
-      "Морозов Олег Викторович": 467,
-      "Янборисов Булат Ахатович": 25,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136002": 9,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 49,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 66,
+      "gas:candidate-vibid:1001000225904": 467,
+      "gas:candidate-vibid:1001000190294": 25,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 6,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 14,
-      "Морозов Олег Викторович": 166,
-      "Янборисов Булат Ахатович": 48,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 6,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 14,
+      "gas:candidate-vibid:1001000225904": 166,
+      "gas:candidate-vibid:1001000190294": 48,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Морозов Олег Викторович": 153,
-      "Янборисов Булат Ахатович": 5,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 17,
+      "gas:candidate-vibid:1001000225904": 153,
+      "gas:candidate-vibid:1001000190294": 5,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Морозов Олег Викторович": 296,
-      "Янборисов Булат Ахатович": 26,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 5,
+      "gas:candidate-vibid:1001000225904": 296,
+      "gas:candidate-vibid:1001000190294": 26,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 114,
-      "Янборисов Булат Ахатович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 114,
+      "gas:candidate-vibid:1001000190294": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 12,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 30,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 71,
-      "Морозов Олег Викторович": 380,
-      "Янборисов Булат Ахатович": 135,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000136002": 12,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 30,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 71,
+      "gas:candidate-vibid:1001000225904": 380,
+      "gas:candidate-vibid:1001000190294": 135,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 12,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 32,
-      "Морозов Олег Викторович": 189,
-      "Янборисов Булат Ахатович": 29,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 12,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 32,
+      "gas:candidate-vibid:1001000225904": 189,
+      "gas:candidate-vibid:1001000190294": 29,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 11,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 31,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 92,
-      "Морозов Олег Викторович": 707,
-      "Янборисов Булат Ахатович": 153,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000136002": 11,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 31,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 92,
+      "gas:candidate-vibid:1001000225904": 707,
+      "gas:candidate-vibid:1001000190294": 153,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 190,
-      "Янборисов Булат Ахатович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 190,
+      "gas:candidate-vibid:1001000190294": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Морозов Олег Викторович": 407,
-      "Янборисов Булат Ахатович": 18,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 4,
+      "gas:candidate-vibid:1001000225904": 407,
+      "gas:candidate-vibid:1001000190294": 18,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 14,
-      "Морозов Олег Викторович": 98,
-      "Янборисов Булат Ахатович": 26,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 14,
+      "gas:candidate-vibid:1001000225904": 98,
+      "gas:candidate-vibid:1001000190294": 26,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 7,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 19,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Морозов Олег Викторович": 613,
-      "Янборисов Булат Ахатович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136002": 7,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 19,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 10,
+      "gas:candidate-vibid:1001000225904": 613,
+      "gas:candidate-vibid:1001000190294": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 4,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Морозов Олег Викторович": 733,
-      "Янборисов Булат Ахатович": 56,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 4,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 15,
+      "gas:candidate-vibid:1001000225904": 733,
+      "gas:candidate-vibid:1001000190294": 56,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 10,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Морозов Олег Викторович": 614,
-      "Янборисов Булат Ахатович": 36,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 10,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 21,
+      "gas:candidate-vibid:1001000225904": 614,
+      "gas:candidate-vibid:1001000190294": 36,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 39,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 45,
-      "Морозов Олег Викторович": 669,
-      "Янборисов Булат Ахатович": 29,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 39,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 45,
+      "gas:candidate-vibid:1001000225904": 669,
+      "gas:candidate-vibid:1001000190294": 29,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 9,
-      "Морозов Олег Викторович": 86,
-      "Янборисов Булат Ахатович": 10,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 9,
+      "gas:candidate-vibid:1001000225904": 86,
+      "gas:candidate-vibid:1001000190294": 10,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 9,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 9,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 35,
-      "Морозов Олег Викторович": 483,
-      "Янборисов Булат Ахатович": 102,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136002": 9,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 9,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 35,
+      "gas:candidate-vibid:1001000225904": 483,
+      "gas:candidate-vibid:1001000190294": 102,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Морозов Олег Викторович": 691,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 11,
+      "gas:candidate-vibid:1001000225904": 691,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 46,
-      "Морозов Олег Викторович": 410,
-      "Янборисов Булат Ахатович": 137,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 46,
+      "gas:candidate-vibid:1001000225904": 410,
+      "gas:candidate-vibid:1001000190294": 137,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 21,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 66,
-      "Морозов Олег Викторович": 267,
-      "Янборисов Булат Ахатович": 37,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 21,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 66,
+      "gas:candidate-vibid:1001000225904": 267,
+      "gas:candidate-vibid:1001000190294": 37,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Морозов Олег Викторович": 113,
-      "Янборисов Булат Ахатович": 46,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 7,
+      "gas:candidate-vibid:1001000225904": 113,
+      "gas:candidate-vibid:1001000190294": 46,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 15,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 26,
-      "Морозов Олег Викторович": 464,
-      "Янборисов Булат Ахатович": 24,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 15,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 26,
+      "gas:candidate-vibid:1001000225904": 464,
+      "gas:candidate-vibid:1001000190294": 24,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 18,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Морозов Олег Викторович": 147,
-      "Янборисов Булат Ахатович": 27,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 18,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 17,
+      "gas:candidate-vibid:1001000225904": 147,
+      "gas:candidate-vibid:1001000190294": 27,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Морозов Олег Викторович": 306,
-      "Янборисов Булат Ахатович": 27,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 15,
+      "gas:candidate-vibid:1001000225904": 306,
+      "gas:candidate-vibid:1001000190294": 27,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 239,
-      "Янборисов Булат Ахатович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 239,
+      "gas:candidate-vibid:1001000190294": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 4,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 28,
-      "Морозов Олег Викторович": 330,
-      "Янборисов Булат Ахатович": 29,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000136002": 4,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 28,
+      "gas:candidate-vibid:1001000225904": 330,
+      "gas:candidate-vibid:1001000190294": 29,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Морозов Олег Викторович": 130,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 6,
+      "gas:candidate-vibid:1001000225904": 130,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Морозов Олег Викторович": 280,
-      "Янборисов Булат Ахатович": 6,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 7,
+      "gas:candidate-vibid:1001000225904": 280,
+      "gas:candidate-vibid:1001000190294": 6,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Морозов Олег Викторович": 304,
-      "Янборисов Булат Ахатович": 24,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 10,
+      "gas:candidate-vibid:1001000225904": 304,
+      "gas:candidate-vibid:1001000190294": 24,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 4,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Морозов Олег Викторович": 189,
-      "Янборисов Булат Ахатович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136002": 4,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 12,
+      "gas:candidate-vibid:1001000225904": 189,
+      "gas:candidate-vibid:1001000190294": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370501&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 8,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 18,
-      "Иванов Леонид Иванович": 17,
-      "Миргалимов Хафиз Гаязович": 20,
-      "Морозов Олег Викторович": 348,
-      "Янборисов Булат Ахатович": 135,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000136002": 8,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 18,
+      "gas:candidate-vibid:316300370636": 17,
+      "gas:candidate-vibid:1001000121799": 20,
+      "gas:candidate-vibid:1001000225904": 348,
+      "gas:candidate-vibid:1001000190294": 135,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 47,
-      "Иванов Леонид Иванович": 39,
-      "Миргалимов Хафиз Гаязович": 53,
-      "Морозов Олег Викторович": 930,
-      "Янборисов Булат Ахатович": 162,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 47,
+      "gas:candidate-vibid:316300370636": 39,
+      "gas:candidate-vibid:1001000121799": 53,
+      "gas:candidate-vibid:1001000225904": 930,
+      "gas:candidate-vibid:1001000190294": 162,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 20,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 41,
-      "Иванов Леонид Иванович": 23,
-      "Миргалимов Хафиз Гаязович": 71,
-      "Морозов Олег Викторович": 622,
-      "Янборисов Булат Ахатович": 253,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000136002": 20,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 41,
+      "gas:candidate-vibid:316300370636": 23,
+      "gas:candidate-vibid:1001000121799": 71,
+      "gas:candidate-vibid:1001000225904": 622,
+      "gas:candidate-vibid:1001000190294": 253,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 10,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 17,
-      "Иванов Леонид Иванович": 10,
-      "Миргалимов Хафиз Гаязович": 27,
-      "Морозов Олег Викторович": 301,
-      "Янборисов Булат Ахатович": 124,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000136002": 10,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 17,
+      "gas:candidate-vibid:316300370636": 10,
+      "gas:candidate-vibid:1001000121799": 27,
+      "gas:candidate-vibid:1001000225904": 301,
+      "gas:candidate-vibid:1001000190294": 124,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 7,
-      "Иванов Леонид Иванович": 20,
-      "Миргалимов Хафиз Гаязович": 24,
-      "Морозов Олег Викторович": 503,
-      "Янборисов Булат Ахатович": 53,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 7,
+      "gas:candidate-vibid:316300370636": 20,
+      "gas:candidate-vibid:1001000121799": 24,
+      "gas:candidate-vibid:1001000225904": 503,
+      "gas:candidate-vibid:1001000190294": 53,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 7,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 7,
-      "Иванов Леонид Иванович": 11,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Морозов Олег Викторович": 673,
-      "Янборисов Булат Ахатович": 84,
-      "Против всех": 118
+      "gas:candidate-vibid:1001000136002": 7,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 7,
+      "gas:candidate-vibid:316300370636": 11,
+      "gas:candidate-vibid:1001000121799": 21,
+      "gas:candidate-vibid:1001000225904": 673,
+      "gas:candidate-vibid:1001000190294": 84,
+      "special:against-all": 118
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 10,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 13,
-      "Иванов Леонид Иванович": 19,
-      "Миргалимов Хафиз Гаязович": 18,
-      "Морозов Олег Викторович": 540,
-      "Янборисов Булат Ахатович": 48,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136002": 10,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 13,
+      "gas:candidate-vibid:316300370636": 19,
+      "gas:candidate-vibid:1001000121799": 18,
+      "gas:candidate-vibid:1001000225904": 540,
+      "gas:candidate-vibid:1001000190294": 48,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 8,
-      "Иванов Леонид Иванович": 7,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Морозов Олег Викторович": 473,
-      "Янборисов Булат Ахатович": 135,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 8,
+      "gas:candidate-vibid:316300370636": 7,
+      "gas:candidate-vibid:1001000121799": 17,
+      "gas:candidate-vibid:1001000225904": 473,
+      "gas:candidate-vibid:1001000190294": 135,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 22,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 54,
-      "Иванов Леонид Иванович": 24,
-      "Миргалимов Хафиз Гаязович": 94,
-      "Морозов Олег Викторович": 435,
-      "Янборисов Булат Ахатович": 146,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000136002": 22,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 54,
+      "gas:candidate-vibid:316300370636": 24,
+      "gas:candidate-vibid:1001000121799": 94,
+      "gas:candidate-vibid:1001000225904": 435,
+      "gas:candidate-vibid:1001000190294": 146,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 22,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 35,
-      "Иванов Леонид Иванович": 14,
-      "Миргалимов Хафиз Гаязович": 50,
-      "Морозов Олег Викторович": 850,
-      "Янборисов Булат Ахатович": 127,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000136002": 22,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 35,
+      "gas:candidate-vibid:316300370636": 14,
+      "gas:candidate-vibid:1001000121799": 50,
+      "gas:candidate-vibid:1001000225904": 850,
+      "gas:candidate-vibid:1001000190294": 127,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 7,
-      "Иванов Леонид Иванович": 5,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Морозов Олег Викторович": 876,
-      "Янборисов Булат Ахатович": 77,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 7,
+      "gas:candidate-vibid:316300370636": 5,
+      "gas:candidate-vibid:1001000121799": 6,
+      "gas:candidate-vibid:1001000225904": 876,
+      "gas:candidate-vibid:1001000190294": 77,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 15,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 16,
-      "Иванов Леонид Иванович": 23,
-      "Миргалимов Хафиз Гаязович": 29,
-      "Морозов Олег Викторович": 514,
-      "Янборисов Булат Ахатович": 90,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000136002": 15,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 16,
+      "gas:candidate-vibid:316300370636": 23,
+      "gas:candidate-vibid:1001000121799": 29,
+      "gas:candidate-vibid:1001000225904": 514,
+      "gas:candidate-vibid:1001000190294": 90,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 141,
-      "Янборисов Булат Ахатович": 4,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 141,
+      "gas:candidate-vibid:1001000190294": 4,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Морозов Олег Викторович": 90,
-      "Янборисов Булат Ахатович": 9,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 2,
+      "gas:candidate-vibid:1001000225904": 90,
+      "gas:candidate-vibid:1001000190294": 9,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 3,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Морозов Олег Викторович": 114,
-      "Янборисов Булат Ахатович": 23,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 3,
+      "gas:candidate-vibid:1001000121799": 11,
+      "gas:candidate-vibid:1001000225904": 114,
+      "gas:candidate-vibid:1001000190294": 23,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 12,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Морозов Олег Викторович": 104,
-      "Янборисов Булат Ахатович": 55,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 12,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 1,
+      "gas:candidate-vibid:1001000225904": 104,
+      "gas:candidate-vibid:1001000190294": 55,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 12,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 11,
-      "Иванов Леонид Иванович": 6,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Морозов Олег Викторович": 230,
-      "Янборисов Булат Ахатович": 21,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000136002": 12,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 11,
+      "gas:candidate-vibid:316300370636": 6,
+      "gas:candidate-vibid:1001000121799": 11,
+      "gas:candidate-vibid:1001000225904": 230,
+      "gas:candidate-vibid:1001000190294": 21,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 4,
-      "Миргалимов Хафиз Гаязович": 11,
-      "Морозов Олег Викторович": 218,
-      "Янборисов Булат Ахатович": 15,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 4,
+      "gas:candidate-vibid:1001000121799": 11,
+      "gas:candidate-vibid:1001000225904": 218,
+      "gas:candidate-vibid:1001000190294": 15,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Морозов Олег Викторович": 112,
-      "Янборисов Булат Ахатович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 2,
+      "gas:candidate-vibid:1001000225904": 112,
+      "gas:candidate-vibid:1001000190294": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 320,
-      "Янборисов Булат Ахатович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 320,
+      "gas:candidate-vibid:1001000190294": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 223,
-      "Янборисов Булат Ахатович": 16,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 223,
+      "gas:candidate-vibid:1001000190294": 16,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 467,
-      "Янборисов Булат Ахатович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 467,
+      "gas:candidate-vibid:1001000190294": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 283,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 283,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 125,
-      "Янборисов Булат Ахатович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 125,
+      "gas:candidate-vibid:1001000190294": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 266,
-      "Янборисов Булат Ахатович": 23,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 266,
+      "gas:candidate-vibid:1001000190294": 23,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 368,
-      "Янборисов Булат Ахатович": 32,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 368,
+      "gas:candidate-vibid:1001000190294": 32,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 7,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 197,
-      "Янборисов Булат Ахатович": 19,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 7,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 197,
+      "gas:candidate-vibid:1001000190294": 19,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 21,
-      "Иванов Леонид Иванович": 4,
-      "Миргалимов Хафиз Гаязович": 9,
-      "Морозов Олег Викторович": 291,
-      "Янборисов Булат Ахатович": 39,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 21,
+      "gas:candidate-vibid:316300370636": 4,
+      "gas:candidate-vibid:1001000121799": 9,
+      "gas:candidate-vibid:1001000225904": 291,
+      "gas:candidate-vibid:1001000190294": 39,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Морозов Олег Викторович": 566,
-      "Янборисов Булат Ахатович": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 2,
+      "gas:candidate-vibid:1001000225904": 566,
+      "gas:candidate-vibid:1001000190294": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 193,
-      "Янборисов Булат Ахатович": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 193,
+      "gas:candidate-vibid:1001000190294": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 7,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 336,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 7,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 336,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Морозов Олег Викторович": 148,
-      "Янборисов Булат Ахатович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 4,
+      "gas:candidate-vibid:1001000225904": 148,
+      "gas:candidate-vibid:1001000190294": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Морозов Олег Викторович": 489,
-      "Янборисов Булат Ахатович": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 4,
+      "gas:candidate-vibid:1001000225904": 489,
+      "gas:candidate-vibid:1001000190294": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 13,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 6,
-      "Иванов Леонид Иванович": 14,
-      "Миргалимов Хафиз Гаязович": 41,
-      "Морозов Олег Викторович": 264,
-      "Янборисов Булат Ахатович": 32,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136002": 13,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 6,
+      "gas:candidate-vibid:316300370636": 14,
+      "gas:candidate-vibid:1001000121799": 41,
+      "gas:candidate-vibid:1001000225904": 264,
+      "gas:candidate-vibid:1001000190294": 32,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370502&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 11,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 228,
-      "Янборисов Булат Ахатович": 10,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 11,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 228,
+      "gas:candidate-vibid:1001000190294": 10,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 223,
-      "Янборисов Булат Ахатович": 5,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 223,
+      "gas:candidate-vibid:1001000190294": 5,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 8,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 5,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Морозов Олег Викторович": 240,
-      "Янборисов Булат Ахатович": 12,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136002": 8,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 5,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 7,
+      "gas:candidate-vibid:1001000225904": 240,
+      "gas:candidate-vibid:1001000190294": 12,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 62,
-      "Янборисов Булат Ахатович": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 62,
+      "gas:candidate-vibid:1001000190294": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 4,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 6,
-      "Иванов Леонид Иванович": 3,
-      "Миргалимов Хафиз Гаязович": 16,
-      "Морозов Олег Викторович": 231,
-      "Янборисов Булат Ахатович": 65,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136002": 4,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 6,
+      "gas:candidate-vibid:316300370636": 3,
+      "gas:candidate-vibid:1001000121799": 16,
+      "gas:candidate-vibid:1001000225904": 231,
+      "gas:candidate-vibid:1001000190294": 65,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 0,
-      "Морозов Олег Викторович": 92,
-      "Янборисов Булат Ахатович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 0,
+      "gas:candidate-vibid:1001000225904": 92,
+      "gas:candidate-vibid:1001000190294": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 39,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 44,
-      "Морозов Олег Викторович": 309,
-      "Янборисов Булат Ахатович": 44,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 39,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 44,
+      "gas:candidate-vibid:1001000225904": 309,
+      "gas:candidate-vibid:1001000190294": 44,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Морозов Олег Викторович": 39,
-      "Янборисов Булат Ахатович": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 10,
+      "gas:candidate-vibid:1001000225904": 39,
+      "gas:candidate-vibid:1001000190294": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 7,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 6,
-      "Морозов Олег Викторович": 359,
-      "Янборисов Булат Ахатович": 15,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 7,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 6,
+      "gas:candidate-vibid:1001000225904": 359,
+      "gas:candidate-vibid:1001000190294": 15,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Морозов Олег Викторович": 275,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 7,
+      "gas:candidate-vibid:1001000225904": 275,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Морозов Олег Викторович": 246,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 10,
+      "gas:candidate-vibid:1001000225904": 246,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 167,
-      "Янборисов Булат Ахатович": 9,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 167,
+      "gas:candidate-vibid:1001000190294": 9,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 4,
-      "Иванов Леонид Иванович": 4,
-      "Миргалимов Хафиз Гаязович": 9,
-      "Морозов Олег Викторович": 176,
-      "Янборисов Булат Ахатович": 22,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 4,
+      "gas:candidate-vibid:316300370636": 4,
+      "gas:candidate-vibid:1001000121799": 9,
+      "gas:candidate-vibid:1001000225904": 176,
+      "gas:candidate-vibid:1001000190294": 22,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Морозов Олег Викторович": 164,
-      "Янборисов Булат Ахатович": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 13,
+      "gas:candidate-vibid:1001000225904": 164,
+      "gas:candidate-vibid:1001000190294": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 13,
-      "Иванов Леонид Иванович": 16,
-      "Миргалимов Хафиз Гаязович": 14,
-      "Морозов Олег Викторович": 394,
-      "Янборисов Булат Ахатович": 31,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 13,
+      "gas:candidate-vibid:316300370636": 16,
+      "gas:candidate-vibid:1001000121799": 14,
+      "gas:candidate-vibid:1001000225904": 394,
+      "gas:candidate-vibid:1001000190294": 31,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Морозов Олег Викторович": 169,
-      "Янборисов Булат Ахатович": 15,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 13,
+      "gas:candidate-vibid:1001000225904": 169,
+      "gas:candidate-vibid:1001000190294": 15,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 9,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 45,
-      "Иванов Леонид Иванович": 4,
-      "Миргалимов Хафиз Гаязович": 108,
-      "Морозов Олег Викторович": 239,
-      "Янборисов Булат Ахатович": 104,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000136002": 9,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 45,
+      "gas:candidate-vibid:316300370636": 4,
+      "gas:candidate-vibid:1001000121799": 108,
+      "gas:candidate-vibid:1001000225904": 239,
+      "gas:candidate-vibid:1001000190294": 104,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 3,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 6,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 4,
-      "Морозов Олег Викторович": 118,
-      "Янборисов Булат Ахатович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136002": 3,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 6,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 4,
+      "gas:candidate-vibid:1001000225904": 118,
+      "gas:candidate-vibid:1001000190294": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Морозов Олег Викторович": 55,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 2,
+      "gas:candidate-vibid:1001000225904": 55,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Морозов Олег Викторович": 292,
-      "Янборисов Булат Ахатович": 21,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 13,
+      "gas:candidate-vibid:1001000225904": 292,
+      "gas:candidate-vibid:1001000190294": 21,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 7,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 5,
-      "Иванов Леонид Иванович": 6,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Морозов Олег Викторович": 219,
-      "Янборисов Булат Ахатович": 41,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000136002": 7,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 5,
+      "gas:candidate-vibid:316300370636": 6,
+      "gas:candidate-vibid:1001000121799": 5,
+      "gas:candidate-vibid:1001000225904": 219,
+      "gas:candidate-vibid:1001000190294": 41,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Морозов Олег Викторович": 72,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 2,
+      "gas:candidate-vibid:1001000225904": 72,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 13,
-      "Морозов Олег Викторович": 195,
-      "Янборисов Булат Ахатович": 15,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 13,
+      "gas:candidate-vibid:1001000225904": 195,
+      "gas:candidate-vibid:1001000190294": 15,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 4,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 5,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 2,
-      "Морозов Олег Викторович": 265,
-      "Янборисов Булат Ахатович": 14,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000136002": 4,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 5,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 2,
+      "gas:candidate-vibid:1001000225904": 265,
+      "gas:candidate-vibid:1001000190294": 14,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 4,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 5,
-      "Морозов Олег Викторович": 278,
-      "Янборисов Булат Ахатович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 4,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 5,
+      "gas:candidate-vibid:1001000225904": 278,
+      "gas:candidate-vibid:1001000190294": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 2,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Морозов Олег Викторович": 81,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 2,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 1,
+      "gas:candidate-vibid:1001000225904": 81,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 0,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 1,
-      "Морозов Олег Викторович": 87,
-      "Янборисов Булат Ахатович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 0,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 1,
+      "gas:candidate-vibid:1001000225904": 87,
+      "gas:candidate-vibid:1001000190294": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 10,
-      "Иванов Леонид Иванович": 2,
-      "Миргалимов Хафиз Гаязович": 30,
-      "Морозов Олег Викторович": 207,
-      "Янборисов Булат Ахатович": 19,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 10,
+      "gas:candidate-vibid:316300370636": 2,
+      "gas:candidate-vibid:1001000121799": 30,
+      "gas:candidate-vibid:1001000225904": 207,
+      "gas:candidate-vibid:1001000190294": 19,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 17,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 19,
-      "Морозов Олег Викторович": 197,
-      "Янборисов Булат Ахатович": 16,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 17,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 19,
+      "gas:candidate-vibid:1001000225904": 197,
+      "gas:candidate-vibid:1001000190294": 16,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 5,
-      "Иванов Леонид Иванович": 5,
-      "Миргалимов Хафиз Гаязович": 3,
-      "Морозов Олег Викторович": 223,
-      "Янборисов Булат Ахатович": 46,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 5,
+      "gas:candidate-vibid:316300370636": 5,
+      "gas:candidate-vibid:1001000121799": 3,
+      "gas:candidate-vibid:1001000225904": 223,
+      "gas:candidate-vibid:1001000190294": 46,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 4,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 6,
-      "Иванов Леонид Иванович": 5,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Морозов Олег Викторович": 91,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000136002": 4,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 6,
+      "gas:candidate-vibid:316300370636": 5,
+      "gas:candidate-vibid:1001000121799": 8,
+      "gas:candidate-vibid:1001000225904": 91,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 10,
-      "Морозов Олег Викторович": 174,
-      "Янборисов Булат Ахатович": 23,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 10,
+      "gas:candidate-vibid:1001000225904": 174,
+      "gas:candidate-vibid:1001000190294": 23,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 5,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 13,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Морозов Олег Викторович": 136,
-      "Янборисов Булат Ахатович": 19,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000136002": 5,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 13,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 8,
+      "gas:candidate-vibid:1001000225904": 136,
+      "gas:candidate-vibid:1001000190294": 19,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 1,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 1,
-      "Иванов Леонид Иванович": 4,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Морозов Олег Викторович": 351,
-      "Янборисов Булат Ахатович": 51,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000136002": 1,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 1,
+      "gas:candidate-vibid:316300370636": 4,
+      "gas:candidate-vibid:1001000121799": 21,
+      "gas:candidate-vibid:1001000225904": 351,
+      "gas:candidate-vibid:1001000190294": 51,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 0,
-      "Ибятов Фаиль Мужипович": 4,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 15,
-      "Морозов Олег Викторович": 123,
-      "Янборисов Булат Ахатович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 0,
+      "gas:candidate-vibid:316300370730": 4,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 15,
+      "gas:candidate-vibid:1001000225904": 123,
+      "gas:candidate-vibid:1001000190294": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 2,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 7,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 8,
-      "Морозов Олег Викторович": 228,
-      "Янборисов Булат Ахатович": 15,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 2,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 7,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 8,
+      "gas:candidate-vibid:1001000225904": 228,
+      "gas:candidate-vibid:1001000190294": 15,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 0,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 25,
-      "Иванов Леонид Иванович": 0,
-      "Миргалимов Хафиз Гаязович": 12,
-      "Морозов Олег Викторович": 193,
-      "Янборисов Булат Ахатович": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000136002": 0,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 25,
+      "gas:candidate-vibid:316300370636": 0,
+      "gas:candidate-vibid:1001000121799": 12,
+      "gas:candidate-vibid:1001000225904": 193,
+      "gas:candidate-vibid:1001000190294": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 6,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 3,
-      "Иванов Леонид Иванович": 1,
-      "Миргалимов Хафиз Гаязович": 7,
-      "Морозов Олег Викторович": 186,
-      "Янборисов Булат Ахатович": 13,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000136002": 6,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 3,
+      "gas:candidate-vibid:316300370636": 1,
+      "gas:candidate-vibid:1001000121799": 7,
+      "gas:candidate-vibid:1001000225904": 186,
+      "gas:candidate-vibid:1001000190294": 13,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 41,
-      "Иванов Леонид Иванович": 14,
-      "Миргалимов Хафиз Гаязович": 99,
-      "Морозов Олег Викторович": 405,
-      "Янборисов Булат Ахатович": 71,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 41,
+      "gas:candidate-vibid:316300370636": 14,
+      "gas:candidate-vibid:1001000121799": 99,
+      "gas:candidate-vibid:1001000225904": 405,
+      "gas:candidate-vibid:1001000190294": 71,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 70,
-      "Иванов Леонид Иванович": 38,
-      "Миргалимов Хафиз Гаязович": 111,
-      "Морозов Олег Викторович": 586,
-      "Янборисов Булат Ахатович": 86,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 70,
+      "gas:candidate-vibid:316300370636": 38,
+      "gas:candidate-vibid:1001000121799": 111,
+      "gas:candidate-vibid:1001000225904": 586,
+      "gas:candidate-vibid:1001000190294": 86,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 18,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 41,
-      "Иванов Леонид Иванович": 22,
-      "Миргалимов Хафиз Гаязович": 81,
-      "Морозов Олег Викторович": 306,
-      "Янборисов Булат Ахатович": 61,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000136002": 18,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 41,
+      "gas:candidate-vibid:316300370636": 22,
+      "gas:candidate-vibid:1001000121799": 81,
+      "gas:candidate-vibid:1001000225904": 306,
+      "gas:candidate-vibid:1001000190294": 61,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 15,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 69,
-      "Иванов Леонид Иванович": 17,
-      "Миргалимов Хафиз Гаязович": 64,
-      "Морозов Олег Викторович": 253,
-      "Янборисов Булат Ахатович": 37,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000136002": 15,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 69,
+      "gas:candidate-vibid:316300370636": 17,
+      "gas:candidate-vibid:1001000121799": 64,
+      "gas:candidate-vibid:1001000225904": 253,
+      "gas:candidate-vibid:1001000190294": 37,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 49,
-      "Иванов Леонид Иванович": 28,
-      "Миргалимов Хафиз Гаязович": 113,
-      "Морозов Олег Викторович": 425,
-      "Янборисов Булат Ахатович": 71,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 49,
+      "gas:candidate-vibid:316300370636": 28,
+      "gas:candidate-vibid:1001000121799": 113,
+      "gas:candidate-vibid:1001000225904": 425,
+      "gas:candidate-vibid:1001000190294": 71,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 21,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 46,
-      "Иванов Леонид Иванович": 12,
-      "Миргалимов Хафиз Гаязович": 53,
-      "Морозов Олег Викторович": 410,
-      "Янборисов Булат Ахатович": 53,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136002": 21,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 46,
+      "gas:candidate-vibid:316300370636": 12,
+      "gas:candidate-vibid:1001000121799": 53,
+      "gas:candidate-vibid:1001000225904": 410,
+      "gas:candidate-vibid:1001000190294": 53,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 16,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 4,
-      "Иванов Леонид Иванович": 16,
-      "Миргалимов Хафиз Гаязович": 69,
-      "Морозов Олег Викторович": 564,
-      "Янборисов Булат Ахатович": 77,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000136002": 16,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 4,
+      "gas:candidate-vibid:316300370636": 16,
+      "gas:candidate-vibid:1001000121799": 69,
+      "gas:candidate-vibid:1001000225904": 564,
+      "gas:candidate-vibid:1001000190294": 77,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 41,
-      "Иванов Леонид Иванович": 17,
-      "Миргалимов Хафиз Гаязович": 63,
-      "Морозов Олег Викторович": 421,
-      "Янборисов Булат Ахатович": 56,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 41,
+      "gas:candidate-vibid:316300370636": 17,
+      "gas:candidate-vibid:1001000121799": 63,
+      "gas:candidate-vibid:1001000225904": 421,
+      "gas:candidate-vibid:1001000190294": 56,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 23,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 43,
-      "Иванов Леонид Иванович": 22,
-      "Миргалимов Хафиз Гаязович": 56,
-      "Морозов Олег Викторович": 349,
-      "Янборисов Булат Ахатович": 73,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000136002": 23,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 43,
+      "gas:candidate-vibid:316300370636": 22,
+      "gas:candidate-vibid:1001000121799": 56,
+      "gas:candidate-vibid:1001000225904": 349,
+      "gas:candidate-vibid:1001000190294": 73,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 18,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 63,
-      "Иванов Леонид Иванович": 8,
-      "Миргалимов Хафиз Гаязович": 76,
-      "Морозов Олег Викторович": 347,
-      "Янборисов Булат Ахатович": 101,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000136002": 18,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 63,
+      "gas:candidate-vibid:316300370636": 8,
+      "gas:candidate-vibid:1001000121799": 76,
+      "gas:candidate-vibid:1001000225904": 347,
+      "gas:candidate-vibid:1001000190294": 101,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 20,
-      "Асылов Рафаил Хуснихаматович": 14,
-      "Ибятов Фаиль Мужипович": 33,
-      "Иванов Леонид Иванович": 23,
-      "Миргалимов Хафиз Гаязович": 93,
-      "Морозов Олег Викторович": 314,
-      "Янборисов Булат Ахатович": 39,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000136002": 20,
+      "gas:candidate-vibid:316300370854": 14,
+      "gas:candidate-vibid:316300370730": 33,
+      "gas:candidate-vibid:316300370636": 23,
+      "gas:candidate-vibid:1001000121799": 93,
+      "gas:candidate-vibid:1001000225904": 314,
+      "gas:candidate-vibid:1001000190294": 39,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 38,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 44,
-      "Иванов Леонид Иванович": 23,
-      "Миргалимов Хафиз Гаязович": 111,
-      "Морозов Олег Викторович": 458,
-      "Янборисов Булат Ахатович": 33,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000136002": 38,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 44,
+      "gas:candidate-vibid:316300370636": 23,
+      "gas:candidate-vibid:1001000121799": 111,
+      "gas:candidate-vibid:1001000225904": 458,
+      "gas:candidate-vibid:1001000190294": 33,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370503&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 16,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 56,
-      "Иванов Леонид Иванович": 21,
-      "Миргалимов Хафиз Гаязович": 59,
-      "Морозов Олег Викторович": 190,
-      "Янборисов Булат Ахатович": 44,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000136002": 16,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 56,
+      "gas:candidate-vibid:316300370636": 21,
+      "gas:candidate-vibid:1001000121799": 59,
+      "gas:candidate-vibid:1001000225904": 190,
+      "gas:candidate-vibid:1001000190294": 44,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 114,
-      "Иванов Леонид Иванович": 89,
-      "Миргалимов Хафиз Гаязович": 90,
-      "Морозов Олег Викторович": 484,
-      "Янборисов Булат Ахатович": 214,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 114,
+      "gas:candidate-vibid:316300370636": 89,
+      "gas:candidate-vibid:1001000121799": 90,
+      "gas:candidate-vibid:1001000225904": 484,
+      "gas:candidate-vibid:1001000190294": 214,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 8,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 14,
-      "Иванов Леонид Иванович": 11,
-      "Миргалимов Хафиз Гаязович": 17,
-      "Морозов Олег Викторович": 138,
-      "Янборисов Булат Ахатович": 34,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000136002": 8,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 14,
+      "gas:candidate-vibid:316300370636": 11,
+      "gas:candidate-vibid:1001000121799": 17,
+      "gas:candidate-vibid:1001000225904": 138,
+      "gas:candidate-vibid:1001000190294": 34,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Амзин Валерий Викторович": 20,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 82,
-      "Иванов Леонид Иванович": 84,
-      "Миргалимов Хафиз Гаязович": 93,
-      "Морозов Олег Викторович": 532,
-      "Янборисов Булат Ахатович": 222,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000136002": 20,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 82,
+      "gas:candidate-vibid:316300370636": 84,
+      "gas:candidate-vibid:1001000121799": 93,
+      "gas:candidate-vibid:1001000225904": 532,
+      "gas:candidate-vibid:1001000190294": 222,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 57,
-      "Иванов Леонид Иванович": 58,
-      "Миргалимов Хафиз Гаязович": 341,
-      "Морозов Олег Викторович": 706,
-      "Янборисов Булат Ахатович": 262,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 57,
+      "gas:candidate-vibid:316300370636": 58,
+      "gas:candidate-vibid:1001000121799": 341,
+      "gas:candidate-vibid:1001000225904": 706,
+      "gas:candidate-vibid:1001000190294": 262,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 8,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 28,
-      "Иванов Леонид Иванович": 13,
-      "Миргалимов Хафиз Гаязович": 21,
-      "Морозов Олег Викторович": 138,
-      "Янборисов Булат Ахатович": 43,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000136002": 8,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 28,
+      "gas:candidate-vibid:316300370636": 13,
+      "gas:candidate-vibid:1001000121799": 21,
+      "gas:candidate-vibid:1001000225904": 138,
+      "gas:candidate-vibid:1001000190294": 43,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 31,
-      "Асылов Рафаил Хуснихаматович": 1,
-      "Ибятов Фаиль Мужипович": 65,
-      "Иванов Леонид Иванович": 80,
-      "Миргалимов Хафиз Гаязович": 68,
-      "Морозов Олег Викторович": 406,
-      "Янборисов Булат Ахатович": 151,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136002": 31,
+      "gas:candidate-vibid:316300370854": 1,
+      "gas:candidate-vibid:316300370730": 65,
+      "gas:candidate-vibid:316300370636": 80,
+      "gas:candidate-vibid:1001000121799": 68,
+      "gas:candidate-vibid:1001000225904": 406,
+      "gas:candidate-vibid:1001000190294": 151,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 22,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 91,
-      "Иванов Леонид Иванович": 113,
-      "Миргалимов Хафиз Гаязович": 114,
-      "Морозов Олег Викторович": 520,
-      "Янборисов Булат Ахатович": 174,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000136002": 22,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 91,
+      "gas:candidate-vibid:316300370636": 113,
+      "gas:candidate-vibid:1001000121799": 114,
+      "gas:candidate-vibid:1001000225904": 520,
+      "gas:candidate-vibid:1001000190294": 174,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 47,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 144,
-      "Иванов Леонид Иванович": 244,
-      "Миргалимов Хафиз Гаязович": 149,
-      "Морозов Олег Викторович": 814,
-      "Янборисов Булат Ахатович": 237,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000136002": 47,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 144,
+      "gas:candidate-vibid:316300370636": 244,
+      "gas:candidate-vibid:1001000121799": 149,
+      "gas:candidate-vibid:1001000225904": 814,
+      "gas:candidate-vibid:1001000190294": 237,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 34,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 116,
-      "Иванов Леонид Иванович": 187,
-      "Миргалимов Хафиз Гаязович": 173,
-      "Морозов Олег Викторович": 685,
-      "Янборисов Булат Ахатович": 308,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000136002": 34,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 116,
+      "gas:candidate-vibid:316300370636": 187,
+      "gas:candidate-vibid:1001000121799": 173,
+      "gas:candidate-vibid:1001000225904": 685,
+      "gas:candidate-vibid:1001000190294": 308,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 42,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 126,
-      "Иванов Леонид Иванович": 190,
-      "Миргалимов Хафиз Гаязович": 141,
-      "Морозов Олег Викторович": 618,
-      "Янборисов Булат Ахатович": 315,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000136002": 42,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 126,
+      "gas:candidate-vibid:316300370636": 190,
+      "gas:candidate-vibid:1001000121799": 141,
+      "gas:candidate-vibid:1001000225904": 618,
+      "gas:candidate-vibid:1001000190294": 315,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 85,
-      "Иванов Леонид Иванович": 74,
-      "Миргалимов Хафиз Гаязович": 105,
-      "Морозов Олег Викторович": 568,
-      "Янборисов Булат Ахатович": 236,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 85,
+      "gas:candidate-vibid:316300370636": 74,
+      "gas:candidate-vibid:1001000121799": 105,
+      "gas:candidate-vibid:1001000225904": 568,
+      "gas:candidate-vibid:1001000190294": 236,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 107,
-      "Иванов Леонид Иванович": 94,
-      "Миргалимов Хафиз Гаязович": 95,
-      "Морозов Олег Викторович": 612,
-      "Янборисов Булат Ахатович": 218,
-      "Против всех": 227
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 107,
+      "gas:candidate-vibid:316300370636": 94,
+      "gas:candidate-vibid:1001000121799": 95,
+      "gas:candidate-vibid:1001000225904": 612,
+      "gas:candidate-vibid:1001000190294": 218,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Амзин Валерий Викторович": 71,
-      "Асылов Рафаил Хуснихаматович": 19,
-      "Ибятов Фаиль Мужипович": 89,
-      "Иванов Леонид Иванович": 429,
-      "Миргалимов Хафиз Гаязович": 210,
-      "Морозов Олег Викторович": 764,
-      "Янборисов Булат Ахатович": 170,
-      "Против всех": 224
+      "gas:candidate-vibid:1001000136002": 71,
+      "gas:candidate-vibid:316300370854": 19,
+      "gas:candidate-vibid:316300370730": 89,
+      "gas:candidate-vibid:316300370636": 429,
+      "gas:candidate-vibid:1001000121799": 210,
+      "gas:candidate-vibid:1001000225904": 764,
+      "gas:candidate-vibid:1001000190294": 170,
+      "special:against-all": 224
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 101,
-      "Иванов Леонид Иванович": 240,
-      "Миргалимов Хафиз Гаязович": 143,
-      "Морозов Олег Викторович": 809,
-      "Янборисов Булат Ахатович": 204,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 101,
+      "gas:candidate-vibid:316300370636": 240,
+      "gas:candidate-vibid:1001000121799": 143,
+      "gas:candidate-vibid:1001000225904": 809,
+      "gas:candidate-vibid:1001000190294": 204,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 96,
-      "Иванов Леонид Иванович": 257,
-      "Миргалимов Хафиз Гаязович": 154,
-      "Морозов Олег Викторович": 635,
-      "Янборисов Булат Ахатович": 305,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 96,
+      "gas:candidate-vibid:316300370636": 257,
+      "gas:candidate-vibid:1001000121799": 154,
+      "gas:candidate-vibid:1001000225904": 635,
+      "gas:candidate-vibid:1001000190294": 305,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 36,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 100,
-      "Иванов Леонид Иванович": 208,
-      "Миргалимов Хафиз Гаязович": 179,
-      "Морозов Олег Викторович": 601,
-      "Янборисов Булат Ахатович": 257,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000136002": 36,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 100,
+      "gas:candidate-vibid:316300370636": 208,
+      "gas:candidate-vibid:1001000121799": 179,
+      "gas:candidate-vibid:1001000225904": 601,
+      "gas:candidate-vibid:1001000190294": 257,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 40,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 126,
-      "Иванов Леонид Иванович": 244,
-      "Миргалимов Хафиз Гаязович": 192,
-      "Морозов Олег Викторович": 767,
-      "Янборисов Булат Ахатович": 282,
-      "Против всех": 283
+      "gas:candidate-vibid:1001000136002": 40,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 126,
+      "gas:candidate-vibid:316300370636": 244,
+      "gas:candidate-vibid:1001000121799": 192,
+      "gas:candidate-vibid:1001000225904": 767,
+      "gas:candidate-vibid:1001000190294": 282,
+      "special:against-all": 283
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 51,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 98,
-      "Иванов Леонид Иванович": 193,
-      "Миргалимов Хафиз Гаязович": 149,
-      "Морозов Олег Викторович": 722,
-      "Янборисов Булат Ахатович": 245,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000136002": 51,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 98,
+      "gas:candidate-vibid:316300370636": 193,
+      "gas:candidate-vibid:1001000121799": 149,
+      "gas:candidate-vibid:1001000225904": 722,
+      "gas:candidate-vibid:1001000190294": 245,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 48,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 111,
-      "Иванов Леонид Иванович": 334,
-      "Миргалимов Хафиз Гаязович": 160,
-      "Морозов Олег Викторович": 719,
-      "Янборисов Булат Ахатович": 271,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000136002": 48,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 111,
+      "gas:candidate-vibid:316300370636": 334,
+      "gas:candidate-vibid:1001000121799": 160,
+      "gas:candidate-vibid:1001000225904": 719,
+      "gas:candidate-vibid:1001000190294": 271,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 25,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 78,
-      "Иванов Леонид Иванович": 167,
-      "Миргалимов Хафиз Гаязович": 154,
-      "Морозов Олег Викторович": 604,
-      "Янборисов Булат Ахатович": 209,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000136002": 25,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 78,
+      "gas:candidate-vibid:316300370636": 167,
+      "gas:candidate-vibid:1001000121799": 154,
+      "gas:candidate-vibid:1001000225904": 604,
+      "gas:candidate-vibid:1001000190294": 209,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 47,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 110,
-      "Иванов Леонид Иванович": 262,
-      "Миргалимов Хафиз Гаязович": 210,
-      "Морозов Олег Викторович": 630,
-      "Янборисов Булат Ахатович": 288,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000136002": 47,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 110,
+      "gas:candidate-vibid:316300370636": 262,
+      "gas:candidate-vibid:1001000121799": 210,
+      "gas:candidate-vibid:1001000225904": 630,
+      "gas:candidate-vibid:1001000190294": 288,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 94,
-      "Иванов Леонид Иванович": 155,
-      "Миргалимов Хафиз Гаязович": 153,
-      "Морозов Олег Викторович": 526,
-      "Янборисов Булат Ахатович": 201,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 94,
+      "gas:candidate-vibid:316300370636": 155,
+      "gas:candidate-vibid:1001000121799": 153,
+      "gas:candidate-vibid:1001000225904": 526,
+      "gas:candidate-vibid:1001000190294": 201,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 21,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 127,
-      "Иванов Леонид Иванович": 122,
-      "Миргалимов Хафиз Гаязович": 184,
-      "Морозов Олег Викторович": 550,
-      "Янборисов Булат Ахатович": 247,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000136002": 21,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 127,
+      "gas:candidate-vibid:316300370636": 122,
+      "gas:candidate-vibid:1001000121799": 184,
+      "gas:candidate-vibid:1001000225904": 550,
+      "gas:candidate-vibid:1001000190294": 247,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 73,
-      "Иванов Леонид Иванович": 154,
-      "Миргалимов Хафиз Гаязович": 122,
-      "Морозов Олег Викторович": 436,
-      "Янборисов Булат Ахатович": 220,
-      "Против всех": 174
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 73,
+      "gas:candidate-vibid:316300370636": 154,
+      "gas:candidate-vibid:1001000121799": 122,
+      "gas:candidate-vibid:1001000225904": 436,
+      "gas:candidate-vibid:1001000190294": 220,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 40,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 84,
-      "Иванов Леонид Иванович": 175,
-      "Миргалимов Хафиз Гаязович": 138,
-      "Морозов Олег Викторович": 514,
-      "Янборисов Булат Ахатович": 237,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000136002": 40,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 84,
+      "gas:candidate-vibid:316300370636": 175,
+      "gas:candidate-vibid:1001000121799": 138,
+      "gas:candidate-vibid:1001000225904": 514,
+      "gas:candidate-vibid:1001000190294": 237,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Амзин Валерий Викторович": 47,
-      "Асылов Рафаил Хуснихаматович": 17,
-      "Ибятов Фаиль Мужипович": 107,
-      "Иванов Леонид Иванович": 135,
-      "Миргалимов Хафиз Гаязович": 154,
-      "Морозов Олег Викторович": 620,
-      "Янборисов Булат Ахатович": 243,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000136002": 47,
+      "gas:candidate-vibid:316300370854": 17,
+      "gas:candidate-vibid:316300370730": 107,
+      "gas:candidate-vibid:316300370636": 135,
+      "gas:candidate-vibid:1001000121799": 154,
+      "gas:candidate-vibid:1001000225904": 620,
+      "gas:candidate-vibid:1001000190294": 243,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 15,
-      "Ибятов Фаиль Мужипович": 110,
-      "Иванов Леонид Иванович": 204,
-      "Миргалимов Хафиз Гаязович": 194,
-      "Морозов Олег Викторович": 585,
-      "Янборисов Булат Ахатович": 207,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 15,
+      "gas:candidate-vibid:316300370730": 110,
+      "gas:candidate-vibid:316300370636": 204,
+      "gas:candidate-vibid:1001000121799": 194,
+      "gas:candidate-vibid:1001000225904": 585,
+      "gas:candidate-vibid:1001000190294": 207,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 35,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 76,
-      "Иванов Леонид Иванович": 153,
-      "Миргалимов Хафиз Гаязович": 117,
-      "Морозов Олег Викторович": 559,
-      "Янборисов Булат Ахатович": 227,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000136002": 35,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 76,
+      "gas:candidate-vibid:316300370636": 153,
+      "gas:candidate-vibid:1001000121799": 117,
+      "gas:candidate-vibid:1001000225904": 559,
+      "gas:candidate-vibid:1001000190294": 227,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 40,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 94,
-      "Иванов Леонид Иванович": 156,
-      "Миргалимов Хафиз Гаязович": 116,
-      "Морозов Олег Викторович": 480,
-      "Янборисов Булат Ахатович": 233,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000136002": 40,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 94,
+      "gas:candidate-vibid:316300370636": 156,
+      "gas:candidate-vibid:1001000121799": 116,
+      "gas:candidate-vibid:1001000225904": 480,
+      "gas:candidate-vibid:1001000190294": 233,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 20,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 103,
-      "Иванов Леонид Иванович": 108,
-      "Миргалимов Хафиз Гаязович": 113,
-      "Морозов Олег Викторович": 621,
-      "Янборисов Булат Ахатович": 185,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000136002": 20,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 103,
+      "gas:candidate-vibid:316300370636": 108,
+      "gas:candidate-vibid:1001000121799": 113,
+      "gas:candidate-vibid:1001000225904": 621,
+      "gas:candidate-vibid:1001000190294": 185,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 42,
-      "Асылов Рафаил Хуснихаматович": 29,
-      "Ибятов Фаиль Мужипович": 107,
-      "Иванов Леонид Иванович": 115,
-      "Миргалимов Хафиз Гаязович": 204,
-      "Морозов Олег Викторович": 752,
-      "Янборисов Булат Ахатович": 271,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000136002": 42,
+      "gas:candidate-vibid:316300370854": 29,
+      "gas:candidate-vibid:316300370730": 107,
+      "gas:candidate-vibid:316300370636": 115,
+      "gas:candidate-vibid:1001000121799": 204,
+      "gas:candidate-vibid:1001000225904": 752,
+      "gas:candidate-vibid:1001000190294": 271,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 17,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 60,
-      "Иванов Леонид Иванович": 72,
-      "Миргалимов Хафиз Гаязович": 73,
-      "Морозов Олег Викторович": 611,
-      "Янборисов Булат Ахатович": 160,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000136002": 17,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 60,
+      "gas:candidate-vibid:316300370636": 72,
+      "gas:candidate-vibid:1001000121799": 73,
+      "gas:candidate-vibid:1001000225904": 611,
+      "gas:candidate-vibid:1001000190294": 160,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 36,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 85,
-      "Иванов Леонид Иванович": 126,
-      "Миргалимов Хафиз Гаязович": 139,
-      "Морозов Олег Викторович": 569,
-      "Янборисов Булат Ахатович": 248,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000136002": 36,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 85,
+      "gas:candidate-vibid:316300370636": 126,
+      "gas:candidate-vibid:1001000121799": 139,
+      "gas:candidate-vibid:1001000225904": 569,
+      "gas:candidate-vibid:1001000190294": 248,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 12,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 56,
-      "Иванов Леонид Иванович": 26,
-      "Миргалимов Хафиз Гаязович": 95,
-      "Морозов Олег Викторович": 265,
-      "Янборисов Булат Ахатович": 70,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000136002": 12,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 56,
+      "gas:candidate-vibid:316300370636": 26,
+      "gas:candidate-vibid:1001000121799": 95,
+      "gas:candidate-vibid:1001000225904": 265,
+      "gas:candidate-vibid:1001000190294": 70,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 85,
-      "Иванов Леонид Иванович": 164,
-      "Миргалимов Хафиз Гаязович": 113,
-      "Морозов Олег Викторович": 839,
-      "Янборисов Булат Ахатович": 202,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 85,
+      "gas:candidate-vibid:316300370636": 164,
+      "gas:candidate-vibid:1001000121799": 113,
+      "gas:candidate-vibid:1001000225904": 839,
+      "gas:candidate-vibid:1001000190294": 202,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 35,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 76,
-      "Иванов Леонид Иванович": 220,
-      "Миргалимов Хафиз Гаязович": 107,
-      "Морозов Олег Викторович": 909,
-      "Янборисов Булат Ахатович": 268,
-      "Против всех": 420
+      "gas:candidate-vibid:1001000136002": 35,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 76,
+      "gas:candidate-vibid:316300370636": 220,
+      "gas:candidate-vibid:1001000121799": 107,
+      "gas:candidate-vibid:1001000225904": 909,
+      "gas:candidate-vibid:1001000190294": 268,
+      "special:against-all": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 16,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 38,
-      "Иванов Леонид Иванович": 49,
-      "Миргалимов Хафиз Гаязович": 51,
-      "Морозов Олег Викторович": 277,
-      "Янборисов Булат Ахатович": 79,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000136002": 16,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 38,
+      "gas:candidate-vibid:316300370636": 49,
+      "gas:candidate-vibid:1001000121799": 51,
+      "gas:candidate-vibid:1001000225904": 277,
+      "gas:candidate-vibid:1001000190294": 79,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 26,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 116,
-      "Иванов Леонид Иванович": 121,
-      "Миргалимов Хафиз Гаязович": 210,
-      "Морозов Олег Викторович": 652,
-      "Янборисов Булат Ахатович": 263,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000136002": 26,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 116,
+      "gas:candidate-vibid:316300370636": 121,
+      "gas:candidate-vibid:1001000121799": 210,
+      "gas:candidate-vibid:1001000225904": 652,
+      "gas:candidate-vibid:1001000190294": 263,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 93,
-      "Иванов Леонид Иванович": 220,
-      "Миргалимов Хафиз Гаязович": 184,
-      "Морозов Олег Викторович": 754,
-      "Янборисов Булат Ахатович": 274,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 93,
+      "gas:candidate-vibid:316300370636": 220,
+      "gas:candidate-vibid:1001000121799": 184,
+      "gas:candidate-vibid:1001000225904": 754,
+      "gas:candidate-vibid:1001000190294": 274,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 90,
-      "Иванов Леонид Иванович": 190,
-      "Миргалимов Хафиз Гаязович": 199,
-      "Морозов Олег Викторович": 526,
-      "Янборисов Булат Ахатович": 306,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 90,
+      "gas:candidate-vibid:316300370636": 190,
+      "gas:candidate-vibid:1001000121799": 199,
+      "gas:candidate-vibid:1001000225904": 526,
+      "gas:candidate-vibid:1001000190294": 306,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 101,
-      "Иванов Леонид Иванович": 158,
-      "Миргалимов Хафиз Гаязович": 154,
-      "Морозов Олег Викторович": 545,
-      "Янборисов Булат Ахатович": 288,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 101,
+      "gas:candidate-vibid:316300370636": 158,
+      "gas:candidate-vibid:1001000121799": 154,
+      "gas:candidate-vibid:1001000225904": 545,
+      "gas:candidate-vibid:1001000190294": 288,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 22,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 99,
-      "Иванов Леонид Иванович": 175,
-      "Миргалимов Хафиз Гаязович": 123,
-      "Морозов Олег Викторович": 598,
-      "Янборисов Булат Ахатович": 303,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136002": 22,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 99,
+      "gas:candidate-vibid:316300370636": 175,
+      "gas:candidate-vibid:1001000121799": 123,
+      "gas:candidate-vibid:1001000225904": 598,
+      "gas:candidate-vibid:1001000190294": 303,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 36,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 87,
-      "Иванов Леонид Иванович": 188,
-      "Миргалимов Хафиз Гаязович": 155,
-      "Морозов Олег Викторович": 666,
-      "Янборисов Булат Ахатович": 270,
-      "Против всех": 276
+      "gas:candidate-vibid:1001000136002": 36,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 87,
+      "gas:candidate-vibid:316300370636": 188,
+      "gas:candidate-vibid:1001000121799": 155,
+      "gas:candidate-vibid:1001000225904": 666,
+      "gas:candidate-vibid:1001000190294": 270,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 30,
-      "Асылов Рафаил Хуснихаматович": 15,
-      "Ибятов Фаиль Мужипович": 102,
-      "Иванов Леонид Иванович": 186,
-      "Миргалимов Хафиз Гаязович": 159,
-      "Морозов Олег Викторович": 584,
-      "Янборисов Булат Ахатович": 370,
-      "Против всех": 312
+      "gas:candidate-vibid:1001000136002": 30,
+      "gas:candidate-vibid:316300370854": 15,
+      "gas:candidate-vibid:316300370730": 102,
+      "gas:candidate-vibid:316300370636": 186,
+      "gas:candidate-vibid:1001000121799": 159,
+      "gas:candidate-vibid:1001000225904": 584,
+      "gas:candidate-vibid:1001000190294": 370,
+      "special:against-all": 312
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 26,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 152,
-      "Иванов Леонид Иванович": 161,
-      "Миргалимов Хафиз Гаязович": 174,
-      "Морозов Олег Викторович": 660,
-      "Янборисов Булат Ахатович": 297,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000136002": 26,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 152,
+      "gas:candidate-vibid:316300370636": 161,
+      "gas:candidate-vibid:1001000121799": 174,
+      "gas:candidate-vibid:1001000225904": 660,
+      "gas:candidate-vibid:1001000190294": 297,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 42,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 118,
-      "Иванов Леонид Иванович": 166,
-      "Миргалимов Хафиз Гаязович": 171,
-      "Морозов Олег Викторович": 708,
-      "Янборисов Булат Ахатович": 396,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000136002": 42,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 118,
+      "gas:candidate-vibid:316300370636": 166,
+      "gas:candidate-vibid:1001000121799": 171,
+      "gas:candidate-vibid:1001000225904": 708,
+      "gas:candidate-vibid:1001000190294": 396,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 141,
-      "Иванов Леонид Иванович": 169,
-      "Миргалимов Хафиз Гаязович": 176,
-      "Морозов Олег Викторович": 709,
-      "Янборисов Булат Ахатович": 268,
-      "Против всех": 326
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 141,
+      "gas:candidate-vibid:316300370636": 169,
+      "gas:candidate-vibid:1001000121799": 176,
+      "gas:candidate-vibid:1001000225904": 709,
+      "gas:candidate-vibid:1001000190294": 268,
+      "special:against-all": 326
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 33,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 127,
-      "Иванов Леонид Иванович": 173,
-      "Миргалимов Хафиз Гаязович": 161,
-      "Морозов Олег Викторович": 630,
-      "Янборисов Булат Ахатович": 260,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000136002": 33,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 127,
+      "gas:candidate-vibid:316300370636": 173,
+      "gas:candidate-vibid:1001000121799": 161,
+      "gas:candidate-vibid:1001000225904": 630,
+      "gas:candidate-vibid:1001000190294": 260,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 148,
-      "Иванов Леонид Иванович": 206,
-      "Миргалимов Хафиз Гаязович": 127,
-      "Морозов Олег Викторович": 645,
-      "Янборисов Булат Ахатович": 269,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 148,
+      "gas:candidate-vibid:316300370636": 206,
+      "gas:candidate-vibid:1001000121799": 127,
+      "gas:candidate-vibid:1001000225904": 645,
+      "gas:candidate-vibid:1001000190294": 269,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 37,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 155,
-      "Иванов Леонид Иванович": 165,
-      "Миргалимов Хафиз Гаязович": 140,
-      "Морозов Олег Викторович": 681,
-      "Янборисов Булат Ахатович": 270,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000136002": 37,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 155,
+      "gas:candidate-vibid:316300370636": 165,
+      "gas:candidate-vibid:1001000121799": 140,
+      "gas:candidate-vibid:1001000225904": 681,
+      "gas:candidate-vibid:1001000190294": 270,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 48,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 108,
-      "Иванов Леонид Иванович": 217,
-      "Миргалимов Хафиз Гаязович": 127,
-      "Морозов Олег Викторович": 702,
-      "Янборисов Булат Ахатович": 290,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136002": 48,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 108,
+      "gas:candidate-vibid:316300370636": 217,
+      "gas:candidate-vibid:1001000121799": 127,
+      "gas:candidate-vibid:1001000225904": 702,
+      "gas:candidate-vibid:1001000190294": 290,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 50,
-      "Иванов Леонид Иванович": 96,
-      "Миргалимов Хафиз Гаязович": 76,
-      "Морозов Олег Викторович": 465,
-      "Янборисов Булат Ахатович": 189,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 50,
+      "gas:candidate-vibid:316300370636": 96,
+      "gas:candidate-vibid:1001000121799": 76,
+      "gas:candidate-vibid:1001000225904": 465,
+      "gas:candidate-vibid:1001000190294": 189,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 16,
-      "Ибятов Фаиль Мужипович": 127,
-      "Иванов Леонид Иванович": 158,
-      "Миргалимов Хафиз Гаязович": 141,
-      "Морозов Олег Викторович": 682,
-      "Янборисов Булат Ахатович": 251,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 16,
+      "gas:candidate-vibid:316300370730": 127,
+      "gas:candidate-vibid:316300370636": 158,
+      "gas:candidate-vibid:1001000121799": 141,
+      "gas:candidate-vibid:1001000225904": 682,
+      "gas:candidate-vibid:1001000190294": 251,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 37,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 137,
-      "Иванов Леонид Иванович": 220,
-      "Миргалимов Хафиз Гаязович": 151,
-      "Морозов Олег Викторович": 700,
-      "Янборисов Булат Ахатович": 309,
-      "Против всех": 386
+      "gas:candidate-vibid:1001000136002": 37,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 137,
+      "gas:candidate-vibid:316300370636": 220,
+      "gas:candidate-vibid:1001000121799": 151,
+      "gas:candidate-vibid:1001000225904": 700,
+      "gas:candidate-vibid:1001000190294": 309,
+      "special:against-all": 386
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 26,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 84,
-      "Иванов Леонид Иванович": 141,
-      "Миргалимов Хафиз Гаязович": 106,
-      "Морозов Олег Викторович": 495,
-      "Янборисов Булат Ахатович": 229,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136002": 26,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 84,
+      "gas:candidate-vibid:316300370636": 141,
+      "gas:candidate-vibid:1001000121799": 106,
+      "gas:candidate-vibid:1001000225904": 495,
+      "gas:candidate-vibid:1001000190294": 229,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 18,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 97,
-      "Иванов Леонид Иванович": 136,
-      "Миргалимов Хафиз Гаязович": 112,
-      "Морозов Олег Викторович": 530,
-      "Янборисов Булат Ахатович": 279,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000136002": 18,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 97,
+      "gas:candidate-vibid:316300370636": 136,
+      "gas:candidate-vibid:1001000121799": 112,
+      "gas:candidate-vibid:1001000225904": 530,
+      "gas:candidate-vibid:1001000190294": 279,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 4
     },
     "votes": {
-      "Амзин Валерий Викторович": 33,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 105,
-      "Иванов Леонид Иванович": 187,
-      "Миргалимов Хафиз Гаязович": 122,
-      "Морозов Олег Викторович": 745,
-      "Янборисов Булат Ахатович": 291,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000136002": 33,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 105,
+      "gas:candidate-vibid:316300370636": 187,
+      "gas:candidate-vibid:1001000121799": 122,
+      "gas:candidate-vibid:1001000225904": 745,
+      "gas:candidate-vibid:1001000190294": 291,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 37,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 131,
-      "Иванов Леонид Иванович": 165,
-      "Миргалимов Хафиз Гаязович": 93,
-      "Морозов Олег Викторович": 579,
-      "Янборисов Булат Ахатович": 296,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000136002": 37,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 131,
+      "gas:candidate-vibid:316300370636": 165,
+      "gas:candidate-vibid:1001000121799": 93,
+      "gas:candidate-vibid:1001000225904": 579,
+      "gas:candidate-vibid:1001000190294": 296,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 110,
-      "Иванов Леонид Иванович": 176,
-      "Миргалимов Хафиз Гаязович": 123,
-      "Морозов Олег Викторович": 678,
-      "Янборисов Булат Ахатович": 371,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 110,
+      "gas:candidate-vibid:316300370636": 176,
+      "gas:candidate-vibid:1001000121799": 123,
+      "gas:candidate-vibid:1001000225904": 678,
+      "gas:candidate-vibid:1001000190294": 371,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 30
     },
     "votes": {
-      "Амзин Валерий Викторович": 33,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 128,
-      "Иванов Леонид Иванович": 205,
-      "Миргалимов Хафиз Гаязович": 136,
-      "Морозов Олег Викторович": 654,
-      "Янборисов Булат Ахатович": 294,
-      "Против всех": 336
+      "gas:candidate-vibid:1001000136002": 33,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 128,
+      "gas:candidate-vibid:316300370636": 205,
+      "gas:candidate-vibid:1001000121799": 136,
+      "gas:candidate-vibid:1001000225904": 654,
+      "gas:candidate-vibid:1001000190294": 294,
+      "special:against-all": 336
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 99,
-      "Иванов Леонид Иванович": 141,
-      "Миргалимов Хафиз Гаязович": 103,
-      "Морозов Олег Викторович": 632,
-      "Янборисов Булат Ахатович": 212,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 99,
+      "gas:candidate-vibid:316300370636": 141,
+      "gas:candidate-vibid:1001000121799": 103,
+      "gas:candidate-vibid:1001000225904": 632,
+      "gas:candidate-vibid:1001000190294": 212,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 82,
-      "Иванов Леонид Иванович": 156,
-      "Миргалимов Хафиз Гаязович": 96,
-      "Морозов Олег Викторович": 637,
-      "Янборисов Булат Ахатович": 204,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 82,
+      "gas:candidate-vibid:316300370636": 156,
+      "gas:candidate-vibid:1001000121799": 96,
+      "gas:candidate-vibid:1001000225904": 637,
+      "gas:candidate-vibid:1001000190294": 204,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 15,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 94,
-      "Иванов Леонид Иванович": 182,
-      "Миргалимов Хафиз Гаязович": 107,
-      "Морозов Олег Викторович": 551,
-      "Янборисов Булат Ахатович": 198,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000136002": 15,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 94,
+      "gas:candidate-vibid:316300370636": 182,
+      "gas:candidate-vibid:1001000121799": 107,
+      "gas:candidate-vibid:1001000225904": 551,
+      "gas:candidate-vibid:1001000190294": 198,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 121,
-      "Иванов Леонид Иванович": 189,
-      "Миргалимов Хафиз Гаязович": 165,
-      "Морозов Олег Викторович": 591,
-      "Янборисов Булат Ахатович": 328,
-      "Против всех": 315
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 121,
+      "gas:candidate-vibid:316300370636": 189,
+      "gas:candidate-vibid:1001000121799": 165,
+      "gas:candidate-vibid:1001000225904": 591,
+      "gas:candidate-vibid:1001000190294": 328,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 37,
-      "Асылов Рафаил Хуснихаматович": 15,
-      "Ибятов Фаиль Мужипович": 156,
-      "Иванов Леонид Иванович": 190,
-      "Миргалимов Хафиз Гаязович": 178,
-      "Морозов Олег Викторович": 767,
-      "Янборисов Булат Ахатович": 320,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000136002": 37,
+      "gas:candidate-vibid:316300370854": 15,
+      "gas:candidate-vibid:316300370730": 156,
+      "gas:candidate-vibid:316300370636": 190,
+      "gas:candidate-vibid:1001000121799": 178,
+      "gas:candidate-vibid:1001000225904": 767,
+      "gas:candidate-vibid:1001000190294": 320,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 41,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 92,
-      "Иванов Леонид Иванович": 153,
-      "Миргалимов Хафиз Гаязович": 115,
-      "Морозов Олег Викторович": 564,
-      "Янборисов Булат Ахатович": 236,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000136002": 41,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 92,
+      "gas:candidate-vibid:316300370636": 153,
+      "gas:candidate-vibid:1001000121799": 115,
+      "gas:candidate-vibid:1001000225904": 564,
+      "gas:candidate-vibid:1001000190294": 236,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 117,
-      "Иванов Леонид Иванович": 175,
-      "Миргалимов Хафиз Гаязович": 137,
-      "Морозов Олег Викторович": 596,
-      "Янборисов Булат Ахатович": 307,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 117,
+      "gas:candidate-vibid:316300370636": 175,
+      "gas:candidate-vibid:1001000121799": 137,
+      "gas:candidate-vibid:1001000225904": 596,
+      "gas:candidate-vibid:1001000190294": 307,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 31,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 121,
-      "Иванов Леонид Иванович": 193,
-      "Миргалимов Хафиз Гаязович": 171,
-      "Морозов Олег Викторович": 733,
-      "Янборисов Булат Ахатович": 348,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000136002": 31,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 121,
+      "gas:candidate-vibid:316300370636": 193,
+      "gas:candidate-vibid:1001000121799": 171,
+      "gas:candidate-vibid:1001000225904": 733,
+      "gas:candidate-vibid:1001000190294": 348,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 34,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 75,
-      "Иванов Леонид Иванович": 138,
-      "Миргалимов Хафиз Гаязович": 92,
-      "Морозов Олег Викторович": 541,
-      "Янборисов Булат Ахатович": 194,
-      "Против всех": 188
+      "gas:candidate-vibid:1001000136002": 34,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 75,
+      "gas:candidate-vibid:316300370636": 138,
+      "gas:candidate-vibid:1001000121799": 92,
+      "gas:candidate-vibid:1001000225904": 541,
+      "gas:candidate-vibid:1001000190294": 194,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 15,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 73,
-      "Иванов Леонид Иванович": 117,
-      "Миргалимов Хафиз Гаязович": 79,
-      "Морозов Олег Викторович": 541,
-      "Янборисов Булат Ахатович": 199,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000136002": 15,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 73,
+      "gas:candidate-vibid:316300370636": 117,
+      "gas:candidate-vibid:1001000121799": 79,
+      "gas:candidate-vibid:1001000225904": 541,
+      "gas:candidate-vibid:1001000190294": 199,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 46,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 104,
-      "Иванов Леонид Иванович": 191,
-      "Миргалимов Хафиз Гаязович": 151,
-      "Морозов Олег Викторович": 725,
-      "Янборисов Булат Ахатович": 244,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000136002": 46,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 104,
+      "gas:candidate-vibid:316300370636": 191,
+      "gas:candidate-vibid:1001000121799": 151,
+      "gas:candidate-vibid:1001000225904": 725,
+      "gas:candidate-vibid:1001000190294": 244,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 31,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 114,
-      "Иванов Леонид Иванович": 198,
-      "Миргалимов Хафиз Гаязович": 162,
-      "Морозов Олег Викторович": 690,
-      "Янборисов Булат Ахатович": 305,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000136002": 31,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 114,
+      "gas:candidate-vibid:316300370636": 198,
+      "gas:candidate-vibid:1001000121799": 162,
+      "gas:candidate-vibid:1001000225904": 690,
+      "gas:candidate-vibid:1001000190294": 305,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 41,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 106,
-      "Иванов Леонид Иванович": 173,
-      "Миргалимов Хафиз Гаязович": 133,
-      "Морозов Олег Викторович": 604,
-      "Янборисов Булат Ахатович": 260,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000136002": 41,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 106,
+      "gas:candidate-vibid:316300370636": 173,
+      "gas:candidate-vibid:1001000121799": 133,
+      "gas:candidate-vibid:1001000225904": 604,
+      "gas:candidate-vibid:1001000190294": 260,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 19,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 58,
-      "Иванов Леонид Иванович": 135,
-      "Миргалимов Хафиз Гаязович": 105,
-      "Морозов Олег Викторович": 520,
-      "Янборисов Булат Ахатович": 238,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000136002": 19,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 58,
+      "gas:candidate-vibid:316300370636": 135,
+      "gas:candidate-vibid:1001000121799": 105,
+      "gas:candidate-vibid:1001000225904": 520,
+      "gas:candidate-vibid:1001000190294": 238,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 37,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 66,
-      "Иванов Леонид Иванович": 165,
-      "Миргалимов Хафиз Гаязович": 100,
-      "Морозов Олег Викторович": 612,
-      "Янборисов Булат Ахатович": 346,
-      "Против всех": 274
+      "gas:candidate-vibid:1001000136002": 37,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 66,
+      "gas:candidate-vibid:316300370636": 165,
+      "gas:candidate-vibid:1001000121799": 100,
+      "gas:candidate-vibid:1001000225904": 612,
+      "gas:candidate-vibid:1001000190294": 346,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Амзин Валерий Викторович": 17,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 120,
-      "Иванов Леонид Иванович": 231,
-      "Миргалимов Хафиз Гаязович": 166,
-      "Морозов Олег Викторович": 761,
-      "Янборисов Булат Ахатович": 289,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000136002": 17,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 120,
+      "gas:candidate-vibid:316300370636": 231,
+      "gas:candidate-vibid:1001000121799": 166,
+      "gas:candidate-vibid:1001000225904": 761,
+      "gas:candidate-vibid:1001000190294": 289,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 69,
-      "Иванов Леонид Иванович": 276,
-      "Миргалимов Хафиз Гаязович": 152,
-      "Морозов Олег Викторович": 745,
-      "Янборисов Булат Ахатович": 238,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 69,
+      "gas:candidate-vibid:316300370636": 276,
+      "gas:candidate-vibid:1001000121799": 152,
+      "gas:candidate-vibid:1001000225904": 745,
+      "gas:candidate-vibid:1001000190294": 238,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 3
     },
     "votes": {
-      "Амзин Валерий Викторович": 41,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 87,
-      "Иванов Леонид Иванович": 295,
-      "Миргалимов Хафиз Гаязович": 159,
-      "Морозов Олег Викторович": 628,
-      "Янборисов Булат Ахатович": 254,
-      "Против всех": 278
+      "gas:candidate-vibid:1001000136002": 41,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 87,
+      "gas:candidate-vibid:316300370636": 295,
+      "gas:candidate-vibid:1001000121799": 159,
+      "gas:candidate-vibid:1001000225904": 628,
+      "gas:candidate-vibid:1001000190294": 254,
+      "special:against-all": 278
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 33,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 101,
-      "Иванов Леонид Иванович": 181,
-      "Миргалимов Хафиз Гаязович": 127,
-      "Морозов Олег Викторович": 613,
-      "Янборисов Булат Ахатович": 282,
-      "Против всех": 244
+      "gas:candidate-vibid:1001000136002": 33,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 101,
+      "gas:candidate-vibid:316300370636": 181,
+      "gas:candidate-vibid:1001000121799": 127,
+      "gas:candidate-vibid:1001000225904": 613,
+      "gas:candidate-vibid:1001000190294": 282,
+      "special:against-all": 244
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 21,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 107,
-      "Иванов Леонид Иванович": 179,
-      "Миргалимов Хафиз Гаязович": 121,
-      "Морозов Олег Викторович": 630,
-      "Янборисов Булат Ахатович": 235,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136002": 21,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 107,
+      "gas:candidate-vibid:316300370636": 179,
+      "gas:candidate-vibid:1001000121799": 121,
+      "gas:candidate-vibid:1001000225904": 630,
+      "gas:candidate-vibid:1001000190294": 235,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 30,
-      "Асылов Рафаил Хуснихаматович": 14,
-      "Ибятов Фаиль Мужипович": 108,
-      "Иванов Леонид Иванович": 247,
-      "Миргалимов Хафиз Гаязович": 160,
-      "Морозов Олег Викторович": 763,
-      "Янборисов Булат Ахатович": 354,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000136002": 30,
+      "gas:candidate-vibid:316300370854": 14,
+      "gas:candidate-vibid:316300370730": 108,
+      "gas:candidate-vibid:316300370636": 247,
+      "gas:candidate-vibid:1001000121799": 160,
+      "gas:candidate-vibid:1001000225904": 763,
+      "gas:candidate-vibid:1001000190294": 354,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 48,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 94,
-      "Иванов Леонид Иванович": 175,
-      "Миргалимов Хафиз Гаязович": 121,
-      "Морозов Олег Викторович": 656,
-      "Янборисов Булат Ахатович": 215,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000136002": 48,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 94,
+      "gas:candidate-vibid:316300370636": 175,
+      "gas:candidate-vibid:1001000121799": 121,
+      "gas:candidate-vibid:1001000225904": 656,
+      "gas:candidate-vibid:1001000190294": 215,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 38,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 81,
-      "Иванов Леонид Иванович": 242,
-      "Миргалимов Хафиз Гаязович": 123,
-      "Морозов Олег Викторович": 679,
-      "Янборисов Булат Ахатович": 243,
-      "Против всех": 302
+      "gas:candidate-vibid:1001000136002": 38,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 81,
+      "gas:candidate-vibid:316300370636": 242,
+      "gas:candidate-vibid:1001000121799": 123,
+      "gas:candidate-vibid:1001000225904": 679,
+      "gas:candidate-vibid:1001000190294": 243,
+      "special:against-all": 302
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 34,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 79,
-      "Иванов Леонид Иванович": 160,
-      "Миргалимов Хафиз Гаязович": 144,
-      "Морозов Олег Викторович": 678,
-      "Янборисов Булат Ахатович": 289,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000136002": 34,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 79,
+      "gas:candidate-vibid:316300370636": 160,
+      "gas:candidate-vibid:1001000121799": 144,
+      "gas:candidate-vibid:1001000225904": 678,
+      "gas:candidate-vibid:1001000190294": 289,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 42,
-      "Асылов Рафаил Хуснихаматович": 10,
-      "Ибятов Фаиль Мужипович": 100,
-      "Иванов Леонид Иванович": 176,
-      "Миргалимов Хафиз Гаязович": 135,
-      "Морозов Олег Викторович": 729,
-      "Янборисов Булат Ахатович": 277,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136002": 42,
+      "gas:candidate-vibid:316300370854": 10,
+      "gas:candidate-vibid:316300370730": 100,
+      "gas:candidate-vibid:316300370636": 176,
+      "gas:candidate-vibid:1001000121799": 135,
+      "gas:candidate-vibid:1001000225904": 729,
+      "gas:candidate-vibid:1001000190294": 277,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 39,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 93,
-      "Иванов Леонид Иванович": 223,
-      "Миргалимов Хафиз Гаязович": 158,
-      "Морозов Олег Викторович": 782,
-      "Янборисов Булат Ахатович": 275,
-      "Против всех": 301
+      "gas:candidate-vibid:1001000136002": 39,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 93,
+      "gas:candidate-vibid:316300370636": 223,
+      "gas:candidate-vibid:1001000121799": 158,
+      "gas:candidate-vibid:1001000225904": 782,
+      "gas:candidate-vibid:1001000190294": 275,
+      "special:against-all": 301
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 21,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 65,
-      "Иванов Леонид Иванович": 190,
-      "Миргалимов Хафиз Гаязович": 108,
-      "Морозов Олег Викторович": 642,
-      "Янборисов Булат Ахатович": 290,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136002": 21,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 65,
+      "gas:candidate-vibid:316300370636": 190,
+      "gas:candidate-vibid:1001000121799": 108,
+      "gas:candidate-vibid:1001000225904": 642,
+      "gas:candidate-vibid:1001000190294": 290,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 16,
-      "Асылов Рафаил Хуснихаматович": 8,
-      "Ибятов Фаиль Мужипович": 90,
-      "Иванов Леонид Иванович": 150,
-      "Миргалимов Хафиз Гаязович": 80,
-      "Морозов Олег Викторович": 655,
-      "Янборисов Булат Ахатович": 287,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136002": 16,
+      "gas:candidate-vibid:316300370854": 8,
+      "gas:candidate-vibid:316300370730": 90,
+      "gas:candidate-vibid:316300370636": 150,
+      "gas:candidate-vibid:1001000121799": 80,
+      "gas:candidate-vibid:1001000225904": 655,
+      "gas:candidate-vibid:1001000190294": 287,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 2
     },
     "votes": {
-      "Амзин Валерий Викторович": 32,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 49,
-      "Иванов Леонид Иванович": 157,
-      "Миргалимов Хафиз Гаязович": 73,
-      "Морозов Олег Викторович": 527,
-      "Янборисов Булат Ахатович": 299,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000136002": 32,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 49,
+      "gas:candidate-vibid:316300370636": 157,
+      "gas:candidate-vibid:1001000121799": 73,
+      "gas:candidate-vibid:1001000225904": 527,
+      "gas:candidate-vibid:1001000190294": 299,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 9
     },
     "votes": {
-      "Амзин Валерий Викторович": 19,
-      "Асылов Рафаил Хуснихаматович": 2,
-      "Ибятов Фаиль Мужипович": 43,
-      "Иванов Леонид Иванович": 102,
-      "Миргалимов Хафиз Гаязович": 77,
-      "Морозов Олег Викторович": 352,
-      "Янборисов Булат Ахатович": 161,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000136002": 19,
+      "gas:candidate-vibid:316300370854": 2,
+      "gas:candidate-vibid:316300370730": 43,
+      "gas:candidate-vibid:316300370636": 102,
+      "gas:candidate-vibid:1001000121799": 77,
+      "gas:candidate-vibid:1001000225904": 352,
+      "gas:candidate-vibid:1001000190294": 161,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 18,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 39,
-      "Иванов Леонид Иванович": 163,
-      "Миргалимов Хафиз Гаязович": 65,
-      "Морозов Олег Викторович": 463,
-      "Янборисов Булат Ахатович": 214,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000136002": 18,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 39,
+      "gas:candidate-vibid:316300370636": 163,
+      "gas:candidate-vibid:1001000121799": 65,
+      "gas:candidate-vibid:1001000225904": 463,
+      "gas:candidate-vibid:1001000190294": 214,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 33,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 86,
-      "Иванов Леонид Иванович": 216,
-      "Миргалимов Хафиз Гаязович": 142,
-      "Морозов Олег Викторович": 767,
-      "Янборисов Булат Ахатович": 262,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000136002": 33,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 86,
+      "gas:candidate-vibid:316300370636": 216,
+      "gas:candidate-vibid:1001000121799": 142,
+      "gas:candidate-vibid:1001000225904": 767,
+      "gas:candidate-vibid:1001000190294": 262,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 19,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 92,
-      "Иванов Леонид Иванович": 168,
-      "Миргалимов Хафиз Гаязович": 94,
-      "Морозов Олег Викторович": 521,
-      "Янборисов Булат Ахатович": 303,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000136002": 19,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 92,
+      "gas:candidate-vibid:316300370636": 168,
+      "gas:candidate-vibid:1001000121799": 94,
+      "gas:candidate-vibid:1001000225904": 521,
+      "gas:candidate-vibid:1001000190294": 303,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 25,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 67,
-      "Иванов Леонид Иванович": 157,
-      "Миргалимов Хафиз Гаязович": 136,
-      "Морозов Олег Викторович": 613,
-      "Янборисов Булат Ахатович": 225,
-      "Против всех": 243
+      "gas:candidate-vibid:1001000136002": 25,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 67,
+      "gas:candidate-vibid:316300370636": 157,
+      "gas:candidate-vibid:1001000121799": 136,
+      "gas:candidate-vibid:1001000225904": 613,
+      "gas:candidate-vibid:1001000190294": 225,
+      "special:against-all": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 18,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 47,
-      "Иванов Леонид Иванович": 157,
-      "Миргалимов Хафиз Гаязович": 83,
-      "Морозов Олег Викторович": 484,
-      "Янборисов Булат Ахатович": 263,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000136002": 18,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 47,
+      "gas:candidate-vibid:316300370636": 157,
+      "gas:candidate-vibid:1001000121799": 83,
+      "gas:candidate-vibid:1001000225904": 484,
+      "gas:candidate-vibid:1001000190294": 263,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 23,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 64,
-      "Иванов Леонид Иванович": 147,
-      "Миргалимов Хафиз Гаязович": 87,
-      "Морозов Олег Викторович": 604,
-      "Янборисов Булат Ахатович": 196,
-      "Против всех": 220
+      "gas:candidate-vibid:1001000136002": 23,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 64,
+      "gas:candidate-vibid:316300370636": 147,
+      "gas:candidate-vibid:1001000121799": 87,
+      "gas:candidate-vibid:1001000225904": 604,
+      "gas:candidate-vibid:1001000190294": 196,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 28,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 65,
-      "Иванов Леонид Иванович": 126,
-      "Миргалимов Хафиз Гаязович": 97,
-      "Морозов Олег Викторович": 510,
-      "Янборисов Булат Ахатович": 199,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000136002": 28,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 65,
+      "gas:candidate-vibid:316300370636": 126,
+      "gas:candidate-vibid:1001000121799": 97,
+      "gas:candidate-vibid:1001000225904": 510,
+      "gas:candidate-vibid:1001000190294": 199,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 22,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 83,
-      "Иванов Леонид Иванович": 207,
-      "Миргалимов Хафиз Гаязович": 134,
-      "Морозов Олег Викторович": 530,
-      "Янборисов Булат Ахатович": 234,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000136002": 22,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 83,
+      "gas:candidate-vibid:316300370636": 207,
+      "gas:candidate-vibid:1001000121799": 134,
+      "gas:candidate-vibid:1001000225904": 530,
+      "gas:candidate-vibid:1001000190294": 234,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 31,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 76,
-      "Иванов Леонид Иванович": 125,
-      "Миргалимов Хафиз Гаязович": 118,
-      "Морозов Олег Викторович": 598,
-      "Янборисов Булат Ахатович": 414,
-      "Против всех": 292
+      "gas:candidate-vibid:1001000136002": 31,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 76,
+      "gas:candidate-vibid:316300370636": 125,
+      "gas:candidate-vibid:1001000121799": 118,
+      "gas:candidate-vibid:1001000225904": 598,
+      "gas:candidate-vibid:1001000190294": 414,
+      "special:against-all": 292
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 35,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 66,
-      "Иванов Леонид Иванович": 159,
-      "Миргалимов Хафиз Гаязович": 102,
-      "Морозов Олег Викторович": 521,
-      "Янборисов Булат Ахатович": 533,
-      "Против всех": 293
+      "gas:candidate-vibid:1001000136002": 35,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 66,
+      "gas:candidate-vibid:316300370636": 159,
+      "gas:candidate-vibid:1001000121799": 102,
+      "gas:candidate-vibid:1001000225904": 521,
+      "gas:candidate-vibid:1001000190294": 533,
+      "special:against-all": 293
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 31,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 59,
-      "Иванов Леонид Иванович": 202,
-      "Миргалимов Хафиз Гаязович": 107,
-      "Морозов Олег Викторович": 498,
-      "Янборисов Булат Ахатович": 541,
-      "Против всех": 262
+      "gas:candidate-vibid:1001000136002": 31,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 59,
+      "gas:candidate-vibid:316300370636": 202,
+      "gas:candidate-vibid:1001000121799": 107,
+      "gas:candidate-vibid:1001000225904": 498,
+      "gas:candidate-vibid:1001000190294": 541,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 3,
-      "Ибятов Фаиль Мужипович": 73,
-      "Иванов Леонид Иванович": 183,
-      "Миргалимов Хафиз Гаязович": 139,
-      "Морозов Олег Викторович": 653,
-      "Янборисов Булат Ахатович": 372,
-      "Против всех": 259
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 3,
+      "gas:candidate-vibid:316300370730": 73,
+      "gas:candidate-vibid:316300370636": 183,
+      "gas:candidate-vibid:1001000121799": 139,
+      "gas:candidate-vibid:1001000225904": 653,
+      "gas:candidate-vibid:1001000190294": 372,
+      "special:against-all": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 40,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 74,
-      "Иванов Леонид Иванович": 185,
-      "Миргалимов Хафиз Гаязович": 159,
-      "Морозов Олег Викторович": 711,
-      "Янборисов Булат Ахатович": 369,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000136002": 40,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 74,
+      "gas:candidate-vibid:316300370636": 185,
+      "gas:candidate-vibid:1001000121799": 159,
+      "gas:candidate-vibid:1001000225904": 711,
+      "gas:candidate-vibid:1001000190294": 369,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 36,
-      "Асылов Рафаил Хуснихаматович": 14,
-      "Ибятов Фаиль Мужипович": 93,
-      "Иванов Леонид Иванович": 196,
-      "Миргалимов Хафиз Гаязович": 135,
-      "Морозов Олег Викторович": 687,
-      "Янборисов Булат Ахатович": 324,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000136002": 36,
+      "gas:candidate-vibid:316300370854": 14,
+      "gas:candidate-vibid:316300370730": 93,
+      "gas:candidate-vibid:316300370636": 196,
+      "gas:candidate-vibid:1001000121799": 135,
+      "gas:candidate-vibid:1001000225904": 687,
+      "gas:candidate-vibid:1001000190294": 324,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 118,
-      "Иванов Леонид Иванович": 104,
-      "Миргалимов Хафиз Гаязович": 90,
-      "Морозов Олег Викторович": 649,
-      "Янборисов Булат Ахатович": 251,
-      "Против всех": 338
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 118,
+      "gas:candidate-vibid:316300370636": 104,
+      "gas:candidate-vibid:1001000121799": 90,
+      "gas:candidate-vibid:1001000225904": 649,
+      "gas:candidate-vibid:1001000190294": 251,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 26,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 110,
-      "Иванов Леонид Иванович": 217,
-      "Миргалимов Хафиз Гаязович": 159,
-      "Морозов Олег Викторович": 722,
-      "Янборисов Булат Ахатович": 298,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136002": 26,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 110,
+      "gas:candidate-vibid:316300370636": 217,
+      "gas:candidate-vibid:1001000121799": 159,
+      "gas:candidate-vibid:1001000225904": 722,
+      "gas:candidate-vibid:1001000190294": 298,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 38,
-      "Асылов Рафаил Хуснихаматович": 9,
-      "Ибятов Фаиль Мужипович": 99,
-      "Иванов Леонид Иванович": 221,
-      "Миргалимов Хафиз Гаязович": 169,
-      "Морозов Олег Викторович": 669,
-      "Янборисов Булат Ахатович": 321,
-      "Против всех": 304
+      "gas:candidate-vibid:1001000136002": 38,
+      "gas:candidate-vibid:316300370854": 9,
+      "gas:candidate-vibid:316300370730": 99,
+      "gas:candidate-vibid:316300370636": 221,
+      "gas:candidate-vibid:1001000121799": 169,
+      "gas:candidate-vibid:1001000225904": 669,
+      "gas:candidate-vibid:1001000190294": 321,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 44,
-      "Асылов Рафаил Хуснихаматович": 6,
-      "Ибятов Фаиль Мужипович": 126,
-      "Иванов Леонид Иванович": 285,
-      "Миргалимов Хафиз Гаязович": 157,
-      "Морозов Олег Викторович": 681,
-      "Янборисов Булат Ахатович": 287,
-      "Против всех": 295
+      "gas:candidate-vibid:1001000136002": 44,
+      "gas:candidate-vibid:316300370854": 6,
+      "gas:candidate-vibid:316300370730": 126,
+      "gas:candidate-vibid:316300370636": 285,
+      "gas:candidate-vibid:1001000121799": 157,
+      "gas:candidate-vibid:1001000225904": 681,
+      "gas:candidate-vibid:1001000190294": 287,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 40,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 134,
-      "Иванов Леонид Иванович": 242,
-      "Миргалимов Хафиз Гаязович": 152,
-      "Морозов Олег Викторович": 687,
-      "Янборисов Булат Ахатович": 295,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000136002": 40,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 134,
+      "gas:candidate-vibid:316300370636": 242,
+      "gas:candidate-vibid:1001000121799": 152,
+      "gas:candidate-vibid:1001000225904": 687,
+      "gas:candidate-vibid:1001000190294": 295,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 4,
-      "Ибятов Фаиль Мужипович": 77,
-      "Иванов Леонид Иванович": 100,
-      "Миргалимов Хафиз Гаязович": 109,
-      "Морозов Олег Викторович": 653,
-      "Янборисов Булат Ахатович": 281,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 4,
+      "gas:candidate-vibid:316300370730": 77,
+      "gas:candidate-vibid:316300370636": 100,
+      "gas:candidate-vibid:1001000121799": 109,
+      "gas:candidate-vibid:1001000225904": 653,
+      "gas:candidate-vibid:1001000190294": 281,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 27,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 81,
-      "Иванов Леонид Иванович": 174,
-      "Миргалимов Хафиз Гаязович": 108,
-      "Морозов Олег Викторович": 573,
-      "Янборисов Булат Ахатович": 237,
-      "Против всех": 221
+      "gas:candidate-vibid:1001000136002": 27,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 81,
+      "gas:candidate-vibid:316300370636": 174,
+      "gas:candidate-vibid:1001000121799": 108,
+      "gas:candidate-vibid:1001000225904": 573,
+      "gas:candidate-vibid:1001000190294": 237,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 38,
-      "Асылов Рафаил Хуснихаматович": 12,
-      "Ибятов Фаиль Мужипович": 72,
-      "Иванов Леонид Иванович": 135,
-      "Миргалимов Хафиз Гаязович": 110,
-      "Морозов Олег Викторович": 659,
-      "Янборисов Булат Ахатович": 279,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000136002": 38,
+      "gas:candidate-vibid:316300370854": 12,
+      "gas:candidate-vibid:316300370730": 72,
+      "gas:candidate-vibid:316300370636": 135,
+      "gas:candidate-vibid:1001000121799": 110,
+      "gas:candidate-vibid:1001000225904": 659,
+      "gas:candidate-vibid:1001000190294": 279,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 36,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 78,
-      "Иванов Леонид Иванович": 207,
-      "Миргалимов Хафиз Гаязович": 137,
-      "Морозов Олег Викторович": 664,
-      "Янборисов Булат Ахатович": 314,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000136002": 36,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 78,
+      "gas:candidate-vibid:316300370636": 207,
+      "gas:candidate-vibid:1001000121799": 137,
+      "gas:candidate-vibid:1001000225904": 664,
+      "gas:candidate-vibid:1001000190294": 314,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 24,
-      "Асылов Рафаил Хуснихаматович": 7,
-      "Ибятов Фаиль Мужипович": 82,
-      "Иванов Леонид Иванович": 228,
-      "Миргалимов Хафиз Гаязович": 169,
-      "Морозов Олег Викторович": 658,
-      "Янборисов Булат Ахатович": 293,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000136002": 24,
+      "gas:candidate-vibid:316300370854": 7,
+      "gas:candidate-vibid:316300370730": 82,
+      "gas:candidate-vibid:316300370636": 228,
+      "gas:candidate-vibid:1001000121799": 169,
+      "gas:candidate-vibid:1001000225904": 658,
+      "gas:candidate-vibid:1001000190294": 293,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 39,
-      "Асылов Рафаил Хуснихаматович": 13,
-      "Ибятов Фаиль Мужипович": 117,
-      "Иванов Леонид Иванович": 198,
-      "Миргалимов Хафиз Гаязович": 130,
-      "Морозов Олег Викторович": 668,
-      "Янборисов Булат Ахатович": 277,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000136002": 39,
+      "gas:candidate-vibid:316300370854": 13,
+      "gas:candidate-vibid:316300370730": 117,
+      "gas:candidate-vibid:316300370636": 198,
+      "gas:candidate-vibid:1001000121799": 130,
+      "gas:candidate-vibid:1001000225904": 668,
+      "gas:candidate-vibid:1001000190294": 277,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 30,
-      "Асылов Рафаил Хуснихаматович": 11,
-      "Ибятов Фаиль Мужипович": 105,
-      "Иванов Леонид Иванович": 207,
-      "Миргалимов Хафиз Гаязович": 132,
-      "Морозов Олег Викторович": 617,
-      "Янборисов Булат Ахатович": 265,
-      "Против всех": 260
+      "gas:candidate-vibid:1001000136002": 30,
+      "gas:candidate-vibid:316300370854": 11,
+      "gas:candidate-vibid:316300370730": 105,
+      "gas:candidate-vibid:316300370636": 207,
+      "gas:candidate-vibid:1001000121799": 132,
+      "gas:candidate-vibid:1001000225904": 617,
+      "gas:candidate-vibid:1001000190294": 265,
+      "special:against-all": 260
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_16_part_007 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Амзин Валерий Викторович": 29,
-      "Асылов Рафаил Хуснихаматович": 5,
-      "Ибятов Фаиль Мужипович": 76,
-      "Иванов Леонид Иванович": 127,
-      "Миргалимов Хафиз Гаязович": 153,
-      "Морозов Олег Викторович": 574,
-      "Янборисов Булат Ахатович": 297,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000136002": 29,
+      "gas:candidate-vibid:316300370854": 5,
+      "gas:candidate-vibid:316300370730": 76,
+      "gas:candidate-vibid:316300370636": 127,
+      "gas:candidate-vibid:1001000121799": 153,
+      "gas:candidate-vibid:1001000225904": 574,
+      "gas:candidate-vibid:1001000190294": 297,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163003007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300370504&region=0&sub_region=0&type=429",

@@ -42,11 +42,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 19,
-      "Кретов Юрий Владимирович": 6,
-      "Шпорт Вячеслав Иванович": 69,
-      "Против всех": 57
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 19,
+      "gas:candidate-vibid:1001000136032": 6,
+      "gas:candidate-vibid:327300166714": 69,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166684&region=0&sub_region=0&type=429",
@@ -96,11 +96,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 23,
-      "Дронченко Анатолий Иванович": 80,
-      "Кретов Юрий Владимирович": 68,
-      "Шпорт Вячеслав Иванович": 448,
-      "Против всех": 194
+      "gas:candidate-vibid:327300166953": 23,
+      "gas:candidate-vibid:1001000121827": 80,
+      "gas:candidate-vibid:1001000136032": 68,
+      "gas:candidate-vibid:327300166714": 448,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -150,11 +150,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 16,
-      "Дронченко Анатолий Иванович": 33,
-      "Кретов Юрий Владимирович": 33,
-      "Шпорт Вячеслав Иванович": 274,
-      "Против всех": 63
+      "gas:candidate-vibid:327300166953": 16,
+      "gas:candidate-vibid:1001000121827": 33,
+      "gas:candidate-vibid:1001000136032": 33,
+      "gas:candidate-vibid:327300166714": 274,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -204,11 +204,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 26,
-      "Дронченко Анатолий Иванович": 64,
-      "Кретов Юрий Владимирович": 33,
-      "Шпорт Вячеслав Иванович": 409,
-      "Против всех": 102
+      "gas:candidate-vibid:327300166953": 26,
+      "gas:candidate-vibid:1001000121827": 64,
+      "gas:candidate-vibid:1001000136032": 33,
+      "gas:candidate-vibid:327300166714": 409,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -258,11 +258,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 9,
-      "Кретов Юрий Владимирович": 8,
-      "Шпорт Вячеслав Иванович": 133,
-      "Против всех": 29
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 9,
+      "gas:candidate-vibid:1001000136032": 8,
+      "gas:candidate-vibid:327300166714": 133,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -312,11 +312,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 14,
-      "Дронченко Анатолий Иванович": 34,
-      "Кретов Юрий Владимирович": 11,
-      "Шпорт Вячеслав Иванович": 245,
-      "Против всех": 53
+      "gas:candidate-vibid:327300166953": 14,
+      "gas:candidate-vibid:1001000121827": 34,
+      "gas:candidate-vibid:1001000136032": 11,
+      "gas:candidate-vibid:327300166714": 245,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -366,11 +366,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 24,
-      "Кретов Юрий Владимирович": 16,
-      "Шпорт Вячеслав Иванович": 236,
-      "Против всех": 78
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 24,
+      "gas:candidate-vibid:1001000136032": 16,
+      "gas:candidate-vibid:327300166714": 236,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -420,11 +420,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 10,
-      "Дронченко Анатолий Иванович": 24,
-      "Кретов Юрий Владимирович": 12,
-      "Шпорт Вячеслав Иванович": 239,
-      "Против всех": 39
+      "gas:candidate-vibid:327300166953": 10,
+      "gas:candidate-vibid:1001000121827": 24,
+      "gas:candidate-vibid:1001000136032": 12,
+      "gas:candidate-vibid:327300166714": 239,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -474,11 +474,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 9,
-      "Кретов Юрий Владимирович": 4,
-      "Шпорт Вячеслав Иванович": 85,
-      "Против всех": 19
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 9,
+      "gas:candidate-vibid:1001000136032": 4,
+      "gas:candidate-vibid:327300166714": 85,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -528,11 +528,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 1,
-      "Кретов Юрий Владимирович": 3,
-      "Шпорт Вячеслав Иванович": 115,
-      "Против всех": 10
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 1,
+      "gas:candidate-vibid:1001000136032": 3,
+      "gas:candidate-vibid:327300166714": 115,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -582,11 +582,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 9,
-      "Дронченко Анатолий Иванович": 15,
-      "Кретов Юрий Владимирович": 11,
-      "Шпорт Вячеслав Иванович": 101,
-      "Против всех": 25
+      "gas:candidate-vibid:327300166953": 9,
+      "gas:candidate-vibid:1001000121827": 15,
+      "gas:candidate-vibid:1001000136032": 11,
+      "gas:candidate-vibid:327300166714": 101,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -636,11 +636,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 13,
-      "Дронченко Анатолий Иванович": 32,
-      "Кретов Юрий Владимирович": 26,
-      "Шпорт Вячеслав Иванович": 242,
-      "Против всех": 45
+      "gas:candidate-vibid:327300166953": 13,
+      "gas:candidate-vibid:1001000121827": 32,
+      "gas:candidate-vibid:1001000136032": 26,
+      "gas:candidate-vibid:327300166714": 242,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -690,11 +690,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 20,
-      "Дронченко Анатолий Иванович": 81,
-      "Кретов Юрий Владимирович": 25,
-      "Шпорт Вячеслав Иванович": 508,
-      "Против всех": 69
+      "gas:candidate-vibid:327300166953": 20,
+      "gas:candidate-vibid:1001000121827": 81,
+      "gas:candidate-vibid:1001000136032": 25,
+      "gas:candidate-vibid:327300166714": 508,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -744,11 +744,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 47,
-      "Кретов Юрий Владимирович": 30,
-      "Шпорт Вячеслав Иванович": 342,
-      "Против всех": 56
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 47,
+      "gas:candidate-vibid:1001000136032": 30,
+      "gas:candidate-vibid:327300166714": 342,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -798,11 +798,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 75,
-      "Кретов Юрий Владимирович": 24,
-      "Шпорт Вячеслав Иванович": 311,
-      "Против всех": 69
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 75,
+      "gas:candidate-vibid:1001000136032": 24,
+      "gas:candidate-vibid:327300166714": 311,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -852,11 +852,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 16,
-      "Дронченко Анатолий Иванович": 56,
-      "Кретов Юрий Владимирович": 27,
-      "Шпорт Вячеслав Иванович": 350,
-      "Против всех": 77
+      "gas:candidate-vibid:327300166953": 16,
+      "gas:candidate-vibid:1001000121827": 56,
+      "gas:candidate-vibid:1001000136032": 27,
+      "gas:candidate-vibid:327300166714": 350,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -906,11 +906,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 10,
-      "Кретов Юрий Владимирович": 5,
-      "Шпорт Вячеслав Иванович": 34,
-      "Против всех": 8
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 10,
+      "gas:candidate-vibid:1001000136032": 5,
+      "gas:candidate-vibid:327300166714": 34,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -960,11 +960,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 30,
-      "Дронченко Анатолий Иванович": 81,
-      "Кретов Юрий Владимирович": 26,
-      "Шпорт Вячеслав Иванович": 397,
-      "Против всех": 85
+      "gas:candidate-vibid:327300166953": 30,
+      "gas:candidate-vibid:1001000121827": 81,
+      "gas:candidate-vibid:1001000136032": 26,
+      "gas:candidate-vibid:327300166714": 397,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -1014,11 +1014,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 48,
-      "Кретов Юрий Владимирович": 35,
-      "Шпорт Вячеслав Иванович": 448,
-      "Против всех": 83
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 48,
+      "gas:candidate-vibid:1001000136032": 35,
+      "gas:candidate-vibid:327300166714": 448,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -1068,11 +1068,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 12,
-      "Дронченко Анатолий Иванович": 49,
-      "Кретов Юрий Владимирович": 45,
-      "Шпорт Вячеслав Иванович": 461,
-      "Против всех": 63
+      "gas:candidate-vibid:327300166953": 12,
+      "gas:candidate-vibid:1001000121827": 49,
+      "gas:candidate-vibid:1001000136032": 45,
+      "gas:candidate-vibid:327300166714": 461,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -1122,11 +1122,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 8,
-      "Кретов Юрий Владимирович": 10,
-      "Шпорт Вячеслав Иванович": 150,
-      "Против всех": 31
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 8,
+      "gas:candidate-vibid:1001000136032": 10,
+      "gas:candidate-vibid:327300166714": 150,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -1176,11 +1176,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 5,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 39,
-      "Против всех": 3
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 5,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 39,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166685&region=0&sub_region=0&type=429",
@@ -1230,11 +1230,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 6,
-      "Кретов Юрий Владимирович": 6,
-      "Шпорт Вячеслав Иванович": 36,
-      "Против всех": 18
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 6,
+      "gas:candidate-vibid:1001000136032": 6,
+      "gas:candidate-vibid:327300166714": 36,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1284,11 +1284,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 29,
-      "Кретов Юрий Владимирович": 8,
-      "Шпорт Вячеслав Иванович": 143,
-      "Против всех": 30
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 29,
+      "gas:candidate-vibid:1001000136032": 8,
+      "gas:candidate-vibid:327300166714": 143,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1338,11 +1338,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 2,
-      "Дронченко Анатолий Иванович": 42,
-      "Кретов Юрий Владимирович": 24,
-      "Шпорт Вячеслав Иванович": 331,
-      "Против всех": 80
+      "gas:candidate-vibid:327300166953": 2,
+      "gas:candidate-vibid:1001000121827": 42,
+      "gas:candidate-vibid:1001000136032": 24,
+      "gas:candidate-vibid:327300166714": 331,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1392,11 +1392,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 56,
-      "Кретов Юрий Владимирович": 21,
-      "Шпорт Вячеслав Иванович": 326,
-      "Против всех": 52
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 56,
+      "gas:candidate-vibid:1001000136032": 21,
+      "gas:candidate-vibid:327300166714": 326,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1446,11 +1446,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 5,
-      "Дронченко Анатолий Иванович": 26,
-      "Кретов Юрий Владимирович": 10,
-      "Шпорт Вячеслав Иванович": 208,
-      "Против всех": 35
+      "gas:candidate-vibid:327300166953": 5,
+      "gas:candidate-vibid:1001000121827": 26,
+      "gas:candidate-vibid:1001000136032": 10,
+      "gas:candidate-vibid:327300166714": 208,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1500,11 +1500,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 62,
-      "Кретов Юрий Владимирович": 22,
-      "Шпорт Вячеслав Иванович": 343,
-      "Против всех": 72
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 62,
+      "gas:candidate-vibid:1001000136032": 22,
+      "gas:candidate-vibid:327300166714": 343,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1554,11 +1554,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 23,
-      "Дронченко Анатолий Иванович": 138,
-      "Кретов Юрий Владимирович": 49,
-      "Шпорт Вячеслав Иванович": 591,
-      "Против всех": 109
+      "gas:candidate-vibid:327300166953": 23,
+      "gas:candidate-vibid:1001000121827": 138,
+      "gas:candidate-vibid:1001000136032": 49,
+      "gas:candidate-vibid:327300166714": 591,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1608,11 +1608,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 60,
-      "Кретов Юрий Владимирович": 28,
-      "Шпорт Вячеслав Иванович": 281,
-      "Против всех": 50
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 60,
+      "gas:candidate-vibid:1001000136032": 28,
+      "gas:candidate-vibid:327300166714": 281,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1662,11 +1662,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 13,
-      "Дронченко Анатолий Иванович": 67,
-      "Кретов Юрий Владимирович": 28,
-      "Шпорт Вячеслав Иванович": 405,
-      "Против всех": 44
+      "gas:candidate-vibid:327300166953": 13,
+      "gas:candidate-vibid:1001000121827": 67,
+      "gas:candidate-vibid:1001000136032": 28,
+      "gas:candidate-vibid:327300166714": 405,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1716,11 +1716,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 10,
-      "Шпорт Вячеслав Иванович": 160,
-      "Против всех": 38
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 10,
+      "gas:candidate-vibid:327300166714": 160,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1770,11 +1770,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 118,
-      "Кретов Юрий Владимирович": 31,
-      "Шпорт Вячеслав Иванович": 555,
-      "Против всех": 110
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 118,
+      "gas:candidate-vibid:1001000136032": 31,
+      "gas:candidate-vibid:327300166714": 555,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1824,11 +1824,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 51,
-      "Кретов Юрий Владимирович": 19,
-      "Шпорт Вячеслав Иванович": 306,
-      "Против всех": 53
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 51,
+      "gas:candidate-vibid:1001000136032": 19,
+      "gas:candidate-vibid:327300166714": 306,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1878,11 +1878,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 95,
-      "Кретов Юрий Владимирович": 16,
-      "Шпорт Вячеслав Иванович": 412,
-      "Против всех": 86
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 95,
+      "gas:candidate-vibid:1001000136032": 16,
+      "gas:candidate-vibid:327300166714": 412,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1932,11 +1932,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 9,
-      "Дронченко Анатолий Иванович": 77,
-      "Кретов Юрий Владимирович": 14,
-      "Шпорт Вячеслав Иванович": 412,
-      "Против всех": 76
+      "gas:candidate-vibid:327300166953": 9,
+      "gas:candidate-vibid:1001000121827": 77,
+      "gas:candidate-vibid:1001000136032": 14,
+      "gas:candidate-vibid:327300166714": 412,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -1986,11 +1986,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 62,
-      "Кретов Юрий Владимирович": 18,
-      "Шпорт Вячеслав Иванович": 426,
-      "Против всех": 66
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 62,
+      "gas:candidate-vibid:1001000136032": 18,
+      "gas:candidate-vibid:327300166714": 426,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2040,11 +2040,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 53,
-      "Кретов Юрий Владимирович": 31,
-      "Шпорт Вячеслав Иванович": 581,
-      "Против всех": 88
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 53,
+      "gas:candidate-vibid:1001000136032": 31,
+      "gas:candidate-vibid:327300166714": 581,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2094,11 +2094,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 97,
-      "Кретов Юрий Владимирович": 22,
-      "Шпорт Вячеслав Иванович": 665,
-      "Против всех": 90
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 97,
+      "gas:candidate-vibid:1001000136032": 22,
+      "gas:candidate-vibid:327300166714": 665,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2148,11 +2148,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 24,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 198,
-      "Против всех": 50
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 24,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 198,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2202,11 +2202,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 5,
-      "Дронченко Анатолий Иванович": 23,
-      "Кретов Юрий Владимирович": 9,
-      "Шпорт Вячеслав Иванович": 181,
-      "Против всех": 27
+      "gas:candidate-vibid:327300166953": 5,
+      "gas:candidate-vibid:1001000121827": 23,
+      "gas:candidate-vibid:1001000136032": 9,
+      "gas:candidate-vibid:327300166714": 181,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2256,11 +2256,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 9,
-      "Кретов Юрий Владимирович": 9,
-      "Шпорт Вячеслав Иванович": 127,
-      "Против всех": 21
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 9,
+      "gas:candidate-vibid:1001000136032": 9,
+      "gas:candidate-vibid:327300166714": 127,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2310,11 +2310,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 5,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 12,
-      "Шпорт Вячеслав Иванович": 119,
-      "Против всех": 38
+      "gas:candidate-vibid:327300166953": 5,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 12,
+      "gas:candidate-vibid:327300166714": 119,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2364,11 +2364,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 12,
-      "Против всех": 2
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 12,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2418,11 +2418,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 14,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 66,
-      "Против всех": 40
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 14,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 66,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2472,11 +2472,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 17,
-      "Кретов Юрий Владимирович": 11,
-      "Шпорт Вячеслав Иванович": 85,
-      "Против всех": 41
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 17,
+      "gas:candidate-vibid:1001000136032": 11,
+      "gas:candidate-vibid:327300166714": 85,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2526,11 +2526,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 12,
-      "Кретов Юрий Владимирович": 6,
-      "Шпорт Вячеслав Иванович": 119,
-      "Против всех": 32
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 12,
+      "gas:candidate-vibid:1001000136032": 6,
+      "gas:candidate-vibid:327300166714": 119,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2580,11 +2580,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 6,
-      "Кретов Юрий Владимирович": 10,
-      "Шпорт Вячеслав Иванович": 144,
-      "Против всех": 37
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 6,
+      "gas:candidate-vibid:1001000136032": 10,
+      "gas:candidate-vibid:327300166714": 144,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2634,11 +2634,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 31,
-      "Кретов Юрий Владимирович": 22,
-      "Шпорт Вячеслав Иванович": 334,
-      "Против всех": 65
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 31,
+      "gas:candidate-vibid:1001000136032": 22,
+      "gas:candidate-vibid:327300166714": 334,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2688,11 +2688,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 12,
-      "Дронченко Анатолий Иванович": 20,
-      "Кретов Юрий Владимирович": 22,
-      "Шпорт Вячеслав Иванович": 256,
-      "Против всех": 51
+      "gas:candidate-vibid:327300166953": 12,
+      "gas:candidate-vibid:1001000121827": 20,
+      "gas:candidate-vibid:1001000136032": 22,
+      "gas:candidate-vibid:327300166714": 256,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2742,11 +2742,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 38,
-      "Кретов Юрий Владимирович": 21,
-      "Шпорт Вячеслав Иванович": 268,
-      "Против всех": 41
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 38,
+      "gas:candidate-vibid:1001000136032": 21,
+      "gas:candidate-vibid:327300166714": 268,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2796,11 +2796,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 13,
-      "Дронченко Анатолий Иванович": 13,
-      "Кретов Юрий Владимирович": 20,
-      "Шпорт Вячеслав Иванович": 193,
-      "Против всех": 26
+      "gas:candidate-vibid:327300166953": 13,
+      "gas:candidate-vibid:1001000121827": 13,
+      "gas:candidate-vibid:1001000136032": 20,
+      "gas:candidate-vibid:327300166714": 193,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2850,11 +2850,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 14,
-      "Кретов Юрий Владимирович": 9,
-      "Шпорт Вячеслав Иванович": 213,
-      "Против всех": 27
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 14,
+      "gas:candidate-vibid:1001000136032": 9,
+      "gas:candidate-vibid:327300166714": 213,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2904,11 +2904,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 6,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 23,
-      "Против всех": 3
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 6,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 23,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -2958,11 +2958,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 18,
-      "Дронченко Анатолий Иванович": 26,
-      "Кретов Юрий Владимирович": 27,
-      "Шпорт Вячеслав Иванович": 246,
-      "Против всех": 42
+      "gas:candidate-vibid:327300166953": 18,
+      "gas:candidate-vibid:1001000121827": 26,
+      "gas:candidate-vibid:1001000136032": 27,
+      "gas:candidate-vibid:327300166714": 246,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3012,11 +3012,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 28,
-      "Кретов Юрий Владимирович": 55,
-      "Шпорт Вячеслав Иванович": 195,
-      "Против всех": 102
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 28,
+      "gas:candidate-vibid:1001000136032": 55,
+      "gas:candidate-vibid:327300166714": 195,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3066,11 +3066,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 28,
-      "Кретов Юрий Владимирович": 57,
-      "Шпорт Вячеслав Иванович": 219,
-      "Против всех": 133
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 28,
+      "gas:candidate-vibid:1001000136032": 57,
+      "gas:candidate-vibid:327300166714": 219,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3120,11 +3120,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 45,
-      "Кретов Юрий Владимирович": 44,
-      "Шпорт Вячеслав Иванович": 226,
-      "Против всех": 79
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 45,
+      "gas:candidate-vibid:1001000136032": 44,
+      "gas:candidate-vibid:327300166714": 226,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3174,11 +3174,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 18,
-      "Дронченко Анатолий Иванович": 15,
-      "Кретов Юрий Владимирович": 18,
-      "Шпорт Вячеслав Иванович": 145,
-      "Против всех": 39
+      "gas:candidate-vibid:327300166953": 18,
+      "gas:candidate-vibid:1001000121827": 15,
+      "gas:candidate-vibid:1001000136032": 18,
+      "gas:candidate-vibid:327300166714": 145,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3228,11 +3228,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 27,
-      "Кретов Юрий Владимирович": 42,
-      "Шпорт Вячеслав Иванович": 259,
-      "Против всех": 84
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 27,
+      "gas:candidate-vibid:1001000136032": 42,
+      "gas:candidate-vibid:327300166714": 259,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3282,11 +3282,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 23,
-      "Дронченко Анатолий Иванович": 17,
-      "Кретов Юрий Владимирович": 51,
-      "Шпорт Вячеслав Иванович": 153,
-      "Против всех": 89
+      "gas:candidate-vibid:327300166953": 23,
+      "gas:candidate-vibid:1001000121827": 17,
+      "gas:candidate-vibid:1001000136032": 51,
+      "gas:candidate-vibid:327300166714": 153,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3336,11 +3336,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 4,
-      "Кретов Юрий Владимирович": 14,
-      "Шпорт Вячеслав Иванович": 21,
-      "Против всех": 18
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 4,
+      "gas:candidate-vibid:1001000136032": 14,
+      "gas:candidate-vibid:327300166714": 21,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166686&region=0&sub_region=0&type=429",
@@ -3390,11 +3390,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 28,
-      "Дронченко Анатолий Иванович": 44,
-      "Кретов Юрий Владимирович": 46,
-      "Шпорт Вячеслав Иванович": 267,
-      "Против всех": 178
+      "gas:candidate-vibid:327300166953": 28,
+      "gas:candidate-vibid:1001000121827": 44,
+      "gas:candidate-vibid:1001000136032": 46,
+      "gas:candidate-vibid:327300166714": 267,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3444,11 +3444,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 50,
-      "Кретов Юрий Владимирович": 32,
-      "Шпорт Вячеслав Иванович": 232,
-      "Против всех": 64
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 50,
+      "gas:candidate-vibid:1001000136032": 32,
+      "gas:candidate-vibid:327300166714": 232,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3498,11 +3498,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 29,
-      "Кретов Юрий Владимирович": 21,
-      "Шпорт Вячеслав Иванович": 156,
-      "Против всех": 54
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 29,
+      "gas:candidate-vibid:1001000136032": 21,
+      "gas:candidate-vibid:327300166714": 156,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3552,11 +3552,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 10,
-      "Дронченко Анатолий Иванович": 29,
-      "Кретов Юрий Владимирович": 32,
-      "Шпорт Вячеслав Иванович": 128,
-      "Против всех": 57
+      "gas:candidate-vibid:327300166953": 10,
+      "gas:candidate-vibid:1001000121827": 29,
+      "gas:candidate-vibid:1001000136032": 32,
+      "gas:candidate-vibid:327300166714": 128,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3606,11 +3606,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 26,
-      "Кретов Юрий Владимирович": 25,
-      "Шпорт Вячеслав Иванович": 131,
-      "Против всех": 74
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 26,
+      "gas:candidate-vibid:1001000136032": 25,
+      "gas:candidate-vibid:327300166714": 131,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3660,11 +3660,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 12,
-      "Дронченко Анатолий Иванович": 8,
-      "Кретов Юрий Владимирович": 28,
-      "Шпорт Вячеслав Иванович": 122,
-      "Против всех": 59
+      "gas:candidate-vibid:327300166953": 12,
+      "gas:candidate-vibid:1001000121827": 8,
+      "gas:candidate-vibid:1001000136032": 28,
+      "gas:candidate-vibid:327300166714": 122,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3714,11 +3714,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 34,
-      "Дронченко Анатолий Иванович": 47,
-      "Кретов Юрий Владимирович": 46,
-      "Шпорт Вячеслав Иванович": 137,
-      "Против всех": 87
+      "gas:candidate-vibid:327300166953": 34,
+      "gas:candidate-vibid:1001000121827": 47,
+      "gas:candidate-vibid:1001000136032": 46,
+      "gas:candidate-vibid:327300166714": 137,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3768,11 +3768,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 23,
-      "Дронченко Анатолий Иванович": 35,
-      "Кретов Юрий Владимирович": 37,
-      "Шпорт Вячеслав Иванович": 135,
-      "Против всех": 112
+      "gas:candidate-vibid:327300166953": 23,
+      "gas:candidate-vibid:1001000121827": 35,
+      "gas:candidate-vibid:1001000136032": 37,
+      "gas:candidate-vibid:327300166714": 135,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3822,11 +3822,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 21,
-      "Кретов Юрий Владимирович": 24,
-      "Шпорт Вячеслав Иванович": 108,
-      "Против всех": 64
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 21,
+      "gas:candidate-vibid:1001000136032": 24,
+      "gas:candidate-vibid:327300166714": 108,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3876,11 +3876,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 6,
-      "Кретов Юрий Владимирович": 13,
-      "Шпорт Вячеслав Иванович": 72,
-      "Против всех": 43
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 6,
+      "gas:candidate-vibid:1001000136032": 13,
+      "gas:candidate-vibid:327300166714": 72,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3930,11 +3930,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 18,
-      "Кретов Юрий Владимирович": 34,
-      "Шпорт Вячеслав Иванович": 141,
-      "Против всех": 77
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 18,
+      "gas:candidate-vibid:1001000136032": 34,
+      "gas:candidate-vibid:327300166714": 141,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -3984,11 +3984,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 16,
-      "Дронченко Анатолий Иванович": 14,
-      "Кретов Юрий Владимирович": 24,
-      "Шпорт Вячеслав Иванович": 176,
-      "Против всех": 67
+      "gas:candidate-vibid:327300166953": 16,
+      "gas:candidate-vibid:1001000121827": 14,
+      "gas:candidate-vibid:1001000136032": 24,
+      "gas:candidate-vibid:327300166714": 176,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -4038,11 +4038,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 4,
-      "Кретов Юрий Владимирович": 16,
-      "Шпорт Вячеслав Иванович": 55,
-      "Против всех": 33
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 4,
+      "gas:candidate-vibid:1001000136032": 16,
+      "gas:candidate-vibid:327300166714": 55,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -4092,11 +4092,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 18,
-      "Дронченко Анатолий Иванович": 33,
-      "Кретов Юрий Владимирович": 35,
-      "Шпорт Вячеслав Иванович": 159,
-      "Против всех": 105
+      "gas:candidate-vibid:327300166953": 18,
+      "gas:candidate-vibid:1001000121827": 33,
+      "gas:candidate-vibid:1001000136032": 35,
+      "gas:candidate-vibid:327300166714": 159,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -4146,11 +4146,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 33,
-      "Дронченко Анатолий Иванович": 41,
-      "Кретов Юрий Владимирович": 47,
-      "Шпорт Вячеслав Иванович": 138,
-      "Против всех": 82
+      "gas:candidate-vibid:327300166953": 33,
+      "gas:candidate-vibid:1001000121827": 41,
+      "gas:candidate-vibid:1001000136032": 47,
+      "gas:candidate-vibid:327300166714": 138,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166687&region=0&sub_region=0&type=429",
@@ -4200,11 +4200,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 31,
-      "Дронченко Анатолий Иванович": 216,
-      "Кретов Юрий Владимирович": 65,
-      "Шпорт Вячеслав Иванович": 720,
-      "Против всех": 206
+      "gas:candidate-vibid:327300166953": 31,
+      "gas:candidate-vibid:1001000121827": 216,
+      "gas:candidate-vibid:1001000136032": 65,
+      "gas:candidate-vibid:327300166714": 720,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4254,11 +4254,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 23,
-      "Дронченко Анатолий Иванович": 104,
-      "Кретов Юрий Владимирович": 58,
-      "Шпорт Вячеслав Иванович": 425,
-      "Против всех": 148
+      "gas:candidate-vibid:327300166953": 23,
+      "gas:candidate-vibid:1001000121827": 104,
+      "gas:candidate-vibid:1001000136032": 58,
+      "gas:candidate-vibid:327300166714": 425,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4308,11 +4308,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 26,
-      "Дронченко Анатолий Иванович": 86,
-      "Кретов Юрий Владимирович": 59,
-      "Шпорт Вячеслав Иванович": 381,
-      "Против всех": 108
+      "gas:candidate-vibid:327300166953": 26,
+      "gas:candidate-vibid:1001000121827": 86,
+      "gas:candidate-vibid:1001000136032": 59,
+      "gas:candidate-vibid:327300166714": 381,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4362,11 +4362,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 39,
-      "Дронченко Анатолий Иванович": 212,
-      "Кретов Юрий Владимирович": 114,
-      "Шпорт Вячеслав Иванович": 764,
-      "Против всех": 200
+      "gas:candidate-vibid:327300166953": 39,
+      "gas:candidate-vibid:1001000121827": 212,
+      "gas:candidate-vibid:1001000136032": 114,
+      "gas:candidate-vibid:327300166714": 764,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4416,11 +4416,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 168,
-      "Кретов Юрий Владимирович": 47,
-      "Шпорт Вячеслав Иванович": 545,
-      "Против всех": 174
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 168,
+      "gas:candidate-vibid:1001000136032": 47,
+      "gas:candidate-vibid:327300166714": 545,
+      "special:against-all": 174
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4470,11 +4470,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 16,
-      "Кретов Юрий Владимирович": 11,
-      "Шпорт Вячеслав Иванович": 70,
-      "Против всех": 32
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 16,
+      "gas:candidate-vibid:1001000136032": 11,
+      "gas:candidate-vibid:327300166714": 70,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4524,11 +4524,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 29,
-      "Дронченко Анатолий Иванович": 242,
-      "Кретов Юрий Владимирович": 90,
-      "Шпорт Вячеслав Иванович": 749,
-      "Против всех": 245
+      "gas:candidate-vibid:327300166953": 29,
+      "gas:candidate-vibid:1001000121827": 242,
+      "gas:candidate-vibid:1001000136032": 90,
+      "gas:candidate-vibid:327300166714": 749,
+      "special:against-all": 245
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4578,11 +4578,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 205,
-      "Кретов Юрий Владимирович": 87,
-      "Шпорт Вячеслав Иванович": 693,
-      "Против всех": 218
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 205,
+      "gas:candidate-vibid:1001000136032": 87,
+      "gas:candidate-vibid:327300166714": 693,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4632,11 +4632,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 14,
-      "Дронченко Анатолий Иванович": 62,
-      "Кретов Юрий Владимирович": 49,
-      "Шпорт Вячеслав Иванович": 274,
-      "Против всех": 123
+      "gas:candidate-vibid:327300166953": 14,
+      "gas:candidate-vibid:1001000121827": 62,
+      "gas:candidate-vibid:1001000136032": 49,
+      "gas:candidate-vibid:327300166714": 274,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4686,11 +4686,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 89,
-      "Кретов Юрий Владимирович": 40,
-      "Шпорт Вячеслав Иванович": 417,
-      "Против всех": 122
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 89,
+      "gas:candidate-vibid:1001000136032": 40,
+      "gas:candidate-vibid:327300166714": 417,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4740,11 +4740,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 26,
-      "Дронченко Анатолий Иванович": 82,
-      "Кретов Юрий Владимирович": 53,
-      "Шпорт Вячеслав Иванович": 310,
-      "Против всех": 113
+      "gas:candidate-vibid:327300166953": 26,
+      "gas:candidate-vibid:1001000121827": 82,
+      "gas:candidate-vibid:1001000136032": 53,
+      "gas:candidate-vibid:327300166714": 310,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4794,11 +4794,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 21,
-      "Кретов Юрий Владимирович": 15,
-      "Шпорт Вячеслав Иванович": 68,
-      "Против всех": 37
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 21,
+      "gas:candidate-vibid:1001000136032": 15,
+      "gas:candidate-vibid:327300166714": 68,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4848,11 +4848,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 8,
-      "Шпорт Вячеслав Иванович": 53,
-      "Против всех": 25
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 8,
+      "gas:candidate-vibid:327300166714": 53,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4902,11 +4902,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 22,
-      "Дронченко Анатолий Иванович": 67,
-      "Кретов Юрий Владимирович": 35,
-      "Шпорт Вячеслав Иванович": 259,
-      "Против всех": 77
+      "gas:candidate-vibid:327300166953": 22,
+      "gas:candidate-vibid:1001000121827": 67,
+      "gas:candidate-vibid:1001000136032": 35,
+      "gas:candidate-vibid:327300166714": 259,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -4956,11 +4956,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 13,
-      "Кретов Юрий Владимирович": 22,
-      "Шпорт Вячеслав Иванович": 67,
-      "Против всех": 24
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 13,
+      "gas:candidate-vibid:1001000136032": 22,
+      "gas:candidate-vibid:327300166714": 67,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5010,11 +5010,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 30,
-      "Дронченко Анатолий Иванович": 43,
-      "Кретов Юрий Владимирович": 47,
-      "Шпорт Вячеслав Иванович": 178,
-      "Против всех": 55
+      "gas:candidate-vibid:327300166953": 30,
+      "gas:candidate-vibid:1001000121827": 43,
+      "gas:candidate-vibid:1001000136032": 47,
+      "gas:candidate-vibid:327300166714": 178,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5064,11 +5064,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 38,
-      "Дронченко Анатолий Иванович": 72,
-      "Кретов Юрий Владимирович": 63,
-      "Шпорт Вячеслав Иванович": 531,
-      "Против всех": 150
+      "gas:candidate-vibid:327300166953": 38,
+      "gas:candidate-vibid:1001000121827": 72,
+      "gas:candidate-vibid:1001000136032": 63,
+      "gas:candidate-vibid:327300166714": 531,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5118,11 +5118,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 9,
-      "Дронченко Анатолий Иванович": 27,
-      "Кретов Юрий Владимирович": 32,
-      "Шпорт Вячеслав Иванович": 259,
-      "Против всех": 71
+      "gas:candidate-vibid:327300166953": 9,
+      "gas:candidate-vibid:1001000121827": 27,
+      "gas:candidate-vibid:1001000136032": 32,
+      "gas:candidate-vibid:327300166714": 259,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5172,11 +5172,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 52,
-      "Дронченко Анатолий Иванович": 89,
-      "Кретов Юрий Владимирович": 133,
-      "Шпорт Вячеслав Иванович": 462,
-      "Против всех": 190
+      "gas:candidate-vibid:327300166953": 52,
+      "gas:candidate-vibid:1001000121827": 89,
+      "gas:candidate-vibid:1001000136032": 133,
+      "gas:candidate-vibid:327300166714": 462,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5226,11 +5226,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 35,
-      "Дронченко Анатолий Иванович": 84,
-      "Кретов Юрий Владимирович": 103,
-      "Шпорт Вячеслав Иванович": 548,
-      "Против всех": 133
+      "gas:candidate-vibid:327300166953": 35,
+      "gas:candidate-vibid:1001000121827": 84,
+      "gas:candidate-vibid:1001000136032": 103,
+      "gas:candidate-vibid:327300166714": 548,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5280,11 +5280,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 36,
-      "Дронченко Анатолий Иванович": 147,
-      "Кретов Юрий Владимирович": 112,
-      "Шпорт Вячеслав Иванович": 765,
-      "Против всех": 187
+      "gas:candidate-vibid:327300166953": 36,
+      "gas:candidate-vibid:1001000121827": 147,
+      "gas:candidate-vibid:1001000136032": 112,
+      "gas:candidate-vibid:327300166714": 765,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5334,11 +5334,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 33,
-      "Дронченко Анатолий Иванович": 121,
-      "Кретов Юрий Владимирович": 90,
-      "Шпорт Вячеслав Иванович": 509,
-      "Против всех": 196
+      "gas:candidate-vibid:327300166953": 33,
+      "gas:candidate-vibid:1001000121827": 121,
+      "gas:candidate-vibid:1001000136032": 90,
+      "gas:candidate-vibid:327300166714": 509,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5388,11 +5388,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 3,
-      "Шпорт Вячеслав Иванович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 3,
+      "gas:candidate-vibid:327300166714": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5442,11 +5442,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5496,11 +5496,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 4,
-      "Кретов Юрий Владимирович": 9,
-      "Шпорт Вячеслав Иванович": 9,
-      "Против всех": 9
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 4,
+      "gas:candidate-vibid:1001000136032": 9,
+      "gas:candidate-vibid:327300166714": 9,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5550,11 +5550,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 3,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 53,
-      "Против всех": 30
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 3,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 53,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5604,11 +5604,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 15,
-      "Против всех": 10
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 15,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5658,11 +5658,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 1,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 1,
-      "Против всех": 54
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 1,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 1,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5712,11 +5712,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 3,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 3,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5766,11 +5766,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5820,11 +5820,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 8,
-      "Кретов Юрий Владимирович": 8,
-      "Шпорт Вячеслав Иванович": 24,
-      "Против всех": 39
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 8,
+      "gas:candidate-vibid:1001000136032": 8,
+      "gas:candidate-vibid:327300166714": 24,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5874,11 +5874,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 3,
-      "Кретов Юрий Владимирович": 6,
-      "Шпорт Вячеслав Иванович": 17,
-      "Против всех": 43
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 3,
+      "gas:candidate-vibid:1001000136032": 6,
+      "gas:candidate-vibid:327300166714": 17,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5928,11 +5928,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 2,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 2,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -5982,11 +5982,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6036,11 +6036,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6090,11 +6090,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6144,11 +6144,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6198,11 +6198,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6252,11 +6252,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6306,11 +6306,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 2,
-      "Дронченко Анатолий Иванович": 2,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:327300166953": 2,
+      "gas:candidate-vibid:1001000121827": 2,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6360,11 +6360,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 5,
-      "Шпорт Вячеслав Иванович": 3,
-      "Против всех": 1
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 5,
+      "gas:candidate-vibid:327300166714": 3,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6414,11 +6414,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 2,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 3,
-      "Шпорт Вячеслав Иванович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:327300166953": 2,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 3,
+      "gas:candidate-vibid:327300166714": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6468,11 +6468,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 1,
-      "Дронченко Анатолий Иванович": 3,
-      "Кретов Юрий Владимирович": 3,
-      "Шпорт Вячеслав Иванович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:327300166953": 1,
+      "gas:candidate-vibid:1001000121827": 3,
+      "gas:candidate-vibid:1001000136032": 3,
+      "gas:candidate-vibid:327300166714": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6522,11 +6522,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 1,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 7,
-      "Против всех": 3
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 1,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 7,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6576,11 +6576,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 2,
-      "Кретов Юрий Владимирович": 8,
-      "Шпорт Вячеслав Иванович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 2,
+      "gas:candidate-vibid:1001000136032": 8,
+      "gas:candidate-vibid:327300166714": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6630,11 +6630,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 12,
-      "Против всех": 4
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 12,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6684,11 +6684,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 5,
-      "Дронченко Анатолий Иванович": 14,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 23,
-      "Против всех": 13
+      "gas:candidate-vibid:327300166953": 5,
+      "gas:candidate-vibid:1001000121827": 14,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 23,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6738,11 +6738,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 6,
-      "Кретов Юрий Владимирович": 7,
-      "Шпорт Вячеслав Иванович": 9,
-      "Против всех": 47
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 6,
+      "gas:candidate-vibid:1001000136032": 7,
+      "gas:candidate-vibid:327300166714": 9,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166688&region=0&sub_region=0&type=429",
@@ -6792,11 +6792,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 127,
-      "Кретов Юрий Владимирович": 53,
-      "Шпорт Вячеслав Иванович": 408,
-      "Против всех": 65
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 127,
+      "gas:candidate-vibid:1001000136032": 53,
+      "gas:candidate-vibid:327300166714": 408,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -6846,11 +6846,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 20,
-      "Дронченко Анатолий Иванович": 164,
-      "Кретов Юрий Владимирович": 74,
-      "Шпорт Вячеслав Иванович": 605,
-      "Против всех": 119
+      "gas:candidate-vibid:327300166953": 20,
+      "gas:candidate-vibid:1001000121827": 164,
+      "gas:candidate-vibid:1001000136032": 74,
+      "gas:candidate-vibid:327300166714": 605,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -6900,11 +6900,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 31,
-      "Дронченко Анатолий Иванович": 139,
-      "Кретов Юрий Владимирович": 101,
-      "Шпорт Вячеслав Иванович": 693,
-      "Против всех": 120
+      "gas:candidate-vibid:327300166953": 31,
+      "gas:candidate-vibid:1001000121827": 139,
+      "gas:candidate-vibid:1001000136032": 101,
+      "gas:candidate-vibid:327300166714": 693,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -6954,11 +6954,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 117,
-      "Кретов Юрий Владимирович": 48,
-      "Шпорт Вячеслав Иванович": 571,
-      "Против всех": 93
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 117,
+      "gas:candidate-vibid:1001000136032": 48,
+      "gas:candidate-vibid:327300166714": 571,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7008,11 +7008,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 13,
-      "Дронченко Анатолий Иванович": 68,
-      "Кретов Юрий Владимирович": 46,
-      "Шпорт Вячеслав Иванович": 375,
-      "Против всех": 46
+      "gas:candidate-vibid:327300166953": 13,
+      "gas:candidate-vibid:1001000121827": 68,
+      "gas:candidate-vibid:1001000136032": 46,
+      "gas:candidate-vibid:327300166714": 375,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7062,11 +7062,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 22,
-      "Дронченко Анатолий Иванович": 104,
-      "Кретов Юрий Владимирович": 52,
-      "Шпорт Вячеслав Иванович": 383,
-      "Против всех": 38
+      "gas:candidate-vibid:327300166953": 22,
+      "gas:candidate-vibid:1001000121827": 104,
+      "gas:candidate-vibid:1001000136032": 52,
+      "gas:candidate-vibid:327300166714": 383,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7116,11 +7116,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 30,
-      "Дронченко Анатолий Иванович": 102,
-      "Кретов Юрий Владимирович": 85,
-      "Шпорт Вячеслав Иванович": 512,
-      "Против всех": 190
+      "gas:candidate-vibid:327300166953": 30,
+      "gas:candidate-vibid:1001000121827": 102,
+      "gas:candidate-vibid:1001000136032": 85,
+      "gas:candidate-vibid:327300166714": 512,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7170,11 +7170,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 16,
-      "Дронченко Анатолий Иванович": 49,
-      "Кретов Юрий Владимирович": 28,
-      "Шпорт Вячеслав Иванович": 281,
-      "Против всех": 54
+      "gas:candidate-vibid:327300166953": 16,
+      "gas:candidate-vibid:1001000121827": 49,
+      "gas:candidate-vibid:1001000136032": 28,
+      "gas:candidate-vibid:327300166714": 281,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7224,11 +7224,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 4,
-      "Кретов Юрий Владимирович": 6,
-      "Шпорт Вячеслав Иванович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 4,
+      "gas:candidate-vibid:1001000136032": 6,
+      "gas:candidate-vibid:327300166714": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7278,11 +7278,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 9,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 25,
-      "Шпорт Вячеслав Иванович": 102,
-      "Против всех": 15
+      "gas:candidate-vibid:327300166953": 9,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 25,
+      "gas:candidate-vibid:327300166714": 102,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7332,11 +7332,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 20,
-      "Дронченко Анатолий Иванович": 148,
-      "Кретов Юрий Владимирович": 64,
-      "Шпорт Вячеслав Иванович": 563,
-      "Против всех": 74
+      "gas:candidate-vibid:327300166953": 20,
+      "gas:candidate-vibid:1001000121827": 148,
+      "gas:candidate-vibid:1001000136032": 64,
+      "gas:candidate-vibid:327300166714": 563,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7386,11 +7386,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 81,
-      "Кретов Юрий Владимирович": 77,
-      "Шпорт Вячеслав Иванович": 429,
-      "Против всех": 96
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 81,
+      "gas:candidate-vibid:1001000136032": 77,
+      "gas:candidate-vibid:327300166714": 429,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7440,11 +7440,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 5,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 128,
-      "Против всех": 24
+      "gas:candidate-vibid:327300166953": 5,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 128,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7494,11 +7494,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 32,
-      "Дронченко Анатолий Иванович": 42,
-      "Кретов Юрий Владимирович": 74,
-      "Шпорт Вячеслав Иванович": 303,
-      "Против всех": 82
+      "gas:candidate-vibid:327300166953": 32,
+      "gas:candidate-vibid:1001000121827": 42,
+      "gas:candidate-vibid:1001000136032": 74,
+      "gas:candidate-vibid:327300166714": 303,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7548,11 +7548,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 27,
-      "Кретов Юрий Владимирович": 41,
-      "Шпорт Вячеслав Иванович": 209,
-      "Против всех": 34
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 27,
+      "gas:candidate-vibid:1001000136032": 41,
+      "gas:candidate-vibid:327300166714": 209,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7602,11 +7602,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 29,
-      "Кретов Юрий Владимирович": 24,
-      "Шпорт Вячеслав Иванович": 168,
-      "Против всех": 15
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 29,
+      "gas:candidate-vibid:1001000136032": 24,
+      "gas:candidate-vibid:327300166714": 168,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7656,11 +7656,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 9,
-      "Дронченко Анатолий Иванович": 32,
-      "Кретов Юрий Владимирович": 20,
-      "Шпорт Вячеслав Иванович": 143,
-      "Против всех": 34
+      "gas:candidate-vibid:327300166953": 9,
+      "gas:candidate-vibid:1001000121827": 32,
+      "gas:candidate-vibid:1001000136032": 20,
+      "gas:candidate-vibid:327300166714": 143,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7710,11 +7710,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 14,
-      "Дронченко Анатолий Иванович": 45,
-      "Кретов Юрий Владимирович": 62,
-      "Шпорт Вячеслав Иванович": 272,
-      "Против всех": 94
+      "gas:candidate-vibid:327300166953": 14,
+      "gas:candidate-vibid:1001000121827": 45,
+      "gas:candidate-vibid:1001000136032": 62,
+      "gas:candidate-vibid:327300166714": 272,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7764,11 +7764,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 16,
-      "Дронченко Анатолий Иванович": 26,
-      "Кретов Юрий Владимирович": 46,
-      "Шпорт Вячеслав Иванович": 466,
-      "Против всех": 71
+      "gas:candidate-vibid:327300166953": 16,
+      "gas:candidate-vibid:1001000121827": 26,
+      "gas:candidate-vibid:1001000136032": 46,
+      "gas:candidate-vibid:327300166714": 466,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7818,11 +7818,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 20,
-      "Кретов Юрий Владимирович": 37,
-      "Шпорт Вячеслав Иванович": 280,
-      "Против всех": 96
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 20,
+      "gas:candidate-vibid:1001000136032": 37,
+      "gas:candidate-vibid:327300166714": 280,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7872,11 +7872,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 24,
-      "Дронченко Анатолий Иванович": 72,
-      "Кретов Юрий Владимирович": 88,
-      "Шпорт Вячеслав Иванович": 530,
-      "Против всех": 106
+      "gas:candidate-vibid:327300166953": 24,
+      "gas:candidate-vibid:1001000121827": 72,
+      "gas:candidate-vibid:1001000136032": 88,
+      "gas:candidate-vibid:327300166714": 530,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7926,11 +7926,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 60,
-      "Кретов Юрий Владимирович": 77,
-      "Шпорт Вячеслав Иванович": 493,
-      "Против всех": 109
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 60,
+      "gas:candidate-vibid:1001000136032": 77,
+      "gas:candidate-vibid:327300166714": 493,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -7980,11 +7980,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 13,
-      "Шпорт Вячеслав Иванович": 131,
-      "Против всех": 34
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 13,
+      "gas:candidate-vibid:327300166714": 131,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -8034,11 +8034,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 28,
-      "Кретов Юрий Владимирович": 27,
-      "Шпорт Вячеслав Иванович": 207,
-      "Против всех": 35
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 28,
+      "gas:candidate-vibid:1001000136032": 27,
+      "gas:candidate-vibid:327300166714": 207,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166689&region=0&sub_region=0&type=429",
@@ -8088,11 +8088,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 15,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 16,
-      "Шпорт Вячеслав Иванович": 76,
-      "Против всех": 62
+      "gas:candidate-vibid:327300166953": 15,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 16,
+      "gas:candidate-vibid:327300166714": 76,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166690&region=0&sub_region=0&type=429",
@@ -8142,11 +8142,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 2,
-      "Кретов Юрий Владимирович": 0,
-      "Шпорт Вячеслав Иванович": 34,
-      "Против всех": 11
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 2,
+      "gas:candidate-vibid:1001000136032": 0,
+      "gas:candidate-vibid:327300166714": 34,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166690&region=0&sub_region=0&type=429",
@@ -8196,11 +8196,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 23,
-      "Кретов Юрий Владимирович": 29,
-      "Шпорт Вячеслав Иванович": 303,
-      "Против всех": 67
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 23,
+      "gas:candidate-vibid:1001000136032": 29,
+      "gas:candidate-vibid:327300166714": 303,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166690&region=0&sub_region=0&type=429",
@@ -8250,11 +8250,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 2,
-      "Дронченко Анатолий Иванович": 1,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 38,
-      "Против всех": 6
+      "gas:candidate-vibid:327300166953": 2,
+      "gas:candidate-vibid:1001000121827": 1,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 38,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166690&region=0&sub_region=0&type=429",
@@ -8304,11 +8304,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 2,
-      "Дронченко Анатолий Иванович": 0,
-      "Кретов Юрий Владимирович": 5,
-      "Шпорт Вячеслав Иванович": 28,
-      "Против всех": 11
+      "gas:candidate-vibid:327300166953": 2,
+      "gas:candidate-vibid:1001000121827": 0,
+      "gas:candidate-vibid:1001000136032": 5,
+      "gas:candidate-vibid:327300166714": 28,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166690&region=0&sub_region=0&type=429",
@@ -8358,11 +8358,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 21,
-      "Кретов Юрий Владимирович": 15,
-      "Шпорт Вячеслав Иванович": 74,
-      "Против всех": 30
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 21,
+      "gas:candidate-vibid:1001000136032": 15,
+      "gas:candidate-vibid:327300166714": 74,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166690&region=0&sub_region=0&type=429",
@@ -8412,11 +8412,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 37,
-      "Кретов Юрий Владимирович": 29,
-      "Шпорт Вячеслав Иванович": 184,
-      "Против всех": 52
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 37,
+      "gas:candidate-vibid:1001000136032": 29,
+      "gas:candidate-vibid:327300166714": 184,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8466,11 +8466,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 6,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 44,
-      "Против всех": 18
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 6,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 44,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8520,11 +8520,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 9,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 25,
-      "Шпорт Вячеслав Иванович": 221,
-      "Против всех": 48
+      "gas:candidate-vibid:327300166953": 9,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 25,
+      "gas:candidate-vibid:327300166714": 221,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8574,11 +8574,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 1,
-      "Кретов Юрий Владимирович": 5,
-      "Шпорт Вячеслав Иванович": 25,
-      "Против всех": 3
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 1,
+      "gas:candidate-vibid:1001000136032": 5,
+      "gas:candidate-vibid:327300166714": 25,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8628,11 +8628,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 4,
-      "Кретов Юрий Владимирович": 10,
-      "Шпорт Вячеслав Иванович": 86,
-      "Против всех": 18
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 4,
+      "gas:candidate-vibid:1001000136032": 10,
+      "gas:candidate-vibid:327300166714": 86,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8682,11 +8682,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 10,
-      "Дронченко Анатолий Иванович": 26,
-      "Кретов Юрий Владимирович": 11,
-      "Шпорт Вячеслав Иванович": 253,
-      "Против всех": 30
+      "gas:candidate-vibid:327300166953": 10,
+      "gas:candidate-vibid:1001000121827": 26,
+      "gas:candidate-vibid:1001000136032": 11,
+      "gas:candidate-vibid:327300166714": 253,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8736,11 +8736,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 12,
-      "Кретов Юрий Владимирович": 5,
-      "Шпорт Вячеслав Иванович": 142,
-      "Против всех": 24
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 12,
+      "gas:candidate-vibid:1001000136032": 5,
+      "gas:candidate-vibid:327300166714": 142,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8790,11 +8790,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 2,
-      "Дронченко Анатолий Иванович": 1,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 102,
-      "Против всех": 3
+      "gas:candidate-vibid:327300166953": 2,
+      "gas:candidate-vibid:1001000121827": 1,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 102,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8844,11 +8844,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 5,
-      "Дронченко Анатолий Иванович": 19,
-      "Кретов Юрий Владимирович": 19,
-      "Шпорт Вячеслав Иванович": 284,
-      "Против всех": 65
+      "gas:candidate-vibid:327300166953": 5,
+      "gas:candidate-vibid:1001000121827": 19,
+      "gas:candidate-vibid:1001000136032": 19,
+      "gas:candidate-vibid:327300166714": 284,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8898,11 +8898,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 72,
-      "Кретов Юрий Владимирович": 34,
-      "Шпорт Вячеслав Иванович": 671,
-      "Против всех": 95
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 72,
+      "gas:candidate-vibid:1001000136032": 34,
+      "gas:candidate-vibid:327300166714": 671,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -8952,11 +8952,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 16,
-      "Кретов Юрий Владимирович": 21,
-      "Шпорт Вячеслав Иванович": 225,
-      "Против всех": 40
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 16,
+      "gas:candidate-vibid:1001000136032": 21,
+      "gas:candidate-vibid:327300166714": 225,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9006,11 +9006,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 8,
-      "Дронченко Анатолий Иванович": 20,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 162,
-      "Против всех": 29
+      "gas:candidate-vibid:327300166953": 8,
+      "gas:candidate-vibid:1001000121827": 20,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 162,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9060,11 +9060,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 3,
-      "Дронченко Анатолий Иванович": 3,
-      "Кретов Юрий Владимирович": 2,
-      "Шпорт Вячеслав Иванович": 33,
-      "Против всех": 10
+      "gas:candidate-vibid:327300166953": 3,
+      "gas:candidate-vibid:1001000121827": 3,
+      "gas:candidate-vibid:1001000136032": 2,
+      "gas:candidate-vibid:327300166714": 33,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9114,11 +9114,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 13,
-      "Дронченко Анатолий Иванович": 21,
-      "Кретов Юрий Владимирович": 32,
-      "Шпорт Вячеслав Иванович": 142,
-      "Против всех": 38
+      "gas:candidate-vibid:327300166953": 13,
+      "gas:candidate-vibid:1001000121827": 21,
+      "gas:candidate-vibid:1001000136032": 32,
+      "gas:candidate-vibid:327300166714": 142,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9168,11 +9168,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 11,
-      "Шпорт Вячеслав Иванович": 187,
-      "Против всех": 17
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 11,
+      "gas:candidate-vibid:327300166714": 187,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9222,11 +9222,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 12,
-      "Дронченко Анатолий Иванович": 31,
-      "Кретов Юрий Владимирович": 15,
-      "Шпорт Вячеслав Иванович": 350,
-      "Против всех": 66
+      "gas:candidate-vibid:327300166953": 12,
+      "gas:candidate-vibid:1001000121827": 31,
+      "gas:candidate-vibid:1001000136032": 15,
+      "gas:candidate-vibid:327300166714": 350,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9276,11 +9276,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 15,
-      "Шпорт Вячеслав Иванович": 215,
-      "Против всех": 30
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 15,
+      "gas:candidate-vibid:327300166714": 215,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9330,11 +9330,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 19,
-      "Дронченко Анатолий Иванович": 20,
-      "Кретов Юрий Владимирович": 31,
-      "Шпорт Вячеслав Иванович": 260,
-      "Против всех": 64
+      "gas:candidate-vibid:327300166953": 19,
+      "gas:candidate-vibid:1001000121827": 20,
+      "gas:candidate-vibid:1001000136032": 31,
+      "gas:candidate-vibid:327300166714": 260,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9384,11 +9384,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 14,
-      "Дронченко Анатолий Иванович": 17,
-      "Кретов Юрий Владимирович": 33,
-      "Шпорт Вячеслав Иванович": 239,
-      "Против всех": 110
+      "gas:candidate-vibid:327300166953": 14,
+      "gas:candidate-vibid:1001000121827": 17,
+      "gas:candidate-vibid:1001000136032": 33,
+      "gas:candidate-vibid:327300166714": 239,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9438,11 +9438,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 11,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 261,
-      "Против всех": 34
+      "gas:candidate-vibid:327300166953": 11,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 261,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9492,11 +9492,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 0,
-      "Дронченко Анатолий Иванович": 2,
-      "Кретов Юрий Владимирович": 3,
-      "Шпорт Вячеслав Иванович": 41,
-      "Против всех": 12
+      "gas:candidate-vibid:327300166953": 0,
+      "gas:candidate-vibid:1001000121827": 2,
+      "gas:candidate-vibid:1001000136032": 3,
+      "gas:candidate-vibid:327300166714": 41,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9546,11 +9546,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 17,
-      "Дронченко Анатолий Иванович": 29,
-      "Кретов Юрий Владимирович": 62,
-      "Шпорт Вячеслав Иванович": 384,
-      "Против всех": 107
+      "gas:candidate-vibid:327300166953": 17,
+      "gas:candidate-vibid:1001000121827": 29,
+      "gas:candidate-vibid:1001000136032": 62,
+      "gas:candidate-vibid:327300166714": 384,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9600,11 +9600,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 24,
-      "Дронченко Анатолий Иванович": 45,
-      "Кретов Юрий Владимирович": 47,
-      "Шпорт Вячеслав Иванович": 339,
-      "Против всех": 104
+      "gas:candidate-vibid:327300166953": 24,
+      "gas:candidate-vibid:1001000121827": 45,
+      "gas:candidate-vibid:1001000136032": 47,
+      "gas:candidate-vibid:327300166714": 339,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9654,11 +9654,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 20,
-      "Дронченко Анатолий Иванович": 11,
-      "Кретов Юрий Владимирович": 17,
-      "Шпорт Вячеслав Иванович": 248,
-      "Против всех": 41
+      "gas:candidate-vibid:327300166953": 20,
+      "gas:candidate-vibid:1001000121827": 11,
+      "gas:candidate-vibid:1001000136032": 17,
+      "gas:candidate-vibid:327300166714": 248,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9708,11 +9708,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 14,
-      "Кретов Юрий Владимирович": 13,
-      "Шпорт Вячеслав Иванович": 164,
-      "Против всех": 15
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 14,
+      "gas:candidate-vibid:1001000136032": 13,
+      "gas:candidate-vibid:327300166714": 164,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9762,11 +9762,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 7,
-      "Дронченко Анатолий Иванович": 4,
-      "Кретов Юрий Владимирович": 8,
-      "Шпорт Вячеслав Иванович": 74,
-      "Против всех": 29
+      "gas:candidate-vibid:327300166953": 7,
+      "gas:candidate-vibid:1001000121827": 4,
+      "gas:candidate-vibid:1001000136032": 8,
+      "gas:candidate-vibid:327300166714": 74,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9816,11 +9816,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 6,
-      "Дронченко Анатолий Иванович": 15,
-      "Кретов Юрий Владимирович": 12,
-      "Шпорт Вячеслав Иванович": 106,
-      "Против всех": 23
+      "gas:candidate-vibid:327300166953": 6,
+      "gas:candidate-vibid:1001000121827": 15,
+      "gas:candidate-vibid:1001000136032": 12,
+      "gas:candidate-vibid:327300166714": 106,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9870,11 +9870,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 3,
-      "Шпорт Вячеслав Иванович": 164,
-      "Против всех": 14
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 3,
+      "gas:candidate-vibid:327300166714": 164,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9924,11 +9924,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 14,
-      "Дронченко Анатолий Иванович": 42,
-      "Кретов Юрий Владимирович": 37,
-      "Шпорт Вячеслав Иванович": 455,
-      "Против всех": 75
+      "gas:candidate-vibid:327300166953": 14,
+      "gas:candidate-vibid:1001000121827": 42,
+      "gas:candidate-vibid:1001000136032": 37,
+      "gas:candidate-vibid:327300166714": 455,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -9978,11 +9978,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 10,
-      "Дронченко Анатолий Иванович": 30,
-      "Кретов Юрий Владимирович": 22,
-      "Шпорт Вячеслав Иванович": 228,
-      "Против всех": 57
+      "gas:candidate-vibid:327300166953": 10,
+      "gas:candidate-vibid:1001000121827": 30,
+      "gas:candidate-vibid:1001000136032": 22,
+      "gas:candidate-vibid:327300166714": 228,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -10032,11 +10032,11 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Барабанов Григорий Афиногенович": 4,
-      "Дронченко Анатолий Иванович": 7,
-      "Кретов Юрий Владимирович": 1,
-      "Шпорт Вячеслав Иванович": 42,
-      "Против всех": 18
+      "gas:candidate-vibid:327300166953": 4,
+      "gas:candidate-vibid:1001000121827": 7,
+      "gas:candidate-vibid:1001000136032": 1,
+      "gas:candidate-vibid:327300166714": 42,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273001014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300166691&region=0&sub_region=0&type=429",
@@ -10086,16 +10086,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 11,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 14,
-      "Резник Борис Львович": 167,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 48,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 11,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 14,
+      "gas:candidate-vibid:327300266723": 167,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 48,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10145,16 +10145,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 5,
-      "Жуков Константин Анатольевич": 6,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 6,
-      "Резник Борис Львович": 114,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 43,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 5,
+      "gas:candidate-vibid:1001000190325": 6,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 6,
+      "gas:candidate-vibid:327300266723": 114,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 43,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10204,16 +10204,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 59,
-      "Вовк Михаил Федорович": 29,
-      "Жуков Константин Анатольевич": 64,
-      "Михальцов Вячеслав Геннадьевич": 22,
-      "Разуванов Леонид Михайлович": 59,
-      "Резник Борис Львович": 413,
-      "Сайков Виктор Владимирович": 29,
-      "Титоренко Владимир Федорович": 111,
-      "Фирциков Олег Олегович": 20,
-      "Против всех": 194
+      "gas:candidate-vibid:1001000113919": 59,
+      "gas:candidate-vibid:1001000112202": 29,
+      "gas:candidate-vibid:1001000190325": 64,
+      "gas:candidate-vibid:1001000217912": 22,
+      "gas:candidate-vibid:1001000136033": 59,
+      "gas:candidate-vibid:327300266723": 413,
+      "gas:candidate-vibid:1001000193908": 29,
+      "gas:candidate-vibid:1001000121828": 111,
+      "gas:candidate-vibid:327300267014": 20,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10263,16 +10263,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 9,
-      "Вовк Михаил Федорович": 18,
-      "Жуков Константин Анатольевич": 41,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 26,
-      "Резник Борис Львович": 289,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 76,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000113919": 9,
+      "gas:candidate-vibid:1001000112202": 18,
+      "gas:candidate-vibid:1001000190325": 41,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 26,
+      "gas:candidate-vibid:327300266723": 289,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 76,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10322,16 +10322,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 124,
-      "Вовк Михаил Федорович": 90,
-      "Жуков Константин Анатольевич": 196,
-      "Михальцов Вячеслав Геннадьевич": 59,
-      "Разуванов Леонид Михайлович": 159,
-      "Резник Борис Львович": 477,
-      "Сайков Виктор Владимирович": 69,
-      "Титоренко Владимир Федорович": 92,
-      "Фирциков Олег Олегович": 55,
-      "Против всех": 589
+      "gas:candidate-vibid:1001000113919": 124,
+      "gas:candidate-vibid:1001000112202": 90,
+      "gas:candidate-vibid:1001000190325": 196,
+      "gas:candidate-vibid:1001000217912": 59,
+      "gas:candidate-vibid:1001000136033": 159,
+      "gas:candidate-vibid:327300266723": 477,
+      "gas:candidate-vibid:1001000193908": 69,
+      "gas:candidate-vibid:1001000121828": 92,
+      "gas:candidate-vibid:327300267014": 55,
+      "special:against-all": 589
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10381,16 +10381,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 37,
-      "Вовк Михаил Федорович": 46,
-      "Жуков Константин Анатольевич": 56,
-      "Михальцов Вячеслав Геннадьевич": 32,
-      "Разуванов Леонид Михайлович": 81,
-      "Резник Борис Львович": 429,
-      "Сайков Виктор Владимирович": 22,
-      "Титоренко Владимир Федорович": 48,
-      "Фирциков Олег Олегович": 19,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000113919": 37,
+      "gas:candidate-vibid:1001000112202": 46,
+      "gas:candidate-vibid:1001000190325": 56,
+      "gas:candidate-vibid:1001000217912": 32,
+      "gas:candidate-vibid:1001000136033": 81,
+      "gas:candidate-vibid:327300266723": 429,
+      "gas:candidate-vibid:1001000193908": 22,
+      "gas:candidate-vibid:1001000121828": 48,
+      "gas:candidate-vibid:327300267014": 19,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10440,16 +10440,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 5,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 21,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 15,
-      "Резник Борис Львович": 67,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 21,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000113919": 5,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 21,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 15,
+      "gas:candidate-vibid:327300266723": 67,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 21,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10499,16 +10499,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 15,
-      "Жуков Константин Анатольевич": 20,
-      "Михальцов Вячеслав Геннадьевич": 10,
-      "Разуванов Леонид Михайлович": 20,
-      "Резник Борис Львович": 218,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 79,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 15,
+      "gas:candidate-vibid:1001000190325": 20,
+      "gas:candidate-vibid:1001000217912": 10,
+      "gas:candidate-vibid:1001000136033": 20,
+      "gas:candidate-vibid:327300266723": 218,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 79,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10558,16 +10558,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 5,
-      "Вовк Михаил Федорович": 32,
-      "Жуков Константин Анатольевич": 22,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 35,
-      "Резник Борис Львович": 422,
-      "Сайков Виктор Владимирович": 8,
-      "Титоренко Владимир Федорович": 59,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113919": 5,
+      "gas:candidate-vibid:1001000112202": 32,
+      "gas:candidate-vibid:1001000190325": 22,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 35,
+      "gas:candidate-vibid:327300266723": 422,
+      "gas:candidate-vibid:1001000193908": 8,
+      "gas:candidate-vibid:1001000121828": 59,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10617,16 +10617,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 30,
-      "Жуков Константин Анатольевич": 29,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 17,
-      "Резник Борис Львович": 443,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 77,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 30,
+      "gas:candidate-vibid:1001000190325": 29,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 17,
+      "gas:candidate-vibid:327300266723": 443,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 77,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10676,16 +10676,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 19,
-      "Жуков Константин Анатольевич": 23,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 31,
-      "Резник Борис Львович": 392,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 73,
-      "Фирциков Олег Олегович": 7,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 19,
+      "gas:candidate-vibid:1001000190325": 23,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 31,
+      "gas:candidate-vibid:327300266723": 392,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 73,
+      "gas:candidate-vibid:327300267014": 7,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10735,16 +10735,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 9,
-      "Жуков Константин Анатольевич": 20,
-      "Михальцов Вячеслав Геннадьевич": 12,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 201,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 63,
-      "Фирциков Олег Олегович": 7,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 9,
+      "gas:candidate-vibid:1001000190325": 20,
+      "gas:candidate-vibid:1001000217912": 12,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 201,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 63,
+      "gas:candidate-vibid:327300267014": 7,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10794,16 +10794,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 5,
-      "Вовк Михаил Федорович": 5,
-      "Жуков Константин Анатольевич": 0,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 6,
-      "Резник Борис Львович": 48,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 7,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113919": 5,
+      "gas:candidate-vibid:1001000112202": 5,
+      "gas:candidate-vibid:1001000190325": 0,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 6,
+      "gas:candidate-vibid:327300266723": 48,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 7,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10853,16 +10853,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 16,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 44,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 15,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 16,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 44,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 15,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10912,16 +10912,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 14,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 18,
-      "Резник Борис Львович": 233,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 34,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 14,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 18,
+      "gas:candidate-vibid:327300266723": 233,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 34,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -10971,16 +10971,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 48,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 0,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 48,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 0,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11030,16 +11030,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 9,
-      "Жуков Константин Анатольевич": 8,
-      "Михальцов Вячеслав Геннадьевич": 10,
-      "Разуванов Леонид Михайлович": 15,
-      "Резник Борис Львович": 120,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 5,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 9,
+      "gas:candidate-vibid:1001000190325": 8,
+      "gas:candidate-vibid:1001000217912": 10,
+      "gas:candidate-vibid:1001000136033": 15,
+      "gas:candidate-vibid:327300266723": 120,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 5,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11089,16 +11089,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 0,
-      "Жуков Константин Анатольевич": 7,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 15,
-      "Резник Борис Львович": 192,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 11,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 0,
+      "gas:candidate-vibid:1001000190325": 7,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 15,
+      "gas:candidate-vibid:327300266723": 192,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 11,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11148,16 +11148,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 0,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 59,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 8,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 0,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 59,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 8,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11207,16 +11207,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 23,
-      "Вовк Михаил Федорович": 40,
-      "Жуков Константин Анатольевич": 38,
-      "Михальцов Вячеслав Геннадьевич": 18,
-      "Разуванов Леонид Михайлович": 12,
-      "Резник Борис Львович": 482,
-      "Сайков Виктор Владимирович": 27,
-      "Титоренко Владимир Федорович": 31,
-      "Фирциков Олег Олегович": 15,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113919": 23,
+      "gas:candidate-vibid:1001000112202": 40,
+      "gas:candidate-vibid:1001000190325": 38,
+      "gas:candidate-vibid:1001000217912": 18,
+      "gas:candidate-vibid:1001000136033": 12,
+      "gas:candidate-vibid:327300266723": 482,
+      "gas:candidate-vibid:1001000193908": 27,
+      "gas:candidate-vibid:1001000121828": 31,
+      "gas:candidate-vibid:327300267014": 15,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11266,16 +11266,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 10,
-      "Вовк Михаил Федорович": 13,
-      "Жуков Константин Анатольевич": 20,
-      "Михальцов Вячеслав Геннадьевич": 13,
-      "Разуванов Леонид Михайлович": 31,
-      "Резник Борис Львович": 392,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 32,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000113919": 10,
+      "gas:candidate-vibid:1001000112202": 13,
+      "gas:candidate-vibid:1001000190325": 20,
+      "gas:candidate-vibid:1001000217912": 13,
+      "gas:candidate-vibid:1001000136033": 31,
+      "gas:candidate-vibid:327300266723": 392,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 32,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11325,16 +11325,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 9,
-      "Разуванов Леонид Михайлович": 7,
-      "Резник Борис Львович": 238,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 8,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 9,
+      "gas:candidate-vibid:1001000136033": 7,
+      "gas:candidate-vibid:327300266723": 238,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 8,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266679&region=0&sub_region=0&type=429",
@@ -11384,16 +11384,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 11,
-      "Резник Борис Львович": 69,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 11,
+      "gas:candidate-vibid:327300266723": 69,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11443,16 +11443,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 5,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 10,
-      "Резник Борис Львович": 133,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 3,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 5,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 10,
+      "gas:candidate-vibid:327300266723": 133,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 3,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11502,16 +11502,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 4,
-      "Жуков Константин Анатольевич": 6,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 22,
-      "Резник Борис Львович": 211,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 12,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 4,
+      "gas:candidate-vibid:1001000190325": 6,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 22,
+      "gas:candidate-vibid:327300266723": 211,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 12,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11561,16 +11561,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 2,
-      "Разуванов Леонид Михайлович": 4,
-      "Резник Борис Львович": 66,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 6,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 2,
+      "gas:candidate-vibid:1001000136033": 4,
+      "gas:candidate-vibid:327300266723": 66,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 6,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11620,16 +11620,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 0,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 1,
-      "Резник Борис Львович": 120,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 0,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 1,
+      "gas:candidate-vibid:327300266723": 120,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11679,16 +11679,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 2,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 12,
-      "Резник Борис Львович": 189,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 3,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 2,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 12,
+      "gas:candidate-vibid:327300266723": 189,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 3,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11738,16 +11738,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 1,
-      "Жуков Константин Анатольевич": 6,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 10,
-      "Резник Борис Львович": 147,
-      "Сайков Виктор Владимирович": 0,
-      "Титоренко Владимир Федорович": 10,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 1,
+      "gas:candidate-vibid:1001000190325": 6,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 10,
+      "gas:candidate-vibid:327300266723": 147,
+      "gas:candidate-vibid:1001000193908": 0,
+      "gas:candidate-vibid:1001000121828": 10,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11797,16 +11797,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 7,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 8,
-      "Резник Борис Львович": 241,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 16,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 7,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 8,
+      "gas:candidate-vibid:327300266723": 241,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 16,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11856,16 +11856,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 9,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 11,
-      "Резник Борис Львович": 234,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 14,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 9,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 11,
+      "gas:candidate-vibid:327300266723": 234,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 14,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11915,16 +11915,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 5,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 15,
-      "Резник Борис Львович": 160,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 19,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 5,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 15,
+      "gas:candidate-vibid:327300266723": 160,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 19,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -11974,16 +11974,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 2,
-      "Вовк Михаил Федорович": 12,
-      "Жуков Константин Анатольевич": 15,
-      "Михальцов Вячеслав Геннадьевич": 10,
-      "Разуванов Леонид Михайлович": 11,
-      "Резник Борис Львович": 247,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 34,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113919": 2,
+      "gas:candidate-vibid:1001000112202": 12,
+      "gas:candidate-vibid:1001000190325": 15,
+      "gas:candidate-vibid:1001000217912": 10,
+      "gas:candidate-vibid:1001000136033": 11,
+      "gas:candidate-vibid:327300266723": 247,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 34,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12033,16 +12033,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 4,
-      "Резник Борис Львович": 148,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 7,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 4,
+      "gas:candidate-vibid:327300266723": 148,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 7,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12092,16 +12092,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 7,
-      "Вовк Михаил Федорович": 0,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 8,
-      "Резник Борис Львович": 98,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 1,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113919": 7,
+      "gas:candidate-vibid:1001000112202": 0,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 8,
+      "gas:candidate-vibid:327300266723": 98,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 1,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12151,16 +12151,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 8,
-      "Вовк Михаил Федорович": 17,
-      "Жуков Константин Анатольевич": 25,
-      "Михальцов Вячеслав Геннадьевич": 5,
-      "Разуванов Леонид Михайлович": 25,
-      "Резник Борис Львович": 346,
-      "Сайков Виктор Владимирович": 4,
-      "Титоренко Владимир Федорович": 68,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000113919": 8,
+      "gas:candidate-vibid:1001000112202": 17,
+      "gas:candidate-vibid:1001000190325": 25,
+      "gas:candidate-vibid:1001000217912": 5,
+      "gas:candidate-vibid:1001000136033": 25,
+      "gas:candidate-vibid:327300266723": 346,
+      "gas:candidate-vibid:1001000193908": 4,
+      "gas:candidate-vibid:1001000121828": 68,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12210,16 +12210,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 6,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 5,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 165,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 10,
-      "Фирциков Олег Олегович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 6,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 5,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 165,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 10,
+      "gas:candidate-vibid:327300267014": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12269,16 +12269,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 4,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 11,
-      "Резник Борис Львович": 42,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 4,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 4,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 11,
+      "gas:candidate-vibid:327300266723": 42,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 4,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12328,16 +12328,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 3,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 6,
-      "Резник Борис Львович": 121,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 14,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 3,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 6,
+      "gas:candidate-vibid:327300266723": 121,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 14,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12387,16 +12387,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 0,
-      "Вовк Михаил Федорович": 2,
-      "Жуков Константин Анатольевич": 1,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 3,
-      "Резник Борис Львович": 114,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 10,
-      "Фирциков Олег Олегович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113919": 0,
+      "gas:candidate-vibid:1001000112202": 2,
+      "gas:candidate-vibid:1001000190325": 1,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 3,
+      "gas:candidate-vibid:327300266723": 114,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 10,
+      "gas:candidate-vibid:327300267014": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12446,16 +12446,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 18,
-      "Жуков Константин Анатольевич": 20,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 28,
-      "Резник Борис Львович": 357,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 36,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 18,
+      "gas:candidate-vibid:1001000190325": 20,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 28,
+      "gas:candidate-vibid:327300266723": 357,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 36,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12505,16 +12505,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 3,
-      "Жуков Константин Анатольевич": 9,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 12,
-      "Резник Борис Львович": 248,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 18,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 3,
+      "gas:candidate-vibid:1001000190325": 9,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 12,
+      "gas:candidate-vibid:327300266723": 248,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 18,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12564,16 +12564,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 4,
-      "Вовк Михаил Федорович": 7,
-      "Жуков Константин Анатольевич": 4,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 9,
-      "Резник Борис Львович": 243,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 19,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000113919": 4,
+      "gas:candidate-vibid:1001000112202": 7,
+      "gas:candidate-vibid:1001000190325": 4,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 9,
+      "gas:candidate-vibid:327300266723": 243,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 19,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12623,16 +12623,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 8,
-      "Вовк Михаил Федорович": 25,
-      "Жуков Константин Анатольевич": 21,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 12,
-      "Резник Борис Львович": 469,
-      "Сайков Виктор Владимирович": 8,
-      "Титоренко Владимир Федорович": 44,
-      "Фирциков Олег Олегович": 4,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000113919": 8,
+      "gas:candidate-vibid:1001000112202": 25,
+      "gas:candidate-vibid:1001000190325": 21,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 12,
+      "gas:candidate-vibid:327300266723": 469,
+      "gas:candidate-vibid:1001000193908": 8,
+      "gas:candidate-vibid:1001000121828": 44,
+      "gas:candidate-vibid:327300267014": 4,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12682,16 +12682,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 1,
-      "Вовк Михаил Федорович": 8,
-      "Жуков Константин Анатольевич": 10,
-      "Михальцов Вячеслав Геннадьевич": 6,
-      "Разуванов Леонид Михайлович": 14,
-      "Резник Борис Львович": 289,
-      "Сайков Виктор Владимирович": 1,
-      "Титоренко Владимир Федорович": 18,
-      "Фирциков Олег Олегович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000113919": 1,
+      "gas:candidate-vibid:1001000112202": 8,
+      "gas:candidate-vibid:1001000190325": 10,
+      "gas:candidate-vibid:1001000217912": 6,
+      "gas:candidate-vibid:1001000136033": 14,
+      "gas:candidate-vibid:327300266723": 289,
+      "gas:candidate-vibid:1001000193908": 1,
+      "gas:candidate-vibid:1001000121828": 18,
+      "gas:candidate-vibid:327300267014": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12741,16 +12741,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 9,
-      "Вовк Михаил Федорович": 31,
-      "Жуков Константин Анатольевич": 19,
-      "Михальцов Вячеслав Геннадьевич": 5,
-      "Разуванов Леонид Михайлович": 23,
-      "Резник Борис Львович": 573,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 60,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000113919": 9,
+      "gas:candidate-vibid:1001000112202": 31,
+      "gas:candidate-vibid:1001000190325": 19,
+      "gas:candidate-vibid:1001000217912": 5,
+      "gas:candidate-vibid:1001000136033": 23,
+      "gas:candidate-vibid:327300266723": 573,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 60,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12800,16 +12800,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 11,
-      "Вовк Михаил Федорович": 18,
-      "Жуков Константин Анатольевич": 12,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 17,
-      "Резник Борис Львович": 554,
-      "Сайков Виктор Владимирович": 5,
-      "Титоренко Владимир Федорович": 57,
-      "Фирциков Олег Олегович": 9,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113919": 11,
+      "gas:candidate-vibid:1001000112202": 18,
+      "gas:candidate-vibid:1001000190325": 12,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 17,
+      "gas:candidate-vibid:327300266723": 554,
+      "gas:candidate-vibid:1001000193908": 5,
+      "gas:candidate-vibid:1001000121828": 57,
+      "gas:candidate-vibid:327300267014": 9,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12859,16 +12859,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 6,
-      "Вовк Михаил Федорович": 13,
-      "Жуков Константин Анатольевич": 7,
-      "Михальцов Вячеслав Геннадьевич": 3,
-      "Разуванов Леонид Михайлович": 23,
-      "Резник Борис Львович": 412,
-      "Сайков Виктор Владимирович": 3,
-      "Титоренко Владимир Федорович": 35,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000113919": 6,
+      "gas:candidate-vibid:1001000112202": 13,
+      "gas:candidate-vibid:1001000190325": 7,
+      "gas:candidate-vibid:1001000217912": 3,
+      "gas:candidate-vibid:1001000136033": 23,
+      "gas:candidate-vibid:327300266723": 412,
+      "gas:candidate-vibid:1001000193908": 3,
+      "gas:candidate-vibid:1001000121828": 35,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12918,16 +12918,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 3,
-      "Вовк Михаил Федорович": 12,
-      "Жуков Константин Анатольевич": 6,
-      "Михальцов Вячеслав Геннадьевич": 4,
-      "Разуванов Леонид Михайлович": 17,
-      "Резник Борис Львович": 456,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 30,
-      "Фирциков Олег Олегович": 3,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000113919": 3,
+      "gas:candidate-vibid:1001000112202": 12,
+      "gas:candidate-vibid:1001000190325": 6,
+      "gas:candidate-vibid:1001000217912": 4,
+      "gas:candidate-vibid:1001000136033": 17,
+      "gas:candidate-vibid:327300266723": 456,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 30,
+      "gas:candidate-vibid:327300267014": 3,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -12977,16 +12977,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 9,
-      "Вовк Михаил Федорович": 13,
-      "Жуков Константин Анатольевич": 30,
-      "Михальцов Вячеслав Геннадьевич": 9,
-      "Разуванов Леонид Михайлович": 40,
-      "Резник Борис Львович": 267,
-      "Сайков Виктор Владимирович": 6,
-      "Титоренко Владимир Федорович": 20,
-      "Фирциков Олег Олегович": 12,
-      "Против всех": 176
+      "gas:candidate-vibid:1001000113919": 9,
+      "gas:candidate-vibid:1001000112202": 13,
+      "gas:candidate-vibid:1001000190325": 30,
+      "gas:candidate-vibid:1001000217912": 9,
+      "gas:candidate-vibid:1001000136033": 40,
+      "gas:candidate-vibid:327300266723": 267,
+      "gas:candidate-vibid:1001000193908": 6,
+      "gas:candidate-vibid:1001000121828": 20,
+      "gas:candidate-vibid:327300267014": 12,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266681&region=0&sub_region=0&type=429",
@@ -13036,16 +13036,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 33,
-      "Вовк Михаил Федорович": 76,
-      "Жуков Константин Анатольевич": 38,
-      "Михальцов Вячеслав Геннадьевич": 14,
-      "Разуванов Леонид Михайлович": 54,
-      "Резник Борис Львович": 552,
-      "Сайков Виктор Владимирович": 23,
-      "Титоренко Владимир Федорович": 61,
-      "Фирциков Олег Олегович": 8,
-      "Против всех": 130
+      "gas:candidate-vibid:1001000113919": 33,
+      "gas:candidate-vibid:1001000112202": 76,
+      "gas:candidate-vibid:1001000190325": 38,
+      "gas:candidate-vibid:1001000217912": 14,
+      "gas:candidate-vibid:1001000136033": 54,
+      "gas:candidate-vibid:327300266723": 552,
+      "gas:candidate-vibid:1001000193908": 23,
+      "gas:candidate-vibid:1001000121828": 61,
+      "gas:candidate-vibid:327300267014": 8,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13095,16 +13095,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 24,
-      "Вовк Михаил Федорович": 85,
-      "Жуков Константин Анатольевич": 21,
-      "Михальцов Вячеслав Геннадьевич": 11,
-      "Разуванов Леонид Михайлович": 52,
-      "Резник Борис Львович": 379,
-      "Сайков Виктор Владимирович": 14,
-      "Титоренко Владимир Федорович": 32,
-      "Фирциков Олег Олегович": 9,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113919": 24,
+      "gas:candidate-vibid:1001000112202": 85,
+      "gas:candidate-vibid:1001000190325": 21,
+      "gas:candidate-vibid:1001000217912": 11,
+      "gas:candidate-vibid:1001000136033": 52,
+      "gas:candidate-vibid:327300266723": 379,
+      "gas:candidate-vibid:1001000193908": 14,
+      "gas:candidate-vibid:1001000121828": 32,
+      "gas:candidate-vibid:327300267014": 9,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13154,16 +13154,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 123,
-      "Вовк Михаил Федорович": 123,
-      "Жуков Константин Анатольевич": 99,
-      "Михальцов Вячеслав Геннадьевич": 33,
-      "Разуванов Леонид Михайлович": 112,
-      "Резник Борис Львович": 528,
-      "Сайков Виктор Владимирович": 89,
-      "Титоренко Владимир Федорович": 96,
-      "Фирциков Олег Олегович": 33,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000113919": 123,
+      "gas:candidate-vibid:1001000112202": 123,
+      "gas:candidate-vibid:1001000190325": 99,
+      "gas:candidate-vibid:1001000217912": 33,
+      "gas:candidate-vibid:1001000136033": 112,
+      "gas:candidate-vibid:327300266723": 528,
+      "gas:candidate-vibid:1001000193908": 89,
+      "gas:candidate-vibid:1001000121828": 96,
+      "gas:candidate-vibid:327300267014": 33,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13213,16 +13213,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 39,
-      "Вовк Михаил Федорович": 107,
-      "Жуков Константин Анатольевич": 55,
-      "Михальцов Вячеслав Геннадьевич": 12,
-      "Разуванов Леонид Михайлович": 87,
-      "Резник Борис Львович": 632,
-      "Сайков Виктор Владимирович": 17,
-      "Титоренко Владимир Федорович": 63,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000113919": 39,
+      "gas:candidate-vibid:1001000112202": 107,
+      "gas:candidate-vibid:1001000190325": 55,
+      "gas:candidate-vibid:1001000217912": 12,
+      "gas:candidate-vibid:1001000136033": 87,
+      "gas:candidate-vibid:327300266723": 632,
+      "gas:candidate-vibid:1001000193908": 17,
+      "gas:candidate-vibid:1001000121828": 63,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13272,16 +13272,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 47,
-      "Вовк Михаил Федорович": 93,
-      "Жуков Константин Анатольевич": 16,
-      "Михальцов Вячеслав Геннадьевич": 8,
-      "Разуванов Леонид Михайлович": 60,
-      "Резник Борис Львович": 566,
-      "Сайков Виктор Владимирович": 13,
-      "Титоренко Владимир Федорович": 56,
-      "Фирциков Олег Олегович": 8,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113919": 47,
+      "gas:candidate-vibid:1001000112202": 93,
+      "gas:candidate-vibid:1001000190325": 16,
+      "gas:candidate-vibid:1001000217912": 8,
+      "gas:candidate-vibid:1001000136033": 60,
+      "gas:candidate-vibid:327300266723": 566,
+      "gas:candidate-vibid:1001000193908": 13,
+      "gas:candidate-vibid:1001000121828": 56,
+      "gas:candidate-vibid:327300267014": 8,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13331,16 +13331,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 13,
-      "Вовк Михаил Федорович": 10,
-      "Жуков Константин Анатольевич": 13,
-      "Михальцов Вячеслав Геннадьевич": 1,
-      "Разуванов Леонид Михайлович": 13,
-      "Резник Борис Львович": 143,
-      "Сайков Виктор Владимирович": 2,
-      "Титоренко Владимир Федорович": 13,
-      "Фирциков Олег Олегович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000113919": 13,
+      "gas:candidate-vibid:1001000112202": 10,
+      "gas:candidate-vibid:1001000190325": 13,
+      "gas:candidate-vibid:1001000217912": 1,
+      "gas:candidate-vibid:1001000136033": 13,
+      "gas:candidate-vibid:327300266723": 143,
+      "gas:candidate-vibid:1001000193908": 2,
+      "gas:candidate-vibid:1001000121828": 13,
+      "gas:candidate-vibid:327300267014": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13390,16 +13390,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 32,
-      "Вовк Михаил Федорович": 100,
-      "Жуков Константин Анатольевич": 29,
-      "Михальцов Вячеслав Геннадьевич": 11,
-      "Разуванов Леонид Михайлович": 45,
-      "Резник Борис Львович": 570,
-      "Сайков Виктор Владимирович": 10,
-      "Титоренко Владимир Федорович": 55,
-      "Фирциков Олег Олегович": 17,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000113919": 32,
+      "gas:candidate-vibid:1001000112202": 100,
+      "gas:candidate-vibid:1001000190325": 29,
+      "gas:candidate-vibid:1001000217912": 11,
+      "gas:candidate-vibid:1001000136033": 45,
+      "gas:candidate-vibid:327300266723": 570,
+      "gas:candidate-vibid:1001000193908": 10,
+      "gas:candidate-vibid:1001000121828": 55,
+      "gas:candidate-vibid:327300267014": 17,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13449,16 +13449,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 56,
-      "Вовк Михаил Федорович": 102,
-      "Жуков Константин Анатольевич": 50,
-      "Михальцов Вячеслав Геннадьевич": 16,
-      "Разуванов Леонид Михайлович": 108,
-      "Резник Борис Львович": 611,
-      "Сайков Виктор Владимирович": 24,
-      "Титоренко Владимир Федорович": 87,
-      "Фирциков Олег Олегович": 22,
-      "Против всех": 242
+      "gas:candidate-vibid:1001000113919": 56,
+      "gas:candidate-vibid:1001000112202": 102,
+      "gas:candidate-vibid:1001000190325": 50,
+      "gas:candidate-vibid:1001000217912": 16,
+      "gas:candidate-vibid:1001000136033": 108,
+      "gas:candidate-vibid:327300266723": 611,
+      "gas:candidate-vibid:1001000193908": 24,
+      "gas:candidate-vibid:1001000121828": 87,
+      "gas:candidate-vibid:327300267014": 22,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13508,16 +13508,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 26,
-      "Вовк Михаил Федорович": 90,
-      "Жуков Константин Анатольевич": 21,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 53,
-      "Резник Борис Львович": 568,
-      "Сайков Виктор Владимирович": 26,
-      "Титоренко Владимир Федорович": 60,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000113919": 26,
+      "gas:candidate-vibid:1001000112202": 90,
+      "gas:candidate-vibid:1001000190325": 21,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 53,
+      "gas:candidate-vibid:327300266723": 568,
+      "gas:candidate-vibid:1001000193908": 26,
+      "gas:candidate-vibid:1001000121828": 60,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13567,16 +13567,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 44,
-      "Вовк Михаил Федорович": 104,
-      "Жуков Константин Анатольевич": 24,
-      "Михальцов Вячеслав Геннадьевич": 7,
-      "Разуванов Леонид Михайлович": 50,
-      "Резник Борис Львович": 717,
-      "Сайков Виктор Владимирович": 26,
-      "Титоренко Владимир Федорович": 72,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000113919": 44,
+      "gas:candidate-vibid:1001000112202": 104,
+      "gas:candidate-vibid:1001000190325": 24,
+      "gas:candidate-vibid:1001000217912": 7,
+      "gas:candidate-vibid:1001000136033": 50,
+      "gas:candidate-vibid:327300266723": 717,
+      "gas:candidate-vibid:1001000193908": 26,
+      "gas:candidate-vibid:1001000121828": 72,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13626,16 +13626,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 44,
-      "Вовк Михаил Федорович": 95,
-      "Жуков Константин Анатольевич": 34,
-      "Михальцов Вячеслав Геннадьевич": 12,
-      "Разуванов Леонид Михайлович": 46,
-      "Резник Борис Львович": 590,
-      "Сайков Виктор Владимирович": 11,
-      "Титоренко Владимир Федорович": 53,
-      "Фирциков Олег Олегович": 6,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000113919": 44,
+      "gas:candidate-vibid:1001000112202": 95,
+      "gas:candidate-vibid:1001000190325": 34,
+      "gas:candidate-vibid:1001000217912": 12,
+      "gas:candidate-vibid:1001000136033": 46,
+      "gas:candidate-vibid:327300266723": 590,
+      "gas:candidate-vibid:1001000193908": 11,
+      "gas:candidate-vibid:1001000121828": 53,
+      "gas:candidate-vibid:327300267014": 6,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13685,16 +13685,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 54,
-      "Вовк Михаил Федорович": 123,
-      "Жуков Константин Анатольевич": 39,
-      "Михальцов Вячеслав Геннадьевич": 12,
-      "Разуванов Леонид Михайлович": 66,
-      "Резник Борис Львович": 664,
-      "Сайков Виктор Владимирович": 26,
-      "Титоренко Владимир Федорович": 84,
-      "Фирциков Олег Олегович": 10,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000113919": 54,
+      "gas:candidate-vibid:1001000112202": 123,
+      "gas:candidate-vibid:1001000190325": 39,
+      "gas:candidate-vibid:1001000217912": 12,
+      "gas:candidate-vibid:1001000136033": 66,
+      "gas:candidate-vibid:327300266723": 664,
+      "gas:candidate-vibid:1001000193908": 26,
+      "gas:candidate-vibid:1001000121828": 84,
+      "gas:candidate-vibid:327300267014": 10,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13744,16 +13744,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 59,
-      "Вовк Михаил Федорович": 61,
-      "Жуков Константин Анатольевич": 82,
-      "Михальцов Вячеслав Геннадьевич": 32,
-      "Разуванов Леонид Михайлович": 73,
-      "Резник Борис Львович": 208,
-      "Сайков Виктор Владимирович": 23,
-      "Титоренко Владимир Федорович": 41,
-      "Фирциков Олег Олегович": 20,
-      "Против всех": 258
+      "gas:candidate-vibid:1001000113919": 59,
+      "gas:candidate-vibid:1001000112202": 61,
+      "gas:candidate-vibid:1001000190325": 82,
+      "gas:candidate-vibid:1001000217912": 32,
+      "gas:candidate-vibid:1001000136033": 73,
+      "gas:candidate-vibid:327300266723": 208,
+      "gas:candidate-vibid:1001000193908": 23,
+      "gas:candidate-vibid:1001000121828": 41,
+      "gas:candidate-vibid:327300267014": 20,
+      "special:against-all": 258
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",
@@ -13803,16 +13803,16 @@ export const duma_2003_uik_428_region_27_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Баржанов Андрей Алексеевич": 19,
-      "Вовк Михаил Федорович": 106,
-      "Жуков Константин Анатольевич": 16,
-      "Михальцов Вячеслав Геннадьевич": 13,
-      "Разуванов Леонид Михайлович": 41,
-      "Резник Борис Львович": 341,
-      "Сайков Виктор Владимирович": 9,
-      "Титоренко Владимир Федорович": 40,
-      "Фирциков Олег Олегович": 5,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000113919": 19,
+      "gas:candidate-vibid:1001000112202": 106,
+      "gas:candidate-vibid:1001000190325": 16,
+      "gas:candidate-vibid:1001000217912": 13,
+      "gas:candidate-vibid:1001000136033": 41,
+      "gas:candidate-vibid:327300266723": 341,
+      "gas:candidate-vibid:1001000193908": 9,
+      "gas:candidate-vibid:1001000121828": 40,
+      "gas:candidate-vibid:327300267014": 5,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=273002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=327300266682&region=0&sub_region=0&type=429",

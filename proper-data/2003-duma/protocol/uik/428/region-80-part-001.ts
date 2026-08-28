@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 19,
-      "Доржиев Баир Доржиевич": 42,
-      "Иванов Александр Борисович": 6,
-      "Кобзон Иосиф Давыдович": 481,
-      "Суходаев Лубсан Раднаевич": 3,
-      "Тумунбаяров Доржо": 11,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000112289": 19,
+      "gas:candidate-vibid:280200067009": 42,
+      "gas:candidate-vibid:280200066816": 6,
+      "gas:candidate-vibid:280200067016": 481,
+      "gas:candidate-vibid:1001000136169": 3,
+      "gas:candidate-vibid:1001000121951": 11,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 21,
-      "Доржиев Баир Доржиевич": 102,
-      "Иванов Александр Борисович": 7,
-      "Кобзон Иосиф Давыдович": 661,
-      "Суходаев Лубсан Раднаевич": 8,
-      "Тумунбаяров Доржо": 34,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112289": 21,
+      "gas:candidate-vibid:280200067009": 102,
+      "gas:candidate-vibid:280200066816": 7,
+      "gas:candidate-vibid:280200067016": 661,
+      "gas:candidate-vibid:1001000136169": 8,
+      "gas:candidate-vibid:1001000121951": 34,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 46,
-      "Доржиев Баир Доржиевич": 131,
-      "Иванов Александр Борисович": 7,
-      "Кобзон Иосиф Давыдович": 1020,
-      "Суходаев Лубсан Раднаевич": 14,
-      "Тумунбаяров Доржо": 30,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112289": 46,
+      "gas:candidate-vibid:280200067009": 131,
+      "gas:candidate-vibid:280200066816": 7,
+      "gas:candidate-vibid:280200067016": 1020,
+      "gas:candidate-vibid:1001000136169": 14,
+      "gas:candidate-vibid:1001000121951": 30,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 49,
-      "Доржиев Баир Доржиевич": 49,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 494,
-      "Суходаев Лубсан Раднаевич": 3,
-      "Тумунбаяров Доржо": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 49,
+      "gas:candidate-vibid:280200067009": 49,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 494,
+      "gas:candidate-vibid:1001000136169": 3,
+      "gas:candidate-vibid:1001000121951": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 18,
-      "Доржиев Баир Доржиевич": 37,
-      "Иванов Александр Борисович": 7,
-      "Кобзон Иосиф Давыдович": 315,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 27,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112289": 18,
+      "gas:candidate-vibid:280200067009": 37,
+      "gas:candidate-vibid:280200066816": 7,
+      "gas:candidate-vibid:280200067016": 315,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 27,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 9,
-      "Доржиев Баир Доржиевич": 14,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 156,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 9,
+      "gas:candidate-vibid:280200067009": 14,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 156,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 20,
-      "Доржиев Баир Доржиевич": 8,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 578,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 10,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 20,
+      "gas:candidate-vibid:280200067009": 8,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 578,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 10,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 1,
-      "Доржиев Баир Доржиевич": 0,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 121,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 1,
+      "gas:candidate-vibid:280200067009": 0,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 121,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 15,
-      "Доржиев Баир Доржиевич": 52,
-      "Иванов Александр Борисович": 5,
-      "Кобзон Иосиф Давыдович": 622,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 13,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112289": 15,
+      "gas:candidate-vibid:280200067009": 52,
+      "gas:candidate-vibid:280200066816": 5,
+      "gas:candidate-vibid:280200067016": 622,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 13,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 17,
-      "Доржиев Баир Доржиевич": 67,
-      "Иванов Александр Борисович": 3,
-      "Кобзон Иосиф Давыдович": 773,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 21,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112289": 17,
+      "gas:candidate-vibid:280200067009": 67,
+      "gas:candidate-vibid:280200066816": 3,
+      "gas:candidate-vibid:280200067016": 773,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 21,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 57,
-      "Доржиев Баир Доржиевич": 80,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 475,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 11,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112289": 57,
+      "gas:candidate-vibid:280200067009": 80,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 475,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 11,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 12,
-      "Доржиев Баир Доржиевич": 24,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 259,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112289": 12,
+      "gas:candidate-vibid:280200067009": 24,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 259,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 20,
-      "Доржиев Баир Доржиевич": 18,
-      "Иванов Александр Борисович": 4,
-      "Кобзон Иосиф Давыдович": 495,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 7,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112289": 20,
+      "gas:candidate-vibid:280200067009": 18,
+      "gas:candidate-vibid:280200066816": 4,
+      "gas:candidate-vibid:280200067016": 495,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 7,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 5,
-      "Доржиев Баир Доржиевич": 36,
-      "Иванов Александр Борисович": 6,
-      "Кобзон Иосиф Давыдович": 446,
-      "Суходаев Лубсан Раднаевич": 2,
-      "Тумунбаяров Доржо": 8,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112289": 5,
+      "gas:candidate-vibid:280200067009": 36,
+      "gas:candidate-vibid:280200066816": 6,
+      "gas:candidate-vibid:280200067016": 446,
+      "gas:candidate-vibid:1001000136169": 2,
+      "gas:candidate-vibid:1001000121951": 8,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 20,
-      "Доржиев Баир Доржиевич": 29,
-      "Иванов Александр Борисович": 17,
-      "Кобзон Иосиф Давыдович": 302,
-      "Суходаев Лубсан Раднаевич": 7,
-      "Тумунбаяров Доржо": 15,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000112289": 20,
+      "gas:candidate-vibid:280200067009": 29,
+      "gas:candidate-vibid:280200066816": 17,
+      "gas:candidate-vibid:280200067016": 302,
+      "gas:candidate-vibid:1001000136169": 7,
+      "gas:candidate-vibid:1001000121951": 15,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 10,
-      "Доржиев Баир Доржиевич": 14,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 564,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 23,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000112289": 10,
+      "gas:candidate-vibid:280200067009": 14,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 564,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 23,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 53,
-      "Доржиев Баир Доржиевич": 49,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 398,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 43,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112289": 53,
+      "gas:candidate-vibid:280200067009": 49,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 398,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 43,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 54,
-      "Доржиев Баир Доржиевич": 36,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 459,
-      "Суходаев Лубсан Раднаевич": 2,
-      "Тумунбаяров Доржо": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112289": 54,
+      "gas:candidate-vibid:280200067009": 36,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 459,
+      "gas:candidate-vibid:1001000136169": 2,
+      "gas:candidate-vibid:1001000121951": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 22,
-      "Доржиев Баир Доржиевич": 13,
-      "Иванов Александр Борисович": 32,
-      "Кобзон Иосиф Давыдович": 235,
-      "Суходаев Лубсан Раднаевич": 8,
-      "Тумунбаяров Доржо": 5,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000112289": 22,
+      "gas:candidate-vibid:280200067009": 13,
+      "gas:candidate-vibid:280200066816": 32,
+      "gas:candidate-vibid:280200067016": 235,
+      "gas:candidate-vibid:1001000136169": 8,
+      "gas:candidate-vibid:1001000121951": 5,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 35,
-      "Доржиев Баир Доржиевич": 22,
-      "Иванов Александр Борисович": 21,
-      "Кобзон Иосиф Давыдович": 467,
-      "Суходаев Лубсан Раднаевич": 11,
-      "Тумунбаяров Доржо": 8,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000112289": 35,
+      "gas:candidate-vibid:280200067009": 22,
+      "gas:candidate-vibid:280200066816": 21,
+      "gas:candidate-vibid:280200067016": 467,
+      "gas:candidate-vibid:1001000136169": 11,
+      "gas:candidate-vibid:1001000121951": 8,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 2,
-      "Доржиев Баир Доржиевич": 0,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 80,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112289": 2,
+      "gas:candidate-vibid:280200067009": 0,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 80,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 3,
-      "Доржиев Баир Доржиевич": 4,
-      "Иванов Александр Борисович": 7,
-      "Кобзон Иосиф Давыдович": 272,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112289": 3,
+      "gas:candidate-vibid:280200067009": 4,
+      "gas:candidate-vibid:280200066816": 7,
+      "gas:candidate-vibid:280200067016": 272,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066812&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 4,
-      "Доржиев Баир Доржиевич": 44,
-      "Иванов Александр Борисович": 3,
-      "Кобзон Иосиф Давыдович": 440,
-      "Суходаев Лубсан Раднаевич": 6,
-      "Тумунбаяров Доржо": 14,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000112289": 4,
+      "gas:candidate-vibid:280200067009": 44,
+      "gas:candidate-vibid:280200066816": 3,
+      "gas:candidate-vibid:280200067016": 440,
+      "gas:candidate-vibid:1001000136169": 6,
+      "gas:candidate-vibid:1001000121951": 14,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 3,
-      "Доржиев Баир Доржиевич": 89,
-      "Иванов Александр Борисович": 5,
-      "Кобзон Иосиф Давыдович": 612,
-      "Суходаев Лубсан Раднаевич": 4,
-      "Тумунбаяров Доржо": 12,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112289": 3,
+      "gas:candidate-vibid:280200067009": 89,
+      "gas:candidate-vibid:280200066816": 5,
+      "gas:candidate-vibid:280200067016": 612,
+      "gas:candidate-vibid:1001000136169": 4,
+      "gas:candidate-vibid:1001000121951": 12,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 9,
-      "Доржиев Баир Доржиевич": 108,
-      "Иванов Александр Борисович": 6,
-      "Кобзон Иосиф Давыдович": 1038,
-      "Суходаев Лубсан Раднаевич": 9,
-      "Тумунбаяров Доржо": 36,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000112289": 9,
+      "gas:candidate-vibid:280200067009": 108,
+      "gas:candidate-vibid:280200066816": 6,
+      "gas:candidate-vibid:280200067016": 1038,
+      "gas:candidate-vibid:1001000136169": 9,
+      "gas:candidate-vibid:1001000121951": 36,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 0,
-      "Доржиев Баир Доржиевич": 37,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 494,
-      "Суходаев Лубсан Раднаевич": 3,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112289": 0,
+      "gas:candidate-vibid:280200067009": 37,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 494,
+      "gas:candidate-vibid:1001000136169": 3,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 2,
-      "Доржиев Баир Доржиевич": 31,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 141,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112289": 2,
+      "gas:candidate-vibid:280200067009": 31,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 141,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 0,
-      "Доржиев Баир Доржиевич": 19,
-      "Иванов Александр Борисович": 6,
-      "Кобзон Иосиф Давыдович": 358,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 9,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112289": 0,
+      "gas:candidate-vibid:280200067009": 19,
+      "gas:candidate-vibid:280200066816": 6,
+      "gas:candidate-vibid:280200067016": 358,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 9,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 0,
-      "Доржиев Баир Доржиевич": 13,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 119,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112289": 0,
+      "gas:candidate-vibid:280200067009": 13,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 119,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 1,
-      "Доржиев Баир Доржиевич": 14,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 168,
-      "Суходаев Лубсан Раднаевич": 3,
-      "Тумунбаяров Доржо": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 1,
+      "gas:candidate-vibid:280200067009": 14,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 168,
+      "gas:candidate-vibid:1001000136169": 3,
+      "gas:candidate-vibid:1001000121951": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 9,
-      "Доржиев Баир Доржиевич": 62,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 336,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 9,
+      "gas:candidate-vibid:280200067009": 62,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 336,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 3,
-      "Доржиев Баир Доржиевич": 77,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 768,
-      "Суходаев Лубсан Раднаевич": 6,
-      "Тумунбаяров Доржо": 8,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112289": 3,
+      "gas:candidate-vibid:280200067009": 77,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 768,
+      "gas:candidate-vibid:1001000136169": 6,
+      "gas:candidate-vibid:1001000121951": 8,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 6,
-      "Доржиев Баир Доржиевич": 21,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 492,
-      "Суходаев Лубсан Раднаевич": 2,
-      "Тумунбаяров Доржо": 4,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 6,
+      "gas:candidate-vibid:280200067009": 21,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 492,
+      "gas:candidate-vibid:1001000136169": 2,
+      "gas:candidate-vibid:1001000121951": 4,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 6,
-      "Доржиев Баир Доржиевич": 54,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 425,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112289": 6,
+      "gas:candidate-vibid:280200067009": 54,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 425,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 2,
-      "Доржиев Баир Доржиевич": 199,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 406,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 3,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 2,
+      "gas:candidate-vibid:280200067009": 199,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 406,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 3,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066813&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 10,
-      "Доржиев Баир Доржиевич": 158,
-      "Иванов Александр Борисович": 7,
-      "Кобзон Иосиф Давыдович": 769,
-      "Суходаев Лубсан Раднаевич": 26,
-      "Тумунбаяров Доржо": 26,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000112289": 10,
+      "gas:candidate-vibid:280200067009": 158,
+      "gas:candidate-vibid:280200066816": 7,
+      "gas:candidate-vibid:280200067016": 769,
+      "gas:candidate-vibid:1001000136169": 26,
+      "gas:candidate-vibid:1001000121951": 26,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 24,
-      "Доржиев Баир Доржиевич": 193,
-      "Иванов Александр Борисович": 5,
-      "Кобзон Иосиф Давыдович": 1163,
-      "Суходаев Лубсан Раднаевич": 29,
-      "Тумунбаяров Доржо": 25,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112289": 24,
+      "gas:candidate-vibid:280200067009": 193,
+      "gas:candidate-vibid:280200066816": 5,
+      "gas:candidate-vibid:280200067016": 1163,
+      "gas:candidate-vibid:1001000136169": 29,
+      "gas:candidate-vibid:1001000121951": 25,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 9,
-      "Доржиев Баир Доржиевич": 126,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 554,
-      "Суходаев Лубсан Раднаевич": 12,
-      "Тумунбаяров Доржо": 6,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112289": 9,
+      "gas:candidate-vibid:280200067009": 126,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 554,
+      "gas:candidate-vibid:1001000136169": 12,
+      "gas:candidate-vibid:1001000121951": 6,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 10,
-      "Доржиев Баир Доржиевич": 187,
-      "Иванов Александр Борисович": 5,
-      "Кобзон Иосиф Давыдович": 894,
-      "Суходаев Лубсан Раднаевич": 56,
-      "Тумунбаяров Доржо": 20,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000112289": 10,
+      "gas:candidate-vibid:280200067009": 187,
+      "gas:candidate-vibid:280200066816": 5,
+      "gas:candidate-vibid:280200067016": 894,
+      "gas:candidate-vibid:1001000136169": 56,
+      "gas:candidate-vibid:1001000121951": 20,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 2,
-      "Доржиев Баир Доржиевич": 63,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 621,
-      "Суходаев Лубсан Раднаевич": 4,
-      "Тумунбаяров Доржо": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000112289": 2,
+      "gas:candidate-vibid:280200067009": 63,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 621,
+      "gas:candidate-vibid:1001000136169": 4,
+      "gas:candidate-vibid:1001000121951": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 2,
-      "Доржиев Баир Доржиевич": 57,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 311,
-      "Суходаев Лубсан Раднаевич": 3,
-      "Тумунбаяров Доржо": 12,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112289": 2,
+      "gas:candidate-vibid:280200067009": 57,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 311,
+      "gas:candidate-vibid:1001000136169": 3,
+      "gas:candidate-vibid:1001000121951": 12,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 4,
-      "Доржиев Баир Доржиевич": 39,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 335,
-      "Суходаев Лубсан Раднаевич": 2,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 4,
+      "gas:candidate-vibid:280200067009": 39,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 335,
+      "gas:candidate-vibid:1001000136169": 2,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 3,
-      "Доржиев Баир Доржиевич": 47,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 374,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 3,
+      "gas:candidate-vibid:280200067009": 47,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 374,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 3,
-      "Доржиев Баир Доржиевич": 40,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 406,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 5,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 3,
+      "gas:candidate-vibid:280200067009": 40,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 406,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 5,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 4,
-      "Доржиев Баир Доржиевич": 80,
-      "Иванов Александр Борисович": 2,
-      "Кобзон Иосиф Давыдович": 453,
-      "Суходаев Лубсан Раднаевич": 2,
-      "Тумунбаяров Доржо": 7,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112289": 4,
+      "gas:candidate-vibid:280200067009": 80,
+      "gas:candidate-vibid:280200066816": 2,
+      "gas:candidate-vibid:280200067016": 453,
+      "gas:candidate-vibid:1001000136169": 2,
+      "gas:candidate-vibid:1001000121951": 7,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 0,
-      "Доржиев Баир Доржиевич": 8,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 112,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 0,
+      "gas:candidate-vibid:280200067009": 8,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 112,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 0,
-      "Доржиев Баир Доржиевич": 1,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 90,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 0,
+      "gas:candidate-vibid:280200067009": 1,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 90,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 23,
-      "Доржиев Баир Доржиевич": 42,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 569,
-      "Суходаев Лубсан Раднаевич": 13,
-      "Тумунбаяров Доржо": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000112289": 23,
+      "gas:candidate-vibid:280200067009": 42,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 569,
+      "gas:candidate-vibid:1001000136169": 13,
+      "gas:candidate-vibid:1001000121951": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 14,
-      "Доржиев Баир Доржиевич": 78,
-      "Иванов Александр Борисович": 0,
-      "Кобзон Иосиф Давыдович": 520,
-      "Суходаев Лубсан Раднаевич": 8,
-      "Тумунбаяров Доржо": 4,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112289": 14,
+      "gas:candidate-vibid:280200067009": 78,
+      "gas:candidate-vibid:280200066816": 0,
+      "gas:candidate-vibid:280200067016": 520,
+      "gas:candidate-vibid:1001000136169": 8,
+      "gas:candidate-vibid:1001000121951": 4,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 2,
-      "Доржиев Баир Доржиевич": 58,
-      "Иванов Александр Борисович": 3,
-      "Кобзон Иосиф Давыдович": 420,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112289": 2,
+      "gas:candidate-vibid:280200067009": 58,
+      "gas:candidate-vibid:280200066816": 3,
+      "gas:candidate-vibid:280200067016": 420,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 8,
-      "Доржиев Баир Доржиевич": 43,
-      "Иванов Александр Борисович": 3,
-      "Кобзон Иосиф Давыдович": 328,
-      "Суходаев Лубсан Раднаевич": 0,
-      "Тумунбаяров Доржо": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000112289": 8,
+      "gas:candidate-vibid:280200067009": 43,
+      "gas:candidate-vibid:280200066816": 3,
+      "gas:candidate-vibid:280200067016": 328,
+      "gas:candidate-vibid:1001000136169": 0,
+      "gas:candidate-vibid:1001000121951": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 11,
-      "Доржиев Баир Доржиевич": 35,
-      "Иванов Александр Борисович": 3,
-      "Кобзон Иосиф Давыдович": 458,
-      "Суходаев Лубсан Раднаевич": 12,
-      "Тумунбаяров Доржо": 6,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000112289": 11,
+      "gas:candidate-vibid:280200067009": 35,
+      "gas:candidate-vibid:280200066816": 3,
+      "gas:candidate-vibid:280200067016": 458,
+      "gas:candidate-vibid:1001000136169": 12,
+      "gas:candidate-vibid:1001000121951": 6,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 11,
-      "Доржиев Баир Доржиевич": 28,
-      "Иванов Александр Борисович": 15,
-      "Кобзон Иосиф Давыдович": 463,
-      "Суходаев Лубсан Раднаевич": 9,
-      "Тумунбаяров Доржо": 30,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000112289": 11,
+      "gas:candidate-vibid:280200067009": 28,
+      "gas:candidate-vibid:280200066816": 15,
+      "gas:candidate-vibid:280200067016": 463,
+      "gas:candidate-vibid:1001000136169": 9,
+      "gas:candidate-vibid:1001000121951": 30,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 5,
-      "Доржиев Баир Доржиевич": 19,
-      "Иванов Александр Борисович": 1,
-      "Кобзон Иосиф Давыдович": 169,
-      "Суходаев Лубсан Раднаевич": 4,
-      "Тумунбаяров Доржо": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000112289": 5,
+      "gas:candidate-vibid:280200067009": 19,
+      "gas:candidate-vibid:280200066816": 1,
+      "gas:candidate-vibid:280200067016": 169,
+      "gas:candidate-vibid:1001000136169": 4,
+      "gas:candidate-vibid:1001000121951": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 4,
-      "Доржиев Баир Доржиевич": 9,
-      "Иванов Александр Борисович": 8,
-      "Кобзон Иосиф Давыдович": 148,
-      "Суходаев Лубсан Раднаевич": 1,
-      "Тумунбаяров Доржо": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000112289": 4,
+      "gas:candidate-vibid:280200067009": 9,
+      "gas:candidate-vibid:280200066816": 8,
+      "gas:candidate-vibid:280200067016": 148,
+      "gas:candidate-vibid:1001000136169": 1,
+      "gas:candidate-vibid:1001000121951": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_80_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Дамдинов Цырендоржи Цыбендоржиевич": 16,
-      "Доржиев Баир Доржиевич": 147,
-      "Иванов Александр Борисович": 22,
-      "Кобзон Иосиф Давыдович": 910,
-      "Суходаев Лубсан Раднаевич": 4,
-      "Тумунбаяров Доржо": 23,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000112289": 16,
+      "gas:candidate-vibid:280200067009": 147,
+      "gas:candidate-vibid:280200066816": 22,
+      "gas:candidate-vibid:280200067016": 910,
+      "gas:candidate-vibid:1001000136169": 4,
+      "gas:candidate-vibid:1001000121951": 23,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=802000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=280200066814&region=0&sub_region=0&type=429",

@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 459,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 39,
-      "Ривкин Феликс Моисеевич": 35,
-      "Сизов Денис Васильевич": 92,
-      "Скоморохова Римма Вениаминовна": 99,
-      "Черешнев Валерий Александрович": 171,
-      "Шабанов Владимир Геннадьевич": 46
+      "gas:candidate-vibid:4664011175274": 459,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 39,
+      "gas:candidate-vibid:4664011175435": 35,
+      "gas:candidate-vibid:4664011155903": 92,
+      "gas:candidate-vibid:4664011175362": 99,
+      "gas:candidate-vibid:4664011175537": 171,
+      "gas:candidate-vibid:4664011175296": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 389,
-      "Гаев Денис Владимирович": 27,
-      "Зайцев Сергей Михайлович": 36,
-      "Ривкин Феликс Моисеевич": 28,
-      "Сизов Денис Васильевич": 94,
-      "Скоморохова Римма Вениаминовна": 137,
-      "Черешнев Валерий Александрович": 207,
-      "Шабанов Владимир Геннадьевич": 47
+      "gas:candidate-vibid:4664011175274": 389,
+      "gas:candidate-vibid:4664011175458": 27,
+      "gas:candidate-vibid:4664011156129": 36,
+      "gas:candidate-vibid:4664011175435": 28,
+      "gas:candidate-vibid:4664011155903": 94,
+      "gas:candidate-vibid:4664011175362": 137,
+      "gas:candidate-vibid:4664011175537": 207,
+      "gas:candidate-vibid:4664011175296": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 310,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 29,
-      "Ривкин Феликс Моисеевич": 21,
-      "Сизов Денис Васильевич": 87,
-      "Скоморохова Римма Вениаминовна": 85,
-      "Черешнев Валерий Александрович": 184,
-      "Шабанов Владимир Геннадьевич": 26
+      "gas:candidate-vibid:4664011175274": 310,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 29,
+      "gas:candidate-vibid:4664011175435": 21,
+      "gas:candidate-vibid:4664011155903": 87,
+      "gas:candidate-vibid:4664011175362": 85,
+      "gas:candidate-vibid:4664011175537": 184,
+      "gas:candidate-vibid:4664011175296": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 463,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 32,
-      "Ривкин Феликс Моисеевич": 26,
-      "Сизов Денис Васильевич": 99,
-      "Скоморохова Римма Вениаминовна": 86,
-      "Черешнев Валерий Александрович": 205,
-      "Шабанов Владимир Геннадьевич": 32
+      "gas:candidate-vibid:4664011175274": 463,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 32,
+      "gas:candidate-vibid:4664011175435": 26,
+      "gas:candidate-vibid:4664011155903": 99,
+      "gas:candidate-vibid:4664011175362": 86,
+      "gas:candidate-vibid:4664011175537": 205,
+      "gas:candidate-vibid:4664011175296": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 304,
-      "Гаев Денис Владимирович": 31,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 89,
-      "Скоморохова Римма Вениаминовна": 98,
-      "Черешнев Валерий Александрович": 67,
-      "Шабанов Владимир Геннадьевич": 28
+      "gas:candidate-vibid:4664011175274": 304,
+      "gas:candidate-vibid:4664011175458": 31,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 89,
+      "gas:candidate-vibid:4664011175362": 98,
+      "gas:candidate-vibid:4664011175537": 67,
+      "gas:candidate-vibid:4664011175296": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 497,
-      "Гаев Денис Владимирович": 33,
-      "Зайцев Сергей Михайлович": 43,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 111,
-      "Скоморохова Римма Вениаминовна": 94,
-      "Черешнев Валерий Александрович": 169,
-      "Шабанов Владимир Геннадьевич": 38
+      "gas:candidate-vibid:4664011175274": 497,
+      "gas:candidate-vibid:4664011175458": 33,
+      "gas:candidate-vibid:4664011156129": 43,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 111,
+      "gas:candidate-vibid:4664011175362": 94,
+      "gas:candidate-vibid:4664011175537": 169,
+      "gas:candidate-vibid:4664011175296": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 405,
-      "Гаев Денис Владимирович": 18,
-      "Зайцев Сергей Михайлович": 32,
-      "Ривкин Феликс Моисеевич": 20,
-      "Сизов Денис Васильевич": 101,
-      "Скоморохова Римма Вениаминовна": 80,
-      "Черешнев Валерий Александрович": 118,
-      "Шабанов Владимир Геннадьевич": 27
+      "gas:candidate-vibid:4664011175274": 405,
+      "gas:candidate-vibid:4664011175458": 18,
+      "gas:candidate-vibid:4664011156129": 32,
+      "gas:candidate-vibid:4664011175435": 20,
+      "gas:candidate-vibid:4664011155903": 101,
+      "gas:candidate-vibid:4664011175362": 80,
+      "gas:candidate-vibid:4664011175537": 118,
+      "gas:candidate-vibid:4664011175296": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 555,
-      "Гаев Денис Владимирович": 55,
-      "Зайцев Сергей Михайлович": 96,
-      "Ривкин Феликс Моисеевич": 41,
-      "Сизов Денис Васильевич": 168,
-      "Скоморохова Римма Вениаминовна": 109,
-      "Черешнев Валерий Александрович": 115,
-      "Шабанов Владимир Геннадьевич": 49
+      "gas:candidate-vibid:4664011175274": 555,
+      "gas:candidate-vibid:4664011175458": 55,
+      "gas:candidate-vibid:4664011156129": 96,
+      "gas:candidate-vibid:4664011175435": 41,
+      "gas:candidate-vibid:4664011155903": 168,
+      "gas:candidate-vibid:4664011175362": 109,
+      "gas:candidate-vibid:4664011175537": 115,
+      "gas:candidate-vibid:4664011175296": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 471,
-      "Гаев Денис Владимирович": 47,
-      "Зайцев Сергей Михайлович": 52,
-      "Ривкин Феликс Моисеевич": 19,
-      "Сизов Денис Васильевич": 163,
-      "Скоморохова Римма Вениаминовна": 127,
-      "Черешнев Валерий Александрович": 145,
-      "Шабанов Владимир Геннадьевич": 41
+      "gas:candidate-vibid:4664011175274": 471,
+      "gas:candidate-vibid:4664011175458": 47,
+      "gas:candidate-vibid:4664011156129": 52,
+      "gas:candidate-vibid:4664011175435": 19,
+      "gas:candidate-vibid:4664011155903": 163,
+      "gas:candidate-vibid:4664011175362": 127,
+      "gas:candidate-vibid:4664011175537": 145,
+      "gas:candidate-vibid:4664011175296": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 383,
-      "Гаев Денис Владимирович": 35,
-      "Зайцев Сергей Михайлович": 36,
-      "Ривкин Феликс Моисеевич": 39,
-      "Сизов Денис Васильевич": 109,
-      "Скоморохова Римма Вениаминовна": 103,
-      "Черешнев Валерий Александрович": 220,
-      "Шабанов Владимир Геннадьевич": 36
+      "gas:candidate-vibid:4664011175274": 383,
+      "gas:candidate-vibid:4664011175458": 35,
+      "gas:candidate-vibid:4664011156129": 36,
+      "gas:candidate-vibid:4664011175435": 39,
+      "gas:candidate-vibid:4664011155903": 109,
+      "gas:candidate-vibid:4664011175362": 103,
+      "gas:candidate-vibid:4664011175537": 220,
+      "gas:candidate-vibid:4664011175296": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 176,
-      "Гаев Денис Владимирович": 13,
-      "Зайцев Сергей Михайлович": 21,
-      "Ривкин Феликс Моисеевич": 17,
-      "Сизов Денис Васильевич": 46,
-      "Скоморохова Римма Вениаминовна": 50,
-      "Черешнев Валерий Александрович": 57,
-      "Шабанов Владимир Геннадьевич": 14
+      "gas:candidate-vibid:4664011175274": 176,
+      "gas:candidate-vibid:4664011175458": 13,
+      "gas:candidate-vibid:4664011156129": 21,
+      "gas:candidate-vibid:4664011175435": 17,
+      "gas:candidate-vibid:4664011155903": 46,
+      "gas:candidate-vibid:4664011175362": 50,
+      "gas:candidate-vibid:4664011175537": 57,
+      "gas:candidate-vibid:4664011175296": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 41,
-      "Гаев Денис Владимирович": 4,
-      "Зайцев Сергей Михайлович": 1,
-      "Ривкин Феликс Моисеевич": 1,
-      "Сизов Денис Васильевич": 19,
-      "Скоморохова Римма Вениаминовна": 8,
-      "Черешнев Валерий Александрович": 8,
-      "Шабанов Владимир Геннадьевич": 1
+      "gas:candidate-vibid:4664011175274": 41,
+      "gas:candidate-vibid:4664011175458": 4,
+      "gas:candidate-vibid:4664011156129": 1,
+      "gas:candidate-vibid:4664011175435": 1,
+      "gas:candidate-vibid:4664011155903": 19,
+      "gas:candidate-vibid:4664011175362": 8,
+      "gas:candidate-vibid:4664011175537": 8,
+      "gas:candidate-vibid:4664011175296": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 286,
-      "Гаев Денис Владимирович": 18,
-      "Зайцев Сергей Михайлович": 13,
-      "Ривкин Феликс Моисеевич": 18,
-      "Сизов Денис Васильевич": 82,
-      "Скоморохова Римма Вениаминовна": 53,
-      "Черешнев Валерий Александрович": 137,
-      "Шабанов Владимир Геннадьевич": 30
+      "gas:candidate-vibid:4664011175274": 286,
+      "gas:candidate-vibid:4664011175458": 18,
+      "gas:candidate-vibid:4664011156129": 13,
+      "gas:candidate-vibid:4664011175435": 18,
+      "gas:candidate-vibid:4664011155903": 82,
+      "gas:candidate-vibid:4664011175362": 53,
+      "gas:candidate-vibid:4664011175537": 137,
+      "gas:candidate-vibid:4664011175296": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 67,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 9,
-      "Ривкин Феликс Моисеевич": 5,
-      "Сизов Денис Васильевич": 20,
-      "Скоморохова Римма Вениаминовна": 28,
-      "Черешнев Валерий Александрович": 26,
-      "Шабанов Владимир Геннадьевич": 7
+      "gas:candidate-vibid:4664011175274": 67,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 9,
+      "gas:candidate-vibid:4664011175435": 5,
+      "gas:candidate-vibid:4664011155903": 20,
+      "gas:candidate-vibid:4664011175362": 28,
+      "gas:candidate-vibid:4664011175537": 26,
+      "gas:candidate-vibid:4664011175296": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 222,
-      "Гаев Денис Владимирович": 15,
-      "Зайцев Сергей Михайлович": 30,
-      "Ривкин Феликс Моисеевич": 10,
-      "Сизов Денис Васильевич": 61,
-      "Скоморохова Римма Вениаминовна": 45,
-      "Черешнев Валерий Александрович": 88,
-      "Шабанов Владимир Геннадьевич": 18
+      "gas:candidate-vibid:4664011175274": 222,
+      "gas:candidate-vibid:4664011175458": 15,
+      "gas:candidate-vibid:4664011156129": 30,
+      "gas:candidate-vibid:4664011175435": 10,
+      "gas:candidate-vibid:4664011155903": 61,
+      "gas:candidate-vibid:4664011175362": 45,
+      "gas:candidate-vibid:4664011175537": 88,
+      "gas:candidate-vibid:4664011175296": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 84,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 15,
-      "Ривкин Феликс Моисеевич": 2,
-      "Сизов Денис Васильевич": 18,
-      "Скоморохова Римма Вениаминовна": 19,
-      "Черешнев Валерий Александрович": 28,
-      "Шабанов Владимир Геннадьевич": 5
+      "gas:candidate-vibid:4664011175274": 84,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 15,
+      "gas:candidate-vibid:4664011175435": 2,
+      "gas:candidate-vibid:4664011155903": 18,
+      "gas:candidate-vibid:4664011175362": 19,
+      "gas:candidate-vibid:4664011175537": 28,
+      "gas:candidate-vibid:4664011175296": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 244,
-      "Гаев Денис Владимирович": 12,
-      "Зайцев Сергей Михайлович": 33,
-      "Ривкин Феликс Моисеевич": 14,
-      "Сизов Денис Васильевич": 90,
-      "Скоморохова Римма Вениаминовна": 57,
-      "Черешнев Валерий Александрович": 42,
-      "Шабанов Владимир Геннадьевич": 20
+      "gas:candidate-vibid:4664011175274": 244,
+      "gas:candidate-vibid:4664011175458": 12,
+      "gas:candidate-vibid:4664011156129": 33,
+      "gas:candidate-vibid:4664011175435": 14,
+      "gas:candidate-vibid:4664011155903": 90,
+      "gas:candidate-vibid:4664011175362": 57,
+      "gas:candidate-vibid:4664011175537": 42,
+      "gas:candidate-vibid:4664011175296": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 27,
-      "Гаев Денис Владимирович": 1,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 3,
-      "Сизов Денис Васильевич": 4,
-      "Скоморохова Римма Вениаминовна": 4,
-      "Черешнев Валерий Александрович": 4,
-      "Шабанов Владимир Геннадьевич": 2
+      "gas:candidate-vibid:4664011175274": 27,
+      "gas:candidate-vibid:4664011175458": 1,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 3,
+      "gas:candidate-vibid:4664011155903": 4,
+      "gas:candidate-vibid:4664011175362": 4,
+      "gas:candidate-vibid:4664011175537": 4,
+      "gas:candidate-vibid:4664011175296": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 341,
-      "Гаев Денис Владимирович": 22,
-      "Зайцев Сергей Михайлович": 44,
-      "Ривкин Феликс Моисеевич": 25,
-      "Сизов Денис Васильевич": 97,
-      "Скоморохова Римма Вениаминовна": 73,
-      "Черешнев Валерий Александрович": 83,
-      "Шабанов Владимир Геннадьевич": 34
+      "gas:candidate-vibid:4664011175274": 341,
+      "gas:candidate-vibid:4664011175458": 22,
+      "gas:candidate-vibid:4664011156129": 44,
+      "gas:candidate-vibid:4664011175435": 25,
+      "gas:candidate-vibid:4664011155903": 97,
+      "gas:candidate-vibid:4664011175362": 73,
+      "gas:candidate-vibid:4664011175537": 83,
+      "gas:candidate-vibid:4664011175296": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 52,
-      "Гаев Денис Владимирович": 7,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 6,
-      "Сизов Денис Васильевич": 13,
-      "Скоморохова Римма Вениаминовна": 15,
-      "Черешнев Валерий Александрович": 19,
-      "Шабанов Владимир Геннадьевич": 2
+      "gas:candidate-vibid:4664011175274": 52,
+      "gas:candidate-vibid:4664011175458": 7,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 6,
+      "gas:candidate-vibid:4664011155903": 13,
+      "gas:candidate-vibid:4664011175362": 15,
+      "gas:candidate-vibid:4664011175537": 19,
+      "gas:candidate-vibid:4664011175296": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 57,
-      "Гаев Денис Владимирович": 5,
-      "Зайцев Сергей Михайлович": 9,
-      "Ривкин Феликс Моисеевич": 1,
-      "Сизов Денис Васильевич": 18,
-      "Скоморохова Римма Вениаминовна": 20,
-      "Черешнев Валерий Александрович": 14,
-      "Шабанов Владимир Геннадьевич": 4
+      "gas:candidate-vibid:4664011175274": 57,
+      "gas:candidate-vibid:4664011175458": 5,
+      "gas:candidate-vibid:4664011156129": 9,
+      "gas:candidate-vibid:4664011175435": 1,
+      "gas:candidate-vibid:4664011155903": 18,
+      "gas:candidate-vibid:4664011175362": 20,
+      "gas:candidate-vibid:4664011175537": 14,
+      "gas:candidate-vibid:4664011175296": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 61,
-      "Гаев Денис Владимирович": 10,
-      "Зайцев Сергей Михайлович": 10,
-      "Ривкин Феликс Моисеевич": 10,
-      "Сизов Денис Васильевич": 26,
-      "Скоморохова Римма Вениаминовна": 32,
-      "Черешнев Валерий Александрович": 14,
-      "Шабанов Владимир Геннадьевич": 12
+      "gas:candidate-vibid:4664011175274": 61,
+      "gas:candidate-vibid:4664011175458": 10,
+      "gas:candidate-vibid:4664011156129": 10,
+      "gas:candidate-vibid:4664011175435": 10,
+      "gas:candidate-vibid:4664011155903": 26,
+      "gas:candidate-vibid:4664011175362": 32,
+      "gas:candidate-vibid:4664011175537": 14,
+      "gas:candidate-vibid:4664011175296": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 22,
-      "Гаев Денис Владимирович": 4,
-      "Зайцев Сергей Михайлович": 9,
-      "Ривкин Феликс Моисеевич": 2,
-      "Сизов Денис Васильевич": 12,
-      "Скоморохова Римма Вениаминовна": 14,
-      "Черешнев Валерий Александрович": 4,
-      "Шабанов Владимир Геннадьевич": 5
+      "gas:candidate-vibid:4664011175274": 22,
+      "gas:candidate-vibid:4664011175458": 4,
+      "gas:candidate-vibid:4664011156129": 9,
+      "gas:candidate-vibid:4664011175435": 2,
+      "gas:candidate-vibid:4664011155903": 12,
+      "gas:candidate-vibid:4664011175362": 14,
+      "gas:candidate-vibid:4664011175537": 4,
+      "gas:candidate-vibid:4664011175296": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 227,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 31,
-      "Ривкин Феликс Моисеевич": 14,
-      "Сизов Денис Васильевич": 72,
-      "Скоморохова Римма Вениаминовна": 87,
-      "Черешнев Валерий Александрович": 58,
-      "Шабанов Владимир Геннадьевич": 15
+      "gas:candidate-vibid:4664011175274": 227,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 31,
+      "gas:candidate-vibid:4664011175435": 14,
+      "gas:candidate-vibid:4664011155903": 72,
+      "gas:candidate-vibid:4664011175362": 87,
+      "gas:candidate-vibid:4664011175537": 58,
+      "gas:candidate-vibid:4664011175296": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 76,
-      "Гаев Денис Владимирович": 1,
-      "Зайцев Сергей Михайлович": 3,
-      "Ривкин Феликс Моисеевич": 2,
-      "Сизов Денис Васильевич": 14,
-      "Скоморохова Римма Вениаминовна": 21,
-      "Черешнев Валерий Александрович": 15,
-      "Шабанов Владимир Геннадьевич": 5
+      "gas:candidate-vibid:4664011175274": 76,
+      "gas:candidate-vibid:4664011175458": 1,
+      "gas:candidate-vibid:4664011156129": 3,
+      "gas:candidate-vibid:4664011175435": 2,
+      "gas:candidate-vibid:4664011155903": 14,
+      "gas:candidate-vibid:4664011175362": 21,
+      "gas:candidate-vibid:4664011175537": 15,
+      "gas:candidate-vibid:4664011175296": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 256,
-      "Гаев Денис Владимирович": 12,
-      "Зайцев Сергей Михайлович": 14,
-      "Ривкин Феликс Моисеевич": 23,
-      "Сизов Денис Васильевич": 53,
-      "Скоморохова Римма Вениаминовна": 63,
-      "Черешнев Валерий Александрович": 95,
-      "Шабанов Владимир Геннадьевич": 19
+      "gas:candidate-vibid:4664011175274": 256,
+      "gas:candidate-vibid:4664011175458": 12,
+      "gas:candidate-vibid:4664011156129": 14,
+      "gas:candidate-vibid:4664011175435": 23,
+      "gas:candidate-vibid:4664011155903": 53,
+      "gas:candidate-vibid:4664011175362": 63,
+      "gas:candidate-vibid:4664011175537": 95,
+      "gas:candidate-vibid:4664011175296": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Альшевских Андрей Геннадьевич": 286,
-      "Гаев Денис Владимирович": 25,
-      "Зайцев Сергей Михайлович": 27,
-      "Ривкин Феликс Моисеевич": 22,
-      "Сизов Денис Васильевич": 73,
-      "Скоморохова Римма Вениаминовна": 79,
-      "Черешнев Валерий Александрович": 161,
-      "Шабанов Владимир Геннадьевич": 43
+      "gas:candidate-vibid:4664011175274": 286,
+      "gas:candidate-vibid:4664011175458": 25,
+      "gas:candidate-vibid:4664011156129": 27,
+      "gas:candidate-vibid:4664011175435": 22,
+      "gas:candidate-vibid:4664011155903": 73,
+      "gas:candidate-vibid:4664011175362": 79,
+      "gas:candidate-vibid:4664011175537": 161,
+      "gas:candidate-vibid:4664011175296": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000222&tvd=26620001732915&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732915&type=464",
@@ -1609,17 +1609,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 29,
-      "Иванов Валерий Фёдорович": 21,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 14,
-      "Ковпак Лев Игоревич": 112,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 39,
-      "Субботин Константин Сергеевич": 50
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 29,
+      "gas:candidate-vibid:4664057166866": 21,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 14,
+      "gas:candidate-vibid:4664057150762": 112,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 39,
+      "gas:candidate-vibid:4664057150261": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -1670,17 +1670,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 39,
-      "Головин Дмитрий Александрович": 21,
-      "Злыдников Юрий Петрович": 19,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 1,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 160,
-      "Коромыслов Анатолий Николаевич": 1,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 57,
-      "Субботин Константин Сергеевич": 55
+      "gas:candidate-vibid:4664057166854": 39,
+      "gas:candidate-vibid:4664057168399": 21,
+      "gas:candidate-vibid:4664057150561": 19,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 1,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 160,
+      "gas:candidate-vibid:4664057166974": 1,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 57,
+      "gas:candidate-vibid:4664057150261": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -1731,17 +1731,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 42,
-      "Головин Дмитрий Александрович": 7,
-      "Злыдников Юрий Петрович": 37,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 166,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 62,
-      "Субботин Константин Сергеевич": 75
+      "gas:candidate-vibid:4664057166854": 42,
+      "gas:candidate-vibid:4664057168399": 7,
+      "gas:candidate-vibid:4664057150561": 37,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 166,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 62,
+      "gas:candidate-vibid:4664057150261": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -1792,17 +1792,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 39,
-      "Головин Дмитрий Александрович": 20,
-      "Злыдников Юрий Петрович": 86,
-      "Иванов Валерий Фёдорович": 27,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 220,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 61,
-      "Субботин Константин Сергеевич": 65
+      "gas:candidate-vibid:4664057166854": 39,
+      "gas:candidate-vibid:4664057168399": 20,
+      "gas:candidate-vibid:4664057150561": 86,
+      "gas:candidate-vibid:4664057166866": 27,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 220,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 61,
+      "gas:candidate-vibid:4664057150261": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -1853,17 +1853,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 69,
-      "Головин Дмитрий Александрович": 15,
-      "Злыдников Юрий Петрович": 83,
-      "Иванов Валерий Фёдорович": 37,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 296,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 75,
-      "Субботин Константин Сергеевич": 91
+      "gas:candidate-vibid:4664057166854": 69,
+      "gas:candidate-vibid:4664057168399": 15,
+      "gas:candidate-vibid:4664057150561": 83,
+      "gas:candidate-vibid:4664057166866": 37,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 296,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 75,
+      "gas:candidate-vibid:4664057150261": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -1914,17 +1914,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 49,
-      "Головин Дмитрий Александрович": 18,
-      "Злыдников Юрий Петрович": 51,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 215,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 75,
-      "Субботин Константин Сергеевич": 81
+      "gas:candidate-vibid:4664057166854": 49,
+      "gas:candidate-vibid:4664057168399": 18,
+      "gas:candidate-vibid:4664057150561": 51,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 215,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 75,
+      "gas:candidate-vibid:4664057150261": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -1975,17 +1975,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 93,
-      "Головин Дмитрий Александрович": 25,
-      "Злыдников Юрий Петрович": 89,
-      "Иванов Валерий Фёдорович": 46,
-      "Иофе Лев Маркович": 22,
-      "Карашевич Константин Вячеславович": 42,
-      "Ковпак Лев Игоревич": 293,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 11,
-      "Парфенов Алексей Александрович": 75,
-      "Субботин Константин Сергеевич": 88
+      "gas:candidate-vibid:4664057166854": 93,
+      "gas:candidate-vibid:4664057168399": 25,
+      "gas:candidate-vibid:4664057150561": 89,
+      "gas:candidate-vibid:4664057166866": 46,
+      "gas:candidate-vibid:4664057166962": 22,
+      "gas:candidate-vibid:4664057150691": 42,
+      "gas:candidate-vibid:4664057150762": 293,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 11,
+      "gas:candidate-vibid:4664057167218": 75,
+      "gas:candidate-vibid:4664057150261": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2036,17 +2036,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 77,
-      "Головин Дмитрий Александрович": 25,
-      "Злыдников Юрий Петрович": 85,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 280,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 60,
-      "Субботин Константин Сергеевич": 83
+      "gas:candidate-vibid:4664057166854": 77,
+      "gas:candidate-vibid:4664057168399": 25,
+      "gas:candidate-vibid:4664057150561": 85,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 280,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 60,
+      "gas:candidate-vibid:4664057150261": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2097,17 +2097,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 56,
-      "Головин Дмитрий Александрович": 9,
-      "Злыдников Юрий Петрович": 70,
-      "Иванов Валерий Фёдорович": 20,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 16,
-      "Ковпак Лев Игоревич": 211,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 51,
-      "Субботин Константин Сергеевич": 51
+      "gas:candidate-vibid:4664057166854": 56,
+      "gas:candidate-vibid:4664057168399": 9,
+      "gas:candidate-vibid:4664057150561": 70,
+      "gas:candidate-vibid:4664057166866": 20,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 16,
+      "gas:candidate-vibid:4664057150762": 211,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 51,
+      "gas:candidate-vibid:4664057150261": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2158,17 +2158,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 52,
-      "Головин Дмитрий Александрович": 23,
-      "Злыдников Юрий Петрович": 57,
-      "Иванов Валерий Фёдорович": 41,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 210,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 62,
-      "Субботин Константин Сергеевич": 95
+      "gas:candidate-vibid:4664057166854": 52,
+      "gas:candidate-vibid:4664057168399": 23,
+      "gas:candidate-vibid:4664057150561": 57,
+      "gas:candidate-vibid:4664057166866": 41,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 210,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 62,
+      "gas:candidate-vibid:4664057150261": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2219,17 +2219,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 50,
-      "Головин Дмитрий Александрович": 19,
-      "Злыдников Юрий Петрович": 38,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 9,
-      "Ковпак Лев Игоревич": 174,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 31,
-      "Субботин Константин Сергеевич": 53
+      "gas:candidate-vibid:4664057166854": 50,
+      "gas:candidate-vibid:4664057168399": 19,
+      "gas:candidate-vibid:4664057150561": 38,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 9,
+      "gas:candidate-vibid:4664057150762": 174,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 31,
+      "gas:candidate-vibid:4664057150261": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2280,17 +2280,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 16,
-      "Головин Дмитрий Александрович": 5,
-      "Злыдников Юрий Петрович": 12,
-      "Иванов Валерий Фёдорович": 2,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 11,
-      "Ковпак Лев Игоревич": 91,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 11,
-      "Субботин Константин Сергеевич": 18
+      "gas:candidate-vibid:4664057166854": 16,
+      "gas:candidate-vibid:4664057168399": 5,
+      "gas:candidate-vibid:4664057150561": 12,
+      "gas:candidate-vibid:4664057166866": 2,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 11,
+      "gas:candidate-vibid:4664057150762": 91,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 11,
+      "gas:candidate-vibid:4664057150261": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2341,17 +2341,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 13,
-      "Головин Дмитрий Александрович": 4,
-      "Злыдников Юрий Петрович": 11,
-      "Иванов Валерий Фёдорович": 3,
-      "Иофе Лев Маркович": 1,
-      "Карашевич Константин Вячеславович": 7,
-      "Ковпак Лев Игоревич": 43,
-      "Коромыслов Анатолий Николаевич": 1,
-      "Пакулов Сергей Георгиевич": 1,
-      "Парфенов Алексей Александрович": 7,
-      "Субботин Константин Сергеевич": 16
+      "gas:candidate-vibid:4664057166854": 13,
+      "gas:candidate-vibid:4664057168399": 4,
+      "gas:candidate-vibid:4664057150561": 11,
+      "gas:candidate-vibid:4664057166866": 3,
+      "gas:candidate-vibid:4664057166962": 1,
+      "gas:candidate-vibid:4664057150691": 7,
+      "gas:candidate-vibid:4664057150762": 43,
+      "gas:candidate-vibid:4664057166974": 1,
+      "gas:candidate-vibid:4664057167183": 1,
+      "gas:candidate-vibid:4664057167218": 7,
+      "gas:candidate-vibid:4664057150261": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2402,17 +2402,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 73,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 78,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 246,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 9,
-      "Парфенов Алексей Александрович": 74,
-      "Субботин Константин Сергеевич": 89
+      "gas:candidate-vibid:4664057166854": 73,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 78,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 246,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 9,
+      "gas:candidate-vibid:4664057167218": 74,
+      "gas:candidate-vibid:4664057150261": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2463,17 +2463,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 63,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 37,
-      "Иванов Валерий Фёдорович": 18,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 191,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 34,
-      "Субботин Константин Сергеевич": 47
+      "gas:candidate-vibid:4664057166854": 63,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 37,
+      "gas:candidate-vibid:4664057166866": 18,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 191,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 34,
+      "gas:candidate-vibid:4664057150261": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2524,17 +2524,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 38,
-      "Головин Дмитрий Александрович": 14,
-      "Злыдников Юрий Петрович": 27,
-      "Иванов Валерий Фёдорович": 17,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 67,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 16,
-      "Субботин Константин Сергеевич": 30
+      "gas:candidate-vibid:4664057166854": 38,
+      "gas:candidate-vibid:4664057168399": 14,
+      "gas:candidate-vibid:4664057150561": 27,
+      "gas:candidate-vibid:4664057166866": 17,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 67,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 16,
+      "gas:candidate-vibid:4664057150261": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2585,17 +2585,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 38,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 28,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 12,
-      "Ковпак Лев Игоревич": 142,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 31,
-      "Субботин Константин Сергеевич": 38
+      "gas:candidate-vibid:4664057166854": 38,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 28,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 12,
+      "gas:candidate-vibid:4664057150762": 142,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 31,
+      "gas:candidate-vibid:4664057150261": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2646,17 +2646,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 69,
-      "Головин Дмитрий Александрович": 30,
-      "Злыдников Юрий Петрович": 69,
-      "Иванов Валерий Фёдорович": 38,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 311,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 48,
-      "Субботин Константин Сергеевич": 87
+      "gas:candidate-vibid:4664057166854": 69,
+      "gas:candidate-vibid:4664057168399": 30,
+      "gas:candidate-vibid:4664057150561": 69,
+      "gas:candidate-vibid:4664057166866": 38,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 311,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 48,
+      "gas:candidate-vibid:4664057150261": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2707,17 +2707,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 41,
-      "Головин Дмитрий Александрович": 8,
-      "Злыдников Юрий Петрович": 31,
-      "Иванов Валерий Фёдорович": 6,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 119,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 24,
-      "Субботин Константин Сергеевич": 33
+      "gas:candidate-vibid:4664057166854": 41,
+      "gas:candidate-vibid:4664057168399": 8,
+      "gas:candidate-vibid:4664057150561": 31,
+      "gas:candidate-vibid:4664057166866": 6,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 119,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 24,
+      "gas:candidate-vibid:4664057150261": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2768,17 +2768,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 35,
-      "Головин Дмитрий Александрович": 10,
-      "Злыдников Юрий Петрович": 25,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 170,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 28,
-      "Субботин Константин Сергеевич": 42
+      "gas:candidate-vibid:4664057166854": 35,
+      "gas:candidate-vibid:4664057168399": 10,
+      "gas:candidate-vibid:4664057150561": 25,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 170,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 28,
+      "gas:candidate-vibid:4664057150261": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2829,17 +2829,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 53,
-      "Головин Дмитрий Александрович": 15,
-      "Злыдников Юрий Петрович": 93,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 23,
-      "Карашевич Константин Вячеславович": 46,
-      "Ковпак Лев Игоревич": 295,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 67,
-      "Субботин Константин Сергеевич": 102
+      "gas:candidate-vibid:4664057166854": 53,
+      "gas:candidate-vibid:4664057168399": 15,
+      "gas:candidate-vibid:4664057150561": 93,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 23,
+      "gas:candidate-vibid:4664057150691": 46,
+      "gas:candidate-vibid:4664057150762": 295,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 67,
+      "gas:candidate-vibid:4664057150261": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2890,17 +2890,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 89,
-      "Головин Дмитрий Александрович": 9,
-      "Злыдников Юрий Петрович": 68,
-      "Иванов Валерий Фёдорович": 28,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 49,
-      "Ковпак Лев Игоревич": 283,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 83,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 89,
+      "gas:candidate-vibid:4664057168399": 9,
+      "gas:candidate-vibid:4664057150561": 68,
+      "gas:candidate-vibid:4664057166866": 28,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 49,
+      "gas:candidate-vibid:4664057150762": 283,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 83,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -2951,17 +2951,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 47,
-      "Головин Дмитрий Александрович": 26,
-      "Злыдников Юрий Петрович": 47,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 19,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 276,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 67,
-      "Субботин Константин Сергеевич": 83
+      "gas:candidate-vibid:4664057166854": 47,
+      "gas:candidate-vibid:4664057168399": 26,
+      "gas:candidate-vibid:4664057150561": 47,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 19,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 276,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 67,
+      "gas:candidate-vibid:4664057150261": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3012,17 +3012,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 13,
-      "Головин Дмитрий Александрович": 3,
-      "Злыдников Юрий Петрович": 14,
-      "Иванов Валерий Фёдорович": 6,
-      "Иофе Лев Маркович": 1,
-      "Карашевич Константин Вячеславович": 6,
-      "Ковпак Лев Игоревич": 37,
-      "Коромыслов Анатолий Николаевич": 0,
-      "Пакулов Сергей Георгиевич": 0,
-      "Парфенов Алексей Александрович": 11,
-      "Субботин Константин Сергеевич": 6
+      "gas:candidate-vibid:4664057166854": 13,
+      "gas:candidate-vibid:4664057168399": 3,
+      "gas:candidate-vibid:4664057150561": 14,
+      "gas:candidate-vibid:4664057166866": 6,
+      "gas:candidate-vibid:4664057166962": 1,
+      "gas:candidate-vibid:4664057150691": 6,
+      "gas:candidate-vibid:4664057150762": 37,
+      "gas:candidate-vibid:4664057166974": 0,
+      "gas:candidate-vibid:4664057167183": 0,
+      "gas:candidate-vibid:4664057167218": 11,
+      "gas:candidate-vibid:4664057150261": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3073,17 +3073,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 7,
-      "Головин Дмитрий Александрович": 0,
-      "Злыдников Юрий Петрович": 8,
-      "Иванов Валерий Фёдорович": 5,
-      "Иофе Лев Маркович": 1,
-      "Карашевич Константин Вячеславович": 7,
-      "Ковпак Лев Игоревич": 32,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 0,
-      "Парфенов Алексей Александрович": 6,
-      "Субботин Константин Сергеевич": 5
+      "gas:candidate-vibid:4664057166854": 7,
+      "gas:candidate-vibid:4664057168399": 0,
+      "gas:candidate-vibid:4664057150561": 8,
+      "gas:candidate-vibid:4664057166866": 5,
+      "gas:candidate-vibid:4664057166962": 1,
+      "gas:candidate-vibid:4664057150691": 7,
+      "gas:candidate-vibid:4664057150762": 32,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 0,
+      "gas:candidate-vibid:4664057167218": 6,
+      "gas:candidate-vibid:4664057150261": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3134,17 +3134,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 30,
-      "Головин Дмитрий Александрович": 8,
-      "Злыдников Юрий Петрович": 20,
-      "Иванов Валерий Фёдорович": 15,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 15,
-      "Ковпак Лев Игоревич": 110,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 29,
-      "Субботин Константин Сергеевич": 40
+      "gas:candidate-vibid:4664057166854": 30,
+      "gas:candidate-vibid:4664057168399": 8,
+      "gas:candidate-vibid:4664057150561": 20,
+      "gas:candidate-vibid:4664057166866": 15,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 15,
+      "gas:candidate-vibid:4664057150762": 110,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 29,
+      "gas:candidate-vibid:4664057150261": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3195,17 +3195,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 6,
-      "Головин Дмитрий Александрович": 5,
-      "Злыдников Юрий Петрович": 6,
-      "Иванов Валерий Фёдорович": 3,
-      "Иофе Лев Маркович": 1,
-      "Карашевич Константин Вячеславович": 4,
-      "Ковпак Лев Игоревич": 37,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 1,
-      "Парфенов Алексей Александрович": 7,
-      "Субботин Константин Сергеевич": 6
+      "gas:candidate-vibid:4664057166854": 6,
+      "gas:candidate-vibid:4664057168399": 5,
+      "gas:candidate-vibid:4664057150561": 6,
+      "gas:candidate-vibid:4664057166866": 3,
+      "gas:candidate-vibid:4664057166962": 1,
+      "gas:candidate-vibid:4664057150691": 4,
+      "gas:candidate-vibid:4664057150762": 37,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 1,
+      "gas:candidate-vibid:4664057167218": 7,
+      "gas:candidate-vibid:4664057150261": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3256,17 +3256,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 11,
-      "Головин Дмитрий Александрович": 5,
-      "Злыдников Юрий Петрович": 7,
-      "Иванов Валерий Фёдорович": 7,
-      "Иофе Лев Маркович": 0,
-      "Карашевич Константин Вячеславович": 3,
-      "Ковпак Лев Игоревич": 105,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 0,
-      "Парфенов Алексей Александрович": 9,
-      "Субботин Константин Сергеевич": 8
+      "gas:candidate-vibid:4664057166854": 11,
+      "gas:candidate-vibid:4664057168399": 5,
+      "gas:candidate-vibid:4664057150561": 7,
+      "gas:candidate-vibid:4664057166866": 7,
+      "gas:candidate-vibid:4664057166962": 0,
+      "gas:candidate-vibid:4664057150691": 3,
+      "gas:candidate-vibid:4664057150762": 105,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 0,
+      "gas:candidate-vibid:4664057167218": 9,
+      "gas:candidate-vibid:4664057150261": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3317,17 +3317,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 78,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 45,
-      "Иванов Валерий Фёдорович": 48,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 378,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 75,
-      "Субботин Константин Сергеевич": 90
+      "gas:candidate-vibid:4664057166854": 78,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 45,
+      "gas:candidate-vibid:4664057166866": 48,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 378,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 75,
+      "gas:candidate-vibid:4664057150261": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3378,17 +3378,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 23,
-      "Головин Дмитрий Александрович": 5,
-      "Злыдников Юрий Петрович": 14,
-      "Иванов Валерий Фёдорович": 8,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 10,
-      "Ковпак Лев Игоревич": 119,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 1,
-      "Парфенов Алексей Александрович": 18,
-      "Субботин Константин Сергеевич": 31
+      "gas:candidate-vibid:4664057166854": 23,
+      "gas:candidate-vibid:4664057168399": 5,
+      "gas:candidate-vibid:4664057150561": 14,
+      "gas:candidate-vibid:4664057166866": 8,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 10,
+      "gas:candidate-vibid:4664057150762": 119,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 1,
+      "gas:candidate-vibid:4664057167218": 18,
+      "gas:candidate-vibid:4664057150261": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3439,17 +3439,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 52,
-      "Головин Дмитрий Александрович": 19,
-      "Злыдников Юрий Петрович": 41,
-      "Иванов Валерий Фёдорович": 18,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 13,
-      "Ковпак Лев Игоревич": 148,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 35,
-      "Субботин Константин Сергеевич": 46
+      "gas:candidate-vibid:4664057166854": 52,
+      "gas:candidate-vibid:4664057168399": 19,
+      "gas:candidate-vibid:4664057150561": 41,
+      "gas:candidate-vibid:4664057166866": 18,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 13,
+      "gas:candidate-vibid:4664057150762": 148,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 35,
+      "gas:candidate-vibid:4664057150261": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3500,17 +3500,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 84,
-      "Головин Дмитрий Александрович": 24,
-      "Злыдников Юрий Петрович": 57,
-      "Иванов Валерий Фёдорович": 21,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 203,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 45,
-      "Субботин Константин Сергеевич": 52
+      "gas:candidate-vibid:4664057166854": 84,
+      "gas:candidate-vibid:4664057168399": 24,
+      "gas:candidate-vibid:4664057150561": 57,
+      "gas:candidate-vibid:4664057166866": 21,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 203,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 45,
+      "gas:candidate-vibid:4664057150261": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3561,17 +3561,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 34,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 45,
-      "Иванов Валерий Фёдорович": 8,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 14,
-      "Ковпак Лев Игоревич": 118,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 2,
-      "Парфенов Алексей Александрович": 25,
-      "Субботин Константин Сергеевич": 25
+      "gas:candidate-vibid:4664057166854": 34,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 45,
+      "gas:candidate-vibid:4664057166866": 8,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 14,
+      "gas:candidate-vibid:4664057150762": 118,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 2,
+      "gas:candidate-vibid:4664057167218": 25,
+      "gas:candidate-vibid:4664057150261": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3622,17 +3622,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 38,
-      "Головин Дмитрий Александрович": 21,
-      "Злыдников Юрий Петрович": 39,
-      "Иванов Валерий Фёдорович": 8,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 18,
-      "Ковпак Лев Игоревич": 184,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 24,
-      "Субботин Константин Сергеевич": 35
+      "gas:candidate-vibid:4664057166854": 38,
+      "gas:candidate-vibid:4664057168399": 21,
+      "gas:candidate-vibid:4664057150561": 39,
+      "gas:candidate-vibid:4664057166866": 8,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 18,
+      "gas:candidate-vibid:4664057150762": 184,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 24,
+      "gas:candidate-vibid:4664057150261": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3683,17 +3683,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 3,
-      "Злыдников Юрий Петрович": 13,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 14,
-      "Ковпак Лев Игоревич": 61,
-      "Коромыслов Анатолий Николаевич": 1,
-      "Пакулов Сергей Георгиевич": 2,
-      "Парфенов Алексей Александрович": 15,
-      "Субботин Константин Сергеевич": 21
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 3,
+      "gas:candidate-vibid:4664057150561": 13,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 14,
+      "gas:candidate-vibid:4664057150762": 61,
+      "gas:candidate-vibid:4664057166974": 1,
+      "gas:candidate-vibid:4664057167183": 2,
+      "gas:candidate-vibid:4664057167218": 15,
+      "gas:candidate-vibid:4664057150261": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3744,17 +3744,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 18,
-      "Злыдников Юрий Петрович": 17,
-      "Иванов Валерий Фёдорович": 10,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 15,
-      "Ковпак Лев Игоревич": 106,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 19,
-      "Субботин Константин Сергеевич": 24
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 18,
+      "gas:candidate-vibid:4664057150561": 17,
+      "gas:candidate-vibid:4664057166866": 10,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 15,
+      "gas:candidate-vibid:4664057150762": 106,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 19,
+      "gas:candidate-vibid:4664057150261": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3805,17 +3805,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 81,
-      "Головин Дмитрий Александрович": 30,
-      "Злыдников Юрий Петрович": 66,
-      "Иванов Валерий Фёдорович": 56,
-      "Иофе Лев Маркович": 20,
-      "Карашевич Константин Вячеславович": 59,
-      "Ковпак Лев Игоревич": 371,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 73,
-      "Субботин Константин Сергеевич": 94
+      "gas:candidate-vibid:4664057166854": 81,
+      "gas:candidate-vibid:4664057168399": 30,
+      "gas:candidate-vibid:4664057150561": 66,
+      "gas:candidate-vibid:4664057166866": 56,
+      "gas:candidate-vibid:4664057166962": 20,
+      "gas:candidate-vibid:4664057150691": 59,
+      "gas:candidate-vibid:4664057150762": 371,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 73,
+      "gas:candidate-vibid:4664057150261": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3866,17 +3866,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 6,
-      "Головин Дмитрий Александрович": 6,
-      "Злыдников Юрий Петрович": 6,
-      "Иванов Валерий Фёдорович": 8,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 6,
-      "Ковпак Лев Игоревич": 44,
-      "Коромыслов Анатолий Николаевич": 0,
-      "Пакулов Сергей Георгиевич": 1,
-      "Парфенов Алексей Александрович": 7,
-      "Субботин Константин Сергеевич": 8
+      "gas:candidate-vibid:4664057166854": 6,
+      "gas:candidate-vibid:4664057168399": 6,
+      "gas:candidate-vibid:4664057150561": 6,
+      "gas:candidate-vibid:4664057166866": 8,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 6,
+      "gas:candidate-vibid:4664057150762": 44,
+      "gas:candidate-vibid:4664057166974": 0,
+      "gas:candidate-vibid:4664057167183": 1,
+      "gas:candidate-vibid:4664057167218": 7,
+      "gas:candidate-vibid:4664057150261": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3927,17 +3927,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 23,
-      "Головин Дмитрий Александрович": 5,
-      "Злыдников Юрий Петрович": 9,
-      "Иванов Валерий Фёдорович": 13,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 8,
-      "Ковпак Лев Игоревич": 60,
-      "Коромыслов Анатолий Николаевич": 1,
-      "Пакулов Сергей Георгиевич": 0,
-      "Парфенов Алексей Александрович": 10,
-      "Субботин Константин Сергеевич": 15
+      "gas:candidate-vibid:4664057166854": 23,
+      "gas:candidate-vibid:4664057168399": 5,
+      "gas:candidate-vibid:4664057150561": 9,
+      "gas:candidate-vibid:4664057166866": 13,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 8,
+      "gas:candidate-vibid:4664057150762": 60,
+      "gas:candidate-vibid:4664057166974": 1,
+      "gas:candidate-vibid:4664057167183": 0,
+      "gas:candidate-vibid:4664057167218": 10,
+      "gas:candidate-vibid:4664057150261": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -3988,17 +3988,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 73,
-      "Головин Дмитрий Александрович": 29,
-      "Злыдников Юрий Петрович": 52,
-      "Иванов Валерий Фёдорович": 12,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 288,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 44,
-      "Субботин Константин Сергеевич": 51
+      "gas:candidate-vibid:4664057166854": 73,
+      "gas:candidate-vibid:4664057168399": 29,
+      "gas:candidate-vibid:4664057150561": 52,
+      "gas:candidate-vibid:4664057166866": 12,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 288,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 44,
+      "gas:candidate-vibid:4664057150261": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -4049,17 +4049,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 33,
-      "Головин Дмитрий Александрович": 10,
-      "Злыдников Юрий Петрович": 41,
-      "Иванов Валерий Фёдорович": 25,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 13,
-      "Ковпак Лев Игоревич": 141,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 46,
-      "Субботин Константин Сергеевич": 57
+      "gas:candidate-vibid:4664057166854": 33,
+      "gas:candidate-vibid:4664057168399": 10,
+      "gas:candidate-vibid:4664057150561": 41,
+      "gas:candidate-vibid:4664057166866": 25,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 13,
+      "gas:candidate-vibid:4664057150762": 141,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 46,
+      "gas:candidate-vibid:4664057150261": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732916&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732916&type=464",
@@ -4110,17 +4110,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 84,
-      "Головин Дмитрий Александрович": 29,
-      "Злыдников Юрий Петрович": 65,
-      "Иванов Валерий Фёдорович": 25,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 230,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 47,
-      "Субботин Константин Сергеевич": 50
+      "gas:candidate-vibid:4664057166854": 84,
+      "gas:candidate-vibid:4664057168399": 29,
+      "gas:candidate-vibid:4664057150561": 65,
+      "gas:candidate-vibid:4664057166866": 25,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 230,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 47,
+      "gas:candidate-vibid:4664057150261": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4171,17 +4171,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 100,
-      "Головин Дмитрий Александрович": 20,
-      "Злыдников Юрий Петрович": 45,
-      "Иванов Валерий Фёдорович": 38,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 230,
-      "Коромыслов Анатолий Николаевич": 17,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 46,
-      "Субботин Константин Сергеевич": 62
+      "gas:candidate-vibid:4664057166854": 100,
+      "gas:candidate-vibid:4664057168399": 20,
+      "gas:candidate-vibid:4664057150561": 45,
+      "gas:candidate-vibid:4664057166866": 38,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 230,
+      "gas:candidate-vibid:4664057166974": 17,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 46,
+      "gas:candidate-vibid:4664057150261": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4232,17 +4232,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 175,
-      "Головин Дмитрий Александрович": 21,
-      "Злыдников Юрий Петрович": 77,
-      "Иванов Валерий Фёдорович": 22,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 24,
-      "Ковпак Лев Игоревич": 263,
-      "Коромыслов Анатолий Николаевич": 16,
-      "Пакулов Сергей Георгиевич": 20,
-      "Парфенов Алексей Александрович": 51,
-      "Субботин Константин Сергеевич": 63
+      "gas:candidate-vibid:4664057166854": 175,
+      "gas:candidate-vibid:4664057168399": 21,
+      "gas:candidate-vibid:4664057150561": 77,
+      "gas:candidate-vibid:4664057166866": 22,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 24,
+      "gas:candidate-vibid:4664057150762": 263,
+      "gas:candidate-vibid:4664057166974": 16,
+      "gas:candidate-vibid:4664057167183": 20,
+      "gas:candidate-vibid:4664057167218": 51,
+      "gas:candidate-vibid:4664057150261": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4293,17 +4293,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 157,
-      "Головин Дмитрий Александрович": 24,
-      "Злыдников Юрий Петрович": 61,
-      "Иванов Валерий Фёдорович": 51,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 19,
-      "Ковпак Лев Игоревич": 271,
-      "Коромыслов Анатолий Николаевич": 17,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 52,
-      "Субботин Константин Сергеевич": 65
+      "gas:candidate-vibid:4664057166854": 157,
+      "gas:candidate-vibid:4664057168399": 24,
+      "gas:candidate-vibid:4664057150561": 61,
+      "gas:candidate-vibid:4664057166866": 51,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 19,
+      "gas:candidate-vibid:4664057150762": 271,
+      "gas:candidate-vibid:4664057166974": 17,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 52,
+      "gas:candidate-vibid:4664057150261": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4354,17 +4354,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 139,
-      "Головин Дмитрий Александрович": 25,
-      "Злыдников Юрий Петрович": 92,
-      "Иванов Валерий Фёдорович": 47,
-      "Иофе Лев Маркович": 19,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 376,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 73,
-      "Субботин Константин Сергеевич": 82
+      "gas:candidate-vibid:4664057166854": 139,
+      "gas:candidate-vibid:4664057168399": 25,
+      "gas:candidate-vibid:4664057150561": 92,
+      "gas:candidate-vibid:4664057166866": 47,
+      "gas:candidate-vibid:4664057166962": 19,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 376,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 73,
+      "gas:candidate-vibid:4664057150261": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4415,17 +4415,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 10,
-      "Злыдников Юрий Петрович": 11,
-      "Иванов Валерий Фёдорович": 5,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 6,
-      "Ковпак Лев Игоревич": 65,
-      "Коромыслов Анатолий Николаевич": 0,
-      "Пакулов Сергей Георгиевич": 0,
-      "Парфенов Алексей Александрович": 19,
-      "Субботин Константин Сергеевич": 25
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 10,
+      "gas:candidate-vibid:4664057150561": 11,
+      "gas:candidate-vibid:4664057166866": 5,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 6,
+      "gas:candidate-vibid:4664057150762": 65,
+      "gas:candidate-vibid:4664057166974": 0,
+      "gas:candidate-vibid:4664057167183": 0,
+      "gas:candidate-vibid:4664057167218": 19,
+      "gas:candidate-vibid:4664057150261": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4476,17 +4476,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 90,
-      "Головин Дмитрий Александрович": 10,
-      "Злыдников Юрий Петрович": 20,
-      "Иванов Валерий Фёдорович": 9,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 104,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 31,
-      "Субботин Константин Сергеевич": 34
+      "gas:candidate-vibid:4664057166854": 90,
+      "gas:candidate-vibid:4664057168399": 10,
+      "gas:candidate-vibid:4664057150561": 20,
+      "gas:candidate-vibid:4664057166866": 9,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 104,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 31,
+      "gas:candidate-vibid:4664057150261": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4537,17 +4537,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 10
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 119,
-      "Головин Дмитрий Александрович": 15,
-      "Злыдников Юрий Петрович": 27,
-      "Иванов Валерий Фёдорович": 10,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 151,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 24,
-      "Субботин Константин Сергеевич": 48
+      "gas:candidate-vibid:4664057166854": 119,
+      "gas:candidate-vibid:4664057168399": 15,
+      "gas:candidate-vibid:4664057150561": 27,
+      "gas:candidate-vibid:4664057166866": 10,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 151,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 24,
+      "gas:candidate-vibid:4664057150261": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4598,17 +4598,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 64,
-      "Головин Дмитрий Александрович": 6,
-      "Злыдников Юрий Петрович": 23,
-      "Иванов Валерий Фёдорович": 11,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 9,
-      "Ковпак Лев Игоревич": 123,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 24,
-      "Субботин Константин Сергеевич": 29
+      "gas:candidate-vibid:4664057166854": 64,
+      "gas:candidate-vibid:4664057168399": 6,
+      "gas:candidate-vibid:4664057150561": 23,
+      "gas:candidate-vibid:4664057166866": 11,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 9,
+      "gas:candidate-vibid:4664057150762": 123,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 24,
+      "gas:candidate-vibid:4664057150261": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4659,17 +4659,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 126,
-      "Головин Дмитрий Александрович": 16,
-      "Злыдников Юрий Петрович": 57,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 199,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 33,
-      "Субботин Константин Сергеевич": 37
+      "gas:candidate-vibid:4664057166854": 126,
+      "gas:candidate-vibid:4664057168399": 16,
+      "gas:candidate-vibid:4664057150561": 57,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 199,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 33,
+      "gas:candidate-vibid:4664057150261": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4720,17 +4720,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 64,
-      "Головин Дмитрий Александрович": 10,
-      "Злыдников Юрий Петрович": 50,
-      "Иванов Валерий Фёдорович": 20,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 147,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 17,
-      "Парфенов Алексей Александрович": 33,
-      "Субботин Константин Сергеевич": 32
+      "gas:candidate-vibid:4664057166854": 64,
+      "gas:candidate-vibid:4664057168399": 10,
+      "gas:candidate-vibid:4664057150561": 50,
+      "gas:candidate-vibid:4664057166866": 20,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 147,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 17,
+      "gas:candidate-vibid:4664057167218": 33,
+      "gas:candidate-vibid:4664057150261": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4781,17 +4781,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 83,
-      "Головин Дмитрий Александрович": 14,
-      "Злыдников Юрий Петрович": 29,
-      "Иванов Валерий Фёдорович": 15,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 16,
-      "Ковпак Лев Игоревич": 133,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 29,
-      "Субботин Константин Сергеевич": 33
+      "gas:candidate-vibid:4664057166854": 83,
+      "gas:candidate-vibid:4664057168399": 14,
+      "gas:candidate-vibid:4664057150561": 29,
+      "gas:candidate-vibid:4664057166866": 15,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 16,
+      "gas:candidate-vibid:4664057150762": 133,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 29,
+      "gas:candidate-vibid:4664057150261": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732917&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732917&type=464",
@@ -4842,17 +4842,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 6,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 40,
-      "Иванов Валерий Фёдорович": 15,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 10,
-      "Ковпак Лев Игоревич": 87,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 37,
-      "Субботин Константин Сергеевич": 30
+      "gas:candidate-vibid:4664057166854": 6,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 40,
+      "gas:candidate-vibid:4664057166866": 15,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 10,
+      "gas:candidate-vibid:4664057150762": 87,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 37,
+      "gas:candidate-vibid:4664057150261": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -4903,17 +4903,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 23,
-      "Головин Дмитрий Александрович": 28,
-      "Злыдников Юрий Петрович": 53,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 192,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 30,
-      "Субботин Константин Сергеевич": 48
+      "gas:candidate-vibid:4664057166854": 23,
+      "gas:candidate-vibid:4664057168399": 28,
+      "gas:candidate-vibid:4664057150561": 53,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 192,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 30,
+      "gas:candidate-vibid:4664057150261": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -4964,17 +4964,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 19,
-      "Головин Дмитрий Александрович": 25,
-      "Злыдников Юрий Петрович": 140,
-      "Иванов Валерий Фёдорович": 22,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 200,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 11,
-      "Парфенов Алексей Александрович": 45,
-      "Субботин Константин Сергеевич": 52
+      "gas:candidate-vibid:4664057166854": 19,
+      "gas:candidate-vibid:4664057168399": 25,
+      "gas:candidate-vibid:4664057150561": 140,
+      "gas:candidate-vibid:4664057166866": 22,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 200,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 11,
+      "gas:candidate-vibid:4664057167218": 45,
+      "gas:candidate-vibid:4664057150261": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5025,17 +5025,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 10,
-      "Головин Дмитрий Александрович": 17,
-      "Злыдников Юрий Петрович": 57,
-      "Иванов Валерий Фёдорович": 9,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 13,
-      "Ковпак Лев Игоревич": 163,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 31,
-      "Субботин Константин Сергеевич": 38
+      "gas:candidate-vibid:4664057166854": 10,
+      "gas:candidate-vibid:4664057168399": 17,
+      "gas:candidate-vibid:4664057150561": 57,
+      "gas:candidate-vibid:4664057166866": 9,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 13,
+      "gas:candidate-vibid:4664057150762": 163,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 31,
+      "gas:candidate-vibid:4664057150261": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5086,17 +5086,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 30,
-      "Головин Дмитрий Александрович": 47,
-      "Злыдников Юрий Петрович": 259,
-      "Иванов Валерий Фёдорович": 27,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 47,
-      "Ковпак Лев Игоревич": 524,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 140,
-      "Субботин Константин Сергеевич": 88
+      "gas:candidate-vibid:4664057166854": 30,
+      "gas:candidate-vibid:4664057168399": 47,
+      "gas:candidate-vibid:4664057150561": 259,
+      "gas:candidate-vibid:4664057166866": 27,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 47,
+      "gas:candidate-vibid:4664057150762": 524,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 140,
+      "gas:candidate-vibid:4664057150261": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5147,17 +5147,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 20,
-      "Головин Дмитрий Александрович": 51,
-      "Злыдников Юрий Петрович": 158,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 393,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 90,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 20,
+      "gas:candidate-vibid:4664057168399": 51,
+      "gas:candidate-vibid:4664057150561": 158,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 393,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 90,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5208,17 +5208,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 17,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 181,
-      "Иванов Валерий Фёдорович": 33,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 349,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 69,
-      "Субботин Константин Сергеевич": 73
+      "gas:candidate-vibid:4664057166854": 17,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 181,
+      "gas:candidate-vibid:4664057166866": 33,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 349,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 69,
+      "gas:candidate-vibid:4664057150261": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5269,17 +5269,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 42,
-      "Головин Дмитрий Александрович": 48,
-      "Злыдников Юрий Петрович": 257,
-      "Иванов Валерий Фёдорович": 37,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 459,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 27,
-      "Парфенов Алексей Александрович": 71,
-      "Субботин Константин Сергеевич": 97
+      "gas:candidate-vibid:4664057166854": 42,
+      "gas:candidate-vibid:4664057168399": 48,
+      "gas:candidate-vibid:4664057150561": 257,
+      "gas:candidate-vibid:4664057166866": 37,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 459,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 27,
+      "gas:candidate-vibid:4664057167218": 71,
+      "gas:candidate-vibid:4664057150261": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5330,17 +5330,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 13,
-      "Головин Дмитрий Александрович": 14,
-      "Злыдников Юрий Петрович": 89,
-      "Иванов Валерий Фёдорович": 18,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 18,
-      "Ковпак Лев Игоревич": 244,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 47,
-      "Субботин Константин Сергеевич": 61
+      "gas:candidate-vibid:4664057166854": 13,
+      "gas:candidate-vibid:4664057168399": 14,
+      "gas:candidate-vibid:4664057150561": 89,
+      "gas:candidate-vibid:4664057166866": 18,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 18,
+      "gas:candidate-vibid:4664057150762": 244,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 47,
+      "gas:candidate-vibid:4664057150261": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5391,17 +5391,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 8,
-      "Головин Дмитрий Александрович": 18,
-      "Злыдников Юрий Петрович": 64,
-      "Иванов Валерий Фёдорович": 15,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 15,
-      "Ковпак Лев Игоревич": 192,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 44,
-      "Субботин Константин Сергеевич": 50
+      "gas:candidate-vibid:4664057166854": 8,
+      "gas:candidate-vibid:4664057168399": 18,
+      "gas:candidate-vibid:4664057150561": 64,
+      "gas:candidate-vibid:4664057166866": 15,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 15,
+      "gas:candidate-vibid:4664057150762": 192,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 44,
+      "gas:candidate-vibid:4664057150261": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5452,17 +5452,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 16,
-      "Злыдников Юрий Петрович": 96,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 188,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 48,
-      "Субботин Константин Сергеевич": 42
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 16,
+      "gas:candidate-vibid:4664057150561": 96,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 188,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 48,
+      "gas:candidate-vibid:4664057150261": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5513,17 +5513,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 16,
-      "Головин Дмитрий Александрович": 24,
-      "Злыдников Юрий Петрович": 108,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 276,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 20,
-      "Парфенов Алексей Александрович": 69,
-      "Субботин Константин Сергеевич": 51
+      "gas:candidate-vibid:4664057166854": 16,
+      "gas:candidate-vibid:4664057168399": 24,
+      "gas:candidate-vibid:4664057150561": 108,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 276,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 20,
+      "gas:candidate-vibid:4664057167218": 69,
+      "gas:candidate-vibid:4664057150261": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5574,17 +5574,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 137,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 21,
-      "Ковпак Лев Игоревич": 302,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 19,
-      "Парфенов Алексей Александрович": 63,
-      "Субботин Константин Сергеевич": 41
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 137,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 21,
+      "gas:candidate-vibid:4664057150762": 302,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 19,
+      "gas:candidate-vibid:4664057167218": 63,
+      "gas:candidate-vibid:4664057150261": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5635,17 +5635,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 28,
-      "Головин Дмитрий Александрович": 36,
-      "Злыдников Юрий Петрович": 203,
-      "Иванов Валерий Фёдорович": 28,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 39,
-      "Ковпак Лев Игоревич": 397,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 25,
-      "Парфенов Алексей Александрович": 110,
-      "Субботин Константин Сергеевич": 93
+      "gas:candidate-vibid:4664057166854": 28,
+      "gas:candidate-vibid:4664057168399": 36,
+      "gas:candidate-vibid:4664057150561": 203,
+      "gas:candidate-vibid:4664057166866": 28,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 39,
+      "gas:candidate-vibid:4664057150762": 397,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 25,
+      "gas:candidate-vibid:4664057167218": 110,
+      "gas:candidate-vibid:4664057150261": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5696,17 +5696,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 28,
-      "Головин Дмитрий Александрович": 42,
-      "Злыдников Юрий Петрович": 177,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 527,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 125,
-      "Субботин Константин Сергеевич": 138
+      "gas:candidate-vibid:4664057166854": 28,
+      "gas:candidate-vibid:4664057168399": 42,
+      "gas:candidate-vibid:4664057150561": 177,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 527,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 125,
+      "gas:candidate-vibid:4664057150261": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5757,17 +5757,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 29,
-      "Головин Дмитрий Александрович": 49,
-      "Злыдников Юрий Петрович": 213,
-      "Иванов Валерий Фёдорович": 28,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 24,
-      "Ковпак Лев Игоревич": 355,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 130,
-      "Субботин Константин Сергеевич": 86
+      "gas:candidate-vibid:4664057166854": 29,
+      "gas:candidate-vibid:4664057168399": 49,
+      "gas:candidate-vibid:4664057150561": 213,
+      "gas:candidate-vibid:4664057166866": 28,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 24,
+      "gas:candidate-vibid:4664057150762": 355,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 130,
+      "gas:candidate-vibid:4664057150261": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5818,17 +5818,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 41,
-      "Злыдников Юрий Петрович": 173,
-      "Иванов Валерий Фёдорович": 16,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 46,
-      "Ковпак Лев Игоревич": 360,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 91,
-      "Субботин Константин Сергеевич": 84
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 41,
+      "gas:candidate-vibid:4664057150561": 173,
+      "gas:candidate-vibid:4664057166866": 16,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 46,
+      "gas:candidate-vibid:4664057150762": 360,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 91,
+      "gas:candidate-vibid:4664057150261": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5879,17 +5879,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 28,
-      "Головин Дмитрий Александрович": 47,
-      "Злыдников Юрий Петрович": 176,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 320,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 21,
-      "Парфенов Алексей Александрович": 105,
-      "Субботин Константин Сергеевич": 81
+      "gas:candidate-vibid:4664057166854": 28,
+      "gas:candidate-vibid:4664057168399": 47,
+      "gas:candidate-vibid:4664057150561": 176,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 320,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 21,
+      "gas:candidate-vibid:4664057167218": 105,
+      "gas:candidate-vibid:4664057150261": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -5940,17 +5940,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 20,
-      "Головин Дмитрий Александрович": 29,
-      "Злыдников Юрий Петрович": 190,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 274,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 84,
-      "Парфенов Алексей Александрович": 87,
-      "Субботин Константин Сергеевич": 83
+      "gas:candidate-vibid:4664057166854": 20,
+      "gas:candidate-vibid:4664057168399": 29,
+      "gas:candidate-vibid:4664057150561": 190,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 274,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 84,
+      "gas:candidate-vibid:4664057167218": 87,
+      "gas:candidate-vibid:4664057150261": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6001,17 +6001,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 26,
-      "Злыдников Юрий Петрович": 183,
-      "Иванов Валерий Фёдорович": 22,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 295,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 35,
-      "Парфенов Алексей Александрович": 89,
-      "Субботин Константин Сергеевич": 73
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 26,
+      "gas:candidate-vibid:4664057150561": 183,
+      "gas:candidate-vibid:4664057166866": 22,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 295,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 35,
+      "gas:candidate-vibid:4664057167218": 89,
+      "gas:candidate-vibid:4664057150261": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6062,17 +6062,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 30,
-      "Головин Дмитрий Александрович": 38,
-      "Злыдников Юрий Петрович": 195,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 353,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 33,
-      "Парфенов Алексей Александрович": 136,
-      "Субботин Константин Сергеевич": 65
+      "gas:candidate-vibid:4664057166854": 30,
+      "gas:candidate-vibid:4664057168399": 38,
+      "gas:candidate-vibid:4664057150561": 195,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 353,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 33,
+      "gas:candidate-vibid:4664057167218": 136,
+      "gas:candidate-vibid:4664057150261": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6123,17 +6123,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 37,
-      "Злыдников Юрий Петрович": 195,
-      "Иванов Валерий Фёдорович": 20,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 415,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 31,
-      "Парфенов Алексей Александрович": 103,
-      "Субботин Константин Сергеевич": 57
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 37,
+      "gas:candidate-vibid:4664057150561": 195,
+      "gas:candidate-vibid:4664057166866": 20,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 415,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 31,
+      "gas:candidate-vibid:4664057167218": 103,
+      "gas:candidate-vibid:4664057150261": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6184,17 +6184,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 32,
-      "Злыдников Юрий Петрович": 223,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 36,
-      "Ковпак Лев Игоревич": 420,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 28,
-      "Парфенов Алексей Александрович": 145,
-      "Субботин Константин Сергеевич": 97
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 32,
+      "gas:candidate-vibid:4664057150561": 223,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 36,
+      "gas:candidate-vibid:4664057150762": 420,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 28,
+      "gas:candidate-vibid:4664057167218": 145,
+      "gas:candidate-vibid:4664057150261": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6245,17 +6245,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 139,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 386,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 26,
-      "Парфенов Алексей Александрович": 80,
-      "Субботин Константин Сергеевич": 76
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 139,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 386,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 26,
+      "gas:candidate-vibid:4664057167218": 80,
+      "gas:candidate-vibid:4664057150261": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6306,17 +6306,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 17,
-      "Головин Дмитрий Александрович": 18,
-      "Злыдников Юрий Петрович": 92,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 237,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 49,
-      "Субботин Константин Сергеевич": 73
+      "gas:candidate-vibid:4664057166854": 17,
+      "gas:candidate-vibid:4664057168399": 18,
+      "gas:candidate-vibid:4664057150561": 92,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 237,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 49,
+      "gas:candidate-vibid:4664057150261": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6367,17 +6367,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 20,
-      "Головин Дмитрий Александрович": 21,
-      "Злыдников Юрий Петрович": 144,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 290,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 20,
-      "Парфенов Алексей Александрович": 69,
-      "Субботин Константин Сергеевич": 64
+      "gas:candidate-vibid:4664057166854": 20,
+      "gas:candidate-vibid:4664057168399": 21,
+      "gas:candidate-vibid:4664057150561": 144,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 290,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 20,
+      "gas:candidate-vibid:4664057167218": 69,
+      "gas:candidate-vibid:4664057150261": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6428,17 +6428,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 13,
-      "Головин Дмитрий Александрович": 32,
-      "Злыдников Юрий Петрович": 157,
-      "Иванов Валерий Фёдорович": 21,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 24,
-      "Ковпак Лев Игоревич": 269,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 40,
-      "Парфенов Алексей Александрович": 77,
-      "Субботин Константин Сергеевич": 55
+      "gas:candidate-vibid:4664057166854": 13,
+      "gas:candidate-vibid:4664057168399": 32,
+      "gas:candidate-vibid:4664057150561": 157,
+      "gas:candidate-vibid:4664057166866": 21,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 24,
+      "gas:candidate-vibid:4664057150762": 269,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 40,
+      "gas:candidate-vibid:4664057167218": 77,
+      "gas:candidate-vibid:4664057150261": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6489,17 +6489,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 41,
-      "Злыдников Юрий Петрович": 224,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 24,
-      "Ковпак Лев Игоревич": 419,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 41,
-      "Парфенов Алексей Александрович": 105,
-      "Субботин Константин Сергеевич": 110
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 41,
+      "gas:candidate-vibid:4664057150561": 224,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 24,
+      "gas:candidate-vibid:4664057150762": 419,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 41,
+      "gas:candidate-vibid:4664057167218": 105,
+      "gas:candidate-vibid:4664057150261": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6550,17 +6550,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 52,
-      "Головин Дмитрий Александрович": 51,
-      "Злыдников Юрий Петрович": 157,
-      "Иванов Валерий Фёдорович": 38,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 40,
-      "Ковпак Лев Игоревич": 438,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 34,
-      "Парфенов Алексей Александрович": 104,
-      "Субботин Константин Сергеевич": 85
+      "gas:candidate-vibid:4664057166854": 52,
+      "gas:candidate-vibid:4664057168399": 51,
+      "gas:candidate-vibid:4664057150561": 157,
+      "gas:candidate-vibid:4664057166866": 38,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 40,
+      "gas:candidate-vibid:4664057150762": 438,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 34,
+      "gas:candidate-vibid:4664057167218": 104,
+      "gas:candidate-vibid:4664057150261": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6611,17 +6611,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 96,
-      "Головин Дмитрий Александрович": 41,
-      "Злыдников Юрий Петрович": 201,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 45,
-      "Ковпак Лев Игоревич": 495,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 29,
-      "Парфенов Алексей Александрович": 111,
-      "Субботин Константин Сергеевич": 124
+      "gas:candidate-vibid:4664057166854": 96,
+      "gas:candidate-vibid:4664057168399": 41,
+      "gas:candidate-vibid:4664057150561": 201,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 45,
+      "gas:candidate-vibid:4664057150762": 495,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 29,
+      "gas:candidate-vibid:4664057167218": 111,
+      "gas:candidate-vibid:4664057150261": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6672,17 +6672,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 59,
-      "Головин Дмитрий Александрович": 32,
-      "Злыдников Юрий Петрович": 175,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 351,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 17,
-      "Парфенов Алексей Александрович": 76,
-      "Субботин Константин Сергеевич": 101
+      "gas:candidate-vibid:4664057166854": 59,
+      "gas:candidate-vibid:4664057168399": 32,
+      "gas:candidate-vibid:4664057150561": 175,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 351,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 17,
+      "gas:candidate-vibid:4664057167218": 76,
+      "gas:candidate-vibid:4664057150261": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6733,17 +6733,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 42,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 92,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 223,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 9,
-      "Парфенов Алексей Александрович": 37,
-      "Субботин Константин Сергеевич": 84
+      "gas:candidate-vibid:4664057166854": 42,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 92,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 223,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 9,
+      "gas:candidate-vibid:4664057167218": 37,
+      "gas:candidate-vibid:4664057150261": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6794,17 +6794,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 13,
-      "Головин Дмитрий Александрович": 42,
-      "Злыдников Юрий Петрович": 236,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 36,
-      "Ковпак Лев Игоревич": 395,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 31,
-      "Парфенов Алексей Александрович": 104,
-      "Субботин Константин Сергеевич": 100
+      "gas:candidate-vibid:4664057166854": 13,
+      "gas:candidate-vibid:4664057168399": 42,
+      "gas:candidate-vibid:4664057150561": 236,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 36,
+      "gas:candidate-vibid:4664057150762": 395,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 31,
+      "gas:candidate-vibid:4664057167218": 104,
+      "gas:candidate-vibid:4664057150261": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6855,17 +6855,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 39,
-      "Головин Дмитрий Александрович": 49,
-      "Злыдников Юрий Петрович": 246,
-      "Иванов Валерий Фёдорович": 41,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 488,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 35,
-      "Парфенов Алексей Александрович": 121,
-      "Субботин Константин Сергеевич": 106
+      "gas:candidate-vibid:4664057166854": 39,
+      "gas:candidate-vibid:4664057168399": 49,
+      "gas:candidate-vibid:4664057150561": 246,
+      "gas:candidate-vibid:4664057166866": 41,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 488,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 35,
+      "gas:candidate-vibid:4664057167218": 121,
+      "gas:candidate-vibid:4664057150261": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6916,17 +6916,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 47,
-      "Злыдников Юрий Петрович": 246,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 17,
-      "Карашевич Константин Вячеславович": 33,
-      "Ковпак Лев Игоревич": 464,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 25,
-      "Парфенов Алексей Александрович": 127,
-      "Субботин Константин Сергеевич": 103
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 47,
+      "gas:candidate-vibid:4664057150561": 246,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 17,
+      "gas:candidate-vibid:4664057150691": 33,
+      "gas:candidate-vibid:4664057150762": 464,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 25,
+      "gas:candidate-vibid:4664057167218": 127,
+      "gas:candidate-vibid:4664057150261": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -6977,17 +6977,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 20,
-      "Головин Дмитрий Александрович": 26,
-      "Злыдников Юрий Петрович": 133,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 292,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 94,
-      "Субботин Константин Сергеевич": 86
+      "gas:candidate-vibid:4664057166854": 20,
+      "gas:candidate-vibid:4664057168399": 26,
+      "gas:candidate-vibid:4664057150561": 133,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 292,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 94,
+      "gas:candidate-vibid:4664057150261": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7038,17 +7038,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 189,
-      "Иванов Валерий Фёдорович": 32,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 358,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 134,
-      "Субботин Константин Сергеевич": 98
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 189,
+      "gas:candidate-vibid:4664057166866": 32,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 358,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 134,
+      "gas:candidate-vibid:4664057150261": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7099,17 +7099,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 29,
-      "Головин Дмитрий Александрович": 40,
-      "Злыдников Юрий Петрович": 218,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 46,
-      "Ковпак Лев Игоревич": 428,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 128,
-      "Субботин Константин Сергеевич": 92
+      "gas:candidate-vibid:4664057166854": 29,
+      "gas:candidate-vibid:4664057168399": 40,
+      "gas:candidate-vibid:4664057150561": 218,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 46,
+      "gas:candidate-vibid:4664057150762": 428,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 128,
+      "gas:candidate-vibid:4664057150261": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7160,17 +7160,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 36,
-      "Злыдников Юрий Петрович": 204,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 40,
-      "Ковпак Лев Игоревич": 425,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 128,
-      "Субботин Константин Сергеевич": 86
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 36,
+      "gas:candidate-vibid:4664057150561": 204,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 40,
+      "gas:candidate-vibid:4664057150762": 425,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 128,
+      "gas:candidate-vibid:4664057150261": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7221,17 +7221,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 38,
-      "Злыдников Юрий Петрович": 224,
-      "Иванов Валерий Фёдорович": 33,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 48,
-      "Ковпак Лев Игоревич": 447,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 109,
-      "Субботин Константин Сергеевич": 106
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 38,
+      "gas:candidate-vibid:4664057150561": 224,
+      "gas:candidate-vibid:4664057166866": 33,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 48,
+      "gas:candidate-vibid:4664057150762": 447,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 109,
+      "gas:candidate-vibid:4664057150261": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7282,17 +7282,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 42,
-      "Злыдников Юрий Петрович": 201,
-      "Иванов Валерий Фёдорович": 54,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 41,
-      "Ковпак Лев Игоревич": 447,
-      "Коромыслов Анатолий Николаевич": 19,
-      "Пакулов Сергей Георгиевич": 27,
-      "Парфенов Алексей Александрович": 140,
-      "Субботин Константин Сергеевич": 100
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 42,
+      "gas:candidate-vibid:4664057150561": 201,
+      "gas:candidate-vibid:4664057166866": 54,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 41,
+      "gas:candidate-vibid:4664057150762": 447,
+      "gas:candidate-vibid:4664057166974": 19,
+      "gas:candidate-vibid:4664057167183": 27,
+      "gas:candidate-vibid:4664057167218": 140,
+      "gas:candidate-vibid:4664057150261": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7343,17 +7343,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 36,
-      "Головин Дмитрий Александрович": 40,
-      "Злыдников Юрий Петрович": 234,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 51,
-      "Ковпак Лев Игоревич": 497,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 40,
-      "Парфенов Алексей Александрович": 113,
-      "Субботин Константин Сергеевич": 108
+      "gas:candidate-vibid:4664057166854": 36,
+      "gas:candidate-vibid:4664057168399": 40,
+      "gas:candidate-vibid:4664057150561": 234,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 51,
+      "gas:candidate-vibid:4664057150762": 497,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 40,
+      "gas:candidate-vibid:4664057167218": 113,
+      "gas:candidate-vibid:4664057150261": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7404,17 +7404,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 12,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 149,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 26,
-      "Ковпак Лев Игоревич": 338,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 91,
-      "Субботин Константин Сергеевич": 58
+      "gas:candidate-vibid:4664057166854": 12,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 149,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 26,
+      "gas:candidate-vibid:4664057150762": 338,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 91,
+      "gas:candidate-vibid:4664057150261": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7465,17 +7465,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 145,
-      "Иванов Валерий Фёдорович": 22,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 36,
-      "Ковпак Лев Игоревич": 311,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 86,
-      "Субботин Константин Сергеевич": 87
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 145,
+      "gas:candidate-vibid:4664057166866": 22,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 36,
+      "gas:candidate-vibid:4664057150762": 311,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 86,
+      "gas:candidate-vibid:4664057150261": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7526,17 +7526,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 30,
-      "Головин Дмитрий Александрович": 49,
-      "Злыдников Юрий Петрович": 269,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 33,
-      "Ковпак Лев Игоревич": 523,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 46,
-      "Парфенов Алексей Александрович": 97,
-      "Субботин Константин Сергеевич": 158
+      "gas:candidate-vibid:4664057166854": 30,
+      "gas:candidate-vibid:4664057168399": 49,
+      "gas:candidate-vibid:4664057150561": 269,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 33,
+      "gas:candidate-vibid:4664057150762": 523,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 46,
+      "gas:candidate-vibid:4664057167218": 97,
+      "gas:candidate-vibid:4664057150261": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7587,17 +7587,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 39,
-      "Головин Дмитрий Александрович": 56,
-      "Злыдников Юрий Петрович": 231,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 43,
-      "Ковпак Лев Игоревич": 518,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 19,
-      "Парфенов Алексей Александрович": 108,
-      "Субботин Константин Сергеевич": 127
+      "gas:candidate-vibid:4664057166854": 39,
+      "gas:candidate-vibid:4664057168399": 56,
+      "gas:candidate-vibid:4664057150561": 231,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 43,
+      "gas:candidate-vibid:4664057150762": 518,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 19,
+      "gas:candidate-vibid:4664057167218": 108,
+      "gas:candidate-vibid:4664057150261": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7648,17 +7648,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 20,
-      "Головин Дмитрий Александрович": 49,
-      "Злыдников Юрий Петрович": 165,
-      "Иванов Валерий Фёдорович": 20,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 33,
-      "Ковпак Лев Игоревич": 376,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 105,
-      "Субботин Константин Сергеевич": 104
+      "gas:candidate-vibid:4664057166854": 20,
+      "gas:candidate-vibid:4664057168399": 49,
+      "gas:candidate-vibid:4664057150561": 165,
+      "gas:candidate-vibid:4664057166866": 20,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 33,
+      "gas:candidate-vibid:4664057150762": 376,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 105,
+      "gas:candidate-vibid:4664057150261": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7709,17 +7709,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 41,
-      "Злыдников Юрий Петрович": 180,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 317,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 104,
-      "Субботин Константин Сергеевич": 58
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 41,
+      "gas:candidate-vibid:4664057150561": 180,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 317,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 104,
+      "gas:candidate-vibid:4664057150261": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7770,17 +7770,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 38,
-      "Головин Дмитрий Александрович": 38,
-      "Злыдников Юрий Петрович": 267,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 43,
-      "Ковпак Лев Игоревич": 481,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 15,
-      "Парфенов Алексей Александрович": 121,
-      "Субботин Константин Сергеевич": 123
+      "gas:candidate-vibid:4664057166854": 38,
+      "gas:candidate-vibid:4664057168399": 38,
+      "gas:candidate-vibid:4664057150561": 267,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 43,
+      "gas:candidate-vibid:4664057150762": 481,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 15,
+      "gas:candidate-vibid:4664057167218": 121,
+      "gas:candidate-vibid:4664057150261": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7831,17 +7831,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 32,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 233,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 38,
-      "Ковпак Лев Игоревич": 425,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 19,
-      "Парфенов Алексей Александрович": 109,
-      "Субботин Константин Сергеевич": 106
+      "gas:candidate-vibid:4664057166854": 32,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 233,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 38,
+      "gas:candidate-vibid:4664057150762": 425,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 19,
+      "gas:candidate-vibid:4664057167218": 109,
+      "gas:candidate-vibid:4664057150261": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7892,17 +7892,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 60,
-      "Злыдников Юрий Петрович": 241,
-      "Иванов Валерий Фёдорович": 25,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 50,
-      "Ковпак Лев Игоревич": 402,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 121,
-      "Субботин Константин Сергеевич": 120
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 60,
+      "gas:candidate-vibid:4664057150561": 241,
+      "gas:candidate-vibid:4664057166866": 25,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 50,
+      "gas:candidate-vibid:4664057150762": 402,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 121,
+      "gas:candidate-vibid:4664057150261": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -7953,17 +7953,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 49,
-      "Злыдников Юрий Петрович": 137,
-      "Иванов Валерий Фёдорович": 8,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 293,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 93,
-      "Субботин Константин Сергеевич": 87
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 49,
+      "gas:candidate-vibid:4664057150561": 137,
+      "gas:candidate-vibid:4664057166866": 8,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 293,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 93,
+      "gas:candidate-vibid:4664057150261": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8014,17 +8014,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 28,
-      "Злыдников Юрий Петрович": 159,
-      "Иванов Валерий Фёдорович": 8,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 307,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 61,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 28,
+      "gas:candidate-vibid:4664057150561": 159,
+      "gas:candidate-vibid:4664057166866": 8,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 307,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 61,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8075,17 +8075,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 154,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 21,
-      "Ковпак Лев Игоревич": 249,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 86,
-      "Субботин Константин Сергеевич": 64
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 154,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 21,
+      "gas:candidate-vibid:4664057150762": 249,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 86,
+      "gas:candidate-vibid:4664057150261": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8136,17 +8136,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 29,
-      "Злыдников Юрий Петрович": 149,
-      "Иванов Валерий Фёдорович": 32,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 36,
-      "Ковпак Лев Игоревич": 387,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 111,
-      "Субботин Константин Сергеевич": 82
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 29,
+      "gas:candidate-vibid:4664057150561": 149,
+      "gas:candidate-vibid:4664057166866": 32,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 36,
+      "gas:candidate-vibid:4664057150762": 387,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 111,
+      "gas:candidate-vibid:4664057150261": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8197,17 +8197,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 23,
-      "Головин Дмитрий Александрович": 36,
-      "Злыдников Юрий Петрович": 137,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 297,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 17,
-      "Парфенов Алексей Александрович": 101,
-      "Субботин Константин Сергеевич": 64
+      "gas:candidate-vibid:4664057166854": 23,
+      "gas:candidate-vibid:4664057168399": 36,
+      "gas:candidate-vibid:4664057150561": 137,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 297,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 17,
+      "gas:candidate-vibid:4664057167218": 101,
+      "gas:candidate-vibid:4664057150261": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8258,17 +8258,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 119,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 316,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 96,
-      "Субботин Константин Сергеевич": 96
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 119,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 316,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 96,
+      "gas:candidate-vibid:4664057150261": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8319,17 +8319,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 151,
-      "Иванов Валерий Фёдорович": 15,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 40,
-      "Ковпак Лев Игоревич": 362,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 108,
-      "Субботин Константин Сергеевич": 92
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 151,
+      "gas:candidate-vibid:4664057166866": 15,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 40,
+      "gas:candidate-vibid:4664057150762": 362,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 108,
+      "gas:candidate-vibid:4664057150261": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8380,17 +8380,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 16,
-      "Головин Дмитрий Александрович": 20,
-      "Злыдников Юрий Петрович": 121,
-      "Иванов Валерий Фёдорович": 18,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 24,
-      "Ковпак Лев Игоревич": 294,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 26,
-      "Парфенов Алексей Александрович": 78,
-      "Субботин Константин Сергеевич": 76
+      "gas:candidate-vibid:4664057166854": 16,
+      "gas:candidate-vibid:4664057168399": 20,
+      "gas:candidate-vibid:4664057150561": 121,
+      "gas:candidate-vibid:4664057166866": 18,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 24,
+      "gas:candidate-vibid:4664057150762": 294,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 26,
+      "gas:candidate-vibid:4664057167218": 78,
+      "gas:candidate-vibid:4664057150261": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8441,17 +8441,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 13,
-      "Головин Дмитрий Александрович": 28,
-      "Злыдников Юрий Петрович": 125,
-      "Иванов Валерий Фёдорович": 20,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 345,
-      "Коромыслов Анатолий Николаевич": 6,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 91,
-      "Субботин Константин Сергеевич": 68
+      "gas:candidate-vibid:4664057166854": 13,
+      "gas:candidate-vibid:4664057168399": 28,
+      "gas:candidate-vibid:4664057150561": 125,
+      "gas:candidate-vibid:4664057166866": 20,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 345,
+      "gas:candidate-vibid:4664057166974": 6,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 91,
+      "gas:candidate-vibid:4664057150261": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8502,17 +8502,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 37,
-      "Злыдников Юрий Петрович": 184,
-      "Иванов Валерий Фёдорович": 14,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 362,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 76,
-      "Субботин Константин Сергеевич": 82
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 37,
+      "gas:candidate-vibid:4664057150561": 184,
+      "gas:candidate-vibid:4664057166866": 14,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 362,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 76,
+      "gas:candidate-vibid:4664057150261": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8563,17 +8563,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 9,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 178,
-      "Иванов Валерий Фёдорович": 16,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 15,
-      "Ковпак Лев Игоревич": 233,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 55,
-      "Субботин Константин Сергеевич": 59
+      "gas:candidate-vibid:4664057166854": 9,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 178,
+      "gas:candidate-vibid:4664057166866": 16,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 15,
+      "gas:candidate-vibid:4664057150762": 233,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 55,
+      "gas:candidate-vibid:4664057150261": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8624,17 +8624,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 10,
-      "Головин Дмитрий Александрович": 24,
-      "Злыдников Юрий Петрович": 73,
-      "Иванов Валерий Фёдорович": 7,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 227,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 11,
-      "Парфенов Алексей Александрович": 35,
-      "Субботин Константин Сергеевич": 57
+      "gas:candidate-vibid:4664057166854": 10,
+      "gas:candidate-vibid:4664057168399": 24,
+      "gas:candidate-vibid:4664057150561": 73,
+      "gas:candidate-vibid:4664057166866": 7,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 227,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 11,
+      "gas:candidate-vibid:4664057167218": 35,
+      "gas:candidate-vibid:4664057150261": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8685,17 +8685,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 21,
-      "Злыдников Юрий Петрович": 200,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 443,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 113,
-      "Субботин Константин Сергеевич": 127
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 21,
+      "gas:candidate-vibid:4664057150561": 200,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 443,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 113,
+      "gas:candidate-vibid:4664057150261": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8746,17 +8746,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 22,
-      "Злыдников Юрий Петрович": 149,
-      "Иванов Валерий Фёдорович": 16,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 302,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 81,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 22,
+      "gas:candidate-vibid:4664057150561": 149,
+      "gas:candidate-vibid:4664057166866": 16,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 302,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 81,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8807,17 +8807,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 92,
-      "Иванов Валерий Фёдорович": 13,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 19,
-      "Ковпак Лев Игоревич": 246,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 57,
-      "Субботин Константин Сергеевич": 47
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 92,
+      "gas:candidate-vibid:4664057166866": 13,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 19,
+      "gas:candidate-vibid:4664057150762": 246,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 57,
+      "gas:candidate-vibid:4664057150261": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8868,17 +8868,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 20,
-      "Злыдников Юрий Петрович": 73,
-      "Иванов Валерий Фёдорович": 16,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 16,
-      "Ковпак Лев Игоревич": 211,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 47,
-      "Субботин Константин Сергеевич": 46
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 20,
+      "gas:candidate-vibid:4664057150561": 73,
+      "gas:candidate-vibid:4664057166866": 16,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 16,
+      "gas:candidate-vibid:4664057150762": 211,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 47,
+      "gas:candidate-vibid:4664057150261": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8929,17 +8929,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 1,
-      "Головин Дмитрий Александрович": 8,
-      "Злыдников Юрий Петрович": 17,
-      "Иванов Валерий Фёдорович": 4,
-      "Иофе Лев Маркович": 0,
-      "Карашевич Константин Вячеславович": 5,
-      "Ковпак Лев Игоревич": 37,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 1,
-      "Парфенов Алексей Александрович": 9,
-      "Субботин Константин Сергеевич": 13
+      "gas:candidate-vibid:4664057166854": 1,
+      "gas:candidate-vibid:4664057168399": 8,
+      "gas:candidate-vibid:4664057150561": 17,
+      "gas:candidate-vibid:4664057166866": 4,
+      "gas:candidate-vibid:4664057166962": 0,
+      "gas:candidate-vibid:4664057150691": 5,
+      "gas:candidate-vibid:4664057150762": 37,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 1,
+      "gas:candidate-vibid:4664057167218": 9,
+      "gas:candidate-vibid:4664057150261": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -8990,17 +8990,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 5,
-      "Головин Дмитрий Александрович": 16,
-      "Злыдников Юрий Петрович": 48,
-      "Иванов Валерий Фёдорович": 5,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 10,
-      "Ковпак Лев Игоревич": 110,
-      "Коромыслов Анатолий Николаевич": 0,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 29,
-      "Субботин Константин Сергеевич": 47
+      "gas:candidate-vibid:4664057166854": 5,
+      "gas:candidate-vibid:4664057168399": 16,
+      "gas:candidate-vibid:4664057150561": 48,
+      "gas:candidate-vibid:4664057166866": 5,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 10,
+      "gas:candidate-vibid:4664057150762": 110,
+      "gas:candidate-vibid:4664057166974": 0,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 29,
+      "gas:candidate-vibid:4664057150261": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -9051,17 +9051,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 3,
-      "Головин Дмитрий Александрович": 4,
-      "Злыдников Юрий Петрович": 10,
-      "Иванов Валерий Фёдорович": 2,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 10,
-      "Ковпак Лев Игоревич": 140,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 2,
-      "Парфенов Алексей Александрович": 14,
-      "Субботин Константин Сергеевич": 12
+      "gas:candidate-vibid:4664057166854": 3,
+      "gas:candidate-vibid:4664057168399": 4,
+      "gas:candidate-vibid:4664057150561": 10,
+      "gas:candidate-vibid:4664057166866": 2,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 10,
+      "gas:candidate-vibid:4664057150762": 140,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 2,
+      "gas:candidate-vibid:4664057167218": 14,
+      "gas:candidate-vibid:4664057150261": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -9112,17 +9112,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 28,
-      "Головин Дмитрий Александрович": 31,
-      "Злыдников Юрий Петрович": 192,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 26,
-      "Ковпак Лев Игоревич": 391,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 58,
-      "Парфенов Алексей Александрович": 106,
-      "Субботин Константин Сергеевич": 77
+      "gas:candidate-vibid:4664057166854": 28,
+      "gas:candidate-vibid:4664057168399": 31,
+      "gas:candidate-vibid:4664057150561": 192,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 26,
+      "gas:candidate-vibid:4664057150762": 391,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 58,
+      "gas:candidate-vibid:4664057167218": 106,
+      "gas:candidate-vibid:4664057150261": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732918&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732918&type=464",
@@ -9173,17 +9173,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 73,
-      "Головин Дмитрий Александрович": 116,
-      "Злыдников Юрий Петрович": 107,
-      "Иванов Валерий Фёдорович": 55,
-      "Иофе Лев Маркович": 30,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 305,
-      "Коромыслов Анатолий Николаевич": 25,
-      "Пакулов Сергей Георгиевич": 31,
-      "Парфенов Алексей Александрович": 78,
-      "Субботин Константин Сергеевич": 89
+      "gas:candidate-vibid:4664057166854": 73,
+      "gas:candidate-vibid:4664057168399": 116,
+      "gas:candidate-vibid:4664057150561": 107,
+      "gas:candidate-vibid:4664057166866": 55,
+      "gas:candidate-vibid:4664057166962": 30,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 305,
+      "gas:candidate-vibid:4664057166974": 25,
+      "gas:candidate-vibid:4664057167183": 31,
+      "gas:candidate-vibid:4664057167218": 78,
+      "gas:candidate-vibid:4664057150261": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9234,17 +9234,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 60,
-      "Головин Дмитрий Александрович": 136,
-      "Злыдников Юрий Петрович": 179,
-      "Иванов Валерий Фёдорович": 63,
-      "Иофе Лев Маркович": 29,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 362,
-      "Коромыслов Анатолий Николаевич": 24,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 117,
-      "Субботин Константин Сергеевич": 81
+      "gas:candidate-vibid:4664057166854": 60,
+      "gas:candidate-vibid:4664057168399": 136,
+      "gas:candidate-vibid:4664057150561": 179,
+      "gas:candidate-vibid:4664057166866": 63,
+      "gas:candidate-vibid:4664057166962": 29,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 362,
+      "gas:candidate-vibid:4664057166974": 24,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 117,
+      "gas:candidate-vibid:4664057150261": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9295,17 +9295,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 76,
-      "Головин Дмитрий Александрович": 149,
-      "Злыдников Юрий Петрович": 172,
-      "Иванов Валерий Фёдорович": 40,
-      "Иофе Лев Маркович": 26,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 390,
-      "Коромыслов Анатолий Николаевич": 27,
-      "Пакулов Сергей Георгиевич": 50,
-      "Парфенов Алексей Александрович": 106,
-      "Субботин Константин Сергеевич": 135
+      "gas:candidate-vibid:4664057166854": 76,
+      "gas:candidate-vibid:4664057168399": 149,
+      "gas:candidate-vibid:4664057150561": 172,
+      "gas:candidate-vibid:4664057166866": 40,
+      "gas:candidate-vibid:4664057166962": 26,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 390,
+      "gas:candidate-vibid:4664057166974": 27,
+      "gas:candidate-vibid:4664057167183": 50,
+      "gas:candidate-vibid:4664057167218": 106,
+      "gas:candidate-vibid:4664057150261": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9356,17 +9356,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 43,
-      "Головин Дмитрий Александрович": 88,
-      "Злыдников Юрий Петрович": 156,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 20,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 255,
-      "Коромыслов Анатолий Николаевич": 19,
-      "Пакулов Сергей Георгиевич": 36,
-      "Парфенов Алексей Александрович": 76,
-      "Субботин Константин Сергеевич": 81
+      "gas:candidate-vibid:4664057166854": 43,
+      "gas:candidate-vibid:4664057168399": 88,
+      "gas:candidate-vibid:4664057150561": 156,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 20,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 255,
+      "gas:candidate-vibid:4664057166974": 19,
+      "gas:candidate-vibid:4664057167183": 36,
+      "gas:candidate-vibid:4664057167218": 76,
+      "gas:candidate-vibid:4664057150261": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9417,17 +9417,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 38,
-      "Головин Дмитрий Александрович": 71,
-      "Злыдников Юрий Петрович": 145,
-      "Иванов Валерий Фёдорович": 37,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 36,
-      "Ковпак Лев Игоревич": 246,
-      "Коромыслов Анатолий Николаевич": 19,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 79,
-      "Субботин Константин Сергеевич": 78
+      "gas:candidate-vibid:4664057166854": 38,
+      "gas:candidate-vibid:4664057168399": 71,
+      "gas:candidate-vibid:4664057150561": 145,
+      "gas:candidate-vibid:4664057166866": 37,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 36,
+      "gas:candidate-vibid:4664057150762": 246,
+      "gas:candidate-vibid:4664057166974": 19,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 79,
+      "gas:candidate-vibid:4664057150261": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9478,17 +9478,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 35,
-      "Головин Дмитрий Александрович": 82,
-      "Злыдников Юрий Петрович": 154,
-      "Иванов Валерий Фёдорович": 41,
-      "Иофе Лев Маркович": 18,
-      "Карашевич Константин Вячеславович": 39,
-      "Ковпак Лев Игоревич": 324,
-      "Коромыслов Анатолий Николаевич": 25,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 90,
-      "Субботин Константин Сергеевич": 97
+      "gas:candidate-vibid:4664057166854": 35,
+      "gas:candidate-vibid:4664057168399": 82,
+      "gas:candidate-vibid:4664057150561": 154,
+      "gas:candidate-vibid:4664057166866": 41,
+      "gas:candidate-vibid:4664057166962": 18,
+      "gas:candidate-vibid:4664057150691": 39,
+      "gas:candidate-vibid:4664057150762": 324,
+      "gas:candidate-vibid:4664057166974": 25,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 90,
+      "gas:candidate-vibid:4664057150261": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9539,17 +9539,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 60,
-      "Головин Дмитрий Александрович": 84,
-      "Злыдников Юрий Петрович": 149,
-      "Иванов Валерий Фёдорович": 49,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 51,
-      "Ковпак Лев Игоревич": 319,
-      "Коромыслов Анатолий Николаевич": 28,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 110,
-      "Субботин Константин Сергеевич": 108
+      "gas:candidate-vibid:4664057166854": 60,
+      "gas:candidate-vibid:4664057168399": 84,
+      "gas:candidate-vibid:4664057150561": 149,
+      "gas:candidate-vibid:4664057166866": 49,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 51,
+      "gas:candidate-vibid:4664057150762": 319,
+      "gas:candidate-vibid:4664057166974": 28,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 110,
+      "gas:candidate-vibid:4664057150261": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9600,17 +9600,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 44,
-      "Головин Дмитрий Александрович": 80,
-      "Злыдников Юрий Петрович": 152,
-      "Иванов Валерий Фёдорович": 53,
-      "Иофе Лев Маркович": 20,
-      "Карашевич Константин Вячеславович": 45,
-      "Ковпак Лев Игоревич": 270,
-      "Коромыслов Анатолий Николаевич": 20,
-      "Пакулов Сергей Георгиевич": 31,
-      "Парфенов Алексей Александрович": 71,
-      "Субботин Константин Сергеевич": 78
+      "gas:candidate-vibid:4664057166854": 44,
+      "gas:candidate-vibid:4664057168399": 80,
+      "gas:candidate-vibid:4664057150561": 152,
+      "gas:candidate-vibid:4664057166866": 53,
+      "gas:candidate-vibid:4664057166962": 20,
+      "gas:candidate-vibid:4664057150691": 45,
+      "gas:candidate-vibid:4664057150762": 270,
+      "gas:candidate-vibid:4664057166974": 20,
+      "gas:candidate-vibid:4664057167183": 31,
+      "gas:candidate-vibid:4664057167218": 71,
+      "gas:candidate-vibid:4664057150261": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9661,17 +9661,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 35,
-      "Головин Дмитрий Александрович": 88,
-      "Злыдников Юрий Петрович": 130,
-      "Иванов Валерий Фёдорович": 54,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 327,
-      "Коромыслов Анатолий Николаевич": 18,
-      "Пакулов Сергей Георгиевич": 26,
-      "Парфенов Алексей Александрович": 101,
-      "Субботин Константин Сергеевич": 102
+      "gas:candidate-vibid:4664057166854": 35,
+      "gas:candidate-vibid:4664057168399": 88,
+      "gas:candidate-vibid:4664057150561": 130,
+      "gas:candidate-vibid:4664057166866": 54,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 327,
+      "gas:candidate-vibid:4664057166974": 18,
+      "gas:candidate-vibid:4664057167183": 26,
+      "gas:candidate-vibid:4664057167218": 101,
+      "gas:candidate-vibid:4664057150261": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9722,17 +9722,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 55,
-      "Головин Дмитрий Александрович": 93,
-      "Злыдников Юрий Петрович": 140,
-      "Иванов Валерий Фёдорович": 74,
-      "Иофе Лев Маркович": 23,
-      "Карашевич Константин Вячеславович": 44,
-      "Ковпак Лев Игоревич": 364,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 27,
-      "Парфенов Алексей Александрович": 127,
-      "Субботин Константин Сергеевич": 119
+      "gas:candidate-vibid:4664057166854": 55,
+      "gas:candidate-vibid:4664057168399": 93,
+      "gas:candidate-vibid:4664057150561": 140,
+      "gas:candidate-vibid:4664057166866": 74,
+      "gas:candidate-vibid:4664057166962": 23,
+      "gas:candidate-vibid:4664057150691": 44,
+      "gas:candidate-vibid:4664057150762": 364,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 27,
+      "gas:candidate-vibid:4664057167218": 127,
+      "gas:candidate-vibid:4664057150261": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9783,17 +9783,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 56,
-      "Головин Дмитрий Александрович": 89,
-      "Злыдников Юрий Петрович": 102,
-      "Иванов Валерий Фёдорович": 51,
-      "Иофе Лев Маркович": 21,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 327,
-      "Коромыслов Анатолий Николаевич": 25,
-      "Пакулов Сергей Георгиевич": 31,
-      "Парфенов Алексей Александрович": 89,
-      "Субботин Константин Сергеевич": 103
+      "gas:candidate-vibid:4664057166854": 56,
+      "gas:candidate-vibid:4664057168399": 89,
+      "gas:candidate-vibid:4664057150561": 102,
+      "gas:candidate-vibid:4664057166866": 51,
+      "gas:candidate-vibid:4664057166962": 21,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 327,
+      "gas:candidate-vibid:4664057166974": 25,
+      "gas:candidate-vibid:4664057167183": 31,
+      "gas:candidate-vibid:4664057167218": 89,
+      "gas:candidate-vibid:4664057150261": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9844,17 +9844,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 47,
-      "Головин Дмитрий Александрович": 107,
-      "Злыдников Юрий Петрович": 127,
-      "Иванов Валерий Фёдорович": 47,
-      "Иофе Лев Маркович": 19,
-      "Карашевич Константин Вячеславович": 44,
-      "Ковпак Лев Игоревич": 291,
-      "Коромыслов Анатолий Николаевич": 16,
-      "Пакулов Сергей Георгиевич": 26,
-      "Парфенов Алексей Александрович": 135,
-      "Субботин Константин Сергеевич": 105
+      "gas:candidate-vibid:4664057166854": 47,
+      "gas:candidate-vibid:4664057168399": 107,
+      "gas:candidate-vibid:4664057150561": 127,
+      "gas:candidate-vibid:4664057166866": 47,
+      "gas:candidate-vibid:4664057166962": 19,
+      "gas:candidate-vibid:4664057150691": 44,
+      "gas:candidate-vibid:4664057150762": 291,
+      "gas:candidate-vibid:4664057166974": 16,
+      "gas:candidate-vibid:4664057167183": 26,
+      "gas:candidate-vibid:4664057167218": 135,
+      "gas:candidate-vibid:4664057150261": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9905,17 +9905,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 53,
-      "Головин Дмитрий Александрович": 90,
-      "Злыдников Юрий Петрович": 138,
-      "Иванов Валерий Фёдорович": 41,
-      "Иофе Лев Маркович": 24,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 276,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 98,
-      "Субботин Константин Сергеевич": 100
+      "gas:candidate-vibid:4664057166854": 53,
+      "gas:candidate-vibid:4664057168399": 90,
+      "gas:candidate-vibid:4664057150561": 138,
+      "gas:candidate-vibid:4664057166866": 41,
+      "gas:candidate-vibid:4664057166962": 24,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 276,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 98,
+      "gas:candidate-vibid:4664057150261": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -9966,17 +9966,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 71,
-      "Головин Дмитрий Александрович": 129,
-      "Злыдников Юрий Петрович": 133,
-      "Иванов Валерий Фёдорович": 45,
-      "Иофе Лев Маркович": 24,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 326,
-      "Коромыслов Анатолий Николаевич": 25,
-      "Пакулов Сергей Георгиевич": 33,
-      "Парфенов Алексей Александрович": 116,
-      "Субботин Константин Сергеевич": 110
+      "gas:candidate-vibid:4664057166854": 71,
+      "gas:candidate-vibid:4664057168399": 129,
+      "gas:candidate-vibid:4664057150561": 133,
+      "gas:candidate-vibid:4664057166866": 45,
+      "gas:candidate-vibid:4664057166962": 24,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 326,
+      "gas:candidate-vibid:4664057166974": 25,
+      "gas:candidate-vibid:4664057167183": 33,
+      "gas:candidate-vibid:4664057167218": 116,
+      "gas:candidate-vibid:4664057150261": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10027,17 +10027,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 50,
-      "Головин Дмитрий Александрович": 113,
-      "Злыдников Юрий Петрович": 126,
-      "Иванов Валерий Фёдорович": 46,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 297,
-      "Коромыслов Анатолий Николаевич": 25,
-      "Пакулов Сергей Георгиевич": 39,
-      "Парфенов Алексей Александрович": 58,
-      "Субботин Константин Сергеевич": 97
+      "gas:candidate-vibid:4664057166854": 50,
+      "gas:candidate-vibid:4664057168399": 113,
+      "gas:candidate-vibid:4664057150561": 126,
+      "gas:candidate-vibid:4664057166866": 46,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 297,
+      "gas:candidate-vibid:4664057166974": 25,
+      "gas:candidate-vibid:4664057167183": 39,
+      "gas:candidate-vibid:4664057167218": 58,
+      "gas:candidate-vibid:4664057150261": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10088,17 +10088,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 55,
-      "Головин Дмитрий Александрович": 97,
-      "Злыдников Юрий Петрович": 173,
-      "Иванов Валерий Фёдорович": 46,
-      "Иофе Лев Маркович": 20,
-      "Карашевич Константин Вячеславович": 54,
-      "Ковпак Лев Игоревич": 310,
-      "Коромыслов Анатолий Николаевич": 31,
-      "Пакулов Сергей Георгиевич": 29,
-      "Парфенов Алексей Александрович": 114,
-      "Субботин Константин Сергеевич": 119
+      "gas:candidate-vibid:4664057166854": 55,
+      "gas:candidate-vibid:4664057168399": 97,
+      "gas:candidate-vibid:4664057150561": 173,
+      "gas:candidate-vibid:4664057166866": 46,
+      "gas:candidate-vibid:4664057166962": 20,
+      "gas:candidate-vibid:4664057150691": 54,
+      "gas:candidate-vibid:4664057150762": 310,
+      "gas:candidate-vibid:4664057166974": 31,
+      "gas:candidate-vibid:4664057167183": 29,
+      "gas:candidate-vibid:4664057167218": 114,
+      "gas:candidate-vibid:4664057150261": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10149,17 +10149,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 50,
-      "Головин Дмитрий Александрович": 75,
-      "Злыдников Юрий Петрович": 139,
-      "Иванов Валерий Фёдорович": 40,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 295,
-      "Коромыслов Анатолий Николаевич": 18,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 77,
-      "Субботин Константин Сергеевич": 86
+      "gas:candidate-vibid:4664057166854": 50,
+      "gas:candidate-vibid:4664057168399": 75,
+      "gas:candidate-vibid:4664057150561": 139,
+      "gas:candidate-vibid:4664057166866": 40,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 295,
+      "gas:candidate-vibid:4664057166974": 18,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 77,
+      "gas:candidate-vibid:4664057150261": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10210,17 +10210,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 36,
-      "Головин Дмитрий Александрович": 49,
-      "Злыдников Юрий Петрович": 175,
-      "Иванов Валерий Фёдорович": 40,
-      "Иофе Лев Маркович": 20,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 296,
-      "Коромыслов Анатолий Николаевич": 16,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 87,
-      "Субботин Константин Сергеевич": 92
+      "gas:candidate-vibid:4664057166854": 36,
+      "gas:candidate-vibid:4664057168399": 49,
+      "gas:candidate-vibid:4664057150561": 175,
+      "gas:candidate-vibid:4664057166866": 40,
+      "gas:candidate-vibid:4664057166962": 20,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 296,
+      "gas:candidate-vibid:4664057166974": 16,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 87,
+      "gas:candidate-vibid:4664057150261": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10271,17 +10271,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 29,
-      "Головин Дмитрий Александрович": 52,
-      "Злыдников Юрий Петрович": 144,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 48,
-      "Ковпак Лев Игоревич": 310,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 97,
-      "Субботин Константин Сергеевич": 78
+      "gas:candidate-vibid:4664057166854": 29,
+      "gas:candidate-vibid:4664057168399": 52,
+      "gas:candidate-vibid:4664057150561": 144,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 48,
+      "gas:candidate-vibid:4664057150762": 310,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 97,
+      "gas:candidate-vibid:4664057150261": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10332,17 +10332,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 19,
-      "Головин Дмитрий Александрович": 29,
-      "Злыдников Юрий Петрович": 115,
-      "Иванов Валерий Фёдорович": 16,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 227,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 46,
-      "Субботин Константин Сергеевич": 60
+      "gas:candidate-vibid:4664057166854": 19,
+      "gas:candidate-vibid:4664057168399": 29,
+      "gas:candidate-vibid:4664057150561": 115,
+      "gas:candidate-vibid:4664057166866": 16,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 227,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 46,
+      "gas:candidate-vibid:4664057150261": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10393,17 +10393,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 157,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 16,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 386,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 58,
-      "Субботин Константин Сергеевич": 93
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 157,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 16,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 386,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 58,
+      "gas:candidate-vibid:4664057150261": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10454,17 +10454,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 31,
-      "Головин Дмитрий Александрович": 64,
-      "Злыдников Юрий Петрович": 99,
-      "Иванов Валерий Фёдорович": 53,
-      "Иофе Лев Маркович": 17,
-      "Карашевич Константин Вячеславович": 58,
-      "Ковпак Лев Игоревич": 462,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 82,
-      "Субботин Константин Сергеевич": 105
+      "gas:candidate-vibid:4664057166854": 31,
+      "gas:candidate-vibid:4664057168399": 64,
+      "gas:candidate-vibid:4664057150561": 99,
+      "gas:candidate-vibid:4664057166866": 53,
+      "gas:candidate-vibid:4664057166962": 17,
+      "gas:candidate-vibid:4664057150691": 58,
+      "gas:candidate-vibid:4664057150762": 462,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 82,
+      "gas:candidate-vibid:4664057150261": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10515,17 +10515,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 35,
-      "Головин Дмитрий Александрович": 44,
-      "Злыдников Юрий Петрович": 125,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 18,
-      "Карашевич Константин Вячеславович": 38,
-      "Ковпак Лев Игоревич": 296,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 69,
-      "Субботин Константин Сергеевич": 97
+      "gas:candidate-vibid:4664057166854": 35,
+      "gas:candidate-vibid:4664057168399": 44,
+      "gas:candidate-vibid:4664057150561": 125,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 18,
+      "gas:candidate-vibid:4664057150691": 38,
+      "gas:candidate-vibid:4664057150762": 296,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 69,
+      "gas:candidate-vibid:4664057150261": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10576,17 +10576,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 36,
-      "Злыдников Юрий Петрович": 155,
-      "Иванов Валерий Фёдорович": 50,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 41,
-      "Ковпак Лев Игоревич": 355,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 82,
-      "Субботин Константин Сергеевич": 82
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 36,
+      "gas:candidate-vibid:4664057150561": 155,
+      "gas:candidate-vibid:4664057166866": 50,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 41,
+      "gas:candidate-vibid:4664057150762": 355,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 82,
+      "gas:candidate-vibid:4664057150261": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10637,17 +10637,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 44,
-      "Злыдников Юрий Петрович": 114,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 46,
-      "Ковпак Лев Игоревич": 291,
-      "Коромыслов Анатолий Николаевич": 16,
-      "Пакулов Сергей Георгиевич": 20,
-      "Парфенов Алексей Александрович": 68,
-      "Субботин Константин Сергеевич": 86
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 44,
+      "gas:candidate-vibid:4664057150561": 114,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 46,
+      "gas:candidate-vibid:4664057150762": 291,
+      "gas:candidate-vibid:4664057166974": 16,
+      "gas:candidate-vibid:4664057167183": 20,
+      "gas:candidate-vibid:4664057167218": 68,
+      "gas:candidate-vibid:4664057150261": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10698,17 +10698,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 114,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 243,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 65,
-      "Субботин Константин Сергеевич": 71
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 114,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 243,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 65,
+      "gas:candidate-vibid:4664057150261": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10759,17 +10759,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 29,
-      "Головин Дмитрий Александрович": 42,
-      "Злыдников Юрий Петрович": 139,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 33,
-      "Ковпак Лев Игоревич": 287,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 63,
-      "Субботин Константин Сергеевич": 80
+      "gas:candidate-vibid:4664057166854": 29,
+      "gas:candidate-vibid:4664057168399": 42,
+      "gas:candidate-vibid:4664057150561": 139,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 33,
+      "gas:candidate-vibid:4664057150762": 287,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 63,
+      "gas:candidate-vibid:4664057150261": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10820,17 +10820,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 42,
-      "Головин Дмитрий Александрович": 41,
-      "Злыдников Юрий Петрович": 147,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 48,
-      "Ковпак Лев Игоревич": 336,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 21,
-      "Парфенов Алексей Александрович": 100,
-      "Субботин Константин Сергеевич": 88
+      "gas:candidate-vibid:4664057166854": 42,
+      "gas:candidate-vibid:4664057168399": 41,
+      "gas:candidate-vibid:4664057150561": 147,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 48,
+      "gas:candidate-vibid:4664057150762": 336,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 21,
+      "gas:candidate-vibid:4664057167218": 100,
+      "gas:candidate-vibid:4664057150261": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10881,17 +10881,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 23,
-      "Головин Дмитрий Александрович": 50,
-      "Злыдников Юрий Петрович": 79,
-      "Иванов Валерий Фёдорович": 22,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 228,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 9,
-      "Парфенов Алексей Александрович": 31,
-      "Субботин Константин Сергеевич": 59
+      "gas:candidate-vibid:4664057166854": 23,
+      "gas:candidate-vibid:4664057168399": 50,
+      "gas:candidate-vibid:4664057150561": 79,
+      "gas:candidate-vibid:4664057166866": 22,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 228,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 9,
+      "gas:candidate-vibid:4664057167218": 31,
+      "gas:candidate-vibid:4664057150261": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -10942,17 +10942,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 89,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 232,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 47,
-      "Субботин Константин Сергеевич": 60
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 89,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 232,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 47,
+      "gas:candidate-vibid:4664057150261": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11003,17 +11003,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 26,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 124,
-      "Иванов Валерий Фёдорович": 27,
-      "Иофе Лев Маркович": 21,
-      "Карашевич Константин Вячеславович": 42,
-      "Ковпак Лев Игоревич": 285,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 56,
-      "Субботин Константин Сергеевич": 72
+      "gas:candidate-vibid:4664057166854": 26,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 124,
+      "gas:candidate-vibid:4664057166866": 27,
+      "gas:candidate-vibid:4664057166962": 21,
+      "gas:candidate-vibid:4664057150691": 42,
+      "gas:candidate-vibid:4664057150762": 285,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 56,
+      "gas:candidate-vibid:4664057150261": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11064,17 +11064,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 53,
-      "Злыдников Юрий Петрович": 127,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 33,
-      "Ковпак Лев Игоревич": 338,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 15,
-      "Парфенов Алексей Александрович": 61,
-      "Субботин Константин Сергеевич": 76
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 53,
+      "gas:candidate-vibid:4664057150561": 127,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 33,
+      "gas:candidate-vibid:4664057150762": 338,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 15,
+      "gas:candidate-vibid:4664057167218": 61,
+      "gas:candidate-vibid:4664057150261": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11125,17 +11125,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 42,
-      "Злыдников Юрий Петрович": 140,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 312,
-      "Коромыслов Анатолий Николаевич": 14,
-      "Пакулов Сергей Георгиевич": 20,
-      "Парфенов Алексей Александрович": 100,
-      "Субботин Константин Сергеевич": 97
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 42,
+      "gas:candidate-vibid:4664057150561": 140,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 312,
+      "gas:candidate-vibid:4664057166974": 14,
+      "gas:candidate-vibid:4664057167183": 20,
+      "gas:candidate-vibid:4664057167218": 100,
+      "gas:candidate-vibid:4664057150261": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11186,17 +11186,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 31,
-      "Головин Дмитрий Александрович": 50,
-      "Злыдников Юрий Петрович": 149,
-      "Иванов Валерий Фёдорович": 46,
-      "Иофе Лев Маркович": 19,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 374,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 109,
-      "Субботин Константин Сергеевич": 92
+      "gas:candidate-vibid:4664057166854": 31,
+      "gas:candidate-vibid:4664057168399": 50,
+      "gas:candidate-vibid:4664057150561": 149,
+      "gas:candidate-vibid:4664057166866": 46,
+      "gas:candidate-vibid:4664057166962": 19,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 374,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 109,
+      "gas:candidate-vibid:4664057150261": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11247,17 +11247,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 142,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 48,
-      "Ковпак Лев Игоревич": 281,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 54,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 142,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 48,
+      "gas:candidate-vibid:4664057150762": 281,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 54,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11308,17 +11308,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 30,
-      "Злыдников Юрий Петрович": 67,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 237,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 50,
-      "Субботин Константин Сергеевич": 64
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 30,
+      "gas:candidate-vibid:4664057150561": 67,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 237,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 50,
+      "gas:candidate-vibid:4664057150261": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11369,17 +11369,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 8,
-      "Головин Дмитрий Александрович": 19,
-      "Злыдников Юрий Петрович": 61,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 205,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 5,
-      "Парфенов Алексей Александрович": 44,
-      "Субботин Константин Сергеевич": 66
+      "gas:candidate-vibid:4664057166854": 8,
+      "gas:candidate-vibid:4664057168399": 19,
+      "gas:candidate-vibid:4664057150561": 61,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 205,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 5,
+      "gas:candidate-vibid:4664057167218": 44,
+      "gas:candidate-vibid:4664057150261": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11430,17 +11430,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 21,
-      "Злыдников Юрий Петрович": 125,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 201,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 49,
-      "Субботин Константин Сергеевич": 76
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 21,
+      "gas:candidate-vibid:4664057150561": 125,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 201,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 49,
+      "gas:candidate-vibid:4664057150261": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11491,17 +11491,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 133,
-      "Иванов Валерий Фёдорович": 28,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 21,
-      "Ковпак Лев Игоревич": 216,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 52,
-      "Субботин Константин Сергеевич": 76
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 133,
+      "gas:candidate-vibid:4664057166866": 28,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 21,
+      "gas:candidate-vibid:4664057150762": 216,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 52,
+      "gas:candidate-vibid:4664057150261": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11552,17 +11552,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 40,
-      "Головин Дмитрий Александрович": 40,
-      "Злыдников Юрий Петрович": 145,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 16,
-      "Карашевич Константин Вячеславович": 25,
-      "Ковпак Лев Игоревич": 291,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 20,
-      "Парфенов Алексей Александрович": 89,
-      "Субботин Константин Сергеевич": 89
+      "gas:candidate-vibid:4664057166854": 40,
+      "gas:candidate-vibid:4664057168399": 40,
+      "gas:candidate-vibid:4664057150561": 145,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 16,
+      "gas:candidate-vibid:4664057150691": 25,
+      "gas:candidate-vibid:4664057150762": 291,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 20,
+      "gas:candidate-vibid:4664057167218": 89,
+      "gas:candidate-vibid:4664057150261": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11613,17 +11613,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 33,
-      "Головин Дмитрий Александрович": 43,
-      "Злыдников Юрий Петрович": 147,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 17,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 330,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 89,
-      "Субботин Константин Сергеевич": 111
+      "gas:candidate-vibid:4664057166854": 33,
+      "gas:candidate-vibid:4664057168399": 43,
+      "gas:candidate-vibid:4664057150561": 147,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 17,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 330,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 89,
+      "gas:candidate-vibid:4664057150261": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11674,17 +11674,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 34,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 146,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 311,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 68,
-      "Субботин Константин Сергеевич": 76
+      "gas:candidate-vibid:4664057166854": 34,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 146,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 311,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 68,
+      "gas:candidate-vibid:4664057150261": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11735,17 +11735,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 26,
-      "Злыдников Юрий Петрович": 67,
-      "Иванов Валерий Фёдорович": 12,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 13,
-      "Ковпак Лев Игоревич": 157,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 36,
-      "Субботин Константин Сергеевич": 43
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 26,
+      "gas:candidate-vibid:4664057150561": 67,
+      "gas:candidate-vibid:4664057166866": 12,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 13,
+      "gas:candidate-vibid:4664057150762": 157,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 36,
+      "gas:candidate-vibid:4664057150261": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11796,17 +11796,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 43,
-      "Головин Дмитрий Александрович": 53,
-      "Злыдников Юрий Петрович": 137,
-      "Иванов Валерий Фёдорович": 25,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 43,
-      "Ковпак Лев Игоревич": 277,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 15,
-      "Парфенов Алексей Александрович": 96,
-      "Субботин Константин Сергеевич": 94
+      "gas:candidate-vibid:4664057166854": 43,
+      "gas:candidate-vibid:4664057168399": 53,
+      "gas:candidate-vibid:4664057150561": 137,
+      "gas:candidate-vibid:4664057166866": 25,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 43,
+      "gas:candidate-vibid:4664057150762": 277,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 15,
+      "gas:candidate-vibid:4664057167218": 96,
+      "gas:candidate-vibid:4664057150261": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11857,17 +11857,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 37,
-      "Головин Дмитрий Александрович": 53,
-      "Злыдников Юрий Петрович": 145,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 13,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 287,
-      "Коромыслов Анатолий Николаевич": 16,
-      "Пакулов Сергей Георгиевич": 11,
-      "Парфенов Алексей Александрович": 96,
-      "Субботин Константин Сергеевич": 77
+      "gas:candidate-vibid:4664057166854": 37,
+      "gas:candidate-vibid:4664057168399": 53,
+      "gas:candidate-vibid:4664057150561": 145,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 13,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 287,
+      "gas:candidate-vibid:4664057166974": 16,
+      "gas:candidate-vibid:4664057167183": 11,
+      "gas:candidate-vibid:4664057167218": 96,
+      "gas:candidate-vibid:4664057150261": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11918,17 +11918,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 27,
-      "Головин Дмитрий Александрович": 42,
-      "Злыдников Юрий Петрович": 114,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 258,
-      "Коромыслов Анатолий Николаевич": 17,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 63,
-      "Субботин Константин Сергеевич": 86
+      "gas:candidate-vibid:4664057166854": 27,
+      "gas:candidate-vibid:4664057168399": 42,
+      "gas:candidate-vibid:4664057150561": 114,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 258,
+      "gas:candidate-vibid:4664057166974": 17,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 63,
+      "gas:candidate-vibid:4664057150261": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -11979,17 +11979,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 44,
-      "Головин Дмитрий Александрович": 63,
-      "Злыдников Юрий Петрович": 109,
-      "Иванов Валерий Фёдорович": 28,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 22,
-      "Ковпак Лев Игоревич": 278,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 17,
-      "Парфенов Алексей Александрович": 74,
-      "Субботин Константин Сергеевич": 77
+      "gas:candidate-vibid:4664057166854": 44,
+      "gas:candidate-vibid:4664057168399": 63,
+      "gas:candidate-vibid:4664057150561": 109,
+      "gas:candidate-vibid:4664057166866": 28,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 22,
+      "gas:candidate-vibid:4664057150762": 278,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 17,
+      "gas:candidate-vibid:4664057167218": 74,
+      "gas:candidate-vibid:4664057150261": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12040,17 +12040,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 27,
-      "Головин Дмитрий Александрович": 52,
-      "Злыдников Юрий Петрович": 92,
-      "Иванов Валерий Фёдорович": 25,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 35,
-      "Ковпак Лев Игоревич": 285,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 74,
-      "Субботин Константин Сергеевич": 70
+      "gas:candidate-vibid:4664057166854": 27,
+      "gas:candidate-vibid:4664057168399": 52,
+      "gas:candidate-vibid:4664057150561": 92,
+      "gas:candidate-vibid:4664057166866": 25,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 35,
+      "gas:candidate-vibid:4664057150762": 285,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 74,
+      "gas:candidate-vibid:4664057150261": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12101,17 +12101,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 47,
-      "Головин Дмитрий Александрович": 60,
-      "Злыдников Юрий Петрович": 175,
-      "Иванов Валерий Фёдорович": 38,
-      "Иофе Лев Маркович": 22,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 321,
-      "Коромыслов Анатолий Николаевич": 22,
-      "Пакулов Сергей Георгиевич": 21,
-      "Парфенов Алексей Александрович": 102,
-      "Субботин Константин Сергеевич": 82
+      "gas:candidate-vibid:4664057166854": 47,
+      "gas:candidate-vibid:4664057168399": 60,
+      "gas:candidate-vibid:4664057150561": 175,
+      "gas:candidate-vibid:4664057166866": 38,
+      "gas:candidate-vibid:4664057166962": 22,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 321,
+      "gas:candidate-vibid:4664057166974": 22,
+      "gas:candidate-vibid:4664057167183": 21,
+      "gas:candidate-vibid:4664057167218": 102,
+      "gas:candidate-vibid:4664057150261": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12162,17 +12162,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 21,
-      "Головин Дмитрий Александрович": 36,
-      "Злыдников Юрий Петрович": 67,
-      "Иванов Валерий Фёдорович": 30,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 25,
-      "Ковпак Лев Игоревич": 183,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 50,
-      "Субботин Константин Сергеевич": 71
+      "gas:candidate-vibid:4664057166854": 21,
+      "gas:candidate-vibid:4664057168399": 36,
+      "gas:candidate-vibid:4664057150561": 67,
+      "gas:candidate-vibid:4664057166866": 30,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 25,
+      "gas:candidate-vibid:4664057150762": 183,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 50,
+      "gas:candidate-vibid:4664057150261": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12223,17 +12223,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 37,
-      "Головин Дмитрий Александрович": 101,
-      "Злыдников Юрий Петрович": 89,
-      "Иванов Валерий Фёдорович": 47,
-      "Иофе Лев Маркович": 28,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 263,
-      "Коромыслов Анатолий Николаевич": 20,
-      "Пакулов Сергей Георгиевич": 24,
-      "Парфенов Алексей Александрович": 67,
-      "Субботин Константин Сергеевич": 83
+      "gas:candidate-vibid:4664057166854": 37,
+      "gas:candidate-vibid:4664057168399": 101,
+      "gas:candidate-vibid:4664057150561": 89,
+      "gas:candidate-vibid:4664057166866": 47,
+      "gas:candidate-vibid:4664057166962": 28,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 263,
+      "gas:candidate-vibid:4664057166974": 20,
+      "gas:candidate-vibid:4664057167183": 24,
+      "gas:candidate-vibid:4664057167218": 67,
+      "gas:candidate-vibid:4664057150261": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12284,17 +12284,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 53,
-      "Злыдников Юрий Петрович": 171,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 46,
-      "Ковпак Лев Игоревич": 301,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 96,
-      "Субботин Константин Сергеевич": 95
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 53,
+      "gas:candidate-vibid:4664057150561": 171,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 46,
+      "gas:candidate-vibid:4664057150762": 301,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 96,
+      "gas:candidate-vibid:4664057150261": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12345,17 +12345,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 39,
-      "Злыдников Юрий Петрович": 99,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 17,
-      "Карашевич Константин Вячеславович": 27,
-      "Ковпак Лев Игоревич": 269,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 18,
-      "Парфенов Алексей Александрович": 88,
-      "Субботин Константин Сергеевич": 87
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 39,
+      "gas:candidate-vibid:4664057150561": 99,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 17,
+      "gas:candidate-vibid:4664057150691": 27,
+      "gas:candidate-vibid:4664057150762": 269,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 18,
+      "gas:candidate-vibid:4664057167218": 88,
+      "gas:candidate-vibid:4664057150261": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12406,17 +12406,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 26,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 79,
-      "Иванов Валерий Фёдорович": 40,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 49,
-      "Ковпак Лев Игоревич": 225,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 61,
-      "Субботин Константин Сергеевич": 66
+      "gas:candidate-vibid:4664057166854": 26,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 79,
+      "gas:candidate-vibid:4664057166866": 40,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 49,
+      "gas:candidate-vibid:4664057150762": 225,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 61,
+      "gas:candidate-vibid:4664057150261": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12467,17 +12467,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 32,
-      "Головин Дмитрий Александрович": 20,
-      "Злыдников Юрий Петрович": 22,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 17,
-      "Ковпак Лев Игоревич": 197,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 20,
-      "Субботин Константин Сергеевич": 56
+      "gas:candidate-vibid:4664057166854": 32,
+      "gas:candidate-vibid:4664057168399": 20,
+      "gas:candidate-vibid:4664057150561": 22,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 17,
+      "gas:candidate-vibid:4664057150762": 197,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 20,
+      "gas:candidate-vibid:4664057150261": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12528,17 +12528,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 12,
-      "Головин Дмитрий Александрович": 12,
-      "Злыдников Юрий Петрович": 56,
-      "Иванов Валерий Фёдорович": 21,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 19,
-      "Ковпак Лев Игоревич": 193,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 15,
-      "Парфенов Алексей Александрович": 39,
-      "Субботин Константин Сергеевич": 42
+      "gas:candidate-vibid:4664057166854": 12,
+      "gas:candidate-vibid:4664057168399": 12,
+      "gas:candidate-vibid:4664057150561": 56,
+      "gas:candidate-vibid:4664057166866": 21,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 19,
+      "gas:candidate-vibid:4664057150762": 193,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 15,
+      "gas:candidate-vibid:4664057167218": 39,
+      "gas:candidate-vibid:4664057150261": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12589,17 +12589,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 35,
-      "Головин Дмитрий Александрович": 37,
-      "Злыдников Юрий Петрович": 56,
-      "Иванов Валерий Фёдорович": 27,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 185,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 15,
-      "Парфенов Алексей Александрович": 71,
-      "Субботин Константин Сергеевич": 81
+      "gas:candidate-vibid:4664057166854": 35,
+      "gas:candidate-vibid:4664057168399": 37,
+      "gas:candidate-vibid:4664057150561": 56,
+      "gas:candidate-vibid:4664057166866": 27,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 185,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 15,
+      "gas:candidate-vibid:4664057167218": 71,
+      "gas:candidate-vibid:4664057150261": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12650,17 +12650,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 30,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 90,
-      "Иванов Валерий Фёдорович": 18,
-      "Иофе Лев Маркович": 8,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 194,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 55,
-      "Субботин Константин Сергеевич": 60
+      "gas:candidate-vibid:4664057166854": 30,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 90,
+      "gas:candidate-vibid:4664057166866": 18,
+      "gas:candidate-vibid:4664057166962": 8,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 194,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 55,
+      "gas:candidate-vibid:4664057150261": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12711,17 +12711,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 54,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 181,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 21,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 330,
-      "Коромыслов Анатолий Николаевич": 18,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 99,
-      "Субботин Константин Сергеевич": 105
+      "gas:candidate-vibid:4664057166854": 54,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 181,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 21,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 330,
+      "gas:candidate-vibid:4664057166974": 18,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 99,
+      "gas:candidate-vibid:4664057150261": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12772,17 +12772,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 34,
-      "Головин Дмитрий Александрович": 44,
-      "Злыдников Юрий Петрович": 154,
-      "Иванов Валерий Фёдорович": 37,
-      "Иофе Лев Маркович": 15,
-      "Карашевич Константин Вячеславович": 33,
-      "Ковпак Лев Игоревич": 296,
-      "Коромыслов Анатолий Николаевич": 9,
-      "Пакулов Сергей Георгиевич": 11,
-      "Парфенов Алексей Александрович": 78,
-      "Субботин Константин Сергеевич": 89
+      "gas:candidate-vibid:4664057166854": 34,
+      "gas:candidate-vibid:4664057168399": 44,
+      "gas:candidate-vibid:4664057150561": 154,
+      "gas:candidate-vibid:4664057166866": 37,
+      "gas:candidate-vibid:4664057166962": 15,
+      "gas:candidate-vibid:4664057150691": 33,
+      "gas:candidate-vibid:4664057150762": 296,
+      "gas:candidate-vibid:4664057166974": 9,
+      "gas:candidate-vibid:4664057167183": 11,
+      "gas:candidate-vibid:4664057167218": 78,
+      "gas:candidate-vibid:4664057150261": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12833,17 +12833,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 48,
-      "Головин Дмитрий Александрович": 37,
-      "Злыдников Юрий Петрович": 174,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 18,
-      "Карашевич Константин Вячеславович": 36,
-      "Ковпак Лев Игоревич": 259,
-      "Коромыслов Анатолий Николаевич": 21,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 76,
-      "Субботин Константин Сергеевич": 96
+      "gas:candidate-vibid:4664057166854": 48,
+      "gas:candidate-vibid:4664057168399": 37,
+      "gas:candidate-vibid:4664057150561": 174,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 18,
+      "gas:candidate-vibid:4664057150691": 36,
+      "gas:candidate-vibid:4664057150762": 259,
+      "gas:candidate-vibid:4664057166974": 21,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 76,
+      "gas:candidate-vibid:4664057150261": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12894,17 +12894,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 34,
-      "Злыдников Юрий Петрович": 138,
-      "Иванов Валерий Фёдорович": 23,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 25,
-      "Ковпак Лев Игоревич": 234,
-      "Коромыслов Анатолий Николаевич": 13,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 64,
-      "Субботин Константин Сергеевич": 100
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 34,
+      "gas:candidate-vibid:4664057150561": 138,
+      "gas:candidate-vibid:4664057166866": 23,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 25,
+      "gas:candidate-vibid:4664057150762": 234,
+      "gas:candidate-vibid:4664057166974": 13,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 64,
+      "gas:candidate-vibid:4664057150261": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -12955,17 +12955,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 37,
-      "Головин Дмитрий Александрович": 18,
-      "Злыдников Юрий Петрович": 122,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 18,
-      "Ковпак Лев Игоревич": 236,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 57,
-      "Субботин Константин Сергеевич": 84
+      "gas:candidate-vibid:4664057166854": 37,
+      "gas:candidate-vibid:4664057168399": 18,
+      "gas:candidate-vibid:4664057150561": 122,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 18,
+      "gas:candidate-vibid:4664057150762": 236,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 57,
+      "gas:candidate-vibid:4664057150261": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13016,17 +13016,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 45,
-      "Головин Дмитрий Александрович": 39,
-      "Злыдников Юрий Петрович": 168,
-      "Иванов Валерий Фёдорович": 37,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 38,
-      "Ковпак Лев Игоревич": 308,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 23,
-      "Парфенов Алексей Александрович": 82,
-      "Субботин Константин Сергеевич": 84
+      "gas:candidate-vibid:4664057166854": 45,
+      "gas:candidate-vibid:4664057168399": 39,
+      "gas:candidate-vibid:4664057150561": 168,
+      "gas:candidate-vibid:4664057166866": 37,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 38,
+      "gas:candidate-vibid:4664057150762": 308,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 23,
+      "gas:candidate-vibid:4664057167218": 82,
+      "gas:candidate-vibid:4664057150261": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13077,17 +13077,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 38,
-      "Головин Дмитрий Александрович": 40,
-      "Злыдников Юрий Петрович": 118,
-      "Иванов Валерий Фёдорович": 27,
-      "Иофе Лев Маркович": 16,
-      "Карашевич Константин Вячеславович": 21,
-      "Ковпак Лев Игоревич": 263,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 66,
-      "Субботин Константин Сергеевич": 94
+      "gas:candidate-vibid:4664057166854": 38,
+      "gas:candidate-vibid:4664057168399": 40,
+      "gas:candidate-vibid:4664057150561": 118,
+      "gas:candidate-vibid:4664057166866": 27,
+      "gas:candidate-vibid:4664057166962": 16,
+      "gas:candidate-vibid:4664057150691": 21,
+      "gas:candidate-vibid:4664057150762": 263,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 66,
+      "gas:candidate-vibid:4664057150261": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13138,17 +13138,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 23,
-      "Головин Дмитрий Александрович": 39,
-      "Злыдников Юрий Петрович": 163,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 21,
-      "Карашевич Константин Вячеславович": 39,
-      "Ковпак Лев Игоревич": 290,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 68,
-      "Субботин Константин Сергеевич": 95
+      "gas:candidate-vibid:4664057166854": 23,
+      "gas:candidate-vibid:4664057168399": 39,
+      "gas:candidate-vibid:4664057150561": 163,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 21,
+      "gas:candidate-vibid:4664057150691": 39,
+      "gas:candidate-vibid:4664057150762": 290,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 68,
+      "gas:candidate-vibid:4664057150261": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13199,17 +13199,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 43,
-      "Головин Дмитрий Александрович": 57,
-      "Злыдников Юрий Петрович": 151,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 21,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 367,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 28,
-      "Парфенов Алексей Александрович": 92,
-      "Субботин Константин Сергеевич": 102
+      "gas:candidate-vibid:4664057166854": 43,
+      "gas:candidate-vibid:4664057168399": 57,
+      "gas:candidate-vibid:4664057150561": 151,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 21,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 367,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 28,
+      "gas:candidate-vibid:4664057167218": 92,
+      "gas:candidate-vibid:4664057150261": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13260,17 +13260,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 32,
-      "Головин Дмитрий Александрович": 48,
-      "Злыдников Юрий Петрович": 188,
-      "Иванов Валерий Фёдорович": 31,
-      "Иофе Лев Маркович": 24,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 293,
-      "Коромыслов Анатолий Николаевич": 21,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 113,
-      "Субботин Константин Сергеевич": 106
+      "gas:candidate-vibid:4664057166854": 32,
+      "gas:candidate-vibid:4664057168399": 48,
+      "gas:candidate-vibid:4664057150561": 188,
+      "gas:candidate-vibid:4664057166866": 31,
+      "gas:candidate-vibid:4664057166962": 24,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 293,
+      "gas:candidate-vibid:4664057166974": 21,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 113,
+      "gas:candidate-vibid:4664057150261": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13321,17 +13321,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 35,
-      "Головин Дмитрий Александрович": 30,
-      "Злыдников Юрий Петрович": 137,
-      "Иванов Валерий Фёдорович": 39,
-      "Иофе Лев Маркович": 18,
-      "Карашевич Константин Вячеславович": 16,
-      "Ковпак Лев Игоревич": 255,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 9,
-      "Парфенов Алексей Александрович": 46,
-      "Субботин Константин Сергеевич": 69
+      "gas:candidate-vibid:4664057166854": 35,
+      "gas:candidate-vibid:4664057168399": 30,
+      "gas:candidate-vibid:4664057150561": 137,
+      "gas:candidate-vibid:4664057166866": 39,
+      "gas:candidate-vibid:4664057166962": 18,
+      "gas:candidate-vibid:4664057150691": 16,
+      "gas:candidate-vibid:4664057150762": 255,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 9,
+      "gas:candidate-vibid:4664057167218": 46,
+      "gas:candidate-vibid:4664057150261": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13382,17 +13382,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 34,
-      "Головин Дмитрий Александрович": 22,
-      "Злыдников Юрий Петрович": 96,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 18,
-      "Ковпак Лев Игоревич": 187,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 13,
-      "Парфенов Алексей Александрович": 76,
-      "Субботин Константин Сергеевич": 64
+      "gas:candidate-vibid:4664057166854": 34,
+      "gas:candidate-vibid:4664057168399": 22,
+      "gas:candidate-vibid:4664057150561": 96,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 18,
+      "gas:candidate-vibid:4664057150762": 187,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 13,
+      "gas:candidate-vibid:4664057167218": 76,
+      "gas:candidate-vibid:4664057150261": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13443,17 +13443,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 39,
-      "Головин Дмитрий Александрович": 35,
-      "Злыдников Юрий Петрович": 126,
-      "Иванов Валерий Фёдорович": 40,
-      "Иофе Лев Маркович": 20,
-      "Карашевич Константин Вячеславович": 37,
-      "Ковпак Лев Игоревич": 300,
-      "Коромыслов Анатолий Николаевич": 16,
-      "Пакулов Сергей Георгиевич": 21,
-      "Парфенов Алексей Александрович": 83,
-      "Субботин Константин Сергеевич": 102
+      "gas:candidate-vibid:4664057166854": 39,
+      "gas:candidate-vibid:4664057168399": 35,
+      "gas:candidate-vibid:4664057150561": 126,
+      "gas:candidate-vibid:4664057166866": 40,
+      "gas:candidate-vibid:4664057166962": 20,
+      "gas:candidate-vibid:4664057150691": 37,
+      "gas:candidate-vibid:4664057150762": 300,
+      "gas:candidate-vibid:4664057166974": 16,
+      "gas:candidate-vibid:4664057167183": 21,
+      "gas:candidate-vibid:4664057167218": 83,
+      "gas:candidate-vibid:4664057150261": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13504,17 +13504,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 46,
-      "Головин Дмитрий Александрович": 41,
-      "Злыдников Юрий Петрович": 149,
-      "Иванов Валерий Фёдорович": 29,
-      "Иофе Лев Маркович": 29,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 290,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 16,
-      "Парфенов Алексей Александрович": 63,
-      "Субботин Константин Сергеевич": 72
+      "gas:candidate-vibid:4664057166854": 46,
+      "gas:candidate-vibid:4664057168399": 41,
+      "gas:candidate-vibid:4664057150561": 149,
+      "gas:candidate-vibid:4664057166866": 29,
+      "gas:candidate-vibid:4664057166962": 29,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 290,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 16,
+      "gas:candidate-vibid:4664057167218": 63,
+      "gas:candidate-vibid:4664057150261": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13565,17 +13565,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 27,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 44,
-      "Иванов Валерий Фёдорович": 21,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 21,
-      "Ковпак Лев Игоревич": 313,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 9,
-      "Парфенов Алексей Александрович": 64,
-      "Субботин Константин Сергеевич": 53
+      "gas:candidate-vibid:4664057166854": 27,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 44,
+      "gas:candidate-vibid:4664057166866": 21,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 21,
+      "gas:candidate-vibid:4664057150762": 313,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 9,
+      "gas:candidate-vibid:4664057167218": 64,
+      "gas:candidate-vibid:4664057150261": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13626,17 +13626,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 15,
-      "Злыдников Юрий Петрович": 51,
-      "Иванов Валерий Фёдорович": 12,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 34,
-      "Ковпак Лев Игоревич": 346,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 54,
-      "Субботин Константин Сергеевич": 68
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 15,
+      "gas:candidate-vibid:4664057150561": 51,
+      "gas:candidate-vibid:4664057166866": 12,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 34,
+      "gas:candidate-vibid:4664057150762": 346,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 54,
+      "gas:candidate-vibid:4664057150261": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13687,17 +13687,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 52,
-      "Головин Дмитрий Александрович": 83,
-      "Злыдников Юрий Петрович": 147,
-      "Иванов Валерий Фёдорович": 32,
-      "Иофе Лев Маркович": 12,
-      "Карашевич Константин Вячеславович": 41,
-      "Ковпак Лев Игоревич": 316,
-      "Коромыслов Анатолий Николаевич": 22,
-      "Пакулов Сергей Георгиевич": 33,
-      "Парфенов Алексей Александрович": 110,
-      "Субботин Константин Сергеевич": 110
+      "gas:candidate-vibid:4664057166854": 52,
+      "gas:candidate-vibid:4664057168399": 83,
+      "gas:candidate-vibid:4664057150561": 147,
+      "gas:candidate-vibid:4664057166866": 32,
+      "gas:candidate-vibid:4664057166962": 12,
+      "gas:candidate-vibid:4664057150691": 41,
+      "gas:candidate-vibid:4664057150762": 316,
+      "gas:candidate-vibid:4664057166974": 22,
+      "gas:candidate-vibid:4664057167183": 33,
+      "gas:candidate-vibid:4664057167218": 110,
+      "gas:candidate-vibid:4664057150261": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13748,17 +13748,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 39,
-      "Головин Дмитрий Александрович": 28,
-      "Злыдников Юрий Петрович": 77,
-      "Иванов Валерий Фёдорович": 24,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 59,
-      "Ковпак Лев Игоревич": 407,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 21,
-      "Парфенов Алексей Александрович": 108,
-      "Субботин Константин Сергеевич": 119
+      "gas:candidate-vibid:4664057166854": 39,
+      "gas:candidate-vibid:4664057168399": 28,
+      "gas:candidate-vibid:4664057150561": 77,
+      "gas:candidate-vibid:4664057166866": 24,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 59,
+      "gas:candidate-vibid:4664057150762": 407,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 21,
+      "gas:candidate-vibid:4664057167218": 108,
+      "gas:candidate-vibid:4664057150261": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13809,17 +13809,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 29,
-      "Головин Дмитрий Александрович": 22,
-      "Злыдников Юрий Петрович": 57,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 9,
-      "Карашевич Константин Вячеславович": 57,
-      "Ковпак Лев Игоревич": 383,
-      "Коромыслов Анатолий Николаевич": 1,
-      "Пакулов Сергей Георгиевич": 9,
-      "Парфенов Алексей Александрович": 77,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 29,
+      "gas:candidate-vibid:4664057168399": 22,
+      "gas:candidate-vibid:4664057150561": 57,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 9,
+      "gas:candidate-vibid:4664057150691": 57,
+      "gas:candidate-vibid:4664057150762": 383,
+      "gas:candidate-vibid:4664057166974": 1,
+      "gas:candidate-vibid:4664057167183": 9,
+      "gas:candidate-vibid:4664057167218": 77,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13870,17 +13870,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 6,
-      "Головин Дмитрий Александрович": 7,
-      "Злыдников Юрий Петрович": 11,
-      "Иванов Валерий Фёдорович": 5,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 9,
-      "Ковпак Лев Игоревич": 40,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 13,
-      "Субботин Константин Сергеевич": 10
+      "gas:candidate-vibid:4664057166854": 6,
+      "gas:candidate-vibid:4664057168399": 7,
+      "gas:candidate-vibid:4664057150561": 11,
+      "gas:candidate-vibid:4664057166866": 5,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 9,
+      "gas:candidate-vibid:4664057150762": 40,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 13,
+      "gas:candidate-vibid:4664057150261": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13931,17 +13931,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 5,
-      "Головин Дмитрий Александрович": 7,
-      "Злыдников Юрий Петрович": 18,
-      "Иванов Валерий Фёдорович": 19,
-      "Иофе Лев Маркович": 10,
-      "Карашевич Константин Вячеславович": 14,
-      "Ковпак Лев Игоревич": 81,
-      "Коромыслов Анатолий Николаевич": 12,
-      "Пакулов Сергей Георгиевич": 4,
-      "Парфенов Алексей Александрович": 9,
-      "Субботин Константин Сергеевич": 23
+      "gas:candidate-vibid:4664057166854": 5,
+      "gas:candidate-vibid:4664057168399": 7,
+      "gas:candidate-vibid:4664057150561": 18,
+      "gas:candidate-vibid:4664057166866": 19,
+      "gas:candidate-vibid:4664057166962": 10,
+      "gas:candidate-vibid:4664057150691": 14,
+      "gas:candidate-vibid:4664057150762": 81,
+      "gas:candidate-vibid:4664057166974": 12,
+      "gas:candidate-vibid:4664057167183": 4,
+      "gas:candidate-vibid:4664057167218": 9,
+      "gas:candidate-vibid:4664057150261": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -13992,17 +13992,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 4,
-      "Головин Дмитрий Александрович": 8,
-      "Злыдников Юрий Петрович": 34,
-      "Иванов Валерий Фёдорович": 9,
-      "Иофе Лев Маркович": 3,
-      "Карашевич Константин Вячеславович": 4,
-      "Ковпак Лев Игоревич": 109,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 1,
-      "Парфенов Алексей Александрович": 14,
-      "Субботин Константин Сергеевич": 12
+      "gas:candidate-vibid:4664057166854": 4,
+      "gas:candidate-vibid:4664057168399": 8,
+      "gas:candidate-vibid:4664057150561": 34,
+      "gas:candidate-vibid:4664057166866": 9,
+      "gas:candidate-vibid:4664057166962": 3,
+      "gas:candidate-vibid:4664057150691": 4,
+      "gas:candidate-vibid:4664057150762": 109,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 1,
+      "gas:candidate-vibid:4664057167218": 14,
+      "gas:candidate-vibid:4664057150261": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14053,17 +14053,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 2,
-      "Головин Дмитрий Александрович": 5,
-      "Злыдников Юрий Петрович": 9,
-      "Иванов Валерий Фёдорович": 4,
-      "Иофе Лев Маркович": 1,
-      "Карашевич Константин Вячеславович": 0,
-      "Ковпак Лев Игоревич": 30,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 0,
-      "Парфенов Алексей Александрович": 5,
-      "Субботин Константин Сергеевич": 9
+      "gas:candidate-vibid:4664057166854": 2,
+      "gas:candidate-vibid:4664057168399": 5,
+      "gas:candidate-vibid:4664057150561": 9,
+      "gas:candidate-vibid:4664057166866": 4,
+      "gas:candidate-vibid:4664057166962": 1,
+      "gas:candidate-vibid:4664057150691": 0,
+      "gas:candidate-vibid:4664057150762": 30,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 0,
+      "gas:candidate-vibid:4664057167218": 5,
+      "gas:candidate-vibid:4664057150261": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14114,17 +14114,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 25,
-      "Головин Дмитрий Александрович": 45,
-      "Злыдников Юрий Петрович": 148,
-      "Иванов Валерий Фёдорович": 35,
-      "Иофе Лев Маркович": 24,
-      "Карашевич Константин Вячеславович": 41,
-      "Ковпак Лев Игоревич": 336,
-      "Коромыслов Анатолий Николаевич": 17,
-      "Пакулов Сергей Георгиевич": 19,
-      "Парфенов Алексей Александрович": 65,
-      "Субботин Константин Сергеевич": 107
+      "gas:candidate-vibid:4664057166854": 25,
+      "gas:candidate-vibid:4664057168399": 45,
+      "gas:candidate-vibid:4664057150561": 148,
+      "gas:candidate-vibid:4664057166866": 35,
+      "gas:candidate-vibid:4664057166962": 24,
+      "gas:candidate-vibid:4664057150691": 41,
+      "gas:candidate-vibid:4664057150762": 336,
+      "gas:candidate-vibid:4664057166974": 17,
+      "gas:candidate-vibid:4664057167183": 19,
+      "gas:candidate-vibid:4664057167218": 65,
+      "gas:candidate-vibid:4664057150261": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14175,17 +14175,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 38,
-      "Злыдников Юрий Петрович": 179,
-      "Иванов Валерий Фёдорович": 40,
-      "Иофе Лев Маркович": 27,
-      "Карашевич Константин Вячеславович": 41,
-      "Ковпак Лев Игоревич": 297,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 76,
-      "Субботин Константин Сергеевич": 83
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 38,
+      "gas:candidate-vibid:4664057150561": 179,
+      "gas:candidate-vibid:4664057166866": 40,
+      "gas:candidate-vibid:4664057166962": 27,
+      "gas:candidate-vibid:4664057150691": 41,
+      "gas:candidate-vibid:4664057150762": 297,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 76,
+      "gas:candidate-vibid:4664057150261": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14236,17 +14236,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 14,
-      "Головин Дмитрий Александрович": 29,
-      "Злыдников Юрий Петрович": 24,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 25,
-      "Карашевич Константин Вячеславович": 3,
-      "Ковпак Лев Игоревич": 277,
-      "Коромыслов Анатолий Николаевич": 4,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 18,
-      "Субботин Константин Сергеевич": 26
+      "gas:candidate-vibid:4664057166854": 14,
+      "gas:candidate-vibid:4664057168399": 29,
+      "gas:candidate-vibid:4664057150561": 24,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 25,
+      "gas:candidate-vibid:4664057150691": 3,
+      "gas:candidate-vibid:4664057150762": 277,
+      "gas:candidate-vibid:4664057166974": 4,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 18,
+      "gas:candidate-vibid:4664057150261": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14297,17 +14297,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 40,
-      "Злыдников Юрий Петрович": 121,
-      "Иванов Валерий Фёдорович": 44,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 316,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 19,
-      "Парфенов Алексей Александрович": 97,
-      "Субботин Константин Сергеевич": 102
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 40,
+      "gas:candidate-vibid:4664057150561": 121,
+      "gas:candidate-vibid:4664057166866": 44,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 316,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 19,
+      "gas:candidate-vibid:4664057167218": 97,
+      "gas:candidate-vibid:4664057150261": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14358,17 +14358,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 18,
-      "Головин Дмитрий Александрович": 27,
-      "Злыдников Юрий Петрович": 80,
-      "Иванов Валерий Фёдорович": 39,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 267,
-      "Коромыслов Анатолий Николаевич": 2,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 61,
-      "Субботин Константин Сергеевич": 68
+      "gas:candidate-vibid:4664057166854": 18,
+      "gas:candidate-vibid:4664057168399": 27,
+      "gas:candidate-vibid:4664057150561": 80,
+      "gas:candidate-vibid:4664057166866": 39,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 267,
+      "gas:candidate-vibid:4664057166974": 2,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 61,
+      "gas:candidate-vibid:4664057150261": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14419,17 +14419,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 24,
-      "Головин Дмитрий Александрович": 28,
-      "Злыдников Юрий Петрович": 40,
-      "Иванов Валерий Фёдорович": 45,
-      "Иофе Лев Маркович": 25,
-      "Карашевич Константин Вячеславович": 23,
-      "Ковпак Лев Игоревич": 231,
-      "Коромыслов Анатолий Николаевич": 11,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 28,
-      "Субботин Константин Сергеевич": 98
+      "gas:candidate-vibid:4664057166854": 24,
+      "gas:candidate-vibid:4664057168399": 28,
+      "gas:candidate-vibid:4664057150561": 40,
+      "gas:candidate-vibid:4664057166866": 45,
+      "gas:candidate-vibid:4664057166962": 25,
+      "gas:candidate-vibid:4664057150691": 23,
+      "gas:candidate-vibid:4664057150762": 231,
+      "gas:candidate-vibid:4664057166974": 11,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 28,
+      "gas:candidate-vibid:4664057150261": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14480,17 +14480,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 17,
-      "Головин Дмитрий Александрович": 33,
-      "Злыдников Юрий Петрович": 66,
-      "Иванов Валерий Фёдорович": 17,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 29,
-      "Ковпак Лев Игоревич": 129,
-      "Коромыслов Анатолий Николаевич": 8,
-      "Пакулов Сергей Георгиевич": 14,
-      "Парфенов Алексей Александрович": 38,
-      "Субботин Константин Сергеевич": 39
+      "gas:candidate-vibid:4664057166854": 17,
+      "gas:candidate-vibid:4664057168399": 33,
+      "gas:candidate-vibid:4664057150561": 66,
+      "gas:candidate-vibid:4664057166866": 17,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 29,
+      "gas:candidate-vibid:4664057150762": 129,
+      "gas:candidate-vibid:4664057166974": 8,
+      "gas:candidate-vibid:4664057167183": 14,
+      "gas:candidate-vibid:4664057167218": 38,
+      "gas:candidate-vibid:4664057150261": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14541,17 +14541,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 32,
-      "Головин Дмитрий Александрович": 30,
-      "Злыдников Юрий Петрович": 93,
-      "Иванов Валерий Фёдорович": 13,
-      "Иофе Лев Маркович": 18,
-      "Карашевич Константин Вячеславович": 32,
-      "Ковпак Лев Игоревич": 204,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 8,
-      "Парфенов Алексей Александрович": 62,
-      "Субботин Константин Сергеевич": 79
+      "gas:candidate-vibid:4664057166854": 32,
+      "gas:candidate-vibid:4664057168399": 30,
+      "gas:candidate-vibid:4664057150561": 93,
+      "gas:candidate-vibid:4664057166866": 13,
+      "gas:candidate-vibid:4664057166962": 18,
+      "gas:candidate-vibid:4664057150691": 32,
+      "gas:candidate-vibid:4664057150762": 204,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 8,
+      "gas:candidate-vibid:4664057167218": 62,
+      "gas:candidate-vibid:4664057150261": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14602,17 +14602,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 15,
-      "Головин Дмитрий Александрович": 10,
-      "Злыдников Юрий Петрович": 14,
-      "Иванов Валерий Фёдорович": 16,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 12,
-      "Ковпак Лев Игоревич": 33,
-      "Коромыслов Анатолий Николаевич": 3,
-      "Пакулов Сергей Георгиевич": 2,
-      "Парфенов Алексей Александрович": 6,
-      "Субботин Константин Сергеевич": 8
+      "gas:candidate-vibid:4664057166854": 15,
+      "gas:candidate-vibid:4664057168399": 10,
+      "gas:candidate-vibid:4664057150561": 14,
+      "gas:candidate-vibid:4664057166866": 16,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 12,
+      "gas:candidate-vibid:4664057150762": 33,
+      "gas:candidate-vibid:4664057166974": 3,
+      "gas:candidate-vibid:4664057167183": 2,
+      "gas:candidate-vibid:4664057167218": 6,
+      "gas:candidate-vibid:4664057150261": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14663,17 +14663,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 98,
-      "Головин Дмитрий Александрович": 160,
-      "Злыдников Юрий Петрович": 148,
-      "Иванов Валерий Фёдорович": 50,
-      "Иофе Лев Маркович": 33,
-      "Карашевич Константин Вячеславович": 48,
-      "Ковпак Лев Игоревич": 381,
-      "Коромыслов Анатолий Николаевич": 42,
-      "Пакулов Сергей Георгиевич": 43,
-      "Парфенов Алексей Александрович": 88,
-      "Субботин Константин Сергеевич": 78
+      "gas:candidate-vibid:4664057166854": 98,
+      "gas:candidate-vibid:4664057168399": 160,
+      "gas:candidate-vibid:4664057150561": 148,
+      "gas:candidate-vibid:4664057166866": 50,
+      "gas:candidate-vibid:4664057166962": 33,
+      "gas:candidate-vibid:4664057150691": 48,
+      "gas:candidate-vibid:4664057150762": 381,
+      "gas:candidate-vibid:4664057166974": 42,
+      "gas:candidate-vibid:4664057167183": 43,
+      "gas:candidate-vibid:4664057167218": 88,
+      "gas:candidate-vibid:4664057150261": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14724,17 +14724,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 36,
-      "Головин Дмитрий Александрович": 68,
-      "Злыдников Юрий Петрович": 73,
-      "Иванов Валерий Фёдорович": 34,
-      "Иофе Лев Маркович": 14,
-      "Карашевич Константин Вячеславович": 20,
-      "Ковпак Лев Игоревич": 193,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 22,
-      "Парфенов Алексей Александрович": 70,
-      "Субботин Константин Сергеевич": 53
+      "gas:candidate-vibid:4664057166854": 36,
+      "gas:candidate-vibid:4664057168399": 68,
+      "gas:candidate-vibid:4664057150561": 73,
+      "gas:candidate-vibid:4664057166866": 34,
+      "gas:candidate-vibid:4664057166962": 14,
+      "gas:candidate-vibid:4664057150691": 20,
+      "gas:candidate-vibid:4664057150762": 193,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 22,
+      "gas:candidate-vibid:4664057167218": 70,
+      "gas:candidate-vibid:4664057150261": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14785,17 +14785,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 19,
-      "Головин Дмитрий Александрович": 32,
-      "Злыдников Юрий Петрович": 28,
-      "Иванов Валерий Фёдорович": 42,
-      "Иофе Лев Маркович": 4,
-      "Карашевич Константин Вячеславович": 30,
-      "Ковпак Лев Игоревич": 194,
-      "Коромыслов Анатолий Николаевич": 18,
-      "Пакулов Сергей Георгиевич": 7,
-      "Парфенов Алексей Александрович": 69,
-      "Субботин Константин Сергеевич": 88
+      "gas:candidate-vibid:4664057166854": 19,
+      "gas:candidate-vibid:4664057168399": 32,
+      "gas:candidate-vibid:4664057150561": 28,
+      "gas:candidate-vibid:4664057166866": 42,
+      "gas:candidate-vibid:4664057166962": 4,
+      "gas:candidate-vibid:4664057150691": 30,
+      "gas:candidate-vibid:4664057150762": 194,
+      "gas:candidate-vibid:4664057166974": 18,
+      "gas:candidate-vibid:4664057167183": 7,
+      "gas:candidate-vibid:4664057167218": 69,
+      "gas:candidate-vibid:4664057150261": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14846,17 +14846,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 11,
-      "Головин Дмитрий Александрович": 24,
-      "Злыдников Юрий Петрович": 2,
-      "Иванов Валерий Фёдорович": 9,
-      "Иофе Лев Маркович": 2,
-      "Карашевич Константин Вячеславович": 7,
-      "Ковпак Лев Игоревич": 60,
-      "Коромыслов Анатолий Николаевич": 19,
-      "Пакулов Сергей Георгиевич": 3,
-      "Парфенов Алексей Александрович": 14,
-      "Субботин Константин Сергеевич": 3
+      "gas:candidate-vibid:4664057166854": 11,
+      "gas:candidate-vibid:4664057168399": 24,
+      "gas:candidate-vibid:4664057150561": 2,
+      "gas:candidate-vibid:4664057166866": 9,
+      "gas:candidate-vibid:4664057166962": 2,
+      "gas:candidate-vibid:4664057150691": 7,
+      "gas:candidate-vibid:4664057150762": 60,
+      "gas:candidate-vibid:4664057166974": 19,
+      "gas:candidate-vibid:4664057167183": 3,
+      "gas:candidate-vibid:4664057167218": 14,
+      "gas:candidate-vibid:4664057150261": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732919&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732919&type=464",
@@ -14907,17 +14907,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 20,
-      "Головин Дмитрий Александрович": 15,
-      "Злыдников Юрий Петрович": 68,
-      "Иванов Валерий Фёдорович": 27,
-      "Иофе Лев Маркович": 5,
-      "Карашевич Константин Вячеславович": 24,
-      "Ковпак Лев Игоревич": 300,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 62,
-      "Субботин Константин Сергеевич": 70
+      "gas:candidate-vibid:4664057166854": 20,
+      "gas:candidate-vibid:4664057168399": 15,
+      "gas:candidate-vibid:4664057150561": 68,
+      "gas:candidate-vibid:4664057166866": 27,
+      "gas:candidate-vibid:4664057166962": 5,
+      "gas:candidate-vibid:4664057150691": 24,
+      "gas:candidate-vibid:4664057150762": 300,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 62,
+      "gas:candidate-vibid:4664057150261": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732920&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732920&type=464",
@@ -14968,17 +14968,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 42,
-      "Головин Дмитрий Александрович": 22,
-      "Злыдников Юрий Петрович": 100,
-      "Иванов Валерий Фёдорович": 36,
-      "Иофе Лев Маркович": 11,
-      "Карашевич Константин Вячеславович": 43,
-      "Ковпак Лев Игоревич": 435,
-      "Коромыслов Анатолий Николаевич": 10,
-      "Пакулов Сергей Георгиевич": 12,
-      "Парфенов Алексей Александрович": 118,
-      "Субботин Константин Сергеевич": 93
+      "gas:candidate-vibid:4664057166854": 42,
+      "gas:candidate-vibid:4664057168399": 22,
+      "gas:candidate-vibid:4664057150561": 100,
+      "gas:candidate-vibid:4664057166866": 36,
+      "gas:candidate-vibid:4664057166962": 11,
+      "gas:candidate-vibid:4664057150691": 43,
+      "gas:candidate-vibid:4664057150762": 435,
+      "gas:candidate-vibid:4664057166974": 10,
+      "gas:candidate-vibid:4664057167183": 12,
+      "gas:candidate-vibid:4664057167218": 118,
+      "gas:candidate-vibid:4664057150261": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732920&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732920&type=464",
@@ -15029,17 +15029,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 41,
-      "Головин Дмитрий Александрович": 24,
-      "Злыдников Юрий Петрович": 96,
-      "Иванов Валерий Фёдорович": 26,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 28,
-      "Ковпак Лев Игоревич": 408,
-      "Коромыслов Анатолий Николаевич": 15,
-      "Пакулов Сергей Георгиевич": 10,
-      "Парфенов Алексей Александрович": 100,
-      "Субботин Константин Сергеевич": 90
+      "gas:candidate-vibid:4664057166854": 41,
+      "gas:candidate-vibid:4664057168399": 24,
+      "gas:candidate-vibid:4664057150561": 96,
+      "gas:candidate-vibid:4664057166866": 26,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 28,
+      "gas:candidate-vibid:4664057150762": 408,
+      "gas:candidate-vibid:4664057166974": 15,
+      "gas:candidate-vibid:4664057167183": 10,
+      "gas:candidate-vibid:4664057167218": 100,
+      "gas:candidate-vibid:4664057150261": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732920&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732920&type=464",
@@ -15090,17 +15090,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 37,
-      "Головин Дмитрий Александрович": 13,
-      "Злыдников Юрий Петрович": 69,
-      "Иванов Валерий Фёдорович": 25,
-      "Иофе Лев Маркович": 7,
-      "Карашевич Константин Вячеславович": 26,
-      "Ковпак Лев Игоревич": 303,
-      "Коромыслов Анатолий Николаевич": 5,
-      "Пакулов Сергей Георгиевич": 11,
-      "Парфенов Алексей Александрович": 93,
-      "Субботин Константин Сергеевич": 96
+      "gas:candidate-vibid:4664057166854": 37,
+      "gas:candidate-vibid:4664057168399": 13,
+      "gas:candidate-vibid:4664057150561": 69,
+      "gas:candidate-vibid:4664057166866": 25,
+      "gas:candidate-vibid:4664057166962": 7,
+      "gas:candidate-vibid:4664057150691": 26,
+      "gas:candidate-vibid:4664057150762": 303,
+      "gas:candidate-vibid:4664057166974": 5,
+      "gas:candidate-vibid:4664057167183": 11,
+      "gas:candidate-vibid:4664057167218": 93,
+      "gas:candidate-vibid:4664057150261": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732920&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732920&type=464",
@@ -15151,17 +15151,17 @@ export const duma_2016_uik_463_region_66_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Герасименко Владимир Леонидович": 22,
-      "Головин Дмитрий Александрович": 14,
-      "Злыдников Юрий Петрович": 37,
-      "Иванов Валерий Фёдорович": 15,
-      "Иофе Лев Маркович": 6,
-      "Карашевич Константин Вячеславович": 31,
-      "Ковпак Лев Игоревич": 231,
-      "Коромыслов Анатолий Николаевич": 7,
-      "Пакулов Сергей Георгиевич": 6,
-      "Парфенов Алексей Александрович": 63,
-      "Субботин Константин Сергеевич": 85
+      "gas:candidate-vibid:4664057166854": 22,
+      "gas:candidate-vibid:4664057168399": 14,
+      "gas:candidate-vibid:4664057150561": 37,
+      "gas:candidate-vibid:4664057166866": 15,
+      "gas:candidate-vibid:4664057166962": 6,
+      "gas:candidate-vibid:4664057150691": 31,
+      "gas:candidate-vibid:4664057150762": 231,
+      "gas:candidate-vibid:4664057166974": 7,
+      "gas:candidate-vibid:4664057167183": 6,
+      "gas:candidate-vibid:4664057167218": 63,
+      "gas:candidate-vibid:4664057150261": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/sverdlovsk?action=show&root=1000223&tvd=26620001732920&vrn=100100067795849&region=66&global=&sub_region=66&prver=0&pronetvd=null&vibid=26620001732920&type=464",

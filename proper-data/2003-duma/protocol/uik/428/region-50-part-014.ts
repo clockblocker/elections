@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 157,
-      "Барон Леонид Иосифович": 43,
-      "Волков Владислав Борисович": 129,
-      "Кудешкина Ольга Борисовна": 33,
-      "Лаврищев Артем Дмитриевич": 157,
-      "Смоленский Владимир Иванович": 136,
-      "Тихонов Георгий Иванович": 139,
-      "Челноков Михаил Борисович": 29,
-      "Шевченко Степан Федорович": 46,
-      "Против всех": 586
+      "gas:candidate-vibid:350301170684": 157,
+      "gas:candidate-vibid:1001000190380": 43,
+      "gas:candidate-vibid:1001000289810": 129,
+      "gas:candidate-vibid:350301170670": 33,
+      "gas:candidate-vibid:1001000225959": 157,
+      "gas:candidate-vibid:350301170362": 136,
+      "gas:candidate-vibid:1001000121870": 139,
+      "gas:candidate-vibid:1001000217938": 29,
+      "gas:candidate-vibid:1001000113953": 46,
+      "special:against-all": 586
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170337&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 95,
-      "Барон Леонид Иосифович": 23,
-      "Волков Владислав Борисович": 66,
-      "Кудешкина Ольга Борисовна": 32,
-      "Лаврищев Артем Дмитриевич": 64,
-      "Смоленский Владимир Иванович": 164,
-      "Тихонов Георгий Иванович": 69,
-      "Челноков Михаил Борисович": 21,
-      "Шевченко Степан Федорович": 28,
-      "Против всех": 306
+      "gas:candidate-vibid:350301170684": 95,
+      "gas:candidate-vibid:1001000190380": 23,
+      "gas:candidate-vibid:1001000289810": 66,
+      "gas:candidate-vibid:350301170670": 32,
+      "gas:candidate-vibid:1001000225959": 64,
+      "gas:candidate-vibid:350301170362": 164,
+      "gas:candidate-vibid:1001000121870": 69,
+      "gas:candidate-vibid:1001000217938": 21,
+      "gas:candidate-vibid:1001000113953": 28,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170337&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 60,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 13,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 26,
-      "Смоленский Владимир Иванович": 11,
-      "Тихонов Георгий Иванович": 40,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 6,
-      "Против всех": 33
+      "gas:candidate-vibid:350301170684": 60,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 13,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 26,
+      "gas:candidate-vibid:350301170362": 11,
+      "gas:candidate-vibid:1001000121870": 40,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 6,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 172,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 48,
-      "Кудешкина Ольга Борисовна": 9,
-      "Лаврищев Артем Дмитриевич": 105,
-      "Смоленский Владимир Иванович": 102,
-      "Тихонов Георгий Иванович": 81,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 9,
-      "Против всех": 120
+      "gas:candidate-vibid:350301170684": 172,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 48,
+      "gas:candidate-vibid:350301170670": 9,
+      "gas:candidate-vibid:1001000225959": 105,
+      "gas:candidate-vibid:350301170362": 102,
+      "gas:candidate-vibid:1001000121870": 81,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 9,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 36,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 17,
-      "Кудешкина Ольга Борисовна": 6,
-      "Лаврищев Артем Дмитриевич": 42,
-      "Смоленский Владимир Иванович": 3,
-      "Тихонов Георгий Иванович": 18,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:350301170684": 36,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 17,
+      "gas:candidate-vibid:350301170670": 6,
+      "gas:candidate-vibid:1001000225959": 42,
+      "gas:candidate-vibid:350301170362": 3,
+      "gas:candidate-vibid:1001000121870": 18,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 10,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 7,
-      "Кудешкина Ольга Борисовна": 7,
-      "Лаврищев Артем Дмитриевич": 18,
-      "Смоленский Владимир Иванович": 5,
-      "Тихонов Георгий Иванович": 7,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:350301170684": 10,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 7,
+      "gas:candidate-vibid:350301170670": 7,
+      "gas:candidate-vibid:1001000225959": 18,
+      "gas:candidate-vibid:350301170362": 5,
+      "gas:candidate-vibid:1001000121870": 7,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 60,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 19,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 32,
-      "Смоленский Владимир Иванович": 88,
-      "Тихонов Георгий Иванович": 99,
-      "Челноков Михаил Борисович": 6,
-      "Шевченко Степан Федорович": 6,
-      "Против всех": 59
+      "gas:candidate-vibid:350301170684": 60,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 19,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 32,
+      "gas:candidate-vibid:350301170362": 88,
+      "gas:candidate-vibid:1001000121870": 99,
+      "gas:candidate-vibid:1001000217938": 6,
+      "gas:candidate-vibid:1001000113953": 6,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 31,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 13,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 18,
-      "Смоленский Владимир Иванович": 22,
-      "Тихонов Георгий Иванович": 40,
-      "Челноков Михаил Борисович": 5,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 35
+      "gas:candidate-vibid:350301170684": 31,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 13,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 18,
+      "gas:candidate-vibid:350301170362": 22,
+      "gas:candidate-vibid:1001000121870": 40,
+      "gas:candidate-vibid:1001000217938": 5,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 1
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 70,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 15,
-      "Кудешкина Ольга Борисовна": 12,
-      "Лаврищев Артем Дмитриевич": 53,
-      "Смоленский Владимир Иванович": 76,
-      "Тихонов Георгий Иванович": 42,
-      "Челноков Михаил Борисович": 8,
-      "Шевченко Степан Федорович": 16,
-      "Против всех": 55
+      "gas:candidate-vibid:350301170684": 70,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 15,
+      "gas:candidate-vibid:350301170670": 12,
+      "gas:candidate-vibid:1001000225959": 53,
+      "gas:candidate-vibid:350301170362": 76,
+      "gas:candidate-vibid:1001000121870": 42,
+      "gas:candidate-vibid:1001000217938": 8,
+      "gas:candidate-vibid:1001000113953": 16,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 91,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 10,
-      "Лаврищев Артем Дмитриевич": 39,
-      "Смоленский Владимир Иванович": 71,
-      "Тихонов Георгий Иванович": 62,
-      "Челноков Михаил Борисович": 3,
-      "Шевченко Степан Федорович": 13,
-      "Против всех": 89
+      "gas:candidate-vibid:350301170684": 91,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 10,
+      "gas:candidate-vibid:1001000225959": 39,
+      "gas:candidate-vibid:350301170362": 71,
+      "gas:candidate-vibid:1001000121870": 62,
+      "gas:candidate-vibid:1001000217938": 3,
+      "gas:candidate-vibid:1001000113953": 13,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 148,
-      "Барон Леонид Иосифович": 7,
-      "Волков Владислав Борисович": 39,
-      "Кудешкина Ольга Борисовна": 18,
-      "Лаврищев Артем Дмитриевич": 23,
-      "Смоленский Владимир Иванович": 25,
-      "Тихонов Георгий Иванович": 44,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 31,
-      "Против всех": 150
+      "gas:candidate-vibid:350301170684": 148,
+      "gas:candidate-vibid:1001000190380": 7,
+      "gas:candidate-vibid:1001000289810": 39,
+      "gas:candidate-vibid:350301170670": 18,
+      "gas:candidate-vibid:1001000225959": 23,
+      "gas:candidate-vibid:350301170362": 25,
+      "gas:candidate-vibid:1001000121870": 44,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 31,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 109,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 51,
-      "Кудешкина Ольга Борисовна": 11,
-      "Лаврищев Артем Дмитриевич": 45,
-      "Смоленский Владимир Иванович": 154,
-      "Тихонов Георгий Иванович": 130,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 6,
-      "Против всех": 91
+      "gas:candidate-vibid:350301170684": 109,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 51,
+      "gas:candidate-vibid:350301170670": 11,
+      "gas:candidate-vibid:1001000225959": 45,
+      "gas:candidate-vibid:350301170362": 154,
+      "gas:candidate-vibid:1001000121870": 130,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 6,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 53,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 14,
-      "Кудешкина Ольга Борисовна": 11,
-      "Лаврищев Артем Дмитриевич": 20,
-      "Смоленский Владимир Иванович": 51,
-      "Тихонов Георгий Иванович": 81,
-      "Челноков Михаил Борисович": 3,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:350301170684": 53,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 14,
+      "gas:candidate-vibid:350301170670": 11,
+      "gas:candidate-vibid:1001000225959": 20,
+      "gas:candidate-vibid:350301170362": 51,
+      "gas:candidate-vibid:1001000121870": 81,
+      "gas:candidate-vibid:1001000217938": 3,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 21,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 7,
-      "Кудешкина Ольга Борисовна": 1,
-      "Лаврищев Артем Дмитриевич": 6,
-      "Смоленский Владимир Иванович": 16,
-      "Тихонов Георгий Иванович": 40,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 7,
-      "Против всех": 10
+      "gas:candidate-vibid:350301170684": 21,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 7,
+      "gas:candidate-vibid:350301170670": 1,
+      "gas:candidate-vibid:1001000225959": 6,
+      "gas:candidate-vibid:350301170362": 16,
+      "gas:candidate-vibid:1001000121870": 40,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 7,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 116,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 7,
-      "Лаврищев Артем Дмитриевич": 20,
-      "Смоленский Владимир Иванович": 50,
-      "Тихонов Георгий Иванович": 50,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 54
+      "gas:candidate-vibid:350301170684": 116,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 7,
+      "gas:candidate-vibid:1001000225959": 20,
+      "gas:candidate-vibid:350301170362": 50,
+      "gas:candidate-vibid:1001000121870": 50,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 29,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 12,
-      "Кудешкина Ольга Борисовна": 1,
-      "Лаврищев Артем Дмитриевич": 8,
-      "Смоленский Владимир Иванович": 14,
-      "Тихонов Георгий Иванович": 40,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:350301170684": 29,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 12,
+      "gas:candidate-vibid:350301170670": 1,
+      "gas:candidate-vibid:1001000225959": 8,
+      "gas:candidate-vibid:350301170362": 14,
+      "gas:candidate-vibid:1001000121870": 40,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 47,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 11,
-      "Кудешкина Ольга Борисовна": 8,
-      "Лаврищев Артем Дмитриевич": 13,
-      "Смоленский Владимир Иванович": 34,
-      "Тихонов Георгий Иванович": 40,
-      "Челноков Михаил Борисович": 3,
-      "Шевченко Степан Федорович": 0,
-      "Против всех": 32
+      "gas:candidate-vibid:350301170684": 47,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 11,
+      "gas:candidate-vibid:350301170670": 8,
+      "gas:candidate-vibid:1001000225959": 13,
+      "gas:candidate-vibid:350301170362": 34,
+      "gas:candidate-vibid:1001000121870": 40,
+      "gas:candidate-vibid:1001000217938": 3,
+      "gas:candidate-vibid:1001000113953": 0,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 318,
-      "Барон Леонид Иосифович": 23,
-      "Волков Владислав Борисович": 72,
-      "Кудешкина Ольга Борисовна": 17,
-      "Лаврищев Артем Дмитриевич": 98,
-      "Смоленский Владимир Иванович": 244,
-      "Тихонов Георгий Иванович": 187,
-      "Челноков Михаил Борисович": 7,
-      "Шевченко Степан Федорович": 28,
-      "Против всех": 203
+      "gas:candidate-vibid:350301170684": 318,
+      "gas:candidate-vibid:1001000190380": 23,
+      "gas:candidate-vibid:1001000289810": 72,
+      "gas:candidate-vibid:350301170670": 17,
+      "gas:candidate-vibid:1001000225959": 98,
+      "gas:candidate-vibid:350301170362": 244,
+      "gas:candidate-vibid:1001000121870": 187,
+      "gas:candidate-vibid:1001000217938": 7,
+      "gas:candidate-vibid:1001000113953": 28,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 321,
-      "Барон Леонид Иосифович": 21,
-      "Волков Владислав Борисович": 50,
-      "Кудешкина Ольга Борисовна": 25,
-      "Лаврищев Артем Дмитриевич": 114,
-      "Смоленский Владимир Иванович": 261,
-      "Тихонов Георгий Иванович": 163,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 36,
-      "Против всех": 233
+      "gas:candidate-vibid:350301170684": 321,
+      "gas:candidate-vibid:1001000190380": 21,
+      "gas:candidate-vibid:1001000289810": 50,
+      "gas:candidate-vibid:350301170670": 25,
+      "gas:candidate-vibid:1001000225959": 114,
+      "gas:candidate-vibid:350301170362": 261,
+      "gas:candidate-vibid:1001000121870": 163,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 36,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 20,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 6,
-      "Кудешкина Ольга Борисовна": 1,
-      "Лаврищев Артем Дмитриевич": 15,
-      "Смоленский Владимир Иванович": 18,
-      "Тихонов Георгий Иванович": 25,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:350301170684": 20,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 6,
+      "gas:candidate-vibid:350301170670": 1,
+      "gas:candidate-vibid:1001000225959": 15,
+      "gas:candidate-vibid:350301170362": 18,
+      "gas:candidate-vibid:1001000121870": 25,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 25,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 8,
-      "Кудешкина Ольга Борисовна": 1,
-      "Лаврищев Артем Дмитриевич": 16,
-      "Смоленский Владимир Иванович": 18,
-      "Тихонов Георгий Иванович": 16,
-      "Челноков Михаил Борисович": 6,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:350301170684": 25,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 8,
+      "gas:candidate-vibid:350301170670": 1,
+      "gas:candidate-vibid:1001000225959": 16,
+      "gas:candidate-vibid:350301170362": 18,
+      "gas:candidate-vibid:1001000121870": 16,
+      "gas:candidate-vibid:1001000217938": 6,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 16,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 5,
-      "Кудешкина Ольга Борисовна": 1,
-      "Лаврищев Артем Дмитриевич": 8,
-      "Смоленский Владимир Иванович": 8,
-      "Тихонов Георгий Иванович": 5,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:350301170684": 16,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 5,
+      "gas:candidate-vibid:350301170670": 1,
+      "gas:candidate-vibid:1001000225959": 8,
+      "gas:candidate-vibid:350301170362": 8,
+      "gas:candidate-vibid:1001000121870": 5,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 81,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 23,
-      "Кудешкина Ольга Борисовна": 13,
-      "Лаврищев Артем Дмитриевич": 40,
-      "Смоленский Владимир Иванович": 106,
-      "Тихонов Георгий Иванович": 41,
-      "Челноков Михаил Борисович": 3,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 69
+      "gas:candidate-vibid:350301170684": 81,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 23,
+      "gas:candidate-vibid:350301170670": 13,
+      "gas:candidate-vibid:1001000225959": 40,
+      "gas:candidate-vibid:350301170362": 106,
+      "gas:candidate-vibid:1001000121870": 41,
+      "gas:candidate-vibid:1001000217938": 3,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 237,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 118,
-      "Кудешкина Ольга Борисовна": 34,
-      "Лаврищев Артем Дмитриевич": 122,
-      "Смоленский Владимир Иванович": 103,
-      "Тихонов Георгий Иванович": 230,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 14,
-      "Против всех": 192
+      "gas:candidate-vibid:350301170684": 237,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 118,
+      "gas:candidate-vibid:350301170670": 34,
+      "gas:candidate-vibid:1001000225959": 122,
+      "gas:candidate-vibid:350301170362": 103,
+      "gas:candidate-vibid:1001000121870": 230,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 14,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 23,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 11,
-      "Кудешкина Ольга Борисовна": 2,
-      "Лаврищев Артем Дмитриевич": 49,
-      "Смоленский Владимир Иванович": 6,
-      "Тихонов Георгий Иванович": 50,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:350301170684": 23,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 11,
+      "gas:candidate-vibid:350301170670": 2,
+      "gas:candidate-vibid:1001000225959": 49,
+      "gas:candidate-vibid:350301170362": 6,
+      "gas:candidate-vibid:1001000121870": 50,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 26,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 4,
-      "Кудешкина Ольга Борисовна": 3,
-      "Лаврищев Артем Дмитриевич": 23,
-      "Смоленский Владимир Иванович": 4,
-      "Тихонов Георгий Иванович": 18,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 36
+      "gas:candidate-vibid:350301170684": 26,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 4,
+      "gas:candidate-vibid:350301170670": 3,
+      "gas:candidate-vibid:1001000225959": 23,
+      "gas:candidate-vibid:350301170362": 4,
+      "gas:candidate-vibid:1001000121870": 18,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 134,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 32,
-      "Кудешкина Ольга Борисовна": 10,
-      "Лаврищев Артем Дмитриевич": 30,
-      "Смоленский Владимир Иванович": 43,
-      "Тихонов Георгий Иванович": 65,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 55
+      "gas:candidate-vibid:350301170684": 134,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 32,
+      "gas:candidate-vibid:350301170670": 10,
+      "gas:candidate-vibid:1001000225959": 30,
+      "gas:candidate-vibid:350301170362": 43,
+      "gas:candidate-vibid:1001000121870": 65,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 65,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 11,
-      "Кудешкина Ольга Борисовна": 8,
-      "Лаврищев Артем Дмитриевич": 14,
-      "Смоленский Владимир Иванович": 13,
-      "Тихонов Георгий Иванович": 36,
-      "Челноков Михаил Борисович": 0,
-      "Шевченко Степан Федорович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:350301170684": 65,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 11,
+      "gas:candidate-vibid:350301170670": 8,
+      "gas:candidate-vibid:1001000225959": 14,
+      "gas:candidate-vibid:350301170362": 13,
+      "gas:candidate-vibid:1001000121870": 36,
+      "gas:candidate-vibid:1001000217938": 0,
+      "gas:candidate-vibid:1001000113953": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 20,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 12,
-      "Кудешкина Ольга Борисовна": 6,
-      "Лаврищев Артем Дмитриевич": 10,
-      "Смоленский Владимир Иванович": 6,
-      "Тихонов Георгий Иванович": 45,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:350301170684": 20,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 12,
+      "gas:candidate-vibid:350301170670": 6,
+      "gas:candidate-vibid:1001000225959": 10,
+      "gas:candidate-vibid:350301170362": 6,
+      "gas:candidate-vibid:1001000121870": 45,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 158,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 6,
-      "Лаврищев Артем Дмитриевич": 27,
-      "Смоленский Владимир Иванович": 45,
-      "Тихонов Георгий Иванович": 52,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 52
+      "gas:candidate-vibid:350301170684": 158,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 6,
+      "gas:candidate-vibid:1001000225959": 27,
+      "gas:candidate-vibid:350301170362": 45,
+      "gas:candidate-vibid:1001000121870": 52,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 35,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 6,
-      "Кудешкина Ольга Борисовна": 7,
-      "Лаврищев Артем Дмитриевич": 7,
-      "Смоленский Владимир Иванович": 21,
-      "Тихонов Георгий Иванович": 25,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:350301170684": 35,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 6,
+      "gas:candidate-vibid:350301170670": 7,
+      "gas:candidate-vibid:1001000225959": 7,
+      "gas:candidate-vibid:350301170362": 21,
+      "gas:candidate-vibid:1001000121870": 25,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 61,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 10,
-      "Кудешкина Ольга Борисовна": 3,
-      "Лаврищев Артем Дмитриевич": 9,
-      "Смоленский Владимир Иванович": 30,
-      "Тихонов Георгий Иванович": 30,
-      "Челноков Михаил Борисович": 0,
-      "Шевченко Степан Федорович": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:350301170684": 61,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 10,
+      "gas:candidate-vibid:350301170670": 3,
+      "gas:candidate-vibid:1001000225959": 9,
+      "gas:candidate-vibid:350301170362": 30,
+      "gas:candidate-vibid:1001000121870": 30,
+      "gas:candidate-vibid:1001000217938": 0,
+      "gas:candidate-vibid:1001000113953": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 21,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 4,
-      "Кудешкина Ольга Борисовна": 4,
-      "Лаврищев Артем Дмитриевич": 14,
-      "Смоленский Владимир Иванович": 18,
-      "Тихонов Георгий Иванович": 11,
-      "Челноков Михаил Борисович": 0,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:350301170684": 21,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 4,
+      "gas:candidate-vibid:350301170670": 4,
+      "gas:candidate-vibid:1001000225959": 14,
+      "gas:candidate-vibid:350301170362": 18,
+      "gas:candidate-vibid:1001000121870": 11,
+      "gas:candidate-vibid:1001000217938": 0,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 126,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 23,
-      "Кудешкина Ольга Борисовна": 8,
-      "Лаврищев Артем Дмитриевич": 28,
-      "Смоленский Владимир Иванович": 127,
-      "Тихонов Георгий Иванович": 111,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 65
+      "gas:candidate-vibid:350301170684": 126,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 23,
+      "gas:candidate-vibid:350301170670": 8,
+      "gas:candidate-vibid:1001000225959": 28,
+      "gas:candidate-vibid:350301170362": 127,
+      "gas:candidate-vibid:1001000121870": 111,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 10
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 15,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 2,
-      "Кудешкина Ольга Борисовна": 2,
-      "Лаврищев Артем Дмитриевич": 13,
-      "Смоленский Владимир Иванович": 19,
-      "Тихонов Георгий Иванович": 23,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:350301170684": 15,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 2,
+      "gas:candidate-vibid:350301170670": 2,
+      "gas:candidate-vibid:1001000225959": 13,
+      "gas:candidate-vibid:350301170362": 19,
+      "gas:candidate-vibid:1001000121870": 23,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 138,
-      "Барон Леонид Иосифович": 7,
-      "Волков Владислав Борисович": 10,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 66,
-      "Смоленский Владимир Иванович": 101,
-      "Тихонов Георгий Иванович": 60,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 107
+      "gas:candidate-vibid:350301170684": 138,
+      "gas:candidate-vibid:1001000190380": 7,
+      "gas:candidate-vibid:1001000289810": 10,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 66,
+      "gas:candidate-vibid:350301170362": 101,
+      "gas:candidate-vibid:1001000121870": 60,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 224,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 48,
-      "Кудешкина Ольга Борисовна": 19,
-      "Лаврищев Артем Дмитриевич": 178,
-      "Смоленский Владимир Иванович": 309,
-      "Тихонов Георгий Иванович": 241,
-      "Челноков Михаил Борисович": 13,
-      "Шевченко Степан Федорович": 12,
-      "Против всех": 160
+      "gas:candidate-vibid:350301170684": 224,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 48,
+      "gas:candidate-vibid:350301170670": 19,
+      "gas:candidate-vibid:1001000225959": 178,
+      "gas:candidate-vibid:350301170362": 309,
+      "gas:candidate-vibid:1001000121870": 241,
+      "gas:candidate-vibid:1001000217938": 13,
+      "gas:candidate-vibid:1001000113953": 12,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 100,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 6,
-      "Лаврищев Артем Дмитриевич": 81,
-      "Смоленский Владимир Иванович": 120,
-      "Тихонов Георгий Иванович": 111,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 67
+      "gas:candidate-vibid:350301170684": 100,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 6,
+      "gas:candidate-vibid:1001000225959": 81,
+      "gas:candidate-vibid:350301170362": 120,
+      "gas:candidate-vibid:1001000121870": 111,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 186,
-      "Барон Леонид Иосифович": 66,
-      "Волков Владислав Борисович": 34,
-      "Кудешкина Ольга Борисовна": 34,
-      "Лаврищев Артем Дмитриевич": 245,
-      "Смоленский Владимир Иванович": 163,
-      "Тихонов Георгий Иванович": 131,
-      "Челноков Михаил Борисович": 19,
-      "Шевченко Степан Федорович": 49,
-      "Против всех": 321
+      "gas:candidate-vibid:350301170684": 186,
+      "gas:candidate-vibid:1001000190380": 66,
+      "gas:candidate-vibid:1001000289810": 34,
+      "gas:candidate-vibid:350301170670": 34,
+      "gas:candidate-vibid:1001000225959": 245,
+      "gas:candidate-vibid:350301170362": 163,
+      "gas:candidate-vibid:1001000121870": 131,
+      "gas:candidate-vibid:1001000217938": 19,
+      "gas:candidate-vibid:1001000113953": 49,
+      "special:against-all": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 187,
-      "Барон Леонид Иосифович": 53,
-      "Волков Владислав Борисович": 75,
-      "Кудешкина Ольга Борисовна": 28,
-      "Лаврищев Артем Дмитриевич": 191,
-      "Смоленский Владимир Иванович": 450,
-      "Тихонов Георгий Иванович": 132,
-      "Челноков Михаил Борисович": 21,
-      "Шевченко Степан Федорович": 40,
-      "Против всех": 307
+      "gas:candidate-vibid:350301170684": 187,
+      "gas:candidate-vibid:1001000190380": 53,
+      "gas:candidate-vibid:1001000289810": 75,
+      "gas:candidate-vibid:350301170670": 28,
+      "gas:candidate-vibid:1001000225959": 191,
+      "gas:candidate-vibid:350301170362": 450,
+      "gas:candidate-vibid:1001000121870": 132,
+      "gas:candidate-vibid:1001000217938": 21,
+      "gas:candidate-vibid:1001000113953": 40,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 162,
-      "Барон Леонид Иосифович": 20,
-      "Волков Владислав Борисович": 75,
-      "Кудешкина Ольга Борисовна": 27,
-      "Лаврищев Артем Дмитриевич": 195,
-      "Смоленский Владимир Иванович": 47,
-      "Тихонов Георгий Иванович": 118,
-      "Челноков Михаил Борисович": 12,
-      "Шевченко Степан Федорович": 30,
-      "Против всех": 274
+      "gas:candidate-vibid:350301170684": 162,
+      "gas:candidate-vibid:1001000190380": 20,
+      "gas:candidate-vibid:1001000289810": 75,
+      "gas:candidate-vibid:350301170670": 27,
+      "gas:candidate-vibid:1001000225959": 195,
+      "gas:candidate-vibid:350301170362": 47,
+      "gas:candidate-vibid:1001000121870": 118,
+      "gas:candidate-vibid:1001000217938": 12,
+      "gas:candidate-vibid:1001000113953": 30,
+      "special:against-all": 274
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 295,
-      "Барон Леонид Иосифович": 16,
-      "Волков Владислав Борисович": 51,
-      "Кудешкина Ольга Борисовна": 68,
-      "Лаврищев Артем Дмитриевич": 271,
-      "Смоленский Владимир Иванович": 60,
-      "Тихонов Георгий Иванович": 166,
-      "Челноков Михаил Борисович": 25,
-      "Шевченко Степан Федорович": 40,
-      "Против всех": 315
+      "gas:candidate-vibid:350301170684": 295,
+      "gas:candidate-vibid:1001000190380": 16,
+      "gas:candidate-vibid:1001000289810": 51,
+      "gas:candidate-vibid:350301170670": 68,
+      "gas:candidate-vibid:1001000225959": 271,
+      "gas:candidate-vibid:350301170362": 60,
+      "gas:candidate-vibid:1001000121870": 166,
+      "gas:candidate-vibid:1001000217938": 25,
+      "gas:candidate-vibid:1001000113953": 40,
+      "special:against-all": 315
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170338&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 85,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 11,
-      "Кудешкина Ольга Борисовна": 42,
-      "Лаврищев Артем Дмитриевич": 131,
-      "Смоленский Владимир Иванович": 27,
-      "Тихонов Георгий Иванович": 106,
-      "Челноков Михаил Борисович": 13,
-      "Шевченко Степан Федорович": 11,
-      "Против всех": 70
+      "gas:candidate-vibid:350301170684": 85,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 11,
+      "gas:candidate-vibid:350301170670": 42,
+      "gas:candidate-vibid:1001000225959": 131,
+      "gas:candidate-vibid:350301170362": 27,
+      "gas:candidate-vibid:1001000121870": 106,
+      "gas:candidate-vibid:1001000217938": 13,
+      "gas:candidate-vibid:1001000113953": 11,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 102,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 44,
-      "Лаврищев Артем Дмитриевич": 81,
-      "Смоленский Владимир Иванович": 44,
-      "Тихонов Георгий Иванович": 59,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 14,
-      "Против всех": 80
+      "gas:candidate-vibid:350301170684": 102,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 44,
+      "gas:candidate-vibid:1001000225959": 81,
+      "gas:candidate-vibid:350301170362": 44,
+      "gas:candidate-vibid:1001000121870": 59,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 14,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 71,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 19,
-      "Кудешкина Ольга Борисовна": 33,
-      "Лаврищев Артем Дмитриевич": 116,
-      "Смоленский Владимир Иванович": 37,
-      "Тихонов Георгий Иванович": 87,
-      "Челноков Михаил Борисович": 19,
-      "Шевченко Степан Федорович": 13,
-      "Против всех": 68
+      "gas:candidate-vibid:350301170684": 71,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 19,
+      "gas:candidate-vibid:350301170670": 33,
+      "gas:candidate-vibid:1001000225959": 116,
+      "gas:candidate-vibid:350301170362": 37,
+      "gas:candidate-vibid:1001000121870": 87,
+      "gas:candidate-vibid:1001000217938": 19,
+      "gas:candidate-vibid:1001000113953": 13,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 109,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 27,
-      "Лаврищев Артем Дмитриевич": 103,
-      "Смоленский Владимир Иванович": 97,
-      "Тихонов Георгий Иванович": 85,
-      "Челноков Михаил Борисович": 17,
-      "Шевченко Степан Федорович": 13,
-      "Против всех": 141
+      "gas:candidate-vibid:350301170684": 109,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 27,
+      "gas:candidate-vibid:1001000225959": 103,
+      "gas:candidate-vibid:350301170362": 97,
+      "gas:candidate-vibid:1001000121870": 85,
+      "gas:candidate-vibid:1001000217938": 17,
+      "gas:candidate-vibid:1001000113953": 13,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 73,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 14,
-      "Кудешкина Ольга Борисовна": 24,
-      "Лаврищев Артем Дмитриевич": 121,
-      "Смоленский Владимир Иванович": 49,
-      "Тихонов Георгий Иванович": 63,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 10,
-      "Против всех": 98
+      "gas:candidate-vibid:350301170684": 73,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 14,
+      "gas:candidate-vibid:350301170670": 24,
+      "gas:candidate-vibid:1001000225959": 121,
+      "gas:candidate-vibid:350301170362": 49,
+      "gas:candidate-vibid:1001000121870": 63,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 10,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 179,
-      "Барон Леонид Иосифович": 12,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 63,
-      "Лаврищев Артем Дмитриевич": 258,
-      "Смоленский Владимир Иванович": 67,
-      "Тихонов Георгий Иванович": 196,
-      "Челноков Михаил Борисович": 14,
-      "Шевченко Степан Федорович": 15,
-      "Против всех": 189
+      "gas:candidate-vibid:350301170684": 179,
+      "gas:candidate-vibid:1001000190380": 12,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 63,
+      "gas:candidate-vibid:1001000225959": 258,
+      "gas:candidate-vibid:350301170362": 67,
+      "gas:candidate-vibid:1001000121870": 196,
+      "gas:candidate-vibid:1001000217938": 14,
+      "gas:candidate-vibid:1001000113953": 15,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 184,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 34,
-      "Кудешкина Ольга Борисовна": 60,
-      "Лаврищев Артем Дмитриевич": 397,
-      "Смоленский Владимир Иванович": 116,
-      "Тихонов Георгий Иванович": 164,
-      "Челноков Михаил Борисович": 31,
-      "Шевченко Степан Федорович": 27,
-      "Против всех": 247
+      "gas:candidate-vibid:350301170684": 184,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 34,
+      "gas:candidate-vibid:350301170670": 60,
+      "gas:candidate-vibid:1001000225959": 397,
+      "gas:candidate-vibid:350301170362": 116,
+      "gas:candidate-vibid:1001000121870": 164,
+      "gas:candidate-vibid:1001000217938": 31,
+      "gas:candidate-vibid:1001000113953": 27,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 175,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 25,
-      "Кудешкина Ольга Борисовна": 52,
-      "Лаврищев Артем Дмитриевич": 325,
-      "Смоленский Владимир Иванович": 98,
-      "Тихонов Георгий Иванович": 204,
-      "Челноков Михаил Борисович": 33,
-      "Шевченко Степан Федорович": 16,
-      "Против всех": 216
+      "gas:candidate-vibid:350301170684": 175,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 25,
+      "gas:candidate-vibid:350301170670": 52,
+      "gas:candidate-vibid:1001000225959": 325,
+      "gas:candidate-vibid:350301170362": 98,
+      "gas:candidate-vibid:1001000121870": 204,
+      "gas:candidate-vibid:1001000217938": 33,
+      "gas:candidate-vibid:1001000113953": 16,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 150,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 43,
-      "Лаврищев Артем Дмитриевич": 293,
-      "Смоленский Владимир Иванович": 114,
-      "Тихонов Георгий Иванович": 198,
-      "Челноков Михаил Борисович": 28,
-      "Шевченко Степан Федорович": 37,
-      "Против всех": 199
+      "gas:candidate-vibid:350301170684": 150,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 43,
+      "gas:candidate-vibid:1001000225959": 293,
+      "gas:candidate-vibid:350301170362": 114,
+      "gas:candidate-vibid:1001000121870": 198,
+      "gas:candidate-vibid:1001000217938": 28,
+      "gas:candidate-vibid:1001000113953": 37,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 165,
-      "Барон Леонид Иосифович": 15,
-      "Волков Владислав Борисович": 19,
-      "Кудешкина Ольга Борисовна": 54,
-      "Лаврищев Артем Дмитриевич": 332,
-      "Смоленский Владимир Иванович": 120,
-      "Тихонов Георгий Иванович": 193,
-      "Челноков Михаил Борисович": 36,
-      "Шевченко Степан Федорович": 25,
-      "Против всех": 202
+      "gas:candidate-vibid:350301170684": 165,
+      "gas:candidate-vibid:1001000190380": 15,
+      "gas:candidate-vibid:1001000289810": 19,
+      "gas:candidate-vibid:350301170670": 54,
+      "gas:candidate-vibid:1001000225959": 332,
+      "gas:candidate-vibid:350301170362": 120,
+      "gas:candidate-vibid:1001000121870": 193,
+      "gas:candidate-vibid:1001000217938": 36,
+      "gas:candidate-vibid:1001000113953": 25,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 170,
-      "Барон Леонид Иосифович": 12,
-      "Волков Владислав Борисович": 24,
-      "Кудешкина Ольга Борисовна": 67,
-      "Лаврищев Артем Дмитриевич": 357,
-      "Смоленский Владимир Иванович": 153,
-      "Тихонов Георгий Иванович": 108,
-      "Челноков Михаил Борисович": 18,
-      "Шевченко Степан Федорович": 28,
-      "Против всех": 263
+      "gas:candidate-vibid:350301170684": 170,
+      "gas:candidate-vibid:1001000190380": 12,
+      "gas:candidate-vibid:1001000289810": 24,
+      "gas:candidate-vibid:350301170670": 67,
+      "gas:candidate-vibid:1001000225959": 357,
+      "gas:candidate-vibid:350301170362": 153,
+      "gas:candidate-vibid:1001000121870": 108,
+      "gas:candidate-vibid:1001000217938": 18,
+      "gas:candidate-vibid:1001000113953": 28,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 149,
-      "Барон Леонид Иосифович": 13,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 48,
-      "Лаврищев Артем Дмитриевич": 333,
-      "Смоленский Владимир Иванович": 120,
-      "Тихонов Георгий Иванович": 147,
-      "Челноков Михаил Борисович": 26,
-      "Шевченко Степан Федорович": 47,
-      "Против всех": 247
+      "gas:candidate-vibid:350301170684": 149,
+      "gas:candidate-vibid:1001000190380": 13,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 48,
+      "gas:candidate-vibid:1001000225959": 333,
+      "gas:candidate-vibid:350301170362": 120,
+      "gas:candidate-vibid:1001000121870": 147,
+      "gas:candidate-vibid:1001000217938": 26,
+      "gas:candidate-vibid:1001000113953": 47,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 144,
-      "Барон Леонид Иосифович": 15,
-      "Волков Владислав Борисович": 16,
-      "Кудешкина Ольга Борисовна": 40,
-      "Лаврищев Артем Дмитриевич": 345,
-      "Смоленский Владимир Иванович": 65,
-      "Тихонов Георгий Иванович": 129,
-      "Челноков Михаил Борисович": 31,
-      "Шевченко Степан Федорович": 35,
-      "Против всех": 200
+      "gas:candidate-vibid:350301170684": 144,
+      "gas:candidate-vibid:1001000190380": 15,
+      "gas:candidate-vibid:1001000289810": 16,
+      "gas:candidate-vibid:350301170670": 40,
+      "gas:candidate-vibid:1001000225959": 345,
+      "gas:candidate-vibid:350301170362": 65,
+      "gas:candidate-vibid:1001000121870": 129,
+      "gas:candidate-vibid:1001000217938": 31,
+      "gas:candidate-vibid:1001000113953": 35,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 92,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 13,
-      "Кудешкина Ольга Борисовна": 43,
-      "Лаврищев Артем Дмитриевич": 253,
-      "Смоленский Владимир Иванович": 59,
-      "Тихонов Георгий Иванович": 142,
-      "Челноков Михаил Борисович": 18,
-      "Шевченко Степан Федорович": 30,
-      "Против всех": 177
+      "gas:candidate-vibid:350301170684": 92,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 13,
+      "gas:candidate-vibid:350301170670": 43,
+      "gas:candidate-vibid:1001000225959": 253,
+      "gas:candidate-vibid:350301170362": 59,
+      "gas:candidate-vibid:1001000121870": 142,
+      "gas:candidate-vibid:1001000217938": 18,
+      "gas:candidate-vibid:1001000113953": 30,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 121,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 18,
-      "Кудешкина Ольга Борисовна": 40,
-      "Лаврищев Артем Дмитриевич": 268,
-      "Смоленский Владимир Иванович": 69,
-      "Тихонов Георгий Иванович": 123,
-      "Челноков Михаил Борисович": 22,
-      "Шевченко Степан Федорович": 14,
-      "Против всех": 159
+      "gas:candidate-vibid:350301170684": 121,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 18,
+      "gas:candidate-vibid:350301170670": 40,
+      "gas:candidate-vibid:1001000225959": 268,
+      "gas:candidate-vibid:350301170362": 69,
+      "gas:candidate-vibid:1001000121870": 123,
+      "gas:candidate-vibid:1001000217938": 22,
+      "gas:candidate-vibid:1001000113953": 14,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 112,
-      "Барон Леонид Иосифович": 16,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 55,
-      "Лаврищев Артем Дмитриевич": 208,
-      "Смоленский Владимир Иванович": 76,
-      "Тихонов Георгий Иванович": 129,
-      "Челноков Михаил Борисович": 12,
-      "Шевченко Степан Федорович": 10,
-      "Против всех": 139
+      "gas:candidate-vibid:350301170684": 112,
+      "gas:candidate-vibid:1001000190380": 16,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 55,
+      "gas:candidate-vibid:1001000225959": 208,
+      "gas:candidate-vibid:350301170362": 76,
+      "gas:candidate-vibid:1001000121870": 129,
+      "gas:candidate-vibid:1001000217938": 12,
+      "gas:candidate-vibid:1001000113953": 10,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 251,
-      "Барон Леонид Иосифович": 28,
-      "Волков Владислав Борисович": 38,
-      "Кудешкина Ольга Борисовна": 54,
-      "Лаврищев Артем Дмитриевич": 313,
-      "Смоленский Владимир Иванович": 85,
-      "Тихонов Георгий Иванович": 253,
-      "Челноков Михаил Борисович": 27,
-      "Шевченко Степан Федорович": 33,
-      "Против всех": 237
+      "gas:candidate-vibid:350301170684": 251,
+      "gas:candidate-vibid:1001000190380": 28,
+      "gas:candidate-vibid:1001000289810": 38,
+      "gas:candidate-vibid:350301170670": 54,
+      "gas:candidate-vibid:1001000225959": 313,
+      "gas:candidate-vibid:350301170362": 85,
+      "gas:candidate-vibid:1001000121870": 253,
+      "gas:candidate-vibid:1001000217938": 27,
+      "gas:candidate-vibid:1001000113953": 33,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 203,
-      "Барон Леонид Иосифович": 12,
-      "Волков Владислав Борисович": 34,
-      "Кудешкина Ольга Борисовна": 49,
-      "Лаврищев Артем Дмитриевич": 325,
-      "Смоленский Владимир Иванович": 105,
-      "Тихонов Георгий Иванович": 244,
-      "Челноков Михаил Борисович": 33,
-      "Шевченко Степан Федорович": 22,
-      "Против всех": 187
+      "gas:candidate-vibid:350301170684": 203,
+      "gas:candidate-vibid:1001000190380": 12,
+      "gas:candidate-vibid:1001000289810": 34,
+      "gas:candidate-vibid:350301170670": 49,
+      "gas:candidate-vibid:1001000225959": 325,
+      "gas:candidate-vibid:350301170362": 105,
+      "gas:candidate-vibid:1001000121870": 244,
+      "gas:candidate-vibid:1001000217938": 33,
+      "gas:candidate-vibid:1001000113953": 22,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 170,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 46,
-      "Кудешкина Ольга Борисовна": 51,
-      "Лаврищев Артем Дмитриевич": 304,
-      "Смоленский Владимир Иванович": 99,
-      "Тихонов Георгий Иванович": 220,
-      "Челноков Михаил Борисович": 22,
-      "Шевченко Степан Федорович": 16,
-      "Против всех": 240
+      "gas:candidate-vibid:350301170684": 170,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 46,
+      "gas:candidate-vibid:350301170670": 51,
+      "gas:candidate-vibid:1001000225959": 304,
+      "gas:candidate-vibid:350301170362": 99,
+      "gas:candidate-vibid:1001000121870": 220,
+      "gas:candidate-vibid:1001000217938": 22,
+      "gas:candidate-vibid:1001000113953": 16,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 79,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 19,
-      "Кудешкина Ольга Борисовна": 29,
-      "Лаврищев Артем Дмитриевич": 247,
-      "Смоленский Владимир Иванович": 57,
-      "Тихонов Георгий Иванович": 99,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 17,
-      "Против всех": 113
+      "gas:candidate-vibid:350301170684": 79,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 19,
+      "gas:candidate-vibid:350301170670": 29,
+      "gas:candidate-vibid:1001000225959": 247,
+      "gas:candidate-vibid:350301170362": 57,
+      "gas:candidate-vibid:1001000121870": 99,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 17,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 172,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 26,
-      "Кудешкина Ольга Борисовна": 39,
-      "Лаврищев Артем Дмитриевич": 270,
-      "Смоленский Владимир Иванович": 105,
-      "Тихонов Георгий Иванович": 113,
-      "Челноков Михаил Борисович": 25,
-      "Шевченко Степан Федорович": 15,
-      "Против всех": 170
+      "gas:candidate-vibid:350301170684": 172,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 26,
+      "gas:candidate-vibid:350301170670": 39,
+      "gas:candidate-vibid:1001000225959": 270,
+      "gas:candidate-vibid:350301170362": 105,
+      "gas:candidate-vibid:1001000121870": 113,
+      "gas:candidate-vibid:1001000217938": 25,
+      "gas:candidate-vibid:1001000113953": 15,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 152,
-      "Барон Леонид Иосифович": 18,
-      "Волков Владислав Борисович": 24,
-      "Кудешкина Ольга Борисовна": 57,
-      "Лаврищев Артем Дмитриевич": 276,
-      "Смоленский Владимир Иванович": 94,
-      "Тихонов Георгий Иванович": 138,
-      "Челноков Михаил Борисович": 17,
-      "Шевченко Степан Федорович": 17,
-      "Против всех": 195
+      "gas:candidate-vibid:350301170684": 152,
+      "gas:candidate-vibid:1001000190380": 18,
+      "gas:candidate-vibid:1001000289810": 24,
+      "gas:candidate-vibid:350301170670": 57,
+      "gas:candidate-vibid:1001000225959": 276,
+      "gas:candidate-vibid:350301170362": 94,
+      "gas:candidate-vibid:1001000121870": 138,
+      "gas:candidate-vibid:1001000217938": 17,
+      "gas:candidate-vibid:1001000113953": 17,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 116,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 17,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 193,
-      "Смоленский Владимир Иванович": 39,
-      "Тихонов Георгий Иванович": 102,
-      "Челноков Михаил Борисович": 7,
-      "Шевченко Степан Федорович": 19,
-      "Против всех": 116
+      "gas:candidate-vibid:350301170684": 116,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 17,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 193,
+      "gas:candidate-vibid:350301170362": 39,
+      "gas:candidate-vibid:1001000121870": 102,
+      "gas:candidate-vibid:1001000217938": 7,
+      "gas:candidate-vibid:1001000113953": 19,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 40,
-      "Барон Леонид Иосифович": 12,
-      "Волков Владислав Борисович": 37,
-      "Кудешкина Ольга Борисовна": 24,
-      "Лаврищев Артем Дмитриевич": 44,
-      "Смоленский Владимир Иванович": 27,
-      "Тихонов Георгий Иванович": 27,
-      "Челноков Михаил Борисович": 15,
-      "Шевченко Степан Федорович": 9,
-      "Против всех": 61
+      "gas:candidate-vibid:350301170684": 40,
+      "gas:candidate-vibid:1001000190380": 12,
+      "gas:candidate-vibid:1001000289810": 37,
+      "gas:candidate-vibid:350301170670": 24,
+      "gas:candidate-vibid:1001000225959": 44,
+      "gas:candidate-vibid:350301170362": 27,
+      "gas:candidate-vibid:1001000121870": 27,
+      "gas:candidate-vibid:1001000217938": 15,
+      "gas:candidate-vibid:1001000113953": 9,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 148,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 30,
-      "Кудешкина Ольга Борисовна": 38,
-      "Лаврищев Артем Дмитриевич": 340,
-      "Смоленский Владимир Иванович": 63,
-      "Тихонов Георгий Иванович": 148,
-      "Челноков Михаил Борисович": 27,
-      "Шевченко Степан Федорович": 28,
-      "Против всех": 184
+      "gas:candidate-vibid:350301170684": 148,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 30,
+      "gas:candidate-vibid:350301170670": 38,
+      "gas:candidate-vibid:1001000225959": 340,
+      "gas:candidate-vibid:350301170362": 63,
+      "gas:candidate-vibid:1001000121870": 148,
+      "gas:candidate-vibid:1001000217938": 27,
+      "gas:candidate-vibid:1001000113953": 28,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 151,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 29,
-      "Кудешкина Ольга Борисовна": 70,
-      "Лаврищев Артем Дмитриевич": 347,
-      "Смоленский Владимир Иванович": 129,
-      "Тихонов Георгий Иванович": 211,
-      "Челноков Михаил Борисович": 28,
-      "Шевченко Степан Федорович": 35,
-      "Против всех": 214
+      "gas:candidate-vibid:350301170684": 151,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 29,
+      "gas:candidate-vibid:350301170670": 70,
+      "gas:candidate-vibid:1001000225959": 347,
+      "gas:candidate-vibid:350301170362": 129,
+      "gas:candidate-vibid:1001000121870": 211,
+      "gas:candidate-vibid:1001000217938": 28,
+      "gas:candidate-vibid:1001000113953": 35,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 80,
-      "Барон Леонид Иосифович": 14,
-      "Волков Владислав Борисович": 11,
-      "Кудешкина Ольга Борисовна": 34,
-      "Лаврищев Артем Дмитриевич": 181,
-      "Смоленский Владимир Иванович": 59,
-      "Тихонов Георгий Иванович": 89,
-      "Челноков Михаил Борисович": 19,
-      "Шевченко Степан Федорович": 12,
-      "Против всех": 122
+      "gas:candidate-vibid:350301170684": 80,
+      "gas:candidate-vibid:1001000190380": 14,
+      "gas:candidate-vibid:1001000289810": 11,
+      "gas:candidate-vibid:350301170670": 34,
+      "gas:candidate-vibid:1001000225959": 181,
+      "gas:candidate-vibid:350301170362": 59,
+      "gas:candidate-vibid:1001000121870": 89,
+      "gas:candidate-vibid:1001000217938": 19,
+      "gas:candidate-vibid:1001000113953": 12,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 159,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 25,
-      "Лаврищев Артем Дмитриевич": 200,
-      "Смоленский Владимир Иванович": 63,
-      "Тихонов Георгий Иванович": 132,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 12,
-      "Против всех": 154
+      "gas:candidate-vibid:350301170684": 159,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 25,
+      "gas:candidate-vibid:1001000225959": 200,
+      "gas:candidate-vibid:350301170362": 63,
+      "gas:candidate-vibid:1001000121870": 132,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 12,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 261,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 29,
-      "Кудешкина Ольга Борисовна": 37,
-      "Лаврищев Артем Дмитриевич": 173,
-      "Смоленский Владимир Иванович": 57,
-      "Тихонов Георгий Иванович": 124,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 17,
-      "Против всех": 168
+      "gas:candidate-vibid:350301170684": 261,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 29,
+      "gas:candidate-vibid:350301170670": 37,
+      "gas:candidate-vibid:1001000225959": 173,
+      "gas:candidate-vibid:350301170362": 57,
+      "gas:candidate-vibid:1001000121870": 124,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 17,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 318,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 46,
-      "Кудешкина Ольга Борисовна": 44,
-      "Лаврищев Артем Дмитриевич": 166,
-      "Смоленский Владимир Иванович": 101,
-      "Тихонов Георгий Иванович": 158,
-      "Челноков Михаил Борисович": 36,
-      "Шевченко Степан Федорович": 26,
-      "Против всех": 230
+      "gas:candidate-vibid:350301170684": 318,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 46,
+      "gas:candidate-vibid:350301170670": 44,
+      "gas:candidate-vibid:1001000225959": 166,
+      "gas:candidate-vibid:350301170362": 101,
+      "gas:candidate-vibid:1001000121870": 158,
+      "gas:candidate-vibid:1001000217938": 36,
+      "gas:candidate-vibid:1001000113953": 26,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 62,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 23,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 46,
-      "Смоленский Владимир Иванович": 72,
-      "Тихонов Георгий Иванович": 139,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 11,
-      "Против всех": 122
+      "gas:candidate-vibid:350301170684": 62,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 23,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 46,
+      "gas:candidate-vibid:350301170362": 72,
+      "gas:candidate-vibid:1001000121870": 139,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 11,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 177,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 55,
-      "Кудешкина Ольга Борисовна": 36,
-      "Лаврищев Артем Дмитриевич": 103,
-      "Смоленский Владимир Иванович": 79,
-      "Тихонов Георгий Иванович": 125,
-      "Челноков Михаил Борисович": 31,
-      "Шевченко Степан Федорович": 26,
-      "Против всех": 225
+      "gas:candidate-vibid:350301170684": 177,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 55,
+      "gas:candidate-vibid:350301170670": 36,
+      "gas:candidate-vibid:1001000225959": 103,
+      "gas:candidate-vibid:350301170362": 79,
+      "gas:candidate-vibid:1001000121870": 125,
+      "gas:candidate-vibid:1001000217938": 31,
+      "gas:candidate-vibid:1001000113953": 26,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 203,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 38,
-      "Кудешкина Ольга Борисовна": 29,
-      "Лаврищев Артем Дмитриевич": 153,
-      "Смоленский Владимир Иванович": 138,
-      "Тихонов Георгий Иванович": 144,
-      "Челноков Михаил Борисович": 20,
-      "Шевченко Степан Федорович": 37,
-      "Против всех": 194
+      "gas:candidate-vibid:350301170684": 203,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 38,
+      "gas:candidate-vibid:350301170670": 29,
+      "gas:candidate-vibid:1001000225959": 153,
+      "gas:candidate-vibid:350301170362": 138,
+      "gas:candidate-vibid:1001000121870": 144,
+      "gas:candidate-vibid:1001000217938": 20,
+      "gas:candidate-vibid:1001000113953": 37,
+      "special:against-all": 194
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 263,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 85,
-      "Кудешкина Ольга Борисовна": 22,
-      "Лаврищев Артем Дмитриевич": 119,
-      "Смоленский Владимир Иванович": 142,
-      "Тихонов Георгий Иванович": 177,
-      "Челноков Михаил Борисович": 19,
-      "Шевченко Степан Федорович": 18,
-      "Против всех": 255
+      "gas:candidate-vibid:350301170684": 263,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 85,
+      "gas:candidate-vibid:350301170670": 22,
+      "gas:candidate-vibid:1001000225959": 119,
+      "gas:candidate-vibid:350301170362": 142,
+      "gas:candidate-vibid:1001000121870": 177,
+      "gas:candidate-vibid:1001000217938": 19,
+      "gas:candidate-vibid:1001000113953": 18,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 67,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 27,
-      "Кудешкина Ольга Борисовна": 18,
-      "Лаврищев Артем Дмитриевич": 64,
-      "Смоленский Владимир Иванович": 33,
-      "Тихонов Георгий Иванович": 38,
-      "Челноков Михаил Борисович": 32,
-      "Шевченко Степан Федорович": 11,
-      "Против всех": 115
+      "gas:candidate-vibid:350301170684": 67,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 27,
+      "gas:candidate-vibid:350301170670": 18,
+      "gas:candidate-vibid:1001000225959": 64,
+      "gas:candidate-vibid:350301170362": 33,
+      "gas:candidate-vibid:1001000121870": 38,
+      "gas:candidate-vibid:1001000217938": 32,
+      "gas:candidate-vibid:1001000113953": 11,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 119,
-      "Барон Леонид Иосифович": 7,
-      "Волков Владислав Борисович": 39,
-      "Кудешкина Ольга Борисовна": 11,
-      "Лаврищев Артем Дмитриевич": 46,
-      "Смоленский Владимир Иванович": 104,
-      "Тихонов Георгий Иванович": 199,
-      "Челноков Михаил Борисович": 20,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 95
+      "gas:candidate-vibid:350301170684": 119,
+      "gas:candidate-vibid:1001000190380": 7,
+      "gas:candidate-vibid:1001000289810": 39,
+      "gas:candidate-vibid:350301170670": 11,
+      "gas:candidate-vibid:1001000225959": 46,
+      "gas:candidate-vibid:350301170362": 104,
+      "gas:candidate-vibid:1001000121870": 199,
+      "gas:candidate-vibid:1001000217938": 20,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 131,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 23,
-      "Кудешкина Ольга Борисовна": 26,
-      "Лаврищев Артем Дмитриевич": 57,
-      "Смоленский Владимир Иванович": 96,
-      "Тихонов Георгий Иванович": 79,
-      "Челноков Михаил Борисович": 21,
-      "Шевченко Степан Федорович": 9,
-      "Против всех": 111
+      "gas:candidate-vibid:350301170684": 131,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 23,
+      "gas:candidate-vibid:350301170670": 26,
+      "gas:candidate-vibid:1001000225959": 57,
+      "gas:candidate-vibid:350301170362": 96,
+      "gas:candidate-vibid:1001000121870": 79,
+      "gas:candidate-vibid:1001000217938": 21,
+      "gas:candidate-vibid:1001000113953": 9,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 152,
-      "Барон Леонид Иосифович": 7,
-      "Волков Владислав Борисович": 34,
-      "Кудешкина Ольга Борисовна": 18,
-      "Лаврищев Артем Дмитриевич": 92,
-      "Смоленский Владимир Иванович": 330,
-      "Тихонов Георгий Иванович": 74,
-      "Челноков Михаил Борисович": 23,
-      "Шевченко Степан Федорович": 12,
-      "Против всех": 140
+      "gas:candidate-vibid:350301170684": 152,
+      "gas:candidate-vibid:1001000190380": 7,
+      "gas:candidate-vibid:1001000289810": 34,
+      "gas:candidate-vibid:350301170670": 18,
+      "gas:candidate-vibid:1001000225959": 92,
+      "gas:candidate-vibid:350301170362": 330,
+      "gas:candidate-vibid:1001000121870": 74,
+      "gas:candidate-vibid:1001000217938": 23,
+      "gas:candidate-vibid:1001000113953": 12,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 72,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 48,
-      "Лаврищев Артем Дмитриевич": 104,
-      "Смоленский Владимир Иванович": 45,
-      "Тихонов Георгий Иванович": 106,
-      "Челноков Михаил Борисович": 23,
-      "Шевченко Степан Федорович": 3,
-      "Против всех": 101
+      "gas:candidate-vibid:350301170684": 72,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 48,
+      "gas:candidate-vibid:1001000225959": 104,
+      "gas:candidate-vibid:350301170362": 45,
+      "gas:candidate-vibid:1001000121870": 106,
+      "gas:candidate-vibid:1001000217938": 23,
+      "gas:candidate-vibid:1001000113953": 3,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 167,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 38,
-      "Кудешкина Ольга Борисовна": 34,
-      "Лаврищев Артем Дмитриевич": 65,
-      "Смоленский Владимир Иванович": 31,
-      "Тихонов Георгий Иванович": 75,
-      "Челноков Михаил Борисович": 88,
-      "Шевченко Степан Федорович": 6,
-      "Против всех": 170
+      "gas:candidate-vibid:350301170684": 167,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 38,
+      "gas:candidate-vibid:350301170670": 34,
+      "gas:candidate-vibid:1001000225959": 65,
+      "gas:candidate-vibid:350301170362": 31,
+      "gas:candidate-vibid:1001000121870": 75,
+      "gas:candidate-vibid:1001000217938": 88,
+      "gas:candidate-vibid:1001000113953": 6,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 102,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 39,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 37,
-      "Смоленский Владимир Иванович": 83,
-      "Тихонов Георгий Иванович": 77,
-      "Челноков Михаил Борисович": 13,
-      "Шевченко Степан Федорович": 6,
-      "Против всех": 124
+      "gas:candidate-vibid:350301170684": 102,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 39,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 37,
+      "gas:candidate-vibid:350301170362": 83,
+      "gas:candidate-vibid:1001000121870": 77,
+      "gas:candidate-vibid:1001000217938": 13,
+      "gas:candidate-vibid:1001000113953": 6,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 144,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 49,
-      "Кудешкина Ольга Борисовна": 26,
-      "Лаврищев Артем Дмитриевич": 102,
-      "Смоленский Владимир Иванович": 64,
-      "Тихонов Георгий Иванович": 103,
-      "Челноков Михаил Борисович": 24,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 163
+      "gas:candidate-vibid:350301170684": 144,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 49,
+      "gas:candidate-vibid:350301170670": 26,
+      "gas:candidate-vibid:1001000225959": 102,
+      "gas:candidate-vibid:350301170362": 64,
+      "gas:candidate-vibid:1001000121870": 103,
+      "gas:candidate-vibid:1001000217938": 24,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 104,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 27,
-      "Лаврищев Артем Дмитриевич": 56,
-      "Смоленский Владимир Иванович": 41,
-      "Тихонов Георгий Иванович": 79,
-      "Челноков Михаил Борисович": 16,
-      "Шевченко Степан Федорович": 15,
-      "Против всех": 139
+      "gas:candidate-vibid:350301170684": 104,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 27,
+      "gas:candidate-vibid:1001000225959": 56,
+      "gas:candidate-vibid:350301170362": 41,
+      "gas:candidate-vibid:1001000121870": 79,
+      "gas:candidate-vibid:1001000217938": 16,
+      "gas:candidate-vibid:1001000113953": 15,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 75,
-      "Барон Леонид Иосифович": 12,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 114,
-      "Смоленский Владимир Иванович": 57,
-      "Тихонов Георгий Иванович": 152,
-      "Челноков Михаил Борисович": 19,
-      "Шевченко Степан Федорович": 10,
-      "Против всех": 144
+      "gas:candidate-vibid:350301170684": 75,
+      "gas:candidate-vibid:1001000190380": 12,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 114,
+      "gas:candidate-vibid:350301170362": 57,
+      "gas:candidate-vibid:1001000121870": 152,
+      "gas:candidate-vibid:1001000217938": 19,
+      "gas:candidate-vibid:1001000113953": 10,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 83,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 24,
-      "Кудешкина Ольга Борисовна": 9,
-      "Лаврищев Артем Дмитриевич": 38,
-      "Смоленский Владимир Иванович": 78,
-      "Тихонов Георгий Иванович": 53,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 58
+      "gas:candidate-vibid:350301170684": 83,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 24,
+      "gas:candidate-vibid:350301170670": 9,
+      "gas:candidate-vibid:1001000225959": 38,
+      "gas:candidate-vibid:350301170362": 78,
+      "gas:candidate-vibid:1001000121870": 53,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 246,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 63,
-      "Кудешкина Ольга Борисовна": 41,
-      "Лаврищев Артем Дмитриевич": 120,
-      "Смоленский Владимир Иванович": 40,
-      "Тихонов Георгий Иванович": 136,
-      "Челноков Михаил Борисович": 37,
-      "Шевченко Степан Федорович": 16,
-      "Против всех": 236
+      "gas:candidate-vibid:350301170684": 246,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 63,
+      "gas:candidate-vibid:350301170670": 41,
+      "gas:candidate-vibid:1001000225959": 120,
+      "gas:candidate-vibid:350301170362": 40,
+      "gas:candidate-vibid:1001000121870": 136,
+      "gas:candidate-vibid:1001000217938": 37,
+      "gas:candidate-vibid:1001000113953": 16,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 76,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 6,
-      "Кудешкина Ольга Борисовна": 6,
-      "Лаврищев Артем Дмитриевич": 36,
-      "Смоленский Владимир Иванович": 33,
-      "Тихонов Георгий Иванович": 11,
-      "Челноков Михаил Борисович": 6,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:350301170684": 76,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 6,
+      "gas:candidate-vibid:350301170670": 6,
+      "gas:candidate-vibid:1001000225959": 36,
+      "gas:candidate-vibid:350301170362": 33,
+      "gas:candidate-vibid:1001000121870": 11,
+      "gas:candidate-vibid:1001000217938": 6,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 211,
-      "Барон Леонид Иосифович": 7,
-      "Волков Владислав Борисович": 67,
-      "Кудешкина Ольга Борисовна": 32,
-      "Лаврищев Артем Дмитриевич": 69,
-      "Смоленский Владимир Иванович": 110,
-      "Тихонов Георгий Иванович": 118,
-      "Челноков Михаил Борисович": 29,
-      "Шевченко Степан Федорович": 14,
-      "Против всех": 180
+      "gas:candidate-vibid:350301170684": 211,
+      "gas:candidate-vibid:1001000190380": 7,
+      "gas:candidate-vibid:1001000289810": 67,
+      "gas:candidate-vibid:350301170670": 32,
+      "gas:candidate-vibid:1001000225959": 69,
+      "gas:candidate-vibid:350301170362": 110,
+      "gas:candidate-vibid:1001000121870": 118,
+      "gas:candidate-vibid:1001000217938": 29,
+      "gas:candidate-vibid:1001000113953": 14,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 128,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 33,
-      "Кудешкина Ольга Борисовна": 39,
-      "Лаврищев Артем Дмитриевич": 179,
-      "Смоленский Владимир Иванович": 81,
-      "Тихонов Георгий Иванович": 73,
-      "Челноков Михаил Борисович": 20,
-      "Шевченко Степан Федорович": 3,
-      "Против всех": 108
+      "gas:candidate-vibid:350301170684": 128,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 33,
+      "gas:candidate-vibid:350301170670": 39,
+      "gas:candidate-vibid:1001000225959": 179,
+      "gas:candidate-vibid:350301170362": 81,
+      "gas:candidate-vibid:1001000121870": 73,
+      "gas:candidate-vibid:1001000217938": 20,
+      "gas:candidate-vibid:1001000113953": 3,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 312,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 41,
-      "Кудешкина Ольга Борисовна": 30,
-      "Лаврищев Артем Дмитриевич": 381,
-      "Смоленский Владимир Иванович": 48,
-      "Тихонов Георгий Иванович": 122,
-      "Челноков Михаил Борисович": 22,
-      "Шевченко Степан Федорович": 17,
-      "Против всех": 232
+      "gas:candidate-vibid:350301170684": 312,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 41,
+      "gas:candidate-vibid:350301170670": 30,
+      "gas:candidate-vibid:1001000225959": 381,
+      "gas:candidate-vibid:350301170362": 48,
+      "gas:candidate-vibid:1001000121870": 122,
+      "gas:candidate-vibid:1001000217938": 22,
+      "gas:candidate-vibid:1001000113953": 17,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 77,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 34,
-      "Кудешкина Ольга Борисовна": 23,
-      "Лаврищев Артем Дмитриевич": 92,
-      "Смоленский Владимир Иванович": 69,
-      "Тихонов Георгий Иванович": 55,
-      "Челноков Михаил Борисович": 22,
-      "Шевченко Степан Федорович": 31,
-      "Против всех": 143
+      "gas:candidate-vibid:350301170684": 77,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 34,
+      "gas:candidate-vibid:350301170670": 23,
+      "gas:candidate-vibid:1001000225959": 92,
+      "gas:candidate-vibid:350301170362": 69,
+      "gas:candidate-vibid:1001000121870": 55,
+      "gas:candidate-vibid:1001000217938": 22,
+      "gas:candidate-vibid:1001000113953": 31,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 22,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 5,
-      "Кудешкина Ольга Борисовна": 3,
-      "Лаврищев Артем Дмитриевич": 6,
-      "Смоленский Владимир Иванович": 5,
-      "Тихонов Георгий Иванович": 18,
-      "Челноков Михаил Борисович": 5,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 21
+      "gas:candidate-vibid:350301170684": 22,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 5,
+      "gas:candidate-vibid:350301170670": 3,
+      "gas:candidate-vibid:1001000225959": 6,
+      "gas:candidate-vibid:350301170362": 5,
+      "gas:candidate-vibid:1001000121870": 18,
+      "gas:candidate-vibid:1001000217938": 5,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 93,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 26,
-      "Кудешкина Ольга Борисовна": 13,
-      "Лаврищев Артем Дмитриевич": 197,
-      "Смоленский Владимир Иванович": 40,
-      "Тихонов Георгий Иванович": 48,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 41,
-      "Против всех": 80
+      "gas:candidate-vibid:350301170684": 93,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 26,
+      "gas:candidate-vibid:350301170670": 13,
+      "gas:candidate-vibid:1001000225959": 197,
+      "gas:candidate-vibid:350301170362": 40,
+      "gas:candidate-vibid:1001000121870": 48,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 41,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 121,
-      "Барон Леонид Иосифович": 25,
-      "Волков Владислав Борисович": 43,
-      "Кудешкина Ольга Борисовна": 36,
-      "Лаврищев Артем Дмитриевич": 71,
-      "Смоленский Владимир Иванович": 20,
-      "Тихонов Георгий Иванович": 59,
-      "Челноков Михаил Борисович": 40,
-      "Шевченко Степан Федорович": 22,
-      "Против всех": 236
+      "gas:candidate-vibid:350301170684": 121,
+      "gas:candidate-vibid:1001000190380": 25,
+      "gas:candidate-vibid:1001000289810": 43,
+      "gas:candidate-vibid:350301170670": 36,
+      "gas:candidate-vibid:1001000225959": 71,
+      "gas:candidate-vibid:350301170362": 20,
+      "gas:candidate-vibid:1001000121870": 59,
+      "gas:candidate-vibid:1001000217938": 40,
+      "gas:candidate-vibid:1001000113953": 22,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 236,
-      "Барон Леонид Иосифович": 31,
-      "Волков Владислав Борисович": 97,
-      "Кудешкина Ольга Борисовна": 77,
-      "Лаврищев Артем Дмитриевич": 342,
-      "Смоленский Владимир Иванович": 28,
-      "Тихонов Георгий Иванович": 96,
-      "Челноков Михаил Борисович": 61,
-      "Шевченко Степан Федорович": 38,
-      "Против всех": 502
+      "gas:candidate-vibid:350301170684": 236,
+      "gas:candidate-vibid:1001000190380": 31,
+      "gas:candidate-vibid:1001000289810": 97,
+      "gas:candidate-vibid:350301170670": 77,
+      "gas:candidate-vibid:1001000225959": 342,
+      "gas:candidate-vibid:350301170362": 28,
+      "gas:candidate-vibid:1001000121870": 96,
+      "gas:candidate-vibid:1001000217938": 61,
+      "gas:candidate-vibid:1001000113953": 38,
+      "special:against-all": 502
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170339&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 109,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 15,
-      "Кудешкина Ольга Борисовна": 15,
-      "Лаврищев Артем Дмитриевич": 130,
-      "Смоленский Владимир Иванович": 981,
-      "Тихонов Георгий Иванович": 172,
-      "Челноков Михаил Борисович": 15,
-      "Шевченко Степан Федорович": 26,
-      "Против всех": 164
+      "gas:candidate-vibid:350301170684": 109,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 15,
+      "gas:candidate-vibid:350301170670": 15,
+      "gas:candidate-vibid:1001000225959": 130,
+      "gas:candidate-vibid:350301170362": 981,
+      "gas:candidate-vibid:1001000121870": 172,
+      "gas:candidate-vibid:1001000217938": 15,
+      "gas:candidate-vibid:1001000113953": 26,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 11,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 7,
-      "Кудешкина Ольга Борисовна": 6,
-      "Лаврищев Артем Дмитриевич": 15,
-      "Смоленский Владимир Иванович": 331,
-      "Тихонов Георгий Иванович": 39,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 46
+      "gas:candidate-vibid:350301170684": 11,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 7,
+      "gas:candidate-vibid:350301170670": 6,
+      "gas:candidate-vibid:1001000225959": 15,
+      "gas:candidate-vibid:350301170362": 331,
+      "gas:candidate-vibid:1001000121870": 39,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 51,
-      "Барон Леонид Иосифович": 34,
-      "Волков Владислав Борисович": 41,
-      "Кудешкина Ольга Борисовна": 19,
-      "Лаврищев Артем Дмитриевич": 66,
-      "Смоленский Владимир Иванович": 487,
-      "Тихонов Георгий Иванович": 84,
-      "Челноков Михаил Борисович": 7,
-      "Шевченко Степан Федорович": 25,
-      "Против всех": 230
+      "gas:candidate-vibid:350301170684": 51,
+      "gas:candidate-vibid:1001000190380": 34,
+      "gas:candidate-vibid:1001000289810": 41,
+      "gas:candidate-vibid:350301170670": 19,
+      "gas:candidate-vibid:1001000225959": 66,
+      "gas:candidate-vibid:350301170362": 487,
+      "gas:candidate-vibid:1001000121870": 84,
+      "gas:candidate-vibid:1001000217938": 7,
+      "gas:candidate-vibid:1001000113953": 25,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 39,
-      "Барон Леонид Иосифович": 25,
-      "Волков Владислав Борисович": 35,
-      "Кудешкина Ольга Борисовна": 17,
-      "Лаврищев Артем Дмитриевич": 48,
-      "Смоленский Владимир Иванович": 395,
-      "Тихонов Георгий Иванович": 62,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 24,
-      "Против всех": 202
+      "gas:candidate-vibid:350301170684": 39,
+      "gas:candidate-vibid:1001000190380": 25,
+      "gas:candidate-vibid:1001000289810": 35,
+      "gas:candidate-vibid:350301170670": 17,
+      "gas:candidate-vibid:1001000225959": 48,
+      "gas:candidate-vibid:350301170362": 395,
+      "gas:candidate-vibid:1001000121870": 62,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 24,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 108,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 39,
-      "Кудешкина Ольга Борисовна": 26,
-      "Лаврищев Артем Дмитриевич": 46,
-      "Смоленский Владимир Иванович": 1235,
-      "Тихонов Георгий Иванович": 199,
-      "Челноков Михаил Борисович": 17,
-      "Шевченко Степан Федорович": 40,
-      "Против всех": 210
+      "gas:candidate-vibid:350301170684": 108,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 39,
+      "gas:candidate-vibid:350301170670": 26,
+      "gas:candidate-vibid:1001000225959": 46,
+      "gas:candidate-vibid:350301170362": 1235,
+      "gas:candidate-vibid:1001000121870": 199,
+      "gas:candidate-vibid:1001000217938": 17,
+      "gas:candidate-vibid:1001000113953": 40,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 90,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 13,
-      "Лаврищев Артем Дмитриевич": 38,
-      "Смоленский Владимир Иванович": 884,
-      "Тихонов Георгий Иванович": 161,
-      "Челноков Михаил Борисович": 8,
-      "Шевченко Степан Федорович": 30,
-      "Против всех": 154
+      "gas:candidate-vibid:350301170684": 90,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 13,
+      "gas:candidate-vibid:1001000225959": 38,
+      "gas:candidate-vibid:350301170362": 884,
+      "gas:candidate-vibid:1001000121870": 161,
+      "gas:candidate-vibid:1001000217938": 8,
+      "gas:candidate-vibid:1001000113953": 30,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 68,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 32,
-      "Кудешкина Ольга Борисовна": 35,
-      "Лаврищев Артем Дмитриевич": 45,
-      "Смоленский Владимир Иванович": 1048,
-      "Тихонов Георгий Иванович": 257,
-      "Челноков Михаил Борисович": 19,
-      "Шевченко Степан Федорович": 57,
-      "Против всех": 180
+      "gas:candidate-vibid:350301170684": 68,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 32,
+      "gas:candidate-vibid:350301170670": 35,
+      "gas:candidate-vibid:1001000225959": 45,
+      "gas:candidate-vibid:350301170362": 1048,
+      "gas:candidate-vibid:1001000121870": 257,
+      "gas:candidate-vibid:1001000217938": 19,
+      "gas:candidate-vibid:1001000113953": 57,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 29,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 30,
-      "Кудешкина Ольга Борисовна": 15,
-      "Лаврищев Артем Дмитриевич": 64,
-      "Смоленский Владимир Иванович": 719,
-      "Тихонов Георгий Иванович": 148,
-      "Челноков Михаил Борисович": 5,
-      "Шевченко Степан Федорович": 10,
-      "Против всех": 122
+      "gas:candidate-vibid:350301170684": 29,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 30,
+      "gas:candidate-vibid:350301170670": 15,
+      "gas:candidate-vibid:1001000225959": 64,
+      "gas:candidate-vibid:350301170362": 719,
+      "gas:candidate-vibid:1001000121870": 148,
+      "gas:candidate-vibid:1001000217938": 5,
+      "gas:candidate-vibid:1001000113953": 10,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 69,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 10,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 20,
-      "Смоленский Владимир Иванович": 654,
-      "Тихонов Георгий Иванович": 70,
-      "Челноков Михаил Борисович": 5,
-      "Шевченко Степан Федорович": 6,
-      "Против всех": 115
+      "gas:candidate-vibid:350301170684": 69,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 10,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 20,
+      "gas:candidate-vibid:350301170362": 654,
+      "gas:candidate-vibid:1001000121870": 70,
+      "gas:candidate-vibid:1001000217938": 5,
+      "gas:candidate-vibid:1001000113953": 6,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 40,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 32,
-      "Кудешкина Ольга Борисовна": 20,
-      "Лаврищев Артем Дмитриевич": 69,
-      "Смоленский Владимир Иванович": 842,
-      "Тихонов Георгий Иванович": 192,
-      "Челноков Михаил Борисович": 8,
-      "Шевченко Степан Федорович": 26,
-      "Против всех": 135
+      "gas:candidate-vibid:350301170684": 40,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 32,
+      "gas:candidate-vibid:350301170670": 20,
+      "gas:candidate-vibid:1001000225959": 69,
+      "gas:candidate-vibid:350301170362": 842,
+      "gas:candidate-vibid:1001000121870": 192,
+      "gas:candidate-vibid:1001000217938": 8,
+      "gas:candidate-vibid:1001000113953": 26,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 31,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 30,
-      "Кудешкина Ольга Борисовна": 13,
-      "Лаврищев Артем Дмитриевич": 55,
-      "Смоленский Владимир Иванович": 657,
-      "Тихонов Георгий Иванович": 121,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 21,
-      "Против всех": 112
+      "gas:candidate-vibid:350301170684": 31,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 30,
+      "gas:candidate-vibid:350301170670": 13,
+      "gas:candidate-vibid:1001000225959": 55,
+      "gas:candidate-vibid:350301170362": 657,
+      "gas:candidate-vibid:1001000121870": 121,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 21,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 59,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 24,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 80,
-      "Смоленский Владимир Иванович": 963,
-      "Тихонов Георгий Иванович": 251,
-      "Челноков Михаил Борисович": 18,
-      "Шевченко Степан Федорович": 39,
-      "Против всех": 189
+      "gas:candidate-vibid:350301170684": 59,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 24,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 80,
+      "gas:candidate-vibid:350301170362": 963,
+      "gas:candidate-vibid:1001000121870": 251,
+      "gas:candidate-vibid:1001000217938": 18,
+      "gas:candidate-vibid:1001000113953": 39,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 47,
-      "Барон Леонид Иосифович": 15,
-      "Волков Владислав Борисович": 12,
-      "Кудешкина Ольга Борисовна": 10,
-      "Лаврищев Артем Дмитриевич": 64,
-      "Смоленский Владимир Иванович": 957,
-      "Тихонов Георгий Иванович": 171,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 46,
-      "Против всех": 198
+      "gas:candidate-vibid:350301170684": 47,
+      "gas:candidate-vibid:1001000190380": 15,
+      "gas:candidate-vibid:1001000289810": 12,
+      "gas:candidate-vibid:350301170670": 10,
+      "gas:candidate-vibid:1001000225959": 64,
+      "gas:candidate-vibid:350301170362": 957,
+      "gas:candidate-vibid:1001000121870": 171,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 46,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 50,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 81,
-      "Смоленский Владимир Иванович": 929,
-      "Тихонов Георгий Иванович": 167,
-      "Челноков Михаил Борисович": 12,
-      "Шевченко Степан Федорович": 22,
-      "Против всех": 172
+      "gas:candidate-vibid:350301170684": 50,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 81,
+      "gas:candidate-vibid:350301170362": 929,
+      "gas:candidate-vibid:1001000121870": 167,
+      "gas:candidate-vibid:1001000217938": 12,
+      "gas:candidate-vibid:1001000113953": 22,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 53,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 23,
-      "Кудешкина Ольга Борисовна": 20,
-      "Лаврищев Артем Дмитриевич": 56,
-      "Смоленский Владимир Иванович": 1042,
-      "Тихонов Георгий Иванович": 175,
-      "Челноков Михаил Борисович": 14,
-      "Шевченко Степан Федорович": 19,
-      "Против всех": 187
+      "gas:candidate-vibid:350301170684": 53,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 23,
+      "gas:candidate-vibid:350301170670": 20,
+      "gas:candidate-vibid:1001000225959": 56,
+      "gas:candidate-vibid:350301170362": 1042,
+      "gas:candidate-vibid:1001000121870": 175,
+      "gas:candidate-vibid:1001000217938": 14,
+      "gas:candidate-vibid:1001000113953": 19,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 85,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 24,
-      "Кудешкина Ольга Борисовна": 21,
-      "Лаврищев Артем Дмитриевич": 69,
-      "Смоленский Владимир Иванович": 986,
-      "Тихонов Георгий Иванович": 177,
-      "Челноков Михаил Борисович": 18,
-      "Шевченко Степан Федорович": 34,
-      "Против всех": 206
+      "gas:candidate-vibid:350301170684": 85,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 24,
+      "gas:candidate-vibid:350301170670": 21,
+      "gas:candidate-vibid:1001000225959": 69,
+      "gas:candidate-vibid:350301170362": 986,
+      "gas:candidate-vibid:1001000121870": 177,
+      "gas:candidate-vibid:1001000217938": 18,
+      "gas:candidate-vibid:1001000113953": 34,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 69,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 19,
-      "Кудешкина Ольга Борисовна": 19,
-      "Лаврищев Артем Дмитриевич": 103,
-      "Смоленский Владимир Иванович": 903,
-      "Тихонов Георгий Иванович": 263,
-      "Челноков Михаил Борисович": 20,
-      "Шевченко Степан Федорович": 33,
-      "Против всех": 186
+      "gas:candidate-vibid:350301170684": 69,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 19,
+      "gas:candidate-vibid:350301170670": 19,
+      "gas:candidate-vibid:1001000225959": 103,
+      "gas:candidate-vibid:350301170362": 903,
+      "gas:candidate-vibid:1001000121870": 263,
+      "gas:candidate-vibid:1001000217938": 20,
+      "gas:candidate-vibid:1001000113953": 33,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 32,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 10,
-      "Лаврищев Артем Дмитриевич": 48,
-      "Смоленский Владимир Иванович": 539,
-      "Тихонов Георгий Иванович": 128,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 19,
-      "Против всех": 114
+      "gas:candidate-vibid:350301170684": 32,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 10,
+      "gas:candidate-vibid:1001000225959": 48,
+      "gas:candidate-vibid:350301170362": 539,
+      "gas:candidate-vibid:1001000121870": 128,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 19,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 63,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 29,
-      "Кудешкина Ольга Борисовна": 13,
-      "Лаврищев Артем Дмитриевич": 59,
-      "Смоленский Владимир Иванович": 961,
-      "Тихонов Георгий Иванович": 223,
-      "Челноков Михаил Борисович": 16,
-      "Шевченко Степан Федорович": 19,
-      "Против всех": 179
+      "gas:candidate-vibid:350301170684": 63,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 29,
+      "gas:candidate-vibid:350301170670": 13,
+      "gas:candidate-vibid:1001000225959": 59,
+      "gas:candidate-vibid:350301170362": 961,
+      "gas:candidate-vibid:1001000121870": 223,
+      "gas:candidate-vibid:1001000217938": 16,
+      "gas:candidate-vibid:1001000113953": 19,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 69,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 11,
-      "Кудешкина Ольга Борисовна": 20,
-      "Лаврищев Артем Дмитриевич": 65,
-      "Смоленский Владимир Иванович": 730,
-      "Тихонов Георгий Иванович": 174,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 20,
-      "Против всех": 120
+      "gas:candidate-vibid:350301170684": 69,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 11,
+      "gas:candidate-vibid:350301170670": 20,
+      "gas:candidate-vibid:1001000225959": 65,
+      "gas:candidate-vibid:350301170362": 730,
+      "gas:candidate-vibid:1001000121870": 174,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 20,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 13,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 10,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 25,
-      "Смоленский Владимир Иванович": 357,
-      "Тихонов Георгий Иванович": 82,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 7,
-      "Против всех": 66
+      "gas:candidate-vibid:350301170684": 13,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 10,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 25,
+      "gas:candidate-vibid:350301170362": 357,
+      "gas:candidate-vibid:1001000121870": 82,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 7,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 28,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 12,
-      "Лаврищев Артем Дмитриевич": 56,
-      "Смоленский Владимир Иванович": 457,
-      "Тихонов Георгий Иванович": 119,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 22,
-      "Против всех": 111
+      "gas:candidate-vibid:350301170684": 28,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 12,
+      "gas:candidate-vibid:1001000225959": 56,
+      "gas:candidate-vibid:350301170362": 457,
+      "gas:candidate-vibid:1001000121870": 119,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 22,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 54,
-      "Барон Леонид Иосифович": 5,
-      "Волков Владислав Борисович": 16,
-      "Кудешкина Ольга Борисовна": 24,
-      "Лаврищев Артем Дмитриевич": 117,
-      "Смоленский Владимир Иванович": 503,
-      "Тихонов Георгий Иванович": 125,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 7,
-      "Против всех": 156
+      "gas:candidate-vibid:350301170684": 54,
+      "gas:candidate-vibid:1001000190380": 5,
+      "gas:candidate-vibid:1001000289810": 16,
+      "gas:candidate-vibid:350301170670": 24,
+      "gas:candidate-vibid:1001000225959": 117,
+      "gas:candidate-vibid:350301170362": 503,
+      "gas:candidate-vibid:1001000121870": 125,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 7,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 54,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 26,
-      "Кудешкина Ольга Борисовна": 37,
-      "Лаврищев Артем Дмитриевич": 96,
-      "Смоленский Владимир Иванович": 849,
-      "Тихонов Георгий Иванович": 90,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 13,
-      "Против всех": 138
+      "gas:candidate-vibid:350301170684": 54,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 26,
+      "gas:candidate-vibid:350301170670": 37,
+      "gas:candidate-vibid:1001000225959": 96,
+      "gas:candidate-vibid:350301170362": 849,
+      "gas:candidate-vibid:1001000121870": 90,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 13,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 92,
-      "Барон Леонид Иосифович": 11,
-      "Волков Владислав Борисович": 25,
-      "Кудешкина Ольга Борисовна": 47,
-      "Лаврищев Артем Дмитриевич": 56,
-      "Смоленский Владимир Иванович": 817,
-      "Тихонов Георгий Иванович": 193,
-      "Челноков Михаил Борисович": 9,
-      "Шевченко Степан Федорович": 10,
-      "Против всех": 212
+      "gas:candidate-vibid:350301170684": 92,
+      "gas:candidate-vibid:1001000190380": 11,
+      "gas:candidate-vibid:1001000289810": 25,
+      "gas:candidate-vibid:350301170670": 47,
+      "gas:candidate-vibid:1001000225959": 56,
+      "gas:candidate-vibid:350301170362": 817,
+      "gas:candidate-vibid:1001000121870": 193,
+      "gas:candidate-vibid:1001000217938": 9,
+      "gas:candidate-vibid:1001000113953": 10,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 89,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 34,
-      "Кудешкина Ольга Борисовна": 46,
-      "Лаврищев Артем Дмитриевич": 79,
-      "Смоленский Владимир Иванович": 652,
-      "Тихонов Георгий Иванович": 249,
-      "Челноков Михаил Борисович": 28,
-      "Шевченко Степан Федорович": 16,
-      "Против всех": 198
+      "gas:candidate-vibid:350301170684": 89,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 34,
+      "gas:candidate-vibid:350301170670": 46,
+      "gas:candidate-vibid:1001000225959": 79,
+      "gas:candidate-vibid:350301170362": 652,
+      "gas:candidate-vibid:1001000121870": 249,
+      "gas:candidate-vibid:1001000217938": 28,
+      "gas:candidate-vibid:1001000113953": 16,
+      "special:against-all": 198
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 10,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 18,
-      "Кудешкина Ольга Борисовна": 19,
-      "Лаврищев Артем Дмитриевич": 46,
-      "Смоленский Владимир Иванович": 499,
-      "Тихонов Георгий Иванович": 60,
-      "Челноков Михаил Борисович": 8,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 84
+      "gas:candidate-vibid:350301170684": 10,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 18,
+      "gas:candidate-vibid:350301170670": 19,
+      "gas:candidate-vibid:1001000225959": 46,
+      "gas:candidate-vibid:350301170362": 499,
+      "gas:candidate-vibid:1001000121870": 60,
+      "gas:candidate-vibid:1001000217938": 8,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 22,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 9,
-      "Кудешкина Ольга Борисовна": 27,
-      "Лаврищев Артем Дмитриевич": 24,
-      "Смоленский Владимир Иванович": 694,
-      "Тихонов Георгий Иванович": 65,
-      "Челноков Михаил Борисович": 7,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 89
+      "gas:candidate-vibid:350301170684": 22,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 9,
+      "gas:candidate-vibid:350301170670": 27,
+      "gas:candidate-vibid:1001000225959": 24,
+      "gas:candidate-vibid:350301170362": 694,
+      "gas:candidate-vibid:1001000121870": 65,
+      "gas:candidate-vibid:1001000217938": 7,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 32,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 9,
-      "Кудешкина Ольга Борисовна": 8,
-      "Лаврищев Артем Дмитриевич": 41,
-      "Смоленский Владимир Иванович": 379,
-      "Тихонов Георгий Иванович": 64,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 4,
-      "Против всех": 107
+      "gas:candidate-vibid:350301170684": 32,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 9,
+      "gas:candidate-vibid:350301170670": 8,
+      "gas:candidate-vibid:1001000225959": 41,
+      "gas:candidate-vibid:350301170362": 379,
+      "gas:candidate-vibid:1001000121870": 64,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 4,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 63,
-      "Барон Леонид Иосифович": 7,
-      "Волков Владислав Борисович": 28,
-      "Кудешкина Ольга Борисовна": 10,
-      "Лаврищев Артем Дмитриевич": 88,
-      "Смоленский Владимир Иванович": 676,
-      "Тихонов Георгий Иванович": 121,
-      "Челноков Михаил Борисович": 10,
-      "Шевченко Степан Федорович": 18,
-      "Против всех": 171
+      "gas:candidate-vibid:350301170684": 63,
+      "gas:candidate-vibid:1001000190380": 7,
+      "gas:candidate-vibid:1001000289810": 28,
+      "gas:candidate-vibid:350301170670": 10,
+      "gas:candidate-vibid:1001000225959": 88,
+      "gas:candidate-vibid:350301170362": 676,
+      "gas:candidate-vibid:1001000121870": 121,
+      "gas:candidate-vibid:1001000217938": 10,
+      "gas:candidate-vibid:1001000113953": 18,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 67,
-      "Барон Леонид Иосифович": 16,
-      "Волков Владислав Борисович": 18,
-      "Кудешкина Ольга Борисовна": 16,
-      "Лаврищев Артем Дмитриевич": 23,
-      "Смоленский Владимир Иванович": 453,
-      "Тихонов Георгий Иванович": 98,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 29,
-      "Против всех": 129
+      "gas:candidate-vibid:350301170684": 67,
+      "gas:candidate-vibid:1001000190380": 16,
+      "gas:candidate-vibid:1001000289810": 18,
+      "gas:candidate-vibid:350301170670": 16,
+      "gas:candidate-vibid:1001000225959": 23,
+      "gas:candidate-vibid:350301170362": 453,
+      "gas:candidate-vibid:1001000121870": 98,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 29,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 39,
-      "Барон Леонид Иосифович": 8,
-      "Волков Владислав Борисович": 20,
-      "Кудешкина Ольга Борисовна": 29,
-      "Лаврищев Артем Дмитриевич": 127,
-      "Смоленский Владимир Иванович": 738,
-      "Тихонов Георгий Иванович": 77,
-      "Челноков Михаил Борисович": 12,
-      "Шевченко Степан Федорович": 7,
-      "Против всех": 148
+      "gas:candidate-vibid:350301170684": 39,
+      "gas:candidate-vibid:1001000190380": 8,
+      "gas:candidate-vibid:1001000289810": 20,
+      "gas:candidate-vibid:350301170670": 29,
+      "gas:candidate-vibid:1001000225959": 127,
+      "gas:candidate-vibid:350301170362": 738,
+      "gas:candidate-vibid:1001000121870": 77,
+      "gas:candidate-vibid:1001000217938": 12,
+      "gas:candidate-vibid:1001000113953": 7,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7653,16 +7653,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 10,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 22,
-      "Кудешкина Ольга Борисовна": 14,
-      "Лаврищев Артем Дмитриевич": 48,
-      "Смоленский Владимир Иванович": 309,
-      "Тихонов Георгий Иванович": 22,
-      "Челноков Михаил Борисович": 5,
-      "Шевченко Степан Федорович": 8,
-      "Против всех": 69
+      "gas:candidate-vibid:350301170684": 10,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 22,
+      "gas:candidate-vibid:350301170670": 14,
+      "gas:candidate-vibid:1001000225959": 48,
+      "gas:candidate-vibid:350301170362": 309,
+      "gas:candidate-vibid:1001000121870": 22,
+      "gas:candidate-vibid:1001000217938": 5,
+      "gas:candidate-vibid:1001000113953": 8,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7712,16 +7712,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 40,
-      "Барон Леонид Иосифович": 10,
-      "Волков Владислав Борисович": 29,
-      "Кудешкина Ольга Борисовна": 25,
-      "Лаврищев Артем Дмитриевич": 28,
-      "Смоленский Владимир Иванович": 790,
-      "Тихонов Георгий Иванович": 87,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 9,
-      "Против всех": 157
+      "gas:candidate-vibid:350301170684": 40,
+      "gas:candidate-vibid:1001000190380": 10,
+      "gas:candidate-vibid:1001000289810": 29,
+      "gas:candidate-vibid:350301170670": 25,
+      "gas:candidate-vibid:1001000225959": 28,
+      "gas:candidate-vibid:350301170362": 790,
+      "gas:candidate-vibid:1001000121870": 87,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 9,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7771,16 +7771,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 25,
-      "Барон Леонид Иосифович": 4,
-      "Волков Владислав Борисович": 13,
-      "Кудешкина Ольга Борисовна": 16,
-      "Лаврищев Артем Дмитриевич": 16,
-      "Смоленский Владимир Иванович": 530,
-      "Тихонов Георгий Иванович": 58,
-      "Челноков Михаил Борисович": 1,
-      "Шевченко Степан Федорович": 5,
-      "Против всех": 61
+      "gas:candidate-vibid:350301170684": 25,
+      "gas:candidate-vibid:1001000190380": 4,
+      "gas:candidate-vibid:1001000289810": 13,
+      "gas:candidate-vibid:350301170670": 16,
+      "gas:candidate-vibid:1001000225959": 16,
+      "gas:candidate-vibid:350301170362": 530,
+      "gas:candidate-vibid:1001000121870": 58,
+      "gas:candidate-vibid:1001000217938": 1,
+      "gas:candidate-vibid:1001000113953": 5,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7830,16 +7830,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 63,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 14,
-      "Кудешкина Ольга Борисовна": 20,
-      "Лаврищев Артем Дмитриевич": 142,
-      "Смоленский Владимир Иванович": 636,
-      "Тихонов Георгий Иванович": 101,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 11,
-      "Против всех": 140
+      "gas:candidate-vibid:350301170684": 63,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 14,
+      "gas:candidate-vibid:350301170670": 20,
+      "gas:candidate-vibid:1001000225959": 142,
+      "gas:candidate-vibid:350301170362": 636,
+      "gas:candidate-vibid:1001000121870": 101,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 11,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7889,16 +7889,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 89,
-      "Барон Леонид Иосифович": 6,
-      "Волков Владислав Борисович": 41,
-      "Кудешкина Ольга Борисовна": 40,
-      "Лаврищев Артем Дмитриевич": 115,
-      "Смоленский Владимир Иванович": 624,
-      "Тихонов Георгий Иванович": 129,
-      "Челноков Михаил Борисович": 7,
-      "Шевченко Степан Федорович": 10,
-      "Против всех": 183
+      "gas:candidate-vibid:350301170684": 89,
+      "gas:candidate-vibid:1001000190380": 6,
+      "gas:candidate-vibid:1001000289810": 41,
+      "gas:candidate-vibid:350301170670": 40,
+      "gas:candidate-vibid:1001000225959": 115,
+      "gas:candidate-vibid:350301170362": 624,
+      "gas:candidate-vibid:1001000121870": 129,
+      "gas:candidate-vibid:1001000217938": 7,
+      "gas:candidate-vibid:1001000113953": 10,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -7948,16 +7948,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 11,
-      "Барон Леонид Иосифович": 2,
-      "Волков Владислав Борисович": 6,
-      "Кудешкина Ольга Борисовна": 3,
-      "Лаврищев Артем Дмитриевич": 5,
-      "Смоленский Владимир Иванович": 402,
-      "Тихонов Георгий Иванович": 28,
-      "Челноков Михаил Борисович": 0,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:350301170684": 11,
+      "gas:candidate-vibid:1001000190380": 2,
+      "gas:candidate-vibid:1001000289810": 6,
+      "gas:candidate-vibid:350301170670": 3,
+      "gas:candidate-vibid:1001000225959": 5,
+      "gas:candidate-vibid:350301170362": 402,
+      "gas:candidate-vibid:1001000121870": 28,
+      "gas:candidate-vibid:1001000217938": 0,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8007,16 +8007,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 7,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 1,
-      "Кудешкина Ольга Борисовна": 3,
-      "Лаврищев Артем Дмитриевич": 4,
-      "Смоленский Владимир Иванович": 207,
-      "Тихонов Георгий Иванович": 14,
-      "Челноков Михаил Борисович": 0,
-      "Шевченко Степан Федорович": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:350301170684": 7,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 1,
+      "gas:candidate-vibid:350301170670": 3,
+      "gas:candidate-vibid:1001000225959": 4,
+      "gas:candidate-vibid:350301170362": 207,
+      "gas:candidate-vibid:1001000121870": 14,
+      "gas:candidate-vibid:1001000217938": 0,
+      "gas:candidate-vibid:1001000113953": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8066,16 +8066,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 1,
-      "Барон Леонид Иосифович": 0,
-      "Волков Владислав Борисович": 3,
-      "Кудешкина Ольга Борисовна": 1,
-      "Лаврищев Артем Дмитриевич": 0,
-      "Смоленский Владимир Иванович": 91,
-      "Тихонов Георгий Иванович": 1,
-      "Челноков Михаил Борисович": 3,
-      "Шевченко Степан Федорович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:350301170684": 1,
+      "gas:candidate-vibid:1001000190380": 0,
+      "gas:candidate-vibid:1001000289810": 3,
+      "gas:candidate-vibid:350301170670": 1,
+      "gas:candidate-vibid:1001000225959": 0,
+      "gas:candidate-vibid:350301170362": 91,
+      "gas:candidate-vibid:1001000121870": 1,
+      "gas:candidate-vibid:1001000217938": 3,
+      "gas:candidate-vibid:1001000113953": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8125,16 +8125,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 12,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 10,
-      "Кудешкина Ольга Борисовна": 10,
-      "Лаврищев Артем Дмитриевич": 8,
-      "Смоленский Владимир Иванович": 237,
-      "Тихонов Георгий Иванович": 19,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:350301170684": 12,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 10,
+      "gas:candidate-vibid:350301170670": 10,
+      "gas:candidate-vibid:1001000225959": 8,
+      "gas:candidate-vibid:350301170362": 237,
+      "gas:candidate-vibid:1001000121870": 19,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8184,16 +8184,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 29,
-      "Барон Леонид Иосифович": 3,
-      "Волков Владислав Борисович": 21,
-      "Кудешкина Ольга Борисовна": 11,
-      "Лаврищев Артем Дмитриевич": 11,
-      "Смоленский Владимир Иванович": 517,
-      "Тихонов Георгий Иванович": 69,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 3,
-      "Против всех": 87
+      "gas:candidate-vibid:350301170684": 29,
+      "gas:candidate-vibid:1001000190380": 3,
+      "gas:candidate-vibid:1001000289810": 21,
+      "gas:candidate-vibid:350301170670": 11,
+      "gas:candidate-vibid:1001000225959": 11,
+      "gas:candidate-vibid:350301170362": 517,
+      "gas:candidate-vibid:1001000121870": 69,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 3,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8243,16 +8243,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 14,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 9,
-      "Кудешкина Ольга Борисовна": 11,
-      "Лаврищев Артем Дмитриевич": 20,
-      "Смоленский Владимир Иванович": 526,
-      "Тихонов Георгий Иванович": 18,
-      "Челноков Михаил Борисович": 2,
-      "Шевченко Степан Федорович": 3,
-      "Против всех": 65
+      "gas:candidate-vibid:350301170684": 14,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 9,
+      "gas:candidate-vibid:350301170670": 11,
+      "gas:candidate-vibid:1001000225959": 20,
+      "gas:candidate-vibid:350301170362": 526,
+      "gas:candidate-vibid:1001000121870": 18,
+      "gas:candidate-vibid:1001000217938": 2,
+      "gas:candidate-vibid:1001000113953": 3,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8302,16 +8302,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 68,
-      "Барон Леонид Иосифович": 18,
-      "Волков Владислав Борисович": 62,
-      "Кудешкина Ольга Борисовна": 20,
-      "Лаврищев Артем Дмитриевич": 77,
-      "Смоленский Владимир Иванович": 832,
-      "Тихонов Георгий Иванович": 119,
-      "Челноков Михаил Борисович": 13,
-      "Шевченко Степан Федорович": 19,
-      "Против всех": 295
+      "gas:candidate-vibid:350301170684": 68,
+      "gas:candidate-vibid:1001000190380": 18,
+      "gas:candidate-vibid:1001000289810": 62,
+      "gas:candidate-vibid:350301170670": 20,
+      "gas:candidate-vibid:1001000225959": 77,
+      "gas:candidate-vibid:350301170362": 832,
+      "gas:candidate-vibid:1001000121870": 119,
+      "gas:candidate-vibid:1001000217938": 13,
+      "gas:candidate-vibid:1001000113953": 19,
+      "special:against-all": 295
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8361,16 +8361,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 64,
-      "Барон Леонид Иосифович": 36,
-      "Волков Владислав Борисович": 106,
-      "Кудешкина Ольга Борисовна": 25,
-      "Лаврищев Артем Дмитриевич": 55,
-      "Смоленский Владимир Иванович": 467,
-      "Тихонов Георгий Иванович": 50,
-      "Челноков Михаил Борисович": 4,
-      "Шевченко Степан Федорович": 32,
-      "Против всех": 337
+      "gas:candidate-vibid:350301170684": 64,
+      "gas:candidate-vibid:1001000190380": 36,
+      "gas:candidate-vibid:1001000289810": 106,
+      "gas:candidate-vibid:350301170670": 25,
+      "gas:candidate-vibid:1001000225959": 55,
+      "gas:candidate-vibid:350301170362": 467,
+      "gas:candidate-vibid:1001000121870": 50,
+      "gas:candidate-vibid:1001000217938": 4,
+      "gas:candidate-vibid:1001000113953": 32,
+      "special:against-all": 337
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8420,16 +8420,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 28,
-      "Барон Леонид Иосифович": 1,
-      "Волков Владислав Борисович": 8,
-      "Кудешкина Ольга Борисовна": 5,
-      "Лаврищев Артем Дмитриевич": 17,
-      "Смоленский Владимир Иванович": 429,
-      "Тихонов Георгий Иванович": 26,
-      "Челноков Михаил Борисович": 6,
-      "Шевченко Степан Федорович": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:350301170684": 28,
+      "gas:candidate-vibid:1001000190380": 1,
+      "gas:candidate-vibid:1001000289810": 8,
+      "gas:candidate-vibid:350301170670": 5,
+      "gas:candidate-vibid:1001000225959": 17,
+      "gas:candidate-vibid:350301170362": 429,
+      "gas:candidate-vibid:1001000121870": 26,
+      "gas:candidate-vibid:1001000217938": 6,
+      "gas:candidate-vibid:1001000113953": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8479,16 +8479,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 107,
-      "Барон Леонид Иосифович": 14,
-      "Волков Владислав Борисович": 69,
-      "Кудешкина Ольга Борисовна": 44,
-      "Лаврищев Артем Дмитриевич": 164,
-      "Смоленский Владимир Иванович": 746,
-      "Тихонов Георгий Иванович": 131,
-      "Челноков Михаил Борисович": 21,
-      "Шевченко Степан Федорович": 43,
-      "Против всех": 331
+      "gas:candidate-vibid:350301170684": 107,
+      "gas:candidate-vibid:1001000190380": 14,
+      "gas:candidate-vibid:1001000289810": 69,
+      "gas:candidate-vibid:350301170670": 44,
+      "gas:candidate-vibid:1001000225959": 164,
+      "gas:candidate-vibid:350301170362": 746,
+      "gas:candidate-vibid:1001000121870": 131,
+      "gas:candidate-vibid:1001000217938": 21,
+      "gas:candidate-vibid:1001000113953": 43,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8538,16 +8538,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 107,
-      "Барон Леонид Иосифович": 21,
-      "Волков Владислав Борисович": 53,
-      "Кудешкина Ольга Борисовна": 30,
-      "Лаврищев Артем Дмитриевич": 154,
-      "Смоленский Владимир Иванович": 990,
-      "Тихонов Георгий Иванович": 134,
-      "Челноков Михаил Борисович": 21,
-      "Шевченко Степан Федорович": 34,
-      "Против всех": 359
+      "gas:candidate-vibid:350301170684": 107,
+      "gas:candidate-vibid:1001000190380": 21,
+      "gas:candidate-vibid:1001000289810": 53,
+      "gas:candidate-vibid:350301170670": 30,
+      "gas:candidate-vibid:1001000225959": 154,
+      "gas:candidate-vibid:350301170362": 990,
+      "gas:candidate-vibid:1001000121870": 134,
+      "gas:candidate-vibid:1001000217938": 21,
+      "gas:candidate-vibid:1001000113953": 34,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8597,16 +8597,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 74,
-      "Барон Леонид Иосифович": 12,
-      "Волков Владислав Борисович": 28,
-      "Кудешкина Ольга Борисовна": 23,
-      "Лаврищев Артем Дмитриевич": 173,
-      "Смоленский Владимир Иванович": 861,
-      "Тихонов Георгий Иванович": 104,
-      "Челноков Михаил Борисович": 11,
-      "Шевченко Степан Федорович": 30,
-      "Против всех": 254
+      "gas:candidate-vibid:350301170684": 74,
+      "gas:candidate-vibid:1001000190380": 12,
+      "gas:candidate-vibid:1001000289810": 28,
+      "gas:candidate-vibid:350301170670": 23,
+      "gas:candidate-vibid:1001000225959": 173,
+      "gas:candidate-vibid:350301170362": 861,
+      "gas:candidate-vibid:1001000121870": 104,
+      "gas:candidate-vibid:1001000217938": 11,
+      "gas:candidate-vibid:1001000113953": 30,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",
@@ -8656,16 +8656,16 @@ export const duma_2003_uik_428_region_50_part_014 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Алексеева Юлия Михайловна": 88,
-      "Барон Леонид Иосифович": 9,
-      "Волков Владислав Борисович": 29,
-      "Кудешкина Ольга Борисовна": 35,
-      "Лаврищев Артем Дмитриевич": 187,
-      "Смоленский Владимир Иванович": 908,
-      "Тихонов Георгий Иванович": 108,
-      "Челноков Михаил Борисович": 17,
-      "Шевченко Степан Федорович": 16,
-      "Против всех": 291
+      "gas:candidate-vibid:350301170684": 88,
+      "gas:candidate-vibid:1001000190380": 9,
+      "gas:candidate-vibid:1001000289810": 29,
+      "gas:candidate-vibid:350301170670": 35,
+      "gas:candidate-vibid:1001000225959": 187,
+      "gas:candidate-vibid:350301170362": 908,
+      "gas:candidate-vibid:1001000121870": 108,
+      "gas:candidate-vibid:1001000217938": 17,
+      "gas:candidate-vibid:1001000113953": 16,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=503011008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=350301170340&region=0&sub_region=0&type=429",

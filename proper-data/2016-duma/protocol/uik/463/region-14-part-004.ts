@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 98,
-      "Ефремов Айтал Климентович": 24,
-      "Заякин Андрей Викторович": 51,
-      "Лазарев Александр Михайлович": 35,
-      "Парахин Гаврил Павлович": 49,
-      "Тарасов Олег Владимирович": 90,
-      "Тихонов Айсен Анатольевич": 21,
-      "Тумусов Федот Семёнович": 202
+      "gas:candidate-vibid:2142000655415": 98,
+      "gas:candidate-vibid:2142000656184": 24,
+      "gas:candidate-vibid:2142000656361": 51,
+      "gas:candidate-vibid:2142000655209": 35,
+      "gas:candidate-vibid:2142000636230": 49,
+      "gas:candidate-vibid:2142000655570": 90,
+      "gas:candidate-vibid:2142000656268": 21,
+      "gas:candidate-vibid:2142000652441": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 80,
-      "Ефремов Айтал Климентович": 17,
-      "Заякин Андрей Викторович": 23,
-      "Лазарев Александр Михайлович": 23,
-      "Парахин Гаврил Павлович": 64,
-      "Тарасов Олег Владимирович": 52,
-      "Тихонов Айсен Анатольевич": 12,
-      "Тумусов Федот Семёнович": 132
+      "gas:candidate-vibid:2142000655415": 80,
+      "gas:candidate-vibid:2142000656184": 17,
+      "gas:candidate-vibid:2142000656361": 23,
+      "gas:candidate-vibid:2142000655209": 23,
+      "gas:candidate-vibid:2142000636230": 64,
+      "gas:candidate-vibid:2142000655570": 52,
+      "gas:candidate-vibid:2142000656268": 12,
+      "gas:candidate-vibid:2142000652441": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 73,
-      "Ефремов Айтал Климентович": 20,
-      "Заякин Андрей Викторович": 20,
-      "Лазарев Александр Михайлович": 29,
-      "Парахин Гаврил Павлович": 72,
-      "Тарасов Олег Владимирович": 73,
-      "Тихонов Айсен Анатольевич": 19,
-      "Тумусов Федот Семёнович": 124
+      "gas:candidate-vibid:2142000655415": 73,
+      "gas:candidate-vibid:2142000656184": 20,
+      "gas:candidate-vibid:2142000656361": 20,
+      "gas:candidate-vibid:2142000655209": 29,
+      "gas:candidate-vibid:2142000636230": 72,
+      "gas:candidate-vibid:2142000655570": 73,
+      "gas:candidate-vibid:2142000656268": 19,
+      "gas:candidate-vibid:2142000652441": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 90,
-      "Ефремов Айтал Климентович": 33,
-      "Заякин Андрей Викторович": 28,
-      "Лазарев Александр Михайлович": 25,
-      "Парахин Гаврил Павлович": 68,
-      "Тарасов Олег Владимирович": 60,
-      "Тихонов Айсен Анатольевич": 37,
-      "Тумусов Федот Семёнович": 267
+      "gas:candidate-vibid:2142000655415": 90,
+      "gas:candidate-vibid:2142000656184": 33,
+      "gas:candidate-vibid:2142000656361": 28,
+      "gas:candidate-vibid:2142000655209": 25,
+      "gas:candidate-vibid:2142000636230": 68,
+      "gas:candidate-vibid:2142000655570": 60,
+      "gas:candidate-vibid:2142000656268": 37,
+      "gas:candidate-vibid:2142000652441": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 81,
-      "Ефремов Айтал Климентович": 17,
-      "Заякин Андрей Викторович": 20,
-      "Лазарев Александр Михайлович": 21,
-      "Парахин Гаврил Павлович": 62,
-      "Тарасов Олег Владимирович": 71,
-      "Тихонов Айсен Анатольевич": 20,
-      "Тумусов Федот Семёнович": 137
+      "gas:candidate-vibid:2142000655415": 81,
+      "gas:candidate-vibid:2142000656184": 17,
+      "gas:candidate-vibid:2142000656361": 20,
+      "gas:candidate-vibid:2142000655209": 21,
+      "gas:candidate-vibid:2142000636230": 62,
+      "gas:candidate-vibid:2142000655570": 71,
+      "gas:candidate-vibid:2142000656268": 20,
+      "gas:candidate-vibid:2142000652441": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 88,
-      "Ефремов Айтал Климентович": 19,
-      "Заякин Андрей Викторович": 27,
-      "Лазарев Александр Михайлович": 11,
-      "Парахин Гаврил Павлович": 52,
-      "Тарасов Олег Владимирович": 54,
-      "Тихонов Айсен Анатольевич": 33,
-      "Тумусов Федот Семёнович": 202
+      "gas:candidate-vibid:2142000655415": 88,
+      "gas:candidate-vibid:2142000656184": 19,
+      "gas:candidate-vibid:2142000656361": 27,
+      "gas:candidate-vibid:2142000655209": 11,
+      "gas:candidate-vibid:2142000636230": 52,
+      "gas:candidate-vibid:2142000655570": 54,
+      "gas:candidate-vibid:2142000656268": 33,
+      "gas:candidate-vibid:2142000652441": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 76,
-      "Ефремов Айтал Климентович": 26,
-      "Заякин Андрей Викторович": 30,
-      "Лазарев Александр Михайлович": 29,
-      "Парахин Гаврил Павлович": 57,
-      "Тарасов Олег Владимирович": 89,
-      "Тихонов Айсен Анатольевич": 19,
-      "Тумусов Федот Семёнович": 182
+      "gas:candidate-vibid:2142000655415": 76,
+      "gas:candidate-vibid:2142000656184": 26,
+      "gas:candidate-vibid:2142000656361": 30,
+      "gas:candidate-vibid:2142000655209": 29,
+      "gas:candidate-vibid:2142000636230": 57,
+      "gas:candidate-vibid:2142000655570": 89,
+      "gas:candidate-vibid:2142000656268": 19,
+      "gas:candidate-vibid:2142000652441": 182
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 83,
-      "Ефремов Айтал Климентович": 23,
-      "Заякин Андрей Викторович": 24,
-      "Лазарев Александр Михайлович": 31,
-      "Парахин Гаврил Павлович": 67,
-      "Тарасов Олег Владимирович": 110,
-      "Тихонов Айсен Анатольевич": 12,
-      "Тумусов Федот Семёнович": 97
+      "gas:candidate-vibid:2142000655415": 83,
+      "gas:candidate-vibid:2142000656184": 23,
+      "gas:candidate-vibid:2142000656361": 24,
+      "gas:candidate-vibid:2142000655209": 31,
+      "gas:candidate-vibid:2142000636230": 67,
+      "gas:candidate-vibid:2142000655570": 110,
+      "gas:candidate-vibid:2142000656268": 12,
+      "gas:candidate-vibid:2142000652441": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 98,
-      "Ефремов Айтал Климентович": 20,
-      "Заякин Андрей Викторович": 29,
-      "Лазарев Александр Михайлович": 37,
-      "Парахин Гаврил Павлович": 116,
-      "Тарасов Олег Владимирович": 151,
-      "Тихонов Айсен Анатольевич": 25,
-      "Тумусов Федот Семёнович": 145
+      "gas:candidate-vibid:2142000655415": 98,
+      "gas:candidate-vibid:2142000656184": 20,
+      "gas:candidate-vibid:2142000656361": 29,
+      "gas:candidate-vibid:2142000655209": 37,
+      "gas:candidate-vibid:2142000636230": 116,
+      "gas:candidate-vibid:2142000655570": 151,
+      "gas:candidate-vibid:2142000656268": 25,
+      "gas:candidate-vibid:2142000652441": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 107,
-      "Ефремов Айтал Климентович": 30,
-      "Заякин Андрей Викторович": 19,
-      "Лазарев Александр Михайлович": 43,
-      "Парахин Гаврил Павлович": 122,
-      "Тарасов Олег Владимирович": 153,
-      "Тихонов Айсен Анатольевич": 25,
-      "Тумусов Федот Семёнович": 134
+      "gas:candidate-vibid:2142000655415": 107,
+      "gas:candidate-vibid:2142000656184": 30,
+      "gas:candidate-vibid:2142000656361": 19,
+      "gas:candidate-vibid:2142000655209": 43,
+      "gas:candidate-vibid:2142000636230": 122,
+      "gas:candidate-vibid:2142000655570": 153,
+      "gas:candidate-vibid:2142000656268": 25,
+      "gas:candidate-vibid:2142000652441": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 148,
-      "Ефремов Айтал Климентович": 39,
-      "Заякин Андрей Викторович": 21,
-      "Лазарев Александр Михайлович": 30,
-      "Парахин Гаврил Павлович": 40,
-      "Тарасов Олег Владимирович": 65,
-      "Тихонов Айсен Анатольевич": 40,
-      "Тумусов Федот Семёнович": 433
+      "gas:candidate-vibid:2142000655415": 148,
+      "gas:candidate-vibid:2142000656184": 39,
+      "gas:candidate-vibid:2142000656361": 21,
+      "gas:candidate-vibid:2142000655209": 30,
+      "gas:candidate-vibid:2142000636230": 40,
+      "gas:candidate-vibid:2142000655570": 65,
+      "gas:candidate-vibid:2142000656268": 40,
+      "gas:candidate-vibid:2142000652441": 433
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 51,
-      "Ефремов Айтал Климентович": 11,
-      "Заякин Андрей Викторович": 9,
-      "Лазарев Александр Михайлович": 12,
-      "Парахин Гаврил Павлович": 22,
-      "Тарасов Олег Владимирович": 32,
-      "Тихонов Айсен Анатольевич": 10,
-      "Тумусов Федот Семёнович": 108
+      "gas:candidate-vibid:2142000655415": 51,
+      "gas:candidate-vibid:2142000656184": 11,
+      "gas:candidate-vibid:2142000656361": 9,
+      "gas:candidate-vibid:2142000655209": 12,
+      "gas:candidate-vibid:2142000636230": 22,
+      "gas:candidate-vibid:2142000655570": 32,
+      "gas:candidate-vibid:2142000656268": 10,
+      "gas:candidate-vibid:2142000652441": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 21,
-      "Ефремов Айтал Климентович": 6,
-      "Заякин Андрей Викторович": 3,
-      "Лазарев Александр Михайлович": 7,
-      "Парахин Гаврил Павлович": 7,
-      "Тарасов Олег Владимирович": 12,
-      "Тихонов Айсен Анатольевич": 3,
-      "Тумусов Федот Семёнович": 27
+      "gas:candidate-vibid:2142000655415": 21,
+      "gas:candidate-vibid:2142000656184": 6,
+      "gas:candidate-vibid:2142000656361": 3,
+      "gas:candidate-vibid:2142000655209": 7,
+      "gas:candidate-vibid:2142000636230": 7,
+      "gas:candidate-vibid:2142000655570": 12,
+      "gas:candidate-vibid:2142000656268": 3,
+      "gas:candidate-vibid:2142000652441": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 84,
-      "Ефремов Айтал Климентович": 11,
-      "Заякин Андрей Викторович": 19,
-      "Лазарев Александр Михайлович": 23,
-      "Парахин Гаврил Павлович": 54,
-      "Тарасов Олег Владимирович": 53,
-      "Тихонов Айсен Анатольевич": 12,
-      "Тумусов Федот Семёнович": 95
+      "gas:candidate-vibid:2142000655415": 84,
+      "gas:candidate-vibid:2142000656184": 11,
+      "gas:candidate-vibid:2142000656361": 19,
+      "gas:candidate-vibid:2142000655209": 23,
+      "gas:candidate-vibid:2142000636230": 54,
+      "gas:candidate-vibid:2142000655570": 53,
+      "gas:candidate-vibid:2142000656268": 12,
+      "gas:candidate-vibid:2142000652441": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 129,
-      "Ефремов Айтал Климентович": 45,
-      "Заякин Андрей Викторович": 45,
-      "Лазарев Александр Михайлович": 25,
-      "Парахин Гаврил Павлович": 84,
-      "Тарасов Олег Владимирович": 115,
-      "Тихонов Айсен Анатольевич": 33,
-      "Тумусов Федот Семёнович": 279
+      "gas:candidate-vibid:2142000655415": 129,
+      "gas:candidate-vibid:2142000656184": 45,
+      "gas:candidate-vibid:2142000656361": 45,
+      "gas:candidate-vibid:2142000655209": 25,
+      "gas:candidate-vibid:2142000636230": 84,
+      "gas:candidate-vibid:2142000655570": 115,
+      "gas:candidate-vibid:2142000656268": 33,
+      "gas:candidate-vibid:2142000652441": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -913,14 +913,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 77,
-      "Ефремов Айтал Климентович": 33,
-      "Заякин Андрей Викторович": 39,
-      "Лазарев Александр Михайлович": 18,
-      "Парахин Гаврил Павлович": 49,
-      "Тарасов Олег Владимирович": 55,
-      "Тихонов Айсен Анатольевич": 25,
-      "Тумусов Федот Семёнович": 175
+      "gas:candidate-vibid:2142000655415": 77,
+      "gas:candidate-vibid:2142000656184": 33,
+      "gas:candidate-vibid:2142000656361": 39,
+      "gas:candidate-vibid:2142000655209": 18,
+      "gas:candidate-vibid:2142000636230": 49,
+      "gas:candidate-vibid:2142000655570": 55,
+      "gas:candidate-vibid:2142000656268": 25,
+      "gas:candidate-vibid:2142000652441": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -971,14 +971,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 123,
-      "Ефремов Айтал Климентович": 24,
-      "Заякин Андрей Викторович": 33,
-      "Лазарев Александр Михайлович": 17,
-      "Парахин Гаврил Павлович": 59,
-      "Тарасов Олег Владимирович": 79,
-      "Тихонов Айсен Анатольевич": 31,
-      "Тумусов Федот Семёнович": 259
+      "gas:candidate-vibid:2142000655415": 123,
+      "gas:candidate-vibid:2142000656184": 24,
+      "gas:candidate-vibid:2142000656361": 33,
+      "gas:candidate-vibid:2142000655209": 17,
+      "gas:candidate-vibid:2142000636230": 59,
+      "gas:candidate-vibid:2142000655570": 79,
+      "gas:candidate-vibid:2142000656268": 31,
+      "gas:candidate-vibid:2142000652441": 259
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1029,14 +1029,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 152,
-      "Ефремов Айтал Климентович": 62,
-      "Заякин Андрей Викторович": 109,
-      "Лазарев Александр Михайлович": 30,
-      "Парахин Гаврил Павлович": 62,
-      "Тарасов Олег Владимирович": 174,
-      "Тихонов Айсен Анатольевич": 42,
-      "Тумусов Федот Семёнович": 381
+      "gas:candidate-vibid:2142000655415": 152,
+      "gas:candidate-vibid:2142000656184": 62,
+      "gas:candidate-vibid:2142000656361": 109,
+      "gas:candidate-vibid:2142000655209": 30,
+      "gas:candidate-vibid:2142000636230": 62,
+      "gas:candidate-vibid:2142000655570": 174,
+      "gas:candidate-vibid:2142000656268": 42,
+      "gas:candidate-vibid:2142000652441": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1087,14 +1087,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 109,
-      "Ефремов Айтал Климентович": 38,
-      "Заякин Андрей Викторович": 58,
-      "Лазарев Александр Михайлович": 18,
-      "Парахин Гаврил Павлович": 18,
-      "Тарасов Олег Владимирович": 74,
-      "Тихонов Айсен Анатольевич": 45,
-      "Тумусов Федот Семёнович": 300
+      "gas:candidate-vibid:2142000655415": 109,
+      "gas:candidate-vibid:2142000656184": 38,
+      "gas:candidate-vibid:2142000656361": 58,
+      "gas:candidate-vibid:2142000655209": 18,
+      "gas:candidate-vibid:2142000636230": 18,
+      "gas:candidate-vibid:2142000655570": 74,
+      "gas:candidate-vibid:2142000656268": 45,
+      "gas:candidate-vibid:2142000652441": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1145,14 +1145,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 114,
-      "Ефремов Айтал Климентович": 43,
-      "Заякин Андрей Викторович": 58,
-      "Лазарев Александр Михайлович": 32,
-      "Парахин Гаврил Павлович": 49,
-      "Тарасов Олег Владимирович": 112,
-      "Тихонов Айсен Анатольевич": 63,
-      "Тумусов Федот Семёнович": 321
+      "gas:candidate-vibid:2142000655415": 114,
+      "gas:candidate-vibid:2142000656184": 43,
+      "gas:candidate-vibid:2142000656361": 58,
+      "gas:candidate-vibid:2142000655209": 32,
+      "gas:candidate-vibid:2142000636230": 49,
+      "gas:candidate-vibid:2142000655570": 112,
+      "gas:candidate-vibid:2142000656268": 63,
+      "gas:candidate-vibid:2142000652441": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1203,14 +1203,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 63,
-      "Ефремов Айтал Климентович": 23,
-      "Заякин Андрей Викторович": 11,
-      "Лазарев Александр Михайлович": 8,
-      "Парахин Гаврил Павлович": 28,
-      "Тарасов Олег Владимирович": 67,
-      "Тихонов Айсен Анатольевич": 31,
-      "Тумусов Федот Семёнович": 169
+      "gas:candidate-vibid:2142000655415": 63,
+      "gas:candidate-vibid:2142000656184": 23,
+      "gas:candidate-vibid:2142000656361": 11,
+      "gas:candidate-vibid:2142000655209": 8,
+      "gas:candidate-vibid:2142000636230": 28,
+      "gas:candidate-vibid:2142000655570": 67,
+      "gas:candidate-vibid:2142000656268": 31,
+      "gas:candidate-vibid:2142000652441": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1261,14 +1261,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 79,
-      "Ефремов Айтал Климентович": 23,
-      "Заякин Андрей Викторович": 12,
-      "Лазарев Александр Михайлович": 15,
-      "Парахин Гаврил Павлович": 7,
-      "Тарасов Олег Владимирович": 83,
-      "Тихонов Айсен Анатольевич": 26,
-      "Тумусов Федот Семёнович": 261
+      "gas:candidate-vibid:2142000655415": 79,
+      "gas:candidate-vibid:2142000656184": 23,
+      "gas:candidate-vibid:2142000656361": 12,
+      "gas:candidate-vibid:2142000655209": 15,
+      "gas:candidate-vibid:2142000636230": 7,
+      "gas:candidate-vibid:2142000655570": 83,
+      "gas:candidate-vibid:2142000656268": 26,
+      "gas:candidate-vibid:2142000652441": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1319,14 +1319,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 167,
-      "Ефремов Айтал Климентович": 52,
-      "Заякин Андрей Викторович": 38,
-      "Лазарев Александр Михайлович": 39,
-      "Парахин Гаврил Павлович": 39,
-      "Тарасов Олег Владимирович": 135,
-      "Тихонов Айсен Анатольевич": 64,
-      "Тумусов Федот Семёнович": 523
+      "gas:candidate-vibid:2142000655415": 167,
+      "gas:candidate-vibid:2142000656184": 52,
+      "gas:candidate-vibid:2142000656361": 38,
+      "gas:candidate-vibid:2142000655209": 39,
+      "gas:candidate-vibid:2142000636230": 39,
+      "gas:candidate-vibid:2142000655570": 135,
+      "gas:candidate-vibid:2142000656268": 64,
+      "gas:candidate-vibid:2142000652441": 523
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1377,14 +1377,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 63,
-      "Ефремов Айтал Климентович": 27,
-      "Заякин Андрей Викторович": 26,
-      "Лазарев Александр Михайлович": 7,
-      "Парахин Гаврил Павлович": 49,
-      "Тарасов Олег Владимирович": 81,
-      "Тихонов Айсен Анатольевич": 20,
-      "Тумусов Федот Семёнович": 164
+      "gas:candidate-vibid:2142000655415": 63,
+      "gas:candidate-vibid:2142000656184": 27,
+      "gas:candidate-vibid:2142000656361": 26,
+      "gas:candidate-vibid:2142000655209": 7,
+      "gas:candidate-vibid:2142000636230": 49,
+      "gas:candidate-vibid:2142000655570": 81,
+      "gas:candidate-vibid:2142000656268": 20,
+      "gas:candidate-vibid:2142000652441": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1435,14 +1435,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 74,
-      "Ефремов Айтал Климентович": 24,
-      "Заякин Андрей Викторович": 39,
-      "Лазарев Александр Михайлович": 14,
-      "Парахин Гаврил Павлович": 36,
-      "Тарасов Олег Владимирович": 64,
-      "Тихонов Айсен Анатольевич": 20,
-      "Тумусов Федот Семёнович": 246
+      "gas:candidate-vibid:2142000655415": 74,
+      "gas:candidate-vibid:2142000656184": 24,
+      "gas:candidate-vibid:2142000656361": 39,
+      "gas:candidate-vibid:2142000655209": 14,
+      "gas:candidate-vibid:2142000636230": 36,
+      "gas:candidate-vibid:2142000655570": 64,
+      "gas:candidate-vibid:2142000656268": 20,
+      "gas:candidate-vibid:2142000652441": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1493,14 +1493,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 115,
-      "Ефремов Айтал Климентович": 26,
-      "Заякин Андрей Викторович": 35,
-      "Лазарев Александр Михайлович": 20,
-      "Парахин Гаврил Павлович": 27,
-      "Тарасов Олег Владимирович": 68,
-      "Тихонов Айсен Анатольевич": 26,
-      "Тумусов Федот Семёнович": 264
+      "gas:candidate-vibid:2142000655415": 115,
+      "gas:candidate-vibid:2142000656184": 26,
+      "gas:candidate-vibid:2142000656361": 35,
+      "gas:candidate-vibid:2142000655209": 20,
+      "gas:candidate-vibid:2142000636230": 27,
+      "gas:candidate-vibid:2142000655570": 68,
+      "gas:candidate-vibid:2142000656268": 26,
+      "gas:candidate-vibid:2142000652441": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1551,14 +1551,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 45,
-      "Ефремов Айтал Климентович": 11,
-      "Заякин Андрей Викторович": 7,
-      "Лазарев Александр Михайлович": 4,
-      "Парахин Гаврил Павлович": 19,
-      "Тарасов Олег Владимирович": 26,
-      "Тихонов Айсен Анатольевич": 10,
-      "Тумусов Федот Семёнович": 131
+      "gas:candidate-vibid:2142000655415": 45,
+      "gas:candidate-vibid:2142000656184": 11,
+      "gas:candidate-vibid:2142000656361": 7,
+      "gas:candidate-vibid:2142000655209": 4,
+      "gas:candidate-vibid:2142000636230": 19,
+      "gas:candidate-vibid:2142000655570": 26,
+      "gas:candidate-vibid:2142000656268": 10,
+      "gas:candidate-vibid:2142000652441": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1609,14 +1609,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 185,
-      "Ефремов Айтал Климентович": 88,
-      "Заякин Андрей Викторович": 91,
-      "Лазарев Александр Михайлович": 25,
-      "Парахин Гаврил Павлович": 46,
-      "Тарасов Олег Владимирович": 184,
-      "Тихонов Айсен Анатольевич": 58,
-      "Тумусов Федот Семёнович": 406
+      "gas:candidate-vibid:2142000655415": 185,
+      "gas:candidate-vibid:2142000656184": 88,
+      "gas:candidate-vibid:2142000656361": 91,
+      "gas:candidate-vibid:2142000655209": 25,
+      "gas:candidate-vibid:2142000636230": 46,
+      "gas:candidate-vibid:2142000655570": 184,
+      "gas:candidate-vibid:2142000656268": 58,
+      "gas:candidate-vibid:2142000652441": 406
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1667,14 +1667,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 93,
-      "Ефремов Айтал Климентович": 27,
-      "Заякин Андрей Викторович": 30,
-      "Лазарев Александр Михайлович": 19,
-      "Парахин Гаврил Павлович": 64,
-      "Тарасов Олег Владимирович": 91,
-      "Тихонов Айсен Анатольевич": 16,
-      "Тумусов Федот Семёнович": 193
+      "gas:candidate-vibid:2142000655415": 93,
+      "gas:candidate-vibid:2142000656184": 27,
+      "gas:candidate-vibid:2142000656361": 30,
+      "gas:candidate-vibid:2142000655209": 19,
+      "gas:candidate-vibid:2142000636230": 64,
+      "gas:candidate-vibid:2142000655570": 91,
+      "gas:candidate-vibid:2142000656268": 16,
+      "gas:candidate-vibid:2142000652441": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1725,14 +1725,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 108,
-      "Ефремов Айтал Климентович": 28,
-      "Заякин Андрей Викторович": 22,
-      "Лазарев Александр Михайлович": 19,
-      "Парахин Гаврил Павлович": 15,
-      "Тарасов Олег Владимирович": 56,
-      "Тихонов Айсен Анатольевич": 34,
-      "Тумусов Федот Семёнович": 381
+      "gas:candidate-vibid:2142000655415": 108,
+      "gas:candidate-vibid:2142000656184": 28,
+      "gas:candidate-vibid:2142000656361": 22,
+      "gas:candidate-vibid:2142000655209": 19,
+      "gas:candidate-vibid:2142000636230": 15,
+      "gas:candidate-vibid:2142000655570": 56,
+      "gas:candidate-vibid:2142000656268": 34,
+      "gas:candidate-vibid:2142000652441": 381
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1783,14 +1783,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 66,
-      "Ефремов Айтал Климентович": 22,
-      "Заякин Андрей Викторович": 21,
-      "Лазарев Александр Михайлович": 29,
-      "Парахин Гаврил Павлович": 87,
-      "Тарасов Олег Владимирович": 119,
-      "Тихонов Айсен Анатольевич": 27,
-      "Тумусов Федот Семёнович": 154
+      "gas:candidate-vibid:2142000655415": 66,
+      "gas:candidate-vibid:2142000656184": 22,
+      "gas:candidate-vibid:2142000656361": 21,
+      "gas:candidate-vibid:2142000655209": 29,
+      "gas:candidate-vibid:2142000636230": 87,
+      "gas:candidate-vibid:2142000655570": 119,
+      "gas:candidate-vibid:2142000656268": 27,
+      "gas:candidate-vibid:2142000652441": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1841,14 +1841,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 20,
-      "Ефремов Айтал Климентович": 4,
-      "Заякин Андрей Викторович": 6,
-      "Лазарев Александр Михайлович": 2,
-      "Парахин Гаврил Павлович": 1,
-      "Тарасов Олег Владимирович": 8,
-      "Тихонов Айсен Анатольевич": 7,
-      "Тумусов Федот Семёнович": 32
+      "gas:candidate-vibid:2142000655415": 20,
+      "gas:candidate-vibid:2142000656184": 4,
+      "gas:candidate-vibid:2142000656361": 6,
+      "gas:candidate-vibid:2142000655209": 2,
+      "gas:candidate-vibid:2142000636230": 1,
+      "gas:candidate-vibid:2142000655570": 8,
+      "gas:candidate-vibid:2142000656268": 7,
+      "gas:candidate-vibid:2142000652441": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1899,14 +1899,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 42,
-      "Ефремов Айтал Климентович": 12,
-      "Заякин Андрей Викторович": 9,
-      "Лазарев Александр Михайлович": 16,
-      "Парахин Гаврил Павлович": 47,
-      "Тарасов Олег Владимирович": 43,
-      "Тихонов Айсен Анатольевич": 12,
-      "Тумусов Федот Семёнович": 67
+      "gas:candidate-vibid:2142000655415": 42,
+      "gas:candidate-vibid:2142000656184": 12,
+      "gas:candidate-vibid:2142000656361": 9,
+      "gas:candidate-vibid:2142000655209": 16,
+      "gas:candidate-vibid:2142000636230": 47,
+      "gas:candidate-vibid:2142000655570": 43,
+      "gas:candidate-vibid:2142000656268": 12,
+      "gas:candidate-vibid:2142000652441": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -1957,14 +1957,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 53,
-      "Ефремов Айтал Климентович": 16,
-      "Заякин Андрей Викторович": 17,
-      "Лазарев Александр Михайлович": 11,
-      "Парахин Гаврил Павлович": 40,
-      "Тарасов Олег Владимирович": 55,
-      "Тихонов Айсен Анатольевич": 14,
-      "Тумусов Федот Семёнович": 89
+      "gas:candidate-vibid:2142000655415": 53,
+      "gas:candidate-vibid:2142000656184": 16,
+      "gas:candidate-vibid:2142000656361": 17,
+      "gas:candidate-vibid:2142000655209": 11,
+      "gas:candidate-vibid:2142000636230": 40,
+      "gas:candidate-vibid:2142000655570": 55,
+      "gas:candidate-vibid:2142000656268": 14,
+      "gas:candidate-vibid:2142000652441": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2015,14 +2015,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 64,
-      "Ефремов Айтал Климентович": 15,
-      "Заякин Андрей Викторович": 15,
-      "Лазарев Александр Михайлович": 15,
-      "Парахин Гаврил Павлович": 25,
-      "Тарасов Олег Владимирович": 37,
-      "Тихонов Айсен Анатольевич": 7,
-      "Тумусов Федот Семёнович": 148
+      "gas:candidate-vibid:2142000655415": 64,
+      "gas:candidate-vibid:2142000656184": 15,
+      "gas:candidate-vibid:2142000656361": 15,
+      "gas:candidate-vibid:2142000655209": 15,
+      "gas:candidate-vibid:2142000636230": 25,
+      "gas:candidate-vibid:2142000655570": 37,
+      "gas:candidate-vibid:2142000656268": 7,
+      "gas:candidate-vibid:2142000652441": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2073,14 +2073,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 47,
-      "Ефремов Айтал Климентович": 10,
-      "Заякин Андрей Викторович": 20,
-      "Лазарев Александр Михайлович": 11,
-      "Парахин Гаврил Павлович": 40,
-      "Тарасов Олег Владимирович": 31,
-      "Тихонов Айсен Анатольевич": 11,
-      "Тумусов Федот Семёнович": 143
+      "gas:candidate-vibid:2142000655415": 47,
+      "gas:candidate-vibid:2142000656184": 10,
+      "gas:candidate-vibid:2142000656361": 20,
+      "gas:candidate-vibid:2142000655209": 11,
+      "gas:candidate-vibid:2142000636230": 40,
+      "gas:candidate-vibid:2142000655570": 31,
+      "gas:candidate-vibid:2142000656268": 11,
+      "gas:candidate-vibid:2142000652441": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2131,14 +2131,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 82,
-      "Ефремов Айтал Климентович": 28,
-      "Заякин Андрей Викторович": 48,
-      "Лазарев Александр Михайлович": 18,
-      "Парахин Гаврил Павлович": 45,
-      "Тарасов Олег Владимирович": 88,
-      "Тихонов Айсен Анатольевич": 19,
-      "Тумусов Федот Семёнович": 233
+      "gas:candidate-vibid:2142000655415": 82,
+      "gas:candidate-vibid:2142000656184": 28,
+      "gas:candidate-vibid:2142000656361": 48,
+      "gas:candidate-vibid:2142000655209": 18,
+      "gas:candidate-vibid:2142000636230": 45,
+      "gas:candidate-vibid:2142000655570": 88,
+      "gas:candidate-vibid:2142000656268": 19,
+      "gas:candidate-vibid:2142000652441": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2189,14 +2189,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 42,
-      "Ефремов Айтал Климентович": 15,
-      "Заякин Андрей Викторович": 10,
-      "Лазарев Александр Михайлович": 11,
-      "Парахин Гаврил Павлович": 21,
-      "Тарасов Олег Владимирович": 47,
-      "Тихонов Айсен Анатольевич": 10,
-      "Тумусов Федот Семёнович": 95
+      "gas:candidate-vibid:2142000655415": 42,
+      "gas:candidate-vibid:2142000656184": 15,
+      "gas:candidate-vibid:2142000656361": 10,
+      "gas:candidate-vibid:2142000655209": 11,
+      "gas:candidate-vibid:2142000636230": 21,
+      "gas:candidate-vibid:2142000655570": 47,
+      "gas:candidate-vibid:2142000656268": 10,
+      "gas:candidate-vibid:2142000652441": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2247,14 +2247,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 123,
-      "Ефремов Айтал Климентович": 25,
-      "Заякин Андрей Викторович": 36,
-      "Лазарев Александр Михайлович": 7,
-      "Парахин Гаврил Павлович": 48,
-      "Тарасов Олег Владимирович": 74,
-      "Тихонов Айсен Анатольевич": 37,
-      "Тумусов Федот Семёнович": 321
+      "gas:candidate-vibid:2142000655415": 123,
+      "gas:candidate-vibid:2142000656184": 25,
+      "gas:candidate-vibid:2142000656361": 36,
+      "gas:candidate-vibid:2142000655209": 7,
+      "gas:candidate-vibid:2142000636230": 48,
+      "gas:candidate-vibid:2142000655570": 74,
+      "gas:candidate-vibid:2142000656268": 37,
+      "gas:candidate-vibid:2142000652441": 321
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2305,14 +2305,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 71,
-      "Ефремов Айтал Климентович": 8,
-      "Заякин Андрей Викторович": 6,
-      "Лазарев Александр Михайлович": 18,
-      "Парахин Гаврил Павлович": 31,
-      "Тарасов Олег Владимирович": 30,
-      "Тихонов Айсен Анатольевич": 6,
-      "Тумусов Федот Семёнович": 93
+      "gas:candidate-vibid:2142000655415": 71,
+      "gas:candidate-vibid:2142000656184": 8,
+      "gas:candidate-vibid:2142000656361": 6,
+      "gas:candidate-vibid:2142000655209": 18,
+      "gas:candidate-vibid:2142000636230": 31,
+      "gas:candidate-vibid:2142000655570": 30,
+      "gas:candidate-vibid:2142000656268": 6,
+      "gas:candidate-vibid:2142000652441": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2363,14 +2363,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 47,
-      "Ефремов Айтал Климентович": 9,
-      "Заякин Андрей Викторович": 12,
-      "Лазарев Александр Михайлович": 19,
-      "Парахин Гаврил Павлович": 37,
-      "Тарасов Олег Владимирович": 38,
-      "Тихонов Айсен Анатольевич": 6,
-      "Тумусов Федот Семёнович": 87
+      "gas:candidate-vibid:2142000655415": 47,
+      "gas:candidate-vibid:2142000656184": 9,
+      "gas:candidate-vibid:2142000656361": 12,
+      "gas:candidate-vibid:2142000655209": 19,
+      "gas:candidate-vibid:2142000636230": 37,
+      "gas:candidate-vibid:2142000655570": 38,
+      "gas:candidate-vibid:2142000656268": 6,
+      "gas:candidate-vibid:2142000652441": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2421,14 +2421,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 75,
-      "Ефремов Айтал Климентович": 34,
-      "Заякин Андрей Викторович": 26,
-      "Лазарев Александр Михайлович": 25,
-      "Парахин Гаврил Павлович": 55,
-      "Тарасов Олег Владимирович": 83,
-      "Тихонов Айсен Анатольевич": 26,
-      "Тумусов Федот Семёнович": 181
+      "gas:candidate-vibid:2142000655415": 75,
+      "gas:candidate-vibid:2142000656184": 34,
+      "gas:candidate-vibid:2142000656361": 26,
+      "gas:candidate-vibid:2142000655209": 25,
+      "gas:candidate-vibid:2142000636230": 55,
+      "gas:candidate-vibid:2142000655570": 83,
+      "gas:candidate-vibid:2142000656268": 26,
+      "gas:candidate-vibid:2142000652441": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2479,14 +2479,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 36,
-      "Ефремов Айтал Климентович": 12,
-      "Заякин Андрей Викторович": 30,
-      "Лазарев Александр Михайлович": 8,
-      "Парахин Гаврил Павлович": 17,
-      "Тарасов Олег Владимирович": 52,
-      "Тихонов Айсен Анатольевич": 11,
-      "Тумусов Федот Семёнович": 102
+      "gas:candidate-vibid:2142000655415": 36,
+      "gas:candidate-vibid:2142000656184": 12,
+      "gas:candidate-vibid:2142000656361": 30,
+      "gas:candidate-vibid:2142000655209": 8,
+      "gas:candidate-vibid:2142000636230": 17,
+      "gas:candidate-vibid:2142000655570": 52,
+      "gas:candidate-vibid:2142000656268": 11,
+      "gas:candidate-vibid:2142000652441": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2537,14 +2537,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 89,
-      "Ефремов Айтал Климентович": 46,
-      "Заякин Андрей Викторович": 29,
-      "Лазарев Александр Михайлович": 13,
-      "Парахин Гаврил Павлович": 15,
-      "Тарасов Олег Владимирович": 46,
-      "Тихонов Айсен Анатольевич": 34,
-      "Тумусов Федот Семёнович": 235
+      "gas:candidate-vibid:2142000655415": 89,
+      "gas:candidate-vibid:2142000656184": 46,
+      "gas:candidate-vibid:2142000656361": 29,
+      "gas:candidate-vibid:2142000655209": 13,
+      "gas:candidate-vibid:2142000636230": 15,
+      "gas:candidate-vibid:2142000655570": 46,
+      "gas:candidate-vibid:2142000656268": 34,
+      "gas:candidate-vibid:2142000652441": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2595,14 +2595,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 63,
-      "Ефремов Айтал Климентович": 13,
-      "Заякин Андрей Викторович": 9,
-      "Лазарев Александр Михайлович": 12,
-      "Парахин Гаврил Павлович": 22,
-      "Тарасов Олег Владимирович": 41,
-      "Тихонов Айсен Анатольевич": 26,
-      "Тумусов Федот Семёнович": 164
+      "gas:candidate-vibid:2142000655415": 63,
+      "gas:candidate-vibid:2142000656184": 13,
+      "gas:candidate-vibid:2142000656361": 9,
+      "gas:candidate-vibid:2142000655209": 12,
+      "gas:candidate-vibid:2142000636230": 22,
+      "gas:candidate-vibid:2142000655570": 41,
+      "gas:candidate-vibid:2142000656268": 26,
+      "gas:candidate-vibid:2142000652441": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612035&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612035&type=464",
@@ -2653,14 +2653,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 4,
-      "Ефремов Айтал Климентович": 2,
-      "Заякин Андрей Викторович": 4,
-      "Лазарев Александр Михайлович": 2,
-      "Парахин Гаврил Павлович": 0,
-      "Тарасов Олег Владимирович": 21,
-      "Тихонов Айсен Анатольевич": 2,
-      "Тумусов Федот Семёнович": 89
+      "gas:candidate-vibid:2142000655415": 4,
+      "gas:candidate-vibid:2142000656184": 2,
+      "gas:candidate-vibid:2142000656361": 4,
+      "gas:candidate-vibid:2142000655209": 2,
+      "gas:candidate-vibid:2142000636230": 0,
+      "gas:candidate-vibid:2142000655570": 21,
+      "gas:candidate-vibid:2142000656268": 2,
+      "gas:candidate-vibid:2142000652441": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -2711,14 +2711,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 82,
-      "Ефремов Айтал Климентович": 5,
-      "Заякин Андрей Викторович": 5,
-      "Лазарев Александр Михайлович": 7,
-      "Парахин Гаврил Павлович": 1,
-      "Тарасов Олег Владимирович": 45,
-      "Тихонов Айсен Анатольевич": 8,
-      "Тумусов Федот Семёнович": 262
+      "gas:candidate-vibid:2142000655415": 82,
+      "gas:candidate-vibid:2142000656184": 5,
+      "gas:candidate-vibid:2142000656361": 5,
+      "gas:candidate-vibid:2142000655209": 7,
+      "gas:candidate-vibid:2142000636230": 1,
+      "gas:candidate-vibid:2142000655570": 45,
+      "gas:candidate-vibid:2142000656268": 8,
+      "gas:candidate-vibid:2142000652441": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -2769,14 +2769,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 16,
-      "Ефремов Айтал Климентович": 6,
-      "Заякин Андрей Викторович": 2,
-      "Лазарев Александр Михайлович": 2,
-      "Парахин Гаврил Павлович": 1,
-      "Тарасов Олег Владимирович": 27,
-      "Тихонов Айсен Анатольевич": 2,
-      "Тумусов Федот Семёнович": 142
+      "gas:candidate-vibid:2142000655415": 16,
+      "gas:candidate-vibid:2142000656184": 6,
+      "gas:candidate-vibid:2142000656361": 2,
+      "gas:candidate-vibid:2142000655209": 2,
+      "gas:candidate-vibid:2142000636230": 1,
+      "gas:candidate-vibid:2142000655570": 27,
+      "gas:candidate-vibid:2142000656268": 2,
+      "gas:candidate-vibid:2142000652441": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -2827,14 +2827,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 138,
-      "Ефремов Айтал Климентович": 14,
-      "Заякин Андрей Викторович": 1,
-      "Лазарев Александр Михайлович": 8,
-      "Парахин Гаврил Павлович": 3,
-      "Тарасов Олег Владимирович": 46,
-      "Тихонов Айсен Анатольевич": 11,
-      "Тумусов Федот Семёнович": 156
+      "gas:candidate-vibid:2142000655415": 138,
+      "gas:candidate-vibid:2142000656184": 14,
+      "gas:candidate-vibid:2142000656361": 1,
+      "gas:candidate-vibid:2142000655209": 8,
+      "gas:candidate-vibid:2142000636230": 3,
+      "gas:candidate-vibid:2142000655570": 46,
+      "gas:candidate-vibid:2142000656268": 11,
+      "gas:candidate-vibid:2142000652441": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -2885,14 +2885,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 28,
-      "Ефремов Айтал Климентович": 11,
-      "Заякин Андрей Викторович": 4,
-      "Лазарев Александр Михайлович": 4,
-      "Парахин Гаврил Павлович": 1,
-      "Тарасов Олег Владимирович": 83,
-      "Тихонов Айсен Анатольевич": 5,
-      "Тумусов Федот Семёнович": 175
+      "gas:candidate-vibid:2142000655415": 28,
+      "gas:candidate-vibid:2142000656184": 11,
+      "gas:candidate-vibid:2142000656361": 4,
+      "gas:candidate-vibid:2142000655209": 4,
+      "gas:candidate-vibid:2142000636230": 1,
+      "gas:candidate-vibid:2142000655570": 83,
+      "gas:candidate-vibid:2142000656268": 5,
+      "gas:candidate-vibid:2142000652441": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -2943,14 +2943,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 29,
-      "Ефремов Айтал Климентович": 1,
-      "Заякин Андрей Викторович": 0,
-      "Лазарев Александр Михайлович": 7,
-      "Парахин Гаврил Павлович": 0,
-      "Тарасов Олег Владимирович": 49,
-      "Тихонов Айсен Анатольевич": 4,
-      "Тумусов Федот Семёнович": 135
+      "gas:candidate-vibid:2142000655415": 29,
+      "gas:candidate-vibid:2142000656184": 1,
+      "gas:candidate-vibid:2142000656361": 0,
+      "gas:candidate-vibid:2142000655209": 7,
+      "gas:candidate-vibid:2142000636230": 0,
+      "gas:candidate-vibid:2142000655570": 49,
+      "gas:candidate-vibid:2142000656268": 4,
+      "gas:candidate-vibid:2142000652441": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3001,14 +3001,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 46,
-      "Ефремов Айтал Климентович": 5,
-      "Заякин Андрей Викторович": 3,
-      "Лазарев Александр Михайлович": 13,
-      "Парахин Гаврил Павлович": 3,
-      "Тарасов Олег Владимирович": 41,
-      "Тихонов Айсен Анатольевич": 9,
-      "Тумусов Федот Семёнович": 251
+      "gas:candidate-vibid:2142000655415": 46,
+      "gas:candidate-vibid:2142000656184": 5,
+      "gas:candidate-vibid:2142000656361": 3,
+      "gas:candidate-vibid:2142000655209": 13,
+      "gas:candidate-vibid:2142000636230": 3,
+      "gas:candidate-vibid:2142000655570": 41,
+      "gas:candidate-vibid:2142000656268": 9,
+      "gas:candidate-vibid:2142000652441": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3059,14 +3059,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 51,
-      "Ефремов Айтал Климентович": 14,
-      "Заякин Андрей Викторович": 8,
-      "Лазарев Александр Михайлович": 10,
-      "Парахин Гаврил Павлович": 2,
-      "Тарасов Олег Владимирович": 44,
-      "Тихонов Айсен Анатольевич": 15,
-      "Тумусов Федот Семёнович": 251
+      "gas:candidate-vibid:2142000655415": 51,
+      "gas:candidate-vibid:2142000656184": 14,
+      "gas:candidate-vibid:2142000656361": 8,
+      "gas:candidate-vibid:2142000655209": 10,
+      "gas:candidate-vibid:2142000636230": 2,
+      "gas:candidate-vibid:2142000655570": 44,
+      "gas:candidate-vibid:2142000656268": 15,
+      "gas:candidate-vibid:2142000652441": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3117,14 +3117,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 69,
-      "Ефремов Айтал Климентович": 4,
-      "Заякин Андрей Викторович": 4,
-      "Лазарев Александр Михайлович": 9,
-      "Парахин Гаврил Павлович": 2,
-      "Тарасов Олег Владимирович": 40,
-      "Тихонов Айсен Анатольевич": 2,
-      "Тумусов Федот Семёнович": 175
+      "gas:candidate-vibid:2142000655415": 69,
+      "gas:candidate-vibid:2142000656184": 4,
+      "gas:candidate-vibid:2142000656361": 4,
+      "gas:candidate-vibid:2142000655209": 9,
+      "gas:candidate-vibid:2142000636230": 2,
+      "gas:candidate-vibid:2142000655570": 40,
+      "gas:candidate-vibid:2142000656268": 2,
+      "gas:candidate-vibid:2142000652441": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3175,14 +3175,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 8,
-      "Ефремов Айтал Климентович": 3,
-      "Заякин Андрей Викторович": 0,
-      "Лазарев Александр Михайлович": 1,
-      "Парахин Гаврил Павлович": 0,
-      "Тарасов Олег Владимирович": 6,
-      "Тихонов Айсен Анатольевич": 2,
-      "Тумусов Федот Семёнович": 64
+      "gas:candidate-vibid:2142000655415": 8,
+      "gas:candidate-vibid:2142000656184": 3,
+      "gas:candidate-vibid:2142000656361": 0,
+      "gas:candidate-vibid:2142000655209": 1,
+      "gas:candidate-vibid:2142000636230": 0,
+      "gas:candidate-vibid:2142000655570": 6,
+      "gas:candidate-vibid:2142000656268": 2,
+      "gas:candidate-vibid:2142000652441": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3233,14 +3233,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 22,
-      "Ефремов Айтал Климентович": 8,
-      "Заякин Андрей Викторович": 0,
-      "Лазарев Александр Михайлович": 9,
-      "Парахин Гаврил Павлович": 0,
-      "Тарасов Олег Владимирович": 41,
-      "Тихонов Айсен Анатольевич": 9,
-      "Тумусов Федот Семёнович": 195
+      "gas:candidate-vibid:2142000655415": 22,
+      "gas:candidate-vibid:2142000656184": 8,
+      "gas:candidate-vibid:2142000656361": 0,
+      "gas:candidate-vibid:2142000655209": 9,
+      "gas:candidate-vibid:2142000636230": 0,
+      "gas:candidate-vibid:2142000655570": 41,
+      "gas:candidate-vibid:2142000656268": 9,
+      "gas:candidate-vibid:2142000652441": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3291,14 +3291,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 53,
-      "Ефремов Айтал Климентович": 3,
-      "Заякин Андрей Викторович": 7,
-      "Лазарев Александр Михайлович": 8,
-      "Парахин Гаврил Павлович": 5,
-      "Тарасов Олег Владимирович": 54,
-      "Тихонов Айсен Анатольевич": 19,
-      "Тумусов Федот Семёнович": 243
+      "gas:candidate-vibid:2142000655415": 53,
+      "gas:candidate-vibid:2142000656184": 3,
+      "gas:candidate-vibid:2142000656361": 7,
+      "gas:candidate-vibid:2142000655209": 8,
+      "gas:candidate-vibid:2142000636230": 5,
+      "gas:candidate-vibid:2142000655570": 54,
+      "gas:candidate-vibid:2142000656268": 19,
+      "gas:candidate-vibid:2142000652441": 243
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3349,14 +3349,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 42,
-      "Ефремов Айтал Климентович": 10,
-      "Заякин Андрей Викторович": 1,
-      "Лазарев Александр Михайлович": 5,
-      "Парахин Гаврил Павлович": 5,
-      "Тарасов Олег Владимирович": 21,
-      "Тихонов Айсен Анатольевич": 3,
-      "Тумусов Федот Семёнович": 151
+      "gas:candidate-vibid:2142000655415": 42,
+      "gas:candidate-vibid:2142000656184": 10,
+      "gas:candidate-vibid:2142000656361": 1,
+      "gas:candidate-vibid:2142000655209": 5,
+      "gas:candidate-vibid:2142000636230": 5,
+      "gas:candidate-vibid:2142000655570": 21,
+      "gas:candidate-vibid:2142000656268": 3,
+      "gas:candidate-vibid:2142000652441": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3407,14 +3407,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 112,
-      "Ефремов Айтал Климентович": 21,
-      "Заякин Андрей Викторович": 14,
-      "Лазарев Александр Михайлович": 18,
-      "Парахин Гаврил Павлович": 11,
-      "Тарасов Олег Владимирович": 131,
-      "Тихонов Айсен Анатольевич": 28,
-      "Тумусов Федот Семёнович": 395
+      "gas:candidate-vibid:2142000655415": 112,
+      "gas:candidate-vibid:2142000656184": 21,
+      "gas:candidate-vibid:2142000656361": 14,
+      "gas:candidate-vibid:2142000655209": 18,
+      "gas:candidate-vibid:2142000636230": 11,
+      "gas:candidate-vibid:2142000655570": 131,
+      "gas:candidate-vibid:2142000656268": 28,
+      "gas:candidate-vibid:2142000652441": 395
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3465,14 +3465,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 106,
-      "Ефремов Айтал Климентович": 16,
-      "Заякин Андрей Викторович": 9,
-      "Лазарев Александр Михайлович": 24,
-      "Парахин Гаврил Павлович": 6,
-      "Тарасов Олег Владимирович": 84,
-      "Тихонов Айсен Анатольевич": 21,
-      "Тумусов Федот Семёнович": 341
+      "gas:candidate-vibid:2142000655415": 106,
+      "gas:candidate-vibid:2142000656184": 16,
+      "gas:candidate-vibid:2142000656361": 9,
+      "gas:candidate-vibid:2142000655209": 24,
+      "gas:candidate-vibid:2142000636230": 6,
+      "gas:candidate-vibid:2142000655570": 84,
+      "gas:candidate-vibid:2142000656268": 21,
+      "gas:candidate-vibid:2142000652441": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",
@@ -3523,14 +3523,14 @@ export const duma_2016_uik_463_region_14_part_004 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Аммосов Петр Револьдович": 119,
-      "Ефремов Айтал Климентович": 18,
-      "Заякин Андрей Викторович": 7,
-      "Лазарев Александр Михайлович": 18,
-      "Парахин Гаврил Павлович": 7,
-      "Тарасов Олег Владимирович": 101,
-      "Тихонов Айсен Анатольевич": 20,
-      "Тумусов Федот Семёнович": 361
+      "gas:candidate-vibid:2142000655415": 119,
+      "gas:candidate-vibid:2142000656184": 18,
+      "gas:candidate-vibid:2142000656361": 7,
+      "gas:candidate-vibid:2142000655209": 18,
+      "gas:candidate-vibid:2142000636230": 7,
+      "gas:candidate-vibid:2142000655570": 101,
+      "gas:candidate-vibid:2142000656268": 20,
+      "gas:candidate-vibid:2142000652441": 361
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/yakut?action=show&root=1000035&tvd=2142000612036&vrn=100100067795849&region=14&global=&sub_region=14&prver=0&pronetvd=null&vibid=2142000612036&type=464",

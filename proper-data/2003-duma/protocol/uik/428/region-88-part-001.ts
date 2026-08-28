@@ -42,9 +42,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 24,
-      "Столяров Олег Анатольевич": 510,
-      "Против всех": 209
+      "gas:candidate-vibid:288200067381": 24,
+      "gas:candidate-vibid:1001000226027": 510,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -94,9 +94,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 15,
-      "Столяров Олег Анатольевич": 399,
-      "Против всех": 153
+      "gas:candidate-vibid:288200067381": 15,
+      "gas:candidate-vibid:1001000226027": 399,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -146,9 +146,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 5,
-      "Столяров Олег Анатольевич": 113,
-      "Против всех": 37
+      "gas:candidate-vibid:288200067381": 5,
+      "gas:candidate-vibid:1001000226027": 113,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -198,9 +198,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 2,
-      "Столяров Олег Анатольевич": 79,
-      "Против всех": 6
+      "gas:candidate-vibid:288200067381": 2,
+      "gas:candidate-vibid:1001000226027": 79,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -250,9 +250,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 0,
-      "Столяров Олег Анатольевич": 32,
-      "Против всех": 7
+      "gas:candidate-vibid:288200067381": 0,
+      "gas:candidate-vibid:1001000226027": 32,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -302,9 +302,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 1,
-      "Столяров Олег Анатольевич": 47,
-      "Против всех": 4
+      "gas:candidate-vibid:288200067381": 1,
+      "gas:candidate-vibid:1001000226027": 47,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -354,9 +354,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 4,
-      "Столяров Олег Анатольевич": 89,
-      "Против всех": 25
+      "gas:candidate-vibid:288200067381": 4,
+      "gas:candidate-vibid:1001000226027": 89,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -406,9 +406,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 3,
-      "Столяров Олег Анатольевич": 141,
-      "Против всех": 11
+      "gas:candidate-vibid:288200067381": 3,
+      "gas:candidate-vibid:1001000226027": 141,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -458,9 +458,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 1,
-      "Столяров Олег Анатольевич": 60,
-      "Против всех": 2
+      "gas:candidate-vibid:288200067381": 1,
+      "gas:candidate-vibid:1001000226027": 60,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -510,9 +510,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 0,
-      "Столяров Олег Анатольевич": 47,
-      "Против всех": 10
+      "gas:candidate-vibid:288200067381": 0,
+      "gas:candidate-vibid:1001000226027": 47,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -562,9 +562,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 0,
-      "Столяров Олег Анатольевич": 32,
-      "Против всех": 1
+      "gas:candidate-vibid:288200067381": 0,
+      "gas:candidate-vibid:1001000226027": 32,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067032&region=0&sub_region=0&type=429",
@@ -614,9 +614,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 18,
-      "Столяров Олег Анатольевич": 481,
-      "Против всех": 137
+      "gas:candidate-vibid:288200067381": 18,
+      "gas:candidate-vibid:1001000226027": 481,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -666,9 +666,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 11,
-      "Столяров Олег Анатольевич": 359,
-      "Против всех": 116
+      "gas:candidate-vibid:288200067381": 11,
+      "gas:candidate-vibid:1001000226027": 359,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -718,9 +718,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 8,
-      "Столяров Олег Анатольевич": 222,
-      "Против всех": 65
+      "gas:candidate-vibid:288200067381": 8,
+      "gas:candidate-vibid:1001000226027": 222,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -770,9 +770,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 15,
-      "Столяров Олег Анатольевич": 425,
-      "Против всех": 133
+      "gas:candidate-vibid:288200067381": 15,
+      "gas:candidate-vibid:1001000226027": 425,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -822,9 +822,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 5,
-      "Столяров Олег Анатольевич": 176,
-      "Против всех": 26
+      "gas:candidate-vibid:288200067381": 5,
+      "gas:candidate-vibid:1001000226027": 176,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -874,9 +874,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 2,
-      "Столяров Олег Анатольевич": 71,
-      "Против всех": 10
+      "gas:candidate-vibid:288200067381": 2,
+      "gas:candidate-vibid:1001000226027": 71,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -926,9 +926,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 1,
-      "Столяров Олег Анатольевич": 86,
-      "Против всех": 12
+      "gas:candidate-vibid:288200067381": 1,
+      "gas:candidate-vibid:1001000226027": 86,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -978,9 +978,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 2,
-      "Столяров Олег Анатольевич": 84,
-      "Против всех": 15
+      "gas:candidate-vibid:288200067381": 2,
+      "gas:candidate-vibid:1001000226027": 84,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -1030,9 +1030,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 1,
-      "Столяров Олег Анатольевич": 47,
-      "Против всех": 12
+      "gas:candidate-vibid:288200067381": 1,
+      "gas:candidate-vibid:1001000226027": 47,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -1082,9 +1082,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 5,
-      "Столяров Олег Анатольевич": 121,
-      "Против всех": 12
+      "gas:candidate-vibid:288200067381": 5,
+      "gas:candidate-vibid:1001000226027": 121,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -1134,9 +1134,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 3,
-      "Столяров Олег Анатольевич": 33,
-      "Против всех": 24
+      "gas:candidate-vibid:288200067381": 3,
+      "gas:candidate-vibid:1001000226027": 33,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -1186,9 +1186,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 5,
-      "Столяров Олег Анатольевич": 124,
-      "Против всех": 12
+      "gas:candidate-vibid:288200067381": 5,
+      "gas:candidate-vibid:1001000226027": 124,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -1238,9 +1238,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 2,
-      "Столяров Олег Анатольевич": 31,
-      "Против всех": 12
+      "gas:candidate-vibid:288200067381": 2,
+      "gas:candidate-vibid:1001000226027": 31,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200067033&region=0&sub_region=0&type=429",
@@ -1290,9 +1290,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 8,
-      "Столяров Олег Анатольевич": 556,
-      "Против всех": 87
+      "gas:candidate-vibid:288200067381": 8,
+      "gas:candidate-vibid:1001000226027": 556,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",
@@ -1342,9 +1342,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 8,
-      "Столяров Олег Анатольевич": 395,
-      "Против всех": 60
+      "gas:candidate-vibid:288200067381": 8,
+      "gas:candidate-vibid:1001000226027": 395,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",
@@ -1394,9 +1394,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 4,
-      "Столяров Олег Анатольевич": 283,
-      "Против всех": 49
+      "gas:candidate-vibid:288200067381": 4,
+      "gas:candidate-vibid:1001000226027": 283,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",
@@ -1446,9 +1446,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 0,
-      "Столяров Олег Анатольевич": 33,
-      "Против всех": 0
+      "gas:candidate-vibid:288200067381": 0,
+      "gas:candidate-vibid:1001000226027": 33,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",
@@ -1498,9 +1498,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 0,
-      "Столяров Олег Анатольевич": 41,
-      "Против всех": 5
+      "gas:candidate-vibid:288200067381": 0,
+      "gas:candidate-vibid:1001000226027": 41,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",
@@ -1550,9 +1550,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 2,
-      "Столяров Олег Анатольевич": 73,
-      "Против всех": 12
+      "gas:candidate-vibid:288200067381": 2,
+      "gas:candidate-vibid:1001000226027": 73,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",
@@ -1602,9 +1602,9 @@ export const duma_2003_uik_428_region_88_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Делокаров Руслан Кадырбечевич": 0,
-      "Столяров Олег Анатольевич": 16,
-      "Против всех": 2
+      "gas:candidate-vibid:288200067381": 0,
+      "gas:candidate-vibid:1001000226027": 16,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=882000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=288200068927&region=0&sub_region=0&type=429",

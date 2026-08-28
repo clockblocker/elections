@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "election": "2016-duma",
   "regions": [
     {
@@ -1132,6 +1132,216 @@
       "reconciliation_status": "passed"
     }
   ],
+  "registry_gates": {
+    "sources_complete": true,
+    "registry_counts_complete": true,
+    "every_result_choice_matched_to_official_identity": true,
+    "identity_key_formulas_valid": true,
+    "uik_and_tik_vote_key_sets_valid": true,
+    "regular_and_special_winner_keys_exclusive": true,
+    "allowed_source_anomalies_exact": true,
+    "literal_elected_and_unique_highest_winner_agree": true,
+    "allowed_anomalies": [
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 71,
+        "winner_candidate_key": "gas:candidate-vibid:2282000785455",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 77,
+        "winner_candidate_key": "gas:candidate-vibid:2322000968598",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 96,
+        "winner_candidate_key": "gas:candidate-vibid:4384009321010",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 98,
+        "winner_candidate_key": "gas:candidate-vibid:2392000545837",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 70,
+        "winner_candidate_key": "gas:candidate-vibid:2272000743808",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 110,
+        "winner_candidate_key": "gas:candidate-vibid:2462000802007",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 112,
+        "winner_candidate_key": "gas:candidate-vibid:2472000754522",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 134,
+        "winner_candidate_key": "gas:candidate-vibid:2532000549132",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 137,
+        "winner_candidate_key": "gas:candidate-vibid:25420001433204",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 145,
+        "winner_candidate_key": "gas:candidate-vibid:2572000840822",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 143,
+        "winner_candidate_key": "gas:candidate-vibid:25620001003807",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 147,
+        "winner_candidate_key": "gas:candidate-vibid:2582000736159",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 151,
+        "winner_candidate_key": "gas:candidate-vibid:4614033696126",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 158,
+        "winner_candidate_key": "gas:candidate-vibid:26320001146448",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 163,
+        "winner_candidate_key": "gas:candidate-vibid:4644035228365",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 165,
+        "winner_candidate_key": "gas:candidate-vibid:4644006259178",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 174,
+        "winner_candidate_key": "gas:candidate-vibid:4664067140933",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 180,
+        "winner_candidate_key": "gas:candidate-vibid:26920001036650",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "mutable-registry-elected-status",
+        "election": "2016-duma",
+        "district_number": 194,
+        "winner_candidate_key": "gas:candidate-vibid:2762000514841",
+        "registry_statuses": [
+          "сложивший полномочия"
+        ]
+      }
+    ],
+    "errors": {
+      "sources": [],
+      "registry": [],
+      "identity": [],
+      "winner": []
+    },
+    "passed": true,
+    "publishable": true
+  },
   "summary": {
     "regions": 85,
     "districts": 225,
@@ -1144,7 +1354,9 @@
     "build_errors": 0,
     "duplicate_conflicts": 0,
     "direct_recovery_requests": 37,
-    "direct_recovery_valid": 0
+    "direct_recovery_valid": 0,
+    "registry_sources_complete": true,
+    "registry_gates_passed": true
   },
   "failed_direct_recovery": [
     {

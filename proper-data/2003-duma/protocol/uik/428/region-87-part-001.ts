@@ -42,10 +42,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 244,
-      "Петренко Эдуард Петрович": 12,
-      "Рудой Александр Иванович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:287200070699": 244,
+      "gas:candidate-vibid:287200070965": 12,
+      "gas:candidate-vibid:287200070369": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070677&region=0&sub_region=0&type=429",
@@ -95,10 +95,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 134,
-      "Петренко Эдуард Петрович": 6,
-      "Рудой Александр Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:287200070699": 134,
+      "gas:candidate-vibid:287200070965": 6,
+      "gas:candidate-vibid:287200070369": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070677&region=0&sub_region=0&type=429",
@@ -148,10 +148,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 154,
-      "Петренко Эдуард Петрович": 9,
-      "Рудой Александр Иванович": 2,
-      "Против всех": 26
+      "gas:candidate-vibid:287200070699": 154,
+      "gas:candidate-vibid:287200070965": 9,
+      "gas:candidate-vibid:287200070369": 2,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070677&region=0&sub_region=0&type=429",
@@ -201,10 +201,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 286,
-      "Петренко Эдуард Петрович": 23,
-      "Рудой Александр Иванович": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:287200070699": 286,
+      "gas:candidate-vibid:287200070965": 23,
+      "gas:candidate-vibid:287200070369": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070677&region=0&sub_region=0&type=429",
@@ -254,10 +254,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 518,
-      "Петренко Эдуард Петрович": 28,
-      "Рудой Александр Иванович": 31,
-      "Против всех": 46
+      "gas:candidate-vibid:287200070699": 518,
+      "gas:candidate-vibid:287200070965": 28,
+      "gas:candidate-vibid:287200070369": 31,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070677&region=0&sub_region=0&type=429",
@@ -307,10 +307,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 430,
-      "Петренко Эдуард Петрович": 36,
-      "Рудой Александр Иванович": 12,
-      "Против всех": 32
+      "gas:candidate-vibid:287200070699": 430,
+      "gas:candidate-vibid:287200070965": 36,
+      "gas:candidate-vibid:287200070369": 12,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070677&region=0&sub_region=0&type=429",
@@ -360,10 +360,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 1013,
-      "Петренко Эдуард Петрович": 42,
-      "Рудой Александр Иванович": 27,
-      "Против всех": 67
+      "gas:candidate-vibid:287200070699": 1013,
+      "gas:candidate-vibid:287200070965": 42,
+      "gas:candidate-vibid:287200070369": 27,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -413,10 +413,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 147,
-      "Петренко Эдуард Петрович": 3,
-      "Рудой Александр Иванович": 11,
-      "Против всех": 23
+      "gas:candidate-vibid:287200070699": 147,
+      "gas:candidate-vibid:287200070965": 3,
+      "gas:candidate-vibid:287200070369": 11,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -466,10 +466,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 203,
-      "Петренко Эдуард Петрович": 4,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:287200070699": 203,
+      "gas:candidate-vibid:287200070965": 4,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -519,10 +519,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 104,
-      "Петренко Эдуард Петрович": 3,
-      "Рудой Александр Иванович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:287200070699": 104,
+      "gas:candidate-vibid:287200070965": 3,
+      "gas:candidate-vibid:287200070369": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -572,10 +572,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 283,
-      "Петренко Эдуард Петрович": 7,
-      "Рудой Александр Иванович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:287200070699": 283,
+      "gas:candidate-vibid:287200070965": 7,
+      "gas:candidate-vibid:287200070369": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -625,10 +625,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 85,
-      "Петренко Эдуард Петрович": 6,
-      "Рудой Александр Иванович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:287200070699": 85,
+      "gas:candidate-vibid:287200070965": 6,
+      "gas:candidate-vibid:287200070369": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -678,10 +678,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 68,
-      "Петренко Эдуард Петрович": 3,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:287200070699": 68,
+      "gas:candidate-vibid:287200070965": 3,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070678&region=0&sub_region=0&type=429",
@@ -731,10 +731,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 276,
-      "Петренко Эдуард Петрович": 18,
-      "Рудой Александр Иванович": 11,
-      "Против всех": 42
+      "gas:candidate-vibid:287200070699": 276,
+      "gas:candidate-vibid:287200070965": 18,
+      "gas:candidate-vibid:287200070369": 11,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -784,10 +784,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 303,
-      "Петренко Эдуард Петрович": 20,
-      "Рудой Александр Иванович": 20,
-      "Против всех": 54
+      "gas:candidate-vibid:287200070699": 303,
+      "gas:candidate-vibid:287200070965": 20,
+      "gas:candidate-vibid:287200070369": 20,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -837,10 +837,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 313,
-      "Петренко Эдуард Петрович": 27,
-      "Рудой Александр Иванович": 9,
-      "Против всех": 54
+      "gas:candidate-vibid:287200070699": 313,
+      "gas:candidate-vibid:287200070965": 27,
+      "gas:candidate-vibid:287200070369": 9,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -890,10 +890,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 261,
-      "Петренко Эдуард Петрович": 11,
-      "Рудой Александр Иванович": 11,
-      "Против всех": 38
+      "gas:candidate-vibid:287200070699": 261,
+      "gas:candidate-vibid:287200070965": 11,
+      "gas:candidate-vibid:287200070369": 11,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -943,10 +943,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 266,
-      "Петренко Эдуард Петрович": 10,
-      "Рудой Александр Иванович": 16,
-      "Против всех": 47
+      "gas:candidate-vibid:287200070699": 266,
+      "gas:candidate-vibid:287200070965": 10,
+      "gas:candidate-vibid:287200070369": 16,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -996,10 +996,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 266,
-      "Петренко Эдуард Петрович": 8,
-      "Рудой Александр Иванович": 13,
-      "Против всех": 65
+      "gas:candidate-vibid:287200070699": 266,
+      "gas:candidate-vibid:287200070965": 8,
+      "gas:candidate-vibid:287200070369": 13,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1049,10 +1049,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 335,
-      "Петренко Эдуард Петрович": 10,
-      "Рудой Александр Иванович": 14,
-      "Против всех": 50
+      "gas:candidate-vibid:287200070699": 335,
+      "gas:candidate-vibid:287200070965": 10,
+      "gas:candidate-vibid:287200070369": 14,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1102,10 +1102,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 94,
-      "Петренко Эдуард Петрович": 7,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:287200070699": 94,
+      "gas:candidate-vibid:287200070965": 7,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1155,10 +1155,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 255,
-      "Петренко Эдуард Петрович": 13,
-      "Рудой Александр Иванович": 10,
-      "Против всех": 45
+      "gas:candidate-vibid:287200070699": 255,
+      "gas:candidate-vibid:287200070965": 13,
+      "gas:candidate-vibid:287200070369": 10,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1208,10 +1208,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 181,
-      "Петренко Эдуард Петрович": 2,
-      "Рудой Александр Иванович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:287200070699": 181,
+      "gas:candidate-vibid:287200070965": 2,
+      "gas:candidate-vibid:287200070369": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1261,10 +1261,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 209,
-      "Петренко Эдуард Петрович": 7,
-      "Рудой Александр Иванович": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:287200070699": 209,
+      "gas:candidate-vibid:287200070965": 7,
+      "gas:candidate-vibid:287200070369": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1314,10 +1314,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 141,
-      "Петренко Эдуард Петрович": 8,
-      "Рудой Александр Иванович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:287200070699": 141,
+      "gas:candidate-vibid:287200070965": 8,
+      "gas:candidate-vibid:287200070369": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1367,10 +1367,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 212,
-      "Петренко Эдуард Петрович": 12,
-      "Рудой Александр Иванович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:287200070699": 212,
+      "gas:candidate-vibid:287200070965": 12,
+      "gas:candidate-vibid:287200070369": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070679&region=0&sub_region=0&type=429",
@@ -1420,10 +1420,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 428,
-      "Петренко Эдуард Петрович": 13,
-      "Рудой Александр Иванович": 21,
-      "Против всех": 88
+      "gas:candidate-vibid:287200070699": 428,
+      "gas:candidate-vibid:287200070965": 13,
+      "gas:candidate-vibid:287200070369": 21,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1473,10 +1473,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 523,
-      "Петренко Эдуард Петрович": 22,
-      "Рудой Александр Иванович": 33,
-      "Против всех": 103
+      "gas:candidate-vibid:287200070699": 523,
+      "gas:candidate-vibid:287200070965": 22,
+      "gas:candidate-vibid:287200070369": 33,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1526,10 +1526,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 448,
-      "Петренко Эдуард Петрович": 21,
-      "Рудой Александр Иванович": 37,
-      "Против всех": 85
+      "gas:candidate-vibid:287200070699": 448,
+      "gas:candidate-vibid:287200070965": 21,
+      "gas:candidate-vibid:287200070369": 37,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1579,10 +1579,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 112,
-      "Петренко Эдуард Петрович": 4,
-      "Рудой Александр Иванович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:287200070699": 112,
+      "gas:candidate-vibid:287200070965": 4,
+      "gas:candidate-vibid:287200070369": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1632,10 +1632,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 181,
-      "Петренко Эдуард Петрович": 7,
-      "Рудой Александр Иванович": 12,
-      "Против всех": 14
+      "gas:candidate-vibid:287200070699": 181,
+      "gas:candidate-vibid:287200070965": 7,
+      "gas:candidate-vibid:287200070369": 12,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1685,10 +1685,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 131,
-      "Петренко Эдуард Петрович": 7,
-      "Рудой Александр Иванович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:287200070699": 131,
+      "gas:candidate-vibid:287200070965": 7,
+      "gas:candidate-vibid:287200070369": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1738,10 +1738,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 81,
-      "Петренко Эдуард Петрович": 16,
-      "Рудой Александр Иванович": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:287200070699": 81,
+      "gas:candidate-vibid:287200070965": 16,
+      "gas:candidate-vibid:287200070369": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070680&region=0&sub_region=0&type=429",
@@ -1791,10 +1791,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 733,
-      "Петренко Эдуард Петрович": 17,
-      "Рудой Александр Иванович": 18,
-      "Против всех": 49
+      "gas:candidate-vibid:287200070699": 733,
+      "gas:candidate-vibid:287200070965": 17,
+      "gas:candidate-vibid:287200070369": 18,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -1844,10 +1844,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 156,
-      "Петренко Эдуард Петрович": 34,
-      "Рудой Александр Иванович": 15,
-      "Против всех": 63
+      "gas:candidate-vibid:287200070699": 156,
+      "gas:candidate-vibid:287200070965": 34,
+      "gas:candidate-vibid:287200070369": 15,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -1897,10 +1897,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 202,
-      "Петренко Эдуард Петрович": 4,
-      "Рудой Александр Иванович": 4,
-      "Против всех": 3
+      "gas:candidate-vibid:287200070699": 202,
+      "gas:candidate-vibid:287200070965": 4,
+      "gas:candidate-vibid:287200070369": 4,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -1950,10 +1950,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 161,
-      "Петренко Эдуард Петрович": 7,
-      "Рудой Александр Иванович": 5,
-      "Против всех": 5
+      "gas:candidate-vibid:287200070699": 161,
+      "gas:candidate-vibid:287200070965": 7,
+      "gas:candidate-vibid:287200070369": 5,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -2003,10 +2003,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 267,
-      "Петренко Эдуард Петрович": 3,
-      "Рудой Александр Иванович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:287200070699": 267,
+      "gas:candidate-vibid:287200070965": 3,
+      "gas:candidate-vibid:287200070369": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -2056,10 +2056,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 168,
-      "Петренко Эдуард Петрович": 9,
-      "Рудой Александр Иванович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:287200070699": 168,
+      "gas:candidate-vibid:287200070965": 9,
+      "gas:candidate-vibid:287200070369": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -2109,10 +2109,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 167,
-      "Петренко Эдуард Петрович": 0,
-      "Рудой Александр Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:287200070699": 167,
+      "gas:candidate-vibid:287200070965": 0,
+      "gas:candidate-vibid:287200070369": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070681&region=0&sub_region=0&type=429",
@@ -2162,10 +2162,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 446,
-      "Петренко Эдуард Петрович": 14,
-      "Рудой Александр Иванович": 16,
-      "Против всех": 36
+      "gas:candidate-vibid:287200070699": 446,
+      "gas:candidate-vibid:287200070965": 14,
+      "gas:candidate-vibid:287200070369": 16,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2215,10 +2215,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 445,
-      "Петренко Эдуард Петрович": 9,
-      "Рудой Александр Иванович": 22,
-      "Против всех": 43
+      "gas:candidate-vibid:287200070699": 445,
+      "gas:candidate-vibid:287200070965": 9,
+      "gas:candidate-vibid:287200070369": 22,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2268,10 +2268,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 296,
-      "Петренко Эдуард Петрович": 20,
-      "Рудой Александр Иванович": 32,
-      "Против всех": 55
+      "gas:candidate-vibid:287200070699": 296,
+      "gas:candidate-vibid:287200070965": 20,
+      "gas:candidate-vibid:287200070369": 32,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2321,10 +2321,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 61,
-      "Петренко Эдуард Петрович": 8,
-      "Рудой Александр Иванович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:287200070699": 61,
+      "gas:candidate-vibid:287200070965": 8,
+      "gas:candidate-vibid:287200070369": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2374,10 +2374,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 49,
-      "Петренко Эдуард Петрович": 3,
-      "Рудой Александр Иванович": 13,
-      "Против всех": 7
+      "gas:candidate-vibid:287200070699": 49,
+      "gas:candidate-vibid:287200070965": 3,
+      "gas:candidate-vibid:287200070369": 13,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2427,10 +2427,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 314,
-      "Петренко Эдуард Петрович": 20,
-      "Рудой Александр Иванович": 51,
-      "Против всех": 81
+      "gas:candidate-vibid:287200070699": 314,
+      "gas:candidate-vibid:287200070965": 20,
+      "gas:candidate-vibid:287200070369": 51,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2480,10 +2480,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 210,
-      "Петренко Эдуард Петрович": 13,
-      "Рудой Александр Иванович": 9,
-      "Против всех": 10
+      "gas:candidate-vibid:287200070699": 210,
+      "gas:candidate-vibid:287200070965": 13,
+      "gas:candidate-vibid:287200070369": 9,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2533,10 +2533,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 87,
-      "Петренко Эдуард Петрович": 2,
-      "Рудой Александр Иванович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:287200070699": 87,
+      "gas:candidate-vibid:287200070965": 2,
+      "gas:candidate-vibid:287200070369": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2586,10 +2586,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 110,
-      "Петренко Эдуард Петрович": 2,
-      "Рудой Александр Иванович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:287200070699": 110,
+      "gas:candidate-vibid:287200070965": 2,
+      "gas:candidate-vibid:287200070369": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2639,10 +2639,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 321,
-      "Петренко Эдуард Петрович": 18,
-      "Рудой Александр Иванович": 12,
-      "Против всех": 31
+      "gas:candidate-vibid:287200070699": 321,
+      "gas:candidate-vibid:287200070965": 18,
+      "gas:candidate-vibid:287200070369": 12,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2692,10 +2692,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 131,
-      "Петренко Эдуард Петрович": 6,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:287200070699": 131,
+      "gas:candidate-vibid:287200070965": 6,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2745,10 +2745,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 254,
-      "Петренко Эдуард Петрович": 17,
-      "Рудой Александр Иванович": 18,
-      "Против всех": 24
+      "gas:candidate-vibid:287200070699": 254,
+      "gas:candidate-vibid:287200070965": 17,
+      "gas:candidate-vibid:287200070369": 18,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2798,10 +2798,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 45,
-      "Петренко Эдуард Петрович": 3,
-      "Рудой Александр Иванович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:287200070699": 45,
+      "gas:candidate-vibid:287200070965": 3,
+      "gas:candidate-vibid:287200070369": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070682&region=0&sub_region=0&type=429",
@@ -2851,10 +2851,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 823,
-      "Петренко Эдуард Петрович": 57,
-      "Рудой Александр Иванович": 106,
-      "Против всех": 101
+      "gas:candidate-vibid:287200070699": 823,
+      "gas:candidate-vibid:287200070965": 57,
+      "gas:candidate-vibid:287200070369": 106,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070683&region=0&sub_region=0&type=429",
@@ -2904,10 +2904,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 807,
-      "Петренко Эдуард Петрович": 29,
-      "Рудой Александр Иванович": 122,
-      "Против всех": 91
+      "gas:candidate-vibid:287200070699": 807,
+      "gas:candidate-vibid:287200070965": 29,
+      "gas:candidate-vibid:287200070369": 122,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070683&region=0&sub_region=0&type=429",
@@ -2957,10 +2957,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 1131,
-      "Петренко Эдуард Петрович": 43,
-      "Рудой Александр Иванович": 109,
-      "Против всех": 125
+      "gas:candidate-vibid:287200070699": 1131,
+      "gas:candidate-vibid:287200070965": 43,
+      "gas:candidate-vibid:287200070369": 109,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070683&region=0&sub_region=0&type=429",
@@ -3010,10 +3010,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 932,
-      "Петренко Эдуард Петрович": 53,
-      "Рудой Александр Иванович": 159,
-      "Против всех": 57
+      "gas:candidate-vibid:287200070699": 932,
+      "gas:candidate-vibid:287200070965": 53,
+      "gas:candidate-vibid:287200070369": 159,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070683&region=0&sub_region=0&type=429",
@@ -3063,10 +3063,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 169,
-      "Петренко Эдуард Петрович": 6,
-      "Рудой Александр Иванович": 14,
-      "Против всех": 18
+      "gas:candidate-vibid:287200070699": 169,
+      "gas:candidate-vibid:287200070965": 6,
+      "gas:candidate-vibid:287200070369": 14,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070683&region=0&sub_region=0&type=429",
@@ -3116,10 +3116,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 620,
-      "Петренко Эдуард Петрович": 29,
-      "Рудой Александр Иванович": 31,
-      "Против всех": 86
+      "gas:candidate-vibid:287200070699": 620,
+      "gas:candidate-vibid:287200070965": 29,
+      "gas:candidate-vibid:287200070369": 31,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070684&region=0&sub_region=0&type=429",
@@ -3169,10 +3169,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 170,
-      "Петренко Эдуард Петрович": 5,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:287200070699": 170,
+      "gas:candidate-vibid:287200070965": 5,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070684&region=0&sub_region=0&type=429",
@@ -3222,10 +3222,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 239,
-      "Петренко Эдуард Петрович": 2,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:287200070699": 239,
+      "gas:candidate-vibid:287200070965": 2,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070684&region=0&sub_region=0&type=429",
@@ -3275,10 +3275,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 210,
-      "Петренко Эдуард Петрович": 2,
-      "Рудой Александр Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:287200070699": 210,
+      "gas:candidate-vibid:287200070965": 2,
+      "gas:candidate-vibid:287200070369": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070684&region=0&sub_region=0&type=429",
@@ -3328,10 +3328,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 258,
-      "Петренко Эдуард Петрович": 24,
-      "Рудой Александр Иванович": 12,
-      "Против всех": 35
+      "gas:candidate-vibid:287200070699": 258,
+      "gas:candidate-vibid:287200070965": 24,
+      "gas:candidate-vibid:287200070369": 12,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070685&region=0&sub_region=0&type=429",
@@ -3381,10 +3381,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 257,
-      "Петренко Эдуард Петрович": 13,
-      "Рудой Александр Иванович": 15,
-      "Против всех": 34
+      "gas:candidate-vibid:287200070699": 257,
+      "gas:candidate-vibid:287200070965": 13,
+      "gas:candidate-vibid:287200070369": 15,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070685&region=0&sub_region=0&type=429",
@@ -3434,10 +3434,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 213,
-      "Петренко Эдуард Петрович": 4,
-      "Рудой Александр Иванович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:287200070699": 213,
+      "gas:candidate-vibid:287200070965": 4,
+      "gas:candidate-vibid:287200070369": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070685&region=0&sub_region=0&type=429",
@@ -3487,10 +3487,10 @@ export const duma_2003_uik_428_region_87_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Панченко Ирина Александровна": 85,
-      "Петренко Эдуард Петрович": 14,
-      "Рудой Александр Иванович": 9,
-      "Против всех": 18
+      "gas:candidate-vibid:287200070699": 85,
+      "gas:candidate-vibid:287200070965": 14,
+      "gas:candidate-vibid:287200070369": 9,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=872000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=287200070685&region=0&sub_region=0&type=429",

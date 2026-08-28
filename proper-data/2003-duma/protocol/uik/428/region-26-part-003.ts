@@ -42,16 +42,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 23,
-      "Голиков Игорь Николаевич": 34,
-      "Катренко Владимир Семенович": 528,
-      "Малышак Юрий Геннадиевич": 124,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 14,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 3,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113916": 23,
+      "gas:candidate-vibid:1001000136029": 34,
+      "gas:candidate-vibid:1001000225922": 528,
+      "gas:candidate-vibid:1001000121824": 124,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 14,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 3,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -101,16 +101,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 4,
-      "Голиков Игорь Николаевич": 9,
-      "Катренко Владимир Семенович": 173,
-      "Малышак Юрий Геннадиевич": 22,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 1,
-      "Тимофеев Олег Владимирович": 1,
-      "Щербаков Сергей Михайлович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113916": 4,
+      "gas:candidate-vibid:1001000136029": 9,
+      "gas:candidate-vibid:1001000225922": 173,
+      "gas:candidate-vibid:1001000121824": 22,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 1,
+      "gas:candidate-vibid:1001000190322": 1,
+      "gas:candidate-vibid:1001000195055": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -160,16 +160,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 1,
-      "Голиков Игорь Николаевич": 0,
-      "Катренко Владимир Семенович": 89,
-      "Малышак Юрий Геннадиевич": 2,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 1,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113916": 1,
+      "gas:candidate-vibid:1001000136029": 0,
+      "gas:candidate-vibid:1001000225922": 89,
+      "gas:candidate-vibid:1001000121824": 2,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 1,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -219,16 +219,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 0,
-      "Голиков Игорь Николаевич": 0,
-      "Катренко Владимир Семенович": 84,
-      "Малышак Юрий Геннадиевич": 2,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000113916": 0,
+      "gas:candidate-vibid:1001000136029": 0,
+      "gas:candidate-vibid:1001000225922": 84,
+      "gas:candidate-vibid:1001000121824": 2,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -278,16 +278,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 4,
-      "Голиков Игорь Николаевич": 14,
-      "Катренко Владимир Семенович": 211,
-      "Малышак Юрий Геннадиевич": 47,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 3,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000113916": 4,
+      "gas:candidate-vibid:1001000136029": 14,
+      "gas:candidate-vibid:1001000225922": 211,
+      "gas:candidate-vibid:1001000121824": 47,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 3,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -337,16 +337,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 19,
-      "Голиков Игорь Николаевич": 28,
-      "Катренко Владимир Семенович": 263,
-      "Малышак Юрий Геннадиевич": 40,
-      "Печенов Юрий Анатольевич": 3,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 7,
-      "Тимофеев Олег Владимирович": 1,
-      "Щербаков Сергей Михайлович": 3,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113916": 19,
+      "gas:candidate-vibid:1001000136029": 28,
+      "gas:candidate-vibid:1001000225922": 263,
+      "gas:candidate-vibid:1001000121824": 40,
+      "gas:candidate-vibid:326300270736": 3,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 7,
+      "gas:candidate-vibid:1001000190322": 1,
+      "gas:candidate-vibid:1001000195055": 3,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -396,16 +396,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 6,
-      "Голиков Игорь Николаевич": 10,
-      "Катренко Владимир Семенович": 139,
-      "Малышак Юрий Геннадиевич": 7,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 1,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000113916": 6,
+      "gas:candidate-vibid:1001000136029": 10,
+      "gas:candidate-vibid:1001000225922": 139,
+      "gas:candidate-vibid:1001000121824": 7,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 1,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271131&region=0&sub_region=0&type=429",
@@ -455,16 +455,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 8,
-      "Голиков Игорь Николаевич": 59,
-      "Катренко Владимир Семенович": 906,
-      "Малышак Юрий Геннадиевич": 73,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 6,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 13,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000113916": 8,
+      "gas:candidate-vibid:1001000136029": 59,
+      "gas:candidate-vibid:1001000225922": 906,
+      "gas:candidate-vibid:1001000121824": 73,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 6,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 13,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -514,16 +514,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 30,
-      "Голиков Игорь Николаевич": 81,
-      "Катренко Владимир Семенович": 816,
-      "Малышак Юрий Геннадиевич": 125,
-      "Печенов Юрий Анатольевич": 27,
-      "Садовников Сергей Валентинович": 12,
-      "Таран Олег Леонидович": 31,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000113916": 30,
+      "gas:candidate-vibid:1001000136029": 81,
+      "gas:candidate-vibid:1001000225922": 816,
+      "gas:candidate-vibid:1001000121824": 125,
+      "gas:candidate-vibid:326300270736": 27,
+      "gas:candidate-vibid:1001000250443": 12,
+      "gas:candidate-vibid:1001000112198": 31,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -573,16 +573,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 12,
-      "Голиков Игорь Николаевич": 46,
-      "Катренко Владимир Семенович": 324,
-      "Малышак Юрий Геннадиевич": 67,
-      "Печенов Юрий Анатольевич": 13,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 10,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000113916": 12,
+      "gas:candidate-vibid:1001000136029": 46,
+      "gas:candidate-vibid:1001000225922": 324,
+      "gas:candidate-vibid:1001000121824": 67,
+      "gas:candidate-vibid:326300270736": 13,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 10,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -632,16 +632,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 28,
-      "Голиков Игорь Николаевич": 67,
-      "Катренко Владимир Семенович": 689,
-      "Малышак Юрий Геннадиевич": 135,
-      "Печенов Юрий Анатольевич": 17,
-      "Садовников Сергей Валентинович": 23,
-      "Таран Олег Леонидович": 39,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 14,
-      "Против всех": 169
+      "gas:candidate-vibid:1001000113916": 28,
+      "gas:candidate-vibid:1001000136029": 67,
+      "gas:candidate-vibid:1001000225922": 689,
+      "gas:candidate-vibid:1001000121824": 135,
+      "gas:candidate-vibid:326300270736": 17,
+      "gas:candidate-vibid:1001000250443": 23,
+      "gas:candidate-vibid:1001000112198": 39,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 14,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -691,16 +691,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 31,
-      "Голиков Игорь Николаевич": 70,
-      "Катренко Владимир Семенович": 702,
-      "Малышак Юрий Геннадиевич": 160,
-      "Печенов Юрий Анатольевич": 21,
-      "Садовников Сергей Валентинович": 31,
-      "Таран Олег Леонидович": 32,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000113916": 31,
+      "gas:candidate-vibid:1001000136029": 70,
+      "gas:candidate-vibid:1001000225922": 702,
+      "gas:candidate-vibid:1001000121824": 160,
+      "gas:candidate-vibid:326300270736": 21,
+      "gas:candidate-vibid:1001000250443": 31,
+      "gas:candidate-vibid:1001000112198": 32,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -750,16 +750,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 32,
-      "Голиков Игорь Николаевич": 50,
-      "Катренко Владимир Семенович": 449,
-      "Малышак Юрий Геннадиевич": 111,
-      "Печенов Юрий Анатольевич": 16,
-      "Садовников Сергей Валентинович": 15,
-      "Таран Олег Леонидович": 29,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000113916": 32,
+      "gas:candidate-vibid:1001000136029": 50,
+      "gas:candidate-vibid:1001000225922": 449,
+      "gas:candidate-vibid:1001000121824": 111,
+      "gas:candidate-vibid:326300270736": 16,
+      "gas:candidate-vibid:1001000250443": 15,
+      "gas:candidate-vibid:1001000112198": 29,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -809,16 +809,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 40,
-      "Голиков Игорь Николаевич": 82,
-      "Катренко Владимир Семенович": 658,
-      "Малышак Юрий Геннадиевич": 104,
-      "Печенов Юрий Анатольевич": 38,
-      "Садовников Сергей Валентинович": 8,
-      "Таран Олег Леонидович": 42,
-      "Тимофеев Олег Владимирович": 19,
-      "Щербаков Сергей Михайлович": 17,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000113916": 40,
+      "gas:candidate-vibid:1001000136029": 82,
+      "gas:candidate-vibid:1001000225922": 658,
+      "gas:candidate-vibid:1001000121824": 104,
+      "gas:candidate-vibid:326300270736": 38,
+      "gas:candidate-vibid:1001000250443": 8,
+      "gas:candidate-vibid:1001000112198": 42,
+      "gas:candidate-vibid:1001000190322": 19,
+      "gas:candidate-vibid:1001000195055": 17,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -868,16 +868,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 21,
-      "Голиков Игорь Николаевич": 85,
-      "Катренко Владимир Семенович": 654,
-      "Малышак Юрий Геннадиевич": 125,
-      "Печенов Юрий Анатольевич": 30,
-      "Садовников Сергей Валентинович": 6,
-      "Таран Олег Леонидович": 29,
-      "Тимофеев Олег Владимирович": 26,
-      "Щербаков Сергей Михайлович": 14,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000113916": 21,
+      "gas:candidate-vibid:1001000136029": 85,
+      "gas:candidate-vibid:1001000225922": 654,
+      "gas:candidate-vibid:1001000121824": 125,
+      "gas:candidate-vibid:326300270736": 30,
+      "gas:candidate-vibid:1001000250443": 6,
+      "gas:candidate-vibid:1001000112198": 29,
+      "gas:candidate-vibid:1001000190322": 26,
+      "gas:candidate-vibid:1001000195055": 14,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -927,16 +927,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 12,
-      "Голиков Игорь Николаевич": 63,
-      "Катренко Владимир Семенович": 529,
-      "Малышак Юрий Геннадиевич": 138,
-      "Печенов Юрий Анатольевич": 29,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 33,
-      "Тимофеев Олег Владимирович": 14,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000113916": 12,
+      "gas:candidate-vibid:1001000136029": 63,
+      "gas:candidate-vibid:1001000225922": 529,
+      "gas:candidate-vibid:1001000121824": 138,
+      "gas:candidate-vibid:326300270736": 29,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 33,
+      "gas:candidate-vibid:1001000190322": 14,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -986,16 +986,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 21,
-      "Голиков Игорь Николаевич": 70,
-      "Катренко Владимир Семенович": 611,
-      "Малышак Юрий Геннадиевич": 150,
-      "Печенов Юрий Анатольевич": 20,
-      "Садовников Сергей Валентинович": 13,
-      "Таран Олег Леонидович": 29,
-      "Тимофеев Олег Владимирович": 26,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 82
+      "gas:candidate-vibid:1001000113916": 21,
+      "gas:candidate-vibid:1001000136029": 70,
+      "gas:candidate-vibid:1001000225922": 611,
+      "gas:candidate-vibid:1001000121824": 150,
+      "gas:candidate-vibid:326300270736": 20,
+      "gas:candidate-vibid:1001000250443": 13,
+      "gas:candidate-vibid:1001000112198": 29,
+      "gas:candidate-vibid:1001000190322": 26,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1045,16 +1045,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 8,
-      "Голиков Игорь Николаевич": 24,
-      "Катренко Владимир Семенович": 198,
-      "Малышак Юрий Геннадиевич": 21,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 2,
-      "Таран Олег Леонидович": 4,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000113916": 8,
+      "gas:candidate-vibid:1001000136029": 24,
+      "gas:candidate-vibid:1001000225922": 198,
+      "gas:candidate-vibid:1001000121824": 21,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 2,
+      "gas:candidate-vibid:1001000112198": 4,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1104,16 +1104,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 3,
-      "Голиков Игорь Николаевич": 3,
-      "Катренко Владимир Семенович": 495,
-      "Малышак Юрий Геннадиевич": 24,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 4,
-      "Тимофеев Олег Владимирович": 6,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000113916": 3,
+      "gas:candidate-vibid:1001000136029": 3,
+      "gas:candidate-vibid:1001000225922": 495,
+      "gas:candidate-vibid:1001000121824": 24,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 4,
+      "gas:candidate-vibid:1001000190322": 6,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1163,16 +1163,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 1,
-      "Голиков Игорь Николаевич": 11,
-      "Катренко Владимир Семенович": 167,
-      "Малышак Юрий Геннадиевич": 12,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 8,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000113916": 1,
+      "gas:candidate-vibid:1001000136029": 11,
+      "gas:candidate-vibid:1001000225922": 167,
+      "gas:candidate-vibid:1001000121824": 12,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 8,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1222,16 +1222,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 35,
-      "Голиков Игорь Николаевич": 87,
-      "Катренко Владимир Семенович": 702,
-      "Малышак Юрий Геннадиевич": 223,
-      "Печенов Юрий Анатольевич": 12,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 40,
-      "Тимофеев Олег Владимирович": 19,
-      "Щербаков Сергей Михайлович": 22,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000113916": 35,
+      "gas:candidate-vibid:1001000136029": 87,
+      "gas:candidate-vibid:1001000225922": 702,
+      "gas:candidate-vibid:1001000121824": 223,
+      "gas:candidate-vibid:326300270736": 12,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 40,
+      "gas:candidate-vibid:1001000190322": 19,
+      "gas:candidate-vibid:1001000195055": 22,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1281,16 +1281,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 20,
-      "Голиков Игорь Николаевич": 113,
-      "Катренко Владимир Семенович": 932,
-      "Малышак Юрий Геннадиевич": 147,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 7,
-      "Таран Олег Леонидович": 15,
-      "Тимофеев Олег Владимирович": 13,
-      "Щербаков Сергей Михайлович": 15,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000113916": 20,
+      "gas:candidate-vibid:1001000136029": 113,
+      "gas:candidate-vibid:1001000225922": 932,
+      "gas:candidate-vibid:1001000121824": 147,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 7,
+      "gas:candidate-vibid:1001000112198": 15,
+      "gas:candidate-vibid:1001000190322": 13,
+      "gas:candidate-vibid:1001000195055": 15,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1340,16 +1340,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 14,
-      "Голиков Игорь Николаевич": 97,
-      "Катренко Владимир Семенович": 947,
-      "Малышак Юрий Геннадиевич": 117,
-      "Печенов Юрий Анатольевич": 18,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 27,
-      "Тимофеев Олег Владимирович": 6,
-      "Щербаков Сергей Михайлович": 15,
-      "Против всех": 128
+      "gas:candidate-vibid:1001000113916": 14,
+      "gas:candidate-vibid:1001000136029": 97,
+      "gas:candidate-vibid:1001000225922": 947,
+      "gas:candidate-vibid:1001000121824": 117,
+      "gas:candidate-vibid:326300270736": 18,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 27,
+      "gas:candidate-vibid:1001000190322": 6,
+      "gas:candidate-vibid:1001000195055": 15,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1399,16 +1399,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 25,
-      "Голиков Игорь Николаевич": 54,
-      "Катренко Владимир Семенович": 419,
-      "Малышак Юрий Геннадиевич": 82,
-      "Печенов Юрий Анатольевич": 8,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 12,
-      "Тимофеев Олег Владимирович": 5,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000113916": 25,
+      "gas:candidate-vibid:1001000136029": 54,
+      "gas:candidate-vibid:1001000225922": 419,
+      "gas:candidate-vibid:1001000121824": 82,
+      "gas:candidate-vibid:326300270736": 8,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 12,
+      "gas:candidate-vibid:1001000190322": 5,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1458,16 +1458,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 14,
-      "Голиков Игорь Николаевич": 27,
-      "Катренко Владимир Семенович": 235,
-      "Малышак Юрий Геннадиевич": 135,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 5,
-      "Тимофеев Олег Владимирович": 10,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000113916": 14,
+      "gas:candidate-vibid:1001000136029": 27,
+      "gas:candidate-vibid:1001000225922": 235,
+      "gas:candidate-vibid:1001000121824": 135,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 5,
+      "gas:candidate-vibid:1001000190322": 10,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1517,16 +1517,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 36,
-      "Голиков Игорь Николаевич": 80,
-      "Катренко Владимир Семенович": 550,
-      "Малышак Юрий Геннадиевич": 99,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 16,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000113916": 36,
+      "gas:candidate-vibid:1001000136029": 80,
+      "gas:candidate-vibid:1001000225922": 550,
+      "gas:candidate-vibid:1001000121824": 99,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 16,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1576,16 +1576,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 9,
-      "Голиков Игорь Николаевич": 45,
-      "Катренко Владимир Семенович": 491,
-      "Малышак Юрий Геннадиевич": 106,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 12,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000113916": 9,
+      "gas:candidate-vibid:1001000136029": 45,
+      "gas:candidate-vibid:1001000225922": 491,
+      "gas:candidate-vibid:1001000121824": 106,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 12,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1635,16 +1635,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 8,
-      "Голиков Игорь Николаевич": 8,
-      "Катренко Владимир Семенович": 136,
-      "Малышак Юрий Геннадиевич": 8,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 4,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113916": 8,
+      "gas:candidate-vibid:1001000136029": 8,
+      "gas:candidate-vibid:1001000225922": 136,
+      "gas:candidate-vibid:1001000121824": 8,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 4,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1694,16 +1694,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 6,
-      "Голиков Игорь Николаевич": 4,
-      "Катренко Владимир Семенович": 110,
-      "Малышак Юрий Геннадиевич": 8,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113916": 6,
+      "gas:candidate-vibid:1001000136029": 4,
+      "gas:candidate-vibid:1001000225922": 110,
+      "gas:candidate-vibid:1001000121824": 8,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1753,16 +1753,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 1,
-      "Голиков Игорь Николаевич": 17,
-      "Катренко Владимир Семенович": 70,
-      "Малышак Юрий Геннадиевич": 7,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000113916": 1,
+      "gas:candidate-vibid:1001000136029": 17,
+      "gas:candidate-vibid:1001000225922": 70,
+      "gas:candidate-vibid:1001000121824": 7,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1812,16 +1812,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 28,
-      "Голиков Игорь Николаевич": 72,
-      "Катренко Владимир Семенович": 838,
-      "Малышак Юрий Геннадиевич": 150,
-      "Печенов Юрий Анатольевич": 17,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 24,
-      "Тимофеев Олег Владимирович": 6,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000113916": 28,
+      "gas:candidate-vibid:1001000136029": 72,
+      "gas:candidate-vibid:1001000225922": 838,
+      "gas:candidate-vibid:1001000121824": 150,
+      "gas:candidate-vibid:326300270736": 17,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 24,
+      "gas:candidate-vibid:1001000190322": 6,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1871,16 +1871,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 15,
-      "Голиков Игорь Николаевич": 65,
-      "Катренко Владимир Семенович": 606,
-      "Малышак Юрий Геннадиевич": 84,
-      "Печенов Юрий Анатольевич": 15,
-      "Садовников Сергей Валентинович": 6,
-      "Таран Олег Леонидович": 10,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113916": 15,
+      "gas:candidate-vibid:1001000136029": 65,
+      "gas:candidate-vibid:1001000225922": 606,
+      "gas:candidate-vibid:1001000121824": 84,
+      "gas:candidate-vibid:326300270736": 15,
+      "gas:candidate-vibid:1001000250443": 6,
+      "gas:candidate-vibid:1001000112198": 10,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1930,16 +1930,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 18,
-      "Голиков Игорь Николаевич": 37,
-      "Катренко Владимир Семенович": 457,
-      "Малышак Юрий Геннадиевич": 97,
-      "Печенов Юрий Анатольевич": 15,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 18,
-      "Тимофеев Олег Владимирович": 10,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000113916": 18,
+      "gas:candidate-vibid:1001000136029": 37,
+      "gas:candidate-vibid:1001000225922": 457,
+      "gas:candidate-vibid:1001000121824": 97,
+      "gas:candidate-vibid:326300270736": 15,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 18,
+      "gas:candidate-vibid:1001000190322": 10,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -1989,16 +1989,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 124,
-      "Голиков Игорь Николаевич": 20,
-      "Катренко Владимир Семенович": 291,
-      "Малышак Юрий Геннадиевич": 29,
-      "Печенов Юрий Анатольевич": 3,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 3,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113916": 124,
+      "gas:candidate-vibid:1001000136029": 20,
+      "gas:candidate-vibid:1001000225922": 291,
+      "gas:candidate-vibid:1001000121824": 29,
+      "gas:candidate-vibid:326300270736": 3,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 3,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2048,16 +2048,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 11,
-      "Голиков Игорь Николаевич": 16,
-      "Катренко Владимир Семенович": 490,
-      "Малышак Юрий Геннадиевич": 55,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 2,
-      "Таран Олег Леонидович": 5,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000113916": 11,
+      "gas:candidate-vibid:1001000136029": 16,
+      "gas:candidate-vibid:1001000225922": 490,
+      "gas:candidate-vibid:1001000121824": 55,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 2,
+      "gas:candidate-vibid:1001000112198": 5,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2107,16 +2107,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 4,
-      "Голиков Игорь Николаевич": 8,
-      "Катренко Владимир Семенович": 241,
-      "Малышак Юрий Геннадиевич": 32,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 2,
-      "Таран Олег Леонидович": 1,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113916": 4,
+      "gas:candidate-vibid:1001000136029": 8,
+      "gas:candidate-vibid:1001000225922": 241,
+      "gas:candidate-vibid:1001000121824": 32,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 2,
+      "gas:candidate-vibid:1001000112198": 1,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2166,16 +2166,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 8,
-      "Голиков Игорь Николаевич": 53,
-      "Катренко Владимир Семенович": 585,
-      "Малышак Юрий Геннадиевич": 152,
-      "Печенов Юрий Анатольевич": 36,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 8,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 21,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113916": 8,
+      "gas:candidate-vibid:1001000136029": 53,
+      "gas:candidate-vibid:1001000225922": 585,
+      "gas:candidate-vibid:1001000121824": 152,
+      "gas:candidate-vibid:326300270736": 36,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 8,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 21,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2225,16 +2225,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 14,
-      "Голиков Игорь Николаевич": 17,
-      "Катренко Владимир Семенович": 268,
-      "Малышак Юрий Геннадиевич": 96,
-      "Печенов Юрий Анатольевич": 3,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 13,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000113916": 14,
+      "gas:candidate-vibid:1001000136029": 17,
+      "gas:candidate-vibid:1001000225922": 268,
+      "gas:candidate-vibid:1001000121824": 96,
+      "gas:candidate-vibid:326300270736": 3,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 13,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2284,16 +2284,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 6,
-      "Голиков Игорь Николаевич": 24,
-      "Катренко Владимир Семенович": 247,
-      "Малышак Юрий Геннадиевич": 47,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 4,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113916": 6,
+      "gas:candidate-vibid:1001000136029": 24,
+      "gas:candidate-vibid:1001000225922": 247,
+      "gas:candidate-vibid:1001000121824": 47,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 4,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2343,16 +2343,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 3,
-      "Голиков Игорь Николаевич": 1,
-      "Катренко Владимир Семенович": 98,
-      "Малышак Юрий Геннадиевич": 16,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 1,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113916": 3,
+      "gas:candidate-vibid:1001000136029": 1,
+      "gas:candidate-vibid:1001000225922": 98,
+      "gas:candidate-vibid:1001000121824": 16,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 1,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2402,16 +2402,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 2,
-      "Голиков Игорь Николаевич": 3,
-      "Катренко Владимир Семенович": 38,
-      "Малышак Юрий Геннадиевич": 7,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113916": 2,
+      "gas:candidate-vibid:1001000136029": 3,
+      "gas:candidate-vibid:1001000225922": 38,
+      "gas:candidate-vibid:1001000121824": 7,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2461,16 +2461,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 1,
-      "Голиков Игорь Николаевич": 21,
-      "Катренко Владимир Семенович": 206,
-      "Малышак Юрий Геннадиевич": 10,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 5,
-      "Щербаков Сергей Михайлович": 3,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000113916": 1,
+      "gas:candidate-vibid:1001000136029": 21,
+      "gas:candidate-vibid:1001000225922": 206,
+      "gas:candidate-vibid:1001000121824": 10,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 5,
+      "gas:candidate-vibid:1001000195055": 3,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2520,16 +2520,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 10,
-      "Голиков Игорь Николаевич": 15,
-      "Катренко Владимир Семенович": 212,
-      "Малышак Юрий Геннадиевич": 21,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 4,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000113916": 10,
+      "gas:candidate-vibid:1001000136029": 15,
+      "gas:candidate-vibid:1001000225922": 212,
+      "gas:candidate-vibid:1001000121824": 21,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 4,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2579,16 +2579,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 35,
-      "Голиков Игорь Николаевич": 12,
-      "Катренко Владимир Семенович": 290,
-      "Малышак Юрий Геннадиевич": 29,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 2,
-      "Таран Олег Леонидович": 3,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113916": 35,
+      "gas:candidate-vibid:1001000136029": 12,
+      "gas:candidate-vibid:1001000225922": 290,
+      "gas:candidate-vibid:1001000121824": 29,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 2,
+      "gas:candidate-vibid:1001000112198": 3,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2638,16 +2638,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 19,
-      "Голиков Игорь Николаевич": 41,
-      "Катренко Владимир Семенович": 191,
-      "Малышак Юрий Геннадиевич": 26,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 3,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000113916": 19,
+      "gas:candidate-vibid:1001000136029": 41,
+      "gas:candidate-vibid:1001000225922": 191,
+      "gas:candidate-vibid:1001000121824": 26,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 3,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2697,16 +2697,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 20,
-      "Голиков Игорь Николаевич": 56,
-      "Катренко Владимир Семенович": 488,
-      "Малышак Юрий Геннадиевич": 92,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 7,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000113916": 20,
+      "gas:candidate-vibid:1001000136029": 56,
+      "gas:candidate-vibid:1001000225922": 488,
+      "gas:candidate-vibid:1001000121824": 92,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 7,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2756,16 +2756,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 74,
-      "Голиков Игорь Николаевич": 93,
-      "Катренко Владимир Семенович": 716,
-      "Малышак Юрий Геннадиевич": 121,
-      "Печенов Юрий Анатольевич": 13,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 30,
-      "Тимофеев Олег Владимирович": 15,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000113916": 74,
+      "gas:candidate-vibid:1001000136029": 93,
+      "gas:candidate-vibid:1001000225922": 716,
+      "gas:candidate-vibid:1001000121824": 121,
+      "gas:candidate-vibid:326300270736": 13,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 30,
+      "gas:candidate-vibid:1001000190322": 15,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2815,16 +2815,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 27,
-      "Голиков Игорь Николаевич": 44,
-      "Катренко Владимир Семенович": 447,
-      "Малышак Юрий Геннадиевич": 79,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 12,
-      "Таран Олег Леонидович": 16,
-      "Тимофеев Олег Владимирович": 12,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000113916": 27,
+      "gas:candidate-vibid:1001000136029": 44,
+      "gas:candidate-vibid:1001000225922": 447,
+      "gas:candidate-vibid:1001000121824": 79,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 12,
+      "gas:candidate-vibid:1001000112198": 16,
+      "gas:candidate-vibid:1001000190322": 12,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2874,16 +2874,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 23,
-      "Голиков Игорь Николаевич": 17,
-      "Катренко Владимир Семенович": 340,
-      "Малышак Юрий Геннадиевич": 48,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 3,
-      "Тимофеев Олег Владимирович": 3,
-      "Щербаков Сергей Михайлович": 1,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000113916": 23,
+      "gas:candidate-vibid:1001000136029": 17,
+      "gas:candidate-vibid:1001000225922": 340,
+      "gas:candidate-vibid:1001000121824": 48,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 3,
+      "gas:candidate-vibid:1001000190322": 3,
+      "gas:candidate-vibid:1001000195055": 1,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2933,16 +2933,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 17,
-      "Голиков Игорь Николаевич": 90,
-      "Катренко Владимир Семенович": 623,
-      "Малышак Юрий Геннадиевич": 81,
-      "Печенов Юрий Анатольевич": 21,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 27,
-      "Тимофеев Олег Владимирович": 19,
-      "Щербаков Сергей Михайлович": 14,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000113916": 17,
+      "gas:candidate-vibid:1001000136029": 90,
+      "gas:candidate-vibid:1001000225922": 623,
+      "gas:candidate-vibid:1001000121824": 81,
+      "gas:candidate-vibid:326300270736": 21,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 27,
+      "gas:candidate-vibid:1001000190322": 19,
+      "gas:candidate-vibid:1001000195055": 14,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -2992,16 +2992,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 16,
-      "Голиков Игорь Николаевич": 37,
-      "Катренко Владимир Семенович": 353,
-      "Малышак Юрий Геннадиевич": 67,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 2,
-      "Таран Олег Леонидович": 14,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000113916": 16,
+      "gas:candidate-vibid:1001000136029": 37,
+      "gas:candidate-vibid:1001000225922": 353,
+      "gas:candidate-vibid:1001000121824": 67,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 2,
+      "gas:candidate-vibid:1001000112198": 14,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271132&region=0&sub_region=0&type=429",
@@ -3051,16 +3051,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 30,
-      "Голиков Игорь Николаевич": 81,
-      "Катренко Владимир Семенович": 436,
-      "Малышак Юрий Геннадиевич": 76,
-      "Печенов Юрий Анатольевич": 10,
-      "Садовников Сергей Валентинович": 14,
-      "Таран Олег Леонидович": 31,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000113916": 30,
+      "gas:candidate-vibid:1001000136029": 81,
+      "gas:candidate-vibid:1001000225922": 436,
+      "gas:candidate-vibid:1001000121824": 76,
+      "gas:candidate-vibid:326300270736": 10,
+      "gas:candidate-vibid:1001000250443": 14,
+      "gas:candidate-vibid:1001000112198": 31,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3110,16 +3110,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 31,
-      "Голиков Игорь Николаевич": 72,
-      "Катренко Владимир Семенович": 550,
-      "Малышак Юрий Геннадиевич": 136,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 15,
-      "Таран Олег Леонидович": 62,
-      "Тимофеев Олег Владимирович": 33,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000113916": 31,
+      "gas:candidate-vibid:1001000136029": 72,
+      "gas:candidate-vibid:1001000225922": 550,
+      "gas:candidate-vibid:1001000121824": 136,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 15,
+      "gas:candidate-vibid:1001000112198": 62,
+      "gas:candidate-vibid:1001000190322": 33,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3169,16 +3169,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 85,
-      "Голиков Игорь Николаевич": 114,
-      "Катренко Владимир Семенович": 578,
-      "Малышак Юрий Геннадиевич": 187,
-      "Печенов Юрий Анатольевич": 21,
-      "Садовников Сергей Валентинович": 17,
-      "Таран Олег Леонидович": 84,
-      "Тимофеев Олег Владимирович": 27,
-      "Щербаков Сергей Михайлович": 29,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000113916": 85,
+      "gas:candidate-vibid:1001000136029": 114,
+      "gas:candidate-vibid:1001000225922": 578,
+      "gas:candidate-vibid:1001000121824": 187,
+      "gas:candidate-vibid:326300270736": 21,
+      "gas:candidate-vibid:1001000250443": 17,
+      "gas:candidate-vibid:1001000112198": 84,
+      "gas:candidate-vibid:1001000190322": 27,
+      "gas:candidate-vibid:1001000195055": 29,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3228,16 +3228,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 37,
-      "Голиков Игорь Николаевич": 81,
-      "Катренко Владимир Семенович": 624,
-      "Малышак Юрий Геннадиевич": 164,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 26,
-      "Тимофеев Олег Владимирович": 12,
-      "Щербаков Сергей Михайлович": 18,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113916": 37,
+      "gas:candidate-vibid:1001000136029": 81,
+      "gas:candidate-vibid:1001000225922": 624,
+      "gas:candidate-vibid:1001000121824": 164,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 26,
+      "gas:candidate-vibid:1001000190322": 12,
+      "gas:candidate-vibid:1001000195055": 18,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3287,16 +3287,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 33,
-      "Голиков Игорь Николаевич": 50,
-      "Катренко Владимир Семенович": 573,
-      "Малышак Юрий Геннадиевич": 115,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 8,
-      "Таран Олег Леонидович": 17,
-      "Тимофеев Олег Владимирович": 16,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000113916": 33,
+      "gas:candidate-vibid:1001000136029": 50,
+      "gas:candidate-vibid:1001000225922": 573,
+      "gas:candidate-vibid:1001000121824": 115,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 8,
+      "gas:candidate-vibid:1001000112198": 17,
+      "gas:candidate-vibid:1001000190322": 16,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3346,16 +3346,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 27,
-      "Голиков Игорь Николаевич": 34,
-      "Катренко Владимир Семенович": 403,
-      "Малышак Юрий Геннадиевич": 62,
-      "Печенов Юрий Анатольевич": 9,
-      "Садовников Сергей Валентинович": 6,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000113916": 27,
+      "gas:candidate-vibid:1001000136029": 34,
+      "gas:candidate-vibid:1001000225922": 403,
+      "gas:candidate-vibid:1001000121824": 62,
+      "gas:candidate-vibid:326300270736": 9,
+      "gas:candidate-vibid:1001000250443": 6,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3405,16 +3405,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 16,
-      "Голиков Игорь Николаевич": 35,
-      "Катренко Владимир Семенович": 217,
-      "Малышак Юрий Геннадиевич": 26,
-      "Печенов Юрий Анатольевич": 9,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 8,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000113916": 16,
+      "gas:candidate-vibid:1001000136029": 35,
+      "gas:candidate-vibid:1001000225922": 217,
+      "gas:candidate-vibid:1001000121824": 26,
+      "gas:candidate-vibid:326300270736": 9,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 8,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3464,16 +3464,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 21,
-      "Голиков Игорь Николаевич": 46,
-      "Катренко Владимир Семенович": 176,
-      "Малышак Юрий Геннадиевич": 20,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 9,
-      "Тимофеев Олег Владимирович": 5,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000113916": 21,
+      "gas:candidate-vibid:1001000136029": 46,
+      "gas:candidate-vibid:1001000225922": 176,
+      "gas:candidate-vibid:1001000121824": 20,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 9,
+      "gas:candidate-vibid:1001000190322": 5,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3523,16 +3523,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 57,
-      "Голиков Игорь Николаевич": 95,
-      "Катренко Владимир Семенович": 534,
-      "Малышак Юрий Геннадиевич": 147,
-      "Печенов Юрий Анатольевич": 9,
-      "Садовников Сергей Валентинович": 22,
-      "Таран Олег Леонидович": 57,
-      "Тимофеев Олег Владимирович": 19,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113916": 57,
+      "gas:candidate-vibid:1001000136029": 95,
+      "gas:candidate-vibid:1001000225922": 534,
+      "gas:candidate-vibid:1001000121824": 147,
+      "gas:candidate-vibid:326300270736": 9,
+      "gas:candidate-vibid:1001000250443": 22,
+      "gas:candidate-vibid:1001000112198": 57,
+      "gas:candidate-vibid:1001000190322": 19,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3582,16 +3582,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 30,
-      "Голиков Игорь Николаевич": 75,
-      "Катренко Владимир Семенович": 325,
-      "Малышак Юрий Геннадиевич": 101,
-      "Печенов Юрий Анатольевич": 8,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 47,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000113916": 30,
+      "gas:candidate-vibid:1001000136029": 75,
+      "gas:candidate-vibid:1001000225922": 325,
+      "gas:candidate-vibid:1001000121824": 101,
+      "gas:candidate-vibid:326300270736": 8,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 47,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3641,16 +3641,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 46,
-      "Голиков Игорь Николаевич": 58,
-      "Катренко Владимир Семенович": 369,
-      "Малышак Юрий Геннадиевич": 133,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 45,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000113916": 46,
+      "gas:candidate-vibid:1001000136029": 58,
+      "gas:candidate-vibid:1001000225922": 369,
+      "gas:candidate-vibid:1001000121824": 133,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 45,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3700,16 +3700,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 5,
-      "Голиков Игорь Николаевич": 5,
-      "Катренко Владимир Семенович": 62,
-      "Малышак Юрий Геннадиевич": 8,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 4,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000113916": 5,
+      "gas:candidate-vibid:1001000136029": 5,
+      "gas:candidate-vibid:1001000225922": 62,
+      "gas:candidate-vibid:1001000121824": 8,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 4,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3759,16 +3759,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 54,
-      "Голиков Игорь Николаевич": 99,
-      "Катренко Владимир Семенович": 407,
-      "Малышак Юрий Геннадиевич": 128,
-      "Печенов Юрий Анатольевич": 14,
-      "Садовников Сергей Валентинович": 17,
-      "Таран Олег Леонидович": 60,
-      "Тимофеев Олег Владимирович": 17,
-      "Щербаков Сергей Михайлович": 16,
-      "Против всех": 191
+      "gas:candidate-vibid:1001000113916": 54,
+      "gas:candidate-vibid:1001000136029": 99,
+      "gas:candidate-vibid:1001000225922": 407,
+      "gas:candidate-vibid:1001000121824": 128,
+      "gas:candidate-vibid:326300270736": 14,
+      "gas:candidate-vibid:1001000250443": 17,
+      "gas:candidate-vibid:1001000112198": 60,
+      "gas:candidate-vibid:1001000190322": 17,
+      "gas:candidate-vibid:1001000195055": 16,
+      "special:against-all": 191
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3818,16 +3818,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 91,
-      "Голиков Игорь Николаевич": 95,
-      "Катренко Владимир Семенович": 607,
-      "Малышак Юрий Геннадиевич": 236,
-      "Печенов Юрий Анатольевич": 15,
-      "Садовников Сергей Валентинович": 14,
-      "Таран Олег Леонидович": 80,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113916": 91,
+      "gas:candidate-vibid:1001000136029": 95,
+      "gas:candidate-vibid:1001000225922": 607,
+      "gas:candidate-vibid:1001000121824": 236,
+      "gas:candidate-vibid:326300270736": 15,
+      "gas:candidate-vibid:1001000250443": 14,
+      "gas:candidate-vibid:1001000112198": 80,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3877,16 +3877,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 2,
-      "Голиков Игорь Николаевич": 0,
-      "Катренко Владимир Семенович": 29,
-      "Малышак Юрий Геннадиевич": 2,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 1,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113916": 2,
+      "gas:candidate-vibid:1001000136029": 0,
+      "gas:candidate-vibid:1001000225922": 29,
+      "gas:candidate-vibid:1001000121824": 2,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 1,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3936,16 +3936,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 12,
-      "Голиков Игорь Николаевич": 3,
-      "Катренко Владимир Семенович": 68,
-      "Малышак Юрий Геннадиевич": 15,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 8,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113916": 12,
+      "gas:candidate-vibid:1001000136029": 3,
+      "gas:candidate-vibid:1001000225922": 68,
+      "gas:candidate-vibid:1001000121824": 15,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 8,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -3995,16 +3995,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 34,
-      "Голиков Игорь Николаевич": 35,
-      "Катренко Владимир Семенович": 358,
-      "Малышак Юрий Геннадиевич": 131,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 14,
-      "Таран Олег Леонидович": 39,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000113916": 34,
+      "gas:candidate-vibid:1001000136029": 35,
+      "gas:candidate-vibid:1001000225922": 358,
+      "gas:candidate-vibid:1001000121824": 131,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 14,
+      "gas:candidate-vibid:1001000112198": 39,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4054,16 +4054,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 33,
-      "Голиков Игорь Николаевич": 88,
-      "Катренко Владимир Семенович": 422,
-      "Малышак Юрий Геннадиевич": 155,
-      "Печенов Юрий Анатольевич": 10,
-      "Садовников Сергей Валентинович": 16,
-      "Таран Олег Леонидович": 59,
-      "Тимофеев Олег Владимирович": 22,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000113916": 33,
+      "gas:candidate-vibid:1001000136029": 88,
+      "gas:candidate-vibid:1001000225922": 422,
+      "gas:candidate-vibid:1001000121824": 155,
+      "gas:candidate-vibid:326300270736": 10,
+      "gas:candidate-vibid:1001000250443": 16,
+      "gas:candidate-vibid:1001000112198": 59,
+      "gas:candidate-vibid:1001000190322": 22,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4113,16 +4113,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 47,
-      "Голиков Игорь Николаевич": 68,
-      "Катренко Владимир Семенович": 437,
-      "Малышак Юрий Геннадиевич": 238,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 18,
-      "Таран Олег Леонидович": 91,
-      "Тимофеев Олег Владимирович": 20,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 149
+      "gas:candidate-vibid:1001000113916": 47,
+      "gas:candidate-vibid:1001000136029": 68,
+      "gas:candidate-vibid:1001000225922": 437,
+      "gas:candidate-vibid:1001000121824": 238,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 18,
+      "gas:candidate-vibid:1001000112198": 91,
+      "gas:candidate-vibid:1001000190322": 20,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4172,16 +4172,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 44,
-      "Голиков Игорь Николаевич": 83,
-      "Катренко Владимир Семенович": 480,
-      "Малышак Юрий Геннадиевич": 248,
-      "Печенов Юрий Анатольевич": 12,
-      "Садовников Сергей Валентинович": 14,
-      "Таран Олег Леонидович": 66,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000113916": 44,
+      "gas:candidate-vibid:1001000136029": 83,
+      "gas:candidate-vibid:1001000225922": 480,
+      "gas:candidate-vibid:1001000121824": 248,
+      "gas:candidate-vibid:326300270736": 12,
+      "gas:candidate-vibid:1001000250443": 14,
+      "gas:candidate-vibid:1001000112198": 66,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4231,16 +4231,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 32,
-      "Голиков Игорь Николаевич": 51,
-      "Катренко Владимир Семенович": 519,
-      "Малышак Юрий Геннадиевич": 133,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 17,
-      "Таран Олег Леонидович": 77,
-      "Тимофеев Олег Владимирович": 13,
-      "Щербаков Сергей Михайлович": 21,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000113916": 32,
+      "gas:candidate-vibid:1001000136029": 51,
+      "gas:candidate-vibid:1001000225922": 519,
+      "gas:candidate-vibid:1001000121824": 133,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 17,
+      "gas:candidate-vibid:1001000112198": 77,
+      "gas:candidate-vibid:1001000190322": 13,
+      "gas:candidate-vibid:1001000195055": 21,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4290,16 +4290,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 42,
-      "Голиков Игорь Николаевич": 54,
-      "Катренко Владимир Семенович": 370,
-      "Малышак Юрий Геннадиевич": 147,
-      "Печенов Юрий Анатольевич": 8,
-      "Садовников Сергей Валентинович": 17,
-      "Таран Олег Леонидович": 64,
-      "Тимофеев Олег Владимирович": 25,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000113916": 42,
+      "gas:candidate-vibid:1001000136029": 54,
+      "gas:candidate-vibid:1001000225922": 370,
+      "gas:candidate-vibid:1001000121824": 147,
+      "gas:candidate-vibid:326300270736": 8,
+      "gas:candidate-vibid:1001000250443": 17,
+      "gas:candidate-vibid:1001000112198": 64,
+      "gas:candidate-vibid:1001000190322": 25,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4349,16 +4349,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 38,
-      "Голиков Игорь Николаевич": 69,
-      "Катренко Владимир Семенович": 487,
-      "Малышак Юрий Геннадиевич": 198,
-      "Печенов Юрий Анатольевич": 8,
-      "Садовников Сергей Валентинович": 13,
-      "Таран Олег Леонидович": 51,
-      "Тимофеев Олег Владимирович": 19,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 168
+      "gas:candidate-vibid:1001000113916": 38,
+      "gas:candidate-vibid:1001000136029": 69,
+      "gas:candidate-vibid:1001000225922": 487,
+      "gas:candidate-vibid:1001000121824": 198,
+      "gas:candidate-vibid:326300270736": 8,
+      "gas:candidate-vibid:1001000250443": 13,
+      "gas:candidate-vibid:1001000112198": 51,
+      "gas:candidate-vibid:1001000190322": 19,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 168
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4408,16 +4408,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 5,
-      "Голиков Игорь Николаевич": 11,
-      "Катренко Владимир Семенович": 40,
-      "Малышак Юрий Геннадиевич": 10,
-      "Печенов Юрий Анатольевич": 3,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 3,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 1,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000113916": 5,
+      "gas:candidate-vibid:1001000136029": 11,
+      "gas:candidate-vibid:1001000225922": 40,
+      "gas:candidate-vibid:1001000121824": 10,
+      "gas:candidate-vibid:326300270736": 3,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 3,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 1,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4467,16 +4467,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 30,
-      "Голиков Игорь Николаевич": 46,
-      "Катренко Владимир Семенович": 298,
-      "Малышак Юрий Геннадиевич": 89,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 8,
-      "Таран Олег Леонидович": 24,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000113916": 30,
+      "gas:candidate-vibid:1001000136029": 46,
+      "gas:candidate-vibid:1001000225922": 298,
+      "gas:candidate-vibid:1001000121824": 89,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 8,
+      "gas:candidate-vibid:1001000112198": 24,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4526,16 +4526,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 4,
-      "Голиков Игорь Николаевич": 8,
-      "Катренко Владимир Семенович": 80,
-      "Малышак Юрий Геннадиевич": 23,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000113916": 4,
+      "gas:candidate-vibid:1001000136029": 8,
+      "gas:candidate-vibid:1001000225922": 80,
+      "gas:candidate-vibid:1001000121824": 23,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4585,16 +4585,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 34,
-      "Голиков Игорь Николаевич": 70,
-      "Катренко Владимир Семенович": 479,
-      "Малышак Юрий Геннадиевич": 260,
-      "Печенов Юрий Анатольевич": 9,
-      "Садовников Сергей Валентинович": 15,
-      "Таран Олег Леонидович": 66,
-      "Тимофеев Олег Владимирович": 16,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000113916": 34,
+      "gas:candidate-vibid:1001000136029": 70,
+      "gas:candidate-vibid:1001000225922": 479,
+      "gas:candidate-vibid:1001000121824": 260,
+      "gas:candidate-vibid:326300270736": 9,
+      "gas:candidate-vibid:1001000250443": 15,
+      "gas:candidate-vibid:1001000112198": 66,
+      "gas:candidate-vibid:1001000190322": 16,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4644,16 +4644,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 21,
-      "Голиков Игорь Николаевич": 52,
-      "Катренко Владимир Семенович": 388,
-      "Малышак Юрий Геннадиевич": 250,
-      "Печенов Юрий Анатольевич": 10,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 65,
-      "Тимофеев Олег Владимирович": 14,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000113916": 21,
+      "gas:candidate-vibid:1001000136029": 52,
+      "gas:candidate-vibid:1001000225922": 388,
+      "gas:candidate-vibid:1001000121824": 250,
+      "gas:candidate-vibid:326300270736": 10,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 65,
+      "gas:candidate-vibid:1001000190322": 14,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4703,16 +4703,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 34,
-      "Голиков Игорь Николаевич": 46,
-      "Катренко Владимир Семенович": 554,
-      "Малышак Юрий Геннадиевич": 193,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 47,
-      "Тимофеев Олег Владимирович": 24,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113916": 34,
+      "gas:candidate-vibid:1001000136029": 46,
+      "gas:candidate-vibid:1001000225922": 554,
+      "gas:candidate-vibid:1001000121824": 193,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 47,
+      "gas:candidate-vibid:1001000190322": 24,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4762,16 +4762,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 33,
-      "Голиков Игорь Николаевич": 64,
-      "Катренко Владимир Семенович": 461,
-      "Малышак Юрий Геннадиевич": 240,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 8,
-      "Таран Олег Леонидович": 67,
-      "Тимофеев Олег Владимирович": 15,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000113916": 33,
+      "gas:candidate-vibid:1001000136029": 64,
+      "gas:candidate-vibid:1001000225922": 461,
+      "gas:candidate-vibid:1001000121824": 240,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 8,
+      "gas:candidate-vibid:1001000112198": 67,
+      "gas:candidate-vibid:1001000190322": 15,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4821,16 +4821,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 25,
-      "Голиков Игорь Николаевич": 44,
-      "Катренко Владимир Семенович": 397,
-      "Малышак Юрий Геннадиевич": 177,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 21,
-      "Таран Олег Леонидович": 43,
-      "Тимофеев Олег Владимирович": 22,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000113916": 25,
+      "gas:candidate-vibid:1001000136029": 44,
+      "gas:candidate-vibid:1001000225922": 397,
+      "gas:candidate-vibid:1001000121824": 177,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 21,
+      "gas:candidate-vibid:1001000112198": 43,
+      "gas:candidate-vibid:1001000190322": 22,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4880,16 +4880,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 60,
-      "Голиков Игорь Николаевич": 73,
-      "Катренко Владимир Семенович": 540,
-      "Малышак Юрий Геннадиевич": 156,
-      "Печенов Юрий Анатольевич": 3,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 44,
-      "Тимофеев Олег Владимирович": 10,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000113916": 60,
+      "gas:candidate-vibid:1001000136029": 73,
+      "gas:candidate-vibid:1001000225922": 540,
+      "gas:candidate-vibid:1001000121824": 156,
+      "gas:candidate-vibid:326300270736": 3,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 44,
+      "gas:candidate-vibid:1001000190322": 10,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4939,16 +4939,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 35,
-      "Голиков Игорь Николаевич": 69,
-      "Катренко Владимир Семенович": 511,
-      "Малышак Юрий Геннадиевич": 107,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 12,
-      "Таран Олег Леонидович": 20,
-      "Тимофеев Олег Владимирович": 13,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000113916": 35,
+      "gas:candidate-vibid:1001000136029": 69,
+      "gas:candidate-vibid:1001000225922": 511,
+      "gas:candidate-vibid:1001000121824": 107,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 12,
+      "gas:candidate-vibid:1001000112198": 20,
+      "gas:candidate-vibid:1001000190322": 13,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -4998,16 +4998,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 48,
-      "Голиков Игорь Николаевич": 60,
-      "Катренко Владимир Семенович": 390,
-      "Малышак Юрий Геннадиевич": 75,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 19,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000113916": 48,
+      "gas:candidate-vibid:1001000136029": 60,
+      "gas:candidate-vibid:1001000225922": 390,
+      "gas:candidate-vibid:1001000121824": 75,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 19,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5057,16 +5057,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 35,
-      "Голиков Игорь Николаевич": 42,
-      "Катренко Владимир Семенович": 392,
-      "Малышак Юрий Геннадиевич": 107,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 8,
-      "Таран Олег Леонидович": 22,
-      "Тимофеев Олег Владимирович": 7,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000113916": 35,
+      "gas:candidate-vibid:1001000136029": 42,
+      "gas:candidate-vibid:1001000225922": 392,
+      "gas:candidate-vibid:1001000121824": 107,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 8,
+      "gas:candidate-vibid:1001000112198": 22,
+      "gas:candidate-vibid:1001000190322": 7,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5116,16 +5116,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 24,
-      "Голиков Игорь Николаевич": 54,
-      "Катренко Владимир Семенович": 551,
-      "Малышак Юрий Геннадиевич": 108,
-      "Печенов Юрий Анатольевич": 12,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 24,
-      "Тимофеев Олег Владимирович": 6,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000113916": 24,
+      "gas:candidate-vibid:1001000136029": 54,
+      "gas:candidate-vibid:1001000225922": 551,
+      "gas:candidate-vibid:1001000121824": 108,
+      "gas:candidate-vibid:326300270736": 12,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 24,
+      "gas:candidate-vibid:1001000190322": 6,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5175,16 +5175,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 43,
-      "Голиков Игорь Николаевич": 48,
-      "Катренко Владимир Семенович": 307,
-      "Малышак Юрий Геннадиевич": 71,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 10,
-      "Тимофеев Олег Владимирович": 10,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000113916": 43,
+      "gas:candidate-vibid:1001000136029": 48,
+      "gas:candidate-vibid:1001000225922": 307,
+      "gas:candidate-vibid:1001000121824": 71,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 10,
+      "gas:candidate-vibid:1001000190322": 10,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5234,16 +5234,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 57,
-      "Голиков Игорь Николаевич": 63,
-      "Катренко Владимир Семенович": 511,
-      "Малышак Юрий Геннадиевич": 167,
-      "Печенов Юрий Анатольевич": 11,
-      "Садовников Сергей Валентинович": 7,
-      "Таран Олег Леонидович": 42,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000113916": 57,
+      "gas:candidate-vibid:1001000136029": 63,
+      "gas:candidate-vibid:1001000225922": 511,
+      "gas:candidate-vibid:1001000121824": 167,
+      "gas:candidate-vibid:326300270736": 11,
+      "gas:candidate-vibid:1001000250443": 7,
+      "gas:candidate-vibid:1001000112198": 42,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5293,16 +5293,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 55,
-      "Голиков Игорь Николаевич": 49,
-      "Катренко Владимир Семенович": 290,
-      "Малышак Юрий Геннадиевич": 214,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 32,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000113916": 55,
+      "gas:candidate-vibid:1001000136029": 49,
+      "gas:candidate-vibid:1001000225922": 290,
+      "gas:candidate-vibid:1001000121824": 214,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 32,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5352,16 +5352,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 38,
-      "Голиков Игорь Николаевич": 35,
-      "Катренко Владимир Семенович": 334,
-      "Малышак Юрий Геннадиевич": 62,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 2,
-      "Таран Олег Леонидович": 17,
-      "Тимофеев Олег Владимирович": 5,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000113916": 38,
+      "gas:candidate-vibid:1001000136029": 35,
+      "gas:candidate-vibid:1001000225922": 334,
+      "gas:candidate-vibid:1001000121824": 62,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 2,
+      "gas:candidate-vibid:1001000112198": 17,
+      "gas:candidate-vibid:1001000190322": 5,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5411,16 +5411,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 38,
-      "Голиков Игорь Николаевич": 86,
-      "Катренко Владимир Семенович": 414,
-      "Малышак Юрий Геннадиевич": 129,
-      "Печенов Юрий Анатольевич": 9,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 31,
-      "Тимофеев Олег Владимирович": 12,
-      "Щербаков Сергей Михайлович": 2,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000113916": 38,
+      "gas:candidate-vibid:1001000136029": 86,
+      "gas:candidate-vibid:1001000225922": 414,
+      "gas:candidate-vibid:1001000121824": 129,
+      "gas:candidate-vibid:326300270736": 9,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 31,
+      "gas:candidate-vibid:1001000190322": 12,
+      "gas:candidate-vibid:1001000195055": 2,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5470,16 +5470,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 111,
-      "Голиков Игорь Николаевич": 68,
-      "Катренко Владимир Семенович": 600,
-      "Малышак Юрий Геннадиевич": 109,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 25,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 134
+      "gas:candidate-vibid:1001000113916": 111,
+      "gas:candidate-vibid:1001000136029": 68,
+      "gas:candidate-vibid:1001000225922": 600,
+      "gas:candidate-vibid:1001000121824": 109,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 25,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5529,16 +5529,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 58,
-      "Голиков Игорь Николаевич": 40,
-      "Катренко Владимир Семенович": 547,
-      "Малышак Юрий Геннадиевич": 106,
-      "Печенов Юрий Анатольевич": 8,
-      "Садовников Сергей Валентинович": 14,
-      "Таран Олег Леонидович": 21,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000113916": 58,
+      "gas:candidate-vibid:1001000136029": 40,
+      "gas:candidate-vibid:1001000225922": 547,
+      "gas:candidate-vibid:1001000121824": 106,
+      "gas:candidate-vibid:326300270736": 8,
+      "gas:candidate-vibid:1001000250443": 14,
+      "gas:candidate-vibid:1001000112198": 21,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5588,16 +5588,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 0,
-      "Голиков Игорь Николаевич": 3,
-      "Катренко Владимир Семенович": 3,
-      "Малышак Юрий Геннадиевич": 6,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113916": 0,
+      "gas:candidate-vibid:1001000136029": 3,
+      "gas:candidate-vibid:1001000225922": 3,
+      "gas:candidate-vibid:1001000121824": 6,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5647,16 +5647,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 61,
-      "Голиков Игорь Николаевич": 67,
-      "Катренко Владимир Семенович": 461,
-      "Малышак Юрий Геннадиевич": 114,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 16,
-      "Таран Олег Леонидович": 46,
-      "Тимофеев Олег Владимирович": 23,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000113916": 61,
+      "gas:candidate-vibid:1001000136029": 67,
+      "gas:candidate-vibid:1001000225922": 461,
+      "gas:candidate-vibid:1001000121824": 114,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 16,
+      "gas:candidate-vibid:1001000112198": 46,
+      "gas:candidate-vibid:1001000190322": 23,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5706,16 +5706,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 17,
-      "Голиков Игорь Николаевич": 52,
-      "Катренко Владимир Семенович": 320,
-      "Малышак Юрий Геннадиевич": 80,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 12,
-      "Таран Олег Леонидович": 28,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000113916": 17,
+      "gas:candidate-vibid:1001000136029": 52,
+      "gas:candidate-vibid:1001000225922": 320,
+      "gas:candidate-vibid:1001000121824": 80,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 12,
+      "gas:candidate-vibid:1001000112198": 28,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5765,16 +5765,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 33,
-      "Голиков Игорь Николаевич": 41,
-      "Катренко Владимир Семенович": 403,
-      "Малышак Юрий Геннадиевич": 126,
-      "Печенов Юрий Анатольевич": 10,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 49,
-      "Тимофеев Олег Владимирович": 16,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000113916": 33,
+      "gas:candidate-vibid:1001000136029": 41,
+      "gas:candidate-vibid:1001000225922": 403,
+      "gas:candidate-vibid:1001000121824": 126,
+      "gas:candidate-vibid:326300270736": 10,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 49,
+      "gas:candidate-vibid:1001000190322": 16,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5824,16 +5824,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 55,
-      "Голиков Игорь Николаевич": 93,
-      "Катренко Владимир Семенович": 499,
-      "Малышак Юрий Геннадиевич": 147,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 14,
-      "Таран Олег Леонидович": 53,
-      "Тимофеев Олег Владимирович": 17,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000113916": 55,
+      "gas:candidate-vibid:1001000136029": 93,
+      "gas:candidate-vibid:1001000225922": 499,
+      "gas:candidate-vibid:1001000121824": 147,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 14,
+      "gas:candidate-vibid:1001000112198": 53,
+      "gas:candidate-vibid:1001000190322": 17,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5883,16 +5883,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 31,
-      "Голиков Игорь Николаевич": 86,
-      "Катренко Владимир Семенович": 552,
-      "Малышак Юрий Геннадиевич": 167,
-      "Печенов Юрий Анатольевич": 4,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 43,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 166
+      "gas:candidate-vibid:1001000113916": 31,
+      "gas:candidate-vibid:1001000136029": 86,
+      "gas:candidate-vibid:1001000225922": 552,
+      "gas:candidate-vibid:1001000121824": 167,
+      "gas:candidate-vibid:326300270736": 4,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 43,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -5942,16 +5942,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 19,
-      "Голиков Игорь Николаевич": 57,
-      "Катренко Владимир Семенович": 348,
-      "Малышак Юрий Геннадиевич": 134,
-      "Печенов Юрий Анатольевич": 10,
-      "Садовников Сергей Валентинович": 15,
-      "Таран Олег Леонидович": 42,
-      "Тимофеев Олег Владимирович": 19,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000113916": 19,
+      "gas:candidate-vibid:1001000136029": 57,
+      "gas:candidate-vibid:1001000225922": 348,
+      "gas:candidate-vibid:1001000121824": 134,
+      "gas:candidate-vibid:326300270736": 10,
+      "gas:candidate-vibid:1001000250443": 15,
+      "gas:candidate-vibid:1001000112198": 42,
+      "gas:candidate-vibid:1001000190322": 19,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6001,16 +6001,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 47,
-      "Голиков Игорь Николаевич": 99,
-      "Катренко Владимир Семенович": 516,
-      "Малышак Юрий Геннадиевич": 152,
-      "Печенов Юрий Анатольевич": 11,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 40,
-      "Тимофеев Олег Владимирович": 17,
-      "Щербаков Сергей Михайлович": 14,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000113916": 47,
+      "gas:candidate-vibid:1001000136029": 99,
+      "gas:candidate-vibid:1001000225922": 516,
+      "gas:candidate-vibid:1001000121824": 152,
+      "gas:candidate-vibid:326300270736": 11,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 40,
+      "gas:candidate-vibid:1001000190322": 17,
+      "gas:candidate-vibid:1001000195055": 14,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6060,16 +6060,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 21,
-      "Голиков Игорь Николаевич": 51,
-      "Катренко Владимир Семенович": 334,
-      "Малышак Юрий Геннадиевич": 94,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 28,
-      "Тимофеев Олег Владимирович": 16,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000113916": 21,
+      "gas:candidate-vibid:1001000136029": 51,
+      "gas:candidate-vibid:1001000225922": 334,
+      "gas:candidate-vibid:1001000121824": 94,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 28,
+      "gas:candidate-vibid:1001000190322": 16,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6119,16 +6119,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 31,
-      "Голиков Игорь Николаевич": 74,
-      "Катренко Владимир Семенович": 410,
-      "Малышак Юрий Геннадиевич": 152,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 16,
-      "Таран Олег Леонидович": 38,
-      "Тимофеев Олег Владимирович": 10,
-      "Щербаков Сергей Михайлович": 13,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000113916": 31,
+      "gas:candidate-vibid:1001000136029": 74,
+      "gas:candidate-vibid:1001000225922": 410,
+      "gas:candidate-vibid:1001000121824": 152,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 16,
+      "gas:candidate-vibid:1001000112198": 38,
+      "gas:candidate-vibid:1001000190322": 10,
+      "gas:candidate-vibid:1001000195055": 13,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6178,16 +6178,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 40,
-      "Голиков Игорь Николаевич": 109,
-      "Катренко Владимир Семенович": 525,
-      "Малышак Юрий Геннадиевич": 163,
-      "Печенов Юрий Анатольевич": 19,
-      "Садовников Сергей Валентинович": 16,
-      "Таран Олег Леонидович": 42,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 177
+      "gas:candidate-vibid:1001000113916": 40,
+      "gas:candidate-vibid:1001000136029": 109,
+      "gas:candidate-vibid:1001000225922": 525,
+      "gas:candidate-vibid:1001000121824": 163,
+      "gas:candidate-vibid:326300270736": 19,
+      "gas:candidate-vibid:1001000250443": 16,
+      "gas:candidate-vibid:1001000112198": 42,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 177
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6237,16 +6237,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 37,
-      "Голиков Игорь Николаевич": 169,
-      "Катренко Владимир Семенович": 524,
-      "Малышак Юрий Геннадиевич": 167,
-      "Печенов Юрий Анатольевич": 12,
-      "Садовников Сергей Валентинович": 8,
-      "Таран Олег Леонидович": 39,
-      "Тимофеев Олег Владимирович": 14,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 189
+      "gas:candidate-vibid:1001000113916": 37,
+      "gas:candidate-vibid:1001000136029": 169,
+      "gas:candidate-vibid:1001000225922": 524,
+      "gas:candidate-vibid:1001000121824": 167,
+      "gas:candidate-vibid:326300270736": 12,
+      "gas:candidate-vibid:1001000250443": 8,
+      "gas:candidate-vibid:1001000112198": 39,
+      "gas:candidate-vibid:1001000190322": 14,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6296,16 +6296,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 50,
-      "Голиков Игорь Николаевич": 47,
-      "Катренко Владимир Семенович": 315,
-      "Малышак Юрий Геннадиевич": 69,
-      "Печенов Юрий Анатольевич": 11,
-      "Садовников Сергей Валентинович": 5,
-      "Таран Олег Леонидович": 23,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 10,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000113916": 50,
+      "gas:candidate-vibid:1001000136029": 47,
+      "gas:candidate-vibid:1001000225922": 315,
+      "gas:candidate-vibid:1001000121824": 69,
+      "gas:candidate-vibid:326300270736": 11,
+      "gas:candidate-vibid:1001000250443": 5,
+      "gas:candidate-vibid:1001000112198": 23,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 10,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6355,16 +6355,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 29,
-      "Голиков Игорь Николаевич": 26,
-      "Катренко Владимир Семенович": 358,
-      "Малышак Юрий Геннадиевич": 79,
-      "Печенов Юрий Анатольевич": 11,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 35,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000113916": 29,
+      "gas:candidate-vibid:1001000136029": 26,
+      "gas:candidate-vibid:1001000225922": 358,
+      "gas:candidate-vibid:1001000121824": 79,
+      "gas:candidate-vibid:326300270736": 11,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 35,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6414,16 +6414,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 63,
-      "Голиков Игорь Николаевич": 24,
-      "Катренко Владимир Семенович": 247,
-      "Малышак Юрий Геннадиевич": 46,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 13,
-      "Таран Олег Леонидович": 16,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000113916": 63,
+      "gas:candidate-vibid:1001000136029": 24,
+      "gas:candidate-vibid:1001000225922": 247,
+      "gas:candidate-vibid:1001000121824": 46,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 13,
+      "gas:candidate-vibid:1001000112198": 16,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6473,16 +6473,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 38,
-      "Голиков Игорь Николаевич": 63,
-      "Катренко Владимир Семенович": 418,
-      "Малышак Юрий Геннадиевич": 109,
-      "Печенов Юрий Анатольевич": 12,
-      "Садовников Сергей Валентинович": 12,
-      "Таран Олег Леонидович": 56,
-      "Тимофеев Олег Владимирович": 12,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000113916": 38,
+      "gas:candidate-vibid:1001000136029": 63,
+      "gas:candidate-vibid:1001000225922": 418,
+      "gas:candidate-vibid:1001000121824": 109,
+      "gas:candidate-vibid:326300270736": 12,
+      "gas:candidate-vibid:1001000250443": 12,
+      "gas:candidate-vibid:1001000112198": 56,
+      "gas:candidate-vibid:1001000190322": 12,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6532,16 +6532,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 20,
-      "Голиков Игорь Николаевич": 42,
-      "Катренко Владимир Семенович": 371,
-      "Малышак Юрий Геннадиевич": 105,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 34,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 13,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000113916": 20,
+      "gas:candidate-vibid:1001000136029": 42,
+      "gas:candidate-vibid:1001000225922": 371,
+      "gas:candidate-vibid:1001000121824": 105,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 34,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 13,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6591,16 +6591,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 20,
-      "Голиков Игорь Николаевич": 70,
-      "Катренко Владимир Семенович": 628,
-      "Малышак Юрий Геннадиевич": 137,
-      "Печенов Юрий Анатольевич": 22,
-      "Садовников Сергей Валентинович": 12,
-      "Таран Олег Леонидович": 30,
-      "Тимофеев Олег Владимирович": 12,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000113916": 20,
+      "gas:candidate-vibid:1001000136029": 70,
+      "gas:candidate-vibid:1001000225922": 628,
+      "gas:candidate-vibid:1001000121824": 137,
+      "gas:candidate-vibid:326300270736": 22,
+      "gas:candidate-vibid:1001000250443": 12,
+      "gas:candidate-vibid:1001000112198": 30,
+      "gas:candidate-vibid:1001000190322": 12,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6650,16 +6650,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 5,
-      "Голиков Игорь Николаевич": 15,
-      "Катренко Владимир Семенович": 152,
-      "Малышак Юрий Геннадиевич": 29,
-      "Печенов Юрий Анатольевич": 3,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 7,
-      "Тимофеев Олег Владимирович": 1,
-      "Щербаков Сергей Михайлович": 4,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113916": 5,
+      "gas:candidate-vibid:1001000136029": 15,
+      "gas:candidate-vibid:1001000225922": 152,
+      "gas:candidate-vibid:1001000121824": 29,
+      "gas:candidate-vibid:326300270736": 3,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 7,
+      "gas:candidate-vibid:1001000190322": 1,
+      "gas:candidate-vibid:1001000195055": 4,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6709,16 +6709,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 2,
-      "Голиков Игорь Николаевич": 9,
-      "Катренко Владимир Семенович": 168,
-      "Малышак Юрий Геннадиевич": 20,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 4,
-      "Таран Олег Леонидович": 1,
-      "Тимофеев Олег Владимирович": 2,
-      "Щербаков Сергей Михайлович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000113916": 2,
+      "gas:candidate-vibid:1001000136029": 9,
+      "gas:candidate-vibid:1001000225922": 168,
+      "gas:candidate-vibid:1001000121824": 20,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 4,
+      "gas:candidate-vibid:1001000112198": 1,
+      "gas:candidate-vibid:1001000190322": 2,
+      "gas:candidate-vibid:1001000195055": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6768,16 +6768,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 49,
-      "Голиков Игорь Николаевич": 72,
-      "Катренко Владимир Семенович": 451,
-      "Малышак Юрий Геннадиевич": 126,
-      "Печенов Юрий Анатольевич": 11,
-      "Садовников Сергей Валентинович": 9,
-      "Таран Олег Леонидович": 39,
-      "Тимофеев Олег Владимирович": 21,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000113916": 49,
+      "gas:candidate-vibid:1001000136029": 72,
+      "gas:candidate-vibid:1001000225922": 451,
+      "gas:candidate-vibid:1001000121824": 126,
+      "gas:candidate-vibid:326300270736": 11,
+      "gas:candidate-vibid:1001000250443": 9,
+      "gas:candidate-vibid:1001000112198": 39,
+      "gas:candidate-vibid:1001000190322": 21,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6827,16 +6827,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 15,
-      "Голиков Игорь Николаевич": 66,
-      "Катренко Владимир Семенович": 340,
-      "Малышак Юрий Геннадиевич": 91,
-      "Печенов Юрий Анатольевич": 5,
-      "Садовников Сергей Валентинович": 11,
-      "Таран Олег Леонидович": 38,
-      "Тимофеев Олег Владимирович": 22,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000113916": 15,
+      "gas:candidate-vibid:1001000136029": 66,
+      "gas:candidate-vibid:1001000225922": 340,
+      "gas:candidate-vibid:1001000121824": 91,
+      "gas:candidate-vibid:326300270736": 5,
+      "gas:candidate-vibid:1001000250443": 11,
+      "gas:candidate-vibid:1001000112198": 38,
+      "gas:candidate-vibid:1001000190322": 22,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6886,16 +6886,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 46,
-      "Голиков Игорь Николаевич": 69,
-      "Катренко Владимир Семенович": 370,
-      "Малышак Юрий Геннадиевич": 151,
-      "Печенов Юрий Анатольевич": 8,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 58,
-      "Тимофеев Олег Владимирович": 9,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000113916": 46,
+      "gas:candidate-vibid:1001000136029": 69,
+      "gas:candidate-vibid:1001000225922": 370,
+      "gas:candidate-vibid:1001000121824": 151,
+      "gas:candidate-vibid:326300270736": 8,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 58,
+      "gas:candidate-vibid:1001000190322": 9,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -6945,16 +6945,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 26,
-      "Голиков Игорь Николаевич": 74,
-      "Катренко Владимир Семенович": 425,
-      "Малышак Юрий Геннадиевич": 150,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 59,
-      "Тимофеев Олег Владимирович": 17,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000113916": 26,
+      "gas:candidate-vibid:1001000136029": 74,
+      "gas:candidate-vibid:1001000225922": 425,
+      "gas:candidate-vibid:1001000121824": 150,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 59,
+      "gas:candidate-vibid:1001000190322": 17,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7004,16 +7004,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 64,
-      "Голиков Игорь Николаевич": 77,
-      "Катренко Владимир Семенович": 537,
-      "Малышак Юрий Геннадиевич": 217,
-      "Печенов Юрий Анатольевич": 20,
-      "Садовников Сергей Валентинович": 15,
-      "Таран Олег Леонидович": 83,
-      "Тимофеев Олег Владимирович": 24,
-      "Щербаков Сергей Михайлович": 12,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000113916": 64,
+      "gas:candidate-vibid:1001000136029": 77,
+      "gas:candidate-vibid:1001000225922": 537,
+      "gas:candidate-vibid:1001000121824": 217,
+      "gas:candidate-vibid:326300270736": 20,
+      "gas:candidate-vibid:1001000250443": 15,
+      "gas:candidate-vibid:1001000112198": 83,
+      "gas:candidate-vibid:1001000190322": 24,
+      "gas:candidate-vibid:1001000195055": 12,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7063,16 +7063,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 41,
-      "Голиков Игорь Николаевич": 130,
-      "Катренко Владимир Семенович": 652,
-      "Малышак Юрий Геннадиевич": 241,
-      "Печенов Юрий Анатольевич": 7,
-      "Садовников Сергей Валентинович": 22,
-      "Таран Олег Леонидович": 87,
-      "Тимофеев Олег Владимирович": 24,
-      "Щербаков Сергей Михайлович": 11,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000113916": 41,
+      "gas:candidate-vibid:1001000136029": 130,
+      "gas:candidate-vibid:1001000225922": 652,
+      "gas:candidate-vibid:1001000121824": 241,
+      "gas:candidate-vibid:326300270736": 7,
+      "gas:candidate-vibid:1001000250443": 22,
+      "gas:candidate-vibid:1001000112198": 87,
+      "gas:candidate-vibid:1001000190322": 24,
+      "gas:candidate-vibid:1001000195055": 11,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7122,16 +7122,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 1,
-      "Голиков Игорь Николаевич": 3,
-      "Катренко Владимир Семенович": 91,
-      "Малышак Юрий Геннадиевич": 3,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 1,
-      "Таран Олег Леонидович": 2,
-      "Тимофеев Олег Владимирович": 4,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000113916": 1,
+      "gas:candidate-vibid:1001000136029": 3,
+      "gas:candidate-vibid:1001000225922": 91,
+      "gas:candidate-vibid:1001000121824": 3,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 1,
+      "gas:candidate-vibid:1001000112198": 2,
+      "gas:candidate-vibid:1001000190322": 4,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7181,16 +7181,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 39,
-      "Голиков Игорь Николаевич": 39,
-      "Катренко Владимир Семенович": 301,
-      "Малышак Юрий Геннадиевич": 157,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 3,
-      "Таран Олег Леонидович": 35,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000113916": 39,
+      "gas:candidate-vibid:1001000136029": 39,
+      "gas:candidate-vibid:1001000225922": 301,
+      "gas:candidate-vibid:1001000121824": 157,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 3,
+      "gas:candidate-vibid:1001000112198": 35,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7240,16 +7240,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 55,
-      "Голиков Игорь Николаевич": 58,
-      "Катренко Владимир Семенович": 411,
-      "Малышак Юрий Геннадиевич": 117,
-      "Печенов Юрий Анатольевич": 6,
-      "Садовников Сергей Валентинович": 15,
-      "Таран Олег Леонидович": 44,
-      "Тимофеев Олег Владимирович": 12,
-      "Щербаков Сергей Михайлович": 6,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000113916": 55,
+      "gas:candidate-vibid:1001000136029": 58,
+      "gas:candidate-vibid:1001000225922": 411,
+      "gas:candidate-vibid:1001000121824": 117,
+      "gas:candidate-vibid:326300270736": 6,
+      "gas:candidate-vibid:1001000250443": 15,
+      "gas:candidate-vibid:1001000112198": 44,
+      "gas:candidate-vibid:1001000190322": 12,
+      "gas:candidate-vibid:1001000195055": 6,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7299,16 +7299,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 73,
-      "Голиков Игорь Николаевич": 62,
-      "Катренко Владимир Семенович": 452,
-      "Малышак Юрий Геннадиевич": 157,
-      "Печенов Юрий Анатольевич": 14,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 53,
-      "Тимофеев Олег Владимирович": 11,
-      "Щербаков Сергей Михайлович": 8,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000113916": 73,
+      "gas:candidate-vibid:1001000136029": 62,
+      "gas:candidate-vibid:1001000225922": 452,
+      "gas:candidate-vibid:1001000121824": 157,
+      "gas:candidate-vibid:326300270736": 14,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 53,
+      "gas:candidate-vibid:1001000190322": 11,
+      "gas:candidate-vibid:1001000195055": 8,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7358,16 +7358,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 181,
-      "Голиков Игорь Николаевич": 36,
-      "Катренко Владимир Семенович": 421,
-      "Малышак Юрий Геннадиевич": 73,
-      "Печенов Юрий Анатольевич": 1,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 29,
-      "Тимофеев Олег Владимирович": 5,
-      "Щербаков Сергей Михайлович": 9,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000113916": 181,
+      "gas:candidate-vibid:1001000136029": 36,
+      "gas:candidate-vibid:1001000225922": 421,
+      "gas:candidate-vibid:1001000121824": 73,
+      "gas:candidate-vibid:326300270736": 1,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 29,
+      "gas:candidate-vibid:1001000190322": 5,
+      "gas:candidate-vibid:1001000195055": 9,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7417,16 +7417,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 73,
-      "Голиков Игорь Николаевич": 60,
-      "Катренко Владимир Семенович": 571,
-      "Малышак Юрий Геннадиевич": 163,
-      "Печенов Юрий Анатольевич": 11,
-      "Садовников Сергей Валентинович": 13,
-      "Таран Олег Леонидович": 55,
-      "Тимофеев Олег Владимирович": 18,
-      "Щербаков Сергей Михайлович": 7,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000113916": 73,
+      "gas:candidate-vibid:1001000136029": 60,
+      "gas:candidate-vibid:1001000225922": 571,
+      "gas:candidate-vibid:1001000121824": 163,
+      "gas:candidate-vibid:326300270736": 11,
+      "gas:candidate-vibid:1001000250443": 13,
+      "gas:candidate-vibid:1001000112198": 55,
+      "gas:candidate-vibid:1001000190322": 18,
+      "gas:candidate-vibid:1001000195055": 7,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7476,16 +7476,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 94,
-      "Голиков Игорь Николаевич": 73,
-      "Катренко Владимир Семенович": 450,
-      "Малышак Юрий Геннадиевич": 91,
-      "Печенов Юрий Анатольевич": 2,
-      "Садовников Сергей Валентинович": 10,
-      "Таран Олег Леонидович": 30,
-      "Тимофеев Олег Владимирович": 8,
-      "Щербаков Сергей Михайлович": 5,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000113916": 94,
+      "gas:candidate-vibid:1001000136029": 73,
+      "gas:candidate-vibid:1001000225922": 450,
+      "gas:candidate-vibid:1001000121824": 91,
+      "gas:candidate-vibid:326300270736": 2,
+      "gas:candidate-vibid:1001000250443": 10,
+      "gas:candidate-vibid:1001000112198": 30,
+      "gas:candidate-vibid:1001000190322": 8,
+      "gas:candidate-vibid:1001000195055": 5,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7535,16 +7535,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 0,
-      "Голиков Игорь Николаевич": 0,
-      "Катренко Владимир Семенович": 0,
-      "Малышак Юрий Геннадиевич": 2,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113916": 0,
+      "gas:candidate-vibid:1001000136029": 0,
+      "gas:candidate-vibid:1001000225922": 0,
+      "gas:candidate-vibid:1001000121824": 2,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7594,16 +7594,16 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Геворков Владимир Георгиевич": 0,
-      "Голиков Игорь Николаевич": 0,
-      "Катренко Владимир Семенович": 3,
-      "Малышак Юрий Геннадиевич": 2,
-      "Печенов Юрий Анатольевич": 0,
-      "Садовников Сергей Валентинович": 0,
-      "Таран Олег Леонидович": 0,
-      "Тимофеев Олег Владимирович": 0,
-      "Щербаков Сергей Михайлович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113916": 0,
+      "gas:candidate-vibid:1001000136029": 0,
+      "gas:candidate-vibid:1001000225922": 3,
+      "gas:candidate-vibid:1001000121824": 2,
+      "gas:candidate-vibid:326300270736": 0,
+      "gas:candidate-vibid:1001000250443": 0,
+      "gas:candidate-vibid:1001000112198": 0,
+      "gas:candidate-vibid:1001000190322": 0,
+      "gas:candidate-vibid:1001000195055": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263002007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300271133&region=0&sub_region=0&type=429",
@@ -7653,14 +7653,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 106,
-      "Воронин Павел Юрьевич": 320,
-      "Зубенко Виталий Григорьевич": 24,
-      "Куликов Анатолий Сергеевич": 399,
-      "Хлынов Михаил Иванович": 48,
-      "Хука Валерий Владимирович": 45,
-      "Шарков Виктор Федорович": 23,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000121825": 106,
+      "gas:candidate-vibid:326300370808": 320,
+      "gas:candidate-vibid:1001000112199": 24,
+      "gas:candidate-vibid:1001000225923": 399,
+      "gas:candidate-vibid:1001000136030": 48,
+      "gas:candidate-vibid:1001000217909": 45,
+      "gas:candidate-vibid:1001000250444": 23,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -7710,14 +7710,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 69,
-      "Воронин Павел Юрьевич": 252,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 240,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000121825": 69,
+      "gas:candidate-vibid:326300370808": 252,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 240,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -7767,14 +7767,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 20,
-      "Воронин Павел Юрьевич": 91,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 140,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000121825": 20,
+      "gas:candidate-vibid:326300370808": 91,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 140,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -7824,14 +7824,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 18,
-      "Воронин Павел Юрьевич": 47,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 85,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 8,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 18,
+      "gas:candidate-vibid:326300370808": 47,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 85,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 8,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -7881,14 +7881,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 12,
-      "Воронин Павел Юрьевич": 20,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 78,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 14,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121825": 12,
+      "gas:candidate-vibid:326300370808": 20,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 78,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 14,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -7938,14 +7938,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 104,
-      "Воронин Павел Юрьевич": 271,
-      "Зубенко Виталий Григорьевич": 19,
-      "Куликов Анатолий Сергеевич": 165,
-      "Хлынов Михаил Иванович": 17,
-      "Хука Валерий Владимирович": 158,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121825": 104,
+      "gas:candidate-vibid:326300370808": 271,
+      "gas:candidate-vibid:1001000112199": 19,
+      "gas:candidate-vibid:1001000225923": 165,
+      "gas:candidate-vibid:1001000136030": 17,
+      "gas:candidate-vibid:1001000217909": 158,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -7995,14 +7995,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 64,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 44,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 45,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 64,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 44,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 45,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8052,14 +8052,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 180,
-      "Воронин Павел Юрьевич": 376,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 263,
-      "Хлынов Михаил Иванович": 38,
-      "Хука Валерий Владимирович": 59,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000121825": 180,
+      "gas:candidate-vibid:326300370808": 376,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 263,
+      "gas:candidate-vibid:1001000136030": 38,
+      "gas:candidate-vibid:1001000217909": 59,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8109,14 +8109,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 178,
-      "Воронин Павел Юрьевич": 353,
-      "Зубенко Виталий Григорьевич": 18,
-      "Куликов Анатолий Сергеевич": 136,
-      "Хлынов Михаил Иванович": 19,
-      "Хука Валерий Владимирович": 33,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000121825": 178,
+      "gas:candidate-vibid:326300370808": 353,
+      "gas:candidate-vibid:1001000112199": 18,
+      "gas:candidate-vibid:1001000225923": 136,
+      "gas:candidate-vibid:1001000136030": 19,
+      "gas:candidate-vibid:1001000217909": 33,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8166,14 +8166,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 175,
-      "Воронин Павел Юрьевич": 303,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 296,
-      "Хлынов Михаил Иванович": 39,
-      "Хука Валерий Владимирович": 64,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121825": 175,
+      "gas:candidate-vibid:326300370808": 303,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 296,
+      "gas:candidate-vibid:1001000136030": 39,
+      "gas:candidate-vibid:1001000217909": 64,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8223,14 +8223,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 106,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 140,
-      "Хлынов Михаил Иванович": 12,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 106,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 140,
+      "gas:candidate-vibid:1001000136030": 12,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8280,14 +8280,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 3,
-      "Воронин Павел Юрьевич": 44,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 23,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121825": 3,
+      "gas:candidate-vibid:326300370808": 44,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 23,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8337,14 +8337,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 39,
-      "Воронин Павел Юрьевич": 167,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 201,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 59,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121825": 39,
+      "gas:candidate-vibid:326300370808": 167,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 201,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 59,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8394,14 +8394,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 23,
-      "Воронин Павел Юрьевич": 54,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 43,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 23,
+      "gas:candidate-vibid:326300370808": 54,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 43,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8451,14 +8451,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 39,
-      "Воронин Павел Юрьевич": 197,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 138,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 44,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121825": 39,
+      "gas:candidate-vibid:326300370808": 197,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 138,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 44,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8508,14 +8508,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 27,
-      "Воронин Павел Юрьевич": 82,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 184,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121825": 27,
+      "gas:candidate-vibid:326300370808": 82,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 184,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8565,14 +8565,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 96,
-      "Воронин Павел Юрьевич": 143,
-      "Зубенко Виталий Григорьевич": 11,
-      "Куликов Анатолий Сергеевич": 193,
-      "Хлынов Михаил Иванович": 16,
-      "Хука Валерий Владимирович": 51,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121825": 96,
+      "gas:candidate-vibid:326300370808": 143,
+      "gas:candidate-vibid:1001000112199": 11,
+      "gas:candidate-vibid:1001000225923": 193,
+      "gas:candidate-vibid:1001000136030": 16,
+      "gas:candidate-vibid:1001000217909": 51,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8622,14 +8622,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 45,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 651,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 45,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 651,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8679,14 +8679,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 3,
-      "Воронин Павел Юрьевич": 32,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 29,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 3,
+      "gas:candidate-vibid:326300370808": 32,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 29,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8736,14 +8736,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 83,
-      "Воронин Павел Юрьевич": 207,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 65,
-      "Хлынов Михаил Иванович": 5,
-      "Хука Валерий Владимирович": 30,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121825": 83,
+      "gas:candidate-vibid:326300370808": 207,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 65,
+      "gas:candidate-vibid:1001000136030": 5,
+      "gas:candidate-vibid:1001000217909": 30,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8793,14 +8793,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 23,
-      "Воронин Павел Юрьевич": 30,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 78,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121825": 23,
+      "gas:candidate-vibid:326300370808": 30,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 78,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8850,14 +8850,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 49,
-      "Воронин Павел Юрьевич": 170,
-      "Зубенко Виталий Григорьевич": 18,
-      "Куликов Анатолий Сергеевич": 226,
-      "Хлынов Михаил Иванович": 12,
-      "Хука Валерий Владимирович": 51,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000121825": 49,
+      "gas:candidate-vibid:326300370808": 170,
+      "gas:candidate-vibid:1001000112199": 18,
+      "gas:candidate-vibid:1001000225923": 226,
+      "gas:candidate-vibid:1001000136030": 12,
+      "gas:candidate-vibid:1001000217909": 51,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370413&region=0&sub_region=0&type=429",
@@ -8907,14 +8907,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 36,
-      "Воронин Павел Юрьевич": 66,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 100,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 36,
+      "gas:candidate-vibid:326300370808": 66,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 100,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -8964,14 +8964,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 133,
-      "Воронин Павел Юрьевич": 571,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 287,
-      "Хлынов Михаил Иванович": 55,
-      "Хука Валерий Владимирович": 79,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121825": 133,
+      "gas:candidate-vibid:326300370808": 571,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 287,
+      "gas:candidate-vibid:1001000136030": 55,
+      "gas:candidate-vibid:1001000217909": 79,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9021,14 +9021,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 217,
-      "Воронин Павел Юрьевич": 304,
-      "Зубенко Виталий Григорьевич": 31,
-      "Куликов Анатолий Сергеевич": 444,
-      "Хлынов Михаил Иванович": 94,
-      "Хука Валерий Владимирович": 92,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121825": 217,
+      "gas:candidate-vibid:326300370808": 304,
+      "gas:candidate-vibid:1001000112199": 31,
+      "gas:candidate-vibid:1001000225923": 444,
+      "gas:candidate-vibid:1001000136030": 94,
+      "gas:candidate-vibid:1001000217909": 92,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9078,14 +9078,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 106,
-      "Воронин Павел Юрьевич": 137,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 240,
-      "Хлынов Михаил Иванович": 33,
-      "Хука Валерий Владимирович": 34,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121825": 106,
+      "gas:candidate-vibid:326300370808": 137,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 240,
+      "gas:candidate-vibid:1001000136030": 33,
+      "gas:candidate-vibid:1001000217909": 34,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9135,14 +9135,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 134,
-      "Воронин Павел Юрьевич": 213,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 292,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 54,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121825": 134,
+      "gas:candidate-vibid:326300370808": 213,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 292,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 54,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9192,14 +9192,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 73,
-      "Воронин Павел Юрьевич": 244,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 207,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 29,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121825": 73,
+      "gas:candidate-vibid:326300370808": 244,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 207,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 29,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9249,14 +9249,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 71,
-      "Воронин Павел Юрьевич": 216,
-      "Зубенко Виталий Григорьевич": 25,
-      "Куликов Анатолий Сергеевич": 344,
-      "Хлынов Михаил Иванович": 48,
-      "Хука Валерий Владимирович": 43,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000121825": 71,
+      "gas:candidate-vibid:326300370808": 216,
+      "gas:candidate-vibid:1001000112199": 25,
+      "gas:candidate-vibid:1001000225923": 344,
+      "gas:candidate-vibid:1001000136030": 48,
+      "gas:candidate-vibid:1001000217909": 43,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9306,14 +9306,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 32,
-      "Воронин Павел Юрьевич": 84,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 84,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 32,
+      "gas:candidate-vibid:326300370808": 84,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 84,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9363,14 +9363,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 131,
-      "Воронин Павел Юрьевич": 161,
-      "Зубенко Виталий Григорьевич": 13,
-      "Куликов Анатолий Сергеевич": 158,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121825": 131,
+      "gas:candidate-vibid:326300370808": 161,
+      "gas:candidate-vibid:1001000112199": 13,
+      "gas:candidate-vibid:1001000225923": 158,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9420,14 +9420,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 148,
-      "Воронин Павел Юрьевич": 107,
-      "Зубенко Виталий Григорьевич": 10,
-      "Куликов Анатолий Сергеевич": 179,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121825": 148,
+      "gas:candidate-vibid:326300370808": 107,
+      "gas:candidate-vibid:1001000112199": 10,
+      "gas:candidate-vibid:1001000225923": 179,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9477,14 +9477,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 184,
-      "Воронин Павел Юрьевич": 187,
-      "Зубенко Виталий Григорьевич": 21,
-      "Куликов Анатолий Сергеевич": 356,
-      "Хлынов Михаил Иванович": 27,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121825": 184,
+      "gas:candidate-vibid:326300370808": 187,
+      "gas:candidate-vibid:1001000112199": 21,
+      "gas:candidate-vibid:1001000225923": 356,
+      "gas:candidate-vibid:1001000136030": 27,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9534,14 +9534,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 129,
-      "Воронин Павел Юрьевич": 68,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 129,
-      "Хлынов Михаил Иванович": 12,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121825": 129,
+      "gas:candidate-vibid:326300370808": 68,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 129,
+      "gas:candidate-vibid:1001000136030": 12,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9591,14 +9591,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 38,
-      "Воронин Павел Юрьевич": 77,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 15,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121825": 38,
+      "gas:candidate-vibid:326300370808": 77,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 15,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9648,14 +9648,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 59,
-      "Воронин Павел Юрьевич": 182,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 54,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121825": 59,
+      "gas:candidate-vibid:326300370808": 182,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 54,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9705,14 +9705,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 25,
-      "Воронин Павел Юрьевич": 75,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 28,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121825": 25,
+      "gas:candidate-vibid:326300370808": 75,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 28,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9762,14 +9762,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 21,
-      "Воронин Павел Юрьевич": 95,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 74,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121825": 21,
+      "gas:candidate-vibid:326300370808": 95,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 74,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9819,14 +9819,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 120,
-      "Воронин Павел Юрьевич": 286,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 178,
-      "Хлынов Михаил Иванович": 34,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121825": 120,
+      "gas:candidate-vibid:326300370808": 286,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 178,
+      "gas:candidate-vibid:1001000136030": 34,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9876,14 +9876,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 138,
-      "Воронин Павел Юрьевич": 316,
-      "Зубенко Виталий Григорьевич": 18,
-      "Куликов Анатолий Сергеевич": 308,
-      "Хлынов Михаил Иванович": 42,
-      "Хука Валерий Владимирович": 42,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000121825": 138,
+      "gas:candidate-vibid:326300370808": 316,
+      "gas:candidate-vibid:1001000112199": 18,
+      "gas:candidate-vibid:1001000225923": 308,
+      "gas:candidate-vibid:1001000136030": 42,
+      "gas:candidate-vibid:1001000217909": 42,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9933,14 +9933,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 63,
-      "Воронин Павел Юрьевич": 112,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 82,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000121825": 63,
+      "gas:candidate-vibid:326300370808": 112,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 82,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -9990,14 +9990,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 144,
-      "Воронин Павел Юрьевич": 190,
-      "Зубенко Виталий Григорьевич": 14,
-      "Куликов Анатолий Сергеевич": 220,
-      "Хлынов Михаил Иванович": 21,
-      "Хука Валерий Владимирович": 38,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121825": 144,
+      "gas:candidate-vibid:326300370808": 190,
+      "gas:candidate-vibid:1001000112199": 14,
+      "gas:candidate-vibid:1001000225923": 220,
+      "gas:candidate-vibid:1001000136030": 21,
+      "gas:candidate-vibid:1001000217909": 38,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10047,14 +10047,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 15,
-      "Воронин Павел Юрьевич": 13,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 81,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 15,
+      "gas:candidate-vibid:326300370808": 13,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 81,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10104,14 +10104,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 9,
-      "Воронин Павел Юрьевич": 47,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 116,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 24,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121825": 9,
+      "gas:candidate-vibid:326300370808": 47,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 116,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 24,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10161,14 +10161,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 3,
-      "Воронин Павел Юрьевич": 11,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 63,
-      "Хлынов Михаил Иванович": 6,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121825": 3,
+      "gas:candidate-vibid:326300370808": 11,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 63,
+      "gas:candidate-vibid:1001000136030": 6,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10218,14 +10218,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 19,
-      "Воронин Павел Юрьевич": 24,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 40,
-      "Хлынов Михаил Иванович": 1,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121825": 19,
+      "gas:candidate-vibid:326300370808": 24,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 40,
+      "gas:candidate-vibid:1001000136030": 1,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10275,14 +10275,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 109,
-      "Воронин Павел Юрьевич": 210,
-      "Зубенко Виталий Григорьевич": 15,
-      "Куликов Анатолий Сергеевич": 328,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 30,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000121825": 109,
+      "gas:candidate-vibid:326300370808": 210,
+      "gas:candidate-vibid:1001000112199": 15,
+      "gas:candidate-vibid:1001000225923": 328,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 30,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10332,14 +10332,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 27,
-      "Воронин Павел Юрьевич": 63,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 195,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121825": 27,
+      "gas:candidate-vibid:326300370808": 63,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 195,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370414&region=0&sub_region=0&type=429",
@@ -10389,14 +10389,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 199,
-      "Воронин Павел Юрьевич": 257,
-      "Зубенко Виталий Григорьевич": 62,
-      "Куликов Анатолий Сергеевич": 141,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000121825": 199,
+      "gas:candidate-vibid:326300370808": 257,
+      "gas:candidate-vibid:1001000112199": 62,
+      "gas:candidate-vibid:1001000225923": 141,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10446,14 +10446,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 54,
-      "Воронин Павел Юрьевич": 99,
-      "Зубенко Виталий Григорьевич": 69,
-      "Куликов Анатолий Сергеевич": 170,
-      "Хлынов Михаил Иванович": 34,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121825": 54,
+      "gas:candidate-vibid:326300370808": 99,
+      "gas:candidate-vibid:1001000112199": 69,
+      "gas:candidate-vibid:1001000225923": 170,
+      "gas:candidate-vibid:1001000136030": 34,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10503,14 +10503,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 142,
-      "Воронин Павел Юрьевич": 162,
-      "Зубенко Виталий Григорьевич": 123,
-      "Куликов Анатолий Сергеевич": 243,
-      "Хлынов Михаил Иванович": 43,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000121825": 142,
+      "gas:candidate-vibid:326300370808": 162,
+      "gas:candidate-vibid:1001000112199": 123,
+      "gas:candidate-vibid:1001000225923": 243,
+      "gas:candidate-vibid:1001000136030": 43,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10560,14 +10560,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 85,
-      "Воронин Павел Юрьевич": 126,
-      "Зубенко Виталий Григорьевич": 95,
-      "Куликов Анатолий Сергеевич": 142,
-      "Хлынов Михаил Иванович": 29,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000121825": 85,
+      "gas:candidate-vibid:326300370808": 126,
+      "gas:candidate-vibid:1001000112199": 95,
+      "gas:candidate-vibid:1001000225923": 142,
+      "gas:candidate-vibid:1001000136030": 29,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10617,14 +10617,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 198,
-      "Воронин Павел Юрьевич": 188,
-      "Зубенко Виталий Григорьевич": 144,
-      "Куликов Анатолий Сергеевич": 201,
-      "Хлынов Михаил Иванович": 42,
-      "Хука Валерий Владимирович": 21,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 119
+      "gas:candidate-vibid:1001000121825": 198,
+      "gas:candidate-vibid:326300370808": 188,
+      "gas:candidate-vibid:1001000112199": 144,
+      "gas:candidate-vibid:1001000225923": 201,
+      "gas:candidate-vibid:1001000136030": 42,
+      "gas:candidate-vibid:1001000217909": 21,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 119
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10674,14 +10674,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 123,
-      "Воронин Павел Юрьевич": 149,
-      "Зубенко Виталий Григорьевич": 67,
-      "Куликов Анатолий Сергеевич": 207,
-      "Хлынов Михаил Иванович": 24,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000121825": 123,
+      "gas:candidate-vibid:326300370808": 149,
+      "gas:candidate-vibid:1001000112199": 67,
+      "gas:candidate-vibid:1001000225923": 207,
+      "gas:candidate-vibid:1001000136030": 24,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10731,14 +10731,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 90,
-      "Воронин Павел Юрьевич": 174,
-      "Зубенко Виталий Григорьевич": 78,
-      "Куликов Анатолий Сергеевич": 141,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000121825": 90,
+      "gas:candidate-vibid:326300370808": 174,
+      "gas:candidate-vibid:1001000112199": 78,
+      "gas:candidate-vibid:1001000225923": 141,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10788,14 +10788,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 125,
-      "Воронин Павел Юрьевич": 182,
-      "Зубенко Виталий Григорьевич": 116,
-      "Куликов Анатолий Сергеевич": 206,
-      "Хлынов Михаил Иванович": 34,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121825": 125,
+      "gas:candidate-vibid:326300370808": 182,
+      "gas:candidate-vibid:1001000112199": 116,
+      "gas:candidate-vibid:1001000225923": 206,
+      "gas:candidate-vibid:1001000136030": 34,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10845,14 +10845,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 39,
-      "Воронин Павел Юрьевич": 77,
-      "Зубенко Виталий Григорьевич": 63,
-      "Куликов Анатолий Сергеевич": 145,
-      "Хлынов Михаил Иванович": 29,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000121825": 39,
+      "gas:candidate-vibid:326300370808": 77,
+      "gas:candidate-vibid:1001000112199": 63,
+      "gas:candidate-vibid:1001000225923": 145,
+      "gas:candidate-vibid:1001000136030": 29,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10902,14 +10902,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 65,
-      "Воронин Павел Юрьевич": 154,
-      "Зубенко Виталий Григорьевич": 73,
-      "Куликов Анатолий Сергеевич": 113,
-      "Хлынов Михаил Иванович": 25,
-      "Хука Валерий Владимирович": 9,
-      "Шарков Виктор Федорович": 5,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000121825": 65,
+      "gas:candidate-vibid:326300370808": 154,
+      "gas:candidate-vibid:1001000112199": 73,
+      "gas:candidate-vibid:1001000225923": 113,
+      "gas:candidate-vibid:1001000136030": 25,
+      "gas:candidate-vibid:1001000217909": 9,
+      "gas:candidate-vibid:1001000250444": 5,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -10959,14 +10959,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 86,
-      "Воронин Павел Юрьевич": 181,
-      "Зубенко Виталий Григорьевич": 93,
-      "Куликов Анатолий Сергеевич": 156,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000121825": 86,
+      "gas:candidate-vibid:326300370808": 181,
+      "gas:candidate-vibid:1001000112199": 93,
+      "gas:candidate-vibid:1001000225923": 156,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11016,14 +11016,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 74,
-      "Воронин Павел Юрьевич": 111,
-      "Зубенко Виталий Григорьевич": 187,
-      "Куликов Анатолий Сергеевич": 138,
-      "Хлынов Михаил Иванович": 36,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000121825": 74,
+      "gas:candidate-vibid:326300370808": 111,
+      "gas:candidate-vibid:1001000112199": 187,
+      "gas:candidate-vibid:1001000225923": 138,
+      "gas:candidate-vibid:1001000136030": 36,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11073,14 +11073,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 42,
-      "Воронин Павел Юрьевич": 61,
-      "Зубенко Виталий Григорьевич": 90,
-      "Куликов Анатолий Сергеевич": 161,
-      "Хлынов Михаил Иванович": 27,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000121825": 42,
+      "gas:candidate-vibid:326300370808": 61,
+      "gas:candidate-vibid:1001000112199": 90,
+      "gas:candidate-vibid:1001000225923": 161,
+      "gas:candidate-vibid:1001000136030": 27,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11130,14 +11130,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 73,
-      "Воронин Павел Юрьевич": 294,
-      "Зубенко Виталий Григорьевич": 208,
-      "Куликов Анатолий Сергеевич": 289,
-      "Хлынов Михаил Иванович": 60,
-      "Хука Валерий Владимирович": 22,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 139
+      "gas:candidate-vibid:1001000121825": 73,
+      "gas:candidate-vibid:326300370808": 294,
+      "gas:candidate-vibid:1001000112199": 208,
+      "gas:candidate-vibid:1001000225923": 289,
+      "gas:candidate-vibid:1001000136030": 60,
+      "gas:candidate-vibid:1001000217909": 22,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 139
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11187,14 +11187,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 88,
-      "Воронин Павел Юрьевич": 191,
-      "Зубенко Виталий Григорьевич": 202,
-      "Куликов Анатолий Сергеевич": 163,
-      "Хлынов Михаил Иванович": 26,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 129
+      "gas:candidate-vibid:1001000121825": 88,
+      "gas:candidate-vibid:326300370808": 191,
+      "gas:candidate-vibid:1001000112199": 202,
+      "gas:candidate-vibid:1001000225923": 163,
+      "gas:candidate-vibid:1001000136030": 26,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11244,14 +11244,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 91,
-      "Воронин Павел Юрьевич": 184,
-      "Зубенко Виталий Григорьевич": 205,
-      "Куликов Анатолий Сергеевич": 180,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 19,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 114
+      "gas:candidate-vibid:1001000121825": 91,
+      "gas:candidate-vibid:326300370808": 184,
+      "gas:candidate-vibid:1001000112199": 205,
+      "gas:candidate-vibid:1001000225923": 180,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 19,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 114
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11301,14 +11301,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 164,
-      "Воронин Павел Юрьевич": 153,
-      "Зубенко Виталий Григорьевич": 235,
-      "Куликов Анатолий Сергеевич": 212,
-      "Хлынов Михаил Иванович": 44,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121825": 164,
+      "gas:candidate-vibid:326300370808": 153,
+      "gas:candidate-vibid:1001000112199": 235,
+      "gas:candidate-vibid:1001000225923": 212,
+      "gas:candidate-vibid:1001000136030": 44,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11358,14 +11358,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 137,
-      "Воронин Павел Юрьевич": 269,
-      "Зубенко Виталий Григорьевич": 255,
-      "Куликов Анатолий Сергеевич": 184,
-      "Хлынов Михаил Иванович": 62,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 20,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000121825": 137,
+      "gas:candidate-vibid:326300370808": 269,
+      "gas:candidate-vibid:1001000112199": 255,
+      "gas:candidate-vibid:1001000225923": 184,
+      "gas:candidate-vibid:1001000136030": 62,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 20,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11415,14 +11415,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 103,
-      "Воронин Павел Юрьевич": 192,
-      "Зубенко Виталий Григорьевич": 75,
-      "Куликов Анатолий Сергеевич": 85,
-      "Хлынов Михаил Иванович": 43,
-      "Хука Валерий Владимирович": 18,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000121825": 103,
+      "gas:candidate-vibid:326300370808": 192,
+      "gas:candidate-vibid:1001000112199": 75,
+      "gas:candidate-vibid:1001000225923": 85,
+      "gas:candidate-vibid:1001000136030": 43,
+      "gas:candidate-vibid:1001000217909": 18,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11472,14 +11472,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 37,
-      "Воронин Павел Юрьевич": 34,
-      "Зубенко Виталий Григорьевич": 26,
-      "Куликов Анатолий Сергеевич": 178,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000121825": 37,
+      "gas:candidate-vibid:326300370808": 34,
+      "gas:candidate-vibid:1001000112199": 26,
+      "gas:candidate-vibid:1001000225923": 178,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11529,14 +11529,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 3,
-      "Воронин Павел Юрьевич": 21,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 98,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000121825": 3,
+      "gas:candidate-vibid:326300370808": 21,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 98,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11586,14 +11586,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 94,
-      "Воронин Павел Юрьевич": 150,
-      "Зубенко Виталий Григорьевич": 39,
-      "Куликов Анатолий Сергеевич": 130,
-      "Хлынов Михаил Иванович": 35,
-      "Хука Валерий Владимирович": 26,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000121825": 94,
+      "gas:candidate-vibid:326300370808": 150,
+      "gas:candidate-vibid:1001000112199": 39,
+      "gas:candidate-vibid:1001000225923": 130,
+      "gas:candidate-vibid:1001000136030": 35,
+      "gas:candidate-vibid:1001000217909": 26,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11643,14 +11643,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 160,
-      "Воронин Павел Юрьевич": 214,
-      "Зубенко Виталий Григорьевич": 56,
-      "Куликов Анатолий Сергеевич": 153,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 28,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000121825": 160,
+      "gas:candidate-vibid:326300370808": 214,
+      "gas:candidate-vibid:1001000112199": 56,
+      "gas:candidate-vibid:1001000225923": 153,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 28,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11700,14 +11700,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 124,
-      "Воронин Павел Юрьевич": 189,
-      "Зубенко Виталий Григорьевич": 54,
-      "Куликов Анатолий Сергеевич": 113,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000121825": 124,
+      "gas:candidate-vibid:326300370808": 189,
+      "gas:candidate-vibid:1001000112199": 54,
+      "gas:candidate-vibid:1001000225923": 113,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11757,14 +11757,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 44,
-      "Воронин Павел Юрьевич": 44,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 106,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121825": 44,
+      "gas:candidate-vibid:326300370808": 44,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 106,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11814,14 +11814,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 209,
-      "Воронин Павел Юрьевич": 193,
-      "Зубенко Виталий Григорьевич": 49,
-      "Куликов Анатолий Сергеевич": 189,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 48,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121825": 209,
+      "gas:candidate-vibid:326300370808": 193,
+      "gas:candidate-vibid:1001000112199": 49,
+      "gas:candidate-vibid:1001000225923": 189,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 48,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11871,14 +11871,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 150,
-      "Воронин Павел Юрьевич": 221,
-      "Зубенко Виталий Григорьевич": 36,
-      "Куликов Анатолий Сергеевич": 169,
-      "Хлынов Михаил Иванович": 42,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121825": 150,
+      "gas:candidate-vibid:326300370808": 221,
+      "gas:candidate-vibid:1001000112199": 36,
+      "gas:candidate-vibid:1001000225923": 169,
+      "gas:candidate-vibid:1001000136030": 42,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11928,14 +11928,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 40,
-      "Воронин Павел Юрьевич": 166,
-      "Зубенко Виталий Григорьевич": 27,
-      "Куликов Анатолий Сергеевич": 305,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 40,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121825": 40,
+      "gas:candidate-vibid:326300370808": 166,
+      "gas:candidate-vibid:1001000112199": 27,
+      "gas:candidate-vibid:1001000225923": 305,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 40,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -11985,14 +11985,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 67,
-      "Воронин Павел Юрьевич": 101,
-      "Зубенко Виталий Григорьевич": 34,
-      "Куликов Анатолий Сергеевич": 233,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 29,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121825": 67,
+      "gas:candidate-vibid:326300370808": 101,
+      "gas:candidate-vibid:1001000112199": 34,
+      "gas:candidate-vibid:1001000225923": 233,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 29,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12042,14 +12042,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 140,
-      "Воронин Павел Юрьевич": 360,
-      "Зубенко Виталий Григорьевич": 92,
-      "Куликов Анатолий Сергеевич": 423,
-      "Хлынов Михаил Иванович": 46,
-      "Хука Валерий Владимирович": 42,
-      "Шарков Виктор Федорович": 16,
-      "Против всех": 111
+      "gas:candidate-vibid:1001000121825": 140,
+      "gas:candidate-vibid:326300370808": 360,
+      "gas:candidate-vibid:1001000112199": 92,
+      "gas:candidate-vibid:1001000225923": 423,
+      "gas:candidate-vibid:1001000136030": 46,
+      "gas:candidate-vibid:1001000217909": 42,
+      "gas:candidate-vibid:1001000250444": 16,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12099,14 +12099,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 139,
-      "Воронин Павел Юрьевич": 126,
-      "Зубенко Виталий Григорьевич": 50,
-      "Куликов Анатолий Сергеевич": 395,
-      "Хлынов Михаил Иванович": 31,
-      "Хука Валерий Владимирович": 34,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000121825": 139,
+      "gas:candidate-vibid:326300370808": 126,
+      "gas:candidate-vibid:1001000112199": 50,
+      "gas:candidate-vibid:1001000225923": 395,
+      "gas:candidate-vibid:1001000136030": 31,
+      "gas:candidate-vibid:1001000217909": 34,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12156,14 +12156,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 185,
-      "Воронин Павел Юрьевич": 102,
-      "Зубенко Виталий Григорьевич": 51,
-      "Куликов Анатолий Сергеевич": 211,
-      "Хлынов Михаил Иванович": 36,
-      "Хука Валерий Владимирович": 16,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000121825": 185,
+      "gas:candidate-vibid:326300370808": 102,
+      "gas:candidate-vibid:1001000112199": 51,
+      "gas:candidate-vibid:1001000225923": 211,
+      "gas:candidate-vibid:1001000136030": 36,
+      "gas:candidate-vibid:1001000217909": 16,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12213,14 +12213,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 114,
-      "Воронин Павел Юрьевич": 387,
-      "Зубенко Виталий Григорьевич": 52,
-      "Куликов Анатолий Сергеевич": 327,
-      "Хлынов Михаил Иванович": 34,
-      "Хука Валерий Владимирович": 62,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000121825": 114,
+      "gas:candidate-vibid:326300370808": 387,
+      "gas:candidate-vibid:1001000112199": 52,
+      "gas:candidate-vibid:1001000225923": 327,
+      "gas:candidate-vibid:1001000136030": 34,
+      "gas:candidate-vibid:1001000217909": 62,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12270,14 +12270,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 107,
-      "Воронин Павел Юрьевич": 176,
-      "Зубенко Виталий Григорьевич": 40,
-      "Куликов Анатолий Сергеевич": 233,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000121825": 107,
+      "gas:candidate-vibid:326300370808": 176,
+      "gas:candidate-vibid:1001000112199": 40,
+      "gas:candidate-vibid:1001000225923": 233,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12327,14 +12327,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 110,
-      "Воронин Павел Юрьевич": 241,
-      "Зубенко Виталий Григорьевич": 70,
-      "Куликов Анатолий Сергеевич": 179,
-      "Хлынов Михаил Иванович": 25,
-      "Хука Валерий Владимирович": 53,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000121825": 110,
+      "gas:candidate-vibid:326300370808": 241,
+      "gas:candidate-vibid:1001000112199": 70,
+      "gas:candidate-vibid:1001000225923": 179,
+      "gas:candidate-vibid:1001000136030": 25,
+      "gas:candidate-vibid:1001000217909": 53,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12384,14 +12384,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 93,
-      "Воронин Павел Юрьевич": 158,
-      "Зубенко Виталий Григорьевич": 22,
-      "Куликов Анатолий Сергеевич": 150,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 20,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121825": 93,
+      "gas:candidate-vibid:326300370808": 158,
+      "gas:candidate-vibid:1001000112199": 22,
+      "gas:candidate-vibid:1001000225923": 150,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 20,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12441,14 +12441,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 182,
-      "Воронин Павел Юрьевич": 253,
-      "Зубенко Виталий Григорьевич": 93,
-      "Куликов Анатолий Сергеевич": 189,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 30,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121825": 182,
+      "gas:candidate-vibid:326300370808": 253,
+      "gas:candidate-vibid:1001000112199": 93,
+      "gas:candidate-vibid:1001000225923": 189,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 30,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12498,14 +12498,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 185,
-      "Воронин Павел Юрьевич": 416,
-      "Зубенко Виталий Григорьевич": 101,
-      "Куликов Анатолий Сергеевич": 166,
-      "Хлынов Михаил Иванович": 20,
-      "Хука Валерий Владимирович": 57,
-      "Шарков Виктор Федорович": 16,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000121825": 185,
+      "gas:candidate-vibid:326300370808": 416,
+      "gas:candidate-vibid:1001000112199": 101,
+      "gas:candidate-vibid:1001000225923": 166,
+      "gas:candidate-vibid:1001000136030": 20,
+      "gas:candidate-vibid:1001000217909": 57,
+      "gas:candidate-vibid:1001000250444": 16,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12555,14 +12555,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 10,
-      "Воронин Павел Юрьевич": 80,
-      "Зубенко Виталий Григорьевич": 34,
-      "Куликов Анатолий Сергеевич": 53,
-      "Хлынов Михаил Иванович": 10,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000121825": 10,
+      "gas:candidate-vibid:326300370808": 80,
+      "gas:candidate-vibid:1001000112199": 34,
+      "gas:candidate-vibid:1001000225923": 53,
+      "gas:candidate-vibid:1001000136030": 10,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12612,14 +12612,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 10,
-      "Воронин Павел Юрьевич": 21,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 107,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 6,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121825": 10,
+      "gas:candidate-vibid:326300370808": 21,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 107,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 6,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370415&region=0&sub_region=0&type=429",
@@ -12669,14 +12669,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 81,
-      "Воронин Павел Юрьевич": 223,
-      "Зубенко Виталий Григорьевич": 27,
-      "Куликов Анатолий Сергеевич": 197,
-      "Хлынов Михаил Иванович": 28,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 17,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121825": 81,
+      "gas:candidate-vibid:326300370808": 223,
+      "gas:candidate-vibid:1001000112199": 27,
+      "gas:candidate-vibid:1001000225923": 197,
+      "gas:candidate-vibid:1001000136030": 28,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 17,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -12726,14 +12726,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 63,
-      "Воронин Павел Юрьевич": 228,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 177,
-      "Хлынов Михаил Иванович": 57,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 6,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000121825": 63,
+      "gas:candidate-vibid:326300370808": 228,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 177,
+      "gas:candidate-vibid:1001000136030": 57,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 6,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -12783,14 +12783,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 132,
-      "Воронин Павел Юрьевич": 359,
-      "Зубенко Виталий Григорьевич": 16,
-      "Куликов Анатолий Сергеевич": 206,
-      "Хлынов Михаил Иванович": 72,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 12,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000121825": 132,
+      "gas:candidate-vibid:326300370808": 359,
+      "gas:candidate-vibid:1001000112199": 16,
+      "gas:candidate-vibid:1001000225923": 206,
+      "gas:candidate-vibid:1001000136030": 72,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 12,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -12840,14 +12840,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 117,
-      "Воронин Павел Юрьевич": 437,
-      "Зубенко Виталий Григорьевич": 31,
-      "Куликов Анатолий Сергеевич": 199,
-      "Хлынов Михаил Иванович": 56,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 20,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000121825": 117,
+      "gas:candidate-vibid:326300370808": 437,
+      "gas:candidate-vibid:1001000112199": 31,
+      "gas:candidate-vibid:1001000225923": 199,
+      "gas:candidate-vibid:1001000136030": 56,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 20,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -12897,14 +12897,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 110,
-      "Воронин Павел Юрьевич": 311,
-      "Зубенко Виталий Григорьевич": 27,
-      "Куликов Анатолий Сергеевич": 268,
-      "Хлынов Михаил Иванович": 36,
-      "Хука Валерий Владимирович": 23,
-      "Шарков Виктор Федорович": 13,
-      "Против всех": 131
+      "gas:candidate-vibid:1001000121825": 110,
+      "gas:candidate-vibid:326300370808": 311,
+      "gas:candidate-vibid:1001000112199": 27,
+      "gas:candidate-vibid:1001000225923": 268,
+      "gas:candidate-vibid:1001000136030": 36,
+      "gas:candidate-vibid:1001000217909": 23,
+      "gas:candidate-vibid:1001000250444": 13,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -12954,14 +12954,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 159,
-      "Воронин Павел Юрьевич": 312,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 212,
-      "Хлынов Михаил Иванович": 51,
-      "Хука Валерий Владимирович": 14,
-      "Шарков Виктор Федорович": 22,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000121825": 159,
+      "gas:candidate-vibid:326300370808": 312,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 212,
+      "gas:candidate-vibid:1001000136030": 51,
+      "gas:candidate-vibid:1001000217909": 14,
+      "gas:candidate-vibid:1001000250444": 22,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13011,14 +13011,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 112,
-      "Воронин Павел Юрьевич": 408,
-      "Зубенко Виталий Григорьевич": 18,
-      "Куликов Анатолий Сергеевич": 253,
-      "Хлынов Михаил Иванович": 55,
-      "Хука Валерий Владимирович": 5,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000121825": 112,
+      "gas:candidate-vibid:326300370808": 408,
+      "gas:candidate-vibid:1001000112199": 18,
+      "gas:candidate-vibid:1001000225923": 253,
+      "gas:candidate-vibid:1001000136030": 55,
+      "gas:candidate-vibid:1001000217909": 5,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13068,14 +13068,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 81,
-      "Воронин Павел Юрьевич": 231,
-      "Зубенко Виталий Григорьевич": 10,
-      "Куликов Анатолий Сергеевич": 170,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 13,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000121825": 81,
+      "gas:candidate-vibid:326300370808": 231,
+      "gas:candidate-vibid:1001000112199": 10,
+      "gas:candidate-vibid:1001000225923": 170,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 13,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13125,14 +13125,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 95,
-      "Воронин Павел Юрьевич": 257,
-      "Зубенко Виталий Григорьевич": 11,
-      "Куликов Анатолий Сергеевич": 206,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 15,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000121825": 95,
+      "gas:candidate-vibid:326300370808": 257,
+      "gas:candidate-vibid:1001000112199": 11,
+      "gas:candidate-vibid:1001000225923": 206,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 15,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13182,14 +13182,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 73,
-      "Воронин Павел Юрьевич": 234,
-      "Зубенко Виталий Григорьевич": 23,
-      "Куликов Анатолий Сергеевич": 162,
-      "Хлынов Михаил Иванович": 44,
-      "Хука Валерий Владимирович": 10,
-      "Шарков Виктор Федорович": 9,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000121825": 73,
+      "gas:candidate-vibid:326300370808": 234,
+      "gas:candidate-vibid:1001000112199": 23,
+      "gas:candidate-vibid:1001000225923": 162,
+      "gas:candidate-vibid:1001000136030": 44,
+      "gas:candidate-vibid:1001000217909": 10,
+      "gas:candidate-vibid:1001000250444": 9,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13239,14 +13239,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 51,
-      "Воронин Павел Юрьевич": 147,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 70,
-      "Хлынов Михаил Иванович": 30,
-      "Хука Валерий Владимирович": 15,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000121825": 51,
+      "gas:candidate-vibid:326300370808": 147,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 70,
+      "gas:candidate-vibid:1001000136030": 30,
+      "gas:candidate-vibid:1001000217909": 15,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13296,14 +13296,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 88,
-      "Воронин Павел Юрьевич": 280,
-      "Зубенко Виталий Григорьевич": 15,
-      "Куликов Анатолий Сергеевич": 120,
-      "Хлынов Михаил Иванович": 28,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121825": 88,
+      "gas:candidate-vibid:326300370808": 280,
+      "gas:candidate-vibid:1001000112199": 15,
+      "gas:candidate-vibid:1001000225923": 120,
+      "gas:candidate-vibid:1001000136030": 28,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13353,14 +13353,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 37,
-      "Воронин Павел Юрьевич": 34,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 25,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121825": 37,
+      "gas:candidate-vibid:326300370808": 34,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 25,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13410,14 +13410,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 11,
-      "Воронин Павел Юрьевич": 97,
-      "Зубенко Виталий Григорьевич": 8,
-      "Куликов Анатолий Сергеевич": 423,
-      "Хлынов Михаил Иванович": 9,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121825": 11,
+      "gas:candidate-vibid:326300370808": 97,
+      "gas:candidate-vibid:1001000112199": 8,
+      "gas:candidate-vibid:1001000225923": 423,
+      "gas:candidate-vibid:1001000136030": 9,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13467,14 +13467,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 47,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 82,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 47,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 82,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13524,14 +13524,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 17,
-      "Воронин Павел Юрьевич": 124,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 144,
-      "Хлынов Михаил Иванович": 17,
-      "Хука Валерий Владимирович": 4,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000121825": 17,
+      "gas:candidate-vibid:326300370808": 124,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 144,
+      "gas:candidate-vibid:1001000136030": 17,
+      "gas:candidate-vibid:1001000217909": 4,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13581,14 +13581,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 9,
-      "Воронин Павел Юрьевич": 64,
-      "Зубенко Виталий Григорьевич": 2,
-      "Куликов Анатолий Сергеевич": 64,
-      "Хлынов Михаил Иванович": 4,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121825": 9,
+      "gas:candidate-vibid:326300370808": 64,
+      "gas:candidate-vibid:1001000112199": 2,
+      "gas:candidate-vibid:1001000225923": 64,
+      "gas:candidate-vibid:1001000136030": 4,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13638,14 +13638,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 57,
-      "Воронин Павел Юрьевич": 209,
-      "Зубенко Виталий Григорьевич": 19,
-      "Куликов Анатолий Сергеевич": 157,
-      "Хлынов Михаил Иванович": 23,
-      "Хука Валерий Владимирович": 7,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 54
+      "gas:candidate-vibid:1001000121825": 57,
+      "gas:candidate-vibid:326300370808": 209,
+      "gas:candidate-vibid:1001000112199": 19,
+      "gas:candidate-vibid:1001000225923": 157,
+      "gas:candidate-vibid:1001000136030": 23,
+      "gas:candidate-vibid:1001000217909": 7,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 54
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13695,14 +13695,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 33,
-      "Воронин Павел Юрьевич": 240,
-      "Зубенко Виталий Григорьевич": 5,
-      "Куликов Анатолий Сергеевич": 135,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 12,
-      "Шарков Виктор Федорович": 8,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000121825": 33,
+      "gas:candidate-vibid:326300370808": 240,
+      "gas:candidate-vibid:1001000112199": 5,
+      "gas:candidate-vibid:1001000225923": 135,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 12,
+      "gas:candidate-vibid:1001000250444": 8,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13752,14 +13752,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 15,
-      "Воронин Павел Юрьевич": 162,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 61,
-      "Хлынов Михаил Иванович": 13,
-      "Хука Валерий Владимирович": 3,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000121825": 15,
+      "gas:candidate-vibid:326300370808": 162,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 61,
+      "gas:candidate-vibid:1001000136030": 13,
+      "gas:candidate-vibid:1001000217909": 3,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13809,14 +13809,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 1,
-      "Воронин Павел Юрьевич": 91,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 21,
-      "Хлынов Михаил Иванович": 7,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121825": 1,
+      "gas:candidate-vibid:326300370808": 91,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 21,
+      "gas:candidate-vibid:1001000136030": 7,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13866,14 +13866,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 23,
-      "Зубенко Виталий Григорьевич": 0,
-      "Куликов Анатолий Сергеевич": 32,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 0,
-      "Шарков Виктор Федорович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 23,
+      "gas:candidate-vibid:1001000112199": 0,
+      "gas:candidate-vibid:1001000225923": 32,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 0,
+      "gas:candidate-vibid:1001000250444": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13923,14 +13923,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 6,
-      "Воронин Павел Юрьевич": 141,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 54,
-      "Хлынов Михаил Иванович": 8,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121825": 6,
+      "gas:candidate-vibid:326300370808": 141,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 54,
+      "gas:candidate-vibid:1001000136030": 8,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -13980,14 +13980,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 77,
-      "Воронин Павел Юрьевич": 431,
-      "Зубенко Виталий Григорьевич": 17,
-      "Куликов Анатолий Сергеевич": 354,
-      "Хлынов Михаил Иванович": 67,
-      "Хука Валерий Владимирович": 17,
-      "Шарков Виктор Федорович": 10,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000121825": 77,
+      "gas:candidate-vibid:326300370808": 431,
+      "gas:candidate-vibid:1001000112199": 17,
+      "gas:candidate-vibid:1001000225923": 354,
+      "gas:candidate-vibid:1001000136030": 67,
+      "gas:candidate-vibid:1001000217909": 17,
+      "gas:candidate-vibid:1001000250444": 10,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14037,14 +14037,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 29,
-      "Воронин Павел Юрьевич": 179,
-      "Зубенко Виталий Григорьевич": 6,
-      "Куликов Анатолий Сергеевич": 160,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 11,
-      "Шарков Виктор Федорович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121825": 29,
+      "gas:candidate-vibid:326300370808": 179,
+      "gas:candidate-vibid:1001000112199": 6,
+      "gas:candidate-vibid:1001000225923": 160,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 11,
+      "gas:candidate-vibid:1001000250444": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14094,14 +14094,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 2,
-      "Воронин Павел Юрьевич": 25,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 59,
-      "Хлынов Михаил Иванович": 0,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121825": 2,
+      "gas:candidate-vibid:326300370808": 25,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 59,
+      "gas:candidate-vibid:1001000136030": 0,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14151,14 +14151,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 10,
-      "Воронин Павел Юрьевич": 36,
-      "Зубенко Виталий Григорьевич": 3,
-      "Куликов Анатолий Сергеевич": 82,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121825": 10,
+      "gas:candidate-vibid:326300370808": 36,
+      "gas:candidate-vibid:1001000112199": 3,
+      "gas:candidate-vibid:1001000225923": 82,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14208,14 +14208,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 16,
-      "Воронин Павел Юрьевич": 241,
-      "Зубенко Виталий Григорьевич": 12,
-      "Куликов Анатолий Сергеевич": 67,
-      "Хлынов Михаил Иванович": 15,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000121825": 16,
+      "gas:candidate-vibid:326300370808": 241,
+      "gas:candidate-vibid:1001000112199": 12,
+      "gas:candidate-vibid:1001000225923": 67,
+      "gas:candidate-vibid:1001000136030": 15,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14265,14 +14265,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 28,
-      "Воронин Павел Юрьевич": 309,
-      "Зубенко Виталий Григорьевич": 15,
-      "Куликов Анатолий Сергеевич": 87,
-      "Хлынов Михаил Иванович": 41,
-      "Хука Валерий Владимирович": 25,
-      "Шарков Виктор Федорович": 11,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000121825": 28,
+      "gas:candidate-vibid:326300370808": 309,
+      "gas:candidate-vibid:1001000112199": 15,
+      "gas:candidate-vibid:1001000225923": 87,
+      "gas:candidate-vibid:1001000136030": 41,
+      "gas:candidate-vibid:1001000217909": 25,
+      "gas:candidate-vibid:1001000250444": 11,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14322,14 +14322,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 96,
-      "Воронин Павел Юрьевич": 370,
-      "Зубенко Виталий Григорьевич": 9,
-      "Куликов Анатолий Сергеевич": 248,
-      "Хлынов Михаил Иванович": 14,
-      "Хука Валерий Владимирович": 32,
-      "Шарков Виктор Федорович": 4,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000121825": 96,
+      "gas:candidate-vibid:326300370808": 370,
+      "gas:candidate-vibid:1001000112199": 9,
+      "gas:candidate-vibid:1001000225923": 248,
+      "gas:candidate-vibid:1001000136030": 14,
+      "gas:candidate-vibid:1001000217909": 32,
+      "gas:candidate-vibid:1001000250444": 4,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14379,14 +14379,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 53,
-      "Воронин Павел Юрьевич": 402,
-      "Зубенко Виталий Григорьевич": 7,
-      "Куликов Анатолий Сергеевич": 176,
-      "Хлынов Михаил Иванович": 19,
-      "Хука Валерий Владимирович": 35,
-      "Шарков Виктор Федорович": 14,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000121825": 53,
+      "gas:candidate-vibid:326300370808": 402,
+      "gas:candidate-vibid:1001000112199": 7,
+      "gas:candidate-vibid:1001000225923": 176,
+      "gas:candidate-vibid:1001000136030": 19,
+      "gas:candidate-vibid:1001000217909": 35,
+      "gas:candidate-vibid:1001000250444": 14,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14436,14 +14436,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 12,
-      "Воронин Павел Юрьевич": 101,
-      "Зубенко Виталий Григорьевич": 4,
-      "Куликов Анатолий Сергеевич": 17,
-      "Хлынов Михаил Иванович": 2,
-      "Хука Валерий Владимирович": 1,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121825": 12,
+      "gas:candidate-vibid:326300370808": 101,
+      "gas:candidate-vibid:1001000112199": 4,
+      "gas:candidate-vibid:1001000225923": 17,
+      "gas:candidate-vibid:1001000136030": 2,
+      "gas:candidate-vibid:1001000217909": 1,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",
@@ -14493,14 +14493,14 @@ export const duma_2003_uik_428_region_26_part_003 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Бурлуцкий Юрий Иванович": 5,
-      "Воронин Павел Юрьевич": 93,
-      "Зубенко Виталий Григорьевич": 1,
-      "Куликов Анатолий Сергеевич": 29,
-      "Хлынов Михаил Иванович": 3,
-      "Хука Валерий Владимирович": 2,
-      "Шарков Виктор Федорович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121825": 5,
+      "gas:candidate-vibid:326300370808": 93,
+      "gas:candidate-vibid:1001000112199": 1,
+      "gas:candidate-vibid:1001000225923": 29,
+      "gas:candidate-vibid:1001000136030": 3,
+      "gas:candidate-vibid:1001000217909": 2,
+      "gas:candidate-vibid:1001000250444": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=263003004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=326300370416&region=0&sub_region=0&type=429",

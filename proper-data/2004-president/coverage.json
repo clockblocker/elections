@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "election": "2004-president",
   "regions": [
     {
@@ -285,11 +285,9 @@
       "regionName": "Московская область",
       "discovered_tik_count": 73,
       "discovered_uik_count": 3248,
-      "uiks_with_candidate_results": 3247,
+      "uiks_with_candidate_results": 3248,
       "uiks_with_known_tik": 3248,
-      "missing_report_types": [
-        "candidate"
-      ],
+      "missing_report_types": [],
       "reconciliation_status": "failed"
     },
     {
@@ -493,11 +491,9 @@
       "regionName": "Тверская область",
       "discovered_tik_count": 46,
       "discovered_uik_count": 1365,
-      "uiks_with_candidate_results": 1364,
+      "uiks_with_candidate_results": 1365,
       "uiks_with_known_tik": 1365,
-      "missing_report_types": [
-        "candidate"
-      ],
+      "missing_report_types": [],
       "reconciliation_status": "failed"
     },
     {
@@ -931,11 +927,9 @@
       "regionName": "Амурская область",
       "discovered_tik_count": 28,
       "discovered_uik_count": 793,
-      "uiks_with_candidate_results": 792,
+      "uiks_with_candidate_results": 793,
       "uiks_with_known_tik": 793,
-      "missing_report_types": [
-        "candidate"
-      ],
+      "missing_report_types": [],
       "reconciliation_status": "failed"
     },
     {
@@ -995,7 +989,7 @@
       "regionName": "Мурманская область",
       "discovered_tik_count": 19,
       "discovered_uik_count": 687,
-      "uiks_with_candidate_results": 658,
+      "uiks_with_candidate_results": 659,
       "uiks_with_known_tik": 687,
       "missing_report_types": [
         "candidate"
@@ -1045,11 +1039,9 @@
       "regionName": "Свердловская область",
       "discovered_tik_count": 80,
       "discovered_uik_count": 2501,
-      "uiks_with_candidate_results": 2500,
+      "uiks_with_candidate_results": 2501,
       "uiks_with_known_tik": 2501,
-      "missing_report_types": [
-        "candidate"
-      ],
+      "missing_report_types": [],
       "reconciliation_status": "failed"
     },
     {
@@ -1113,19 +1105,279 @@
       "reconciliation_status": "passed"
     }
   ],
+  "registry_gates": {
+    "sources_complete": true,
+    "registry_counts_complete": true,
+    "every_result_choice_matched_to_official_identity": true,
+    "identity_key_formulas_valid": true,
+    "uik_and_tik_vote_key_sets_valid": true,
+    "regular_and_special_winner_keys_exclusive": true,
+    "allowed_source_anomalies_exact": true,
+    "literal_elected_and_unique_highest_winner_agree": true,
+    "allowed_anomalies": [
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "206200075649",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "228200074900",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000904321"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "special:against-all"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "241200070733",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000894545",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000904321"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "241200070735",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000894540",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "243200083386",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "251200077705",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894540"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321",
+          "special:against-all"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "265200075594",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "266200078108",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000904321",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "266200078117",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "266200084492",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000904321"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894545",
+          "special:against-all"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "266200084493",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000894540"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321",
+          "special:against-all"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "2772000100984",
+        "present_vote_keys": [
+          "special:against-all"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "289200072363",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000883213"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321",
+          "special:against-all"
+        ]
+      },
+      {
+        "allowed": true,
+        "kind": "partial-official-tik-candidate-map",
+        "election": "2004-president",
+        "tik_tvd": "784700068324",
+        "present_vote_keys": [
+          "gas:candidate-vibid:1001000893101",
+          "gas:candidate-vibid:1001000894173"
+        ],
+        "missing_vote_keys": [
+          "gas:candidate-vibid:1001000883213",
+          "gas:candidate-vibid:1001000894540",
+          "gas:candidate-vibid:1001000894545",
+          "gas:candidate-vibid:1001000904321",
+          "special:against-all"
+        ]
+      }
+    ],
+    "errors": {
+      "sources": [],
+      "registry": [],
+      "identity": [],
+      "winner": []
+    },
+    "passed": true,
+    "publishable": true
+  },
   "summary": {
     "regions": 91,
     "districts": 0,
     "tiks": 2757,
     "uiks": 95847,
-    "complete_uiks": 95774,
-    "missing_hierarchy_uiks": 73,
+    "complete_uiks": 95779,
+    "missing_hierarchy_uiks": 68,
     "incomplete_uiks": 0,
-    "reconciliation_failures": 383,
+    "reconciliation_failures": 361,
     "build_errors": 0,
     "duplicate_conflicts": 0,
     "direct_recovery_requests": 99,
-    "direct_recovery_valid": 26
+    "direct_recovery_valid": 31,
+    "registry_sources_complete": true,
+    "registry_gates_passed": true
   },
   "failed_direct_recovery": [
     {
@@ -1201,9 +1453,9 @@
       "contest": "candidate",
       "report_type": 226,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=252000034&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=425400671979&region=25&sub_region=25&vibid=425400671979&type=226",
-      "status": 403,
-      "sha256": "70737a7ebd73399460242a7d2bcf4ca9344e897203c204bd9e918ce763ff44e3",
-      "validation_error": null
+      "status": 200,
+      "sha256": "e573d1a12de2a13e961b1bd84e679ca3d72514e710e7b3fbb45ea83222c2634d",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "425400671982",
@@ -1300,9 +1552,9 @@
       "contest": "candidate",
       "report_type": 226,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=252000034&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=425400672010&region=25&sub_region=25&vibid=425400672010&type=226",
-      "status": 403,
-      "sha256": "677aa5837246dba93a7ebed1417fadb4ddb3ba31370fd552f99f2cd54546eecd",
-      "validation_error": null
+      "status": 200,
+      "sha256": "1ae6ae6903613a31988603d6e792dbbb48427721511c3abd9af1958af6819ac8",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "425400672011",
@@ -1347,17 +1599,6 @@
       "status": 200,
       "sha256": "4dd879e67b2497bc058229a93d7f00da8881d93f12cf71c1c1103212258e0528",
       "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "428402667586",
-      "tik_tvd": "228200074900",
-      "region": "28",
-      "contest": "candidate",
-      "report_type": 226,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=282000018&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=428402667586&region=28&sub_region=28&vibid=428402667586&type=226",
-      "status": 403,
-      "sha256": "cad0b7ac23ba2b82edccd8721c9946863fb4159982c34d07191ad8538fd39a8a",
-      "validation_error": null
     },
     {
       "entity_id": "439400772682",
@@ -1534,28 +1775,6 @@
       "status": 200,
       "sha256": "a4daec98ac5899aedab828606b167b70ffe1525c1459fa8de1655faa516ab833",
       "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "450406670664",
-      "tik_tvd": "250200090900",
-      "region": "50",
-      "contest": "candidate",
-      "report_type": 226,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=502000065&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=450406670664&region=50&sub_region=50&vibid=450406670664&type=226",
-      "status": 403,
-      "sha256": "38fad61df0bc607d7535b7935d4bd070abe7b64ab55b5c446420d1899a8da38b",
-      "validation_error": null
-    },
-    {
-      "entity_id": "451400770570",
-      "tik_tvd": "251200077705",
-      "region": "51",
-      "contest": "candidate",
-      "report_type": 226,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000013&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=451400770570&region=51&sub_region=51&vibid=451400770570&type=226",
-      "status": 403,
-      "sha256": "499036feae8b815e0f144a588a3100d8945f1fae52027227bd1072d81a115c7c",
-      "validation_error": null
     },
     {
       "entity_id": "451401273751",
@@ -1740,9 +1959,9 @@
       "contest": "candidate",
       "report_type": 226,
       "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=512000014&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=451401273963&region=51&sub_region=51&vibid=451401273963&type=226",
-      "status": 403,
-      "sha256": "f714e628acc51c47c7d21a850d52ab8d48c71eed9af223efd79af54659d7d2ef",
-      "validation_error": null
+      "status": 200,
+      "sha256": "a498fd83ce9378777a8abb1a12ad0da05ecb4cca12048b655f3449a11036c774",
+      "validation_error": "ValueError: page has no direct commission protocol"
     },
     {
       "entity_id": "451401273964",
@@ -1886,28 +2105,6 @@
       "status": 200,
       "sha256": "b9ae9a3bc629a76983f47c5e1f3a30943287eda9a9ea0412277623d9dbb78877",
       "validation_error": "ValueError: page has no direct commission protocol"
-    },
-    {
-      "entity_id": "466407366854",
-      "tik_tvd": "266200078108",
-      "region": "66",
-      "contest": "candidate",
-      "report_type": 226,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=662000067&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=466407366854&region=66&sub_region=66&vibid=466407366854&type=226",
-      "status": 403,
-      "sha256": "b8467674a48116da31f5383565d887a5675a8a420ff1e39a812bc1978ced2d18",
-      "validation_error": null
-    },
-    {
-      "entity_id": "469404571285",
-      "tik_tvd": "269200083453",
-      "region": "69",
-      "contest": "candidate",
-      "report_type": 226,
-      "requested_url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=692000027&vrn=1001000882950&global=true&prver=0&pronetvd=null&tvd=469404571285&region=69&sub_region=69&vibid=469404571285&type=226",
-      "status": 403,
-      "sha256": "191d3663b18a0b81bdb8a24da5c94789fb2441b5332e53a71c3a1e384446f5a3",
-      "validation_error": null
     },
     {
       "entity_id": "478400273379",

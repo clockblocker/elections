@@ -32,14 +32,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 94,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 504,
-      "Собчак Ксения Анатольевна": 34,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 24
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 94,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 504,
+      "gas:candidate-vibid:100100084956361": 34,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -79,14 +79,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 193,
-      "Жириновский Владимир Вольфович": 47,
-      "Путин Владимир Владимирович": 1108,
-      "Собчак Ксения Анатольевна": 62,
-      "Сурайкин Максим Александрович": 16,
-      "Титов Борис Юрьевич": 50,
-      "Явлинский Григорий Алексеевич": 42
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 193,
+      "gas:candidate-vibid:100100084907814": 47,
+      "gas:candidate-vibid:100100084986022": 1108,
+      "gas:candidate-vibid:100100084956361": 62,
+      "gas:candidate-vibid:100100084946387": 16,
+      "gas:candidate-vibid:100100084928393": 50,
+      "gas:candidate-vibid:100100084937056": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -126,14 +126,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 125,
-      "Жириновский Владимир Вольфович": 53,
-      "Путин Владимир Владимирович": 761,
-      "Собчак Ксения Анатольевна": 30,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 34
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 125,
+      "gas:candidate-vibid:100100084907814": 53,
+      "gas:candidate-vibid:100100084986022": 761,
+      "gas:candidate-vibid:100100084956361": 30,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -173,14 +173,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 134,
-      "Жириновский Владимир Вольфович": 75,
-      "Путин Владимир Владимирович": 818,
-      "Собчак Ксения Анатольевна": 61,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 134,
+      "gas:candidate-vibid:100100084907814": 75,
+      "gas:candidate-vibid:100100084986022": 818,
+      "gas:candidate-vibid:100100084956361": 61,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -220,14 +220,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 162,
-      "Жириновский Владимир Вольфович": 64,
-      "Путин Владимир Владимирович": 1039,
-      "Собчак Ксения Анатольевна": 56,
-      "Сурайкин Максим Александрович": 15,
-      "Титов Борис Юрьевич": 25,
-      "Явлинский Григорий Алексеевич": 41
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 162,
+      "gas:candidate-vibid:100100084907814": 64,
+      "gas:candidate-vibid:100100084986022": 1039,
+      "gas:candidate-vibid:100100084956361": 56,
+      "gas:candidate-vibid:100100084946387": 15,
+      "gas:candidate-vibid:100100084928393": 25,
+      "gas:candidate-vibid:100100084937056": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -267,14 +267,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 153,
-      "Жириновский Владимир Вольфович": 61,
-      "Путин Владимир Владимирович": 930,
-      "Собчак Ксения Анатольевна": 46,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 39
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 153,
+      "gas:candidate-vibid:100100084907814": 61,
+      "gas:candidate-vibid:100100084986022": 930,
+      "gas:candidate-vibid:100100084956361": 46,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -314,14 +314,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 17,
-      "Грудинин Павел Николаевич": 141,
-      "Жириновский Владимир Вольфович": 65,
-      "Путин Владимир Владимирович": 1004,
-      "Собчак Ксения Анатольевна": 59,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 43
+      "gas:candidate-vibid:100100084946464": 17,
+      "gas:candidate-vibid:100100085002829": 141,
+      "gas:candidate-vibid:100100084907814": 65,
+      "gas:candidate-vibid:100100084986022": 1004,
+      "gas:candidate-vibid:100100084956361": 59,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -361,14 +361,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 166,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 1001,
-      "Собчак Ксения Анатольевна": 54,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 20
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 166,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 1001,
+      "gas:candidate-vibid:100100084956361": 54,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -408,14 +408,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 147,
-      "Жириновский Владимир Вольфович": 63,
-      "Путин Владимир Владимирович": 1013,
-      "Собчак Ксения Анатольевна": 55,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 27,
-      "Явлинский Григорий Алексеевич": 37
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 147,
+      "gas:candidate-vibid:100100084907814": 63,
+      "gas:candidate-vibid:100100084986022": 1013,
+      "gas:candidate-vibid:100100084956361": 55,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 27,
+      "gas:candidate-vibid:100100084937056": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -455,14 +455,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 154,
-      "Жириновский Владимир Вольфович": 60,
-      "Путин Владимир Владимирович": 983,
-      "Собчак Ксения Анатольевна": 43,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 19
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 154,
+      "gas:candidate-vibid:100100084907814": 60,
+      "gas:candidate-vibid:100100084986022": 983,
+      "gas:candidate-vibid:100100084956361": 43,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -502,14 +502,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 117,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 912,
-      "Собчак Ксения Анатольевна": 27,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 13,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 117,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 912,
+      "gas:candidate-vibid:100100084956361": 27,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 13,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -549,14 +549,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 170,
-      "Жириновский Владимир Вольфович": 107,
-      "Путин Владимир Владимирович": 1145,
-      "Собчак Ксения Анатольевна": 30,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 170,
+      "gas:candidate-vibid:100100084907814": 107,
+      "gas:candidate-vibid:100100084986022": 1145,
+      "gas:candidate-vibid:100100084956361": 30,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -596,14 +596,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 145,
-      "Жириновский Владимир Вольфович": 78,
-      "Путин Владимир Владимирович": 915,
-      "Собчак Ксения Анатольевна": 36,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 145,
+      "gas:candidate-vibid:100100084907814": 78,
+      "gas:candidate-vibid:100100084986022": 915,
+      "gas:candidate-vibid:100100084956361": 36,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -643,14 +643,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 161,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 981,
-      "Собчак Ксения Анатольевна": 24,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 14
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 161,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 981,
+      "gas:candidate-vibid:100100084956361": 24,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -690,14 +690,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 120,
-      "Жириновский Владимир Вольфович": 62,
-      "Путин Владимир Владимирович": 901,
-      "Собчак Ксения Анатольевна": 24,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 120,
+      "gas:candidate-vibid:100100084907814": 62,
+      "gas:candidate-vibid:100100084986022": 901,
+      "gas:candidate-vibid:100100084956361": 24,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -737,14 +737,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 85,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 502,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 85,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 502,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -784,14 +784,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 150,
-      "Жириновский Владимир Вольфович": 70,
-      "Путин Владимир Владимирович": 1068,
-      "Собчак Ксения Анатольевна": 38,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 150,
+      "gas:candidate-vibid:100100084907814": 70,
+      "gas:candidate-vibid:100100084986022": 1068,
+      "gas:candidate-vibid:100100084956361": 38,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -831,14 +831,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 143,
-      "Жириновский Владимир Вольфович": 55,
-      "Путин Владимир Владимирович": 859,
-      "Собчак Ксения Анатольевна": 50,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 27,
-      "Явлинский Григорий Алексеевич": 50
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 143,
+      "gas:candidate-vibid:100100084907814": 55,
+      "gas:candidate-vibid:100100084986022": 859,
+      "gas:candidate-vibid:100100084956361": 50,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 27,
+      "gas:candidate-vibid:100100084937056": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -878,14 +878,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 98,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 747,
-      "Собчак Ксения Анатольевна": 21,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 98,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 747,
+      "gas:candidate-vibid:100100084956361": 21,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -925,14 +925,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 167,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 938,
-      "Собчак Ксения Анатольевна": 67,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 28,
-      "Явлинский Григорий Алексеевич": 43
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 167,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 938,
+      "gas:candidate-vibid:100100084956361": 67,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 28,
+      "gas:candidate-vibid:100100084937056": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -972,14 +972,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 167,
-      "Жириновский Владимир Вольфович": 64,
-      "Путин Владимир Владимирович": 926,
-      "Собчак Ксения Анатольевна": 63,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 36
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 167,
+      "gas:candidate-vibid:100100084907814": 64,
+      "gas:candidate-vibid:100100084986022": 926,
+      "gas:candidate-vibid:100100084956361": 63,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1019,14 +1019,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 174,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 961,
-      "Собчак Ксения Анатольевна": 88,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 40
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 174,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 961,
+      "gas:candidate-vibid:100100084956361": 88,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1066,14 +1066,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 94,
-      "Жириновский Владимир Вольфович": 35,
-      "Путин Владимир Владимирович": 452,
-      "Собчак Ксения Анатольевна": 31,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 14,
-      "Явлинский Григорий Алексеевич": 18
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 94,
+      "gas:candidate-vibid:100100084907814": 35,
+      "gas:candidate-vibid:100100084986022": 452,
+      "gas:candidate-vibid:100100084956361": 31,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 14,
+      "gas:candidate-vibid:100100084937056": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1113,14 +1113,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 183,
-      "Жириновский Владимир Вольфович": 34,
-      "Путин Владимир Владимирович": 745,
-      "Собчак Ксения Анатольевна": 69,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 43
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 183,
+      "gas:candidate-vibid:100100084907814": 34,
+      "gas:candidate-vibid:100100084986022": 745,
+      "gas:candidate-vibid:100100084956361": 69,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1160,14 +1160,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 125,
-      "Жириновский Владимир Вольфович": 44,
-      "Путин Владимир Владимирович": 677,
-      "Собчак Ксения Анатольевна": 49,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 12,
-      "Явлинский Григорий Алексеевич": 34
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 125,
+      "gas:candidate-vibid:100100084907814": 44,
+      "gas:candidate-vibid:100100084986022": 677,
+      "gas:candidate-vibid:100100084956361": 49,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 12,
+      "gas:candidate-vibid:100100084937056": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1207,14 +1207,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 15,
-      "Грудинин Павел Николаевич": 123,
-      "Жириновский Владимир Вольфович": 52,
-      "Путин Владимир Владимирович": 942,
-      "Собчак Ксения Анатольевна": 39,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 29
+      "gas:candidate-vibid:100100084946464": 15,
+      "gas:candidate-vibid:100100085002829": 123,
+      "gas:candidate-vibid:100100084907814": 52,
+      "gas:candidate-vibid:100100084986022": 942,
+      "gas:candidate-vibid:100100084956361": 39,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1254,14 +1254,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 115,
-      "Жириновский Владимир Вольфович": 42,
-      "Путин Владимир Владимирович": 651,
-      "Собчак Ксения Анатольевна": 41,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 51
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 115,
+      "gas:candidate-vibid:100100084907814": 42,
+      "gas:candidate-vibid:100100084986022": 651,
+      "gas:candidate-vibid:100100084956361": 41,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1301,14 +1301,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 166,
-      "Жириновский Владимир Вольфович": 59,
-      "Путин Владимир Владимирович": 1105,
-      "Собчак Ксения Анатольевна": 76,
-      "Сурайкин Максим Александрович": 15,
-      "Титов Борис Юрьевич": 23,
-      "Явлинский Григорий Алексеевич": 53
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 166,
+      "gas:candidate-vibid:100100084907814": 59,
+      "gas:candidate-vibid:100100084986022": 1105,
+      "gas:candidate-vibid:100100084956361": 76,
+      "gas:candidate-vibid:100100084946387": 15,
+      "gas:candidate-vibid:100100084928393": 23,
+      "gas:candidate-vibid:100100084937056": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1348,14 +1348,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 11,
-      "Грудинин Павел Николаевич": 159,
-      "Жириновский Владимир Вольфович": 60,
-      "Путин Владимир Владимирович": 959,
-      "Собчак Ксения Анатольевна": 64,
-      "Сурайкин Максим Александрович": 14,
-      "Титов Борис Юрьевич": 21,
-      "Явлинский Григорий Алексеевич": 58
+      "gas:candidate-vibid:100100084946464": 11,
+      "gas:candidate-vibid:100100085002829": 159,
+      "gas:candidate-vibid:100100084907814": 60,
+      "gas:candidate-vibid:100100084986022": 959,
+      "gas:candidate-vibid:100100084956361": 64,
+      "gas:candidate-vibid:100100084946387": 14,
+      "gas:candidate-vibid:100100084928393": 21,
+      "gas:candidate-vibid:100100084937056": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1395,14 +1395,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 91,
-      "Жириновский Владимир Вольфович": 50,
-      "Путин Владимир Владимирович": 650,
-      "Собчак Ксения Анатольевна": 43,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 9,
-      "Явлинский Григорий Алексеевич": 23
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 91,
+      "gas:candidate-vibid:100100084907814": 50,
+      "gas:candidate-vibid:100100084986022": 650,
+      "gas:candidate-vibid:100100084956361": 43,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 9,
+      "gas:candidate-vibid:100100084937056": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1442,14 +1442,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 123,
-      "Жириновский Владимир Вольфович": 70,
-      "Путин Владимир Владимирович": 944,
-      "Собчак Ксения Анатольевна": 45,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 26,
-      "Явлинский Григорий Алексеевич": 39
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 123,
+      "gas:candidate-vibid:100100084907814": 70,
+      "gas:candidate-vibid:100100084986022": 944,
+      "gas:candidate-vibid:100100084956361": 45,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 26,
+      "gas:candidate-vibid:100100084937056": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1489,14 +1489,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 131,
-      "Жириновский Владимир Вольфович": 55,
-      "Путин Владимир Владимирович": 872,
-      "Собчак Ксения Анатольевна": 48,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 131,
+      "gas:candidate-vibid:100100084907814": 55,
+      "gas:candidate-vibid:100100084986022": 872,
+      "gas:candidate-vibid:100100084956361": 48,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1536,14 +1536,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 141,
-      "Жириновский Владимир Вольфович": 49,
-      "Путин Владимир Владимирович": 729,
-      "Собчак Ксения Анатольевна": 51,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 31
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 141,
+      "gas:candidate-vibid:100100084907814": 49,
+      "gas:candidate-vibid:100100084986022": 729,
+      "gas:candidate-vibid:100100084956361": 51,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1583,14 +1583,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 116,
-      "Жириновский Владимир Вольфович": 64,
-      "Путин Владимир Владимирович": 896,
-      "Собчак Ксения Анатольевна": 43,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 44
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 116,
+      "gas:candidate-vibid:100100084907814": 64,
+      "gas:candidate-vibid:100100084986022": 896,
+      "gas:candidate-vibid:100100084956361": 43,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1630,14 +1630,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 78,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 607,
-      "Собчак Ксения Анатольевна": 34,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 78,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 607,
+      "gas:candidate-vibid:100100084956361": 34,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1677,14 +1677,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 9,
-      "Грудинин Павел Николаевич": 123,
-      "Жириновский Владимир Вольфович": 47,
-      "Путин Владимир Владимирович": 852,
-      "Собчак Ксения Анатольевна": 51,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 9,
+      "gas:candidate-vibid:100100085002829": 123,
+      "gas:candidate-vibid:100100084907814": 47,
+      "gas:candidate-vibid:100100084986022": 852,
+      "gas:candidate-vibid:100100084956361": 51,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1724,14 +1724,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 137,
-      "Жириновский Владимир Вольфович": 43,
-      "Путин Владимир Владимирович": 695,
-      "Собчак Ксения Анатольевна": 44,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 10,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 137,
+      "gas:candidate-vibid:100100084907814": 43,
+      "gas:candidate-vibid:100100084986022": 695,
+      "gas:candidate-vibid:100100084956361": 44,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 10,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1771,14 +1771,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 147,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 800,
-      "Собчак Ксения Анатольевна": 63,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 38
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 147,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 800,
+      "gas:candidate-vibid:100100084956361": 63,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1818,14 +1818,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 108,
-      "Жириновский Владимир Вольфович": 59,
-      "Путин Владимир Владимирович": 790,
-      "Собчак Ксения Анатольевна": 32,
-      "Сурайкин Максим Александрович": 12,
-      "Титов Борис Юрьевич": 14,
-      "Явлинский Григорий Алексеевич": 24
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 108,
+      "gas:candidate-vibid:100100084907814": 59,
+      "gas:candidate-vibid:100100084986022": 790,
+      "gas:candidate-vibid:100100084956361": 32,
+      "gas:candidate-vibid:100100084946387": 12,
+      "gas:candidate-vibid:100100084928393": 14,
+      "gas:candidate-vibid:100100084937056": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1865,14 +1865,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 164,
-      "Жириновский Владимир Вольфович": 73,
-      "Путин Владимир Владимирович": 1053,
-      "Собчак Ксения Анатольевна": 39,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 27
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 164,
+      "gas:candidate-vibid:100100084907814": 73,
+      "gas:candidate-vibid:100100084986022": 1053,
+      "gas:candidate-vibid:100100084956361": 39,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1912,14 +1912,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 171,
-      "Жириновский Владимир Вольфович": 66,
-      "Путин Владимир Владимирович": 1031,
-      "Собчак Ксения Анатольевна": 65,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 22,
-      "Явлинский Григорий Алексеевич": 45
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 171,
+      "gas:candidate-vibid:100100084907814": 66,
+      "gas:candidate-vibid:100100084986022": 1031,
+      "gas:candidate-vibid:100100084956361": 65,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 22,
+      "gas:candidate-vibid:100100084937056": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -1959,14 +1959,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 168,
-      "Жириновский Владимир Вольфович": 105,
-      "Путин Владимир Владимирович": 1338,
-      "Собчак Ксения Анатольевна": 46,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 25
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 168,
+      "gas:candidate-vibid:100100084907814": 105,
+      "gas:candidate-vibid:100100084986022": 1338,
+      "gas:candidate-vibid:100100084956361": 46,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2006,14 +2006,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 6,
-      "Грудинин Павел Николаевич": 121,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 781,
-      "Собчак Ксения Анатольевна": 34,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 24
+      "gas:candidate-vibid:100100084946464": 6,
+      "gas:candidate-vibid:100100085002829": 121,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 781,
+      "gas:candidate-vibid:100100084956361": 34,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2053,14 +2053,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 7,
-      "Грудинин Павел Николаевич": 121,
-      "Жириновский Владимир Вольфович": 56,
-      "Путин Владимир Владимирович": 930,
-      "Собчак Ксения Анатольевна": 42,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 18
+      "gas:candidate-vibid:100100084946464": 7,
+      "gas:candidate-vibid:100100085002829": 121,
+      "gas:candidate-vibid:100100084907814": 56,
+      "gas:candidate-vibid:100100084986022": 930,
+      "gas:candidate-vibid:100100084956361": 42,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2100,14 +2100,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 2,
-      "Грудинин Павел Николаевич": 56,
-      "Жириновский Владимир Вольфович": 31,
-      "Путин Владимир Владимирович": 386,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 6,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 2,
+      "gas:candidate-vibid:100100085002829": 56,
+      "gas:candidate-vibid:100100084907814": 31,
+      "gas:candidate-vibid:100100084986022": 386,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 6,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2147,14 +2147,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 225,
-      "Жириновский Владимир Вольфович": 89,
-      "Путин Владимир Владимирович": 1234,
-      "Собчак Ксения Анатольевна": 34,
-      "Сурайкин Максим Александрович": 15,
-      "Титов Борис Юрьевич": 20,
-      "Явлинский Григорий Алексеевич": 24
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 225,
+      "gas:candidate-vibid:100100084907814": 89,
+      "gas:candidate-vibid:100100084986022": 1234,
+      "gas:candidate-vibid:100100084956361": 34,
+      "gas:candidate-vibid:100100084946387": 15,
+      "gas:candidate-vibid:100100084928393": 20,
+      "gas:candidate-vibid:100100084937056": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2194,14 +2194,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 8,
-      "Грудинин Павел Николаевич": 181,
-      "Жириновский Владимир Вольфович": 93,
-      "Путин Владимир Владимирович": 1145,
-      "Собчак Ксения Анатольевна": 41,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 18,
-      "Явлинский Григорий Алексеевич": 15
+      "gas:candidate-vibid:100100084946464": 8,
+      "gas:candidate-vibid:100100085002829": 181,
+      "gas:candidate-vibid:100100084907814": 93,
+      "gas:candidate-vibid:100100084986022": 1145,
+      "gas:candidate-vibid:100100084956361": 41,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 18,
+      "gas:candidate-vibid:100100084937056": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2241,14 +2241,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 173,
-      "Жириновский Владимир Вольфович": 89,
-      "Путин Владимир Владимирович": 1260,
-      "Собчак Ксения Анатольевна": 39,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 16,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 173,
+      "gas:candidate-vibid:100100084907814": 89,
+      "gas:candidate-vibid:100100084986022": 1260,
+      "gas:candidate-vibid:100100084956361": 39,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 16,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2288,14 +2288,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 14,
-      "Грудинин Павел Николаевич": 169,
-      "Жириновский Владимир Вольфович": 76,
-      "Путин Владимир Владимирович": 1106,
-      "Собчак Ксения Анатольевна": 38,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 17,
-      "Явлинский Григорий Алексеевич": 24
+      "gas:candidate-vibid:100100084946464": 14,
+      "gas:candidate-vibid:100100085002829": 169,
+      "gas:candidate-vibid:100100084907814": 76,
+      "gas:candidate-vibid:100100084986022": 1106,
+      "gas:candidate-vibid:100100084956361": 38,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 17,
+      "gas:candidate-vibid:100100084937056": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2335,14 +2335,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 19,
-      "Жириновский Владимир Вольфович": 52,
-      "Путин Владимир Владимирович": 172,
-      "Собчак Ксения Анатольевна": 28,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 19,
+      "gas:candidate-vibid:100100084907814": 52,
+      "gas:candidate-vibid:100100084986022": 172,
+      "gas:candidate-vibid:100100084956361": 28,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675113&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675113&type=227",
@@ -2382,14 +2382,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 12,
-      "Грудинин Павел Николаевич": 216,
-      "Жириновский Владимир Вольфович": 83,
-      "Путин Владимир Владимирович": 1481,
-      "Собчак Ксения Анатольевна": 12,
-      "Сурайкин Максим Александрович": 7,
-      "Титов Борис Юрьевич": 16,
-      "Явлинский Григорий Алексеевич": 16
+      "gas:candidate-vibid:100100084946464": 12,
+      "gas:candidate-vibid:100100085002829": 216,
+      "gas:candidate-vibid:100100084907814": 83,
+      "gas:candidate-vibid:100100084986022": 1481,
+      "gas:candidate-vibid:100100084956361": 12,
+      "gas:candidate-vibid:100100084946387": 7,
+      "gas:candidate-vibid:100100084928393": 16,
+      "gas:candidate-vibid:100100084937056": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2429,14 +2429,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 130,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 1079,
-      "Собчак Ксения Анатольевна": 41,
-      "Сурайкин Максим Александрович": 9,
-      "Титов Борис Юрьевич": 11,
-      "Явлинский Григорий Алексеевич": 8
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 130,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 1079,
+      "gas:candidate-vibid:100100084956361": 41,
+      "gas:candidate-vibid:100100084946387": 9,
+      "gas:candidate-vibid:100100084928393": 11,
+      "gas:candidate-vibid:100100084937056": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2476,14 +2476,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 13,
-      "Грудинин Павел Николаевич": 162,
-      "Жириновский Владимир Вольфович": 75,
-      "Путин Владимир Владимирович": 1094,
-      "Собчак Ксения Анатольевна": 37,
-      "Сурайкин Максим Александрович": 10,
-      "Титов Борис Юрьевич": 19,
-      "Явлинский Григорий Алексеевич": 21
+      "gas:candidate-vibid:100100084946464": 13,
+      "gas:candidate-vibid:100100085002829": 162,
+      "gas:candidate-vibid:100100084907814": 75,
+      "gas:candidate-vibid:100100084986022": 1094,
+      "gas:candidate-vibid:100100084956361": 37,
+      "gas:candidate-vibid:100100084946387": 10,
+      "gas:candidate-vibid:100100084928393": 19,
+      "gas:candidate-vibid:100100084937056": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2523,14 +2523,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 16,
-      "Грудинин Павел Николаевич": 227,
-      "Жириновский Владимир Вольфович": 113,
-      "Путин Владимир Владимирович": 1650,
-      "Собчак Ксения Анатольевна": 63,
-      "Сурайкин Максим Александрович": 13,
-      "Титов Борис Юрьевич": 24,
-      "Явлинский Григорий Алексеевич": 25
+      "gas:candidate-vibid:100100084946464": 16,
+      "gas:candidate-vibid:100100085002829": 227,
+      "gas:candidate-vibid:100100084907814": 113,
+      "gas:candidate-vibid:100100084986022": 1650,
+      "gas:candidate-vibid:100100084956361": 63,
+      "gas:candidate-vibid:100100084946387": 13,
+      "gas:candidate-vibid:100100084928393": 24,
+      "gas:candidate-vibid:100100084937056": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2570,14 +2570,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 10,
-      "Грудинин Павел Николаевич": 122,
-      "Жириновский Владимир Вольфович": 46,
-      "Путин Владимир Владимирович": 737,
-      "Собчак Ксения Анатольевна": 36,
-      "Сурайкин Максим Александрович": 8,
-      "Титов Борис Юрьевич": 21,
-      "Явлинский Григорий Алексеевич": 17
+      "gas:candidate-vibid:100100084946464": 10,
+      "gas:candidate-vibid:100100085002829": 122,
+      "gas:candidate-vibid:100100084907814": 46,
+      "gas:candidate-vibid:100100084986022": 737,
+      "gas:candidate-vibid:100100084956361": 36,
+      "gas:candidate-vibid:100100084946387": 8,
+      "gas:candidate-vibid:100100084928393": 21,
+      "gas:candidate-vibid:100100084937056": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2617,14 +2617,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 22,
-      "Грудинин Павел Николаевич": 292,
-      "Жириновский Владимир Вольфович": 116,
-      "Путин Владимир Владимирович": 1799,
-      "Собчак Ксения Анатольевна": 73,
-      "Сурайкин Максим Александрович": 21,
-      "Титов Борис Юрьевич": 35,
-      "Явлинский Григорий Алексеевич": 25
+      "gas:candidate-vibid:100100084946464": 22,
+      "gas:candidate-vibid:100100085002829": 292,
+      "gas:candidate-vibid:100100084907814": 116,
+      "gas:candidate-vibid:100100084986022": 1799,
+      "gas:candidate-vibid:100100084956361": 73,
+      "gas:candidate-vibid:100100084946387": 21,
+      "gas:candidate-vibid:100100084928393": 35,
+      "gas:candidate-vibid:100100084937056": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2664,14 +2664,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 27,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 207,
-      "Собчак Ксения Анатольевна": 9,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 27,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 207,
+      "gas:candidate-vibid:100100084956361": 9,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2711,14 +2711,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 43,
-      "Жириновский Владимир Вольфович": 16,
-      "Путин Владимир Владимирович": 363,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 43,
+      "gas:candidate-vibid:100100084907814": 16,
+      "gas:candidate-vibid:100100084986022": 363,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2758,14 +2758,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 4,
-      "Путин Владимир Владимирович": 72,
-      "Собчак Ксения Анатольевна": 2,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 4,
+      "gas:candidate-vibid:100100084986022": 72,
+      "gas:candidate-vibid:100100084956361": 2,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2805,14 +2805,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 132,
-      "Жириновский Владимир Вольфович": 89,
-      "Путин Владимир Владимирович": 657,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 132,
+      "gas:candidate-vibid:100100084907814": 89,
+      "gas:candidate-vibid:100100084986022": 657,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2852,14 +2852,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 61,
-      "Жириновский Владимир Вольфович": 67,
-      "Путин Владимир Владимирович": 596,
-      "Собчак Ксения Анатольевна": 31,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 5,
-      "Явлинский Григорий Алексеевич": 12
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 61,
+      "gas:candidate-vibid:100100084907814": 67,
+      "gas:candidate-vibid:100100084986022": 596,
+      "gas:candidate-vibid:100100084956361": 31,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 5,
+      "gas:candidate-vibid:100100084937056": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2899,14 +2899,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 33,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 301,
-      "Собчак Ксения Анатольевна": 6,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 0
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 33,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 301,
+      "gas:candidate-vibid:100100084956361": 6,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2946,14 +2946,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 54,
-      "Жириновский Владимир Вольфович": 39,
-      "Путин Владимир Владимирович": 409,
-      "Собчак Ксения Анатольевна": 17,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 54,
+      "gas:candidate-vibid:100100084907814": 39,
+      "gas:candidate-vibid:100100084986022": 409,
+      "gas:candidate-vibid:100100084956361": 17,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -2993,14 +2993,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 83,
-      "Жириновский Владимир Вольфович": 48,
-      "Путин Владимир Владимирович": 587,
-      "Собчак Ксения Анатольевна": 15,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 1,
-      "Явлинский Григорий Алексеевич": 9
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 83,
+      "gas:candidate-vibid:100100084907814": 48,
+      "gas:candidate-vibid:100100084986022": 587,
+      "gas:candidate-vibid:100100084956361": 15,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 1,
+      "gas:candidate-vibid:100100084937056": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3040,14 +3040,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 4,
-      "Грудинин Павел Николаевич": 50,
-      "Жириновский Владимир Вольфович": 22,
-      "Путин Владимир Владимирович": 577,
-      "Собчак Ксения Анатольевна": 9,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 4,
+      "gas:candidate-vibid:100100085002829": 50,
+      "gas:candidate-vibid:100100084907814": 22,
+      "gas:candidate-vibid:100100084986022": 577,
+      "gas:candidate-vibid:100100084956361": 9,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3087,14 +3087,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 28,
-      "Жириновский Владимир Вольфович": 29,
-      "Путин Владимир Владимирович": 336,
-      "Собчак Ксения Анатольевна": 9,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 28,
+      "gas:candidate-vibid:100100084907814": 29,
+      "gas:candidate-vibid:100100084986022": 336,
+      "gas:candidate-vibid:100100084956361": 9,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3134,14 +3134,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 40,
-      "Жириновский Владимир Вольфович": 32,
-      "Путин Владимир Владимирович": 468,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 4,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 40,
+      "gas:candidate-vibid:100100084907814": 32,
+      "gas:candidate-vibid:100100084986022": 468,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 4,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3181,14 +3181,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 66,
-      "Жириновский Владимир Вольфович": 41,
-      "Путин Владимир Владимирович": 502,
-      "Собчак Ксения Анатольевна": 7,
-      "Сурайкин Максим Александрович": 4,
-      "Титов Борис Юрьевич": 2,
-      "Явлинский Григорий Алексеевич": 4
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 66,
+      "gas:candidate-vibid:100100084907814": 41,
+      "gas:candidate-vibid:100100084986022": 502,
+      "gas:candidate-vibid:100100084956361": 7,
+      "gas:candidate-vibid:100100084946387": 4,
+      "gas:candidate-vibid:100100084928393": 2,
+      "gas:candidate-vibid:100100084937056": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3228,14 +3228,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 1,
-      "Грудинин Павел Николаевич": 39,
-      "Жириновский Владимир Вольфович": 21,
-      "Путин Владимир Владимирович": 360,
-      "Собчак Ксения Анатольевна": 3,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 1
+      "gas:candidate-vibid:100100084946464": 1,
+      "gas:candidate-vibid:100100085002829": 39,
+      "gas:candidate-vibid:100100084907814": 21,
+      "gas:candidate-vibid:100100084986022": 360,
+      "gas:candidate-vibid:100100084956361": 3,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3275,14 +3275,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 101,
-      "Жириновский Владимир Вольфович": 65,
-      "Путин Владимир Владимирович": 793,
-      "Собчак Ксения Анатольевна": 25,
-      "Сурайкин Максим Александрович": 5,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 6
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 101,
+      "gas:candidate-vibid:100100084907814": 65,
+      "gas:candidate-vibid:100100084986022": 793,
+      "gas:candidate-vibid:100100084956361": 25,
+      "gas:candidate-vibid:100100084946387": 5,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3322,14 +3322,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 5,
-      "Грудинин Павел Николаевич": 51,
-      "Жириновский Владимир Вольфович": 79,
-      "Путин Владимир Владимирович": 477,
-      "Собчак Ксения Анатольевна": 30,
-      "Сурайкин Максим Александрович": 3,
-      "Титов Борис Юрьевич": 6,
-      "Явлинский Григорий Алексеевич": 10
+      "gas:candidate-vibid:100100084946464": 5,
+      "gas:candidate-vibid:100100085002829": 51,
+      "gas:candidate-vibid:100100084907814": 79,
+      "gas:candidate-vibid:100100084986022": 477,
+      "gas:candidate-vibid:100100084956361": 30,
+      "gas:candidate-vibid:100100084946387": 3,
+      "gas:candidate-vibid:100100084928393": 6,
+      "gas:candidate-vibid:100100084937056": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3369,14 +3369,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 27,
-      "Жириновский Владимир Вольфович": 27,
-      "Путин Владимир Владимирович": 462,
-      "Собчак Ксения Анатольевна": 8,
-      "Сурайкин Максим Александрович": 2,
-      "Титов Борис Юрьевич": 3,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 27,
+      "gas:candidate-vibid:100100084907814": 27,
+      "gas:candidate-vibid:100100084986022": 462,
+      "gas:candidate-vibid:100100084956361": 8,
+      "gas:candidate-vibid:100100084946387": 2,
+      "gas:candidate-vibid:100100084928393": 3,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3416,14 +3416,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 65,
-      "Жириновский Владимир Вольфович": 40,
-      "Путин Владимир Владимирович": 523,
-      "Собчак Ксения Анатольевна": 22,
-      "Сурайкин Максим Александрович": 11,
-      "Титов Борис Юрьевич": 8,
-      "Явлинский Григорий Алексеевич": 7
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 65,
+      "gas:candidate-vibid:100100084907814": 40,
+      "gas:candidate-vibid:100100084986022": 523,
+      "gas:candidate-vibid:100100084956361": 22,
+      "gas:candidate-vibid:100100084946387": 11,
+      "gas:candidate-vibid:100100084928393": 8,
+      "gas:candidate-vibid:100100084937056": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3463,14 +3463,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 0,
-      "Грудинин Павел Николаевич": 7,
-      "Жириновский Владимир Вольфович": 6,
-      "Путин Владимир Владимирович": 110,
-      "Собчак Ксения Анатольевна": 4,
-      "Сурайкин Максим Александрович": 0,
-      "Титов Борис Юрьевич": 0,
-      "Явлинский Григорий Алексеевич": 2
+      "gas:candidate-vibid:100100084946464": 0,
+      "gas:candidate-vibid:100100085002829": 7,
+      "gas:candidate-vibid:100100084907814": 6,
+      "gas:candidate-vibid:100100084986022": 110,
+      "gas:candidate-vibid:100100084956361": 4,
+      "gas:candidate-vibid:100100084946387": 0,
+      "gas:candidate-vibid:100100084928393": 0,
+      "gas:candidate-vibid:100100084937056": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",
@@ -3510,14 +3510,14 @@ export const president_2018_uik_226_region_39_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бабурин Сергей Николаевич": 3,
-      "Грудинин Павел Николаевич": 51,
-      "Жириновский Владимир Вольфович": 36,
-      "Путин Владимир Владимирович": 470,
-      "Собчак Ксения Анатольевна": 10,
-      "Сурайкин Максим Александрович": 1,
-      "Титов Борис Юрьевич": 7,
-      "Явлинский Григорий Алексеевич": 3
+      "gas:candidate-vibid:100100084946464": 3,
+      "gas:candidate-vibid:100100085002829": 51,
+      "gas:candidate-vibid:100100084907814": 36,
+      "gas:candidate-vibid:100100084986022": 470,
+      "gas:candidate-vibid:100100084956361": 10,
+      "gas:candidate-vibid:100100084946387": 1,
+      "gas:candidate-vibid:100100084928393": 7,
+      "gas:candidate-vibid:100100084937056": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/kaliningrad?action=show&root=1000039&tvd=2392000675114&vrn=100100084849062&region=39&global=&sub_region=39&prver=0&pronetvd=null&vibid=2392000675114&type=227",

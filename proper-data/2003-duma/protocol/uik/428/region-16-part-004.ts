@@ -42,15 +42,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 20,
-      "Брусов Сергей Анатольевич": 7,
-      "Веренцов Александр Петрович": 18,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 22,
-      "Магдеев Марат Фаикович": 353,
-      "Сафиуллин Фандас Шакирович": 12,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000131378": 20,
+      "gas:candidate-vibid:1001000201800": 7,
+      "gas:candidate-vibid:1001000190290": 18,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 22,
+      "gas:candidate-vibid:1001000225902": 353,
+      "gas:candidate-vibid:1001000187987": 12,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -100,15 +100,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 26,
-      "Брусов Сергей Анатольевич": 21,
-      "Веренцов Александр Петрович": 49,
-      "Гибадуллин Ринат Фаритович": 17,
-      "Казаков Владимир Евгеньевич": 63,
-      "Магдеев Марат Фаикович": 366,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000131378": 26,
+      "gas:candidate-vibid:1001000201800": 21,
+      "gas:candidate-vibid:1001000190290": 49,
+      "gas:candidate-vibid:1001000289803": 17,
+      "gas:candidate-vibid:1001000121797": 63,
+      "gas:candidate-vibid:1001000225902": 366,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -158,15 +158,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 9,
-      "Брусов Сергей Анатольевич": 12,
-      "Веренцов Александр Петрович": 14,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 18,
-      "Магдеев Марат Фаикович": 236,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131378": 9,
+      "gas:candidate-vibid:1001000201800": 12,
+      "gas:candidate-vibid:1001000190290": 14,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 18,
+      "gas:candidate-vibid:1001000225902": 236,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -216,15 +216,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 23,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 6,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 110,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131378": 23,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 6,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 110,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -274,15 +274,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 16,
-      "Брусов Сергей Анатольевич": 7,
-      "Веренцов Александр Петрович": 35,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 35,
-      "Магдеев Марат Фаикович": 282,
-      "Сафиуллин Фандас Шакирович": 9,
-      "Сафиуллин Хикматулла Гатиятович": 12,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000131378": 16,
+      "gas:candidate-vibid:1001000201800": 7,
+      "gas:candidate-vibid:1001000190290": 35,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 35,
+      "gas:candidate-vibid:1001000225902": 282,
+      "gas:candidate-vibid:1001000187987": 9,
+      "gas:candidate-vibid:316300170578": 12,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -332,15 +332,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 10,
-      "Брусов Сергей Анатольевич": 10,
-      "Веренцов Александр Петрович": 25,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 12,
-      "Магдеев Марат Фаикович": 285,
-      "Сафиуллин Фандас Шакирович": 10,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000131378": 10,
+      "gas:candidate-vibid:1001000201800": 10,
+      "gas:candidate-vibid:1001000190290": 25,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 12,
+      "gas:candidate-vibid:1001000225902": 285,
+      "gas:candidate-vibid:1001000187987": 10,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -390,15 +390,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 5,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 97,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 5,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 97,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -448,15 +448,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 13,
-      "Брусов Сергей Анатольевич": 4,
-      "Веренцов Александр Петрович": 12,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 45,
-      "Магдеев Марат Фаикович": 301,
-      "Сафиуллин Фандас Шакирович": 30,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000131378": 13,
+      "gas:candidate-vibid:1001000201800": 4,
+      "gas:candidate-vibid:1001000190290": 12,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 45,
+      "gas:candidate-vibid:1001000225902": 301,
+      "gas:candidate-vibid:1001000187987": 30,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -506,15 +506,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 11,
-      "Брусов Сергей Анатольевич": 9,
-      "Веренцов Александр Петрович": 28,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 40,
-      "Магдеев Марат Фаикович": 343,
-      "Сафиуллин Фандас Шакирович": 30,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000131378": 11,
+      "gas:candidate-vibid:1001000201800": 9,
+      "gas:candidate-vibid:1001000190290": 28,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 40,
+      "gas:candidate-vibid:1001000225902": 343,
+      "gas:candidate-vibid:1001000187987": 30,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -564,15 +564,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 11,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 15,
-      "Казаков Владимир Евгеньевич": 13,
-      "Магдеев Марат Фаикович": 456,
-      "Сафиуллин Фандас Шакирович": 78,
-      "Сафиуллин Хикматулла Гатиятович": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000131378": 11,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 15,
+      "gas:candidate-vibid:1001000121797": 13,
+      "gas:candidate-vibid:1001000225902": 456,
+      "gas:candidate-vibid:1001000187987": 78,
+      "gas:candidate-vibid:316300170578": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -622,15 +622,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 24,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 23,
-      "Магдеев Марат Фаикович": 724,
-      "Сафиуллин Фандас Шакирович": 63,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 24,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 23,
+      "gas:candidate-vibid:1001000225902": 724,
+      "gas:candidate-vibid:1001000187987": 63,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -680,15 +680,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 37,
-      "Брусов Сергей Анатольевич": 21,
-      "Веренцов Александр Петрович": 149,
-      "Гибадуллин Ринат Фаритович": 35,
-      "Казаков Владимир Евгеньевич": 59,
-      "Магдеев Марат Фаикович": 1687,
-      "Сафиуллин Фандас Шакирович": 94,
-      "Сафиуллин Хикматулла Гатиятович": 13,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000131378": 37,
+      "gas:candidate-vibid:1001000201800": 21,
+      "gas:candidate-vibid:1001000190290": 149,
+      "gas:candidate-vibid:1001000289803": 35,
+      "gas:candidate-vibid:1001000121797": 59,
+      "gas:candidate-vibid:1001000225902": 1687,
+      "gas:candidate-vibid:1001000187987": 94,
+      "gas:candidate-vibid:316300170578": 13,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -738,15 +738,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 8,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 7,
-      "Магдеев Марат Фаикович": 251,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 8,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 7,
+      "gas:candidate-vibid:1001000225902": 251,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001023&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171411&region=0&sub_region=0&type=429",
@@ -796,15 +796,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 16,
-      "Брусов Сергей Анатольевич": 30,
-      "Веренцов Александр Петрович": 14,
-      "Гибадуллин Ринат Фаритович": 10,
-      "Казаков Владимир Евгеньевич": 64,
-      "Магдеев Марат Фаикович": 307,
-      "Сафиуллин Фандас Шакирович": 19,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000131378": 16,
+      "gas:candidate-vibid:1001000201800": 30,
+      "gas:candidate-vibid:1001000190290": 14,
+      "gas:candidate-vibid:1001000289803": 10,
+      "gas:candidate-vibid:1001000121797": 64,
+      "gas:candidate-vibid:1001000225902": 307,
+      "gas:candidate-vibid:1001000187987": 19,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -854,15 +854,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 12,
-      "Брусов Сергей Анатольевич": 25,
-      "Веренцов Александр Петрович": 25,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 69,
-      "Магдеев Марат Фаикович": 244,
-      "Сафиуллин Фандас Шакирович": 10,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000131378": 12,
+      "gas:candidate-vibid:1001000201800": 25,
+      "gas:candidate-vibid:1001000190290": 25,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 69,
+      "gas:candidate-vibid:1001000225902": 244,
+      "gas:candidate-vibid:1001000187987": 10,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -912,15 +912,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 10,
-      "Брусов Сергей Анатольевич": 16,
-      "Веренцов Александр Петрович": 10,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 70,
-      "Магдеев Марат Фаикович": 212,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 7,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000131378": 10,
+      "gas:candidate-vibid:1001000201800": 16,
+      "gas:candidate-vibid:1001000190290": 10,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 70,
+      "gas:candidate-vibid:1001000225902": 212,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 7,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -970,15 +970,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 16,
-      "Брусов Сергей Анатольевич": 18,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 9,
-      "Казаков Владимир Евгеньевич": 44,
-      "Магдеев Марат Фаикович": 242,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000131378": 16,
+      "gas:candidate-vibid:1001000201800": 18,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 9,
+      "gas:candidate-vibid:1001000121797": 44,
+      "gas:candidate-vibid:1001000225902": 242,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1028,15 +1028,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 26,
-      "Веренцов Александр Петрович": 17,
-      "Гибадуллин Ринат Фаритович": 22,
-      "Казаков Владимир Евгеньевич": 54,
-      "Магдеев Марат Фаикович": 316,
-      "Сафиуллин Фандас Шакирович": 24,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 26,
+      "gas:candidate-vibid:1001000190290": 17,
+      "gas:candidate-vibid:1001000289803": 22,
+      "gas:candidate-vibid:1001000121797": 54,
+      "gas:candidate-vibid:1001000225902": 316,
+      "gas:candidate-vibid:1001000187987": 24,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1086,15 +1086,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 18,
-      "Брусов Сергей Анатольевич": 24,
-      "Веренцов Александр Петрович": 9,
-      "Гибадуллин Ринат Фаритович": 13,
-      "Казаков Владимир Евгеньевич": 45,
-      "Магдеев Марат Фаикович": 320,
-      "Сафиуллин Фандас Шакирович": 15,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000131378": 18,
+      "gas:candidate-vibid:1001000201800": 24,
+      "gas:candidate-vibid:1001000190290": 9,
+      "gas:candidate-vibid:1001000289803": 13,
+      "gas:candidate-vibid:1001000121797": 45,
+      "gas:candidate-vibid:1001000225902": 320,
+      "gas:candidate-vibid:1001000187987": 15,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1144,15 +1144,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 20,
-      "Брусов Сергей Анатольевич": 35,
-      "Веренцов Александр Петрович": 4,
-      "Гибадуллин Ринат Фаритович": 28,
-      "Казаков Владимир Евгеньевич": 46,
-      "Магдеев Марат Фаикович": 305,
-      "Сафиуллин Фандас Шакирович": 29,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000131378": 20,
+      "gas:candidate-vibid:1001000201800": 35,
+      "gas:candidate-vibid:1001000190290": 4,
+      "gas:candidate-vibid:1001000289803": 28,
+      "gas:candidate-vibid:1001000121797": 46,
+      "gas:candidate-vibid:1001000225902": 305,
+      "gas:candidate-vibid:1001000187987": 29,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1202,15 +1202,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 10,
-      "Брусов Сергей Анатольевич": 39,
-      "Веренцов Александр Петрович": 15,
-      "Гибадуллин Ринат Фаритович": 25,
-      "Казаков Владимир Евгеньевич": 44,
-      "Магдеев Марат Фаикович": 264,
-      "Сафиуллин Фандас Шакирович": 15,
-      "Сафиуллин Хикматулла Гатиятович": 10,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000131378": 10,
+      "gas:candidate-vibid:1001000201800": 39,
+      "gas:candidate-vibid:1001000190290": 15,
+      "gas:candidate-vibid:1001000289803": 25,
+      "gas:candidate-vibid:1001000121797": 44,
+      "gas:candidate-vibid:1001000225902": 264,
+      "gas:candidate-vibid:1001000187987": 15,
+      "gas:candidate-vibid:316300170578": 10,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1260,15 +1260,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 48,
-      "Брусов Сергей Анатольевич": 48,
-      "Веренцов Александр Петрович": 20,
-      "Гибадуллин Ринат Фаритович": 26,
-      "Казаков Владимир Евгеньевич": 66,
-      "Магдеев Марат Фаикович": 283,
-      "Сафиуллин Фандас Шакирович": 30,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000131378": 48,
+      "gas:candidate-vibid:1001000201800": 48,
+      "gas:candidate-vibid:1001000190290": 20,
+      "gas:candidate-vibid:1001000289803": 26,
+      "gas:candidate-vibid:1001000121797": 66,
+      "gas:candidate-vibid:1001000225902": 283,
+      "gas:candidate-vibid:1001000187987": 30,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1318,15 +1318,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 33,
-      "Брусов Сергей Анатольевич": 26,
-      "Веренцов Александр Петрович": 18,
-      "Гибадуллин Ринат Фаритович": 21,
-      "Казаков Владимир Евгеньевич": 67,
-      "Магдеев Марат Фаикович": 282,
-      "Сафиуллин Фандас Шакирович": 11,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000131378": 33,
+      "gas:candidate-vibid:1001000201800": 26,
+      "gas:candidate-vibid:1001000190290": 18,
+      "gas:candidate-vibid:1001000289803": 21,
+      "gas:candidate-vibid:1001000121797": 67,
+      "gas:candidate-vibid:1001000225902": 282,
+      "gas:candidate-vibid:1001000187987": 11,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1376,15 +1376,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 36,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 36,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1434,15 +1434,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 6,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 21,
-      "Магдеев Марат Фаикович": 392,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 6,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 21,
+      "gas:candidate-vibid:1001000225902": 392,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1492,15 +1492,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 111,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 111,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1550,15 +1550,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 11,
-      "Веренцов Александр Петрович": 14,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 28,
-      "Магдеев Марат Фаикович": 359,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 11,
+      "gas:candidate-vibid:1001000190290": 14,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 28,
+      "gas:candidate-vibid:1001000225902": 359,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1608,15 +1608,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 102,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 102,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1666,15 +1666,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 6,
-      "Магдеев Марат Фаикович": 166,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 6,
+      "gas:candidate-vibid:1001000225902": 166,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1724,15 +1724,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 6,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 114,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 6,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 114,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1782,15 +1782,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 14,
-      "Веренцов Александр Петрович": 5,
-      "Гибадуллин Ринат Фаритович": 5,
-      "Казаков Владимир Евгеньевич": 20,
-      "Магдеев Марат Фаикович": 195,
-      "Сафиуллин Фандас Шакирович": 14,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 14,
+      "gas:candidate-vibid:1001000190290": 5,
+      "gas:candidate-vibid:1001000289803": 5,
+      "gas:candidate-vibid:1001000121797": 20,
+      "gas:candidate-vibid:1001000225902": 195,
+      "gas:candidate-vibid:1001000187987": 14,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1840,15 +1840,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 302,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 5,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 302,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 5,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1898,15 +1898,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 7,
-      "Магдеев Марат Фаикович": 60,
-      "Сафиуллин Фандас Шакирович": 2,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 7,
+      "gas:candidate-vibid:1001000225902": 60,
+      "gas:candidate-vibid:1001000187987": 2,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -1956,15 +1956,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 17,
-      "Брусов Сергей Анатольевич": 18,
-      "Веренцов Александр Петрович": 9,
-      "Гибадуллин Ринат Фаритович": 11,
-      "Казаков Владимир Евгеньевич": 27,
-      "Магдеев Марат Фаикович": 509,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 17,
+      "gas:candidate-vibid:1001000201800": 18,
+      "gas:candidate-vibid:1001000190290": 9,
+      "gas:candidate-vibid:1001000289803": 11,
+      "gas:candidate-vibid:1001000121797": 27,
+      "gas:candidate-vibid:1001000225902": 509,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2014,15 +2014,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 78,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 78,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2072,15 +2072,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 1,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 114,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 1,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 114,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2130,15 +2130,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 6,
-      "Брусов Сергей Анатольевич": 14,
-      "Веренцов Александр Петрович": 7,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 17,
-      "Магдеев Марат Фаикович": 247,
-      "Сафиуллин Фандас Шакирович": 9,
-      "Сафиуллин Хикматулла Гатиятович": 3,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000131378": 6,
+      "gas:candidate-vibid:1001000201800": 14,
+      "gas:candidate-vibid:1001000190290": 7,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 17,
+      "gas:candidate-vibid:1001000225902": 247,
+      "gas:candidate-vibid:1001000187987": 9,
+      "gas:candidate-vibid:316300170578": 3,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2188,15 +2188,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 136,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 136,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2246,15 +2246,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 9,
-      "Брусов Сергей Анатольевич": 12,
-      "Веренцов Александр Петрович": 12,
-      "Гибадуллин Ринат Фаритович": 6,
-      "Казаков Владимир Евгеньевич": 29,
-      "Магдеев Марат Фаикович": 410,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131378": 9,
+      "gas:candidate-vibid:1001000201800": 12,
+      "gas:candidate-vibid:1001000190290": 12,
+      "gas:candidate-vibid:1001000289803": 6,
+      "gas:candidate-vibid:1001000121797": 29,
+      "gas:candidate-vibid:1001000225902": 410,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2304,15 +2304,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 7,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 197,
-      "Сафиуллин Фандас Шакирович": 7,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 7,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 197,
+      "gas:candidate-vibid:1001000187987": 7,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2362,15 +2362,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 14,
-      "Брусов Сергей Анатольевич": 25,
-      "Веренцов Александр Петрович": 11,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 32,
-      "Магдеев Марат Фаикович": 364,
-      "Сафиуллин Фандас Шакирович": 4,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 14,
+      "gas:candidate-vibid:1001000201800": 25,
+      "gas:candidate-vibid:1001000190290": 11,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 32,
+      "gas:candidate-vibid:1001000225902": 364,
+      "gas:candidate-vibid:1001000187987": 4,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2420,15 +2420,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 1,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 126,
-      "Сафиуллин Фандас Шакирович": 1,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 1,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 126,
+      "gas:candidate-vibid:1001000187987": 1,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2478,15 +2478,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 4,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 226,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 4,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 226,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2536,15 +2536,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 241,
-      "Сафиуллин Фандас Шакирович": 6,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 241,
+      "gas:candidate-vibid:1001000187987": 6,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2594,15 +2594,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 10,
-      "Казаков Владимир Евгеньевич": 7,
-      "Магдеев Марат Фаикович": 179,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 10,
+      "gas:candidate-vibid:1001000121797": 7,
+      "gas:candidate-vibid:1001000225902": 179,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2652,15 +2652,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 219,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 219,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2710,15 +2710,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 2,
-      "Магдеев Марат Фаикович": 55,
-      "Сафиуллин Фандас Шакирович": 3,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 2,
+      "gas:candidate-vibid:1001000225902": 55,
+      "gas:candidate-vibid:1001000187987": 3,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2768,15 +2768,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 5,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 1,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 221,
-      "Сафиуллин Фандас Шакирович": 9,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 5,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 1,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 221,
+      "gas:candidate-vibid:1001000187987": 9,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2826,15 +2826,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 5,
-      "Брусов Сергей Анатольевич": 13,
-      "Веренцов Александр Петрович": 9,
-      "Гибадуллин Ринат Фаритович": 8,
-      "Казаков Владимир Евгеньевич": 37,
-      "Магдеев Марат Фаикович": 207,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000131378": 5,
+      "gas:candidate-vibid:1001000201800": 13,
+      "gas:candidate-vibid:1001000190290": 9,
+      "gas:candidate-vibid:1001000289803": 8,
+      "gas:candidate-vibid:1001000121797": 37,
+      "gas:candidate-vibid:1001000225902": 207,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2884,15 +2884,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 1,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 0,
-      "Магдеев Марат Фаикович": 386,
-      "Сафиуллин Фандас Шакирович": 5,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000131378": 1,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 0,
+      "gas:candidate-vibid:1001000225902": 386,
+      "gas:candidate-vibid:1001000187987": 5,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -2942,15 +2942,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 4,
-      "Брусов Сергей Анатольевич": 11,
-      "Веренцов Александр Петрович": 3,
-      "Гибадуллин Ринат Фаритович": 7,
-      "Казаков Владимир Евгеньевич": 27,
-      "Магдеев Марат Фаикович": 340,
-      "Сафиуллин Фандас Шакирович": 8,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000131378": 4,
+      "gas:candidate-vibid:1001000201800": 11,
+      "gas:candidate-vibid:1001000190290": 3,
+      "gas:candidate-vibid:1001000289803": 7,
+      "gas:candidate-vibid:1001000121797": 27,
+      "gas:candidate-vibid:1001000225902": 340,
+      "gas:candidate-vibid:1001000187987": 8,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -3000,15 +3000,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 3,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 4,
-      "Казаков Владимир Евгеньевич": 3,
-      "Магдеев Марат Фаикович": 421,
-      "Сафиуллин Фандас Шакирович": 33,
-      "Сафиуллин Хикматулла Гатиятович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000131378": 3,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 4,
+      "gas:candidate-vibid:1001000121797": 3,
+      "gas:candidate-vibid:1001000225902": 421,
+      "gas:candidate-vibid:1001000187987": 33,
+      "gas:candidate-vibid:316300170578": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -3058,15 +3058,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 2,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 2,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 293,
-      "Сафиуллин Фандас Шакирович": 12,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 2,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 2,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 293,
+      "gas:candidate-vibid:1001000187987": 12,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -3116,15 +3116,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 0,
-      "Казаков Владимир Евгеньевич": 1,
-      "Магдеев Марат Фаикович": 108,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 0,
+      "gas:candidate-vibid:1001000121797": 1,
+      "gas:candidate-vibid:1001000225902": 108,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -3174,15 +3174,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 2,
-      "Брусов Сергей Анатольевич": 3,
-      "Веренцов Александр Петрович": 2,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 4,
-      "Магдеев Марат Фаикович": 209,
-      "Сафиуллин Фандас Шакирович": 0,
-      "Сафиуллин Хикматулла Гатиятович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000131378": 2,
+      "gas:candidate-vibid:1001000201800": 3,
+      "gas:candidate-vibid:1001000190290": 2,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 4,
+      "gas:candidate-vibid:1001000225902": 209,
+      "gas:candidate-vibid:1001000187987": 0,
+      "gas:candidate-vibid:316300170578": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -3232,15 +3232,15 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Ахметханов Салимхан Миннеханович": 0,
-      "Брусов Сергей Анатольевич": 0,
-      "Веренцов Александр Петрович": 0,
-      "Гибадуллин Ринат Фаритович": 3,
-      "Казаков Владимир Евгеньевич": 5,
-      "Магдеев Марат Фаикович": 706,
-      "Сафиуллин Фандас Шакирович": 9,
-      "Сафиуллин Хикматулла Гатиятович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000131378": 0,
+      "gas:candidate-vibid:1001000201800": 0,
+      "gas:candidate-vibid:1001000190290": 0,
+      "gas:candidate-vibid:1001000289803": 3,
+      "gas:candidate-vibid:1001000121797": 5,
+      "gas:candidate-vibid:1001000225902": 706,
+      "gas:candidate-vibid:1001000187987": 9,
+      "gas:candidate-vibid:316300170578": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163001024&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300171641&region=0&sub_region=0&type=429",
@@ -3290,16 +3290,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 11,
-      "Бердникова Ольга Николаевна": 14,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 521,
-      "Каримова Дания Юсуфовна": 8,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 33,
-      "Столярова Насима Калимовна": 167,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 76
+      "gas:candidate-vibid:316300270501": 11,
+      "gas:candidate-vibid:316300270537": 14,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 521,
+      "gas:candidate-vibid:1001000338519": 8,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 33,
+      "gas:candidate-vibid:1001000121798": 167,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3349,16 +3349,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 9,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 546,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 31,
-      "Столярова Насима Калимовна": 129,
-      "Фомушкин Федор Аркадьевич": 7,
-      "Против всех": 57
+      "gas:candidate-vibid:316300270501": 9,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 546,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 31,
+      "gas:candidate-vibid:1001000121798": 129,
+      "gas:candidate-vibid:1001000113901": 7,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3408,16 +3408,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 6,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 592,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 36,
-      "Столярова Насима Калимовна": 88,
-      "Фомушкин Федор Аркадьевич": 4,
-      "Против всех": 77
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 6,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 592,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 36,
+      "gas:candidate-vibid:1001000121798": 88,
+      "gas:candidate-vibid:1001000113901": 4,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3467,16 +3467,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 6,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 440,
-      "Каримова Дания Юсуфовна": 5,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 15,
-      "Столярова Насима Калимовна": 60,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 67
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 6,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 440,
+      "gas:candidate-vibid:1001000338519": 5,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 15,
+      "gas:candidate-vibid:1001000121798": 60,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3526,16 +3526,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 312,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 312,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3585,16 +3585,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 286,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 286,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3644,16 +3644,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 148,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 148,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3703,16 +3703,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 5,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 366,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 17,
-      "Столярова Насима Калимовна": 15,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 5,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 366,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 17,
+      "gas:candidate-vibid:1001000121798": 15,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3762,16 +3762,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 119,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 119,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3821,16 +3821,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 339,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 339,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3880,16 +3880,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 131,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 131,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3939,16 +3939,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 3,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 200,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 7,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 3,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 200,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 7,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -3998,16 +3998,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 203,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 14,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 203,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 14,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4057,16 +4057,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 88,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 8,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 88,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 8,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4116,16 +4116,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 235,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 235,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4175,16 +4175,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 194,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 194,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4234,16 +4234,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 135,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 135,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4293,16 +4293,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 227,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 4,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 227,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 4,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4352,16 +4352,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 227,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 227,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4411,16 +4411,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 196,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 196,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4470,16 +4470,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 92,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 6,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 92,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 6,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4529,16 +4529,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 182,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 182,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4588,16 +4588,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 207,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 207,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4647,16 +4647,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 122,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 122,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4706,16 +4706,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 172,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 172,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4765,16 +4765,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 303,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 303,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4824,16 +4824,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 229,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 229,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4883,16 +4883,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 220,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 7,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 220,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 7,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -4942,16 +4942,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 318,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 318,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5001,16 +5001,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 232,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 232,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5060,16 +5060,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 181,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 181,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5119,16 +5119,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 191,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 191,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5178,16 +5178,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 115,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 115,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5237,16 +5237,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 111,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 111,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5296,16 +5296,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 129,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 129,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5355,16 +5355,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 162,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 162,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5414,16 +5414,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 194,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 194,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5473,16 +5473,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 11,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 444,
-      "Каримова Дания Юсуфовна": 5,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 10,
-      "Столярова Насима Калимовна": 33,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:316300270501": 11,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 444,
+      "gas:candidate-vibid:1001000338519": 5,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 10,
+      "gas:candidate-vibid:1001000121798": 33,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5532,16 +5532,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 8,
-      "Бердникова Ольга Николаевна": 5,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 464,
-      "Каримова Дания Юсуфовна": 5,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 33,
-      "Столярова Насима Калимовна": 36,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:316300270501": 8,
+      "gas:candidate-vibid:316300270537": 5,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 464,
+      "gas:candidate-vibid:1001000338519": 5,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 33,
+      "gas:candidate-vibid:1001000121798": 36,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5591,16 +5591,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 291,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 291,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5650,16 +5650,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 299,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 9,
-      "Столярова Насима Калимовна": 24,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 299,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 9,
+      "gas:candidate-vibid:1001000121798": 24,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5709,16 +5709,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 442,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 8,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 442,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 8,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5768,16 +5768,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 233,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 233,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5827,16 +5827,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 129,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 129,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5886,16 +5886,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 307,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 307,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -5945,16 +5945,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 284,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 284,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6004,16 +6004,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 92,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 92,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6063,16 +6063,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 390,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 390,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6122,16 +6122,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 135,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 135,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6181,16 +6181,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 309,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 309,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6240,16 +6240,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 433,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 433,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6299,16 +6299,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 217,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 217,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6358,16 +6358,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 334,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 334,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6417,16 +6417,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 271,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 271,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6476,16 +6476,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 123,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 123,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6535,16 +6535,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 340,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 340,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6594,16 +6594,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 215,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 215,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270696&region=0&sub_region=0&type=429",
@@ -6653,16 +6653,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 3,
-      "Бердникова Ольга Николаевна": 4,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 427,
-      "Каримова Дания Юсуфовна": 9,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 7,
-      "Столярова Насима Калимовна": 148,
-      "Фомушкин Федор Аркадьевич": 4,
-      "Против всех": 15
+      "gas:candidate-vibid:316300270501": 3,
+      "gas:candidate-vibid:316300270537": 4,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 427,
+      "gas:candidate-vibid:1001000338519": 9,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 7,
+      "gas:candidate-vibid:1001000121798": 148,
+      "gas:candidate-vibid:1001000113901": 4,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -6712,16 +6712,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 3,
-      "Бердникова Ольга Николаевна": 5,
-      "Бочаров Дмитрий Анатольевич": 10,
-      "Губайдуллин Ринат Шайхуллович": 475,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 3,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 6,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 9
+      "gas:candidate-vibid:316300270501": 3,
+      "gas:candidate-vibid:316300270537": 5,
+      "gas:candidate-vibid:1001000136001": 10,
+      "gas:candidate-vibid:1001000225903": 475,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 3,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 6,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -6771,16 +6771,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 250,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 250,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -6830,16 +6830,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 156,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 8,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 156,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 8,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -6889,16 +6889,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 12,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 407,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 34,
-      "Фомушкин Федор Аркадьевич": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 12,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 407,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 34,
+      "gas:candidate-vibid:1001000113901": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -6948,16 +6948,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 88,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 88,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7007,16 +7007,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 5,
-      "Бердникова Ольга Николаевна": 7,
-      "Бочаров Дмитрий Анатольевич": 11,
-      "Губайдуллин Ринат Шайхуллович": 220,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 9,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:316300270501": 5,
+      "gas:candidate-vibid:316300270537": 7,
+      "gas:candidate-vibid:1001000136001": 11,
+      "gas:candidate-vibid:1001000225903": 220,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 9,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7066,16 +7066,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 3,
-      "Губайдуллин Ринат Шайхуллович": 256,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 8,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 3,
+      "gas:candidate-vibid:1001000225903": 256,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 8,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7125,16 +7125,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 159,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 159,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7184,16 +7184,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 60,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 60,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7243,16 +7243,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 10,
-      "Бочаров Дмитрий Анатольевич": 3,
-      "Губайдуллин Ринат Шайхуллович": 491,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 21,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 10,
+      "gas:candidate-vibid:1001000136001": 3,
+      "gas:candidate-vibid:1001000225903": 491,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 21,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7302,16 +7302,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 354,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 13,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 354,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 13,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7361,16 +7361,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 414,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 6,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 414,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 6,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7420,16 +7420,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 223,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 223,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7479,16 +7479,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 157,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 157,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7538,16 +7538,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 467,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 467,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7597,16 +7597,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 3,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 251,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 5,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 9,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 3,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 251,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 5,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 9,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7656,16 +7656,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 71,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 71,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7715,16 +7715,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 20,
-      "Бердникова Ольга Николаевна": 3,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 729,
-      "Каримова Дания Юсуфовна": 16,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 30,
-      "Столярова Насима Калимовна": 26,
-      "Фомушкин Федор Аркадьевич": 9,
-      "Против всех": 39
+      "gas:candidate-vibid:316300270501": 20,
+      "gas:candidate-vibid:316300270537": 3,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 729,
+      "gas:candidate-vibid:1001000338519": 16,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 30,
+      "gas:candidate-vibid:1001000121798": 26,
+      "gas:candidate-vibid:1001000113901": 9,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7774,16 +7774,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 132,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 132,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7833,16 +7833,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 11,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 460,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 3,
-      "Мухамадиев Ринат Сафиевич": 10,
-      "Столярова Насима Калимовна": 11,
-      "Фомушкин Федор Аркадьевич": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 11,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 460,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 3,
+      "gas:candidate-vibid:1001000190293": 10,
+      "gas:candidate-vibid:1001000121798": 11,
+      "gas:candidate-vibid:1001000113901": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7892,16 +7892,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 152,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 19,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 152,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 19,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -7951,16 +7951,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 11,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 249,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 28,
-      "Фомушкин Федор Аркадьевич": 13,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 11,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 249,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 28,
+      "gas:candidate-vibid:1001000113901": 13,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8010,16 +8010,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 7,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 224,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 11,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 7,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 224,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 11,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8069,16 +8069,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 3,
-      "Бочаров Дмитрий Анатольевич": 7,
-      "Губайдуллин Ринат Шайхуллович": 241,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 5,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 14,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 3,
+      "gas:candidate-vibid:1001000136001": 7,
+      "gas:candidate-vibid:1001000225903": 241,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 5,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 14,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8128,16 +8128,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 3,
-      "Губайдуллин Ринат Шайхуллович": 174,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 8,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 3,
+      "gas:candidate-vibid:1001000225903": 174,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 8,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8187,16 +8187,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 76,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 76,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8246,16 +8246,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 182,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 6,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 182,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 6,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8305,16 +8305,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 3,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 85,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 3,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 85,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8364,16 +8364,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 145,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 145,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8423,16 +8423,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 144,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 144,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8482,16 +8482,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 272,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 272,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8541,16 +8541,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 83,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 83,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8600,16 +8600,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 212,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 212,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8659,16 +8659,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 3,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 367,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 24
+      "gas:candidate-vibid:316300270501": 3,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 367,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8718,16 +8718,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 82,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 82,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8777,16 +8777,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 116,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 116,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8836,16 +8836,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 176,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 7,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 176,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 7,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8895,16 +8895,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 10,
-      "Бердникова Ольга Николаевна": 10,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 347,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 6,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 84,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 10,
+      "gas:candidate-vibid:316300270537": 10,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 347,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 6,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 84,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -8954,16 +8954,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 100,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 100,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9013,16 +9013,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 524,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 8,
-      "Фомушкин Федор Аркадьевич": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 524,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 8,
+      "gas:candidate-vibid:1001000113901": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9072,16 +9072,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 62,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 62,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9131,16 +9131,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 120,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 120,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9190,16 +9190,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 204,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 204,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9249,16 +9249,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 388,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 388,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9308,16 +9308,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 144,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 144,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9367,16 +9367,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 196,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 196,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9426,16 +9426,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 29,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 7,
-      "Губайдуллин Ринат Шайхуллович": 856,
-      "Каримова Дания Юсуфовна": 15,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 32,
-      "Столярова Насима Калимовна": 141,
-      "Фомушкин Федор Аркадьевич": 8,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 29,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 7,
+      "gas:candidate-vibid:1001000225903": 856,
+      "gas:candidate-vibid:1001000338519": 15,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 32,
+      "gas:candidate-vibid:1001000121798": 141,
+      "gas:candidate-vibid:1001000113901": 8,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9485,16 +9485,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 8,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 254,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 8,
-      "Столярова Насима Калимовна": 19,
-      "Фомушкин Федор Аркадьевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:316300270501": 8,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 254,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 8,
+      "gas:candidate-vibid:1001000121798": 19,
+      "gas:candidate-vibid:1001000113901": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9544,16 +9544,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 186,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 14,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 186,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 14,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9603,16 +9603,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 131,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 131,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9662,16 +9662,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 61,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 61,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9721,16 +9721,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 594,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 594,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9780,16 +9780,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 81,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 81,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9839,16 +9839,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 399,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 399,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9898,16 +9898,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 117,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 117,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -9957,16 +9957,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 364,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 364,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10016,16 +10016,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 73,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 73,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10075,16 +10075,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 356,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 4,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 356,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 4,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10134,16 +10134,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 368,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 368,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10193,16 +10193,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 5,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 456,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 11,
-      "Столярова Насима Калимовна": 7,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 5,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 456,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 11,
+      "gas:candidate-vibid:1001000121798": 7,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10252,16 +10252,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 102,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 9,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 102,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 9,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10311,16 +10311,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 217,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 217,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10370,16 +10370,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 205,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 14,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 205,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 14,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10429,16 +10429,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 512,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 512,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10488,16 +10488,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 138,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 138,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10547,16 +10547,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 482,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 11,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 482,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 11,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270742&region=0&sub_region=0&type=429",
@@ -10606,16 +10606,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 12,
-      "Бочаров Дмитрий Анатольевич": 10,
-      "Губайдуллин Ринат Шайхуллович": 205,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 5,
-      "Мухамадиев Ринат Сафиевич": 41,
-      "Столярова Насима Калимовна": 44,
-      "Фомушкин Федор Аркадьевич": 12,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 12,
+      "gas:candidate-vibid:1001000136001": 10,
+      "gas:candidate-vibid:1001000225903": 205,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 5,
+      "gas:candidate-vibid:1001000190293": 41,
+      "gas:candidate-vibid:1001000121798": 44,
+      "gas:candidate-vibid:1001000113901": 12,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -10665,16 +10665,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 9,
-      "Бердникова Ольга Николаевна": 12,
-      "Бочаров Дмитрий Анатольевич": 8,
-      "Губайдуллин Ринат Шайхуллович": 187,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 6,
-      "Мухамадиев Ринат Сафиевич": 43,
-      "Столярова Насима Калимовна": 44,
-      "Фомушкин Федор Аркадьевич": 5,
-      "Против всех": 44
+      "gas:candidate-vibid:316300270501": 9,
+      "gas:candidate-vibid:316300270537": 12,
+      "gas:candidate-vibid:1001000136001": 8,
+      "gas:candidate-vibid:1001000225903": 187,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 6,
+      "gas:candidate-vibid:1001000190293": 43,
+      "gas:candidate-vibid:1001000121798": 44,
+      "gas:candidate-vibid:1001000113901": 5,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -10724,16 +10724,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 14,
-      "Бердникова Ольга Николаевна": 22,
-      "Бочаров Дмитрий Анатольевич": 11,
-      "Губайдуллин Ринат Шайхуллович": 146,
-      "Каримова Дания Юсуфовна": 6,
-      "Королев Юрий Петрович": 15,
-      "Мухамадиев Ринат Сафиевич": 19,
-      "Столярова Насима Калимовна": 33,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 39
+      "gas:candidate-vibid:316300270501": 14,
+      "gas:candidate-vibid:316300270537": 22,
+      "gas:candidate-vibid:1001000136001": 11,
+      "gas:candidate-vibid:1001000225903": 146,
+      "gas:candidate-vibid:1001000338519": 6,
+      "gas:candidate-vibid:1001000126390": 15,
+      "gas:candidate-vibid:1001000190293": 19,
+      "gas:candidate-vibid:1001000121798": 33,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -10783,16 +10783,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 11,
-      "Бердникова Ольга Николаевна": 12,
-      "Бочаров Дмитрий Анатольевич": 9,
-      "Губайдуллин Ринат Шайхуллович": 149,
-      "Каримова Дания Юсуфовна": 8,
-      "Королев Юрий Петрович": 10,
-      "Мухамадиев Ринат Сафиевич": 20,
-      "Столярова Насима Калимовна": 59,
-      "Фомушкин Федор Аркадьевич": 4,
-      "Против всех": 60
+      "gas:candidate-vibid:316300270501": 11,
+      "gas:candidate-vibid:316300270537": 12,
+      "gas:candidate-vibid:1001000136001": 9,
+      "gas:candidate-vibid:1001000225903": 149,
+      "gas:candidate-vibid:1001000338519": 8,
+      "gas:candidate-vibid:1001000126390": 10,
+      "gas:candidate-vibid:1001000190293": 20,
+      "gas:candidate-vibid:1001000121798": 59,
+      "gas:candidate-vibid:1001000113901": 4,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -10842,16 +10842,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 27,
-      "Бердникова Ольга Николаевна": 7,
-      "Бочаров Дмитрий Анатольевич": 11,
-      "Губайдуллин Ринат Шайхуллович": 176,
-      "Каримова Дания Юсуфовна": 4,
-      "Королев Юрий Петрович": 13,
-      "Мухамадиев Ринат Сафиевич": 33,
-      "Столярова Насима Калимовна": 52,
-      "Фомушкин Федор Аркадьевич": 7,
-      "Против всех": 73
+      "gas:candidate-vibid:316300270501": 27,
+      "gas:candidate-vibid:316300270537": 7,
+      "gas:candidate-vibid:1001000136001": 11,
+      "gas:candidate-vibid:1001000225903": 176,
+      "gas:candidate-vibid:1001000338519": 4,
+      "gas:candidate-vibid:1001000126390": 13,
+      "gas:candidate-vibid:1001000190293": 33,
+      "gas:candidate-vibid:1001000121798": 52,
+      "gas:candidate-vibid:1001000113901": 7,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -10901,16 +10901,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 27,
-      "Бердникова Ольга Николаевна": 12,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 255,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 12,
-      "Мухамадиев Ринат Сафиевич": 30,
-      "Столярова Насима Калимовна": 57,
-      "Фомушкин Федор Аркадьевич": 8,
-      "Против всех": 66
+      "gas:candidate-vibid:316300270501": 27,
+      "gas:candidate-vibid:316300270537": 12,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 255,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 12,
+      "gas:candidate-vibid:1001000190293": 30,
+      "gas:candidate-vibid:1001000121798": 57,
+      "gas:candidate-vibid:1001000113901": 8,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -10960,16 +10960,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 6,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 142,
-      "Каримова Дания Юсуфовна": 4,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 11,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 6,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 142,
+      "gas:candidate-vibid:1001000338519": 4,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 11,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11019,16 +11019,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 15,
-      "Бердникова Ольга Николаевна": 10,
-      "Бочаров Дмитрий Анатольевич": 25,
-      "Губайдуллин Ринат Шайхуллович": 518,
-      "Каримова Дания Юсуфовна": 7,
-      "Королев Юрий Петрович": 8,
-      "Мухамадиев Ринат Сафиевич": 8,
-      "Столярова Насима Калимовна": 14,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 44
+      "gas:candidate-vibid:316300270501": 15,
+      "gas:candidate-vibid:316300270537": 10,
+      "gas:candidate-vibid:1001000136001": 25,
+      "gas:candidate-vibid:1001000225903": 518,
+      "gas:candidate-vibid:1001000338519": 7,
+      "gas:candidate-vibid:1001000126390": 8,
+      "gas:candidate-vibid:1001000190293": 8,
+      "gas:candidate-vibid:1001000121798": 14,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11078,16 +11078,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 9,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 274,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 6,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 10,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 9,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 274,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 6,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 10,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11137,16 +11137,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 80,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 5,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 6,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 80,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 5,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 6,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11196,16 +11196,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 3,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 88,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 5,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 3,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 88,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 5,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11255,16 +11255,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 283,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 283,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11314,16 +11314,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 10,
-      "Бердникова Ольга Николаевна": 6,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 397,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 3,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 12,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 10,
+      "gas:candidate-vibid:316300270537": 6,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 397,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 3,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 12,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11373,16 +11373,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 4,
-      "Бочаров Дмитрий Анатольевич": 3,
-      "Губайдуллин Ринат Шайхуллович": 118,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 4,
+      "gas:candidate-vibid:1001000136001": 3,
+      "gas:candidate-vibid:1001000225903": 118,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11432,16 +11432,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 15,
-      "Бердникова Ольга Николаевна": 8,
-      "Бочаров Дмитрий Анатольевич": 14,
-      "Губайдуллин Ринат Шайхуллович": 590,
-      "Каримова Дания Юсуфовна": 7,
-      "Королев Юрий Петрович": 6,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 43,
-      "Фомушкин Федор Аркадьевич": 8,
-      "Против всех": 22
+      "gas:candidate-vibid:316300270501": 15,
+      "gas:candidate-vibid:316300270537": 8,
+      "gas:candidate-vibid:1001000136001": 14,
+      "gas:candidate-vibid:1001000225903": 590,
+      "gas:candidate-vibid:1001000338519": 7,
+      "gas:candidate-vibid:1001000126390": 6,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 43,
+      "gas:candidate-vibid:1001000113901": 8,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11491,16 +11491,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 91,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 91,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11550,16 +11550,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 9,
-      "Бердникова Ольга Николаевна": 6,
-      "Бочаров Дмитрий Анатольевич": 9,
-      "Губайдуллин Ринат Шайхуллович": 211,
-      "Каримова Дания Юсуфовна": 8,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 71,
-      "Фомушкин Федор Аркадьевич": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:316300270501": 9,
+      "gas:candidate-vibid:316300270537": 6,
+      "gas:candidate-vibid:1001000136001": 9,
+      "gas:candidate-vibid:1001000225903": 211,
+      "gas:candidate-vibid:1001000338519": 8,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 71,
+      "gas:candidate-vibid:1001000113901": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11609,16 +11609,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 17,
-      "Бердникова Ольга Николаевна": 15,
-      "Бочаров Дмитрий Анатольевич": 6,
-      "Губайдуллин Ринат Шайхуллович": 347,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 11,
-      "Мухамадиев Ринат Сафиевич": 14,
-      "Столярова Насима Калимовна": 51,
-      "Фомушкин Федор Аркадьевич": 11,
-      "Против всех": 48
+      "gas:candidate-vibid:316300270501": 17,
+      "gas:candidate-vibid:316300270537": 15,
+      "gas:candidate-vibid:1001000136001": 6,
+      "gas:candidate-vibid:1001000225903": 347,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 11,
+      "gas:candidate-vibid:1001000190293": 14,
+      "gas:candidate-vibid:1001000121798": 51,
+      "gas:candidate-vibid:1001000113901": 11,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11668,16 +11668,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 123,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 123,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11727,16 +11727,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 3,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 108,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 3,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 108,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11786,16 +11786,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 189,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 189,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11845,16 +11845,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 164,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 164,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11904,16 +11904,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 5,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 93,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 5,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 93,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -11963,16 +11963,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 384,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 384,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12022,16 +12022,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 3,
-      "Губайдуллин Ринат Шайхуллович": 82,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 3,
+      "gas:candidate-vibid:1001000225903": 82,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12081,16 +12081,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 121,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 121,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12140,16 +12140,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 261,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 4,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 261,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 4,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12199,16 +12199,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 221,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 4,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 221,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 4,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12258,16 +12258,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 346,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 9,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 346,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 9,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12317,16 +12317,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 245,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 5,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 245,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 5,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12376,16 +12376,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 223,
-      "Каримова Дания Юсуфовна": 5,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 223,
+      "gas:candidate-vibid:1001000338519": 5,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12435,16 +12435,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 9,
-      "Бердникова Ольга Николаевна": 7,
-      "Бочаров Дмитрий Анатольевич": 16,
-      "Губайдуллин Ринат Шайхуллович": 414,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 5,
-      "Столярова Насима Калимовна": 20,
-      "Фомушкин Федор Аркадьевич": 9,
-      "Против всех": 35
+      "gas:candidate-vibid:316300270501": 9,
+      "gas:candidate-vibid:316300270537": 7,
+      "gas:candidate-vibid:1001000136001": 16,
+      "gas:candidate-vibid:1001000225903": 414,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 5,
+      "gas:candidate-vibid:1001000121798": 20,
+      "gas:candidate-vibid:1001000113901": 9,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12494,16 +12494,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 2,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 286,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 9,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 2,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 286,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 9,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12553,16 +12553,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 76,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 76,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12612,16 +12612,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 113,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 113,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12671,16 +12671,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 200,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 12,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 200,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 12,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12730,16 +12730,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 117,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 2,
-      "Мухамадиев Ринат Сафиевич": 4,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 117,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 2,
+      "gas:candidate-vibid:1001000190293": 4,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12789,16 +12789,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 4,
-      "Бердникова Ольга Николаевна": 4,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 43,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 4,
+      "gas:candidate-vibid:316300270537": 4,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 43,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12848,16 +12848,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 7,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 269,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 8,
-      "Столярова Насима Калимовна": 15,
-      "Фомушкин Федор Аркадьевич": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:316300270501": 7,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 269,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 8,
+      "gas:candidate-vibid:1001000121798": 15,
+      "gas:candidate-vibid:1001000113901": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12907,16 +12907,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 2,
-      "Бердникова Ольга Николаевна": 3,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 86,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 5,
-      "Столярова Насима Калимовна": 2,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 2,
+      "gas:candidate-vibid:316300270537": 3,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 86,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 5,
+      "gas:candidate-vibid:1001000121798": 2,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -12966,16 +12966,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 3,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 255,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 6,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:316300270501": 3,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 255,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 6,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -13025,16 +13025,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 4,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 207,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 5,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 4,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 207,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 5,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270743&region=0&sub_region=0&type=429",
@@ -13084,16 +13084,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 266,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 5,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 266,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 5,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13143,16 +13143,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 605,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 5,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 605,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 5,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13202,16 +13202,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 573,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 5,
-      "Столярова Насима Калимовна": 10,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 573,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 5,
+      "gas:candidate-vibid:1001000121798": 10,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13261,16 +13261,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 105,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 105,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13320,16 +13320,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 9,
-      "Губайдуллин Ринат Шайхуллович": 596,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 13,
-      "Фомушкин Федор Аркадьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 9,
+      "gas:candidate-vibid:1001000225903": 596,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 13,
+      "gas:candidate-vibid:1001000113901": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13379,16 +13379,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 4,
-      "Губайдуллин Ринат Шайхуллович": 313,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 1,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 6,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 4,
+      "gas:candidate-vibid:1001000225903": 313,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 1,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 6,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13438,16 +13438,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 527,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 10,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 527,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 10,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13497,16 +13497,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 3,
-      "Губайдуллин Ринат Шайхуллович": 531,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 18,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 3,
+      "gas:candidate-vibid:1001000225903": 531,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 18,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13556,16 +13556,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 285,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 285,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13615,16 +13615,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 678,
-      "Каримова Дания Юсуфовна": 8,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 7,
-      "Столярова Насима Калимовна": 15,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 678,
+      "gas:candidate-vibid:1001000338519": 8,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 7,
+      "gas:candidate-vibid:1001000121798": 15,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13674,16 +13674,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 332,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 332,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13733,16 +13733,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 584,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 11,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 584,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 11,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13792,16 +13792,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 299,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 3,
-      "Столярова Насима Калимовна": 3,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 299,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 3,
+      "gas:candidate-vibid:1001000121798": 3,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13851,16 +13851,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 9,
-      "Губайдуллин Ринат Шайхуллович": 485,
-      "Каримова Дания Юсуфовна": 3,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 6,
-      "Столярова Насима Калимовна": 26,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 9,
+      "gas:candidate-vibid:1001000225903": 485,
+      "gas:candidate-vibid:1001000338519": 3,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 6,
+      "gas:candidate-vibid:1001000121798": 26,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13910,16 +13910,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 883,
-      "Каримова Дания Юсуфовна": 7,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 20,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 883,
+      "gas:candidate-vibid:1001000338519": 7,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 20,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -13969,16 +13969,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 192,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 192,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14028,16 +14028,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 200,
-      "Каримова Дания Юсуфовна": 1,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 7,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 200,
+      "gas:candidate-vibid:1001000338519": 1,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 7,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14087,16 +14087,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 208,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 1,
-      "Столярова Насима Калимовна": 0,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 208,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 1,
+      "gas:candidate-vibid:1001000121798": 0,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14146,16 +14146,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 320,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 12,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 320,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 12,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14205,16 +14205,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 5,
-      "Бердникова Ольга Николаевна": 25,
-      "Бочаров Дмитрий Анатольевич": 16,
-      "Губайдуллин Ринат Шайхуллович": 661,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 8,
-      "Мухамадиев Ринат Сафиевич": 6,
-      "Столярова Насима Калимовна": 36,
-      "Фомушкин Федор Аркадьевич": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:316300270501": 5,
+      "gas:candidate-vibid:316300270537": 25,
+      "gas:candidate-vibid:1001000136001": 16,
+      "gas:candidate-vibid:1001000225903": 661,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 8,
+      "gas:candidate-vibid:1001000190293": 6,
+      "gas:candidate-vibid:1001000121798": 36,
+      "gas:candidate-vibid:1001000113901": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14264,16 +14264,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 112,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 4,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 112,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 4,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14323,16 +14323,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 274,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 4,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 274,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 4,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14382,16 +14382,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 8,
-      "Бочаров Дмитрий Анатольевич": 7,
-      "Губайдуллин Ринат Шайхуллович": 703,
-      "Каримова Дания Юсуфовна": 8,
-      "Королев Юрий Петрович": 4,
-      "Мухамадиев Ринат Сафиевич": 33,
-      "Столярова Насима Калимовна": 85,
-      "Фомушкин Федор Аркадьевич": 14,
-      "Против всех": 62
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 8,
+      "gas:candidate-vibid:1001000136001": 7,
+      "gas:candidate-vibid:1001000225903": 703,
+      "gas:candidate-vibid:1001000338519": 8,
+      "gas:candidate-vibid:1001000126390": 4,
+      "gas:candidate-vibid:1001000190293": 33,
+      "gas:candidate-vibid:1001000121798": 85,
+      "gas:candidate-vibid:1001000113901": 14,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14441,16 +14441,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 21,
-      "Бердникова Ольга Николаевна": 13,
-      "Бочаров Дмитрий Анатольевич": 5,
-      "Губайдуллин Ринат Шайхуллович": 919,
-      "Каримова Дания Юсуфовна": 15,
-      "Королев Юрий Петрович": 5,
-      "Мухамадиев Ринат Сафиевич": 41,
-      "Столярова Насима Калимовна": 50,
-      "Фомушкин Федор Аркадьевич": 7,
-      "Против всех": 57
+      "gas:candidate-vibid:316300270501": 21,
+      "gas:candidate-vibid:316300270537": 13,
+      "gas:candidate-vibid:1001000136001": 5,
+      "gas:candidate-vibid:1001000225903": 919,
+      "gas:candidate-vibid:1001000338519": 15,
+      "gas:candidate-vibid:1001000126390": 5,
+      "gas:candidate-vibid:1001000190293": 41,
+      "gas:candidate-vibid:1001000121798": 50,
+      "gas:candidate-vibid:1001000113901": 7,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14500,16 +14500,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 6,
-      "Бердникова Ольга Николаевна": 7,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 556,
-      "Каримова Дания Юсуфовна": 4,
-      "Королев Юрий Петрович": 3,
-      "Мухамадиев Ринат Сафиевич": 22,
-      "Столярова Насима Калимовна": 37,
-      "Фомушкин Федор Аркадьевич": 3,
-      "Против всех": 24
+      "gas:candidate-vibid:316300270501": 6,
+      "gas:candidate-vibid:316300270537": 7,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 556,
+      "gas:candidate-vibid:1001000338519": 4,
+      "gas:candidate-vibid:1001000126390": 3,
+      "gas:candidate-vibid:1001000190293": 22,
+      "gas:candidate-vibid:1001000121798": 37,
+      "gas:candidate-vibid:1001000113901": 3,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14559,16 +14559,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 2,
-      "Губайдуллин Ринат Шайхуллович": 246,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 2,
+      "gas:candidate-vibid:1001000225903": 246,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14618,16 +14618,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 1,
-      "Бердникова Ольга Николаевна": 1,
-      "Бочаров Дмитрий Анатольевич": 1,
-      "Губайдуллин Ринат Шайхуллович": 538,
-      "Каримова Дания Юсуфовна": 2,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 2,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:316300270501": 1,
+      "gas:candidate-vibid:316300270537": 1,
+      "gas:candidate-vibid:1001000136001": 1,
+      "gas:candidate-vibid:1001000225903": 538,
+      "gas:candidate-vibid:1001000338519": 2,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 2,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",
@@ -14677,16 +14677,16 @@ export const duma_2003_uik_428_region_16_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Абдуллин Талгат Сабирзанович": 0,
-      "Бердникова Ольга Николаевна": 0,
-      "Бочаров Дмитрий Анатольевич": 0,
-      "Губайдуллин Ринат Шайхуллович": 122,
-      "Каримова Дания Юсуфовна": 0,
-      "Королев Юрий Петрович": 0,
-      "Мухамадиев Ринат Сафиевич": 0,
-      "Столярова Насима Калимовна": 1,
-      "Фомушкин Федор Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:316300270501": 0,
+      "gas:candidate-vibid:316300270537": 0,
+      "gas:candidate-vibid:1001000136001": 0,
+      "gas:candidate-vibid:1001000225903": 122,
+      "gas:candidate-vibid:1001000338519": 0,
+      "gas:candidate-vibid:1001000126390": 0,
+      "gas:candidate-vibid:1001000190293": 0,
+      "gas:candidate-vibid:1001000121798": 1,
+      "gas:candidate-vibid:1001000113901": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=163002004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=316300270744&region=0&sub_region=0&type=429",

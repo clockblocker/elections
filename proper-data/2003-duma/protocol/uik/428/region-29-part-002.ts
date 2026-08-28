@@ -42,19 +42,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 36,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 12,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 71,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 110,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 9,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 60
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 36,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 12,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 71,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 110,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 9,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -104,19 +104,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 3,
-      "Крупчак Владимир Ярославович": 8,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 8,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 9,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 3,
+      "gas:candidate-vibid:329300170414": 8,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 8,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 9,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -166,19 +166,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 27,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 26,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 12,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 27,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 26,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 12,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -228,19 +228,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 27,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 14,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 9,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 27,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 14,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 9,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -290,19 +290,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 54,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 87,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 70,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 12,
-      "Соколов Михаил Олегович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 54,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 87,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 70,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 12,
+      "gas:candidate-vibid:1001000112204": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -352,19 +352,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 12,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 60,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 33,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 3,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 12,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 60,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 33,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 3,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -414,19 +414,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 9,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 24,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 9,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 24,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -476,19 +476,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 11,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 55,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 60,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 17,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 11,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 55,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 60,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 17,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -538,19 +538,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 41,
-      "Журавлева Галина Дмитриевна": 5,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 110,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 55,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 13,
-      "Соколов Михаил Олегович": 8,
-      "Против всех": 55
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 41,
+      "gas:candidate-vibid:329300170699": 5,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 110,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 55,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 13,
+      "gas:candidate-vibid:1001000112204": 8,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -600,19 +600,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 25,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 31,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 9,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 25,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 31,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 9,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -662,19 +662,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 9,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 9,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 4,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 5,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 9,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 9,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 4,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 5,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -724,19 +724,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 18,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 16,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 18,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 16,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -786,19 +786,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 40,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 20,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 40,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 20,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 0,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -848,19 +848,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 7,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 16,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 24,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 7,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 16,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 24,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -910,19 +910,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 12,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 6,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 7,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 12,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 6,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 7,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -972,19 +972,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 13,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 51,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 53,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 4,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 13,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 51,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 53,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 4,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1034,19 +1034,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 4,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 18,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 6,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 3,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 4,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 18,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 6,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 3,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1096,19 +1096,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 4,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 30,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 17,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 4,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 30,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 17,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1158,19 +1158,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 68,
-      "Журавлева Галина Дмитриевна": 18,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 225,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 198,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 16,
-      "Соколов Михаил Олегович": 9,
-      "Против всех": 88
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 68,
+      "gas:candidate-vibid:329300170699": 18,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 225,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 198,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 16,
+      "gas:candidate-vibid:1001000112204": 9,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1220,19 +1220,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 109,
-      "Журавлева Галина Дмитриевна": 12,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 18,
-      "Крупчак Владимир Ярославович": 266,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 224,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 29,
-      "Соколов Михаил Олегович": 10,
-      "Против всех": 110
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 109,
+      "gas:candidate-vibid:329300170699": 12,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 18,
+      "gas:candidate-vibid:329300170414": 266,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 224,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 29,
+      "gas:candidate-vibid:1001000112204": 10,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1282,19 +1282,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 103,
-      "Журавлева Галина Дмитриевна": 10,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 180,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 197,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 25,
-      "Соколов Михаил Олегович": 4,
-      "Против всех": 94
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 103,
+      "gas:candidate-vibid:329300170699": 10,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 180,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 197,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 25,
+      "gas:candidate-vibid:1001000112204": 4,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1344,19 +1344,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 3,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 10,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 7,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 3,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 10,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 7,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 0,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1406,19 +1406,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 2,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 5,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 21,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 2,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 5,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 21,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1468,19 +1468,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 0,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 26,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 15,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 0,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 26,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 15,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1530,19 +1530,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 30,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 67,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 18
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 30,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 67,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1592,19 +1592,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 9,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 38,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 39,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 16
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 9,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 38,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 39,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1654,19 +1654,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 3,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 12,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 8,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 3,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 12,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 8,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 0,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1716,19 +1716,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 21,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 12,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 67,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 3,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 21,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 12,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 67,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 3,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070511&region=0&sub_region=0&type=429",
@@ -1778,19 +1778,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 14,
-      "Гришко Альфия Мажитовна": 15,
-      "Гуськов Юрий Александрович": 38,
-      "Журавлева Галина Дмитриевна": 57,
-      "Кислов Евгений Иванович": 11,
-      "Коржиневская Наталья Ивановна": 24,
-      "Крупчак Владимир Ярославович": 45,
-      "Ножнин Павел Валентинович": 13,
-      "Румянцева Тамара Дмитриевна": 397,
-      "Селягин Александр Викторович": 7,
-      "Силантьев Михаил Сергеевич": 106,
-      "Соколов Михаил Олегович": 32,
-      "Против всех": 367
+      "gas:candidate-vibid:329300170788": 14,
+      "gas:candidate-vibid:329300170707": 15,
+      "gas:candidate-vibid:1001000121830": 38,
+      "gas:candidate-vibid:329300170699": 57,
+      "gas:candidate-vibid:1001000190328": 11,
+      "gas:candidate-vibid:1001000217914": 24,
+      "gas:candidate-vibid:329300170414": 45,
+      "gas:candidate-vibid:1001000254183": 13,
+      "gas:candidate-vibid:1001000225924": 397,
+      "gas:candidate-vibid:1001000202294": 7,
+      "gas:candidate-vibid:1001000136034": 106,
+      "gas:candidate-vibid:1001000112204": 32,
+      "special:against-all": 367
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070512&region=0&sub_region=0&type=429",
@@ -1840,19 +1840,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 24,
-      "Гришко Альфия Мажитовна": 18,
-      "Гуськов Юрий Александрович": 24,
-      "Журавлева Галина Дмитриевна": 50,
-      "Кислов Евгений Иванович": 24,
-      "Коржиневская Наталья Ивановна": 19,
-      "Крупчак Владимир Ярославович": 60,
-      "Ножнин Павел Валентинович": 16,
-      "Румянцева Тамара Дмитриевна": 193,
-      "Селягин Александр Викторович": 13,
-      "Силантьев Михаил Сергеевич": 94,
-      "Соколов Михаил Олегович": 75,
-      "Против всех": 304
+      "gas:candidate-vibid:329300170788": 24,
+      "gas:candidate-vibid:329300170707": 18,
+      "gas:candidate-vibid:1001000121830": 24,
+      "gas:candidate-vibid:329300170699": 50,
+      "gas:candidate-vibid:1001000190328": 24,
+      "gas:candidate-vibid:1001000217914": 19,
+      "gas:candidate-vibid:329300170414": 60,
+      "gas:candidate-vibid:1001000254183": 16,
+      "gas:candidate-vibid:1001000225924": 193,
+      "gas:candidate-vibid:1001000202294": 13,
+      "gas:candidate-vibid:1001000136034": 94,
+      "gas:candidate-vibid:1001000112204": 75,
+      "special:against-all": 304
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070512&region=0&sub_region=0&type=429",
@@ -1902,19 +1902,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 2,
-      "Журавлева Галина Дмитриевна": 7,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 6,
-      "Ножнин Павел Валентинович": 10,
-      "Румянцева Тамара Дмитриевна": 78,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 15,
-      "Соколов Михаил Олегович": 14,
-      "Против всех": 36
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 2,
+      "gas:candidate-vibid:329300170699": 7,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 6,
+      "gas:candidate-vibid:1001000254183": 10,
+      "gas:candidate-vibid:1001000225924": 78,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 15,
+      "gas:candidate-vibid:1001000112204": 14,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070512&region=0&sub_region=0&type=429",
@@ -1964,19 +1964,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 29,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 45,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 778,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 105,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 12,
-      "Соколов Михаил Олегович": 10,
-      "Против всех": 106
+      "gas:candidate-vibid:329300170788": 29,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 45,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 778,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 105,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 12,
+      "gas:candidate-vibid:1001000112204": 10,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2026,19 +2026,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 45,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 40,
-      "Журавлева Галина Дмитриевна": 12,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 1128,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 109,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 19,
-      "Соколов Михаил Олегович": 24,
-      "Против всех": 134
+      "gas:candidate-vibid:329300170788": 45,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 40,
+      "gas:candidate-vibid:329300170699": 12,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 1128,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 109,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 19,
+      "gas:candidate-vibid:1001000112204": 24,
+      "special:against-all": 134
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2088,19 +2088,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 37,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 19,
-      "Журавлева Галина Дмитриевна": 7,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 1072,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 91,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 30,
-      "Соколов Михаил Олегович": 25,
-      "Против всех": 154
+      "gas:candidate-vibid:329300170788": 37,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 19,
+      "gas:candidate-vibid:329300170699": 7,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 1072,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 91,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 30,
+      "gas:candidate-vibid:1001000112204": 25,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2150,19 +2150,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 35,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 41,
-      "Журавлева Галина Дмитриевна": 9,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 1123,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 120,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 13,
-      "Соколов Михаил Олегович": 30,
-      "Против всех": 148
+      "gas:candidate-vibid:329300170788": 35,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 41,
+      "gas:candidate-vibid:329300170699": 9,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 1123,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 120,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 13,
+      "gas:candidate-vibid:1001000112204": 30,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2212,19 +2212,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 33,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 30,
-      "Журавлева Галина Дмитриевна": 8,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 949,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 94,
-      "Селягин Александр Викторович": 8,
-      "Силантьев Михаил Сергеевич": 7,
-      "Соколов Михаил Олегович": 20,
-      "Против всех": 116
+      "gas:candidate-vibid:329300170788": 33,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 30,
+      "gas:candidate-vibid:329300170699": 8,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 949,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 94,
+      "gas:candidate-vibid:1001000202294": 8,
+      "gas:candidate-vibid:1001000136034": 7,
+      "gas:candidate-vibid:1001000112204": 20,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2274,19 +2274,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 45,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 42,
-      "Журавлева Галина Дмитриевна": 7,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 899,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 82,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 6,
-      "Соколов Михаил Олегович": 11,
-      "Против всех": 115
+      "gas:candidate-vibid:329300170788": 45,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 42,
+      "gas:candidate-vibid:329300170699": 7,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 899,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 82,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 6,
+      "gas:candidate-vibid:1001000112204": 11,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2336,19 +2336,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 35,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 41,
-      "Журавлева Галина Дмитриевна": 11,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 3,
-      "Крупчак Владимир Ярославович": 899,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 86,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 15,
-      "Соколов Михаил Олегович": 16,
-      "Против всех": 111
+      "gas:candidate-vibid:329300170788": 35,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 41,
+      "gas:candidate-vibid:329300170699": 11,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 3,
+      "gas:candidate-vibid:329300170414": 899,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 86,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 15,
+      "gas:candidate-vibid:1001000112204": 16,
+      "special:against-all": 111
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2398,19 +2398,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 15,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 25,
-      "Журавлева Галина Дмитриевна": 5,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 628,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 54,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 21,
-      "Против всех": 86
+      "gas:candidate-vibid:329300170788": 15,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 25,
+      "gas:candidate-vibid:329300170699": 5,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 628,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 54,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 21,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2460,19 +2460,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 11,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 22,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 571,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 73,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 7,
-      "Соколов Михаил Олегович": 19,
-      "Против всех": 78
+      "gas:candidate-vibid:329300170788": 11,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 22,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 571,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 73,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 7,
+      "gas:candidate-vibid:1001000112204": 19,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2522,19 +2522,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 23,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 72,
-      "Журавлева Галина Дмитриевна": 15,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 826,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 90,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 17,
-      "Соколов Михаил Олегович": 16,
-      "Против всех": 109
+      "gas:candidate-vibid:329300170788": 23,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 72,
+      "gas:candidate-vibid:329300170699": 15,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 826,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 90,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 17,
+      "gas:candidate-vibid:1001000112204": 16,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2584,19 +2584,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 23,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 51,
-      "Журавлева Галина Дмитриевна": 12,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 782,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 93,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 13,
-      "Соколов Михаил Олегович": 19,
-      "Против всех": 94
+      "gas:candidate-vibid:329300170788": 23,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 51,
+      "gas:candidate-vibid:329300170699": 12,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 782,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 93,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 13,
+      "gas:candidate-vibid:1001000112204": 19,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2646,19 +2646,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 31,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 43,
-      "Журавлева Галина Дмитриевна": 8,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 1012,
-      "Ножнин Павел Валентинович": 6,
-      "Румянцева Тамара Дмитриевна": 92,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 11,
-      "Соколов Михаил Олегович": 29,
-      "Против всех": 154
+      "gas:candidate-vibid:329300170788": 31,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 43,
+      "gas:candidate-vibid:329300170699": 8,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 1012,
+      "gas:candidate-vibid:1001000254183": 6,
+      "gas:candidate-vibid:1001000225924": 92,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 11,
+      "gas:candidate-vibid:1001000112204": 29,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2708,19 +2708,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 63,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 51,
-      "Журавлева Галина Дмитриевна": 11,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 1151,
-      "Ножнин Павел Валентинович": 3,
-      "Румянцева Тамара Дмитриевна": 147,
-      "Селягин Александр Викторович": 7,
-      "Силантьев Михаил Сергеевич": 12,
-      "Соколов Михаил Олегович": 36,
-      "Против всех": 140
+      "gas:candidate-vibid:329300170788": 63,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 51,
+      "gas:candidate-vibid:329300170699": 11,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 1151,
+      "gas:candidate-vibid:1001000254183": 3,
+      "gas:candidate-vibid:1001000225924": 147,
+      "gas:candidate-vibid:1001000202294": 7,
+      "gas:candidate-vibid:1001000136034": 12,
+      "gas:candidate-vibid:1001000112204": 36,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2770,19 +2770,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 36,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 28,
-      "Журавлева Галина Дмитриевна": 7,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 825,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 72,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 11,
-      "Соколов Михаил Олегович": 15,
-      "Против всех": 85
+      "gas:candidate-vibid:329300170788": 36,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 28,
+      "gas:candidate-vibid:329300170699": 7,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 825,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 72,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 11,
+      "gas:candidate-vibid:1001000112204": 15,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2832,19 +2832,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 40,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 48,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 876,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 102,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 10,
-      "Соколов Михаил Олегович": 18,
-      "Против всех": 128
+      "gas:candidate-vibid:329300170788": 40,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 48,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 876,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 102,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 10,
+      "gas:candidate-vibid:1001000112204": 18,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2894,19 +2894,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 50,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 51,
-      "Журавлева Галина Дмитриевна": 10,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 1118,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 114,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 15,
-      "Соколов Михаил Олегович": 21,
-      "Против всех": 161
+      "gas:candidate-vibid:329300170788": 50,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 51,
+      "gas:candidate-vibid:329300170699": 10,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 1118,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 114,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 15,
+      "gas:candidate-vibid:1001000112204": 21,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -2956,19 +2956,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 64,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 53,
-      "Журавлева Галина Дмитриевна": 9,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 1326,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 130,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 17,
-      "Соколов Михаил Олегович": 28,
-      "Против всех": 169
+      "gas:candidate-vibid:329300170788": 64,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 53,
+      "gas:candidate-vibid:329300170699": 9,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 1326,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 130,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 17,
+      "gas:candidate-vibid:1001000112204": 28,
+      "special:against-all": 169
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070513&region=0&sub_region=0&type=429",
@@ -3018,19 +3018,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 9,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 142,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 103,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 12,
-      "Соколов Михаил Олегович": 16,
-      "Против всех": 69
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 9,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 142,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 103,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 12,
+      "gas:candidate-vibid:1001000112204": 16,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070514&region=0&sub_region=0&type=429",
@@ -3080,19 +3080,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 10,
-      "Гришко Альфия Мажитовна": 28,
-      "Гуськов Юрий Александрович": 126,
-      "Журавлева Галина Дмитриевна": 28,
-      "Кислов Евгений Иванович": 10,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 459,
-      "Ножнин Павел Валентинович": 15,
-      "Румянцева Тамара Дмитриевна": 539,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 61,
-      "Соколов Михаил Олегович": 27,
-      "Против всех": 338
+      "gas:candidate-vibid:329300170788": 10,
+      "gas:candidate-vibid:329300170707": 28,
+      "gas:candidate-vibid:1001000121830": 126,
+      "gas:candidate-vibid:329300170699": 28,
+      "gas:candidate-vibid:1001000190328": 10,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 459,
+      "gas:candidate-vibid:1001000254183": 15,
+      "gas:candidate-vibid:1001000225924": 539,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 61,
+      "gas:candidate-vibid:1001000112204": 27,
+      "special:against-all": 338
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3142,19 +3142,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 93,
-      "Журавлева Галина Дмитриевна": 21,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 408,
-      "Ножнин Павел Валентинович": 14,
-      "Румянцева Тамара Дмитриевна": 355,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 22,
-      "Соколов Михаил Олегович": 12,
-      "Против всех": 171
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 93,
+      "gas:candidate-vibid:329300170699": 21,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 408,
+      "gas:candidate-vibid:1001000254183": 14,
+      "gas:candidate-vibid:1001000225924": 355,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 22,
+      "gas:candidate-vibid:1001000112204": 12,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3204,19 +3204,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 99,
-      "Журавлева Галина Дмитриевна": 23,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 330,
-      "Ножнин Павел Валентинович": 8,
-      "Румянцева Тамара Дмитриевна": 302,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 20,
-      "Соколов Михаил Олегович": 16,
-      "Против всех": 130
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 99,
+      "gas:candidate-vibid:329300170699": 23,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 330,
+      "gas:candidate-vibid:1001000254183": 8,
+      "gas:candidate-vibid:1001000225924": 302,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 20,
+      "gas:candidate-vibid:1001000112204": 16,
+      "special:against-all": 130
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3266,19 +3266,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 99,
-      "Журавлева Галина Дмитриевна": 38,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 572,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 382,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 18,
-      "Соколов Михаил Олегович": 35,
-      "Против всех": 202
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 99,
+      "gas:candidate-vibid:329300170699": 38,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 572,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 382,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 18,
+      "gas:candidate-vibid:1001000112204": 35,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3328,19 +3328,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 12,
-      "Гуськов Юрий Александрович": 122,
-      "Журавлева Галина Дмитриевна": 27,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 585,
-      "Ножнин Павел Валентинович": 23,
-      "Румянцева Тамара Дмитриевна": 430,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 23,
-      "Соколов Михаил Олегович": 33,
-      "Против всех": 252
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 12,
+      "gas:candidate-vibid:1001000121830": 122,
+      "gas:candidate-vibid:329300170699": 27,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 585,
+      "gas:candidate-vibid:1001000254183": 23,
+      "gas:candidate-vibid:1001000225924": 430,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 23,
+      "gas:candidate-vibid:1001000112204": 33,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3390,19 +3390,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 16,
-      "Гуськов Юрий Александрович": 136,
-      "Журавлева Галина Дмитриевна": 25,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 499,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 499,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 23,
-      "Соколов Михаил Олегович": 28,
-      "Против всех": 207
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 16,
+      "gas:candidate-vibid:1001000121830": 136,
+      "gas:candidate-vibid:329300170699": 25,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 499,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 499,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 23,
+      "gas:candidate-vibid:1001000112204": 28,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3452,19 +3452,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 6,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 99,
-      "Журавлева Галина Дмитриевна": 29,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 552,
-      "Ножнин Павел Валентинович": 23,
-      "Румянцева Тамара Дмитриевна": 556,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 33,
-      "Соколов Михаил Олегович": 24,
-      "Против всех": 271
+      "gas:candidate-vibid:329300170788": 6,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 99,
+      "gas:candidate-vibid:329300170699": 29,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 552,
+      "gas:candidate-vibid:1001000254183": 23,
+      "gas:candidate-vibid:1001000225924": 556,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 33,
+      "gas:candidate-vibid:1001000112204": 24,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3514,19 +3514,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 125,
-      "Журавлева Галина Дмитриевна": 46,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 526,
-      "Ножнин Павел Валентинович": 31,
-      "Румянцева Тамара Дмитриевна": 390,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 28,
-      "Соколов Михаил Олегович": 28,
-      "Против всех": 193
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 125,
+      "gas:candidate-vibid:329300170699": 46,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 526,
+      "gas:candidate-vibid:1001000254183": 31,
+      "gas:candidate-vibid:1001000225924": 390,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 28,
+      "gas:candidate-vibid:1001000112204": 28,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3576,19 +3576,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 129,
-      "Журавлева Галина Дмитриевна": 26,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 500,
-      "Ножнин Павел Валентинович": 11,
-      "Румянцева Тамара Дмитриевна": 449,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 29,
-      "Соколов Михаил Олегович": 18,
-      "Против всех": 262
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 129,
+      "gas:candidate-vibid:329300170699": 26,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 500,
+      "gas:candidate-vibid:1001000254183": 11,
+      "gas:candidate-vibid:1001000225924": 449,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 29,
+      "gas:candidate-vibid:1001000112204": 18,
+      "special:against-all": 262
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3638,19 +3638,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 102,
-      "Журавлева Галина Дмитриевна": 27,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 458,
-      "Ножнин Павел Валентинович": 14,
-      "Румянцева Тамара Дмитриевна": 421,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 13,
-      "Соколов Михаил Олегович": 35,
-      "Против всех": 184
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 102,
+      "gas:candidate-vibid:329300170699": 27,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 458,
+      "gas:candidate-vibid:1001000254183": 14,
+      "gas:candidate-vibid:1001000225924": 421,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 13,
+      "gas:candidate-vibid:1001000112204": 35,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3700,19 +3700,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 123,
-      "Журавлева Галина Дмитриевна": 32,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 5,
-      "Крупчак Владимир Ярославович": 530,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 426,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 21,
-      "Соколов Михаил Олегович": 45,
-      "Против всех": 193
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 123,
+      "gas:candidate-vibid:329300170699": 32,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 5,
+      "gas:candidate-vibid:329300170414": 530,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 426,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 21,
+      "gas:candidate-vibid:1001000112204": 45,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3762,19 +3762,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 111,
-      "Журавлева Галина Дмитриевна": 26,
-      "Кислов Евгений Иванович": 10,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 485,
-      "Ножнин Павел Валентинович": 9,
-      "Румянцева Тамара Дмитриевна": 436,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 21,
-      "Соколов Михаил Олегович": 27,
-      "Против всех": 195
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 111,
+      "gas:candidate-vibid:329300170699": 26,
+      "gas:candidate-vibid:1001000190328": 10,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 485,
+      "gas:candidate-vibid:1001000254183": 9,
+      "gas:candidate-vibid:1001000225924": 436,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 21,
+      "gas:candidate-vibid:1001000112204": 27,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3824,19 +3824,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 101,
-      "Журавлева Галина Дмитриевна": 17,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 521,
-      "Ножнин Павел Валентинович": 19,
-      "Румянцева Тамара Дмитриевна": 294,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 22,
-      "Соколов Михаил Олегович": 13,
-      "Против всех": 171
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 101,
+      "gas:candidate-vibid:329300170699": 17,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 521,
+      "gas:candidate-vibid:1001000254183": 19,
+      "gas:candidate-vibid:1001000225924": 294,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 22,
+      "gas:candidate-vibid:1001000112204": 13,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3886,19 +3886,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 146,
-      "Журавлева Галина Дмитриевна": 34,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 634,
-      "Ножнин Павел Валентинович": 38,
-      "Румянцева Тамара Дмитриевна": 377,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 42,
-      "Соколов Михаил Олегович": 21,
-      "Против всех": 246
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 146,
+      "gas:candidate-vibid:329300170699": 34,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 634,
+      "gas:candidate-vibid:1001000254183": 38,
+      "gas:candidate-vibid:1001000225924": 377,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 42,
+      "gas:candidate-vibid:1001000112204": 21,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -3948,19 +3948,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 113,
-      "Журавлева Галина Дмитриевна": 33,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 589,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 271,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 40,
-      "Соколов Михаил Олегович": 19,
-      "Против всех": 208
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 113,
+      "gas:candidate-vibid:329300170699": 33,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 589,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 271,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 40,
+      "gas:candidate-vibid:1001000112204": 19,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4010,19 +4010,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 66,
-      "Журавлева Галина Дмитриевна": 16,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 426,
-      "Ножнин Павел Валентинович": 37,
-      "Румянцева Тамара Дмитриевна": 292,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 37,
-      "Соколов Михаил Олегович": 25,
-      "Против всех": 178
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 66,
+      "gas:candidate-vibid:329300170699": 16,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 426,
+      "gas:candidate-vibid:1001000254183": 37,
+      "gas:candidate-vibid:1001000225924": 292,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 37,
+      "gas:candidate-vibid:1001000112204": 25,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4072,19 +4072,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 12,
-      "Гуськов Юрий Александрович": 125,
-      "Журавлева Галина Дмитриевна": 40,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 709,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 392,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 39,
-      "Соколов Михаил Олегович": 36,
-      "Против всех": 227
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 12,
+      "gas:candidate-vibid:1001000121830": 125,
+      "gas:candidate-vibid:329300170699": 40,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 709,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 392,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 39,
+      "gas:candidate-vibid:1001000112204": 36,
+      "special:against-all": 227
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4134,19 +4134,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 93,
-      "Журавлева Галина Дмитриевна": 11,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 465,
-      "Ножнин Павел Валентинович": 11,
-      "Румянцева Тамара Дмитриевна": 226,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 26,
-      "Соколов Михаил Олегович": 14,
-      "Против всех": 170
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 93,
+      "gas:candidate-vibid:329300170699": 11,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 465,
+      "gas:candidate-vibid:1001000254183": 11,
+      "gas:candidate-vibid:1001000225924": 226,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 26,
+      "gas:candidate-vibid:1001000112204": 14,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4196,19 +4196,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 127,
-      "Журавлева Галина Дмитриевна": 23,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 760,
-      "Ножнин Павел Валентинович": 25,
-      "Румянцева Тамара Дмитриевна": 434,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 32,
-      "Соколов Михаил Олегович": 40,
-      "Против всех": 242
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 127,
+      "gas:candidate-vibid:329300170699": 23,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 760,
+      "gas:candidate-vibid:1001000254183": 25,
+      "gas:candidate-vibid:1001000225924": 434,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 32,
+      "gas:candidate-vibid:1001000112204": 40,
+      "special:against-all": 242
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4258,19 +4258,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 71,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 398,
-      "Ножнин Павел Валентинович": 27,
-      "Румянцева Тамара Дмитриевна": 303,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 27,
-      "Соколов Михаил Олегович": 8,
-      "Против всех": 159
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 71,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 398,
+      "gas:candidate-vibid:1001000254183": 27,
+      "gas:candidate-vibid:1001000225924": 303,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 27,
+      "gas:candidate-vibid:1001000112204": 8,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4320,19 +4320,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 161,
-      "Журавлева Галина Дмитриевна": 31,
-      "Кислов Евгений Иванович": 7,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 627,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 353,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 25,
-      "Соколов Михаил Олегович": 13,
-      "Против всех": 176
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 161,
+      "gas:candidate-vibid:329300170699": 31,
+      "gas:candidate-vibid:1001000190328": 7,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 627,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 353,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 25,
+      "gas:candidate-vibid:1001000112204": 13,
+      "special:against-all": 176
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4382,19 +4382,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 98,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 459,
-      "Ножнин Павел Валентинович": 13,
-      "Румянцева Тамара Дмитриевна": 277,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 42,
-      "Соколов Михаил Олегович": 13,
-      "Против всех": 166
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 98,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 459,
+      "gas:candidate-vibid:1001000254183": 13,
+      "gas:candidate-vibid:1001000225924": 277,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 42,
+      "gas:candidate-vibid:1001000112204": 13,
+      "special:against-all": 166
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4444,19 +4444,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 91,
-      "Журавлева Галина Дмитриевна": 17,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 460,
-      "Ножнин Павел Валентинович": 15,
-      "Румянцева Тамара Дмитриевна": 308,
-      "Селягин Александр Викторович": 7,
-      "Силантьев Михаил Сергеевич": 30,
-      "Соколов Михаил Олегович": 18,
-      "Против всех": 188
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 91,
+      "gas:candidate-vibid:329300170699": 17,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 460,
+      "gas:candidate-vibid:1001000254183": 15,
+      "gas:candidate-vibid:1001000225924": 308,
+      "gas:candidate-vibid:1001000202294": 7,
+      "gas:candidate-vibid:1001000136034": 30,
+      "gas:candidate-vibid:1001000112204": 18,
+      "special:against-all": 188
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4506,19 +4506,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 151,
-      "Журавлева Галина Дмитриевна": 27,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 533,
-      "Ножнин Павел Валентинович": 15,
-      "Румянцева Тамара Дмитриевна": 267,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 28,
-      "Соколов Михаил Олегович": 30,
-      "Против всех": 165
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 151,
+      "gas:candidate-vibid:329300170699": 27,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 533,
+      "gas:candidate-vibid:1001000254183": 15,
+      "gas:candidate-vibid:1001000225924": 267,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 28,
+      "gas:candidate-vibid:1001000112204": 30,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4568,19 +4568,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 5,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 14,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 16,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 5,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 14,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 16,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4630,19 +4630,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 90,
-      "Журавлева Галина Дмитриевна": 17,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 3,
-      "Крупчак Владимир Ярославович": 333,
-      "Ножнин Павел Валентинович": 20,
-      "Румянцева Тамара Дмитриевна": 227,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 17,
-      "Соколов Михаил Олегович": 14,
-      "Против всех": 129
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 90,
+      "gas:candidate-vibid:329300170699": 17,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 3,
+      "gas:candidate-vibid:329300170414": 333,
+      "gas:candidate-vibid:1001000254183": 20,
+      "gas:candidate-vibid:1001000225924": 227,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 17,
+      "gas:candidate-vibid:1001000112204": 14,
+      "special:against-all": 129
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4692,19 +4692,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 107,
-      "Журавлева Галина Дмитриевна": 18,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 20,
-      "Крупчак Владимир Ярославович": 512,
-      "Ножнин Павел Валентинович": 26,
-      "Румянцева Тамара Дмитриевна": 328,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 36,
-      "Соколов Михаил Олегович": 15,
-      "Против всех": 199
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 107,
+      "gas:candidate-vibid:329300170699": 18,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 20,
+      "gas:candidate-vibid:329300170414": 512,
+      "gas:candidate-vibid:1001000254183": 26,
+      "gas:candidate-vibid:1001000225924": 328,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 36,
+      "gas:candidate-vibid:1001000112204": 15,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4754,19 +4754,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 119,
-      "Журавлева Галина Дмитриевна": 35,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 523,
-      "Ножнин Павел Валентинович": 12,
-      "Румянцева Тамара Дмитриевна": 370,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 25,
-      "Соколов Михаил Олегович": 14,
-      "Против всех": 208
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 119,
+      "gas:candidate-vibid:329300170699": 35,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 523,
+      "gas:candidate-vibid:1001000254183": 12,
+      "gas:candidate-vibid:1001000225924": 370,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 25,
+      "gas:candidate-vibid:1001000112204": 14,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4816,19 +4816,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 130,
-      "Журавлева Галина Дмитриевна": 16,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 321,
-      "Ножнин Павел Валентинович": 14,
-      "Румянцева Тамара Дмитриевна": 251,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 24,
-      "Соколов Михаил Олегович": 17,
-      "Против всех": 121
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 130,
+      "gas:candidate-vibid:329300170699": 16,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 321,
+      "gas:candidate-vibid:1001000254183": 14,
+      "gas:candidate-vibid:1001000225924": 251,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 24,
+      "gas:candidate-vibid:1001000112204": 17,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4878,19 +4878,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 209,
-      "Журавлева Галина Дмитриевна": 36,
-      "Кислов Евгений Иванович": 7,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 566,
-      "Ножнин Павел Валентинович": 29,
-      "Румянцева Тамара Дмитриевна": 363,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 25,
-      "Соколов Михаил Олегович": 30,
-      "Против всех": 200
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 209,
+      "gas:candidate-vibid:329300170699": 36,
+      "gas:candidate-vibid:1001000190328": 7,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 566,
+      "gas:candidate-vibid:1001000254183": 29,
+      "gas:candidate-vibid:1001000225924": 363,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 25,
+      "gas:candidate-vibid:1001000112204": 30,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -4940,19 +4940,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 236,
-      "Журавлева Галина Дмитриевна": 22,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 644,
-      "Ножнин Павел Валентинович": 20,
-      "Румянцева Тамара Дмитриевна": 418,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 20,
-      "Соколов Михаил Олегович": 27,
-      "Против всех": 246
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 236,
+      "gas:candidate-vibid:329300170699": 22,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 644,
+      "gas:candidate-vibid:1001000254183": 20,
+      "gas:candidate-vibid:1001000225924": 418,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 20,
+      "gas:candidate-vibid:1001000112204": 27,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5002,19 +5002,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 16,
-      "Гришко Альфия Мажитовна": 35,
-      "Гуськов Юрий Александрович": 155,
-      "Журавлева Галина Дмитриевна": 47,
-      "Кислов Евгений Иванович": 10,
-      "Коржиневская Наталья Ивановна": 21,
-      "Крупчак Владимир Ярославович": 465,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 303,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 40,
-      "Соколов Михаил Олегович": 41,
-      "Против всех": 335
+      "gas:candidate-vibid:329300170788": 16,
+      "gas:candidate-vibid:329300170707": 35,
+      "gas:candidate-vibid:1001000121830": 155,
+      "gas:candidate-vibid:329300170699": 47,
+      "gas:candidate-vibid:1001000190328": 10,
+      "gas:candidate-vibid:1001000217914": 21,
+      "gas:candidate-vibid:329300170414": 465,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 303,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 40,
+      "gas:candidate-vibid:1001000112204": 41,
+      "special:against-all": 335
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5064,19 +5064,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 11,
-      "Гришко Альфия Мажитовна": 18,
-      "Гуськов Юрий Александрович": 78,
-      "Журавлева Галина Дмитриевна": 24,
-      "Кислов Евгений Иванович": 27,
-      "Коржиневская Наталья Ивановна": 23,
-      "Крупчак Владимир Ярославович": 248,
-      "Ножнин Павел Валентинович": 20,
-      "Румянцева Тамара Дмитриевна": 293,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 65,
-      "Соколов Михаил Олегович": 33,
-      "Против всех": 390
+      "gas:candidate-vibid:329300170788": 11,
+      "gas:candidate-vibid:329300170707": 18,
+      "gas:candidate-vibid:1001000121830": 78,
+      "gas:candidate-vibid:329300170699": 24,
+      "gas:candidate-vibid:1001000190328": 27,
+      "gas:candidate-vibid:1001000217914": 23,
+      "gas:candidate-vibid:329300170414": 248,
+      "gas:candidate-vibid:1001000254183": 20,
+      "gas:candidate-vibid:1001000225924": 293,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 65,
+      "gas:candidate-vibid:1001000112204": 33,
+      "special:against-all": 390
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5126,19 +5126,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 10,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 162,
-      "Журавлева Галина Дмитриевна": 33,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 600,
-      "Ножнин Павел Валентинович": 41,
-      "Румянцева Тамара Дмитриевна": 329,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 31,
-      "Соколов Михаил Олегович": 20,
-      "Против всех": 185
+      "gas:candidate-vibid:329300170788": 10,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 162,
+      "gas:candidate-vibid:329300170699": 33,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 600,
+      "gas:candidate-vibid:1001000254183": 41,
+      "gas:candidate-vibid:1001000225924": 329,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 31,
+      "gas:candidate-vibid:1001000112204": 20,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5188,19 +5188,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 112,
-      "Журавлева Галина Дмитриевна": 19,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 493,
-      "Ножнин Павел Валентинович": 20,
-      "Румянцева Тамара Дмитриевна": 289,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 35,
-      "Соколов Михаил Олегович": 17,
-      "Против всех": 161
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 112,
+      "gas:candidate-vibid:329300170699": 19,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 493,
+      "gas:candidate-vibid:1001000254183": 20,
+      "gas:candidate-vibid:1001000225924": 289,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 35,
+      "gas:candidate-vibid:1001000112204": 17,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5250,19 +5250,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 8,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 193,
-      "Журавлева Галина Дмитриевна": 35,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 747,
-      "Ножнин Павел Валентинович": 38,
-      "Румянцева Тамара Дмитриевна": 329,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 30,
-      "Соколов Михаил Олегович": 12,
-      "Против всех": 220
+      "gas:candidate-vibid:329300170788": 8,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 193,
+      "gas:candidate-vibid:329300170699": 35,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 747,
+      "gas:candidate-vibid:1001000254183": 38,
+      "gas:candidate-vibid:1001000225924": 329,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 30,
+      "gas:candidate-vibid:1001000112204": 12,
+      "special:against-all": 220
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5312,19 +5312,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 148,
-      "Журавлева Галина Дмитриевна": 24,
-      "Кислов Евгений Иванович": 6,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 662,
-      "Ножнин Павел Валентинович": 20,
-      "Румянцева Тамара Дмитриевна": 309,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 27,
-      "Соколов Михаил Олегович": 24,
-      "Против всех": 189
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 148,
+      "gas:candidate-vibid:329300170699": 24,
+      "gas:candidate-vibid:1001000190328": 6,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 662,
+      "gas:candidate-vibid:1001000254183": 20,
+      "gas:candidate-vibid:1001000225924": 309,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 27,
+      "gas:candidate-vibid:1001000112204": 24,
+      "special:against-all": 189
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5374,19 +5374,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 70,
-      "Журавлева Галина Дмитриевна": 15,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 496,
-      "Ножнин Павел Валентинович": 21,
-      "Румянцева Тамара Дмитриевна": 245,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 29,
-      "Соколов Михаил Олегович": 14,
-      "Против всех": 181
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 70,
+      "gas:candidate-vibid:329300170699": 15,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 496,
+      "gas:candidate-vibid:1001000254183": 21,
+      "gas:candidate-vibid:1001000225924": 245,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 29,
+      "gas:candidate-vibid:1001000112204": 14,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5436,19 +5436,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 20,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 62,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 35,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 3,
-      "Против всех": 33
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 20,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 62,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 35,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 3,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5498,19 +5498,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 8,
-      "Гришко Альфия Мажитовна": 15,
-      "Гуськов Юрий Александрович": 167,
-      "Журавлева Галина Дмитриевна": 26,
-      "Кислов Евгений Иванович": 11,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 593,
-      "Ножнин Павел Валентинович": 21,
-      "Румянцева Тамара Дмитриевна": 323,
-      "Селягин Александр Викторович": 8,
-      "Силантьев Михаил Сергеевич": 41,
-      "Соколов Михаил Олегович": 32,
-      "Против всех": 317
+      "gas:candidate-vibid:329300170788": 8,
+      "gas:candidate-vibid:329300170707": 15,
+      "gas:candidate-vibid:1001000121830": 167,
+      "gas:candidate-vibid:329300170699": 26,
+      "gas:candidate-vibid:1001000190328": 11,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 593,
+      "gas:candidate-vibid:1001000254183": 21,
+      "gas:candidate-vibid:1001000225924": 323,
+      "gas:candidate-vibid:1001000202294": 8,
+      "gas:candidate-vibid:1001000136034": 41,
+      "gas:candidate-vibid:1001000112204": 32,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5560,19 +5560,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 11,
-      "Гуськов Юрий Александрович": 139,
-      "Журавлева Галина Дмитриевна": 38,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 608,
-      "Ножнин Павел Валентинович": 14,
-      "Румянцева Тамара Дмитриевна": 303,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 14,
-      "Соколов Михаил Олегович": 17,
-      "Против всех": 155
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 11,
+      "gas:candidate-vibid:1001000121830": 139,
+      "gas:candidate-vibid:329300170699": 38,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 608,
+      "gas:candidate-vibid:1001000254183": 14,
+      "gas:candidate-vibid:1001000225924": 303,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 14,
+      "gas:candidate-vibid:1001000112204": 17,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5622,19 +5622,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 6,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 158,
-      "Журавлева Галина Дмитриевна": 20,
-      "Кислов Евгений Иванович": 7,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 666,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 426,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 31,
-      "Соколов Михаил Олегович": 34,
-      "Против всех": 223
+      "gas:candidate-vibid:329300170788": 6,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 158,
+      "gas:candidate-vibid:329300170699": 20,
+      "gas:candidate-vibid:1001000190328": 7,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 666,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 426,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 31,
+      "gas:candidate-vibid:1001000112204": 34,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5684,19 +5684,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 91,
-      "Журавлева Галина Дмитриевна": 23,
-      "Кислов Евгений Иванович": 6,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 493,
-      "Ножнин Павел Валентинович": 19,
-      "Румянцева Тамара Дмитриевна": 298,
-      "Селягин Александр Викторович": 8,
-      "Силантьев Михаил Сергеевич": 29,
-      "Соколов Михаил Олегович": 20,
-      "Против всех": 251
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 91,
+      "gas:candidate-vibid:329300170699": 23,
+      "gas:candidate-vibid:1001000190328": 6,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 493,
+      "gas:candidate-vibid:1001000254183": 19,
+      "gas:candidate-vibid:1001000225924": 298,
+      "gas:candidate-vibid:1001000202294": 8,
+      "gas:candidate-vibid:1001000136034": 29,
+      "gas:candidate-vibid:1001000112204": 20,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5746,19 +5746,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 157,
-      "Журавлева Галина Дмитриевна": 21,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 624,
-      "Ножнин Павел Валентинович": 21,
-      "Румянцева Тамара Дмитриевна": 265,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 23,
-      "Соколов Михаил Олегович": 19,
-      "Против всех": 165
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 157,
+      "gas:candidate-vibid:329300170699": 21,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 624,
+      "gas:candidate-vibid:1001000254183": 21,
+      "gas:candidate-vibid:1001000225924": 265,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 23,
+      "gas:candidate-vibid:1001000112204": 19,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5808,19 +5808,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 81,
-      "Журавлева Галина Дмитриевна": 21,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 542,
-      "Ножнин Павел Валентинович": 25,
-      "Румянцева Тамара Дмитриевна": 334,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 29,
-      "Соколов Михаил Олегович": 25,
-      "Против всех": 190
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 81,
+      "gas:candidate-vibid:329300170699": 21,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 542,
+      "gas:candidate-vibid:1001000254183": 25,
+      "gas:candidate-vibid:1001000225924": 334,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 29,
+      "gas:candidate-vibid:1001000112204": 25,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5870,19 +5870,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 163,
-      "Журавлева Галина Дмитриевна": 22,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 620,
-      "Ножнин Павел Валентинович": 21,
-      "Румянцева Тамара Дмитриевна": 372,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 27,
-      "Соколов Михаил Олегович": 32,
-      "Против всех": 197
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 163,
+      "gas:candidate-vibid:329300170699": 22,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 620,
+      "gas:candidate-vibid:1001000254183": 21,
+      "gas:candidate-vibid:1001000225924": 372,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 27,
+      "gas:candidate-vibid:1001000112204": 32,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5932,19 +5932,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 157,
-      "Журавлева Галина Дмитриевна": 16,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 686,
-      "Ножнин Павел Валентинович": 30,
-      "Румянцева Тамара Дмитриевна": 384,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 35,
-      "Соколов Михаил Олегович": 32,
-      "Против всех": 214
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 157,
+      "gas:candidate-vibid:329300170699": 16,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 686,
+      "gas:candidate-vibid:1001000254183": 30,
+      "gas:candidate-vibid:1001000225924": 384,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 35,
+      "gas:candidate-vibid:1001000112204": 32,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -5994,19 +5994,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 130,
-      "Журавлева Галина Дмитриевна": 25,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 608,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 272,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 22,
-      "Соколов Михаил Олегович": 12,
-      "Против всех": 209
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 130,
+      "gas:candidate-vibid:329300170699": 25,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 608,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 272,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 22,
+      "gas:candidate-vibid:1001000112204": 12,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6056,19 +6056,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 16,
-      "Гуськов Юрий Александрович": 149,
-      "Журавлева Галина Дмитриевна": 44,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 18,
-      "Крупчак Владимир Ярославович": 736,
-      "Ножнин Павел Валентинович": 23,
-      "Румянцева Тамара Дмитриевна": 276,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 18,
-      "Соколов Михаил Олегович": 21,
-      "Против всех": 233
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 16,
+      "gas:candidate-vibid:1001000121830": 149,
+      "gas:candidate-vibid:329300170699": 44,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 18,
+      "gas:candidate-vibid:329300170414": 736,
+      "gas:candidate-vibid:1001000254183": 23,
+      "gas:candidate-vibid:1001000225924": 276,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 18,
+      "gas:candidate-vibid:1001000112204": 21,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6118,19 +6118,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 106,
-      "Журавлева Галина Дмитриевна": 28,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 456,
-      "Ножнин Павел Валентинович": 27,
-      "Румянцева Тамара Дмитриевна": 305,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 13,
-      "Соколов Михаил Олегович": 22,
-      "Против всех": 148
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 106,
+      "gas:candidate-vibid:329300170699": 28,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 456,
+      "gas:candidate-vibid:1001000254183": 27,
+      "gas:candidate-vibid:1001000225924": 305,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 13,
+      "gas:candidate-vibid:1001000112204": 22,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6180,19 +6180,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 190,
-      "Журавлева Галина Дмитриевна": 34,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 594,
-      "Ножнин Павел Валентинович": 23,
-      "Румянцева Тамара Дмитриевна": 372,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 24,
-      "Соколов Михаил Олегович": 20,
-      "Против всех": 221
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 190,
+      "gas:candidate-vibid:329300170699": 34,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 594,
+      "gas:candidate-vibid:1001000254183": 23,
+      "gas:candidate-vibid:1001000225924": 372,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 24,
+      "gas:candidate-vibid:1001000112204": 20,
+      "special:against-all": 221
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6242,19 +6242,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 132,
-      "Журавлева Галина Дмитриевна": 42,
-      "Кислов Евгений Иванович": 6,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 684,
-      "Ножнин Павел Валентинович": 34,
-      "Румянцева Тамара Дмитриевна": 402,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 33,
-      "Соколов Михаил Олегович": 25,
-      "Против всех": 236
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 132,
+      "gas:candidate-vibid:329300170699": 42,
+      "gas:candidate-vibid:1001000190328": 6,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 684,
+      "gas:candidate-vibid:1001000254183": 34,
+      "gas:candidate-vibid:1001000225924": 402,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 33,
+      "gas:candidate-vibid:1001000112204": 25,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6304,19 +6304,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 141,
-      "Журавлева Галина Дмитриевна": 42,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 16,
-      "Крупчак Владимир Ярославович": 628,
-      "Ножнин Павел Валентинович": 36,
-      "Румянцева Тамара Дмитриевна": 401,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 33,
-      "Соколов Михаил Олегович": 34,
-      "Против всех": 428
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 141,
+      "gas:candidate-vibid:329300170699": 42,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 16,
+      "gas:candidate-vibid:329300170414": 628,
+      "gas:candidate-vibid:1001000254183": 36,
+      "gas:candidate-vibid:1001000225924": 401,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 33,
+      "gas:candidate-vibid:1001000112204": 34,
+      "special:against-all": 428
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6366,19 +6366,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 105,
-      "Журавлева Галина Дмитриевна": 30,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 491,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 346,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 26,
-      "Соколов Михаил Олегович": 21,
-      "Против всех": 178
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 105,
+      "gas:candidate-vibid:329300170699": 30,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 491,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 346,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 26,
+      "gas:candidate-vibid:1001000112204": 21,
+      "special:against-all": 178
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6428,19 +6428,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 63,
-      "Журавлева Галина Дмитриевна": 5,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 496,
-      "Ножнин Павел Валентинович": 16,
-      "Румянцева Тамара Дмитриевна": 195,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 22,
-      "Соколов Михаил Олегович": 10,
-      "Против всех": 172
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 63,
+      "gas:candidate-vibid:329300170699": 5,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 496,
+      "gas:candidate-vibid:1001000254183": 16,
+      "gas:candidate-vibid:1001000225924": 195,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 22,
+      "gas:candidate-vibid:1001000112204": 10,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6490,19 +6490,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 117,
-      "Журавлева Галина Дмитриевна": 23,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 5,
-      "Крупчак Владимир Ярославович": 397,
-      "Ножнин Павел Валентинович": 13,
-      "Румянцева Тамара Дмитриевна": 270,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 13,
-      "Против всех": 167
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 117,
+      "gas:candidate-vibid:329300170699": 23,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 5,
+      "gas:candidate-vibid:329300170414": 397,
+      "gas:candidate-vibid:1001000254183": 13,
+      "gas:candidate-vibid:1001000225924": 270,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 13,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6552,19 +6552,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 133,
-      "Журавлева Галина Дмитриевна": 19,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 563,
-      "Ножнин Павел Валентинович": 17,
-      "Румянцева Тамара Дмитриевна": 350,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 26,
-      "Соколов Михаил Олегович": 23,
-      "Против всех": 222
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 133,
+      "gas:candidate-vibid:329300170699": 19,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 563,
+      "gas:candidate-vibid:1001000254183": 17,
+      "gas:candidate-vibid:1001000225924": 350,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 26,
+      "gas:candidate-vibid:1001000112204": 23,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6614,19 +6614,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 135,
-      "Журавлева Галина Дмитриевна": 27,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 744,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 383,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 18,
-      "Соколов Михаил Олегович": 29,
-      "Против всех": 276
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 135,
+      "gas:candidate-vibid:329300170699": 27,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 744,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 383,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 18,
+      "gas:candidate-vibid:1001000112204": 29,
+      "special:against-all": 276
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6676,19 +6676,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 7,
-      "Гуськов Юрий Александрович": 163,
-      "Журавлева Галина Дмитриевна": 25,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 836,
-      "Ножнин Павел Валентинович": 18,
-      "Румянцева Тамара Дмитриевна": 382,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 37,
-      "Соколов Михаил Олегович": 35,
-      "Против всех": 298
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 7,
+      "gas:candidate-vibid:1001000121830": 163,
+      "gas:candidate-vibid:329300170699": 25,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 836,
+      "gas:candidate-vibid:1001000254183": 18,
+      "gas:candidate-vibid:1001000225924": 382,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 37,
+      "gas:candidate-vibid:1001000112204": 35,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6738,19 +6738,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 97,
-      "Журавлева Галина Дмитриевна": 19,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 457,
-      "Ножнин Павел Валентинович": 12,
-      "Румянцева Тамара Дмитриевна": 217,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 22,
-      "Соколов Михаил Олегович": 18,
-      "Против всех": 128
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 97,
+      "gas:candidate-vibid:329300170699": 19,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 457,
+      "gas:candidate-vibid:1001000254183": 12,
+      "gas:candidate-vibid:1001000225924": 217,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 22,
+      "gas:candidate-vibid:1001000112204": 18,
+      "special:against-all": 128
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6800,19 +6800,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 121,
-      "Журавлева Галина Дмитриевна": 20,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 555,
-      "Ножнин Павел Валентинович": 19,
-      "Румянцева Тамара Дмитриевна": 338,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 28,
-      "Соколов Михаил Олегович": 27,
-      "Против всех": 190
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 121,
+      "gas:candidate-vibid:329300170699": 20,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 555,
+      "gas:candidate-vibid:1001000254183": 19,
+      "gas:candidate-vibid:1001000225924": 338,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 28,
+      "gas:candidate-vibid:1001000112204": 27,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6862,19 +6862,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 109,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 26,
-      "Крупчак Владимир Ярославович": 593,
-      "Ножнин Павел Валентинович": 22,
-      "Румянцева Тамара Дмитриевна": 358,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 33,
-      "Соколов Михаил Олегович": 27,
-      "Против всех": 172
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 109,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 26,
+      "gas:candidate-vibid:329300170414": 593,
+      "gas:candidate-vibid:1001000254183": 22,
+      "gas:candidate-vibid:1001000225924": 358,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 33,
+      "gas:candidate-vibid:1001000112204": 27,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6924,19 +6924,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 90,
-      "Журавлева Галина Дмитриевна": 30,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 518,
-      "Ножнин Павел Валентинович": 27,
-      "Румянцева Тамара Дмитриевна": 242,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 28,
-      "Соколов Михаил Олегович": 21,
-      "Против всех": 154
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 90,
+      "gas:candidate-vibid:329300170699": 30,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 518,
+      "gas:candidate-vibid:1001000254183": 27,
+      "gas:candidate-vibid:1001000225924": 242,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 28,
+      "gas:candidate-vibid:1001000112204": 21,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -6986,19 +6986,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 116,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 517,
-      "Ножнин Павел Валентинович": 34,
-      "Румянцева Тамара Дмитриевна": 313,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 19,
-      "Соколов Михаил Олегович": 16,
-      "Против всех": 148
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 116,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 517,
+      "gas:candidate-vibid:1001000254183": 34,
+      "gas:candidate-vibid:1001000225924": 313,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 19,
+      "gas:candidate-vibid:1001000112204": 16,
+      "special:against-all": 148
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7048,19 +7048,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 8,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 125,
-      "Журавлева Галина Дмитриевна": 40,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 7,
-      "Крупчак Владимир Ярославович": 816,
-      "Ножнин Павел Валентинович": 27,
-      "Румянцева Тамара Дмитриевна": 374,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 26,
-      "Соколов Михаил Олегович": 28,
-      "Против всех": 285
+      "gas:candidate-vibid:329300170788": 8,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 125,
+      "gas:candidate-vibid:329300170699": 40,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 7,
+      "gas:candidate-vibid:329300170414": 816,
+      "gas:candidate-vibid:1001000254183": 27,
+      "gas:candidate-vibid:1001000225924": 374,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 26,
+      "gas:candidate-vibid:1001000112204": 28,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7110,19 +7110,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 132,
-      "Журавлева Галина Дмитриевна": 34,
-      "Кислов Евгений Иванович": 6,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 771,
-      "Ножнин Павел Валентинович": 26,
-      "Румянцева Тамара Дмитриевна": 477,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 45,
-      "Соколов Михаил Олегович": 35,
-      "Против всех": 325
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 132,
+      "gas:candidate-vibid:329300170699": 34,
+      "gas:candidate-vibid:1001000190328": 6,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 771,
+      "gas:candidate-vibid:1001000254183": 26,
+      "gas:candidate-vibid:1001000225924": 477,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 45,
+      "gas:candidate-vibid:1001000112204": 35,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7172,19 +7172,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 152,
-      "Журавлева Галина Дмитриевна": 33,
-      "Кислов Евгений Иванович": 6,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 768,
-      "Ножнин Павел Валентинович": 19,
-      "Румянцева Тамара Дмитриевна": 406,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 42,
-      "Соколов Михаил Олегович": 32,
-      "Против всех": 306
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 152,
+      "gas:candidate-vibid:329300170699": 33,
+      "gas:candidate-vibid:1001000190328": 6,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 768,
+      "gas:candidate-vibid:1001000254183": 19,
+      "gas:candidate-vibid:1001000225924": 406,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 42,
+      "gas:candidate-vibid:1001000112204": 32,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7234,19 +7234,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 9,
-      "Гуськов Юрий Александрович": 120,
-      "Журавлева Галина Дмитриевна": 36,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 14,
-      "Крупчак Владимир Ярославович": 766,
-      "Ножнин Павел Валентинович": 13,
-      "Румянцева Тамара Дмитриевна": 372,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 41,
-      "Соколов Михаил Олегович": 31,
-      "Против всех": 270
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 9,
+      "gas:candidate-vibid:1001000121830": 120,
+      "gas:candidate-vibid:329300170699": 36,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 14,
+      "gas:candidate-vibid:329300170414": 766,
+      "gas:candidate-vibid:1001000254183": 13,
+      "gas:candidate-vibid:1001000225924": 372,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 41,
+      "gas:candidate-vibid:1001000112204": 31,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7296,19 +7296,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 118,
-      "Журавлева Галина Дмитриевна": 29,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 13,
-      "Крупчак Владимир Ярославович": 730,
-      "Ножнин Павел Валентинович": 29,
-      "Румянцева Тамара Дмитриевна": 344,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 33,
-      "Соколов Михаил Олегович": 24,
-      "Против всех": 237
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 118,
+      "gas:candidate-vibid:329300170699": 29,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 13,
+      "gas:candidate-vibid:329300170414": 730,
+      "gas:candidate-vibid:1001000254183": 29,
+      "gas:candidate-vibid:1001000225924": 344,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 33,
+      "gas:candidate-vibid:1001000112204": 24,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7358,19 +7358,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 94,
-      "Журавлева Галина Дмитриевна": 24,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 639,
-      "Ножнин Павел Валентинович": 19,
-      "Румянцева Тамара Дмитриевна": 289,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 19,
-      "Соколов Михаил Олегович": 24,
-      "Против всех": 211
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 94,
+      "gas:candidate-vibid:329300170699": 24,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 639,
+      "gas:candidate-vibid:1001000254183": 19,
+      "gas:candidate-vibid:1001000225924": 289,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 19,
+      "gas:candidate-vibid:1001000112204": 24,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7420,19 +7420,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 100,
-      "Журавлева Галина Дмитриевна": 24,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 584,
-      "Ножнин Павел Валентинович": 13,
-      "Румянцева Тамара Дмитриевна": 306,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 22,
-      "Соколов Михаил Олегович": 22,
-      "Против всех": 215
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 100,
+      "gas:candidate-vibid:329300170699": 24,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 584,
+      "gas:candidate-vibid:1001000254183": 13,
+      "gas:candidate-vibid:1001000225924": 306,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 22,
+      "gas:candidate-vibid:1001000112204": 22,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7482,19 +7482,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 93,
-      "Журавлева Галина Дмитриевна": 23,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 613,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 348,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 27,
-      "Соколов Михаил Олегович": 24,
-      "Против всех": 265
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 93,
+      "gas:candidate-vibid:329300170699": 23,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 613,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 348,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 27,
+      "gas:candidate-vibid:1001000112204": 24,
+      "special:against-all": 265
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7544,19 +7544,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 161,
-      "Журавлева Галина Дмитриевна": 48,
-      "Кислов Евгений Иванович": 8,
-      "Коржиневская Наталья Ивановна": 19,
-      "Крупчак Владимир Ярославович": 812,
-      "Ножнин Павел Валентинович": 24,
-      "Румянцева Тамара Дмитриевна": 369,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 35,
-      "Соколов Михаил Олегович": 45,
-      "Против всех": 333
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 161,
+      "gas:candidate-vibid:329300170699": 48,
+      "gas:candidate-vibid:1001000190328": 8,
+      "gas:candidate-vibid:1001000217914": 19,
+      "gas:candidate-vibid:329300170414": 812,
+      "gas:candidate-vibid:1001000254183": 24,
+      "gas:candidate-vibid:1001000225924": 369,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 35,
+      "gas:candidate-vibid:1001000112204": 45,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7606,19 +7606,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 13,
-      "Гуськов Юрий Александрович": 129,
-      "Журавлева Галина Дмитриевна": 45,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 811,
-      "Ножнин Павел Валентинович": 26,
-      "Румянцева Тамара Дмитриевна": 424,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 38,
-      "Соколов Михаил Олегович": 26,
-      "Против всех": 310
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 13,
+      "gas:candidate-vibid:1001000121830": 129,
+      "gas:candidate-vibid:329300170699": 45,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 811,
+      "gas:candidate-vibid:1001000254183": 26,
+      "gas:candidate-vibid:1001000225924": 424,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 38,
+      "gas:candidate-vibid:1001000112204": 26,
+      "special:against-all": 310
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7668,19 +7668,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 5,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 16,
-      "Журавлева Галина Дмитриевна": 10,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 19,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 69,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 7,
-      "Соколов Михаил Олегович": 3,
-      "Против всех": 20
+      "gas:candidate-vibid:329300170788": 5,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 16,
+      "gas:candidate-vibid:329300170699": 10,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 19,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 69,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 7,
+      "gas:candidate-vibid:1001000112204": 3,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7730,19 +7730,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 10,
-      "Гуськов Юрий Александрович": 54,
-      "Журавлева Галина Дмитриевна": 13,
-      "Кислов Евгений Иванович": 8,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 125,
-      "Ножнин Павел Валентинович": 21,
-      "Румянцева Тамара Дмитриевна": 246,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 49,
-      "Соколов Михаил Олегович": 15,
-      "Против всех": 131
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 10,
+      "gas:candidate-vibid:1001000121830": 54,
+      "gas:candidate-vibid:329300170699": 13,
+      "gas:candidate-vibid:1001000190328": 8,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 125,
+      "gas:candidate-vibid:1001000254183": 21,
+      "gas:candidate-vibid:1001000225924": 246,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 49,
+      "gas:candidate-vibid:1001000112204": 15,
+      "special:against-all": 131
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7792,19 +7792,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 14,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 2,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 0,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 14,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 2,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 0,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7854,19 +7854,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 19,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 82,
-      "Ножнин Павел Валентинович": 3,
-      "Румянцева Тамара Дмитриевна": 74,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 6,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 45
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 19,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 82,
+      "gas:candidate-vibid:1001000254183": 3,
+      "gas:candidate-vibid:1001000225924": 74,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 6,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7916,19 +7916,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 2,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 21,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 30,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 2,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 21,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 30,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -7978,19 +7978,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 52,
-      "Журавлева Галина Дмитриевна": 5,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 88,
-      "Ножнин Павел Валентинович": 9,
-      "Румянцева Тамара Дмитриевна": 93,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 57
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 52,
+      "gas:candidate-vibid:329300170699": 5,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 88,
+      "gas:candidate-vibid:1001000254183": 9,
+      "gas:candidate-vibid:1001000225924": 93,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070515&region=0&sub_region=0&type=429",
@@ -8040,19 +8040,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 3,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 32,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 23,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 22
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 3,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 32,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 23,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8102,19 +8102,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 2,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 6,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 36,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 2,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 6,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 36,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8164,19 +8164,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 33,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 25,
-      "Журавлева Галина Дмитриевна": 11,
-      "Кислов Евгений Иванович": 7,
-      "Коржиневская Наталья Ивановна": 18,
-      "Крупчак Владимир Ярославович": 272,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 112,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 30,
-      "Соколов Михаил Олегович": 26,
-      "Против всех": 138
+      "gas:candidate-vibid:329300170788": 33,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 25,
+      "gas:candidate-vibid:329300170699": 11,
+      "gas:candidate-vibid:1001000190328": 7,
+      "gas:candidate-vibid:1001000217914": 18,
+      "gas:candidate-vibid:329300170414": 272,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 112,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 30,
+      "gas:candidate-vibid:1001000112204": 26,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8226,19 +8226,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 26,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 19,
-      "Журавлева Галина Дмитриевна": 11,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 241,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 118,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 35,
-      "Соколов Михаил Олегович": 17,
-      "Против всех": 120
+      "gas:candidate-vibid:329300170788": 26,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 19,
+      "gas:candidate-vibid:329300170699": 11,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 241,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 118,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 35,
+      "gas:candidate-vibid:1001000112204": 17,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8288,19 +8288,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 56,
-      "Гришко Альфия Мажитовна": 5,
-      "Гуськов Юрий Александрович": 11,
-      "Журавлева Галина Дмитриевна": 8,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 89,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 38,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 4,
-      "Соколов Михаил Олегович": 8,
-      "Против всех": 58
+      "gas:candidate-vibid:329300170788": 56,
+      "gas:candidate-vibid:329300170707": 5,
+      "gas:candidate-vibid:1001000121830": 11,
+      "gas:candidate-vibid:329300170699": 8,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 89,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 38,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 4,
+      "gas:candidate-vibid:1001000112204": 8,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8350,19 +8350,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 8,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 38,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 7,
-      "Коржиневская Наталья Ивановна": 18,
-      "Крупчак Владимир Ярославович": 354,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 132,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 18,
-      "Соколов Михаил Олегович": 19,
-      "Против всех": 149
+      "gas:candidate-vibid:329300170788": 8,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 38,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 7,
+      "gas:candidate-vibid:1001000217914": 18,
+      "gas:candidate-vibid:329300170414": 354,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 132,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 18,
+      "gas:candidate-vibid:1001000112204": 19,
+      "special:against-all": 149
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8412,19 +8412,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 33,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 32,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 33,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 32,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8474,19 +8474,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 5,
-      "Крупчак Владимир Ярославович": 63,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 70,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 11,
-      "Соколов Михаил Олегович": 4,
-      "Против всех": 41
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 5,
+      "gas:candidate-vibid:329300170414": 63,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 70,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 11,
+      "gas:candidate-vibid:1001000112204": 4,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8536,19 +8536,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 3,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 6,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 27,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 3,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 6,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 27,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8598,19 +8598,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 3,
-      "Журавлева Галина Дмитриевна": 7,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 67,
-      "Крупчак Владимир Ярославович": 105,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 85,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 10,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 35
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 3,
+      "gas:candidate-vibid:329300170699": 7,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 67,
+      "gas:candidate-vibid:329300170414": 105,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 85,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 10,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8660,19 +8660,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 13,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 113,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 105,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 21,
-      "Соколов Михаил Олегович": 9,
-      "Против всех": 55
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 13,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 113,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 105,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 21,
+      "gas:candidate-vibid:1001000112204": 9,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8722,19 +8722,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 16,
-      "Журавлева Галина Дмитриевна": 8,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 9,
-      "Крупчак Владимир Ярославович": 75,
-      "Ножнин Павел Валентинович": 3,
-      "Румянцева Тамара Дмитриевна": 98,
-      "Селягин Александр Викторович": 4,
-      "Силантьев Михаил Сергеевич": 7,
-      "Соколов Михаил Олегович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 16,
+      "gas:candidate-vibid:329300170699": 8,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 9,
+      "gas:candidate-vibid:329300170414": 75,
+      "gas:candidate-vibid:1001000254183": 3,
+      "gas:candidate-vibid:1001000225924": 98,
+      "gas:candidate-vibid:1001000202294": 4,
+      "gas:candidate-vibid:1001000136034": 7,
+      "gas:candidate-vibid:1001000112204": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8784,19 +8784,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 7,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 15,
-      "Крупчак Владимир Ярославович": 87,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 162,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 10,
-      "Соколов Михаил Олегович": 5,
-      "Против всех": 20
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 7,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 15,
+      "gas:candidate-vibid:329300170414": 87,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 162,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 10,
+      "gas:candidate-vibid:1001000112204": 5,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8846,19 +8846,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 1,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 18,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 21,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 1,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 18,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 21,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8908,19 +8908,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 8,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 10,
-      "Крупчак Владимир Ярославович": 48,
-      "Ножнин Павел Валентинович": 3,
-      "Румянцева Тамара Дмитриевна": 72,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 8,
-      "Соколов Михаил Олегович": 10,
-      "Против всех": 45
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 8,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 10,
+      "gas:candidate-vibid:329300170414": 48,
+      "gas:candidate-vibid:1001000254183": 3,
+      "gas:candidate-vibid:1001000225924": 72,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 8,
+      "gas:candidate-vibid:1001000112204": 10,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -8970,19 +8970,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 17,
-      "Крупчак Владимир Ярославович": 10,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 45,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 4,
-      "Соколов Михаил Олегович": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 17,
+      "gas:candidate-vibid:329300170414": 10,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 45,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 4,
+      "gas:candidate-vibid:1001000112204": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9032,19 +9032,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 3,
-      "Гуськов Юрий Александрович": 29,
-      "Журавлева Галина Дмитриевна": 9,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 12,
-      "Крупчак Владимир Ярославович": 125,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 106,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 17,
-      "Соколов Михаил Олегович": 6,
-      "Против всех": 58
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 3,
+      "gas:candidate-vibid:1001000121830": 29,
+      "gas:candidate-vibid:329300170699": 9,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 12,
+      "gas:candidate-vibid:329300170414": 125,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 106,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 17,
+      "gas:candidate-vibid:1001000112204": 6,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9094,19 +9094,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 14,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 54,
-      "Журавлева Галина Дмитриевна": 23,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 112,
-      "Крупчак Владимир Ярославович": 294,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 193,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 26,
-      "Соколов Михаил Олегович": 12,
-      "Против всех": 228
+      "gas:candidate-vibid:329300170788": 14,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 54,
+      "gas:candidate-vibid:329300170699": 23,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 112,
+      "gas:candidate-vibid:329300170414": 294,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 193,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 26,
+      "gas:candidate-vibid:1001000112204": 12,
+      "special:against-all": 228
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9156,19 +9156,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 8,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 5,
-      "Крупчак Владимир Ярославович": 25,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 30,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 0,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 8,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 5,
+      "gas:candidate-vibid:329300170414": 25,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 30,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 0,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9218,19 +9218,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 12,
-      "Журавлева Галина Дмитриевна": 6,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 49,
-      "Ножнин Павел Валентинович": 3,
-      "Румянцева Тамара Дмитриевна": 86,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 16,
-      "Соколов Михаил Олегович": 5,
-      "Против всех": 44
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 12,
+      "gas:candidate-vibid:329300170699": 6,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 49,
+      "gas:candidate-vibid:1001000254183": 3,
+      "gas:candidate-vibid:1001000225924": 86,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 16,
+      "gas:candidate-vibid:1001000112204": 5,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9280,19 +9280,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 11,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 23,
-      "Журавлева Галина Дмитриевна": 9,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 34,
-      "Крупчак Владимир Ярославович": 303,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 293,
-      "Селягин Александр Викторович": 6,
-      "Силантьев Михаил Сергеевич": 15,
-      "Соколов Михаил Олегович": 14,
-      "Против всех": 116
+      "gas:candidate-vibid:329300170788": 11,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 23,
+      "gas:candidate-vibid:329300170699": 9,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 34,
+      "gas:candidate-vibid:329300170414": 303,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 293,
+      "gas:candidate-vibid:1001000202294": 6,
+      "gas:candidate-vibid:1001000136034": 15,
+      "gas:candidate-vibid:1001000112204": 14,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9342,19 +9342,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 19,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 16,
-      "Крупчак Владимир Ярославович": 108,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 64,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 9,
-      "Соколов Михаил Олегович": 9,
-      "Против всех": 28
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 19,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 16,
+      "gas:candidate-vibid:329300170414": 108,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 64,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 9,
+      "gas:candidate-vibid:1001000112204": 9,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9404,19 +9404,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 13,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 31,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 56,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 4,
-      "Соколов Михаил Олегович": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 13,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 31,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 56,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 4,
+      "gas:candidate-vibid:1001000112204": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9466,19 +9466,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 7,
-      "Журавлева Галина Дмитриевна": 1,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 23,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 21,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 23
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 7,
+      "gas:candidate-vibid:329300170699": 1,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 23,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 21,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9528,19 +9528,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 3,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 42,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 32,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 3,
-      "Соколов Михаил Олегович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 3,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 42,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 32,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 3,
+      "gas:candidate-vibid:1001000112204": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9590,19 +9590,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 2,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 2,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 87,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 27,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 6,
-      "Против всех": 24
+      "gas:candidate-vibid:329300170788": 2,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 2,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 87,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 27,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 6,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9652,19 +9652,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 2,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 93,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 34,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 5,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 2,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 93,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 34,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 5,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9714,19 +9714,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 3,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 6,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 6,
-      "Крупчак Владимир Ярославович": 116,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 191,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 5,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 41
+      "gas:candidate-vibid:329300170788": 3,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 6,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 6,
+      "gas:candidate-vibid:329300170414": 116,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 191,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 5,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9776,19 +9776,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 6,
-      "Гришко Альфия Мажитовна": 6,
-      "Гуськов Юрий Александрович": 12,
-      "Журавлева Галина Дмитриевна": 9,
-      "Кислов Евгений Иванович": 11,
-      "Коржиневская Наталья Ивановна": 5,
-      "Крупчак Владимир Ярославович": 136,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 152,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 15,
-      "Соколов Михаил Олегович": 6,
-      "Против всех": 97
+      "gas:candidate-vibid:329300170788": 6,
+      "gas:candidate-vibid:329300170707": 6,
+      "gas:candidate-vibid:1001000121830": 12,
+      "gas:candidate-vibid:329300170699": 9,
+      "gas:candidate-vibid:1001000190328": 11,
+      "gas:candidate-vibid:1001000217914": 5,
+      "gas:candidate-vibid:329300170414": 136,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 152,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 15,
+      "gas:candidate-vibid:1001000112204": 6,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9838,19 +9838,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 13,
-      "Гришко Альфия Мажитовна": 8,
-      "Гуськов Юрий Александрович": 33,
-      "Журавлева Галина Дмитриевна": 13,
-      "Кислов Евгений Иванович": 5,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 247,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 100,
-      "Селягин Александр Викторович": 10,
-      "Силантьев Михаил Сергеевич": 20,
-      "Соколов Михаил Олегович": 19,
-      "Против всех": 146
+      "gas:candidate-vibid:329300170788": 13,
+      "gas:candidate-vibid:329300170707": 8,
+      "gas:candidate-vibid:1001000121830": 33,
+      "gas:candidate-vibid:329300170699": 13,
+      "gas:candidate-vibid:1001000190328": 5,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 247,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 100,
+      "gas:candidate-vibid:1001000202294": 10,
+      "gas:candidate-vibid:1001000136034": 20,
+      "gas:candidate-vibid:1001000112204": 19,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9900,19 +9900,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 11,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 32,
-      "Журавлева Галина Дмитриевна": 14,
-      "Кислов Евгений Иванович": 3,
-      "Коржиневская Наталья Ивановна": 28,
-      "Крупчак Владимир Ярославович": 374,
-      "Ножнин Павел Валентинович": 6,
-      "Румянцева Тамара Дмитриевна": 142,
-      "Селягин Александр Викторович": 5,
-      "Силантьев Михаил Сергеевич": 24,
-      "Соколов Михаил Олегович": 18,
-      "Против всех": 205
+      "gas:candidate-vibid:329300170788": 11,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 32,
+      "gas:candidate-vibid:329300170699": 14,
+      "gas:candidate-vibid:1001000190328": 3,
+      "gas:candidate-vibid:1001000217914": 28,
+      "gas:candidate-vibid:329300170414": 374,
+      "gas:candidate-vibid:1001000254183": 6,
+      "gas:candidate-vibid:1001000225924": 142,
+      "gas:candidate-vibid:1001000202294": 5,
+      "gas:candidate-vibid:1001000136034": 24,
+      "gas:candidate-vibid:1001000112204": 18,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -9962,19 +9962,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 7,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 11,
-      "Крупчак Владимир Ярославович": 66,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 51,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 3,
-      "Соколов Михаил Олегович": 4,
-      "Против всех": 9
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 7,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 11,
+      "gas:candidate-vibid:329300170414": 66,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 51,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 3,
+      "gas:candidate-vibid:1001000112204": 4,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10024,19 +10024,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 4,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 15,
-      "Журавлева Галина Дмитриевна": 13,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 19,
-      "Крупчак Владимир Ярославович": 131,
-      "Ножнин Павел Валентинович": 4,
-      "Румянцева Тамара Дмитриевна": 159,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 15,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 70
+      "gas:candidate-vibid:329300170788": 4,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 15,
+      "gas:candidate-vibid:329300170699": 13,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 19,
+      "gas:candidate-vibid:329300170414": 131,
+      "gas:candidate-vibid:1001000254183": 4,
+      "gas:candidate-vibid:1001000225924": 159,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 15,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10086,19 +10086,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 6,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 7,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 2,
-      "Крупчак Владимир Ярославович": 63,
-      "Ножнин Павел Валентинович": 1,
-      "Румянцева Тамара Дмитриевна": 32,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 11,
-      "Соколов Михаил Олегович": 3,
-      "Против всех": 58
+      "gas:candidate-vibid:329300170788": 6,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 7,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 2,
+      "gas:candidate-vibid:329300170414": 63,
+      "gas:candidate-vibid:1001000254183": 1,
+      "gas:candidate-vibid:1001000225924": 32,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 11,
+      "gas:candidate-vibid:1001000112204": 3,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10148,19 +10148,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 4,
-      "Гуськов Юрий Александрович": 29,
-      "Журавлева Галина Дмитриевна": 5,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 31,
-      "Крупчак Владимир Ярославович": 359,
-      "Ножнин Павел Валентинович": 7,
-      "Румянцева Тамара Дмитриевна": 126,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 11,
-      "Соколов Михаил Олегович": 6,
-      "Против всех": 79
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 4,
+      "gas:candidate-vibid:1001000121830": 29,
+      "gas:candidate-vibid:329300170699": 5,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 31,
+      "gas:candidate-vibid:329300170414": 359,
+      "gas:candidate-vibid:1001000254183": 7,
+      "gas:candidate-vibid:1001000225924": 126,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 11,
+      "gas:candidate-vibid:1001000112204": 6,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10210,19 +10210,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 11,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 1,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 8,
-      "Крупчак Владимир Ярославович": 75,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 35,
-      "Селягин Александр Викторович": 2,
-      "Силантьев Михаил Сергеевич": 5,
-      "Соколов Михаил Олегович": 6,
-      "Против всех": 17
+      "gas:candidate-vibid:329300170788": 11,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 1,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 8,
+      "gas:candidate-vibid:329300170414": 75,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 35,
+      "gas:candidate-vibid:1001000202294": 2,
+      "gas:candidate-vibid:1001000136034": 5,
+      "gas:candidate-vibid:1001000112204": 6,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10272,19 +10272,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 4,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 0,
-      "Крупчак Владимир Ярославович": 6,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 42,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 2,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 4,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 0,
+      "gas:candidate-vibid:329300170414": 6,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 42,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 2,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10334,19 +10334,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 0,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 23,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 81,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 42,
-      "Селягин Александр Викторович": 1,
-      "Силантьев Михаил Сергеевич": 6,
-      "Соколов Михаил Олегович": 4,
-      "Против всех": 16
+      "gas:candidate-vibid:329300170788": 0,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 23,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 81,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 42,
+      "gas:candidate-vibid:1001000202294": 1,
+      "gas:candidate-vibid:1001000136034": 6,
+      "gas:candidate-vibid:1001000112204": 4,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10396,19 +10396,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 5,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 0,
-      "Коржиневская Наталья Ивановна": 3,
-      "Крупчак Владимир Ярославович": 13,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 37,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 4,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 5,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 0,
+      "gas:candidate-vibid:1001000217914": 3,
+      "gas:candidate-vibid:329300170414": 13,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 37,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 4,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10458,19 +10458,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 7,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 12,
-      "Журавлева Галина Дмитриевна": 9,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 4,
-      "Крупчак Владимир Ярославович": 27,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 49,
-      "Селягин Александр Викторович": 3,
-      "Силантьев Михаил Сергеевич": 5,
-      "Соколов Михаил Олегович": 0,
-      "Против всех": 27
+      "gas:candidate-vibid:329300170788": 7,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 12,
+      "gas:candidate-vibid:329300170699": 9,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 4,
+      "gas:candidate-vibid:329300170414": 27,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 49,
+      "gas:candidate-vibid:1001000202294": 3,
+      "gas:candidate-vibid:1001000136034": 5,
+      "gas:candidate-vibid:1001000112204": 0,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10520,19 +10520,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 2,
-      "Гуськов Юрий Александрович": 1,
-      "Журавлева Галина Дмитриевна": 4,
-      "Кислов Евгений Иванович": 2,
-      "Коржиневская Наталья Ивановна": 3,
-      "Крупчак Владимир Ярославович": 10,
-      "Ножнин Павел Валентинович": 2,
-      "Румянцева Тамара Дмитриевна": 29,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 7,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 20
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 2,
+      "gas:candidate-vibid:1001000121830": 1,
+      "gas:candidate-vibid:329300170699": 4,
+      "gas:candidate-vibid:1001000190328": 2,
+      "gas:candidate-vibid:1001000217914": 3,
+      "gas:candidate-vibid:329300170414": 10,
+      "gas:candidate-vibid:1001000254183": 2,
+      "gas:candidate-vibid:1001000225924": 29,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 7,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10582,19 +10582,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 1,
-      "Гуськов Юрий Александрович": 4,
-      "Журавлева Галина Дмитриевна": 3,
-      "Кислов Евгений Иванович": 4,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 30,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 87,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 9,
-      "Соколов Михаил Олегович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 1,
+      "gas:candidate-vibid:1001000121830": 4,
+      "gas:candidate-vibid:329300170699": 3,
+      "gas:candidate-vibid:1001000190328": 4,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 30,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 87,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 9,
+      "gas:candidate-vibid:1001000112204": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10644,19 +10644,19 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Георгиев Андрей Георгиевич": 1,
-      "Гришко Альфия Мажитовна": 0,
-      "Гуськов Юрий Александрович": 2,
-      "Журавлева Галина Дмитриевна": 0,
-      "Кислов Евгений Иванович": 1,
-      "Коржиневская Наталья Ивановна": 1,
-      "Крупчак Владимир Ярославович": 9,
-      "Ножнин Павел Валентинович": 0,
-      "Румянцева Тамара Дмитриевна": 37,
-      "Селягин Александр Викторович": 0,
-      "Силантьев Михаил Сергеевич": 1,
-      "Соколов Михаил Олегович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:329300170788": 1,
+      "gas:candidate-vibid:329300170707": 0,
+      "gas:candidate-vibid:1001000121830": 2,
+      "gas:candidate-vibid:329300170699": 0,
+      "gas:candidate-vibid:1001000190328": 1,
+      "gas:candidate-vibid:1001000217914": 1,
+      "gas:candidate-vibid:329300170414": 9,
+      "gas:candidate-vibid:1001000254183": 0,
+      "gas:candidate-vibid:1001000225924": 37,
+      "gas:candidate-vibid:1001000202294": 0,
+      "gas:candidate-vibid:1001000136034": 1,
+      "gas:candidate-vibid:1001000112204": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070516&region=0&sub_region=0&type=429",
@@ -10706,14 +10706,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 16,
-      "Енягин Владимир Николаевич": 40,
-      "Зверев Виктор Прохорович": 62,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 67,
-      "Сманцер Андрей Владимирович": 62,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 16,
+      "gas:candidate-vibid:1001000187999": 40,
+      "gas:candidate-vibid:329300270503": 62,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 67,
+      "gas:candidate-vibid:329300270338": 62,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -10763,14 +10763,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 39,
-      "Сманцер Андрей Владимирович": 29,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 39,
+      "gas:candidate-vibid:329300270338": 29,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -10820,14 +10820,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 21,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 21,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -10877,14 +10877,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 32,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 102,
-      "Сманцер Андрей Владимирович": 29,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 32,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 102,
+      "gas:candidate-vibid:329300270338": 29,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -10934,14 +10934,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 43,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 118,
-      "Сманцер Андрей Владимирович": 73,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 43,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 118,
+      "gas:candidate-vibid:329300270338": 73,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -10991,14 +10991,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 28,
-      "Сманцер Андрей Владимирович": 18,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 28,
+      "gas:candidate-vibid:329300270338": 18,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11048,14 +11048,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 19,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 72,
-      "Сманцер Андрей Владимирович": 10,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 19,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 72,
+      "gas:candidate-vibid:329300270338": 10,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11105,14 +11105,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 32,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 28,
-      "Сманцер Андрей Владимирович": 10,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 32,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 28,
+      "gas:candidate-vibid:329300270338": 10,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11162,14 +11162,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 20,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 25,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 20,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 25,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11219,14 +11219,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 25,
-      "Зверев Виктор Прохорович": 25,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 19,
-      "Мальчихин Валерий Андреевич": 104,
-      "Сманцер Андрей Владимирович": 62,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 25,
+      "gas:candidate-vibid:329300270503": 25,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 19,
+      "gas:candidate-vibid:1001000225925": 104,
+      "gas:candidate-vibid:329300270338": 62,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11276,14 +11276,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 28,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 28,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11333,14 +11333,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 20,
-      "Сманцер Андрей Владимирович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 20,
+      "gas:candidate-vibid:329300270338": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11390,14 +11390,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 103,
-      "Зверев Виктор Прохорович": 46,
-      "Корыгин Александр Алексеевич": 12,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 344,
-      "Сманцер Андрей Владимирович": 51,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 103,
+      "gas:candidate-vibid:329300270503": 46,
+      "gas:candidate-vibid:1001000131391": 12,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 344,
+      "gas:candidate-vibid:329300270338": 51,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11447,14 +11447,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 22,
-      "Зверев Виктор Прохорович": 24,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 47,
-      "Сманцер Андрей Владимирович": 54,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 22,
+      "gas:candidate-vibid:329300270503": 24,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 47,
+      "gas:candidate-vibid:329300270338": 54,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11504,14 +11504,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 55,
-      "Сманцер Андрей Владимирович": 2,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 55,
+      "gas:candidate-vibid:329300270338": 2,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11561,14 +11561,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 15,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 45,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 15,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 45,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11618,14 +11618,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 17,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 45,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000121831": 17,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 45,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11675,14 +11675,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 24,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 13,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 37,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 24,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 13,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 37,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11732,14 +11732,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 32,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 32,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11789,14 +11789,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 83,
-      "Сманцер Андрей Владимирович": 15,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 83,
+      "gas:candidate-vibid:329300270338": 15,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11846,14 +11846,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 11,
-      "Сманцер Андрей Владимирович": 18,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 11,
+      "gas:candidate-vibid:329300270338": 18,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11903,14 +11903,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 42,
-      "Зверев Виктор Прохорович": 28,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 94,
-      "Сманцер Андрей Владимирович": 38,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 42,
+      "gas:candidate-vibid:329300270503": 28,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 94,
+      "gas:candidate-vibid:329300270338": 38,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -11960,14 +11960,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 55,
-      "Сманцер Андрей Владимирович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 55,
+      "gas:candidate-vibid:329300270338": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12017,14 +12017,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 27,
-      "Сманцер Андрей Владимирович": 11,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 27,
+      "gas:candidate-vibid:329300270338": 11,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12074,14 +12074,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 12,
-      "Енягин Владимир Николаевич": 67,
-      "Зверев Виктор Прохорович": 20,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 15,
-      "Мальчихин Валерий Андреевич": 137,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000121831": 12,
+      "gas:candidate-vibid:1001000187999": 67,
+      "gas:candidate-vibid:329300270503": 20,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 15,
+      "gas:candidate-vibid:1001000225925": 137,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12131,14 +12131,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 19,
-      "Енягин Владимир Николаевич": 38,
-      "Зверев Виктор Прохорович": 123,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 17,
-      "Мальчихин Валерий Андреевич": 203,
-      "Сманцер Андрей Владимирович": 41,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000121831": 19,
+      "gas:candidate-vibid:1001000187999": 38,
+      "gas:candidate-vibid:329300270503": 123,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 17,
+      "gas:candidate-vibid:1001000225925": 203,
+      "gas:candidate-vibid:329300270338": 41,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12188,14 +12188,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 18,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 125,
-      "Сманцер Андрей Владимирович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 18,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 125,
+      "gas:candidate-vibid:329300270338": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12245,14 +12245,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 15,
-      "Енягин Владимир Николаевич": 22,
-      "Зверев Виктор Прохорович": 52,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 135,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000121831": 15,
+      "gas:candidate-vibid:1001000187999": 22,
+      "gas:candidate-vibid:329300270503": 52,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 135,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12302,14 +12302,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 44,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 33,
-      "Сманцер Андрей Владимирович": 37,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 44,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 33,
+      "gas:candidate-vibid:329300270338": 37,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12359,14 +12359,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 2,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 40,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 2,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 40,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12416,14 +12416,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 45,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 45,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12473,14 +12473,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 28,
-      "Енягин Владимир Николаевич": 33,
-      "Зверев Виктор Прохорович": 91,
-      "Корыгин Александр Алексеевич": 11,
-      "Лиханова Галина Ивановна": 29,
-      "Мальчихин Валерий Андреевич": 157,
-      "Сманцер Андрей Владимирович": 49,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 28,
+      "gas:candidate-vibid:1001000187999": 33,
+      "gas:candidate-vibid:329300270503": 91,
+      "gas:candidate-vibid:1001000131391": 11,
+      "gas:candidate-vibid:1001000195058": 29,
+      "gas:candidate-vibid:1001000225925": 157,
+      "gas:candidate-vibid:329300270338": 49,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12530,14 +12530,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 26,
-      "Сманцер Андрей Владимирович": 49,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 26,
+      "gas:candidate-vibid:329300270338": 49,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12587,14 +12587,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 22,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 90,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 22,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 90,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12644,14 +12644,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 17,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 32,
-      "Мальчихин Валерий Андреевич": 57,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 17,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 32,
+      "gas:candidate-vibid:1001000225925": 57,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12701,14 +12701,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 36,
-      "Енягин Владимир Николаевич": 101,
-      "Зверев Виктор Прохорович": 41,
-      "Корыгин Александр Алексеевич": 33,
-      "Лиханова Галина Ивановна": 52,
-      "Мальчихин Валерий Андреевич": 418,
-      "Сманцер Андрей Владимирович": 94,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000121831": 36,
+      "gas:candidate-vibid:1001000187999": 101,
+      "gas:candidate-vibid:329300270503": 41,
+      "gas:candidate-vibid:1001000131391": 33,
+      "gas:candidate-vibid:1001000195058": 52,
+      "gas:candidate-vibid:1001000225925": 418,
+      "gas:candidate-vibid:329300270338": 94,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12758,14 +12758,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 82,
-      "Енягин Владимир Николаевич": 109,
-      "Зверев Виктор Прохорович": 92,
-      "Корыгин Александр Алексеевич": 24,
-      "Лиханова Галина Ивановна": 60,
-      "Мальчихин Валерий Андреевич": 499,
-      "Сманцер Андрей Владимирович": 83,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000121831": 82,
+      "gas:candidate-vibid:1001000187999": 109,
+      "gas:candidate-vibid:329300270503": 92,
+      "gas:candidate-vibid:1001000131391": 24,
+      "gas:candidate-vibid:1001000195058": 60,
+      "gas:candidate-vibid:1001000225925": 499,
+      "gas:candidate-vibid:329300270338": 83,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12815,14 +12815,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 39,
-      "Енягин Владимир Николаевич": 92,
-      "Зверев Виктор Прохорович": 97,
-      "Корыгин Александр Алексеевич": 22,
-      "Лиханова Галина Ивановна": 33,
-      "Мальчихин Валерий Андреевич": 362,
-      "Сманцер Андрей Владимирович": 67,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000121831": 39,
+      "gas:candidate-vibid:1001000187999": 92,
+      "gas:candidate-vibid:329300270503": 97,
+      "gas:candidate-vibid:1001000131391": 22,
+      "gas:candidate-vibid:1001000195058": 33,
+      "gas:candidate-vibid:1001000225925": 362,
+      "gas:candidate-vibid:329300270338": 67,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070517&region=0&sub_region=0&type=429",
@@ -12872,14 +12872,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 35,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 39,
-      "Корыгин Александр Алексеевич": 18,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 111,
-      "Сманцер Андрей Владимирович": 39,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000121831": 35,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 39,
+      "gas:candidate-vibid:1001000131391": 18,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 111,
+      "gas:candidate-vibid:329300270338": 39,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -12929,14 +12929,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 10,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 6,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 69,
-      "Сманцер Андрей Владимирович": 19,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 10,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 6,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 69,
+      "gas:candidate-vibid:329300270338": 19,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -12986,14 +12986,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 7,
-      "Зверев Виктор Прохорович": 39,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 37,
-      "Сманцер Андрей Владимирович": 9,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 7,
+      "gas:candidate-vibid:329300270503": 39,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 37,
+      "gas:candidate-vibid:329300270338": 9,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13043,14 +13043,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 40,
-      "Зверев Виктор Прохорович": 18,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 51,
-      "Сманцер Андрей Владимирович": 54,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 40,
+      "gas:candidate-vibid:329300270503": 18,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 51,
+      "gas:candidate-vibid:329300270338": 54,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13100,14 +13100,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 96,
-      "Енягин Владимир Николаевич": 52,
-      "Зверев Виктор Прохорович": 65,
-      "Корыгин Александр Алексеевич": 22,
-      "Лиханова Галина Ивановна": 70,
-      "Мальчихин Валерий Андреевич": 257,
-      "Сманцер Андрей Владимирович": 226,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000121831": 96,
+      "gas:candidate-vibid:1001000187999": 52,
+      "gas:candidate-vibid:329300270503": 65,
+      "gas:candidate-vibid:1001000131391": 22,
+      "gas:candidate-vibid:1001000195058": 70,
+      "gas:candidate-vibid:1001000225925": 257,
+      "gas:candidate-vibid:329300270338": 226,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13157,14 +13157,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 114,
-      "Енягин Владимир Николаевич": 71,
-      "Зверев Виктор Прохорович": 74,
-      "Корыгин Александр Алексеевич": 38,
-      "Лиханова Галина Ивановна": 76,
-      "Мальчихин Валерий Андреевич": 407,
-      "Сманцер Андрей Владимирович": 253,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000121831": 114,
+      "gas:candidate-vibid:1001000187999": 71,
+      "gas:candidate-vibid:329300270503": 74,
+      "gas:candidate-vibid:1001000131391": 38,
+      "gas:candidate-vibid:1001000195058": 76,
+      "gas:candidate-vibid:1001000225925": 407,
+      "gas:candidate-vibid:329300270338": 253,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13214,14 +13214,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 13,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 30,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121831": 13,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 30,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13271,14 +13271,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 35,
-      "Енягин Владимир Николаевич": 11,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 50,
-      "Сманцер Андрей Владимирович": 35,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121831": 35,
+      "gas:candidate-vibid:1001000187999": 11,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 50,
+      "gas:candidate-vibid:329300270338": 35,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13328,14 +13328,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 16,
-      "Зверев Виктор Прохорович": 5,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 22,
-      "Сманцер Андрей Владимирович": 53,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 16,
+      "gas:candidate-vibid:329300270503": 5,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 22,
+      "gas:candidate-vibid:329300270338": 53,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13385,14 +13385,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 8,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 8,
-      "Мальчихин Валерий Андреевич": 27,
-      "Сманцер Андрей Владимирович": 31,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 8,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 8,
+      "gas:candidate-vibid:1001000225925": 27,
+      "gas:candidate-vibid:329300270338": 31,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13442,14 +13442,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 58,
-      "Енягин Владимир Николаевич": 40,
-      "Зверев Виктор Прохорович": 59,
-      "Корыгин Александр Алексеевич": 84,
-      "Лиханова Галина Ивановна": 74,
-      "Мальчихин Валерий Андреевич": 395,
-      "Сманцер Андрей Владимирович": 347,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000121831": 58,
+      "gas:candidate-vibid:1001000187999": 40,
+      "gas:candidate-vibid:329300270503": 59,
+      "gas:candidate-vibid:1001000131391": 84,
+      "gas:candidate-vibid:1001000195058": 74,
+      "gas:candidate-vibid:1001000225925": 395,
+      "gas:candidate-vibid:329300270338": 347,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13499,14 +13499,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 11,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 1,
-      "Мальчихин Валерий Андреевич": 32,
-      "Сманцер Андрей Владимирович": 12,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 11,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 1,
+      "gas:candidate-vibid:1001000225925": 32,
+      "gas:candidate-vibid:329300270338": 12,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13556,14 +13556,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 24,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 19,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 110,
-      "Сманцер Андрей Владимирович": 121,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000121831": 24,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 19,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 110,
+      "gas:candidate-vibid:329300270338": 121,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13613,14 +13613,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 58,
-      "Енягин Владимир Николаевич": 60,
-      "Зверев Виктор Прохорович": 37,
-      "Корыгин Александр Алексеевич": 25,
-      "Лиханова Галина Ивановна": 48,
-      "Мальчихин Валерий Андреевич": 314,
-      "Сманцер Андрей Владимирович": 170,
-      "Против всех": 159
+      "gas:candidate-vibid:1001000121831": 58,
+      "gas:candidate-vibid:1001000187999": 60,
+      "gas:candidate-vibid:329300270503": 37,
+      "gas:candidate-vibid:1001000131391": 25,
+      "gas:candidate-vibid:1001000195058": 48,
+      "gas:candidate-vibid:1001000225925": 314,
+      "gas:candidate-vibid:329300270338": 170,
+      "special:against-all": 159
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13670,14 +13670,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 47,
-      "Сманцер Андрей Владимирович": 24,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 47,
+      "gas:candidate-vibid:329300270338": 24,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13727,14 +13727,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 6,
-      "Енягин Владимир Николаевич": 17,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 14,
-      "Сманцер Андрей Владимирович": 35,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000121831": 6,
+      "gas:candidate-vibid:1001000187999": 17,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 14,
+      "gas:candidate-vibid:329300270338": 35,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13784,14 +13784,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 21,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 15,
-      "Корыгин Александр Алексеевич": 23,
-      "Лиханова Галина Ивановна": 15,
-      "Мальчихин Валерий Андреевич": 159,
-      "Сманцер Андрей Владимирович": 311,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121831": 21,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 15,
+      "gas:candidate-vibid:1001000131391": 23,
+      "gas:candidate-vibid:1001000195058": 15,
+      "gas:candidate-vibid:1001000225925": 159,
+      "gas:candidate-vibid:329300270338": 311,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13841,14 +13841,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 27,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 13,
-      "Корыгин Александр Алексеевич": 35,
-      "Лиханова Галина Ивановна": 14,
-      "Мальчихин Валерий Андреевич": 207,
-      "Сманцер Андрей Владимирович": 147,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000121831": 27,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 13,
+      "gas:candidate-vibid:1001000131391": 35,
+      "gas:candidate-vibid:1001000195058": 14,
+      "gas:candidate-vibid:1001000225925": 207,
+      "gas:candidate-vibid:329300270338": 147,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13898,14 +13898,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 25,
-      "Енягин Владимир Николаевич": 22,
-      "Зверев Виктор Прохорович": 24,
-      "Корыгин Александр Алексеевич": 24,
-      "Лиханова Галина Ивановна": 32,
-      "Мальчихин Валерий Андреевич": 207,
-      "Сманцер Андрей Владимирович": 83,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000121831": 25,
+      "gas:candidate-vibid:1001000187999": 22,
+      "gas:candidate-vibid:329300270503": 24,
+      "gas:candidate-vibid:1001000131391": 24,
+      "gas:candidate-vibid:1001000195058": 32,
+      "gas:candidate-vibid:1001000225925": 207,
+      "gas:candidate-vibid:329300270338": 83,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -13955,14 +13955,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 14,
-      "Лиханова Галина Ивановна": 3,
-      "Мальчихин Валерий Андреевич": 53,
-      "Сманцер Андрей Владимирович": 26,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 14,
+      "gas:candidate-vibid:1001000195058": 3,
+      "gas:candidate-vibid:1001000225925": 53,
+      "gas:candidate-vibid:329300270338": 26,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14012,14 +14012,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 3,
-      "Енягин Владимир Николаевич": 2,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 16,
-      "Лиханова Галина Ивановна": 9,
-      "Мальчихин Валерий Андреевич": 29,
-      "Сманцер Андрей Владимирович": 55,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000121831": 3,
+      "gas:candidate-vibid:1001000187999": 2,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 16,
+      "gas:candidate-vibid:1001000195058": 9,
+      "gas:candidate-vibid:1001000225925": 29,
+      "gas:candidate-vibid:329300270338": 55,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14069,14 +14069,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 6,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 16,
-      "Мальчихин Валерий Андреевич": 61,
-      "Сманцер Андрей Владимирович": 38,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 6,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 16,
+      "gas:candidate-vibid:1001000225925": 61,
+      "gas:candidate-vibid:329300270338": 38,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14126,14 +14126,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 33,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 13,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 77,
-      "Сманцер Андрей Владимирович": 38,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 33,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 13,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 77,
+      "gas:candidate-vibid:329300270338": 38,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14183,14 +14183,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 8,
-      "Зверев Виктор Прохорович": 3,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 63,
-      "Сманцер Андрей Владимирович": 34,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 8,
+      "gas:candidate-vibid:329300270503": 3,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 63,
+      "gas:candidate-vibid:329300270338": 34,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14240,14 +14240,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 12,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 23,
-      "Сманцер Андрей Владимирович": 31,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 12,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 23,
+      "gas:candidate-vibid:329300270338": 31,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14297,14 +14297,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 39,
-      "Сманцер Андрей Владимирович": 21,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 39,
+      "gas:candidate-vibid:329300270338": 21,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14354,14 +14354,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 32,
-      "Енягин Владимир Николаевич": 40,
-      "Зверев Виктор Прохорович": 40,
-      "Корыгин Александр Алексеевич": 36,
-      "Лиханова Галина Ивановна": 24,
-      "Мальчихин Валерий Андреевич": 128,
-      "Сманцер Андрей Владимирович": 127,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000121831": 32,
+      "gas:candidate-vibid:1001000187999": 40,
+      "gas:candidate-vibid:329300270503": 40,
+      "gas:candidate-vibid:1001000131391": 36,
+      "gas:candidate-vibid:1001000195058": 24,
+      "gas:candidate-vibid:1001000225925": 128,
+      "gas:candidate-vibid:329300270338": 127,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14411,14 +14411,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 21,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 4,
-      "Корыгин Александр Алексеевич": 8,
-      "Лиханова Галина Ивановна": 11,
-      "Мальчихин Валерий Андреевич": 20,
-      "Сманцер Андрей Владимирович": 11,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000121831": 21,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 4,
+      "gas:candidate-vibid:1001000131391": 8,
+      "gas:candidate-vibid:1001000195058": 11,
+      "gas:candidate-vibid:1001000225925": 20,
+      "gas:candidate-vibid:329300270338": 11,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14468,14 +14468,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 5,
-      "Енягин Владимир Николаевич": 5,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 10,
-      "Мальчихин Валерий Андреевич": 14,
-      "Сманцер Андрей Владимирович": 11,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000121831": 5,
+      "gas:candidate-vibid:1001000187999": 5,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 10,
+      "gas:candidate-vibid:1001000225925": 14,
+      "gas:candidate-vibid:329300270338": 11,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14525,14 +14525,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 176,
-      "Енягин Владимир Николаевич": 79,
-      "Зверев Виктор Прохорович": 47,
-      "Корыгин Александр Алексеевич": 50,
-      "Лиханова Галина Ивановна": 70,
-      "Мальчихин Валерий Андреевич": 332,
-      "Сманцер Андрей Владимирович": 387,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000121831": 176,
+      "gas:candidate-vibid:1001000187999": 79,
+      "gas:candidate-vibid:329300270503": 47,
+      "gas:candidate-vibid:1001000131391": 50,
+      "gas:candidate-vibid:1001000195058": 70,
+      "gas:candidate-vibid:1001000225925": 332,
+      "gas:candidate-vibid:329300270338": 387,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14582,14 +14582,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 8,
-      "Енягин Владимир Николаевич": 10,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 2,
-      "Лиханова Галина Ивановна": 7,
-      "Мальчихин Валерий Андреевич": 30,
-      "Сманцер Андрей Владимирович": 15,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000121831": 8,
+      "gas:candidate-vibid:1001000187999": 10,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 2,
+      "gas:candidate-vibid:1001000195058": 7,
+      "gas:candidate-vibid:1001000225925": 30,
+      "gas:candidate-vibid:329300270338": 15,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14639,14 +14639,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 7,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 39,
-      "Сманцер Андрей Владимирович": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 7,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 39,
+      "gas:candidate-vibid:329300270338": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14696,14 +14696,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 1,
-      "Енягин Владимир Николаевич": 0,
-      "Зверев Виктор Прохорович": 0,
-      "Корыгин Александр Алексеевич": 0,
-      "Лиханова Галина Ивановна": 5,
-      "Мальчихин Валерий Андреевич": 34,
-      "Сманцер Андрей Владимирович": 7,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000121831": 1,
+      "gas:candidate-vibid:1001000187999": 0,
+      "gas:candidate-vibid:329300270503": 0,
+      "gas:candidate-vibid:1001000131391": 0,
+      "gas:candidate-vibid:1001000195058": 5,
+      "gas:candidate-vibid:1001000225925": 34,
+      "gas:candidate-vibid:329300270338": 7,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14753,14 +14753,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 2,
-      "Корыгин Александр Алексеевич": 9,
-      "Лиханова Галина Ивановна": 13,
-      "Мальчихин Валерий Андреевич": 146,
-      "Сманцер Андрей Владимирович": 40,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 2,
+      "gas:candidate-vibid:1001000131391": 9,
+      "gas:candidate-vibid:1001000195058": 13,
+      "gas:candidate-vibid:1001000225925": 146,
+      "gas:candidate-vibid:329300270338": 40,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14810,14 +14810,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 7,
-      "Енягин Владимир Николаевич": 1,
-      "Зверев Виктор Прохорович": 9,
-      "Корыгин Александр Алексеевич": 10,
-      "Лиханова Галина Ивановна": 4,
-      "Мальчихин Валерий Андреевич": 72,
-      "Сманцер Андрей Владимирович": 34,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000121831": 7,
+      "gas:candidate-vibid:1001000187999": 1,
+      "gas:candidate-vibid:329300270503": 9,
+      "gas:candidate-vibid:1001000131391": 10,
+      "gas:candidate-vibid:1001000195058": 4,
+      "gas:candidate-vibid:1001000225925": 72,
+      "gas:candidate-vibid:329300270338": 34,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14867,14 +14867,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 4,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 7,
-      "Лиханова Галина Ивановна": 12,
-      "Мальчихин Валерий Андреевич": 43,
-      "Сманцер Андрей Владимирович": 14,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 4,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 7,
+      "gas:candidate-vibid:1001000195058": 12,
+      "gas:candidate-vibid:1001000225925": 43,
+      "gas:candidate-vibid:329300270338": 14,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14924,14 +14924,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 4,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 1,
-      "Лиханова Галина Ивановна": 0,
-      "Мальчихин Валерий Андреевич": 11,
-      "Сманцер Андрей Владимирович": 48,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000121831": 4,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 1,
+      "gas:candidate-vibid:1001000195058": 0,
+      "gas:candidate-vibid:1001000225925": 11,
+      "gas:candidate-vibid:329300270338": 48,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -14981,14 +14981,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 22,
-      "Енягин Владимир Николаевич": 9,
-      "Зверев Виктор Прохорович": 10,
-      "Корыгин Александр Алексеевич": 5,
-      "Лиханова Галина Ивановна": 17,
-      "Мальчихин Валерий Андреевич": 31,
-      "Сманцер Андрей Владимирович": 32,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000121831": 22,
+      "gas:candidate-vibid:1001000187999": 9,
+      "gas:candidate-vibid:329300270503": 10,
+      "gas:candidate-vibid:1001000131391": 5,
+      "gas:candidate-vibid:1001000195058": 17,
+      "gas:candidate-vibid:1001000225925": 31,
+      "gas:candidate-vibid:329300270338": 32,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -15038,14 +15038,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 23,
-      "Енягин Владимир Николаевич": 3,
-      "Зверев Виктор Прохорович": 11,
-      "Корыгин Александр Алексеевич": 4,
-      "Лиханова Галина Ивановна": 6,
-      "Мальчихин Валерий Андреевич": 165,
-      "Сманцер Андрей Владимирович": 69,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000121831": 23,
+      "gas:candidate-vibid:1001000187999": 3,
+      "gas:candidate-vibid:329300270503": 11,
+      "gas:candidate-vibid:1001000131391": 4,
+      "gas:candidate-vibid:1001000195058": 6,
+      "gas:candidate-vibid:1001000225925": 165,
+      "gas:candidate-vibid:329300270338": 69,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",
@@ -15095,14 +15095,14 @@ export const duma_2003_uik_428_region_29_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гурьев Евгений Тимофеевич": 9,
-      "Енягин Владимир Николаевич": 6,
-      "Зверев Виктор Прохорович": 1,
-      "Корыгин Александр Алексеевич": 3,
-      "Лиханова Галина Ивановна": 2,
-      "Мальчихин Валерий Андреевич": 28,
-      "Сманцер Андрей Владимирович": 85,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000121831": 9,
+      "gas:candidate-vibid:1001000187999": 6,
+      "gas:candidate-vibid:329300270503": 1,
+      "gas:candidate-vibid:1001000131391": 3,
+      "gas:candidate-vibid:1001000195058": 2,
+      "gas:candidate-vibid:1001000225925": 28,
+      "gas:candidate-vibid:329300270338": 85,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=292000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=229200070518&region=0&sub_region=0&type=429",

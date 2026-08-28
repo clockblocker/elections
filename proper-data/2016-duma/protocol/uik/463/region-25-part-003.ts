@@ -43,14 +43,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 75,
-      "Долгачев Анатолий Николаевич": 80,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 66,
-      "Пак Олег Игоревич": 59,
-      "Передня Александр Александрович": 63,
-      "Сопчук Сергей Андреевич": 133,
-      "Черепков Виктор Иванович": 94
+      "gas:candidate-vibid:22520001065788": 75,
+      "gas:candidate-vibid:22520001122521": 80,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 66,
+      "gas:candidate-vibid:22520001123419": 59,
+      "gas:candidate-vibid:22520001068729": 63,
+      "gas:candidate-vibid:22520001121309": 133,
+      "gas:candidate-vibid:22520001122673": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -101,14 +101,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 101,
-      "Долгачев Анатолий Николаевич": 97,
-      "Либанов Виталий Викторович": 21,
-      "Марковцев Николай Владимирович": 51,
-      "Пак Олег Игоревич": 68,
-      "Передня Александр Александрович": 78,
-      "Сопчук Сергей Андреевич": 149,
-      "Черепков Виктор Иванович": 91
+      "gas:candidate-vibid:22520001065788": 101,
+      "gas:candidate-vibid:22520001122521": 97,
+      "gas:candidate-vibid:22520001123365": 21,
+      "gas:candidate-vibid:22520001123546": 51,
+      "gas:candidate-vibid:22520001123419": 68,
+      "gas:candidate-vibid:22520001068729": 78,
+      "gas:candidate-vibid:22520001121309": 149,
+      "gas:candidate-vibid:22520001122673": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -159,14 +159,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 65,
-      "Долгачев Анатолий Николаевич": 137,
-      "Либанов Виталий Викторович": 19,
-      "Марковцев Николай Владимирович": 57,
-      "Пак Олег Игоревич": 80,
-      "Передня Александр Александрович": 79,
-      "Сопчук Сергей Андреевич": 148,
-      "Черепков Виктор Иванович": 102
+      "gas:candidate-vibid:22520001065788": 65,
+      "gas:candidate-vibid:22520001122521": 137,
+      "gas:candidate-vibid:22520001123365": 19,
+      "gas:candidate-vibid:22520001123546": 57,
+      "gas:candidate-vibid:22520001123419": 80,
+      "gas:candidate-vibid:22520001068729": 79,
+      "gas:candidate-vibid:22520001121309": 148,
+      "gas:candidate-vibid:22520001122673": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -217,14 +217,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 49,
-      "Долгачев Анатолий Николаевич": 63,
-      "Либанов Виталий Викторович": 12,
-      "Марковцев Николай Владимирович": 20,
-      "Пак Олег Игоревич": 50,
-      "Передня Александр Александрович": 59,
-      "Сопчук Сергей Андреевич": 81,
-      "Черепков Виктор Иванович": 47
+      "gas:candidate-vibid:22520001065788": 49,
+      "gas:candidate-vibid:22520001122521": 63,
+      "gas:candidate-vibid:22520001123365": 12,
+      "gas:candidate-vibid:22520001123546": 20,
+      "gas:candidate-vibid:22520001123419": 50,
+      "gas:candidate-vibid:22520001068729": 59,
+      "gas:candidate-vibid:22520001121309": 81,
+      "gas:candidate-vibid:22520001122673": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -275,14 +275,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 60,
-      "Долгачев Анатолий Николаевич": 78,
-      "Либанов Виталий Викторович": 17,
-      "Марковцев Николай Владимирович": 41,
-      "Пак Олег Игоревич": 42,
-      "Передня Александр Александрович": 41,
-      "Сопчук Сергей Андреевич": 91,
-      "Черепков Виктор Иванович": 62
+      "gas:candidate-vibid:22520001065788": 60,
+      "gas:candidate-vibid:22520001122521": 78,
+      "gas:candidate-vibid:22520001123365": 17,
+      "gas:candidate-vibid:22520001123546": 41,
+      "gas:candidate-vibid:22520001123419": 42,
+      "gas:candidate-vibid:22520001068729": 41,
+      "gas:candidate-vibid:22520001121309": 91,
+      "gas:candidate-vibid:22520001122673": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -333,14 +333,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 151,
-      "Долгачев Анатолий Николаевич": 112,
-      "Либанов Виталий Викторович": 41,
-      "Марковцев Николай Владимирович": 41,
-      "Пак Олег Игоревич": 78,
-      "Передня Александр Александрович": 60,
-      "Сопчук Сергей Андреевич": 202,
-      "Черепков Виктор Иванович": 70
+      "gas:candidate-vibid:22520001065788": 151,
+      "gas:candidate-vibid:22520001122521": 112,
+      "gas:candidate-vibid:22520001123365": 41,
+      "gas:candidate-vibid:22520001123546": 41,
+      "gas:candidate-vibid:22520001123419": 78,
+      "gas:candidate-vibid:22520001068729": 60,
+      "gas:candidate-vibid:22520001121309": 202,
+      "gas:candidate-vibid:22520001122673": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -391,14 +391,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 26,
-      "Долгачев Анатолий Николаевич": 52,
-      "Либанов Виталий Викторович": 9,
-      "Марковцев Николай Владимирович": 22,
-      "Пак Олег Игоревич": 29,
-      "Передня Александр Александрович": 37,
-      "Сопчук Сергей Андреевич": 68,
-      "Черепков Виктор Иванович": 50
+      "gas:candidate-vibid:22520001065788": 26,
+      "gas:candidate-vibid:22520001122521": 52,
+      "gas:candidate-vibid:22520001123365": 9,
+      "gas:candidate-vibid:22520001123546": 22,
+      "gas:candidate-vibid:22520001123419": 29,
+      "gas:candidate-vibid:22520001068729": 37,
+      "gas:candidate-vibid:22520001121309": 68,
+      "gas:candidate-vibid:22520001122673": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -449,14 +449,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 205,
-      "Долгачев Анатолий Николаевич": 45,
-      "Либанов Виталий Викторович": 31,
-      "Марковцев Николай Владимирович": 28,
-      "Пак Олег Игоревич": 47,
-      "Передня Александр Александрович": 25,
-      "Сопчук Сергей Андреевич": 262,
-      "Черепков Виктор Иванович": 84
+      "gas:candidate-vibid:22520001065788": 205,
+      "gas:candidate-vibid:22520001122521": 45,
+      "gas:candidate-vibid:22520001123365": 31,
+      "gas:candidate-vibid:22520001123546": 28,
+      "gas:candidate-vibid:22520001123419": 47,
+      "gas:candidate-vibid:22520001068729": 25,
+      "gas:candidate-vibid:22520001121309": 262,
+      "gas:candidate-vibid:22520001122673": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -507,14 +507,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 48,
-      "Долгачев Анатолий Николаевич": 26,
-      "Либанов Виталий Викторович": 10,
-      "Марковцев Николай Владимирович": 13,
-      "Пак Олег Игоревич": 20,
-      "Передня Александр Александрович": 9,
-      "Сопчук Сергей Андреевич": 96,
-      "Черепков Виктор Иванович": 14
+      "gas:candidate-vibid:22520001065788": 48,
+      "gas:candidate-vibid:22520001122521": 26,
+      "gas:candidate-vibid:22520001123365": 10,
+      "gas:candidate-vibid:22520001123546": 13,
+      "gas:candidate-vibid:22520001123419": 20,
+      "gas:candidate-vibid:22520001068729": 9,
+      "gas:candidate-vibid:22520001121309": 96,
+      "gas:candidate-vibid:22520001122673": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -565,14 +565,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 0,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 0,
-      "Передня Александр Александрович": 0,
-      "Сопчук Сергей Андреевич": 221,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 0,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 0,
+      "gas:candidate-vibid:22520001068729": 0,
+      "gas:candidate-vibid:22520001121309": 221,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -623,14 +623,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 1,
-      "Долгачев Анатолий Николаевич": 1,
-      "Либанов Виталий Викторович": 3,
-      "Марковцев Николай Владимирович": 0,
-      "Пак Олег Игоревич": 2,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 86,
-      "Черепков Виктор Иванович": 1
+      "gas:candidate-vibid:22520001065788": 1,
+      "gas:candidate-vibid:22520001122521": 1,
+      "gas:candidate-vibid:22520001123365": 3,
+      "gas:candidate-vibid:22520001123546": 0,
+      "gas:candidate-vibid:22520001123419": 2,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 86,
+      "gas:candidate-vibid:22520001122673": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -681,14 +681,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 5,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 3,
-      "Пак Олег Игоревич": 6,
-      "Передня Александр Александрович": 4,
-      "Сопчук Сергей Андреевич": 2,
-      "Черепков Виктор Иванович": 3
+      "gas:candidate-vibid:22520001065788": 5,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 3,
+      "gas:candidate-vibid:22520001123419": 6,
+      "gas:candidate-vibid:22520001068729": 4,
+      "gas:candidate-vibid:22520001121309": 2,
+      "gas:candidate-vibid:22520001122673": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -739,14 +739,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 12,
-      "Долгачев Анатолий Николаевич": 10,
-      "Либанов Виталий Викторович": 2,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 2,
-      "Сопчук Сергей Андреевич": 3,
-      "Черепков Виктор Иванович": 2
+      "gas:candidate-vibid:22520001065788": 12,
+      "gas:candidate-vibid:22520001122521": 10,
+      "gas:candidate-vibid:22520001123365": 2,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 2,
+      "gas:candidate-vibid:22520001121309": 3,
+      "gas:candidate-vibid:22520001122673": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -797,14 +797,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 26,
-      "Долгачев Анатолий Николаевич": 13,
-      "Либанов Виталий Викторович": 10,
-      "Марковцев Николай Владимирович": 5,
-      "Пак Олег Игоревич": 28,
-      "Передня Александр Александрович": 7,
-      "Сопчук Сергей Андреевич": 26,
-      "Черепков Виктор Иванович": 9
+      "gas:candidate-vibid:22520001065788": 26,
+      "gas:candidate-vibid:22520001122521": 13,
+      "gas:candidate-vibid:22520001123365": 10,
+      "gas:candidate-vibid:22520001123546": 5,
+      "gas:candidate-vibid:22520001123419": 28,
+      "gas:candidate-vibid:22520001068729": 7,
+      "gas:candidate-vibid:22520001121309": 26,
+      "gas:candidate-vibid:22520001122673": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -855,14 +855,14 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Андрейченко Андрей Валерьевич": 8,
-      "Долгачев Анатолий Николаевич": 3,
-      "Либанов Виталий Викторович": 1,
-      "Марковцев Николай Владимирович": 1,
-      "Пак Олег Игоревич": 1,
-      "Передня Александр Александрович": 1,
-      "Сопчук Сергей Андреевич": 1,
-      "Черепков Виктор Иванович": 0
+      "gas:candidate-vibid:22520001065788": 8,
+      "gas:candidate-vibid:22520001122521": 3,
+      "gas:candidate-vibid:22520001123365": 1,
+      "gas:candidate-vibid:22520001123546": 1,
+      "gas:candidate-vibid:22520001123419": 1,
+      "gas:candidate-vibid:22520001068729": 1,
+      "gas:candidate-vibid:22520001121309": 1,
+      "gas:candidate-vibid:22520001122673": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000077&tvd=2252000999733&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999733&type=464",
@@ -913,15 +913,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 15,
-      "Колчина Ольга Михайловна": 37,
-      "Корниенко Алексей Викторович": 71,
-      "Мелешкин Роман Николаевич": 37,
-      "Новиков Владимир Михайлович": 150,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 15,
+      "gas:candidate-vibid:22520001123385": 37,
+      "gas:candidate-vibid:22520001070174": 71,
+      "gas:candidate-vibid:22520001069083": 37,
+      "gas:candidate-vibid:22520001122411": 150,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -972,15 +972,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 33,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 23,
-      "Колчина Ольга Михайловна": 36,
-      "Корниенко Алексей Викторович": 58,
-      "Мелешкин Роман Николаевич": 59,
-      "Новиков Владимир Михайлович": 155,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 33,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 23,
+      "gas:candidate-vibid:22520001123385": 36,
+      "gas:candidate-vibid:22520001070174": 58,
+      "gas:candidate-vibid:22520001069083": 59,
+      "gas:candidate-vibid:22520001122411": 155,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1031,15 +1031,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 38,
-      "Мелешкин Роман Николаевич": 33,
-      "Новиков Владимир Михайлович": 141,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 38,
+      "gas:candidate-vibid:22520001069083": 33,
+      "gas:candidate-vibid:22520001122411": 141,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1090,15 +1090,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 7,
-      "Корниенко Алексей Викторович": 15,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 164,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 7,
+      "gas:candidate-vibid:22520001070174": 15,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 164,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1149,15 +1149,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 0,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 11,
-      "Корниенко Алексей Викторович": 19,
-      "Мелешкин Роман Николаевич": 9,
-      "Новиков Владимир Михайлович": 98,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 0,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 11,
+      "gas:candidate-vibid:22520001070174": 19,
+      "gas:candidate-vibid:22520001069083": 9,
+      "gas:candidate-vibid:22520001122411": 98,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1208,15 +1208,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 17,
-      "Колчина Ольга Михайловна": 45,
-      "Корниенко Алексей Викторович": 119,
-      "Мелешкин Роман Николаевич": 30,
-      "Новиков Владимир Михайлович": 184,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 17,
+      "gas:candidate-vibid:22520001123385": 45,
+      "gas:candidate-vibid:22520001070174": 119,
+      "gas:candidate-vibid:22520001069083": 30,
+      "gas:candidate-vibid:22520001122411": 184,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1267,15 +1267,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 22,
-      "Колчина Ольга Михайловна": 42,
-      "Корниенко Алексей Викторович": 75,
-      "Мелешкин Роман Николаевич": 48,
-      "Новиков Владимир Михайлович": 108,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 22,
+      "gas:candidate-vibid:22520001123385": 42,
+      "gas:candidate-vibid:22520001070174": 75,
+      "gas:candidate-vibid:22520001069083": 48,
+      "gas:candidate-vibid:22520001122411": 108,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1326,15 +1326,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 16,
-      "Корниенко Алексей Викторович": 58,
-      "Мелешкин Роман Николаевич": 25,
-      "Новиков Владимир Михайлович": 128,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 16,
+      "gas:candidate-vibid:22520001070174": 58,
+      "gas:candidate-vibid:22520001069083": 25,
+      "gas:candidate-vibid:22520001122411": 128,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1385,15 +1385,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 19,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 31,
-      "Мелешкин Роман Николаевич": 41,
-      "Новиков Владимир Михайлович": 105,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 19,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 31,
+      "gas:candidate-vibid:22520001069083": 41,
+      "gas:candidate-vibid:22520001122411": 105,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1444,15 +1444,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 24,
-      "Корниенко Алексей Викторович": 38,
-      "Мелешкин Роман Николаевич": 41,
-      "Новиков Владимир Михайлович": 193,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 24,
+      "gas:candidate-vibid:22520001070174": 38,
+      "gas:candidate-vibid:22520001069083": 41,
+      "gas:candidate-vibid:22520001122411": 193,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1503,15 +1503,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 16,
-      "Корниенко Алексей Викторович": 37,
-      "Мелешкин Роман Николаевич": 44,
-      "Новиков Владимир Михайлович": 132,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 16,
+      "gas:candidate-vibid:22520001070174": 37,
+      "gas:candidate-vibid:22520001069083": 44,
+      "gas:candidate-vibid:22520001122411": 132,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1562,15 +1562,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 22,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 49,
-      "Корниенко Алексей Викторович": 72,
-      "Мелешкин Роман Николаевич": 66,
-      "Новиков Владимир Михайлович": 301,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 22,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 49,
+      "gas:candidate-vibid:22520001070174": 72,
+      "gas:candidate-vibid:22520001069083": 66,
+      "gas:candidate-vibid:22520001122411": 301,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1621,15 +1621,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 6,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 15,
-      "Колчина Ольга Михайловна": 17,
-      "Корниенко Алексей Викторович": 43,
-      "Мелешкин Роман Николаевич": 50,
-      "Новиков Владимир Михайлович": 94,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 6,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 15,
+      "gas:candidate-vibid:22520001123385": 17,
+      "gas:candidate-vibid:22520001070174": 43,
+      "gas:candidate-vibid:22520001069083": 50,
+      "gas:candidate-vibid:22520001122411": 94,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1680,15 +1680,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 22,
-      "Колчина Ольга Михайловна": 33,
-      "Корниенко Алексей Викторович": 43,
-      "Мелешкин Роман Николаевич": 58,
-      "Новиков Владимир Михайлович": 200,
-      "Щербатюк Владимир Иванович": 18
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 22,
+      "gas:candidate-vibid:22520001123385": 33,
+      "gas:candidate-vibid:22520001070174": 43,
+      "gas:candidate-vibid:22520001069083": 58,
+      "gas:candidate-vibid:22520001122411": 200,
+      "gas:candidate-vibid:22520001123875": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1739,15 +1739,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 10,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 22,
-      "Колчина Ольга Михайловна": 47,
-      "Корниенко Алексей Викторович": 58,
-      "Мелешкин Роман Николаевич": 56,
-      "Новиков Владимир Михайлович": 151,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 10,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 22,
+      "gas:candidate-vibid:22520001123385": 47,
+      "gas:candidate-vibid:22520001070174": 58,
+      "gas:candidate-vibid:22520001069083": 56,
+      "gas:candidate-vibid:22520001122411": 151,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1798,15 +1798,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 26,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 25,
-      "Козицкий Алексей Анатольевич": 20,
-      "Колчина Ольга Михайловна": 46,
-      "Корниенко Алексей Викторович": 72,
-      "Мелешкин Роман Николаевич": 101,
-      "Новиков Владимир Михайлович": 227,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 26,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 25,
+      "gas:candidate-vibid:22520001123452": 20,
+      "gas:candidate-vibid:22520001123385": 46,
+      "gas:candidate-vibid:22520001070174": 72,
+      "gas:candidate-vibid:22520001069083": 101,
+      "gas:candidate-vibid:22520001122411": 227,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1857,15 +1857,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 32,
-      "Корниенко Алексей Викторович": 85,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 72,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 32,
+      "gas:candidate-vibid:22520001070174": 85,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 72,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1916,15 +1916,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 18,
-      "Корниенко Алексей Викторович": 38,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 43,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 18,
+      "gas:candidate-vibid:22520001070174": 38,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 43,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -1975,15 +1975,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 1,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 30,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 32,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 1,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 30,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 32,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2034,15 +2034,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 32,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 24,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 32,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 24,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2093,15 +2093,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 22,
-      "Корниенко Алексей Викторович": 40,
-      "Мелешкин Роман Николаевич": 23,
-      "Новиков Владимир Михайлович": 45,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 22,
+      "gas:candidate-vibid:22520001070174": 40,
+      "gas:candidate-vibid:22520001069083": 23,
+      "gas:candidate-vibid:22520001122411": 45,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2152,15 +2152,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 16,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 40,
-      "Корниенко Алексей Викторович": 78,
-      "Мелешкин Роман Николаевич": 47,
-      "Новиков Владимир Михайлович": 101,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 16,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 40,
+      "gas:candidate-vibid:22520001070174": 78,
+      "gas:candidate-vibid:22520001069083": 47,
+      "gas:candidate-vibid:22520001122411": 101,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2211,15 +2211,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 25,
-      "Корниенко Алексей Викторович": 45,
-      "Мелешкин Роман Николаевич": 49,
-      "Новиков Владимир Михайлович": 84,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 25,
+      "gas:candidate-vibid:22520001070174": 45,
+      "gas:candidate-vibid:22520001069083": 49,
+      "gas:candidate-vibid:22520001122411": 84,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2270,15 +2270,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 1,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 0,
-      "Колчина Ольга Михайловна": 7,
-      "Корниенко Алексей Викторович": 6,
-      "Мелешкин Роман Николаевич": 5,
-      "Новиков Владимир Михайлович": 9,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 1,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 0,
+      "gas:candidate-vibid:22520001123385": 7,
+      "gas:candidate-vibid:22520001070174": 6,
+      "gas:candidate-vibid:22520001069083": 5,
+      "gas:candidate-vibid:22520001122411": 9,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2329,15 +2329,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 1,
-      "Колчина Ольга Михайловна": 4,
-      "Корниенко Алексей Викторович": 11,
-      "Мелешкин Роман Николаевич": 6,
-      "Новиков Владимир Михайлович": 24,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 1,
+      "gas:candidate-vibid:22520001123385": 4,
+      "gas:candidate-vibid:22520001070174": 11,
+      "gas:candidate-vibid:22520001069083": 6,
+      "gas:candidate-vibid:22520001122411": 24,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999734&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999734&type=464",
@@ -2388,15 +2388,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 33,
-      "Корниенко Алексей Викторович": 41,
-      "Мелешкин Роман Николаевич": 38,
-      "Новиков Владимир Михайлович": 60,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 33,
+      "gas:candidate-vibid:22520001070174": 41,
+      "gas:candidate-vibid:22520001069083": 38,
+      "gas:candidate-vibid:22520001122411": 60,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2447,15 +2447,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 26,
-      "Колчина Ольга Михайловна": 15,
-      "Корниенко Алексей Викторович": 50,
-      "Мелешкин Роман Николаевич": 47,
-      "Новиков Владимир Михайлович": 57,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 26,
+      "gas:candidate-vibid:22520001123385": 15,
+      "gas:candidate-vibid:22520001070174": 50,
+      "gas:candidate-vibid:22520001069083": 47,
+      "gas:candidate-vibid:22520001122411": 57,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2506,15 +2506,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 1,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 5,
-      "Корниенко Алексей Викторович": 7,
-      "Мелешкин Роман Николаевич": 3,
-      "Новиков Владимир Михайлович": 10,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 1,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 5,
+      "gas:candidate-vibid:22520001070174": 7,
+      "gas:candidate-vibid:22520001069083": 3,
+      "gas:candidate-vibid:22520001122411": 10,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2565,15 +2565,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 15,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 24,
-      "Корниенко Алексей Викторович": 33,
-      "Мелешкин Роман Николаевич": 39,
-      "Новиков Владимир Михайлович": 69,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 15,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 24,
+      "gas:candidate-vibid:22520001070174": 33,
+      "gas:candidate-vibid:22520001069083": 39,
+      "gas:candidate-vibid:22520001122411": 69,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2624,15 +2624,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 16,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 22,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 16,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 22,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2683,15 +2683,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 14,
-      "Колчина Ольга Михайловна": 29,
-      "Корниенко Алексей Викторович": 54,
-      "Мелешкин Роман Николаевич": 16,
-      "Новиков Владимир Михайлович": 76,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 14,
+      "gas:candidate-vibid:22520001123385": 29,
+      "gas:candidate-vibid:22520001070174": 54,
+      "gas:candidate-vibid:22520001069083": 16,
+      "gas:candidate-vibid:22520001122411": 76,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2742,15 +2742,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 19,
-      "Колчина Ольга Михайловна": 35,
-      "Корниенко Алексей Викторович": 33,
-      "Мелешкин Роман Николаевич": 55,
-      "Новиков Владимир Михайлович": 85,
-      "Щербатюк Владимир Иванович": 14
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 19,
+      "gas:candidate-vibid:22520001123385": 35,
+      "gas:candidate-vibid:22520001070174": 33,
+      "gas:candidate-vibid:22520001069083": 55,
+      "gas:candidate-vibid:22520001122411": 85,
+      "gas:candidate-vibid:22520001123875": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2801,15 +2801,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 9,
-      "Колчина Ольга Михайловна": 21,
-      "Корниенко Алексей Викторович": 24,
-      "Мелешкин Роман Николаевич": 20,
-      "Новиков Владимир Михайлович": 35,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 9,
+      "gas:candidate-vibid:22520001123385": 21,
+      "gas:candidate-vibid:22520001070174": 24,
+      "gas:candidate-vibid:22520001069083": 20,
+      "gas:candidate-vibid:22520001122411": 35,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2860,15 +2860,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 29,
-      "Корниенко Алексей Викторович": 28,
-      "Мелешкин Роман Николаевич": 40,
-      "Новиков Владимир Михайлович": 105,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 29,
+      "gas:candidate-vibid:22520001070174": 28,
+      "gas:candidate-vibid:22520001069083": 40,
+      "gas:candidate-vibid:22520001122411": 105,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2919,15 +2919,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 9,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 29,
-      "Корниенко Алексей Викторович": 31,
-      "Мелешкин Роман Николаевич": 37,
-      "Новиков Владимир Михайлович": 62,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 9,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 29,
+      "gas:candidate-vibid:22520001070174": 31,
+      "gas:candidate-vibid:22520001069083": 37,
+      "gas:candidate-vibid:22520001122411": 62,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -2978,15 +2978,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 21,
-      "Мелешкин Роман Николаевич": 18,
-      "Новиков Владимир Михайлович": 66,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 21,
+      "gas:candidate-vibid:22520001069083": 18,
+      "gas:candidate-vibid:22520001122411": 66,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3037,15 +3037,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 30,
-      "Корниенко Алексей Викторович": 70,
-      "Мелешкин Роман Николаевич": 46,
-      "Новиков Владимир Михайлович": 56,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 30,
+      "gas:candidate-vibid:22520001070174": 70,
+      "gas:candidate-vibid:22520001069083": 46,
+      "gas:candidate-vibid:22520001122411": 56,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3096,15 +3096,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 1,
-      "Колчина Ольга Михайловна": 6,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 17,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 1,
+      "gas:candidate-vibid:22520001123385": 6,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 17,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3155,15 +3155,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 6,
-      "Корниенко Алексей Викторович": 15,
-      "Мелешкин Роман Николаевич": 19,
-      "Новиков Владимир Михайлович": 38,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 6,
+      "gas:candidate-vibid:22520001070174": 15,
+      "gas:candidate-vibid:22520001069083": 19,
+      "gas:candidate-vibid:22520001122411": 38,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3214,15 +3214,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 15,
-      "Колчина Ольга Михайловна": 22,
-      "Корниенко Алексей Викторович": 28,
-      "Мелешкин Роман Николаевич": 42,
-      "Новиков Владимир Михайлович": 62,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 15,
+      "gas:candidate-vibid:22520001123385": 22,
+      "gas:candidate-vibid:22520001070174": 28,
+      "gas:candidate-vibid:22520001069083": 42,
+      "gas:candidate-vibid:22520001122411": 62,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3273,15 +3273,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 15,
-      "Козицкий Алексей Анатольевич": 17,
-      "Колчина Ольга Михайловна": 30,
-      "Корниенко Алексей Викторович": 24,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 85,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 15,
+      "gas:candidate-vibid:22520001123452": 17,
+      "gas:candidate-vibid:22520001123385": 30,
+      "gas:candidate-vibid:22520001070174": 24,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 85,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3332,15 +3332,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 3,
-      "Корниенко Алексей Викторович": 3,
-      "Мелешкин Роман Николаевич": 15,
-      "Новиков Владимир Михайлович": 18,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 3,
+      "gas:candidate-vibid:22520001070174": 3,
+      "gas:candidate-vibid:22520001069083": 15,
+      "gas:candidate-vibid:22520001122411": 18,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3391,15 +3391,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 12,
-      "Корниенко Алексей Викторович": 57,
-      "Мелешкин Роман Николаевич": 20,
-      "Новиков Владимир Михайлович": 74,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 12,
+      "gas:candidate-vibid:22520001070174": 57,
+      "gas:candidate-vibid:22520001069083": 20,
+      "gas:candidate-vibid:22520001122411": 74,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3450,15 +3450,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 23,
-      "Корниенко Алексей Викторович": 35,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 44,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 23,
+      "gas:candidate-vibid:22520001070174": 35,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 44,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3509,15 +3509,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 11,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 13,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 11,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 13,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3568,15 +3568,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 7,
-      "Мелешкин Роман Николаевич": 3,
-      "Новиков Владимир Михайлович": 21,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 7,
+      "gas:candidate-vibid:22520001069083": 3,
+      "gas:candidate-vibid:22520001122411": 21,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3627,15 +3627,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 17,
-      "Корниенко Алексей Викторович": 26,
-      "Мелешкин Роман Николаевич": 19,
-      "Новиков Владимир Михайлович": 32,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 17,
+      "gas:candidate-vibid:22520001070174": 26,
+      "gas:candidate-vibid:22520001069083": 19,
+      "gas:candidate-vibid:22520001122411": 32,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3686,15 +3686,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 18,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 42,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 18,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 42,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3745,15 +3745,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 10,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 21,
-      "Мелешкин Роман Николаевич": 17,
-      "Новиков Владимир Михайлович": 31,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 10,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 21,
+      "gas:candidate-vibid:22520001069083": 17,
+      "gas:candidate-vibid:22520001122411": 31,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3804,15 +3804,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 31,
-      "Корниенко Алексей Викторович": 69,
-      "Мелешкин Роман Николаевич": 24,
-      "Новиков Владимир Михайлович": 71,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 31,
+      "gas:candidate-vibid:22520001070174": 69,
+      "gas:candidate-vibid:22520001069083": 24,
+      "gas:candidate-vibid:22520001122411": 71,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3863,15 +3863,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 23,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 75,
-      "Мелешкин Роман Николаевич": 37,
-      "Новиков Владимир Михайлович": 95,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 23,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 75,
+      "gas:candidate-vibid:22520001069083": 37,
+      "gas:candidate-vibid:22520001122411": 95,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3922,15 +3922,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 23,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 19,
-      "Колчина Ольга Михайловна": 36,
-      "Корниенко Алексей Викторович": 53,
-      "Мелешкин Роман Николаевич": 46,
-      "Новиков Владимир Михайлович": 53,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 23,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 19,
+      "gas:candidate-vibid:22520001123385": 36,
+      "gas:candidate-vibid:22520001070174": 53,
+      "gas:candidate-vibid:22520001069083": 46,
+      "gas:candidate-vibid:22520001122411": 53,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -3981,15 +3981,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 16,
-      "Колчина Ольга Михайловна": 13,
-      "Корниенко Алексей Викторович": 24,
-      "Мелешкин Роман Николаевич": 29,
-      "Новиков Владимир Михайлович": 46,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 16,
+      "gas:candidate-vibid:22520001123385": 13,
+      "gas:candidate-vibid:22520001070174": 24,
+      "gas:candidate-vibid:22520001069083": 29,
+      "gas:candidate-vibid:22520001122411": 46,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4040,15 +4040,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 8,
-      "Корниенко Алексей Викторович": 9,
-      "Мелешкин Роман Николаевич": 6,
-      "Новиков Владимир Михайлович": 17,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 8,
+      "gas:candidate-vibid:22520001070174": 9,
+      "gas:candidate-vibid:22520001069083": 6,
+      "gas:candidate-vibid:22520001122411": 17,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4099,15 +4099,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 26,
-      "Колчина Ольга Михайловна": 42,
-      "Корниенко Алексей Викторович": 44,
-      "Мелешкин Роман Николаевич": 65,
-      "Новиков Владимир Михайлович": 119,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 26,
+      "gas:candidate-vibid:22520001123385": 42,
+      "gas:candidate-vibid:22520001070174": 44,
+      "gas:candidate-vibid:22520001069083": 65,
+      "gas:candidate-vibid:22520001122411": 119,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4158,15 +4158,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 28,
-      "Колчина Ольга Михайловна": 46,
-      "Корниенко Алексей Викторович": 62,
-      "Мелешкин Роман Николаевич": 88,
-      "Новиков Владимир Михайлович": 132,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 28,
+      "gas:candidate-vibid:22520001123385": 46,
+      "gas:candidate-vibid:22520001070174": 62,
+      "gas:candidate-vibid:22520001069083": 88,
+      "gas:candidate-vibid:22520001122411": 132,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4217,15 +4217,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 31,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 32,
-      "Колчина Ольга Михайловна": 73,
-      "Корниенко Алексей Викторович": 89,
-      "Мелешкин Роман Николаевич": 83,
-      "Новиков Владимир Михайлович": 175,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 31,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 32,
+      "gas:candidate-vibid:22520001123385": 73,
+      "gas:candidate-vibid:22520001070174": 89,
+      "gas:candidate-vibid:22520001069083": 83,
+      "gas:candidate-vibid:22520001122411": 175,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4276,15 +4276,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 18,
-      "Корниенко Алексей Викторович": 26,
-      "Мелешкин Роман Николаевич": 40,
-      "Новиков Владимир Михайлович": 115,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 18,
+      "gas:candidate-vibid:22520001070174": 26,
+      "gas:candidate-vibid:22520001069083": 40,
+      "gas:candidate-vibid:22520001122411": 115,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4335,15 +4335,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 15,
-      "Колчина Ольга Михайловна": 27,
-      "Корниенко Алексей Викторович": 10,
-      "Мелешкин Роман Николаевич": 31,
-      "Новиков Владимир Михайлович": 43,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 15,
+      "gas:candidate-vibid:22520001123385": 27,
+      "gas:candidate-vibid:22520001070174": 10,
+      "gas:candidate-vibid:22520001069083": 31,
+      "gas:candidate-vibid:22520001122411": 43,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4394,15 +4394,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 13,
-      "Корниенко Алексей Викторович": 9,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 27,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 13,
+      "gas:candidate-vibid:22520001070174": 9,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 27,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4453,15 +4453,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 18,
-      "Колчина Ольга Михайловна": 25,
-      "Корниенко Алексей Викторович": 40,
-      "Мелешкин Роман Николаевич": 41,
-      "Новиков Владимир Михайлович": 91,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 18,
+      "gas:candidate-vibid:22520001123385": 25,
+      "gas:candidate-vibid:22520001070174": 40,
+      "gas:candidate-vibid:22520001069083": 41,
+      "gas:candidate-vibid:22520001122411": 91,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4512,15 +4512,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 19,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 22,
-      "Колчина Ольга Михайловна": 51,
-      "Корниенко Алексей Викторович": 63,
-      "Мелешкин Роман Николаевич": 41,
-      "Новиков Владимир Михайлович": 113,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 19,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 22,
+      "gas:candidate-vibid:22520001123385": 51,
+      "gas:candidate-vibid:22520001070174": 63,
+      "gas:candidate-vibid:22520001069083": 41,
+      "gas:candidate-vibid:22520001122411": 113,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4571,15 +4571,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 28,
-      "Колчина Ольга Михайловна": 30,
-      "Корниенко Алексей Викторович": 59,
-      "Мелешкин Роман Николаевич": 52,
-      "Новиков Владимир Михайлович": 91,
-      "Щербатюк Владимир Иванович": 17
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 28,
+      "gas:candidate-vibid:22520001123385": 30,
+      "gas:candidate-vibid:22520001070174": 59,
+      "gas:candidate-vibid:22520001069083": 52,
+      "gas:candidate-vibid:22520001122411": 91,
+      "gas:candidate-vibid:22520001123875": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4630,15 +4630,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 15,
-      "Корниенко Алексей Викторович": 12,
-      "Мелешкин Роман Николаевич": 9,
-      "Новиков Владимир Михайлович": 16,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 15,
+      "gas:candidate-vibid:22520001070174": 12,
+      "gas:candidate-vibid:22520001069083": 9,
+      "gas:candidate-vibid:22520001122411": 16,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4689,15 +4689,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 29,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 37,
-      "Колчина Ольга Михайловна": 42,
-      "Корниенко Алексей Викторович": 43,
-      "Мелешкин Роман Николаевич": 82,
-      "Новиков Владимир Михайлович": 176,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 29,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 37,
+      "gas:candidate-vibid:22520001123385": 42,
+      "gas:candidate-vibid:22520001070174": 43,
+      "gas:candidate-vibid:22520001069083": 82,
+      "gas:candidate-vibid:22520001122411": 176,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4748,15 +4748,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 10,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 18,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 36,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 10,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 18,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 36,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4807,15 +4807,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 9,
-      "Мелешкин Роман Николаевич": 8,
-      "Новиков Владимир Михайлович": 15,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 9,
+      "gas:candidate-vibid:22520001069083": 8,
+      "gas:candidate-vibid:22520001122411": 15,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4866,15 +4866,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 15,
-      "Мелешкин Роман Николаевич": 29,
-      "Новиков Владимир Михайлович": 56,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 15,
+      "gas:candidate-vibid:22520001069083": 29,
+      "gas:candidate-vibid:22520001122411": 56,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999735&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999735&type=464",
@@ -4925,15 +4925,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 14,
-      "Колчина Ольга Михайловна": 34,
-      "Корниенко Алексей Викторович": 25,
-      "Мелешкин Роман Николаевич": 48,
-      "Новиков Владимир Михайлович": 159,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 14,
+      "gas:candidate-vibid:22520001123385": 34,
+      "gas:candidate-vibid:22520001070174": 25,
+      "gas:candidate-vibid:22520001069083": 48,
+      "gas:candidate-vibid:22520001122411": 159,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -4984,15 +4984,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 26,
-      "Колчина Ольга Михайловна": 67,
-      "Корниенко Алексей Викторович": 84,
-      "Мелешкин Роман Николаевич": 90,
-      "Новиков Владимир Михайлович": 156,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 26,
+      "gas:candidate-vibid:22520001123385": 67,
+      "gas:candidate-vibid:22520001070174": 84,
+      "gas:candidate-vibid:22520001069083": 90,
+      "gas:candidate-vibid:22520001122411": 156,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5043,15 +5043,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 21,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 16,
-      "Козицкий Алексей Анатольевич": 42,
-      "Колчина Ольга Михайловна": 53,
-      "Корниенко Алексей Викторович": 102,
-      "Мелешкин Роман Николаевич": 111,
-      "Новиков Владимир Михайлович": 217,
-      "Щербатюк Владимир Иванович": 10
+      "gas:candidate-vibid:22520001121743": 21,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 16,
+      "gas:candidate-vibid:22520001123452": 42,
+      "gas:candidate-vibid:22520001123385": 53,
+      "gas:candidate-vibid:22520001070174": 102,
+      "gas:candidate-vibid:22520001069083": 111,
+      "gas:candidate-vibid:22520001122411": 217,
+      "gas:candidate-vibid:22520001123875": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5102,15 +5102,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 46,
-      "Каплуненко Виктор Викторович": 16,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 33,
-      "Колчина Ольга Михайловна": 79,
-      "Корниенко Алексей Викторович": 102,
-      "Мелешкин Роман Николаевич": 116,
-      "Новиков Владимир Михайлович": 207,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 46,
+      "gas:candidate-vibid:22520001123623": 16,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 33,
+      "gas:candidate-vibid:22520001123385": 79,
+      "gas:candidate-vibid:22520001070174": 102,
+      "gas:candidate-vibid:22520001069083": 116,
+      "gas:candidate-vibid:22520001122411": 207,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5161,15 +5161,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 11,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 56,
-      "Колчина Ольга Михайловна": 88,
-      "Корниенко Алексей Викторович": 130,
-      "Мелешкин Роман Николаевич": 124,
-      "Новиков Владимир Михайлович": 243,
-      "Щербатюк Владимир Иванович": 15
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 11,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 56,
+      "gas:candidate-vibid:22520001123385": 88,
+      "gas:candidate-vibid:22520001070174": 130,
+      "gas:candidate-vibid:22520001069083": 124,
+      "gas:candidate-vibid:22520001122411": 243,
+      "gas:candidate-vibid:22520001123875": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5220,15 +5220,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 17,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 40,
-      "Колчина Ольга Михайловна": 72,
-      "Корниенко Алексей Викторович": 107,
-      "Мелешкин Роман Николаевич": 112,
-      "Новиков Владимир Михайлович": 177,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 17,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 40,
+      "gas:candidate-vibid:22520001123385": 72,
+      "gas:candidate-vibid:22520001070174": 107,
+      "gas:candidate-vibid:22520001069083": 112,
+      "gas:candidate-vibid:22520001122411": 177,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5279,15 +5279,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 13,
-      "Мелешкин Роман Николаевич": 32,
-      "Новиков Владимир Михайлович": 65,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 13,
+      "gas:candidate-vibid:22520001069083": 32,
+      "gas:candidate-vibid:22520001122411": 65,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5338,15 +5338,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 26,
-      "Каплуненко Виктор Викторович": 16,
-      "Клёцкин Алексей Викторович": 19,
-      "Козицкий Алексей Анатольевич": 36,
-      "Колчина Ольга Михайловна": 70,
-      "Корниенко Алексей Викторович": 97,
-      "Мелешкин Роман Николаевич": 105,
-      "Новиков Владимир Михайлович": 184,
-      "Щербатюк Владимир Иванович": 14
+      "gas:candidate-vibid:22520001121743": 26,
+      "gas:candidate-vibid:22520001123623": 16,
+      "gas:candidate-vibid:22520001123818": 19,
+      "gas:candidate-vibid:22520001123452": 36,
+      "gas:candidate-vibid:22520001123385": 70,
+      "gas:candidate-vibid:22520001070174": 97,
+      "gas:candidate-vibid:22520001069083": 105,
+      "gas:candidate-vibid:22520001122411": 184,
+      "gas:candidate-vibid:22520001123875": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5397,15 +5397,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 28,
-      "Каплуненко Виктор Викторович": 16,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 42,
-      "Колчина Ольга Михайловна": 84,
-      "Корниенко Алексей Викторович": 92,
-      "Мелешкин Роман Николаевич": 118,
-      "Новиков Владимир Михайлович": 202,
-      "Щербатюк Владимир Иванович": 15
+      "gas:candidate-vibid:22520001121743": 28,
+      "gas:candidate-vibid:22520001123623": 16,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 42,
+      "gas:candidate-vibid:22520001123385": 84,
+      "gas:candidate-vibid:22520001070174": 92,
+      "gas:candidate-vibid:22520001069083": 118,
+      "gas:candidate-vibid:22520001122411": 202,
+      "gas:candidate-vibid:22520001123875": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5456,15 +5456,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 16,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 36,
-      "Колчина Ольга Михайловна": 82,
-      "Корниенко Алексей Викторович": 119,
-      "Мелешкин Роман Николаевич": 117,
-      "Новиков Владимир Михайлович": 225,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 16,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 36,
+      "gas:candidate-vibid:22520001123385": 82,
+      "gas:candidate-vibid:22520001070174": 119,
+      "gas:candidate-vibid:22520001069083": 117,
+      "gas:candidate-vibid:22520001122411": 225,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5515,15 +5515,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 34,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 54,
-      "Колчина Ольга Михайловна": 84,
-      "Корниенко Алексей Викторович": 150,
-      "Мелешкин Роман Николаевич": 156,
-      "Новиков Владимир Михайлович": 265,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 34,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 54,
+      "gas:candidate-vibid:22520001123385": 84,
+      "gas:candidate-vibid:22520001070174": 150,
+      "gas:candidate-vibid:22520001069083": 156,
+      "gas:candidate-vibid:22520001122411": 265,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5574,15 +5574,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 58,
-      "Каплуненко Виктор Викторович": 25,
-      "Клёцкин Алексей Викторович": 15,
-      "Козицкий Алексей Анатольевич": 50,
-      "Колчина Ольга Михайловна": 75,
-      "Корниенко Алексей Викторович": 135,
-      "Мелешкин Роман Николаевич": 164,
-      "Новиков Владимир Михайлович": 256,
-      "Щербатюк Владимир Иванович": 24
+      "gas:candidate-vibid:22520001121743": 58,
+      "gas:candidate-vibid:22520001123623": 25,
+      "gas:candidate-vibid:22520001123818": 15,
+      "gas:candidate-vibid:22520001123452": 50,
+      "gas:candidate-vibid:22520001123385": 75,
+      "gas:candidate-vibid:22520001070174": 135,
+      "gas:candidate-vibid:22520001069083": 164,
+      "gas:candidate-vibid:22520001122411": 256,
+      "gas:candidate-vibid:22520001123875": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5633,15 +5633,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 33,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 17,
-      "Козицкий Алексей Анатольевич": 16,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 39,
-      "Мелешкин Роман Николаевич": 70,
-      "Новиков Владимир Михайлович": 189,
-      "Щербатюк Владимир Иванович": 16
+      "gas:candidate-vibid:22520001121743": 33,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 17,
+      "gas:candidate-vibid:22520001123452": 16,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 39,
+      "gas:candidate-vibid:22520001069083": 70,
+      "gas:candidate-vibid:22520001122411": 189,
+      "gas:candidate-vibid:22520001123875": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5692,15 +5692,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 5,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 80,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 5,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 80,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5751,15 +5751,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 0,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 0,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 4,
-      "Мелешкин Роман Николаевич": 5,
-      "Новиков Владимир Михайлович": 32,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 0,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 0,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 4,
+      "gas:candidate-vibid:22520001069083": 5,
+      "gas:candidate-vibid:22520001122411": 32,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999736&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999736&type=464",
@@ -5810,15 +5810,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 58,
-      "Каплуненко Виктор Викторович": 25,
-      "Клёцкин Алексей Викторович": 19,
-      "Козицкий Алексей Анатольевич": 60,
-      "Колчина Ольга Михайловна": 75,
-      "Корниенко Алексей Викторович": 57,
-      "Мелешкин Роман Николаевич": 168,
-      "Новиков Владимир Михайлович": 206,
-      "Щербатюк Владимир Иванович": 19
+      "gas:candidate-vibid:22520001121743": 58,
+      "gas:candidate-vibid:22520001123623": 25,
+      "gas:candidate-vibid:22520001123818": 19,
+      "gas:candidate-vibid:22520001123452": 60,
+      "gas:candidate-vibid:22520001123385": 75,
+      "gas:candidate-vibid:22520001070174": 57,
+      "gas:candidate-vibid:22520001069083": 168,
+      "gas:candidate-vibid:22520001122411": 206,
+      "gas:candidate-vibid:22520001123875": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -5869,15 +5869,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 29,
-      "Каплуненко Виктор Викторович": 22,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 37,
-      "Колчина Ольга Михайловна": 39,
-      "Корниенко Алексей Викторович": 64,
-      "Мелешкин Роман Николаевич": 100,
-      "Новиков Владимир Михайлович": 123,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 29,
+      "gas:candidate-vibid:22520001123623": 22,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 37,
+      "gas:candidate-vibid:22520001123385": 39,
+      "gas:candidate-vibid:22520001070174": 64,
+      "gas:candidate-vibid:22520001069083": 100,
+      "gas:candidate-vibid:22520001122411": 123,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -5928,15 +5928,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 35,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 35,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -5987,15 +5987,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 45,
-      "Каплуненко Виктор Викторович": 34,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 39,
-      "Колчина Ольга Михайловна": 61,
-      "Корниенко Алексей Викторович": 72,
-      "Мелешкин Роман Николаевич": 107,
-      "Новиков Владимир Михайлович": 186,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 45,
+      "gas:candidate-vibid:22520001123623": 34,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 39,
+      "gas:candidate-vibid:22520001123385": 61,
+      "gas:candidate-vibid:22520001070174": 72,
+      "gas:candidate-vibid:22520001069083": 107,
+      "gas:candidate-vibid:22520001122411": 186,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6046,15 +6046,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 30,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 27,
-      "Колчина Ольга Михайловна": 78,
-      "Корниенко Алексей Викторович": 75,
-      "Мелешкин Роман Николаевич": 106,
-      "Новиков Владимир Михайлович": 180,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 30,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 27,
+      "gas:candidate-vibid:22520001123385": 78,
+      "gas:candidate-vibid:22520001070174": 75,
+      "gas:candidate-vibid:22520001069083": 106,
+      "gas:candidate-vibid:22520001122411": 180,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6105,15 +6105,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 40,
-      "Каплуненко Виктор Викторович": 38,
-      "Клёцкин Алексей Викторович": 17,
-      "Козицкий Алексей Анатольевич": 51,
-      "Колчина Ольга Михайловна": 78,
-      "Корниенко Алексей Викторович": 79,
-      "Мелешкин Роман Николаевич": 150,
-      "Новиков Владимир Михайлович": 214,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 40,
+      "gas:candidate-vibid:22520001123623": 38,
+      "gas:candidate-vibid:22520001123818": 17,
+      "gas:candidate-vibid:22520001123452": 51,
+      "gas:candidate-vibid:22520001123385": 78,
+      "gas:candidate-vibid:22520001070174": 79,
+      "gas:candidate-vibid:22520001069083": 150,
+      "gas:candidate-vibid:22520001122411": 214,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6164,15 +6164,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 33,
-      "Каплуненко Виктор Викторович": 23,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 17,
-      "Колчина Ольга Михайловна": 55,
-      "Корниенко Алексей Викторович": 46,
-      "Мелешкин Роман Николаевич": 80,
-      "Новиков Владимир Михайлович": 166,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 33,
+      "gas:candidate-vibid:22520001123623": 23,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 17,
+      "gas:candidate-vibid:22520001123385": 55,
+      "gas:candidate-vibid:22520001070174": 46,
+      "gas:candidate-vibid:22520001069083": 80,
+      "gas:candidate-vibid:22520001122411": 166,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6223,15 +6223,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 1,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 5,
-      "Корниенко Алексей Викторович": 4,
-      "Мелешкин Роман Николаевич": 9,
-      "Новиков Владимир Михайлович": 30,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 1,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 5,
+      "gas:candidate-vibid:22520001070174": 4,
+      "gas:candidate-vibid:22520001069083": 9,
+      "gas:candidate-vibid:22520001122411": 30,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6282,15 +6282,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 60,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 18,
-      "Колчина Ольга Михайловна": 50,
-      "Корниенко Алексей Викторович": 40,
-      "Мелешкин Роман Николаевич": 77,
-      "Новиков Владимир Михайлович": 160,
-      "Щербатюк Владимир Иванович": 10
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 60,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 18,
+      "gas:candidate-vibid:22520001123385": 50,
+      "gas:candidate-vibid:22520001070174": 40,
+      "gas:candidate-vibid:22520001069083": 77,
+      "gas:candidate-vibid:22520001122411": 160,
+      "gas:candidate-vibid:22520001123875": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6341,15 +6341,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 15,
-      "Каплуненко Виктор Викторович": 21,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 11,
-      "Корниенко Алексей Викторович": 17,
-      "Мелешкин Роман Николаевич": 21,
-      "Новиков Владимир Михайлович": 38,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 15,
+      "gas:candidate-vibid:22520001123623": 21,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 11,
+      "gas:candidate-vibid:22520001070174": 17,
+      "gas:candidate-vibid:22520001069083": 21,
+      "gas:candidate-vibid:22520001122411": 38,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6400,15 +6400,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 23,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 17,
-      "Корниенко Алексей Викторович": 19,
-      "Мелешкин Роман Николаевич": 34,
-      "Новиков Владимир Михайлович": 74,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 23,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 17,
+      "gas:candidate-vibid:22520001070174": 19,
+      "gas:candidate-vibid:22520001069083": 34,
+      "gas:candidate-vibid:22520001122411": 74,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6459,15 +6459,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 14,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 16,
-      "Корниенко Алексей Викторович": 23,
-      "Мелешкин Роман Николаевич": 24,
-      "Новиков Владимир Михайлович": 55,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 14,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 16,
+      "gas:candidate-vibid:22520001070174": 23,
+      "gas:candidate-vibid:22520001069083": 24,
+      "gas:candidate-vibid:22520001122411": 55,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6518,15 +6518,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 12,
-      "Корниенко Алексей Викторович": 14,
-      "Мелешкин Роман Николаевич": 10,
-      "Новиков Владимир Михайлович": 44,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 12,
+      "gas:candidate-vibid:22520001070174": 14,
+      "gas:candidate-vibid:22520001069083": 10,
+      "gas:candidate-vibid:22520001122411": 44,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6577,15 +6577,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 16,
-      "Каплуненко Виктор Викторович": 11,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 9,
-      "Колчина Ольга Михайловна": 23,
-      "Корниенко Алексей Викторович": 16,
-      "Мелешкин Роман Николаевич": 35,
-      "Новиков Владимир Михайлович": 99,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 16,
+      "gas:candidate-vibid:22520001123623": 11,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 9,
+      "gas:candidate-vibid:22520001123385": 23,
+      "gas:candidate-vibid:22520001070174": 16,
+      "gas:candidate-vibid:22520001069083": 35,
+      "gas:candidate-vibid:22520001122411": 99,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6636,15 +6636,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 27,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 34,
-      "Колчина Ольга Михайловна": 60,
-      "Корниенко Алексей Викторович": 65,
-      "Мелешкин Роман Николаевич": 104,
-      "Новиков Владимир Михайлович": 167,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 27,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 34,
+      "gas:candidate-vibid:22520001123385": 60,
+      "gas:candidate-vibid:22520001070174": 65,
+      "gas:candidate-vibid:22520001069083": 104,
+      "gas:candidate-vibid:22520001122411": 167,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6695,15 +6695,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 6,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 8,
-      "Корниенко Алексей Викторович": 6,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 19,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 6,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 8,
+      "gas:candidate-vibid:22520001070174": 6,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 19,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6754,15 +6754,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 15,
-      "Корниенко Алексей Викторович": 18,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 72,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 15,
+      "gas:candidate-vibid:22520001070174": 18,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 72,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6813,15 +6813,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 13,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 60,
-      "Мелешкин Роман Николаевич": 23,
-      "Новиков Владимир Михайлович": 72,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 13,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 60,
+      "gas:candidate-vibid:22520001069083": 23,
+      "gas:candidate-vibid:22520001122411": 72,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6872,15 +6872,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 12,
-      "Корниенко Алексей Викторович": 13,
-      "Мелешкин Роман Николаевич": 14,
-      "Новиков Владимир Михайлович": 23,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 12,
+      "gas:candidate-vibid:22520001070174": 13,
+      "gas:candidate-vibid:22520001069083": 14,
+      "gas:candidate-vibid:22520001122411": 23,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6931,15 +6931,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 7,
-      "Корниенко Алексей Викторович": 11,
-      "Мелешкин Роман Николаевич": 13,
-      "Новиков Владимир Михайлович": 22,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 7,
+      "gas:candidate-vibid:22520001070174": 11,
+      "gas:candidate-vibid:22520001069083": 13,
+      "gas:candidate-vibid:22520001122411": 22,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -6990,15 +6990,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 21,
-      "Колчина Ольга Михайловна": 44,
-      "Корниенко Алексей Викторович": 33,
-      "Мелешкин Роман Николаевич": 63,
-      "Новиков Владимир Михайлович": 84,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 21,
+      "gas:candidate-vibid:22520001123385": 44,
+      "gas:candidate-vibid:22520001070174": 33,
+      "gas:candidate-vibid:22520001069083": 63,
+      "gas:candidate-vibid:22520001122411": 84,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7049,15 +7049,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 15,
-      "Корниенко Алексей Викторович": 7,
-      "Мелешкин Роман Николаевич": 26,
-      "Новиков Владимир Михайлович": 33,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 15,
+      "gas:candidate-vibid:22520001070174": 7,
+      "gas:candidate-vibid:22520001069083": 26,
+      "gas:candidate-vibid:22520001122411": 33,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7108,15 +7108,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 37,
-      "Каплуненко Виктор Викторович": 22,
-      "Клёцкин Алексей Викторович": 17,
-      "Козицкий Алексей Анатольевич": 60,
-      "Колчина Ольга Михайловна": 82,
-      "Корниенко Алексей Викторович": 81,
-      "Мелешкин Роман Николаевич": 150,
-      "Новиков Владимир Михайлович": 208,
-      "Щербатюк Владимир Иванович": 22
+      "gas:candidate-vibid:22520001121743": 37,
+      "gas:candidate-vibid:22520001123623": 22,
+      "gas:candidate-vibid:22520001123818": 17,
+      "gas:candidate-vibid:22520001123452": 60,
+      "gas:candidate-vibid:22520001123385": 82,
+      "gas:candidate-vibid:22520001070174": 81,
+      "gas:candidate-vibid:22520001069083": 150,
+      "gas:candidate-vibid:22520001122411": 208,
+      "gas:candidate-vibid:22520001123875": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7167,15 +7167,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 36,
-      "Каплуненко Виктор Викторович": 18,
-      "Клёцкин Алексей Викторович": 17,
-      "Козицкий Алексей Анатольевич": 44,
-      "Колчина Ольга Михайловна": 99,
-      "Корниенко Алексей Викторович": 90,
-      "Мелешкин Роман Николаевич": 180,
-      "Новиков Владимир Михайлович": 209,
-      "Щербатюк Владимир Иванович": 14
+      "gas:candidate-vibid:22520001121743": 36,
+      "gas:candidate-vibid:22520001123623": 18,
+      "gas:candidate-vibid:22520001123818": 17,
+      "gas:candidate-vibid:22520001123452": 44,
+      "gas:candidate-vibid:22520001123385": 99,
+      "gas:candidate-vibid:22520001070174": 90,
+      "gas:candidate-vibid:22520001069083": 180,
+      "gas:candidate-vibid:22520001122411": 209,
+      "gas:candidate-vibid:22520001123875": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7226,15 +7226,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 16,
-      "Колчина Ольга Михайловна": 32,
-      "Корниенко Алексей Викторович": 41,
-      "Мелешкин Роман Николаевич": 60,
-      "Новиков Владимир Михайлович": 85,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 16,
+      "gas:candidate-vibid:22520001123385": 32,
+      "gas:candidate-vibid:22520001070174": 41,
+      "gas:candidate-vibid:22520001069083": 60,
+      "gas:candidate-vibid:22520001122411": 85,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7285,15 +7285,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 34,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 28,
-      "Колчина Ольга Михайловна": 60,
-      "Корниенко Алексей Викторович": 65,
-      "Мелешкин Роман Николаевич": 97,
-      "Новиков Владимир Михайлович": 108,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 34,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 28,
+      "gas:candidate-vibid:22520001123385": 60,
+      "gas:candidate-vibid:22520001070174": 65,
+      "gas:candidate-vibid:22520001069083": 97,
+      "gas:candidate-vibid:22520001122411": 108,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7344,15 +7344,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 22,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 27,
-      "Колчина Ольга Михайловна": 66,
-      "Корниенко Алексей Викторович": 53,
-      "Мелешкин Роман Николаевич": 105,
-      "Новиков Владимир Михайлович": 201,
-      "Щербатюк Владимир Иванович": 15
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 22,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 27,
+      "gas:candidate-vibid:22520001123385": 66,
+      "gas:candidate-vibid:22520001070174": 53,
+      "gas:candidate-vibid:22520001069083": 105,
+      "gas:candidate-vibid:22520001122411": 201,
+      "gas:candidate-vibid:22520001123875": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7403,15 +7403,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 72,
-      "Каплуненко Виктор Викторович": 36,
-      "Клёцкин Алексей Викторович": 29,
-      "Козицкий Алексей Анатольевич": 64,
-      "Колчина Ольга Михайловна": 99,
-      "Корниенко Алексей Викторович": 61,
-      "Мелешкин Роман Николаевич": 143,
-      "Новиков Владимир Михайлович": 295,
-      "Щербатюк Владимир Иванович": 23
+      "gas:candidate-vibid:22520001121743": 72,
+      "gas:candidate-vibid:22520001123623": 36,
+      "gas:candidate-vibid:22520001123818": 29,
+      "gas:candidate-vibid:22520001123452": 64,
+      "gas:candidate-vibid:22520001123385": 99,
+      "gas:candidate-vibid:22520001070174": 61,
+      "gas:candidate-vibid:22520001069083": 143,
+      "gas:candidate-vibid:22520001122411": 295,
+      "gas:candidate-vibid:22520001123875": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7462,15 +7462,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 6,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 13,
-      "Мелешкин Роман Николаевич": 37,
-      "Новиков Владимир Михайлович": 76,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 6,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 13,
+      "gas:candidate-vibid:22520001069083": 37,
+      "gas:candidate-vibid:22520001122411": 76,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7521,15 +7521,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 4,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 26,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 4,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 26,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7580,15 +7580,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 15,
-      "Колчина Ольга Михайловна": 21,
-      "Корниенко Алексей Викторович": 16,
-      "Мелешкин Роман Николаевич": 15,
-      "Новиков Владимир Михайлович": 33,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 15,
+      "gas:candidate-vibid:22520001123385": 21,
+      "gas:candidate-vibid:22520001070174": 16,
+      "gas:candidate-vibid:22520001069083": 15,
+      "gas:candidate-vibid:22520001122411": 33,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7639,15 +7639,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 6,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 4,
-      "Мелешкин Роман Николаевич": 8,
-      "Новиков Владимир Михайлович": 18,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 6,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 4,
+      "gas:candidate-vibid:22520001069083": 8,
+      "gas:candidate-vibid:22520001122411": 18,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999737&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999737&type=464",
@@ -7698,15 +7698,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 18,
-      "Клёцкин Алексей Викторович": 16,
-      "Козицкий Алексей Анатольевич": 72,
-      "Колчина Ольга Михайловна": 87,
-      "Корниенко Алексей Викторович": 119,
-      "Мелешкин Роман Николаевич": 135,
-      "Новиков Владимир Михайлович": 226,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 18,
+      "gas:candidate-vibid:22520001123818": 16,
+      "gas:candidate-vibid:22520001123452": 72,
+      "gas:candidate-vibid:22520001123385": 87,
+      "gas:candidate-vibid:22520001070174": 119,
+      "gas:candidate-vibid:22520001069083": 135,
+      "gas:candidate-vibid:22520001122411": 226,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -7757,15 +7757,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 6,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 9,
-      "Колчина Ольга Михайловна": 22,
-      "Корниенко Алексей Викторович": 35,
-      "Мелешкин Роман Николаевич": 44,
-      "Новиков Владимир Михайлович": 340,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 6,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 9,
+      "gas:candidate-vibid:22520001123385": 22,
+      "gas:candidate-vibid:22520001070174": 35,
+      "gas:candidate-vibid:22520001069083": 44,
+      "gas:candidate-vibid:22520001122411": 340,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -7816,15 +7816,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 37,
-      "Колчина Ольга Михайловна": 65,
-      "Корниенко Алексей Викторович": 86,
-      "Мелешкин Роман Николаевич": 70,
-      "Новиков Владимир Михайлович": 129,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 37,
+      "gas:candidate-vibid:22520001123385": 65,
+      "gas:candidate-vibid:22520001070174": 86,
+      "gas:candidate-vibid:22520001069083": 70,
+      "gas:candidate-vibid:22520001122411": 129,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -7875,15 +7875,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 32,
-      "Колчина Ольга Михайловна": 68,
-      "Корниенко Алексей Викторович": 91,
-      "Мелешкин Роман Николаевич": 70,
-      "Новиков Владимир Михайлович": 137,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 32,
+      "gas:candidate-vibid:22520001123385": 68,
+      "gas:candidate-vibid:22520001070174": 91,
+      "gas:candidate-vibid:22520001069083": 70,
+      "gas:candidate-vibid:22520001122411": 137,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -7934,15 +7934,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 31,
-      "Каплуненко Виктор Викторович": 19,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 69,
-      "Колчина Ольга Михайловна": 81,
-      "Корниенко Алексей Викторович": 132,
-      "Мелешкин Роман Николаевич": 102,
-      "Новиков Владимир Михайлович": 178,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 31,
+      "gas:candidate-vibid:22520001123623": 19,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 69,
+      "gas:candidate-vibid:22520001123385": 81,
+      "gas:candidate-vibid:22520001070174": 132,
+      "gas:candidate-vibid:22520001069083": 102,
+      "gas:candidate-vibid:22520001122411": 178,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -7993,15 +7993,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 14,
-      "Колчина Ольга Михайловна": 43,
-      "Корниенко Алексей Викторович": 38,
-      "Мелешкин Роман Николаевич": 66,
-      "Новиков Владимир Михайлович": 125,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 14,
+      "gas:candidate-vibid:22520001123385": 43,
+      "gas:candidate-vibid:22520001070174": 38,
+      "gas:candidate-vibid:22520001069083": 66,
+      "gas:candidate-vibid:22520001122411": 125,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8052,15 +8052,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 16,
-      "Корниенко Алексей Викторович": 11,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 77,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 16,
+      "gas:candidate-vibid:22520001070174": 11,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 77,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8111,15 +8111,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 22,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 24,
-      "Колчина Ольга Михайловна": 61,
-      "Корниенко Алексей Викторович": 70,
-      "Мелешкин Роман Николаевич": 123,
-      "Новиков Владимир Михайлович": 495,
-      "Щербатюк Владимир Иванович": 10
+      "gas:candidate-vibid:22520001121743": 22,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 24,
+      "gas:candidate-vibid:22520001123385": 61,
+      "gas:candidate-vibid:22520001070174": 70,
+      "gas:candidate-vibid:22520001069083": 123,
+      "gas:candidate-vibid:22520001122411": 495,
+      "gas:candidate-vibid:22520001123875": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8170,15 +8170,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 31,
-      "Колчина Ольга Михайловна": 47,
-      "Корниенко Алексей Викторович": 58,
-      "Мелешкин Роман Николаевич": 52,
-      "Новиков Владимир Михайлович": 243,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 31,
+      "gas:candidate-vibid:22520001123385": 47,
+      "gas:candidate-vibid:22520001070174": 58,
+      "gas:candidate-vibid:22520001069083": 52,
+      "gas:candidate-vibid:22520001122411": 243,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8229,15 +8229,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 38,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 15,
-      "Козицкий Алексей Анатольевич": 35,
-      "Колчина Ольга Михайловна": 80,
-      "Корниенко Алексей Викторович": 78,
-      "Мелешкин Роман Николаевич": 85,
-      "Новиков Владимир Михайлович": 712,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 38,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 15,
+      "gas:candidate-vibid:22520001123452": 35,
+      "gas:candidate-vibid:22520001123385": 80,
+      "gas:candidate-vibid:22520001070174": 78,
+      "gas:candidate-vibid:22520001069083": 85,
+      "gas:candidate-vibid:22520001122411": 712,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8288,15 +8288,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 21,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 33,
-      "Колчина Ольга Михайловна": 64,
-      "Корниенко Алексей Викторович": 73,
-      "Мелешкин Роман Николаевич": 90,
-      "Новиков Владимир Михайлович": 550,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 21,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 33,
+      "gas:candidate-vibid:22520001123385": 64,
+      "gas:candidate-vibid:22520001070174": 73,
+      "gas:candidate-vibid:22520001069083": 90,
+      "gas:candidate-vibid:22520001122411": 550,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8347,15 +8347,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 13,
-      "Корниенко Алексей Викторович": 37,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 71,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 13,
+      "gas:candidate-vibid:22520001070174": 37,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 71,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8406,15 +8406,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 22,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 38,
-      "Колчина Ольга Михайловна": 75,
-      "Корниенко Алексей Викторович": 101,
-      "Мелешкин Роман Николаевич": 95,
-      "Новиков Владимир Михайлович": 206,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 22,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 38,
+      "gas:candidate-vibid:22520001123385": 75,
+      "gas:candidate-vibid:22520001070174": 101,
+      "gas:candidate-vibid:22520001069083": 95,
+      "gas:candidate-vibid:22520001122411": 206,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8465,15 +8465,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 19,
-      "Мелешкин Роман Николаевич": 16,
-      "Новиков Владимир Михайлович": 55,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 19,
+      "gas:candidate-vibid:22520001069083": 16,
+      "gas:candidate-vibid:22520001122411": 55,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8524,15 +8524,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 40,
-      "Колчина Ольга Михайловна": 61,
-      "Корниенко Алексей Викторович": 60,
-      "Мелешкин Роман Николаевич": 84,
-      "Новиков Владимир Михайлович": 329,
-      "Щербатюк Владимир Иванович": 10
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 40,
+      "gas:candidate-vibid:22520001123385": 61,
+      "gas:candidate-vibid:22520001070174": 60,
+      "gas:candidate-vibid:22520001069083": 84,
+      "gas:candidate-vibid:22520001122411": 329,
+      "gas:candidate-vibid:22520001123875": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8583,15 +8583,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 18,
-      "Колчина Ольга Михайловна": 26,
-      "Корниенко Алексей Викторович": 29,
-      "Мелешкин Роман Николаевич": 39,
-      "Новиков Владимир Михайлович": 382,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 18,
+      "gas:candidate-vibid:22520001123385": 26,
+      "gas:candidate-vibid:22520001070174": 29,
+      "gas:candidate-vibid:22520001069083": 39,
+      "gas:candidate-vibid:22520001122411": 382,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8642,15 +8642,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 37,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 8,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 35,
-      "Новиков Владимир Михайлович": 171,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 37,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 8,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 35,
+      "gas:candidate-vibid:22520001122411": 171,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8701,15 +8701,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 7,
-      "Корниенко Алексей Викторович": 8,
-      "Мелешкин Роман Николаевич": 13,
-      "Новиков Владимир Михайлович": 61,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 7,
+      "gas:candidate-vibid:22520001070174": 8,
+      "gas:candidate-vibid:22520001069083": 13,
+      "gas:candidate-vibid:22520001122411": 61,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8760,15 +8760,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 29,
-      "Корниенко Алексей Викторович": 39,
-      "Мелешкин Роман Николаевич": 43,
-      "Новиков Владимир Михайлович": 219,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 29,
+      "gas:candidate-vibid:22520001070174": 39,
+      "gas:candidate-vibid:22520001069083": 43,
+      "gas:candidate-vibid:22520001122411": 219,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8819,15 +8819,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 15,
-      "Корниенко Алексей Викторович": 12,
-      "Мелешкин Роман Николаевич": 20,
-      "Новиков Владимир Михайлович": 85,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 15,
+      "gas:candidate-vibid:22520001070174": 12,
+      "gas:candidate-vibid:22520001069083": 20,
+      "gas:candidate-vibid:22520001122411": 85,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8878,15 +8878,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 19,
-      "Корниенко Алексей Викторович": 26,
-      "Мелешкин Роман Николаевич": 20,
-      "Новиков Владимир Михайлович": 70,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 19,
+      "gas:candidate-vibid:22520001070174": 26,
+      "gas:candidate-vibid:22520001069083": 20,
+      "gas:candidate-vibid:22520001122411": 70,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8937,15 +8937,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 9,
-      "Колчина Ольга Михайловна": 22,
-      "Корниенко Алексей Викторович": 32,
-      "Мелешкин Роман Николаевич": 21,
-      "Новиков Владимир Михайлович": 183,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 9,
+      "gas:candidate-vibid:22520001123385": 22,
+      "gas:candidate-vibid:22520001070174": 32,
+      "gas:candidate-vibid:22520001069083": 21,
+      "gas:candidate-vibid:22520001122411": 183,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -8996,15 +8996,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 8,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 7,
-      "Новиков Владимир Михайлович": 23,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 8,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 7,
+      "gas:candidate-vibid:22520001122411": 23,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -9055,15 +9055,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 9,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 21,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 20,
-      "Мелешкин Роман Николаевич": 41,
-      "Новиков Владимир Михайлович": 496,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 9,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 21,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 20,
+      "gas:candidate-vibid:22520001069083": 41,
+      "gas:candidate-vibid:22520001122411": 496,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -9114,15 +9114,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 15,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 25,
-      "Колчина Ольга Михайловна": 27,
-      "Корниенко Алексей Викторович": 30,
-      "Мелешкин Роман Николаевич": 46,
-      "Новиков Владимир Михайлович": 455,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 15,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 25,
+      "gas:candidate-vibid:22520001123385": 27,
+      "gas:candidate-vibid:22520001070174": 30,
+      "gas:candidate-vibid:22520001069083": 46,
+      "gas:candidate-vibid:22520001122411": 455,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -9173,15 +9173,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 9,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 31,
-      "Колчина Ольга Михайловна": 17,
-      "Корниенко Алексей Викторович": 45,
-      "Мелешкин Роман Николаевич": 33,
-      "Новиков Владимир Михайлович": 354,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 9,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 31,
+      "gas:candidate-vibid:22520001123385": 17,
+      "gas:candidate-vibid:22520001070174": 45,
+      "gas:candidate-vibid:22520001069083": 33,
+      "gas:candidate-vibid:22520001122411": 354,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -9232,15 +9232,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 13,
-      "Корниенко Алексей Викторович": 29,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 113,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 13,
+      "gas:candidate-vibid:22520001070174": 29,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 113,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -9291,15 +9291,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 32,
-      "Колчина Ольга Михайловна": 64,
-      "Корниенко Алексей Викторович": 90,
-      "Мелешкин Роман Николаевич": 76,
-      "Новиков Владимир Михайлович": 115,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 32,
+      "gas:candidate-vibid:22520001123385": 64,
+      "gas:candidate-vibid:22520001070174": 90,
+      "gas:candidate-vibid:22520001069083": 76,
+      "gas:candidate-vibid:22520001122411": 115,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999738&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999738&type=464",
@@ -9350,15 +9350,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 17,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 56,
-      "Колчина Ольга Михайловна": 77,
-      "Корниенко Алексей Викторович": 63,
-      "Мелешкин Роман Николаевич": 80,
-      "Новиков Владимир Михайлович": 837,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 17,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 56,
+      "gas:candidate-vibid:22520001123385": 77,
+      "gas:candidate-vibid:22520001070174": 63,
+      "gas:candidate-vibid:22520001069083": 80,
+      "gas:candidate-vibid:22520001122411": 837,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9409,15 +9409,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 47,
-      "Колчина Ольга Михайловна": 39,
-      "Корниенко Алексей Викторович": 71,
-      "Мелешкин Роман Николаевич": 48,
-      "Новиков Владимир Михайлович": 353,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 47,
+      "gas:candidate-vibid:22520001123385": 39,
+      "gas:candidate-vibid:22520001070174": 71,
+      "gas:candidate-vibid:22520001069083": 48,
+      "gas:candidate-vibid:22520001122411": 353,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9468,15 +9468,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 11,
-      "Мелешкин Роман Николаевич": 25,
-      "Новиков Владимир Михайлович": 41,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 11,
+      "gas:candidate-vibid:22520001069083": 25,
+      "gas:candidate-vibid:22520001122411": 41,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9527,15 +9527,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 21,
-      "Каплуненко Виктор Викторович": 18,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 45,
-      "Колчина Ольга Михайловна": 58,
-      "Корниенко Алексей Викторович": 79,
-      "Мелешкин Роман Николаевич": 88,
-      "Новиков Владимир Михайлович": 147,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 21,
+      "gas:candidate-vibid:22520001123623": 18,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 45,
+      "gas:candidate-vibid:22520001123385": 58,
+      "gas:candidate-vibid:22520001070174": 79,
+      "gas:candidate-vibid:22520001069083": 88,
+      "gas:candidate-vibid:22520001122411": 147,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9586,15 +9586,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 34,
-      "Колчина Ольга Михайловна": 27,
-      "Корниенко Алексей Викторович": 35,
-      "Мелешкин Роман Николаевич": 52,
-      "Новиков Владимир Михайлович": 92,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 34,
+      "gas:candidate-vibid:22520001123385": 27,
+      "gas:candidate-vibid:22520001070174": 35,
+      "gas:candidate-vibid:22520001069083": 52,
+      "gas:candidate-vibid:22520001122411": 92,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9645,15 +9645,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 10,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 18,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 29,
-      "Мелешкин Роман Николаевич": 35,
-      "Новиков Владимир Михайлович": 103,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 10,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 18,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 29,
+      "gas:candidate-vibid:22520001069083": 35,
+      "gas:candidate-vibid:22520001122411": 103,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9704,15 +9704,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 27,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 53,
-      "Колчина Ольга Михайловна": 54,
-      "Корниенко Алексей Викторович": 97,
-      "Мелешкин Роман Николаевич": 103,
-      "Новиков Владимир Михайлович": 223,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 27,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 53,
+      "gas:candidate-vibid:22520001123385": 54,
+      "gas:candidate-vibid:22520001070174": 97,
+      "gas:candidate-vibid:22520001069083": 103,
+      "gas:candidate-vibid:22520001122411": 223,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9763,15 +9763,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 32,
-      "Колчина Ольга Михайловна": 24,
-      "Корниенко Алексей Викторович": 35,
-      "Мелешкин Роман Николаевич": 43,
-      "Новиков Владимир Михайлович": 101,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 32,
+      "gas:candidate-vibid:22520001123385": 24,
+      "gas:candidate-vibid:22520001070174": 35,
+      "gas:candidate-vibid:22520001069083": 43,
+      "gas:candidate-vibid:22520001122411": 101,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9822,15 +9822,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 53,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 48,
-      "Мелешкин Роман Николаевич": 36,
-      "Новиков Владимир Михайлович": 385,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 53,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 48,
+      "gas:candidate-vibid:22520001069083": 36,
+      "gas:candidate-vibid:22520001122411": 385,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9881,15 +9881,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 18,
-      "Козицкий Алексей Анатольевич": 45,
-      "Колчина Ольга Михайловна": 56,
-      "Корниенко Алексей Викторович": 93,
-      "Мелешкин Роман Николаевич": 83,
-      "Новиков Владимир Михайлович": 172,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 18,
+      "gas:candidate-vibid:22520001123452": 45,
+      "gas:candidate-vibid:22520001123385": 56,
+      "gas:candidate-vibid:22520001070174": 93,
+      "gas:candidate-vibid:22520001069083": 83,
+      "gas:candidate-vibid:22520001122411": 172,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9940,15 +9940,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 30,
-      "Колчина Ольга Михайловна": 35,
-      "Корниенко Алексей Викторович": 63,
-      "Мелешкин Роман Николаевич": 39,
-      "Новиков Владимир Михайлович": 170,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 30,
+      "gas:candidate-vibid:22520001123385": 35,
+      "gas:candidate-vibid:22520001070174": 63,
+      "gas:candidate-vibid:22520001069083": 39,
+      "gas:candidate-vibid:22520001122411": 170,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -9999,15 +9999,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 54,
-      "Колчина Ольга Михайловна": 38,
-      "Корниенко Алексей Викторович": 74,
-      "Мелешкин Роман Николаевич": 103,
-      "Новиков Владимир Михайлович": 208,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 54,
+      "gas:candidate-vibid:22520001123385": 38,
+      "gas:candidate-vibid:22520001070174": 74,
+      "gas:candidate-vibid:22520001069083": 103,
+      "gas:candidate-vibid:22520001122411": 208,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10058,15 +10058,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 18,
-      "Корниенко Алексей Викторович": 30,
-      "Мелешкин Роман Николаевич": 26,
-      "Новиков Владимир Михайлович": 55,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 18,
+      "gas:candidate-vibid:22520001070174": 30,
+      "gas:candidate-vibid:22520001069083": 26,
+      "gas:candidate-vibid:22520001122411": 55,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10117,15 +10117,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 12,
-      "Корниенко Алексей Викторович": 30,
-      "Мелешкин Роман Николаевич": 43,
-      "Новиков Владимир Михайлович": 30,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 12,
+      "gas:candidate-vibid:22520001070174": 30,
+      "gas:candidate-vibid:22520001069083": 43,
+      "gas:candidate-vibid:22520001122411": 30,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10176,15 +10176,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 15,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 34,
-      "Колчина Ольга Михайловна": 26,
-      "Корниенко Алексей Викторович": 96,
-      "Мелешкин Роман Николаевич": 63,
-      "Новиков Владимир Михайлович": 81,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 15,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 34,
+      "gas:candidate-vibid:22520001123385": 26,
+      "gas:candidate-vibid:22520001070174": 96,
+      "gas:candidate-vibid:22520001069083": 63,
+      "gas:candidate-vibid:22520001122411": 81,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10235,15 +10235,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 0,
-      "Колчина Ольга Михайловна": 5,
-      "Корниенко Алексей Викторович": 10,
-      "Мелешкин Роман Николаевич": 16,
-      "Новиков Владимир Михайлович": 21,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 0,
+      "gas:candidate-vibid:22520001123385": 5,
+      "gas:candidate-vibid:22520001070174": 10,
+      "gas:candidate-vibid:22520001069083": 16,
+      "gas:candidate-vibid:22520001122411": 21,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10294,15 +10294,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 16,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 31,
-      "Мелешкин Роман Николаевич": 47,
-      "Новиков Владимир Михайлович": 50,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 16,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 31,
+      "gas:candidate-vibid:22520001069083": 47,
+      "gas:candidate-vibid:22520001122411": 50,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10353,15 +10353,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 21,
-      "Мелешкин Роман Николаевич": 11,
-      "Новиков Владимир Михайлович": 19,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 21,
+      "gas:candidate-vibid:22520001069083": 11,
+      "gas:candidate-vibid:22520001122411": 19,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10412,15 +10412,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 6,
-      "Колчина Ольга Михайловна": 11,
-      "Корниенко Алексей Викторович": 8,
-      "Мелешкин Роман Николаевич": 5,
-      "Новиков Владимир Михайлович": 60,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 6,
+      "gas:candidate-vibid:22520001123385": 11,
+      "gas:candidate-vibid:22520001070174": 8,
+      "gas:candidate-vibid:22520001069083": 5,
+      "gas:candidate-vibid:22520001122411": 60,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10471,15 +10471,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 37,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 37,
-      "Колчина Ольга Михайловна": 39,
-      "Корниенко Алексей Викторович": 89,
-      "Мелешкин Роман Николаевич": 102,
-      "Новиков Владимир Михайлович": 136,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 37,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 37,
+      "gas:candidate-vibid:22520001123385": 39,
+      "gas:candidate-vibid:22520001070174": 89,
+      "gas:candidate-vibid:22520001069083": 102,
+      "gas:candidate-vibid:22520001122411": 136,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10530,15 +10530,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 16,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 41,
-      "Колчина Ольга Михайловна": 44,
-      "Корниенко Алексей Викторович": 95,
-      "Мелешкин Роман Николаевич": 123,
-      "Новиков Владимир Михайлович": 139,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 16,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 41,
+      "gas:candidate-vibid:22520001123385": 44,
+      "gas:candidate-vibid:22520001070174": 95,
+      "gas:candidate-vibid:22520001069083": 123,
+      "gas:candidate-vibid:22520001122411": 139,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10589,15 +10589,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 32,
-      "Колчина Ольга Михайловна": 23,
-      "Корниенко Алексей Викторович": 65,
-      "Мелешкин Роман Николаевич": 41,
-      "Новиков Владимир Михайлович": 231,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 32,
+      "gas:candidate-vibid:22520001123385": 23,
+      "gas:candidate-vibid:22520001070174": 65,
+      "gas:candidate-vibid:22520001069083": 41,
+      "gas:candidate-vibid:22520001122411": 231,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10648,15 +10648,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 18,
-      "Козицкий Алексей Анатольевич": 74,
-      "Колчина Ольга Михайловна": 72,
-      "Корниенко Алексей Викторович": 115,
-      "Мелешкин Роман Николаевич": 82,
-      "Новиков Владимир Михайлович": 190,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 18,
+      "gas:candidate-vibid:22520001123452": 74,
+      "gas:candidate-vibid:22520001123385": 72,
+      "gas:candidate-vibid:22520001070174": 115,
+      "gas:candidate-vibid:22520001069083": 82,
+      "gas:candidate-vibid:22520001122411": 190,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10707,15 +10707,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 29,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 80,
-      "Колчина Ольга Михайловна": 64,
-      "Корниенко Алексей Викторович": 110,
-      "Мелешкин Роман Николаевич": 73,
-      "Новиков Владимир Михайлович": 170,
-      "Щербатюк Владимир Иванович": 15
+      "gas:candidate-vibid:22520001121743": 29,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 80,
+      "gas:candidate-vibid:22520001123385": 64,
+      "gas:candidate-vibid:22520001070174": 110,
+      "gas:candidate-vibid:22520001069083": 73,
+      "gas:candidate-vibid:22520001122411": 170,
+      "gas:candidate-vibid:22520001123875": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10766,15 +10766,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 21,
-      "Мелешкин Роман Николаевич": 21,
-      "Новиков Владимир Михайлович": 32,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 21,
+      "gas:candidate-vibid:22520001069083": 21,
+      "gas:candidate-vibid:22520001122411": 32,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10825,15 +10825,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 22,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 52,
-      "Колчина Ольга Михайловна": 62,
-      "Корниенко Алексей Викторович": 88,
-      "Мелешкин Роман Николаевич": 80,
-      "Новиков Владимир Михайлович": 136,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 22,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 52,
+      "gas:candidate-vibid:22520001123385": 62,
+      "gas:candidate-vibid:22520001070174": 88,
+      "gas:candidate-vibid:22520001069083": 80,
+      "gas:candidate-vibid:22520001122411": 136,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10884,15 +10884,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 15,
-      "Козицкий Алексей Анатольевич": 88,
-      "Колчина Ольга Михайловна": 73,
-      "Корниенко Алексей Викторович": 101,
-      "Мелешкин Роман Николаевич": 92,
-      "Новиков Владимир Михайлович": 186,
-      "Щербатюк Владимир Иванович": 16
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 15,
+      "gas:candidate-vibid:22520001123452": 88,
+      "gas:candidate-vibid:22520001123385": 73,
+      "gas:candidate-vibid:22520001070174": 101,
+      "gas:candidate-vibid:22520001069083": 92,
+      "gas:candidate-vibid:22520001122411": 186,
+      "gas:candidate-vibid:22520001123875": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -10943,15 +10943,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 6,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 19,
-      "Мелешкин Роман Николаевич": 33,
-      "Новиков Владимир Михайлович": 127,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 6,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 19,
+      "gas:candidate-vibid:22520001069083": 33,
+      "gas:candidate-vibid:22520001122411": 127,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -11002,15 +11002,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 26,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 55,
-      "Колчина Ольга Михайловна": 46,
-      "Корниенко Алексей Викторович": 73,
-      "Мелешкин Роман Николаевич": 67,
-      "Новиков Владимир Михайлович": 167,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 26,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 55,
+      "gas:candidate-vibid:22520001123385": 46,
+      "gas:candidate-vibid:22520001070174": 73,
+      "gas:candidate-vibid:22520001069083": 67,
+      "gas:candidate-vibid:22520001122411": 167,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -11061,15 +11061,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 42,
-      "Колчина Ольга Михайловна": 29,
-      "Корниенко Алексей Викторович": 45,
-      "Мелешкин Роман Николаевич": 36,
-      "Новиков Владимир Михайлович": 148,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 42,
+      "gas:candidate-vibid:22520001123385": 29,
+      "gas:candidate-vibid:22520001070174": 45,
+      "gas:candidate-vibid:22520001069083": 36,
+      "gas:candidate-vibid:22520001122411": 148,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -11120,15 +11120,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 42,
-      "Колчина Ольга Михайловна": 50,
-      "Корниенко Алексей Викторович": 53,
-      "Мелешкин Роман Николаевич": 58,
-      "Новиков Владимир Михайлович": 148,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 42,
+      "gas:candidate-vibid:22520001123385": 50,
+      "gas:candidate-vibid:22520001070174": 53,
+      "gas:candidate-vibid:22520001069083": 58,
+      "gas:candidate-vibid:22520001122411": 148,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999739&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999739&type=464",
@@ -11179,15 +11179,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 24,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 52,
-      "Колчина Ольга Михайловна": 86,
-      "Корниенко Алексей Викторович": 133,
-      "Мелешкин Роман Николаевич": 69,
-      "Новиков Владимир Михайлович": 270,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 24,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 52,
+      "gas:candidate-vibid:22520001123385": 86,
+      "gas:candidate-vibid:22520001070174": 133,
+      "gas:candidate-vibid:22520001069083": 69,
+      "gas:candidate-vibid:22520001122411": 270,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11238,15 +11238,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 25,
-      "Колчина Ольга Михайловна": 32,
-      "Корниенко Алексей Викторович": 49,
-      "Мелешкин Роман Николаевич": 71,
-      "Новиков Владимир Михайлович": 145,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 25,
+      "gas:candidate-vibid:22520001123385": 32,
+      "gas:candidate-vibid:22520001070174": 49,
+      "gas:candidate-vibid:22520001069083": 71,
+      "gas:candidate-vibid:22520001122411": 145,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11297,15 +11297,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 25,
-      "Каплуненко Виктор Викторович": 11,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 34,
-      "Колчина Ольга Михайловна": 67,
-      "Корниенко Алексей Викторович": 117,
-      "Мелешкин Роман Николаевич": 90,
-      "Новиков Владимир Михайлович": 230,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 25,
+      "gas:candidate-vibid:22520001123623": 11,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 34,
+      "gas:candidate-vibid:22520001123385": 67,
+      "gas:candidate-vibid:22520001070174": 117,
+      "gas:candidate-vibid:22520001069083": 90,
+      "gas:candidate-vibid:22520001122411": 230,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11356,15 +11356,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 16,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 26,
-      "Колчина Ольга Михайловна": 56,
-      "Корниенко Алексей Викторович": 88,
-      "Мелешкин Роман Николаевич": 83,
-      "Новиков Владимир Михайлович": 217,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 16,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 26,
+      "gas:candidate-vibid:22520001123385": 56,
+      "gas:candidate-vibid:22520001070174": 88,
+      "gas:candidate-vibid:22520001069083": 83,
+      "gas:candidate-vibid:22520001122411": 217,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11415,15 +11415,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 21,
-      "Колчина Ольга Михайловна": 50,
-      "Корниенко Алексей Викторович": 47,
-      "Мелешкин Роман Николаевич": 88,
-      "Новиков Владимир Михайлович": 214,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 21,
+      "gas:candidate-vibid:22520001123385": 50,
+      "gas:candidate-vibid:22520001070174": 47,
+      "gas:candidate-vibid:22520001069083": 88,
+      "gas:candidate-vibid:22520001122411": 214,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11474,15 +11474,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 19,
-      "Корниенко Алексей Викторович": 20,
-      "Мелешкин Роман Николаевич": 24,
-      "Новиков Владимир Михайлович": 78,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 19,
+      "gas:candidate-vibid:22520001070174": 20,
+      "gas:candidate-vibid:22520001069083": 24,
+      "gas:candidate-vibid:22520001122411": 78,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11533,15 +11533,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 8,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 21,
-      "Корниенко Алексей Викторович": 12,
-      "Мелешкин Роман Николаевич": 9,
-      "Новиков Владимир Михайлович": 46,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 8,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 21,
+      "gas:candidate-vibid:22520001070174": 12,
+      "gas:candidate-vibid:22520001069083": 9,
+      "gas:candidate-vibid:22520001122411": 46,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11592,15 +11592,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 13,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 16,
-      "Корниенко Алексей Викторович": 18,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 50,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 13,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 16,
+      "gas:candidate-vibid:22520001070174": 18,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 50,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11651,15 +11651,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 16,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 17,
-      "Колчина Ольга Михайловна": 49,
-      "Корниенко Алексей Викторович": 55,
-      "Мелешкин Роман Николаевич": 34,
-      "Новиков Владимир Михайлович": 252,
-      "Щербатюк Владимир Иванович": 22
+      "gas:candidate-vibid:22520001121743": 16,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 17,
+      "gas:candidate-vibid:22520001123385": 49,
+      "gas:candidate-vibid:22520001070174": 55,
+      "gas:candidate-vibid:22520001069083": 34,
+      "gas:candidate-vibid:22520001122411": 252,
+      "gas:candidate-vibid:22520001123875": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11710,15 +11710,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 2,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 3,
-      "Корниенко Алексей Викторович": 9,
-      "Мелешкин Роман Николаевич": 5,
-      "Новиков Владимир Михайлович": 74,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 2,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 3,
+      "gas:candidate-vibid:22520001070174": 9,
+      "gas:candidate-vibid:22520001069083": 5,
+      "gas:candidate-vibid:22520001122411": 74,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11769,15 +11769,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 1,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 4,
-      "Корниенко Алексей Викторович": 6,
-      "Мелешкин Роман Николаевич": 2,
-      "Новиков Владимир Михайлович": 39,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 1,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 4,
+      "gas:candidate-vibid:22520001070174": 6,
+      "gas:candidate-vibid:22520001069083": 2,
+      "gas:candidate-vibid:22520001122411": 39,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11828,15 +11828,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 28,
-      "Корниенко Алексей Викторович": 27,
-      "Мелешкин Роман Николаевич": 25,
-      "Новиков Владимир Михайлович": 101,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 28,
+      "gas:candidate-vibid:22520001070174": 27,
+      "gas:candidate-vibid:22520001069083": 25,
+      "gas:candidate-vibid:22520001122411": 101,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11887,15 +11887,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 6,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 11,
-      "Колчина Ольга Михайловна": 20,
-      "Корниенко Алексей Викторович": 21,
-      "Мелешкин Роман Николаевич": 40,
-      "Новиков Владимир Михайлович": 158,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 6,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 11,
+      "gas:candidate-vibid:22520001123385": 20,
+      "gas:candidate-vibid:22520001070174": 21,
+      "gas:candidate-vibid:22520001069083": 40,
+      "gas:candidate-vibid:22520001122411": 158,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -11946,15 +11946,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 9,
-      "Корниенко Алексей Викторович": 9,
-      "Мелешкин Роман Николаевич": 10,
-      "Новиков Владимир Михайлович": 39,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 9,
+      "gas:candidate-vibid:22520001070174": 9,
+      "gas:candidate-vibid:22520001069083": 10,
+      "gas:candidate-vibid:22520001122411": 39,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12005,15 +12005,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 27,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 40,
-      "Колчина Ольга Михайловна": 56,
-      "Корниенко Алексей Викторович": 48,
-      "Мелешкин Роман Николаевич": 91,
-      "Новиков Владимир Михайлович": 192,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 27,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 40,
+      "gas:candidate-vibid:22520001123385": 56,
+      "gas:candidate-vibid:22520001070174": 48,
+      "gas:candidate-vibid:22520001069083": 91,
+      "gas:candidate-vibid:22520001122411": 192,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12064,15 +12064,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 23,
-      "Каплуненко Виктор Викторович": 14,
-      "Клёцкин Алексей Викторович": 19,
-      "Козицкий Алексей Анатольевич": 51,
-      "Колчина Ольга Михайловна": 78,
-      "Корниенко Алексей Викторович": 64,
-      "Мелешкин Роман Николаевич": 87,
-      "Новиков Владимир Михайлович": 241,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 23,
+      "gas:candidate-vibid:22520001123623": 14,
+      "gas:candidate-vibid:22520001123818": 19,
+      "gas:candidate-vibid:22520001123452": 51,
+      "gas:candidate-vibid:22520001123385": 78,
+      "gas:candidate-vibid:22520001070174": 64,
+      "gas:candidate-vibid:22520001069083": 87,
+      "gas:candidate-vibid:22520001122411": 241,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12123,15 +12123,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 37,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 45,
-      "Колчина Ольга Михайловна": 46,
-      "Корниенко Алексей Викторович": 70,
-      "Мелешкин Роман Николаевич": 112,
-      "Новиков Владимир Михайлович": 226,
-      "Щербатюк Владимир Иванович": 4
+      "gas:candidate-vibid:22520001121743": 37,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 45,
+      "gas:candidate-vibid:22520001123385": 46,
+      "gas:candidate-vibid:22520001070174": 70,
+      "gas:candidate-vibid:22520001069083": 112,
+      "gas:candidate-vibid:22520001122411": 226,
+      "gas:candidate-vibid:22520001123875": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12182,15 +12182,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 45,
-      "Каплуненко Виктор Викторович": 14,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 51,
-      "Колчина Ольга Михайловна": 66,
-      "Корниенко Алексей Викторович": 47,
-      "Мелешкин Роман Николаевич": 117,
-      "Новиков Владимир Михайлович": 206,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 45,
+      "gas:candidate-vibid:22520001123623": 14,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 51,
+      "gas:candidate-vibid:22520001123385": 66,
+      "gas:candidate-vibid:22520001070174": 47,
+      "gas:candidate-vibid:22520001069083": 117,
+      "gas:candidate-vibid:22520001122411": 206,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12241,15 +12241,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 7,
-      "Козицкий Алексей Анатольевич": 35,
-      "Колчина Ольга Михайловна": 37,
-      "Корниенко Алексей Викторович": 28,
-      "Мелешкин Роман Николаевич": 55,
-      "Новиков Владимир Михайлович": 230,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 7,
+      "gas:candidate-vibid:22520001123452": 35,
+      "gas:candidate-vibid:22520001123385": 37,
+      "gas:candidate-vibid:22520001070174": 28,
+      "gas:candidate-vibid:22520001069083": 55,
+      "gas:candidate-vibid:22520001122411": 230,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12300,15 +12300,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 18,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 18,
-      "Колчина Ольга Михайловна": 40,
-      "Корниенко Алексей Викторович": 39,
-      "Мелешкин Роман Николаевич": 69,
-      "Новиков Владимир Михайлович": 130,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 18,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 18,
+      "gas:candidate-vibid:22520001123385": 40,
+      "gas:candidate-vibid:22520001070174": 39,
+      "gas:candidate-vibid:22520001069083": 69,
+      "gas:candidate-vibid:22520001122411": 130,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12359,15 +12359,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 33,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 27,
-      "Колчина Ольга Михайловна": 43,
-      "Корниенко Алексей Викторович": 53,
-      "Мелешкин Роман Николаевич": 37,
-      "Новиков Владимир Михайлович": 134,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 33,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 27,
+      "gas:candidate-vibid:22520001123385": 43,
+      "gas:candidate-vibid:22520001070174": 53,
+      "gas:candidate-vibid:22520001069083": 37,
+      "gas:candidate-vibid:22520001122411": 134,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12418,15 +12418,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 5,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 6,
-      "Козицкий Алексей Анатольевич": 3,
-      "Колчина Ольга Михайловна": 23,
-      "Корниенко Алексей Викторович": 3,
-      "Мелешкин Роман Николаевич": 11,
-      "Новиков Владимир Михайлович": 78,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 5,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 6,
+      "gas:candidate-vibid:22520001123452": 3,
+      "gas:candidate-vibid:22520001123385": 23,
+      "gas:candidate-vibid:22520001070174": 3,
+      "gas:candidate-vibid:22520001069083": 11,
+      "gas:candidate-vibid:22520001122411": 78,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12477,15 +12477,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 15,
-      "Колчина Ольга Михайловна": 24,
-      "Корниенко Алексей Викторович": 29,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 72,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 15,
+      "gas:candidate-vibid:22520001123385": 24,
+      "gas:candidate-vibid:22520001070174": 29,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 72,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12536,15 +12536,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 11,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 4,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 22,
-      "Мелешкин Роман Николаевич": 11,
-      "Новиков Владимир Михайлович": 40,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 11,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 4,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 22,
+      "gas:candidate-vibid:22520001069083": 11,
+      "gas:candidate-vibid:22520001122411": 40,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12595,15 +12595,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 45,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 27,
-      "Колчина Ольга Михайловна": 91,
-      "Корниенко Алексей Викторович": 102,
-      "Мелешкин Роман Николаевич": 68,
-      "Новиков Владимир Михайлович": 207,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 45,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 27,
+      "gas:candidate-vibid:22520001123385": 91,
+      "gas:candidate-vibid:22520001070174": 102,
+      "gas:candidate-vibid:22520001069083": 68,
+      "gas:candidate-vibid:22520001122411": 207,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12654,15 +12654,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 2,
-      "Козицкий Алексей Анатольевич": 8,
-      "Колчина Ольга Михайловна": 30,
-      "Корниенко Алексей Викторович": 42,
-      "Мелешкин Роман Николаевич": 24,
-      "Новиков Владимир Михайлович": 69,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 2,
+      "gas:candidate-vibid:22520001123452": 8,
+      "gas:candidate-vibid:22520001123385": 30,
+      "gas:candidate-vibid:22520001070174": 42,
+      "gas:candidate-vibid:22520001069083": 24,
+      "gas:candidate-vibid:22520001122411": 69,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12713,15 +12713,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 23,
-      "Каплуненко Виктор Викторович": 4,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 14,
-      "Колчина Ольга Михайловна": 24,
-      "Корниенко Алексей Викторович": 39,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 100,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 23,
+      "gas:candidate-vibid:22520001123623": 4,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 14,
+      "gas:candidate-vibid:22520001123385": 24,
+      "gas:candidate-vibid:22520001070174": 39,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 100,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12772,15 +12772,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 1,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 2,
-      "Корниенко Алексей Викторович": 9,
-      "Мелешкин Роман Николаевич": 11,
-      "Новиков Владимир Михайлович": 27,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 1,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 2,
+      "gas:candidate-vibid:22520001070174": 9,
+      "gas:candidate-vibid:22520001069083": 11,
+      "gas:candidate-vibid:22520001122411": 27,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12831,15 +12831,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 21,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 5,
-      "Козицкий Алексей Анатольевич": 7,
-      "Колчина Ольга Михайловна": 24,
-      "Корниенко Алексей Викторович": 26,
-      "Мелешкин Роман Николаевич": 20,
-      "Новиков Владимир Михайлович": 114,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 21,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 5,
+      "gas:candidate-vibid:22520001123452": 7,
+      "gas:candidate-vibid:22520001123385": 24,
+      "gas:candidate-vibid:22520001070174": 26,
+      "gas:candidate-vibid:22520001069083": 20,
+      "gas:candidate-vibid:22520001122411": 114,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12890,15 +12890,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 1,
-      "Колчина Ольга Михайловна": 5,
-      "Корниенко Алексей Викторович": 11,
-      "Мелешкин Роман Николаевич": 4,
-      "Новиков Владимир Михайлович": 52,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 1,
+      "gas:candidate-vibid:22520001123385": 5,
+      "gas:candidate-vibid:22520001070174": 11,
+      "gas:candidate-vibid:22520001069083": 4,
+      "gas:candidate-vibid:22520001122411": 52,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -12949,15 +12949,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 2,
-      "Колчина Ольга Михайловна": 3,
-      "Корниенко Алексей Викторович": 7,
-      "Мелешкин Роман Николаевич": 12,
-      "Новиков Владимир Михайлович": 31,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 2,
+      "gas:candidate-vibid:22520001123385": 3,
+      "gas:candidate-vibid:22520001070174": 7,
+      "gas:candidate-vibid:22520001069083": 12,
+      "gas:candidate-vibid:22520001122411": 31,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -13008,15 +13008,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 19,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 31,
-      "Колчина Ольга Михайловна": 72,
-      "Корниенко Алексей Викторович": 98,
-      "Мелешкин Роман Николаевич": 73,
-      "Новиков Владимир Михайлович": 192,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 19,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 31,
+      "gas:candidate-vibid:22520001123385": 72,
+      "gas:candidate-vibid:22520001070174": 98,
+      "gas:candidate-vibid:22520001069083": 73,
+      "gas:candidate-vibid:22520001122411": 192,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -13067,15 +13067,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 5,
-      "Колчина Ольга Михайловна": 13,
-      "Корниенко Алексей Викторович": 8,
-      "Мелешкин Роман Николаевич": 14,
-      "Новиков Владимир Михайлович": 51,
-      "Щербатюк Владимир Иванович": 10
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 5,
+      "gas:candidate-vibid:22520001123385": 13,
+      "gas:candidate-vibid:22520001070174": 8,
+      "gas:candidate-vibid:22520001069083": 14,
+      "gas:candidate-vibid:22520001122411": 51,
+      "gas:candidate-vibid:22520001123875": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -13126,15 +13126,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 10,
-      "Каплуненко Виктор Викторович": 7,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 8,
-      "Корниенко Алексей Викторович": 8,
-      "Мелешкин Роман Николаевич": 16,
-      "Новиков Владимир Михайлович": 89,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 10,
+      "gas:candidate-vibid:22520001123623": 7,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 8,
+      "gas:candidate-vibid:22520001070174": 8,
+      "gas:candidate-vibid:22520001069083": 16,
+      "gas:candidate-vibid:22520001122411": 89,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -13185,15 +13185,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 3,
-      "Каплуненко Виктор Викторович": 0,
-      "Клёцкин Алексей Викторович": 0,
-      "Козицкий Алексей Анатольевич": 4,
-      "Колчина Ольга Михайловна": 2,
-      "Корниенко Алексей Викторович": 3,
-      "Мелешкин Роман Николаевич": 0,
-      "Новиков Владимир Михайлович": 8,
-      "Щербатюк Владимир Иванович": 0
+      "gas:candidate-vibid:22520001121743": 3,
+      "gas:candidate-vibid:22520001123623": 0,
+      "gas:candidate-vibid:22520001123818": 0,
+      "gas:candidate-vibid:22520001123452": 4,
+      "gas:candidate-vibid:22520001123385": 2,
+      "gas:candidate-vibid:22520001070174": 3,
+      "gas:candidate-vibid:22520001069083": 0,
+      "gas:candidate-vibid:22520001122411": 8,
+      "gas:candidate-vibid:22520001123875": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999740&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999740&type=464",
@@ -13244,15 +13244,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 2,
-      "Клёцкин Алексей Викторович": 3,
-      "Козицкий Алексей Анатольевич": 17,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 18,
-      "Мелешкин Роман Николаевич": 15,
-      "Новиков Владимир Михайлович": 142,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 2,
+      "gas:candidate-vibid:22520001123818": 3,
+      "gas:candidate-vibid:22520001123452": 17,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 18,
+      "gas:candidate-vibid:22520001069083": 15,
+      "gas:candidate-vibid:22520001122411": 142,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13303,15 +13303,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 22,
-      "Каплуненко Виктор Викторович": 11,
-      "Клёцкин Алексей Викторович": 15,
-      "Козицкий Алексей Анатольевич": 42,
-      "Колчина Ольга Михайловна": 61,
-      "Корниенко Алексей Викторович": 63,
-      "Мелешкин Роман Николаевич": 128,
-      "Новиков Владимир Михайлович": 214,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 22,
+      "gas:candidate-vibid:22520001123623": 11,
+      "gas:candidate-vibid:22520001123818": 15,
+      "gas:candidate-vibid:22520001123452": 42,
+      "gas:candidate-vibid:22520001123385": 61,
+      "gas:candidate-vibid:22520001070174": 63,
+      "gas:candidate-vibid:22520001069083": 128,
+      "gas:candidate-vibid:22520001122411": 214,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13362,15 +13362,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 14,
-      "Каплуненко Виктор Викторович": 87,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 28,
-      "Колчина Ольга Михайловна": 51,
-      "Корниенко Алексей Викторович": 34,
-      "Мелешкин Роман Николаевич": 28,
-      "Новиков Владимир Михайлович": 231,
-      "Щербатюк Владимир Иванович": 34
+      "gas:candidate-vibid:22520001121743": 14,
+      "gas:candidate-vibid:22520001123623": 87,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 28,
+      "gas:candidate-vibid:22520001123385": 51,
+      "gas:candidate-vibid:22520001070174": 34,
+      "gas:candidate-vibid:22520001069083": 28,
+      "gas:candidate-vibid:22520001122411": 231,
+      "gas:candidate-vibid:22520001123875": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13421,15 +13421,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 38,
-      "Каплуненко Виктор Викторович": 29,
-      "Клёцкин Алексей Викторович": 22,
-      "Козицкий Алексей Анатольевич": 49,
-      "Колчина Ольга Михайловна": 49,
-      "Корниенко Алексей Викторович": 49,
-      "Мелешкин Роман Николаевич": 60,
-      "Новиков Владимир Михайлович": 306,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 38,
+      "gas:candidate-vibid:22520001123623": 29,
+      "gas:candidate-vibid:22520001123818": 22,
+      "gas:candidate-vibid:22520001123452": 49,
+      "gas:candidate-vibid:22520001123385": 49,
+      "gas:candidate-vibid:22520001070174": 49,
+      "gas:candidate-vibid:22520001069083": 60,
+      "gas:candidate-vibid:22520001122411": 306,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13480,15 +13480,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 17,
-      "Каплуненко Виктор Викторович": 18,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 47,
-      "Колчина Ольга Михайловна": 55,
-      "Корниенко Алексей Викторович": 78,
-      "Мелешкин Роман Николаевич": 81,
-      "Новиков Владимир Михайлович": 168,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 17,
+      "gas:candidate-vibid:22520001123623": 18,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 47,
+      "gas:candidate-vibid:22520001123385": 55,
+      "gas:candidate-vibid:22520001070174": 78,
+      "gas:candidate-vibid:22520001069083": 81,
+      "gas:candidate-vibid:22520001122411": 168,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13539,15 +13539,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 12,
-      "Козицкий Алексей Анатольевич": 75,
-      "Колчина Ольга Михайловна": 52,
-      "Корниенко Алексей Викторович": 123,
-      "Мелешкин Роман Николаевич": 77,
-      "Новиков Владимир Михайлович": 251,
-      "Щербатюк Владимир Иванович": 7
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 12,
+      "gas:candidate-vibid:22520001123452": 75,
+      "gas:candidate-vibid:22520001123385": 52,
+      "gas:candidate-vibid:22520001070174": 123,
+      "gas:candidate-vibid:22520001069083": 77,
+      "gas:candidate-vibid:22520001122411": 251,
+      "gas:candidate-vibid:22520001123875": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13598,15 +13598,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 26,
-      "Каплуненко Виктор Викторович": 16,
-      "Клёцкин Алексей Викторович": 19,
-      "Козицкий Алексей Анатольевич": 44,
-      "Колчина Ольга Михайловна": 56,
-      "Корниенко Алексей Викторович": 113,
-      "Мелешкин Роман Николаевич": 91,
-      "Новиков Владимир Михайлович": 195,
-      "Щербатюк Владимир Иванович": 11
+      "gas:candidate-vibid:22520001121743": 26,
+      "gas:candidate-vibid:22520001123623": 16,
+      "gas:candidate-vibid:22520001123818": 19,
+      "gas:candidate-vibid:22520001123452": 44,
+      "gas:candidate-vibid:22520001123385": 56,
+      "gas:candidate-vibid:22520001070174": 113,
+      "gas:candidate-vibid:22520001069083": 91,
+      "gas:candidate-vibid:22520001122411": 195,
+      "gas:candidate-vibid:22520001123875": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13657,15 +13657,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 29,
-      "Каплуненко Виктор Викторович": 28,
-      "Клёцкин Алексей Викторович": 32,
-      "Козицкий Алексей Анатольевич": 46,
-      "Колчина Ольга Михайловна": 54,
-      "Корниенко Алексей Викторович": 88,
-      "Мелешкин Роман Николаевич": 89,
-      "Новиков Владимир Михайлович": 179,
-      "Щербатюк Владимир Иванович": 12
+      "gas:candidate-vibid:22520001121743": 29,
+      "gas:candidate-vibid:22520001123623": 28,
+      "gas:candidate-vibid:22520001123818": 32,
+      "gas:candidate-vibid:22520001123452": 46,
+      "gas:candidate-vibid:22520001123385": 54,
+      "gas:candidate-vibid:22520001070174": 88,
+      "gas:candidate-vibid:22520001069083": 89,
+      "gas:candidate-vibid:22520001122411": 179,
+      "gas:candidate-vibid:22520001123875": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13716,15 +13716,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 22,
-      "Каплуненко Виктор Викторович": 11,
-      "Клёцкин Алексей Викторович": 19,
-      "Козицкий Алексей Анатольевич": 32,
-      "Колчина Ольга Михайловна": 35,
-      "Корниенко Алексей Викторович": 54,
-      "Мелешкин Роман Николаевич": 34,
-      "Новиков Владимир Михайлович": 208,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 22,
+      "gas:candidate-vibid:22520001123623": 11,
+      "gas:candidate-vibid:22520001123818": 19,
+      "gas:candidate-vibid:22520001123452": 32,
+      "gas:candidate-vibid:22520001123385": 35,
+      "gas:candidate-vibid:22520001070174": 54,
+      "gas:candidate-vibid:22520001069083": 34,
+      "gas:candidate-vibid:22520001122411": 208,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13775,15 +13775,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 31,
-      "Каплуненко Виктор Викторович": 12,
-      "Клёцкин Алексей Викторович": 26,
-      "Козицкий Алексей Анатольевич": 58,
-      "Колчина Ольга Михайловна": 39,
-      "Корниенко Алексей Викторович": 80,
-      "Мелешкин Роман Николаевич": 73,
-      "Новиков Владимир Михайлович": 214,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 31,
+      "gas:candidate-vibid:22520001123623": 12,
+      "gas:candidate-vibid:22520001123818": 26,
+      "gas:candidate-vibid:22520001123452": 58,
+      "gas:candidate-vibid:22520001123385": 39,
+      "gas:candidate-vibid:22520001070174": 80,
+      "gas:candidate-vibid:22520001069083": 73,
+      "gas:candidate-vibid:22520001122411": 214,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13834,15 +13834,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 9,
-      "Клёцкин Алексей Викторович": 14,
-      "Козицкий Алексей Анатольевич": 20,
-      "Колчина Ольга Михайловна": 21,
-      "Корниенко Алексей Викторович": 19,
-      "Мелешкин Роман Николаевич": 16,
-      "Новиков Владимир Михайлович": 38,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 9,
+      "gas:candidate-vibid:22520001123818": 14,
+      "gas:candidate-vibid:22520001123452": 20,
+      "gas:candidate-vibid:22520001123385": 21,
+      "gas:candidate-vibid:22520001070174": 19,
+      "gas:candidate-vibid:22520001069083": 16,
+      "gas:candidate-vibid:22520001122411": 38,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13893,15 +13893,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 16,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 9,
-      "Козицкий Алексей Анатольевич": 19,
-      "Колчина Ольга Михайловна": 32,
-      "Корниенко Алексей Викторович": 32,
-      "Мелешкин Роман Николаевич": 56,
-      "Новиков Владимир Михайлович": 158,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 16,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 9,
+      "gas:candidate-vibid:22520001123452": 19,
+      "gas:candidate-vibid:22520001123385": 32,
+      "gas:candidate-vibid:22520001070174": 32,
+      "gas:candidate-vibid:22520001069083": 56,
+      "gas:candidate-vibid:22520001122411": 158,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -13952,15 +13952,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 27,
-      "Каплуненко Виктор Викторович": 14,
-      "Клёцкин Алексей Викторович": 18,
-      "Козицкий Алексей Анатольевич": 36,
-      "Колчина Ольга Михайловна": 32,
-      "Корниенко Алексей Викторович": 56,
-      "Мелешкин Роман Николаевич": 48,
-      "Новиков Владимир Михайлович": 413,
-      "Щербатюк Владимир Иванович": 8
+      "gas:candidate-vibid:22520001121743": 27,
+      "gas:candidate-vibid:22520001123623": 14,
+      "gas:candidate-vibid:22520001123818": 18,
+      "gas:candidate-vibid:22520001123452": 36,
+      "gas:candidate-vibid:22520001123385": 32,
+      "gas:candidate-vibid:22520001070174": 56,
+      "gas:candidate-vibid:22520001069083": 48,
+      "gas:candidate-vibid:22520001122411": 413,
+      "gas:candidate-vibid:22520001123875": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14011,15 +14011,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 20,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 60,
-      "Колчина Ольга Михайловна": 37,
-      "Корниенко Алексей Викторович": 80,
-      "Мелешкин Роман Николаевич": 75,
-      "Новиков Владимир Михайлович": 190,
-      "Щербатюк Владимир Иванович": 6
+      "gas:candidate-vibid:22520001121743": 20,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 60,
+      "gas:candidate-vibid:22520001123385": 37,
+      "gas:candidate-vibid:22520001070174": 80,
+      "gas:candidate-vibid:22520001069083": 75,
+      "gas:candidate-vibid:22520001122411": 190,
+      "gas:candidate-vibid:22520001123875": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14070,15 +14070,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 10,
-      "Клёцкин Алексей Викторович": 11,
-      "Козицкий Алексей Анатольевич": 31,
-      "Колчина Ольга Михайловна": 21,
-      "Корниенко Алексей Викторович": 64,
-      "Мелешкин Роман Николаевич": 57,
-      "Новиков Владимир Михайлович": 55,
-      "Щербатюк Владимир Иванович": 2
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 10,
+      "gas:candidate-vibid:22520001123818": 11,
+      "gas:candidate-vibid:22520001123452": 31,
+      "gas:candidate-vibid:22520001123385": 21,
+      "gas:candidate-vibid:22520001070174": 64,
+      "gas:candidate-vibid:22520001069083": 57,
+      "gas:candidate-vibid:22520001122411": 55,
+      "gas:candidate-vibid:22520001123875": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14129,15 +14129,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 48,
-      "Каплуненко Виктор Викторович": 24,
-      "Клёцкин Алексей Викторович": 31,
-      "Козицкий Алексей Анатольевич": 73,
-      "Колчина Ольга Михайловна": 64,
-      "Корниенко Алексей Викторович": 117,
-      "Мелешкин Роман Николаевич": 97,
-      "Новиков Владимир Михайлович": 169,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 48,
+      "gas:candidate-vibid:22520001123623": 24,
+      "gas:candidate-vibid:22520001123818": 31,
+      "gas:candidate-vibid:22520001123452": 73,
+      "gas:candidate-vibid:22520001123385": 64,
+      "gas:candidate-vibid:22520001070174": 117,
+      "gas:candidate-vibid:22520001069083": 97,
+      "gas:candidate-vibid:22520001122411": 169,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14188,15 +14188,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 12,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 13,
-      "Козицкий Алексей Анатольевич": 20,
-      "Колчина Ольга Михайловна": 14,
-      "Корниенко Алексей Викторович": 39,
-      "Мелешкин Роман Николаевич": 31,
-      "Новиков Владимир Михайлович": 61,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 12,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 13,
+      "gas:candidate-vibid:22520001123452": 20,
+      "gas:candidate-vibid:22520001123385": 14,
+      "gas:candidate-vibid:22520001070174": 39,
+      "gas:candidate-vibid:22520001069083": 31,
+      "gas:candidate-vibid:22520001122411": 61,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14247,15 +14247,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 7,
-      "Каплуненко Виктор Викторович": 1,
-      "Клёцкин Алексей Викторович": 10,
-      "Козицкий Алексей Анатольевич": 12,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 25,
-      "Мелешкин Роман Николаевич": 27,
-      "Новиков Владимир Михайлович": 41,
-      "Щербатюк Владимир Иванович": 1
+      "gas:candidate-vibid:22520001121743": 7,
+      "gas:candidate-vibid:22520001123623": 1,
+      "gas:candidate-vibid:22520001123818": 10,
+      "gas:candidate-vibid:22520001123452": 12,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 25,
+      "gas:candidate-vibid:22520001069083": 27,
+      "gas:candidate-vibid:22520001122411": 41,
+      "gas:candidate-vibid:22520001123875": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14306,15 +14306,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 4,
-      "Каплуненко Виктор Викторович": 5,
-      "Клёцкин Алексей Викторович": 8,
-      "Козицкий Алексей Анатольевич": 10,
-      "Колчина Ольга Михайловна": 10,
-      "Корниенко Алексей Викторович": 27,
-      "Мелешкин Роман Николаевич": 22,
-      "Новиков Владимир Михайлович": 33,
-      "Щербатюк Владимир Иванович": 3
+      "gas:candidate-vibid:22520001121743": 4,
+      "gas:candidate-vibid:22520001123623": 5,
+      "gas:candidate-vibid:22520001123818": 8,
+      "gas:candidate-vibid:22520001123452": 10,
+      "gas:candidate-vibid:22520001123385": 10,
+      "gas:candidate-vibid:22520001070174": 27,
+      "gas:candidate-vibid:22520001069083": 22,
+      "gas:candidate-vibid:22520001122411": 33,
+      "gas:candidate-vibid:22520001123875": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14365,15 +14365,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 42,
-      "Каплуненко Виктор Викторович": 13,
-      "Клёцкин Алексей Викторович": 42,
-      "Козицкий Алексей Анатольевич": 85,
-      "Колчина Ольга Михайловна": 54,
-      "Корниенко Алексей Викторович": 137,
-      "Мелешкин Роман Николаевич": 88,
-      "Новиков Владимир Михайлович": 170,
-      "Щербатюк Владимир Иванович": 15
+      "gas:candidate-vibid:22520001121743": 42,
+      "gas:candidate-vibid:22520001123623": 13,
+      "gas:candidate-vibid:22520001123818": 42,
+      "gas:candidate-vibid:22520001123452": 85,
+      "gas:candidate-vibid:22520001123385": 54,
+      "gas:candidate-vibid:22520001070174": 137,
+      "gas:candidate-vibid:22520001069083": 88,
+      "gas:candidate-vibid:22520001122411": 170,
+      "gas:candidate-vibid:22520001123875": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14424,15 +14424,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 15,
-      "Каплуненко Виктор Викторович": 15,
-      "Клёцкин Алексей Викторович": 18,
-      "Козицкий Алексей Анатольевич": 20,
-      "Колчина Ольга Михайловна": 21,
-      "Корниенко Алексей Викторович": 21,
-      "Мелешкин Роман Николаевич": 21,
-      "Новиков Владимир Михайлович": 330,
-      "Щербатюк Владимир Иванович": 17
+      "gas:candidate-vibid:22520001121743": 15,
+      "gas:candidate-vibid:22520001123623": 15,
+      "gas:candidate-vibid:22520001123818": 18,
+      "gas:candidate-vibid:22520001123452": 20,
+      "gas:candidate-vibid:22520001123385": 21,
+      "gas:candidate-vibid:22520001070174": 21,
+      "gas:candidate-vibid:22520001069083": 21,
+      "gas:candidate-vibid:22520001122411": 330,
+      "gas:candidate-vibid:22520001123875": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14483,15 +14483,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 30,
-      "Каплуненко Виктор Викторович": 14,
-      "Клёцкин Алексей Викторович": 37,
-      "Козицкий Алексей Анатольевич": 58,
-      "Колчина Ольга Михайловна": 34,
-      "Корниенко Алексей Викторович": 72,
-      "Мелешкин Роман Николаевич": 57,
-      "Новиков Владимир Михайлович": 163,
-      "Щербатюк Владимир Иванович": 9
+      "gas:candidate-vibid:22520001121743": 30,
+      "gas:candidate-vibid:22520001123623": 14,
+      "gas:candidate-vibid:22520001123818": 37,
+      "gas:candidate-vibid:22520001123452": 58,
+      "gas:candidate-vibid:22520001123385": 34,
+      "gas:candidate-vibid:22520001070174": 72,
+      "gas:candidate-vibid:22520001069083": 57,
+      "gas:candidate-vibid:22520001122411": 163,
+      "gas:candidate-vibid:22520001123875": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14542,15 +14542,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 21,
-      "Каплуненко Виктор Викторович": 3,
-      "Клёцкин Алексей Викторович": 19,
-      "Козицкий Алексей Анатольевич": 55,
-      "Колчина Ольга Михайловна": 26,
-      "Корниенко Алексей Викторович": 72,
-      "Мелешкин Роман Николаевич": 61,
-      "Новиков Владимир Михайлович": 84,
-      "Щербатюк Владимир Иванович": 5
+      "gas:candidate-vibid:22520001121743": 21,
+      "gas:candidate-vibid:22520001123623": 3,
+      "gas:candidate-vibid:22520001123818": 19,
+      "gas:candidate-vibid:22520001123452": 55,
+      "gas:candidate-vibid:22520001123385": 26,
+      "gas:candidate-vibid:22520001070174": 72,
+      "gas:candidate-vibid:22520001069083": 61,
+      "gas:candidate-vibid:22520001122411": 84,
+      "gas:candidate-vibid:22520001123875": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14601,15 +14601,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 24,
-      "Каплуненко Виктор Викторович": 8,
-      "Клёцкин Алексей Викторович": 18,
-      "Козицкий Алексей Анатольевич": 42,
-      "Колчина Ольга Михайловна": 35,
-      "Корниенко Алексей Викторович": 87,
-      "Мелешкин Роман Николаевич": 40,
-      "Новиков Владимир Михайлович": 78,
-      "Щербатюк Владимир Иванович": 13
+      "gas:candidate-vibid:22520001121743": 24,
+      "gas:candidate-vibid:22520001123623": 8,
+      "gas:candidate-vibid:22520001123818": 18,
+      "gas:candidate-vibid:22520001123452": 42,
+      "gas:candidate-vibid:22520001123385": 35,
+      "gas:candidate-vibid:22520001070174": 87,
+      "gas:candidate-vibid:22520001069083": 40,
+      "gas:candidate-vibid:22520001122411": 78,
+      "gas:candidate-vibid:22520001123875": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14660,15 +14660,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 41,
-      "Каплуненко Виктор Викторович": 24,
-      "Клёцкин Алексей Викторович": 52,
-      "Козицкий Алексей Анатольевич": 93,
-      "Колчина Ольга Михайловна": 54,
-      "Корниенко Алексей Викторович": 145,
-      "Мелешкин Роман Николаевич": 87,
-      "Новиков Владимир Михайлович": 173,
-      "Щербатюк Владимир Иванович": 22
+      "gas:candidate-vibid:22520001121743": 41,
+      "gas:candidate-vibid:22520001123623": 24,
+      "gas:candidate-vibid:22520001123818": 52,
+      "gas:candidate-vibid:22520001123452": 93,
+      "gas:candidate-vibid:22520001123385": 54,
+      "gas:candidate-vibid:22520001070174": 145,
+      "gas:candidate-vibid:22520001069083": 87,
+      "gas:candidate-vibid:22520001122411": 173,
+      "gas:candidate-vibid:22520001123875": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",
@@ -14719,15 +14719,15 @@ export const duma_2016_uik_463_region_25_part_003 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Бутенко Лариса Анатольевна": 40,
-      "Каплуненко Виктор Викторович": 23,
-      "Клёцкин Алексей Викторович": 33,
-      "Козицкий Алексей Анатольевич": 89,
-      "Колчина Ольга Михайловна": 63,
-      "Корниенко Алексей Викторович": 128,
-      "Мелешкин Роман Николаевич": 82,
-      "Новиков Владимир Михайлович": 199,
-      "Щербатюк Владимир Иванович": 20
+      "gas:candidate-vibid:22520001121743": 40,
+      "gas:candidate-vibid:22520001123623": 23,
+      "gas:candidate-vibid:22520001123818": 33,
+      "gas:candidate-vibid:22520001123452": 89,
+      "gas:candidate-vibid:22520001123385": 63,
+      "gas:candidate-vibid:22520001070174": 128,
+      "gas:candidate-vibid:22520001069083": 82,
+      "gas:candidate-vibid:22520001122411": 199,
+      "gas:candidate-vibid:22520001123875": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/primorsk?action=show&root=1000078&tvd=2252000999741&vrn=100100067795849&region=25&global=&sub_region=25&prver=0&pronetvd=null&vibid=2252000999741&type=464",

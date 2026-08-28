@@ -42,14 +42,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 216,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 267,
-      "Цыренов Баир Дашиевич": 48,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190275": 216,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 267,
+      "gas:candidate-vibid:203200066890": 48,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -99,14 +99,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 125,
-      "Будаев Александр Нимбуевич": 0,
-      "Кардаш Александр Иванович": 12,
-      "Кондаков Николай Яковлевич": 55,
-      "Кузнецов Василий Федотович": 131,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190275": 125,
+      "gas:candidate-vibid:203200066887": 0,
+      "gas:candidate-vibid:1001000135994": 12,
+      "gas:candidate-vibid:203200067179": 55,
+      "gas:candidate-vibid:1001000225872": 131,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -156,14 +156,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 26,
-      "Будаев Александр Нимбуевич": 8,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 106,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 26,
+      "gas:candidate-vibid:203200066887": 8,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 106,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -213,14 +213,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 41,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 96,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190275": 41,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 96,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -270,14 +270,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 260,
-      "Будаев Александр Нимбуевич": 30,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 96,
-      "Кузнецов Василий Федотович": 527,
-      "Цыренов Баир Дашиевич": 16,
-      "Якунин Андрей Иванович": 12,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190275": 260,
+      "gas:candidate-vibid:203200066887": 30,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 96,
+      "gas:candidate-vibid:1001000225872": 527,
+      "gas:candidate-vibid:203200066890": 16,
+      "gas:candidate-vibid:203200067234": 12,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -327,14 +327,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 127,
-      "Будаев Александр Нимбуевич": 22,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 46,
-      "Кузнецов Василий Федотович": 284,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000190275": 127,
+      "gas:candidate-vibid:203200066887": 22,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 46,
+      "gas:candidate-vibid:1001000225872": 284,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -384,14 +384,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 142,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 19,
-      "Кузнецов Василий Федотович": 95,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190275": 142,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 19,
+      "gas:candidate-vibid:1001000225872": 95,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -441,14 +441,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 171,
-      "Будаев Александр Нимбуевич": 23,
-      "Кардаш Александр Иванович": 12,
-      "Кондаков Николай Яковлевич": 22,
-      "Кузнецов Василий Федотович": 173,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000190275": 171,
+      "gas:candidate-vibid:203200066887": 23,
+      "gas:candidate-vibid:1001000135994": 12,
+      "gas:candidate-vibid:203200067179": 22,
+      "gas:candidate-vibid:1001000225872": 173,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -498,14 +498,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 12,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 74,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 12,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 74,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -555,14 +555,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 46,
-      "Будаев Александр Нимбуевич": 4,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 71,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 46,
+      "gas:candidate-vibid:203200066887": 4,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 71,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -612,14 +612,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 105,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 14,
-      "Кузнецов Василий Федотович": 52,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190275": 105,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 14,
+      "gas:candidate-vibid:1001000225872": 52,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -669,14 +669,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 51,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 12,
-      "Кузнецов Василий Федотович": 42,
-      "Цыренов Баир Дашиевич": 7,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 51,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 12,
+      "gas:candidate-vibid:1001000225872": 42,
+      "gas:candidate-vibid:203200066890": 7,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -726,14 +726,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 73,
-      "Будаев Александр Нимбуевич": 25,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 33,
-      "Кузнецов Василий Федотович": 249,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190275": 73,
+      "gas:candidate-vibid:203200066887": 25,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 33,
+      "gas:candidate-vibid:1001000225872": 249,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -783,14 +783,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 145,
-      "Будаев Александр Нимбуевич": 24,
-      "Кардаш Александр Иванович": 24,
-      "Кондаков Николай Яковлевич": 54,
-      "Кузнецов Василий Федотович": 241,
-      "Цыренов Баир Дашиевич": 8,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190275": 145,
+      "gas:candidate-vibid:203200066887": 24,
+      "gas:candidate-vibid:1001000135994": 24,
+      "gas:candidate-vibid:203200067179": 54,
+      "gas:candidate-vibid:1001000225872": 241,
+      "gas:candidate-vibid:203200066890": 8,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -840,14 +840,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 51,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 107,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 51,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 107,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -897,14 +897,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 24,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 49,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 24,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 49,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -954,14 +954,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 33,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 75,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 33,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 75,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066966&region=0&sub_region=0&type=429",
@@ -1011,14 +1011,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 415,
-      "Будаев Александр Нимбуевич": 175,
-      "Кардаш Александр Иванович": 49,
-      "Кондаков Николай Яковлевич": 146,
-      "Кузнецов Василий Федотович": 466,
-      "Цыренов Баир Дашиевич": 33,
-      "Якунин Андрей Иванович": 25,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000190275": 415,
+      "gas:candidate-vibid:203200066887": 175,
+      "gas:candidate-vibid:1001000135994": 49,
+      "gas:candidate-vibid:203200067179": 146,
+      "gas:candidate-vibid:1001000225872": 466,
+      "gas:candidate-vibid:203200066890": 33,
+      "gas:candidate-vibid:203200067234": 25,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1068,14 +1068,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 252,
-      "Будаев Александр Нимбуевич": 114,
-      "Кардаш Александр Иванович": 42,
-      "Кондаков Николай Яковлевич": 47,
-      "Кузнецов Василий Федотович": 174,
-      "Цыренов Баир Дашиевич": 42,
-      "Якунин Андрей Иванович": 11,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000190275": 252,
+      "gas:candidate-vibid:203200066887": 114,
+      "gas:candidate-vibid:1001000135994": 42,
+      "gas:candidate-vibid:203200067179": 47,
+      "gas:candidate-vibid:1001000225872": 174,
+      "gas:candidate-vibid:203200066890": 42,
+      "gas:candidate-vibid:203200067234": 11,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1125,14 +1125,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 329,
-      "Будаев Александр Нимбуевич": 133,
-      "Кардаш Александр Иванович": 40,
-      "Кондаков Николай Яковлевич": 95,
-      "Кузнецов Василий Федотович": 257,
-      "Цыренов Баир Дашиевич": 34,
-      "Якунин Андрей Иванович": 26,
-      "Против всех": 127
+      "gas:candidate-vibid:1001000190275": 329,
+      "gas:candidate-vibid:203200066887": 133,
+      "gas:candidate-vibid:1001000135994": 40,
+      "gas:candidate-vibid:203200067179": 95,
+      "gas:candidate-vibid:1001000225872": 257,
+      "gas:candidate-vibid:203200066890": 34,
+      "gas:candidate-vibid:203200067234": 26,
+      "special:against-all": 127
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1182,14 +1182,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 296,
-      "Будаев Александр Нимбуевич": 77,
-      "Кардаш Александр Иванович": 25,
-      "Кондаков Николай Яковлевич": 89,
-      "Кузнецов Василий Федотович": 183,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000190275": 296,
+      "gas:candidate-vibid:203200066887": 77,
+      "gas:candidate-vibid:1001000135994": 25,
+      "gas:candidate-vibid:203200067179": 89,
+      "gas:candidate-vibid:1001000225872": 183,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1239,14 +1239,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 329,
-      "Будаев Александр Нимбуевич": 54,
-      "Кардаш Александр Иванович": 34,
-      "Кондаков Николай Яковлевич": 89,
-      "Кузнецов Василий Федотович": 299,
-      "Цыренов Баир Дашиевич": 20,
-      "Якунин Андрей Иванович": 15,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000190275": 329,
+      "gas:candidate-vibid:203200066887": 54,
+      "gas:candidate-vibid:1001000135994": 34,
+      "gas:candidate-vibid:203200067179": 89,
+      "gas:candidate-vibid:1001000225872": 299,
+      "gas:candidate-vibid:203200066890": 20,
+      "gas:candidate-vibid:203200067234": 15,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1296,14 +1296,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 197,
-      "Будаев Александр Нимбуевич": 116,
-      "Кардаш Александр Иванович": 37,
-      "Кондаков Николай Яковлевич": 43,
-      "Кузнецов Василий Федотович": 183,
-      "Цыренов Баир Дашиевич": 29,
-      "Якунин Андрей Иванович": 22,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000190275": 197,
+      "gas:candidate-vibid:203200066887": 116,
+      "gas:candidate-vibid:1001000135994": 37,
+      "gas:candidate-vibid:203200067179": 43,
+      "gas:candidate-vibid:1001000225872": 183,
+      "gas:candidate-vibid:203200066890": 29,
+      "gas:candidate-vibid:203200067234": 22,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1353,14 +1353,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 457,
-      "Будаев Александр Нимбуевич": 220,
-      "Кардаш Александр Иванович": 72,
-      "Кондаков Николай Яковлевич": 109,
-      "Кузнецов Василий Федотович": 322,
-      "Цыренов Баир Дашиевич": 53,
-      "Якунин Андрей Иванович": 24,
-      "Против всех": 183
+      "gas:candidate-vibid:1001000190275": 457,
+      "gas:candidate-vibid:203200066887": 220,
+      "gas:candidate-vibid:1001000135994": 72,
+      "gas:candidate-vibid:203200067179": 109,
+      "gas:candidate-vibid:1001000225872": 322,
+      "gas:candidate-vibid:203200066890": 53,
+      "gas:candidate-vibid:203200067234": 24,
+      "special:against-all": 183
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1410,14 +1410,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 146,
-      "Будаев Александр Нимбуевич": 56,
-      "Кардаш Александр Иванович": 20,
-      "Кондаков Николай Яковлевич": 27,
-      "Кузнецов Василий Федотович": 121,
-      "Цыренов Баир Дашиевич": 17,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 110
+      "gas:candidate-vibid:1001000190275": 146,
+      "gas:candidate-vibid:203200066887": 56,
+      "gas:candidate-vibid:1001000135994": 20,
+      "gas:candidate-vibid:203200067179": 27,
+      "gas:candidate-vibid:1001000225872": 121,
+      "gas:candidate-vibid:203200066890": 17,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 110
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1467,14 +1467,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 316,
-      "Будаев Александр Нимбуевич": 46,
-      "Кардаш Александр Иванович": 16,
-      "Кондаков Николай Яковлевич": 86,
-      "Кузнецов Василий Федотович": 195,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 14,
-      "Против всех": 115
+      "gas:candidate-vibid:1001000190275": 316,
+      "gas:candidate-vibid:203200066887": 46,
+      "gas:candidate-vibid:1001000135994": 16,
+      "gas:candidate-vibid:203200067179": 86,
+      "gas:candidate-vibid:1001000225872": 195,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 14,
+      "special:against-all": 115
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1524,14 +1524,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 424,
-      "Будаев Александр Нимбуевич": 87,
-      "Кардаш Александр Иванович": 52,
-      "Кондаков Николай Яковлевич": 29,
-      "Кузнецов Василий Федотович": 565,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 16,
-      "Против всех": 275
+      "gas:candidate-vibid:1001000190275": 424,
+      "gas:candidate-vibid:203200066887": 87,
+      "gas:candidate-vibid:1001000135994": 52,
+      "gas:candidate-vibid:203200067179": 29,
+      "gas:candidate-vibid:1001000225872": 565,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 16,
+      "special:against-all": 275
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1581,14 +1581,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 13,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 6,
-      "Кузнецов Василий Федотович": 33,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 13,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 6,
+      "gas:candidate-vibid:1001000225872": 33,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1638,14 +1638,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 199,
-      "Будаев Александр Нимбуевич": 149,
-      "Кардаш Александр Иванович": 16,
-      "Кондаков Николай Яковлевич": 112,
-      "Кузнецов Василий Федотович": 279,
-      "Цыренов Баир Дашиевич": 64,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190275": 199,
+      "gas:candidate-vibid:203200066887": 149,
+      "gas:candidate-vibid:1001000135994": 16,
+      "gas:candidate-vibid:203200067179": 112,
+      "gas:candidate-vibid:1001000225872": 279,
+      "gas:candidate-vibid:203200066890": 64,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1695,14 +1695,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 60,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 34,
-      "Кузнецов Василий Федотович": 19,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 60,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 34,
+      "gas:candidate-vibid:1001000225872": 19,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1752,14 +1752,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 10,
-      "Будаев Александр Нимбуевич": 8,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 29,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190275": 10,
+      "gas:candidate-vibid:203200066887": 8,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 29,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1809,14 +1809,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 42,
-      "Будаев Александр Нимбуевич": 28,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 21,
-      "Кузнецов Василий Федотович": 149,
-      "Цыренов Баир Дашиевич": 9,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190275": 42,
+      "gas:candidate-vibid:203200066887": 28,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 21,
+      "gas:candidate-vibid:1001000225872": 149,
+      "gas:candidate-vibid:203200066890": 9,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1866,14 +1866,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 41,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 27,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190275": 41,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 27,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1923,14 +1923,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 314,
-      "Будаев Александр Нимбуевич": 111,
-      "Кардаш Александр Иванович": 13,
-      "Кондаков Николай Яковлевич": 44,
-      "Кузнецов Василий Федотович": 342,
-      "Цыренов Баир Дашиевич": 48,
-      "Якунин Андрей Иванович": 10,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000190275": 314,
+      "gas:candidate-vibid:203200066887": 111,
+      "gas:candidate-vibid:1001000135994": 13,
+      "gas:candidate-vibid:203200067179": 44,
+      "gas:candidate-vibid:1001000225872": 342,
+      "gas:candidate-vibid:203200066890": 48,
+      "gas:candidate-vibid:203200067234": 10,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -1980,14 +1980,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 13,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 42,
-      "Цыренов Баир Дашиевич": 9,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190275": 13,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 42,
+      "gas:candidate-vibid:203200066890": 9,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2037,14 +2037,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 11,
-      "Будаев Александр Нимбуевич": 23,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 40,
-      "Цыренов Баир Дашиевич": 23,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 11,
+      "gas:candidate-vibid:203200066887": 23,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 40,
+      "gas:candidate-vibid:203200066890": 23,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2094,14 +2094,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 239,
-      "Будаев Александр Нимбуевич": 90,
-      "Кардаш Александр Иванович": 13,
-      "Кондаков Николай Яковлевич": 252,
-      "Кузнецов Василий Федотович": 200,
-      "Цыренов Баир Дашиевич": 28,
-      "Якунин Андрей Иванович": 6,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000190275": 239,
+      "gas:candidate-vibid:203200066887": 90,
+      "gas:candidate-vibid:1001000135994": 13,
+      "gas:candidate-vibid:203200067179": 252,
+      "gas:candidate-vibid:1001000225872": 200,
+      "gas:candidate-vibid:203200066890": 28,
+      "gas:candidate-vibid:203200067234": 6,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2151,14 +2151,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 22,
-      "Будаев Александр Нимбуевич": 12,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 29,
-      "Кузнецов Василий Федотович": 17,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190275": 22,
+      "gas:candidate-vibid:203200066887": 12,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 29,
+      "gas:candidate-vibid:1001000225872": 17,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2208,14 +2208,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 84,
-      "Будаев Александр Нимбуевич": 59,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 36,
-      "Кузнецов Василий Федотович": 73,
-      "Цыренов Баир Дашиевич": 16,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 84,
+      "gas:candidate-vibid:203200066887": 59,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 36,
+      "gas:candidate-vibid:1001000225872": 73,
+      "gas:candidate-vibid:203200066890": 16,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2265,14 +2265,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 29,
-      "Будаев Александр Нимбуевич": 23,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 14,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 29,
+      "gas:candidate-vibid:203200066887": 23,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 14,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2322,14 +2322,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 18,
-      "Будаев Александр Нимбуевич": 21,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 10,
-      "Кузнецов Василий Федотович": 18,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 18,
+      "gas:candidate-vibid:203200066887": 21,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 10,
+      "gas:candidate-vibid:1001000225872": 18,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2379,14 +2379,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 124,
-      "Будаев Александр Нимбуевич": 107,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 194,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190275": 124,
+      "gas:candidate-vibid:203200066887": 107,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 194,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2436,14 +2436,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 20,
-      "Будаев Александр Нимбуевич": 18,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 16,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190275": 20,
+      "gas:candidate-vibid:203200066887": 18,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 16,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2493,14 +2493,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 343,
-      "Будаев Александр Нимбуевич": 94,
-      "Кардаш Александр Иванович": 75,
-      "Кондаков Николай Яковлевич": 99,
-      "Кузнецов Василий Федотович": 241,
-      "Цыренов Баир Дашиевич": 17,
-      "Якунин Андрей Иванович": 25,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000190275": 343,
+      "gas:candidate-vibid:203200066887": 94,
+      "gas:candidate-vibid:1001000135994": 75,
+      "gas:candidate-vibid:203200067179": 99,
+      "gas:candidate-vibid:1001000225872": 241,
+      "gas:candidate-vibid:203200066890": 17,
+      "gas:candidate-vibid:203200067234": 25,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2550,14 +2550,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 21,
-      "Будаев Александр Нимбуевич": 47,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 8,
-      "Кузнецов Василий Федотович": 45,
-      "Цыренов Баир Дашиевич": 19,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190275": 21,
+      "gas:candidate-vibid:203200066887": 47,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 8,
+      "gas:candidate-vibid:1001000225872": 45,
+      "gas:candidate-vibid:203200066890": 19,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2607,14 +2607,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 4,
-      "Будаев Александр Нимбуевич": 28,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 35,
-      "Кузнецов Василий Федотович": 12,
-      "Цыренов Баир Дашиевич": 16,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 4,
+      "gas:candidate-vibid:203200066887": 28,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 35,
+      "gas:candidate-vibid:1001000225872": 12,
+      "gas:candidate-vibid:203200066890": 16,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2664,14 +2664,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 144,
-      "Будаев Александр Нимбуевич": 190,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 163,
-      "Цыренов Баир Дашиевич": 55,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190275": 144,
+      "gas:candidate-vibid:203200066887": 190,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 163,
+      "gas:candidate-vibid:203200066890": 55,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2721,14 +2721,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 13,
-      "Будаев Александр Нимбуевич": 67,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 18,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190275": 13,
+      "gas:candidate-vibid:203200066887": 67,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 18,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2778,14 +2778,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 9,
-      "Будаев Александр Нимбуевич": 29,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 22,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 9,
+      "gas:candidate-vibid:203200066887": 29,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 22,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2835,14 +2835,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 98,
-      "Будаев Александр Нимбуевич": 33,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 25,
-      "Кузнецов Василий Федотович": 59,
-      "Цыренов Баир Дашиевич": 50,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190275": 98,
+      "gas:candidate-vibid:203200066887": 33,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 25,
+      "gas:candidate-vibid:1001000225872": 59,
+      "gas:candidate-vibid:203200066890": 50,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2892,14 +2892,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 76,
-      "Будаев Александр Нимбуевич": 185,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 43,
-      "Кузнецов Василий Федотович": 64,
-      "Цыренов Баир Дашиевич": 53,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190275": 76,
+      "gas:candidate-vibid:203200066887": 185,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 43,
+      "gas:candidate-vibid:1001000225872": 64,
+      "gas:candidate-vibid:203200066890": 53,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -2949,14 +2949,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 64,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 18,
-      "Кузнецов Василий Федотович": 57,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190275": 64,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 18,
+      "gas:candidate-vibid:1001000225872": 57,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -3006,14 +3006,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 60,
-      "Будаев Александр Нимбуевич": 137,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 113,
-      "Цыренов Баир Дашиевич": 16,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190275": 60,
+      "gas:candidate-vibid:203200066887": 137,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 113,
+      "gas:candidate-vibid:203200066890": 16,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -3063,14 +3063,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 18,
-      "Будаев Александр Нимбуевич": 76,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 36,
-      "Цыренов Баир Дашиевич": 26,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 18,
+      "gas:candidate-vibid:203200066887": 76,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 36,
+      "gas:candidate-vibid:203200066890": 26,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066967&region=0&sub_region=0&type=429",
@@ -3120,14 +3120,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 252,
-      "Будаев Александр Нимбуевич": 41,
-      "Кардаш Александр Иванович": 40,
-      "Кондаков Николай Яковлевич": 65,
-      "Кузнецов Василий Федотович": 319,
-      "Цыренов Баир Дашиевич": 28,
-      "Якунин Андрей Иванович": 10,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000190275": 252,
+      "gas:candidate-vibid:203200066887": 41,
+      "gas:candidate-vibid:1001000135994": 40,
+      "gas:candidate-vibid:203200067179": 65,
+      "gas:candidate-vibid:1001000225872": 319,
+      "gas:candidate-vibid:203200066890": 28,
+      "gas:candidate-vibid:203200067234": 10,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3177,14 +3177,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 279,
-      "Будаев Александр Нимбуевич": 47,
-      "Кардаш Александр Иванович": 40,
-      "Кондаков Николай Яковлевич": 60,
-      "Кузнецов Василий Федотович": 342,
-      "Цыренов Баир Дашиевич": 42,
-      "Якунин Андрей Иванович": 14,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000190275": 279,
+      "gas:candidate-vibid:203200066887": 47,
+      "gas:candidate-vibid:1001000135994": 40,
+      "gas:candidate-vibid:203200067179": 60,
+      "gas:candidate-vibid:1001000225872": 342,
+      "gas:candidate-vibid:203200066890": 42,
+      "gas:candidate-vibid:203200067234": 14,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3234,14 +3234,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 206,
-      "Будаев Александр Нимбуевич": 39,
-      "Кардаш Александр Иванович": 53,
-      "Кондаков Николай Яковлевич": 48,
-      "Кузнецов Василий Федотович": 334,
-      "Цыренов Баир Дашиевич": 30,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000190275": 206,
+      "gas:candidate-vibid:203200066887": 39,
+      "gas:candidate-vibid:1001000135994": 53,
+      "gas:candidate-vibid:203200067179": 48,
+      "gas:candidate-vibid:1001000225872": 334,
+      "gas:candidate-vibid:203200066890": 30,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3291,14 +3291,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 247,
-      "Будаев Александр Нимбуевич": 40,
-      "Кардаш Александр Иванович": 28,
-      "Кондаков Николай Яковлевич": 45,
-      "Кузнецов Василий Федотович": 364,
-      "Цыренов Баир Дашиевич": 22,
-      "Якунин Андрей Иванович": 15,
-      "Против всех": 161
+      "gas:candidate-vibid:1001000190275": 247,
+      "gas:candidate-vibid:203200066887": 40,
+      "gas:candidate-vibid:1001000135994": 28,
+      "gas:candidate-vibid:203200067179": 45,
+      "gas:candidate-vibid:1001000225872": 364,
+      "gas:candidate-vibid:203200066890": 22,
+      "gas:candidate-vibid:203200067234": 15,
+      "special:against-all": 161
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3348,14 +3348,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 266,
-      "Будаев Александр Нимбуевич": 61,
-      "Кардаш Александр Иванович": 37,
-      "Кондаков Николай Яковлевич": 74,
-      "Кузнецов Василий Федотович": 315,
-      "Цыренов Баир Дашиевич": 40,
-      "Якунин Андрей Иванович": 15,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000190275": 266,
+      "gas:candidate-vibid:203200066887": 61,
+      "gas:candidate-vibid:1001000135994": 37,
+      "gas:candidate-vibid:203200067179": 74,
+      "gas:candidate-vibid:1001000225872": 315,
+      "gas:candidate-vibid:203200066890": 40,
+      "gas:candidate-vibid:203200067234": 15,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3405,14 +3405,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 218,
-      "Будаев Александр Нимбуевич": 46,
-      "Кардаш Александр Иванович": 45,
-      "Кондаков Николай Яковлевич": 32,
-      "Кузнецов Василий Федотович": 262,
-      "Цыренов Баир Дашиевич": 10,
-      "Якунин Андрей Иванович": 9,
-      "Против всех": 171
+      "gas:candidate-vibid:1001000190275": 218,
+      "gas:candidate-vibid:203200066887": 46,
+      "gas:candidate-vibid:1001000135994": 45,
+      "gas:candidate-vibid:203200067179": 32,
+      "gas:candidate-vibid:1001000225872": 262,
+      "gas:candidate-vibid:203200066890": 10,
+      "gas:candidate-vibid:203200067234": 9,
+      "special:against-all": 171
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3462,14 +3462,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 196,
-      "Будаев Александр Нимбуевич": 36,
-      "Кардаш Александр Иванович": 31,
-      "Кондаков Николай Яковлевич": 39,
-      "Кузнецов Василий Федотович": 271,
-      "Цыренов Баир Дашиевич": 9,
-      "Якунин Андрей Иванович": 11,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000190275": 196,
+      "gas:candidate-vibid:203200066887": 36,
+      "gas:candidate-vibid:1001000135994": 31,
+      "gas:candidate-vibid:203200067179": 39,
+      "gas:candidate-vibid:1001000225872": 271,
+      "gas:candidate-vibid:203200066890": 9,
+      "gas:candidate-vibid:203200067234": 11,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3519,14 +3519,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 192,
-      "Будаев Александр Нимбуевич": 34,
-      "Кардаш Александр Иванович": 41,
-      "Кондаков Николай Яковлевич": 26,
-      "Кузнецов Василий Федотович": 348,
-      "Цыренов Баир Дашиевич": 19,
-      "Якунин Андрей Иванович": 13,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000190275": 192,
+      "gas:candidate-vibid:203200066887": 34,
+      "gas:candidate-vibid:1001000135994": 41,
+      "gas:candidate-vibid:203200067179": 26,
+      "gas:candidate-vibid:1001000225872": 348,
+      "gas:candidate-vibid:203200066890": 19,
+      "gas:candidate-vibid:203200067234": 13,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3576,14 +3576,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 163,
-      "Будаев Александр Нимбуевич": 72,
-      "Кардаш Александр Иванович": 21,
-      "Кондаков Николай Яковлевич": 37,
-      "Кузнецов Василий Федотович": 235,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 14,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000190275": 163,
+      "gas:candidate-vibid:203200066887": 72,
+      "gas:candidate-vibid:1001000135994": 21,
+      "gas:candidate-vibid:203200067179": 37,
+      "gas:candidate-vibid:1001000225872": 235,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 14,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3633,14 +3633,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 307,
-      "Будаев Александр Нимбуевич": 37,
-      "Кардаш Александр Иванович": 40,
-      "Кондаков Николай Яковлевич": 54,
-      "Кузнецов Василий Федотович": 217,
-      "Цыренов Баир Дашиевич": 21,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000190275": 307,
+      "gas:candidate-vibid:203200066887": 37,
+      "gas:candidate-vibid:1001000135994": 40,
+      "gas:candidate-vibid:203200067179": 54,
+      "gas:candidate-vibid:1001000225872": 217,
+      "gas:candidate-vibid:203200066890": 21,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3690,14 +3690,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 167,
-      "Будаев Александр Нимбуевич": 50,
-      "Кардаш Александр Иванович": 38,
-      "Кондаков Николай Яковлевич": 48,
-      "Кузнецов Василий Федотович": 263,
-      "Цыренов Баир Дашиевич": 31,
-      "Якунин Андрей Иванович": 12,
-      "Против всех": 141
+      "gas:candidate-vibid:1001000190275": 167,
+      "gas:candidate-vibid:203200066887": 50,
+      "gas:candidate-vibid:1001000135994": 38,
+      "gas:candidate-vibid:203200067179": 48,
+      "gas:candidate-vibid:1001000225872": 263,
+      "gas:candidate-vibid:203200066890": 31,
+      "gas:candidate-vibid:203200067234": 12,
+      "special:against-all": 141
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3747,14 +3747,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 158,
-      "Будаев Александр Нимбуевич": 25,
-      "Кардаш Александр Иванович": 22,
-      "Кондаков Николай Яковлевич": 36,
-      "Кузнецов Василий Федотович": 223,
-      "Цыренов Баир Дашиевич": 10,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 95
+      "gas:candidate-vibid:1001000190275": 158,
+      "gas:candidate-vibid:203200066887": 25,
+      "gas:candidate-vibid:1001000135994": 22,
+      "gas:candidate-vibid:203200067179": 36,
+      "gas:candidate-vibid:1001000225872": 223,
+      "gas:candidate-vibid:203200066890": 10,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 95
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066968&region=0&sub_region=0&type=429",
@@ -3804,14 +3804,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 102,
-      "Будаев Александр Нимбуевич": 45,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 26,
-      "Кузнецов Василий Федотович": 194,
-      "Цыренов Баир Дашиевич": 68,
-      "Якунин Андрей Иванович": 6,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190275": 102,
+      "gas:candidate-vibid:203200066887": 45,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 26,
+      "gas:candidate-vibid:1001000225872": 194,
+      "gas:candidate-vibid:203200066890": 68,
+      "gas:candidate-vibid:203200067234": 6,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -3861,14 +3861,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 46,
-      "Будаев Александр Нимбуевич": 11,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 13,
-      "Кузнецов Василий Федотович": 106,
-      "Цыренов Баир Дашиевич": 20,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000190275": 46,
+      "gas:candidate-vibid:203200066887": 11,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 13,
+      "gas:candidate-vibid:1001000225872": 106,
+      "gas:candidate-vibid:203200066890": 20,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -3918,14 +3918,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 67,
-      "Будаев Александр Нимбуевич": 16,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 13,
-      "Кузнецов Василий Федотович": 184,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000190275": 67,
+      "gas:candidate-vibid:203200066887": 16,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 13,
+      "gas:candidate-vibid:1001000225872": 184,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -3975,14 +3975,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 121,
-      "Будаев Александр Нимбуевич": 49,
-      "Кардаш Александр Иванович": 23,
-      "Кондаков Николай Яковлевич": 15,
-      "Кузнецов Василий Федотович": 167,
-      "Цыренов Баир Дашиевич": 47,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000190275": 121,
+      "gas:candidate-vibid:203200066887": 49,
+      "gas:candidate-vibid:1001000135994": 23,
+      "gas:candidate-vibid:203200067179": 15,
+      "gas:candidate-vibid:1001000225872": 167,
+      "gas:candidate-vibid:203200066890": 47,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4032,14 +4032,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 87,
-      "Будаев Александр Нимбуевич": 21,
-      "Кардаш Александр Иванович": 13,
-      "Кондаков Николай Яковлевич": 21,
-      "Кузнецов Василий Федотович": 165,
-      "Цыренов Баир Дашиевич": 36,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190275": 87,
+      "gas:candidate-vibid:203200066887": 21,
+      "gas:candidate-vibid:1001000135994": 13,
+      "gas:candidate-vibid:203200067179": 21,
+      "gas:candidate-vibid:1001000225872": 165,
+      "gas:candidate-vibid:203200066890": 36,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4089,14 +4089,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 80,
-      "Будаев Александр Нимбуевич": 11,
-      "Кардаш Александр Иванович": 33,
-      "Кондаков Николай Яковлевич": 10,
-      "Кузнецов Василий Федотович": 136,
-      "Цыренов Баир Дашиевич": 31,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190275": 80,
+      "gas:candidate-vibid:203200066887": 11,
+      "gas:candidate-vibid:1001000135994": 33,
+      "gas:candidate-vibid:203200067179": 10,
+      "gas:candidate-vibid:1001000225872": 136,
+      "gas:candidate-vibid:203200066890": 31,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4146,14 +4146,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 3,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 15,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190275": 3,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 15,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4203,14 +4203,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 11,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 79,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 11,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 79,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4260,14 +4260,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 77,
-      "Будаев Александр Нимбуевич": 30,
-      "Кардаш Александр Иванович": 33,
-      "Кондаков Николай Яковлевич": 23,
-      "Кузнецов Василий Федотович": 113,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 16,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190275": 77,
+      "gas:candidate-vibid:203200066887": 30,
+      "gas:candidate-vibid:1001000135994": 33,
+      "gas:candidate-vibid:203200067179": 23,
+      "gas:candidate-vibid:1001000225872": 113,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 16,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4317,14 +4317,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 14,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 65,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000190275": 14,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 65,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4374,14 +4374,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 53,
-      "Будаев Александр Нимбуевич": 8,
-      "Кардаш Александр Иванович": 25,
-      "Кондаков Николай Яковлевич": 19,
-      "Кузнецов Василий Федотович": 189,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190275": 53,
+      "gas:candidate-vibid:203200066887": 8,
+      "gas:candidate-vibid:1001000135994": 25,
+      "gas:candidate-vibid:203200067179": 19,
+      "gas:candidate-vibid:1001000225872": 189,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4431,14 +4431,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 63,
-      "Будаев Александр Нимбуевич": 9,
-      "Кардаш Александр Иванович": 20,
-      "Кондаков Николай Яковлевич": 12,
-      "Кузнецов Василий Федотович": 76,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190275": 63,
+      "gas:candidate-vibid:203200066887": 9,
+      "gas:candidate-vibid:1001000135994": 20,
+      "gas:candidate-vibid:203200067179": 12,
+      "gas:candidate-vibid:1001000225872": 76,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4488,14 +4488,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 85,
-      "Будаев Александр Нимбуевич": 8,
-      "Кардаш Александр Иванович": 16,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 84,
-      "Цыренов Баир Дашиевич": 17,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000190275": 85,
+      "gas:candidate-vibid:203200066887": 8,
+      "gas:candidate-vibid:1001000135994": 16,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 84,
+      "gas:candidate-vibid:203200066890": 17,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4545,14 +4545,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 37,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 113,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 37,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 113,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4602,14 +4602,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 77,
-      "Будаев Александр Нимбуевич": 28,
-      "Кардаш Александр Иванович": 31,
-      "Кондаков Николай Яковлевич": 20,
-      "Кузнецов Василий Федотович": 228,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 9,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190275": 77,
+      "gas:candidate-vibid:203200066887": 28,
+      "gas:candidate-vibid:1001000135994": 31,
+      "gas:candidate-vibid:203200067179": 20,
+      "gas:candidate-vibid:1001000225872": 228,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 9,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4659,14 +4659,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 42,
-      "Будаев Александр Нимбуевич": 18,
-      "Кардаш Александр Иванович": 19,
-      "Кондаков Николай Яковлевич": 10,
-      "Кузнецов Василий Федотович": 132,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 11,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000190275": 42,
+      "gas:candidate-vibid:203200066887": 18,
+      "gas:candidate-vibid:1001000135994": 19,
+      "gas:candidate-vibid:203200067179": 10,
+      "gas:candidate-vibid:1001000225872": 132,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 11,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4716,14 +4716,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 97,
-      "Будаев Александр Нимбуевич": 26,
-      "Кардаш Александр Иванович": 34,
-      "Кондаков Николай Яковлевич": 17,
-      "Кузнецов Василий Федотович": 186,
-      "Цыренов Баир Дашиевич": 25,
-      "Якунин Андрей Иванович": 16,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000190275": 97,
+      "gas:candidate-vibid:203200066887": 26,
+      "gas:candidate-vibid:1001000135994": 34,
+      "gas:candidate-vibid:203200067179": 17,
+      "gas:candidate-vibid:1001000225872": 186,
+      "gas:candidate-vibid:203200066890": 25,
+      "gas:candidate-vibid:203200067234": 16,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4773,14 +4773,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 41,
-      "Будаев Александр Нимбуевич": 25,
-      "Кардаш Александр Иванович": 7,
-      "Кондаков Николай Яковлевич": 34,
-      "Кузнецов Василий Федотович": 179,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190275": 41,
+      "gas:candidate-vibid:203200066887": 25,
+      "gas:candidate-vibid:1001000135994": 7,
+      "gas:candidate-vibid:203200067179": 34,
+      "gas:candidate-vibid:1001000225872": 179,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4830,14 +4830,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 30,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 10,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 93,
-      "Цыренов Баир Дашиевич": 8,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000190275": 30,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 10,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 93,
+      "gas:candidate-vibid:203200066890": 8,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4887,14 +4887,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 20,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 135,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190275": 20,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 135,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -4944,14 +4944,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 23,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 10,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 82,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190275": 23,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 10,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 82,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066969&region=0&sub_region=0&type=429",
@@ -5001,14 +5001,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 26,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 23,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190275": 26,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 23,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5058,14 +5058,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 33,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 29,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 33,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 29,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5115,14 +5115,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 195,
-      "Будаев Александр Нимбуевич": 11,
-      "Кардаш Александр Иванович": 25,
-      "Кондаков Николай Яковлевич": 14,
-      "Кузнецов Василий Федотович": 137,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 10,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000190275": 195,
+      "gas:candidate-vibid:203200066887": 11,
+      "gas:candidate-vibid:1001000135994": 25,
+      "gas:candidate-vibid:203200067179": 14,
+      "gas:candidate-vibid:1001000225872": 137,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 10,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5172,14 +5172,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 225,
-      "Будаев Александр Нимбуевич": 17,
-      "Кардаш Александр Иванович": 10,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 316,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190275": 225,
+      "gas:candidate-vibid:203200066887": 17,
+      "gas:candidate-vibid:1001000135994": 10,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 316,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5229,14 +5229,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 38,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 72,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 38,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 72,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5286,14 +5286,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 101,
-      "Будаев Александр Нимбуевич": 15,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 19,
-      "Кузнецов Василий Федотович": 175,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190275": 101,
+      "gas:candidate-vibid:203200066887": 15,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 19,
+      "gas:candidate-vibid:1001000225872": 175,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5343,14 +5343,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 32,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 6,
-      "Кузнецов Василий Федотович": 49,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190275": 32,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 6,
+      "gas:candidate-vibid:1001000225872": 49,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5400,14 +5400,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 105,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 15,
-      "Кузнецов Василий Федотович": 98,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190275": 105,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 15,
+      "gas:candidate-vibid:1001000225872": 98,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5457,14 +5457,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 30,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 6,
-      "Кузнецов Василий Федотович": 58,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 30,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 6,
+      "gas:candidate-vibid:1001000225872": 58,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5514,14 +5514,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 57,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 186,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 57,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 186,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5571,14 +5571,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 27,
-      "Будаев Александр Нимбуевич": 0,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 5,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 27,
+      "gas:candidate-vibid:203200066887": 0,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 5,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5628,14 +5628,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 28,
-      "Будаев Александр Нимбуевич": 0,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 39,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 28,
+      "gas:candidate-vibid:203200066887": 0,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 39,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5685,14 +5685,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 42,
-      "Будаев Александр Нимбуевич": 16,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 8,
-      "Кузнецов Василий Федотович": 146,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190275": 42,
+      "gas:candidate-vibid:203200066887": 16,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 8,
+      "gas:candidate-vibid:1001000225872": 146,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5742,14 +5742,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 35,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 82,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190275": 35,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 82,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5799,14 +5799,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 144,
-      "Будаев Александр Нимбуевич": 26,
-      "Кардаш Александр Иванович": 10,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 150,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190275": 144,
+      "gas:candidate-vibid:203200066887": 26,
+      "gas:candidate-vibid:1001000135994": 10,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 150,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5856,14 +5856,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 678,
-      "Будаев Александр Нимбуевич": 142,
-      "Кардаш Александр Иванович": 56,
-      "Кондаков Николай Яковлевич": 87,
-      "Кузнецов Василий Федотович": 562,
-      "Цыренов Баир Дашиевич": 32,
-      "Якунин Андрей Иванович": 6,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000190275": 678,
+      "gas:candidate-vibid:203200066887": 142,
+      "gas:candidate-vibid:1001000135994": 56,
+      "gas:candidate-vibid:203200067179": 87,
+      "gas:candidate-vibid:1001000225872": 562,
+      "gas:candidate-vibid:203200066890": 32,
+      "gas:candidate-vibid:203200067234": 6,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5913,14 +5913,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 254,
-      "Будаев Александр Нимбуевич": 41,
-      "Кардаш Александр Иванович": 28,
-      "Кондаков Николай Яковлевич": 24,
-      "Кузнецов Василий Федотович": 234,
-      "Цыренов Баир Дашиевич": 19,
-      "Якунин Андрей Иванович": 6,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000190275": 254,
+      "gas:candidate-vibid:203200066887": 41,
+      "gas:candidate-vibid:1001000135994": 28,
+      "gas:candidate-vibid:203200067179": 24,
+      "gas:candidate-vibid:1001000225872": 234,
+      "gas:candidate-vibid:203200066890": 19,
+      "gas:candidate-vibid:203200067234": 6,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -5970,14 +5970,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 160,
-      "Будаев Александр Нимбуевич": 19,
-      "Кардаш Александр Иванович": 13,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 118,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000190275": 160,
+      "gas:candidate-vibid:203200066887": 19,
+      "gas:candidate-vibid:1001000135994": 13,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 118,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6027,14 +6027,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 203,
-      "Будаев Александр Нимбуевич": 12,
-      "Кардаш Александр Иванович": 21,
-      "Кондаков Николай Яковлевич": 18,
-      "Кузнецов Василий Федотович": 154,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000190275": 203,
+      "gas:candidate-vibid:203200066887": 12,
+      "gas:candidate-vibid:1001000135994": 21,
+      "gas:candidate-vibid:203200067179": 18,
+      "gas:candidate-vibid:1001000225872": 154,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6084,14 +6084,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 26,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 1,
-      "Кузнецов Василий Федотович": 44,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 26,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 1,
+      "gas:candidate-vibid:1001000225872": 44,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6141,14 +6141,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 44,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 37,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 44,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 37,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6198,14 +6198,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 60,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 33,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190275": 60,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 33,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6255,14 +6255,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 280,
-      "Будаев Александр Нимбуевич": 16,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 12,
-      "Кузнецов Василий Федотович": 90,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000190275": 280,
+      "gas:candidate-vibid:203200066887": 16,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 12,
+      "gas:candidate-vibid:1001000225872": 90,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6312,14 +6312,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 283,
-      "Будаев Александр Нимбуевич": 48,
-      "Кардаш Александр Иванович": 32,
-      "Кондаков Николай Яковлевич": 30,
-      "Кузнецов Василий Федотович": 296,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000190275": 283,
+      "gas:candidate-vibid:203200066887": 48,
+      "gas:candidate-vibid:1001000135994": 32,
+      "gas:candidate-vibid:203200067179": 30,
+      "gas:candidate-vibid:1001000225872": 296,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6369,14 +6369,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 103,
-      "Будаев Александр Нимбуевич": 15,
-      "Кардаш Александр Иванович": 16,
-      "Кондаков Николай Яковлевич": 22,
-      "Кузнецов Василий Федотович": 118,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000190275": 103,
+      "gas:candidate-vibid:203200066887": 15,
+      "gas:candidate-vibid:1001000135994": 16,
+      "gas:candidate-vibid:203200067179": 22,
+      "gas:candidate-vibid:1001000225872": 118,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6426,14 +6426,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 260,
-      "Будаев Александр Нимбуевич": 36,
-      "Кардаш Александр Иванович": 25,
-      "Кондаков Николай Яковлевич": 37,
-      "Кузнецов Василий Федотович": 262,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190275": 260,
+      "gas:candidate-vibid:203200066887": 36,
+      "gas:candidate-vibid:1001000135994": 25,
+      "gas:candidate-vibid:203200067179": 37,
+      "gas:candidate-vibid:1001000225872": 262,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6483,14 +6483,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 189,
-      "Будаев Александр Нимбуевич": 14,
-      "Кардаш Александр Иванович": 9,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 130,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000190275": 189,
+      "gas:candidate-vibid:203200066887": 14,
+      "gas:candidate-vibid:1001000135994": 9,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 130,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6540,14 +6540,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 59,
-      "Будаев Александр Нимбуевич": 13,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 61,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190275": 59,
+      "gas:candidate-vibid:203200066887": 13,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 61,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6597,14 +6597,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 51,
-      "Будаев Александр Нимбуевич": 4,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 100,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 51,
+      "gas:candidate-vibid:203200066887": 4,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 100,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6654,14 +6654,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 83,
-      "Будаев Александр Нимбуевич": 8,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 6,
-      "Кузнецов Василий Федотович": 94,
-      "Цыренов Баир Дашиевич": 10,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 83,
+      "gas:candidate-vibid:203200066887": 8,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 6,
+      "gas:candidate-vibid:1001000225872": 94,
+      "gas:candidate-vibid:203200066890": 10,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6711,14 +6711,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 411,
-      "Будаев Александр Нимбуевич": 33,
-      "Кардаш Александр Иванович": 25,
-      "Кондаков Николай Яковлевич": 51,
-      "Кузнецов Василий Федотович": 257,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000190275": 411,
+      "gas:candidate-vibid:203200066887": 33,
+      "gas:candidate-vibid:1001000135994": 25,
+      "gas:candidate-vibid:203200067179": 51,
+      "gas:candidate-vibid:1001000225872": 257,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6768,14 +6768,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 22,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 8,
-      "Кузнецов Василий Федотович": 35,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 22,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 8,
+      "gas:candidate-vibid:1001000225872": 35,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6825,14 +6825,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 123,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 137,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000190275": 123,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 137,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066970&region=0&sub_region=0&type=429",
@@ -6882,14 +6882,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 55,
-      "Будаев Александр Нимбуевич": 57,
-      "Кардаш Александр Иванович": 24,
-      "Кондаков Николай Яковлевич": 24,
-      "Кузнецов Василий Федотович": 48,
-      "Цыренов Баир Дашиевич": 45,
-      "Якунин Андрей Иванович": 19,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000190275": 55,
+      "gas:candidate-vibid:203200066887": 57,
+      "gas:candidate-vibid:1001000135994": 24,
+      "gas:candidate-vibid:203200067179": 24,
+      "gas:candidate-vibid:1001000225872": 48,
+      "gas:candidate-vibid:203200066890": 45,
+      "gas:candidate-vibid:203200067234": 19,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -6939,14 +6939,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 45,
-      "Будаев Александр Нимбуевич": 29,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 33,
-      "Цыренов Баир Дашиевич": 107,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190275": 45,
+      "gas:candidate-vibid:203200066887": 29,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 33,
+      "gas:candidate-vibid:203200066890": 107,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -6996,14 +6996,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 37,
-      "Будаев Александр Нимбуевич": 25,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 15,
-      "Кузнецов Василий Федотович": 60,
-      "Цыренов Баир Дашиевич": 89,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190275": 37,
+      "gas:candidate-vibid:203200066887": 25,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 15,
+      "gas:candidate-vibid:1001000225872": 60,
+      "gas:candidate-vibid:203200066890": 89,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7053,14 +7053,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 23,
-      "Будаев Александр Нимбуевич": 22,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 76,
-      "Цыренов Баир Дашиевич": 67,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 23,
+      "gas:candidate-vibid:203200066887": 22,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 76,
+      "gas:candidate-vibid:203200066890": 67,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7110,14 +7110,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 24,
-      "Будаев Александр Нимбуевич": 28,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 53,
-      "Цыренов Баир Дашиевич": 65,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 24,
+      "gas:candidate-vibid:203200066887": 28,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 53,
+      "gas:candidate-vibid:203200066890": 65,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7167,14 +7167,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 29,
-      "Будаев Александр Нимбуевич": 26,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 27,
-      "Цыренов Баир Дашиевич": 75,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190275": 29,
+      "gas:candidate-vibid:203200066887": 26,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 27,
+      "gas:candidate-vibid:203200066890": 75,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7224,14 +7224,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 27,
-      "Будаев Александр Нимбуевич": 38,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 66,
-      "Цыренов Баир Дашиевич": 67,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190275": 27,
+      "gas:candidate-vibid:203200066887": 38,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 66,
+      "gas:candidate-vibid:203200066890": 67,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7281,14 +7281,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 19,
-      "Будаев Александр Нимбуевич": 25,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 8,
-      "Кузнецов Василий Федотович": 53,
-      "Цыренов Баир Дашиевич": 85,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 19,
+      "gas:candidate-vibid:203200066887": 25,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 8,
+      "gas:candidate-vibid:1001000225872": 53,
+      "gas:candidate-vibid:203200066890": 85,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7338,14 +7338,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 13,
-      "Будаев Александр Нимбуевич": 20,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 6,
-      "Кузнецов Василий Федотович": 65,
-      "Цыренов Баир Дашиевич": 96,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190275": 13,
+      "gas:candidate-vibid:203200066887": 20,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 6,
+      "gas:candidate-vibid:1001000225872": 65,
+      "gas:candidate-vibid:203200066890": 96,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7395,14 +7395,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 8,
-      "Будаев Александр Нимбуевич": 23,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 91,
-      "Цыренов Баир Дашиевич": 84,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 8,
+      "gas:candidate-vibid:203200066887": 23,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 91,
+      "gas:candidate-vibid:203200066890": 84,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7452,14 +7452,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 28,
-      "Будаев Александр Нимбуевич": 52,
-      "Кардаш Александр Иванович": 7,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 40,
-      "Цыренов Баир Дашиевич": 137,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000190275": 28,
+      "gas:candidate-vibid:203200066887": 52,
+      "gas:candidate-vibid:1001000135994": 7,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 40,
+      "gas:candidate-vibid:203200066890": 137,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066971&region=0&sub_region=0&type=429",
@@ -7509,14 +7509,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 238,
-      "Будаев Александр Нимбуевич": 14,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 61,
-      "Кузнецов Василий Федотович": 135,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190275": 238,
+      "gas:candidate-vibid:203200066887": 14,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 61,
+      "gas:candidate-vibid:1001000225872": 135,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7566,14 +7566,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 297,
-      "Будаев Александр Нимбуевич": 27,
-      "Кардаш Александр Иванович": 32,
-      "Кондаков Николай Яковлевич": 51,
-      "Кузнецов Василий Федотович": 182,
-      "Цыренов Баир Дашиевич": 20,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000190275": 297,
+      "gas:candidate-vibid:203200066887": 27,
+      "gas:candidate-vibid:1001000135994": 32,
+      "gas:candidate-vibid:203200067179": 51,
+      "gas:candidate-vibid:1001000225872": 182,
+      "gas:candidate-vibid:203200066890": 20,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7623,14 +7623,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 180,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 39,
-      "Кузнецов Василий Федотович": 232,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000190275": 180,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 39,
+      "gas:candidate-vibid:1001000225872": 232,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7680,14 +7680,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 220,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 31,
-      "Кузнецов Василий Федотович": 178,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190275": 220,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 31,
+      "gas:candidate-vibid:1001000225872": 178,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7737,14 +7737,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 231,
-      "Будаев Александр Нимбуевич": 11,
-      "Кардаш Александр Иванович": 18,
-      "Кондаков Николай Яковлевич": 44,
-      "Кузнецов Василий Федотович": 136,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190275": 231,
+      "gas:candidate-vibid:203200066887": 11,
+      "gas:candidate-vibid:1001000135994": 18,
+      "gas:candidate-vibid:203200067179": 44,
+      "gas:candidate-vibid:1001000225872": 136,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7794,14 +7794,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 23,
-      "Будаев Александр Нимбуевич": 128,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 25,
-      "Цыренов Баир Дашиевич": 94,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 23,
+      "gas:candidate-vibid:203200066887": 128,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 25,
+      "gas:candidate-vibid:203200066890": 94,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7851,14 +7851,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 31,
-      "Будаев Александр Нимбуевич": 29,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 16,
-      "Цыренов Баир Дашиевич": 16,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 31,
+      "gas:candidate-vibid:203200066887": 29,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 16,
+      "gas:candidate-vibid:203200066890": 16,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7908,14 +7908,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 133,
-      "Будаев Александр Нимбуевич": 73,
-      "Кардаш Александр Иванович": 32,
-      "Кондаков Николай Яковлевич": 34,
-      "Кузнецов Василий Федотович": 120,
-      "Цыренов Баир Дашиевич": 22,
-      "Якунин Андрей Иванович": 11,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000190275": 133,
+      "gas:candidate-vibid:203200066887": 73,
+      "gas:candidate-vibid:1001000135994": 32,
+      "gas:candidate-vibid:203200067179": 34,
+      "gas:candidate-vibid:1001000225872": 120,
+      "gas:candidate-vibid:203200066890": 22,
+      "gas:candidate-vibid:203200067234": 11,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -7965,14 +7965,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 115,
-      "Будаев Александр Нимбуевич": 46,
-      "Кардаш Александр Иванович": 26,
-      "Кондаков Николай Яковлевич": 48,
-      "Кузнецов Василий Федотович": 96,
-      "Цыренов Баир Дашиевич": 22,
-      "Якунин Андрей Иванович": 13,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000190275": 115,
+      "gas:candidate-vibid:203200066887": 46,
+      "gas:candidate-vibid:1001000135994": 26,
+      "gas:candidate-vibid:203200067179": 48,
+      "gas:candidate-vibid:1001000225872": 96,
+      "gas:candidate-vibid:203200066890": 22,
+      "gas:candidate-vibid:203200067234": 13,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8022,14 +8022,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 35,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 10,
-      "Кузнецов Василий Федотович": 42,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 35,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 10,
+      "gas:candidate-vibid:1001000225872": 42,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8079,14 +8079,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 97,
-      "Будаев Александр Нимбуевич": 40,
-      "Кардаш Александр Иванович": 9,
-      "Кондаков Николай Яковлевич": 22,
-      "Кузнецов Василий Федотович": 181,
-      "Цыренов Баир Дашиевич": 20,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190275": 97,
+      "gas:candidate-vibid:203200066887": 40,
+      "gas:candidate-vibid:1001000135994": 9,
+      "gas:candidate-vibid:203200067179": 22,
+      "gas:candidate-vibid:1001000225872": 181,
+      "gas:candidate-vibid:203200066890": 20,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8136,14 +8136,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 4,
-      "Будаев Александр Нимбуевич": 0,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 1,
-      "Кузнецов Василий Федотович": 41,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 4,
+      "gas:candidate-vibid:203200066887": 0,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 1,
+      "gas:candidate-vibid:1001000225872": 41,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8193,14 +8193,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 38,
-      "Будаев Александр Нимбуевич": 84,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 54,
-      "Цыренов Баир Дашиевич": 24,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 38,
+      "gas:candidate-vibid:203200066887": 84,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 54,
+      "gas:candidate-vibid:203200066890": 24,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8250,14 +8250,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 44,
-      "Будаев Александр Нимбуевич": 45,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 57,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 44,
+      "gas:candidate-vibid:203200066887": 45,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 57,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8307,14 +8307,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 16,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 1,
-      "Кузнецов Василий Федотович": 44,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 16,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 1,
+      "gas:candidate-vibid:1001000225872": 44,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8364,14 +8364,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 90,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 13,
-      "Кузнецов Василий Федотович": 80,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 90,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 13,
+      "gas:candidate-vibid:1001000225872": 80,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8421,14 +8421,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 12,
-      "Будаев Александр Нимбуевич": 35,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 25,
-      "Цыренов Баир Дашиевич": 111,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 12,
+      "gas:candidate-vibid:203200066887": 35,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 25,
+      "gas:candidate-vibid:203200066890": 111,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8478,14 +8478,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 25,
-      "Будаев Александр Нимбуевич": 19,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 17,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190275": 25,
+      "gas:candidate-vibid:203200066887": 19,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 17,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8535,14 +8535,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 91,
-      "Будаев Александр Нимбуевич": 40,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 29,
-      "Цыренов Баир Дашиевич": 61,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 91,
+      "gas:candidate-vibid:203200066887": 40,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 29,
+      "gas:candidate-vibid:203200066890": 61,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8592,14 +8592,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 97,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 12,
-      "Кузнецов Василий Федотович": 96,
-      "Цыренов Баир Дашиевич": 8,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000190275": 97,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 12,
+      "gas:candidate-vibid:1001000225872": 96,
+      "gas:candidate-vibid:203200066890": 8,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8649,14 +8649,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 275,
-      "Будаев Александр Нимбуевич": 64,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 166,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190275": 275,
+      "gas:candidate-vibid:203200066887": 64,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 166,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8706,14 +8706,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 72,
-      "Будаев Александр Нимбуевич": 0,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 88,
-      "Кузнецов Василий Федотович": 108,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 72,
+      "gas:candidate-vibid:203200066887": 0,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 88,
+      "gas:candidate-vibid:1001000225872": 108,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8763,14 +8763,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 357,
-      "Будаев Александр Нимбуевич": 14,
-      "Кардаш Александр Иванович": 22,
-      "Кондаков Николай Яковлевич": 37,
-      "Кузнецов Василий Федотович": 136,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190275": 357,
+      "gas:candidate-vibid:203200066887": 14,
+      "gas:candidate-vibid:1001000135994": 22,
+      "gas:candidate-vibid:203200067179": 37,
+      "gas:candidate-vibid:1001000225872": 136,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8820,14 +8820,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 101,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 70,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190275": 101,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 70,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8877,14 +8877,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 58,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 18,
-      "Кузнецов Василий Федотович": 160,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190275": 58,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 18,
+      "gas:candidate-vibid:1001000225872": 160,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8934,14 +8934,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 4,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 8,
-      "Цыренов Баир Дашиевич": 38,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 4,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 8,
+      "gas:candidate-vibid:203200066890": 38,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -8991,14 +8991,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 25,
-      "Будаев Александр Нимбуевич": 29,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 85,
-      "Цыренов Баир Дашиевич": 125,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190275": 25,
+      "gas:candidate-vibid:203200066887": 29,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 85,
+      "gas:candidate-vibid:203200066890": 125,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -9048,14 +9048,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 33,
-      "Будаев Александр Нимбуевич": 32,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 15,
-      "Кузнецов Василий Федотович": 45,
-      "Цыренов Баир Дашиевич": 25,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190275": 33,
+      "gas:candidate-vibid:203200066887": 32,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 15,
+      "gas:candidate-vibid:1001000225872": 45,
+      "gas:candidate-vibid:203200066890": 25,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -9105,14 +9105,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 135,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 21,
-      "Кузнецов Василий Федотович": 223,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000190275": 135,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 21,
+      "gas:candidate-vibid:1001000225872": 223,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -9162,14 +9162,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 42,
-      "Будаев Александр Нимбуевич": 63,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 27,
-      "Цыренов Баир Дашиевич": 19,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 42,
+      "gas:candidate-vibid:203200066887": 63,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 27,
+      "gas:candidate-vibid:203200066890": 19,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -9219,14 +9219,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 261,
-      "Будаев Александр Нимбуевич": 32,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 51,
-      "Кузнецов Василий Федотович": 215,
-      "Цыренов Баир Дашиевич": 18,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190275": 261,
+      "gas:candidate-vibid:203200066887": 32,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 51,
+      "gas:candidate-vibid:1001000225872": 215,
+      "gas:candidate-vibid:203200066890": 18,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066972&region=0&sub_region=0&type=429",
@@ -9276,14 +9276,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 76,
-      "Будаев Александр Нимбуевич": 16,
-      "Кардаш Александр Иванович": 59,
-      "Кондаков Николай Яковлевич": 17,
-      "Кузнецов Василий Федотович": 164,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000190275": 76,
+      "gas:candidate-vibid:203200066887": 16,
+      "gas:candidate-vibid:1001000135994": 59,
+      "gas:candidate-vibid:203200067179": 17,
+      "gas:candidate-vibid:1001000225872": 164,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9333,14 +9333,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 126,
-      "Будаев Александр Нимбуевич": 40,
-      "Кардаш Александр Иванович": 112,
-      "Кондаков Николай Яковлевич": 33,
-      "Кузнецов Василий Федотович": 350,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000190275": 126,
+      "gas:candidate-vibid:203200066887": 40,
+      "gas:candidate-vibid:1001000135994": 112,
+      "gas:candidate-vibid:203200067179": 33,
+      "gas:candidate-vibid:1001000225872": 350,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9390,14 +9390,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 78,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 35,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 148,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190275": 78,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 35,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 148,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9447,14 +9447,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 82,
-      "Будаев Александр Нимбуевич": 11,
-      "Кардаш Александр Иванович": 59,
-      "Кондаков Николай Яковлевич": 17,
-      "Кузнецов Василий Федотович": 246,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 93
+      "gas:candidate-vibid:1001000190275": 82,
+      "gas:candidate-vibid:203200066887": 11,
+      "gas:candidate-vibid:1001000135994": 59,
+      "gas:candidate-vibid:203200067179": 17,
+      "gas:candidate-vibid:1001000225872": 246,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 93
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9504,14 +9504,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 91,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 62,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 209,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190275": 91,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 62,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 209,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9561,14 +9561,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 115,
-      "Будаев Александр Нимбуевич": 30,
-      "Кардаш Александр Иванович": 78,
-      "Кондаков Николай Яковлевич": 18,
-      "Кузнецов Василий Федотович": 169,
-      "Цыренов Баир Дашиевич": 7,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000190275": 115,
+      "gas:candidate-vibid:203200066887": 30,
+      "gas:candidate-vibid:1001000135994": 78,
+      "gas:candidate-vibid:203200067179": 18,
+      "gas:candidate-vibid:1001000225872": 169,
+      "gas:candidate-vibid:203200066890": 7,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9618,14 +9618,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 63,
-      "Будаев Александр Нимбуевич": 9,
-      "Кардаш Александр Иванович": 48,
-      "Кондаков Николай Яковлевич": 13,
-      "Кузнецов Василий Федотович": 141,
-      "Цыренов Баир Дашиевич": 10,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190275": 63,
+      "gas:candidate-vibid:203200066887": 9,
+      "gas:candidate-vibid:1001000135994": 48,
+      "gas:candidate-vibid:203200067179": 13,
+      "gas:candidate-vibid:1001000225872": 141,
+      "gas:candidate-vibid:203200066890": 10,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9675,14 +9675,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 24,
-      "Будаев Александр Нимбуевич": 12,
-      "Кардаш Александр Иванович": 9,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 76,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 24,
+      "gas:candidate-vibid:203200066887": 12,
+      "gas:candidate-vibid:1001000135994": 9,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 76,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9732,14 +9732,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 50,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 30,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 143,
-      "Цыренов Баир Дашиевич": 7,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190275": 50,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 30,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 143,
+      "gas:candidate-vibid:203200066890": 7,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9789,14 +9789,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 77,
-      "Будаев Александр Нимбуевич": 22,
-      "Кардаш Александр Иванович": 45,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 161,
-      "Цыренов Баир Дашиевич": 10,
-      "Якунин Андрей Иванович": 10,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000190275": 77,
+      "gas:candidate-vibid:203200066887": 22,
+      "gas:candidate-vibid:1001000135994": 45,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 161,
+      "gas:candidate-vibid:203200066890": 10,
+      "gas:candidate-vibid:203200067234": 10,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9846,14 +9846,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 49,
-      "Будаев Александр Нимбуевич": 18,
-      "Кардаш Александр Иванович": 21,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 95,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 53
+      "gas:candidate-vibid:1001000190275": 49,
+      "gas:candidate-vibid:203200066887": 18,
+      "gas:candidate-vibid:1001000135994": 21,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 95,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9903,14 +9903,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 82,
-      "Будаев Александр Нимбуевич": 7,
-      "Кардаш Александр Иванович": 22,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 34,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000190275": 82,
+      "gas:candidate-vibid:203200066887": 7,
+      "gas:candidate-vibid:1001000135994": 22,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 34,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -9960,14 +9960,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 59,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 72,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 165,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190275": 59,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 72,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 165,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -10017,14 +10017,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 9,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 9,
-      "Кондаков Николай Яковлевич": 14,
-      "Кузнецов Василий Федотович": 75,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190275": 9,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 9,
+      "gas:candidate-vibid:203200067179": 14,
+      "gas:candidate-vibid:1001000225872": 75,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066973&region=0&sub_region=0&type=429",
@@ -10074,14 +10074,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 137,
-      "Будаев Александр Нимбуевич": 46,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 19,
-      "Кузнецов Василий Федотович": 178,
-      "Цыренов Баир Дашиевич": 12,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 137,
+      "gas:candidate-vibid:203200066887": 46,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 19,
+      "gas:candidate-vibid:1001000225872": 178,
+      "gas:candidate-vibid:203200066890": 12,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10131,14 +10131,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 35,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 8,
-      "Кузнецов Василий Федотович": 80,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 35,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 8,
+      "gas:candidate-vibid:1001000225872": 80,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10188,14 +10188,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 44,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 60,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 44,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 60,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10245,14 +10245,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 51,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 7,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 30,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190275": 51,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 7,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 30,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10302,14 +10302,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 10,
-      "Будаев Александр Нимбуевич": 17,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 38,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190275": 10,
+      "gas:candidate-vibid:203200066887": 17,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 38,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10359,14 +10359,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 57,
-      "Будаев Александр Нимбуевич": 48,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 29,
-      "Цыренов Баир Дашиевич": 12,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 57,
+      "gas:candidate-vibid:203200066887": 48,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 29,
+      "gas:candidate-vibid:203200066890": 12,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10416,14 +10416,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 274,
-      "Будаев Александр Нимбуевич": 84,
-      "Кардаш Александр Иванович": 7,
-      "Кондаков Николай Яковлевич": 27,
-      "Кузнецов Василий Федотович": 210,
-      "Цыренов Баир Дашиевич": 40,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000190275": 274,
+      "gas:candidate-vibid:203200066887": 84,
+      "gas:candidate-vibid:1001000135994": 7,
+      "gas:candidate-vibid:203200067179": 27,
+      "gas:candidate-vibid:1001000225872": 210,
+      "gas:candidate-vibid:203200066890": 40,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10473,14 +10473,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 26,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 29,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 26,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 29,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10530,14 +10530,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 114,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 7,
-      "Кондаков Николай Яковлевич": 41,
-      "Кузнецов Василий Федотович": 153,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190275": 114,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 7,
+      "gas:candidate-vibid:203200067179": 41,
+      "gas:candidate-vibid:1001000225872": 153,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10587,14 +10587,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 57,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 65,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190275": 57,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 65,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10644,14 +10644,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 26,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 168,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 26,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 168,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10701,14 +10701,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 13,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 75,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 13,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 75,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10758,14 +10758,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 27,
-      "Будаев Александр Нимбуевич": 0,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 65,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 27,
+      "gas:candidate-vibid:203200066887": 0,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 65,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10815,14 +10815,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 49,
-      "Будаев Александр Нимбуевич": 9,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 1,
-      "Кузнецов Василий Федотович": 27,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 49,
+      "gas:candidate-vibid:203200066887": 9,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 1,
+      "gas:candidate-vibid:1001000225872": 27,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10872,14 +10872,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 120,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 14,
-      "Кузнецов Василий Федотович": 58,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190275": 120,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 14,
+      "gas:candidate-vibid:1001000225872": 58,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10929,14 +10929,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 100,
-      "Будаев Александр Нимбуевич": 9,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 14,
-      "Кузнецов Василий Федотович": 71,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 100,
+      "gas:candidate-vibid:203200066887": 9,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 14,
+      "gas:candidate-vibid:1001000225872": 71,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -10986,14 +10986,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 63,
-      "Будаев Александр Нимбуевич": 14,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 23,
-      "Кузнецов Василий Федотович": 191,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190275": 63,
+      "gas:candidate-vibid:203200066887": 14,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 23,
+      "gas:candidate-vibid:1001000225872": 191,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11043,14 +11043,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 47,
-      "Будаев Александр Нимбуевич": 27,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 8,
-      "Кузнецов Василий Федотович": 45,
-      "Цыренов Баир Дашиевич": 31,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190275": 47,
+      "gas:candidate-vibid:203200066887": 27,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 8,
+      "gas:candidate-vibid:1001000225872": 45,
+      "gas:candidate-vibid:203200066890": 31,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11100,14 +11100,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 22,
-      "Будаев Александр Нимбуевич": 20,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 12,
-      "Кузнецов Василий Федотович": 12,
-      "Цыренов Баир Дашиевич": 27,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190275": 22,
+      "gas:candidate-vibid:203200066887": 20,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 12,
+      "gas:candidate-vibid:1001000225872": 12,
+      "gas:candidate-vibid:203200066890": 27,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11157,14 +11157,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 52,
-      "Будаев Александр Нимбуевич": 22,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 40,
-      "Цыренов Баир Дашиевич": 56,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190275": 52,
+      "gas:candidate-vibid:203200066887": 22,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 40,
+      "gas:candidate-vibid:203200066890": 56,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11214,14 +11214,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 60,
-      "Будаев Александр Нимбуевич": 14,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 26,
-      "Кузнецов Василий Федотович": 133,
-      "Цыренов Баир Дашиевич": 9,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 60,
+      "gas:candidate-vibid:203200066887": 14,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 26,
+      "gas:candidate-vibid:1001000225872": 133,
+      "gas:candidate-vibid:203200066890": 9,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11271,14 +11271,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 22,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 6,
-      "Кузнецов Василий Федотович": 64,
-      "Цыренов Баир Дашиевич": 9,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190275": 22,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 6,
+      "gas:candidate-vibid:1001000225872": 64,
+      "gas:candidate-vibid:203200066890": 9,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11328,14 +11328,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 156,
-      "Будаев Александр Нимбуевич": 12,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 210,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190275": 156,
+      "gas:candidate-vibid:203200066887": 12,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 210,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11385,14 +11385,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 13,
-      "Будаев Александр Нимбуевич": 13,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 1,
-      "Кузнецов Василий Федотович": 30,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000190275": 13,
+      "gas:candidate-vibid:203200066887": 13,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 1,
+      "gas:candidate-vibid:1001000225872": 30,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11442,14 +11442,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 15,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 11,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 42,
-      "Цыренов Баир Дашиевич": 0,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190275": 15,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 11,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 42,
+      "gas:candidate-vibid:203200066890": 0,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11499,14 +11499,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 21,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 40,
-      "Цыренов Баир Дашиевич": 2,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190275": 21,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 40,
+      "gas:candidate-vibid:203200066890": 2,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11556,14 +11556,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 14,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 4,
-      "Кузнецов Василий Федотович": 62,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 14,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 4,
+      "gas:candidate-vibid:1001000225872": 62,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11613,14 +11613,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 58,
-      "Будаев Александр Нимбуевич": 27,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 10,
-      "Кузнецов Василий Федотович": 98,
-      "Цыренов Баир Дашиевич": 26,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000190275": 58,
+      "gas:candidate-vibid:203200066887": 27,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 10,
+      "gas:candidate-vibid:1001000225872": 98,
+      "gas:candidate-vibid:203200066890": 26,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11670,14 +11670,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 32,
-      "Будаев Александр Нимбуевич": 8,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 35,
-      "Цыренов Баир Дашиевич": 18,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 32,
+      "gas:candidate-vibid:203200066887": 8,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 35,
+      "gas:candidate-vibid:203200066890": 18,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11727,14 +11727,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 81,
-      "Будаев Александр Нимбуевич": 1,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 30,
-      "Кузнецов Василий Федотович": 207,
-      "Цыренов Баир Дашиевич": 10,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190275": 81,
+      "gas:candidate-vibid:203200066887": 1,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 30,
+      "gas:candidate-vibid:1001000225872": 207,
+      "gas:candidate-vibid:203200066890": 10,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11784,14 +11784,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 52,
-      "Будаев Александр Нимбуевич": 76,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 38,
-      "Кузнецов Василий Федотович": 241,
-      "Цыренов Баир Дашиевич": 80,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 52,
+      "gas:candidate-vibid:203200066887": 76,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 38,
+      "gas:candidate-vibid:1001000225872": 241,
+      "gas:candidate-vibid:203200066890": 80,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11841,14 +11841,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 153,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 28,
-      "Кузнецов Василий Федотович": 14,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000190275": 153,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 28,
+      "gas:candidate-vibid:1001000225872": 14,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11898,14 +11898,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 24,
-      "Будаев Александр Нимбуевич": 4,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 21,
-      "Кузнецов Василий Федотович": 39,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 24,
+      "gas:candidate-vibid:203200066887": 4,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 21,
+      "gas:candidate-vibid:1001000225872": 39,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -11955,14 +11955,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 69,
-      "Будаев Александр Нимбуевич": 10,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 15,
-      "Кузнецов Василий Федотович": 7,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000190275": 69,
+      "gas:candidate-vibid:203200066887": 10,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 15,
+      "gas:candidate-vibid:1001000225872": 7,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12012,14 +12012,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 98,
-      "Будаев Александр Нимбуевич": 29,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 38,
-      "Кузнецов Василий Федотович": 342,
-      "Цыренов Баир Дашиевич": 73,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000190275": 98,
+      "gas:candidate-vibid:203200066887": 29,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 38,
+      "gas:candidate-vibid:1001000225872": 342,
+      "gas:candidate-vibid:203200066890": 73,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12069,14 +12069,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 232,
-      "Будаев Александр Нимбуевич": 51,
-      "Кардаш Александр Иванович": 12,
-      "Кондаков Николай Яковлевич": 64,
-      "Кузнецов Василий Федотович": 490,
-      "Цыренов Баир Дашиевич": 74,
-      "Якунин Андрей Иванович": 9,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000190275": 232,
+      "gas:candidate-vibid:203200066887": 51,
+      "gas:candidate-vibid:1001000135994": 12,
+      "gas:candidate-vibid:203200067179": 64,
+      "gas:candidate-vibid:1001000225872": 490,
+      "gas:candidate-vibid:203200066890": 74,
+      "gas:candidate-vibid:203200067234": 9,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12126,14 +12126,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 79,
-      "Будаев Александр Нимбуевич": 23,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 17,
-      "Кузнецов Василий Федотович": 293,
-      "Цыренов Баир Дашиевич": 14,
-      "Якунин Андрей Иванович": 15,
-      "Против всех": 80
+      "gas:candidate-vibid:1001000190275": 79,
+      "gas:candidate-vibid:203200066887": 23,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 17,
+      "gas:candidate-vibid:1001000225872": 293,
+      "gas:candidate-vibid:203200066890": 14,
+      "gas:candidate-vibid:203200067234": 15,
+      "special:against-all": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12183,14 +12183,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 88,
-      "Будаев Александр Нимбуевич": 37,
-      "Кардаш Александр Иванович": 32,
-      "Кондаков Николай Яковлевич": 37,
-      "Кузнецов Василий Федотович": 414,
-      "Цыренов Баир Дашиевич": 20,
-      "Якунин Андрей Иванович": 11,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000190275": 88,
+      "gas:candidate-vibid:203200066887": 37,
+      "gas:candidate-vibid:1001000135994": 32,
+      "gas:candidate-vibid:203200067179": 37,
+      "gas:candidate-vibid:1001000225872": 414,
+      "gas:candidate-vibid:203200066890": 20,
+      "gas:candidate-vibid:203200067234": 11,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12240,14 +12240,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 196,
-      "Будаев Александр Нимбуевич": 73,
-      "Кардаш Александр Иванович": 21,
-      "Кондаков Николай Яковлевич": 56,
-      "Кузнецов Василий Федотович": 181,
-      "Цыренов Баир Дашиевич": 50,
-      "Якунин Андрей Иванович": 8,
-      "Против всех": 65
+      "gas:candidate-vibid:1001000190275": 196,
+      "gas:candidate-vibid:203200066887": 73,
+      "gas:candidate-vibid:1001000135994": 21,
+      "gas:candidate-vibid:203200067179": 56,
+      "gas:candidate-vibid:1001000225872": 181,
+      "gas:candidate-vibid:203200066890": 50,
+      "gas:candidate-vibid:203200067234": 8,
+      "special:against-all": 65
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12297,14 +12297,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 178,
-      "Будаев Александр Нимбуевич": 33,
-      "Кардаш Александр Иванович": 18,
-      "Кондаков Николай Яковлевич": 40,
-      "Кузнецов Василий Федотович": 201,
-      "Цыренов Баир Дашиевич": 24,
-      "Якунин Андрей Иванович": 6,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000190275": 178,
+      "gas:candidate-vibid:203200066887": 33,
+      "gas:candidate-vibid:1001000135994": 18,
+      "gas:candidate-vibid:203200067179": 40,
+      "gas:candidate-vibid:1001000225872": 201,
+      "gas:candidate-vibid:203200066890": 24,
+      "gas:candidate-vibid:203200067234": 6,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12354,14 +12354,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 180,
-      "Будаев Александр Нимбуевич": 53,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 49,
-      "Кузнецов Василий Федотович": 229,
-      "Цыренов Баир Дашиевич": 36,
-      "Якунин Андрей Иванович": 11,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000190275": 180,
+      "gas:candidate-vibid:203200066887": 53,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 49,
+      "gas:candidate-vibid:1001000225872": 229,
+      "gas:candidate-vibid:203200066890": 36,
+      "gas:candidate-vibid:203200067234": 11,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12411,14 +12411,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 86,
-      "Будаев Александр Нимбуевич": 30,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 21,
-      "Кузнецов Василий Федотович": 106,
-      "Цыренов Баир Дашиевич": 16,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000190275": 86,
+      "gas:candidate-vibid:203200066887": 30,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 21,
+      "gas:candidate-vibid:1001000225872": 106,
+      "gas:candidate-vibid:203200066890": 16,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12468,14 +12468,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 114,
-      "Будаев Александр Нимбуевич": 22,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 30,
-      "Кузнецов Василий Федотович": 181,
-      "Цыренов Баир Дашиевич": 13,
-      "Якунин Андрей Иванович": 7,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000190275": 114,
+      "gas:candidate-vibid:203200066887": 22,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 30,
+      "gas:candidate-vibid:1001000225872": 181,
+      "gas:candidate-vibid:203200066890": 13,
+      "gas:candidate-vibid:203200067234": 7,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12525,14 +12525,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 134,
-      "Будаев Александр Нимбуевич": 44,
-      "Кардаш Александр Иванович": 10,
-      "Кондаков Николай Яковлевич": 32,
-      "Кузнецов Василий Федотович": 114,
-      "Цыренов Баир Дашиевич": 61,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000190275": 134,
+      "gas:candidate-vibid:203200066887": 44,
+      "gas:candidate-vibid:1001000135994": 10,
+      "gas:candidate-vibid:203200067179": 32,
+      "gas:candidate-vibid:1001000225872": 114,
+      "gas:candidate-vibid:203200066890": 61,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12582,14 +12582,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 70,
-      "Будаев Александр Нимбуевич": 22,
-      "Кардаш Александр Иванович": 6,
-      "Кондаков Николай Яковлевич": 29,
-      "Кузнецов Василий Федотович": 130,
-      "Цыренов Баир Дашиевич": 19,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000190275": 70,
+      "gas:candidate-vibid:203200066887": 22,
+      "gas:candidate-vibid:1001000135994": 6,
+      "gas:candidate-vibid:203200067179": 29,
+      "gas:candidate-vibid:1001000225872": 130,
+      "gas:candidate-vibid:203200066890": 19,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12639,14 +12639,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 565,
-      "Будаев Александр Нимбуевич": 161,
-      "Кардаш Александр Иванович": 138,
-      "Кондаков Николай Яковлевич": 121,
-      "Кузнецов Василий Федотович": 582,
-      "Цыренов Баир Дашиевич": 83,
-      "Якунин Андрей Иванович": 59,
-      "Против всех": 558
+      "gas:candidate-vibid:1001000190275": 565,
+      "gas:candidate-vibid:203200066887": 161,
+      "gas:candidate-vibid:1001000135994": 138,
+      "gas:candidate-vibid:203200067179": 121,
+      "gas:candidate-vibid:1001000225872": 582,
+      "gas:candidate-vibid:203200066890": 83,
+      "gas:candidate-vibid:203200067234": 59,
+      "special:against-all": 558
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12696,14 +12696,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 284,
-      "Будаев Александр Нимбуевич": 82,
-      "Кардаш Александр Иванович": 72,
-      "Кондаков Николай Яковлевич": 37,
-      "Кузнецов Василий Федотович": 362,
-      "Цыренов Баир Дашиевич": 29,
-      "Якунин Андрей Иванович": 19,
-      "Против всех": 167
+      "gas:candidate-vibid:1001000190275": 284,
+      "gas:candidate-vibid:203200066887": 82,
+      "gas:candidate-vibid:1001000135994": 72,
+      "gas:candidate-vibid:203200067179": 37,
+      "gas:candidate-vibid:1001000225872": 362,
+      "gas:candidate-vibid:203200066890": 29,
+      "gas:candidate-vibid:203200067234": 19,
+      "special:against-all": 167
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12753,14 +12753,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 9,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 2,
-      "Кузнецов Василий Федотович": 21,
-      "Цыренов Баир Дашиевич": 7,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 9,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 2,
+      "gas:candidate-vibid:1001000225872": 21,
+      "gas:candidate-vibid:203200066890": 7,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066974&region=0&sub_region=0&type=429",
@@ -12810,14 +12810,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 71,
-      "Будаев Александр Нимбуевич": 20,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 22,
-      "Кузнецов Василий Федотович": 12,
-      "Цыренов Баир Дашиевич": 18,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 71,
+      "gas:candidate-vibid:203200066887": 20,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 22,
+      "gas:candidate-vibid:1001000225872": 12,
+      "gas:candidate-vibid:203200066890": 18,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -12867,14 +12867,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 286,
-      "Будаев Александр Нимбуевич": 186,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 19,
-      "Кузнецов Василий Федотович": 55,
-      "Цыренов Баир Дашиевич": 41,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000190275": 286,
+      "gas:candidate-vibid:203200066887": 186,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 19,
+      "gas:candidate-vibid:1001000225872": 55,
+      "gas:candidate-vibid:203200066890": 41,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -12924,14 +12924,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 95,
-      "Будаев Александр Нимбуевич": 121,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 5,
-      "Кузнецов Василий Федотович": 11,
-      "Цыренов Баир Дашиевич": 20,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000190275": 95,
+      "gas:candidate-vibid:203200066887": 121,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 5,
+      "gas:candidate-vibid:1001000225872": 11,
+      "gas:candidate-vibid:203200066890": 20,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -12981,14 +12981,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 71,
-      "Будаев Александр Нимбуевич": 14,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 10,
-      "Кузнецов Василий Федотович": 12,
-      "Цыренов Баир Дашиевич": 6,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 71,
+      "gas:candidate-vibid:203200066887": 14,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 10,
+      "gas:candidate-vibid:1001000225872": 12,
+      "gas:candidate-vibid:203200066890": 6,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13038,14 +13038,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 82,
-      "Будаев Александр Нимбуевич": 16,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 22,
-      "Кузнецов Василий Федотович": 72,
-      "Цыренов Баир Дашиевич": 4,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000190275": 82,
+      "gas:candidate-vibid:203200066887": 16,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 22,
+      "gas:candidate-vibid:1001000225872": 72,
+      "gas:candidate-vibid:203200066890": 4,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13095,14 +13095,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 65,
-      "Будаев Александр Нимбуевич": 2,
-      "Кардаш Александр Иванович": 5,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 19,
-      "Цыренов Баир Дашиевич": 5,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000190275": 65,
+      "gas:candidate-vibid:203200066887": 2,
+      "gas:candidate-vibid:1001000135994": 5,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 19,
+      "gas:candidate-vibid:203200066890": 5,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13152,14 +13152,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 114,
-      "Будаев Александр Нимбуевич": 175,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 17,
-      "Кузнецов Василий Федотович": 134,
-      "Цыренов Баир Дашиевич": 28,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000190275": 114,
+      "gas:candidate-vibid:203200066887": 175,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 17,
+      "gas:candidate-vibid:1001000225872": 134,
+      "gas:candidate-vibid:203200066890": 28,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13209,14 +13209,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 109,
-      "Будаев Александр Нимбуевич": 179,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 16,
-      "Кузнецов Василий Федотович": 60,
-      "Цыренов Баир Дашиевич": 44,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000190275": 109,
+      "gas:candidate-vibid:203200066887": 179,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 16,
+      "gas:candidate-vibid:1001000225872": 60,
+      "gas:candidate-vibid:203200066890": 44,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13266,14 +13266,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 208,
-      "Будаев Александр Нимбуевич": 35,
-      "Кардаш Александр Иванович": 35,
-      "Кондаков Николай Яковлевич": 24,
-      "Кузнецов Василий Федотович": 160,
-      "Цыренов Баир Дашиевич": 9,
-      "Якунин Андрей Иванович": 14,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000190275": 208,
+      "gas:candidate-vibid:203200066887": 35,
+      "gas:candidate-vibid:1001000135994": 35,
+      "gas:candidate-vibid:203200067179": 24,
+      "gas:candidate-vibid:1001000225872": 160,
+      "gas:candidate-vibid:203200066890": 9,
+      "gas:candidate-vibid:203200067234": 14,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13323,14 +13323,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 82,
-      "Будаев Александр Нимбуевич": 184,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 25,
-      "Кузнецов Василий Федотович": 76,
-      "Цыренов Баир Дашиевич": 96,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000190275": 82,
+      "gas:candidate-vibid:203200066887": 184,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 25,
+      "gas:candidate-vibid:1001000225872": 76,
+      "gas:candidate-vibid:203200066890": 96,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13380,14 +13380,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 174,
-      "Будаев Александр Нимбуевич": 270,
-      "Кардаш Александр Иванович": 4,
-      "Кондаков Николай Яковлевич": 136,
-      "Кузнецов Василий Федотович": 58,
-      "Цыренов Баир Дашиевич": 63,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000190275": 174,
+      "gas:candidate-vibid:203200066887": 270,
+      "gas:candidate-vibid:1001000135994": 4,
+      "gas:candidate-vibid:203200067179": 136,
+      "gas:candidate-vibid:1001000225872": 58,
+      "gas:candidate-vibid:203200066890": 63,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13437,14 +13437,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 38,
-      "Будаев Александр Нимбуевич": 6,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 13,
-      "Кузнецов Василий Федотович": 19,
-      "Цыренов Баир Дашиевич": 3,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 38,
+      "gas:candidate-vibid:203200066887": 6,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 13,
+      "gas:candidate-vibid:1001000225872": 19,
+      "gas:candidate-vibid:203200066890": 3,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13494,14 +13494,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 31,
-      "Будаев Александр Нимбуевич": 37,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 20,
-      "Кузнецов Василий Федотович": 7,
-      "Цыренов Баир Дашиевич": 11,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000190275": 31,
+      "gas:candidate-vibid:203200066887": 37,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 20,
+      "gas:candidate-vibid:1001000225872": 7,
+      "gas:candidate-vibid:203200066890": 11,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13551,14 +13551,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 268,
-      "Будаев Александр Нимбуевич": 37,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 49,
-      "Кузнецов Василий Федотович": 48,
-      "Цыренов Баир Дашиевич": 15,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000190275": 268,
+      "gas:candidate-vibid:203200066887": 37,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 49,
+      "gas:candidate-vibid:1001000225872": 48,
+      "gas:candidate-vibid:203200066890": 15,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13608,14 +13608,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 206,
-      "Будаев Александр Нимбуевич": 209,
-      "Кардаш Александр Иванович": 23,
-      "Кондаков Николай Яковлевич": 79,
-      "Кузнецов Василий Федотович": 156,
-      "Цыренов Баир Дашиевич": 87,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000190275": 206,
+      "gas:candidate-vibid:203200066887": 209,
+      "gas:candidate-vibid:1001000135994": 23,
+      "gas:candidate-vibid:203200067179": 79,
+      "gas:candidate-vibid:1001000225872": 156,
+      "gas:candidate-vibid:203200066890": 87,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13665,14 +13665,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 253,
-      "Будаев Александр Нимбуевич": 191,
-      "Кардаш Александр Иванович": 7,
-      "Кондаков Николай Яковлевич": 53,
-      "Кузнецов Василий Федотович": 171,
-      "Цыренов Баир Дашиевич": 87,
-      "Якунин Андрей Иванович": 2,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000190275": 253,
+      "gas:candidate-vibid:203200066887": 191,
+      "gas:candidate-vibid:1001000135994": 7,
+      "gas:candidate-vibid:203200067179": 53,
+      "gas:candidate-vibid:1001000225872": 171,
+      "gas:candidate-vibid:203200066890": 87,
+      "gas:candidate-vibid:203200067234": 2,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13722,14 +13722,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 116,
-      "Будаев Александр Нимбуевич": 54,
-      "Кардаш Александр Иванович": 15,
-      "Кондаков Николай Яковлевич": 20,
-      "Кузнецов Василий Федотович": 75,
-      "Цыренов Баир Дашиевич": 30,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000190275": 116,
+      "gas:candidate-vibid:203200066887": 54,
+      "gas:candidate-vibid:1001000135994": 15,
+      "gas:candidate-vibid:203200067179": 20,
+      "gas:candidate-vibid:1001000225872": 75,
+      "gas:candidate-vibid:203200066890": 30,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13779,14 +13779,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 224,
-      "Будаев Александр Нимбуевич": 116,
-      "Кардаш Александр Иванович": 12,
-      "Кондаков Николай Яковлевич": 48,
-      "Кузнецов Василий Федотович": 164,
-      "Цыренов Баир Дашиевич": 38,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000190275": 224,
+      "gas:candidate-vibid:203200066887": 116,
+      "gas:candidate-vibid:1001000135994": 12,
+      "gas:candidate-vibid:203200067179": 48,
+      "gas:candidate-vibid:1001000225872": 164,
+      "gas:candidate-vibid:203200066890": 38,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066975&region=0&sub_region=0&type=429",
@@ -13836,14 +13836,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 5,
-      "Будаев Александр Нимбуевич": 88,
-      "Кардаш Александр Иванович": 1,
-      "Кондаков Николай Яковлевич": 3,
-      "Кузнецов Василий Федотович": 15,
-      "Цыренов Баир Дашиевич": 19,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190275": 5,
+      "gas:candidate-vibid:203200066887": 88,
+      "gas:candidate-vibid:1001000135994": 1,
+      "gas:candidate-vibid:203200067179": 3,
+      "gas:candidate-vibid:1001000225872": 15,
+      "gas:candidate-vibid:203200066890": 19,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -13893,14 +13893,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 56,
-      "Будаев Александр Нимбуевич": 5,
-      "Кардаш Александр Иванович": 3,
-      "Кондаков Николай Яковлевич": 11,
-      "Кузнецов Василий Федотович": 86,
-      "Цыренов Баир Дашиевич": 7,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000190275": 56,
+      "gas:candidate-vibid:203200066887": 5,
+      "gas:candidate-vibid:1001000135994": 3,
+      "gas:candidate-vibid:203200067179": 11,
+      "gas:candidate-vibid:1001000225872": 86,
+      "gas:candidate-vibid:203200066890": 7,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -13950,14 +13950,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 354,
-      "Будаев Александр Нимбуевич": 29,
-      "Кардаш Александр Иванович": 14,
-      "Кондаков Николай Яковлевич": 22,
-      "Кузнецов Василий Федотович": 211,
-      "Цыренов Баир Дашиевич": 21,
-      "Якунин Андрей Иванович": 4,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000190275": 354,
+      "gas:candidate-vibid:203200066887": 29,
+      "gas:candidate-vibid:1001000135994": 14,
+      "gas:candidate-vibid:203200067179": 22,
+      "gas:candidate-vibid:1001000225872": 211,
+      "gas:candidate-vibid:203200066890": 21,
+      "gas:candidate-vibid:203200067234": 4,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -14007,14 +14007,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 45,
-      "Будаев Александр Нимбуевич": 87,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 7,
-      "Кузнецов Василий Федотович": 60,
-      "Цыренов Баир Дашиевич": 35,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000190275": 45,
+      "gas:candidate-vibid:203200066887": 87,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 7,
+      "gas:candidate-vibid:1001000225872": 60,
+      "gas:candidate-vibid:203200066890": 35,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -14064,14 +14064,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 30,
-      "Будаев Александр Нимбуевич": 3,
-      "Кардаш Александр Иванович": 2,
-      "Кондаков Николай Яковлевич": 0,
-      "Кузнецов Василий Федотович": 107,
-      "Цыренов Баир Дашиевич": 1,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000190275": 30,
+      "gas:candidate-vibid:203200066887": 3,
+      "gas:candidate-vibid:1001000135994": 2,
+      "gas:candidate-vibid:203200067179": 0,
+      "gas:candidate-vibid:1001000225872": 107,
+      "gas:candidate-vibid:203200066890": 1,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -14121,14 +14121,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 87,
-      "Будаев Александр Нимбуевич": 130,
-      "Кардаш Александр Иванович": 0,
-      "Кондаков Николай Яковлевич": 9,
-      "Кузнецов Василий Федотович": 34,
-      "Цыренов Баир Дашиевич": 45,
-      "Якунин Андрей Иванович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000190275": 87,
+      "gas:candidate-vibid:203200066887": 130,
+      "gas:candidate-vibid:1001000135994": 0,
+      "gas:candidate-vibid:203200067179": 9,
+      "gas:candidate-vibid:1001000225872": 34,
+      "gas:candidate-vibid:203200066890": 45,
+      "gas:candidate-vibid:203200067234": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -14178,14 +14178,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 418,
-      "Будаев Александр Нимбуевич": 878,
-      "Кардаш Александр Иванович": 10,
-      "Кондаков Николай Яковлевич": 26,
-      "Кузнецов Василий Федотович": 240,
-      "Цыренов Баир Дашиевич": 206,
-      "Якунин Андрей Иванович": 1,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000190275": 418,
+      "gas:candidate-vibid:203200066887": 878,
+      "gas:candidate-vibid:1001000135994": 10,
+      "gas:candidate-vibid:203200067179": 26,
+      "gas:candidate-vibid:1001000225872": 240,
+      "gas:candidate-vibid:203200066890": 206,
+      "gas:candidate-vibid:203200067234": 1,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",
@@ -14235,14 +14235,14 @@ export const duma_2003_uik_428_region_4_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Белобородов Иннокентий Георгиевич": 231,
-      "Будаев Александр Нимбуевич": 507,
-      "Кардаш Александр Иванович": 8,
-      "Кондаков Николай Яковлевич": 79,
-      "Кузнецов Василий Федотович": 126,
-      "Цыренов Баир Дашиевич": 102,
-      "Якунин Андрей Иванович": 3,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000190275": 231,
+      "gas:candidate-vibid:203200066887": 507,
+      "gas:candidate-vibid:1001000135994": 8,
+      "gas:candidate-vibid:203200067179": 79,
+      "gas:candidate-vibid:1001000225872": 126,
+      "gas:candidate-vibid:203200066890": 102,
+      "gas:candidate-vibid:203200067234": 3,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=32000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=203200066976&region=0&sub_region=0&type=429",

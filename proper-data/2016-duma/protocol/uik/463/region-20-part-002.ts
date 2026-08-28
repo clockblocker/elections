@@ -43,11 +43,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 112,
-      "Делимханов Адам Султанович": 2375,
-      "Денильханов Исмаил Султанович": 5,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 112,
+      "gas:candidate-vibid:2202000424762": 2375,
+      "gas:candidate-vibid:2202000423829": 5,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -98,11 +98,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 23,
-      "Делимханов Адам Султанович": 493,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 23,
+      "gas:candidate-vibid:2202000424762": 493,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -153,11 +153,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 50,
-      "Делимханов Адам Султанович": 1053,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 50,
+      "gas:candidate-vibid:2202000424762": 1053,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -208,11 +208,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 35,
-      "Делимханов Адам Султанович": 756,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 35,
+      "gas:candidate-vibid:2202000424762": 756,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -263,11 +263,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 51,
-      "Делимханов Адам Султанович": 1099,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 51,
+      "gas:candidate-vibid:2202000424762": 1099,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -318,11 +318,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 29,
-      "Делимханов Адам Султанович": 628,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 29,
+      "gas:candidate-vibid:2202000424762": 628,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -373,11 +373,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 17,
-      "Делимханов Адам Султанович": 367,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 17,
+      "gas:candidate-vibid:2202000424762": 367,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412286&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412286&type=464",
@@ -428,11 +428,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 25,
-      "Делимханов Адам Султанович": 2472,
-      "Денильханов Исмаил Султанович": 28,
-      "Фатуллаева Альбина Ясановна": 12,
-      "Чувашов Максим Сергеевич": 15
+      "gas:candidate-vibid:2202000424832": 25,
+      "gas:candidate-vibid:2202000424762": 2472,
+      "gas:candidate-vibid:2202000423829": 28,
+      "gas:candidate-vibid:2202000423065": 12,
+      "gas:candidate-vibid:2202000423841": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -483,11 +483,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 26,
-      "Делимханов Адам Султанович": 2524,
-      "Денильханов Исмаил Султанович": 38,
-      "Фатуллаева Альбина Ясановна": 10,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 26,
+      "gas:candidate-vibid:2202000424762": 2524,
+      "gas:candidate-vibid:2202000423829": 38,
+      "gas:candidate-vibid:2202000423065": 10,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -538,11 +538,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 27,
-      "Делимханов Адам Султанович": 2606,
-      "Денильханов Исмаил Султанович": 36,
-      "Фатуллаева Альбина Ясановна": 13,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 27,
+      "gas:candidate-vibid:2202000424762": 2606,
+      "gas:candidate-vibid:2202000423829": 36,
+      "gas:candidate-vibid:2202000423065": 13,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -593,11 +593,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 23,
-      "Делимханов Адам Султанович": 2293,
-      "Денильханов Исмаил Султанович": 41,
-      "Фатуллаева Альбина Ясановна": 14,
-      "Чувашов Максим Сергеевич": 17
+      "gas:candidate-vibid:2202000424832": 23,
+      "gas:candidate-vibid:2202000424762": 2293,
+      "gas:candidate-vibid:2202000423829": 41,
+      "gas:candidate-vibid:2202000423065": 14,
+      "gas:candidate-vibid:2202000423841": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -648,11 +648,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 22,
-      "Делимханов Адам Султанович": 2204,
-      "Денильханов Исмаил Султанович": 61,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 22,
+      "gas:candidate-vibid:2202000424762": 2204,
+      "gas:candidate-vibid:2202000423829": 61,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -703,11 +703,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 2128,
-      "Денильханов Исмаил Султанович": 45,
-      "Фатуллаева Альбина Ясановна": 16,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 2128,
+      "gas:candidate-vibid:2202000423829": 45,
+      "gas:candidate-vibid:2202000423065": 16,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -758,11 +758,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 23,
-      "Делимханов Адам Султанович": 2392,
-      "Денильханов Исмаил Султанович": 39,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 6
+      "gas:candidate-vibid:2202000424832": 23,
+      "gas:candidate-vibid:2202000424762": 2392,
+      "gas:candidate-vibid:2202000423829": 39,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -813,11 +813,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 24,
-      "Делимханов Адам Султанович": 2314,
-      "Денильханов Исмаил Султанович": 40,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 24,
+      "gas:candidate-vibid:2202000424762": 2314,
+      "gas:candidate-vibid:2202000423829": 40,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -868,11 +868,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 2189,
-      "Денильханов Исмаил Султанович": 44,
-      "Фатуллаева Альбина Ясановна": 16,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 2189,
+      "gas:candidate-vibid:2202000423829": 44,
+      "gas:candidate-vibid:2202000423065": 16,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -923,11 +923,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 33,
-      "Делимханов Адам Султанович": 2368,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 9,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 33,
+      "gas:candidate-vibid:2202000424762": 2368,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 9,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -978,11 +978,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 23,
-      "Делимханов Адам Султанович": 2389,
-      "Денильханов Исмаил Султанович": 38,
-      "Фатуллаева Альбина Ясановна": 13,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 23,
+      "gas:candidate-vibid:2202000424762": 2389,
+      "gas:candidate-vibid:2202000423829": 38,
+      "gas:candidate-vibid:2202000423065": 13,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1033,11 +1033,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 9,
-      "Делимханов Адам Султанович": 917,
-      "Денильханов Исмаил Султанович": 11,
-      "Фатуллаева Альбина Ясановна": 3,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 9,
+      "gas:candidate-vibid:2202000424762": 917,
+      "gas:candidate-vibid:2202000423829": 11,
+      "gas:candidate-vibid:2202000423065": 3,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1088,11 +1088,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 12,
-      "Делимханов Адам Султанович": 1297,
-      "Денильханов Исмаил Султанович": 7,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 12,
+      "gas:candidate-vibid:2202000424762": 1297,
+      "gas:candidate-vibid:2202000423829": 7,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1143,11 +1143,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 2016,
-      "Денильханов Исмаил Султанович": 48,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 2016,
+      "gas:candidate-vibid:2202000423829": 48,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1198,11 +1198,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 18,
-      "Делимханов Адам Султанович": 1569,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 21,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 18,
+      "gas:candidate-vibid:2202000424762": 1569,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 21,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1253,11 +1253,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 14,
-      "Делимханов Адам Султанович": 1528,
-      "Денильханов Исмаил Султанович": 10,
-      "Фатуллаева Альбина Ясановна": 8,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 14,
+      "gas:candidate-vibid:2202000424762": 1528,
+      "gas:candidate-vibid:2202000423829": 10,
+      "gas:candidate-vibid:2202000423065": 8,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1308,11 +1308,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 16,
-      "Делимханов Адам Султанович": 1490,
-      "Денильханов Исмаил Султанович": 39,
-      "Фатуллаева Альбина Ясановна": 18,
-      "Чувашов Максим Сергеевич": 7
+      "gas:candidate-vibid:2202000424832": 16,
+      "gas:candidate-vibid:2202000424762": 1490,
+      "gas:candidate-vibid:2202000423829": 39,
+      "gas:candidate-vibid:2202000423065": 18,
+      "gas:candidate-vibid:2202000423841": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1363,11 +1363,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 1354,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 12,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 1354,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 12,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1418,11 +1418,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 9,
-      "Делимханов Адам Султанович": 1332,
-      "Денильханов Исмаил Султанович": 19,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 9,
+      "gas:candidate-vibid:2202000424762": 1332,
+      "gas:candidate-vibid:2202000423829": 19,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1473,11 +1473,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 10,
-      "Делимханов Адам Султанович": 1114,
-      "Денильханов Исмаил Султанович": 11,
-      "Фатуллаева Альбина Ясановна": 17,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 10,
+      "gas:candidate-vibid:2202000424762": 1114,
+      "gas:candidate-vibid:2202000423829": 11,
+      "gas:candidate-vibid:2202000423065": 17,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1528,11 +1528,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 8,
-      "Делимханов Адам Султанович": 982,
-      "Денильханов Исмаил Султанович": 14,
-      "Фатуллаева Альбина Ясановна": 8,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 8,
+      "gas:candidate-vibid:2202000424762": 982,
+      "gas:candidate-vibid:2202000423829": 14,
+      "gas:candidate-vibid:2202000423065": 8,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1583,11 +1583,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 13,
-      "Делимханов Адам Султанович": 1950,
-      "Денильханов Исмаил Султанович": 48,
-      "Фатуллаева Альбина Ясановна": 17,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 13,
+      "gas:candidate-vibid:2202000424762": 1950,
+      "gas:candidate-vibid:2202000423829": 48,
+      "gas:candidate-vibid:2202000423065": 17,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1638,11 +1638,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 58,
-      "Делимханов Адам Султанович": 2597,
-      "Денильханов Исмаил Султанович": 36,
-      "Фатуллаева Альбина Ясановна": 12,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 58,
+      "gas:candidate-vibid:2202000424762": 2597,
+      "gas:candidate-vibid:2202000423829": 36,
+      "gas:candidate-vibid:2202000423065": 12,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1693,11 +1693,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 15,
-      "Делимханов Адам Султанович": 2665,
-      "Денильханов Исмаил Султанович": 44,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 15,
+      "gas:candidate-vibid:2202000424762": 2665,
+      "gas:candidate-vibid:2202000423829": 44,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1748,11 +1748,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 10,
-      "Делимханов Адам Султанович": 1144,
-      "Денильханов Исмаил Султанович": 17,
-      "Фатуллаева Альбина Ясановна": 8,
-      "Чувашов Максим Сергеевич": 8
+      "gas:candidate-vibid:2202000424832": 10,
+      "gas:candidate-vibid:2202000424762": 1144,
+      "gas:candidate-vibid:2202000423829": 17,
+      "gas:candidate-vibid:2202000423065": 8,
+      "gas:candidate-vibid:2202000423841": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1803,11 +1803,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 2031,
-      "Денильханов Исмаил Султанович": 52,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 7
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 2031,
+      "gas:candidate-vibid:2202000423829": 52,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1858,11 +1858,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 36,
-      "Делимханов Адам Султанович": 1191,
-      "Денильханов Исмаил Султанович": 41,
-      "Фатуллаева Альбина Ясановна": 21,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 36,
+      "gas:candidate-vibid:2202000424762": 1191,
+      "gas:candidate-vibid:2202000423829": 41,
+      "gas:candidate-vibid:2202000423065": 21,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1913,11 +1913,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 1451,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 7,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 1451,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 7,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -1968,11 +1968,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 15,
-      "Делимханов Адам Султанович": 1284,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 12,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 15,
+      "gas:candidate-vibid:2202000424762": 1284,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 12,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2023,11 +2023,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 7,
-      "Делимханов Адам Султанович": 898,
-      "Денильханов Исмаил Султанович": 13,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 7
+      "gas:candidate-vibid:2202000424832": 7,
+      "gas:candidate-vibid:2202000424762": 898,
+      "gas:candidate-vibid:2202000423829": 13,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2078,11 +2078,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 18,
-      "Делимханов Адам Султанович": 1294,
-      "Денильханов Исмаил Султанович": 20,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 18,
+      "gas:candidate-vibid:2202000424762": 1294,
+      "gas:candidate-vibid:2202000423829": 20,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2133,11 +2133,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 18,
-      "Делимханов Адам Султанович": 1267,
-      "Денильханов Исмаил Султанович": 20,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 18,
+      "gas:candidate-vibid:2202000424762": 1267,
+      "gas:candidate-vibid:2202000423829": 20,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2188,11 +2188,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 20,
-      "Делимханов Адам Султанович": 1370,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 9,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 20,
+      "gas:candidate-vibid:2202000424762": 1370,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 9,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2243,11 +2243,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 1056,
-      "Денильханов Исмаил Султанович": 17,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 1056,
+      "gas:candidate-vibid:2202000423829": 17,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2298,11 +2298,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2353,11 +2353,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 2,
-      "Делимханов Адам Султанович": 137,
-      "Денильханов Исмаил Султанович": 11,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 2,
+      "gas:candidate-vibid:2202000424762": 137,
+      "gas:candidate-vibid:2202000423829": 11,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412287&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412287&type=464",
@@ -2408,11 +2408,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 1366,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 1366,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2463,11 +2463,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 71,
-      "Делимханов Адам Султанович": 2712,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 71,
+      "gas:candidate-vibid:2202000424762": 2712,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2518,11 +2518,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 71,
-      "Делимханов Адам Султанович": 1446,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 71,
+      "gas:candidate-vibid:2202000424762": 1446,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2573,11 +2573,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 82,
-      "Делимханов Адам Султанович": 2850,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 82,
+      "gas:candidate-vibid:2202000424762": 2850,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2628,11 +2628,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 51,
-      "Делимханов Адам Султанович": 2830,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 51,
+      "gas:candidate-vibid:2202000424762": 2830,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2683,11 +2683,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 30,
-      "Делимханов Адам Султанович": 1198,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 30,
+      "gas:candidate-vibid:2202000424762": 1198,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2738,11 +2738,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 27,
-      "Делимханов Адам Султанович": 1728,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 27,
+      "gas:candidate-vibid:2202000424762": 1728,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2793,11 +2793,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 48,
-      "Делимханов Адам Султанович": 991,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 48,
+      "gas:candidate-vibid:2202000424762": 991,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2848,11 +2848,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 31,
-      "Делимханов Адам Султанович": 1261,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 31,
+      "gas:candidate-vibid:2202000424762": 1261,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2903,11 +2903,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 1286,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 1286,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -2958,11 +2958,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 68,
-      "Делимханов Адам Султанович": 1686,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 68,
+      "gas:candidate-vibid:2202000424762": 1686,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3013,11 +3013,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 94,
-      "Делимханов Адам Султанович": 2743,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 94,
+      "gas:candidate-vibid:2202000424762": 2743,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3068,11 +3068,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 68,
-      "Делимханов Адам Султанович": 1711,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 68,
+      "gas:candidate-vibid:2202000424762": 1711,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3123,11 +3123,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 30,
-      "Делимханов Адам Султанович": 1353,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 30,
+      "gas:candidate-vibid:2202000424762": 1353,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3178,11 +3178,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 79,
-      "Делимханов Адам Султанович": 1456,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 79,
+      "gas:candidate-vibid:2202000424762": 1456,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3233,11 +3233,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 81,
-      "Делимханов Адам Султанович": 1786,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 81,
+      "gas:candidate-vibid:2202000424762": 1786,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3288,11 +3288,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 10,
-      "Делимханов Адам Султанович": 438,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 10,
+      "gas:candidate-vibid:2202000424762": 438,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3343,11 +3343,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 27,
-      "Делимханов Адам Султанович": 1680,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 27,
+      "gas:candidate-vibid:2202000424762": 1680,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3398,11 +3398,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 82,
-      "Делимханов Адам Султанович": 2611,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 82,
+      "gas:candidate-vibid:2202000424762": 2611,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3453,11 +3453,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 95,
-      "Делимханов Адам Султанович": 2784,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 95,
+      "gas:candidate-vibid:2202000424762": 2784,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3508,11 +3508,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 73,
-      "Делимханов Адам Султанович": 1964,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 73,
+      "gas:candidate-vibid:2202000424762": 1964,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3563,11 +3563,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 35,
-      "Делимханов Адам Султанович": 916,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 35,
+      "gas:candidate-vibid:2202000424762": 916,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3618,11 +3618,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 46,
-      "Делимханов Адам Султанович": 1194,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 46,
+      "gas:candidate-vibid:2202000424762": 1194,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3673,11 +3673,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 69,
-      "Делимханов Адам Султанович": 1649,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 69,
+      "gas:candidate-vibid:2202000424762": 1649,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3728,11 +3728,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 78,
-      "Делимханов Адам Султанович": 1814,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 78,
+      "gas:candidate-vibid:2202000424762": 1814,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3783,11 +3783,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 29,
-      "Делимханов Адам Султанович": 932,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 29,
+      "gas:candidate-vibid:2202000424762": 932,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3838,11 +3838,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 47,
-      "Делимханов Адам Султанович": 721,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 47,
+      "gas:candidate-vibid:2202000424762": 721,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3893,11 +3893,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 101,
-      "Делимханов Адам Султанович": 2019,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 101,
+      "gas:candidate-vibid:2202000424762": 2019,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -3948,11 +3948,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 46,
-      "Делимханов Адам Султанович": 1460,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 46,
+      "gas:candidate-vibid:2202000424762": 1460,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4003,11 +4003,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 82,
-      "Делимханов Адам Султанович": 1934,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 82,
+      "gas:candidate-vibid:2202000424762": 1934,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4058,11 +4058,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 47,
-      "Делимханов Адам Султанович": 1714,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 47,
+      "gas:candidate-vibid:2202000424762": 1714,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4113,11 +4113,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 76,
-      "Делимханов Адам Султанович": 2032,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 76,
+      "gas:candidate-vibid:2202000424762": 2032,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4168,11 +4168,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 35,
-      "Делимханов Адам Султанович": 1636,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 35,
+      "gas:candidate-vibid:2202000424762": 1636,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4223,11 +4223,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 18,
-      "Делимханов Адам Султанович": 1767,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 18,
+      "gas:candidate-vibid:2202000424762": 1767,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4278,11 +4278,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 84,
-      "Делимханов Адам Султанович": 2605,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 84,
+      "gas:candidate-vibid:2202000424762": 2605,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4333,11 +4333,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 41,
-      "Делимханов Адам Султанович": 1487,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 41,
+      "gas:candidate-vibid:2202000424762": 1487,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4388,11 +4388,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 22,
-      "Делимханов Адам Султанович": 1199,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 22,
+      "gas:candidate-vibid:2202000424762": 1199,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4443,11 +4443,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 2762,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 2762,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4498,11 +4498,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 2,
-      "Делимханов Адам Султанович": 461,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 2,
+      "gas:candidate-vibid:2202000424762": 461,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4553,11 +4553,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 46,
-      "Делимханов Адам Султанович": 735,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 46,
+      "gas:candidate-vibid:2202000424762": 735,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4608,11 +4608,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 85,
-      "Делимханов Адам Султанович": 2377,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 85,
+      "gas:candidate-vibid:2202000424762": 2377,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4663,11 +4663,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 39,
-      "Делимханов Адам Султанович": 1044,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 39,
+      "gas:candidate-vibid:2202000424762": 1044,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4718,11 +4718,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 74,
-      "Делимханов Адам Султанович": 1927,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 74,
+      "gas:candidate-vibid:2202000424762": 1927,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4773,11 +4773,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 1107,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 1107,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4828,11 +4828,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 5,
-      "Делимханов Адам Султанович": 948,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 5,
+      "gas:candidate-vibid:2202000424762": 948,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4883,11 +4883,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4938,11 +4938,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 415,
-      "Денильханов Исмаил Султанович": 1,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 415,
+      "gas:candidate-vibid:2202000423829": 1,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412288&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412288&type=464",
@@ -4993,11 +4993,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 56,
-      "Делимханов Адам Султанович": 1133,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 11,
-      "Чувашов Максим Сергеевич": 18
+      "gas:candidate-vibid:2202000424832": 56,
+      "gas:candidate-vibid:2202000424762": 1133,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 11,
+      "gas:candidate-vibid:2202000423841": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5048,11 +5048,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 61,
-      "Делимханов Адам Султанович": 1261,
-      "Денильханов Исмаил Султанович": 42,
-      "Фатуллаева Альбина Ясановна": 14,
-      "Чувашов Максим Сергеевич": 12
+      "gas:candidate-vibid:2202000424832": 61,
+      "gas:candidate-vibid:2202000424762": 1261,
+      "gas:candidate-vibid:2202000423829": 42,
+      "gas:candidate-vibid:2202000423065": 14,
+      "gas:candidate-vibid:2202000423841": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5103,11 +5103,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 58,
-      "Делимханов Адам Султанович": 838,
-      "Денильханов Исмаил Султанович": 12,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 13
+      "gas:candidate-vibid:2202000424832": 58,
+      "gas:candidate-vibid:2202000424762": 838,
+      "gas:candidate-vibid:2202000423829": 12,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5158,11 +5158,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 68,
-      "Делимханов Адам Султанович": 1698,
-      "Денильханов Исмаил Султанович": 31,
-      "Фатуллаева Альбина Ясановна": 18,
-      "Чувашов Максим Сергеевич": 21
+      "gas:candidate-vibid:2202000424832": 68,
+      "gas:candidate-vibid:2202000424762": 1698,
+      "gas:candidate-vibid:2202000423829": 31,
+      "gas:candidate-vibid:2202000423065": 18,
+      "gas:candidate-vibid:2202000423841": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5213,11 +5213,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 51,
-      "Делимханов Адам Султанович": 2206,
-      "Денильханов Исмаил Султанович": 44,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 23
+      "gas:candidate-vibid:2202000424832": 51,
+      "gas:candidate-vibid:2202000424762": 2206,
+      "gas:candidate-vibid:2202000423829": 44,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5268,11 +5268,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 32,
-      "Делимханов Адам Султанович": 680,
-      "Денильханов Исмаил Султанович": 15,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 13
+      "gas:candidate-vibid:2202000424832": 32,
+      "gas:candidate-vibid:2202000424762": 680,
+      "gas:candidate-vibid:2202000423829": 15,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5323,11 +5323,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 68,
-      "Делимханов Адам Султанович": 1244,
-      "Денильханов Исмаил Султанович": 31,
-      "Фатуллаева Альбина Ясановна": 7,
-      "Чувашов Максим Сергеевич": 23
+      "gas:candidate-vibid:2202000424832": 68,
+      "gas:candidate-vibid:2202000424762": 1244,
+      "gas:candidate-vibid:2202000423829": 31,
+      "gas:candidate-vibid:2202000423065": 7,
+      "gas:candidate-vibid:2202000423841": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5378,11 +5378,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 66,
-      "Делимханов Адам Султанович": 1396,
-      "Денильханов Исмаил Султанович": 23,
-      "Фатуллаева Альбина Ясановна": 4,
-      "Чувашов Максим Сергеевич": 12
+      "gas:candidate-vibid:2202000424832": 66,
+      "gas:candidate-vibid:2202000424762": 1396,
+      "gas:candidate-vibid:2202000423829": 23,
+      "gas:candidate-vibid:2202000423065": 4,
+      "gas:candidate-vibid:2202000423841": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5433,11 +5433,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 72,
-      "Делимханов Адам Султанович": 1362,
-      "Денильханов Исмаил Султанович": 36,
-      "Фатуллаева Альбина Ясановна": 8,
-      "Чувашов Максим Сергеевич": 12
+      "gas:candidate-vibid:2202000424832": 72,
+      "gas:candidate-vibid:2202000424762": 1362,
+      "gas:candidate-vibid:2202000423829": 36,
+      "gas:candidate-vibid:2202000423065": 8,
+      "gas:candidate-vibid:2202000423841": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5488,11 +5488,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 90,
-      "Делимханов Адам Султанович": 2539,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 30,
-      "Чувашов Максим Сергеевич": 22
+      "gas:candidate-vibid:2202000424832": 90,
+      "gas:candidate-vibid:2202000424762": 2539,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 30,
+      "gas:candidate-vibid:2202000423841": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5543,11 +5543,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 86,
-      "Делимханов Адам Султанович": 1661,
-      "Денильханов Исмаил Султанович": 56,
-      "Фатуллаева Альбина Ясановна": 54,
-      "Чувашов Максим Сергеевич": 11
+      "gas:candidate-vibid:2202000424832": 86,
+      "gas:candidate-vibid:2202000424762": 1661,
+      "gas:candidate-vibid:2202000423829": 56,
+      "gas:candidate-vibid:2202000423065": 54,
+      "gas:candidate-vibid:2202000423841": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5598,11 +5598,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 78,
-      "Делимханов Адам Султанович": 2363,
-      "Денильханов Исмаил Султанович": 201,
-      "Фатуллаева Альбина Ясановна": 61,
-      "Чувашов Максим Сергеевич": 23
+      "gas:candidate-vibid:2202000424832": 78,
+      "gas:candidate-vibid:2202000424762": 2363,
+      "gas:candidate-vibid:2202000423829": 201,
+      "gas:candidate-vibid:2202000423065": 61,
+      "gas:candidate-vibid:2202000423841": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5653,11 +5653,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 44,
-      "Делимханов Адам Султанович": 1428,
-      "Денильханов Исмаил Султанович": 180,
-      "Фатуллаева Альбина Ясановна": 31,
-      "Чувашов Максим Сергеевич": 17
+      "gas:candidate-vibid:2202000424832": 44,
+      "gas:candidate-vibid:2202000424762": 1428,
+      "gas:candidate-vibid:2202000423829": 180,
+      "gas:candidate-vibid:2202000423065": 31,
+      "gas:candidate-vibid:2202000423841": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5708,11 +5708,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 86,
-      "Делимханов Адам Султанович": 2452,
-      "Денильханов Исмаил Султанович": 34,
-      "Фатуллаева Альбина Ясановна": 123,
-      "Чувашов Максим Сергеевич": 24
+      "gas:candidate-vibid:2202000424832": 86,
+      "gas:candidate-vibid:2202000424762": 2452,
+      "gas:candidate-vibid:2202000423829": 34,
+      "gas:candidate-vibid:2202000423065": 123,
+      "gas:candidate-vibid:2202000423841": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5763,11 +5763,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 32,
-      "Делимханов Адам Султанович": 1350,
-      "Денильханов Исмаил Султанович": 236,
-      "Фатуллаева Альбина Ясановна": 37,
-      "Чувашов Максим Сергеевич": 11
+      "gas:candidate-vibid:2202000424832": 32,
+      "gas:candidate-vibid:2202000424762": 1350,
+      "gas:candidate-vibid:2202000423829": 236,
+      "gas:candidate-vibid:2202000423065": 37,
+      "gas:candidate-vibid:2202000423841": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5818,11 +5818,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 34,
-      "Делимханов Адам Султанович": 1916,
-      "Денильханов Исмаил Султанович": 25,
-      "Фатуллаева Альбина Ясановна": 41,
-      "Чувашов Максим Сергеевич": 13
+      "gas:candidate-vibid:2202000424832": 34,
+      "gas:candidate-vibid:2202000424762": 1916,
+      "gas:candidate-vibid:2202000423829": 25,
+      "gas:candidate-vibid:2202000423065": 41,
+      "gas:candidate-vibid:2202000423841": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5873,11 +5873,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 41,
-      "Делимханов Адам Султанович": 1316,
-      "Денильханов Исмаил Султанович": 31,
-      "Фатуллаева Альбина Ясановна": 16,
-      "Чувашов Максим Сергеевич": 6
+      "gas:candidate-vibid:2202000424832": 41,
+      "gas:candidate-vibid:2202000424762": 1316,
+      "gas:candidate-vibid:2202000423829": 31,
+      "gas:candidate-vibid:2202000423065": 16,
+      "gas:candidate-vibid:2202000423841": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5928,11 +5928,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -5983,11 +5983,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412289&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412289&type=464",
@@ -6038,11 +6038,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 10,
-      "Делимханов Адам Султанович": 335,
-      "Денильханов Исмаил Султанович": 8,
-      "Фатуллаева Альбина Ясановна": 7,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 10,
+      "gas:candidate-vibid:2202000424762": 335,
+      "gas:candidate-vibid:2202000423829": 8,
+      "gas:candidate-vibid:2202000423065": 7,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6093,11 +6093,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 17,
-      "Делимханов Адам Султанович": 1019,
-      "Денильханов Исмаил Султанович": 11,
-      "Фатуллаева Альбина Ясановна": 10,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 17,
+      "gas:candidate-vibid:2202000424762": 1019,
+      "gas:candidate-vibid:2202000423829": 11,
+      "gas:candidate-vibid:2202000423065": 10,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6148,11 +6148,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 14,
-      "Делимханов Адам Султанович": 942,
-      "Денильханов Исмаил Султанович": 8,
-      "Фатуллаева Альбина Ясановна": 8,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 14,
+      "gas:candidate-vibid:2202000424762": 942,
+      "gas:candidate-vibid:2202000423829": 8,
+      "gas:candidate-vibid:2202000423065": 8,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6203,11 +6203,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 22,
-      "Делимханов Адам Султанович": 1228,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 29,
-      "Чувашов Максим Сергеевич": 8
+      "gas:candidate-vibid:2202000424832": 22,
+      "gas:candidate-vibid:2202000424762": 1228,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 29,
+      "gas:candidate-vibid:2202000423841": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6258,11 +6258,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 32,
-      "Делимханов Адам Султанович": 1343,
-      "Денильханов Исмаил Султанович": 10,
-      "Фатуллаева Альбина Ясановна": 7,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 32,
+      "gas:candidate-vibid:2202000424762": 1343,
+      "gas:candidate-vibid:2202000423829": 10,
+      "gas:candidate-vibid:2202000423065": 7,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6313,11 +6313,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 16,
-      "Делимханов Адам Султанович": 1186,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 7
+      "gas:candidate-vibid:2202000424832": 16,
+      "gas:candidate-vibid:2202000424762": 1186,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6368,11 +6368,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 29,
-      "Делимханов Адам Султанович": 1241,
-      "Денильханов Исмаил Султанович": 19,
-      "Фатуллаева Альбина Ясановна": 18,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 29,
+      "gas:candidate-vibid:2202000424762": 1241,
+      "gas:candidate-vibid:2202000423829": 19,
+      "gas:candidate-vibid:2202000423065": 18,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6423,11 +6423,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 474,
-      "Денильханов Исмаил Султанович": 14,
-      "Фатуллаева Альбина Ясановна": 16,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 474,
+      "gas:candidate-vibid:2202000423829": 14,
+      "gas:candidate-vibid:2202000423065": 16,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6478,11 +6478,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 21,
-      "Делимханов Адам Султанович": 1438,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 17,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 21,
+      "gas:candidate-vibid:2202000424762": 1438,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 17,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6533,11 +6533,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 32,
-      "Делимханов Адам Султанович": 2070,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 18,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 32,
+      "gas:candidate-vibid:2202000424762": 2070,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 18,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6588,11 +6588,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 33,
-      "Делимханов Адам Султанович": 2013,
-      "Денильханов Исмаил Султанович": 17,
-      "Фатуллаева Альбина Ясановна": 21,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 33,
+      "gas:candidate-vibid:2202000424762": 2013,
+      "gas:candidate-vibid:2202000423829": 17,
+      "gas:candidate-vibid:2202000423065": 21,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6643,11 +6643,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 38,
-      "Делимханов Адам Султанович": 2228,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 33,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 38,
+      "gas:candidate-vibid:2202000424762": 2228,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 33,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6698,11 +6698,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 19,
-      "Делимханов Адам Султанович": 1748,
-      "Денильханов Исмаил Султанович": 14,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 19,
+      "gas:candidate-vibid:2202000424762": 1748,
+      "gas:candidate-vibid:2202000423829": 14,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6753,11 +6753,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 12,
-      "Делимханов Адам Султанович": 922,
-      "Денильханов Исмаил Султанович": 15,
-      "Фатуллаева Альбина Ясановна": 14,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 12,
+      "gas:candidate-vibid:2202000424762": 922,
+      "gas:candidate-vibid:2202000423829": 15,
+      "gas:candidate-vibid:2202000423065": 14,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6808,11 +6808,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 9,
-      "Делимханов Адам Султанович": 733,
-      "Денильханов Исмаил Султанович": 18,
-      "Фатуллаева Альбина Ясановна": 19,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 9,
+      "gas:candidate-vibid:2202000424762": 733,
+      "gas:candidate-vibid:2202000423829": 18,
+      "gas:candidate-vibid:2202000423065": 19,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6863,11 +6863,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 11,
-      "Делимханов Адам Султанович": 1073,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 25,
-      "Чувашов Максим Сергеевич": 6
+      "gas:candidate-vibid:2202000424832": 11,
+      "gas:candidate-vibid:2202000424762": 1073,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 25,
+      "gas:candidate-vibid:2202000423841": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6918,11 +6918,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 23,
-      "Делимханов Адам Султанович": 1218,
-      "Денильханов Исмаил Султанович": 20,
-      "Фатуллаева Альбина Ясановна": 24,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 23,
+      "gas:candidate-vibid:2202000424762": 1218,
+      "gas:candidate-vibid:2202000423829": 20,
+      "gas:candidate-vibid:2202000423065": 24,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -6973,11 +6973,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 29,
-      "Делимханов Адам Султанович": 1189,
-      "Денильханов Исмаил Султанович": 21,
-      "Фатуллаева Альбина Ясановна": 17,
-      "Чувашов Максим Сергеевич": 7
+      "gas:candidate-vibid:2202000424832": 29,
+      "gas:candidate-vibid:2202000424762": 1189,
+      "gas:candidate-vibid:2202000423829": 21,
+      "gas:candidate-vibid:2202000423065": 17,
+      "gas:candidate-vibid:2202000423841": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7028,11 +7028,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 11,
-      "Делимханов Адам Султанович": 329,
-      "Денильханов Исмаил Султанович": 13,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 11,
+      "gas:candidate-vibid:2202000424762": 329,
+      "gas:candidate-vibid:2202000423829": 13,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7083,11 +7083,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 14,
-      "Делимханов Адам Султанович": 555,
-      "Денильханов Исмаил Султанович": 16,
-      "Фатуллаева Альбина Ясановна": 22,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 14,
+      "gas:candidate-vibid:2202000424762": 555,
+      "gas:candidate-vibid:2202000423829": 16,
+      "gas:candidate-vibid:2202000423065": 22,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7138,11 +7138,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 28,
-      "Делимханов Адам Султанович": 1182,
-      "Денильханов Исмаил Султанович": 31,
-      "Фатуллаева Альбина Ясановна": 35,
-      "Чувашов Максим Сергеевич": 12
+      "gas:candidate-vibid:2202000424832": 28,
+      "gas:candidate-vibid:2202000424762": 1182,
+      "gas:candidate-vibid:2202000423829": 31,
+      "gas:candidate-vibid:2202000423065": 35,
+      "gas:candidate-vibid:2202000423841": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7193,11 +7193,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 63,
-      "Делимханов Адам Султанович": 2052,
-      "Денильханов Исмаил Султанович": 38,
-      "Фатуллаева Альбина Ясановна": 28,
-      "Чувашов Максим Сергеевич": 11
+      "gas:candidate-vibid:2202000424832": 63,
+      "gas:candidate-vibid:2202000424762": 2052,
+      "gas:candidate-vibid:2202000423829": 38,
+      "gas:candidate-vibid:2202000423065": 28,
+      "gas:candidate-vibid:2202000423841": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7248,11 +7248,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 9,
-      "Делимханов Адам Султанович": 154,
-      "Денильханов Исмаил Султанович": 8,
-      "Фатуллаева Альбина Ясановна": 9,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 9,
+      "gas:candidate-vibid:2202000424762": 154,
+      "gas:candidate-vibid:2202000423829": 8,
+      "gas:candidate-vibid:2202000423065": 9,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7303,11 +7303,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 13,
-      "Делимханов Адам Султанович": 312,
-      "Денильханов Исмаил Султанович": 17,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 13,
+      "gas:candidate-vibid:2202000424762": 312,
+      "gas:candidate-vibid:2202000423829": 17,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7358,11 +7358,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7413,11 +7413,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412291&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412291&type=464",
@@ -7468,11 +7468,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 49,
-      "Делимханов Адам Султанович": 1498,
-      "Денильханов Исмаил Султанович": 82,
-      "Фатуллаева Альбина Ясановна": 16,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 49,
+      "gas:candidate-vibid:2202000424762": 1498,
+      "gas:candidate-vibid:2202000423829": 82,
+      "gas:candidate-vibid:2202000423065": 16,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7523,11 +7523,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 45,
-      "Делимханов Адам Султанович": 1328,
-      "Денильханов Исмаил Султанович": 75,
-      "Фатуллаева Альбина Ясановна": 14,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 45,
+      "gas:candidate-vibid:2202000424762": 1328,
+      "gas:candidate-vibid:2202000423829": 75,
+      "gas:candidate-vibid:2202000423065": 14,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7578,11 +7578,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 28,
-      "Делимханов Адам Султанович": 895,
-      "Денильханов Исмаил Султанович": 47,
-      "Фатуллаева Альбина Ясановна": 10,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 28,
+      "gas:candidate-vibid:2202000424762": 895,
+      "gas:candidate-vibid:2202000423829": 47,
+      "gas:candidate-vibid:2202000423065": 10,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7633,11 +7633,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 33,
-      "Делимханов Адам Султанович": 971,
-      "Денильханов Исмаил Султанович": 52,
-      "Фатуллаева Альбина Ясановна": 11,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 33,
+      "gas:candidate-vibid:2202000424762": 971,
+      "gas:candidate-vibid:2202000423829": 52,
+      "gas:candidate-vibid:2202000423065": 11,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7688,11 +7688,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 32,
-      "Делимханов Адам Султанович": 1076,
-      "Денильханов Исмаил Султанович": 58,
-      "Фатуллаева Альбина Ясановна": 13,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 32,
+      "gas:candidate-vibid:2202000424762": 1076,
+      "gas:candidate-vibid:2202000423829": 58,
+      "gas:candidate-vibid:2202000423065": 13,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7743,11 +7743,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 33,
-      "Делимханов Адам Султанович": 1107,
-      "Денильханов Исмаил Султанович": 62,
-      "Фатуллаева Альбина Ясановна": 11,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 33,
+      "gas:candidate-vibid:2202000424762": 1107,
+      "gas:candidate-vibid:2202000423829": 62,
+      "gas:candidate-vibid:2202000423065": 11,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7798,11 +7798,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 40,
-      "Делимханов Адам Султанович": 1304,
-      "Денильханов Исмаил Султанович": 70,
-      "Фатуллаева Альбина Ясановна": 13,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 40,
+      "gas:candidate-vibid:2202000424762": 1304,
+      "gas:candidate-vibid:2202000423829": 70,
+      "gas:candidate-vibid:2202000423065": 13,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7853,11 +7853,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 36,
-      "Делимханов Адам Султанович": 1133,
-      "Денильханов Исмаил Султанович": 60,
-      "Фатуллаева Альбина Ясановна": 13,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 36,
+      "gas:candidate-vibid:2202000424762": 1133,
+      "gas:candidate-vibid:2202000423829": 60,
+      "gas:candidate-vibid:2202000423065": 13,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7908,11 +7908,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 50,
-      "Делимханов Адам Султанович": 1508,
-      "Денильханов Исмаил Султанович": 84,
-      "Фатуллаева Альбина Ясановна": 17,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 50,
+      "gas:candidate-vibid:2202000424762": 1508,
+      "gas:candidate-vibid:2202000423829": 84,
+      "gas:candidate-vibid:2202000423065": 17,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -7963,11 +7963,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 52,
-      "Делимханов Адам Султанович": 1394,
-      "Денильханов Исмаил Султанович": 74,
-      "Фатуллаева Альбина Ясановна": 14,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 52,
+      "gas:candidate-vibid:2202000424762": 1394,
+      "gas:candidate-vibid:2202000423829": 74,
+      "gas:candidate-vibid:2202000423065": 14,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8018,11 +8018,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 45,
-      "Делимханов Адам Султанович": 1590,
-      "Денильханов Исмаил Султанович": 92,
-      "Фатуллаева Альбина Ясановна": 10,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 45,
+      "gas:candidate-vibid:2202000424762": 1590,
+      "gas:candidate-vibid:2202000423829": 92,
+      "gas:candidate-vibid:2202000423065": 10,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8073,11 +8073,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 60,
-      "Делимханов Адам Султанович": 1785,
-      "Денильханов Исмаил Султанович": 99,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 60,
+      "gas:candidate-vibid:2202000424762": 1785,
+      "gas:candidate-vibid:2202000423829": 99,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8128,11 +8128,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 42,
-      "Делимханов Адам Султанович": 1230,
-      "Денильханов Исмаил Султанович": 65,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 42,
+      "gas:candidate-vibid:2202000424762": 1230,
+      "gas:candidate-vibid:2202000423829": 65,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8183,11 +8183,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 50,
-      "Делимханов Адам Султанович": 1679,
-      "Денильханов Исмаил Султанович": 90,
-      "Фатуллаева Альбина Ясановна": 19,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 50,
+      "gas:candidate-vibid:2202000424762": 1679,
+      "gas:candidate-vibid:2202000423829": 90,
+      "gas:candidate-vibid:2202000423065": 19,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8238,11 +8238,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 88,
-      "Делимханов Адам Султанович": 2641,
-      "Денильханов Исмаил Султанович": 140,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 18
+      "gas:candidate-vibid:2202000424832": 88,
+      "gas:candidate-vibid:2202000424762": 2641,
+      "gas:candidate-vibid:2202000423829": 140,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8293,11 +8293,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 74,
-      "Делимханов Адам Султанович": 2187,
-      "Денильханов Исмаил Султанович": 123,
-      "Фатуллаева Альбина Ясановна": 22,
-      "Чувашов Максим Сергеевич": 12
+      "gas:candidate-vibid:2202000424832": 74,
+      "gas:candidate-vibid:2202000424762": 2187,
+      "gas:candidate-vibid:2202000423829": 123,
+      "gas:candidate-vibid:2202000423065": 22,
+      "gas:candidate-vibid:2202000423841": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8348,11 +8348,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 49,
-      "Делимханов Адам Султанович": 1490,
-      "Денильханов Исмаил Султанович": 82,
-      "Фатуллаева Альбина Ясановна": 14,
-      "Чувашов Максим Сергеевич": 6
+      "gas:candidate-vibid:2202000424832": 49,
+      "gas:candidate-vibid:2202000424762": 1490,
+      "gas:candidate-vibid:2202000423829": 82,
+      "gas:candidate-vibid:2202000423065": 14,
+      "gas:candidate-vibid:2202000423841": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8403,11 +8403,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 65,
-      "Делимханов Адам Султанович": 2007,
-      "Денильханов Исмаил Султанович": 110,
-      "Фатуллаева Альбина Ясановна": 19,
-      "Чувашов Максим Сергеевич": 6
+      "gas:candidate-vibid:2202000424832": 65,
+      "gas:candidate-vibid:2202000424762": 2007,
+      "gas:candidate-vibid:2202000423829": 110,
+      "gas:candidate-vibid:2202000423065": 19,
+      "gas:candidate-vibid:2202000423841": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8458,11 +8458,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 98,
-      "Делимханов Адам Султанович": 2554,
-      "Денильханов Исмаил Султанович": 141,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 98,
+      "gas:candidate-vibid:2202000424762": 2554,
+      "gas:candidate-vibid:2202000423829": 141,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8513,11 +8513,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 25,
-      "Делимханов Адам Султанович": 766,
-      "Денильханов Исмаил Султанович": 51,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 25,
+      "gas:candidate-vibid:2202000424762": 766,
+      "gas:candidate-vibid:2202000423829": 51,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8568,11 +8568,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 39,
-      "Делимханов Адам Султанович": 876,
-      "Денильханов Исмаил Султанович": 53,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 39,
+      "gas:candidate-vibid:2202000424762": 876,
+      "gas:candidate-vibid:2202000423829": 53,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8623,11 +8623,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 43,
-      "Делимханов Адам Султанович": 964,
-      "Денильханов Исмаил Султанович": 65,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 43,
+      "gas:candidate-vibid:2202000424762": 964,
+      "gas:candidate-vibid:2202000423829": 65,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8678,11 +8678,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 12,
-      "Делимханов Адам Султанович": 267,
-      "Денильханов Исмаил Султанович": 18,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 12,
+      "gas:candidate-vibid:2202000424762": 267,
+      "gas:candidate-vibid:2202000423829": 18,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8733,11 +8733,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 134,
-      "Делимханов Адам Султанович": 2070,
-      "Денильханов Исмаил Султанович": 72,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 134,
+      "gas:candidate-vibid:2202000424762": 2070,
+      "gas:candidate-vibid:2202000423829": 72,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412292&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412292&type=464",
@@ -8788,11 +8788,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 108,
-      "Делимханов Адам Султанович": 2655,
-      "Денильханов Исмаил Султанович": 93,
-      "Фатуллаева Альбина Ясановна": 3,
-      "Чувашов Максим Сергеевич": 1
+      "gas:candidate-vibid:2202000424832": 108,
+      "gas:candidate-vibid:2202000424762": 2655,
+      "gas:candidate-vibid:2202000423829": 93,
+      "gas:candidate-vibid:2202000423065": 3,
+      "gas:candidate-vibid:2202000423841": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -8843,11 +8843,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 122,
-      "Делимханов Адам Султанович": 2669,
-      "Денильханов Исмаил Султанович": 89,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 122,
+      "gas:candidate-vibid:2202000424762": 2669,
+      "gas:candidate-vibid:2202000423829": 89,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -8898,11 +8898,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 93,
-      "Делимханов Адам Султанович": 2649,
-      "Денильханов Исмаил Султанович": 95,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 93,
+      "gas:candidate-vibid:2202000424762": 2649,
+      "gas:candidate-vibid:2202000423829": 95,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -8953,11 +8953,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 88,
-      "Делимханов Адам Султанович": 1800,
-      "Денильханов Исмаил Султанович": 78,
-      "Фатуллаева Альбина Ясановна": 2,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 88,
+      "gas:candidate-vibid:2202000424762": 1800,
+      "gas:candidate-vibid:2202000423829": 78,
+      "gas:candidate-vibid:2202000423065": 2,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9008,11 +9008,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 104,
-      "Делимханов Адам Султанович": 1845,
-      "Денильханов Исмаил Султанович": 80,
-      "Фатуллаева Альбина Ясановна": 10,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 104,
+      "gas:candidate-vibid:2202000424762": 1845,
+      "gas:candidate-vibid:2202000423829": 80,
+      "gas:candidate-vibid:2202000423065": 10,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9063,11 +9063,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 8,
-      "Делимханов Адам Султанович": 1904,
-      "Денильханов Исмаил Султанович": 8,
-      "Фатуллаева Альбина Ясановна": 3,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 8,
+      "gas:candidate-vibid:2202000424762": 1904,
+      "gas:candidate-vibid:2202000423829": 8,
+      "gas:candidate-vibid:2202000423065": 3,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9118,11 +9118,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 85,
-      "Делимханов Адам Султанович": 1762,
-      "Денильханов Исмаил Султанович": 66,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 8
+      "gas:candidate-vibid:2202000424832": 85,
+      "gas:candidate-vibid:2202000424762": 1762,
+      "gas:candidate-vibid:2202000423829": 66,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9173,11 +9173,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 116,
-      "Делимханов Адам Султанович": 1948,
-      "Денильханов Исмаил Султанович": 70,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 116,
+      "gas:candidate-vibid:2202000424762": 1948,
+      "gas:candidate-vibid:2202000423829": 70,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9228,11 +9228,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 103,
-      "Делимханов Адам Султанович": 1770,
-      "Денильханов Исмаил Султанович": 63,
-      "Фатуллаева Альбина Ясановна": 7,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 103,
+      "gas:candidate-vibid:2202000424762": 1770,
+      "gas:candidate-vibid:2202000423829": 63,
+      "gas:candidate-vibid:2202000423065": 7,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9283,11 +9283,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 132,
-      "Делимханов Адам Султанович": 2078,
-      "Денильханов Исмаил Султанович": 80,
-      "Фатуллаева Альбина Ясановна": 3,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 132,
+      "gas:candidate-vibid:2202000424762": 2078,
+      "gas:candidate-vibid:2202000423829": 80,
+      "gas:candidate-vibid:2202000423065": 3,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9338,11 +9338,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 82,
-      "Делимханов Адам Султанович": 1987,
-      "Денильханов Исмаил Султанович": 62,
-      "Фатуллаева Альбина Ясановна": 5,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 82,
+      "gas:candidate-vibid:2202000424762": 1987,
+      "gas:candidate-vibid:2202000423829": 62,
+      "gas:candidate-vibid:2202000423065": 5,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9393,11 +9393,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 99,
-      "Делимханов Адам Султанович": 1744,
-      "Денильханов Исмаил Султанович": 54,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 99,
+      "gas:candidate-vibid:2202000424762": 1744,
+      "gas:candidate-vibid:2202000423829": 54,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9448,11 +9448,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 122,
-      "Делимханов Адам Султанович": 2281,
-      "Денильханов Исмаил Султанович": 83,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 122,
+      "gas:candidate-vibid:2202000424762": 2281,
+      "gas:candidate-vibid:2202000423829": 83,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9503,11 +9503,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 112,
-      "Делимханов Адам Султанович": 1792,
-      "Денильханов Исмаил Султанович": 76,
-      "Фатуллаева Альбина Ясановна": 9,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 112,
+      "gas:candidate-vibid:2202000424762": 1792,
+      "gas:candidate-vibid:2202000423829": 76,
+      "gas:candidate-vibid:2202000423065": 9,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9558,11 +9558,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 94,
-      "Делимханов Адам Султанович": 1797,
-      "Денильханов Исмаил Султанович": 70,
-      "Фатуллаева Альбина Ясановна": 1,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 94,
+      "gas:candidate-vibid:2202000424762": 1797,
+      "gas:candidate-vibid:2202000423829": 70,
+      "gas:candidate-vibid:2202000423065": 1,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9613,11 +9613,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 108,
-      "Делимханов Адам Султанович": 1679,
-      "Денильханов Исмаил Султанович": 68,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 108,
+      "gas:candidate-vibid:2202000424762": 1679,
+      "gas:candidate-vibid:2202000423829": 68,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9668,11 +9668,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 36,
-      "Делимханов Адам Султанович": 1532,
-      "Денильханов Исмаил Султанович": 53,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 36,
+      "gas:candidate-vibid:2202000424762": 1532,
+      "gas:candidate-vibid:2202000423829": 53,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9723,11 +9723,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 778,
-      "Денильханов Исмаил Султанович": 27,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 5
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 778,
+      "gas:candidate-vibid:2202000423829": 27,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9778,11 +9778,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 535,
-      "Денильханов Исмаил Султанович": 18,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 535,
+      "gas:candidate-vibid:2202000423829": 18,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9833,11 +9833,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 1447,
-      "Денильханов Исмаил Султанович": 59,
-      "Фатуллаева Альбина Ясановна": 3,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 1447,
+      "gas:candidate-vibid:2202000423829": 59,
+      "gas:candidate-vibid:2202000423065": 3,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9888,11 +9888,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 368,
-      "Денильханов Исмаил Султанович": 11,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 368,
+      "gas:candidate-vibid:2202000423829": 11,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9943,11 +9943,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 276,
-      "Денильханов Исмаил Султанович": 12,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 276,
+      "gas:candidate-vibid:2202000423829": 12,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -9998,11 +9998,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 149,
-      "Денильханов Исмаил Султанович": 7,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 149,
+      "gas:candidate-vibid:2202000423829": 7,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -10053,11 +10053,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 152,
-      "Денильханов Исмаил Султанович": 9,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 152,
+      "gas:candidate-vibid:2202000423829": 9,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -10108,11 +10108,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 266,
-      "Денильханов Исмаил Султанович": 15,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 266,
+      "gas:candidate-vibid:2202000423829": 15,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -10163,11 +10163,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 468,
-      "Денильханов Исмаил Султанович": 22,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 468,
+      "gas:candidate-vibid:2202000423829": 22,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412293&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412293&type=464",
@@ -10218,11 +10218,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 35,
-      "Делимханов Адам Султанович": 1033,
-      "Денильханов Исмаил Султанович": 30,
-      "Фатуллаева Альбина Ясановна": 29,
-      "Чувашов Максим Сергеевич": 34
+      "gas:candidate-vibid:2202000424832": 35,
+      "gas:candidate-vibid:2202000424762": 1033,
+      "gas:candidate-vibid:2202000423829": 30,
+      "gas:candidate-vibid:2202000423065": 29,
+      "gas:candidate-vibid:2202000423841": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10273,11 +10273,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 91,
-      "Делимханов Адам Султанович": 2050,
-      "Денильханов Исмаил Султанович": 59,
-      "Фатуллаева Альбина Ясановна": 50,
-      "Чувашов Максим Сергеевич": 49
+      "gas:candidate-vibid:2202000424832": 91,
+      "gas:candidate-vibid:2202000424762": 2050,
+      "gas:candidate-vibid:2202000423829": 59,
+      "gas:candidate-vibid:2202000423065": 50,
+      "gas:candidate-vibid:2202000423841": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10328,11 +10328,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 95,
-      "Делимханов Адам Султанович": 2088,
-      "Денильханов Исмаил Султанович": 60,
-      "Фатуллаева Альбина Ясановна": 55,
-      "Чувашов Максим Сергеевич": 48
+      "gas:candidate-vibid:2202000424832": 95,
+      "gas:candidate-vibid:2202000424762": 2088,
+      "gas:candidate-vibid:2202000423829": 60,
+      "gas:candidate-vibid:2202000423065": 55,
+      "gas:candidate-vibid:2202000423841": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10383,11 +10383,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 88,
-      "Делимханов Адам Султанович": 2062,
-      "Денильханов Исмаил Султанович": 55,
-      "Фатуллаева Альбина Ясановна": 58,
-      "Чувашов Максим Сергеевич": 53
+      "gas:candidate-vibid:2202000424832": 88,
+      "gas:candidate-vibid:2202000424762": 2062,
+      "gas:candidate-vibid:2202000423829": 55,
+      "gas:candidate-vibid:2202000423065": 58,
+      "gas:candidate-vibid:2202000423841": 53
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10438,11 +10438,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 104,
-      "Делимханов Адам Султанович": 2425,
-      "Денильханов Исмаил Султанович": 62,
-      "Фатуллаева Альбина Ясановна": 52,
-      "Чувашов Максим Сергеевич": 80
+      "gas:candidate-vibid:2202000424832": 104,
+      "gas:candidate-vibid:2202000424762": 2425,
+      "gas:candidate-vibid:2202000423829": 62,
+      "gas:candidate-vibid:2202000423065": 52,
+      "gas:candidate-vibid:2202000423841": 80
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10493,11 +10493,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 79,
-      "Делимханов Адам Султанович": 1713,
-      "Денильханов Исмаил Султанович": 44,
-      "Фатуллаева Альбина Ясановна": 40,
-      "Чувашов Максим Сергеевич": 42
+      "gas:candidate-vibid:2202000424832": 79,
+      "gas:candidate-vibid:2202000424762": 1713,
+      "gas:candidate-vibid:2202000423829": 44,
+      "gas:candidate-vibid:2202000423065": 40,
+      "gas:candidate-vibid:2202000423841": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10548,11 +10548,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 86,
-      "Делимханов Адам Султанович": 2220,
-      "Денильханов Исмаил Султанович": 57,
-      "Фатуллаева Альбина Ясановна": 70,
-      "Чувашов Максим Сергеевич": 60
+      "gas:candidate-vibid:2202000424832": 86,
+      "gas:candidate-vibid:2202000424762": 2220,
+      "gas:candidate-vibid:2202000423829": 57,
+      "gas:candidate-vibid:2202000423065": 70,
+      "gas:candidate-vibid:2202000423841": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10603,11 +10603,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 65,
-      "Делимханов Адам Султанович": 2262,
-      "Денильханов Исмаил Султанович": 97,
-      "Фатуллаева Альбина Ясановна": 58,
-      "Чувашов Максим Сергеевич": 60
+      "gas:candidate-vibid:2202000424832": 65,
+      "gas:candidate-vibid:2202000424762": 2262,
+      "gas:candidate-vibid:2202000423829": 97,
+      "gas:candidate-vibid:2202000423065": 58,
+      "gas:candidate-vibid:2202000423841": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10658,11 +10658,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 45,
-      "Делимханов Адам Султанович": 2171,
-      "Денильханов Исмаил Султанович": 77,
-      "Фатуллаева Альбина Ясановна": 44,
-      "Чувашов Максим Сергеевич": 102
+      "gas:candidate-vibid:2202000424832": 45,
+      "gas:candidate-vibid:2202000424762": 2171,
+      "gas:candidate-vibid:2202000423829": 77,
+      "gas:candidate-vibid:2202000423065": 44,
+      "gas:candidate-vibid:2202000423841": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10713,11 +10713,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 71,
-      "Делимханов Адам Султанович": 1912,
-      "Денильханов Исмаил Султанович": 71,
-      "Фатуллаева Альбина Ясановна": 54,
-      "Чувашов Максим Сергеевич": 29
+      "gas:candidate-vibid:2202000424832": 71,
+      "gas:candidate-vibid:2202000424762": 1912,
+      "gas:candidate-vibid:2202000423829": 71,
+      "gas:candidate-vibid:2202000423065": 54,
+      "gas:candidate-vibid:2202000423841": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10768,11 +10768,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 75,
-      "Делимханов Адам Султанович": 2083,
-      "Денильханов Исмаил Султанович": 71,
-      "Фатуллаева Альбина Ясановна": 45,
-      "Чувашов Максим Сергеевич": 44
+      "gas:candidate-vibid:2202000424832": 75,
+      "gas:candidate-vibid:2202000424762": 2083,
+      "gas:candidate-vibid:2202000423829": 71,
+      "gas:candidate-vibid:2202000423065": 45,
+      "gas:candidate-vibid:2202000423841": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10823,11 +10823,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 52,
-      "Делимханов Адам Султанович": 1407,
-      "Денильханов Исмаил Султанович": 43,
-      "Фатуллаева Альбина Ясановна": 42,
-      "Чувашов Максим Сергеевич": 37
+      "gas:candidate-vibid:2202000424832": 52,
+      "gas:candidate-vibid:2202000424762": 1407,
+      "gas:candidate-vibid:2202000423829": 43,
+      "gas:candidate-vibid:2202000423065": 42,
+      "gas:candidate-vibid:2202000423841": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10878,11 +10878,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 71,
-      "Делимханов Адам Султанович": 1903,
-      "Денильханов Исмаил Султанович": 50,
-      "Фатуллаева Альбина Ясановна": 52,
-      "Чувашов Максим Сергеевич": 62
+      "gas:candidate-vibid:2202000424832": 71,
+      "gas:candidate-vibid:2202000424762": 1903,
+      "gas:candidate-vibid:2202000423829": 50,
+      "gas:candidate-vibid:2202000423065": 52,
+      "gas:candidate-vibid:2202000423841": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10933,11 +10933,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 70,
-      "Делимханов Адам Султанович": 1845,
-      "Денильханов Исмаил Султанович": 51,
-      "Фатуллаева Альбина Ясановна": 40,
-      "Чувашов Максим Сергеевич": 33
+      "gas:candidate-vibid:2202000424832": 70,
+      "gas:candidate-vibid:2202000424762": 1845,
+      "gas:candidate-vibid:2202000423829": 51,
+      "gas:candidate-vibid:2202000423065": 40,
+      "gas:candidate-vibid:2202000423841": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -10988,11 +10988,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 65,
-      "Делимханов Адам Султанович": 1796,
-      "Денильханов Исмаил Султанович": 45,
-      "Фатуллаева Альбина Ясановна": 38,
-      "Чувашов Максим Сергеевич": 40
+      "gas:candidate-vibid:2202000424832": 65,
+      "gas:candidate-vibid:2202000424762": 1796,
+      "gas:candidate-vibid:2202000423829": 45,
+      "gas:candidate-vibid:2202000423065": 38,
+      "gas:candidate-vibid:2202000423841": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11043,11 +11043,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 38,
-      "Делимханов Адам Султанович": 958,
-      "Денильханов Исмаил Султанович": 34,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 15
+      "gas:candidate-vibid:2202000424832": 38,
+      "gas:candidate-vibid:2202000424762": 958,
+      "gas:candidate-vibid:2202000423829": 34,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11098,11 +11098,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 42,
-      "Делимханов Адам Султанович": 2498,
-      "Денильханов Исмаил Султанович": 85,
-      "Фатуллаева Альбина Ясановна": 99,
-      "Чувашов Максим Сергеевич": 82
+      "gas:candidate-vibid:2202000424832": 42,
+      "gas:candidate-vibid:2202000424762": 2498,
+      "gas:candidate-vibid:2202000423829": 85,
+      "gas:candidate-vibid:2202000423065": 99,
+      "gas:candidate-vibid:2202000423841": 82
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11153,11 +11153,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 98,
-      "Делимханов Адам Султанович": 1628,
-      "Денильханов Исмаил Султанович": 43,
-      "Фатуллаева Альбина Ясановна": 30,
-      "Чувашов Максим Сергеевич": 35
+      "gas:candidate-vibid:2202000424832": 98,
+      "gas:candidate-vibid:2202000424762": 1628,
+      "gas:candidate-vibid:2202000423829": 43,
+      "gas:candidate-vibid:2202000423065": 30,
+      "gas:candidate-vibid:2202000423841": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11208,11 +11208,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 20,
-      "Делимханов Адам Султанович": 559,
-      "Денильханов Исмаил Султанович": 18,
-      "Фатуллаева Альбина Ясановна": 17,
-      "Чувашов Максим Сергеевич": 14
+      "gas:candidate-vibid:2202000424832": 20,
+      "gas:candidate-vibid:2202000424762": 559,
+      "gas:candidate-vibid:2202000423829": 18,
+      "gas:candidate-vibid:2202000423065": 17,
+      "gas:candidate-vibid:2202000423841": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11263,11 +11263,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11318,11 +11318,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 0,
-      "Делимханов Адам Султанович": 0,
-      "Денильханов Исмаил Султанович": 0,
-      "Фатуллаева Альбина Ясановна": 0,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 0,
+      "gas:candidate-vibid:2202000424762": 0,
+      "gas:candidate-vibid:2202000423829": 0,
+      "gas:candidate-vibid:2202000423065": 0,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11373,11 +11373,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 3,
-      "Делимханов Адам Султанович": 131,
-      "Денильханов Исмаил Султанович": 4,
-      "Фатуллаева Альбина Ясановна": 7,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 3,
+      "gas:candidate-vibid:2202000424762": 131,
+      "gas:candidate-vibid:2202000423829": 4,
+      "gas:candidate-vibid:2202000423065": 7,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11428,11 +11428,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 4,
-      "Делимханов Адам Султанович": 210,
-      "Денильханов Исмаил Султанович": 3,
-      "Фатуллаева Альбина Ясановна": 6,
-      "Чувашов Максим Сергеевич": 13
+      "gas:candidate-vibid:2202000424832": 4,
+      "gas:candidate-vibid:2202000424762": 210,
+      "gas:candidate-vibid:2202000423829": 3,
+      "gas:candidate-vibid:2202000423065": 6,
+      "gas:candidate-vibid:2202000423841": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11483,11 +11483,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 5,
-      "Делимханов Адам Султанович": 167,
-      "Денильханов Исмаил Султанович": 2,
-      "Фатуллаева Альбина Ясановна": 10,
-      "Чувашов Максим Сергеевич": 4
+      "gas:candidate-vibid:2202000424832": 5,
+      "gas:candidate-vibid:2202000424762": 167,
+      "gas:candidate-vibid:2202000423829": 2,
+      "gas:candidate-vibid:2202000423065": 10,
+      "gas:candidate-vibid:2202000423841": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000412294&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000412294&type=464",
@@ -11538,11 +11538,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 41,
-      "Делимханов Адам Султанович": 2689,
-      "Денильханов Исмаил Султанович": 28,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 41,
+      "gas:candidate-vibid:2202000424762": 2689,
+      "gas:candidate-vibid:2202000423829": 28,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11593,11 +11593,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 36,
-      "Делимханов Адам Султанович": 2285,
-      "Денильханов Исмаил Султанович": 20,
-      "Фатуллаева Альбина Ясановна": 34,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 36,
+      "gas:candidate-vibid:2202000424762": 2285,
+      "gas:candidate-vibid:2202000423829": 20,
+      "gas:candidate-vibid:2202000423065": 34,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11648,11 +11648,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 38,
-      "Делимханов Адам Султанович": 2475,
-      "Денильханов Исмаил Султанович": 25,
-      "Фатуллаева Альбина Ясановна": 24,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 38,
+      "gas:candidate-vibid:2202000424762": 2475,
+      "gas:candidate-vibid:2202000423829": 25,
+      "gas:candidate-vibid:2202000423065": 24,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11703,11 +11703,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 26,
-      "Делимханов Адам Султанович": 1519,
-      "Денильханов Исмаил Султанович": 14,
-      "Фатуллаева Альбина Ясановна": 30,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 26,
+      "gas:candidate-vibid:2202000424762": 1519,
+      "gas:candidate-vibid:2202000423829": 14,
+      "gas:candidate-vibid:2202000423065": 30,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11758,11 +11758,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 29,
-      "Делимханов Адам Султанович": 2309,
-      "Денильханов Исмаил Султанович": 18,
-      "Фатуллаева Альбина Ясановна": 20,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 29,
+      "gas:candidate-vibid:2202000424762": 2309,
+      "gas:candidate-vibid:2202000423829": 18,
+      "gas:candidate-vibid:2202000423065": 20,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11813,11 +11813,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 24,
-      "Делимханов Адам Султанович": 1231,
-      "Денильханов Исмаил Султанович": 13,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 3
+      "gas:candidate-vibid:2202000424832": 24,
+      "gas:candidate-vibid:2202000424762": 1231,
+      "gas:candidate-vibid:2202000423829": 13,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11868,11 +11868,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 14,
-      "Делимханов Адам Султанович": 1596,
-      "Денильханов Исмаил Султанович": 19,
-      "Фатуллаева Альбина Ясановна": 15,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 14,
+      "gas:candidate-vibid:2202000424762": 1596,
+      "gas:candidate-vibid:2202000423829": 19,
+      "gas:candidate-vibid:2202000423065": 15,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11923,11 +11923,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 15,
-      "Делимханов Адам Султанович": 1215,
-      "Денильханов Исмаил Султанович": 12,
-      "Фатуллаева Альбина Ясановна": 8,
-      "Чувашов Максим Сергеевич": 2
+      "gas:candidate-vibid:2202000424832": 15,
+      "gas:candidate-vibid:2202000424762": 1215,
+      "gas:candidate-vibid:2202000423829": 12,
+      "gas:candidate-vibid:2202000423065": 8,
+      "gas:candidate-vibid:2202000423841": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",
@@ -11978,11 +11978,11 @@ export const duma_2016_uik_463_region_20_part_002 = [
       "Число избирательных бюллетеней, не учтенных при получении": 0
     },
     "votes": {
-      "Авхадов Руслан Вахаевич": 11,
-      "Делимханов Адам Султанович": 655,
-      "Денильханов Исмаил Султанович": 10,
-      "Фатуллаева Альбина Ясановна": 12,
-      "Чувашов Максим Сергеевич": 0
+      "gas:candidate-vibid:2202000424832": 11,
+      "gas:candidate-vibid:2202000424762": 655,
+      "gas:candidate-vibid:2202000423829": 10,
+      "gas:candidate-vibid:2202000423065": 12,
+      "gas:candidate-vibid:2202000423841": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/chechen?action=show&root=1000053&tvd=2202000414759&vrn=100100067795849&region=20&global=&sub_region=20&prver=0&pronetvd=null&vibid=2202000414759&type=464",

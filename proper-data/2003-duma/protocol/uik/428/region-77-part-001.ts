@@ -42,13 +42,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 125,
-      "Драганов Валерий Гаврилович": 352,
-      "Каминский Юрий Викторович": 37,
-      "Козлов Александр Петрович": 55,
-      "Московченко Николай Михайлович": 117,
-      "Новичихина Надежда Васильевна": 46,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000113992": 125,
+      "gas:candidate-vibid:1001000226004": 352,
+      "gas:candidate-vibid:1001000136146": 37,
+      "gas:candidate-vibid:1001000121931": 55,
+      "gas:candidate-vibid:1001000188025": 117,
+      "gas:candidate-vibid:1001000190437": 46,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -98,13 +98,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 89,
-      "Драганов Валерий Гаврилович": 283,
-      "Каминский Юрий Викторович": 32,
-      "Козлов Александр Петрович": 48,
-      "Московченко Николай Михайлович": 85,
-      "Новичихина Надежда Васильевна": 43,
-      "Против всех": 155
+      "gas:candidate-vibid:1001000113992": 89,
+      "gas:candidate-vibid:1001000226004": 283,
+      "gas:candidate-vibid:1001000136146": 32,
+      "gas:candidate-vibid:1001000121931": 48,
+      "gas:candidate-vibid:1001000188025": 85,
+      "gas:candidate-vibid:1001000190437": 43,
+      "special:against-all": 155
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -154,13 +154,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 122,
-      "Драганов Валерий Гаврилович": 306,
-      "Каминский Юрий Викторович": 43,
-      "Козлов Александр Петрович": 64,
-      "Московченко Николай Михайлович": 95,
-      "Новичихина Надежда Васильевна": 56,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000113992": 122,
+      "gas:candidate-vibid:1001000226004": 306,
+      "gas:candidate-vibid:1001000136146": 43,
+      "gas:candidate-vibid:1001000121931": 64,
+      "gas:candidate-vibid:1001000188025": 95,
+      "gas:candidate-vibid:1001000190437": 56,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -210,13 +210,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 82,
-      "Драганов Валерий Гаврилович": 270,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 56,
-      "Московченко Николай Михайлович": 116,
-      "Новичихина Надежда Васильевна": 63,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000113992": 82,
+      "gas:candidate-vibid:1001000226004": 270,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 56,
+      "gas:candidate-vibid:1001000188025": 116,
+      "gas:candidate-vibid:1001000190437": 63,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -266,13 +266,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 73,
-      "Драганов Валерий Гаврилович": 374,
-      "Каминский Юрий Викторович": 32,
-      "Козлов Александр Петрович": 63,
-      "Московченко Николай Михайлович": 87,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000113992": 73,
+      "gas:candidate-vibid:1001000226004": 374,
+      "gas:candidate-vibid:1001000136146": 32,
+      "gas:candidate-vibid:1001000121931": 63,
+      "gas:candidate-vibid:1001000188025": 87,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -322,13 +322,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 83,
-      "Драганов Валерий Гаврилович": 343,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 59,
-      "Московченко Николай Михайлович": 102,
-      "Новичихина Надежда Васильевна": 32,
-      "Против всех": 158
+      "gas:candidate-vibid:1001000113992": 83,
+      "gas:candidate-vibid:1001000226004": 343,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 59,
+      "gas:candidate-vibid:1001000188025": 102,
+      "gas:candidate-vibid:1001000190437": 32,
+      "special:against-all": 158
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -378,13 +378,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 104,
-      "Драганов Валерий Гаврилович": 370,
-      "Каминский Юрий Викторович": 33,
-      "Козлов Александр Петрович": 90,
-      "Московченко Николай Михайлович": 130,
-      "Новичихина Надежда Васильевна": 62,
-      "Против всех": 239
+      "gas:candidate-vibid:1001000113992": 104,
+      "gas:candidate-vibid:1001000226004": 370,
+      "gas:candidate-vibid:1001000136146": 33,
+      "gas:candidate-vibid:1001000121931": 90,
+      "gas:candidate-vibid:1001000188025": 130,
+      "gas:candidate-vibid:1001000190437": 62,
+      "special:against-all": 239
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -434,13 +434,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 80,
-      "Драганов Валерий Гаврилович": 313,
-      "Каминский Юрий Викторович": 40,
-      "Козлов Александр Петрович": 70,
-      "Московченко Николай Михайлович": 120,
-      "Новичихина Надежда Васильевна": 48,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000113992": 80,
+      "gas:candidate-vibid:1001000226004": 313,
+      "gas:candidate-vibid:1001000136146": 40,
+      "gas:candidate-vibid:1001000121931": 70,
+      "gas:candidate-vibid:1001000188025": 120,
+      "gas:candidate-vibid:1001000190437": 48,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -490,13 +490,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 226,
-      "Драганов Валерий Гаврилович": 496,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 116,
-      "Московченко Николай Михайлович": 200,
-      "Новичихина Надежда Васильевна": 60,
-      "Против всех": 277
+      "gas:candidate-vibid:1001000113992": 226,
+      "gas:candidate-vibid:1001000226004": 496,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 116,
+      "gas:candidate-vibid:1001000188025": 200,
+      "gas:candidate-vibid:1001000190437": 60,
+      "special:against-all": 277
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -546,13 +546,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 147,
-      "Драганов Валерий Гаврилович": 551,
-      "Каминский Юрий Викторович": 71,
-      "Козлов Александр Петрович": 82,
-      "Московченко Николай Михайлович": 176,
-      "Новичихина Надежда Васильевна": 98,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000113992": 147,
+      "gas:candidate-vibid:1001000226004": 551,
+      "gas:candidate-vibid:1001000136146": 71,
+      "gas:candidate-vibid:1001000121931": 82,
+      "gas:candidate-vibid:1001000188025": 176,
+      "gas:candidate-vibid:1001000190437": 98,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -602,13 +602,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 149,
-      "Драганов Валерий Гаврилович": 490,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 105,
-      "Московченко Николай Михайлович": 214,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 218
+      "gas:candidate-vibid:1001000113992": 149,
+      "gas:candidate-vibid:1001000226004": 490,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 105,
+      "gas:candidate-vibid:1001000188025": 214,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 218
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -658,13 +658,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 147,
-      "Драганов Валерий Гаврилович": 526,
-      "Каминский Юрий Викторович": 66,
-      "Козлов Александр Петрович": 126,
-      "Московченко Николай Михайлович": 213,
-      "Новичихина Надежда Васильевна": 62,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000113992": 147,
+      "gas:candidate-vibid:1001000226004": 526,
+      "gas:candidate-vibid:1001000136146": 66,
+      "gas:candidate-vibid:1001000121931": 126,
+      "gas:candidate-vibid:1001000188025": 213,
+      "gas:candidate-vibid:1001000190437": 62,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -714,13 +714,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 145,
-      "Драганов Валерий Гаврилович": 462,
-      "Каминский Юрий Викторович": 195,
-      "Козлов Александр Петрович": 182,
-      "Московченко Николай Михайлович": 419,
-      "Новичихина Надежда Васильевна": 104,
-      "Против всех": 860
+      "gas:candidate-vibid:1001000113992": 145,
+      "gas:candidate-vibid:1001000226004": 462,
+      "gas:candidate-vibid:1001000136146": 195,
+      "gas:candidate-vibid:1001000121931": 182,
+      "gas:candidate-vibid:1001000188025": 419,
+      "gas:candidate-vibid:1001000190437": 104,
+      "special:against-all": 860
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -770,13 +770,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 98,
-      "Драганов Валерий Гаврилович": 337,
-      "Каминский Юрий Викторович": 26,
-      "Козлов Александр Петрович": 75,
-      "Московченко Николай Михайлович": 139,
-      "Новичихина Надежда Васильевна": 55,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000113992": 98,
+      "gas:candidate-vibid:1001000226004": 337,
+      "gas:candidate-vibid:1001000136146": 26,
+      "gas:candidate-vibid:1001000121931": 75,
+      "gas:candidate-vibid:1001000188025": 139,
+      "gas:candidate-vibid:1001000190437": 55,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -826,13 +826,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 79,
-      "Драганов Валерий Гаврилович": 149,
-      "Каминский Юрий Викторович": 21,
-      "Козлов Александр Петрович": 47,
-      "Московченко Николай Михайлович": 77,
-      "Новичихина Надежда Васильевна": 71,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000113992": 79,
+      "gas:candidate-vibid:1001000226004": 149,
+      "gas:candidate-vibid:1001000136146": 21,
+      "gas:candidate-vibid:1001000121931": 47,
+      "gas:candidate-vibid:1001000188025": 77,
+      "gas:candidate-vibid:1001000190437": 71,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -882,13 +882,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 233,
-      "Драганов Валерий Гаврилович": 613,
-      "Каминский Юрий Викторович": 112,
-      "Козлов Александр Петрович": 167,
-      "Московченко Николай Михайлович": 275,
-      "Новичихина Надежда Васильевна": 117,
-      "Против всех": 569
+      "gas:candidate-vibid:1001000113992": 233,
+      "gas:candidate-vibid:1001000226004": 613,
+      "gas:candidate-vibid:1001000136146": 112,
+      "gas:candidate-vibid:1001000121931": 167,
+      "gas:candidate-vibid:1001000188025": 275,
+      "gas:candidate-vibid:1001000190437": 117,
+      "special:against-all": 569
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -938,13 +938,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 175,
-      "Драганов Валерий Гаврилович": 321,
-      "Каминский Юрий Викторович": 121,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 153,
-      "Новичихина Надежда Васильевна": 103,
-      "Против всех": 515
+      "gas:candidate-vibid:1001000113992": 175,
+      "gas:candidate-vibid:1001000226004": 321,
+      "gas:candidate-vibid:1001000136146": 121,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 153,
+      "gas:candidate-vibid:1001000190437": 103,
+      "special:against-all": 515
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -994,13 +994,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 186,
-      "Драганов Валерий Гаврилович": 443,
-      "Каминский Юрий Викторович": 52,
-      "Козлов Александр Петрович": 117,
-      "Московченко Николай Михайлович": 192,
-      "Новичихина Надежда Васильевна": 83,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000113992": 186,
+      "gas:candidate-vibid:1001000226004": 443,
+      "gas:candidate-vibid:1001000136146": 52,
+      "gas:candidate-vibid:1001000121931": 117,
+      "gas:candidate-vibid:1001000188025": 192,
+      "gas:candidate-vibid:1001000190437": 83,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1050,13 +1050,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 206,
-      "Драганов Валерий Гаврилович": 474,
-      "Каминский Юрий Викторович": 49,
-      "Козлов Александр Петрович": 108,
-      "Московченко Николай Михайлович": 205,
-      "Новичихина Надежда Васильевна": 79,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000113992": 206,
+      "gas:candidate-vibid:1001000226004": 474,
+      "gas:candidate-vibid:1001000136146": 49,
+      "gas:candidate-vibid:1001000121931": 108,
+      "gas:candidate-vibid:1001000188025": 205,
+      "gas:candidate-vibid:1001000190437": 79,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1106,13 +1106,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 140,
-      "Драганов Валерий Гаврилович": 525,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 106,
-      "Московченко Николай Михайлович": 164,
-      "Новичихина Надежда Васильевна": 92,
-      "Против всех": 340
+      "gas:candidate-vibid:1001000113992": 140,
+      "gas:candidate-vibid:1001000226004": 525,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 106,
+      "gas:candidate-vibid:1001000188025": 164,
+      "gas:candidate-vibid:1001000190437": 92,
+      "special:against-all": 340
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1162,13 +1162,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 137,
-      "Драганов Валерий Гаврилович": 535,
-      "Каминский Юрий Викторович": 50,
-      "Козлов Александр Петрович": 84,
-      "Московченко Николай Михайлович": 151,
-      "Новичихина Надежда Васильевна": 105,
-      "Против всех": 303
+      "gas:candidate-vibid:1001000113992": 137,
+      "gas:candidate-vibid:1001000226004": 535,
+      "gas:candidate-vibid:1001000136146": 50,
+      "gas:candidate-vibid:1001000121931": 84,
+      "gas:candidate-vibid:1001000188025": 151,
+      "gas:candidate-vibid:1001000190437": 105,
+      "special:against-all": 303
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1218,13 +1218,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 113,
-      "Драганов Валерий Гаврилович": 596,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 160,
-      "Новичихина Надежда Васильевна": 87,
-      "Против всех": 309
+      "gas:candidate-vibid:1001000113992": 113,
+      "gas:candidate-vibid:1001000226004": 596,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 160,
+      "gas:candidate-vibid:1001000190437": 87,
+      "special:against-all": 309
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1274,13 +1274,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 125,
-      "Драганов Валерий Гаврилович": 510,
-      "Каминский Юрий Викторович": 46,
-      "Козлов Александр Петрович": 135,
-      "Московченко Николай Михайлович": 198,
-      "Новичихина Надежда Васильевна": 82,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000113992": 125,
+      "gas:candidate-vibid:1001000226004": 510,
+      "gas:candidate-vibid:1001000136146": 46,
+      "gas:candidate-vibid:1001000121931": 135,
+      "gas:candidate-vibid:1001000188025": 198,
+      "gas:candidate-vibid:1001000190437": 82,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1330,13 +1330,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 145,
-      "Драганов Валерий Гаврилович": 512,
-      "Каминский Юрий Викторович": 52,
-      "Козлов Александр Петрович": 111,
-      "Московченко Николай Михайлович": 167,
-      "Новичихина Надежда Васильевна": 115,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000113992": 145,
+      "gas:candidate-vibid:1001000226004": 512,
+      "gas:candidate-vibid:1001000136146": 52,
+      "gas:candidate-vibid:1001000121931": 111,
+      "gas:candidate-vibid:1001000188025": 167,
+      "gas:candidate-vibid:1001000190437": 115,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1386,13 +1386,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 8,
-      "Драганов Валерий Гаврилович": 27,
-      "Каминский Юрий Викторович": 3,
-      "Козлов Александр Петрович": 7,
-      "Московченко Николай Михайлович": 12,
-      "Новичихина Надежда Васильевна": 5,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000113992": 8,
+      "gas:candidate-vibid:1001000226004": 27,
+      "gas:candidate-vibid:1001000136146": 3,
+      "gas:candidate-vibid:1001000121931": 7,
+      "gas:candidate-vibid:1001000188025": 12,
+      "gas:candidate-vibid:1001000190437": 5,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1442,13 +1442,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 2,
-      "Драганов Валерий Гаврилович": 2,
-      "Каминский Юрий Викторович": 1,
-      "Козлов Александр Петрович": 1,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113992": 2,
+      "gas:candidate-vibid:1001000226004": 2,
+      "gas:candidate-vibid:1001000136146": 1,
+      "gas:candidate-vibid:1001000121931": 1,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1498,13 +1498,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 0,
-      "Драганов Валерий Гаврилович": 1,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113992": 0,
+      "gas:candidate-vibid:1001000226004": 1,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170415&region=0&sub_region=0&type=429",
@@ -1554,13 +1554,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 34,
-      "Драганов Валерий Гаврилович": 284,
-      "Каминский Юрий Викторович": 24,
-      "Козлов Александр Петрович": 47,
-      "Московченко Николай Михайлович": 41,
-      "Новичихина Надежда Васильевна": 46,
-      "Против всех": 99
+      "gas:candidate-vibid:1001000113992": 34,
+      "gas:candidate-vibid:1001000226004": 284,
+      "gas:candidate-vibid:1001000136146": 24,
+      "gas:candidate-vibid:1001000121931": 47,
+      "gas:candidate-vibid:1001000188025": 41,
+      "gas:candidate-vibid:1001000190437": 46,
+      "special:against-all": 99
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1610,13 +1610,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 117,
-      "Драганов Валерий Гаврилович": 734,
-      "Каминский Юрий Викторович": 48,
-      "Козлов Александр Петрович": 82,
-      "Московченко Николай Михайлович": 142,
-      "Новичихина Надежда Васильевна": 102,
-      "Против всех": 319
+      "gas:candidate-vibid:1001000113992": 117,
+      "gas:candidate-vibid:1001000226004": 734,
+      "gas:candidate-vibid:1001000136146": 48,
+      "gas:candidate-vibid:1001000121931": 82,
+      "gas:candidate-vibid:1001000188025": 142,
+      "gas:candidate-vibid:1001000190437": 102,
+      "special:against-all": 319
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1666,13 +1666,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 106,
-      "Драганов Валерий Гаврилович": 830,
-      "Каминский Юрий Викторович": 59,
-      "Козлов Александр Петрович": 80,
-      "Московченко Николай Михайлович": 126,
-      "Новичихина Надежда Васильевна": 66,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000113992": 106,
+      "gas:candidate-vibid:1001000226004": 830,
+      "gas:candidate-vibid:1001000136146": 59,
+      "gas:candidate-vibid:1001000121931": 80,
+      "gas:candidate-vibid:1001000188025": 126,
+      "gas:candidate-vibid:1001000190437": 66,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1722,13 +1722,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 48,
-      "Драганов Валерий Гаврилович": 495,
-      "Каминский Юрий Викторович": 58,
-      "Козлов Александр Петрович": 78,
-      "Московченко Николай Михайлович": 111,
-      "Новичихина Надежда Васильевна": 60,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000113992": 48,
+      "gas:candidate-vibid:1001000226004": 495,
+      "gas:candidate-vibid:1001000136146": 58,
+      "gas:candidate-vibid:1001000121931": 78,
+      "gas:candidate-vibid:1001000188025": 111,
+      "gas:candidate-vibid:1001000190437": 60,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1778,13 +1778,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 57,
-      "Драганов Валерий Гаврилович": 332,
-      "Каминский Юрий Викторович": 30,
-      "Козлов Александр Петрович": 43,
-      "Московченко Николай Михайлович": 73,
-      "Новичихина Надежда Васильевна": 30,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000113992": 57,
+      "gas:candidate-vibid:1001000226004": 332,
+      "gas:candidate-vibid:1001000136146": 30,
+      "gas:candidate-vibid:1001000121931": 43,
+      "gas:candidate-vibid:1001000188025": 73,
+      "gas:candidate-vibid:1001000190437": 30,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1834,13 +1834,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 55,
-      "Драганов Валерий Гаврилович": 369,
-      "Каминский Юрий Викторович": 34,
-      "Козлов Александр Петрович": 65,
-      "Московченко Николай Михайлович": 111,
-      "Новичихина Надежда Васильевна": 37,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000113992": 55,
+      "gas:candidate-vibid:1001000226004": 369,
+      "gas:candidate-vibid:1001000136146": 34,
+      "gas:candidate-vibid:1001000121931": 65,
+      "gas:candidate-vibid:1001000188025": 111,
+      "gas:candidate-vibid:1001000190437": 37,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1890,13 +1890,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 134,
-      "Драганов Валерий Гаврилович": 669,
-      "Каминский Юрий Викторович": 58,
-      "Козлов Александр Петрович": 95,
-      "Московченко Николай Михайлович": 250,
-      "Новичихина Надежда Васильевна": 107,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000113992": 134,
+      "gas:candidate-vibid:1001000226004": 669,
+      "gas:candidate-vibid:1001000136146": 58,
+      "gas:candidate-vibid:1001000121931": 95,
+      "gas:candidate-vibid:1001000188025": 250,
+      "gas:candidate-vibid:1001000190437": 107,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -1946,13 +1946,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 106,
-      "Драганов Валерий Гаврилович": 911,
-      "Каминский Юрий Викторович": 60,
-      "Козлов Александр Петрович": 81,
-      "Московченко Николай Михайлович": 161,
-      "Новичихина Надежда Васильевна": 56,
-      "Против всех": 279
+      "gas:candidate-vibid:1001000113992": 106,
+      "gas:candidate-vibid:1001000226004": 911,
+      "gas:candidate-vibid:1001000136146": 60,
+      "gas:candidate-vibid:1001000121931": 81,
+      "gas:candidate-vibid:1001000188025": 161,
+      "gas:candidate-vibid:1001000190437": 56,
+      "special:against-all": 279
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -2002,13 +2002,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 122,
-      "Драганов Валерий Гаврилович": 660,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 93,
-      "Московченко Николай Михайлович": 206,
-      "Новичихина Надежда Васильевна": 58,
-      "Против всех": 314
+      "gas:candidate-vibid:1001000113992": 122,
+      "gas:candidate-vibid:1001000226004": 660,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 93,
+      "gas:candidate-vibid:1001000188025": 206,
+      "gas:candidate-vibid:1001000190437": 58,
+      "special:against-all": 314
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -2058,13 +2058,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 50,
-      "Драганов Валерий Гаврилович": 257,
-      "Каминский Юрий Викторович": 13,
-      "Козлов Александр Петрович": 34,
-      "Московченко Николай Михайлович": 85,
-      "Новичихина Надежда Васильевна": 19,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000113992": 50,
+      "gas:candidate-vibid:1001000226004": 257,
+      "gas:candidate-vibid:1001000136146": 13,
+      "gas:candidate-vibid:1001000121931": 34,
+      "gas:candidate-vibid:1001000188025": 85,
+      "gas:candidate-vibid:1001000190437": 19,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -2114,13 +2114,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 68,
-      "Драганов Валерий Гаврилович": 437,
-      "Каминский Юрий Викторович": 31,
-      "Козлов Александр Петрович": 72,
-      "Московченко Николай Михайлович": 127,
-      "Новичихина Надежда Васильевна": 42,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000113992": 68,
+      "gas:candidate-vibid:1001000226004": 437,
+      "gas:candidate-vibid:1001000136146": 31,
+      "gas:candidate-vibid:1001000121931": 72,
+      "gas:candidate-vibid:1001000188025": 127,
+      "gas:candidate-vibid:1001000190437": 42,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -2170,13 +2170,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 113,
-      "Драганов Валерий Гаврилович": 653,
-      "Каминский Юрий Викторович": 42,
-      "Козлов Александр Петрович": 119,
-      "Московченко Николай Михайлович": 161,
-      "Новичихина Надежда Васильевна": 54,
-      "Против всех": 296
+      "gas:candidate-vibid:1001000113992": 113,
+      "gas:candidate-vibid:1001000226004": 653,
+      "gas:candidate-vibid:1001000136146": 42,
+      "gas:candidate-vibid:1001000121931": 119,
+      "gas:candidate-vibid:1001000188025": 161,
+      "gas:candidate-vibid:1001000190437": 54,
+      "special:against-all": 296
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170417&region=0&sub_region=0&type=429",
@@ -2226,13 +2226,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 120,
-      "Драганов Валерий Гаврилович": 442,
-      "Каминский Юрий Викторович": 68,
-      "Козлов Александр Петрович": 96,
-      "Московченко Николай Михайлович": 188,
-      "Новичихина Надежда Васильевна": 67,
-      "Против всех": 307
+      "gas:candidate-vibid:1001000113992": 120,
+      "gas:candidate-vibid:1001000226004": 442,
+      "gas:candidate-vibid:1001000136146": 68,
+      "gas:candidate-vibid:1001000121931": 96,
+      "gas:candidate-vibid:1001000188025": 188,
+      "gas:candidate-vibid:1001000190437": 67,
+      "special:against-all": 307
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2282,13 +2282,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 104,
-      "Драганов Валерий Гаврилович": 545,
-      "Каминский Юрий Викторович": 66,
-      "Козлов Александр Петрович": 83,
-      "Московченко Николай Михайлович": 232,
-      "Новичихина Надежда Васильевна": 62,
-      "Против всех": 383
+      "gas:candidate-vibid:1001000113992": 104,
+      "gas:candidate-vibid:1001000226004": 545,
+      "gas:candidate-vibid:1001000136146": 66,
+      "gas:candidate-vibid:1001000121931": 83,
+      "gas:candidate-vibid:1001000188025": 232,
+      "gas:candidate-vibid:1001000190437": 62,
+      "special:against-all": 383
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2338,13 +2338,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 66,
-      "Драганов Валерий Гаврилович": 446,
-      "Каминский Юрий Викторович": 51,
-      "Козлов Александр Петрович": 89,
-      "Московченко Николай Михайлович": 215,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000113992": 66,
+      "gas:candidate-vibid:1001000226004": 446,
+      "gas:candidate-vibid:1001000136146": 51,
+      "gas:candidate-vibid:1001000121931": 89,
+      "gas:candidate-vibid:1001000188025": 215,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2394,13 +2394,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 92,
-      "Драганов Валерий Гаврилович": 580,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 94,
-      "Московченко Николай Михайлович": 188,
-      "Новичихина Надежда Васильевна": 67,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000113992": 92,
+      "gas:candidate-vibid:1001000226004": 580,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 94,
+      "gas:candidate-vibid:1001000188025": 188,
+      "gas:candidate-vibid:1001000190437": 67,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2450,13 +2450,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 125,
-      "Драганов Валерий Гаврилович": 546,
-      "Каминский Юрий Викторович": 63,
-      "Козлов Александр Петрович": 85,
-      "Московченко Николай Михайлович": 163,
-      "Новичихина Надежда Васильевна": 39,
-      "Против всех": 300
+      "gas:candidate-vibid:1001000113992": 125,
+      "gas:candidate-vibid:1001000226004": 546,
+      "gas:candidate-vibid:1001000136146": 63,
+      "gas:candidate-vibid:1001000121931": 85,
+      "gas:candidate-vibid:1001000188025": 163,
+      "gas:candidate-vibid:1001000190437": 39,
+      "special:against-all": 300
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2506,13 +2506,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 84,
-      "Драганов Валерий Гаврилович": 508,
-      "Каминский Юрий Викторович": 42,
-      "Козлов Александр Петрович": 56,
-      "Московченко Николай Михайлович": 173,
-      "Новичихина Надежда Васильевна": 74,
-      "Против всех": 289
+      "gas:candidate-vibid:1001000113992": 84,
+      "gas:candidate-vibid:1001000226004": 508,
+      "gas:candidate-vibid:1001000136146": 42,
+      "gas:candidate-vibid:1001000121931": 56,
+      "gas:candidate-vibid:1001000188025": 173,
+      "gas:candidate-vibid:1001000190437": 74,
+      "special:against-all": 289
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2562,13 +2562,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 91,
-      "Драганов Валерий Гаврилович": 430,
-      "Каминский Юрий Викторович": 49,
-      "Козлов Александр Петрович": 68,
-      "Московченко Николай Михайлович": 183,
-      "Новичихина Надежда Васильевна": 55,
-      "Против всех": 233
+      "gas:candidate-vibid:1001000113992": 91,
+      "gas:candidate-vibid:1001000226004": 430,
+      "gas:candidate-vibid:1001000136146": 49,
+      "gas:candidate-vibid:1001000121931": 68,
+      "gas:candidate-vibid:1001000188025": 183,
+      "gas:candidate-vibid:1001000190437": 55,
+      "special:against-all": 233
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2618,13 +2618,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 82,
-      "Драганов Валерий Гаврилович": 677,
-      "Каминский Юрий Викторович": 51,
-      "Козлов Александр Петрович": 106,
-      "Московченко Николай Михайлович": 162,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 345
+      "gas:candidate-vibid:1001000113992": 82,
+      "gas:candidate-vibid:1001000226004": 677,
+      "gas:candidate-vibid:1001000136146": 51,
+      "gas:candidate-vibid:1001000121931": 106,
+      "gas:candidate-vibid:1001000188025": 162,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 345
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2674,13 +2674,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 91,
-      "Драганов Валерий Гаврилович": 560,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 98,
-      "Московченко Николай Михайлович": 145,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 236
+      "gas:candidate-vibid:1001000113992": 91,
+      "gas:candidate-vibid:1001000226004": 560,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 98,
+      "gas:candidate-vibid:1001000188025": 145,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 236
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2730,13 +2730,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 75,
-      "Драганов Валерий Гаврилович": 489,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 85,
-      "Московченко Николай Михайлович": 160,
-      "Новичихина Надежда Васильевна": 46,
-      "Против всех": 282
+      "gas:candidate-vibid:1001000113992": 75,
+      "gas:candidate-vibid:1001000226004": 489,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 85,
+      "gas:candidate-vibid:1001000188025": 160,
+      "gas:candidate-vibid:1001000190437": 46,
+      "special:against-all": 282
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2786,13 +2786,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 132,
-      "Драганов Валерий Гаврилович": 532,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 107,
-      "Московченко Николай Михайлович": 243,
-      "Новичихина Надежда Васильевна": 57,
-      "Против всех": 288
+      "gas:candidate-vibid:1001000113992": 132,
+      "gas:candidate-vibid:1001000226004": 532,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 107,
+      "gas:candidate-vibid:1001000188025": 243,
+      "gas:candidate-vibid:1001000190437": 57,
+      "special:against-all": 288
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2842,13 +2842,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 108,
-      "Драганов Валерий Гаврилович": 647,
-      "Каминский Юрий Викторович": 65,
-      "Козлов Александр Петрович": 97,
-      "Московченко Николай Михайлович": 228,
-      "Новичихина Надежда Васильевна": 71,
-      "Против всех": 348
+      "gas:candidate-vibid:1001000113992": 108,
+      "gas:candidate-vibid:1001000226004": 647,
+      "gas:candidate-vibid:1001000136146": 65,
+      "gas:candidate-vibid:1001000121931": 97,
+      "gas:candidate-vibid:1001000188025": 228,
+      "gas:candidate-vibid:1001000190437": 71,
+      "special:against-all": 348
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2898,13 +2898,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 86,
-      "Драганов Валерий Гаврилович": 665,
-      "Каминский Юрий Викторович": 34,
-      "Козлов Александр Петрович": 90,
-      "Московченко Николай Михайлович": 170,
-      "Новичихина Надежда Васильевна": 72,
-      "Против всех": 286
+      "gas:candidate-vibid:1001000113992": 86,
+      "gas:candidate-vibid:1001000226004": 665,
+      "gas:candidate-vibid:1001000136146": 34,
+      "gas:candidate-vibid:1001000121931": 90,
+      "gas:candidate-vibid:1001000188025": 170,
+      "gas:candidate-vibid:1001000190437": 72,
+      "special:against-all": 286
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -2954,13 +2954,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 86,
-      "Драганов Валерий Гаврилович": 512,
-      "Каминский Юрий Викторович": 48,
-      "Козлов Александр Петрович": 64,
-      "Московченко Николай Михайлович": 146,
-      "Новичихина Надежда Васильевна": 46,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000113992": 86,
+      "gas:candidate-vibid:1001000226004": 512,
+      "gas:candidate-vibid:1001000136146": 48,
+      "gas:candidate-vibid:1001000121931": 64,
+      "gas:candidate-vibid:1001000188025": 146,
+      "gas:candidate-vibid:1001000190437": 46,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3010,13 +3010,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 72,
-      "Драганов Валерий Гаврилович": 537,
-      "Каминский Юрий Викторович": 43,
-      "Козлов Александр Петрович": 61,
-      "Московченко Николай Михайлович": 133,
-      "Новичихина Надежда Васильевна": 70,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000113992": 72,
+      "gas:candidate-vibid:1001000226004": 537,
+      "gas:candidate-vibid:1001000136146": 43,
+      "gas:candidate-vibid:1001000121931": 61,
+      "gas:candidate-vibid:1001000188025": 133,
+      "gas:candidate-vibid:1001000190437": 70,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3066,13 +3066,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 119,
-      "Драганов Валерий Гаврилович": 606,
-      "Каминский Юрий Викторович": 62,
-      "Козлов Александр Петрович": 83,
-      "Московченко Николай Михайлович": 212,
-      "Новичихина Надежда Васильевна": 114,
-      "Против всех": 384
+      "gas:candidate-vibid:1001000113992": 119,
+      "gas:candidate-vibid:1001000226004": 606,
+      "gas:candidate-vibid:1001000136146": 62,
+      "gas:candidate-vibid:1001000121931": 83,
+      "gas:candidate-vibid:1001000188025": 212,
+      "gas:candidate-vibid:1001000190437": 114,
+      "special:against-all": 384
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3122,13 +3122,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 100,
-      "Драганов Валерий Гаврилович": 703,
-      "Каминский Юрий Викторович": 49,
-      "Козлов Александр Петрович": 90,
-      "Московченко Николай Михайлович": 235,
-      "Новичихина Надежда Васильевна": 71,
-      "Против всех": 387
+      "gas:candidate-vibid:1001000113992": 100,
+      "gas:candidate-vibid:1001000226004": 703,
+      "gas:candidate-vibid:1001000136146": 49,
+      "gas:candidate-vibid:1001000121931": 90,
+      "gas:candidate-vibid:1001000188025": 235,
+      "gas:candidate-vibid:1001000190437": 71,
+      "special:against-all": 387
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3178,13 +3178,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 83,
-      "Драганов Валерий Гаврилович": 703,
-      "Каминский Юрий Викторович": 49,
-      "Козлов Александр Петрович": 95,
-      "Московченко Николай Михайлович": 140,
-      "Новичихина Надежда Васильевна": 67,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000113992": 83,
+      "gas:candidate-vibid:1001000226004": 703,
+      "gas:candidate-vibid:1001000136146": 49,
+      "gas:candidate-vibid:1001000121931": 95,
+      "gas:candidate-vibid:1001000188025": 140,
+      "gas:candidate-vibid:1001000190437": 67,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3234,13 +3234,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 58,
-      "Драганов Валерий Гаврилович": 378,
-      "Каминский Юрий Викторович": 33,
-      "Козлов Александр Петрович": 50,
-      "Московченко Николай Михайлович": 84,
-      "Новичихина Надежда Васильевна": 61,
-      "Против всех": 142
+      "gas:candidate-vibid:1001000113992": 58,
+      "gas:candidate-vibid:1001000226004": 378,
+      "gas:candidate-vibid:1001000136146": 33,
+      "gas:candidate-vibid:1001000121931": 50,
+      "gas:candidate-vibid:1001000188025": 84,
+      "gas:candidate-vibid:1001000190437": 61,
+      "special:against-all": 142
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3290,13 +3290,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 74,
-      "Драганов Валерий Гаврилович": 698,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 68,
-      "Московченко Николай Михайлович": 177,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000113992": 74,
+      "gas:candidate-vibid:1001000226004": 698,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 68,
+      "gas:candidate-vibid:1001000188025": 177,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3346,13 +3346,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 75,
-      "Драганов Валерий Гаврилович": 626,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 60,
-      "Московченко Николай Михайлович": 139,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000113992": 75,
+      "gas:candidate-vibid:1001000226004": 626,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 60,
+      "gas:candidate-vibid:1001000188025": 139,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3402,13 +3402,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 6,
-      "Драганов Валерий Гаврилович": 6,
-      "Каминский Юрий Викторович": 7,
-      "Козлов Александр Петрович": 5,
-      "Московченко Николай Михайлович": 1,
-      "Новичихина Надежда Васильевна": 5,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000113992": 6,
+      "gas:candidate-vibid:1001000226004": 6,
+      "gas:candidate-vibid:1001000136146": 7,
+      "gas:candidate-vibid:1001000121931": 5,
+      "gas:candidate-vibid:1001000188025": 1,
+      "gas:candidate-vibid:1001000190437": 5,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3458,13 +3458,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 0,
-      "Драганов Валерий Гаврилович": 1,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113992": 0,
+      "gas:candidate-vibid:1001000226004": 1,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3514,13 +3514,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 0,
-      "Драганов Валерий Гаврилович": 0,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113992": 0,
+      "gas:candidate-vibid:1001000226004": 0,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001003&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170419&region=0&sub_region=0&type=429",
@@ -3570,13 +3570,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 114,
-      "Драганов Валерий Гаврилович": 661,
-      "Каминский Юрий Викторович": 75,
-      "Козлов Александр Петрович": 157,
-      "Московченко Николай Михайлович": 220,
-      "Новичихина Надежда Васильевна": 69,
-      "Против всех": 341
+      "gas:candidate-vibid:1001000113992": 114,
+      "gas:candidate-vibid:1001000226004": 661,
+      "gas:candidate-vibid:1001000136146": 75,
+      "gas:candidate-vibid:1001000121931": 157,
+      "gas:candidate-vibid:1001000188025": 220,
+      "gas:candidate-vibid:1001000190437": 69,
+      "special:against-all": 341
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3626,13 +3626,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 121,
-      "Драганов Валерий Гаврилович": 656,
-      "Каминский Юрий Викторович": 63,
-      "Козлов Александр Петрович": 160,
-      "Московченко Николай Михайлович": 211,
-      "Новичихина Надежда Васильевна": 88,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000113992": 121,
+      "gas:candidate-vibid:1001000226004": 656,
+      "gas:candidate-vibid:1001000136146": 63,
+      "gas:candidate-vibid:1001000121931": 160,
+      "gas:candidate-vibid:1001000188025": 211,
+      "gas:candidate-vibid:1001000190437": 88,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3682,13 +3682,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 129,
-      "Драганов Валерий Гаврилович": 464,
-      "Каминский Юрий Викторович": 55,
-      "Козлов Александр Петрович": 154,
-      "Московченко Николай Михайлович": 188,
-      "Новичихина Надежда Васильевна": 75,
-      "Против всех": 331
+      "gas:candidate-vibid:1001000113992": 129,
+      "gas:candidate-vibid:1001000226004": 464,
+      "gas:candidate-vibid:1001000136146": 55,
+      "gas:candidate-vibid:1001000121931": 154,
+      "gas:candidate-vibid:1001000188025": 188,
+      "gas:candidate-vibid:1001000190437": 75,
+      "special:against-all": 331
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3738,13 +3738,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 120,
-      "Драганов Валерий Гаврилович": 502,
-      "Каминский Юрий Викторович": 48,
-      "Козлов Александр Петрович": 135,
-      "Московченко Николай Михайлович": 197,
-      "Новичихина Надежда Васильевна": 67,
-      "Против всех": 299
+      "gas:candidate-vibid:1001000113992": 120,
+      "gas:candidate-vibid:1001000226004": 502,
+      "gas:candidate-vibid:1001000136146": 48,
+      "gas:candidate-vibid:1001000121931": 135,
+      "gas:candidate-vibid:1001000188025": 197,
+      "gas:candidate-vibid:1001000190437": 67,
+      "special:against-all": 299
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3794,13 +3794,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 45,
-      "Драганов Валерий Гаврилович": 294,
-      "Каминский Юрий Викторович": 12,
-      "Козлов Александр Петрович": 16,
-      "Московченко Николай Михайлович": 66,
-      "Новичихина Надежда Васильевна": 31,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000113992": 45,
+      "gas:candidate-vibid:1001000226004": 294,
+      "gas:candidate-vibid:1001000136146": 12,
+      "gas:candidate-vibid:1001000121931": 16,
+      "gas:candidate-vibid:1001000188025": 66,
+      "gas:candidate-vibid:1001000190437": 31,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3850,13 +3850,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 97,
-      "Драганов Валерий Гаврилович": 388,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 105,
-      "Московченко Николай Михайлович": 146,
-      "Новичихина Надежда Васильевна": 66,
-      "Против всех": 199
+      "gas:candidate-vibid:1001000113992": 97,
+      "gas:candidate-vibid:1001000226004": 388,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 105,
+      "gas:candidate-vibid:1001000188025": 146,
+      "gas:candidate-vibid:1001000190437": 66,
+      "special:against-all": 199
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3906,13 +3906,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 99,
-      "Драганов Валерий Гаврилович": 310,
-      "Каминский Юрий Викторович": 44,
-      "Козлов Александр Петрович": 126,
-      "Московченко Николай Михайлович": 157,
-      "Новичихина Надежда Васильевна": 53,
-      "Против всех": 203
+      "gas:candidate-vibid:1001000113992": 99,
+      "gas:candidate-vibid:1001000226004": 310,
+      "gas:candidate-vibid:1001000136146": 44,
+      "gas:candidate-vibid:1001000121931": 126,
+      "gas:candidate-vibid:1001000188025": 157,
+      "gas:candidate-vibid:1001000190437": 53,
+      "special:against-all": 203
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -3962,13 +3962,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 135,
-      "Драганов Валерий Гаврилович": 493,
-      "Каминский Юрий Викторович": 67,
-      "Козлов Александр Петрович": 149,
-      "Московченко Николай Михайлович": 244,
-      "Новичихина Надежда Васильевна": 97,
-      "Против всех": 371
+      "gas:candidate-vibid:1001000113992": 135,
+      "gas:candidate-vibid:1001000226004": 493,
+      "gas:candidate-vibid:1001000136146": 67,
+      "gas:candidate-vibid:1001000121931": 149,
+      "gas:candidate-vibid:1001000188025": 244,
+      "gas:candidate-vibid:1001000190437": 97,
+      "special:against-all": 371
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4018,13 +4018,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 100,
-      "Драганов Валерий Гаврилович": 258,
-      "Каминский Юрий Викторович": 42,
-      "Козлов Александр Петрович": 103,
-      "Московченко Николай Михайлович": 137,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 209
+      "gas:candidate-vibid:1001000113992": 100,
+      "gas:candidate-vibid:1001000226004": 258,
+      "gas:candidate-vibid:1001000136146": 42,
+      "gas:candidate-vibid:1001000121931": 103,
+      "gas:candidate-vibid:1001000188025": 137,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 209
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4074,13 +4074,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 54,
-      "Драганов Валерий Гаврилович": 252,
-      "Каминский Юрий Викторович": 33,
-      "Козлов Александр Петрович": 77,
-      "Московченко Николай Михайлович": 148,
-      "Новичихина Надежда Васильевна": 49,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000113992": 54,
+      "gas:candidate-vibid:1001000226004": 252,
+      "gas:candidate-vibid:1001000136146": 33,
+      "gas:candidate-vibid:1001000121931": 77,
+      "gas:candidate-vibid:1001000188025": 148,
+      "gas:candidate-vibid:1001000190437": 49,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4130,13 +4130,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 102,
-      "Драганов Валерий Гаврилович": 371,
-      "Каминский Юрий Викторович": 37,
-      "Козлов Александр Петрович": 108,
-      "Московченко Николай Михайлович": 225,
-      "Новичихина Надежда Васильевна": 53,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000113992": 102,
+      "gas:candidate-vibid:1001000226004": 371,
+      "gas:candidate-vibid:1001000136146": 37,
+      "gas:candidate-vibid:1001000121931": 108,
+      "gas:candidate-vibid:1001000188025": 225,
+      "gas:candidate-vibid:1001000190437": 53,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4186,13 +4186,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 119,
-      "Драганов Валерий Гаврилович": 324,
-      "Каминский Юрий Викторович": 46,
-      "Козлов Александр Петрович": 92,
-      "Московченко Николай Михайлович": 200,
-      "Новичихина Надежда Васильевна": 66,
-      "Против всех": 252
+      "gas:candidate-vibid:1001000113992": 119,
+      "gas:candidate-vibid:1001000226004": 324,
+      "gas:candidate-vibid:1001000136146": 46,
+      "gas:candidate-vibid:1001000121931": 92,
+      "gas:candidate-vibid:1001000188025": 200,
+      "gas:candidate-vibid:1001000190437": 66,
+      "special:against-all": 252
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4242,13 +4242,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 121,
-      "Драганов Валерий Гаврилович": 320,
-      "Каминский Юрий Викторович": 31,
-      "Козлов Александр Петрович": 90,
-      "Московченко Николай Михайлович": 140,
-      "Новичихина Надежда Васильевна": 71,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000113992": 121,
+      "gas:candidate-vibid:1001000226004": 320,
+      "gas:candidate-vibid:1001000136146": 31,
+      "gas:candidate-vibid:1001000121931": 90,
+      "gas:candidate-vibid:1001000188025": 140,
+      "gas:candidate-vibid:1001000190437": 71,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4298,13 +4298,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 81,
-      "Драганов Валерий Гаврилович": 217,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 56,
-      "Московченко Николай Михайлович": 137,
-      "Новичихина Надежда Васильевна": 34,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113992": 81,
+      "gas:candidate-vibid:1001000226004": 217,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 56,
+      "gas:candidate-vibid:1001000188025": 137,
+      "gas:candidate-vibid:1001000190437": 34,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4354,13 +4354,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 128,
-      "Драганов Валерий Гаврилович": 460,
-      "Каминский Юрий Викторович": 69,
-      "Козлов Александр Петрович": 102,
-      "Московченко Николай Михайлович": 227,
-      "Новичихина Надежда Васильевна": 72,
-      "Против всех": 317
+      "gas:candidate-vibid:1001000113992": 128,
+      "gas:candidate-vibid:1001000226004": 460,
+      "gas:candidate-vibid:1001000136146": 69,
+      "gas:candidate-vibid:1001000121931": 102,
+      "gas:candidate-vibid:1001000188025": 227,
+      "gas:candidate-vibid:1001000190437": 72,
+      "special:against-all": 317
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4410,13 +4410,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 102,
-      "Драганов Валерий Гаврилович": 318,
-      "Каминский Юрий Викторович": 50,
-      "Козлов Александр Петрович": 81,
-      "Московченко Николай Михайлович": 164,
-      "Новичихина Надежда Васильевна": 62,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000113992": 102,
+      "gas:candidate-vibid:1001000226004": 318,
+      "gas:candidate-vibid:1001000136146": 50,
+      "gas:candidate-vibid:1001000121931": 81,
+      "gas:candidate-vibid:1001000188025": 164,
+      "gas:candidate-vibid:1001000190437": 62,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4466,13 +4466,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 170,
-      "Драганов Валерий Гаврилович": 481,
-      "Каминский Юрий Викторович": 53,
-      "Козлов Александр Петрович": 115,
-      "Московченко Николай Михайлович": 226,
-      "Новичихина Надежда Васильевна": 65,
-      "Против всех": 380
+      "gas:candidate-vibid:1001000113992": 170,
+      "gas:candidate-vibid:1001000226004": 481,
+      "gas:candidate-vibid:1001000136146": 53,
+      "gas:candidate-vibid:1001000121931": 115,
+      "gas:candidate-vibid:1001000188025": 226,
+      "gas:candidate-vibid:1001000190437": 65,
+      "special:against-all": 380
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4522,13 +4522,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 104,
-      "Драганов Валерий Гаврилович": 471,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 81,
-      "Московченко Николай Михайлович": 130,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 248
+      "gas:candidate-vibid:1001000113992": 104,
+      "gas:candidate-vibid:1001000226004": 471,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 81,
+      "gas:candidate-vibid:1001000188025": 130,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 248
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4578,13 +4578,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 123,
-      "Драганов Валерий Гаврилович": 443,
-      "Каминский Юрий Викторович": 73,
-      "Козлов Александр Петрович": 93,
-      "Московченко Николай Михайлович": 214,
-      "Новичихина Надежда Васильевна": 68,
-      "Против всех": 411
+      "gas:candidate-vibid:1001000113992": 123,
+      "gas:candidate-vibid:1001000226004": 443,
+      "gas:candidate-vibid:1001000136146": 73,
+      "gas:candidate-vibid:1001000121931": 93,
+      "gas:candidate-vibid:1001000188025": 214,
+      "gas:candidate-vibid:1001000190437": 68,
+      "special:against-all": 411
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4634,13 +4634,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 183,
-      "Драганов Валерий Гаврилович": 475,
-      "Каминский Юрий Викторович": 71,
-      "Козлов Александр Петрович": 114,
-      "Московченко Николай Михайлович": 228,
-      "Новичихина Надежда Васильевна": 108,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000113992": 183,
+      "gas:candidate-vibid:1001000226004": 475,
+      "gas:candidate-vibid:1001000136146": 71,
+      "gas:candidate-vibid:1001000121931": 114,
+      "gas:candidate-vibid:1001000188025": 228,
+      "gas:candidate-vibid:1001000190437": 108,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4690,13 +4690,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 159,
-      "Драганов Валерий Гаврилович": 511,
-      "Каминский Юрий Викторович": 63,
-      "Козлов Александр Петрович": 105,
-      "Московченко Николай Михайлович": 236,
-      "Новичихина Надежда Васильевна": 99,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000113992": 159,
+      "gas:candidate-vibid:1001000226004": 511,
+      "gas:candidate-vibid:1001000136146": 63,
+      "gas:candidate-vibid:1001000121931": 105,
+      "gas:candidate-vibid:1001000188025": 236,
+      "gas:candidate-vibid:1001000190437": 99,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4746,13 +4746,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 133,
-      "Драганов Валерий Гаврилович": 393,
-      "Каминский Юрий Викторович": 78,
-      "Козлов Александр Петрович": 77,
-      "Московченко Николай Михайлович": 284,
-      "Новичихина Надежда Васильевна": 65,
-      "Против всех": 373
+      "gas:candidate-vibid:1001000113992": 133,
+      "gas:candidate-vibid:1001000226004": 393,
+      "gas:candidate-vibid:1001000136146": 78,
+      "gas:candidate-vibid:1001000121931": 77,
+      "gas:candidate-vibid:1001000188025": 284,
+      "gas:candidate-vibid:1001000190437": 65,
+      "special:against-all": 373
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4802,13 +4802,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 114,
-      "Драганов Валерий Гаврилович": 333,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 86,
-      "Московченко Николай Михайлович": 202,
-      "Новичихина Надежда Васильевна": 36,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000113992": 114,
+      "gas:candidate-vibid:1001000226004": 333,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 86,
+      "gas:candidate-vibid:1001000188025": 202,
+      "gas:candidate-vibid:1001000190437": 36,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4858,13 +4858,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 165,
-      "Драганов Валерий Гаврилович": 532,
-      "Каминский Юрий Викторович": 71,
-      "Козлов Александр Петрович": 121,
-      "Московченко Николай Михайлович": 235,
-      "Новичихина Надежда Васильевна": 88,
-      "Против всех": 354
+      "gas:candidate-vibid:1001000113992": 165,
+      "gas:candidate-vibid:1001000226004": 532,
+      "gas:candidate-vibid:1001000136146": 71,
+      "gas:candidate-vibid:1001000121931": 121,
+      "gas:candidate-vibid:1001000188025": 235,
+      "gas:candidate-vibid:1001000190437": 88,
+      "special:against-all": 354
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4914,13 +4914,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 101,
-      "Драганов Валерий Гаврилович": 395,
-      "Каминский Юрий Викторович": 65,
-      "Козлов Александр Петрович": 117,
-      "Московченко Николай Михайлович": 212,
-      "Новичихина Надежда Васильевна": 73,
-      "Против всех": 369
+      "gas:candidate-vibid:1001000113992": 101,
+      "gas:candidate-vibid:1001000226004": 395,
+      "gas:candidate-vibid:1001000136146": 65,
+      "gas:candidate-vibid:1001000121931": 117,
+      "gas:candidate-vibid:1001000188025": 212,
+      "gas:candidate-vibid:1001000190437": 73,
+      "special:against-all": 369
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001004&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170421&region=0&sub_region=0&type=429",
@@ -4970,13 +4970,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 62,
-      "Драганов Валерий Гаврилович": 285,
-      "Каминский Юрий Викторович": 56,
-      "Козлов Александр Петрович": 107,
-      "Московченко Николай Михайлович": 170,
-      "Новичихина Надежда Васильевна": 90,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000113992": 62,
+      "gas:candidate-vibid:1001000226004": 285,
+      "gas:candidate-vibid:1001000136146": 56,
+      "gas:candidate-vibid:1001000121931": 107,
+      "gas:candidate-vibid:1001000188025": 170,
+      "gas:candidate-vibid:1001000190437": 90,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5026,13 +5026,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 119,
-      "Драганов Валерий Гаврилович": 357,
-      "Каминский Юрий Викторович": 81,
-      "Козлов Александр Петрович": 123,
-      "Московченко Николай Михайлович": 200,
-      "Новичихина Надежда Васильевна": 110,
-      "Против всех": 374
+      "gas:candidate-vibid:1001000113992": 119,
+      "gas:candidate-vibid:1001000226004": 357,
+      "gas:candidate-vibid:1001000136146": 81,
+      "gas:candidate-vibid:1001000121931": 123,
+      "gas:candidate-vibid:1001000188025": 200,
+      "gas:candidate-vibid:1001000190437": 110,
+      "special:against-all": 374
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5082,13 +5082,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 135,
-      "Драганов Валерий Гаврилович": 354,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 163,
-      "Новичихина Надежда Васильевна": 130,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000113992": 135,
+      "gas:candidate-vibid:1001000226004": 354,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 163,
+      "gas:candidate-vibid:1001000190437": 130,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5138,13 +5138,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 143,
-      "Драганов Валерий Гаврилович": 404,
-      "Каминский Юрий Викторович": 75,
-      "Козлов Александр Петрович": 132,
-      "Московченко Николай Михайлович": 174,
-      "Новичихина Надежда Васильевна": 115,
-      "Против всех": 333
+      "gas:candidate-vibid:1001000113992": 143,
+      "gas:candidate-vibid:1001000226004": 404,
+      "gas:candidate-vibid:1001000136146": 75,
+      "gas:candidate-vibid:1001000121931": 132,
+      "gas:candidate-vibid:1001000188025": 174,
+      "gas:candidate-vibid:1001000190437": 115,
+      "special:against-all": 333
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5194,13 +5194,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 118,
-      "Драганов Валерий Гаврилович": 339,
-      "Каминский Юрий Викторович": 66,
-      "Козлов Александр Петрович": 93,
-      "Московченко Николай Михайлович": 223,
-      "Новичихина Надежда Васильевна": 103,
-      "Против всех": 347
+      "gas:candidate-vibid:1001000113992": 118,
+      "gas:candidate-vibid:1001000226004": 339,
+      "gas:candidate-vibid:1001000136146": 66,
+      "gas:candidate-vibid:1001000121931": 93,
+      "gas:candidate-vibid:1001000188025": 223,
+      "gas:candidate-vibid:1001000190437": 103,
+      "special:against-all": 347
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5250,13 +5250,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 120,
-      "Драганов Валерий Гаврилович": 497,
-      "Каминский Юрий Викторович": 59,
-      "Козлов Александр Петрович": 147,
-      "Московченко Николай Михайлович": 157,
-      "Новичихина Надежда Васильевна": 72,
-      "Против всех": 359
+      "gas:candidate-vibid:1001000113992": 120,
+      "gas:candidate-vibid:1001000226004": 497,
+      "gas:candidate-vibid:1001000136146": 59,
+      "gas:candidate-vibid:1001000121931": 147,
+      "gas:candidate-vibid:1001000188025": 157,
+      "gas:candidate-vibid:1001000190437": 72,
+      "special:against-all": 359
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5306,13 +5306,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 147,
-      "Драганов Валерий Гаврилович": 432,
-      "Каминский Юрий Викторович": 85,
-      "Козлов Александр Петрович": 130,
-      "Московченко Николай Михайлович": 218,
-      "Новичихина Надежда Васильевна": 95,
-      "Против всех": 420
+      "gas:candidate-vibid:1001000113992": 147,
+      "gas:candidate-vibid:1001000226004": 432,
+      "gas:candidate-vibid:1001000136146": 85,
+      "gas:candidate-vibid:1001000121931": 130,
+      "gas:candidate-vibid:1001000188025": 218,
+      "gas:candidate-vibid:1001000190437": 95,
+      "special:against-all": 420
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5362,13 +5362,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 119,
-      "Драганов Валерий Гаврилович": 387,
-      "Каминский Юрий Викторович": 67,
-      "Козлов Александр Петрович": 92,
-      "Московченко Николай Михайлович": 120,
-      "Новичихина Надежда Васильевна": 84,
-      "Против всех": 352
+      "gas:candidate-vibid:1001000113992": 119,
+      "gas:candidate-vibid:1001000226004": 387,
+      "gas:candidate-vibid:1001000136146": 67,
+      "gas:candidate-vibid:1001000121931": 92,
+      "gas:candidate-vibid:1001000188025": 120,
+      "gas:candidate-vibid:1001000190437": 84,
+      "special:against-all": 352
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5418,13 +5418,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 143,
-      "Драганов Валерий Гаврилович": 399,
-      "Каминский Юрий Викторович": 56,
-      "Козлов Александр Петрович": 102,
-      "Московченко Николай Михайлович": 208,
-      "Новичихина Надежда Васильевна": 65,
-      "Против всех": 329
+      "gas:candidate-vibid:1001000113992": 143,
+      "gas:candidate-vibid:1001000226004": 399,
+      "gas:candidate-vibid:1001000136146": 56,
+      "gas:candidate-vibid:1001000121931": 102,
+      "gas:candidate-vibid:1001000188025": 208,
+      "gas:candidate-vibid:1001000190437": 65,
+      "special:against-all": 329
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5474,13 +5474,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 107,
-      "Драганов Валерий Гаврилович": 339,
-      "Каминский Юрий Викторович": 59,
-      "Козлов Александр Петрович": 132,
-      "Московченко Николай Михайлович": 142,
-      "Новичихина Надежда Васильевна": 101,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000113992": 107,
+      "gas:candidate-vibid:1001000226004": 339,
+      "gas:candidate-vibid:1001000136146": 59,
+      "gas:candidate-vibid:1001000121931": 132,
+      "gas:candidate-vibid:1001000188025": 142,
+      "gas:candidate-vibid:1001000190437": 101,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5530,13 +5530,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 171,
-      "Драганов Валерий Гаврилович": 420,
-      "Каминский Юрий Викторович": 82,
-      "Козлов Александр Петрович": 154,
-      "Московченко Николай Михайлович": 227,
-      "Новичихина Надежда Васильевна": 121,
-      "Против всех": 344
+      "gas:candidate-vibid:1001000113992": 171,
+      "gas:candidate-vibid:1001000226004": 420,
+      "gas:candidate-vibid:1001000136146": 82,
+      "gas:candidate-vibid:1001000121931": 154,
+      "gas:candidate-vibid:1001000188025": 227,
+      "gas:candidate-vibid:1001000190437": 121,
+      "special:against-all": 344
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5586,13 +5586,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 120,
-      "Драганов Валерий Гаврилович": 403,
-      "Каминский Юрий Викторович": 60,
-      "Козлов Александр Петрович": 86,
-      "Московченко Николай Михайлович": 228,
-      "Новичихина Надежда Васильевна": 97,
-      "Против всех": 271
+      "gas:candidate-vibid:1001000113992": 120,
+      "gas:candidate-vibid:1001000226004": 403,
+      "gas:candidate-vibid:1001000136146": 60,
+      "gas:candidate-vibid:1001000121931": 86,
+      "gas:candidate-vibid:1001000188025": 228,
+      "gas:candidate-vibid:1001000190437": 97,
+      "special:against-all": 271
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5642,13 +5642,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 92,
-      "Драганов Валерий Гаврилович": 268,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 82,
-      "Московченко Николай Михайлович": 196,
-      "Новичихина Надежда Васильевна": 48,
-      "Против всех": 256
+      "gas:candidate-vibid:1001000113992": 92,
+      "gas:candidate-vibid:1001000226004": 268,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 82,
+      "gas:candidate-vibid:1001000188025": 196,
+      "gas:candidate-vibid:1001000190437": 48,
+      "special:against-all": 256
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5698,13 +5698,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 75,
-      "Драганов Валерий Гаврилович": 337,
-      "Каминский Юрий Викторович": 33,
-      "Козлов Александр Петрович": 110,
-      "Московченко Николай Михайлович": 94,
-      "Новичихина Надежда Васильевна": 63,
-      "Против всех": 222
+      "gas:candidate-vibid:1001000113992": 75,
+      "gas:candidate-vibid:1001000226004": 337,
+      "gas:candidate-vibid:1001000136146": 33,
+      "gas:candidate-vibid:1001000121931": 110,
+      "gas:candidate-vibid:1001000188025": 94,
+      "gas:candidate-vibid:1001000190437": 63,
+      "special:against-all": 222
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5754,13 +5754,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 135,
-      "Драганов Валерий Гаврилович": 541,
-      "Каминский Юрий Викторович": 66,
-      "Козлов Александр Петрович": 122,
-      "Московченко Николай Михайлович": 210,
-      "Новичихина Надежда Васильевна": 99,
-      "Против всех": 394
+      "gas:candidate-vibid:1001000113992": 135,
+      "gas:candidate-vibid:1001000226004": 541,
+      "gas:candidate-vibid:1001000136146": 66,
+      "gas:candidate-vibid:1001000121931": 122,
+      "gas:candidate-vibid:1001000188025": 210,
+      "gas:candidate-vibid:1001000190437": 99,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5810,13 +5810,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 100,
-      "Драганов Валерий Гаврилович": 304,
-      "Каминский Юрий Викторович": 44,
-      "Козлов Александр Петрович": 77,
-      "Московченко Николай Михайлович": 112,
-      "Новичихина Надежда Васильевна": 71,
-      "Против всех": 298
+      "gas:candidate-vibid:1001000113992": 100,
+      "gas:candidate-vibid:1001000226004": 304,
+      "gas:candidate-vibid:1001000136146": 44,
+      "gas:candidate-vibid:1001000121931": 77,
+      "gas:candidate-vibid:1001000188025": 112,
+      "gas:candidate-vibid:1001000190437": 71,
+      "special:against-all": 298
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5866,13 +5866,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 109,
-      "Драганов Валерий Гаврилович": 352,
-      "Каминский Юрий Викторович": 48,
-      "Козлов Александр Петрович": 131,
-      "Московченко Николай Михайлович": 169,
-      "Новичихина Надежда Васильевна": 66,
-      "Против всех": 251
+      "gas:candidate-vibid:1001000113992": 109,
+      "gas:candidate-vibid:1001000226004": 352,
+      "gas:candidate-vibid:1001000136146": 48,
+      "gas:candidate-vibid:1001000121931": 131,
+      "gas:candidate-vibid:1001000188025": 169,
+      "gas:candidate-vibid:1001000190437": 66,
+      "special:against-all": 251
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5922,13 +5922,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 112,
-      "Драганов Валерий Гаврилович": 274,
-      "Каминский Юрий Викторович": 25,
-      "Козлов Александр Петрович": 85,
-      "Московченко Николай Михайлович": 108,
-      "Новичихина Надежда Васильевна": 76,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000113992": 112,
+      "gas:candidate-vibid:1001000226004": 274,
+      "gas:candidate-vibid:1001000136146": 25,
+      "gas:candidate-vibid:1001000121931": 85,
+      "gas:candidate-vibid:1001000188025": 108,
+      "gas:candidate-vibid:1001000190437": 76,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -5978,13 +5978,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 127,
-      "Драганов Валерий Гаврилович": 469,
-      "Каминский Юрий Викторович": 97,
-      "Козлов Александр Петрович": 148,
-      "Московченко Николай Михайлович": 202,
-      "Новичихина Надежда Васильевна": 76,
-      "Против всех": 394
+      "gas:candidate-vibid:1001000113992": 127,
+      "gas:candidate-vibid:1001000226004": 469,
+      "gas:candidate-vibid:1001000136146": 97,
+      "gas:candidate-vibid:1001000121931": 148,
+      "gas:candidate-vibid:1001000188025": 202,
+      "gas:candidate-vibid:1001000190437": 76,
+      "special:against-all": 394
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6034,13 +6034,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 90,
-      "Драганов Валерий Гаврилович": 341,
-      "Каминский Юрий Викторович": 58,
-      "Козлов Александр Петрович": 70,
-      "Московченко Николай Михайлович": 110,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 223
+      "gas:candidate-vibid:1001000113992": 90,
+      "gas:candidate-vibid:1001000226004": 341,
+      "gas:candidate-vibid:1001000136146": 58,
+      "gas:candidate-vibid:1001000121931": 70,
+      "gas:candidate-vibid:1001000188025": 110,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 223
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6090,13 +6090,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 111,
-      "Драганов Валерий Гаврилович": 312,
-      "Каминский Юрий Викторович": 46,
-      "Козлов Александр Петрович": 109,
-      "Московченко Николай Михайлович": 127,
-      "Новичихина Надежда Васильевна": 60,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000113992": 111,
+      "gas:candidate-vibid:1001000226004": 312,
+      "gas:candidate-vibid:1001000136146": 46,
+      "gas:candidate-vibid:1001000121931": 109,
+      "gas:candidate-vibid:1001000188025": 127,
+      "gas:candidate-vibid:1001000190437": 60,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6146,13 +6146,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 113,
-      "Драганов Валерий Гаврилович": 602,
-      "Каминский Юрий Викторович": 52,
-      "Козлов Александр Петрович": 132,
-      "Московченко Николай Михайлович": 181,
-      "Новичихина Надежда Васильевна": 72,
-      "Против всех": 362
+      "gas:candidate-vibid:1001000113992": 113,
+      "gas:candidate-vibid:1001000226004": 602,
+      "gas:candidate-vibid:1001000136146": 52,
+      "gas:candidate-vibid:1001000121931": 132,
+      "gas:candidate-vibid:1001000188025": 181,
+      "gas:candidate-vibid:1001000190437": 72,
+      "special:against-all": 362
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6202,13 +6202,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 98,
-      "Драганов Валерий Гаврилович": 301,
-      "Каминский Юрий Викторович": 63,
-      "Козлов Александр Петрович": 63,
-      "Московченко Николай Михайлович": 106,
-      "Новичихина Надежда Васильевна": 53,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000113992": 98,
+      "gas:candidate-vibid:1001000226004": 301,
+      "gas:candidate-vibid:1001000136146": 63,
+      "gas:candidate-vibid:1001000121931": 63,
+      "gas:candidate-vibid:1001000188025": 106,
+      "gas:candidate-vibid:1001000190437": 53,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6258,13 +6258,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 178,
-      "Драганов Валерий Гаврилович": 567,
-      "Каминский Юрий Викторович": 65,
-      "Козлов Александр Петрович": 137,
-      "Московченко Николай Михайлович": 161,
-      "Новичихина Надежда Васильевна": 85,
-      "Против всех": 325
+      "gas:candidate-vibid:1001000113992": 178,
+      "gas:candidate-vibid:1001000226004": 567,
+      "gas:candidate-vibid:1001000136146": 65,
+      "gas:candidate-vibid:1001000121931": 137,
+      "gas:candidate-vibid:1001000188025": 161,
+      "gas:candidate-vibid:1001000190437": 85,
+      "special:against-all": 325
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6314,13 +6314,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 118,
-      "Драганов Валерий Гаврилович": 416,
-      "Каминский Юрий Викторович": 55,
-      "Козлов Александр Петрович": 121,
-      "Московченко Николай Михайлович": 180,
-      "Новичихина Надежда Васильевна": 86,
-      "Против всех": 308
+      "gas:candidate-vibid:1001000113992": 118,
+      "gas:candidate-vibid:1001000226004": 416,
+      "gas:candidate-vibid:1001000136146": 55,
+      "gas:candidate-vibid:1001000121931": 121,
+      "gas:candidate-vibid:1001000188025": 180,
+      "gas:candidate-vibid:1001000190437": 86,
+      "special:against-all": 308
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6370,13 +6370,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 111,
-      "Драганов Валерий Гаврилович": 258,
-      "Каминский Юрий Викторович": 37,
-      "Козлов Александр Петрович": 81,
-      "Московченко Николай Михайлович": 183,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000113992": 111,
+      "gas:candidate-vibid:1001000226004": 258,
+      "gas:candidate-vibid:1001000136146": 37,
+      "gas:candidate-vibid:1001000121931": 81,
+      "gas:candidate-vibid:1001000188025": 183,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6426,13 +6426,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 97,
-      "Драганов Валерий Гаврилович": 276,
-      "Каминский Юрий Викторович": 46,
-      "Козлов Александр Петрович": 70,
-      "Московченко Николай Михайлович": 125,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 235
+      "gas:candidate-vibid:1001000113992": 97,
+      "gas:candidate-vibid:1001000226004": 276,
+      "gas:candidate-vibid:1001000136146": 46,
+      "gas:candidate-vibid:1001000121931": 70,
+      "gas:candidate-vibid:1001000188025": 125,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 235
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6482,13 +6482,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 8,
-      "Каминский Юрий Викторович": 2,
-      "Козлов Александр Петрович": 1,
-      "Московченко Николай Михайлович": 4,
-      "Новичихина Надежда Васильевна": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 8,
+      "gas:candidate-vibid:1001000136146": 2,
+      "gas:candidate-vibid:1001000121931": 1,
+      "gas:candidate-vibid:1001000188025": 4,
+      "gas:candidate-vibid:1001000190437": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6538,13 +6538,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 7,
-      "Каминский Юрий Викторович": 2,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 1,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 7,
+      "gas:candidate-vibid:1001000136146": 2,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 1,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6594,13 +6594,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 0,
-      "Драганов Валерий Гаврилович": 30,
-      "Каминский Юрий Викторович": 4,
-      "Козлов Александр Петрович": 2,
-      "Московченко Николай Михайлович": 2,
-      "Новичихина Надежда Васильевна": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113992": 0,
+      "gas:candidate-vibid:1001000226004": 30,
+      "gas:candidate-vibid:1001000136146": 4,
+      "gas:candidate-vibid:1001000121931": 2,
+      "gas:candidate-vibid:1001000188025": 2,
+      "gas:candidate-vibid:1001000190437": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001005&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170423&region=0&sub_region=0&type=429",
@@ -6650,13 +6650,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 170,
-      "Драганов Валерий Гаврилович": 554,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 147,
-      "Московченко Николай Михайлович": 251,
-      "Новичихина Надежда Васильевна": 77,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000113992": 170,
+      "gas:candidate-vibid:1001000226004": 554,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 147,
+      "gas:candidate-vibid:1001000188025": 251,
+      "gas:candidate-vibid:1001000190437": 77,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -6706,13 +6706,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 148,
-      "Драганов Валерий Гаврилович": 530,
-      "Каминский Юрий Викторович": 1,
-      "Козлов Александр Петрович": 183,
-      "Московченко Николай Михайлович": 232,
-      "Новичихина Надежда Васильевна": 77,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000113992": 148,
+      "gas:candidate-vibid:1001000226004": 530,
+      "gas:candidate-vibid:1001000136146": 1,
+      "gas:candidate-vibid:1001000121931": 183,
+      "gas:candidate-vibid:1001000188025": 232,
+      "gas:candidate-vibid:1001000190437": 77,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -6762,13 +6762,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 124,
-      "Драганов Валерий Гаврилович": 429,
-      "Каминский Юрий Викторович": 56,
-      "Козлов Александр Петрович": 71,
-      "Московченко Николай Михайлович": 127,
-      "Новичихина Надежда Васильевна": 59,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000113992": 124,
+      "gas:candidate-vibid:1001000226004": 429,
+      "gas:candidate-vibid:1001000136146": 56,
+      "gas:candidate-vibid:1001000121931": 71,
+      "gas:candidate-vibid:1001000188025": 127,
+      "gas:candidate-vibid:1001000190437": 59,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -6818,13 +6818,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 68,
-      "Драганов Валерий Гаврилович": 358,
-      "Каминский Юрий Викторович": 37,
-      "Козлов Александр Петрович": 106,
-      "Московченко Николай Михайлович": 131,
-      "Новичихина Надежда Васильевна": 26,
-      "Против всех": 126
+      "gas:candidate-vibid:1001000113992": 68,
+      "gas:candidate-vibid:1001000226004": 358,
+      "gas:candidate-vibid:1001000136146": 37,
+      "gas:candidate-vibid:1001000121931": 106,
+      "gas:candidate-vibid:1001000188025": 131,
+      "gas:candidate-vibid:1001000190437": 26,
+      "special:against-all": 126
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -6874,13 +6874,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 144,
-      "Драганов Валерий Гаврилович": 347,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 97,
-      "Московченко Николай Михайлович": 141,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 170
+      "gas:candidate-vibid:1001000113992": 144,
+      "gas:candidate-vibid:1001000226004": 347,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 97,
+      "gas:candidate-vibid:1001000188025": 141,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 170
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -6930,13 +6930,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 97,
-      "Драганов Валерий Гаврилович": 324,
-      "Каминский Юрий Викторович": 46,
-      "Козлов Александр Петрович": 88,
-      "Московченко Николай Михайлович": 137,
-      "Новичихина Надежда Васильевна": 64,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000113992": 97,
+      "gas:candidate-vibid:1001000226004": 324,
+      "gas:candidate-vibid:1001000136146": 46,
+      "gas:candidate-vibid:1001000121931": 88,
+      "gas:candidate-vibid:1001000188025": 137,
+      "gas:candidate-vibid:1001000190437": 64,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -6986,13 +6986,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 134,
-      "Драганов Валерий Гаврилович": 441,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 82,
-      "Московченко Николай Михайлович": 160,
-      "Новичихина Надежда Васильевна": 56,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000113992": 134,
+      "gas:candidate-vibid:1001000226004": 441,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 82,
+      "gas:candidate-vibid:1001000188025": 160,
+      "gas:candidate-vibid:1001000190437": 56,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7042,13 +7042,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 217,
-      "Драганов Валерий Гаврилович": 606,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 192,
-      "Новичихина Надежда Васильевна": 37,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000113992": 217,
+      "gas:candidate-vibid:1001000226004": 606,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 192,
+      "gas:candidate-vibid:1001000190437": 37,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7098,13 +7098,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 71,
-      "Драганов Валерий Гаврилович": 362,
-      "Каминский Юрий Викторович": 24,
-      "Козлов Александр Петрович": 44,
-      "Московченко Николай Михайлович": 101,
-      "Новичихина Надежда Васильевна": 37,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000113992": 71,
+      "gas:candidate-vibid:1001000226004": 362,
+      "gas:candidate-vibid:1001000136146": 24,
+      "gas:candidate-vibid:1001000121931": 44,
+      "gas:candidate-vibid:1001000188025": 101,
+      "gas:candidate-vibid:1001000190437": 37,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7154,13 +7154,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 102,
-      "Драганов Валерий Гаврилович": 383,
-      "Каминский Юрий Викторович": 31,
-      "Козлов Александр Петрович": 60,
-      "Московченко Николай Михайлович": 126,
-      "Новичихина Надежда Васильевна": 41,
-      "Против всех": 152
+      "gas:candidate-vibid:1001000113992": 102,
+      "gas:candidate-vibid:1001000226004": 383,
+      "gas:candidate-vibid:1001000136146": 31,
+      "gas:candidate-vibid:1001000121931": 60,
+      "gas:candidate-vibid:1001000188025": 126,
+      "gas:candidate-vibid:1001000190437": 41,
+      "special:against-all": 152
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7210,13 +7210,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 71,
-      "Драганов Валерий Гаврилович": 547,
-      "Каминский Юрий Викторович": 49,
-      "Козлов Александр Петрович": 76,
-      "Московченко Николай Михайлович": 123,
-      "Новичихина Надежда Васильевна": 55,
-      "Против всех": 229
+      "gas:candidate-vibid:1001000113992": 71,
+      "gas:candidate-vibid:1001000226004": 547,
+      "gas:candidate-vibid:1001000136146": 49,
+      "gas:candidate-vibid:1001000121931": 76,
+      "gas:candidate-vibid:1001000188025": 123,
+      "gas:candidate-vibid:1001000190437": 55,
+      "special:against-all": 229
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7266,13 +7266,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 109,
-      "Драганов Валерий Гаврилович": 462,
-      "Каминский Юрий Викторович": 62,
-      "Козлов Александр Петрович": 80,
-      "Московченко Николай Михайлович": 184,
-      "Новичихина Надежда Васильевна": 37,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000113992": 109,
+      "gas:candidate-vibid:1001000226004": 462,
+      "gas:candidate-vibid:1001000136146": 62,
+      "gas:candidate-vibid:1001000121931": 80,
+      "gas:candidate-vibid:1001000188025": 184,
+      "gas:candidate-vibid:1001000190437": 37,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7322,13 +7322,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 90,
-      "Драганов Валерий Гаврилович": 482,
-      "Каминский Юрий Викторович": 46,
-      "Козлов Александр Петрович": 55,
-      "Московченко Николай Михайлович": 128,
-      "Новичихина Надежда Васильевна": 24,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000113992": 90,
+      "gas:candidate-vibid:1001000226004": 482,
+      "gas:candidate-vibid:1001000136146": 46,
+      "gas:candidate-vibid:1001000121931": 55,
+      "gas:candidate-vibid:1001000188025": 128,
+      "gas:candidate-vibid:1001000190437": 24,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7378,13 +7378,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 101,
-      "Драганов Валерий Гаврилович": 432,
-      "Каминский Юрий Викторович": 53,
-      "Козлов Александр Петрович": 59,
-      "Московченко Николай Михайлович": 120,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 192
+      "gas:candidate-vibid:1001000113992": 101,
+      "gas:candidate-vibid:1001000226004": 432,
+      "gas:candidate-vibid:1001000136146": 53,
+      "gas:candidate-vibid:1001000121931": 59,
+      "gas:candidate-vibid:1001000188025": 120,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 192
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7434,13 +7434,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 60,
-      "Драганов Валерий Гаврилович": 231,
-      "Каминский Юрий Викторович": 23,
-      "Козлов Александр Петрович": 52,
-      "Московченко Николай Михайлович": 82,
-      "Новичихина Надежда Васильевна": 27,
-      "Против всех": 102
+      "gas:candidate-vibid:1001000113992": 60,
+      "gas:candidate-vibid:1001000226004": 231,
+      "gas:candidate-vibid:1001000136146": 23,
+      "gas:candidate-vibid:1001000121931": 52,
+      "gas:candidate-vibid:1001000188025": 82,
+      "gas:candidate-vibid:1001000190437": 27,
+      "special:against-all": 102
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7490,13 +7490,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 97,
-      "Драганов Валерий Гаврилович": 338,
-      "Каминский Юрий Викторович": 33,
-      "Козлов Александр Петрович": 51,
-      "Московченко Николай Михайлович": 110,
-      "Новичихина Надежда Васильевна": 27,
-      "Против всех": 164
+      "gas:candidate-vibid:1001000113992": 97,
+      "gas:candidate-vibid:1001000226004": 338,
+      "gas:candidate-vibid:1001000136146": 33,
+      "gas:candidate-vibid:1001000121931": 51,
+      "gas:candidate-vibid:1001000188025": 110,
+      "gas:candidate-vibid:1001000190437": 27,
+      "special:against-all": 164
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7546,13 +7546,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 114,
-      "Драганов Валерий Гаврилович": 492,
-      "Каминский Юрий Викторович": 44,
-      "Козлов Александр Петрович": 89,
-      "Московченко Николай Михайлович": 155,
-      "Новичихина Надежда Васильевна": 39,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000113992": 114,
+      "gas:candidate-vibid:1001000226004": 492,
+      "gas:candidate-vibid:1001000136146": 44,
+      "gas:candidate-vibid:1001000121931": 89,
+      "gas:candidate-vibid:1001000188025": 155,
+      "gas:candidate-vibid:1001000190437": 39,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7602,13 +7602,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 92,
-      "Драганов Валерий Гаврилович": 413,
-      "Каминский Юрий Викторович": 37,
-      "Козлов Александр Петрович": 102,
-      "Московченко Николай Михайлович": 100,
-      "Новичихина Надежда Васильевна": 73,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000113992": 92,
+      "gas:candidate-vibid:1001000226004": 413,
+      "gas:candidate-vibid:1001000136146": 37,
+      "gas:candidate-vibid:1001000121931": 102,
+      "gas:candidate-vibid:1001000188025": 100,
+      "gas:candidate-vibid:1001000190437": 73,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7658,13 +7658,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 51,
-      "Драганов Валерий Гаврилович": 295,
-      "Каминский Юрий Викторович": 28,
-      "Козлов Александр Петрович": 54,
-      "Московченко Николай Михайлович": 93,
-      "Новичихина Надежда Васильевна": 29,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000113992": 51,
+      "gas:candidate-vibid:1001000226004": 295,
+      "gas:candidate-vibid:1001000136146": 28,
+      "gas:candidate-vibid:1001000121931": 54,
+      "gas:candidate-vibid:1001000188025": 93,
+      "gas:candidate-vibid:1001000190437": 29,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7714,13 +7714,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 115,
-      "Драганов Валерий Гаврилович": 513,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 105,
-      "Московченко Николай Михайлович": 239,
-      "Новичихина Надежда Васильевна": 109,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000113992": 115,
+      "gas:candidate-vibid:1001000226004": 513,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 105,
+      "gas:candidate-vibid:1001000188025": 239,
+      "gas:candidate-vibid:1001000190437": 109,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7770,13 +7770,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 152,
-      "Драганов Валерий Гаврилович": 555,
-      "Каминский Юрий Викторович": 44,
-      "Козлов Александр Петрович": 88,
-      "Московченко Николай Михайлович": 255,
-      "Новичихина Надежда Васильевна": 77,
-      "Против всех": 364
+      "gas:candidate-vibid:1001000113992": 152,
+      "gas:candidate-vibid:1001000226004": 555,
+      "gas:candidate-vibid:1001000136146": 44,
+      "gas:candidate-vibid:1001000121931": 88,
+      "gas:candidate-vibid:1001000188025": 255,
+      "gas:candidate-vibid:1001000190437": 77,
+      "special:against-all": 364
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7826,13 +7826,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 4,
-      "Каминский Юрий Викторович": 1,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 4,
+      "gas:candidate-vibid:1001000136146": 1,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7882,13 +7882,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 10,
-      "Драганов Валерий Гаврилович": 49,
-      "Каминский Юрий Викторович": 7,
-      "Козлов Александр Петрович": 12,
-      "Московченко Николай Михайлович": 15,
-      "Новичихина Надежда Васильевна": 3,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000113992": 10,
+      "gas:candidate-vibid:1001000226004": 49,
+      "gas:candidate-vibid:1001000136146": 7,
+      "gas:candidate-vibid:1001000121931": 12,
+      "gas:candidate-vibid:1001000188025": 15,
+      "gas:candidate-vibid:1001000190437": 3,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7938,13 +7938,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 6,
-      "Драганов Валерий Гаврилович": 9,
-      "Каминский Юрий Викторович": 7,
-      "Козлов Александр Петрович": 4,
-      "Московченко Николай Михайлович": 2,
-      "Новичихина Надежда Васильевна": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113992": 6,
+      "gas:candidate-vibid:1001000226004": 9,
+      "gas:candidate-vibid:1001000136146": 7,
+      "gas:candidate-vibid:1001000121931": 4,
+      "gas:candidate-vibid:1001000188025": 2,
+      "gas:candidate-vibid:1001000190437": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -7994,13 +7994,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 6,
-      "Драганов Валерий Гаврилович": 61,
-      "Каминский Юрий Викторович": 7,
-      "Козлов Александр Петрович": 9,
-      "Московченко Николай Михайлович": 11,
-      "Новичихина Надежда Васильевна": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000113992": 6,
+      "gas:candidate-vibid:1001000226004": 61,
+      "gas:candidate-vibid:1001000136146": 7,
+      "gas:candidate-vibid:1001000121931": 9,
+      "gas:candidate-vibid:1001000188025": 11,
+      "gas:candidate-vibid:1001000190437": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001006&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170425&region=0&sub_region=0&type=429",
@@ -8050,13 +8050,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 181,
-      "Драганов Валерий Гаврилович": 512,
-      "Каминский Юрий Викторович": 40,
-      "Козлов Александр Петрович": 136,
-      "Московченко Николай Михайлович": 190,
-      "Новичихина Надежда Васильевна": 104,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000113992": 181,
+      "gas:candidate-vibid:1001000226004": 512,
+      "gas:candidate-vibid:1001000136146": 40,
+      "gas:candidate-vibid:1001000121931": 136,
+      "gas:candidate-vibid:1001000188025": 190,
+      "gas:candidate-vibid:1001000190437": 104,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8106,13 +8106,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 173,
-      "Драганов Валерий Гаврилович": 537,
-      "Каминский Юрий Викторович": 50,
-      "Козлов Александр Петрович": 113,
-      "Московченко Николай Михайлович": 220,
-      "Новичихина Надежда Васильевна": 70,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000113992": 173,
+      "gas:candidate-vibid:1001000226004": 537,
+      "gas:candidate-vibid:1001000136146": 50,
+      "gas:candidate-vibid:1001000121931": 113,
+      "gas:candidate-vibid:1001000188025": 220,
+      "gas:candidate-vibid:1001000190437": 70,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8162,13 +8162,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 138,
-      "Драганов Валерий Гаврилович": 471,
-      "Каминский Юрий Викторович": 56,
-      "Козлов Александр Петрович": 71,
-      "Московченко Николай Михайлович": 135,
-      "Новичихина Надежда Васильевна": 52,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000113992": 138,
+      "gas:candidate-vibid:1001000226004": 471,
+      "gas:candidate-vibid:1001000136146": 56,
+      "gas:candidate-vibid:1001000121931": 71,
+      "gas:candidate-vibid:1001000188025": 135,
+      "gas:candidate-vibid:1001000190437": 52,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8218,13 +8218,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 135,
-      "Драганов Валерий Гаврилович": 436,
-      "Каминский Юрий Викторович": 42,
-      "Козлов Александр Петрович": 85,
-      "Московченко Николай Михайлович": 124,
-      "Новичихина Надежда Васильевна": 32,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000113992": 135,
+      "gas:candidate-vibid:1001000226004": 436,
+      "gas:candidate-vibid:1001000136146": 42,
+      "gas:candidate-vibid:1001000121931": 85,
+      "gas:candidate-vibid:1001000188025": 124,
+      "gas:candidate-vibid:1001000190437": 32,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8274,13 +8274,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 172,
-      "Драганов Валерий Гаврилович": 489,
-      "Каминский Юрий Викторович": 56,
-      "Козлов Александр Петрович": 133,
-      "Московченко Николай Михайлович": 213,
-      "Новичихина Надежда Васильевна": 53,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000113992": 172,
+      "gas:candidate-vibid:1001000226004": 489,
+      "gas:candidate-vibid:1001000136146": 56,
+      "gas:candidate-vibid:1001000121931": 133,
+      "gas:candidate-vibid:1001000188025": 213,
+      "gas:candidate-vibid:1001000190437": 53,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8330,13 +8330,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 157,
-      "Драганов Валерий Гаврилович": 463,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 116,
-      "Московченко Николай Михайлович": 198,
-      "Новичихина Надежда Васильевна": 65,
-      "Против всех": 238
+      "gas:candidate-vibid:1001000113992": 157,
+      "gas:candidate-vibid:1001000226004": 463,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 116,
+      "gas:candidate-vibid:1001000188025": 198,
+      "gas:candidate-vibid:1001000190437": 65,
+      "special:against-all": 238
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8386,13 +8386,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 156,
-      "Драганов Валерий Гаврилович": 400,
-      "Каминский Юрий Викторович": 56,
-      "Козлов Александр Петрович": 93,
-      "Московченко Николай Михайлович": 160,
-      "Новичихина Надежда Васильевна": 41,
-      "Против всех": 237
+      "gas:candidate-vibid:1001000113992": 156,
+      "gas:candidate-vibid:1001000226004": 400,
+      "gas:candidate-vibid:1001000136146": 56,
+      "gas:candidate-vibid:1001000121931": 93,
+      "gas:candidate-vibid:1001000188025": 160,
+      "gas:candidate-vibid:1001000190437": 41,
+      "special:against-all": 237
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8442,13 +8442,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 197,
-      "Драганов Валерий Гаврилович": 491,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 121,
-      "Московченко Николай Михайлович": 185,
-      "Новичихина Надежда Васильевна": 59,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000113992": 197,
+      "gas:candidate-vibid:1001000226004": 491,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 121,
+      "gas:candidate-vibid:1001000188025": 185,
+      "gas:candidate-vibid:1001000190437": 59,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8498,13 +8498,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 178,
-      "Драганов Валерий Гаврилович": 365,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 62,
-      "Московченко Николай Михайлович": 131,
-      "Новичихина Надежда Васильевна": 53,
-      "Против всех": 210
+      "gas:candidate-vibid:1001000113992": 178,
+      "gas:candidate-vibid:1001000226004": 365,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 62,
+      "gas:candidate-vibid:1001000188025": 131,
+      "gas:candidate-vibid:1001000190437": 53,
+      "special:against-all": 210
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8554,13 +8554,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 178,
-      "Драганов Валерий Гаврилович": 416,
-      "Каминский Юрий Викторович": 59,
-      "Козлов Александр Петрович": 94,
-      "Московченко Николай Михайлович": 139,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 211
+      "gas:candidate-vibid:1001000113992": 178,
+      "gas:candidate-vibid:1001000226004": 416,
+      "gas:candidate-vibid:1001000136146": 59,
+      "gas:candidate-vibid:1001000121931": 94,
+      "gas:candidate-vibid:1001000188025": 139,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 211
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8610,13 +8610,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 170,
-      "Драганов Валерий Гаврилович": 664,
-      "Каминский Юрий Викторович": 68,
-      "Козлов Александр Петрович": 115,
-      "Московченко Николай Михайлович": 235,
-      "Новичихина Надежда Васильевна": 68,
-      "Против всех": 318
+      "gas:candidate-vibid:1001000113992": 170,
+      "gas:candidate-vibid:1001000226004": 664,
+      "gas:candidate-vibid:1001000136146": 68,
+      "gas:candidate-vibid:1001000121931": 115,
+      "gas:candidate-vibid:1001000188025": 235,
+      "gas:candidate-vibid:1001000190437": 68,
+      "special:against-all": 318
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8666,13 +8666,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 228,
-      "Драганов Валерий Гаврилович": 538,
-      "Каминский Юрий Викторович": 191,
-      "Козлов Александр Петрович": 155,
-      "Московченко Николай Михайлович": 124,
-      "Новичихина Надежда Васильевна": 125,
-      "Против всех": 991
+      "gas:candidate-vibid:1001000113992": 228,
+      "gas:candidate-vibid:1001000226004": 538,
+      "gas:candidate-vibid:1001000136146": 191,
+      "gas:candidate-vibid:1001000121931": 155,
+      "gas:candidate-vibid:1001000188025": 124,
+      "gas:candidate-vibid:1001000190437": 125,
+      "special:against-all": 991
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8722,13 +8722,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 94,
-      "Драганов Валерий Гаврилович": 211,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 46,
-      "Московченко Николай Михайлович": 71,
-      "Новичихина Надежда Васильевна": 33,
-      "Против всех": 154
+      "gas:candidate-vibid:1001000113992": 94,
+      "gas:candidate-vibid:1001000226004": 211,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 46,
+      "gas:candidate-vibid:1001000188025": 71,
+      "gas:candidate-vibid:1001000190437": 33,
+      "special:against-all": 154
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8778,13 +8778,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 107,
-      "Драганов Валерий Гаврилович": 393,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 52,
-      "Московченко Николай Михайлович": 106,
-      "Новичихина Надежда Васильевна": 54,
-      "Против всех": 232
+      "gas:candidate-vibid:1001000113992": 107,
+      "gas:candidate-vibid:1001000226004": 393,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 52,
+      "gas:candidate-vibid:1001000188025": 106,
+      "gas:candidate-vibid:1001000190437": 54,
+      "special:against-all": 232
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8834,13 +8834,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 110,
-      "Драганов Валерий Гаврилович": 367,
-      "Каминский Юрий Викторович": 74,
-      "Козлов Александр Петрович": 69,
-      "Московченко Николай Михайлович": 111,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 230
+      "gas:candidate-vibid:1001000113992": 110,
+      "gas:candidate-vibid:1001000226004": 367,
+      "gas:candidate-vibid:1001000136146": 74,
+      "gas:candidate-vibid:1001000121931": 69,
+      "gas:candidate-vibid:1001000188025": 111,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 230
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8890,13 +8890,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 99,
-      "Драганов Валерий Гаврилович": 416,
-      "Каминский Юрий Викторович": 67,
-      "Козлов Александр Петрович": 76,
-      "Московченко Николай Михайлович": 144,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000113992": 99,
+      "gas:candidate-vibid:1001000226004": 416,
+      "gas:candidate-vibid:1001000136146": 67,
+      "gas:candidate-vibid:1001000121931": 76,
+      "gas:candidate-vibid:1001000188025": 144,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -8946,13 +8946,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 151,
-      "Драганов Валерий Гаврилович": 592,
-      "Каминский Юрий Викторович": 70,
-      "Козлов Александр Петрович": 101,
-      "Московченко Николай Михайлович": 180,
-      "Новичихина Надежда Васильевна": 67,
-      "Против всех": 240
+      "gas:candidate-vibid:1001000113992": 151,
+      "gas:candidate-vibid:1001000226004": 592,
+      "gas:candidate-vibid:1001000136146": 70,
+      "gas:candidate-vibid:1001000121931": 101,
+      "gas:candidate-vibid:1001000188025": 180,
+      "gas:candidate-vibid:1001000190437": 67,
+      "special:against-all": 240
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9002,13 +9002,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 111,
-      "Драганов Валерий Гаврилович": 540,
-      "Каминский Юрий Викторович": 77,
-      "Козлов Александр Петрович": 79,
-      "Московченко Николай Михайлович": 128,
-      "Новичихина Надежда Васильевна": 43,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000113992": 111,
+      "gas:candidate-vibid:1001000226004": 540,
+      "gas:candidate-vibid:1001000136146": 77,
+      "gas:candidate-vibid:1001000121931": 79,
+      "gas:candidate-vibid:1001000188025": 128,
+      "gas:candidate-vibid:1001000190437": 43,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9058,13 +9058,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 138,
-      "Драганов Валерий Гаврилович": 578,
-      "Каминский Юрий Викторович": 73,
-      "Козлов Александр Петрович": 91,
-      "Московченко Николай Михайлович": 137,
-      "Новичихина Надежда Васильевна": 72,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000113992": 138,
+      "gas:candidate-vibid:1001000226004": 578,
+      "gas:candidate-vibid:1001000136146": 73,
+      "gas:candidate-vibid:1001000121931": 91,
+      "gas:candidate-vibid:1001000188025": 137,
+      "gas:candidate-vibid:1001000190437": 72,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9114,13 +9114,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 165,
-      "Драганов Валерий Гаврилович": 542,
-      "Каминский Юрий Викторович": 66,
-      "Козлов Александр Петрович": 99,
-      "Московченко Николай Михайлович": 169,
-      "Новичихина Надежда Васильевна": 43,
-      "Против всех": 217
+      "gas:candidate-vibid:1001000113992": 165,
+      "gas:candidate-vibid:1001000226004": 542,
+      "gas:candidate-vibid:1001000136146": 66,
+      "gas:candidate-vibid:1001000121931": 99,
+      "gas:candidate-vibid:1001000188025": 169,
+      "gas:candidate-vibid:1001000190437": 43,
+      "special:against-all": 217
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9170,13 +9170,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 118,
-      "Драганов Валерий Гаврилович": 434,
-      "Каминский Юрий Викторович": 49,
-      "Козлов Александр Петрович": 78,
-      "Московченко Николай Михайлович": 123,
-      "Новичихина Надежда Васильевна": 39,
-      "Против всех": 181
+      "gas:candidate-vibid:1001000113992": 118,
+      "gas:candidate-vibid:1001000226004": 434,
+      "gas:candidate-vibid:1001000136146": 49,
+      "gas:candidate-vibid:1001000121931": 78,
+      "gas:candidate-vibid:1001000188025": 123,
+      "gas:candidate-vibid:1001000190437": 39,
+      "special:against-all": 181
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9226,13 +9226,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 156,
-      "Драганов Валерий Гаврилович": 461,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 126,
-      "Московченко Николай Михайлович": 185,
-      "Новичихина Надежда Васильевна": 62,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000113992": 156,
+      "gas:candidate-vibid:1001000226004": 461,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 126,
+      "gas:candidate-vibid:1001000188025": 185,
+      "gas:candidate-vibid:1001000190437": 62,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9282,13 +9282,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 161,
-      "Драганов Валерий Гаврилович": 529,
-      "Каминский Юрий Викторович": 52,
-      "Козлов Александр Петрович": 103,
-      "Московченко Николай Михайлович": 147,
-      "Новичихина Надежда Васильевна": 71,
-      "Против всех": 269
+      "gas:candidate-vibid:1001000113992": 161,
+      "gas:candidate-vibid:1001000226004": 529,
+      "gas:candidate-vibid:1001000136146": 52,
+      "gas:candidate-vibid:1001000121931": 103,
+      "gas:candidate-vibid:1001000188025": 147,
+      "gas:candidate-vibid:1001000190437": 71,
+      "special:against-all": 269
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9338,13 +9338,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 146,
-      "Драганов Валерий Гаврилович": 500,
-      "Каминский Юрий Викторович": 59,
-      "Козлов Александр Петрович": 125,
-      "Московченко Николай Михайлович": 169,
-      "Новичихина Надежда Васильевна": 65,
-      "Против всех": 285
+      "gas:candidate-vibid:1001000113992": 146,
+      "gas:candidate-vibid:1001000226004": 500,
+      "gas:candidate-vibid:1001000136146": 59,
+      "gas:candidate-vibid:1001000121931": 125,
+      "gas:candidate-vibid:1001000188025": 169,
+      "gas:candidate-vibid:1001000190437": 65,
+      "special:against-all": 285
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9394,13 +9394,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 94,
-      "Драганов Валерий Гаврилович": 307,
-      "Каминский Юрий Викторович": 41,
-      "Козлов Александр Петрович": 96,
-      "Московченко Николай Михайлович": 100,
-      "Новичихина Надежда Васильевна": 55,
-      "Против всех": 175
+      "gas:candidate-vibid:1001000113992": 94,
+      "gas:candidate-vibid:1001000226004": 307,
+      "gas:candidate-vibid:1001000136146": 41,
+      "gas:candidate-vibid:1001000121931": 96,
+      "gas:candidate-vibid:1001000188025": 100,
+      "gas:candidate-vibid:1001000190437": 55,
+      "special:against-all": 175
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9450,13 +9450,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 163,
-      "Драганов Валерий Гаврилович": 480,
-      "Каминский Юрий Викторович": 91,
-      "Козлов Александр Петрович": 110,
-      "Московченко Николай Михайлович": 125,
-      "Новичихина Надежда Васильевна": 59,
-      "Против всех": 327
+      "gas:candidate-vibid:1001000113992": 163,
+      "gas:candidate-vibid:1001000226004": 480,
+      "gas:candidate-vibid:1001000136146": 91,
+      "gas:candidate-vibid:1001000121931": 110,
+      "gas:candidate-vibid:1001000188025": 125,
+      "gas:candidate-vibid:1001000190437": 59,
+      "special:against-all": 327
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9506,13 +9506,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 3,
-      "Драганов Валерий Гаврилович": 22,
-      "Каминский Юрий Викторович": 5,
-      "Козлов Александр Петрович": 5,
-      "Московченко Николай Михайлович": 7,
-      "Новичихина Надежда Васильевна": 2,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113992": 3,
+      "gas:candidate-vibid:1001000226004": 22,
+      "gas:candidate-vibid:1001000136146": 5,
+      "gas:candidate-vibid:1001000121931": 5,
+      "gas:candidate-vibid:1001000188025": 7,
+      "gas:candidate-vibid:1001000190437": 2,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9562,13 +9562,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 6,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 4,
-      "Московченко Николай Михайлович": 2,
-      "Новичихина Надежда Васильевна": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 6,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 4,
+      "gas:candidate-vibid:1001000188025": 2,
+      "gas:candidate-vibid:1001000190437": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9618,13 +9618,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 7,
-      "Каминский Юрий Викторович": 2,
-      "Козлов Александр Петрович": 2,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 7,
+      "gas:candidate-vibid:1001000136146": 2,
+      "gas:candidate-vibid:1001000121931": 2,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001007&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170427&region=0&sub_region=0&type=429",
@@ -9674,13 +9674,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 210,
-      "Драганов Валерий Гаврилович": 282,
-      "Каминский Юрий Викторович": 28,
-      "Козлов Александр Петрович": 84,
-      "Московченко Николай Михайлович": 182,
-      "Новичихина Надежда Васильевна": 47,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000113992": 210,
+      "gas:candidate-vibid:1001000226004": 282,
+      "gas:candidate-vibid:1001000136146": 28,
+      "gas:candidate-vibid:1001000121931": 84,
+      "gas:candidate-vibid:1001000188025": 182,
+      "gas:candidate-vibid:1001000190437": 47,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -9730,13 +9730,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 185,
-      "Драганов Валерий Гаврилович": 352,
-      "Каминский Юрий Викторович": 43,
-      "Козлов Александр Петрович": 86,
-      "Московченко Николай Михайлович": 136,
-      "Новичихина Надежда Васильевна": 36,
-      "Против всех": 180
+      "gas:candidate-vibid:1001000113992": 185,
+      "gas:candidate-vibid:1001000226004": 352,
+      "gas:candidate-vibid:1001000136146": 43,
+      "gas:candidate-vibid:1001000121931": 86,
+      "gas:candidate-vibid:1001000188025": 136,
+      "gas:candidate-vibid:1001000190437": 36,
+      "special:against-all": 180
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -9786,13 +9786,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 148,
-      "Драганов Валерий Гаврилович": 298,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 106,
-      "Московченко Николай Михайлович": 180,
-      "Новичихина Надежда Васильевна": 32,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000113992": 148,
+      "gas:candidate-vibid:1001000226004": 298,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 106,
+      "gas:candidate-vibid:1001000188025": 180,
+      "gas:candidate-vibid:1001000190437": 32,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -9842,13 +9842,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 96,
-      "Драганов Валерий Гаврилович": 319,
-      "Каминский Юрий Викторович": 29,
-      "Козлов Александр Петрович": 71,
-      "Московченко Николай Михайлович": 125,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 193
+      "gas:candidate-vibid:1001000113992": 96,
+      "gas:candidate-vibid:1001000226004": 319,
+      "gas:candidate-vibid:1001000136146": 29,
+      "gas:candidate-vibid:1001000121931": 71,
+      "gas:candidate-vibid:1001000188025": 125,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 193
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -9898,13 +9898,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 184,
-      "Драганов Валерий Гаврилович": 317,
-      "Каминский Юрий Викторович": 35,
-      "Козлов Александр Петрович": 132,
-      "Московченко Николай Михайлович": 170,
-      "Новичихина Надежда Васильевна": 39,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000113992": 184,
+      "gas:candidate-vibid:1001000226004": 317,
+      "gas:candidate-vibid:1001000136146": 35,
+      "gas:candidate-vibid:1001000121931": 132,
+      "gas:candidate-vibid:1001000188025": 170,
+      "gas:candidate-vibid:1001000190437": 39,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -9954,13 +9954,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 47,
-      "Драганов Валерий Гаврилович": 266,
-      "Каминский Юрий Викторович": 31,
-      "Козлов Александр Петрович": 17,
-      "Московченко Николай Михайлович": 38,
-      "Новичихина Надежда Васильевна": 20,
-      "Против всех": 94
+      "gas:candidate-vibid:1001000113992": 47,
+      "gas:candidate-vibid:1001000226004": 266,
+      "gas:candidate-vibid:1001000136146": 31,
+      "gas:candidate-vibid:1001000121931": 17,
+      "gas:candidate-vibid:1001000188025": 38,
+      "gas:candidate-vibid:1001000190437": 20,
+      "special:against-all": 94
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10010,13 +10010,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 122,
-      "Драганов Валерий Гаврилович": 367,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 50,
-      "Московченко Николай Михайлович": 90,
-      "Новичихина Надежда Васильевна": 40,
-      "Против всех": 153
+      "gas:candidate-vibid:1001000113992": 122,
+      "gas:candidate-vibid:1001000226004": 367,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 50,
+      "gas:candidate-vibid:1001000188025": 90,
+      "gas:candidate-vibid:1001000190437": 40,
+      "special:against-all": 153
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10066,13 +10066,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 138,
-      "Драганов Валерий Гаврилович": 441,
-      "Каминский Юрий Викторович": 74,
-      "Козлов Александр Петрович": 104,
-      "Московченко Николай Михайлович": 121,
-      "Новичихина Надежда Васильевна": 78,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000113992": 138,
+      "gas:candidate-vibid:1001000226004": 441,
+      "gas:candidate-vibid:1001000136146": 74,
+      "gas:candidate-vibid:1001000121931": 104,
+      "gas:candidate-vibid:1001000188025": 121,
+      "gas:candidate-vibid:1001000190437": 78,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10122,13 +10122,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 53,
-      "Драганов Валерий Гаврилович": 344,
-      "Каминский Юрий Викторович": 43,
-      "Козлов Александр Петрович": 47,
-      "Московченко Николай Михайлович": 76,
-      "Новичихина Надежда Васильевна": 41,
-      "Против всех": 185
+      "gas:candidate-vibid:1001000113992": 53,
+      "gas:candidate-vibid:1001000226004": 344,
+      "gas:candidate-vibid:1001000136146": 43,
+      "gas:candidate-vibid:1001000121931": 47,
+      "gas:candidate-vibid:1001000188025": 76,
+      "gas:candidate-vibid:1001000190437": 41,
+      "special:against-all": 185
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10178,13 +10178,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 115,
-      "Драганов Валерий Гаврилович": 386,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 99,
-      "Московченко Николай Михайлович": 171,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000113992": 115,
+      "gas:candidate-vibid:1001000226004": 386,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 99,
+      "gas:candidate-vibid:1001000188025": 171,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10234,13 +10234,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 89,
-      "Драганов Валерий Гаврилович": 501,
-      "Каминский Юрий Викторович": 51,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 211,
-      "Новичихина Надежда Васильевна": 43,
-      "Против всех": 246
+      "gas:candidate-vibid:1001000113992": 89,
+      "gas:candidate-vibid:1001000226004": 501,
+      "gas:candidate-vibid:1001000136146": 51,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 211,
+      "gas:candidate-vibid:1001000190437": 43,
+      "special:against-all": 246
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10290,13 +10290,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 114,
-      "Драганов Валерий Гаврилович": 423,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 72,
-      "Московченко Николай Михайлович": 168,
-      "Новичихина Надежда Васильевна": 62,
-      "Против всех": 255
+      "gas:candidate-vibid:1001000113992": 114,
+      "gas:candidate-vibid:1001000226004": 423,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 72,
+      "gas:candidate-vibid:1001000188025": 168,
+      "gas:candidate-vibid:1001000190437": 62,
+      "special:against-all": 255
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10346,13 +10346,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 80,
-      "Драганов Валерий Гаврилович": 535,
-      "Каминский Юрий Викторович": 53,
-      "Козлов Александр Петрович": 76,
-      "Московченко Николай Михайлович": 149,
-      "Новичихина Надежда Васильевна": 54,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000113992": 80,
+      "gas:candidate-vibid:1001000226004": 535,
+      "gas:candidate-vibid:1001000136146": 53,
+      "gas:candidate-vibid:1001000121931": 76,
+      "gas:candidate-vibid:1001000188025": 149,
+      "gas:candidate-vibid:1001000190437": 54,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10402,13 +10402,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 127,
-      "Драганов Валерий Гаврилович": 379,
-      "Каминский Юрий Викторович": 66,
-      "Козлов Александр Петрович": 76,
-      "Московченко Николай Михайлович": 149,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 261
+      "gas:candidate-vibid:1001000113992": 127,
+      "gas:candidate-vibid:1001000226004": 379,
+      "gas:candidate-vibid:1001000136146": 66,
+      "gas:candidate-vibid:1001000121931": 76,
+      "gas:candidate-vibid:1001000188025": 149,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 261
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10458,13 +10458,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 125,
-      "Драганов Валерий Гаврилович": 430,
-      "Каминский Юрий Викторович": 84,
-      "Козлов Александр Петрович": 69,
-      "Московченко Николай Михайлович": 195,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 291
+      "gas:candidate-vibid:1001000113992": 125,
+      "gas:candidate-vibid:1001000226004": 430,
+      "gas:candidate-vibid:1001000136146": 84,
+      "gas:candidate-vibid:1001000121931": 69,
+      "gas:candidate-vibid:1001000188025": 195,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 291
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10514,13 +10514,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 2,
-      "Драганов Валерий Гаврилович": 6,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 1,
-      "Новичихина Надежда Васильевна": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000113992": 2,
+      "gas:candidate-vibid:1001000226004": 6,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 1,
+      "gas:candidate-vibid:1001000190437": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10570,13 +10570,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 3,
-      "Драганов Валерий Гаврилович": 14,
-      "Каминский Юрий Викторович": 2,
-      "Козлов Александр Петрович": 3,
-      "Московченко Николай Михайлович": 2,
-      "Новичихина Надежда Васильевна": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113992": 3,
+      "gas:candidate-vibid:1001000226004": 14,
+      "gas:candidate-vibid:1001000136146": 2,
+      "gas:candidate-vibid:1001000121931": 3,
+      "gas:candidate-vibid:1001000188025": 2,
+      "gas:candidate-vibid:1001000190437": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10626,13 +10626,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 2,
-      "Каминский Юрий Викторович": 1,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 2,
+      "gas:candidate-vibid:1001000136146": 1,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001008&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170429&region=0&sub_region=0&type=429",
@@ -10682,13 +10682,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 141,
-      "Драганов Валерий Гаврилович": 420,
-      "Каминский Юрий Викторович": 58,
-      "Козлов Александр Петрович": 125,
-      "Московченко Николай Михайлович": 105,
-      "Новичихина Надежда Васильевна": 33,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000113992": 141,
+      "gas:candidate-vibid:1001000226004": 420,
+      "gas:candidate-vibid:1001000136146": 58,
+      "gas:candidate-vibid:1001000121931": 125,
+      "gas:candidate-vibid:1001000188025": 105,
+      "gas:candidate-vibid:1001000190437": 33,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -10738,13 +10738,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 123,
-      "Драганов Валерий Гаврилович": 497,
-      "Каминский Юрий Викторович": 83,
-      "Козлов Александр Петрович": 129,
-      "Московченко Николай Михайлович": 130,
-      "Новичихина Надежда Васильевна": 43,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000113992": 123,
+      "gas:candidate-vibid:1001000226004": 497,
+      "gas:candidate-vibid:1001000136146": 83,
+      "gas:candidate-vibid:1001000121931": 129,
+      "gas:candidate-vibid:1001000188025": 130,
+      "gas:candidate-vibid:1001000190437": 43,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -10794,13 +10794,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 170,
-      "Драганов Валерий Гаврилович": 558,
-      "Каминский Юрий Викторович": 102,
-      "Козлов Александр Петрович": 139,
-      "Московченко Николай Михайлович": 216,
-      "Новичихина Надежда Васильевна": 59,
-      "Против всех": 306
+      "gas:candidate-vibid:1001000113992": 170,
+      "gas:candidate-vibid:1001000226004": 558,
+      "gas:candidate-vibid:1001000136146": 102,
+      "gas:candidate-vibid:1001000121931": 139,
+      "gas:candidate-vibid:1001000188025": 216,
+      "gas:candidate-vibid:1001000190437": 59,
+      "special:against-all": 306
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -10850,13 +10850,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 127,
-      "Драганов Валерий Гаврилович": 509,
-      "Каминский Юрий Викторович": 72,
-      "Козлов Александр Петрович": 128,
-      "Московченко Николай Михайлович": 124,
-      "Новичихина Надежда Васильевна": 48,
-      "Против всех": 294
+      "gas:candidate-vibid:1001000113992": 127,
+      "gas:candidate-vibid:1001000226004": 509,
+      "gas:candidate-vibid:1001000136146": 72,
+      "gas:candidate-vibid:1001000121931": 128,
+      "gas:candidate-vibid:1001000188025": 124,
+      "gas:candidate-vibid:1001000190437": 48,
+      "special:against-all": 294
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -10906,13 +10906,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 96,
-      "Драганов Валерий Гаврилович": 543,
-      "Каминский Юрий Викторович": 53,
-      "Козлов Александр Петрович": 115,
-      "Московченко Николай Михайлович": 134,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 254
+      "gas:candidate-vibid:1001000113992": 96,
+      "gas:candidate-vibid:1001000226004": 543,
+      "gas:candidate-vibid:1001000136146": 53,
+      "gas:candidate-vibid:1001000121931": 115,
+      "gas:candidate-vibid:1001000188025": 134,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 254
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -10962,13 +10962,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 145,
-      "Драганов Валерий Гаврилович": 442,
-      "Каминский Юрий Викторович": 68,
-      "Козлов Александр Петрович": 141,
-      "Московченко Николай Михайлович": 345,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 297
+      "gas:candidate-vibid:1001000113992": 145,
+      "gas:candidate-vibid:1001000226004": 442,
+      "gas:candidate-vibid:1001000136146": 68,
+      "gas:candidate-vibid:1001000121931": 141,
+      "gas:candidate-vibid:1001000188025": 345,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 297
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11018,13 +11018,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 121,
-      "Драганов Валерий Гаврилович": 540,
-      "Каминский Юрий Викторович": 86,
-      "Козлов Александр Петрович": 133,
-      "Московченко Николай Михайлович": 134,
-      "Новичихина Надежда Васильевна": 46,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113992": 121,
+      "gas:candidate-vibid:1001000226004": 540,
+      "gas:candidate-vibid:1001000136146": 86,
+      "gas:candidate-vibid:1001000121931": 133,
+      "gas:candidate-vibid:1001000188025": 134,
+      "gas:candidate-vibid:1001000190437": 46,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11074,13 +11074,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 115,
-      "Драганов Валерий Гаврилович": 570,
-      "Каминский Юрий Викторович": 72,
-      "Козлов Александр Петрович": 127,
-      "Московченко Николай Михайлович": 143,
-      "Новичихина Надежда Васильевна": 39,
-      "Против всех": 253
+      "gas:candidate-vibid:1001000113992": 115,
+      "gas:candidate-vibid:1001000226004": 570,
+      "gas:candidate-vibid:1001000136146": 72,
+      "gas:candidate-vibid:1001000121931": 127,
+      "gas:candidate-vibid:1001000188025": 143,
+      "gas:candidate-vibid:1001000190437": 39,
+      "special:against-all": 253
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11130,13 +11130,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 114,
-      "Драганов Валерий Гаврилович": 543,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 102,
-      "Московченко Николай Михайлович": 139,
-      "Новичихина Надежда Васильевна": 39,
-      "Против всех": 205
+      "gas:candidate-vibid:1001000113992": 114,
+      "gas:candidate-vibid:1001000226004": 543,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 102,
+      "gas:candidate-vibid:1001000188025": 139,
+      "gas:candidate-vibid:1001000190437": 39,
+      "special:against-all": 205
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11186,13 +11186,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 146,
-      "Драганов Валерий Гаврилович": 638,
-      "Каминский Юрий Викторович": 51,
-      "Козлов Александр Петрович": 161,
-      "Московченко Николай Михайлович": 137,
-      "Новичихина Надежда Васильевна": 54,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000113992": 146,
+      "gas:candidate-vibid:1001000226004": 638,
+      "gas:candidate-vibid:1001000136146": 51,
+      "gas:candidate-vibid:1001000121931": 161,
+      "gas:candidate-vibid:1001000188025": 137,
+      "gas:candidate-vibid:1001000190437": 54,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11242,13 +11242,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 131,
-      "Драганов Валерий Гаврилович": 579,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 138,
-      "Московченко Николай Михайлович": 145,
-      "Новичихина Надежда Васильевна": 44,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000113992": 131,
+      "gas:candidate-vibid:1001000226004": 579,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 138,
+      "gas:candidate-vibid:1001000188025": 145,
+      "gas:candidate-vibid:1001000190437": 44,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11298,13 +11298,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 95,
-      "Драганов Валерий Гаврилович": 438,
-      "Каминский Юрий Викторович": 37,
-      "Козлов Александр Петрович": 85,
-      "Московченко Николай Михайлович": 124,
-      "Новичихина Надежда Васильевна": 26,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000113992": 95,
+      "gas:candidate-vibid:1001000226004": 438,
+      "gas:candidate-vibid:1001000136146": 37,
+      "gas:candidate-vibid:1001000121931": 85,
+      "gas:candidate-vibid:1001000188025": 124,
+      "gas:candidate-vibid:1001000190437": 26,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11354,13 +11354,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 87,
-      "Драганов Валерий Гаврилович": 401,
-      "Каминский Юрий Викторович": 50,
-      "Козлов Александр Петрович": 66,
-      "Московченко Николай Михайлович": 102,
-      "Новичихина Надежда Васильевна": 42,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000113992": 87,
+      "gas:candidate-vibid:1001000226004": 401,
+      "gas:candidate-vibid:1001000136146": 50,
+      "gas:candidate-vibid:1001000121931": 66,
+      "gas:candidate-vibid:1001000188025": 102,
+      "gas:candidate-vibid:1001000190437": 42,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11410,13 +11410,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 58,
-      "Драганов Валерий Гаврилович": 361,
-      "Каминский Юрий Викторович": 39,
-      "Козлов Александр Петрович": 80,
-      "Московченко Николай Михайлович": 93,
-      "Новичихина Надежда Васильевна": 28,
-      "Против всех": 157
+      "gas:candidate-vibid:1001000113992": 58,
+      "gas:candidate-vibid:1001000226004": 361,
+      "gas:candidate-vibid:1001000136146": 39,
+      "gas:candidate-vibid:1001000121931": 80,
+      "gas:candidate-vibid:1001000188025": 93,
+      "gas:candidate-vibid:1001000190437": 28,
+      "special:against-all": 157
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11466,13 +11466,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 111,
-      "Драганов Валерий Гаврилович": 663,
-      "Каминский Юрий Викторович": 93,
-      "Козлов Александр Петрович": 139,
-      "Московченко Николай Михайлович": 164,
-      "Новичихина Надежда Васильевна": 73,
-      "Против всех": 368
+      "gas:candidate-vibid:1001000113992": 111,
+      "gas:candidate-vibid:1001000226004": 663,
+      "gas:candidate-vibid:1001000136146": 93,
+      "gas:candidate-vibid:1001000121931": 139,
+      "gas:candidate-vibid:1001000188025": 164,
+      "gas:candidate-vibid:1001000190437": 73,
+      "special:against-all": 368
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11522,13 +11522,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 145,
-      "Драганов Валерий Гаврилович": 618,
-      "Каминский Юрий Викторович": 75,
-      "Козлов Александр Петрович": 132,
-      "Московченко Николай Михайлович": 185,
-      "Новичихина Надежда Васильевна": 44,
-      "Против всех": 322
+      "gas:candidate-vibid:1001000113992": 145,
+      "gas:candidate-vibid:1001000226004": 618,
+      "gas:candidate-vibid:1001000136146": 75,
+      "gas:candidate-vibid:1001000121931": 132,
+      "gas:candidate-vibid:1001000188025": 185,
+      "gas:candidate-vibid:1001000190437": 44,
+      "special:against-all": 322
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11578,13 +11578,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 115,
-      "Драганов Валерий Гаврилович": 692,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 103,
-      "Московченко Николай Михайлович": 201,
-      "Новичихина Надежда Васильевна": 32,
-      "Против всех": 247
+      "gas:candidate-vibid:1001000113992": 115,
+      "gas:candidate-vibid:1001000226004": 692,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 103,
+      "gas:candidate-vibid:1001000188025": 201,
+      "gas:candidate-vibid:1001000190437": 32,
+      "special:against-all": 247
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11634,13 +11634,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 132,
-      "Драганов Валерий Гаврилович": 645,
-      "Каминский Юрий Викторович": 74,
-      "Козлов Александр Петрович": 132,
-      "Московченко Николай Михайлович": 144,
-      "Новичихина Надежда Васильевна": 45,
-      "Против всех": 320
+      "gas:candidate-vibid:1001000113992": 132,
+      "gas:candidate-vibid:1001000226004": 645,
+      "gas:candidate-vibid:1001000136146": 74,
+      "gas:candidate-vibid:1001000121931": 132,
+      "gas:candidate-vibid:1001000188025": 144,
+      "gas:candidate-vibid:1001000190437": 45,
+      "special:against-all": 320
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11690,13 +11690,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 78,
-      "Драганов Валерий Гаврилович": 653,
-      "Каминский Юрий Викторович": 65,
-      "Козлов Александр Петрович": 93,
-      "Московченко Николай Михайлович": 102,
-      "Новичихина Надежда Васильевна": 42,
-      "Против всех": 212
+      "gas:candidate-vibid:1001000113992": 78,
+      "gas:candidate-vibid:1001000226004": 653,
+      "gas:candidate-vibid:1001000136146": 65,
+      "gas:candidate-vibid:1001000121931": 93,
+      "gas:candidate-vibid:1001000188025": 102,
+      "gas:candidate-vibid:1001000190437": 42,
+      "special:against-all": 212
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11746,13 +11746,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 123,
-      "Драганов Валерий Гаврилович": 476,
-      "Каминский Юрий Викторович": 80,
-      "Козлов Александр Петрович": 117,
-      "Московченко Николай Михайлович": 130,
-      "Новичихина Надежда Васильевна": 37,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000113992": 123,
+      "gas:candidate-vibid:1001000226004": 476,
+      "gas:candidate-vibid:1001000136146": 80,
+      "gas:candidate-vibid:1001000121931": 117,
+      "gas:candidate-vibid:1001000188025": 130,
+      "gas:candidate-vibid:1001000190437": 37,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11802,13 +11802,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 156,
-      "Драганов Валерий Гаврилович": 508,
-      "Каминский Юрий Викторович": 61,
-      "Козлов Александр Петрович": 117,
-      "Московченко Николай Михайлович": 205,
-      "Новичихина Надежда Васильевна": 63,
-      "Против всех": 324
+      "gas:candidate-vibid:1001000113992": 156,
+      "gas:candidate-vibid:1001000226004": 508,
+      "gas:candidate-vibid:1001000136146": 61,
+      "gas:candidate-vibid:1001000121931": 117,
+      "gas:candidate-vibid:1001000188025": 205,
+      "gas:candidate-vibid:1001000190437": 63,
+      "special:against-all": 324
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11858,13 +11858,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 106,
-      "Драганов Валерий Гаврилович": 584,
-      "Каминский Юрий Викторович": 58,
-      "Козлов Александр Петрович": 133,
-      "Московченко Николай Михайлович": 156,
-      "Новичихина Надежда Васильевна": 69,
-      "Против всех": 272
+      "gas:candidate-vibid:1001000113992": 106,
+      "gas:candidate-vibid:1001000226004": 584,
+      "gas:candidate-vibid:1001000136146": 58,
+      "gas:candidate-vibid:1001000121931": 133,
+      "gas:candidate-vibid:1001000188025": 156,
+      "gas:candidate-vibid:1001000190437": 69,
+      "special:against-all": 272
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11914,13 +11914,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 108,
-      "Драганов Валерий Гаврилович": 533,
-      "Каминский Юрий Викторович": 36,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 180,
-      "Новичихина Надежда Васильевна": 57,
-      "Против всех": 264
+      "gas:candidate-vibid:1001000113992": 108,
+      "gas:candidate-vibid:1001000226004": 533,
+      "gas:candidate-vibid:1001000136146": 36,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 180,
+      "gas:candidate-vibid:1001000190437": 57,
+      "special:against-all": 264
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -11970,13 +11970,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 102,
-      "Драганов Валерий Гаврилович": 479,
-      "Каминский Юрий Викторович": 47,
-      "Козлов Александр Петрович": 107,
-      "Московченко Николай Михайлович": 138,
-      "Новичихина Надежда Васильевна": 70,
-      "Против всех": 267
+      "gas:candidate-vibid:1001000113992": 102,
+      "gas:candidate-vibid:1001000226004": 479,
+      "gas:candidate-vibid:1001000136146": 47,
+      "gas:candidate-vibid:1001000121931": 107,
+      "gas:candidate-vibid:1001000188025": 138,
+      "gas:candidate-vibid:1001000190437": 70,
+      "special:against-all": 267
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12026,13 +12026,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 183,
-      "Драганов Валерий Гаврилович": 589,
-      "Каминский Юрий Викторович": 73,
-      "Козлов Александр Петрович": 87,
-      "Московченко Николай Михайлович": 215,
-      "Новичихина Надежда Васильевна": 70,
-      "Против всех": 346
+      "gas:candidate-vibid:1001000113992": 183,
+      "gas:candidate-vibid:1001000226004": 589,
+      "gas:candidate-vibid:1001000136146": 73,
+      "gas:candidate-vibid:1001000121931": 87,
+      "gas:candidate-vibid:1001000188025": 215,
+      "gas:candidate-vibid:1001000190437": 70,
+      "special:against-all": 346
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12082,13 +12082,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 129,
-      "Драганов Валерий Гаврилович": 696,
-      "Каминский Юрий Викторович": 52,
-      "Козлов Александр Петрович": 136,
-      "Московченко Николай Михайлович": 192,
-      "Новичихина Надежда Васильевна": 74,
-      "Против всех": 357
+      "gas:candidate-vibid:1001000113992": 129,
+      "gas:candidate-vibid:1001000226004": 696,
+      "gas:candidate-vibid:1001000136146": 52,
+      "gas:candidate-vibid:1001000121931": 136,
+      "gas:candidate-vibid:1001000188025": 192,
+      "gas:candidate-vibid:1001000190437": 74,
+      "special:against-all": 357
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12138,13 +12138,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 81,
-      "Драганов Валерий Гаврилович": 399,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 87,
-      "Московченко Николай Михайлович": 138,
-      "Новичихина Надежда Васильевна": 51,
-      "Против всех": 197
+      "gas:candidate-vibid:1001000113992": 81,
+      "gas:candidate-vibid:1001000226004": 399,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 87,
+      "gas:candidate-vibid:1001000188025": 138,
+      "gas:candidate-vibid:1001000190437": 51,
+      "special:against-all": 197
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12194,13 +12194,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 90,
-      "Драганов Валерий Гаврилович": 472,
-      "Каминский Юрий Викторович": 54,
-      "Козлов Александр Петрович": 83,
-      "Московченко Николай Михайлович": 152,
-      "Новичихина Надежда Васильевна": 48,
-      "Против всех": 201
+      "gas:candidate-vibid:1001000113992": 90,
+      "gas:candidate-vibid:1001000226004": 472,
+      "gas:candidate-vibid:1001000136146": 54,
+      "gas:candidate-vibid:1001000121931": 83,
+      "gas:candidate-vibid:1001000188025": 152,
+      "gas:candidate-vibid:1001000190437": 48,
+      "special:against-all": 201
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12250,13 +12250,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 98,
-      "Драганов Валерий Гаврилович": 421,
-      "Каминский Юрий Викторович": 41,
-      "Козлов Александр Петрович": 80,
-      "Московченко Николай Михайлович": 133,
-      "Новичихина Надежда Васильевна": 41,
-      "Против всех": 202
+      "gas:candidate-vibid:1001000113992": 98,
+      "gas:candidate-vibid:1001000226004": 421,
+      "gas:candidate-vibid:1001000136146": 41,
+      "gas:candidate-vibid:1001000121931": 80,
+      "gas:candidate-vibid:1001000188025": 133,
+      "gas:candidate-vibid:1001000190437": 41,
+      "special:against-all": 202
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12306,13 +12306,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 111,
-      "Драганов Валерий Гаврилович": 486,
-      "Каминский Юрий Викторович": 44,
-      "Козлов Александр Петрович": 89,
-      "Московченко Николай Михайлович": 201,
-      "Новичихина Надежда Васильевна": 53,
-      "Против всех": 196
+      "gas:candidate-vibid:1001000113992": 111,
+      "gas:candidate-vibid:1001000226004": 486,
+      "gas:candidate-vibid:1001000136146": 44,
+      "gas:candidate-vibid:1001000121931": 89,
+      "gas:candidate-vibid:1001000188025": 201,
+      "gas:candidate-vibid:1001000190437": 53,
+      "special:against-all": 196
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12362,13 +12362,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 98,
-      "Драганов Валерий Гаврилович": 487,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 97,
-      "Московченко Николай Михайлович": 194,
-      "Новичихина Надежда Васильевна": 64,
-      "Против всех": 207
+      "gas:candidate-vibid:1001000113992": 98,
+      "gas:candidate-vibid:1001000226004": 487,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 97,
+      "gas:candidate-vibid:1001000188025": 194,
+      "gas:candidate-vibid:1001000190437": 64,
+      "special:against-all": 207
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12418,13 +12418,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 118,
-      "Драганов Валерий Гаврилович": 186,
-      "Каминский Юрий Викторович": 20,
-      "Козлов Александр Петрович": 44,
-      "Московченко Николай Михайлович": 104,
-      "Новичихина Надежда Васильевна": 32,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000113992": 118,
+      "gas:candidate-vibid:1001000226004": 186,
+      "gas:candidate-vibid:1001000136146": 20,
+      "gas:candidate-vibid:1001000121931": 44,
+      "gas:candidate-vibid:1001000188025": 104,
+      "gas:candidate-vibid:1001000190437": 32,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12474,13 +12474,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 1,
-      "Драганов Валерий Гаврилович": 8,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 4,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000113992": 1,
+      "gas:candidate-vibid:1001000226004": 8,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 4,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12530,13 +12530,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 7,
-      "Драганов Валерий Гаврилович": 40,
-      "Каминский Юрий Викторович": 5,
-      "Козлов Александр Петрович": 3,
-      "Московченко Николай Михайлович": 8,
-      "Новичихина Надежда Васильевна": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000113992": 7,
+      "gas:candidate-vibid:1001000226004": 40,
+      "gas:candidate-vibid:1001000136146": 5,
+      "gas:candidate-vibid:1001000121931": 3,
+      "gas:candidate-vibid:1001000188025": 8,
+      "gas:candidate-vibid:1001000190437": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001009&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170431&region=0&sub_region=0&type=429",
@@ -12586,13 +12586,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 47,
-      "Драганов Валерий Гаврилович": 298,
-      "Каминский Юрий Викторович": 62,
-      "Козлов Александр Петрович": 38,
-      "Московченко Николай Михайлович": 58,
-      "Новичихина Надежда Васильевна": 38,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000113992": 47,
+      "gas:candidate-vibid:1001000226004": 298,
+      "gas:candidate-vibid:1001000136146": 62,
+      "gas:candidate-vibid:1001000121931": 38,
+      "gas:candidate-vibid:1001000188025": 58,
+      "gas:candidate-vibid:1001000190437": 38,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12642,13 +12642,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 77,
-      "Драганов Валерий Гаврилович": 418,
-      "Каминский Юрий Викторович": 119,
-      "Козлов Александр Петрович": 81,
-      "Московченко Николай Михайлович": 80,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 173
+      "gas:candidate-vibid:1001000113992": 77,
+      "gas:candidate-vibid:1001000226004": 418,
+      "gas:candidate-vibid:1001000136146": 119,
+      "gas:candidate-vibid:1001000121931": 81,
+      "gas:candidate-vibid:1001000188025": 80,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 173
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12698,13 +12698,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 76,
-      "Драганов Валерий Гаврилович": 432,
-      "Каминский Юрий Викторович": 29,
-      "Козлов Александр Петрович": 64,
-      "Московченко Николай Михайлович": 122,
-      "Новичихина Надежда Васильевна": 47,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000113992": 76,
+      "gas:candidate-vibid:1001000226004": 432,
+      "gas:candidate-vibid:1001000136146": 29,
+      "gas:candidate-vibid:1001000121931": 64,
+      "gas:candidate-vibid:1001000188025": 122,
+      "gas:candidate-vibid:1001000190437": 47,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12754,13 +12754,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 113,
-      "Драганов Валерий Гаврилович": 622,
-      "Каминский Юрий Викторович": 64,
-      "Козлов Александр Петрович": 77,
-      "Московченко Николай Михайлович": 207,
-      "Новичихина Надежда Васильевна": 68,
-      "Против всех": 241
+      "gas:candidate-vibid:1001000113992": 113,
+      "gas:candidate-vibid:1001000226004": 622,
+      "gas:candidate-vibid:1001000136146": 64,
+      "gas:candidate-vibid:1001000121931": 77,
+      "gas:candidate-vibid:1001000188025": 207,
+      "gas:candidate-vibid:1001000190437": 68,
+      "special:against-all": 241
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12810,13 +12810,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 77,
-      "Драганов Валерий Гаврилович": 402,
-      "Каминский Юрий Викторович": 30,
-      "Козлов Александр Петрович": 56,
-      "Московченко Николай Михайлович": 98,
-      "Новичихина Надежда Васильевна": 32,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000113992": 77,
+      "gas:candidate-vibid:1001000226004": 402,
+      "gas:candidate-vibid:1001000136146": 30,
+      "gas:candidate-vibid:1001000121931": 56,
+      "gas:candidate-vibid:1001000188025": 98,
+      "gas:candidate-vibid:1001000190437": 32,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12866,13 +12866,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 97,
-      "Драганов Валерий Гаврилович": 543,
-      "Каминский Юрий Викторович": 44,
-      "Козлов Александр Петрович": 108,
-      "Московченко Николай Михайлович": 127,
-      "Новичихина Надежда Васильевна": 36,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000113992": 97,
+      "gas:candidate-vibid:1001000226004": 543,
+      "gas:candidate-vibid:1001000136146": 44,
+      "gas:candidate-vibid:1001000121931": 108,
+      "gas:candidate-vibid:1001000188025": 127,
+      "gas:candidate-vibid:1001000190437": 36,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12922,13 +12922,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 92,
-      "Драганов Валерий Гаврилович": 479,
-      "Каминский Юрий Викторович": 42,
-      "Козлов Александр Петрович": 73,
-      "Московченко Николай Михайлович": 110,
-      "Новичихина Надежда Васильевна": 44,
-      "Против всех": 179
+      "gas:candidate-vibid:1001000113992": 92,
+      "gas:candidate-vibid:1001000226004": 479,
+      "gas:candidate-vibid:1001000136146": 42,
+      "gas:candidate-vibid:1001000121931": 73,
+      "gas:candidate-vibid:1001000188025": 110,
+      "gas:candidate-vibid:1001000190437": 44,
+      "special:against-all": 179
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -12978,13 +12978,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 118,
-      "Драганов Валерий Гаврилович": 502,
-      "Каминский Юрий Викторович": 42,
-      "Козлов Александр Петрович": 94,
-      "Московченко Николай Михайлович": 112,
-      "Новичихина Надежда Васильевна": 35,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000113992": 118,
+      "gas:candidate-vibid:1001000226004": 502,
+      "gas:candidate-vibid:1001000136146": 42,
+      "gas:candidate-vibid:1001000121931": 94,
+      "gas:candidate-vibid:1001000188025": 112,
+      "gas:candidate-vibid:1001000190437": 35,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13034,13 +13034,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 130,
-      "Драганов Валерий Гаврилович": 542,
-      "Каминский Юрий Викторович": 57,
-      "Козлов Александр Петрович": 91,
-      "Московченко Николай Михайлович": 108,
-      "Новичихина Надежда Васильевна": 33,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000113992": 130,
+      "gas:candidate-vibid:1001000226004": 542,
+      "gas:candidate-vibid:1001000136146": 57,
+      "gas:candidate-vibid:1001000121931": 91,
+      "gas:candidate-vibid:1001000188025": 108,
+      "gas:candidate-vibid:1001000190437": 33,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13090,13 +13090,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 104,
-      "Драганов Валерий Гаврилович": 622,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 100,
-      "Московченко Николай Михайлович": 111,
-      "Новичихина Надежда Васильевна": 38,
-      "Против всех": 250
+      "gas:candidate-vibid:1001000113992": 104,
+      "gas:candidate-vibid:1001000226004": 622,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 100,
+      "gas:candidate-vibid:1001000188025": 111,
+      "gas:candidate-vibid:1001000190437": 38,
+      "special:against-all": 250
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13146,13 +13146,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 99,
-      "Драганов Валерий Гаврилович": 586,
-      "Каминский Юрий Викторович": 55,
-      "Козлов Александр Петрович": 96,
-      "Московченко Николай Михайлович": 115,
-      "Новичихина Надежда Васильевна": 56,
-      "Против всех": 231
+      "gas:candidate-vibid:1001000113992": 99,
+      "gas:candidate-vibid:1001000226004": 586,
+      "gas:candidate-vibid:1001000136146": 55,
+      "gas:candidate-vibid:1001000121931": 96,
+      "gas:candidate-vibid:1001000188025": 115,
+      "gas:candidate-vibid:1001000190437": 56,
+      "special:against-all": 231
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13202,13 +13202,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 133,
-      "Драганов Валерий Гаврилович": 564,
-      "Каминский Юрий Викторович": 61,
-      "Козлов Александр Петрович": 91,
-      "Московченко Николай Михайлович": 53,
-      "Новичихина Надежда Васильевна": 55,
-      "Против всех": 216
+      "gas:candidate-vibid:1001000113992": 133,
+      "gas:candidate-vibid:1001000226004": 564,
+      "gas:candidate-vibid:1001000136146": 61,
+      "gas:candidate-vibid:1001000121931": 91,
+      "gas:candidate-vibid:1001000188025": 53,
+      "gas:candidate-vibid:1001000190437": 55,
+      "special:against-all": 216
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13258,13 +13258,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 86,
-      "Драганов Валерий Гаврилович": 536,
-      "Каминский Юрий Викторович": 45,
-      "Козлов Александр Петрович": 88,
-      "Московченко Николай Михайлович": 156,
-      "Новичихина Надежда Васильевна": 34,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000113992": 86,
+      "gas:candidate-vibid:1001000226004": 536,
+      "gas:candidate-vibid:1001000136146": 45,
+      "gas:candidate-vibid:1001000121931": 88,
+      "gas:candidate-vibid:1001000188025": 156,
+      "gas:candidate-vibid:1001000190437": 34,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13314,13 +13314,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 58,
-      "Драганов Валерий Гаврилович": 403,
-      "Каминский Юрий Викторович": 30,
-      "Козлов Александр Петрович": 89,
-      "Московченко Николай Михайлович": 53,
-      "Новичихина Надежда Васильевна": 29,
-      "Против всех": 147
+      "gas:candidate-vibid:1001000113992": 58,
+      "gas:candidate-vibid:1001000226004": 403,
+      "gas:candidate-vibid:1001000136146": 30,
+      "gas:candidate-vibid:1001000121931": 89,
+      "gas:candidate-vibid:1001000188025": 53,
+      "gas:candidate-vibid:1001000190437": 29,
+      "special:against-all": 147
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13370,13 +13370,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 60,
-      "Драганов Валерий Гаврилович": 392,
-      "Каминский Юрий Викторович": 26,
-      "Козлов Александр Петрович": 74,
-      "Московченко Николай Михайлович": 115,
-      "Новичихина Надежда Васильевна": 36,
-      "Против всех": 100
+      "gas:candidate-vibid:1001000113992": 60,
+      "gas:candidate-vibid:1001000226004": 392,
+      "gas:candidate-vibid:1001000136146": 26,
+      "gas:candidate-vibid:1001000121931": 74,
+      "gas:candidate-vibid:1001000188025": 115,
+      "gas:candidate-vibid:1001000190437": 36,
+      "special:against-all": 100
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13426,13 +13426,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 105,
-      "Драганов Валерий Гаврилович": 524,
-      "Каминский Юрий Викторович": 41,
-      "Козлов Александр Петрович": 79,
-      "Московченко Николай Михайлович": 134,
-      "Новичихина Надежда Васильевна": 27,
-      "Против всех": 214
+      "gas:candidate-vibid:1001000113992": 105,
+      "gas:candidate-vibid:1001000226004": 524,
+      "gas:candidate-vibid:1001000136146": 41,
+      "gas:candidate-vibid:1001000121931": 79,
+      "gas:candidate-vibid:1001000188025": 134,
+      "gas:candidate-vibid:1001000190437": 27,
+      "special:against-all": 214
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13482,13 +13482,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 133,
-      "Драганов Валерий Гаврилович": 407,
-      "Каминский Юрий Викторович": 30,
-      "Козлов Александр Петрович": 90,
-      "Московченко Николай Михайлович": 157,
-      "Новичихина Надежда Васильевна": 26,
-      "Против всех": 226
+      "gas:candidate-vibid:1001000113992": 133,
+      "gas:candidate-vibid:1001000226004": 407,
+      "gas:candidate-vibid:1001000136146": 30,
+      "gas:candidate-vibid:1001000121931": 90,
+      "gas:candidate-vibid:1001000188025": 157,
+      "gas:candidate-vibid:1001000190437": 26,
+      "special:against-all": 226
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13538,13 +13538,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 128,
-      "Драганов Валерий Гаврилович": 591,
-      "Каминский Юрий Викторович": 50,
-      "Козлов Александр Петрович": 69,
-      "Московченко Николай Михайлович": 177,
-      "Новичихина Надежда Васильевна": 60,
-      "Против всех": 281
+      "gas:candidate-vibid:1001000113992": 128,
+      "gas:candidate-vibid:1001000226004": 591,
+      "gas:candidate-vibid:1001000136146": 50,
+      "gas:candidate-vibid:1001000121931": 69,
+      "gas:candidate-vibid:1001000188025": 177,
+      "gas:candidate-vibid:1001000190437": 60,
+      "special:against-all": 281
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13594,13 +13594,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 103,
-      "Драганов Валерий Гаврилович": 572,
-      "Каминский Юрий Викторович": 50,
-      "Козлов Александр Петрович": 77,
-      "Московченко Николай Михайлович": 141,
-      "Новичихина Надежда Васильевна": 52,
-      "Против всех": 208
+      "gas:candidate-vibid:1001000113992": 103,
+      "gas:candidate-vibid:1001000226004": 572,
+      "gas:candidate-vibid:1001000136146": 50,
+      "gas:candidate-vibid:1001000121931": 77,
+      "gas:candidate-vibid:1001000188025": 141,
+      "gas:candidate-vibid:1001000190437": 52,
+      "special:against-all": 208
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13650,13 +13650,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 103,
-      "Драганов Валерий Гаврилович": 379,
-      "Каминский Юрий Викторович": 26,
-      "Козлов Александр Петрович": 48,
-      "Московченко Николай Михайлович": 129,
-      "Новичихина Надежда Васильевна": 50,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000113992": 103,
+      "gas:candidate-vibid:1001000226004": 379,
+      "gas:candidate-vibid:1001000136146": 26,
+      "gas:candidate-vibid:1001000121931": 48,
+      "gas:candidate-vibid:1001000188025": 129,
+      "gas:candidate-vibid:1001000190437": 50,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13706,13 +13706,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 112,
-      "Драганов Валерий Гаврилович": 683,
-      "Каминский Юрий Викторович": 80,
-      "Козлов Александр Петрович": 77,
-      "Московченко Николай Михайлович": 144,
-      "Новичихина Надежда Васильевна": 68,
-      "Против всех": 287
+      "gas:candidate-vibid:1001000113992": 112,
+      "gas:candidate-vibid:1001000226004": 683,
+      "gas:candidate-vibid:1001000136146": 80,
+      "gas:candidate-vibid:1001000121931": 77,
+      "gas:candidate-vibid:1001000188025": 144,
+      "gas:candidate-vibid:1001000190437": 68,
+      "special:against-all": 287
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13762,13 +13762,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 148,
-      "Драганов Валерий Гаврилович": 641,
-      "Каминский Юрий Викторович": 61,
-      "Козлов Александр Петрович": 91,
-      "Московченко Николай Михайлович": 144,
-      "Новичихина Надежда Васильевна": 57,
-      "Против всех": 270
+      "gas:candidate-vibid:1001000113992": 148,
+      "gas:candidate-vibid:1001000226004": 641,
+      "gas:candidate-vibid:1001000136146": 61,
+      "gas:candidate-vibid:1001000121931": 91,
+      "gas:candidate-vibid:1001000188025": 144,
+      "gas:candidate-vibid:1001000190437": 57,
+      "special:against-all": 270
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13818,13 +13818,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 5,
-      "Драганов Валерий Гаврилович": 243,
-      "Каминский Юрий Викторович": 4,
-      "Козлов Александр Петрович": 2,
-      "Московченко Николай Михайлович": 1,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000113992": 5,
+      "gas:candidate-vibid:1001000226004": 243,
+      "gas:candidate-vibid:1001000136146": 4,
+      "gas:candidate-vibid:1001000121931": 2,
+      "gas:candidate-vibid:1001000188025": 1,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13874,13 +13874,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 0,
-      "Драганов Валерий Гаврилович": 0,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000113992": 0,
+      "gas:candidate-vibid:1001000226004": 0,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13930,13 +13930,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 4,
-      "Драганов Валерий Гаврилович": 23,
-      "Каминский Юрий Викторович": 4,
-      "Козлов Александр Петрович": 5,
-      "Московченко Николай Михайлович": 4,
-      "Новичихина Надежда Васильевна": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000113992": 4,
+      "gas:candidate-vibid:1001000226004": 23,
+      "gas:candidate-vibid:1001000136146": 4,
+      "gas:candidate-vibid:1001000121931": 5,
+      "gas:candidate-vibid:1001000188025": 4,
+      "gas:candidate-vibid:1001000190437": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",
@@ -13986,13 +13986,13 @@ export const duma_2003_uik_428_region_77_part_001 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Городилин Сергей Владимирович": 0,
-      "Драганов Валерий Гаврилович": 33,
-      "Каминский Юрий Викторович": 0,
-      "Козлов Александр Петрович": 0,
-      "Московченко Николай Михайлович": 0,
-      "Новичихина Надежда Васильевна": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000113992": 0,
+      "gas:candidate-vibid:1001000226004": 33,
+      "gas:candidate-vibid:1001000136146": 0,
+      "gas:candidate-vibid:1001000121931": 0,
+      "gas:candidate-vibid:1001000188025": 0,
+      "gas:candidate-vibid:1001000190437": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=773001010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=377300170433&region=0&sub_region=0&type=429",

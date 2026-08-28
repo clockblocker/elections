@@ -42,12 +42,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 483,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 20,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 483,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 20,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -97,12 +97,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 216,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 7,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 216,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 7,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -152,12 +152,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 185,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 8,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 185,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 8,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -207,12 +207,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 600,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 52,
-      "Пыкин Артур Петрович": 31,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 600,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 52,
+      "gas:candidate-vibid:1001000136061": 31,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -262,12 +262,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 302,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 9,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 302,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 9,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -317,12 +317,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 217,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 217,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -372,12 +372,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 216,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 14,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 216,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 14,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -427,12 +427,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 473,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 54,
-      "Пыкин Артур Петрович": 36,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 473,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 54,
+      "gas:candidate-vibid:1001000136061": 36,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -482,12 +482,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 158,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 17,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 158,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 17,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -537,12 +537,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 122,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 122,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -592,12 +592,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 640,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 44,
-      "Пыкин Артур Петрович": 45,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 640,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 44,
+      "gas:candidate-vibid:1001000136061": 45,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -647,12 +647,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 217,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 217,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -702,12 +702,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 119,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 79,
-      "Пыкин Артур Петрович": 19,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 119,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 79,
+      "gas:candidate-vibid:1001000136061": 19,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -757,12 +757,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 441,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 31,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 441,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 31,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -812,12 +812,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 412,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 34,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 412,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 34,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -867,12 +867,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 126,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 11,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 126,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 11,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -922,12 +922,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 587,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 106,
-      "Пыкин Артур Петрович": 26,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 587,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 106,
+      "gas:candidate-vibid:1001000136061": 26,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -977,12 +977,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 624,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 94,
-      "Пыкин Артур Петрович": 27,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 624,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 94,
+      "gas:candidate-vibid:1001000136061": 27,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1032,12 +1032,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 310,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 38,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 310,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 38,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1087,12 +1087,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 154,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 154,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1142,12 +1142,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 506,
-      "Писляков Эрнест Борисович": 10,
-      "Проскурякова Валентина Григорьевна": 22,
-      "Пыкин Артур Петрович": 33,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 506,
+      "gas:candidate-vibid:342300267034": 10,
+      "gas:candidate-vibid:1001000217926": 22,
+      "gas:candidate-vibid:1001000136061": 33,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1197,12 +1197,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 102,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 102,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1252,12 +1252,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 10,
-      "Макаров Андрей Михайлович": 355,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 47,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000195080": 10,
+      "gas:candidate-vibid:1001000225942": 355,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 47,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1307,12 +1307,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 528,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 91,
-      "Пыкин Артур Петрович": 46,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 528,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 91,
+      "gas:candidate-vibid:1001000136061": 46,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1362,12 +1362,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 598,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 66,
-      "Пыкин Артур Петрович": 37,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 598,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 66,
+      "gas:candidate-vibid:1001000136061": 37,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1417,12 +1417,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 117,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 8,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 117,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 8,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1472,12 +1472,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 144,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 32,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 144,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 32,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1527,12 +1527,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 351,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 44,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 351,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 44,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1582,12 +1582,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 112,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 112,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1637,12 +1637,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 83,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 83,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1692,12 +1692,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 329,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 47,
-      "Пыкин Артур Петрович": 19,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 329,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 47,
+      "gas:candidate-vibid:1001000136061": 19,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1747,12 +1747,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 210,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 32,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 210,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 32,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1802,12 +1802,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 599,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 81,
-      "Пыкин Артур Петрович": 19,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 599,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 81,
+      "gas:candidate-vibid:1001000136061": 19,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1857,12 +1857,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 52,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 19,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 52,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 19,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1912,12 +1912,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 654,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 56,
-      "Пыкин Артур Петрович": 14,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 654,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 56,
+      "gas:candidate-vibid:1001000136061": 14,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -1967,12 +1967,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 165,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 165,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002010&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267483&region=0&sub_region=0&type=429",
@@ -2022,12 +2022,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 370,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 59,
-      "Пыкин Артур Петрович": 20,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 370,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 59,
+      "gas:candidate-vibid:1001000136061": 20,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2077,12 +2077,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 414,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 55,
-      "Пыкин Артур Петрович": 25,
-      "Против всех": 48
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 414,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 55,
+      "gas:candidate-vibid:1001000136061": 25,
+      "special:against-all": 48
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2132,12 +2132,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 409,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 37,
-      "Пыкин Артур Петрович": 24,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 409,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 37,
+      "gas:candidate-vibid:1001000136061": 24,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2187,12 +2187,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 408,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 59,
-      "Пыкин Артур Петрович": 21,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 408,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 59,
+      "gas:candidate-vibid:1001000136061": 21,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2242,12 +2242,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 353,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 75,
-      "Пыкин Артур Петрович": 43,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 353,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 75,
+      "gas:candidate-vibid:1001000136061": 43,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2297,12 +2297,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 551,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 77,
-      "Пыкин Артур Петрович": 42,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 551,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 77,
+      "gas:candidate-vibid:1001000136061": 42,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2352,12 +2352,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 498,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 89,
-      "Пыкин Артур Петрович": 46,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 498,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 89,
+      "gas:candidate-vibid:1001000136061": 46,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2407,12 +2407,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 131,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 9,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 31
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 131,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 9,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 31
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2462,12 +2462,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 50,
-      "Макаров Андрей Михайлович": 606,
-      "Писляков Эрнест Борисович": 8,
-      "Проскурякова Валентина Григорьевна": 50,
-      "Пыкин Артур Петрович": 65,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195080": 50,
+      "gas:candidate-vibid:1001000225942": 606,
+      "gas:candidate-vibid:342300267034": 8,
+      "gas:candidate-vibid:1001000217926": 50,
+      "gas:candidate-vibid:1001000136061": 65,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2517,12 +2517,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 40,
-      "Макаров Андрей Михайлович": 498,
-      "Писляков Эрнест Борисович": 12,
-      "Проскурякова Валентина Григорьевна": 81,
-      "Пыкин Артур Петрович": 43,
-      "Против всех": 186
+      "gas:candidate-vibid:1001000195080": 40,
+      "gas:candidate-vibid:1001000225942": 498,
+      "gas:candidate-vibid:342300267034": 12,
+      "gas:candidate-vibid:1001000217926": 81,
+      "gas:candidate-vibid:1001000136061": 43,
+      "special:against-all": 186
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2572,12 +2572,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 285,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 30,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 285,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 30,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2627,12 +2627,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 11,
-      "Макаров Андрей Михайлович": 202,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 8,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195080": 11,
+      "gas:candidate-vibid:1001000225942": 202,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 8,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2682,12 +2682,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 175,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 13,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 175,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 13,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2737,12 +2737,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 49,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 40,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 49,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 40,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2792,12 +2792,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 136,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 136,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2847,12 +2847,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 168,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 15,
-      "Пыкин Артур Петрович": 15,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 168,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 15,
+      "gas:candidate-vibid:1001000136061": 15,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2902,12 +2902,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 637,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 34,
-      "Пыкин Артур Петрович": 22,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 637,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 34,
+      "gas:candidate-vibid:1001000136061": 22,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -2957,12 +2957,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 10,
-      "Макаров Андрей Михайлович": 235,
-      "Писляков Эрнест Борисович": 8,
-      "Проскурякова Валентина Григорьевна": 37,
-      "Пыкин Артур Петрович": 20,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195080": 10,
+      "gas:candidate-vibid:1001000225942": 235,
+      "gas:candidate-vibid:342300267034": 8,
+      "gas:candidate-vibid:1001000217926": 37,
+      "gas:candidate-vibid:1001000136061": 20,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3012,12 +3012,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 405,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 14,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 405,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 14,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3067,12 +3067,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 123,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 0,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 123,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 0,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3122,12 +3122,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 565,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 29,
-      "Пыкин Артур Петрович": 17,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 565,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 29,
+      "gas:candidate-vibid:1001000136061": 17,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3177,12 +3177,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 378,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 16,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 378,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 16,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3232,12 +3232,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 75,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 58,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 75,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 58,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3287,12 +3287,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 414,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 75,
-      "Пыкин Артур Петрович": 22,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 414,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 75,
+      "gas:candidate-vibid:1001000136061": 22,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3342,12 +3342,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 52,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 1,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 52,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 1,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3397,12 +3397,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 349,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 33,
-      "Пыкин Артур Петрович": 14,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 349,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 33,
+      "gas:candidate-vibid:1001000136061": 14,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3452,12 +3452,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 109,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 109,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3507,12 +3507,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 73,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 7,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 73,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 7,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3562,12 +3562,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 52,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 52,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3617,12 +3617,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 132,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 17,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 132,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 17,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3672,12 +3672,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 67,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 67,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3727,12 +3727,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 224,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 224,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3782,12 +3782,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 172,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 172,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3837,12 +3837,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 185,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 18,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 185,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 18,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3892,12 +3892,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 199,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 36,
-      "Пыкин Артур Петрович": 8,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 199,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 36,
+      "gas:candidate-vibid:1001000136061": 8,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -3947,12 +3947,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 120,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 18,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 120,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 18,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -4002,12 +4002,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 320,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 30,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 320,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 30,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -4057,12 +4057,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 325,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 325,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -4112,12 +4112,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 419,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 419,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -4167,12 +4167,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 295,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 18,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 295,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 18,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002011&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267484&region=0&sub_region=0&type=429",
@@ -4222,12 +4222,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 444,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 44,
-      "Пыкин Артур Петрович": 28,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 444,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 44,
+      "gas:candidate-vibid:1001000136061": 28,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4277,12 +4277,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 78,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 78,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4332,12 +4332,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 128,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 128,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4387,12 +4387,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 10,
-      "Макаров Андрей Михайлович": 283,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 38,
-      "Пыкин Артур Петрович": 16,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195080": 10,
+      "gas:candidate-vibid:1001000225942": 283,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 38,
+      "gas:candidate-vibid:1001000136061": 16,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4442,12 +4442,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 84,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 5,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 84,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 5,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4497,12 +4497,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 253,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 13,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 253,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 13,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4552,12 +4552,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 79,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 0,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 79,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 0,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4607,12 +4607,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 408,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 22,
-      "Пыкин Артур Петрович": 14,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 408,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 22,
+      "gas:candidate-vibid:1001000136061": 14,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4662,12 +4662,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 75,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 75,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4717,12 +4717,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 234,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 16,
-      "Пыкин Артур Петрович": 17,
-      "Против всех": 50
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 234,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 16,
+      "gas:candidate-vibid:1001000136061": 17,
+      "special:against-all": 50
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4772,12 +4772,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 141,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 24,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 141,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 24,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4827,12 +4827,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 174,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 25,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 174,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 25,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4882,12 +4882,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 56,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 56,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4937,12 +4937,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 101,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 31,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 101,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 31,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -4992,12 +4992,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 316,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 79,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 316,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 79,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5047,12 +5047,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 61,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 61,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5102,12 +5102,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 179,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 30,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 179,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 30,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5157,12 +5157,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 328,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 39,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 328,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 39,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5212,12 +5212,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 52,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 0,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 52,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 0,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5267,12 +5267,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 470,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 24,
-      "Пыкин Артур Петрович": 14,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 470,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 24,
+      "gas:candidate-vibid:1001000136061": 14,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5322,12 +5322,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 261,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 19,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 261,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 19,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5377,12 +5377,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 149,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 13,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 149,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 13,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5432,12 +5432,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 103,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 103,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5487,12 +5487,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 220,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 21,
-      "Пыкин Артур Петрович": 21,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 220,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 21,
+      "gas:candidate-vibid:1001000136061": 21,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5542,12 +5542,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 169,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 169,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5597,12 +5597,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 71,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 9,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 71,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 9,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5652,12 +5652,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 183,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 7,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 183,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 7,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5707,12 +5707,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 198,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 5,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 198,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 5,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5762,12 +5762,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 351,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 9,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 351,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 9,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5817,12 +5817,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 70,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 70,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5872,12 +5872,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 150,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 10,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 150,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 10,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5927,12 +5927,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 345,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 21,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 345,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 21,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -5982,12 +5982,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 67,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 67,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6037,12 +6037,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 22,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 0,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 0
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 22,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 0,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 0
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6092,12 +6092,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 461,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 18,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 461,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 18,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6147,12 +6147,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 208,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 16,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 208,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 16,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6202,12 +6202,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 16,
-      "Макаров Андрей Михайлович": 916,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 92,
-      "Пыкин Артур Петрович": 86,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000195080": 16,
+      "gas:candidate-vibid:1001000225942": 916,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 92,
+      "gas:candidate-vibid:1001000136061": 86,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6257,12 +6257,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 552,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 35,
-      "Пыкин Артур Петрович": 30,
-      "Против всех": 69
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 552,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 35,
+      "gas:candidate-vibid:1001000136061": 30,
+      "special:against-all": 69
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6312,12 +6312,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 733,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 115,
-      "Пыкин Артур Петрович": 52,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 733,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 115,
+      "gas:candidate-vibid:1001000136061": 52,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6367,12 +6367,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 13,
-      "Макаров Андрей Михайлович": 784,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 103,
-      "Пыкин Артур Петрович": 59,
-      "Против всех": 160
+      "gas:candidate-vibid:1001000195080": 13,
+      "gas:candidate-vibid:1001000225942": 784,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 103,
+      "gas:candidate-vibid:1001000136061": 59,
+      "special:against-all": 160
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6422,12 +6422,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 504,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 90,
-      "Пыкин Артур Петрович": 45,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 504,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 90,
+      "gas:candidate-vibid:1001000136061": 45,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6477,12 +6477,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 15,
-      "Макаров Андрей Михайлович": 810,
-      "Писляков Эрнест Борисович": 8,
-      "Проскурякова Валентина Григорьевна": 98,
-      "Пыкин Артур Петрович": 66,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195080": 15,
+      "gas:candidate-vibid:1001000225942": 810,
+      "gas:candidate-vibid:342300267034": 8,
+      "gas:candidate-vibid:1001000217926": 98,
+      "gas:candidate-vibid:1001000136061": 66,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6532,12 +6532,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 315,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 90,
-      "Пыкин Артур Петрович": 29,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 315,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 90,
+      "gas:candidate-vibid:1001000136061": 29,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6587,12 +6587,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 179,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 27,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 179,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 27,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6642,12 +6642,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 320,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 45,
-      "Пыкин Артур Петрович": 22,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 320,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 45,
+      "gas:candidate-vibid:1001000136061": 22,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002012&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267485&region=0&sub_region=0&type=429",
@@ -6697,12 +6697,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 10,
-      "Макаров Андрей Михайлович": 638,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 85,
-      "Пыкин Артур Петрович": 39,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000195080": 10,
+      "gas:candidate-vibid:1001000225942": 638,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 85,
+      "gas:candidate-vibid:1001000136061": 39,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -6752,12 +6752,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 11,
-      "Макаров Андрей Михайлович": 1089,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 71,
-      "Пыкин Артур Петрович": 40,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195080": 11,
+      "gas:candidate-vibid:1001000225942": 1089,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 71,
+      "gas:candidate-vibid:1001000136061": 40,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -6807,12 +6807,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 477,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 27,
-      "Пыкин Артур Петрович": 28,
-      "Против всех": 56
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 477,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 27,
+      "gas:candidate-vibid:1001000136061": 28,
+      "special:against-all": 56
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -6862,12 +6862,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 128,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 1,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 128,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 1,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -6917,12 +6917,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 49,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 49,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -6972,12 +6972,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 467,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 467,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7027,12 +7027,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 82,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 82,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7082,12 +7082,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 408,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 47,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 408,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 47,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7137,12 +7137,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 359,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 35,
-      "Пыкин Артур Петрович": 20,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 359,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 35,
+      "gas:candidate-vibid:1001000136061": 20,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7192,12 +7192,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 337,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 22,
-      "Пыкин Артур Петрович": 16,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 337,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 22,
+      "gas:candidate-vibid:1001000136061": 16,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7247,12 +7247,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 344,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 53,
-      "Пыкин Артур Петрович": 27,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 344,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 53,
+      "gas:candidate-vibid:1001000136061": 27,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7302,12 +7302,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 235,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 24,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 235,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 24,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7357,12 +7357,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 18,
-      "Макаров Андрей Михайлович": 637,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 99,
-      "Пыкин Артур Петрович": 25,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195080": 18,
+      "gas:candidate-vibid:1001000225942": 637,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 99,
+      "gas:candidate-vibid:1001000136061": 25,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7412,12 +7412,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 99,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 41,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 99,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 41,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7467,12 +7467,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 314,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 26,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 314,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 26,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7522,12 +7522,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 413,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 28,
-      "Пыкин Артур Петрович": 17,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 413,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 28,
+      "gas:candidate-vibid:1001000136061": 17,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7577,12 +7577,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 118,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 118,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7632,12 +7632,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 198,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 198,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7687,12 +7687,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 409,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 13,
-      "Пыкин Артур Петрович": 8,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 409,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 13,
+      "gas:candidate-vibid:1001000136061": 8,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7742,12 +7742,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 387,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 14,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 387,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 14,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7797,12 +7797,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 222,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 222,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7852,12 +7852,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 95,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 0,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 95,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 0,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7907,12 +7907,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 256,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 8,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 256,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 8,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -7962,12 +7962,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 139,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 139,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -8017,12 +8017,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 102,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 11,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 102,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 11,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -8072,12 +8072,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 18,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 18,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267486&region=0&sub_region=0&type=429",
@@ -8127,12 +8127,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 91,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 35,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 91,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 35,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8182,12 +8182,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 222,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 5,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 222,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 5,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8237,12 +8237,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 375,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 76,
-      "Пыкин Артур Петрович": 17,
-      "Против всех": 60
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 375,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 76,
+      "gas:candidate-vibid:1001000136061": 17,
+      "special:against-all": 60
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8292,12 +8292,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 141,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 9,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 141,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 9,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8347,12 +8347,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 11,
-      "Макаров Андрей Михайлович": 185,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 21,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195080": 11,
+      "gas:candidate-vibid:1001000225942": 185,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 21,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8402,12 +8402,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 50,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 50,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8457,12 +8457,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 66,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 5,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 66,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 5,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8512,12 +8512,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 54,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 54,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8567,12 +8567,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 12,
-      "Макаров Андрей Михайлович": 778,
-      "Писляков Эрнест Борисович": 8,
-      "Проскурякова Валентина Григорьевна": 60,
-      "Пыкин Артур Петрович": 30,
-      "Против всех": 97
+      "gas:candidate-vibid:1001000195080": 12,
+      "gas:candidate-vibid:1001000225942": 778,
+      "gas:candidate-vibid:342300267034": 8,
+      "gas:candidate-vibid:1001000217926": 60,
+      "gas:candidate-vibid:1001000136061": 30,
+      "special:against-all": 97
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8622,12 +8622,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 22,
-      "Макаров Андрей Михайлович": 519,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 111,
-      "Пыкин Артур Петрович": 34,
-      "Против всех": 90
+      "gas:candidate-vibid:1001000195080": 22,
+      "gas:candidate-vibid:1001000225942": 519,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 111,
+      "gas:candidate-vibid:1001000136061": 34,
+      "special:against-all": 90
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8677,12 +8677,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 260,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 42,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 260,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 42,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8732,12 +8732,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 13,
-      "Макаров Андрей Михайлович": 365,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 60,
-      "Пыкин Артур Петрович": 21,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000195080": 13,
+      "gas:candidate-vibid:1001000225942": 365,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 60,
+      "gas:candidate-vibid:1001000136061": 21,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8787,12 +8787,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 530,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 77,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 55
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 530,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 77,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 55
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8842,12 +8842,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 261,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 24,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 261,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 24,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8897,12 +8897,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 196,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 21,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 196,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 21,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -8952,12 +8952,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 88,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 88,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9007,12 +9007,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 142,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 142,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9062,12 +9062,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 65,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 22,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 65,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 22,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9117,12 +9117,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 38,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 8,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 38,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 8,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9172,12 +9172,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 220,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 24,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 220,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 24,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9227,12 +9227,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 88,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 17,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 88,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 17,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9282,12 +9282,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 181,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 21,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 43
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 181,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 21,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 43
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9337,12 +9337,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 122,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 20,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 122,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 20,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9392,12 +9392,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 206,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 14,
-      "Пыкин Артур Петрович": 13,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 206,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 14,
+      "gas:candidate-vibid:1001000136061": 13,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9447,12 +9447,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 138,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 37,
-      "Пыкин Артур Петрович": 6,
-      "Против всех": 28
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 138,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 37,
+      "gas:candidate-vibid:1001000136061": 6,
+      "special:against-all": 28
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9502,12 +9502,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 212,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 29,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 212,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 29,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9557,12 +9557,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 165,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 12,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 165,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 12,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9612,12 +9612,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 142,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 27,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 142,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 27,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9667,12 +9667,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 125,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 15,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 125,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 15,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9722,12 +9722,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 421,
-      "Писляков Эрнест Борисович": 8,
-      "Проскурякова Валентина Григорьевна": 45,
-      "Пыкин Артур Петрович": 38,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 421,
+      "gas:candidate-vibid:342300267034": 8,
+      "gas:candidate-vibid:1001000217926": 45,
+      "gas:candidate-vibid:1001000136061": 38,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9777,12 +9777,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 167,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 15,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 167,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 15,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9832,12 +9832,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 327,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 32,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 327,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 32,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9887,12 +9887,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 209,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 24,
-      "Пыкин Артур Петрович": 15,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 209,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 24,
+      "gas:candidate-vibid:1001000136061": 15,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9942,12 +9942,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 11,
-      "Макаров Андрей Михайлович": 326,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 16,
-      "Против всех": 44
+      "gas:candidate-vibid:1001000195080": 11,
+      "gas:candidate-vibid:1001000225942": 326,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 16,
+      "special:against-all": 44
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -9997,12 +9997,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 13,
-      "Макаров Андрей Михайлович": 394,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 67,
-      "Пыкин Артур Петрович": 24,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195080": 13,
+      "gas:candidate-vibid:1001000225942": 394,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 67,
+      "gas:candidate-vibid:1001000136061": 24,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -10052,12 +10052,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 11,
-      "Макаров Андрей Михайлович": 612,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 48,
-      "Пыкин Артур Петрович": 32,
-      "Против всех": 122
+      "gas:candidate-vibid:1001000195080": 11,
+      "gas:candidate-vibid:1001000225942": 612,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 48,
+      "gas:candidate-vibid:1001000136061": 32,
+      "special:against-all": 122
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002014&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267487&region=0&sub_region=0&type=429",
@@ -10107,12 +10107,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 44,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 44,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10162,12 +10162,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 141,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 18,
-      "Пыкин Артур Петрович": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 141,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 18,
+      "gas:candidate-vibid:1001000136061": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10217,12 +10217,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 13,
-      "Макаров Андрей Михайлович": 621,
-      "Писляков Эрнест Борисович": 9,
-      "Проскурякова Валентина Григорьевна": 102,
-      "Пыкин Артур Петрович": 31,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195080": 13,
+      "gas:candidate-vibid:1001000225942": 621,
+      "gas:candidate-vibid:342300267034": 9,
+      "gas:candidate-vibid:1001000217926": 102,
+      "gas:candidate-vibid:1001000136061": 31,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10272,12 +10272,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 431,
-      "Писляков Эрнест Борисович": 12,
-      "Проскурякова Валентина Григорьевна": 92,
-      "Пыкин Артур Петрович": 37,
-      "Против всех": 49
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 431,
+      "gas:candidate-vibid:342300267034": 12,
+      "gas:candidate-vibid:1001000217926": 92,
+      "gas:candidate-vibid:1001000136061": 37,
+      "special:against-all": 49
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10327,12 +10327,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 12,
-      "Макаров Андрей Михайлович": 698,
-      "Писляков Эрнест Борисович": 10,
-      "Проскурякова Валентина Григорьевна": 76,
-      "Пыкин Артур Петрович": 27,
-      "Против всех": 85
+      "gas:candidate-vibid:1001000195080": 12,
+      "gas:candidate-vibid:1001000225942": 698,
+      "gas:candidate-vibid:342300267034": 10,
+      "gas:candidate-vibid:1001000217926": 76,
+      "gas:candidate-vibid:1001000136061": 27,
+      "special:against-all": 85
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10382,12 +10382,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 11,
-      "Макаров Андрей Михайлович": 561,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 86,
-      "Пыкин Артур Петрович": 26,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000195080": 11,
+      "gas:candidate-vibid:1001000225942": 561,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 86,
+      "gas:candidate-vibid:1001000136061": 26,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10437,12 +10437,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 6,
-      "Макаров Андрей Михайлович": 397,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 30,
-      "Пыкин Артур Петрович": 21,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195080": 6,
+      "gas:candidate-vibid:1001000225942": 397,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 30,
+      "gas:candidate-vibid:1001000136061": 21,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10492,12 +10492,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 604,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 50,
-      "Пыкин Артур Петрович": 31,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 604,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 50,
+      "gas:candidate-vibid:1001000136061": 31,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10547,12 +10547,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 350,
-      "Писляков Эрнест Борисович": 6,
-      "Проскурякова Валентина Григорьевна": 20,
-      "Пыкин Артур Петрович": 22,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 350,
+      "gas:candidate-vibid:342300267034": 6,
+      "gas:candidate-vibid:1001000217926": 20,
+      "gas:candidate-vibid:1001000136061": 22,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10602,12 +10602,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 9,
-      "Макаров Андрей Михайлович": 225,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 39,
-      "Пыкин Артур Петрович": 16,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 9,
+      "gas:candidate-vibid:1001000225942": 225,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 39,
+      "gas:candidate-vibid:1001000136061": 16,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10657,12 +10657,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 14,
-      "Макаров Андрей Михайлович": 461,
-      "Писляков Эрнест Борисович": 11,
-      "Проскурякова Валентина Григорьевна": 104,
-      "Пыкин Артур Петрович": 50,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195080": 14,
+      "gas:candidate-vibid:1001000225942": 461,
+      "gas:candidate-vibid:342300267034": 11,
+      "gas:candidate-vibid:1001000217926": 104,
+      "gas:candidate-vibid:1001000136061": 50,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10712,12 +10712,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 7,
-      "Макаров Андрей Михайлович": 429,
-      "Писляков Эрнест Борисович": 14,
-      "Проскурякова Валентина Григорьевна": 64,
-      "Пыкин Артур Петрович": 14,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000195080": 7,
+      "gas:candidate-vibid:1001000225942": 429,
+      "gas:candidate-vibid:342300267034": 14,
+      "gas:candidate-vibid:1001000217926": 64,
+      "gas:candidate-vibid:1001000136061": 14,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10767,12 +10767,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 81,
-      "Писляков Эрнест Борисович": 3,
-      "Проскурякова Валентина Григорьевна": 7,
-      "Пыкин Артур Петрович": 11,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 81,
+      "gas:candidate-vibid:342300267034": 3,
+      "gas:candidate-vibid:1001000217926": 7,
+      "gas:candidate-vibid:1001000136061": 11,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10822,12 +10822,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 297,
-      "Писляков Эрнест Борисович": 5,
-      "Проскурякова Валентина Григорьевна": 61,
-      "Пыкин Артур Петрович": 27,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 297,
+      "gas:candidate-vibid:342300267034": 5,
+      "gas:candidate-vibid:1001000217926": 61,
+      "gas:candidate-vibid:1001000136061": 27,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10877,12 +10877,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 67,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 13,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 67,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 13,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10932,12 +10932,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 125,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 11,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 125,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 11,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -10987,12 +10987,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 340,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 23,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 340,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 23,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11042,12 +11042,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 19,
-      "Макаров Андрей Михайлович": 266,
-      "Писляков Эрнест Борисович": 7,
-      "Проскурякова Валентина Григорьевна": 20,
-      "Пыкин Артур Петрович": 10,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195080": 19,
+      "gas:candidate-vibid:1001000225942": 266,
+      "gas:candidate-vibid:342300267034": 7,
+      "gas:candidate-vibid:1001000217926": 20,
+      "gas:candidate-vibid:1001000136061": 10,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11097,12 +11097,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 309,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 35,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 309,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 35,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11152,12 +11152,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 201,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 19,
-      "Пыкин Артур Петрович": 12,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 201,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 19,
+      "gas:candidate-vibid:1001000136061": 12,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11207,12 +11207,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 480,
-      "Писляков Эрнест Борисович": 4,
-      "Проскурякова Валентина Григорьевна": 48,
-      "Пыкин Артур Петрович": 29,
-      "Против всех": 78
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 480,
+      "gas:candidate-vibid:342300267034": 4,
+      "gas:candidate-vibid:1001000217926": 48,
+      "gas:candidate-vibid:1001000136061": 29,
+      "special:against-all": 78
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11262,12 +11262,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 81,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 5,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 81,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 5,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11317,12 +11317,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 542,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 56,
-      "Пыкин Артур Петрович": 18,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 542,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 56,
+      "gas:candidate-vibid:1001000136061": 18,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11372,12 +11372,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 373,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 15,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 373,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 15,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11427,12 +11427,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 158,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 158,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11482,12 +11482,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 225,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 11,
-      "Пыкин Артур Петрович": 9,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 225,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 11,
+      "gas:candidate-vibid:1001000136061": 9,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11537,12 +11537,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 100,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 2,
-      "Пыкин Артур Петрович": 3,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 100,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 2,
+      "gas:candidate-vibid:1001000136061": 3,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11592,12 +11592,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 96,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 3,
-      "Пыкин Артур Петрович": 1,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 96,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 3,
+      "gas:candidate-vibid:1001000136061": 1,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11647,12 +11647,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 277,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 7,
-      "Пыкин Артур Петрович": 7,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 277,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 7,
+      "gas:candidate-vibid:1001000136061": 7,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11702,12 +11702,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 8,
-      "Макаров Андрей Михайлович": 756,
-      "Писляков Эрнест Борисович": 11,
-      "Проскурякова Валентина Григорьевна": 61,
-      "Пыкин Артур Петрович": 14,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000195080": 8,
+      "gas:candidate-vibid:1001000225942": 756,
+      "gas:candidate-vibid:342300267034": 11,
+      "gas:candidate-vibid:1001000217926": 61,
+      "gas:candidate-vibid:1001000136061": 14,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11757,12 +11757,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 5,
-      "Макаров Андрей Михайлович": 267,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 16,
-      "Пыкин Артур Петрович": 8,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195080": 5,
+      "gas:candidate-vibid:1001000225942": 267,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 16,
+      "gas:candidate-vibid:1001000136061": 8,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11812,12 +11812,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 0,
-      "Макаров Андрей Михайлович": 47,
-      "Писляков Эрнест Борисович": 0,
-      "Проскурякова Валентина Григорьевна": 11,
-      "Пыкин Артур Петрович": 4,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195080": 0,
+      "gas:candidate-vibid:1001000225942": 47,
+      "gas:candidate-vibid:342300267034": 0,
+      "gas:candidate-vibid:1001000217926": 11,
+      "gas:candidate-vibid:1001000136061": 4,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11867,12 +11867,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 1,
-      "Макаров Андрей Михайлович": 208,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 13,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195080": 1,
+      "gas:candidate-vibid:1001000225942": 208,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 13,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11922,12 +11922,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 2,
-      "Макаров Андрей Михайлович": 76,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 9,
-      "Пыкин Артур Петрович": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195080": 2,
+      "gas:candidate-vibid:1001000225942": 76,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 9,
+      "gas:candidate-vibid:1001000136061": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -11977,12 +11977,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 136,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 6,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 136,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 6,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -12032,12 +12032,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 508,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 42,
-      "Пыкин Артур Петрович": 17,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 508,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 42,
+      "gas:candidate-vibid:1001000136061": 17,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -12087,12 +12087,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 4,
-      "Макаров Андрей Михайлович": 348,
-      "Писляков Эрнест Борисович": 2,
-      "Проскурякова Валентина Григорьевна": 45,
-      "Пыкин Артур Петрович": 19,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195080": 4,
+      "gas:candidate-vibid:1001000225942": 348,
+      "gas:candidate-vibid:342300267034": 2,
+      "gas:candidate-vibid:1001000217926": 45,
+      "gas:candidate-vibid:1001000136061": 19,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -12142,12 +12142,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Каштанов Владимир Васильевич": 3,
-      "Макаров Андрей Михайлович": 74,
-      "Писляков Эрнест Борисович": 1,
-      "Проскурякова Валентина Григорьевна": 4,
-      "Пыкин Артур Петрович": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195080": 3,
+      "gas:candidate-vibid:1001000225942": 74,
+      "gas:candidate-vibid:342300267034": 1,
+      "gas:candidate-vibid:1001000217926": 4,
+      "gas:candidate-vibid:1001000136061": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423002015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300267488&region=0&sub_region=0&type=429",
@@ -12197,12 +12197,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 36,
-      "Неверов Сергей Иванович": 832,
-      "Ямщикова Елена Николаевна": 78,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 36,
+      "gas:candidate-vibid:1001000225943": 832,
+      "gas:candidate-vibid:342300366648": 78,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12252,12 +12252,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 28,
-      "Неверов Сергей Иванович": 771,
-      "Ямщикова Елена Николаевна": 72,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 28,
+      "gas:candidate-vibid:1001000225943": 771,
+      "gas:candidate-vibid:342300366648": 72,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12307,12 +12307,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 26,
-      "Неверов Сергей Иванович": 741,
-      "Ямщикова Елена Николаевна": 65,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 26,
+      "gas:candidate-vibid:1001000225943": 741,
+      "gas:candidate-vibid:342300366648": 65,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12362,12 +12362,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 35,
-      "Неверов Сергей Иванович": 783,
-      "Ямщикова Елена Николаевна": 73,
-      "Против всех": 92
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 35,
+      "gas:candidate-vibid:1001000225943": 783,
+      "gas:candidate-vibid:342300366648": 73,
+      "special:against-all": 92
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12417,12 +12417,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 11,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 53,
-      "Неверов Сергей Иванович": 706,
-      "Ямщикова Елена Николаевна": 63,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000250449": 11,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 53,
+      "gas:candidate-vibid:1001000225943": 706,
+      "gas:candidate-vibid:342300366648": 63,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12472,12 +12472,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 32,
-      "Красаков Андрей Валентинович": 25,
-      "Неверов Сергей Иванович": 844,
-      "Ямщикова Елена Николаевна": 53,
-      "Против всех": 143
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 32,
+      "gas:candidate-vibid:1001000136062": 25,
+      "gas:candidate-vibid:1001000225943": 844,
+      "gas:candidate-vibid:342300366648": 53,
+      "special:against-all": 143
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12527,12 +12527,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 35,
-      "Неверов Сергей Иванович": 616,
-      "Ямщикова Елена Николаевна": 48,
-      "Против всех": 81
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 35,
+      "gas:candidate-vibid:1001000225943": 616,
+      "gas:candidate-vibid:342300366648": 48,
+      "special:against-all": 81
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12582,12 +12582,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 4,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 30,
-      "Неверов Сергей Иванович": 707,
-      "Ямщикова Елена Николаевна": 46,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000250449": 4,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 30,
+      "gas:candidate-vibid:1001000225943": 707,
+      "gas:candidate-vibid:342300366648": 46,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12637,12 +12637,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 6,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 27,
-      "Неверов Сергей Иванович": 691,
-      "Ямщикова Елена Николаевна": 47,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000250449": 6,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 27,
+      "gas:candidate-vibid:1001000225943": 691,
+      "gas:candidate-vibid:342300366648": 47,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12692,12 +12692,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 2,
-      "Корыстов Альберт Александрович": 2,
-      "Красаков Андрей Валентинович": 19,
-      "Неверов Сергей Иванович": 442,
-      "Ямщикова Елена Николаевна": 11,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000250449": 2,
+      "gas:candidate-vibid:1001000195081": 2,
+      "gas:candidate-vibid:1001000136062": 19,
+      "gas:candidate-vibid:1001000225943": 442,
+      "gas:candidate-vibid:342300366648": 11,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12747,12 +12747,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 17,
-      "Неверов Сергей Иванович": 406,
-      "Ямщикова Елена Николаевна": 30,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 17,
+      "gas:candidate-vibid:1001000225943": 406,
+      "gas:candidate-vibid:342300366648": 30,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003001&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367329&region=0&sub_region=0&type=429",
@@ -12802,12 +12802,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 3,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 28,
-      "Неверов Сергей Иванович": 234,
-      "Ямщикова Елена Николаевна": 46,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000250449": 3,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 28,
+      "gas:candidate-vibid:1001000225943": 234,
+      "gas:candidate-vibid:342300366648": 46,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -12857,12 +12857,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 31,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 108,
-      "Неверов Сергей Иванович": 808,
-      "Ямщикова Елена Николаевна": 162,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000250449": 31,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 108,
+      "gas:candidate-vibid:1001000225943": 808,
+      "gas:candidate-vibid:342300366648": 162,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -12912,12 +12912,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 21,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 123,
-      "Неверов Сергей Иванович": 818,
-      "Ямщикова Елена Николаевна": 153,
-      "Против всех": 165
+      "gas:candidate-vibid:1001000250449": 21,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 123,
+      "gas:candidate-vibid:1001000225943": 818,
+      "gas:candidate-vibid:342300366648": 153,
+      "special:against-all": 165
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -12967,12 +12967,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 35,
-      "Неверов Сергей Иванович": 350,
-      "Ямщикова Елена Николаевна": 61,
-      "Против всех": 72
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 35,
+      "gas:candidate-vibid:1001000225943": 350,
+      "gas:candidate-vibid:342300366648": 61,
+      "special:against-all": 72
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13022,12 +13022,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 11,
-      "Красаков Андрей Валентинович": 48,
-      "Неверов Сергей Иванович": 723,
-      "Ямщикова Елена Николаевна": 74,
-      "Против всех": 116
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 11,
+      "gas:candidate-vibid:1001000136062": 48,
+      "gas:candidate-vibid:1001000225943": 723,
+      "gas:candidate-vibid:342300366648": 74,
+      "special:against-all": 116
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13077,12 +13077,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 9,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 45,
-      "Неверов Сергей Иванович": 429,
-      "Ямщикова Елена Николаевна": 67,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000250449": 9,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 45,
+      "gas:candidate-vibid:1001000225943": 429,
+      "gas:candidate-vibid:342300366648": 67,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13132,12 +13132,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 5,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 26,
-      "Неверов Сергей Иванович": 369,
-      "Ямщикова Елена Николаевна": 57,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000250449": 5,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 26,
+      "gas:candidate-vibid:1001000225943": 369,
+      "gas:candidate-vibid:342300366648": 57,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13187,12 +13187,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 10,
-      "Корыстов Альберт Александрович": 8,
-      "Красаков Андрей Валентинович": 55,
-      "Неверов Сергей Иванович": 566,
-      "Ямщикова Елена Николаевна": 77,
-      "Против всех": 101
+      "gas:candidate-vibid:1001000250449": 10,
+      "gas:candidate-vibid:1001000195081": 8,
+      "gas:candidate-vibid:1001000136062": 55,
+      "gas:candidate-vibid:1001000225943": 566,
+      "gas:candidate-vibid:342300366648": 77,
+      "special:against-all": 101
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13242,12 +13242,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 81,
-      "Неверов Сергей Иванович": 858,
-      "Ямщикова Елена Николаевна": 139,
-      "Против всех": 135
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 81,
+      "gas:candidate-vibid:1001000225943": 858,
+      "gas:candidate-vibid:342300366648": 139,
+      "special:against-all": 135
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13297,12 +13297,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 13,
-      "Корыстов Альберт Александрович": 9,
-      "Красаков Андрей Валентинович": 57,
-      "Неверов Сергей Иванович": 671,
-      "Ямщикова Елена Николаевна": 147,
-      "Против всех": 136
+      "gas:candidate-vibid:1001000250449": 13,
+      "gas:candidate-vibid:1001000195081": 9,
+      "gas:candidate-vibid:1001000136062": 57,
+      "gas:candidate-vibid:1001000225943": 671,
+      "gas:candidate-vibid:342300366648": 147,
+      "special:against-all": 136
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13352,12 +13352,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 1,
-      "Красаков Андрей Валентинович": 66,
-      "Неверов Сергей Иванович": 711,
-      "Ямщикова Елена Николаевна": 148,
-      "Против всех": 144
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 1,
+      "gas:candidate-vibid:1001000136062": 66,
+      "gas:candidate-vibid:1001000225943": 711,
+      "gas:candidate-vibid:342300366648": 148,
+      "special:against-all": 144
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13407,12 +13407,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 7,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 70,
-      "Неверов Сергей Иванович": 479,
-      "Ямщикова Елена Николаевна": 76,
-      "Против всех": 120
+      "gas:candidate-vibid:1001000250449": 7,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 70,
+      "gas:candidate-vibid:1001000225943": 479,
+      "gas:candidate-vibid:342300366648": 76,
+      "special:against-all": 120
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13462,12 +13462,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 14,
-      "Корыстов Альберт Александрович": 7,
-      "Красаков Андрей Валентинович": 54,
-      "Неверов Сергей Иванович": 828,
-      "Ямщикова Елена Николаевна": 109,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000250449": 14,
+      "gas:candidate-vibid:1001000195081": 7,
+      "gas:candidate-vibid:1001000136062": 54,
+      "gas:candidate-vibid:1001000225943": 828,
+      "gas:candidate-vibid:342300366648": 109,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13517,12 +13517,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 4,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 20,
-      "Неверов Сергей Иванович": 257,
-      "Ямщикова Елена Николаевна": 44,
-      "Против всех": 57
+      "gas:candidate-vibid:1001000250449": 4,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 20,
+      "gas:candidate-vibid:1001000225943": 257,
+      "gas:candidate-vibid:342300366648": 44,
+      "special:against-all": 57
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13572,12 +13572,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 12,
-      "Корыстов Альберт Александрович": 10,
-      "Красаков Андрей Валентинович": 60,
-      "Неверов Сергей Иванович": 528,
-      "Ямщикова Елена Николаевна": 88,
-      "Против всех": 132
+      "gas:candidate-vibid:1001000250449": 12,
+      "gas:candidate-vibid:1001000195081": 10,
+      "gas:candidate-vibid:1001000136062": 60,
+      "gas:candidate-vibid:1001000225943": 528,
+      "gas:candidate-vibid:342300366648": 88,
+      "special:against-all": 132
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13627,12 +13627,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 15,
-      "Корыстов Альберт Александрович": 5,
-      "Красаков Андрей Валентинович": 61,
-      "Неверов Сергей Иванович": 756,
-      "Ямщикова Елена Николаевна": 130,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000250449": 15,
+      "gas:candidate-vibid:1001000195081": 5,
+      "gas:candidate-vibid:1001000136062": 61,
+      "gas:candidate-vibid:1001000225943": 756,
+      "gas:candidate-vibid:342300366648": 130,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13682,12 +13682,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 6,
-      "Красаков Андрей Валентинович": 68,
-      "Неверов Сергей Иванович": 774,
-      "Ямщикова Елена Николаевна": 148,
-      "Против всех": 190
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 6,
+      "gas:candidate-vibid:1001000136062": 68,
+      "gas:candidate-vibid:1001000225943": 774,
+      "gas:candidate-vibid:342300366648": 148,
+      "special:against-all": 190
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",
@@ -13737,12 +13737,12 @@ export const duma_2003_uik_428_region_42_part_004 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Гульняшкин Александр Алексеевич": 17,
-      "Корыстов Альберт Александрович": 3,
-      "Красаков Андрей Валентинович": 47,
-      "Неверов Сергей Иванович": 541,
-      "Ямщикова Елена Николаевна": 106,
-      "Против всех": 104
+      "gas:candidate-vibid:1001000250449": 17,
+      "gas:candidate-vibid:1001000195081": 3,
+      "gas:candidate-vibid:1001000136062": 47,
+      "gas:candidate-vibid:1001000225943": 541,
+      "gas:candidate-vibid:342300366648": 106,
+      "special:against-all": 104
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=423003002&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=342300367330&region=0&sub_region=0&type=429",

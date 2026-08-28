@@ -42,17 +42,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 588,
-      "Евсеев Дмитрий Александрович": 32,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 18,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 25,
-      "Порывкин Владимир Николаевич": 11,
-      "Стародубцев Дмитрий Александрович": 84,
-      "Шацкий Дмитрий Аркадьевич": 15,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 588,
+      "gas:candidate-vibid:376300270749": 32,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 18,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 25,
+      "gas:candidate-vibid:1001000136145": 11,
+      "gas:candidate-vibid:1001000217967": 84,
+      "gas:candidate-vibid:1001000190435": 15,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -102,17 +102,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 393,
-      "Евсеев Дмитрий Александрович": 16,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 20,
-      "Порывкин Владимир Николаевич": 16,
-      "Стародубцев Дмитрий Александрович": 64,
-      "Шацкий Дмитрий Аркадьевич": 11,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 393,
+      "gas:candidate-vibid:376300270749": 16,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 20,
+      "gas:candidate-vibid:1001000136145": 16,
+      "gas:candidate-vibid:1001000217967": 64,
+      "gas:candidate-vibid:1001000190435": 11,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -162,17 +162,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 471,
-      "Евсеев Дмитрий Александрович": 50,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 13,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 20,
-      "Порывкин Владимир Николаевич": 22,
-      "Стародубцев Дмитрий Александрович": 64,
-      "Шацкий Дмитрий Аркадьевич": 31,
-      "Против всех": 76
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 471,
+      "gas:candidate-vibid:376300270749": 50,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 13,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 20,
+      "gas:candidate-vibid:1001000136145": 22,
+      "gas:candidate-vibid:1001000217967": 64,
+      "gas:candidate-vibid:1001000190435": 31,
+      "special:against-all": 76
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -222,17 +222,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 460,
-      "Евсеев Дмитрий Александрович": 18,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 14,
-      "Попович Руслан Алексеевич": 17,
-      "Порывкин Владимир Николаевич": 17,
-      "Стародубцев Дмитрий Александрович": 97,
-      "Шацкий Дмитрий Аркадьевич": 22,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 460,
+      "gas:candidate-vibid:376300270749": 18,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 14,
+      "gas:candidate-vibid:1001000226003": 17,
+      "gas:candidate-vibid:1001000136145": 17,
+      "gas:candidate-vibid:1001000217967": 97,
+      "gas:candidate-vibid:1001000190435": 22,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -282,17 +282,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 47,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 47,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -342,17 +342,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 140,
-      "Евсеев Дмитрий Александрович": 15,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 65,
-      "Шацкий Дмитрий Аркадьевич": 44,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 140,
+      "gas:candidate-vibid:376300270749": 15,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 65,
+      "gas:candidate-vibid:1001000190435": 44,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -402,17 +402,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 147,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 8,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 44,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 147,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 8,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 44,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -462,17 +462,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 96,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 13,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 9,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 25,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 96,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 13,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 9,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 25,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -522,17 +522,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 99,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 33,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 99,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 33,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -582,17 +582,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 97,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 40,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 97,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 40,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -642,17 +642,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 124,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 51,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 124,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 51,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -702,17 +702,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 155,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 10,
-      "Порывкин Владимир Николаевич": 7,
-      "Стародубцев Дмитрий Александрович": 68,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 26
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 155,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 10,
+      "gas:candidate-vibid:1001000136145": 7,
+      "gas:candidate-vibid:1001000217967": 68,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 26
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -762,17 +762,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 183,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 10,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 81,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 183,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 10,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 81,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -822,17 +822,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 116,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 40,
-      "Порывкин Владимир Николаевич": 10,
-      "Стародубцев Дмитрий Александрович": 50,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 116,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 40,
+      "gas:candidate-vibid:1001000136145": 10,
+      "gas:candidate-vibid:1001000217967": 50,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -882,17 +882,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 154,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 8,
-      "Попович Руслан Алексеевич": 9,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 111,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 154,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 8,
+      "gas:candidate-vibid:1001000226003": 9,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 111,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -942,17 +942,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 15,
-      "Грешневиков Анатолий Николаевич": 163,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 15,
-      "Лазарева Наталия Александровна": 24,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 20,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 209,
-      "Шацкий Дмитрий Аркадьевич": 17,
-      "Против всех": 64
+      "gas:candidate-vibid:1001000195161": 15,
+      "gas:candidate-vibid:1001000188024": 163,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 15,
+      "gas:candidate-vibid:376300270638": 24,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 20,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 209,
+      "gas:candidate-vibid:1001000190435": 17,
+      "special:against-all": 64
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1002,17 +1002,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 38,
-      "Евсеев Дмитрий Александрович": 0,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 99,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 38,
+      "gas:candidate-vibid:376300270749": 0,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 99,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1062,17 +1062,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 389,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 22,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 91,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 40
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 389,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 22,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 91,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 40
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1122,17 +1122,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 98,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 52,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 98,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 52,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1182,17 +1182,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 84,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 38,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 84,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 38,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1242,17 +1242,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 73,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 73,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1302,17 +1302,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 107,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 53,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 107,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 53,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1362,17 +1362,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 108,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 22,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 108,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 22,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1422,17 +1422,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 186,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 186,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1482,17 +1482,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 102,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 19,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 102,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 19,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1542,17 +1542,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 233,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 9,
-      "Стародубцев Дмитрий Александрович": 68,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 233,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 9,
+      "gas:candidate-vibid:1001000217967": 68,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1602,17 +1602,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 126,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 38,
-      "Шацкий Дмитрий Аркадьевич": 8,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 126,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 38,
+      "gas:candidate-vibid:1001000190435": 8,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1662,17 +1662,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 256,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 43,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 256,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 43,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1722,17 +1722,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 215,
-      "Евсеев Дмитрий Александрович": 35,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 83,
-      "Шацкий Дмитрий Аркадьевич": 11,
-      "Против всех": 58
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 215,
+      "gas:candidate-vibid:376300270749": 35,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 83,
+      "gas:candidate-vibid:1001000190435": 11,
+      "special:against-all": 58
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1782,17 +1782,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 164,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 37,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 164,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 37,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1842,17 +1842,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 93,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 17,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 93,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 17,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000013&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070717&region=0&sub_region=0&type=429",
@@ -1902,17 +1902,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 1274,
-      "Евсеев Дмитрий Александрович": 137,
-      "Кутузова Ольга Владимировна": 29,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 38,
-      "Порывкин Владимир Николаевич": 15,
-      "Стародубцев Дмитрий Александрович": 75,
-      "Шацкий Дмитрий Аркадьевич": 40,
-      "Против всех": 133
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 1274,
+      "gas:candidate-vibid:376300270749": 137,
+      "gas:candidate-vibid:376300270322": 29,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 38,
+      "gas:candidate-vibid:1001000136145": 15,
+      "gas:candidate-vibid:1001000217967": 75,
+      "gas:candidate-vibid:1001000190435": 40,
+      "special:against-all": 133
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -1962,17 +1962,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 259,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 9,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 17,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 259,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 9,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 17,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2022,17 +2022,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 193,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 12,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 193,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 12,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2082,17 +2082,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 210,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 19,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 210,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 19,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2142,17 +2142,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 136,
-      "Евсеев Дмитрий Александрович": 22,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 19,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 136,
+      "gas:candidate-vibid:376300270749": 22,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 19,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2202,17 +2202,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 73,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 12,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 73,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 12,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2262,17 +2262,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 48,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 48,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2322,17 +2322,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 196,
-      "Евсеев Дмитрий Александрович": 15,
-      "Кутузова Ольга Владимировна": 16,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 10,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 18,
-      "Шацкий Дмитрий Аркадьевич": 13,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 196,
+      "gas:candidate-vibid:376300270749": 15,
+      "gas:candidate-vibid:376300270322": 16,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 10,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 18,
+      "gas:candidate-vibid:1001000190435": 13,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2382,17 +2382,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 63,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 30,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 63,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 30,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2442,17 +2442,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 69,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 10,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 69,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 10,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2502,17 +2502,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 72,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 5,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 72,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 5,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2562,17 +2562,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 136,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 18,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 136,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 18,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2622,17 +2622,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 92,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 12,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 92,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 12,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2682,17 +2682,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 92,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 92,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2742,17 +2742,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 308,
-      "Евсеев Дмитрий Александрович": 13,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 11,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 34,
-      "Шацкий Дмитрий Аркадьевич": 15,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 308,
+      "gas:candidate-vibid:376300270749": 13,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 11,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 34,
+      "gas:candidate-vibid:1001000190435": 15,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2802,17 +2802,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 177,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 15,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 23,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 177,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 15,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 23,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000015&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070719&region=0&sub_region=0&type=429",
@@ -2862,17 +2862,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 971,
-      "Евсеев Дмитрий Александрович": 316,
-      "Кутузова Ольга Владимировна": 14,
-      "Лазарева Наталия Александровна": 11,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 42,
-      "Порывкин Владимир Николаевич": 26,
-      "Стародубцев Дмитрий Александрович": 73,
-      "Шацкий Дмитрий Аркадьевич": 75,
-      "Против всех": 200
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 971,
+      "gas:candidate-vibid:376300270749": 316,
+      "gas:candidate-vibid:376300270322": 14,
+      "gas:candidate-vibid:376300270638": 11,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 42,
+      "gas:candidate-vibid:1001000136145": 26,
+      "gas:candidate-vibid:1001000217967": 73,
+      "gas:candidate-vibid:1001000190435": 75,
+      "special:against-all": 200
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -2922,17 +2922,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 773,
-      "Евсеев Дмитрий Александрович": 224,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 7,
-      "Стародубцев Дмитрий Александрович": 67,
-      "Шацкий Дмитрий Аркадьевич": 49,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 773,
+      "gas:candidate-vibid:376300270749": 224,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 7,
+      "gas:candidate-vibid:1001000217967": 67,
+      "gas:candidate-vibid:1001000190435": 49,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -2982,17 +2982,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 118,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 26,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 118,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 26,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3042,17 +3042,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 94,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 22,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 94,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 22,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3102,17 +3102,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 200,
-      "Евсеев Дмитрий Александрович": 27,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 31,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 200,
+      "gas:candidate-vibid:376300270749": 27,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 31,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3162,17 +3162,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 225,
-      "Евсеев Дмитрий Александрович": 13,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 20,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 225,
+      "gas:candidate-vibid:376300270749": 13,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 20,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3222,17 +3222,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 104,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 5,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 104,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 5,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3282,17 +3282,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 180,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 29,
-      "Шацкий Дмитрий Аркадьевич": 18,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 180,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 29,
+      "gas:candidate-vibid:1001000190435": 18,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3342,17 +3342,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 134,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 134,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3402,17 +3402,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 139,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 17,
-      "Шацкий Дмитрий Аркадьевич": 16,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 139,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 17,
+      "gas:candidate-vibid:1001000190435": 16,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3462,17 +3462,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 83,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 6,
-      "Шацкий Дмитрий Аркадьевич": 11,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 83,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 6,
+      "gas:candidate-vibid:1001000190435": 11,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3522,17 +3522,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 86,
-      "Евсеев Дмитрий Александрович": 25,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 10,
-      "Шацкий Дмитрий Аркадьевич": 18,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 86,
+      "gas:candidate-vibid:376300270749": 25,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 10,
+      "gas:candidate-vibid:1001000190435": 18,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3582,17 +3582,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 233,
-      "Евсеев Дмитрий Александрович": 18,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 17,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 233,
+      "gas:candidate-vibid:376300270749": 18,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 17,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3642,17 +3642,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 274,
-      "Евсеев Дмитрий Александрович": 18,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 55,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 41
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 274,
+      "gas:candidate-vibid:376300270749": 18,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 55,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 41
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3702,17 +3702,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 84,
-      "Грешневиков Анатолий Николаевич": 246,
-      "Евсеев Дмитрий Александрович": 45,
-      "Кутузова Ольга Владимировна": 45,
-      "Лазарева Наталия Александровна": 33,
-      "Мянко Виктор Иванович": 14,
-      "Попович Руслан Алексеевич": 71,
-      "Порывкин Владимир Николаевич": 43,
-      "Стародубцев Дмитрий Александрович": 53,
-      "Шацкий Дмитрий Аркадьевич": 63,
-      "Против всех": 290
+      "gas:candidate-vibid:1001000195161": 84,
+      "gas:candidate-vibid:1001000188024": 246,
+      "gas:candidate-vibid:376300270749": 45,
+      "gas:candidate-vibid:376300270322": 45,
+      "gas:candidate-vibid:376300270638": 33,
+      "gas:candidate-vibid:1001000121288": 14,
+      "gas:candidate-vibid:1001000226003": 71,
+      "gas:candidate-vibid:1001000136145": 43,
+      "gas:candidate-vibid:1001000217967": 53,
+      "gas:candidate-vibid:1001000190435": 63,
+      "special:against-all": 290
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3762,17 +3762,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 60,
-      "Евсеев Дмитрий Александрович": 21,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 30,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 60,
+      "gas:candidate-vibid:376300270749": 21,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 30,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3822,17 +3822,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 164,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 14,
-      "Шацкий Дмитрий Аркадьевич": 10,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 164,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 14,
+      "gas:candidate-vibid:1001000190435": 10,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3882,17 +3882,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 109,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 17,
-      "Шацкий Дмитрий Аркадьевич": 22,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 109,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 17,
+      "gas:candidate-vibid:1001000190435": 22,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -3942,17 +3942,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 100,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 4,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 100,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 4,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -4002,17 +4002,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 218,
-      "Евсеев Дмитрий Александрович": 36,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 12,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 218,
+      "gas:candidate-vibid:376300270749": 36,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 12,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -4062,17 +4062,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 142,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 20,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 142,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 20,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -4122,17 +4122,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 64,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 8,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 64,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 8,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000016&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070720&region=0&sub_region=0&type=429",
@@ -4182,17 +4182,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 517,
-      "Евсеев Дмитрий Александрович": 29,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 14,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 53,
-      "Шацкий Дмитрий Аркадьевич": 48,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 517,
+      "gas:candidate-vibid:376300270749": 29,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 14,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 53,
+      "gas:candidate-vibid:1001000190435": 48,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4242,17 +4242,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 77,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 2,
-      "Шацкий Дмитрий Аркадьевич": 10,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 77,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 2,
+      "gas:candidate-vibid:1001000190435": 10,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4302,17 +4302,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 701,
-      "Евсеев Дмитрий Александрович": 32,
-      "Кутузова Ольга Владимировна": 16,
-      "Лазарева Наталия Александровна": 40,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 19,
-      "Порывкин Владимир Николаевич": 13,
-      "Стародубцев Дмитрий Александрович": 36,
-      "Шацкий Дмитрий Аркадьевич": 60,
-      "Против всех": 125
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 701,
+      "gas:candidate-vibid:376300270749": 32,
+      "gas:candidate-vibid:376300270322": 16,
+      "gas:candidate-vibid:376300270638": 40,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 19,
+      "gas:candidate-vibid:1001000136145": 13,
+      "gas:candidate-vibid:1001000217967": 36,
+      "gas:candidate-vibid:1001000190435": 60,
+      "special:against-all": 125
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4362,17 +4362,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 296,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 12,
-      "Шацкий Дмитрий Аркадьевич": 29,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 296,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 12,
+      "gas:candidate-vibid:1001000190435": 29,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4422,17 +4422,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 1010,
-      "Евсеев Дмитрий Александрович": 108,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 35,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 19,
-      "Порывкин Владимир Николаевич": 13,
-      "Стародубцев Дмитрий Александрович": 39,
-      "Шацкий Дмитрий Аркадьевич": 41,
-      "Против всех": 112
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 1010,
+      "gas:candidate-vibid:376300270749": 108,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 35,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 19,
+      "gas:candidate-vibid:1001000136145": 13,
+      "gas:candidate-vibid:1001000217967": 39,
+      "gas:candidate-vibid:1001000190435": 41,
+      "special:against-all": 112
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4482,17 +4482,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 79,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 7,
-      "Шацкий Дмитрий Аркадьевич": 11,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 79,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 7,
+      "gas:candidate-vibid:1001000190435": 11,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4542,17 +4542,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 409,
-      "Евсеев Дмитрий Александрович": 24,
-      "Кутузова Ольга Владимировна": 17,
-      "Лазарева Наталия Александровна": 33,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 7,
-      "Стародубцев Дмитрий Александрович": 31,
-      "Шацкий Дмитрий Аркадьевич": 21,
-      "Против всех": 70
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 409,
+      "gas:candidate-vibid:376300270749": 24,
+      "gas:candidate-vibid:376300270322": 17,
+      "gas:candidate-vibid:376300270638": 33,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 7,
+      "gas:candidate-vibid:1001000217967": 31,
+      "gas:candidate-vibid:1001000190435": 21,
+      "special:against-all": 70
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4602,17 +4602,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 247,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 11,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 21,
-      "Шацкий Дмитрий Аркадьевич": 57,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 247,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 11,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 21,
+      "gas:candidate-vibid:1001000190435": 57,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4662,17 +4662,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 165,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 19,
-      "Шацкий Дмитрий Аркадьевич": 16,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 165,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 19,
+      "gas:candidate-vibid:1001000190435": 16,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4722,17 +4722,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 183,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 25,
-      "Шацкий Дмитрий Аркадьевич": 8,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 183,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 25,
+      "gas:candidate-vibid:1001000190435": 8,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4782,17 +4782,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 123,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 10,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 4,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 123,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 10,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 4,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4842,17 +4842,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 240,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 16,
-      "Шацкий Дмитрий Аркадьевич": 14,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 240,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 16,
+      "gas:candidate-vibid:1001000190435": 14,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4902,17 +4902,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 722,
-      "Евсеев Дмитрий Александрович": 100,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 25,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 29,
-      "Против всех": 109
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 722,
+      "gas:candidate-vibid:376300270749": 100,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 25,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 29,
+      "special:against-all": 109
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -4962,17 +4962,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 139,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 7,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 139,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 7,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5022,17 +5022,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 109,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 9,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 109,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 9,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5082,17 +5082,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 163,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 29,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 163,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 29,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5142,17 +5142,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 89,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 6,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 89,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 6,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5202,17 +5202,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 73,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 0,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 73,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 0,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5262,17 +5262,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 211,
-      "Евсеев Дмитрий Александрович": 33,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 36,
-      "Шацкий Дмитрий Аркадьевич": 31,
-      "Против всех": 52
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 211,
+      "gas:candidate-vibid:376300270749": 33,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 36,
+      "gas:candidate-vibid:1001000190435": 31,
+      "special:against-all": 52
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5322,17 +5322,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 665,
-      "Евсеев Дмитрий Александрович": 49,
-      "Кутузова Ольга Владимировна": 15,
-      "Лазарева Наталия Александровна": 26,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 27,
-      "Порывкин Владимир Николаевич": 16,
-      "Стародубцев Дмитрий Александрович": 68,
-      "Шацкий Дмитрий Аркадьевич": 34,
-      "Против всех": 123
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 665,
+      "gas:candidate-vibid:376300270749": 49,
+      "gas:candidate-vibid:376300270322": 15,
+      "gas:candidate-vibid:376300270638": 26,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 27,
+      "gas:candidate-vibid:1001000136145": 16,
+      "gas:candidate-vibid:1001000217967": 68,
+      "gas:candidate-vibid:1001000190435": 34,
+      "special:against-all": 123
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5382,17 +5382,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 324,
-      "Евсеев Дмитрий Александрович": 20,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 14,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 21,
-      "Против всех": 33
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 324,
+      "gas:candidate-vibid:376300270749": 20,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 14,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 21,
+      "special:against-all": 33
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5442,17 +5442,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 548,
-      "Евсеев Дмитрий Александрович": 28,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 20,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 16,
-      "Шацкий Дмитрий Аркадьевич": 30,
-      "Против всех": 59
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 548,
+      "gas:candidate-vibid:376300270749": 28,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 20,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 16,
+      "gas:candidate-vibid:1001000190435": 30,
+      "special:against-all": 59
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5502,17 +5502,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 155,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 5,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 155,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 5,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5562,17 +5562,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 187,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 20,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 187,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 20,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5622,17 +5622,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 58,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 2,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 58,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 2,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5682,17 +5682,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 268,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 10,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 11,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 29,
-      "Шацкий Дмитрий Аркадьевич": 15,
-      "Против всех": 35
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 268,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 10,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 11,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 29,
+      "gas:candidate-vibid:1001000190435": 15,
+      "special:against-all": 35
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5742,17 +5742,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 482,
-      "Евсеев Дмитрий Александрович": 49,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 10,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 20,
-      "Шацкий Дмитрий Аркадьевич": 15,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 482,
+      "gas:candidate-vibid:376300270749": 49,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 10,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 20,
+      "gas:candidate-vibid:1001000190435": 15,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5802,17 +5802,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 618,
-      "Евсеев Дмитрий Александрович": 42,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 24,
-      "Против всех": 62
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 618,
+      "gas:candidate-vibid:376300270749": 42,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 24,
+      "special:against-all": 62
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5862,17 +5862,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 638,
-      "Евсеев Дмитрий Александрович": 27,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 30,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 33,
-      "Шацкий Дмитрий Аркадьевич": 31,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 638,
+      "gas:candidate-vibid:376300270749": 27,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 30,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 33,
+      "gas:candidate-vibid:1001000190435": 31,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000017&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070721&region=0&sub_region=0&type=429",
@@ -5922,17 +5922,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 924,
-      "Евсеев Дмитрий Александрович": 211,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 42,
-      "Порывкин Владимир Николаевич": 9,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 49,
-      "Против всех": 83
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 924,
+      "gas:candidate-vibid:376300270749": 211,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 42,
+      "gas:candidate-vibid:1001000136145": 9,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 49,
+      "special:against-all": 83
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -5982,17 +5982,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 869,
-      "Евсеев Дмитрий Александрович": 156,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 13,
-      "Порывкин Владимир Николаевич": 11,
-      "Стародубцев Дмитрий Александрович": 35,
-      "Шацкий Дмитрий Аркадьевич": 30,
-      "Против всех": 87
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 869,
+      "gas:candidate-vibid:376300270749": 156,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 13,
+      "gas:candidate-vibid:1001000136145": 11,
+      "gas:candidate-vibid:1001000217967": 35,
+      "gas:candidate-vibid:1001000190435": 30,
+      "special:against-all": 87
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6042,17 +6042,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 919,
-      "Евсеев Дмитрий Александрович": 180,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 30,
-      "Порывкин Владимир Николаевич": 13,
-      "Стародубцев Дмитрий Александрович": 28,
-      "Шацкий Дмитрий Аркадьевич": 34,
-      "Против всех": 88
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 919,
+      "gas:candidate-vibid:376300270749": 180,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 30,
+      "gas:candidate-vibid:1001000136145": 13,
+      "gas:candidate-vibid:1001000217967": 28,
+      "gas:candidate-vibid:1001000190435": 34,
+      "special:against-all": 88
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6102,17 +6102,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 790,
-      "Евсеев Дмитрий Александрович": 164,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 36,
-      "Порывкин Владимир Николаевич": 13,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 55,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 790,
+      "gas:candidate-vibid:376300270749": 164,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 36,
+      "gas:candidate-vibid:1001000136145": 13,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 55,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6162,17 +6162,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 900,
-      "Евсеев Дмитрий Александрович": 123,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 11,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 40,
-      "Порывкин Владимир Николаевич": 11,
-      "Стародубцев Дмитрий Александрович": 44,
-      "Шацкий Дмитрий Аркадьевич": 41,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 900,
+      "gas:candidate-vibid:376300270749": 123,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 11,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 40,
+      "gas:candidate-vibid:1001000136145": 11,
+      "gas:candidate-vibid:1001000217967": 44,
+      "gas:candidate-vibid:1001000190435": 41,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6222,17 +6222,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 982,
-      "Евсеев Дмитрий Александрович": 159,
-      "Кутузова Ольга Владимировна": 17,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 24,
-      "Порывкин Владимир Николаевич": 16,
-      "Стародубцев Дмитрий Александрович": 39,
-      "Шацкий Дмитрий Аркадьевич": 49,
-      "Против всех": 140
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 982,
+      "gas:candidate-vibid:376300270749": 159,
+      "gas:candidate-vibid:376300270322": 17,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 24,
+      "gas:candidate-vibid:1001000136145": 16,
+      "gas:candidate-vibid:1001000217967": 39,
+      "gas:candidate-vibid:1001000190435": 49,
+      "special:against-all": 140
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6282,17 +6282,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 816,
-      "Евсеев Дмитрий Александрович": 131,
-      "Кутузова Ольга Владимировна": 16,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 32,
-      "Порывкин Владимир Николаевич": 16,
-      "Стародубцев Дмитрий Александрович": 30,
-      "Шацкий Дмитрий Аркадьевич": 20,
-      "Против всех": 71
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 816,
+      "gas:candidate-vibid:376300270749": 131,
+      "gas:candidate-vibid:376300270322": 16,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 32,
+      "gas:candidate-vibid:1001000136145": 16,
+      "gas:candidate-vibid:1001000217967": 30,
+      "gas:candidate-vibid:1001000190435": 20,
+      "special:against-all": 71
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6342,17 +6342,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 767,
-      "Евсеев Дмитрий Александрович": 74,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 27,
-      "Порывкин Владимир Николаевич": 14,
-      "Стародубцев Дмитрий Александрович": 37,
-      "Шацкий Дмитрий Аркадьевич": 15,
-      "Против всех": 51
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 767,
+      "gas:candidate-vibid:376300270749": 74,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 27,
+      "gas:candidate-vibid:1001000136145": 14,
+      "gas:candidate-vibid:1001000217967": 37,
+      "gas:candidate-vibid:1001000190435": 15,
+      "special:against-all": 51
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6402,17 +6402,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 826,
-      "Евсеев Дмитрий Александрович": 102,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 15,
-      "Порывкин Владимир Николаевич": 18,
-      "Стародубцев Дмитрий Александрович": 25,
-      "Шацкий Дмитрий Аркадьевич": 35,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 826,
+      "gas:candidate-vibid:376300270749": 102,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 15,
+      "gas:candidate-vibid:1001000136145": 18,
+      "gas:candidate-vibid:1001000217967": 25,
+      "gas:candidate-vibid:1001000190435": 35,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6462,17 +6462,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 871,
-      "Евсеев Дмитрий Александрович": 163,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 13,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 27,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 30,
-      "Шацкий Дмитрий Аркадьевич": 18,
-      "Против всех": 91
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 871,
+      "gas:candidate-vibid:376300270749": 163,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 13,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 27,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 30,
+      "gas:candidate-vibid:1001000190435": 18,
+      "special:against-all": 91
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6522,17 +6522,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 779,
-      "Евсеев Дмитрий Александрович": 111,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 31,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 27,
-      "Против всех": 98
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 779,
+      "gas:candidate-vibid:376300270749": 111,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 31,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 27,
+      "special:against-all": 98
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6582,17 +6582,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 813,
-      "Евсеев Дмитрий Александрович": 123,
-      "Кутузова Ольга Владимировна": 9,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 33,
-      "Порывкин Владимир Николаевич": 11,
-      "Стародубцев Дмитрий Александрович": 29,
-      "Шацкий Дмитрий Аркадьевич": 31,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 813,
+      "gas:candidate-vibid:376300270749": 123,
+      "gas:candidate-vibid:376300270322": 9,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 33,
+      "gas:candidate-vibid:1001000136145": 11,
+      "gas:candidate-vibid:1001000217967": 29,
+      "gas:candidate-vibid:1001000190435": 31,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6642,17 +6642,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 671,
-      "Евсеев Дмитрий Александрович": 98,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 19,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 24,
-      "Шацкий Дмитрий Аркадьевич": 19,
-      "Против всех": 96
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 671,
+      "gas:candidate-vibid:376300270749": 98,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 19,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 24,
+      "gas:candidate-vibid:1001000190435": 19,
+      "special:against-all": 96
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6702,17 +6702,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 195,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 9,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 5,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 195,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 9,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 5,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6762,17 +6762,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 311,
-      "Евсеев Дмитрий Александрович": 108,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 11,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 11,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 311,
+      "gas:candidate-vibid:376300270749": 108,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 11,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 11,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6822,17 +6822,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 233,
-      "Евсеев Дмитрий Александрович": 20,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 10,
-      "Порывкин Владимир Николаевич": 7,
-      "Стародубцев Дмитрий Александрович": 23,
-      "Шацкий Дмитрий Аркадьевич": 10,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 233,
+      "gas:candidate-vibid:376300270749": 20,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 10,
+      "gas:candidate-vibid:1001000136145": 7,
+      "gas:candidate-vibid:1001000217967": 23,
+      "gas:candidate-vibid:1001000190435": 10,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6882,17 +6882,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 82,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 10,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 82,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 10,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -6942,17 +6942,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 199,
-      "Евсеев Дмитрий Александрович": 20,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 4,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 30
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 199,
+      "gas:candidate-vibid:376300270749": 20,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 4,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 30
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7002,17 +7002,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 112,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 14,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 112,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 14,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7062,17 +7062,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 558,
-      "Евсеев Дмитрий Александрович": 26,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 46,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 36
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 558,
+      "gas:candidate-vibid:376300270749": 26,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 46,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 36
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7122,17 +7122,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 189,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 22,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 189,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 22,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7182,17 +7182,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 72,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 4
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 72,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 4
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7242,17 +7242,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 202,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 202,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7302,17 +7302,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 198,
-      "Евсеев Дмитрий Александрович": 36,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 19,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 9,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 21
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 198,
+      "gas:candidate-vibid:376300270749": 36,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 19,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 9,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 21
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7362,17 +7362,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 133,
-      "Евсеев Дмитрий Александрович": 16,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 133,
+      "gas:candidate-vibid:376300270749": 16,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7422,17 +7422,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 125,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 17,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 125,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 17,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7482,17 +7482,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 250,
-      "Евсеев Дмитрий Александрович": 21,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 53,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 16,
-      "Шацкий Дмитрий Аркадьевич": 8,
-      "Против всех": 37
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 250,
+      "gas:candidate-vibid:376300270749": 21,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 53,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 16,
+      "gas:candidate-vibid:1001000190435": 8,
+      "special:against-all": 37
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7542,17 +7542,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 120,
-      "Евсеев Дмитрий Александрович": 16,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 10,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 120,
+      "gas:candidate-vibid:376300270749": 16,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 10,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7602,17 +7602,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 63,
-      "Евсеев Дмитрий Александрович": 46,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 63,
+      "gas:candidate-vibid:376300270749": 46,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7662,17 +7662,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 304,
-      "Евсеев Дмитрий Александрович": 29,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 19,
-      "Шацкий Дмитрий Аркадьевич": 14,
-      "Против всех": 47
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 304,
+      "gas:candidate-vibid:376300270749": 29,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 19,
+      "gas:candidate-vibid:1001000190435": 14,
+      "special:against-all": 47
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7722,17 +7722,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 259,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 18,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 259,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 18,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7782,17 +7782,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 124,
-      "Евсеев Дмитрий Александрович": 13,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 8,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 124,
+      "gas:candidate-vibid:376300270749": 13,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 8,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7842,17 +7842,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 250,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 24
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 250,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 24
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7902,17 +7902,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 73,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 9,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 9
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 73,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 9,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 9
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -7962,17 +7962,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 304,
-      "Евсеев Дмитрий Александрович": 24,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 9,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 15
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 304,
+      "gas:candidate-vibid:376300270749": 24,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 9,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 15
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8022,17 +8022,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 68,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 5,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 68,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 5,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8082,17 +8082,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 231,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 3,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 231,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 3,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8142,17 +8142,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 83,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 2,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 83,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 2,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8202,17 +8202,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 91,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 83,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 91,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 83,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8262,17 +8262,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 115,
-      "Евсеев Дмитрий Александрович": 15,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 2,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 115,
+      "gas:candidate-vibid:376300270749": 15,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 2,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8322,17 +8322,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 94,
-      "Евсеев Дмитрий Александрович": 0,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 6,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 3
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 94,
+      "gas:candidate-vibid:376300270749": 0,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 6,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 3
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8382,17 +8382,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 148,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 8,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 148,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 8,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8442,17 +8442,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 93,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 7,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 93,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 7,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8502,17 +8502,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 108,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 23
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 108,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 23
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8562,17 +8562,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 100,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 100,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8622,17 +8622,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 115,
-      "Евсеев Дмитрий Александрович": 17,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 38,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 115,
+      "gas:candidate-vibid:376300270749": 17,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 38,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8682,17 +8682,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 51,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 6,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 2
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 51,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 6,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 2
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8742,17 +8742,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 80,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 7,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 1
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 80,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 7,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 1
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8802,17 +8802,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 341,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 44,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 341,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 44,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8862,17 +8862,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 251,
-      "Евсеев Дмитрий Александрович": 17,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 27,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 251,
+      "gas:candidate-vibid:376300270749": 17,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 27,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8922,17 +8922,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 362,
-      "Евсеев Дмитрий Александрович": 61,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 9,
-      "Порывкин Владимир Николаевич": 7,
-      "Стародубцев Дмитрий Александрович": 18,
-      "Шацкий Дмитрий Аркадьевич": 8,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 362,
+      "gas:candidate-vibid:376300270749": 61,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 9,
+      "gas:candidate-vibid:1001000136145": 7,
+      "gas:candidate-vibid:1001000217967": 18,
+      "gas:candidate-vibid:1001000190435": 8,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000018&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070722&region=0&sub_region=0&type=429",
@@ -8982,17 +8982,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 574,
-      "Евсеев Дмитрий Александрович": 38,
-      "Кутузова Ольга Владимировна": 26,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 24,
-      "Порывкин Владимир Николаевич": 21,
-      "Стародубцев Дмитрий Александрович": 37,
-      "Шацкий Дмитрий Аркадьевич": 37,
-      "Против всех": 74
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 574,
+      "gas:candidate-vibid:376300270749": 38,
+      "gas:candidate-vibid:376300270322": 26,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 24,
+      "gas:candidate-vibid:1001000136145": 21,
+      "gas:candidate-vibid:1001000217967": 37,
+      "gas:candidate-vibid:1001000190435": 37,
+      "special:against-all": 74
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9042,17 +9042,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 449,
-      "Евсеев Дмитрий Александрович": 25,
-      "Кутузова Ольга Владимировна": 14,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 12,
-      "Стародубцев Дмитрий Александрович": 24,
-      "Шацкий Дмитрий Аркадьевич": 37,
-      "Против всех": 66
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 449,
+      "gas:candidate-vibid:376300270749": 25,
+      "gas:candidate-vibid:376300270322": 14,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 12,
+      "gas:candidate-vibid:1001000217967": 24,
+      "gas:candidate-vibid:1001000190435": 37,
+      "special:against-all": 66
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9102,17 +9102,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 469,
-      "Евсеев Дмитрий Александрович": 27,
-      "Кутузова Ольга Владимировна": 17,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 30,
-      "Порывкин Владимир Николаевич": 14,
-      "Стародубцев Дмитрий Александрович": 36,
-      "Шацкий Дмитрий Аркадьевич": 17,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 469,
+      "gas:candidate-vibid:376300270749": 27,
+      "gas:candidate-vibid:376300270322": 17,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 30,
+      "gas:candidate-vibid:1001000136145": 14,
+      "gas:candidate-vibid:1001000217967": 36,
+      "gas:candidate-vibid:1001000190435": 17,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9162,17 +9162,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 19,
-      "Грешневиков Анатолий Николаевич": 729,
-      "Евсеев Дмитрий Александрович": 44,
-      "Кутузова Ольга Владимировна": 15,
-      "Лазарева Наталия Александровна": 14,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 24,
-      "Порывкин Владимир Николаевич": 16,
-      "Стародубцев Дмитрий Александрович": 35,
-      "Шацкий Дмитрий Аркадьевич": 56,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000195161": 19,
+      "gas:candidate-vibid:1001000188024": 729,
+      "gas:candidate-vibid:376300270749": 44,
+      "gas:candidate-vibid:376300270322": 15,
+      "gas:candidate-vibid:376300270638": 14,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 24,
+      "gas:candidate-vibid:1001000136145": 16,
+      "gas:candidate-vibid:1001000217967": 35,
+      "gas:candidate-vibid:1001000190435": 56,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9222,17 +9222,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 1047,
-      "Евсеев Дмитрий Александрович": 42,
-      "Кутузова Ольга Владимировна": 20,
-      "Лазарева Наталия Александровна": 22,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 43,
-      "Порывкин Владимир Николаевич": 27,
-      "Стародубцев Дмитрий Александрович": 67,
-      "Шацкий Дмитрий Аркадьевич": 51,
-      "Против всех": 215
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 1047,
+      "gas:candidate-vibid:376300270749": 42,
+      "gas:candidate-vibid:376300270322": 20,
+      "gas:candidate-vibid:376300270638": 22,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 43,
+      "gas:candidate-vibid:1001000136145": 27,
+      "gas:candidate-vibid:1001000217967": 67,
+      "gas:candidate-vibid:1001000190435": 51,
+      "special:against-all": 215
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9282,17 +9282,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 568,
-      "Евсеев Дмитрий Александрович": 29,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 11,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 41,
-      "Порывкин Владимир Николаевич": 13,
-      "Стародубцев Дмитрий Александрович": 26,
-      "Шацкий Дмитрий Аркадьевич": 24,
-      "Против всех": 108
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 568,
+      "gas:candidate-vibid:376300270749": 29,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 11,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 41,
+      "gas:candidate-vibid:1001000136145": 13,
+      "gas:candidate-vibid:1001000217967": 26,
+      "gas:candidate-vibid:1001000190435": 24,
+      "special:against-all": 108
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9342,17 +9342,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 670,
-      "Евсеев Дмитрий Александрович": 45,
-      "Кутузова Ольга Владимировна": 14,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 55,
-      "Порывкин Владимир Николаевич": 19,
-      "Стародубцев Дмитрий Александрович": 42,
-      "Шацкий Дмитрий Аркадьевич": 45,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 670,
+      "gas:candidate-vibid:376300270749": 45,
+      "gas:candidate-vibid:376300270322": 14,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 55,
+      "gas:candidate-vibid:1001000136145": 19,
+      "gas:candidate-vibid:1001000217967": 42,
+      "gas:candidate-vibid:1001000190435": 45,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9402,17 +9402,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 14,
-      "Грешневиков Анатолий Николаевич": 748,
-      "Евсеев Дмитрий Александрович": 63,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 13,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 39,
-      "Порывкин Владимир Николаевич": 30,
-      "Стародубцев Дмитрий Александрович": 42,
-      "Шацкий Дмитрий Аркадьевич": 35,
-      "Против всех": 195
+      "gas:candidate-vibid:1001000195161": 14,
+      "gas:candidate-vibid:1001000188024": 748,
+      "gas:candidate-vibid:376300270749": 63,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 13,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 39,
+      "gas:candidate-vibid:1001000136145": 30,
+      "gas:candidate-vibid:1001000217967": 42,
+      "gas:candidate-vibid:1001000190435": 35,
+      "special:against-all": 195
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9462,17 +9462,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 919,
-      "Евсеев Дмитрий Александрович": 49,
-      "Кутузова Ольга Владимировна": 18,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 59,
-      "Порывкин Владимир Николаевич": 24,
-      "Стародубцев Дмитрий Александрович": 62,
-      "Шацкий Дмитрий Аркадьевич": 26,
-      "Против всех": 219
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 919,
+      "gas:candidate-vibid:376300270749": 49,
+      "gas:candidate-vibid:376300270322": 18,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 59,
+      "gas:candidate-vibid:1001000136145": 24,
+      "gas:candidate-vibid:1001000217967": 62,
+      "gas:candidate-vibid:1001000190435": 26,
+      "special:against-all": 219
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9522,17 +9522,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 828,
-      "Евсеев Дмитрий Александрович": 36,
-      "Кутузова Ольга Владимировна": 21,
-      "Лазарева Наталия Александровна": 17,
-      "Мянко Виктор Иванович": 16,
-      "Попович Руслан Алексеевич": 83,
-      "Порывкин Владимир Николаевич": 38,
-      "Стародубцев Дмитрий Александрович": 44,
-      "Шацкий Дмитрий Аркадьевич": 45,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 828,
+      "gas:candidate-vibid:376300270749": 36,
+      "gas:candidate-vibid:376300270322": 21,
+      "gas:candidate-vibid:376300270638": 17,
+      "gas:candidate-vibid:1001000121288": 16,
+      "gas:candidate-vibid:1001000226003": 83,
+      "gas:candidate-vibid:1001000136145": 38,
+      "gas:candidate-vibid:1001000217967": 44,
+      "gas:candidate-vibid:1001000190435": 45,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9582,17 +9582,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 758,
-      "Евсеев Дмитрий Александрович": 47,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 14,
-      "Мянко Виктор Иванович": 17,
-      "Попович Руслан Алексеевич": 58,
-      "Порывкин Владимир Николаевич": 33,
-      "Стародубцев Дмитрий Александрович": 36,
-      "Шацкий Дмитрий Аркадьевич": 54,
-      "Против всех": 206
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 758,
+      "gas:candidate-vibid:376300270749": 47,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 14,
+      "gas:candidate-vibid:1001000121288": 17,
+      "gas:candidate-vibid:1001000226003": 58,
+      "gas:candidate-vibid:1001000136145": 33,
+      "gas:candidate-vibid:1001000217967": 36,
+      "gas:candidate-vibid:1001000190435": 54,
+      "special:against-all": 206
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9642,17 +9642,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 14,
-      "Грешневиков Анатолий Николаевич": 951,
-      "Евсеев Дмитрий Александрович": 59,
-      "Кутузова Ольга Владимировна": 16,
-      "Лазарева Наталия Александровна": 18,
-      "Мянко Виктор Иванович": 31,
-      "Попович Руслан Алексеевич": 69,
-      "Порывкин Владимир Николаевич": 45,
-      "Стародубцев Дмитрий Александрович": 66,
-      "Шацкий Дмитрий Аркадьевич": 59,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000195161": 14,
+      "gas:candidate-vibid:1001000188024": 951,
+      "gas:candidate-vibid:376300270749": 59,
+      "gas:candidate-vibid:376300270322": 16,
+      "gas:candidate-vibid:376300270638": 18,
+      "gas:candidate-vibid:1001000121288": 31,
+      "gas:candidate-vibid:1001000226003": 69,
+      "gas:candidate-vibid:1001000136145": 45,
+      "gas:candidate-vibid:1001000217967": 66,
+      "gas:candidate-vibid:1001000190435": 59,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9702,17 +9702,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 16,
-      "Грешневиков Анатолий Николаевич": 1017,
-      "Евсеев Дмитрий Александрович": 55,
-      "Кутузова Ольга Владимировна": 33,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 51,
-      "Попович Руслан Алексеевич": 73,
-      "Порывкин Владимир Николаевич": 37,
-      "Стародубцев Дмитрий Александрович": 64,
-      "Шацкий Дмитрий Аркадьевич": 40,
-      "Против всех": 273
+      "gas:candidate-vibid:1001000195161": 16,
+      "gas:candidate-vibid:1001000188024": 1017,
+      "gas:candidate-vibid:376300270749": 55,
+      "gas:candidate-vibid:376300270322": 33,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 51,
+      "gas:candidate-vibid:1001000226003": 73,
+      "gas:candidate-vibid:1001000136145": 37,
+      "gas:candidate-vibid:1001000217967": 64,
+      "gas:candidate-vibid:1001000190435": 40,
+      "special:against-all": 273
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9762,17 +9762,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 13,
-      "Грешневиков Анатолий Николаевич": 935,
-      "Евсеев Дмитрий Александрович": 43,
-      "Кутузова Ольга Владимировна": 19,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 23,
-      "Попович Руслан Алексеевич": 74,
-      "Порывкин Владимир Николаевич": 33,
-      "Стародубцев Дмитрий Александрович": 74,
-      "Шацкий Дмитрий Аркадьевич": 42,
-      "Против всех": 225
+      "gas:candidate-vibid:1001000195161": 13,
+      "gas:candidate-vibid:1001000188024": 935,
+      "gas:candidate-vibid:376300270749": 43,
+      "gas:candidate-vibid:376300270322": 19,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 23,
+      "gas:candidate-vibid:1001000226003": 74,
+      "gas:candidate-vibid:1001000136145": 33,
+      "gas:candidate-vibid:1001000217967": 74,
+      "gas:candidate-vibid:1001000190435": 42,
+      "special:against-all": 225
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9822,17 +9822,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 12,
-      "Грешневиков Анатолий Николаевич": 709,
-      "Евсеев Дмитрий Александрович": 44,
-      "Кутузова Ольга Владимировна": 21,
-      "Лазарева Наталия Александровна": 18,
-      "Мянко Виктор Иванович": 15,
-      "Попович Руслан Алексеевич": 56,
-      "Порывкин Владимир Николаевич": 36,
-      "Стародубцев Дмитрий Александрович": 41,
-      "Шацкий Дмитрий Аркадьевич": 59,
-      "Против всех": 234
+      "gas:candidate-vibid:1001000195161": 12,
+      "gas:candidate-vibid:1001000188024": 709,
+      "gas:candidate-vibid:376300270749": 44,
+      "gas:candidate-vibid:376300270322": 21,
+      "gas:candidate-vibid:376300270638": 18,
+      "gas:candidate-vibid:1001000121288": 15,
+      "gas:candidate-vibid:1001000226003": 56,
+      "gas:candidate-vibid:1001000136145": 36,
+      "gas:candidate-vibid:1001000217967": 41,
+      "gas:candidate-vibid:1001000190435": 59,
+      "special:against-all": 234
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9882,17 +9882,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 1007,
-      "Евсеев Дмитрий Александрович": 47,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 16,
-      "Попович Руслан Алексеевич": 24,
-      "Порывкин Владимир Николаевич": 18,
-      "Стародубцев Дмитрий Александрович": 59,
-      "Шацкий Дмитрий Аркадьевич": 36,
-      "Против всех": 187
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 1007,
+      "gas:candidate-vibid:376300270749": 47,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 16,
+      "gas:candidate-vibid:1001000226003": 24,
+      "gas:candidate-vibid:1001000136145": 18,
+      "gas:candidate-vibid:1001000217967": 59,
+      "gas:candidate-vibid:1001000190435": 36,
+      "special:against-all": 187
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -9942,17 +9942,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 12,
-      "Грешневиков Анатолий Николаевич": 934,
-      "Евсеев Дмитрий Александрович": 41,
-      "Кутузова Ольга Владимировна": 21,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 17,
-      "Попович Руслан Алексеевич": 26,
-      "Порывкин Владимир Николаевич": 20,
-      "Стародубцев Дмитрий Александрович": 45,
-      "Шацкий Дмитрий Аркадьевич": 44,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000195161": 12,
+      "gas:candidate-vibid:1001000188024": 934,
+      "gas:candidate-vibid:376300270749": 41,
+      "gas:candidate-vibid:376300270322": 21,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 17,
+      "gas:candidate-vibid:1001000226003": 26,
+      "gas:candidate-vibid:1001000136145": 20,
+      "gas:candidate-vibid:1001000217967": 45,
+      "gas:candidate-vibid:1001000190435": 44,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10002,17 +10002,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 133,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 15,
-      "Шацкий Дмитрий Аркадьевич": 22,
-      "Против всех": 20
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 133,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 15,
+      "gas:candidate-vibid:1001000190435": 22,
+      "special:against-all": 20
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10062,17 +10062,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 45,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 8,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 45,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 8,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10122,17 +10122,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 204,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 30,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 29
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 204,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 30,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 29
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10182,17 +10182,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 112,
-      "Евсеев Дмитрий Александрович": 31,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 19,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 112,
+      "gas:candidate-vibid:376300270749": 31,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 19,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10242,17 +10242,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 202,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 68,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 202,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 68,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10302,17 +10302,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 126,
-      "Евсеев Дмитрий Александрович": 6,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 15,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 126,
+      "gas:candidate-vibid:376300270749": 6,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 15,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10362,17 +10362,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 92,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 24,
-      "Шацкий Дмитрий Аркадьевич": 14,
-      "Против всех": 17
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 92,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 24,
+      "gas:candidate-vibid:1001000190435": 14,
+      "special:against-all": 17
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10422,17 +10422,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 69,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 4,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 69,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 4,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10482,17 +10482,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 154,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 22,
-      "Шацкий Дмитрий Аркадьевич": 13,
-      "Против всех": 5
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 154,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 22,
+      "gas:candidate-vibid:1001000190435": 13,
+      "special:against-all": 5
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10542,17 +10542,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 113,
-      "Евсеев Дмитрий Александрович": 16,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 62,
-      "Шацкий Дмитрий Аркадьевич": 12,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 113,
+      "gas:candidate-vibid:376300270749": 16,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 62,
+      "gas:candidate-vibid:1001000190435": 12,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10602,17 +10602,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 142,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 1,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 142,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 1,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10662,17 +10662,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 53,
-      "Евсеев Дмитрий Александрович": 1,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 10,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 6
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 53,
+      "gas:candidate-vibid:376300270749": 1,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 10,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 6
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10722,17 +10722,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 84,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 3,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 9,
-      "Шацкий Дмитрий Аркадьевич": 10,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 84,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 3,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 9,
+      "gas:candidate-vibid:1001000190435": 10,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10782,17 +10782,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 67,
-      "Евсеев Дмитрий Александрович": 3,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 4,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 67,
+      "gas:candidate-vibid:376300270749": 3,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 4,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10842,17 +10842,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 73,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 6,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 8
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 73,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 6,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 8
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10902,17 +10902,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 112,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 42,
-      "Шацкий Дмитрий Аркадьевич": 8,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 112,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 42,
+      "gas:candidate-vibid:1001000190435": 8,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -10962,17 +10962,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 114,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 23,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 114,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 23,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -11022,17 +11022,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 51,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 1,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 51,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 1,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -11082,17 +11082,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 368,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 9,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 9,
-      "Стародубцев Дмитрий Александрович": 14,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 39
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 368,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 9,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 9,
+      "gas:candidate-vibid:1001000217967": 14,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 39
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -11142,17 +11142,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 929,
-      "Евсеев Дмитрий Александрович": 28,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 35,
-      "Порывкин Владимир Николаевич": 17,
-      "Стародубцев Дмитрий Александрович": 50,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 929,
+      "gas:candidate-vibid:376300270749": 28,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 35,
+      "gas:candidate-vibid:1001000136145": 17,
+      "gas:candidate-vibid:1001000217967": 50,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -11202,17 +11202,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 147,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 22,
-      "Шацкий Дмитрий Аркадьевич": 22,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 147,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 22,
+      "gas:candidate-vibid:1001000190435": 22,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -11262,17 +11262,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 140,
-      "Евсеев Дмитрий Александрович": 7,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 46,
-      "Шацкий Дмитрий Аркадьевич": 58,
-      "Против всех": 61
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 140,
+      "gas:candidate-vibid:376300270749": 7,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 46,
+      "gas:candidate-vibid:1001000190435": 58,
+      "special:against-all": 61
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000019&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070723&region=0&sub_region=0&type=429",
@@ -11322,17 +11322,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 650,
-      "Евсеев Дмитрий Александрович": 71,
-      "Кутузова Ольга Владимировна": 27,
-      "Лазарева Наталия Александровна": 15,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 38,
-      "Порывкин Владимир Николаевич": 25,
-      "Стародубцев Дмитрий Александрович": 26,
-      "Шацкий Дмитрий Аркадьевич": 72,
-      "Против всех": 156
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 650,
+      "gas:candidate-vibid:376300270749": 71,
+      "gas:candidate-vibid:376300270322": 27,
+      "gas:candidate-vibid:376300270638": 15,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 38,
+      "gas:candidate-vibid:1001000136145": 25,
+      "gas:candidate-vibid:1001000217967": 26,
+      "gas:candidate-vibid:1001000190435": 72,
+      "special:against-all": 156
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11382,17 +11382,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 708,
-      "Евсеев Дмитрий Александрович": 59,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 45,
-      "Порывкин Владимир Николаевич": 20,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 59,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 708,
+      "gas:candidate-vibid:376300270749": 59,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 45,
+      "gas:candidate-vibid:1001000136145": 20,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 59,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11442,17 +11442,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 819,
-      "Евсеев Дмитрий Александрович": 83,
-      "Кутузова Ольга Владимировна": 28,
-      "Лазарева Наталия Александровна": 15,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 72,
-      "Порывкин Владимир Николаевич": 28,
-      "Стародубцев Дмитрий Александрович": 55,
-      "Шацкий Дмитрий Аркадьевич": 40,
-      "Против всех": 184
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 819,
+      "gas:candidate-vibid:376300270749": 83,
+      "gas:candidate-vibid:376300270322": 28,
+      "gas:candidate-vibid:376300270638": 15,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 72,
+      "gas:candidate-vibid:1001000136145": 28,
+      "gas:candidate-vibid:1001000217967": 55,
+      "gas:candidate-vibid:1001000190435": 40,
+      "special:against-all": 184
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11502,17 +11502,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 14,
-      "Грешневиков Анатолий Николаевич": 683,
-      "Евсеев Дмитрий Александрович": 76,
-      "Кутузова Ольга Владимировна": 9,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 39,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 28,
-      "Шацкий Дмитрий Аркадьевич": 41,
-      "Против всех": 89
+      "gas:candidate-vibid:1001000195161": 14,
+      "gas:candidate-vibid:1001000188024": 683,
+      "gas:candidate-vibid:376300270749": 76,
+      "gas:candidate-vibid:376300270322": 9,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 39,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 28,
+      "gas:candidate-vibid:1001000190435": 41,
+      "special:against-all": 89
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11562,17 +11562,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 494,
-      "Евсеев Дмитрий Александрович": 53,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 18,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 17,
-      "Стародубцев Дмитрий Александрович": 28,
-      "Шацкий Дмитрий Аркадьевич": 44,
-      "Против всех": 75
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 494,
+      "gas:candidate-vibid:376300270749": 53,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 18,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 17,
+      "gas:candidate-vibid:1001000217967": 28,
+      "gas:candidate-vibid:1001000190435": 44,
+      "special:against-all": 75
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11622,17 +11622,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 622,
-      "Евсеев Дмитрий Александрович": 72,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 7,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 22,
-      "Порывкин Владимир Николаевич": 14,
-      "Стародубцев Дмитрий Александрович": 29,
-      "Шацкий Дмитрий Аркадьевич": 32,
-      "Против всех": 79
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 622,
+      "gas:candidate-vibid:376300270749": 72,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 7,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 22,
+      "gas:candidate-vibid:1001000136145": 14,
+      "gas:candidate-vibid:1001000217967": 29,
+      "gas:candidate-vibid:1001000190435": 32,
+      "special:against-all": 79
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11682,17 +11682,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 7,
-      "Грешневиков Анатолий Николаевич": 830,
-      "Евсеев Дмитрий Александрович": 81,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 52,
-      "Порывкин Владимир Николаевич": 21,
-      "Стародубцев Дмитрий Александрович": 35,
-      "Шацкий Дмитрий Аркадьевич": 47,
-      "Против всех": 117
+      "gas:candidate-vibid:1001000195161": 7,
+      "gas:candidate-vibid:1001000188024": 830,
+      "gas:candidate-vibid:376300270749": 81,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 52,
+      "gas:candidate-vibid:1001000136145": 21,
+      "gas:candidate-vibid:1001000217967": 35,
+      "gas:candidate-vibid:1001000190435": 47,
+      "special:against-all": 117
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11742,17 +11742,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 20,
-      "Грешневиков Анатолий Николаевич": 600,
-      "Евсеев Дмитрий Александрович": 84,
-      "Кутузова Ольга Владимировна": 15,
-      "Лазарева Наталия Александровна": 21,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 67,
-      "Порывкин Владимир Николаевич": 24,
-      "Стародубцев Дмитрий Александрович": 28,
-      "Шацкий Дмитрий Аркадьевич": 37,
-      "Против всех": 138
+      "gas:candidate-vibid:1001000195161": 20,
+      "gas:candidate-vibid:1001000188024": 600,
+      "gas:candidate-vibid:376300270749": 84,
+      "gas:candidate-vibid:376300270322": 15,
+      "gas:candidate-vibid:376300270638": 21,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 67,
+      "gas:candidate-vibid:1001000136145": 24,
+      "gas:candidate-vibid:1001000217967": 28,
+      "gas:candidate-vibid:1001000190435": 37,
+      "special:against-all": 138
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11802,17 +11802,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 744,
-      "Евсеев Дмитрий Александрович": 101,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 12,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 44,
-      "Порывкин Владимир Николаевич": 23,
-      "Стародубцев Дмитрий Александрович": 26,
-      "Шацкий Дмитрий Аркадьевич": 18,
-      "Против всех": 103
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 744,
+      "gas:candidate-vibid:376300270749": 101,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 12,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 44,
+      "gas:candidate-vibid:1001000136145": 23,
+      "gas:candidate-vibid:1001000217967": 26,
+      "gas:candidate-vibid:1001000190435": 18,
+      "special:against-all": 103
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11862,17 +11862,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 994,
-      "Евсеев Дмитрий Александрович": 111,
-      "Кутузова Ольга Владимировна": 11,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 60,
-      "Порывкин Владимир Николаевич": 20,
-      "Стародубцев Дмитрий Александрович": 61,
-      "Шацкий Дмитрий Аркадьевич": 29,
-      "Против всех": 145
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 994,
+      "gas:candidate-vibid:376300270749": 111,
+      "gas:candidate-vibid:376300270322": 11,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 60,
+      "gas:candidate-vibid:1001000136145": 20,
+      "gas:candidate-vibid:1001000217967": 61,
+      "gas:candidate-vibid:1001000190435": 29,
+      "special:against-all": 145
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11922,17 +11922,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 1154,
-      "Евсеев Дмитрий Александрович": 85,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 14,
-      "Попович Руслан Алексеевич": 72,
-      "Порывкин Владимир Николаевич": 28,
-      "Стародубцев Дмитрий Александрович": 56,
-      "Шацкий Дмитрий Аркадьевич": 71,
-      "Против всех": 163
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 1154,
+      "gas:candidate-vibid:376300270749": 85,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 14,
+      "gas:candidate-vibid:1001000226003": 72,
+      "gas:candidate-vibid:1001000136145": 28,
+      "gas:candidate-vibid:1001000217967": 56,
+      "gas:candidate-vibid:1001000190435": 71,
+      "special:against-all": 163
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -11982,17 +11982,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 14,
-      "Грешневиков Анатолий Николаевич": 983,
-      "Евсеев Дмитрий Александрович": 75,
-      "Кутузова Ольга Владимировна": 19,
-      "Лазарева Наталия Александровна": 17,
-      "Мянко Виктор Иванович": 8,
-      "Попович Руслан Алексеевич": 61,
-      "Порывкин Владимир Николаевич": 34,
-      "Стародубцев Дмитрий Александрович": 36,
-      "Шацкий Дмитрий Аркадьевич": 44,
-      "Против всех": 172
+      "gas:candidate-vibid:1001000195161": 14,
+      "gas:candidate-vibid:1001000188024": 983,
+      "gas:candidate-vibid:376300270749": 75,
+      "gas:candidate-vibid:376300270322": 19,
+      "gas:candidate-vibid:376300270638": 17,
+      "gas:candidate-vibid:1001000121288": 8,
+      "gas:candidate-vibid:1001000226003": 61,
+      "gas:candidate-vibid:1001000136145": 34,
+      "gas:candidate-vibid:1001000217967": 36,
+      "gas:candidate-vibid:1001000190435": 44,
+      "special:against-all": 172
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12042,17 +12042,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 12,
-      "Грешневиков Анатолий Николаевич": 1177,
-      "Евсеев Дмитрий Александрович": 75,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 10,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 54,
-      "Порывкин Владимир Николаевич": 29,
-      "Стародубцев Дмитрий Александрович": 46,
-      "Шацкий Дмитрий Аркадьевич": 27,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195161": 12,
+      "gas:candidate-vibid:1001000188024": 1177,
+      "gas:candidate-vibid:376300270749": 75,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 10,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 54,
+      "gas:candidate-vibid:1001000136145": 29,
+      "gas:candidate-vibid:1001000217967": 46,
+      "gas:candidate-vibid:1001000190435": 27,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12102,17 +12102,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 376,
-      "Евсеев Дмитрий Александрович": 38,
-      "Кутузова Ольга Владимировна": 15,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 29,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 50,
-      "Шацкий Дмитрий Аркадьевич": 16,
-      "Против всех": 46
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 376,
+      "gas:candidate-vibid:376300270749": 38,
+      "gas:candidate-vibid:376300270322": 15,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 29,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 50,
+      "gas:candidate-vibid:1001000190435": 16,
+      "special:against-all": 46
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12162,17 +12162,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 712,
-      "Евсеев Дмитрий Александрович": 54,
-      "Кутузова Ольга Владимировна": 27,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 8,
-      "Попович Руслан Алексеевич": 23,
-      "Порывкин Владимир Николаевич": 20,
-      "Стародубцев Дмитрий Александрович": 135,
-      "Шацкий Дмитрий Аркадьевич": 23,
-      "Против всех": 124
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 712,
+      "gas:candidate-vibid:376300270749": 54,
+      "gas:candidate-vibid:376300270322": 27,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 8,
+      "gas:candidate-vibid:1001000226003": 23,
+      "gas:candidate-vibid:1001000136145": 20,
+      "gas:candidate-vibid:1001000217967": 135,
+      "gas:candidate-vibid:1001000190435": 23,
+      "special:against-all": 124
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12222,17 +12222,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 90,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 205,
-      "Шацкий Дмитрий Аркадьевич": 8,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 90,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 205,
+      "gas:candidate-vibid:1001000190435": 8,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12282,17 +12282,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 25,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 0,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 39,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 11
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 25,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 0,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 39,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 11
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12342,17 +12342,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 162,
-      "Евсеев Дмитрий Александрович": 13,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 81,
-      "Шацкий Дмитрий Аркадьевич": 9,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 162,
+      "gas:candidate-vibid:376300270749": 13,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 81,
+      "gas:candidate-vibid:1001000190435": 9,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12402,17 +12402,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 8,
-      "Грешневиков Анатолий Николаевич": 137,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 22,
-      "Попович Руслан Алексеевич": 23,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 26,
-      "Шацкий Дмитрий Аркадьевич": 14,
-      "Против всех": 38
+      "gas:candidate-vibid:1001000195161": 8,
+      "gas:candidate-vibid:1001000188024": 137,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 22,
+      "gas:candidate-vibid:1001000226003": 23,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 26,
+      "gas:candidate-vibid:1001000190435": 14,
+      "special:against-all": 38
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12462,17 +12462,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 370,
-      "Евсеев Дмитрий Александрович": 52,
-      "Кутузова Ольга Владимировна": 14,
-      "Лазарева Наталия Александровна": 15,
-      "Мянко Виктор Иванович": 15,
-      "Попович Руслан Алексеевич": 36,
-      "Порывкин Владимир Николаевич": 12,
-      "Стародубцев Дмитрий Александрович": 46,
-      "Шацкий Дмитрий Аркадьевич": 13,
-      "Против всех": 113
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 370,
+      "gas:candidate-vibid:376300270749": 52,
+      "gas:candidate-vibid:376300270322": 14,
+      "gas:candidate-vibid:376300270638": 15,
+      "gas:candidate-vibid:1001000121288": 15,
+      "gas:candidate-vibid:1001000226003": 36,
+      "gas:candidate-vibid:1001000136145": 12,
+      "gas:candidate-vibid:1001000217967": 46,
+      "gas:candidate-vibid:1001000190435": 13,
+      "special:against-all": 113
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12522,17 +12522,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 75,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 9,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 23,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 75,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 9,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 23,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12582,17 +12582,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 107,
-      "Евсеев Дмитрий Александрович": 10,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 10,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 21,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 107,
+      "gas:candidate-vibid:376300270749": 10,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 10,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 21,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12642,17 +12642,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 75,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 16,
-      "Шацкий Дмитрий Аркадьевич": 5,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 75,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 16,
+      "gas:candidate-vibid:1001000190435": 5,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12702,17 +12702,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 74,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 1,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 5,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 7,
-      "Против всех": 16
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 74,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 1,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 5,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 7,
+      "special:against-all": 16
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12762,17 +12762,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 67,
-      "Евсеев Дмитрий Александрович": 15,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 10,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 67,
+      "gas:candidate-vibid:376300270749": 15,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 10,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12822,17 +12822,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 139,
-      "Евсеев Дмитрий Александрович": 21,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 9,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 10,
-      "Против всех": 19
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 139,
+      "gas:candidate-vibid:376300270749": 21,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 9,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 10,
+      "special:against-all": 19
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12882,17 +12882,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 78,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 0,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 3,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 10
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 78,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 0,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 3,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 10
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -12942,17 +12942,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 203,
-      "Евсеев Дмитрий Александрович": 23,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 11,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 21,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 32
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 203,
+      "gas:candidate-vibid:376300270749": 23,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 11,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 21,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 32
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13002,17 +13002,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 76,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 16,
-      "Шацкий Дмитрий Аркадьевич": 0,
-      "Против всех": 7
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 76,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 16,
+      "gas:candidate-vibid:1001000190435": 0,
+      "special:against-all": 7
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13062,17 +13062,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 912,
-      "Евсеев Дмитрий Александрович": 81,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 64,
-      "Порывкин Владимир Николаевич": 12,
-      "Стародубцев Дмитрий Александрович": 59,
-      "Шацкий Дмитрий Аркадьевич": 13,
-      "Против всех": 107
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 912,
+      "gas:candidate-vibid:376300270749": 81,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 64,
+      "gas:candidate-vibid:1001000136145": 12,
+      "gas:candidate-vibid:1001000217967": 59,
+      "gas:candidate-vibid:1001000190435": 13,
+      "special:against-all": 107
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13122,17 +13122,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 971,
-      "Евсеев Дмитрий Александрович": 62,
-      "Кутузова Ольга Владимировна": 13,
-      "Лазарева Наталия Александровна": 9,
-      "Мянко Виктор Иванович": 11,
-      "Попович Руслан Алексеевич": 46,
-      "Порывкин Владимир Николаевич": 18,
-      "Стародубцев Дмитрий Александрович": 37,
-      "Шацкий Дмитрий Аркадьевич": 23,
-      "Против всех": 121
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 971,
+      "gas:candidate-vibid:376300270749": 62,
+      "gas:candidate-vibid:376300270322": 13,
+      "gas:candidate-vibid:376300270638": 9,
+      "gas:candidate-vibid:1001000121288": 11,
+      "gas:candidate-vibid:1001000226003": 46,
+      "gas:candidate-vibid:1001000136145": 18,
+      "gas:candidate-vibid:1001000217967": 37,
+      "gas:candidate-vibid:1001000190435": 23,
+      "special:against-all": 121
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13182,17 +13182,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 112,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 4,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 13,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 14
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 112,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 4,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 13,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 14
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13242,17 +13242,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 125,
-      "Евсеев Дмитрий Александрович": 20,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 46,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 70,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 125,
+      "gas:candidate-vibid:376300270749": 20,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 46,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 70,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13302,17 +13302,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 155,
-      "Евсеев Дмитрий Александрович": 19,
-      "Кутузова Ольга Владимировна": 2,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 3,
-      "Стародубцев Дмитрий Александрович": 8,
-      "Шацкий Дмитрий Аркадьевич": 21,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 155,
+      "gas:candidate-vibid:376300270749": 19,
+      "gas:candidate-vibid:376300270322": 2,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 3,
+      "gas:candidate-vibid:1001000217967": 8,
+      "gas:candidate-vibid:1001000190435": 21,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13362,17 +13362,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 556,
-      "Евсеев Дмитрий Александрович": 40,
-      "Кутузова Ольга Владимировна": 9,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 16,
-      "Порывкин Владимир Николаевич": 16,
-      "Стародубцев Дмитрий Александрович": 38,
-      "Шацкий Дмитрий Аркадьевич": 18,
-      "Против всех": 84
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 556,
+      "gas:candidate-vibid:376300270749": 40,
+      "gas:candidate-vibid:376300270322": 9,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 16,
+      "gas:candidate-vibid:1001000136145": 16,
+      "gas:candidate-vibid:1001000217967": 38,
+      "gas:candidate-vibid:1001000190435": 18,
+      "special:against-all": 84
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13422,17 +13422,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 137,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 7,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 0,
-      "Стародубцев Дмитрий Александрович": 22,
-      "Шацкий Дмитрий Аркадьевич": 4,
-      "Против всех": 22
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 137,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 7,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 0,
+      "gas:candidate-vibid:1001000217967": 22,
+      "gas:candidate-vibid:1001000190435": 4,
+      "special:against-all": 22
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13482,17 +13482,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 149,
-      "Евсеев Дмитрий Александрович": 11,
-      "Кутузова Ольга Владимировна": 0,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 1,
-      "Стародубцев Дмитрий Александрович": 16,
-      "Шацкий Дмитрий Аркадьевич": 11,
-      "Против всех": 25
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 149,
+      "gas:candidate-vibid:376300270749": 11,
+      "gas:candidate-vibid:376300270322": 0,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 1,
+      "gas:candidate-vibid:1001000217967": 16,
+      "gas:candidate-vibid:1001000190435": 11,
+      "special:against-all": 25
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13542,17 +13542,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 46,
-      "Евсеев Дмитрий Александрович": 5,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 2,
-      "Мянко Виктор Иванович": 3,
-      "Попович Руслан Алексеевич": 7,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 1,
-      "Против всех": 27
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 46,
+      "gas:candidate-vibid:376300270749": 5,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 2,
+      "gas:candidate-vibid:1001000121288": 3,
+      "gas:candidate-vibid:1001000226003": 7,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 1,
+      "special:against-all": 27
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13602,17 +13602,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 297,
-      "Евсеев Дмитрий Александрович": 14,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 34,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 18
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 297,
+      "gas:candidate-vibid:376300270749": 14,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 34,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 18
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13662,17 +13662,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 2,
-      "Грешневиков Анатолий Николаевич": 129,
-      "Евсеев Дмитрий Александрович": 9,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 5,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 8,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 17,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 2,
+      "gas:candidate-vibid:1001000188024": 129,
+      "gas:candidate-vibid:376300270749": 9,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 5,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 8,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 17,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13722,17 +13722,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 5,
-      "Грешневиков Анатолий Николаевич": 116,
-      "Евсеев Дмитрий Александрович": 15,
-      "Кутузова Ольга Владимировна": 8,
-      "Лазарева Наталия Александровна": 14,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 12,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 29,
-      "Шацкий Дмитрий Аркадьевич": 21,
-      "Против всех": 34
+      "gas:candidate-vibid:1001000195161": 5,
+      "gas:candidate-vibid:1001000188024": 116,
+      "gas:candidate-vibid:376300270749": 15,
+      "gas:candidate-vibid:376300270322": 8,
+      "gas:candidate-vibid:376300270638": 14,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 12,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 29,
+      "gas:candidate-vibid:1001000190435": 21,
+      "special:against-all": 34
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13782,17 +13782,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 1,
-      "Грешневиков Анатолий Николаевич": 138,
-      "Евсеев Дмитрий Александрович": 4,
-      "Кутузова Ольга Владимировна": 3,
-      "Лазарева Наталия Александровна": 1,
-      "Мянко Виктор Иванович": 7,
-      "Попович Руслан Алексеевич": 4,
-      "Порывкин Владимир Николаевич": 2,
-      "Стародубцев Дмитрий Александрович": 9,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 12
+      "gas:candidate-vibid:1001000195161": 1,
+      "gas:candidate-vibid:1001000188024": 138,
+      "gas:candidate-vibid:376300270749": 4,
+      "gas:candidate-vibid:376300270322": 3,
+      "gas:candidate-vibid:376300270638": 1,
+      "gas:candidate-vibid:1001000121288": 7,
+      "gas:candidate-vibid:1001000226003": 4,
+      "gas:candidate-vibid:1001000136145": 2,
+      "gas:candidate-vibid:1001000217967": 9,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 12
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13842,17 +13842,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 279,
-      "Евсеев Дмитрий Александрович": 12,
-      "Кутузова Ольга Владимировна": 5,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 14,
-      "Порывкин Владимир Николаевич": 8,
-      "Стародубцев Дмитрий Александрович": 32,
-      "Шацкий Дмитрий Аркадьевич": 42,
-      "Против всех": 45
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 279,
+      "gas:candidate-vibid:376300270749": 12,
+      "gas:candidate-vibid:376300270322": 5,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 14,
+      "gas:candidate-vibid:1001000136145": 8,
+      "gas:candidate-vibid:1001000217967": 32,
+      "gas:candidate-vibid:1001000190435": 42,
+      "special:against-all": 45
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13902,17 +13902,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 219,
-      "Евсеев Дмитрий Александрович": 54,
-      "Кутузова Ольга Владимировна": 10,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 2,
-      "Попович Руслан Алексеевич": 21,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 33,
-      "Шацкий Дмитрий Аркадьевич": 19,
-      "Против всех": 77
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 219,
+      "gas:candidate-vibid:376300270749": 54,
+      "gas:candidate-vibid:376300270322": 10,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 2,
+      "gas:candidate-vibid:1001000226003": 21,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 33,
+      "gas:candidate-vibid:1001000190435": 19,
+      "special:against-all": 77
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -13962,17 +13962,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 0,
-      "Грешневиков Анатолий Николаевич": 86,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 4,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 0,
-      "Попович Руслан Алексеевич": 2,
-      "Порывкин Владимир Николаевич": 4,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 3,
-      "Против всех": 13
+      "gas:candidate-vibid:1001000195161": 0,
+      "gas:candidate-vibid:1001000188024": 86,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 4,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 0,
+      "gas:candidate-vibid:1001000226003": 2,
+      "gas:candidate-vibid:1001000136145": 4,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 3,
+      "special:against-all": 13
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14022,17 +14022,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 12,
-      "Грешневиков Анатолий Николаевич": 161,
-      "Евсеев Дмитрий Александрович": 25,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 13,
-      "Мянко Виктор Иванович": 8,
-      "Попович Руслан Алексеевич": 17,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 70,
-      "Шацкий Дмитрий Аркадьевич": 24,
-      "Против всех": 68
+      "gas:candidate-vibid:1001000195161": 12,
+      "gas:candidate-vibid:1001000188024": 161,
+      "gas:candidate-vibid:376300270749": 25,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 13,
+      "gas:candidate-vibid:1001000121288": 8,
+      "gas:candidate-vibid:1001000226003": 17,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 70,
+      "gas:candidate-vibid:1001000190435": 24,
+      "special:against-all": 68
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14082,17 +14082,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 16,
-      "Грешневиков Анатолий Николаевич": 878,
-      "Евсеев Дмитрий Александрович": 61,
-      "Кутузова Ольга Владимировна": 22,
-      "Лазарева Наталия Александровна": 18,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 82,
-      "Порывкин Владимир Николаевич": 24,
-      "Стародубцев Дмитрий Александрович": 66,
-      "Шацкий Дмитрий Аркадьевич": 44,
-      "Против всех": 213
+      "gas:candidate-vibid:1001000195161": 16,
+      "gas:candidate-vibid:1001000188024": 878,
+      "gas:candidate-vibid:376300270749": 61,
+      "gas:candidate-vibid:376300270322": 22,
+      "gas:candidate-vibid:376300270638": 18,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 82,
+      "gas:candidate-vibid:1001000136145": 24,
+      "gas:candidate-vibid:1001000217967": 66,
+      "gas:candidate-vibid:1001000190435": 44,
+      "special:against-all": 213
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14142,17 +14142,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 855,
-      "Евсеев Дмитрий Александрович": 66,
-      "Кутузова Ольга Владимировна": 36,
-      "Лазарева Наталия Александровна": 19,
-      "Мянко Виктор Иванович": 5,
-      "Попович Руслан Алексеевич": 48,
-      "Порывкин Владимир Николаевич": 28,
-      "Стародубцев Дмитрий Александрович": 58,
-      "Шацкий Дмитрий Аркадьевич": 54,
-      "Против всех": 263
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 855,
+      "gas:candidate-vibid:376300270749": 66,
+      "gas:candidate-vibid:376300270322": 36,
+      "gas:candidate-vibid:376300270638": 19,
+      "gas:candidate-vibid:1001000121288": 5,
+      "gas:candidate-vibid:1001000226003": 48,
+      "gas:candidate-vibid:1001000136145": 28,
+      "gas:candidate-vibid:1001000217967": 58,
+      "gas:candidate-vibid:1001000190435": 54,
+      "special:against-all": 263
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14202,17 +14202,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 18,
-      "Грешневиков Анатолий Николаевич": 562,
-      "Евсеев Дмитрий Александрович": 47,
-      "Кутузова Ольга Владимировна": 9,
-      "Лазарева Наталия Александровна": 8,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 29,
-      "Порывкин Владимир Николаевич": 15,
-      "Стародубцев Дмитрий Александрович": 40,
-      "Шацкий Дмитрий Аркадьевич": 41,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195161": 18,
+      "gas:candidate-vibid:1001000188024": 562,
+      "gas:candidate-vibid:376300270749": 47,
+      "gas:candidate-vibid:376300270322": 9,
+      "gas:candidate-vibid:376300270638": 8,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 29,
+      "gas:candidate-vibid:1001000136145": 15,
+      "gas:candidate-vibid:1001000217967": 40,
+      "gas:candidate-vibid:1001000190435": 41,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14262,17 +14262,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 4,
-      "Грешневиков Анатолий Николаевич": 157,
-      "Евсеев Дмитрий Александрович": 2,
-      "Кутузова Ольга Владимировна": 6,
-      "Лазарева Наталия Александровна": 3,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 19,
-      "Порывкин Владимир Николаевич": 6,
-      "Стародубцев Дмитрий Александрович": 49,
-      "Шацкий Дмитрий Аркадьевич": 6,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195161": 4,
+      "gas:candidate-vibid:1001000188024": 157,
+      "gas:candidate-vibid:376300270749": 2,
+      "gas:candidate-vibid:376300270322": 6,
+      "gas:candidate-vibid:376300270638": 3,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 19,
+      "gas:candidate-vibid:1001000136145": 6,
+      "gas:candidate-vibid:1001000217967": 49,
+      "gas:candidate-vibid:1001000190435": 6,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14322,17 +14322,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 3,
-      "Грешневиков Анатолий Николаевич": 144,
-      "Евсеев Дмитрий Александрович": 8,
-      "Кутузова Ольга Владимировна": 12,
-      "Лазарева Наталия Александровна": 6,
-      "Мянко Виктор Иванович": 4,
-      "Попович Руслан Алексеевич": 6,
-      "Порывкин Владимир Николаевич": 5,
-      "Стародубцев Дмитрий Александрович": 53,
-      "Шацкий Дмитрий Аркадьевич": 2,
-      "Против всех": 42
+      "gas:candidate-vibid:1001000195161": 3,
+      "gas:candidate-vibid:1001000188024": 144,
+      "gas:candidate-vibid:376300270749": 8,
+      "gas:candidate-vibid:376300270322": 12,
+      "gas:candidate-vibid:376300270638": 6,
+      "gas:candidate-vibid:1001000121288": 4,
+      "gas:candidate-vibid:1001000226003": 6,
+      "gas:candidate-vibid:1001000136145": 5,
+      "gas:candidate-vibid:1001000217967": 53,
+      "gas:candidate-vibid:1001000190435": 2,
+      "special:against-all": 42
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000020&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070724&region=0&sub_region=0&type=429",
@@ -14382,17 +14382,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 71,
-      "Грешневиков Анатолий Николаевич": 612,
-      "Евсеев Дмитрий Александрович": 101,
-      "Кутузова Ольга Владимировна": 66,
-      "Лазарева Наталия Александровна": 66,
-      "Мянко Виктор Иванович": 14,
-      "Попович Руслан Алексеевич": 90,
-      "Порывкин Владимир Николаевич": 52,
-      "Стародубцев Дмитрий Александрович": 47,
-      "Шацкий Дмитрий Аркадьевич": 152,
-      "Против всех": 413
+      "gas:candidate-vibid:1001000195161": 71,
+      "gas:candidate-vibid:1001000188024": 612,
+      "gas:candidate-vibid:376300270749": 101,
+      "gas:candidate-vibid:376300270322": 66,
+      "gas:candidate-vibid:376300270638": 66,
+      "gas:candidate-vibid:1001000121288": 14,
+      "gas:candidate-vibid:1001000226003": 90,
+      "gas:candidate-vibid:1001000136145": 52,
+      "gas:candidate-vibid:1001000217967": 47,
+      "gas:candidate-vibid:1001000190435": 152,
+      "special:against-all": 413
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14442,17 +14442,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 778,
-      "Евсеев Дмитрий Александрович": 45,
-      "Кутузова Ольга Владимировна": 13,
-      "Лазарева Наталия Александровна": 21,
-      "Мянко Виктор Иванович": 15,
-      "Попович Руслан Алексеевич": 57,
-      "Порывкин Владимир Николаевич": 21,
-      "Стародубцев Дмитрий Александрович": 48,
-      "Шацкий Дмитрий Аркадьевич": 56,
-      "Против всех": 150
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 778,
+      "gas:candidate-vibid:376300270749": 45,
+      "gas:candidate-vibid:376300270322": 13,
+      "gas:candidate-vibid:376300270638": 21,
+      "gas:candidate-vibid:1001000121288": 15,
+      "gas:candidate-vibid:1001000226003": 57,
+      "gas:candidate-vibid:1001000136145": 21,
+      "gas:candidate-vibid:1001000217967": 48,
+      "gas:candidate-vibid:1001000190435": 56,
+      "special:against-all": 150
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14502,17 +14502,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 11,
-      "Грешневиков Анатолий Николаевич": 499,
-      "Евсеев Дмитрий Александрович": 24,
-      "Кутузова Ольга Владимировна": 23,
-      "Лазарева Наталия Александровна": 26,
-      "Мянко Виктор Иванович": 17,
-      "Попович Руслан Алексеевич": 45,
-      "Порывкин Владимир Николаевич": 11,
-      "Стародубцев Дмитрий Александрович": 28,
-      "Шацкий Дмитрий Аркадьевич": 38,
-      "Против всех": 73
+      "gas:candidate-vibid:1001000195161": 11,
+      "gas:candidate-vibid:1001000188024": 499,
+      "gas:candidate-vibid:376300270749": 24,
+      "gas:candidate-vibid:376300270322": 23,
+      "gas:candidate-vibid:376300270638": 26,
+      "gas:candidate-vibid:1001000121288": 17,
+      "gas:candidate-vibid:1001000226003": 45,
+      "gas:candidate-vibid:1001000136145": 11,
+      "gas:candidate-vibid:1001000217967": 28,
+      "gas:candidate-vibid:1001000190435": 38,
+      "special:against-all": 73
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14562,17 +14562,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 17,
-      "Грешневиков Анатолий Николаевич": 400,
-      "Евсеев Дмитрий Александрович": 22,
-      "Кутузова Ольга Владимировна": 22,
-      "Лазарева Наталия Александровна": 27,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 24,
-      "Порывкин Владимир Николаевич": 11,
-      "Стародубцев Дмитрий Александрович": 25,
-      "Шацкий Дмитрий Аркадьевич": 16,
-      "Против всех": 63
+      "gas:candidate-vibid:1001000195161": 17,
+      "gas:candidate-vibid:1001000188024": 400,
+      "gas:candidate-vibid:376300270749": 22,
+      "gas:candidate-vibid:376300270322": 22,
+      "gas:candidate-vibid:376300270638": 27,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 24,
+      "gas:candidate-vibid:1001000136145": 11,
+      "gas:candidate-vibid:1001000217967": 25,
+      "gas:candidate-vibid:1001000190435": 16,
+      "special:against-all": 63
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14622,17 +14622,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 9,
-      "Грешневиков Анатолий Николаевич": 514,
-      "Евсеев Дмитрий Александрович": 17,
-      "Кутузова Ольга Владимировна": 21,
-      "Лазарева Наталия Александровна": 14,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 28,
-      "Порывкин Владимир Николаевич": 14,
-      "Стародубцев Дмитрий Александрович": 31,
-      "Шацкий Дмитрий Аркадьевич": 33,
-      "Против всех": 86
+      "gas:candidate-vibid:1001000195161": 9,
+      "gas:candidate-vibid:1001000188024": 514,
+      "gas:candidate-vibid:376300270749": 17,
+      "gas:candidate-vibid:376300270322": 21,
+      "gas:candidate-vibid:376300270638": 14,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 28,
+      "gas:candidate-vibid:1001000136145": 14,
+      "gas:candidate-vibid:1001000217967": 31,
+      "gas:candidate-vibid:1001000190435": 33,
+      "special:against-all": 86
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14682,17 +14682,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 6,
-      "Грешневиков Анатолий Николаевич": 341,
-      "Евсеев Дмитрий Александрович": 22,
-      "Кутузова Ольга Владимировна": 14,
-      "Лазарева Наталия Александровна": 18,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 23,
-      "Порывкин Владимир Николаевич": 21,
-      "Стародубцев Дмитрий Александрович": 20,
-      "Шацкий Дмитрий Аркадьевич": 22,
-      "Против всех": 67
+      "gas:candidate-vibid:1001000195161": 6,
+      "gas:candidate-vibid:1001000188024": 341,
+      "gas:candidate-vibid:376300270749": 22,
+      "gas:candidate-vibid:376300270322": 14,
+      "gas:candidate-vibid:376300270638": 18,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 23,
+      "gas:candidate-vibid:1001000136145": 21,
+      "gas:candidate-vibid:1001000217967": 20,
+      "gas:candidate-vibid:1001000190435": 22,
+      "special:against-all": 67
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14742,17 +14742,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 12,
-      "Грешневиков Анатолий Николаевич": 631,
-      "Евсеев Дмитрий Александрович": 50,
-      "Кутузова Ольга Владимировна": 26,
-      "Лазарева Наталия Александровна": 22,
-      "Мянко Виктор Иванович": 14,
-      "Попович Руслан Алексеевич": 46,
-      "Порывкин Владимир Николаевич": 10,
-      "Стародубцев Дмитрий Александрович": 11,
-      "Шацкий Дмитрий Аркадьевич": 41,
-      "Против всех": 146
+      "gas:candidate-vibid:1001000195161": 12,
+      "gas:candidate-vibid:1001000188024": 631,
+      "gas:candidate-vibid:376300270749": 50,
+      "gas:candidate-vibid:376300270322": 26,
+      "gas:candidate-vibid:376300270638": 22,
+      "gas:candidate-vibid:1001000121288": 14,
+      "gas:candidate-vibid:1001000226003": 46,
+      "gas:candidate-vibid:1001000136145": 10,
+      "gas:candidate-vibid:1001000217967": 11,
+      "gas:candidate-vibid:1001000190435": 41,
+      "special:against-all": 146
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14802,17 +14802,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 17,
-      "Грешневиков Анатолий Николаевич": 600,
-      "Евсеев Дмитрий Александрович": 31,
-      "Кутузова Ольга Владимировна": 20,
-      "Лазарева Наталия Александровна": 16,
-      "Мянко Виктор Иванович": 9,
-      "Попович Руслан Алексеевич": 34,
-      "Порывкин Владимир Николаевич": 12,
-      "Стародубцев Дмитрий Александрович": 48,
-      "Шацкий Дмитрий Аркадьевич": 28,
-      "Против всех": 106
+      "gas:candidate-vibid:1001000195161": 17,
+      "gas:candidate-vibid:1001000188024": 600,
+      "gas:candidate-vibid:376300270749": 31,
+      "gas:candidate-vibid:376300270322": 20,
+      "gas:candidate-vibid:376300270638": 16,
+      "gas:candidate-vibid:1001000121288": 9,
+      "gas:candidate-vibid:1001000226003": 34,
+      "gas:candidate-vibid:1001000136145": 12,
+      "gas:candidate-vibid:1001000217967": 48,
+      "gas:candidate-vibid:1001000190435": 28,
+      "special:against-all": 106
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14862,17 +14862,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 13,
-      "Грешневиков Анатолий Николаевич": 624,
-      "Евсеев Дмитрий Александрович": 29,
-      "Кутузова Ольга Владимировна": 24,
-      "Лазарева Наталия Александровна": 36,
-      "Мянко Виктор Иванович": 6,
-      "Попович Руслан Алексеевич": 48,
-      "Порывкин Владимир Николаевич": 18,
-      "Стародубцев Дмитрий Александрович": 31,
-      "Шацкий Дмитрий Аркадьевич": 50,
-      "Против всех": 151
+      "gas:candidate-vibid:1001000195161": 13,
+      "gas:candidate-vibid:1001000188024": 624,
+      "gas:candidate-vibid:376300270749": 29,
+      "gas:candidate-vibid:376300270322": 24,
+      "gas:candidate-vibid:376300270638": 36,
+      "gas:candidate-vibid:1001000121288": 6,
+      "gas:candidate-vibid:1001000226003": 48,
+      "gas:candidate-vibid:1001000136145": 18,
+      "gas:candidate-vibid:1001000217967": 31,
+      "gas:candidate-vibid:1001000190435": 50,
+      "special:against-all": 151
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14922,17 +14922,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 21,
-      "Грешневиков Анатолий Николаевич": 588,
-      "Евсеев Дмитрий Александрович": 51,
-      "Кутузова Ольга Владимировна": 19,
-      "Лазарева Наталия Александровна": 27,
-      "Мянко Виктор Иванович": 10,
-      "Попович Руслан Алексеевич": 55,
-      "Порывкин Владимир Николаевич": 12,
-      "Стародубцев Дмитрий Александрович": 40,
-      "Шацкий Дмитрий Аркадьевич": 35,
-      "Против всех": 105
+      "gas:candidate-vibid:1001000195161": 21,
+      "gas:candidate-vibid:1001000188024": 588,
+      "gas:candidate-vibid:376300270749": 51,
+      "gas:candidate-vibid:376300270322": 19,
+      "gas:candidate-vibid:376300270638": 27,
+      "gas:candidate-vibid:1001000121288": 10,
+      "gas:candidate-vibid:1001000226003": 55,
+      "gas:candidate-vibid:1001000136145": 12,
+      "gas:candidate-vibid:1001000217967": 40,
+      "gas:candidate-vibid:1001000190435": 35,
+      "special:against-all": 105
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
@@ -14982,17 +14982,17 @@ export const duma_2003_uik_428_region_76_part_002 = [
       "Число не учтенных при получении бюллетеней": 0
     },
     "votes": {
-      "Богданов Александр Владимирович": 10,
-      "Грешневиков Анатолий Николаевич": 675,
-      "Евсеев Дмитрий Александрович": 72,
-      "Кутузова Ольга Владимировна": 25,
-      "Лазарева Наталия Александровна": 27,
-      "Мянко Виктор Иванович": 14,
-      "Попович Руслан Алексеевич": 39,
-      "Порывкин Владимир Николаевич": 20,
-      "Стародубцев Дмитрий Александрович": 41,
-      "Шацкий Дмитрий Аркадьевич": 42,
-      "Против всех": 137
+      "gas:candidate-vibid:1001000195161": 10,
+      "gas:candidate-vibid:1001000188024": 675,
+      "gas:candidate-vibid:376300270749": 72,
+      "gas:candidate-vibid:376300270322": 25,
+      "gas:candidate-vibid:376300270638": 27,
+      "gas:candidate-vibid:1001000121288": 14,
+      "gas:candidate-vibid:1001000226003": 39,
+      "gas:candidate-vibid:1001000136145": 20,
+      "gas:candidate-vibid:1001000217967": 41,
+      "gas:candidate-vibid:1001000190435": 42,
+      "special:against-all": 137
     },
     "source": {
       "url": "http://old.izbirkom.ru/region/region/izbirkom?action=show&root=762000021&vrn=100100095619&global=true&prver=0&pronetvd=0&tvd=276200070725&region=0&sub_region=0&type=429",
